@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2229	0	USER	那覇に旅行を計画したいのですが。	general,restaurant,weather
+2229	1	SYSTEM	かしこまりました。那覇ですね。何をお調べ致しますか？	general,restaurant,weather
+2229	2	USER	飲食店を探しています。壺川駅が最寄り駅で、無料の駐車場があるところはありますか？	general,restaurant,weather
+2229	3	SYSTEM	申し訳ございません。その条件では飲食店をお探しすることが出来ませんでした。	general,restaurant,weather
+2229	4	USER	わかりました。では、古島駅の近くではありますか？	general,restaurant,weather
+2229	5	SYSTEM	では、いしぐふー 港町店はいかがでしょうか？	general,restaurant,weather
+2229	6	USER	そちらにします。住所を教えてください。	general,restaurant,weather
+2229	7	SYSTEM	はい、ありがとうございます。住所は沖縄県那覇市港町2丁目3-12でございます。	general,restaurant,weather
+2229	8	USER	ありがとうございます。では、予約をお願いします。10/10に4名で、9:30で予約できますか？	general,restaurant,weather
+2229	9	SYSTEM	お待たせ致しました。それでは、予約番号21958でお取りさせていただきました。	general,restaurant,weather
+2229	10	USER	ありがとうございます。	general,restaurant,weather
+2229	11	SYSTEM	その他に御用件はございますか？	general,restaurant,weather
+2229	12	USER	はい、では10/10の首里の最高気温と天気はわかりますか？	general,restaurant,weather
+2229	13	SYSTEM	はい、当日の首里の天気は、雨時々晴、最高気温は28.8度です。	general,restaurant,weather
+2229	14	USER	わかりました。	general,restaurant,weather
+2229	15	SYSTEM	その他に何かお手伝いできることはございますか？	general,restaurant,weather
+2229	16	USER	特にありません。ありがとうございました。	general,restaurant,weather
+2229	17	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,weather

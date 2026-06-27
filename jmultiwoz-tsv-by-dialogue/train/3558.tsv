@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3558	0	USER	京都への旅行を計画しています。 当日訪れる観光名所を探してください。	general,attraction
+3558	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction
+3558	2	USER	駐車場を無料で利用できるところにしてください。地区は中京区です。	general,attraction
+3558	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,attraction
+3558	4	USER	では、駐車場の有無は考慮しないものとします。	general,attraction
+3558	5	SYSTEM	では錦市場はいかがでしょうか。	general,attraction
+3558	6	USER	子供入場料，料金情報，近辺の駅からの所要時間を教えてください。	general,attraction
+3558	7	SYSTEM	子供入場料は０円、料金情報は無料となっております。四条駅から徒歩で3分、烏丸駅から徒歩で3分、京都河原町駅から徒歩で4分、四条駅から徒歩で10分でございます。	general,attraction
+3558	8	USER	解決しました。ありがとうございました。	general,attraction
+3558	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

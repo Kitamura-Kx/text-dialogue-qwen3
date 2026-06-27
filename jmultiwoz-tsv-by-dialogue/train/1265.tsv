@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1265	0	USER	東京の観光名所を調べて頂けませんか？港区で、無料駐車場があるスポットがいいです。	general,attraction,weather
+1265	1	SYSTEM	かしこまりました。そうしますと2件ほど、ご案内可能です。例えば、根津美術館は如何でしょうか？	general,attraction,weather
+1265	2	USER	そちらはジャンルでいうと何になりますか？	general,attraction,weather
+1265	3	SYSTEM	美術館・博物館となっております。	general,attraction,weather
+1265	4	USER	いいですね。そちらにします。また、天気も教えて頂けませんか？12/21の目黒区の最低気温、天気が知りたいです。	general,attraction,weather
+1265	5	SYSTEM	かしこまりました。当日の最低気温は3.9度で、天気は曇時々晴の予報です。	general,attraction,weather
+1265	6	USER	分かりました。ありがとうございます！	general,attraction,weather

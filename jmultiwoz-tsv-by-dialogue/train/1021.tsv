@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1021	0	USER	京都へ旅行に行くのですが中京区で駐車場が無料の飲食店を教えて下さい。	general,restaurant,attraction,weather
+1021	1	SYSTEM	かしこまりました。その条件ですと、牛々亭というお店が、1件ご案内可能です。いかがでしょうか？	general,restaurant,attraction,weather
+1021	2	USER	牛々亭に行きたいと思います。電話番号，住所，料金情報を教えてもらえますか。	general,restaurant,attraction,weather
+1021	3	SYSTEM	電話番号は0753260298です。住所は、京都府京都市中京区壬生東高田町2-2となります。料金につきましては、元祖ねぎタン980円、特選ハラミ塩焼1188円、和牛壷ロース1518円となっております。	general,restaurant,attraction,weather
+1021	4	USER	それでは予約をお願いします。8/21の12:40から3名です。	general,restaurant,attraction,weather
+1021	5	SYSTEM	ご予約ありがとうございます。予約番号77025にて、承りました。	general,restaurant,attraction,weather
+1021	6	USER	当日は観光もしたいのですが、駐車場が無料の観光名所はありますか？	general,restaurant,attraction,weather
+1021	7	SYSTEM	はい、6件ご案内可能です。たとえば、桂坂野鳥遊園というところはいかがでしょうか？	general,restaurant,attraction,weather
+1021	8	USER	桂坂野鳥遊園はどのような施設ですか？営業時間と大人の入場料も教えて下さい。	general,restaurant,attraction,weather
+1021	9	SYSTEM	ジャンルとしましては、自然・公園, アウトドア, 教室・ワークショップ・体験、となっております。営業時間は、10:00～17:00です。大人入場料、子供入場料ともに、0円で無料です。	general,restaurant,attraction,weather
+1021	10	USER	わかりました、念のため8/21下京区の最高気温・最低気温を教えて下さい。	general,restaurant,attraction,weather
+1021	11	SYSTEM	かしこまりました。最低気温は26.5度、最高気温は38.3度の予想です。ちなみに天気は、晴時々雨となっております。	general,restaurant,attraction,weather
+1021	12	USER	わかりました、ありがとうございました。	general,restaurant,attraction,weather
+1021	13	SYSTEM	他にご用件などございませんか？	general,restaurant,attraction,weather
+1021	14	USER	いえ大丈夫です、有難うございました。	general,restaurant,attraction,weather
+1021	15	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,restaurant,attraction,weather

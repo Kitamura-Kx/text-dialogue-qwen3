@@ -1,0 +1,37 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+282	0	USER	仙台への旅行を計画しているため、飲食店を探しています。	general,restaurant,hotel,attraction
+282	1	SYSTEM	仙台の飲食店ですね。約100件のお店がございますが、ジャンルなど、ご希望はございますか？	general,restaurant,hotel,attraction
+282	2	USER	太白区でWi-Fiが無料で利用できるところがいいのですが、どこかありますか？	general,restaurant,hotel,attraction
+282	3	SYSTEM	申し訳ございません。その条件ですと、該当する場所がありませんでした。	general,restaurant,hotel,attraction
+282	4	USER	ではWi-Fiはなくてもいいので、太白区でどこかいいお店はありますか？	general,restaurant,hotel,attraction
+282	5	SYSTEM	かしこまりました。では、牛たん炭焼 利久 tekuteながまち店はいかがでしょうか？	general,restaurant,hotel,attraction
+282	6	USER	値段帯を教えてください。	general,restaurant,hotel,attraction
+282	7	SYSTEM	お値段は、高めの設定となっております。	general,restaurant,hotel,attraction
+282	8	USER	そこにしようと思います。7/9の14:50に４名で予約をお願いできますか？	general,restaurant,hotel,attraction
+282	9	SYSTEM	ご予約承りました。予約番号は、51727です。	general,restaurant,hotel,attraction
+282	10	USER	ありがとうございます。あと予算高めの宿泊施設も探してもらえますか？	general,restaurant,hotel,attraction
+282	11	SYSTEM	かしこまりました。3件ほど該当するばしょがございます。たとえば、たびの邸宅 秋保山荘などはいかがでしょう？	general,restaurant,hotel,attraction
+282	12	USER	レストランが併設されていて、Wi-Fiも無料で利用できるところがいいのですが、そこはどうでしょうか？	general,restaurant,hotel,attraction
+282	13	SYSTEM	申し訳ございません。たびの邸宅 秋保山荘はレストランは併設されておりません。また、その条件ですと該当する施設がありませんでした。	general,restaurant,hotel,attraction
+282	14	USER	では予算が高め以外でもいいので探してもらえますか？	general,restaurant,hotel,attraction
+282	15	SYSTEM	かしこまりました。秋保温泉 篝火の湯 緑水亭ですと、お値段は普通の設定で、無料WiFiとレストランがございます。	general,restaurant,hotel,attraction
+282	16	USER	そこはタイプは何でしょうか？	general,restaurant,hotel,attraction
+282	17	SYSTEM	旅館となっております。	general,restaurant,hotel,attraction
+282	18	USER	そこにしようと思うので料金情報も教えてください。	general,restaurant,hotel,attraction
+282	19	SYSTEM	申し訳ありません。WiFiと駐車場が無料という情報以外に、宿泊料などの料金情報は不明です。	general,restaurant,hotel,attraction
+282	20	USER	わかりました。チェックアウト終了時刻も教えてください。	general,restaurant,hotel,attraction
+282	21	SYSTEM	チェックアウト終了時刻は10時です。	general,restaurant,hotel,attraction
+282	22	USER	では、7/9から3泊で4人で予約もお願いできますか？	general,restaurant,hotel,attraction
+282	23	SYSTEM	かしこまりました。予約番号40797にて、ご予約承りました。	general,restaurant,hotel,attraction
+282	24	USER	ありがとうございます。あと駐車場が無料で利用できる散策エリアも探してもらえますか？	general,restaurant,hotel,attraction
+282	25	SYSTEM	かしこまりました。その条件ですと、愛宕神社はいかがでしょうか？	general,restaurant,hotel,attraction
+282	26	USER	そこにしようと思います。営業時間を教えてください。	general,restaurant,hotel,attraction
+282	27	SYSTEM	営業時間は0時から0時となっております。	general,restaurant,hotel,attraction
+282	28	USER	わかりました。あと子供入場料も調べてもらえますか？	general,restaurant,hotel,attraction
+282	29	SYSTEM	かしこまりました。こちらは、お子様、大人ともに入場0円で、無料となっております。	general,restaurant,hotel,attraction
+282	30	USER	ありがとうございます。あとエリアも教えてください。	general,restaurant,hotel,attraction
+282	31	SYSTEM	エリアは、太白区にございます。	general,restaurant,hotel,attraction
+282	32	USER	ありがとうございます。	general,restaurant,hotel,attraction
+282	33	SYSTEM	他にお調べすることはございますか？	general,restaurant,hotel,attraction
+282	34	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant,hotel,attraction
+282	35	SYSTEM	本日はご利用ありがとうございました。	general,restaurant,hotel,attraction

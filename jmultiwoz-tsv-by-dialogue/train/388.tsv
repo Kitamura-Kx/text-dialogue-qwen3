@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+388	0	USER	仙台への旅行を計画しているので、宿泊施設を探してほしいです。	general,hotel,attraction
+388	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,attraction
+388	2	USER	太白区で予算は普通、駐車場が無料で利用できるところがいいのですが、どこかありますか？	general,hotel,attraction
+388	3	SYSTEM	では伝承千年の宿 佐勘はいかがでしょうか。	general,hotel,attraction
+388	4	USER	そこにしようと思います。住所とチェックアウト終了時刻を教えてください。	general,hotel,attraction
+388	5	SYSTEM	住所は宮城県仙台市太白区秋保町湯元薬師28でございます。チェックアウト終了時刻は11:00となっております。	general,hotel,attraction
+388	6	USER	ありがとうございます。あと青葉区でWi-Fiが無料で利用できる観光名所ってありますか？	general,hotel,attraction
+388	7	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,hotel,attraction
+388	8	USER	では宮城野区で探してもらえますか？	general,hotel,attraction
+388	9	SYSTEM	仙台うみの杜水族館はいかがでしょうか。	general,hotel,attraction
+388	10	USER	そこに行ってみようと思います。営業時間を教えてください。	general,hotel,attraction
+388	11	SYSTEM	営業時間は10:00～17:00でございます。	general,hotel,attraction
+388	12	USER	ありがとうございます。	general,hotel,attraction
+388	13	SYSTEM	ほかにご用件はございませんか。	general,hotel,attraction
+388	14	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel,attraction
+388	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction

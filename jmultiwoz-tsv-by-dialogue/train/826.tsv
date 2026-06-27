@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+826	0	USER	名古屋へ旅行へいくのですが。	general,attraction,weather,taxi
+826	1	SYSTEM	かしこまりました。何についてご案内いたしましょうか？	general,attraction,weather,taxi
+826	2	USER	観光名所を探していて。最寄り駅が左京山駅で伝統芸能が見られるところはありますか？	general,attraction,weather,taxi
+826	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,weather,taxi
+826	4	USER	そうですか。では、ジャンルが自然・公園だとありますか？	general,attraction,weather,taxi
+826	5	SYSTEM	ありがとうございます。1件、大高緑地というところがございます。いかがでしょうか？	general,attraction,weather,taxi
+826	6	USER	ありがとうございます。そちらにします。駐車場はありますか？	general,attraction,weather,taxi
+826	7	SYSTEM	はい、無料のものがございます。	general,attraction,weather,taxi
+826	8	USER	Wi-Fiは無料で使えますか？	general,attraction,weather,taxi
+826	9	SYSTEM	はい、ご利用いただけます。	general,attraction,weather,taxi
+826	10	USER	ありがとうございます。	general,attraction,weather,taxi
+826	11	SYSTEM	他にお調べすることはございますか？	general,attraction,weather,taxi
+826	12	USER	3/6の守山区の天気と最高気温はわかりますか？	general,attraction,weather,taxi
+826	13	SYSTEM	はい。天気は、曇時々雨の予報となっております。最高気温は、15.3度まで上がる予想です。	general,attraction,weather,taxi
+826	14	USER	わかりました。ありがとうございます。	general,attraction,weather,taxi
+826	15	SYSTEM	ほかに、お知りになりたい情報などございませんか？	general,attraction,weather,taxi
+826	16	USER	はい、タクシー会社も探してください。ジャンボタクシーが利用できるところでお願いします。	general,attraction,weather,taxi
+826	17	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,attraction,weather,taxi
+826	18	USER	そうですか。ではジャンボタクシーの利用はなしでも大丈夫です。	general,attraction,weather,taxi
+826	19	SYSTEM	ありがとうございます。では、三晃タクシーはいかがでしょうか？	general,attraction,weather,taxi
+826	20	USER	ありがとうございます。では、そちらで予約をお願いします。3/6、13:00に加賀屋 名古屋店を出発で、大高緑地までお願いします。	general,attraction,weather,taxi
+826	21	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、19276です。	general,attraction,weather,taxi
+826	22	USER	ありがとうございます。	general,attraction,weather,taxi
+826	23	SYSTEM	他にお調べすることはございますか？	general,attraction,weather,taxi
+826	24	USER	とくにありません。ありがとうございました。	general,attraction,weather,taxi
+826	25	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,weather,taxi

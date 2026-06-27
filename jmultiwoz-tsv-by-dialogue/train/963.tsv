@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+963	0	USER	仙台でホテルを探しています。無料でWifiが使えるシティホテルはありますか？	general,hotel,weather,taxi
+963	1	SYSTEM	かしこまりました。では江陽グランドホテルはいかがでしょうか。	general,hotel,weather,taxi
+963	2	USER	そちらは何時からチェックイン可能ですか？あと、住所も教えてください。	general,hotel,weather,taxi
+963	3	SYSTEM	チェックイン開始時間は15:00で、住所は宮城県仙台市青葉区本町2丁目3-1でございます。	general,hotel,weather,taxi
+963	4	USER	ではそちらでお願いします。1/28から3泊で、2人でお願いします。	general,hotel,weather,taxi
+963	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は12348でございます。	general,hotel,weather,taxi
+963	6	USER	ありがとうございます。現地の天気も知りたいんですけど。1/28の太白区の天気と最高気温も教えてください。	general,hotel,weather,taxi
+963	7	SYSTEM	天気は晴れ、最高気温は12.2度でございます。	general,hotel,weather,taxi
+963	8	USER	ありがとうございます。最後にタクシーの予約もお願いします。キャッシュレス対応できる会社を教えてください。	general,hotel,weather,taxi
+963	9	SYSTEM	申し訳ございません。キャッシュレスに対応している会社がございませんでした。いかがなさいますか。	general,hotel,weather,taxi
+963	10	USER	そうですか、、、では現金払いでも構いません。	general,hotel,weather,taxi
+963	11	SYSTEM	仙台第一交通（株）でよろしいでしょうか。	general,hotel,weather,taxi
+963	12	USER	そちらはジャンボタクシーはありますか？また、電話番号も教えてください。	general,hotel,weather,taxi
+963	13	SYSTEM	ジャンボタクシーも非対応でございます。電話番号は0222361221でございます。	general,hotel,weather,taxi
+963	14	USER	分かりました。では1/28の12時で、回転鮨 清次郎 仙台泉店で出発するタクシーを予約してください。目的地は江陽グランドホテルです。	general,hotel,weather,taxi
+963	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は74453でございます。	general,hotel,weather,taxi
+963	16	USER	ありがとうございます。以上です！	general,hotel,weather,taxi

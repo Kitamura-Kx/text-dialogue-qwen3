@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3393	0	USER	東京へ旅行に行くので、宿泊施設を探してください。	general,hotel,taxi
+3393	1	SYSTEM	東京の宿泊施設ですと、100件の候補があがりました。なにかご希望の条件などございますか？	general,hotel,taxi
+3393	2	USER	簡易宿所で、レストランが併設されているところはありませんか？	general,hotel,taxi
+3393	3	SYSTEM	東京の簡易宿所、レストラン付きですと、ファーストキャビン愛宕山を含む７件候補がございます。	general,hotel,taxi
+3393	4	USER	ファーストキャビン愛宕山にします。あと、キャッシュレス払いができるタクシー会社を探してもらいたいのですが。	general,hotel,taxi
+3393	5	SYSTEM	承知いたしました。東京のキャッシュレス対応タクシーは三和交通（板橋区）を含む20社該当しましたが、いかがいたしますか？	general,hotel,taxi
+3393	6	USER	そこを予約します。6月9日に、ファーストキャビン愛宕山から、沖縄パラダイス 新宿歌舞伎町店までお願いします。	general,hotel,taxi
+3393	7	SYSTEM	承知いたしました。出発時刻はいかがいたしますか？	general,hotel,taxi
+3393	8	USER	13:40です。	general,hotel,taxi
+3393	9	SYSTEM	6月9日、三和交通（板橋区）で13時40分出発。ファーストキャビン愛宕山から、沖縄パラダイス 新宿歌舞伎町店まででご予約お取りしました。予約番号は53917でございます。	general,hotel,taxi
+3393	10	USER	タクシー会社の電話番号を教えてもらえますか？	general,hotel,taxi
+3393	11	SYSTEM	三和交通（板橋区）の電話番号は、0357552151でございます。	general,hotel,taxi
+3393	12	USER	わかりました。ありがとうございます。	general,hotel,taxi
+3393	13	SYSTEM	他のご用命ございますか？	general,hotel,taxi
+3393	14	USER	いえ、大丈夫です。ありがとうございました。	general,hotel,taxi
+3393	15	SYSTEM	ありがとうございました。	general,hotel,taxi

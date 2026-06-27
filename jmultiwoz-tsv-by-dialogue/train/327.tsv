@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+327	0	USER	那覇に旅行をしたいんです。	general,shopping,attraction,taxi
+327	1	SYSTEM	はい、那覇について、何かお調べしましょうか？	general,shopping,attraction,taxi
+327	2	USER	真和志地区の儀保駅付近でショッピングができるところを探してもらえないでしょうか？できれば駐車場の代金がかからないところだと嬉しいです。	general,shopping,attraction,taxi
+327	3	SYSTEM	申し訳ありません。その条件ではご紹介可能な施設がございません。いかが致しましょう？	general,shopping,attraction,taxi
+327	4	USER	そうですか。でしたら、真和志地区内であれば最寄りえきはどこでもかまいません。	general,shopping,attraction,taxi
+327	5	SYSTEM	ありがとうございます。それでは、タウンプラザかねひで与儀公園市場がございます。ジャンルはスーパーマーケットになります。	general,shopping,attraction,taxi
+327	6	USER	こちらは、アクセスをするのに近くの駅からどれくらいかかりますか？	general,shopping,attraction,taxi
+327	7	SYSTEM	はい、最寄りの安里駅から徒歩で11分になります。	general,shopping,attraction,taxi
+327	8	USER	そうですか。ちなみに定休日はあるのでしょうか？	general,shopping,attraction,taxi
+327	9	SYSTEM	いいえ、定休日はございません。営業時間は9時から0時となります。	general,shopping,attraction,taxi
+327	10	USER	色々と教えて頂きありがとうございます。あと、那覇の本庁地区で観光できるところも探してもらいたいです。	general,shopping,attraction,taxi
+327	11	SYSTEM	承知しました。ジャンルなどのご希望はございますか？	general,shopping,attraction,taxi
+327	12	USER	ジャンルの希望は特にないのですが、駐車場とWi-Fiがタダで使える所がいいです。	general,shopping,attraction,taxi
+327	13	SYSTEM	ありがとうございます。沖縄県立博物館・美術館、ゆんたくあしび温泉 りっかりっか湯、桜坂劇場の3件ございます。	general,shopping,attraction,taxi
+327	14	USER	では、沖縄県立博物館・美術館の営業時間を教えて下さい。	general,shopping,attraction,taxi
+327	15	SYSTEM	はい、営業時間は9時から20時となります。	general,shopping,attraction,taxi
+327	16	USER	わかりました、ありがとうございます。那覇でタクシーを利用したいのですが、ジャンボタクシーに対応しているところはありますか？	general,shopping,attraction,taxi
+327	17	SYSTEM	はい、それでは、鏡原第一交通はいかがでしょう？ジャンボタクシー、キャッシュレスともに対応しております。電話番号は、0988537801となります。	general,shopping,attraction,taxi
+327	18	USER	詳細も教えて下さりありがとうございます。それではこちらで、11/1の15:30にタウンプラザかねひで与儀公園市場から沖縄県立博物館・美術館まで乗車できるよう予約をしてもらえないでしょうか	general,shopping,attraction,taxi
+327	19	SYSTEM	承知しました。予約が完了し、ご予約番号は、80253となります。	general,shopping,attraction,taxi
+327	20	USER	わかりました。何から何までありがとうございました。	general,shopping,attraction,taxi

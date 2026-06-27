@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4994	0	USER	こんにちは。京都へ旅行したいです。シティホテルに宿泊したいのですが、できれば予算お安めでお願いしたいです。	general,hotel,restaurant
+4994	1	SYSTEM	申し訳ございません。条件に合う宿泊施設がありませんでした。	general,hotel,restaurant
+4994	2	USER	それでは、カプセルホテルなど簡易宿所などで探してもらえませんか？	general,hotel,restaurant
+4994	3	SYSTEM	Stay SAKURA Kyoto(ステイサクラ)京都駅南Ⅰなど20件見つかりました。	general,hotel,restaurant
+4994	4	USER	ありがとうございます。そのステイサクラ京都駅南に、レストランは併設されていますか？	general,hotel,restaurant
+4994	5	SYSTEM	レストランの有無は無しです。	general,hotel,restaurant
+4994	6	USER	了解しました。では、飲食店はありますか？できれば和食で予算も少なめなお店が良いです。	general,hotel,restaurant
+4994	7	SYSTEM	晦庵 河道屋など、５件見つかりました。	general,hotel,restaurant
+4994	8	USER	晦庵さんの立地は北区でしょうか？伝え忘れましたが北区で和食屋さんに行きたいです。	general,hotel,restaurant
+4994	9	SYSTEM	晦庵 河道屋はエリアは中京区で、北区でジャンル和食の条件はありません。	general,hotel,restaurant
+4994	10	USER	そうなんですね。	general,hotel,restaurant
+4994	11	SYSTEM	他に何かお調べすることはございますか？	general,hotel,restaurant
+4994	12	USER	予算を高めに設定してもなさそうですか？	general,hotel,restaurant
+4994	13	SYSTEM	閑臥庵が、1件見つかりました。	general,hotel,restaurant
+4994	14	USER	良かったです。閑臥庵の電話番号と定休日、住所を教えてください。	general,hotel,restaurant
+4994	15	SYSTEM	電話番号は0752562480、定休日は無し、住所は京都府京都市北区烏丸通鞍馬口東入ル278です。	general,hotel,restaurant
+4994	16	USER	ありがとうございます。ではそちらを予約していただけますか？人数は4人、日付は6/10です。時間は13:20でお願いします。	general,hotel,restaurant
+4994	17	SYSTEM	予約が完了しました。予約番号は52679です。	general,hotel,restaurant
+4994	18	USER	ありがとうございます。	general,hotel,restaurant
+4994	19	SYSTEM	承知いたしました。他に何かご希望はありますか？	general,hotel,restaurant

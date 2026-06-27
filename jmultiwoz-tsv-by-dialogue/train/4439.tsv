@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4439	0	USER	仙台へ旅行予定なのですが、若林区でWi-Fiが無料で使えて、レストランのある宿泊施設はありますか？	general,hotel,taxi
+4439	1	SYSTEM	では、ANAホリデイ・イン仙台はいかがでしょう？タイプは、ビジネスホテルとなります。	general,hotel,taxi
+4439	2	USER	そこにします。2人で5/15から3泊の予約をとれますか？	general,hotel,taxi
+4439	3	SYSTEM	はい、予約が完了し、ご予約番号は、68600となります。	general,hotel,taxi
+4439	4	USER	ありがとうございます。あと、ジャンボタクシーを利用したいのですが、いいところありませんか？	general,hotel,taxi
+4439	5	SYSTEM	では、（有）振興タクシーはいかがでしょう？キャッシュレスにも対応しております。電話番号は、0222841411となります。	general,hotel,taxi
+4439	6	USER	わかりました。ではそちらで、5/15の11:40に予約します。青葉神社からANAホリデイ・イン仙台までです。	general,hotel,taxi
+4439	7	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,hotel,taxi
+4439	8	USER	なら時間を12:30に変更します。	general,hotel,taxi
+4439	9	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、79220となります。	general,hotel,taxi
+4439	10	USER	ありがとうございました。	general,hotel,taxi
+4439	11	SYSTEM	ありがとうございました。	general,hotel,taxi

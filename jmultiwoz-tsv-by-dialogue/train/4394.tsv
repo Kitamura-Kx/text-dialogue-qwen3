@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4394	0	USER	今度大阪へ行くんですが、Wi-Fiが無料で予算が普通くらいの飲食店を探してもらえますか？	general,restaurant,shopping
+4394	1	SYSTEM	かしこまりました。では、炭火焼dining おかげ家 梅田店はいかがですか。	general,restaurant,shopping
+4394	2	USER	ありがとうございます。じゃあそこの営業時間と駐車場の有無も教えてください。	general,restaurant,shopping
+4394	3	SYSTEM	営業時間は11:00～15:00, 16:00～00:00で、駐車場はございません。	general,restaurant,shopping
+4394	4	USER	ありがとうございます。あと、ショッピングモールも探してもらえますか？	general,restaurant,shopping
+4394	5	SYSTEM	はい。ではディアモール大阪はいかがでしょうか。	general,restaurant,shopping
+4394	6	USER	ありがとうございます。じゃあそこの住所と駐車場の有無も教えてください。	general,restaurant,shopping
+4394	7	SYSTEM	住所は大阪府大阪市北区梅田1丁目大阪駅前　ダイヤモンド地下街1号でございます。駐車場は有料ですがございます。	general,restaurant,shopping
+4394	8	USER	ありがとうございました。以上で結構です。	general,restaurant,shopping
+4394	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping

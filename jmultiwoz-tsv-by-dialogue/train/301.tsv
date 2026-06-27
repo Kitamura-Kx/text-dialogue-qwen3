@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+301	0	USER	お願いします。横浜への旅行を計画しています。どこか観光名所を教えて下さい。	general,attraction
+301	1	SYSTEM	かしこまりました。なにかご希望の条件はございますか？	general,attraction
+301	2	USER	ジャンルは問いませんが、wifiが無料で使えれば、思っています。	general,attraction
+301	3	SYSTEM	申し訳ありません。その条件ですと、該当がございませんでした。いかがいたしましょうか？	general,attraction
+301	4	USER	わかりました。では、wifiが使えなくて構いませんので、どこかおすすめを1件教えて下さい。	general,attraction
+301	5	SYSTEM	かしこまりました。そういたしましたら、三菱みなとみらい技術館は如何でしょうか？	general,attraction
+301	6	USER	そちらの電話番号はわかりますか？	general,attraction
+301	7	SYSTEM	はい。電話番号は、0452007351でございます。	general,attraction
+301	8	USER	了解しました。ありがとうございました。	general,attraction
+301	9	SYSTEM	ほかにお調べすることはございませんか？	general,attraction
+301	10	USER	特にありません。これで失礼します。	general,attraction
+301	11	SYSTEM	本日はご利用ありがとうございました。	general,attraction

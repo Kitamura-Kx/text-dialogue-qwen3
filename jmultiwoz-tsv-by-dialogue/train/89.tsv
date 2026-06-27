@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+89	0	USER	すみません、旅行の案内をお願いできますか？	general,restaurant,taxi
+89	1	SYSTEM	ご利用ありがとうございます。どういった情報をお探しですか？	general,restaurant,taxi
+89	2	USER	今度、横浜へ旅行に行こうと思っているのですが、当日利用する神奈川区の飲食店について、探していただけますでしょうか？	general,restaurant,taxi
+89	3	SYSTEM	はい、かしこまりました。横浜の神奈川区にございますお食事処は、12件ほどございます。ジャンルなど、他にご希望の条件はございませんか？	general,restaurant,taxi
+89	4	USER	他に希望していることは特にありません。	general,restaurant,taxi
+89	5	SYSTEM	左様でございますね。それでは、熟成和牛ステーキグリルド エイジング・ビーフ 横浜店は如何でしょうか？	general,restaurant,taxi
+89	6	USER	美味しそうなお店ですね。ありがとうございます。 そちらのお店は値段帯的には、どのくらいになりますか？	general,restaurant,taxi
+89	7	SYSTEM	こちらのお店ですが、お値段はお高めの設定となります。もっとお安い価格帯のお店をお探ししましょうか？	general,restaurant,taxi
+89	8	USER	いえ、大丈夫です。お高めとのことで、承知いたしました。	general,restaurant,taxi
+89	9	SYSTEM	ありがとうございます。ご予約はいたしますか？	general,restaurant,taxi
+89	10	USER	予約は結構です。お気遣い、ありがとうございます。 実は他にタクシー会社も探しているのですが、スタジアム交通株式会社というタクシー会社について、探していただくことはできますか？	general,restaurant,taxi
+89	11	SYSTEM	かしこまりました。ただいま確認しましたところ、横浜に1件、該当のタクシー会社がございます。	general,restaurant,taxi
+89	12	USER	そうでしたか。 それでは、スタジアム交通株式会社が、ジャンボタクシーとキャッシュレスに対応しているかどうか教えていただけますか？	general,restaurant,taxi
+89	13	SYSTEM	はい。スタジアム交通株式会社は、ジャンボタクシー、キャッシュレスのどちらにも対応しております。	general,restaurant,taxi
+89	14	USER	ありがとうございます。承知いたしました。では、電話番号も伺ってよろしいですか？	general,restaurant,taxi
+89	15	SYSTEM	はい、かしこまりました。電話番号は、0120776081です。	general,restaurant,taxi
+89	16	USER	ありがとうございます。 それでは、そちらのタクシーの予約をお願いしたいのですが、10月27日の13時30分に、出発地を先ほどの熟成和牛ステーキグリルド エイジング・ビーフ 横浜店、目的地がスープカレー KIFUKUで、予約をお願いします。	general,restaurant,taxi
+89	17	SYSTEM	ご予約ありがとうございます。10月27日の13時30分で、熟成和牛ステーキグリルド エイジング・ビーフ 横浜店からスープカレー KIFUKUまでのご利用でご予約承りました。予約番号は、64768です。	general,restaurant,taxi
+89	18	USER	予約の手配、ありがとうございます。承知しました。	general,restaurant,taxi
+89	19	SYSTEM	他になにか、お手伝いできることはございますか？	general,restaurant,taxi
+89	20	USER	あとは大丈夫です。本日は色々とありがとうございました。	general,restaurant,taxi
+89	21	SYSTEM	こちらこそ、ご利用いただき誠にありがとうございました。それでは、失礼いたします。	general,restaurant,taxi

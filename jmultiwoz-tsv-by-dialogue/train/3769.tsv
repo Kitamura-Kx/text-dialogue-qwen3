@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3769	0	USER	那覇への旅行を計画しているのですが、首里地区の観光名所を探してもらえますか？	general,attraction,restaurant,shopping
+3769	1	SYSTEM	承知しました。では、雨乞嶽はいかがでしょう？ジャンルは、旧跡、絶景となります。	general,attraction,restaurant,shopping
+3769	2	USER	駐車場が無料の場所が良いのですが、どうですか？	general,attraction,restaurant,shopping
+3769	3	SYSTEM	申し訳ありません、駐車場が無料の観光名所はございません。いかが致しましょう？	general,attraction,restaurant,shopping
+3769	4	USER	では、ほかの地区でも大丈夫です。	general,attraction,restaurant,shopping
+3769	5	SYSTEM	承知しました。では、エリアでいうと本庁にある、沖縄県立図書館はいかがでしょう？ジャンルは、その他となります。	general,attraction,restaurant,shopping
+3769	6	USER	ありがとうございます。そちらにWi-Fiはありますか？	general,attraction,restaurant,shopping
+3769	7	SYSTEM	申し訳ありません、Wi-Fiの有無は不明となっております。	general,attraction,restaurant,shopping
+3769	8	USER	わかりました。大人入場料と子供入場料を教えて下さい。	general,attraction,restaurant,shopping
+3769	9	SYSTEM	大人も子供も入場料は必要なく、無料でご利用いただけます。	general,attraction,restaurant,shopping
+3769	10	USER	ありがとうございます。当日、食事ができるところも探していただけますか？	general,attraction,restaurant,shopping
+3769	11	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,restaurant,shopping
+3769	12	USER	お好み焼き・たこ焼きで、安めのところが良いです。駐車場も無料が希望です。	general,attraction,restaurant,shopping
+3769	13	SYSTEM	では、エリアでいうと本庁にある、KO菜YA 新都心店はいかがでしょう？	general,attraction,restaurant,shopping
+3769	14	USER	そこにします。Wi-Fiの有無と料金情報を教えてもらえますか？	general,attraction,restaurant,shopping
+3769	15	SYSTEM	料金情報としては、KO菜YAスペシャルが1280円、もーちーず玉が980円、九条ネギ焼　和牛スジが880円となります。申し訳ありません、Wi-Fiの有無は不明です。	general,attraction,restaurant,shopping
+3769	16	USER	ありがとうございます。8/21の午前11:10に予約をお願いします。４名です。	general,attraction,restaurant,shopping
+3769	17	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,attraction,restaurant,shopping
+3769	18	USER	じゃあ、３名でお願いします。	general,attraction,restaurant,shopping
+3769	19	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、58871となります。	general,attraction,restaurant,shopping
+3769	20	USER	おもちゃを買えるところはありますか？駐車場が無料の場所がよいのですが。	general,attraction,restaurant,shopping
+3769	21	SYSTEM	では、エリアでいうと本庁にある、コジマ×ビックカメラ那覇店はいかがでしょう？	general,attraction,restaurant,shopping
+3769	22	USER	いいですね。そちらの近辺の駅からの所要時間と、最寄り駅を教えて下さい。	general,attraction,restaurant,shopping
+3769	23	SYSTEM	はい、最寄りの古島駅から徒歩で15分となります。	general,attraction,restaurant,shopping
+3769	24	USER	ありがとうございます。	general,attraction,restaurant,shopping
+3769	25	SYSTEM	他にご用件はございますか？	general,attraction,restaurant,shopping
+3769	26	USER	大丈夫です。ありがとうございました。	general,attraction,restaurant,shopping
+3769	27	SYSTEM	ありがとうございました。	general,attraction,restaurant,shopping

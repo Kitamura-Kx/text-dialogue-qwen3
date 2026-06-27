@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4352	0	USER	仙台に旅行に行こうと考えています、青葉区で最寄り駅が仙台駅のワークショップが体験できる観光名所はありませんか	general,attraction,taxi,weather
+4352	1	SYSTEM	はい、仙台市天文台がございます。	general,attraction,taxi,weather
+4352	2	USER	ありがとうございます、近辺の駅からの所要時間と電話番号を教えてください	general,attraction,taxi,weather
+4352	3	SYSTEM	はい。仙台駅からタクシーで22分になります。また、電話番号は0223911300です。	general,attraction,taxi,weather
+4352	4	USER	当日、移動にタクシーを利用したいのですがジャンボタクシーを利用できるタクシー会社はありませんか	general,attraction,taxi,weather
+4352	5	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,attraction,taxi,weather
+4352	6	USER	ではジャンボタクシーを考慮しない場合はありませんか	general,attraction,taxi,weather
+4352	7	SYSTEM	その条件でしたら、宮城タクシー（株）はいかがですか？	general,attraction,taxi,weather
+4352	8	USER	キャッシュレスには対応していますか	general,attraction,taxi,weather
+4352	9	SYSTEM	はい。しております。	general,attraction,taxi,weather
+4352	10	USER	ありがとうございます、9月2日の13時にシーガル仙台駅前店から仙台市天文台まで予約をお願いできますか	general,attraction,taxi,weather
+4352	11	SYSTEM	申し訳ございません。こちらの条件ではご予約できませんでした。	general,attraction,taxi,weather
+4352	12	USER	それでは13時30分ではお願いできないでしょうか	general,attraction,taxi,weather
+4352	13	SYSTEM	ご予約できました。予約番号は84585です。	general,attraction,taxi,weather
+4352	14	USER	ありがとうございます、当日の若林区の天気と最高気温を教えてください	general,attraction,taxi,weather
+4352	15	SYSTEM	9月2日の若林区の天気と最高気温でよろしかったですか？	general,attraction,taxi,weather
+4352	16	USER	はい、お願いします	general,attraction,taxi,weather
+4352	17	SYSTEM	はい。天気は晴のち曇で、最高気温は28.9度でございます。	general,attraction,taxi,weather
+4352	18	USER		general,attraction,taxi,weather

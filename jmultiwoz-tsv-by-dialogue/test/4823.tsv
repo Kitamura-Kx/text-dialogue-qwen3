@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4823	0	USER	東京へ旅行に行くので、食事ができるお店を探してください。	general,restaurant,taxi,weather
+4823	1	SYSTEM	はい。ご希望の条件をおきかせください。	general,restaurant,taxi,weather
+4823	2	USER	予算は普通で、駐車場とWi-Fiが無料で使えるところがいいです。	general,restaurant,taxi,weather
+4823	3	SYSTEM	東京には、予算普通で駐車場とWiFi無料の飲食店はなさそうです。	general,restaurant,taxi,weather
+4823	4	USER	では駐車場はないお店でもいいです。	general,restaurant,taxi,weather
+4823	5	SYSTEM	それならば９件ヒットしますが、すしざんまい 亀戸店をお勧めします。	general,restaurant,taxi,weather
+4823	6	USER	どんなジャンルのお店ですか？	general,restaurant,taxi,weather
+4823	7	SYSTEM	寿司・魚料理です。	general,restaurant,taxi,weather
+4823	8	USER	次にタクシー会社を探してください。	general,restaurant,taxi,weather
+4823	9	SYSTEM	はい。何か希望はありますか。	general,restaurant,taxi,weather
+4823	10	USER	キャッシュレス払いとジャンボタクシー、どちらも利用できるところにしてください。	general,restaurant,taxi,weather
+4823	11	SYSTEM	両方対応しているところで、小金井交通をお勧めします。	general,restaurant,taxi,weather
+4823	12	USER	小金井交通の電話番号をお願いします。	general,restaurant,taxi,weather
+4823	13	SYSTEM	0423811482です。	general,restaurant,taxi,weather
+4823	14	USER	では予約をお願いします。出発地はNEW YORK JOE EXCHANGE 下北沢店というところで、目的地はすしざんまい 亀戸店です。3/21の09:40乗車で予約できますか？	general,restaurant,taxi,weather
+4823	15	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,restaurant,taxi,weather
+4823	16	USER	時間を10:30に変更するとどうですか？	general,restaurant,taxi,weather
+4823	17	SYSTEM	予約成功しました。予約番号は53426です。	general,restaurant,taxi,weather
+4823	18	USER	ありがとうございます。最後に荒川区の3/21の天気を調べてください。	general,restaurant,taxi,weather
+4823	19	SYSTEM	3/21 東京 荒川区 の天気は晴時々雨、最低気温9.4度、最高気温11.8度です。	general,restaurant,taxi,weather
+4823	20	USER	ありがとうございます。以上です。	general,restaurant,taxi,weather

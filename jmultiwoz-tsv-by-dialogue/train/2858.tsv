@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2858	0	USER	京都への旅行を計画しているので、駐車場が無料で利用できて、最寄り駅が三条駅のところで買い物できるお店があれば探してもらえますか？	general,shopping,restaurant,attraction
+2858	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,shopping,restaurant,attraction
+2858	2	USER	では最寄り駅が三条駅でなくてもいいので、駐車場が無料の買い物できるお店を探してください。	general,shopping,restaurant,attraction
+2858	3	SYSTEM	では、Malebranche 北山本店はいかがですか？	general,shopping,restaurant,attraction
+2858	4	USER	そこはジャンルは何になりますか？	general,shopping,restaurant,attraction
+2858	5	SYSTEM	ジャンルとしては、食料品, お土産になります。	general,shopping,restaurant,attraction
+2858	6	USER	ありがとうございます。あと飲食店を探していて、下京区で駐車場が無料で利用できるホテルレストランを探してもらえますか？	general,shopping,restaurant,attraction
+2858	7	SYSTEM	では、オールデイダイニング ラジョウはいかがですか？	general,shopping,restaurant,attraction
+2858	8	USER	そこにしようと思うので、最寄り駅とWi-Fiの有無を教えてください。	general,shopping,restaurant,attraction
+2858	9	SYSTEM	最寄り駅は、京都駅です。　Wi-Fi利用につきましては、不明となっています。	general,shopping,restaurant,attraction
+2858	10	USER	わかりました。では、6/19 11:50に３人で予約をお願いします。	general,shopping,restaurant,attraction
+2858	11	SYSTEM	予約出来ました。予約番号は、61131です。	general,shopping,restaurant,attraction
+2858	12	USER	ありがとうございます。あと西京区で駐車場が無料で利用できる観光名所も探してもらえますか？	general,shopping,restaurant,attraction
+2858	13	SYSTEM	桂坂野鳥遊園は、いかがですか？	general,shopping,restaurant,attraction
+2858	14	USER	そこにしようと思います。電話番号と料金情報を調べてもらえますか？	general,shopping,restaurant,attraction
+2858	15	SYSTEM	電話番号は、0753324610です。　料金情報は、無料となっています。	general,shopping,restaurant,attraction
+2858	16	USER	ありがとうございます。	general,shopping,restaurant,attraction
+2858	17	SYSTEM	他にご用件はございますか？	general,shopping,restaurant,attraction
+2858	18	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,restaurant,attraction

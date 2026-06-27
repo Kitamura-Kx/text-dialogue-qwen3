@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+994	0	USER	仙台への旅行を考えているのですが、無料駐車場がある買い物できる場所を探してください。	general,shopping,attraction
+994	1	SYSTEM	はい、かしこまりました。シベールの杜 南中山店というお店など、30件ほどございますが、エリアなど、何かご希望はございますか？	general,shopping,attraction
+994	2	USER	そうですね。最寄り駅が五橋駅のところがいいです。	general,shopping,attraction
+994	3	SYSTEM	大変申し訳ございません。その場所ですと、ご案内できるところが見つかりませんでした。	general,shopping,attraction
+994	4	USER	そうですか。であれば最寄り駅はどこでも大丈夫です。	general,shopping,attraction
+994	5	SYSTEM	ありがとうございます。そういたしますと、例えば、IKEA 仙台というお店はいかがでしょうか？最寄り駅は長町駅、エリアとしては太白区のお店です。	general,shopping,attraction
+994	6	USER	そこにします。近辺の駅からの所要時間を教えてください。	general,shopping,attraction
+994	7	SYSTEM	かしこまりました。最寄りの長町駅からは、徒歩で3分の距離にございます。	general,shopping,attraction
+994	8	USER	わかりました。あと、Wi-Fiと駐車場が無料で利用できる青葉区の観光名所はありませんか？	general,shopping,attraction
+994	9	SYSTEM	その条件ですと、仙台市文学館というところが1件ご案内可能です。ジャンルとしては、美術館・博物館, アートギャラリー, 教室・ワークショップ・体験、となっております。	general,shopping,attraction
+994	10	USER	いいですね。料金情報と電話番号を教えてください。	general,shopping,attraction
+994	11	SYSTEM	料金は、一般460円、高校生230円、小中学生110円です。電話番号は、0222713020でございます。	general,shopping,attraction
+994	12	USER	わかりました。ありがとうございます。	general,shopping,attraction
+994	13	SYSTEM	他にお調べすることはございますか？	general,shopping,attraction
+994	14	USER	いえ、大丈夫です。	general,shopping,attraction
+994	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,attraction

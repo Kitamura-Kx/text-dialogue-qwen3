@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4757	0	USER	名古屋へ旅行予定なのですが、スーパーマーケットで買い物できるところはありますか？無料駐車場があるところがいいです。	general,shopping
+4757	1	SYSTEM	承知しました。エリアでいうと中村区にある、サンエース 亀島店はいかがでしょう？	general,shopping
+4757	2	USER	そこにします。近辺の駅からの所要時間はわかります？	general,shopping
+4757	3	SYSTEM	はい、最寄りの亀島駅から徒歩で7分となります。	general,shopping
+4757	4	USER	ありがとうございます。	general,shopping
+4757	5	SYSTEM	ありがとうございました。	general,shopping

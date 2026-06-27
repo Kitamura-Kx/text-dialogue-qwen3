@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1770	0	USER	こんにちは。仙台へ旅行予定なので、宮城野区の買い物ができる所を探しています。駐車場が無料だといいのですけど、どこかありますか？	general,shopping,restaurant,attraction
+1770	1	SYSTEM	三井アウトレットパーク 仙台港はいかがでしょう？ジャンルはアウトレットモールとなります。	general,shopping,restaurant,attraction
+1770	2	USER	ありがとうございます。営業時間はどうなってますか？	general,shopping,restaurant,attraction
+1770	3	SYSTEM	営業時間は10時から20時となります。	general,shopping,restaurant,attraction
+1770	4	USER	ありがとうございます。それと、飲食店も探していて、駐車場とWi-Fiが無料のところはありますか？	general,shopping,restaurant,attraction
+1770	5	SYSTEM	エリアでいうと太白区にある、旬菜食健ひな野 長町店はいかがでしょう？ジャンルは、和食、その他、となります。	general,shopping,restaurant,attraction
+1770	6	USER	ありがとうございます。そこへ行ってみます。近辺の駅からの所要時間はどれくらいですか？	general,shopping,restaurant,attraction
+1770	7	SYSTEM	最寄りの長町南駅から徒歩で12分、近辺の太子堂駅から徒歩で13分となります。	general,shopping,restaurant,attraction
+1770	8	USER	ありがとうございます。すみませんが、値段帯も教えてもらえますか？	general,shopping,restaurant,attraction
+1770	9	SYSTEM	値段帯は普通、となります。	general,shopping,restaurant,attraction
+1770	10	USER	ありがとうございます。色々申し訳ないですが、観光名所も探しています。駐車場とWi-Fiが無料のところはありますか？	general,shopping,restaurant,attraction
+1770	11	SYSTEM	申し訳ありません。この条件ではご案内できません。いかが致しましょう？	general,shopping,restaurant,attraction
+1770	12	USER	そうなんですね、じゃあ駐車場は有料でも大丈夫です。どこかありそうでしょうか？	general,shopping,restaurant,attraction
+1770	13	SYSTEM	エリアでいうと青葉区にある、エル・パーク仙台はいかがでしょう？ジャンルは、その他、となります。	general,shopping,restaurant,attraction
+1770	14	USER	ありがとうございます。そちらの大人入場料と定休日を教えてもらえますか？	general,shopping,restaurant,attraction
+1770	15	SYSTEM	大人入場料は必要なく、無料でご利用いただけます。定休日は年末年始となります。	general,shopping,restaurant,attraction
+1770	16	USER	どうもありがとうございました。お尋ねしたいことは以上です。	general,shopping,restaurant,attraction
+1770	17	SYSTEM	ありがとうございました。	general,shopping,restaurant,attraction

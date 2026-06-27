@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4874	0	USER	仙台まで旅行に行きたいと思っているのですが、ひげぱんだというお店の料金情報とWi-Fiの有無を教えてもらえますか？	general,restaurant,taxi
+4874	1	SYSTEM	飲食店ひげぱんだの料金情報は、料金情報はひげぱんだのパンケーキ選べるトッピング：1200円、Wi-Fiの有無は有り(無料)です。	general,restaurant,taxi
+4874	2	USER	ありがとうございます。そのお店を4/24の13:00に２名で予約をお願いします。	general,restaurant,taxi
+4874	3	SYSTEM	予約が完了しました。予約番号は31317です。	general,restaurant,taxi
+4874	4	USER	旅先でキャッシュレス払いが可能なタクシー会社を利用したいんですけど、ありますか？	general,restaurant,taxi
+4874	5	SYSTEM	申し訳ございません。条件に合うタクシーはありません。	general,restaurant,taxi
+4874	6	USER	それならキャッシュレス払いでなくても大丈夫です。	general,restaurant,taxi
+4874	7	SYSTEM	稲荷タクシー（有）など、2件見つかりました。	general,restaurant,taxi
+4874	8	USER	そちらはジャンボタクシー対応ですか？	general,restaurant,taxi
+4874	9	SYSTEM	ジャンボタクシー対応は対応です。	general,restaurant,taxi
+4874	10	USER	わかりました。4/24の午前11時30分にララガーデン長町からひげぱんだまでタクシーの予約をお願いします。	general,restaurant,taxi
+4874	11	SYSTEM	予約が完了しました。予約番号は46427です。	general,restaurant,taxi
+4874	12	USER	ありがとうございます。	general,restaurant,taxi
+4874	13	SYSTEM	承知いたしました。他に何かご希望はありますか？	general,restaurant,taxi
+4874	14	USER	他にはないです。ありがとうございました。	general,restaurant,taxi
+4874	15	SYSTEM	かしこまりました。ご利用ありがとうございました。	general,restaurant,taxi

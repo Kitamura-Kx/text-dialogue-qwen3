@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4762	0	USER	京都への旅行を計画していて、当日買い物が出来るところを探しています。最寄り駅が嵯峨嵐山駅で、食料品のお店がいいのですが。	general,shopping,weather
+4762	1	SYSTEM	申し訳ありません。その条件では見つかりませんでした。	general,shopping,weather
+4762	2	USER	そうですか。では、ジャンルは何でも良いです。	general,shopping,weather
+4762	3	SYSTEM	承知しました。和んこ堂 京都嵐山店はいかがでしょうか？	general,shopping,weather
+4762	4	USER	ありがとうございます。そのお店にしようと思います。そのお店の定休日は分かりますか？	general,shopping,weather
+4762	5	SYSTEM	定休日は水, 木です。	general,shopping,weather
+4762	6	USER	ありがとうございます。旅行当日の天候も知りたいです。10/16の下京区の最低気温，最高気温は分かりますか？	general,shopping,weather
+4762	7	SYSTEM	承知しました。最低気温は17.8度です。最高気温は24.5度です。	general,shopping,weather
+4762	8	USER	ありがとうございました。	general,shopping,weather
+4762	9	SYSTEM	他にご用件はありますか？	general,shopping,weather
+4762	10	USER	いえ、他にはありません。ありがとうございました。	general,shopping,weather
+4762	11	SYSTEM	ありがとうございました。またのご利用をお待ちしております。	general,shopping,weather

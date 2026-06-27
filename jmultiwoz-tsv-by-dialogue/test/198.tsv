@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+198	0	USER	那覇に旅行するんですけど、レストランがついている宿を紹介してもらえませんか？	general,hotel,restaurant,taxi
+198	1	SYSTEM	かしこまりました。その条件ですと５９件ほどございますがほかにご希望の条件はございますか。	general,hotel,restaurant,taxi
+198	2	USER	特にないので、おすすめを教えてください。駐車場があるかも合わせて聞いときたいんですけど。	general,hotel,restaurant,taxi
+198	3	SYSTEM	ではシーサー・イン那覇はいかがでしょうか。有料ですが駐車場もございます。	general,hotel,restaurant,taxi
+198	4	USER	名前が那覇っぽくていいですね。そこにします。12月15日から3泊、3人で予約できますか？	general,hotel,restaurant,taxi
+198	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は98642でございます。	general,hotel,restaurant,taxi
+198	6	USER	奮発して予算が高めの飲食店も探してもらっていいですか？でも駐車場は無料がいいな。	general,hotel,restaurant,taxi
+198	7	SYSTEM	おもろダイニング 山葵はいかがでしょうか。	general,hotel,restaurant,taxi
+198	8	USER	面白そうですね、そこ。Wi-Fiって使えますか？	general,hotel,restaurant,taxi
+198	9	SYSTEM	申し訳ございません。Wi-Fiの有無は不明でございます。	general,hotel,restaurant,taxi
+198	10	USER	あ、大丈夫です。それより、ジャンボタクシーが使えるタクシー会社って分かりますか？	general,hotel,restaurant,taxi
+198	11	SYSTEM	三和交通がございます。	general,hotel,restaurant,taxi
+198	12	USER	電話番号を教えてください。あ、あと、そこはキャッシュレスって対応してますか？	general,hotel,restaurant,taxi
+198	13	SYSTEM	電話番号は0120100084でございます。キャッシュレスも対応しております。	general,hotel,restaurant,taxi
+198	14	USER	じゃあそこで12月15日の予約をお願いします。シーサー・イン那覇を13時50分に出て、おもろダイニング 山葵までで確保してほしいんですけど。	general,hotel,restaurant,taxi
+198	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は12499でございます。	general,hotel,restaurant,taxi
+198	16	USER	一通り対応してもらえて助かりました。お世話様でした。	general,hotel,restaurant,taxi

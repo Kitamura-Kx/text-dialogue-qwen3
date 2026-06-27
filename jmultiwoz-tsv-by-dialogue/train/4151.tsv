@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4151	0	USER	こんにちは。札幌で、ジャンルは美術館・博物館で、Wi-Fiが無料で使える施設を探しているんですが。	general,attraction,taxi,weather
+4151	1	SYSTEM	承知しました。エリアでいうと北区に、北海道大学総合博物館がございます。	general,attraction,taxi,weather
+4151	2	USER	確認なんですが、最寄り駅はロープウエー入口停留所ですか？別の駅が最寄りでもいいです。	general,attraction,taxi,weather
+4151	3	SYSTEM	最寄り駅は北12条駅となります。	general,attraction,taxi,weather
+4151	4	USER	ありがとうございます。料金情報はありますか？	general,attraction,taxi,weather
+4151	5	SYSTEM	はい、無料、となっております。	general,attraction,taxi,weather
+4151	6	USER	いいですね！ところで、東邦交通(株)というタクシー会社を使う予定なんですが、情報はありますか？	general,attraction,taxi,weather
+4151	7	SYSTEM	はい、キャッシュレス対応は不明、ジャンボタクシーは非対応となっております。電話番号は、0116621040です。	general,attraction,taxi,weather
+4151	8	USER	それで構いません。3月21日の14時00分、出発はトイザらス・ベビーザらス札幌店で、目的地は先ほど話した北海道大学総合博物館で予約できますか？	general,attraction,taxi,weather
+4151	9	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,attraction,taxi,weather
+4151	10	USER	じゃあ、14時50分に変更しても予約できませんか？	general,attraction,taxi,weather
+4151	11	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、73595となります。	general,attraction,taxi,weather
+4151	12	USER	こちらこそありがとうございます。3月21日の清田区の天気はわかりますか？最高気温を特に知りたいです。	general,attraction,taxi,weather
+4151	13	SYSTEM	はい、天気は雪のち曇、最高気温7.7度となります。	general,attraction,taxi,weather
+4151	14	USER	寒そうですね！ありがとうございました。	general,attraction,taxi,weather

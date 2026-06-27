@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+193	0	USER	東京へ行こうと考えているのですが、泊まるところを探してもらえませんか。	general,hotel,restaurant
+193	1	SYSTEM	かしこまりました。東京の宿泊施設は100件ほどご案内可能です。ご希望の条件などはございますでしょうか？	general,hotel,restaurant
+193	2	USER	Wi-Fiが無料で使える旅館に泊まりたいです。	general,hotel,restaurant
+193	3	SYSTEM	では、浅草駅から徒歩2分の雷門旅館という場所はいかがでしょうか？WiFiも無料でご利用いただけます。	general,hotel,restaurant
+193	4	USER	いいですね。ちなみにこちらの旅館はどのエリアにあるのでしょうか？	general,hotel,restaurant
+193	5	SYSTEM	こちらは、台東区エリアにございます。	general,hotel,restaurant
+193	6	USER	わかりました。こちらで予約をお願いします。10/12から4名で4泊しようと考えています。	general,hotel,restaurant
+193	7	SYSTEM	ありがとうございます。予約を完了いたしました。ご予約番号は、77089です。	general,hotel,restaurant
+193	8	USER	あと、東京でラーメンやつけ麺が食べたいです。値段帯は普通くらいのお店で探してもらえませんか。	general,hotel,restaurant
+193	9	SYSTEM	申し訳ありません。東京のラーメン、つけ麺のお店で、お値段が普通の場所がございませんでした。お安めの場所でしたら1件ご案内できるのですが。	general,hotel,restaurant
+193	10	USER	そうですか。あまり安めのところは考えていないんです。うどんやおそばが食べられるお店はありますか？	general,hotel,restaurant
+193	11	SYSTEM	はい、お値段が普通のうどん・そば, 和食のお店でしたら、うじいえというお店をご紹介可能です。	general,hotel,restaurant
+193	12	USER	うじいえというお店の住所を教えてもらうことはできますか？	general,hotel,restaurant
+193	13	SYSTEM	はい。住所は、東京都荒川区町屋3丁目5-13です。	general,hotel,restaurant
+193	14	USER	ではこちらのお店で予約お願いしたいです。10/12の15:10、2人でお願いできますか。	general,hotel,restaurant
+193	15	SYSTEM	申し訳ございません。ご希望の条件では、予約をおとりできませんでした。いかがいたしましょうか？	general,hotel,restaurant
+193	16	USER	時間を16:00にずらすとどうでしょう？	general,hotel,restaurant
+193	17	SYSTEM	ありがとうございます。予約を完了できました。ご予約番号は、40060です。	general,hotel,restaurant
+193	18	USER	予約ありがとうございました。	general,hotel,restaurant

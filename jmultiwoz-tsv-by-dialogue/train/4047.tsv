@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4047	0	USER	那覇への旅行で宿泊施設を探しています。レストランが併設されているところがありますか。	general,hotel,shopping,taxi
+4047	1	SYSTEM	申し訳ありません。レストランが併設している宿泊施設を那覇でお探しすることが出来ませんでした。	general,hotel,shopping,taxi
+4047	2	USER	そうですか。ではレストランは考えないようにします。	general,hotel,shopping,taxi
+4047	3	SYSTEM	かしこまりました。それではHotel Waveはいかがでしょうか？	general,hotel,shopping,taxi
+4047	4	USER	その施設のエリアはどこになりますか。	general,hotel,shopping,taxi
+4047	5	SYSTEM	エリアは本庁でございます。	general,hotel,shopping,taxi
+4047	6	USER	本庁エリアで買い物ができるところを探してください。駐車場を無料で利用できるところがいいです。	general,hotel,shopping,taxi
+4047	7	SYSTEM	かしこまりました。それではのうれんプラザはいかがでしょうか？	general,hotel,shopping,taxi
+4047	8	USER	そこの電話番号が知りたいです。	general,hotel,shopping,taxi
+4047	9	SYSTEM	電話番号は0988347818でございます。	general,hotel,shopping,taxi
+4047	10	USER	あと、タクシー会社を探して欲しいです。キャッシュレス払いできるところにしてください。	general,hotel,shopping,taxi
+4047	11	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel,shopping,taxi
+4047	12	USER	そうですか。では、キャッシュレス払いは考慮しないものとします。	general,hotel,shopping,taxi
+4047	13	SYSTEM	かしこまりました。それでは大栄交通はいかがでしょうか？	general,hotel,shopping,taxi
+4047	14	USER	そこの会社のジャンボタクシー対応，電話番号を教えてください。	general,hotel,shopping,taxi
+4047	15	SYSTEM	かしこまりました。ジャンボタクシーには対応しております。電話番号は0989465005でございます。	general,hotel,shopping,taxi
+4047	16	USER	では予約をお願いします。日付は7/16、時間は16:30、出発地はHotel Wave、目的地はのうれんプラザでお願いします。	general,hotel,shopping,taxi
+4047	17	SYSTEM	お待たせ致しました。予約番号50588でお取りさせていただきました。	general,hotel,shopping,taxi
+4047	18	USER	解決しました。ありがとうございました。	general,hotel,shopping,taxi

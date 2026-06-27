@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4802	0	USER	東京へ旅行に行くので、レストランがある、普通の値段位の宿泊施設を教えてください。	general,hotel,taxi
+4802	1	SYSTEM	東京には、普通価格帯でレストラン併設の宿泊施設は１１件ありますが、ANAインターコンチネンタルホテル東京をお勧めします。	general,hotel,taxi
+4802	2	USER	よさそうですね。そちらのWi-Fiの有無と最寄り駅を教えてください。	general,hotel,taxi
+4802	3	SYSTEM	WiFiは無料、最寄り駅は溜池山王駅です。	general,hotel,taxi
+4802	4	USER	わかりました。3人で1/11から4泊予約できますか？	general,hotel,taxi
+4802	5	SYSTEM	予約成功しました。予約番号は88537です。	general,hotel,taxi
+4802	6	USER	ありがとうございます。あと、ジャンボタクシーを利用する予定なので、キャッシュレス払いできるようなタクシー会社を調べてもらえますか？	general,hotel,taxi
+4802	7	SYSTEM	両方対応しているところで、銀星交通をおすすめします。	general,hotel,taxi
+4802	8	USER	そうなんですね。電話番号はわかりますか。	general,hotel,taxi
+4802	9	SYSTEM	0425750458です。	general,hotel,taxi
+4802	10	USER	わかりました。では、1/11の13:00にKIDDY LAND原宿店を出発してANAインターコンチネンタルホテル東京まで送ってほしいので、予約をお願いできますか？	general,hotel,taxi
+4802	11	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,hotel,taxi
+4802	12	USER	そうですか。では、時間を13:40に変更します。	general,hotel,taxi
+4802	13	SYSTEM	13:40なら予約成功しました。予約番号は65755です。	general,hotel,taxi
+4802	14	USER	ありがとうございました。	general,hotel,taxi

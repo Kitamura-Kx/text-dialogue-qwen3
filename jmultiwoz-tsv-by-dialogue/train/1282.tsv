@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1282	0	USER	横浜に旅行する予定ですが、緑区で買い物できるところはありますか？	general,shopping
+1282	1	SYSTEM	はい、3件ご案内可能です。ヤマダ電機 テックランド上山店というところは、いかがでしょうか？	general,shopping
+1282	2	USER	そこは駐車場無料ですか？	general,shopping
+1282	3	SYSTEM	はい、無料でご利用いただけます。	general,shopping
+1282	4	USER	わかりました。住所と営業時間を教えてください。	general,shopping
+1282	5	SYSTEM	住所は、神奈川県横浜市緑区上山2丁目27-1です。営業時間は、10:15～21:00となっております。	general,shopping
+1282	6	USER	わかりました。ありがとうございました。	general,shopping

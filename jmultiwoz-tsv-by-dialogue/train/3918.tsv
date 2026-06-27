@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3918	0	USER	京都への旅行を計画中で、無料Wi-fi付きの観光名所を探しています。	general,attraction
+3918	1	SYSTEM	そうしますと、国立京都国際会館はいかがでしょうか？	general,attraction
+3918	2	USER	そこにしようと思います。最寄駅からの所要時間は分かりますか？	general,attraction
+3918	3	SYSTEM	はい、国際会館駅から徒歩で5分の距離にございます。	general,attraction
+3918	4	USER	助かります。ありがとうございます。	general,attraction
+3918	5	SYSTEM	他にお調べすることなど、ございませんか？	general,attraction
+3918	6	USER	いえ、大丈夫です。ありがとうございました。	general,attraction
+3918	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4132	0	USER	東京へ旅行に行こうと考えています、港区で駐車場を無料で利用できるお店を教えてください	general,shopping,attraction
+4132	1	SYSTEM	恐れ入ります。お探しなのは飲食店でございますか。	general,shopping,attraction
+4132	2	USER	失礼しました、買い物ができるお店をお願いします	general,shopping,attraction
+4132	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,attraction
+4132	4	USER	では駐車場を考慮しない条件でお願いします	general,shopping,attraction
+4132	5	SYSTEM	では奈良まほろば館がございます。	general,shopping,attraction
+4132	6	USER	住所・定休日、近辺の駅からの所要時間を教えてください	general,shopping,attraction
+4132	7	SYSTEM	住所は東京都港区新橋1丁目8-4SMBC新橋ビル1F・2Fでございます。定休日は年末年始で、新橋駅から徒歩で3分でございます。	general,shopping,attraction
+4132	8	USER	当日は芝浦公園という公園を尋ねる予定です、住所を教えていただけないでしょうか	general,shopping,attraction
+4132	9	SYSTEM	恐れ入ります。芝浦公園という観光名所がございません。いかがなさいますか。	general,shopping,attraction
+4132	10	USER	失礼しました、芝公園という観光名所の住所を教えていただけないでしょうか	general,shopping,attraction
+4132	11	SYSTEM	かしこまりました。住所は東京都港区芝公園4丁目10-17でございます。	general,shopping,attraction
+4132	12	USER		general,shopping,attraction

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2029	0	USER	札幌の厚別区にある観光名所で、駐車場が無料で、無料Wi-Fiが利用できるところありますか？	general,attraction
+2029	1	SYSTEM	申し訳ありません。この条件ではご案内できません。いかが致しましょう？	general,attraction
+2029	2	USER	でしたら、厚別区でなくても構いません。	general,attraction
+2029	3	SYSTEM	エリアでいうと東区にある、ラウンドワンスタジアム札幌北21条店はいかがでしょう？ジャンルは、エンタメ、アミューズメント、テーマパーク、となります。	general,attraction
+2029	4	USER	ありがとうございます。料金情報も教えてください。	general,attraction
+2029	5	SYSTEM	料金情報としては、企画により異なる、となっております。	general,attraction
+2029	6	USER	ありがとうございました。	general,attraction
+2029	7	SYSTEM	他にご用件はございますか？	general,attraction
+2029	8	USER	大丈夫です。ありがとうございました。	general,attraction
+2029	9	SYSTEM	ありがとうございました。	general,attraction

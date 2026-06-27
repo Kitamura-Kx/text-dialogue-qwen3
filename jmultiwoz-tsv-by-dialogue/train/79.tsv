@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+79	0	USER	ちょっとよろしいですか？	general,taxi
+79	1	SYSTEM	はい。どのようなご用件でしょうか。	general,taxi
+79	2	USER	横浜に行く予定があるんですけど、いろいろ調べるのを手伝ってもらえますか？	general,taxi
+79	3	SYSTEM	かしこまりました。何をお調べいたしましょうか。	general,taxi
+79	4	USER	あのねえ、アサヒタクシー株式会社のタクシーがあるか、知りたいの。	general,taxi
+79	5	SYSTEM	はい。ございます。	general,taxi
+79	6	USER	あそう。そこだと、ジャンボタクシーとかキャッシュレスにも対応できますか？	general,taxi
+79	7	SYSTEM	ジャンボタクシーは非対応、キャッシュレスも未対応でございます。	general,taxi
+79	8	USER	あ、そうなんだ。一応、電話番号も聞かせてくれる？	general,taxi
+79	9	SYSTEM	電話番号は0120411190でございます。	general,taxi
+79	10	USER	うん、じゃまあ、そこで予約することにしたとして、5月22日で取れますか？	general,taxi
+79	11	SYSTEM	お調べいたします。では、ご希望の出発時間、出発地と目的地を教えていただけますか。	general,taxi
+79	12	USER	あのね、まずゑびす鯛 横浜店まで12時50分に来てもらって、そこから野毛山動物園まで連れってってもらいたいんだわ。	general,taxi
+79	13	SYSTEM	はい。予約が完了いたしました。予約番号は56268でございます。	general,taxi
+79	14	USER	助かった、助かった、ありがとね。また何かあったら、頼ることにするわ。	general,taxi
+79	15	SYSTEM	承知しました。ありがとうございました。	general,taxi

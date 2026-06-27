@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2912	0	USER	もうすぐ横浜へ行く予定です。駐車場とWi-Fiが無料の観光名所を教えて下さい。	general,attraction,restaurant
+2912	1	SYSTEM	横浜で駐車場とWiFiが無料の観光名所はなさそうです。	general,attraction,restaurant
+2912	2	USER	そうですか。では、Wi-Fiは諦めます。無料駐車場があれば大丈夫です。	general,attraction,restaurant
+2912	3	SYSTEM	無料駐車場のある観光名所はいくつかありますが、面白系では、横浜ブリキのおもちゃ博物館、こちらオススメです。	general,attraction,restaurant
+2912	4	USER	良さそうですね。そちらの最寄り駅と定休日を教えて下さい。	general,attraction,restaurant
+2912	5	SYSTEM	元町・中華街駅から徒歩で5分です。定休日はありません。	general,attraction,restaurant
+2912	6	USER	分かりました。ありがとうございます。同じ日に伊勢佐木長者町駅辺りでホテルレストランを利用したいのですが、良いお店はありますか？	general,attraction,restaurant
+2912	7	SYSTEM	伊勢佐木長者町にホテルレストランはなさそうです。	general,attraction,restaurant
+2912	8	USER	そうですか。では、産業振興センター駅辺りはどうですか？予算は普通位と考えています。	general,attraction,restaurant
+2912	9	SYSTEM	産業振興センター駅、予算普通のホテルレストランといえば、ずばり、リューバンカフェ、こちら一択です。	general,attraction,restaurant
+2912	10	USER	ありがとうございます。そちらは駐車場はありますか？	general,attraction,restaurant
+2912	11	SYSTEM	有料ですが、あります。	general,attraction,restaurant
+2912	12	USER	分かりました。ありがとうございます。それでは失礼します。	general,attraction,restaurant

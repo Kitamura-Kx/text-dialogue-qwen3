@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3113	0	USER	福岡に旅行へ行くので、西区でWi-Fiと駐車場が無料の観光名所を教えてください。	general,attraction,weather,taxi
+3113	1	SYSTEM	そうしましたら、マリノアシティ福岡はいかがでしょうか？	general,attraction,weather,taxi
+3113	2	USER	営業時間と子どもの入場料を教えて貰えますか？	general,attraction,weather,taxi
+3113	3	SYSTEM	営業時間は、店舗により異なるようです。入場料は、お子様も大人も0円で、無料となっております。	general,attraction,weather,taxi
+3113	4	USER	了解です！3/5の中央区の最高気温も教えて貰えますか？	general,attraction,weather,taxi
+3113	5	SYSTEM	かしこまりました。当日の最高気温は14.9度まで上がる見込みです。	general,attraction,weather,taxi
+3113	6	USER	最低気温も教えて貰えますか？	general,attraction,weather,taxi
+3113	7	SYSTEM	最低気温は、12度の予想です。	general,attraction,weather,taxi
+3113	8	USER	ありがとうございます。あと（有）寿タクシーを利用する予定なのですが、キャッシュレス対応はしていますか？	general,attraction,weather,taxi
+3113	9	SYSTEM	（有）寿タクシーですね。はい、こちら、キャッシュレス払いも可能となっております。	general,attraction,weather,taxi
+3113	10	USER	電話番号は分かりますか？	general,attraction,weather,taxi
+3113	11	SYSTEM	0925412566でございます。	general,attraction,weather,taxi
+3113	12	USER	3/5の13:00にマリノアシティ福岡から焼にく とびこで予約してもらえます？	general,attraction,weather,taxi
+3113	13	SYSTEM	かしこまりました。ありがとうございます。ご指定の条件で予約完了いたしました。予約番号は、74843です。	general,attraction,weather,taxi
+3113	14	USER	了解です。いろいろとありがとうございました！	general,attraction,weather,taxi
+3113	15	SYSTEM	こちらこそ、ありがとうございます。他にお調べすることはございませんか？	general,attraction,weather,taxi
+3113	16	USER	大丈夫です。ありがとうございました	general,attraction,weather,taxi
+3113	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,weather,taxi

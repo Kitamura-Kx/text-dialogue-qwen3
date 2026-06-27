@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+375	0	USER	名古屋での宿泊施設を探しています。	general,hotel
+375	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel
+375	2	USER	中川区で、Wi-Fiが無料で利用できるところはありますか？	general,hotel
+375	3	SYSTEM	はい、プチホテル ニューひふみ、N HOTELの2件がございます。何をご案内致しましょう？	general,hotel
+375	4	USER	N HOTELには駐車場があるかどうか分かりますか？	general,hotel
+375	5	SYSTEM	はい、N HOTELの駐車場は無料でご利用いただけます。他にご案内できることはございますか？	general,hotel
+375	6	USER	そうですか。そちらの値段帯とチェックイン開始時間は分かりますか？	general,hotel
+375	7	SYSTEM	はい、値段帯は安め、チェックイン開始時刻は15時となります。他にご用件はございますか？	general,hotel
+375	8	USER	では、4/12に２名で４泊予約をお願いします。	general,hotel
+375	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、20772となります。他に必要なご案内はございますか？	general,hotel
+375	10	USER	いえ、以上です。ありがとうございました。	general,hotel
+375	11	SYSTEM	ありがとうございました。	general,hotel

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4154	0	USER	仙台旅行を計画しています。観光名所に行きたいですが、Wi-Fiと駐車場が無料のところがあれば教えてください。	general,attraction,weather
+4154	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,weather
+4154	2	USER	Wi-Fiはなくてもいいです。駐車場は無料でお願いします。	general,attraction,weather
+4154	3	SYSTEM	エリアでいうと太白区にある、仙台市野草園はいかがでしょう？ジャンルは、自然、公園となります。	general,attraction,weather
+4154	4	USER	そこにします。定休日はありますか？	general,attraction,weather
+4154	5	SYSTEM	定休日は12月1日から3月19日となります。	general,attraction,weather
+4154	6	USER	では、9月30日の青葉区の天気はわかりますか？	general,attraction,weather
+4154	7	SYSTEM	はい、天気は曇時々雨、最低気温19.9度、最高気温24.3度となります。	general,attraction,weather
+4154	8	USER	よくわかりました。ありがとうございます。	general,attraction,weather

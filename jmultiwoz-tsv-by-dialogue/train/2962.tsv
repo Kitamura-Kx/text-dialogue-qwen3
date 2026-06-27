@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2962	0	USER	今度名古屋へ行くんですが、駐車場が無料のシティホテルを探してもらえますか？	general,hotel
+2962	1	SYSTEM	承知しました。エリアでいうと中区にある、アイリス愛知はいかがでしょう？	general,hotel
+2962	2	USER	ありがとうございます。ではそこの値段帯とWi-Fiの有無と最寄り駅も教えてください。	general,hotel
+2962	3	SYSTEM	はい、値段帯は安め、最寄りの丸の内駅から徒歩で8分となります。Wi-Fiは無料でご利用いただけます。	general,hotel
+2962	4	USER	ありがとうございます。ではそこの予約をお願いできますか？12/19から４泊で４名です。	general,hotel
+2962	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、61866となります。	general,hotel
+2962	6	USER	ありがとうございました。以上で結構です。	general,hotel
+2962	7	SYSTEM	ありがとうございました。	general,hotel

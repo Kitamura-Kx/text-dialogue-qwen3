@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1812	0	USER	札幌への旅行を計画中です。WiFiが無料のビジネスホテルを教えて下さい。	general,hotel,shopping
+1812	1	SYSTEM	かしこまりました。では、R&Bホテル札幌北3西2はいかがでしょうか？	general,hotel,shopping
+1812	2	USER	エリアはどこになりますか？	general,hotel,shopping
+1812	3	SYSTEM	はい。エリアは中央区になります。	general,hotel,shopping
+1812	4	USER	わかりました、発寒駅近くで買い物ができる施設も探しています、駐車場無料のところが希望です。	general,hotel,shopping
+1812	5	SYSTEM	かしこまりました。では、イオンモール札幌発寒はいかがでしょうか？	general,hotel,shopping
+1812	6	USER	イオンモール札幌発寒の定休日と最寄りからの所要時間もお願いします。	general,hotel,shopping
+1812	7	SYSTEM	はい。定休日はありません。最寄りからの所要時間は、発寒駅から徒歩で10分もしくは宮の沢駅から徒歩で10分になります。	general,hotel,shopping
+1812	8	USER	わかりましたあとは大丈夫です、有難うございました。	general,hotel,shopping
+1812	9	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping

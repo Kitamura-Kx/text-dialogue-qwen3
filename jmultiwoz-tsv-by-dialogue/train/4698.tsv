@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4698	0	USER	名古屋へ旅行予定なのですが、名東区で食料品を買えるようなところはありますか？	general,shopping,restaurant
+4698	1	SYSTEM	名古屋名東区で食料品といえば、アイスランドマーケットです。	general,shopping,restaurant
+4698	2	USER	そこの定休日ってわかります？	general,shopping,restaurant
+4698	3	SYSTEM	盆期間と正月です。	general,shopping,restaurant
+4698	4	USER	わかりました。あと、瑞穂区で普通のお値段位の飲食店はありますか？	general,shopping,restaurant
+4698	5	SYSTEM	名古屋瑞穂区で普通値段の飲食店は、ゆる~いイタリアン もふもふです。	general,shopping,restaurant
+4698	6	USER	そこにします。ジャンルと定休日、あと駐車場の有無を教えてください。	general,shopping,restaurant
+4698	7	SYSTEM	ジャンルはイタリアン・フレンチ、火曜日定休、駐車場は不明です。	general,shopping,restaurant
+4698	8	USER	わかりました。ありがとうございます。	general,shopping,restaurant

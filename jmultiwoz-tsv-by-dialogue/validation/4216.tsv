@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4216	0	USER	札幌への旅行を計画しています。当日食事が出来るところを探しています。	general,restaurant
+4216	1	SYSTEM	予算などご希望はありますか？	general,restaurant
+4216	2	USER	駐車場が無料で使える、居酒屋ジャンルのところがいいです。	general,restaurant
+4216	3	SYSTEM	2件みつかりました。　立場割烹 料理屋Kはいかがですか？	general,restaurant
+4216	4	USER	そちらのお店の最寄り駅はどこですか？	general,restaurant
+4216	5	SYSTEM	最寄り駅は、東札幌駅になります。	general,restaurant
+4216	6	USER	定休日はありますか？	general,restaurant
+4216	7	SYSTEM	定休日は、水曜日となっています。	general,restaurant
+4216	8	USER	そこの場所はエリアで言うと何エリアでしょう？	general,restaurant
+4216	9	SYSTEM	エリアは、白石区になります。	general,restaurant
+4216	10	USER	わかりました。では予約をお願いします。１２月２４日の１０時３０分で、４人でお願いします。	general,restaurant
+4216	11	SYSTEM	予約が完了しました。　予約番号は、60797です。	general,restaurant
+4216	12	USER	ありがとうございました。では失礼します。	general,restaurant

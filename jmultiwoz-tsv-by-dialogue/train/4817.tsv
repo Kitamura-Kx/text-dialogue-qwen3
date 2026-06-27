@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4817	0	USER	仙台へ旅行に行くので、泊まるところを探して欲しいです。	general,hotel
+4817	1	SYSTEM	はい、仙台の宿泊施設ですね。	general,hotel
+4817	2	USER	はい。宮城野区で駐車場無料のところはありますか？	general,hotel
+4817	3	SYSTEM	宮城野区で駐車場無料の宿泊施設は4件、そのうち、キャッスルイン仙台、こちらをお勧めします。	general,hotel
+4817	4	USER	そちらの値段帯はどんな感じですか？	general,hotel
+4817	5	SYSTEM	安めになります。	general,hotel
+4817	6	USER	チェックアウト終了時刻は何時ですか？	general,hotel
+4817	7	SYSTEM	１０時です。	general,hotel
+4817	8	USER	そちらの宿泊施設にレストランはありますか？	general,hotel
+4817	9	SYSTEM	はい、あります。	general,hotel
+4817	10	USER	チェックアウト終了時刻は10時ちょうどですか？	general,hotel
+4817	11	SYSTEM	１０時ちょうどです。	general,hotel
+4817	12	USER	わかりました。ありがとうございました。以上になります。	general,hotel
+4817	13	SYSTEM	よい旅を。	general,hotel

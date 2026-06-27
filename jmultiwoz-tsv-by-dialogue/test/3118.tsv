@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3118	0	USER	京都旅行を計画しているのでWi-Fiが無料で利用出来てレストランが併設されている宿泊施設をさがしてもらえますか？	general,hotel,restaurant
+3118	1	SYSTEM	かしこまりました。46件候補がございますが、ほかにご希望の条件はございませんか？	general,hotel,restaurant
+3118	2	USER	最寄駅が清水五条駅がいいです。	general,hotel,restaurant
+3118	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel,restaurant
+3118	4	USER	そしたら最寄り駅は考慮しなくていいです	general,hotel,restaurant
+3118	5	SYSTEM	ありがとうございます。そうしますと、Racinehome京都という下京区の宿泊施設はいかがでしょうか？	general,hotel,restaurant
+3118	6	USER	そうします。料金情報と住所を教えてください	general,hotel,restaurant
+3118	7	SYSTEM	申し訳ありません。料金につきましては、お値段がお安めで、WiFiが無料でご利用いただけるということ以外に詳しい料金情報が手元になく、ご案内できかねます。住所は、京都府京都市下京区東洞院通上珠数屋町上る上珠数屋町３３４です。	general,hotel,restaurant
+3118	8	USER	わかりました！あと最寄り駅が西院駅の飲食店はありますか？予算は普通ぐらいがいいです	general,hotel,restaurant
+3118	9	SYSTEM	はい、4件ご案内可能です。例えば、あかやしろ 焔という、焼肉・ホルモンのお店はいかがでしょうか？	general,hotel,restaurant
+3118	10	USER	そうします。料金情報と定休日はわかりますか？	general,hotel,restaurant
+3118	11	SYSTEM	はい、料金につきましては、ホルモン四種盛り1050円、特選レバー750円、定番ホソ550円などがございます。定休日は、こちらのお店はありません。	general,hotel,restaurant
+3118	12	USER	わかりました。ありがとうございます	general,hotel,restaurant
+3118	13	SYSTEM	ほかに、お知りになりたい情報などございませんか？	general,hotel,restaurant
+3118	14	USER	もう大丈夫です。ありがとうございました	general,hotel,restaurant
+3118	15	SYSTEM	承知いたしました。お役に立てて何よりです。また何かございましたら、お気軽にお問い合わせください。	general,hotel,restaurant

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2991	0	USER	札幌旅行するので白石クで無料の駐車場がある飲食店を教えてください。	general,restaurant
+2991	1	SYSTEM	白石区で無料駐車場のある飲食店はいくつかありますが、立場割烹 料理屋K、こちらをお勧めします。	general,restaurant
+2991	2	USER	値段帯と近辺の駅からの所要時間を知りたいです！	general,restaurant
+2991	3	SYSTEM	値段帯は高め、東札幌駅から徒歩で3分です。	general,restaurant
+2991	4	USER	分かりました。11/3の14:30から4名で予約をお願いします	general,restaurant
+2991	5	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,restaurant
+2991	6	USER	では3人ならどうでしょう？	general,restaurant
+2991	7	SYSTEM	３人なら予約できました。予約番号は45996です。	general,restaurant
+2991	8	USER	ありがとうございました！	general,restaurant
+2991	9	SYSTEM	よい旅を。	general,restaurant

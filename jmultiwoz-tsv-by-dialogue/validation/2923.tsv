@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2923	0	USER	こんにちは。札幌に行くのですが、駐車場が無料で、最寄り駅がさっぽろ駅の、買い物スポットはないですか？	general,shopping,taxi,weather
+2923	1	SYSTEM	さっぽろ駅で駐車場無料の買い物スポットはなさそうです。	general,shopping,taxi,weather
+2923	2	USER	では最寄り駅はこだわりません。	general,shopping,taxi,weather
+2923	3	SYSTEM	札幌で駐車場無料の買い物スポットはいくつかありますが、八紘学園農産物直売所をお勧めします。	general,shopping,taxi,weather
+2923	4	USER	ありがとうございます。キャッシュレス払いが可能で、ジャンボタクシーが利用できる、タクシー会社も探してもらえますか？	general,shopping,taxi,weather
+2923	5	SYSTEM	札幌でキャッシュレスとジャンボタクシー両方対応しているところはなさそうです。	general,shopping,taxi,weather
+2923	6	USER	ではジャンボタクシーの利用はこだわりません。	general,shopping,taxi,weather
+2923	7	SYSTEM	ならば、鈴蘭交通(株)をお勧めします。	general,shopping,taxi,weather
+2923	8	USER	ありがとうございます。電話番号はわかりますか？	general,shopping,taxi,weather
+2923	9	SYSTEM	0116676000です。	general,shopping,taxi,weather
+2923	10	USER	ありがとうございます。ではそのタクシー会社で、4/26の10:40、出発地は八紘学園農産物直売所、目的地はアパホテル〈札幌すすきの駅西〉で、予約をお願いします。	general,shopping,taxi,weather
+2923	11	SYSTEM	その条件だと予約に失敗してしまいました。	general,shopping,taxi,weather
+2923	12	USER	では時間を11:20に変更したら予約できそうですか？	general,shopping,taxi,weather
+2923	13	SYSTEM	予約成功しました。予約番号は309です。	general,shopping,taxi,weather
+2923	14	USER	ありがとうございます。あと、中央区の4/26の天候も調べてもらえませんか？	general,shopping,taxi,weather
+2923	15	SYSTEM	4/26 札幌 中央区 の天気は晴時々曇、最低気温-0.9度、最高気温10.6度です。	general,shopping,taxi,weather
+2923	16	USER	ありがとうございました。	general,shopping,taxi,weather
+2923	17	SYSTEM	よい旅を	general,shopping,taxi,weather

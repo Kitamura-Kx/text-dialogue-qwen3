@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1040	0	USER	那覇への旅行を計画しています。3月17日の本庁地区の天気を教えていただけますか。	general,weather,taxi
+1040	1	SYSTEM	かしこまりました。当日の天気は、晴れ時々曇りの予報となっております。最低気温は14.3度、最高気温は24.6度となる予想です。	general,weather,taxi
+1040	2	USER	温かいですね。当日タクシーを利用したいのですが、ジャンボタクシーがある会社はありますか？	general,weather,taxi
+1040	3	SYSTEM	はい、9件ほどご案内可能です。たとえば、沖縄交通でしたら、キャッシュレスのお支払いにも対応しておりますよ。いかがでしょうか？	general,weather,taxi
+1040	4	USER	よいですね。それでは沖縄交通の電話番号を教えてください。	general,weather,taxi
+1040	5	SYSTEM	電話番号は、0120170978でございます。	general,weather,taxi
+1040	6	USER	3月17日の11時50分、ホテル沖縄 with サンリオキャラクターズから首里城 園比屋武御嶽石門までの予約もお願いします。	general,weather,taxi
+1040	7	SYSTEM	かしこまりました。ご予約を完了いたしました。予約番号は、52481です。	general,weather,taxi
+1040	8	USER	大変お世話になりました。	general,weather,taxi

@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1760	0	USER	札幌へ旅行に行くんですが、買い物ができるところを探してほしいです！	general,shopping,attraction,taxi
+1760	1	SYSTEM	希望条件などは、ございますか？	general,shopping,attraction,taxi
+1760	2	USER	駐車場が無料のところでお願いします！	general,shopping,attraction,taxi
+1760	3	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,attraction,taxi
+1760	4	USER	では、駐車場の有無はどちらでも大丈夫です。	general,shopping,attraction,taxi
+1760	5	SYSTEM	北海道どさんこプラザは、いかがでしょうか？	general,shopping,attraction,taxi
+1760	6	USER	いいですね。あと、中央区の観光名所も探して欲しいです。	general,shopping,attraction,taxi
+1760	7	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,attraction,taxi
+1760	8	USER	では地区はどこでも大丈夫です！	general,shopping,attraction,taxi
+1760	9	SYSTEM	札幌市アイヌ文化交流センター サッポロピリカコタンは、いかがでしょうか？	general,shopping,attraction,taxi
+1760	10	USER	大人入場料は分かりますか？	general,shopping,attraction,taxi
+1760	11	SYSTEM	入場料は、無料です。	general,shopping,attraction,taxi
+1760	12	USER	ありがとうございます。ジャンボタクシーを利用したいんですが、タクシー会社を探していただけますか？	general,shopping,attraction,taxi
+1760	13	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,attraction,taxi
+1760	14	USER	ではジャンボタクシーじゃなくて大丈夫です。	general,shopping,attraction,taxi
+1760	15	SYSTEM	では、日北交通(株)はいかがですか？	general,shopping,attraction,taxi
+1760	16	USER	電話番号は分かりますか？	general,shopping,attraction,taxi
+1760	17	SYSTEM	電話番号は、0118888686です。	general,shopping,attraction,taxi
+1760	18	USER	ありがとうございます。では予約をお願いします！北海道どさんこプラザを出発して、札幌市アイヌ文化交流センター サッポロピリカコタンまでお願いします。	general,shopping,attraction,taxi
+1760	19	SYSTEM	日時は、いつがよろしいですか？	general,shopping,attraction,taxi
+1760	20	USER	4/1の15:10でお願いします。	general,shopping,attraction,taxi
+1760	21	SYSTEM	予約出来ました。予約番号は、34812です。	general,shopping,attraction,taxi
+1760	22	USER	ありがとうございます。	general,shopping,attraction,taxi
+1760	23	SYSTEM	他にご用件はありますか？	general,shopping,attraction,taxi
+1760	24	USER	いえ、色々とありがとうございました。	general,shopping,attraction,taxi
+1760	25	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,attraction,taxi

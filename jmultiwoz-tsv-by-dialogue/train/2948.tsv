@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2948	0	USER	札幌への旅行を計画しています。 当日買い物ができるところを探してください。	general,shopping,hotel
+2948	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,hotel
+2948	2	USER	駐車場を無料で利用できるところにしてください。ジャンルはスーパーマーケットがいいです。	general,shopping,hotel
+2948	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,hotel
+2948	4	USER	そうですか。ではジャンルは考慮しないものとします。	general,shopping,hotel
+2948	5	SYSTEM	エリアでいうと東区にある、アリオ札幌はいかがでしょう？ジャンルは、百貨店や総合スーパーとなります。	general,shopping,hotel
+2948	6	USER	そこがいいです。住所を教えてください。	general,shopping,hotel
+2948	7	SYSTEM	はい、住所は北海道札幌市東区北7条東9丁目2-20となります。	general,shopping,hotel
+2948	8	USER	続いて宿泊施設を探してください。地区は中央区、Wi-Fiが無料で利用できるところにしてください。	general,shopping,hotel
+2948	9	SYSTEM	では、ネストホテル札幌駅前はいかがでしょう？タイプはビジネスホテルとなります。	general,shopping,hotel
+2948	10	USER	チェックイン開始時刻は何時でしょうか。	general,shopping,hotel
+2948	11	SYSTEM	チェックイン開始時刻は１５時となります。	general,shopping,hotel
+2948	12	USER	では予約をお願いします。人数は2人、日付は6/17、宿泊日数は4泊でお願いします。	general,shopping,hotel
+2948	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、5293となります。	general,shopping,hotel
+2948	14	USER	解決しました。ありがとうございました。	general,shopping,hotel

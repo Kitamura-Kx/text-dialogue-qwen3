@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2796	0	USER	札幌への旅行を検討しています。当時利用できる観光名所を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,attraction
+2796	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction
+2796	2	USER	そうですね。Wi-Fiが無料で利用出来る場所ってありますかね？	general,attraction
+2796	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction
+2796	4	USER	でしたら、Wi-Fiは考慮しませんので、何処かおすすめの場所ってありますかね？	general,attraction
+2796	5	SYSTEM	では、エリアでいうと南区にある、ノースサファリサッポロはいかがでしょう？ジャンルは、動物園、グランピングとなります。	general,attraction
+2796	6	USER	では、そこで検討してみようと思います。この施設には駐車場はありますか？	general,attraction
+2796	7	SYSTEM	はい、有料ですがご利用いただけます。	general,attraction
+2796	8	USER	そうなんですね。それと、子供もいるので、子供の入場料も教えて頂けますか？	general,attraction
+2796	9	SYSTEM	はい、子供入場料は600円となります。	general,attraction
+2796	10	USER	ありがとうございます。もう少し検討してみます。ご対応、ありがとうございました。	general,attraction
+2796	11	SYSTEM	ありがとうございました。	general,attraction

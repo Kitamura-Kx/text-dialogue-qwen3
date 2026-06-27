@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+725	0	USER	那覇で飲食店を探しています。安めの予算で食べられて、無料でWifiが使えるところはありますか？	general,restaurant,shopping
+725	1	SYSTEM	はい、エリアでいうと小禄にある、琉球村 那覇空港店はいかがでしょう？	general,restaurant,shopping
+725	2	USER	いいですね。住所と電話番号を教えて頂けますか？あと、そのお店はジャンルでいうと何になりますか？	general,restaurant,shopping
+725	3	SYSTEM	はい、住所は沖縄県那覇市鏡水150、電話番号は0988401201、ジャンルは郷土料理、うどん、そばとなります。	general,restaurant,shopping
+725	4	USER	ありがとうございます！続いて、買い物スポット情報もお願いできますか？本庁地区で無料の駐車場があるスーパーマーケットを探してます。	general,restaurant,shopping
+725	5	SYSTEM	承知しました。フレッシュプラザユニオン前島店はいかがでしょう？	general,restaurant,shopping
+725	6	USER	いいですね。最寄り駅からの所要時間と、電話番号、定休日も教えて頂けますか？	general,restaurant,shopping
+725	7	SYSTEM	はい、最寄りの美栄橋駅からは徒歩で2分、電話番号は0988675006、定休日はございません。	general,restaurant,shopping
+725	8	USER	分かりました。ありがとうございます！	general,restaurant,shopping

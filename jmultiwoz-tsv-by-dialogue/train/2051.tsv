@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2051	0	USER	大阪に旅行を考えていて、中央区でWi-Fiが無料で使えて、予算高めな飲食店ってありますか？	general,restaurant,taxi
+2051	1	SYSTEM	かしこまりました。では、神楽はいかがでしょうか？ジャンルは和食, 寿司・魚料理, 居酒屋になります。	general,restaurant,taxi
+2051	2	USER	ありがとうございます。そこにします。そのお店って定休日はありますか？	general,restaurant,taxi
+2051	3	SYSTEM	はい。定休日は日曜日となっております。	general,restaurant,taxi
+2051	4	USER	そうなんですね。では、人数は2人で、7/13の14:40に予約をお願いします。	general,restaurant,taxi
+2051	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、21728 です。	general,restaurant,taxi
+2051	6	USER	ありがとうございます。当日ジャンボタクシーを利用したくて、キャッシュレス払いできるタクシー会社はありますか？	general,restaurant,taxi
+2051	7	SYSTEM	かしこまりました。では、近鉄タクシー株式会社はいかがでしょうか？	general,restaurant,taxi
+2051	8	USER	ありがとうございます。予約をしたいのですが、7/13の12:50に、出発地は大阪市立美術館で、目的地は先ほどの飲食店でお願いできますか？	general,restaurant,taxi
+2051	9	SYSTEM	先ほどの飲食店というのは神楽でよろしかったですか？	general,restaurant,taxi
+2051	10	USER	はい。そこでお願いします。	general,restaurant,taxi
+2051	11	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,taxi
+2051	12	USER	では、13：50だと予約できますか？	general,restaurant,taxi
+2051	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、26476です。	general,restaurant,taxi
+2051	14	USER	ありがとうございます。	general,restaurant,taxi
+2051	15	SYSTEM	他にご用件はありますか？	general,restaurant,taxi
+2051	16	USER	いえ、大丈夫です。ありがとうございました。	general,restaurant,taxi

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3655	0	USER	京都へ旅行に行こうと思っています。当日買い物ができるところを探しています。ジャンルはファッションで最寄駅は京都駅が希望です。	general,shopping
+3655	1	SYSTEM	かしこまりました。それではABC−MART 京都アバンティ店はいかがでしょうか？	general,shopping
+3655	2	USER	そこの住所と定休日を教えてください。	general,shopping
+3655	3	SYSTEM	はい、住所は京都府京都市南区東九条西山王町31でして、定休日はございません。	general,shopping
+3655	4	USER	分かりました。ありがとうございます。	general,shopping
+3655	5	SYSTEM	その他にご用件はございますか？	general,shopping
+3655	6	USER	はい。大丈夫です。	general,shopping
+3655	7	SYSTEM	かしこまりました。ありがとうございました。またお待ちしております。	general,shopping

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4551	0	USER	名古屋に旅行するのですが郷土料理のレストランを探しています。	general,restaurant,hotel
+4551	1	SYSTEM	1件みつかりました。蒲郡桔梗屋はいかがですか？	general,restaurant,hotel
+4551	2	USER	最寄り駅は本郷駅がいいのですが	general,restaurant,hotel
+4551	3	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,hotel
+4551	4	USER	じゃあ、何のお店でも大丈夫です。本郷駅近くであれば。	general,restaurant,hotel
+4551	5	SYSTEM	1件みつかりました。スペイン料理 ダリはいかがですか？	general,restaurant,hotel
+4551	6	USER	そこに行こうと思います。そこの定休日と値段を教えて下さい。それとWIFIは使えますか？	general,restaurant,hotel
+4551	7	SYSTEM	定休日は、水曜日となっています。料金情報は、コースランチ　2200円です。	general,restaurant,hotel
+4551	8	USER	WIFIはダメでしょうか？	general,restaurant,hotel
+4551	9	SYSTEM	申し訳ありません、Wi-Fi利用につきましては、不明となっています。	general,restaurant,hotel
+4551	10	USER	なるほど、大丈夫です！	general,restaurant,hotel
+4551	11	SYSTEM	他にご用件はありますか？	general,restaurant,hotel
+4551	12	USER	えっと、レストラン付きの宿泊施設で丸の内駅が最寄りのところを探しています。	general,restaurant,hotel
+4551	13	SYSTEM	では、アイリス愛知というホテルはいかがですか？	general,restaurant,hotel
+4551	14	USER	エリアはどこですか？最寄駅からの所要時間を教えて下さい。	general,restaurant,hotel
+4551	15	SYSTEM	エリアは、です。　所要時間は、丸の内駅から徒歩で8分となっています。	general,restaurant,hotel
+4551	16	USER	だいたいよさそうです。予約してほしいのですが人数は2人で6/26で4泊です。ここってエリアは何になるんでしょう？	general,restaurant,hotel
+4551	17	SYSTEM	予約が完了しました。　予約番号は、68256です。	general,restaurant,hotel
+4551	18	USER	あまり、この辺を知らないのですがエリアがよくわからなかったのですがもう一度教えて下さい。	general,restaurant,hotel
+4551	19	SYSTEM	申し訳ありません、エリアは、中区となっています。	general,restaurant,hotel
+4551	20	USER	中区ですか！ありがとうございます。以上です。ありがとうございました。	general,restaurant,hotel
+4551	21	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel

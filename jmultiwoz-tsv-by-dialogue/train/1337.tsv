@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1337	0	USER	札幌への旅行を計画しています．	general,hotel,weather,taxi
+1337	1	SYSTEM	はい。お問合せありがとうございます。	general,hotel,weather,taxi
+1337	2	USER	当日泊まる宿泊施設を探してください．駐車場を無料で利用でレストランが併設されているところにしてください．予算は安めが希望です．	general,hotel,weather,taxi
+1337	3	SYSTEM	定山渓万世閣ホテルミリオーネはいかがでしょうか。	general,hotel,weather,taxi
+1337	4	USER	いいですね。そちらは近辺の駅からの所要時間はどれくらいですか。	general,hotel,weather,taxi
+1337	5	SYSTEM	近辺の駅からの所要時間は札幌駅からタクシーで60分くらいです。	general,hotel,weather,taxi
+1337	6	USER	ありがとうございます。そちらを人数は2人、日付は1/7で宿泊日数は4泊で予約して欲しいです。	general,hotel,weather,taxi
+1337	7	SYSTEM	予約できました。予約番号は39895になります。	general,hotel,weather,taxi
+1337	8	USER	ありがとうございます。あと、1/7の白石区の天気を教えて欲しいです。	general,hotel,weather,taxi
+1337	9	SYSTEM	晴になっています。	general,hotel,weather,taxi
+1337	10	USER	最高気温，最低気温も教えて欲しいです。	general,hotel,weather,taxi
+1337	11	SYSTEM	最低気温は-9度で 最高気温は1.2度になっています。	general,hotel,weather,taxi
+1337	12	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してください．ジャンボタクシーとキャッシュレス払いできるところがいいです。	general,hotel,weather,taxi
+1337	13	SYSTEM	ダイコク交通(株)はいかがでしょうか。	general,hotel,weather,taxi
+1337	14	USER	そちらの電話番号がききたいです。	general,hotel,weather,taxi
+1337	15	SYSTEM	電話番号は0117416000です。	general,hotel,weather,taxi
+1337	16	USER	ありがとうございます。そちらを日付は1/7、時間は12:00、出発地は先ほど見つけた宿泊所で目的地はR&Bホテル札幌北3西2というところで予約してほしいです。	general,hotel,weather,taxi
+1337	17	SYSTEM	予約できました。予約番号は20384です。	general,hotel,weather,taxi
+1337	18	USER	ありがとうございます。	general,hotel,weather,taxi

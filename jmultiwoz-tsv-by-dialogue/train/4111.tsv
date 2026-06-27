@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4111	0	USER	名古屋への旅行を計画しています。 当日泊まる宿泊施設を探してください。	general,hotel,shopping
+4111	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,shopping
+4111	2	USER	レストランが併設されてて、駐車場を無料で利用できて、Wi-Fiが無料で利用できるところにしてください。	general,hotel,shopping
+4111	3	SYSTEM	エリアでいうと中区にある、アイリス愛知はいかがでしょう？タイプはシティホテルとなります。	general,hotel,shopping
+4111	4	USER	チェックアウト終了時刻を教えてほしいです。	general,hotel,shopping
+4111	5	SYSTEM	チェックアウト終了時刻は11時となります。	general,hotel,shopping
+4111	6	USER	当日買い物ができるところを探してください。駐車場を無料で利用できるところが希望です。	general,hotel,shopping
+4111	7	SYSTEM	エリアでいうと中区にある、セントラルパークはいかがでしょう？ジャンルは、ショッピングモールとなります。	general,hotel,shopping
+4111	8	USER	いいですね。営業時間を教えてください。	general,hotel,shopping
+4111	9	SYSTEM	営業時間は10時から21時となります。	general,hotel,shopping
+4111	10	USER	解決しました。ありがとうございました。	general,hotel,shopping

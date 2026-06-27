@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3374	0	USER	札幌に行きます。西線９条旭山公園通停留所の近くで、駐車場が無料な鍋が食べれるお店おしえてください。	general,restaurant
+3374	1	SYSTEM	申し訳ございません。頂いた条件ですと、該当がございませんでした。	general,restaurant
+3374	2	USER	では場所はどこでもいいです。	general,restaurant
+3374	3	SYSTEM	そうしますと、しゃぶしゃぶ温野菜 北24条店ともう1件該当がございます。いかがでしょうか？	general,restaurant
+3374	4	USER	エリアはどのへんですか？料金情報もお願いします。	general,restaurant
+3374	5	SYSTEM	エリアは北区です。料金は、食べ放題三元豚コースが2680円、食べ放題厳選牛コースが2980円、とのことです。	general,restaurant
+3374	6	USER	Wi-Fiありますか？	general,restaurant
+3374	7	SYSTEM	wi-fiは不明となっております。	general,restaurant
+3374	8	USER	分かりました。ありがとうございます。	general,restaurant
+3374	9	SYSTEM	ありがとうございました。	general,restaurant

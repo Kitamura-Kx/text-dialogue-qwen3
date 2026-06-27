@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3754	0	USER	京都への旅行を計画したいのですが。	general,restaurant
+3754	1	SYSTEM	どのようなお店や施設をご希望ですか？	general,restaurant
+3754	2	USER	最寄り駅が貴船口駅で、カフェ・スイーツの食べれる飲食店を探しています。	general,restaurant
+3754	3	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant
+3754	4	USER	では、ジャンルは考慮しなくても大丈夫です。	general,restaurant
+3754	5	SYSTEM	1件みつかりました。貴船 喜らくはいかがでしょうか？	general,restaurant
+3754	6	USER	そちらにします。住所と定休日を教えて下さい。	general,restaurant
+3754	7	SYSTEM	住所は、京都府京都市左京区鞍馬貴船町47です。　定休日は、無しとなっています。	general,restaurant
+3754	8	USER	ありがとうございます。	general,restaurant
+3754	9	SYSTEM	他にご用件はありますか？	general,restaurant
+3754	10	USER	特にありません。	general,restaurant
+3754	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant

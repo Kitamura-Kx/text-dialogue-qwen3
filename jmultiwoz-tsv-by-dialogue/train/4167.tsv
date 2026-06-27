@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4167	0	USER	横浜の観光名所を探しています。無料のWiFiが使えるところが良いのですが。	general,attraction,restaurant,taxi
+4167	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,attraction,restaurant,taxi
+4167	2	USER	では、WiFiはなくても大丈夫です。	general,attraction,restaurant,taxi
+4167	3	SYSTEM	では、三菱みなとみらい技術館はいかがでしょうか？	general,attraction,restaurant,taxi
+4167	4	USER	ありがとうございます。そこに行こうと思います。三菱みなとみらい技術館の近くで食事もしたいと思うのですが、駐車場が無料で最寄りが新横浜駅の飲食店はありますか？	general,attraction,restaurant,taxi
+4167	5	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,restaurant,taxi
+4167	6	USER	では、最寄りは新横浜駅でなくてもいいです。	general,attraction,restaurant,taxi
+4167	7	SYSTEM	では、三和楼はいかがですか？	general,attraction,restaurant,taxi
+4167	8	USER	ありがとうございます。営業時間と住所が知りたいです。	general,attraction,restaurant,taxi
+4167	9	SYSTEM	営業時間は、11時30分から21時30分までです。　住所は、神奈川県横浜市中区山下町190になります。	general,attraction,restaurant,taxi
+4167	10	USER	いいですね。そこにします。8月20日の13時40分からで予約を取っていただけますか？	general,attraction,restaurant,taxi
+4167	11	SYSTEM	予約される人数をお願いします。	general,attraction,restaurant,taxi
+4167	12	USER	4人でお願いします。	general,attraction,restaurant,taxi
+4167	13	SYSTEM	予約出来ました。予約番号は、10305 です。	general,attraction,restaurant,taxi
+4167	14	USER	ありがとうございます。	general,attraction,restaurant,taxi
+4167	15	SYSTEM	他にご用件はございますか？	general,attraction,restaurant,taxi
+4167	16	USER	大丈夫です。助かりました。	general,attraction,restaurant,taxi
+4167	17	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,taxi
+4167	18	USER	ごめんなさい。まだありました。当日使えるタクシー会社も探したいのですが。	general,attraction,restaurant,taxi
+4167	19	SYSTEM	タクシーですね、日本サントスキャブ株式会社はいかがですか？	general,attraction,restaurant,taxi
+4167	20	USER	キャッシュレス払いは使えますか？	general,attraction,restaurant,taxi
+4167	21	SYSTEM	はい、こちらはキャッシュレス対応しております。	general,attraction,restaurant,taxi
+4167	22	USER	ありがとうございます。ジャンボタクシーを使いたいのですが対応していますでしょうか。	general,attraction,restaurant,taxi
+4167	23	SYSTEM	はい、ジャンボタクシーも対応可能となっております。	general,attraction,restaurant,taxi
+4167	24	USER	良かったです。8月20日の12時30分からで予約をお願いします。三菱みなとみらい技術館から三和楼まででお願いします。	general,attraction,restaurant,taxi
+4167	25	SYSTEM	予約が完了しました。　予約番号は、47844になります。	general,attraction,restaurant,taxi
+4167	26	USER	ありがとうございます。	general,attraction,restaurant,taxi
+4167	27	SYSTEM	他にご用件はございますか？	general,attraction,restaurant,taxi
+4167	28	USER	大丈夫です。ありがとうございます。	general,attraction,restaurant,taxi
+4167	29	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,taxi

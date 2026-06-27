@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3313	0	USER	横浜へ旅行に行くのですが、ナビオス横浜という宿泊施設はありますか？	general,hotel,restaurant
+3313	1	SYSTEM	はい、中区のリゾートホテルですね。	general,hotel,restaurant
+3313	2	USER	そうです、電話番号を教えて下さい。	general,hotel,restaurant
+3313	3	SYSTEM	0456336000です	general,hotel,restaurant
+3313	4	USER	このホテルに予約を入れたいのですが、7月23日から2泊、3人でできますか？	general,hotel,restaurant
+3313	5	SYSTEM	上記条件で予約に成功しました。予約番号は1150です。	general,hotel,restaurant
+3313	6	USER	ありがとうございます。次は駐車場が無料の飲食店を探してください。	general,hotel,restaurant
+3313	7	SYSTEM	いくつかありますが、横浜らしく、中華の三和楼はいかがでしょうか？	general,hotel,restaurant
+3313	8	USER	いいですね、そのお店のエリアと料金情報を教えてください。	general,hotel,restaurant
+3313	9	SYSTEM	中区、特選コース5500円がウリのようです。	general,hotel,restaurant
+3313	10	USER	では7月23日の11：20に、4人で予約できますか？	general,hotel,restaurant
+3313	11	SYSTEM	予約成功しました。予約番号は77981です。	general,hotel,restaurant
+3313	12	USER	ありがとうございました。	general,hotel,restaurant
+3313	13	SYSTEM	よい旅を	general,hotel,restaurant

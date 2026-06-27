@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3158	0	USER	横浜へ旅行へ行くので、駐車場が無料で利用できて、ジャンルがおもちゃのお店を探してもらえますか？	general,shopping,hotel
+3158	1	SYSTEM	ポポンデッタ横浜ビブレ店は、いかがですか？	general,shopping,hotel
+3158	2	USER	そこにしようと思うので、最寄り駅を教えてください。	general,shopping,hotel
+3158	3	SYSTEM	最寄り駅は、横浜駅です。	general,shopping,hotel
+3158	4	USER	ありがとうございます。あと駐車場が無料で利用できるリゾートホテルも探してもらえますか？	general,shopping,hotel
+3158	5	SYSTEM	ホテル パセラの森 横浜関内は、いかがですか？	general,shopping,hotel
+3158	6	USER	料金情報を教えてもらえますか？	general,shopping,hotel
+3158	7	SYSTEM	申し訳ありません、料金情報の記載はございません。	general,shopping,hotel
+3158	8	USER	わかりました。では7/26から４泊で２人で予約をお願いします。	general,shopping,hotel
+3158	9	SYSTEM	予約出来ました。予約番号は、67891 です。	general,shopping,hotel
+3158	10	USER	ありがとうございます。	general,shopping,hotel
+3158	11	SYSTEM	他にご用件はありますか？	general,shopping,hotel
+3158	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,hotel

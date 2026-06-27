@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3236	0	USER	札幌旅行の時に行く観光地を探しています。	general,attraction,taxi,weather
+3236	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,taxi,weather
+3236	2	USER	中央区で探してほしいです。最寄り駅は札幌駅が良いですね。	general,attraction,taxi,weather
+3236	3	SYSTEM	では、JRタワー展望室 タワー・スリーエイトはいかがでしょう？ジャンルは、展望台、タワー、絶景となります。	general,attraction,taxi,weather
+3236	4	USER	良さそうですね、そちらの料金情報もいただけますか？	general,attraction,taxi,weather
+3236	5	SYSTEM	はい、料金情報としては、当日券大人740円、中高生520円、小学生と幼児320円、3歳以下無料、となります。	general,attraction,taxi,weather
+3236	6	USER	ありがとうございます。あと、当日利用するタクシー会社も探してください。キャッシュレスでの支払いを希望します。	general,attraction,taxi,weather
+3236	7	SYSTEM	では、北都交通(株)はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0112904181となります。	general,attraction,taxi,weather
+3236	8	USER	分かりました。それでは11/12にタクシーの予約をお願いします。14:50にJRタワー展望室 タワー・スリーエイトから乗車、豊平館までお願いしたいです。	general,attraction,taxi,weather
+3236	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、31206となります。	general,attraction,taxi,weather
+3236	10	USER	ありがとうございます。それと、11/12の手稲区の天候を知りたいです。この日の、最低気温と最高気温はどのくらいになるか分かりますか？	general,attraction,taxi,weather
+3236	11	SYSTEM	はい、最低気温4.5度、最高気温12.6度となります。他にご用件はございますか？	general,attraction,taxi,weather
+3236	12	USER	ありがとうございます。	general,attraction,taxi,weather
+3236	13	SYSTEM	ありがとうございました。	general,attraction,taxi,weather

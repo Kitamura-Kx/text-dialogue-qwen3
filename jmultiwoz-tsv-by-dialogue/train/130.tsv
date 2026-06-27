@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+130	0	USER	仙台に行く予定が出来まして、当日食事できる場所を調べてもらっていいですか？	general,restaurant
+130	1	SYSTEM	承知致しました。ジャンルやエリアのご希望はございますか？	general,restaurant
+130	2	USER	泉区周辺のお店で、無料駐車場が付いているところでお願いします。値段は高級路線でぜひ。	general,restaurant
+130	3	SYSTEM	ありがとうございます。牛たん炭焼 利久 泉本店か、桂花苑はいかがでしょうか？桂花苑はジャンルが中華料理, ホテルレストランとなります。	general,restaurant
+130	4	USER	牛たん炭焼 利久 泉本店に行ってみたいです。何系のお店になるんでしょうかね？	general,restaurant
+130	5	SYSTEM	牛たん炭焼 利久 泉本店は、ジャンルが郷土料理, 居酒屋となります。住所は仙台市泉区八乙女中央2丁目1-18、お電話番号は0223724811です。ご予約されますか？	general,restaurant
+130	6	USER	いや、予約は少し検討してからにします。	general,restaurant
+130	7	SYSTEM	承知致しました。他にご用件はございますか？	general,restaurant
+130	8	USER	いえ、いまのところ、特にないです。ありがとうございました。	general,restaurant
+130	9	SYSTEM	承知致しました。ありがとうございました。	general,restaurant

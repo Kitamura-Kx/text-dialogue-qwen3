@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3792	0	USER	福岡への旅行で泊まる宿泊施設を探しているのですが、レストランが併設されている旅館はありますか？	general,hotel,attraction
+3792	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel,attraction
+3792	2	USER	それなら、レストランは併設されていなくても良いです。	general,hotel,attraction
+3792	3	SYSTEM	ありがとうございます。そうしますと、OYO 山本旅館 福岡 博多という博多区エリアの旅館がご案内可能です。いかがでしょうか？	general,hotel,attraction
+3792	4	USER	いいですね。そこの電話番号とチェックイン開始時刻を教えて下さい。	general,hotel,attraction
+3792	5	SYSTEM	電話番号は、0922911176です。チェックインは14時からとなっております。	general,hotel,attraction
+3792	6	USER	ありがとうございます。南区のWi-Fiが無料の観光名所も探してもらえますか？	general,hotel,attraction
+3792	7	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,hotel,attraction
+3792	8	USER	それなら、Wi-Fiは外してもらって大丈夫です。	general,hotel,attraction
+3792	9	SYSTEM	ありがとうございます。では、福太郎本社(めんたい工場)というところはいかがでしょうか？ジャンルとしては、工場見学の施設となります。	general,hotel,attraction
+3792	10	USER	そちらの、子供入場料はわかりますか？	general,hotel,attraction
+3792	11	SYSTEM	はい、お子様も大人も入場料0円で、無料です。	general,hotel,attraction
+3792	12	USER	いいですね。ありがとうございます。	general,hotel,attraction
+3792	13	SYSTEM	他にお調べすることはございませんか？	general,hotel,attraction
+3792	14	USER	はい、大丈夫です。ありがとうございました。	general,hotel,attraction
+3792	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction

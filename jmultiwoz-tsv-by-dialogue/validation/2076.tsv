@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2076	0	USER	札幌でレストラン併設の宿泊施設を探してもらえますか？Wi-Fiが無料で使えるところが希望です。	general,hotel,weather,taxi
+2076	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,hotel,weather,taxi
+2076	2	USER	そうですか。ではレストランはなくても構わないので、再度探してもらえますか？	general,hotel,weather,taxi
+2076	3	SYSTEM	かしこまりました。それではアパホテルEXCELLENTはいかがでしょうか？	general,hotel,weather,taxi
+2076	4	USER	いいですね。電話番号を教えてもらえますか？	general,hotel,weather,taxi
+2076	5	SYSTEM	電話番号は0117567733でございます。	general,hotel,weather,taxi
+2076	6	USER	ありがとうございます。当日の天候も調べてほしいです。手稲区の1/6の気温が知りたいのですが。	general,hotel,weather,taxi
+2076	7	SYSTEM	かしこまりました。当日の天気は曇時々雪、最低気温は-9.7度、最高気温が4.8度の予報です。	general,hotel,weather,taxi
+2076	8	USER	わかりました。当日利用できるタクシー会社も探してもらえますか？キャッシュレス払いできるところがいいです。	general,hotel,weather,taxi
+2076	9	SYSTEM	かしこまりました。それでは昭和交通(株)はいかがでしょうか？	general,hotel,weather,taxi
+2076	10	USER	そちらはジャンボタクシーには対応していますか？	general,hotel,weather,taxi
+2076	11	SYSTEM	申し訳ございません。ジャンボタクシーの対応はございません。	general,hotel,weather,taxi
+2076	12	USER	わかりました。そちらの電話番号を教えてもらえますか？	general,hotel,weather,taxi
+2076	13	SYSTEM	はい、電話番号は0117811525でございます。	general,hotel,weather,taxi
+2076	14	USER	では、1/6の13:00に予約をお願いします。	general,hotel,weather,taxi
+2076	15	SYSTEM	かしこまりました。出発地と目的地はいかがされますか？	general,hotel,weather,taxi
+2076	16	USER	アパホテルEXCELLENTからうなぎ 仲じままででお願いします。	general,hotel,weather,taxi
+2076	17	SYSTEM	はい。予約番号55099でお取りさせていただきました。	general,hotel,weather,taxi
+2076	18	USER	わかりました。どうもありがとう。	general,hotel,weather,taxi

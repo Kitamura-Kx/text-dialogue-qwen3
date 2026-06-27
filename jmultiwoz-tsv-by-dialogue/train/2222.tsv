@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2222	0	USER	仙台へ旅行に行くので、観光できるところを探してください。	general,attraction,hotel,shopping
+2222	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,hotel,shopping
+2222	2	USER	地区は太白区で、Wi-Fiが無料で利用できるところにしてください。	general,attraction,hotel,shopping
+2222	3	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,attraction,hotel,shopping
+2222	4	USER	では地区の条件は外して構いません。	general,attraction,hotel,shopping
+2222	5	SYSTEM	エリアでいうと泉区にある、namcoアリオ仙台泉店はいかがでしょう？ジャンルは、エンタメ、アミューズメント、となります。	general,attraction,hotel,shopping
+2222	6	USER	そちらの近辺の駅からの所要時間と料金情報を教えてください。	general,attraction,hotel,shopping
+2222	7	SYSTEM	最寄りの泉中央駅から徒歩で5分となります。料金情報は無料、となっております。	general,attraction,hotel,shopping
+2222	8	USER	次に宿泊施設を探してください。	general,attraction,hotel,shopping
+2222	9	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,hotel,shopping
+2222	10	USER	宿のタイプは旅館で、地区は青葉区、駐車場を無料で利用できるところにしてください。	general,attraction,hotel,shopping
+2222	11	SYSTEM	湯の原ホテルはいかがでしょう？	general,attraction,hotel,shopping
+2222	12	USER	そちらはレストランはありますか？	general,attraction,hotel,shopping
+2222	13	SYSTEM	申し訳ありません。併設のレストランはございません。	general,attraction,hotel,shopping
+2222	14	USER	わかりました。そちらで予約してください。人数は4人、日付は5/15、宿泊日数は4泊です。	general,attraction,hotel,shopping
+2222	15	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,attraction,hotel,shopping
+2222	16	USER	では宿泊日数を3泊に変更してください。	general,attraction,hotel,shopping
+2222	17	SYSTEM	予約が可能になりまして、ご予約番号は、70611となります。	general,attraction,hotel,shopping
+2222	18	USER	ではそれで予約してください。あと買い物ができるところを探してください。	general,attraction,hotel,shopping
+2222	19	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,hotel,shopping
+2222	20	USER	ジャンルはおもちゃで、最寄り駅が泉中央駅、駐車場を無料で利用できるところにしてください。	general,attraction,hotel,shopping
+2222	21	SYSTEM	エリアでいうと泉区にある、アカチャンホンポ 仙台泉店はいかがでしょう？	general,attraction,hotel,shopping
+2222	22	USER	そちらの近辺の駅からの所要時間を教えてください。	general,attraction,hotel,shopping
+2222	23	SYSTEM	最寄りの泉中央駅からタクシーで3分となります。	general,attraction,hotel,shopping
+2222	24	USER	ありがとうございました。以上です。	general,attraction,hotel,shopping
+2222	25	SYSTEM	ありがとうございました。	general,attraction,hotel,shopping

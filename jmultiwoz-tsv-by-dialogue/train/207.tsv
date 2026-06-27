@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+207	0	USER	那覇に旅行に行きたいのですが、宿泊施設を探してもらえないでしょうか？	general,hotel,taxi
+207	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,taxi
+207	2	USER	駐車場代がいらない、リゾートホテルだとありがたいです。	general,hotel,taxi
+207	3	SYSTEM	申し訳ございません。その条件ですと案内できるところがございませんでした。	general,hotel,taxi
+207	4	USER	そうですか。では駐車場代が不要なシティホテルだとありますか？	general,hotel,taxi
+207	5	SYSTEM	はい。パシフィックホテル沖縄がございます。	general,hotel,taxi
+207	6	USER	パシフィックホテル沖縄の予約を取ってもらいたいです。	general,hotel,taxi
+207	7	SYSTEM	かしこまりました。ではご希望の人数、宿泊の日付を教えていただけますか。	general,hotel,taxi
+207	8	USER	人数は4人、4/14から3泊でお願いします。	general,hotel,taxi
+207	9	SYSTEM	はい。予約が完了いたしました。予約番号は56483でございます。	general,hotel,taxi
+207	10	USER	ありがとうございます。あとタクシー会社も探したいと思っています。	general,hotel,taxi
+207	11	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,taxi
+207	12	USER	ジャンボタクシーが利用できるところを希望します。	general,hotel,taxi
+207	13	SYSTEM	では三和交通はいかがでしょうか。	general,hotel,taxi
+207	14	USER	三和交通はキャッシュレス決済に対応しているのでしょうか？	general,hotel,taxi
+207	15	SYSTEM	はい。キャッシュレスにも対応しております。	general,hotel,taxi
+207	16	USER	そうですか。こちらのタクシー会社の電話番号をお伺いしても？	general,hotel,taxi
+207	17	SYSTEM	電話番号は0120100084でございます。	general,hotel,taxi
+207	18	USER	ありがとうございます。こちらの会社で予約を取って頂きたいです。	general,hotel,taxi
+207	19	SYSTEM	かしこまりました。では条件を教えていただけますか。	general,hotel,taxi
+207	20	USER	4/14の時間は10:50、パシフィックホテル沖縄を出発して、やっぱりステーキ 久茂地店までお願いします。	general,hotel,taxi
+207	21	SYSTEM	はい。予約が完了いたしました。予約番号は12070でございます。	general,hotel,taxi
+207	22	USER	ありがとうございます。助かりました。	general,hotel,taxi

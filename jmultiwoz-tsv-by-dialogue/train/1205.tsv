@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1205	0	USER	仙台へ旅行の計画中です。愛宕橋駅付近で駐車場とWi-Fiが無料の観光名所はありますか？	general,attraction,taxi
+1205	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,taxi
+1205	2	USER	わかりました、それでは最寄り駅はこだわりません。	general,attraction,taxi
+1205	3	SYSTEM	仙台うみの杜水族館は、いかがでしょう？	general,attraction,taxi
+1205	4	USER	仙台うみの杜水族館の営業時間を教えて下さい。	general,attraction,taxi
+1205	5	SYSTEM	営業時間は、午前10時から午後5時までとなっています。	general,attraction,taxi
+1205	6	USER	ありがとうございます、当日はジャンボタクシーも利用したいのですが可能なタクシー会社はありますか？	general,attraction,taxi
+1205	7	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,taxi
+1205	8	USER	それではジャンボタクシーは諦めます。	general,attraction,taxi
+1205	9	SYSTEM	宮城タクシー（株）は、いかがでしょうか？	general,attraction,taxi
+1205	10	USER	それではタクシーの予約をお願いします。6/22の13:30「仙台うみの杜水族館」から「ホテルグリーンパーク」までお願いします。	general,attraction,taxi
+1205	11	SYSTEM	予約出来ました。予約番号は、17768です。	general,attraction,taxi
+1205	12	USER	有難うございました、助かりました。	general,attraction,taxi
+1205	13	SYSTEM	他にご用件はございますか？	general,attraction,taxi
+1205	14	USER	いえ大丈夫です	general,attraction,taxi
+1205	15	SYSTEM	承知致しました。　ありがとうございました。	general,attraction,taxi

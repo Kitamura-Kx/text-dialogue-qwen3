@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3741	0	USER	大阪へ旅行するのですが最寄り駅が大江橋駅のラーメン・つけ麺のお店を探しています。	general,restaurant,weather
+3741	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,weather
+3741	2	USER	ジャンルにこだわらなければどうですか？	general,restaurant,weather
+3741	3	SYSTEM	では、エリアでいうと北区にある、リストランテ ドゥエ フィオーリはいかがでしょう？ジャンルは、イタリアン、フレンチ、洋食、西洋料理、となります。	general,restaurant,weather
+3741	4	USER	ありがとうございます。そこの営業時間を教えて下さい。あと駐車場はありますか？	general,restaurant,weather
+3741	5	SYSTEM	はい、営業時間は12時から14時と、17時から21時となります。申し訳ありません、駐車場のご用意はございません。	general,restaurant,weather
+3741	6	USER	ありがとうございました。それから12月16日の西成区の最低気温を教えて下さい。	general,restaurant,weather
+3741	7	SYSTEM	はい、天気は曇のち雨、最低気温8.2度、最高気温12.3度となります。	general,restaurant,weather
+3741	8	USER	大変助かりました！以上です。どうもありがとうございました。	general,restaurant,weather
+3741	9	SYSTEM	ありがとうございました。	general,restaurant,weather

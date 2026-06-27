@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1472	0	USER	仙台へ旅行に行くので、当日食事ができる飲食店を探してください	general,restaurant,shopping
+1472	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,shopping
+1472	2	USER	駐車場を無料で利用できるところにしてください	general,restaurant,shopping
+1472	3	SYSTEM	では回転鮨 清次郎 仙台泉店はいかがでしょうか。	general,restaurant,shopping
+1472	4	USER	そちらにします。料金情報を教えてください	general,restaurant,shopping
+1472	5	SYSTEM	料金情報は例えばまぐろマウンテンが440円、清次郎ねぎとろが440円でございます。	general,restaurant,shopping
+1472	6	USER	ありがとうございます。それでは予約をお願いします。	general,restaurant,shopping
+1472	7	SYSTEM	かしこまりました。では予約の詳細をお聞かせいただけますか。	general,restaurant,shopping
+1472	8	USER	人数は4人、日付は9/13、時間は13:30です	general,restaurant,shopping
+1472	9	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,restaurant,shopping
+1472	10	USER	では人数を3人にしてください	general,restaurant,shopping
+1472	11	SYSTEM	その人数ですと予約が可能でございました。予約番号は75669でございます。	general,restaurant,shopping
+1472	12	USER	ありがとうございます。次に当日買い物ができるところを探してください。	general,restaurant,shopping
+1472	13	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,shopping
+1472	14	USER	ジャンルは家電・電化製品、地区は宮城野区で、駐車場を無料で利用できるところにしてください	general,restaurant,shopping
+1472	15	SYSTEM	ではヨドバシカメラマルチメディア仙台がございます。	general,restaurant,shopping
+1472	16	USER	そちらの定休日を教えてください	general,restaurant,shopping
+1472	17	SYSTEM	定休日はございません。	general,restaurant,shopping
+1472	18	USER	わかりました。以上です。ありがとうございました。	general,restaurant,shopping
+1472	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping

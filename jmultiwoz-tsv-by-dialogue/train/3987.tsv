@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3987	0	USER	東京で、キャッシュレスのジャンボタクシーのあるタクシー会社を教えてください。	general,taxi,weather
+3987	1	SYSTEM	かしこまりました。では小田急交通南多摩がございます。電話番号は0354847171でございます。	general,taxi,weather
+3987	2	USER	予約もお願いします。	general,taxi,weather
+3987	3	SYSTEM	はい。では予約の詳細を教えていただけますか。	general,taxi,weather
+3987	4	USER	1/17の13:30にTODAY'S SPECIAL Jiyugaokaから、バルバッコア 六本木ヒルズ店まで。	general,taxi,weather
+3987	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は72447でございます。	general,taxi,weather
+3987	6	USER	ありがとうございます。	general,taxi,weather
+3987	7	SYSTEM	ほかにご用件はございませんか。	general,taxi,weather
+3987	8	USER	1/17の渋谷区の天候も教えてください。	general,taxi,weather
+3987	9	SYSTEM	天気は晴時々曇、最低気温が3.6度で最高気温が8.9度でございます。	general,taxi,weather
+3987	10	USER	ありがとうございます。	general,taxi,weather
+3987	11	SYSTEM	ほかにご用件はございませんか。	general,taxi,weather
+3987	12	USER	もう大丈夫です。	general,taxi,weather
+3987	13	SYSTEM	承知しました。ありがとうございました。	general,taxi,weather

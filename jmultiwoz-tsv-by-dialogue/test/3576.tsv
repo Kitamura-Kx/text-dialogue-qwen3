@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3576	0	USER	今度東京へ行くんですが、シティホテルでレストランが併設されていて、無料駐車場があるところはありますか？	general,hotel,restaurant
+3576	1	SYSTEM	では帝国ホテル東京はいかがでしょうか。	general,hotel,restaurant
+3576	2	USER	そこの住所はどこですか？	general,hotel,restaurant
+3576	3	SYSTEM	住所は東京都千代田区内幸町1丁目1-1でございます。	general,hotel,restaurant
+3576	4	USER	ありがとうございます。では予約をお願いできますか？1/11から３泊で３名です。	general,hotel,restaurant
+3576	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は74118でございます。	general,hotel,restaurant
+3576	6	USER	ありがとうございます。あと、無料駐車場があって、Wi-Fiも無料の飲食店を探してもらえますか？	general,hotel,restaurant
+3576	7	SYSTEM	バルバッコア 六本木ヒルズ店はいかがですか。	general,hotel,restaurant
+3576	8	USER	そこはどこのエリアにありますか？あと、どんなジャンルのお料理の店ですか？	general,hotel,restaurant
+3576	9	SYSTEM	ジャンルは洋食・西洋料理, 居酒屋でございます。	general,hotel,restaurant
+3576	10	USER	わかりました。エリアはどのあたりですか？	general,hotel,restaurant
+3576	11	SYSTEM	エリアは港区でございます。	general,hotel,restaurant
+3576	12	USER	わかりました。では予約をお願いできますか？1/11の13：30で２名です。	general,hotel,restaurant
+3576	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は87763でございます。	general,hotel,restaurant
+3576	14	USER	ありがとうございました。以上で結構です。	general,hotel,restaurant
+3576	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant

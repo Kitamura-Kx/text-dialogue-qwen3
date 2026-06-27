@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1878	0	USER	こんばんは！今度、札幌旅行に行きたいので、宿泊施設について調べていただけますか？	general,hotel,shopping
+1878	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,shopping
+1878	2	USER	レストランが併設されているところで、予算は普通のところを希望します！	general,hotel,shopping
+1878	3	SYSTEM	かしこまりました。では、JRタワーホテル日航札幌はいかがでしょうか？	general,hotel,shopping
+1878	4	USER	わかりました。じゃぁそこについての案内をお願いします！料金情報と、住所について教えてください。	general,hotel,shopping
+1878	5	SYSTEM	はい。料金情報としては、値段帯が普通ということくらいしかありませんでした。住所は北海道札幌市中央区北5条西2丁目5番地になります。	general,hotel,shopping
+1878	6	USER	そうなんですね！わかりました。あ、あと、当日に買い物ができる所も探してるんですけど、駐車場が無料で使える所だと、どこがありますか？	general,hotel,shopping
+1878	7	SYSTEM	かしこまりました。では、マルヤマクラスはいかがでしょうか？ジャンルはショッピングモールです。	general,hotel,shopping
+1878	8	USER	そこ良さそうですね！ちなみに、最寄り駅はどこになりますか？	general,hotel,shopping
+1878	9	SYSTEM	はい。最寄りは円山公園駅になります。	general,hotel,shopping
+1878	10	USER	そうなんですね！住所についてもわかりますか？	general,hotel,shopping
+1878	11	SYSTEM	はい。住所は北海道札幌市中央区南1条西27丁目1-1でございます。	general,hotel,shopping
+1878	12	USER	お調べいただき、ありがとうございます！	general,hotel,shopping
+1878	13	SYSTEM	他にご用件はありますか？	general,hotel,shopping
+1878	14	USER	いえ、あとはもう大丈夫です！本日は色々とありがとうございました！	general,hotel,shopping
+1878	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping

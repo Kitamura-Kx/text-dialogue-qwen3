@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+693	0	USER	Wi-Fiが無料で使える和食の飲食店を、大阪で探してください。	general,restaurant,shopping
+693	1	SYSTEM	承知しました。エリアでいうと中央区にございます、神楽はいかがでしょう？	general,restaurant,shopping
+693	2	USER	そちらのお店には、駐車場がありますか？	general,restaurant,shopping
+693	3	SYSTEM	申し訳ありません、駐車場の有無は不明です。いかがされますか？	general,restaurant,shopping
+693	4	USER	わかりました。次に、生野区で買い物ができるお土産店を調べて欲しいです。できれば駐車場無料がよいです。	general,restaurant,shopping
+693	5	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,restaurant,shopping
+693	6	USER	では、ジャンルはお土産店でなくても良いので、探してもらえますか？	general,restaurant,shopping
+693	7	SYSTEM	承知しました。C&Cエンド 本店がございます。何かご案内致しましょうか？	general,restaurant,shopping
+693	8	USER	ありがとうございます。そちらのお店の、定休日と営業時間を教えて下さい。	general,restaurant,shopping
+693	9	SYSTEM	はい、営業時間は6時から17時、定休日はございません。他にご用件はございますか？	general,restaurant,shopping
+693	10	USER	調べたかったことは以上です。ありがとうございました。	general,restaurant,shopping
+693	11	SYSTEM	ありがとうございました。	general,restaurant,shopping

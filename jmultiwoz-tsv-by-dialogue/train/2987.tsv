@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2987	0	USER	東京に旅行に行って、神社や寺院や教会やモニュメントなどを見られる観光名所に行きたいです。大東区にはありますか？	general,attraction,weather
+2987	1	SYSTEM	台東区の神社寺院といえば、なんといっても浅草寺、自信をもっておすすめします。	general,attraction,weather
+2987	2	USER	電話番号と大人の入場料金を教えて貰えますか？	general,attraction,weather
+2987	3	SYSTEM	0338420181、大人も子供も入場無料です。	general,attraction,weather
+2987	4	USER	いいですね！あと中野区の7/9の最高気温と最低気温を知りたいです	general,attraction,weather
+2987	5	SYSTEM	最高気温は32.6度、最低気温は23.9度です。	general,attraction,weather
+2987	6	USER	わかりました！ありがとうございました	general,attraction,weather
+2987	7	SYSTEM	よい旅を	general,attraction,weather

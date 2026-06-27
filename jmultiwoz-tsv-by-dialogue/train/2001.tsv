@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2001	0	USER	仙台への旅行を計画しているのですが、 当日利用できるタクシー会社を探してください．キャッシュレス払いできるところがいいです。	general,taxi
+2001	1	SYSTEM	（株）帝産キャブ仙台はいかがでしょうか。	general,taxi
+2001	2	USER	ありがとうございます。そちらで当日のタクシーを予約してください．日付は10/25で時間は13:00．出発地は旬菜食健ひな野 長町店というところです．目的地はロイヤルメイフラワー仙台というところです。	general,taxi
+2001	3	SYSTEM	予約完了いたしました。予約番号は3322になります。	general,taxi
+2001	4	USER		general,taxi

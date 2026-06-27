@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3334	0	USER	名古屋への旅行を計画中で、飲食店を探しています。	general,restaurant,attraction,taxi
+3334	1	SYSTEM	かしこまりました。お調べしましたところ、100件以上の候補がございます。条件などございますか？	general,restaurant,attraction,taxi
+3334	2	USER	はい、無料Wi-fi付きで、最寄り駅は藤が丘駅が良いです。	general,restaurant,attraction,taxi
+3334	3	SYSTEM	申し訳ございません、そちらの条件ですと該当がございませんでした。いかがいたしましょうか？	general,restaurant,attraction,taxi
+3334	4	USER	分かりました。では、最寄り駅はどこでも構いません。	general,restaurant,attraction,taxi
+3334	5	SYSTEM	かしこまりました。そうしますと、すしざんまい 名古屋錦店ほか2件の候補がございます。いかがいたしましょうか？	general,restaurant,attraction,taxi
+3334	6	USER	すしざんまい 名古屋錦店にしようと思います。また、当日訪れる観光名所を探しています。	general,restaurant,attraction,taxi
+3334	7	SYSTEM	かしこまりました。観光名所に関しても45件ほどございます。なにかご希望の条件などございますか？	general,restaurant,attraction,taxi
+3334	8	USER	はい、無料駐車場付きで、教室・ワークショップ・体験といった施設がいいです。	general,restaurant,attraction,taxi
+3334	9	SYSTEM	申し訳ございません、2点追加したところ該当がございませんでした。いかがいたしましょうか？	general,restaurant,attraction,taxi
+3334	10	USER	分かりました。では、ジャンルは何でも構いません。	general,restaurant,attraction,taxi
+3334	11	SYSTEM	承知いたしました。そうしますと、大高緑地を含む21件候補がございます。いかがでしょうか？	general,restaurant,attraction,taxi
+3334	12	USER	大高緑地にしようと思います。当日キャッシュレス払いできるジャンボタクシーを探しているのですが、ありますか？	general,restaurant,attraction,taxi
+3334	13	SYSTEM	かしこまりました。ご希望の条件ですと楠交通を含む9件ございます。いかがでしょうか？	general,restaurant,attraction,taxi
+3334	14	USER	楠交通にしようと思います。電話番号を教えてください。	general,restaurant,attraction,taxi
+3334	15	SYSTEM	はい、電話番号は、0522412233でございます。	general,restaurant,attraction,taxi
+3334	16	USER	ありがとうございます。1/18の15:40にすしざんまい 名古屋錦店から大高緑地まで予約して欲しいのですが、可能でしょうか。	general,restaurant,attraction,taxi
+3334	17	SYSTEM	はい。1/18の15:40にすしざんまい 名古屋錦店から大高緑地まででございますね。ご予約承りました。ご予約番号は、16199でございます。	general,restaurant,attraction,taxi
+3334	18	USER	助かりました。ありがとうございます。	general,restaurant,attraction,taxi
+3334	19	SYSTEM	ありがとうございました。	general,restaurant,attraction,taxi
+3334	20	USER	では、失礼します。	general,restaurant,attraction,taxi

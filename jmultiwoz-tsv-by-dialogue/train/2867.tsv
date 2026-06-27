@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2867	0	USER	こんにちは。仙台に行こうと思っていまして。若林区の卸町駅近くでお買い物できる場所はありますか？駐車場が無料だといいのですが。	general,shopping,hotel,weather
+2867	1	SYSTEM	はい、仙台の若林区、卸町でお買い物できる駐車場無料のスポットといえば、ずばり、仙台場外市場　杜の市場です	general,shopping,hotel,weather
+2867	2	USER	住所を教えてください。	general,shopping,hotel,weather
+2867	3	SYSTEM	宮城県仙台市若林区卸町5丁目2-6になります	general,shopping,hotel,weather
+2867	4	USER	続いて宿泊についても教えてください。駐車場とWifiが無料の宿はありますか？小鶴新田駅近くでお願いします。	general,shopping,hotel,weather
+2867	5	SYSTEM	仙台、小鶴新田駅近く、WiFiと駐車場無料の宿といえば、ビジネス旅館　川添支店一択です。	general,shopping,hotel,weather
+2867	6	USER	住所を教えてください。あと、その宿は何タイプですか？	general,shopping,hotel,weather
+2867	7	SYSTEM	住所は宮城県仙台市宮城野区新田4丁目23-31、宿のタイプは旅館になります。	general,shopping,hotel,weather
+2867	8	USER	最後に9/24の天気も教えてくだし。青葉区の最低気温は何度ですか？	general,shopping,hotel,weather
+2867	9	SYSTEM	9/24 仙台 青葉区 の天気は曇り、最低気温は23.7度になります。	general,shopping,hotel,weather
+2867	10	USER	ありがとうございます！	general,shopping,hotel,weather

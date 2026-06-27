@@ -1,0 +1,4 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1110	0	USER	札幌に行く予定です。買い物をしたいのですが、大丸札幌店というお店はありますか？	general,shopping
+1110	1	SYSTEM	はい、中央区にございます。ジャンルは百貨店や総合スーパー、住所は北海道札幌市中央区北5条西4丁目7番地、電話番号は0118281111、最寄りの札幌駅から徒歩で1分となります。営業時間は10時から20時、定休日はございません。駐車場は無料でご利用いただけます。	general,shopping
+1110	2	USER	わかりました。どうもありがとうございます。	general,shopping

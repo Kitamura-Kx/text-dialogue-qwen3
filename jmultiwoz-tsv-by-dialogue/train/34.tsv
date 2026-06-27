@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+34	0	USER	こんにちは。名古屋に旅行に行きたいんですけど。	general,hotel,shopping
+34	1	SYSTEM	こんにちは。名古屋へのご旅行の予定ですね。どういった情報をお探しですか？	general,hotel,shopping
+34	2	USER	当日泊まる宿を探してほしくて。ニュー松竹梅ホテルって、ありますかね？	general,hotel,shopping
+34	3	SYSTEM	名古屋のニュー松竹梅ホテルでございますね。中村区に1件ございます。	general,hotel,shopping
+34	4	USER	そこってWiFiはあるんですかね？	general,hotel,shopping
+34	5	SYSTEM	申し訳ございません。ニュー松竹梅ホテルのWiFiの有無につきましては、こちらではわかりかねます。	general,hotel,shopping
+34	6	USER	それならいいです。予約してもらうことはできますか？	general,hotel,shopping
+34	7	SYSTEM	ありがとうございます。ご予約は何名様の予定でいらっしゃいますか？	general,hotel,shopping
+34	8	USER	4人です。2月の27日から4泊の予定なんですが。	general,hotel,shopping
+34	9	SYSTEM	大変申し訳ございません。4名様で2月27日から4泊ですと、現在ご予約が難しいのですが、いかがいたしますか？	general,hotel,shopping
+34	10	USER	あ、そう。じゃあ、3泊でもいいですよ。	general,hotel,shopping
+34	11	SYSTEM	ありがとうございます、ご予約番号58343にてお取りいたしました。ニュー松竹梅ホテル、4名様、2月27日から3泊で承りました。	general,hotel,shopping
+34	12	USER	ありがとうございます。あと、もう一つ調べてもらいたいんですけど。	general,hotel,shopping
+34	13	SYSTEM	はい、どういったことをお調べしましょうか？	general,hotel,shopping
+34	14	USER	買い物できる場所を探してほしくてですね、草叢BOOKS 新守山店ってありますか？	general,hotel,shopping
+34	15	SYSTEM	はい、名古屋に1件ございます。	general,hotel,shopping
+34	16	USER	そこの電話番号を教えてくれる？	general,hotel,shopping
+34	17	SYSTEM	かしこまりました。草叢BOOKS 新守山店の電話番号は、052791 5152です。	general,hotel,shopping
+34	18	USER	どうもありがとうございます。	general,hotel,shopping
+34	19	SYSTEM	とんでもございません。他になにかお手伝いできることはございますか？	general,hotel,shopping
+34	20	USER	今のところ、十分です。今日はありがとうございました。	general,hotel,shopping
+34	21	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,hotel,shopping

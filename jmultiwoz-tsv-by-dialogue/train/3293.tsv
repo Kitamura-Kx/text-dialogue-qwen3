@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3293	0	USER	那覇の牧志駅近くで、家電や電化製品が買えるお店はありますか？	general,shopping
+3293	1	SYSTEM	牧志駅近くにジャンル家電電化製品の買い物スポットはありません。	general,shopping
+3293	2	USER	そうなんですね。では、特にジャンルにはこだわりませんので、どこか教えて下さい。	general,shopping
+3293	3	SYSTEM	牧志駅近くのお買い物スポットはいくつかありますが、なんといっても沖縄ですし、おきなわ屋 泡盛蔵 国際店、こちらをお勧めします。	general,shopping
+3293	4	USER	そちらのお店には駐車場がありますか？	general,shopping
+3293	5	SYSTEM	はい、無料駐車場があります。	general,shopping
+3293	6	USER	ありがとうございました。	general,shopping
+3293	7	SYSTEM	よい旅を	general,shopping

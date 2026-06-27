@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3122	0	USER	横浜に旅行に行くので最寄り駅が新子安駅の宿泊施設を探してほしいです。	general,hotel
+3122	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel
+3122	2	USER	では新子安駅は考慮しなくてOKです	general,hotel
+3122	3	SYSTEM	ありがとうございます。そうしますと、旅館 皆楽園はいかがでしょうか？エリアは金沢区にあるお安めの旅館です。	general,hotel
+3122	4	USER	チェックアウト終了時刻を教えて貰えますか？	general,hotel
+3122	5	SYSTEM	はい。チェックアウトは10時までとなっております。	general,hotel
+3122	6	USER	わかりました！ありがとうございました	general,hotel
+3122	7	SYSTEM	他にご要件はございませんか？	general,hotel
+3122	8	USER	大丈夫です。ありがとうございました	general,hotel
+3122	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

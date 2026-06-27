@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+314	0	USER	福岡旅行を計画しているのですが、博多区で寿司・魚料理が食べられるお店を探してもらえませんか。予算は普通くらいだとありがたいのですが。	general,restaurant,taxi,weather
+314	1	SYSTEM	はい、それでは、酔灯屋 祇園店はいかがでしょう？	general,restaurant,taxi,weather
+314	2	USER	ありがとうございます！旅行中タクシーに乗りたいと考えています。ジャンボタクシーが使えて、キャッシュレス払いができるところを教えてもらえませんか？	general,restaurant,taxi,weather
+314	3	SYSTEM	承知しました。それでは、福岡交通（株）はいかがでしょう？どちらも対応しております。電話番号は、0570081234です。	general,restaurant,taxi,weather
+314	4	USER	では、福岡交通（株）さんで予約をお願いしたいです。8/10の10:50に、酔灯屋 祇園店からORIGO Tenjin #1でお願いします。	general,restaurant,taxi,weather
+314	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、24839となります。	general,restaurant,taxi,weather
+314	6	USER	手配して下さりありがとうございます。最後に8/10の東区の天候の最低気温を教えてもらえませんか？	general,restaurant,taxi,weather
+314	7	SYSTEM	はい、最低気温は29.6度です。	general,restaurant,taxi,weather
+314	8	USER	わかりました。今日はありがとうございました。	general,restaurant,taxi,weather

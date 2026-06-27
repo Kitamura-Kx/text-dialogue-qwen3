@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2992	0	USER	福岡旅行するのでレストランが併設されているビジネスホテルを探してほしいのですが	general,hotel,shopping
+2992	1	SYSTEM	福岡でレストラン併設のビジネスホテルはいくつかありますが、スマイルホテル博多、こちらをお勧めします。	general,hotel,shopping
+2992	2	USER	住所は分かりますか？	general,hotel,shopping
+2992	3	SYSTEM	福岡県福岡市博多区神屋町3-5です。	general,hotel,shopping
+2992	4	USER	7/14から3泊、二人で予約できますか？	general,hotel,shopping
+2992	5	SYSTEM	予約成功しました。予約番号は22852です。	general,hotel,shopping
+2992	6	USER	ありがとうございます。あと、博多区で買い物したいと思っています。駐車場が無料で利用出来て、洋服が買えるところはありますか？	general,hotel,shopping
+2992	7	SYSTEM	博多区で駐車場があり、ジャンルファッションの買い物施設はいくつかありますが、ベイサイドプレイス博多をおすすめします。	general,hotel,shopping
+2992	8	USER	定休日と住所と最寄り駅を教えて貰えますか？	general,hotel,shopping
+2992	9	SYSTEM	定休日はなし、住所は福岡県福岡市博多区築港本町13-6、最寄り駅は福岡駅です。	general,hotel,shopping
+2992	10	USER	了解です！ありがとうございました	general,hotel,shopping
+2992	11	SYSTEM	よい旅を。	general,hotel,shopping

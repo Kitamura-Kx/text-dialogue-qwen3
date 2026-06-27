@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2180	0	USER	名古屋への旅行を計画しているのですが、当日中村区で買い物ができるところはありますでしょうか。	general,shopping,attraction,taxi
+2180	1	SYSTEM	かしこまりました。それでは東急ハンズ名古屋店はいかがでしょうか？	general,shopping,attraction,taxi
+2180	2	USER	駐車場が無料のところがよいのですが。	general,shopping,attraction,taxi
+2180	3	SYSTEM	東急ハンズ名古屋店は駐車場無料でございますが、お気に召さないでしょうか？	general,shopping,attraction,taxi
+2180	4	USER	いえ、無料かどうかわからなかったのでお尋ねしただけです。ありがとうございます。	general,shopping,attraction,taxi
+2180	5	SYSTEM	かしこまりました。その他に何かお手伝いできることはございますか？	general,shopping,attraction,taxi
+2180	6	USER	観光名所にも行きたいのですが、最寄り駅が高岳駅でWi-Fiが無料で利用できるところはありますか。	general,shopping,attraction,taxi
+2180	7	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping,attraction,taxi
+2180	8	USER	では、Wi-Fiの有無は関係なく探していただけますか。	general,shopping,attraction,taxi
+2180	9	SYSTEM	では、文化のみち橦木館という建築物はいかがでしょうか？	general,shopping,attraction,taxi
+2180	10	USER	そこに行きたいと思います。当日タクシーを利用したいと思っているのですが、ジャンボタクシー、とキャッシュレス払いができる会社を探すのをお手伝いください。	general,shopping,attraction,taxi
+2180	11	SYSTEM	それでしたら、瑞穂タクシーをご利用されるのはいかがでしょうか？	general,shopping,attraction,taxi
+2180	12	USER	ありがとうございます。では、10月30日11時50分に東急ハンズ名古屋店から文化のみち橦木館まで予約をお願いします。	general,shopping,attraction,taxi
+2180	13	SYSTEM	ありがとうございます。それでは予約番号82180でお取りさせていただきました。	general,shopping,attraction,taxi
+2180	14	USER	お世話になりました。ありがとうございます。	general,shopping,attraction,taxi

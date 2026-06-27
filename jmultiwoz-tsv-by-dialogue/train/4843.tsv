@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4843	0	USER	那覇でWi-Fiが無料の観光名所はありますか？	general,attraction,shopping
+4843	1	SYSTEM	では、パレットくもじはいかがですか？	general,attraction,shopping
+4843	2	USER	どのエリアにありますか？	general,attraction,shopping
+4843	3	SYSTEM	本庁エリアです。	general,attraction,shopping
+4843	4	USER	わかりました。検討してみます。あと本庁地区でジャンルがおもちゃのお店はありますか？駐車場が無料の所が良いです。	general,attraction,shopping
+4843	5	SYSTEM	では、トイザらス・ベビーザらス 那覇新都心店はいかがですか？	general,attraction,shopping
+4843	6	USER	駅からはどれくらいの時間がかかりますか？	general,attraction,shopping
+4843	7	SYSTEM	はい、所要時間は、おもろまち駅から徒歩で10分です。	general,attraction,shopping
+4843	8	USER	わかりました。営業時間も教えてください。	general,attraction,shopping
+4843	9	SYSTEM	営業時間は、10時から21時となっています。	general,attraction,shopping
+4843	10	USER	わかりました。ありがとうございました。	general,attraction,shopping
+4843	11	SYSTEM	他にご用件はありますか？	general,attraction,shopping
+4843	12	USER	大丈夫です。	general,attraction,shopping
+4843	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping

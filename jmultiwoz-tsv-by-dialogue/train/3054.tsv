@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3054	0	USER	福岡への旅行を検討しています。当日利用出来る飲食店を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,restaurant
+3054	1	SYSTEM	はい、ご希望をおきかせください	general,restaurant
+3054	2	USER	ありがとうございます。西区で、駐車場を無料で利用できる施設ってありますか？	general,restaurant
+3054	3	SYSTEM	福岡西区で駐車場無料の飲食店はなさそうです。	general,restaurant
+3054	4	USER	そうですか。では、地区を西区から城南区に変更して欲しいです。	general,restaurant
+3054	5	SYSTEM	城南区なら１つありました。まいどおおきに食堂城南堤食堂、こちらです。	general,restaurant
+3054	6	USER	ありがとうございます。これで検討してみます。ご対応、ありがとうございました。	general,restaurant
+3054	7	SYSTEM	よい旅を	general,restaurant

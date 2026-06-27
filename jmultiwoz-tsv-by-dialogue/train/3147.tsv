@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3147	0	USER	福岡に行くのですが、予算が普通な所で、駐車場とWi-Fiが無料で利用できる場所ありますか？	general,restaurant,attraction,weather
+3147	1	SYSTEM	ご利用ありがとうございます。お探しする施設や場所としては、飲食店、お買い物施設、宿泊施設、観光名所がございますが、ご希望はございますか？	general,restaurant,attraction,weather
+3147	2	USER	すいません、食事ができる場所でお願いします。	general,restaurant,attraction,weather
+3147	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,attraction,weather
+3147	4	USER	そうですか、では駐車場は無くても大丈夫です。	general,restaurant,attraction,weather
+3147	5	SYSTEM	ありがとうございます。そうしますと、今泉バル コミーダベビーダという、洋食・西洋料理, 居酒屋ジャンルのお店はいかがでしょうか？	general,restaurant,attraction,weather
+3147	6	USER	料金情報とかありますか？	general,restaurant,attraction,weather
+3147	7	SYSTEM	はい、ございます。たとえば、スペアリブのグリル850円や、ブイヤベース1680円、パエリア1680円といったものがございますよ。	general,restaurant,attraction,weather
+3147	8	USER	ありがとうございます。定休日はいつですか？	general,restaurant,attraction,weather
+3147	9	SYSTEM	火曜日がお休みとなっております。	general,restaurant,attraction,weather
+3147	10	USER	分かりました。予約を6/25の11：30で3人おねがいできますか？	general,restaurant,attraction,weather
+3147	11	SYSTEM	ありがとうございます。午前11時30分にてご予約完了いたしました。予約番号は、75949でございます。	general,restaurant,attraction,weather
+3147	12	USER	ありがとうございます。観光名所も探しています。駐車場とWi-Fiが無料な所でお願いします。	general,restaurant,attraction,weather
+3147	13	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。いかがいたしましょう？	general,restaurant,attraction,weather
+3147	14	USER	それでは駐車場は無くても大丈夫です。	general,restaurant,attraction,weather
+3147	15	SYSTEM	かしこまりました。そうしますと、海の中道海浜公園 動物の森というところはいかがでしょうか？東区エリアにある、動物園, 自然・公園ジャンルの観光名所でございます。	general,restaurant,attraction,weather
+3147	16	USER	ありがとうございます。近くの駅からどのくらいでしょうか？	general,restaurant,attraction,weather
+3147	17	SYSTEM	最寄りの海の中道駅から徒歩で1分、また西戸崎駅からも徒歩で10分でアクセスできます。	general,restaurant,attraction,weather
+3147	18	USER	分かりました。それと、6/25の早良区の天気と最高気温教えて下さい。	general,restaurant,attraction,weather
+3147	19	SYSTEM	かしこまりました。当日の天気は雨の予報です。最高気温は、24.8度まで上がる見込みです。	general,restaurant,attraction,weather
+3147	20	USER	分かりました、お世話様でした。	general,restaurant,attraction,weather
+3147	21	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,restaurant,attraction,weather

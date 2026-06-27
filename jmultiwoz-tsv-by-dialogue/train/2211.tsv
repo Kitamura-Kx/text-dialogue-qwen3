@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2211	0	USER	仙台へ旅行予定なのですが、安めの飲食店を探してください。	general,restaurant,taxi
+2211	1	SYSTEM	仙台で安めの飲食店は３８件あります。他に追加の希望条件はありますか？	general,restaurant,taxi
+2211	2	USER	はい。駐車場とWi-Fiが無料で利用できるところにしてください。	general,restaurant,taxi
+2211	3	SYSTEM	駐車場とWiFi無料ならば、岳山珈琲がオススメです。	general,restaurant,taxi
+2211	4	USER	よさそうです。住所と近辺の駅からの所要時間を教えてください。	general,restaurant,taxi
+2211	5	SYSTEM	住所は宮城県仙台市泉区福岡岳山7-101、笈坂駅から徒歩で2分の立地です。	general,restaurant,taxi
+2211	6	USER	わかりました。当日ジャンボタクシーの利用をしたいのですが、キャッシュレス払いできるようなところはありますか？	general,restaurant,taxi
+2211	7	SYSTEM	ジャンボタクシー、かつキャッシュレス対応のタクシー会社はいくつかありますが、平和交通（株）をオススメします。	general,restaurant,taxi
+2211	8	USER	そこにします。電話番号を教えてください。	general,restaurant,taxi
+2211	9	SYSTEM	0570086000になります。	general,restaurant,taxi
+2211	10	USER	わかりました。予約をお願いできますか？6/1の13:50で、出発地は丸源ラーメン 仙台卸町店。目的地は岳山珈琲でお願いしたいです。	general,restaurant,taxi
+2211	11	SYSTEM	6/1の13:50、丸源ラーメン 仙台卸町店から岳山珈琲まで、予約成功しました。予約番号は77217になります。	general,restaurant,taxi
+2211	12	USER	ありがとうございました。	general,restaurant,taxi
+2211	13	SYSTEM	お役に立てて光栄です	general,restaurant,taxi

@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+965	0	USER	京都の観光名所の情報を教えてください。京都タワーではWifiを使えますか？	general,attraction
+965	1	SYSTEM	かしこまりました。Wi-Fiの有無は不明でございます。	general,attraction
+965	2	USER	そうなんですね。最寄り駅と料金情報も教えていただけますか？	general,attraction
+965	3	SYSTEM	最寄り駅は京都駅でございます。料金情報といたしまして大人が800円、高校生650円、小・中学生が550円で３歳以上の幼児が150円でございます。	general,attraction
+965	4	USER	分かりました！ありがとうございます。	general,attraction

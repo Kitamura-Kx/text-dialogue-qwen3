@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4810	0	USER	仙台へ旅行に行くのですが、買い物できるところを探してください	general,shopping,weather
+4810	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,shopping,weather
+4810	2	USER	地区は太白区で、駐車場を無料で利用できるところにしてください。	general,shopping,weather
+4810	3	SYSTEM	太白区で駐車場無料の買い物スポットはなさそうです。	general,shopping,weather
+4810	4	USER	それでは地区の条件は外して下さい。	general,shopping,weather
+4810	5	SYSTEM	仙台に駐車場無料の買い物スポットは２８件ありますが、そのうち、仙台場外市場 杜の市場をお勧めします。	general,shopping,weather
+4810	6	USER	そちらの営業時間と電話番号と最寄り駅を教えていただけますか？	general,shopping,weather
+4810	7	SYSTEM	朝１０時から夕方７時までの営業、最寄りは卸町駅です。	general,shopping,weather
+4810	8	USER	ありがとうございます。電話番号もお願いします。	general,shopping,weather
+4810	9	SYSTEM	0227625701です。	general,shopping,weather
+4810	10	USER	ありがとうございます。あと天気を調べてください。	general,shopping,weather
+4810	11	SYSTEM	はい、エリアと日付をおねがいします　。	general,shopping,weather
+4810	12	USER	2/23の泉区の天気をお願いします。	general,shopping,weather
+4810	13	SYSTEM	2/23 仙台 泉区 の天気晴時々雪、最低気温-0.3度、最高気温8.2度です。	general,shopping,weather
+4810	14	USER	ありがとうございます。これで以上です。	general,shopping,weather
+4810	15	SYSTEM	よい旅を	general,shopping,weather

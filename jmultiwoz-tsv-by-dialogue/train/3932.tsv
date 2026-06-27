@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3932	0	USER	京都への旅行を計画中で、記念碑・像を訪れたいと考えています。無料Wi-fi付きが良いです。	general,attraction,shopping
+3932	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,shopping
+3932	2	USER	分かりました。では、観光名所であればどこでも構いません。おすすめを教えてください。	general,attraction,shopping
+3932	3	SYSTEM	かしこまりました。記念碑・像ジャンルでなく、無料WiFiご提供の条件も外しますと、50件ほどご案内可能です。たとえば、安井金比羅宮はいかがでしょうか？	general,attraction,shopping
+3932	4	USER	無料Wi-fi付きが良いです。	general,attraction,shopping
+3932	5	SYSTEM	そういたしますと、国立京都国際会館の1件がご案内可能です。いかがでしょうか？	general,attraction,shopping
+3932	6	USER	そこにしようと思います。当日無料駐車場付きで、買い物ができるお店を探しています。	general,attraction,shopping
+3932	7	SYSTEM	そうしますと、11件ほど候補がございます。例えば、右京区エリアにある、道の駅 ウッディー京北はいかがでしょうか？	general,attraction,shopping
+3932	8	USER	そこにしようと思います。ジャンルを教えてください。	general,attraction,shopping
+3932	9	SYSTEM	ジャンルは、お土産, ショッピングモールとなっております。	general,attraction,shopping
+3932	10	USER	助かります。ありがとうございます。	general,attraction,shopping
+3932	11	SYSTEM	他になにかご用件はございませんか？	general,attraction,shopping
+3932	12	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,shopping
+3932	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,shopping

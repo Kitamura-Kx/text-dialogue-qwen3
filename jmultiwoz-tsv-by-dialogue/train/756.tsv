@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+756	0	USER	大阪への旅行を考えているのですが、宿泊施設を調べてもらえますか？	general,hotel,taxi
+756	1	SYSTEM	かしこまりました。ご希望の条件などはございますか？	general,hotel,taxi
+756	2	USER	はい。Wi-Fiと駐車場が無料で利用できて、レストランが併設されているところがいいです。	general,hotel,taxi
+756	3	SYSTEM	そうしますと、ビジネス旅館 励明園という施設が1件ご案内可能です。いかがでしょうか？	general,hotel,taxi
+756	4	USER	そこにします。電話番号を教えてください。	general,hotel,taxi
+756	5	SYSTEM	電話番号は、0665711746でございます。	general,hotel,taxi
+756	6	USER	わかりました。タクシーを利用する予定なのですが、ジャンボタクシーが利用できてキャッシュレス払いができるところを教えてください。	general,hotel,taxi
+756	7	SYSTEM	かしこまりました。では、株式会社未来都は、いかがでしょうか？	general,hotel,taxi
+756	8	USER	そこにします。電話番号を教えてください。	general,hotel,taxi
+756	9	SYSTEM	電話番号は、0669060088です。予約も可能ですが、いかが致しましょうか？	general,hotel,taxi
+756	10	USER	おねがいします。7月15日の13時50分で、ビジネス旅館 励明園からホテルユニバーサルポートというところまでおねがいします。	general,hotel,taxi
+756	11	SYSTEM	かしこまりました。予約が完了いたしました。ご予約番号は、89212です。	general,hotel,taxi
+756	12	USER	ありがとうございます。	general,hotel,taxi
+756	13	SYSTEM	他にご用件はございませんか？	general,hotel,taxi
+756	14	USER	はい、大丈夫です。	general,hotel,taxi
+756	15	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,hotel,taxi

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3072	0	USER	仙台に行くのですが、最寄り駅が旭ヶ丘駅で、駐車場が無料で使える、観光名所はありませんか？	general,attraction,restaurant
+3072	1	SYSTEM	かしこまりました。では、スリーエム仙台市科学館はいかがでしょうか？	general,attraction,restaurant
+3072	2	USER	ありがとうございます。そこにしようかな。近辺の駅からの所要時間と料金情報もわかりますか？	general,attraction,restaurant
+3072	3	SYSTEM	はい。旭ヶ丘駅から徒歩で5分です。また、料金情報としては、一般が550円、高校生が320円、また中学生・小学生は210円になります。	general,attraction,restaurant
+3072	4	USER	ありがとうございます。あと、駐車場が無料で使える飲食店も探してもらえませんか？	general,attraction,restaurant
+3072	5	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,attraction,restaurant
+3072	6	USER	では駐車場はなくても大丈夫です。	general,attraction,restaurant
+3072	7	SYSTEM	それでは、焼肉の店 てなむはいかがですか？	general,attraction,restaurant
+3072	8	USER	いいですね。そこの値段帯とWi-Fiの有無、定休日もわかれば教えてください。	general,attraction,restaurant
+3072	9	SYSTEM	はい。値段帯は高めです。また、Wi-Fiはありません。定休日ですが、無しとなっております。	general,attraction,restaurant
+3072	10	USER	ありがとうございます。そのお店で予約をお願いします。人数は4人、日付は1/13、時間は10:30です。	general,attraction,restaurant
+3072	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、34556です。	general,attraction,restaurant
+3072	12	USER	ありがとうございます。	general,attraction,restaurant
+3072	13	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,attraction,restaurant
+3072	14	USER	案内ありがとうございました。	general,attraction,restaurant

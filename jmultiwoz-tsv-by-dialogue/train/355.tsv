@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+355	0	USER	今度東京へ行くのですが、どこか飲食店はありますか？	general,restaurant,taxi,weather
+355	1	SYSTEM	東京のお食事処ですと、99件ほどご案内可能です。ジャンルなど、ご希望はございますか？	general,restaurant,taxi,weather
+355	2	USER	Wi-Fiと駐車場が無料で利用できるところがいいです。	general,restaurant,taxi,weather
+355	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,taxi,weather
+355	4	USER	では、Wi-Fiはなくても大丈夫です。	general,restaurant,taxi,weather
+355	5	SYSTEM	ありがとうございます。では、NAMIKI667という場所はいかがでしょうか？銀座駅にある少しお高めのお店となっております。	general,restaurant,taxi,weather
+355	6	USER	ありがとうございます。住所とジャンルを教えていただけますか？	general,restaurant,taxi,weather
+355	7	SYSTEM	はい。住所は、東京都中央区銀座6丁目6-7 ハイアットセントリック銀座東京3Fです。ジャンルは、ホテルレストラン, 洋食・西洋料理, 居酒屋, カフェ・スイーツ、となっております。	general,restaurant,taxi,weather
+355	8	USER	ありがとうございます。当日タクシーを使いたいのですが、ジャンボタクシーが利用できるところはありますか？	general,restaurant,taxi,weather
+355	9	SYSTEM	はい、ございます。昭栄自動車という会社はいかがでしょうか？	general,restaurant,taxi,weather
+355	10	USER	そちらはキャッシュレス払いは対応されてますか？	general,restaurant,taxi,weather
+355	11	SYSTEM	はい、対応しております。	general,restaurant,taxi,weather
+355	12	USER	電話番号を教えてください。	general,restaurant,taxi,weather
+355	13	SYSTEM	電話番号は、0357552151です。もしよろしければ、ご予約もおとりできますが、いかがいたしますか？	general,restaurant,taxi,weather
+355	14	USER	はい、お願いいたします。6/11の13:00で、アカチャンホンポ TOC店から、先ほどのNAMIKI667まででお願いします。	general,restaurant,taxi,weather
+355	15	SYSTEM	かしこまりました。ご予約番号53640にて、予約をおとりいたしました。	general,restaurant,taxi,weather
+355	16	USER	ありがとうございます。最後に、6/11当日の墨田区の天気を教えていただけますか？	general,restaurant,taxi,weather
+355	17	SYSTEM	かしこまりました。6月11日の墨田区の天気は、雨のち曇りの予報となっております。	general,restaurant,taxi,weather
+355	18	USER	最低気温も分かられますか？	general,restaurant,taxi,weather
+355	19	SYSTEM	はい。最低気温は17.7度の予想となっております。	general,restaurant,taxi,weather
+355	20	USER	分かりました。以上です、大変ありがとうございました！	general,restaurant,taxi,weather
+355	21	SYSTEM	こちらこそ、ありがとうございました。またのご利用をお待ちしております。	general,restaurant,taxi,weather

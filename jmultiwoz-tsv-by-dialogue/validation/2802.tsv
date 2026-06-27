@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2802	0	USER	那覇への旅行を検討しています。本庁周辺で、当時買い物が出来る施設を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,shopping,restaurant,attraction
+2802	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,restaurant,attraction
+2802	2	USER	そうですね。最寄り駅が壺川駅で、お土産を購入できるお店ってありますか？	general,shopping,restaurant,attraction
+2802	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,restaurant,attraction
+2802	4	USER	そうですか。でしたら、最寄り駅は考慮しませんので、本庁地区で、お土産を購入できる施設はありますか？	general,shopping,restaurant,attraction
+2802	5	SYSTEM	ありがとうございます。では、塩屋 平和通り店はいかがでしょう？	general,shopping,restaurant,attraction
+2802	6	USER	では、そこで検討してみたいと思います。このお店の駐車場の有無ってわかりますか？	general,shopping,restaurant,attraction
+2802	7	SYSTEM	申し訳ありません、駐車場はございません。	general,shopping,restaurant,attraction
+2802	8	USER	そうですか。大丈夫です。それと、小禄地区で当日利用できる飲食店も探して欲しいのですが、よろしいでしょうか？	general,shopping,restaurant,attraction
+2802	9	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,restaurant,attraction
+2802	10	USER	はい。Wi-Fiが無料で利用出来ればとは思います。それと、予算は安めでお願いします。	general,shopping,restaurant,attraction
+2802	11	SYSTEM	では、しゃぶ葉 那覇小禄店はいかがでしょう？ジャンルは、和食となります。	general,shopping,restaurant,attraction
+2802	12	USER	では、そこで検討してみようと思います。このお店の電話番号を教えて頂けますか？	general,shopping,restaurant,attraction
+2802	13	SYSTEM	はい、電話番号は、0988401718となります。	general,shopping,restaurant,attraction
+2802	14	USER	ありがとうございます。最後に、観光名所も探して欲しいのですが、よろしいでしょうか？	general,shopping,restaurant,attraction
+2802	15	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,restaurant,attraction
+2802	16	USER	ありがとうございます。首里地区で、Wi-Fiが無料で利用できる場所を探しています。	general,shopping,restaurant,attraction
+2802	17	SYSTEM	では、首里殿内 首里金城町石畳道はいかがでしょう？ジャンルは、美術館、博物館となります。	general,shopping,restaurant,attraction
+2802	18	USER	良さそうですね。そこで検討してみようと思います。この施設の最寄り駅ってわかりますか？	general,shopping,restaurant,attraction
+2802	19	SYSTEM	はい、最寄りの首里駅から徒歩で20分となります。	general,shopping,restaurant,attraction
+2802	20	USER	ありがとうございます。もう少し検討してみようと思います。ご対応、ありがとうございました。	general,shopping,restaurant,attraction
+2802	21	SYSTEM	ありがとうございました。	general,shopping,restaurant,attraction

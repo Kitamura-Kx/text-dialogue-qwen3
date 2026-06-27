@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3598	0	USER	こんにちは。横浜に行くのですが、駐車場とWi-Fiが無料で使える宿泊施設はありませんか？	general,hotel,attraction
+3598	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,attraction
+3598	2	USER	じゃあ有料の駐車場でも大丈夫です。	general,hotel,attraction
+3598	3	SYSTEM	ではラグナスイート新横浜がございます。	general,hotel,attraction
+3598	4	USER	ありがとうございます。そこの値段帯とレストランの有無も教えてください。	general,hotel,attraction
+3598	5	SYSTEM	値段帯は安めでございます。レストランはございません。	general,hotel,attraction
+3598	6	USER	ありがとうございます。ではそのホテルで、人数は4人、日付は9/3、宿泊日数は2泊で、予約をお願いします。	general,hotel,attraction
+3598	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は52680でございます。	general,hotel,attraction
+3598	8	USER	ありがとうございます。観光名所も探しているのですが、Wi-Fiが無料で使える美術館・博物館はないですか？	general,hotel,attraction
+3598	9	SYSTEM	はい。では原鉄道模型博物館はいかがですか。	general,hotel,attraction
+3598	10	USER	いいですね。そこの電話番号と大人入場料、料金情報を教えてください。	general,hotel,attraction
+3598	11	SYSTEM	電話番号は0456406699でございます。大人の入場料は1000円でございます。料金情報は大人1,000円、中学・高校生700円、4歳以上の小人が500 円となっております。	general,hotel,attraction
+3598	12	USER	ありがとうございます。	general,hotel,attraction
+3598	13	SYSTEM	ほかにご用件はございませんか。	general,hotel,attraction
+3598	14	USER	いえ、大丈夫です。ありがとうございました。	general,hotel,attraction
+3598	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction

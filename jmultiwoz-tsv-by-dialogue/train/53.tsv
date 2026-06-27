@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+53	0	USER	こんにちは。札幌に行く予定なんですが、買い物ができるところを探してもらえますか？	general,shopping,weather
+53	1	SYSTEM	承知致しました。ジャンルやエリアのご希望はございますか？	general,shopping,weather
+53	2	USER	白石区の周辺にあるお店が良いです。	general,shopping,weather
+53	3	SYSTEM	白石区ですと、どんぐり 本店がございます。	general,shopping,weather
+53	4	USER	そのお店は、お休みの日はあるんでしょうか？	general,shopping,weather
+53	5	SYSTEM	定休日は、1月1日のみとなっております。	general,shopping,weather
+53	6	USER	ありがとうございます。あと天候も調べてもらっていいですか？	general,shopping,weather
+53	7	SYSTEM	白石区の天候でよろしいでしょうか？お調べになりたい日付はいつになりますでしょう？	general,shopping,weather
+53	8	USER	いえ、南区でお願いします。8月30日で調べてもらえると助かります。	general,shopping,weather
+53	9	SYSTEM	承知致しました。 8月30日、南区の天気は、晴のち曇となっております。	general,shopping,weather
+53	10	USER	なるほど。あと最高気温がどのぐらいになるかも、分かりますか？	general,shopping,weather
+53	11	SYSTEM	はい、最高気温は30.7度、最低気温は21.6度となっております。	general,shopping,weather
+53	12	USER	ありがとうございます、大変助かりました。	general,shopping,weather
+53	13	SYSTEM	他にご用件はございますか？	general,shopping,weather
+53	14	USER	あ、もういいです。これで大丈夫そうです。	general,shopping,weather
+53	15	SYSTEM	承知致しました。ありがとうございました。	general,shopping,weather

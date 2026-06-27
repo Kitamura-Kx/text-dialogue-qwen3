@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+686	0	USER	横浜へ行こうと思っています。中区にあって駐車場が無料で利用できる買い物施設を探していただきたいです。	general,shopping
+686	1	SYSTEM	承知しました。MEGAドン・キホーテ港山下総本店、元町商店街の2件がございます。何をご案内致しましょう？	general,shopping
+686	2	USER	MEGAドン・キホーテ港山下総本店の電話番号と住所を教えていただけますでしょうか。	general,shopping
+686	3	SYSTEM	はい、住所は神奈川県横浜市中区新山下1丁目2-8、電話番号は0570090711となります。	general,shopping
+686	4	USER	わかりました。ありがとうございます。	general,shopping
+686	5	SYSTEM	他にご用件はございますか？	general,shopping
+686	6	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping

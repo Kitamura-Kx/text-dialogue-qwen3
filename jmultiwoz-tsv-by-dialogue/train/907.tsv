@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+907	0	USER	横浜へ旅行に行くのですが駐車場無料の飲食店を教えて下さい。	general,restaurant,taxi
+907	1	SYSTEM	かしこまりました。では、三和楼という中華料理のお店はいかがでしょうか？	general,restaurant,taxi
+907	2	USER	是非行きたいと思います、6月17日15:50から4名で予約をお願いします。	general,restaurant,taxi
+907	3	SYSTEM	ご予約ありがとうございます。予約番号95592にて、承りました。	general,restaurant,taxi
+907	4	USER	有難うございます。当日はタクシーを利用したいのですが。キャッシュレス対応可能な会社はありますか？	general,restaurant,taxi
+907	5	SYSTEM	はい、11件ご案内可能です。日本サントスキャブ株式会社でしたら、ジャンボタクシーもご利用いただけますよ。	general,restaurant,taxi
+907	6	USER	日本サントスキャブ株式会社で予約をお願いします。6月17日14:50「三和楼」から「岡村天満宮」までお願いします	general,restaurant,taxi
+907	7	SYSTEM	かしこまりました。ご予約が完了いたしました。予約番号は、60855です。	general,restaurant,taxi
+907	8	USER	ありがとうございました	general,restaurant,taxi
+907	9	SYSTEM	他になにかご用件はございますか？	general,restaurant,taxi
+907	10	USER	いえ大丈夫です	general,restaurant,taxi
+907	11	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,restaurant,taxi

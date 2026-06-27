@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4259	0	USER	大阪への旅行を考えているのですが、Wi-Fiと駐車場が無料の観光名所はありますでしょうか。	general,attraction,weather
+4259	1	SYSTEM	申し訳ございません。どちらにも当てはまる観光名所がございませんでした。いかがなさいますか。	general,attraction,weather
+4259	2	USER	わかりました。それでは、駐車場の有無は考慮しなくて結構です。	general,attraction,weather
+4259	3	SYSTEM	ではあべのハルカスはいかがでしょうか。	general,attraction,weather
+4259	4	USER	いいですね。では、1月14日の生野区の天気も教えていただけますか。	general,attraction,weather
+4259	5	SYSTEM	かしこまりました。当日の天気は雨時々曇、最低気温が8.8度で最高気温が 10.6度の予報でございます。	general,attraction,weather
+4259	6	USER	ありがとうございました。当日が楽しみです。	general,attraction,weather

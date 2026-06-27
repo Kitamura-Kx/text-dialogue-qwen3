@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3135	0	USER	横浜に行くのですが、中区で買い物場所を探しています。	general,shopping,attraction
+3135	1	SYSTEM	そうしますと、９件候補がございますが、ほかにご希望の条件はございませんか？	general,shopping,attraction
+3135	2	USER	駐車場が無料な所でお願いします。	general,shopping,attraction
+3135	3	SYSTEM	かしこまりました。では、元町商店街はいかがでしょうか。	general,shopping,attraction
+3135	4	USER	住所教えて下さい。	general,shopping,attraction
+3135	5	SYSTEM	住所は、神奈川県横浜市中区元町1丁目14でございます。	general,shopping,attraction
+3135	6	USER	ありがとうございます。それと、金沢区で観光名所探しています。洋光台駅が最寄りで。	general,shopping,attraction
+3135	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,shopping,attraction
+3135	8	USER	では、地区は気にしません。	general,shopping,attraction
+3135	9	SYSTEM	ありがとうございます。そうしますと、はまぎん こども宇宙科学館というところが、1件ご案内可能です。いかがでしょうか？	general,shopping,attraction
+3135	10	USER	そこの。大人入場料知りたいです。	general,shopping,attraction
+3135	11	SYSTEM	かしこまりました。大人入場料は、400円でございます。	general,shopping,attraction
+3135	12	USER	行ってみます。ありがとうございました。	general,shopping,attraction
+3135	13	SYSTEM	他にお調べすることはございませんか？	general,shopping,attraction
+3135	14	USER	大丈夫です。	general,shopping,attraction
+3135	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,attraction

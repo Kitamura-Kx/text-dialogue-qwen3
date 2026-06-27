@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4515	0	USER	旅行で横浜に行きたいと思っているんですけど、安めな価格で利用できる飲食店を探してもらえますか？	general,restaurant,taxi
+4515	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,restaurant,taxi
+4515	2	USER	いいえ、予算が安めという以外には特にありません。	general,restaurant,taxi
+4515	3	SYSTEM	では福龍酒家はいかがでしょうか。	general,restaurant,taxi
+4515	4	USER	そちらの電話番号はわかりますか？	general,restaurant,taxi
+4515	5	SYSTEM	はい。電話番号は0456638896でございます。	general,restaurant,taxi
+4515	6	USER	じゃあ、4/11の14:40から3名で予約をおねがいできますか？	general,restaurant,taxi
+4515	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は8148でございます。	general,restaurant,taxi
+4515	8	USER	ありがとうございます。キャッシュレス払いが可能で、ジャンボタクシーがあるタクシー会社はありませんか？	general,restaurant,taxi
+4515	9	SYSTEM	申し訳ございません。どちらにも対応している会社がございませんでした。いかがなさいますか。	general,restaurant,taxi
+4515	10	USER	それならキャッシュレス払いに対応していなくても大丈夫です。	general,restaurant,taxi
+4515	11	SYSTEM	では瀬谷交通有限会社がございます。電話番号は0453601144でございます。	general,restaurant,taxi
+4515	12	USER	そちらのタクシー会社で4/11のお昼の12:40にとりいちず 新横浜店から福龍酒家までの予約をお願いできますか？	general,restaurant,taxi
+4515	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は29784でございます。	general,restaurant,taxi
+4515	14	USER	ありがとうございます。	general,restaurant,taxi
+4515	15	SYSTEM	ほかにご用件はございませんか。	general,restaurant,taxi
+4515	16	USER	他は大丈夫です、ありがとうございました。	general,restaurant,taxi
+4515	17	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2967	0	USER	今度札幌へ行くんですが、南区で予算が普通くらいの宿泊施設を探してもらえますか？	general,hotel,weather
+2967	1	SYSTEM	承知しました。定山渓第一寶亭留 翠山亭はいかがでしょう？タイプはその他となります。	general,hotel,weather
+2967	2	USER	ありがとうございます。ではそこの料金情報と電話番号も教えてもらえますか？	general,hotel,weather
+2967	3	SYSTEM	電話番号は0115982141となります。申し訳ありません、ご案内可能な料金情報はございません。	general,hotel,weather
+2967	4	USER	ありがとうございます。あと、豊平区の7/29の最低気温と天気も分かりますか？	general,hotel,weather
+2967	5	SYSTEM	はい、天気は雨のち曇、最低気温14.8度となります。	general,hotel,weather
+2967	6	USER	ありがとうございました。以上で結構です。	general,hotel,weather
+2967	7	SYSTEM	ありがとうございました。	general,hotel,weather

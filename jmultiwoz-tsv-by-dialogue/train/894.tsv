@@ -1,0 +1,33 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+894	0	USER	福岡へ旅行予定なのですが、観光名所を調べてください。	general,attraction,shopping,hotel
+894	1	SYSTEM	BOSS E・ZO FUKUOKAは、いかがでしょうか？	general,attraction,shopping,hotel
+894	2	USER	なるほど。希望としては東区でWi-Fiが無料で使えて、無料駐車場があるところがいいのですが。	general,attraction,shopping,hotel
+894	3	SYSTEM	申し訳ありません。その条件では、ないようです。	general,attraction,shopping,hotel
+894	4	USER	わかりました。Wi-Fiはなくても大丈夫です。	general,attraction,shopping,hotel
+894	5	SYSTEM	博多の食と文化の博物館ハクハクは、いかがでしょうか？	general,attraction,shopping,hotel
+894	6	USER	そこにします。ジャンルと子供入場料、あと営業時間を教えてください。	general,attraction,shopping,hotel
+894	7	SYSTEM	ジャンルは、工場見学です。　営業時間は、午前10時から午後5時までとなっています。	general,attraction,shopping,hotel
+894	8	USER	わかりました。子供入場料も教えてもらえますか？	general,attraction,shopping,hotel
+894	9	SYSTEM	子供入場料は、小学生以下は無料、中学生以上は1300円です。	general,attraction,shopping,hotel
+894	10	USER	わかりました。当日買い物ができるところも探しているのですが、中央区で無料駐車場があるところはありますか？	general,attraction,shopping,hotel
+894	11	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,shopping,hotel
+894	12	USER	そうですか。では駐車場はなくてもいいです。	general,attraction,shopping,hotel
+894	13	SYSTEM	柳橋連合市場は、いかがでしょうか？	general,attraction,shopping,hotel
+894	14	USER	そこにします。住所と定休日を教えてください。	general,attraction,shopping,hotel
+894	15	SYSTEM	住所は、福岡県福岡市中央区春吉1丁目5-1です。　定休日は、店舗によって異なります。	general,attraction,shopping,hotel
+894	16	USER	了解です。Wi-Fiが無料で使える宿泊施設も調べてください。	general,attraction,shopping,hotel
+894	17	SYSTEM	KKRホテル博多(国家公務員共済組合連合会福岡共済会館)は、いかがでしょうか？	general,attraction,shopping,hotel
+894	18	USER	そこにします。チェックアウト終了時刻と値段帯、あとタイプを教えてください。	general,attraction,shopping,hotel
+894	19	SYSTEM	チェックアウト終了時間は、11時です。　ホテルのタイプは、シティホテルになります。	general,attraction,shopping,hotel
+894	20	USER	わかりました。値段帯も教えてください。	general,attraction,shopping,hotel
+894	21	SYSTEM	他にご用件はございますか？	general,attraction,shopping,hotel
+894	22	USER	すいません。KKRホテル博多(国家公務員共済組合連合会福岡共済会館)の値段帯を教えてもらっていいですか？	general,attraction,shopping,hotel
+894	23	SYSTEM	値段帯は、普通となっております。	general,attraction,shopping,hotel
+894	24	USER	わかりました。予約をお願いしたいです。人数は2人で6月14日から4泊でお願いします。	general,attraction,shopping,hotel
+894	25	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,attraction,shopping,hotel
+894	26	USER	わかりました。それでは人数を1人に変更します。	general,attraction,shopping,hotel
+894	27	SYSTEM	予約出来ました。予約番号は、79944です。	general,attraction,shopping,hotel
+894	28	USER	ありがとうございます。	general,attraction,shopping,hotel
+894	29	SYSTEM	他にご用件はありますか？	general,attraction,shopping,hotel
+894	30	USER	いえ、大丈夫です。	general,attraction,shopping,hotel
+894	31	SYSTEM	承知致しました。　ありがとうございました。	general,attraction,shopping,hotel

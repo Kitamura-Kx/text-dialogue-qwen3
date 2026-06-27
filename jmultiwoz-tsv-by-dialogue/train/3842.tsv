@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3842	0	USER	横浜への旅行を計画しているのですが、どこか観光名所を紹介してください。	general,attraction,restaurant,weather
+3842	1	SYSTEM	はい、ご希望の条件をおきかせください	general,attraction,restaurant,weather
+3842	2	USER	西谷駅近辺でwifiが無料で使えるところがいいです。	general,attraction,restaurant,weather
+3842	3	SYSTEM	西谷駅でWiFi無料の観光名所はなさそうです。	general,attraction,restaurant,weather
+3842	4	USER	では、wifiは諦めますので、西谷駅近辺の観光名所を教えてください。	general,attraction,restaurant,weather
+3842	5	SYSTEM	西谷駅の観光名所といえば、ずばり、横濱スパヒルズ 竜泉寺の湯、こちら一択です。	general,attraction,restaurant,weather
+3842	6	USER	そちらは何エリアになりますか。あと、駐車場は使えますか。	general,attraction,restaurant,weather
+3842	7	SYSTEM	旭区です。無料の駐車場があります。	general,attraction,restaurant,weather
+3842	8	USER	わかりました。それと、当日食事が出来るところも探してほしいです、桜木町近辺でおすすめはありますか。	general,attraction,restaurant,weather
+3842	9	SYSTEM	桜木町駅の飲食店はいくつかありますが、横浜すきずき、こちらをオススメします。	general,attraction,restaurant,weather
+3842	10	USER	そこのお店ではwifiを無料で使えますか？	general,attraction,restaurant,weather
+3842	11	SYSTEM	WiFiは不明ですね。	general,attraction,restaurant,weather
+3842	12	USER	そうですか。ではwifiが無料で使えるお店を紹介してください。	general,attraction,restaurant,weather
+3842	13	SYSTEM	桜木町駅でWiFi無料といえば、和んず、こちら一択です。	general,attraction,restaurant,weather
+3842	14	USER	では、そちらのお店の住所を聞いてもいいですか？	general,attraction,restaurant,weather
+3842	15	SYSTEM	神奈川県横浜市中区桜木町1-1 ぴおシティB2Fです。	general,attraction,restaurant,weather
+3842	16	USER	ところで、5月２２日の都筑区の天気ってどうですか？	general,attraction,restaurant,weather
+3842	17	SYSTEM	5/22 横浜 都筑区 の天気は晴時々曇、最低気温 19.8度、最高気温20.7度です。	general,attraction,restaurant,weather
+3842	18	USER	ありがとうございました。	general,attraction,restaurant,weather

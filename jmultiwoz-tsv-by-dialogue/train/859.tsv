@@ -1,0 +1,35 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+859	0	USER	横浜へ旅行に行くのですが、買い物できる所を探しています。	general,shopping,hotel,taxi
+859	1	SYSTEM	横浜のお買い物施設ですね。50件ほどご案内可能ですが、エリアなど、何かご希望はございませんか？	general,shopping,hotel,taxi
+859	2	USER	神奈川区で探しています。	general,shopping,hotel,taxi
+859	3	SYSTEM	そうしますと、2件候補がございます。例えば、六角橋商店街という場所にご興味はございませんか？	general,shopping,hotel,taxi
+859	4	USER	駐車場が無料のお店が良いのですがこちらは駐車場は無料ですか？	general,shopping,hotel,taxi
+859	5	SYSTEM	はい、六角橋商店街は無料駐車場をご利用いただけます。無料駐車場つきとなりますと、この1件のみとなりますが、いかがいたしますか？	general,shopping,hotel,taxi
+859	6	USER	ここにします。ありがとうございました。	general,shopping,hotel,taxi
+859	7	SYSTEM	ほかにお調べすることはございませんか？	general,shopping,hotel,taxi
+859	8	USER	はい。大丈夫です。	general,shopping,hotel,taxi
+859	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,hotel,taxi
+859	10	USER	すみません。まだ聞きたいことがあります。その日に泊まるリゾートホテルを探しています。	general,shopping,hotel,taxi
+859	11	SYSTEM	横浜のリゾートホテルですね。そうしますと、13件候補がございますが、エリアなど、ご希望の条件は他にございますか？	general,shopping,hotel,taxi
+859	12	USER	レストランが入っていて駐車場が無料のホテルが良いです。	general,shopping,hotel,taxi
+859	13	SYSTEM	そうしますと、ホテル パセラの森 横浜関内はいかがでしょうか？	general,shopping,hotel,taxi
+859	14	USER	はい。そちらを予約したいです。	general,shopping,hotel,taxi
+859	15	SYSTEM	かしこまりました。ご宿泊予定の人数と日付、ご宿泊日数はお決まりでしょうか？	general,shopping,hotel,taxi
+859	16	USER	12月28日に3人で2泊です。	general,shopping,hotel,taxi
+859	17	SYSTEM	大変申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,shopping,hotel,taxi
+859	18	USER	2人だとどうですか？	general,shopping,hotel,taxi
+859	19	SYSTEM	ありがとうございます。予約をおとりできました。予約番号は、60811です。	general,shopping,hotel,taxi
+859	20	USER	ありがとうございます。	general,shopping,hotel,taxi
+859	21	SYSTEM	ほかに何かお調べすることはございませんか？	general,shopping,hotel,taxi
+859	22	USER	その日に使うジャンボタクシーも探しています。	general,shopping,hotel,taxi
+859	23	SYSTEM	では、スタジアム交通株式会社はいかがでしょうか？	general,shopping,hotel,taxi
+859	24	USER	キャッシュレス払いはできますか？	general,shopping,hotel,taxi
+859	25	SYSTEM	はい、対応しております。	general,shopping,hotel,taxi
+859	26	USER	でしたら、そちらのタクシーを予約したいです。	general,shopping,hotel,taxi
+859	27	SYSTEM	かしこまりました。ご利用予定の日付と出発時刻、出発地、目的地はお決まりでしょうか？	general,shopping,hotel,taxi
+859	28	USER	12/28の14：20で六角橋商店街から予約したホテルまでお願いします。	general,shopping,hotel,taxi
+859	29	SYSTEM	かしこまりました。六角橋商店街から、ホテル パセラの森 横浜関内で、予約を完了いたしました。予約番号は、23180でございます。	general,shopping,hotel,taxi
+859	30	USER	ありがとうございます。	general,shopping,hotel,taxi
+859	31	SYSTEM	他にお手伝いできることはございませんか？	general,shopping,hotel,taxi
+859	32	USER	もう大丈夫です。ありがとうございました。	general,shopping,hotel,taxi
+859	33	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,shopping,hotel,taxi

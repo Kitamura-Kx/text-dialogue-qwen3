@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4	0	USER	仙台に旅行に行くので、何か食事を楽しみたいと思っているのですが。	general,restaurant,weather,taxi
+4	1	SYSTEM	仙台の飲食店ですと109件ございます。 ご予算などご希望はございますでしょうか？	general,restaurant,weather,taxi
+4	2	USER	やっぱり有名な牛タンがいいです。牛たん炭焼利久セルバテラス店という店を人づてに聞いたのですが、わかりますか？	general,restaurant,weather,taxi
+4	3	SYSTEM	はい、存じ上げております。こちらのお店でお知りになりたい情報はございますでしょうか。	general,restaurant,weather,taxi
+4	4	USER	えっと、Wi-Fiが使えるかどうか知りたいんですが。	general,restaurant,weather,taxi
+4	5	SYSTEM	申し訳ございません。こちらのお店では、Wi-Fiの利用はできないようです。	general,restaurant,weather,taxi
+4	6	USER	それならしょうがないですね。大丈夫です。6/4に出かけるので、当日の天候を知りたいのですが、青葉区の天候ってわかりますか？	general,restaurant,weather,taxi
+4	7	SYSTEM	はい、わかります。 大変残念ですが、この日は曇時々雨となっています。 最低気温は16.1度、最高気温は30.4度と気温差が大きくなっております。	general,restaurant,weather,taxi
+4	8	USER	服装が難しそうですね。雨ならタクシーも考えないとなあ。（有）高砂タクシーって会社で予約できますか？	general,restaurant,weather,taxi
+4	9	SYSTEM	確認致しますね。 出発時刻、出発地、目的を教えていただけますでしょうか？	general,restaurant,weather,taxi
+4	10	USER	6/4の9:40を考えてます。南小泉交通公園というところで乗って、利休セルバテラス店まで行きたいです。できればジャンボタクシーがいいんですけど？	general,restaurant,weather,taxi
+4	11	SYSTEM	（有）高砂タクシーについては、ジャンボタクシーの対応は可能です。 ただ、申し訳ございません。こちらの条件では予約ができませんでした。いかがいたしましょうか？	general,restaurant,weather,taxi
+4	12	USER	では出発時間を10:40ではどうでしょうか？	general,restaurant,weather,taxi
+4	13	SYSTEM	10時40分にて予約が完了致しました。 予約番号は、22624となります。	general,restaurant,weather,taxi
+4	14	USER	よかったです。念のため電話番号も教えてください。あ、あと、キャッシュレス対応はできますか？	general,restaurant,weather,taxi
+4	15	SYSTEM	はい、私も安心しました。 （有）高砂タクシーについては、キャッシュレス対応でございます。電話番号は、0222511166です。	general,restaurant,weather,taxi
+4	16	USER	丁寧に対応いただきありがとうございました。当日が楽しみです。お世話様でした。	general,restaurant,weather,taxi
+4	17	SYSTEM	是非楽しんでください。その他何かご質問などはございますでしょうか。	general,restaurant,weather,taxi
+4	18	USER	いえ、これで大丈夫です。お世話いただき感謝します。	general,restaurant,weather,taxi
+4	19	SYSTEM	かしこまりました。ありがとうございました。	general,restaurant,weather,taxi

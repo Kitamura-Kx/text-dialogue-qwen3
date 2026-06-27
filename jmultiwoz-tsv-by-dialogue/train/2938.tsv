@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2938	0	USER	すみません、大阪でジャンボタクシーを利用できるタクシー会社を教えて下さい。	general,taxi
+2938	1	SYSTEM	一番株式会社はいかがでしょう？電話番号は、0667077171となります。	general,taxi
+2938	2	USER	そちらはキャッシュレス払いできますか？	general,taxi
+2938	3	SYSTEM	キャッシュレス対応は不明となっております。条件に追加されますか？	general,taxi
+2938	4	USER	はい。ごめんなさい、ジャンボタクシーより、キャッシュレス払いを優先させて下さい。	general,taxi
+2938	5	SYSTEM	商都交通株式会社はいかがでしょう？ジャンボタクシーには非対応となります。電話番号は0662626868です。	general,taxi
+2938	6	USER	ありがとうございます。そちらで、7月21日の午後1時30分にMARUZEN&ジュンク堂書店 梅田店から、クロワッサンの店 大阪あべの橋店までの予約をお願いします。	general,taxi
+2938	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、28045となります。	general,taxi
+2938	8	USER	ありがとうございました。助かりました。それでは失礼します。	general,taxi

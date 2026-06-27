@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1309	0	USER	こんにちは。横浜への旅行で、タクシー会社を探しています。キャッシュレス払いができるところはありますか？	general,taxi
+1309	1	SYSTEM	ご利用ありがとうございます。はい、11件ほどご案内可能です。例えば、飛鳥交通横浜株式会社はいかがでしょうか？	general,taxi
+1309	2	USER	そちらで結構です。電話番号を教えてもらえますか？	general,taxi
+1309	3	SYSTEM	電話番号は、0570075770でございます。	general,taxi
+1309	4	USER	ここで予約もしていただけますか？	general,taxi
+1309	5	SYSTEM	はい、承ります。ご利用予定の日付と出発時刻、出発地、目的地をお願いできますでしょうか？	general,taxi
+1309	6	USER	はい。10/1で、10:00ミクニ ヨコハマというところで乗車、大阪こなもん酒場 たこやき番長というお店に行きたいです。	general,taxi
+1309	7	SYSTEM	かしこまりました。予約を完了いたしました。ご予約番号は、62082です。	general,taxi
+1309	8	USER	ありがとうございます、たすかりました	general,taxi
+1309	9	SYSTEM	ほかにお手伝いできることはございませんか？	general,taxi
+1309	10	USER	大丈夫です。どうもありがとうございました。	general,taxi
+1309	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

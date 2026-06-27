@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4491	0	USER	名古屋に旅行に行く予定なのですが、千種区にWi-Fiが無料で利用できる観光名所はありますか。	general,attraction,hotel,weather
+4491	1	SYSTEM	はい、1件ございます。名古屋市東山動植物園というところですが、いかがでしょうか？	general,attraction,hotel,weather
+4491	2	USER	いいですね。大人の入場料と定休日を教えてください。	general,attraction,hotel,weather
+4491	3	SYSTEM	大人入場料は500円です。定休日は、月曜日と年末年始がお休みとなっております。	general,attraction,hotel,weather
+4491	4	USER	分かりました。ありがとうございます。あと、ビジネスホテルに泊まりたいのですが、Wi-Fiが無料で利用できるところはありますか。	general,attraction,hotel,weather
+4491	5	SYSTEM	はい、49件該当がございます。例えば、中区エリアにある、ホテル・アンドルームス名古屋栄はいかがでしょうか？	general,attraction,hotel,weather
+4491	6	USER	ありがとうございます。そのホテルの値段帯は何になりますか。	general,attraction,hotel,weather
+4491	7	SYSTEM	お安めとなっております。	general,attraction,hotel,weather
+4491	8	USER	分かりました。ありがとうございます。あと、昭和区の8/19の最高気温を教えてください。	general,attraction,hotel,weather
+4491	9	SYSTEM	かしこまりました。当日の最高気温は、38度まで上がる見込みです。	general,attraction,hotel,weather
+4491	10	USER	ありがとうございます。これで大丈夫です。	general,attraction,hotel,weather
+4491	11	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,attraction,hotel,weather

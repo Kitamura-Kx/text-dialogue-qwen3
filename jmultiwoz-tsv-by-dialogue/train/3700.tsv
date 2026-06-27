@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3700	0	USER	名古屋へ旅行に行こうと思っています。当日泊まる宿泊施設を探しています。最寄り駅が名古屋駅で駐車場が無料でレストランが併設されているところが希望です。	general,hotel,shopping,taxi
+3700	1	SYSTEM	かしこまりました。では、ザ サイプレス メルキュールホテル名古屋はいかがでしょうか？	general,hotel,shopping,taxi
+3700	2	USER	そこが良さそうですね。あと、当日買い物ができるところをさがしています。駐車場を無料でジャンルは書籍が希望です。	general,hotel,shopping,taxi
+3700	3	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,hotel,shopping,taxi
+3700	4	USER	でしたら、駐車場はなくても良いです。	general,hotel,shopping,taxi
+3700	5	SYSTEM	であれば、こみかるはうす 池下駅店はいかがですか？	general,hotel,shopping,taxi
+3700	6	USER	そこが良さそうです。あと当日利用できるタクシー会社を探しています。キャッシュレス払いができるところが希望です。	general,hotel,shopping,taxi
+3700	7	SYSTEM	かしこまりました。瑞穂タクシーはいかがですか？	general,hotel,shopping,taxi
+3700	8	USER	そこはジャンボタクシー対応でしょうか。	general,hotel,shopping,taxi
+3700	9	SYSTEM	はい、対応しております。	general,hotel,shopping,taxi
+3700	10	USER	そこに予約したいので日付は11/30時間は15:50で出発地はザ サイプレス メルキュールホテル名古屋で目的地はこみかるはうす 池下駅店でお願いします。	general,hotel,shopping,taxi
+3700	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、45466です。	general,hotel,shopping,taxi
+3700	12	USER	分かりました。ありがとうございます。	general,hotel,shopping,taxi
+3700	13	SYSTEM	はい。他にご用件はございませんか？	general,hotel,shopping,taxi
+3700	14	USER	はい、大丈夫です。	general,hotel,shopping,taxi
+3700	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,taxi

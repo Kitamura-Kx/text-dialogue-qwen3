@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+402	0	USER	横浜へ行こうと思っています。WiFiと駐車場が無料で最寄り駅が東戸塚駅の観光名所を探していただけますか？	general,attraction,hotel,weather
+402	1	SYSTEM	申し訳ありません。その条件ではご紹介可能な施設がございません。	general,attraction,hotel,weather
+402	2	USER	わかりました。最寄り駅は考慮せずに探していただけますか？	general,attraction,hotel,weather
+402	3	SYSTEM	ありがとうございます。三溪園と、カップヌードルミュージアム 横浜の2件がございます。	general,attraction,hotel,weather
+402	4	USER	三溪園に行ってみようと思います。詳しい情報を教えていただけますか？	general,attraction,hotel,weather
+402	5	SYSTEM	はい、ジャンルは美術館、博物館、建築物、歴史的な散策エリア、となっております。住所は横浜市中区本牧三之谷58-1、電話番号は0456210634、最寄りの根岸駅からバスで10分となります。大人入場料は700円、子供入場料は200円です。営業時間は9時から17時となります。定休日は12月29日から31日までです。	general,attraction,hotel,weather
+402	6	USER	わかりました。ありがとうございます。	general,attraction,hotel,weather
+402	7	SYSTEM	他にご用件はございますか？	general,attraction,hotel,weather
+402	8	USER	金沢区で予算が休めの宿泊施設を探していただけますか？	general,attraction,hotel,weather
+402	9	SYSTEM	承知しました。それでは、横浜テクノタワーホテルはいかがでしょう？タイプはシティホテルとなります。	general,attraction,hotel,weather
+402	10	USER	そちらのホテルの電話番号を教えていただけますか？	general,attraction,hotel,weather
+402	11	SYSTEM	はい、電話番号は、0457888000となります。	general,attraction,hotel,weather
+402	12	USER	わかりました。ありがとうございます。	general,attraction,hotel,weather
+402	13	SYSTEM	他にご用件はございますか？	general,attraction,hotel,weather
+402	14	USER	11月7日の保土ケ谷区の天候を調べていただけますか？	general,attraction,hotel,weather
+402	15	SYSTEM	はい、天気は曇時々晴、最低気温11.9度、最高気温18.8度となります。	general,attraction,hotel,weather
+402	16	USER	わかりました。ありがとうございます。	general,attraction,hotel,weather
+402	17	SYSTEM	他にご用件はございますか？	general,attraction,hotel,weather
+402	18	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,hotel,weather

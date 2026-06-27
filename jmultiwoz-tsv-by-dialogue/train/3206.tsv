@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3206	0	USER	福岡旅行で櫛田神社に行こうと思っています。電話番号と料金情報と近辺の駅からの所要時間を教えてください。	general,attraction
+3206	1	SYSTEM	はい。電話番号は0922912951です。料金情報としては、無料となっております。また、近辺の駅からの所要時間は中洲川端駅もしくは祇園駅から徒歩で8分です。	general,attraction
+3206	2	USER	了解！ありがとう	general,attraction
+3206	3	SYSTEM	はい。ほかにお調べすることはありますか？	general,attraction
+3206	4	USER	ないです。ありがとうございました	general,attraction
+3206	5	SYSTEM	承知しました。ありがとうございました。	general,attraction

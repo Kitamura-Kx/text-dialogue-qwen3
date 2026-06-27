@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4778	0	USER	那覇で買い物できる場所を探してください。ジャンルは百貨店や総合スーパーで、駐車場を無料で使いたいです。	general,shopping,restaurant
+4778	1	SYSTEM	かしこまりました。では、デパートリウボウはいかがでしょうか？	general,shopping,restaurant
+4778	2	USER	はい。そこのエリアと定休日を調べてください。	general,shopping,restaurant
+4778	3	SYSTEM	はい。エリアは本庁で、定休日は店舗により異なるみたいです。	general,shopping,restaurant
+4778	4	USER	ありがとうございます。また、飲食店を探してほしいです。予算は高めで、駐車場を無料で使えるところでお願いします。	general,shopping,restaurant
+4778	5	SYSTEM	それでしたら、おもろダイニング 山葵がおすすめです。	general,shopping,restaurant
+4778	6	USER	わかりました。ジャンルは何ですか。	general,shopping,restaurant
+4778	7	SYSTEM	はい。ジャンルは和食になります。	general,shopping,restaurant
+4778	8	USER	ありがとうございます。	general,shopping,restaurant
+4778	9	SYSTEM	はい。他に何かご用件はございませんか？	general,shopping,restaurant
+4778	10	USER	大丈夫です。	general,shopping,restaurant
+4778	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant
+4778	12	USER	ありがとうございました。	general,shopping,restaurant

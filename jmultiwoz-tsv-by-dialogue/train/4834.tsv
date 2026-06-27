@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4834	0	USER	仙台へ旅行に行くので、最寄り駅が陸前原ノ町駅の食料品が買えるようなところを探してもらえますか。	general,shopping,hotel,taxi
+4834	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,hotel,taxi
+4834	2	USER	それなら、最寄りはどこでも大丈夫です。	general,shopping,hotel,taxi
+4834	3	SYSTEM	それでしたら、シベールの杜 南中山店はいかがですか？	general,shopping,hotel,taxi
+4834	4	USER	いいですね。あと、宮城野区でWi-Fiが無料で使える宿泊施設を探してください。	general,shopping,hotel,taxi
+4834	5	SYSTEM	それでは、Rakuten STAY x EAGLESはいかがですか？	general,shopping,hotel,taxi
+4834	6	USER	そこにします。2人で11/29から3泊とれますか？	general,shopping,hotel,taxi
+4834	7	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。　どうされますか？	general,shopping,hotel,taxi
+4834	8	USER	それなら2泊に変更します。	general,shopping,hotel,taxi
+4834	9	SYSTEM	予約が完了しました。　予約番号は、32332になります。	general,shopping,hotel,taxi
+4834	10	USER	ありがとうございます。ジャンボタクシーの利用も考えているのですが、キャッシュレス払いができるところはありますか？	general,shopping,hotel,taxi
+4834	11	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,shopping,hotel,taxi
+4834	12	USER	そうですか。ジャンボタクシーが使えなくてもいいです。	general,shopping,hotel,taxi
+4834	13	SYSTEM	では、（株）けやき交通　こちらはいかがですか？	general,shopping,hotel,taxi
+4834	14	USER	そこの電話番号はわかります？	general,shopping,hotel,taxi
+4834	15	SYSTEM	はい、電話番号は　0120408814になります。	general,shopping,hotel,taxi
+4834	16	USER	では、11/29の13:20にシベールの杜 南中山店からRakuten STAY x EAGLESまでの配車を予約したいです。	general,shopping,hotel,taxi
+4834	17	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。　どうされますか？	general,shopping,hotel,taxi
+4834	18	USER	それだったら、時間を14:20に変更します。	general,shopping,hotel,taxi
+4834	19	SYSTEM	予約出来ました。予約番号は、2845です。	general,shopping,hotel,taxi
+4834	20	USER	ありがとうございました。もう大丈夫です。	general,shopping,hotel,taxi
+4834	21	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,taxi

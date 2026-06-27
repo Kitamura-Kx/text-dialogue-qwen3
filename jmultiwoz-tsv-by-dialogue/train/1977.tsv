@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1977	0	USER	こんばんは。今度、那覇への旅行を計画しているのですが、飲食店をお探しいただけますか？	general,restaurant,shopping,weather
+1977	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,restaurant,shopping,weather
+1977	2	USER	最寄り駅がおもろまち駅で、地区は真和志でお願いします。	general,restaurant,shopping,weather
+1977	3	SYSTEM	かしこまりました。では、ルーラーズタコライス 真嘉比店はいかがでしょうか？	general,restaurant,shopping,weather
+1977	4	USER	ありがとうございます。そちらについて、Wi-Fiの有無と、値段帯、あと電話番号も伺ってよろしいですか？	general,restaurant,shopping,weather
+1977	5	SYSTEM	はい。Wi-Fiの有無については不明となっています。値段帯は安めです。また、電話番号は0988948404でございます。	general,restaurant,shopping,weather
+1977	6	USER	ありがとうございます。あと、買い物ができるところも探しているのですが、お願いできますか？	general,restaurant,shopping,weather
+1977	7	SYSTEM	はい。かしこまりました。何か他の希望の要件はございますか？	general,restaurant,shopping,weather
+1977	8	USER	本庁地区にある、最寄り駅が美栄橋駅のところで、駐車場を無料で利用できるところを希望します。	general,restaurant,shopping,weather
+1977	9	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,restaurant,shopping,weather
+1977	10	USER	そうでしたか。では、最寄り駅は考慮しないで大丈夫です。	general,restaurant,shopping,weather
+1977	11	SYSTEM	かしこまりました。であれば、のうれんプラザはいかがでしょうか？最寄り駅は牧志駅となります。	general,restaurant,shopping,weather
+1977	12	USER	ありがとうございます。かしこまりました。そちらは、どんなジャンルのところでしょうか？	general,restaurant,shopping,weather
+1977	13	SYSTEM	はい。ジャンルはショッピングモールになります。	general,restaurant,shopping,weather
+1977	14	USER	そうなんですね。電話番号も教えていただいてよろしいですか？	general,restaurant,shopping,weather
+1977	15	SYSTEM	かしこまりました。電話番号は0988347818です。	general,restaurant,shopping,weather
+1977	16	USER	ありがとうございます。あと、本庁地区の5月26日の天候についてもお調べいただけますか？	general,restaurant,shopping,weather
+1977	17	SYSTEM	かしこまりました。5/26の本庁地区の天気予報は曇のち晴となっております。最低気温は23.2度、最高気温は25.2度になる予報です。	general,restaurant,shopping,weather
+1977	18	USER	ありがとうございます。色々お調べいただき、助かりました。あとはもう大丈夫です。ありがとうございました。	general,restaurant,shopping,weather
+1977	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2160	0	USER	こんにちは。東京へ旅行予定なのですが、江東区の飲食店を探しています。Wi-Fiが無料のところをお願いしたいんですが、ありますか？	general,restaurant
+2160	1	SYSTEM	かしこまりました。それでは、すしざんまい 亀戸店はいかがでしょうか？	general,restaurant
+2160	2	USER	よさそうですね。そちらの住所と営業時間を教えてもらえますか？	general,restaurant
+2160	3	SYSTEM	住所は東京都江東区亀戸6丁目57-14 ひまわり江東ビル1階、営業時間は11時から23時まででございます。	general,restaurant
+2160	4	USER	価格帯ってどんな感じですか？	general,restaurant
+2160	5	SYSTEM	価格帯は普通でございます。	general,restaurant
+2160	6	USER	ありがとうございます。では予約お願いします。6/29の11:40で、4名で取れますか？	general,restaurant
+2160	7	SYSTEM	お待たせ致しました。ご予約番号2047でお取りさせていただきました。	general,restaurant
+2160	8	USER	どうもありがとうございました。これで全部です。	general,restaurant
+2160	9	SYSTEM	かしこまりました。またお待ちしております。	general,restaurant

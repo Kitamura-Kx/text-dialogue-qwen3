@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1756	0	USER	札幌へ旅行に行くのですが、割烹 きすをというお店は対応できますか？	general,restaurant,taxi
+1756	1	SYSTEM	はい、エリアが中央区、ジャンルは和食となります。何かご案内致しましょうか？	general,restaurant,taxi
+1756	2	USER	住所と駐車場の有無を教えて欲しいです。	general,restaurant,taxi
+1756	3	SYSTEM	住所は北海道札幌市中央区南6条西4丁目5-10 第21桂和ビル 1階、駐車場はございません。	general,restaurant,taxi
+1756	4	USER	わかりました。それでは予約をお願いします。人数は3人、日付は1/14、時間は12:00です。	general,restaurant,taxi
+1756	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、56854となります。	general,restaurant,taxi
+1756	6	USER	ありがとうございます。次にタクシー会社を探してください。	general,restaurant,taxi
+1756	7	SYSTEM	何かご希望はございますか？	general,restaurant,taxi
+1756	8	USER	キャッシュレス払いとジャンボタクシーが利用できるところにしてください。	general,restaurant,taxi
+1756	9	SYSTEM	恊和交通(株)はいかがでしょう？電話番号は、0118751211となります。	general,restaurant,taxi
+1756	10	USER	ではそちらでタクシーを予約してください。日付は1/14、時間は10:50、出発地はホテルモントレ札幌、目的地は割烹 きすをです。	general,restaurant,taxi
+1756	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、71650となります。他にご用件はございますか？	general,restaurant,taxi
+1756	12	USER	いえ、これで全部です。ありがとうございました。	general,restaurant,taxi
+1756	13	SYSTEM	ありがとうございました。	general,restaurant,taxi

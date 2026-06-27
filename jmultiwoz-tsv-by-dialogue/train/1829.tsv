@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1829	0	USER	那覇へ旅行に行くんですが、観光名所を探してほしいです！	general,attraction,weather
+1829	1	SYSTEM	希望条件などは、ございますか？	general,attraction,weather
+1829	2	USER	産業観光のジャンルでお願いします。	general,attraction,weather
+1829	3	SYSTEM	パイナップルハウスは、いかがですか？	general,attraction,weather
+1829	4	USER	いいですね！エリアと電話番号は分かりますか？	general,attraction,weather
+1829	5	SYSTEM	エリアは、小禄です。　電話番号は、0988589000です。	general,attraction,weather
+1829	6	USER	なるほどです！料金情報についても教えてほしいです。	general,attraction,weather
+1829	7	SYSTEM	料金情報は、無料となっております。	general,attraction,weather
+1829	8	USER	ありがとうございます。10/1の小禄の天気を教えてください。	general,attraction,weather
+1829	9	SYSTEM	天気は、曇のち晴です。	general,attraction,weather
+1829	10	USER	ありがとうございます。最高気温は分かりますか？	general,attraction,weather
+1829	11	SYSTEM	最高気温は32.6度です。	general,attraction,weather
+1829	12	USER	ありがとうございます。	general,attraction,weather
+1829	13	SYSTEM	他にご用件はありますか？	general,attraction,weather
+1829	14	USER	これで大丈夫です。ありがとうございました。	general,attraction,weather
+1829	15	SYSTEM	承知致しました。　ありがとうございました。	general,attraction,weather

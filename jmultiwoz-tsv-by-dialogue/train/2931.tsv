@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2931	0	USER	横浜に行くのですが、栄区で飲食店を探しています。	general,restaurant
+2931	1	SYSTEM	横浜栄区の飲食店は一択、タイ料理トムヤムくん、こちらになります。	general,restaurant
+2931	2	USER	イタリアンとかフレンチ系がいいのですが	general,restaurant
+2931	3	SYSTEM	横浜栄区にはイタリアンフレンチ系はなさそうです。	general,restaurant
+2931	4	USER	栄区でなくてもいいです。	general,restaurant
+2931	5	SYSTEM	横浜でイタリアンフレンチの飲食店は多数ありますが、なんといっても、横浜DRAセブン、こちらをオススメします。	general,restaurant
+2931	6	USER	いいですね。値段帯と駐車場があるのかどうか教えてください。	general,restaurant
+2931	7	SYSTEM	値段帯は普通、駐車場は有料ですが、あります。	general,restaurant
+2931	8	USER	5/20の13:00から3人で予約をお願いしたいです。	general,restaurant
+2931	9	SYSTEM	予約成功しました。予約番号は4369です。	general,restaurant
+2931	10	USER	ありがとうございました。	general,restaurant
+2931	11	SYSTEM	よい旅を。	general,restaurant

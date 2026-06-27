@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3148	0	USER	札幌に行くのですが、安めな食事ができて、Wi-Fiが無料なお店ありますか？	general,restaurant,shopping
+3148	1	SYSTEM	はい、3件ございます。たとえば、中央区エリアにある、蔵元直営 吉翔というお店はいかがでしょうか？	general,restaurant,shopping
+3148	2	USER	最寄り駅と定休日教えて下さい。	general,restaurant,shopping
+3148	3	SYSTEM	かしこまりました。最寄りは、大通駅で徒歩5分でアクセスできます。定休日は日曜日がお休みとなっております。	general,restaurant,shopping
+3148	4	USER	ありがとうございます。お土産も買いたいのですが、駐車場が無料なお店有りますか？	general,restaurant,shopping
+3148	5	SYSTEM	はい、1件ご案内可能です。ポケモンセンターサッポロというお店ですが、いかがでしょうか？	general,restaurant,shopping
+3148	6	USER	最寄り駅と近くの駅と、詳しい住所お願いします。	general,restaurant,shopping
+3148	7	SYSTEM	近くの駅は札幌駅で徒歩1分の距離にございます。住所は、北海道札幌市中央区北5条西4丁目4-7 大丸札幌店 8Fです。	general,restaurant,shopping
+3148	8	USER	ありがとうございます。最寄り駅は、どこになりますか？	general,restaurant,shopping
+3148	9	SYSTEM	札幌駅となります。	general,restaurant,shopping
+3148	10	USER	分かりました、ありがとうございます。それでは、失礼します。	general,restaurant,shopping
+3148	11	SYSTEM	こちらこそ、ご利用ありがとうございました。失礼いたします。	general,restaurant,shopping

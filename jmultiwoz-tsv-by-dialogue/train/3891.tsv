@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3891	0	USER	東京への旅行を計画しているのですが、当日食事ができるお店を探していただけますでしょうか。Wi-Fiが無料で使えるところがよいです。	general,restaurant,attraction,weather
+3891	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,restaurant,attraction,weather
+3891	2	USER	駐車場が無料がよく、予算は普通でお願いします。	general,restaurant,attraction,weather
+3891	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,attraction,weather
+3891	4	USER	では、駐車場は有料でも構いません。	general,restaurant,attraction,weather
+3891	5	SYSTEM	それでしたら新荘園 ムスブ田町店がございます。	general,restaurant,attraction,weather
+3891	6	USER	そちらの定休日はいつでしょうか。	general,restaurant,attraction,weather
+3891	7	SYSTEM	こちら定休日はございません。	general,restaurant,attraction,weather
+3891	8	USER	ありがとうございます。ではそちらに行きたいと思います。続けてですが、当日いける観光名所を探していただけますか。科学館がよいです。	general,restaurant,attraction,weather
+3891	9	SYSTEM	かしこまりました。では日本科学未来館はいかがでしょうか。	general,restaurant,attraction,weather
+3891	10	USER	そちらは、駐車場は無料でしょうか。	general,restaurant,attraction,weather
+3891	11	SYSTEM	駐車場は有料でございます。	general,restaurant,attraction,weather
+3891	12	USER	わかりました。では、料金情報を教えてください。	general,restaurant,attraction,weather
+3891	13	SYSTEM	はい。大人が630円、6歳以上の小学生から18歳以下が210円、６歳以下の未就学児は無料となっております。	general,restaurant,attraction,weather
+3891	14	USER	ありがとうございます。では、当日の天気も教えていただけますか。6月27日の世田谷区です。	general,restaurant,attraction,weather
+3891	15	SYSTEM	かしこまりました。当日の天気は晴時々曇で、最低気温が22.1度、最高気温が 28.4度でございます。	general,restaurant,attraction,weather
+3891	16	USER	いろいろとありがとうございました。	general,restaurant,attraction,weather

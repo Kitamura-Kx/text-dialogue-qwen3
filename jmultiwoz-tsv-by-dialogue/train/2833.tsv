@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2833	0	USER	こんにちは。東京への旅行を計画しているのですが、ジャンボタクシーとキャッシュレス払いができるタクシー会社ってどこかありませんか？	general,taxi
+2833	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,taxi
+2833	2	USER	そうなんですね。では、ジャンボタクシーは使えなくていいので、キャッシュレス払いができるタクシー会社はありますか？	general,taxi
+2833	3	SYSTEM	はい、東京交通はいかがでしょう？電話番号は0423914455となります。	general,taxi
+2833	4	USER	ありがとうございます。そこにします。予約もお願いできますか？8/10の13:40、出発地は北海道どさんこプラザ有楽町店で、目的地は京王百貨店新宿店でお願いしたいのですが。	general,taxi
+2833	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、41386 となります。	general,taxi
+2833	6	USER	予約していただいてありがとうございます。	general,taxi
+2833	7	SYSTEM	他にご用件はございますか？	general,taxi
+2833	8	USER	いえ、案内ありがとうございました。	general,taxi
+2833	9	SYSTEM	ありがとうございました。	general,taxi

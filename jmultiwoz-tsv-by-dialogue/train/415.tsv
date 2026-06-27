@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+415	0	USER	京都で買い物ができる場所が知りたいのですが。	general,shopping
+415	1	SYSTEM	かしこまりました。何かご希望の条件はございますか？	general,shopping
+415	2	USER	中京区で最寄駅が丸太町駅だとどこかありますか？	general,shopping
+415	3	SYSTEM	大変申し訳ございません。その条件では、該当するものがありませんでした。	general,shopping
+415	4	USER	そうですか。上京区だったらどうでしょうか。	general,shopping
+415	5	SYSTEM	2件ほどご案内可能です。例えば、山田松香木店という文房具・雑貨のお店はいかがでしょうか？	general,shopping
+415	6	USER	駐車場は無料で使えますか？	general,shopping
+415	7	SYSTEM	はい、無料でご利用いただけます。	general,shopping
+415	8	USER	わかりました。山田松香木店は定休日はありますか？	general,shopping
+415	9	SYSTEM	定休日は、年末年始, 盆期間となっております。	general,shopping
+415	10	USER	はい、ありがとうございました。	general,shopping

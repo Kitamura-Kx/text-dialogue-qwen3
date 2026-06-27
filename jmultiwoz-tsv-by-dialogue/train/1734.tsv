@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1734	0	USER	京都の観光名所を探してください。駐車場が無料で利用できるところだと嬉しいです。	general,attraction,taxi,weather
+1734	1	SYSTEM	かしこまりました。では、安井金比羅宮はいかがでしょうか？	general,attraction,taxi,weather
+1734	2	USER	よさそうですね。近辺の駅からの所要時間を教えてもらえますか？	general,attraction,taxi,weather
+1734	3	SYSTEM	かしこまりました。京都駅からバスで19分。徒歩だと、祇園四条駅から10分、河原町駅から15分となっております。	general,attraction,taxi,weather
+1734	4	USER	わかりました。当日タクシーを使いたいので、タクシー会社を探してもらえますか？ジャンボタクシーとキャッシュレスに対応しているところがいいです。	general,attraction,taxi,weather
+1734	5	SYSTEM	かしこまりました。では、都タクシー株式会社はいかがでしょうか？	general,attraction,taxi,weather
+1734	6	USER	そちらの会社の電話番号はわかりますか？	general,attraction,taxi,weather
+1734	7	SYSTEM	電話番号は0756616611でございます。	general,attraction,taxi,weather
+1734	8	USER	ありがとうございます。では、9/4の10:50に予約をお願いします。	general,attraction,taxi,weather
+1734	9	SYSTEM	かしこまりました。出発地と目的地はお決まりでしょうか？	general,attraction,taxi,weather
+1734	10	USER	出発地は松葉家旅館で、目的地は安井金比羅宮でお願いします。	general,attraction,taxi,weather
+1734	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、68765です。	general,attraction,taxi,weather
+1734	12	USER	わかりました。あと、当日9/4の右京区の天気を教えてもらえますか？	general,attraction,taxi,weather
+1734	13	SYSTEM	9/4の右京区の天気予報は曇となっております。最低気温は26.1度、最高気温は　26.2度になる予報です。	general,attraction,taxi,weather
+1734	14	USER	なるほど、わかりました。どうもありがとうございました。	general,attraction,taxi,weather

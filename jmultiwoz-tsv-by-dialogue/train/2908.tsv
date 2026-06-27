@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2908	0	USER	今度、福岡へ行く予定です。早良区で買い物したいのですが、良いお店ありますか？	general,shopping,weather,taxi
+2908	1	SYSTEM	早良区にはよい買い物施設がなさそうです。	general,shopping,weather,taxi
+2908	2	USER	そうですか。では東区ではどうですか？	general,shopping,weather,taxi
+2908	3	SYSTEM	いくつかありますが、きっずゆうえんち&アミューズメント ぐるぐる屋箱崎店、こちら人気ですね。	general,shopping,weather,taxi
+2908	4	USER	なるほど、良さそうですね。そちらの電話番号を教えて下さい。	general,shopping,weather,taxi
+2908	5	SYSTEM	0926430333です。	general,shopping,weather,taxi
+2908	6	USER	ありがとうございます。3月6日の早良区の最低気温と天気も教えて下さい。	general,shopping,weather,taxi
+2908	7	SYSTEM	3/6 福岡 早良区 の天気は曇時々晴、最低気温 12.8度、最高気温が20.1度です。	general,shopping,weather,taxi
+2908	8	USER	ありがとうございます。もう１つ、キャッシュレス払いのできるタクシー会社を教えてください。	general,shopping,weather,taxi
+2908	9	SYSTEM	はい、福岡昭和タクシー（株）をおすすめします。	general,shopping,weather,taxi
+2908	10	USER	そちらの電話番号を教えて下さい。	general,shopping,weather,taxi
+2908	11	SYSTEM	0120408860です。	general,shopping,weather,taxi
+2908	12	USER	分かりました。それでは、3月6日の午前11時にCANDEO HOTELS 福岡天神からきっずゆうえんち&アミューズメント ぐるぐる屋箱崎店まで予約をお願いします。	general,shopping,weather,taxi
+2908	13	SYSTEM	予約成功しました。予約番号は75066です。	general,shopping,weather,taxi
+2908	14	USER	ありがとうございました。助かりました。それでは失礼します。	general,shopping,weather,taxi

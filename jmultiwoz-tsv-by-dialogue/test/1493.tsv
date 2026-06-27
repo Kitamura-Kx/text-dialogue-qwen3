@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1493	0	USER	福岡で宿泊施設を探しています。雁ノ巣駅近くで、レストランが併設されているところはありますか？無料駐車場があるといいのですが。	general,hotel,shopping,weather
+1493	1	SYSTEM	はい、エリアでいうと東区にある、The358 SORAはいかがでしょう？	general,hotel,shopping,weather
+1493	2	USER	いいですね。チェックインとチェックアウトの時間も教えてください。	general,hotel,shopping,weather
+1493	3	SYSTEM	はい、チェックイン開始時刻は15時、チェックアウト終了時刻は11時となります。	general,hotel,shopping,weather
+1493	4	USER	ありがとうございます。続いて買い物スポットも知りたいです。早良区でおすすめのスポットはありますか？	general,hotel,shopping,weather
+1493	5	SYSTEM	はい、ワッキー主基の里はいかがでしょう？	general,hotel,shopping,weather
+1493	6	USER	そちらに駐車場はありますか？定休日も知りたいです。	general,hotel,shopping,weather
+1493	7	SYSTEM	はい、駐車場は無料でご利用いただけます。定休日は月曜日となります。	general,hotel,shopping,weather
+1493	8	USER	ありがとうございます。最後に、6/21、南区の最低気温・最高気温も教えてください！	general,hotel,shopping,weather
+1493	9	SYSTEM	はい、最低気温17.3度、最高気温28.9度となります。	general,hotel,shopping,weather
+1493	10	USER	ありがとうございます。助かりました！	general,hotel,shopping,weather

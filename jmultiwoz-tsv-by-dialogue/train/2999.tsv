@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2999	0	USER	那覇への旅行を計画しています。当日食事ができる飲食店を探して欲しいです。	general,restaurant,weather
+2999	1	SYSTEM	ご希望の条件をおきかせください。	general,restaurant,weather
+2999	2	USER	地区は首里、予算は普通が希望です。	general,restaurant,weather
+2999	3	SYSTEM	首里で予算普通の飲食店といえば、りゅうそう茶屋になります。	general,restaurant,weather
+2999	4	USER	そのお店のジャンルを教えてください。	general,restaurant,weather
+2999	5	SYSTEM	郷土料理, カフェ・スイーツになります。	general,restaurant,weather
+2999	6	USER	本庁地区の天候を教えてください。日付は3/1、天気，最低気温が知りたいです。	general,restaurant,weather
+2999	7	SYSTEM	3/1 那覇 本庁 の天気は雨時々曇、最低気温22.2度、最高気温26.1度です。	general,restaurant,weather
+2999	8	USER	解決しました。ありがとうございました。	general,restaurant,weather

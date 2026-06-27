@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+529	0	USER	大阪への旅行を考えているのですが、北区にある観光名所を教えてください。	general,attraction
+529	1	SYSTEM	かしこまりました。14件候補がございます。例えば、中之島公園という場所は如何でしょうか？	general,attraction
+529	2	USER	そこにします。住所と駐車場があるかどうかを教えてください。あとその観光名所のジャンルも知りたいです。	general,attraction
+529	3	SYSTEM	住所は、大阪府大阪市北区中之島1丁目1です。駐車場はございません。また、ジャンルは自然・公園, 動物園となっております。	general,attraction
+529	4	USER	わかりました。ありがとうございます。	general,attraction
+529	5	SYSTEM	ほかにお調べすることはございますでしょうか？	general,attraction
+529	6	USER	はい。もう大丈夫です。	general,attraction
+529	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

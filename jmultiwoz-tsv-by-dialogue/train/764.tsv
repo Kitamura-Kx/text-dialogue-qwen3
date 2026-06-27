@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+764	0	USER	仙台への旅行を計画しているのですが、宿泊施設を調べてください。	general,hotel,shopping,restaurant
+764	1	SYSTEM	かしこまりました。なにか、ご希望の条件などはございますか？	general,hotel,shopping,restaurant
+764	2	USER	はい。駐車場を無料で利用できて、Wi-Fiが無料なところがいいです。	general,hotel,shopping,restaurant
+764	3	SYSTEM	かしこまりました。そうしますと、28件ご案内可能です。例えば、青葉区エリアの旅館つかさ、というところはいかがでしょうか？	general,hotel,shopping,restaurant
+764	4	USER	そこにします。最寄り駅を教えてください。	general,hotel,shopping,restaurant
+764	5	SYSTEM	最寄りは、広瀬通駅です。	general,hotel,shopping,restaurant
+764	6	USER	わかりました。当日買い物できるところも探しているのですが、青葉区で書籍を扱っていて、駐車場を無料で利用できるところはありますか？	general,hotel,shopping,restaurant
+764	7	SYSTEM	大変申し訳ございません。その条件では、該当するお店がありませんでした。	general,hotel,shopping,restaurant
+764	8	USER	わかりました。では青葉区じゃなくても大丈夫です。	general,hotel,shopping,restaurant
+764	9	SYSTEM	ありがとうございます。では、泉区にある丸善 仙台アエル店というお店はいかがでしょうか？	general,hotel,shopping,restaurant
+764	10	USER	そこにします。営業時間と住所を教えてください。あと、近辺の駅からの所要時間もお願いします。	general,hotel,shopping,restaurant
+764	11	SYSTEM	営業時間は、10:00～21:00です。住所は、宮城県仙台市泉区中央1-3-1　AER1階でございます。仙台駅からは、徒歩2分でアクセスできます。	general,hotel,shopping,restaurant
+764	12	USER	ありがとうございます。飲食店も調べてください。	general,hotel,shopping,restaurant
+764	13	SYSTEM	かしこまりました。仙台のお食事処は約100件、ご案内可能です。ジャンルなどで、ご希望はございませんか？	general,hotel,shopping,restaurant
+764	14	USER	はい。泉区でWi-Fiが無料で利用できるところがいいです。あと、予算は普通が希望です。	general,hotel,shopping,restaurant
+764	15	SYSTEM	かしこまりました。では、ひげぱんだ、というお店はいかがでしょうか？ジャンルは、カフェ・スイーツ, 洋食・西洋料理、となっております。	general,hotel,shopping,restaurant
+764	16	USER	そこにします。定休日と最寄り駅を教えてください。	general,hotel,shopping,restaurant
+764	17	SYSTEM	こちらのお店は、定休日はございません。最寄りは泉中央駅ですが、そこからタクシーですと9分ほどかかります。	general,hotel,shopping,restaurant
+764	18	USER	わかりました。ありがとうございます。	general,hotel,shopping,restaurant
+764	19	SYSTEM	他にお調べすることはございますか？	general,hotel,shopping,restaurant
+764	20	USER	いえ、もう大丈夫です。	general,hotel,shopping,restaurant
+764	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,shopping,restaurant

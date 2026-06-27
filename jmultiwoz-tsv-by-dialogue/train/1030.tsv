@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1030	0	USER	横浜へ旅行のため、瀬谷区で買い物をしたいのですが、駐車場が無料で利用できるお店を探してもらえますか？	general,shopping
+1030	1	SYSTEM	1件見つかりました。Augusta Milk Farm 相澤良牧場で、ジャンルが食料品となります。	general,shopping
+1030	2	USER	そこに行きたいと思うので、最寄り駅を教えてください。	general,shopping
+1030	3	SYSTEM	最寄り駅はいずみ野駅で、所要時間はいずみ野駅からバスで11分です。	general,shopping
+1030	4	USER	ありがとうございます。	general,shopping
+1030	5	SYSTEM	他にお調べする事がございますか？	general,shopping
+1030	6	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1843	0	USER	京都に行くんですけど、キャッシュレスが使えるタクシー会社はありませんか？	general,taxi
+1843	1	SYSTEM	かしこまりました。では、興進タクシー株式会社はいかがでしょうか？ジャンボタクシーにも対応しております。	general,taxi
+1843	2	USER	電話番号を教えてもらえますか？	general,taxi
+1843	3	SYSTEM	電話番号は0756814481でございます。	general,taxi
+1843	4	USER	8月30日に予約できますか？炭然というところを14時40分に出発して、なごみ宿 都和というところまでなんですけど。	general,taxi
+1843	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、27120です。	general,taxi
+1843	6	USER	お世話様でした。ありがとございました。	general,taxi

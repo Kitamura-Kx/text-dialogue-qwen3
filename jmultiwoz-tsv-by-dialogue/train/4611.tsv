@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4611	0	USER	横浜への旅行を計画しています． 当日の天候を調べてください。地区は瀬谷区です．日付は9/9です．	general,weather,taxi
+4611	1	SYSTEM	天気は雨時々晴です。	general,weather,taxi
+4611	2	USER	最高気温も教えていただけますか。	general,weather,taxi
+4611	3	SYSTEM	最高気温 32.9度になります。	general,weather,taxi
+4611	4	USER	ありがとうございます。あと当日利用できるタクシー会社を探してください．キャッシュレス払いできるところにしてください．	general,weather,taxi
+4611	5	SYSTEM	神奈川都市交通株式会社 金沢営業所はいかがでしょうか。	general,weather,taxi
+4611	6	USER	そちらのジャンボタクシー対応，電話番号を教えていただけますか。	general,weather,taxi
+4611	7	SYSTEM	ジャンボタクシー対応は非対応、電話番号は0457430100です。	general,weather,taxi
+4611	8	USER	ありがとうございます。そちらで日付は9/9です．時間は09:40です．出発地は新横浜グレイスホテルというところです．目的地は横浜市立金沢動物園というところで予約いただけますか	general,weather,taxi
+4611	9	SYSTEM	予約完了いたしました。予約番号は58012になります。	general,weather,taxi
+4611	10	USER		general,weather,taxi

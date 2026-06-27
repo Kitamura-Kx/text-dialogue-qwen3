@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1426	0	USER	那覇旅行を計画しています。奥武山公園駅近辺で、どこか飲食店はありますか？	general,restaurant,attraction,taxi
+1426	1	SYSTEM	かしこまりました。では焼肉工房 團はいかがでしょうか。	general,restaurant,attraction,taxi
+1426	2	USER	焼肉、いいですね！そちらのお店の電話番号と、料金情報も知りたいです。	general,restaurant,attraction,taxi
+1426	3	SYSTEM	電話番号は0988578919でございます。料金情報は例えばカルビが1600円、ナムル盛り合わせが450円となっております。	general,restaurant,attraction,taxi
+1426	4	USER	ありがとうございます。では、予約をしたいのですが、11/11 10時に３名でお願いできますか？	general,restaurant,attraction,taxi
+1426	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は98573でございます。	general,restaurant,attraction,taxi
+1426	6	USER	ありがとうございます。次に壺川駅近くにある本庁の観光名所を探して欲しいです。できれば駐車場無料希望です。	general,restaurant,attraction,taxi
+1426	7	SYSTEM	では奥武山公園がございます。	general,restaurant,attraction,taxi
+1426	8	USER	ありがとうございます。最後にタクシーも予約したいのですが、ジャンボタクシーを使える会社はありますか？	general,restaurant,attraction,taxi
+1426	9	SYSTEM	はい。沖縄第一交通株式会社がございます。キャッシュレスにも対応しております。	general,restaurant,attraction,taxi
+1426	10	USER	そちらの電話番号はわかりますか？	general,restaurant,attraction,taxi
+1426	11	SYSTEM	電話番号は0120780124でございます。	general,restaurant,attraction,taxi
+1426	12	USER	では、予約をお願いします。11/11 11:10 に焼肉工房 團へ迎えに来て欲しいです。目的地は、奥武山公園です。	general,restaurant,attraction,taxi
+1426	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は11811でございます。	general,restaurant,attraction,taxi
+1426	14	USER	ありがとうございます。今日は以上です。ありがとうございました。	general,restaurant,attraction,taxi
+1426	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,taxi

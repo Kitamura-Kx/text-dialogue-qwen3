@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1036	0	USER	大阪への旅行を考えているのですが、宿泊施設はありますか？	general,hotel,weather,taxi
+1036	1	SYSTEM	ホテルプラザオーサカは、いかがですか？	general,hotel,weather,taxi
+1036	2	USER	なるほど。Wi-Fiが無料で利用できる、タイプが簡易宿所（ベッドハウス・山小屋・カプセルホテル等）の値段が安めのところが希望です。	general,hotel,weather,taxi
+1036	3	SYSTEM	NEW JAPAN UMEDAは、いかがでしょうか？	general,hotel,weather,taxi
+1036	4	USER	そこにします。電話番号と料金情報を教えてください。	general,hotel,weather,taxi
+1036	5	SYSTEM	電話番号は、0663142100です。　料金情報ですが、値段等の料金が安めと言う事以外に記載はございません。	general,hotel,weather,taxi
+1036	6	USER	わかりました。当日3月18日の鶴見区の天候を教えてください。	general,hotel,weather,taxi
+1036	7	SYSTEM	その日の天気は、曇です。	general,hotel,weather,taxi
+1036	8	USER	わかりました。最高気温はわかりますか？	general,hotel,weather,taxi
+1036	9	SYSTEM	最高気温は、16.1度です。	general,hotel,weather,taxi
+1036	10	USER	了解です。当日タクシーを利用しようと思うのですが、キャッシュレス払いできるところはありますか？	general,hotel,weather,taxi
+1036	11	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,hotel,weather,taxi
+1036	12	USER	それでは、キャッシュレス払いできなくても大丈夫です。	general,hotel,weather,taxi
+1036	13	SYSTEM	大阪神鉄豊中タクシー株式会社は、いかがでしょうか？	general,hotel,weather,taxi
+1036	14	USER	そこにします。電話番号を教えてください。	general,hotel,weather,taxi
+1036	15	SYSTEM	電話番号は、0668383788です。	general,hotel,weather,taxi
+1036	16	USER	わかりました。ではそこで3月18日の12時に、NEW JAPAN UMEDAからスパワールド 世界の大温泉で予約してもらっていいですか？	general,hotel,weather,taxi
+1036	17	SYSTEM	予約出来ました。予約番号は、16992です。	general,hotel,weather,taxi
+1036	18	USER	ありがとうございます。	general,hotel,weather,taxi
+1036	19	SYSTEM	他にご用件はございますか？	general,hotel,weather,taxi
+1036	20	USER	いえ、大丈夫です。	general,hotel,weather,taxi
+1036	21	SYSTEM	承知致しました。　ありがとうございました。	general,hotel,weather,taxi

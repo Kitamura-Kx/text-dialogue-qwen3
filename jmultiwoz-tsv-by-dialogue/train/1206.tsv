@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1206	0	USER	大阪への旅行を計画中なのですが。Wi-Fiが無料でレストランが併設された宿泊施設を教えて下さい。予算は高めでお願いします。	general,hotel,shopping,weather
+1206	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,hotel,shopping,weather
+1206	2	USER	それではレストランは無くても大丈夫です。	general,hotel,shopping,weather
+1206	3	SYSTEM	ヴィラ デ くらすは、いかがでしょうか？	general,hotel,shopping,weather
+1206	4	USER	ヴィラ デ くらすはどのようなタイプの宿泊施設でしょうか？また住所も教えて下さい。	general,hotel,shopping,weather
+1206	5	SYSTEM	タイプは、その他となっております。　住所は、大阪府大阪市福島区大開1丁目4-12です。	general,hotel,shopping,weather
+1206	6	USER	わかりました、当日は文房具・雑貨の」買い物もしたいのですが、東淀川区に駐車場無料のお店はありますか？	general,hotel,shopping,weather
+1206	7	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,hotel,shopping,weather
+1206	8	USER	東淀川区以外ではありますか？	general,hotel,shopping,weather
+1206	9	SYSTEM	アカチャンホンポ あべのイトーヨーカドー店が、あります。	general,hotel,shopping,weather
+1206	10	USER	ありがとうございます、行きたいと思います。	general,hotel,shopping,weather
+1206	11	SYSTEM	他にご用件はございますか？	general,hotel,shopping,weather
+1206	12	USER	当日5/21の淀川区の天気と最低気温を教えて下さい。	general,hotel,shopping,weather
+1206	13	SYSTEM	淀川区の天気は、曇です。　最低気温は、20.5度です。	general,hotel,shopping,weather
+1206	14	USER	有難うございます	general,hotel,shopping,weather
+1206	15	SYSTEM	他にご用件はございますか？	general,hotel,shopping,weather
+1206	16	USER	いえ大丈夫です、有難うございました。	general,hotel,shopping,weather
+1206	17	SYSTEM	承知致しました。　ありがとうございました。	general,hotel,shopping,weather

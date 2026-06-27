@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1029	0	USER	仙台への旅行を計画しているので、宮城野区で買い物ができるお店を探しています。	general,shopping,weather
+1029	1	SYSTEM	６件みつかりました。ジャンルは何か希望がございますか。	general,shopping,weather
+1029	2	USER	駐車場が無料で利用できて、最寄り駅が卸町駅のエリアがいいのですが、ありますか？	general,shopping,weather
+1029	3	SYSTEM	申し訳ありません。駐車場が無料で最寄り駅が卸町駅のエリアはごさいません。	general,shopping,weather
+1029	4	USER	では最寄り駅は関係なして、駐車場が無料で利用できるお店はありますか？	general,shopping,weather
+1029	5	SYSTEM	スポーツデポ 仙台新港店、umimorishop ミュージアムショップ、ヨドバシカメラマルチメディア仙台、三井アウトレットパーク 仙台港、 JA仙台農産物直売所 たなばたけ 高砂店、セブンイレブン 仙台新港店など6件ございます。	general,shopping,weather
+1029	6	USER	スポーツデポ 仙台新港店にしようと思うので、近辺の駅からの所要時間を教えてもらえますか？	general,shopping,weather
+1029	7	SYSTEM	中野栄駅からタクシーで7分になります。	general,shopping,weather
+1029	8	USER	ありがとうございます。あと電話番号も教えてください。	general,shopping,weather
+1029	9	SYSTEM	電話番号は、0222585556になります。	general,shopping,weather
+1029	10	USER	ありがとうございます。あと4/22の若林区の最高気温、最低気温も調べてもらえますか？	general,shopping,weather
+1029	11	SYSTEM	4/22の若林区の最高気温11.6度、最低気温6.7度度で、お天気は晴時々曇となります。	general,shopping,weather
+1029	12	USER	ありがとうございます。	general,shopping,weather
+1029	13	SYSTEM	他にお調べする事がございますか。	general,shopping,weather
+1029	14	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,weather

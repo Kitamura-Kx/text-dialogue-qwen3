@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1749	0	USER	那覇に旅行に行った際にショッピングできるところを探してもらえませんか？場所は小禄で駐車場がかからないところを希望します。	general,shopping,weather
+1749	1	SYSTEM	小禄で駐車場がかからないところといえば、LEO & JOE一択です。	general,shopping,weather
+1749	2	USER	なるほど！こちらのお店って、どんなお店なんですか？	general,shopping,weather
+1749	3	SYSTEM	医薬品・化粧品のお店ですね。	general,shopping,weather
+1749	4	USER	興味が湧いてきました！お店の住所も教えてもらえますか？	general,shopping,weather
+1749	5	SYSTEM	沖縄県那覇市小禄４４３−１です。	general,shopping,weather
+1749	6	USER	ありがとうございます。2/18の首里のお天気はどんな感じですか？	general,shopping,weather
+1749	7	SYSTEM	2/18 那覇 首里 の天気は曇のち晴です。	general,shopping,weather
+1749	8	USER	わかりました。ご対応して下さってありがとうございました。	general,shopping,weather

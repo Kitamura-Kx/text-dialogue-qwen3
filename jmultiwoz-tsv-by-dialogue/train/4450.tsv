@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4450	0	USER	名古屋に旅行に行こうと思っていて、東区で予算は普通で食事ができるお店を探しています。Wi-Fiは無料で使えるのが希望です。	general,restaurant,shopping,weather
+4450	1	SYSTEM	お待たせ致しました。それではとり焼肉 もう壱鳥がございます。	general,restaurant,shopping,weather
+4450	2	USER	ありがとうございます。そのお店のジャンルは何になりますか。	general,restaurant,shopping,weather
+4450	3	SYSTEM	はい、ジャンルは焼肉・ホルモン, 居酒屋, アジア・エスニック料理に該当致します。	general,restaurant,shopping,weather
+4450	4	USER	ありがとうございます。そのお店に9/2の13:50に2人の予約をお願いします。	general,restaurant,shopping,weather
+4450	5	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant,shopping,weather
+4450	6	USER	では、人数を1人に変更ではどうでしょうか。	general,restaurant,shopping,weather
+4450	7	SYSTEM	お待たせ致しました。予約番号50416でお取りさせていただきました。	general,restaurant,shopping,weather
+4450	8	USER	ありがとうございます。あと、守山区で買い物をしたいと思っています。駐車場が無料で利用できるところでお願いします。	general,restaurant,shopping,weather
+4450	9	SYSTEM	お待たせ致しました。それでは草叢BOOKS 新守山店はいかがでしょうか？	general,restaurant,shopping,weather
+4450	10	USER	そのお店の営業時間と駅からの時間を教えてください。	general,restaurant,shopping,weather
+4450	11	SYSTEM	はい、営業時間は9時から21時、新守山駅から徒歩で5分でございます。	general,restaurant,shopping,weather
+4450	12	USER	ありがとうございます。あと、名東区の9/2の最低気温を教えてください。	general,restaurant,shopping,weather
+4450	13	SYSTEM	お待たせ致しました。当日の最低気温は24.6度の予報でございます。	general,restaurant,shopping,weather
+4450	14	USER	ありがとうございます。これで大丈夫です。	general,restaurant,shopping,weather
+4450	15	SYSTEM	かしこまりました。またお待ちしております。	general,restaurant,shopping,weather

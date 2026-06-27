@@ -1,0 +1,32 @@
+[project]
+name = "text-dialogue-qwen3"
+version = "0.1.0"
+description = "Generate Japanese text dialogues with Qwen3-30B-A3B-Instruct-2507."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "openai>=1.90.0",
+]
+
+[project.optional-dependencies]
+local = [
+    "accelerate>=1.8.0",
+    "safetensors>=0.5.0",
+    "torch>=2.6.0",
+    "transformers>=4.51.0",
+]
+vllm = [
+    "vllm>=0.8.5",
+]
+
+[project.scripts]
+qwen-dialogue = "qwen_dialogue:main"
+validate-dialogue-tsv = "validate_dialogue_tsv:main"
+validate-dialogue-json = "validate_dialogue_json:main"
+normalize-dialogue-json = "normalize_dialogue_json:main"
+
+[tool.uv]
+package = true
+
+[tool.setuptools]
+py-modules = ["qwen_dialogue", "generate_random_travel_local_batch", "normalize_dialogue_json", "validate_dialogue_json", "validate_dialogue_tsv"]

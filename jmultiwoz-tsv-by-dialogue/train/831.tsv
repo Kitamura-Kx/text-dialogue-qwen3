@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+831	0	USER	こんにちは。東京への旅行を計画していまして、京王百貨店新宿店で買い物をしたいのですが。	general,shopping,hotel,weather
+831	1	SYSTEM	かしこまりました。お知りになりたい情報がございますか。	general,shopping,hotel,weather
+831	2	USER	あそこは買い物スポットとしておすすめですか？	general,shopping,hotel,weather
+831	3	SYSTEM	ジャンルは百貨店や総合スーパーとなっておりますので、良いかと思います。	general,shopping,hotel,weather
+831	4	USER	それは安心です。電話番号も教えて頂けませんか？	general,shopping,hotel,weather
+831	5	SYSTEM	電話番号は0333422111でございます。	general,shopping,hotel,weather
+831	6	USER	ありがとうございます。続いてホテルも予約したいのですが、レストランが併設されているホテルを探してください。	general,shopping,hotel,weather
+831	7	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,shopping,hotel,weather
+831	8	USER	ホテルのタイプはシティホテルがいいです。	general,shopping,hotel,weather
+831	9	SYSTEM	ではTHE GATE HOTEL TOKYO by HULICはいかがでしょうか。	general,shopping,hotel,weather
+831	10	USER	それでお願いします。地区はどちらになりますか？	general,shopping,hotel,weather
+831	11	SYSTEM	エリアは千代田区でございます。	general,shopping,hotel,weather
+831	12	USER	いいですね。チェックイン開始時間と最終チェックアウトの時間も教えてください。	general,shopping,hotel,weather
+831	13	SYSTEM	チェックイン開始時刻は14:00で、チェックアウト終了時刻は11:00でございます。	general,shopping,hotel,weather
+831	14	USER	分かりました。最後に当日の天気を調べて欲しいですが。9/27の新宿区の天気を教えてください。	general,shopping,hotel,weather
+831	15	SYSTEM	天気は曇でございます。	general,shopping,hotel,weather
+831	16	USER	ありがとうございます！大変助かりました。	general,shopping,hotel,weather

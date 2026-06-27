@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+677	0	USER	那覇へ旅行に行くのですが、駐車場を無料で利用できる買い物できる場所はありますか？	general,shopping,attraction,hotel
+677	1	SYSTEM	かしこまりました。ではサンエー那覇メインプレイスはいかがでしょうか。	general,shopping,attraction,hotel
+677	2	USER	そこにします。また、当日いける駐車場を無料で利用できる観光名所も探してほしいです。最寄り駅は三栄橋駅のところでお願いします。	general,shopping,attraction,hotel
+677	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,attraction,hotel
+677	4	USER	そうですか。駐車場はなくても大丈夫です。	general,shopping,attraction,hotel
+677	5	SYSTEM	ではよしもと沖縄花月はいかがですか。	general,shopping,attraction,hotel
+677	6	USER	そうします。宿泊施設も探しているのですが、ありますか？	general,shopping,attraction,hotel
+677	7	SYSTEM	はい。ご希望の条件はございますか。	general,shopping,attraction,hotel
+677	8	USER	Wi-Fiが無料で利用できて、料金は普通のところがいいです。	general,shopping,attraction,hotel
+677	9	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping,attraction,hotel
+677	10	USER	そうですか。では料金は特に指定しません。	general,shopping,attraction,hotel
+677	11	SYSTEM	ではホテルアクアチッタナハ by WBFはいかがでしょうか。	general,shopping,attraction,hotel
+677	12	USER	そこにします。駐車場はありますか？	general,shopping,attraction,hotel
+677	13	SYSTEM	有料ですが駐車場はございます。	general,shopping,attraction,hotel
+677	14	USER	じゃあ3人で3月6日から2泊の予約をお願いします。	general,shopping,attraction,hotel
+677	15	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがなさいますか。	general,shopping,attraction,hotel
+677	16	USER	では人数を2人に変更します。	general,shopping,attraction,hotel
+677	17	SYSTEM	2名ですと予約可能でございました。予約番号は6053でございます。	general,shopping,attraction,hotel
+677	18	USER	ありがとうございます。	general,shopping,attraction,hotel
+677	19	SYSTEM	ほかにご用件はございませんか。	general,shopping,attraction,hotel
+677	20	USER	はい、大丈夫です。	general,shopping,attraction,hotel
+677	21	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction,hotel

@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+755	0	USER	名古屋へ旅行したいのですが、買い物できる場所を調べてもらっていいですか？	general,shopping,restaurant,hotel
+755	1	SYSTEM	名古屋のお買い物できるお店ですね。50件ほどご案内可能ですが、ジャンルやエリアなど、何かご希望はございますか？	general,shopping,restaurant,hotel
+755	2	USER	スーパーマーケットで駐車場を無料で使えるところにしてください。	general,shopping,restaurant,hotel
+755	3	SYSTEM	そういたしますと、2件ご案内可能です。たとえば、サンエース 亀島店はいかがでしょうか？	general,shopping,restaurant,hotel
+755	4	USER	そこにします。定休日を教えてください。	general,shopping,restaurant,hotel
+755	5	SYSTEM	定休日は日曜日となっております。	general,shopping,restaurant,hotel
+755	6	USER	わかりました。飲食店も探しているのですが、駐車場を無料で使えて、最寄り駅が尾頭橋駅の店はありますか？	general,shopping,restaurant,hotel
+755	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できる飲食店が見つかりませんでした。	general,shopping,restaurant,hotel
+755	8	USER	わかりました。最寄り駅は尾頭橋駅じゃなくても大丈夫です。	general,shopping,restaurant,hotel
+755	9	SYSTEM	ありがとうございます。では、うなぎの新甫というお店はいかがでしょうか？その他にも10件少々、ご案内可能なお店がございます。	general,shopping,restaurant,hotel
+755	10	USER	そこにします。近辺の駅からの所要時間を教えてください。	general,shopping,restaurant,hotel
+755	11	SYSTEM	かしこまりました。最寄りの池下駅から徒歩で5分、今池駅からも徒歩10分でアクセスできます。	general,shopping,restaurant,hotel
+755	12	USER	わかりました。店の予約をお願いできますか？	general,shopping,restaurant,hotel
+755	13	SYSTEM	かしこまりました。ご利用予定の日付と時刻、人数をお願いできますでしょうか？	general,shopping,restaurant,hotel
+755	14	USER	はい。2人で9月8日の12時50分からお願いします。	general,shopping,restaurant,hotel
+755	15	SYSTEM	予約を完了いたしました。ご予約番号は、31260です。	general,shopping,restaurant,hotel
+755	16	USER	ありがとうございます。宿泊施設も調べてほしいです。レストランが併設されていて、駐車場とWi-Fiが無料で利用できるところを教えてください。	general,shopping,restaurant,hotel
+755	17	SYSTEM	かしこまりました。7件ほどご案内可能です。プチホテル ニューひふみ、という中川区エリアのビジネスホテルはいかがでしょうか？	general,shopping,restaurant,hotel
+755	18	USER	そこにします。料金情報を教えてください。	general,shopping,restaurant,hotel
+755	19	SYSTEM	料金に関しましては、お値段帯がお安め、ということ以外、詳しい情報が手元になく、ご案内できません。申し訳ございません。	general,shopping,restaurant,hotel
+755	20	USER	わかりました。予約をお願いできますか？	general,shopping,restaurant,hotel
+755	21	SYSTEM	はい、かしこまりました。ご宿泊予定の人数と日付、ご宿泊日数はお決まりでしょうか？	general,shopping,restaurant,hotel
+755	22	USER	3人で9月8日から4泊したいです。	general,shopping,restaurant,hotel
+755	23	SYSTEM	ご予約ありがとうございます。予約番号17383にて、承りました。	general,shopping,restaurant,hotel
+755	24	USER	ありがとうございます。	general,shopping,restaurant,hotel
+755	25	SYSTEM	他にお調べすることはございますか？	general,shopping,restaurant,hotel
+755	26	USER	はい、大丈夫です。	general,shopping,restaurant,hotel
+755	27	SYSTEM	承知しました。では本日はご利用ありがとうございました。	general,shopping,restaurant,hotel

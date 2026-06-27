@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3161	0	USER	札幌への旅行を計画中のため、駐車場が無料で利用できて、予算は普通でジャンルは焼肉・ホルモンの飲食店を探してもらえますか？	general,restaurant,attraction,weather
+3161	1	SYSTEM	札幌焼肉 赤いとうがらしは、いかがですか？	general,restaurant,attraction,weather
+3161	2	USER	そこにしようと思うので、定休日を教えてください。	general,restaurant,attraction,weather
+3161	3	SYSTEM	定休日は、月曜と火曜になっています。	general,restaurant,attraction,weather
+3161	4	USER	ありがとうございます。あとジャンルが旧跡の観光名所でどこかいいところはありますか？	general,restaurant,attraction,weather
+3161	5	SYSTEM	札幌市時計台は、いかがですか？	general,restaurant,attraction,weather
+3161	6	USER	そこにしようと思うので、営業時間を教えてください。	general,restaurant,attraction,weather
+3161	7	SYSTEM	営業時間は、午前8時45分から午後5時10分となっています。	general,restaurant,attraction,weather
+3161	8	USER	ありがとうございます。あと11/15の白石区の最高気温を調べてもらえますか？	general,restaurant,attraction,weather
+3161	9	SYSTEM	最高気温は、7.9度です。	general,restaurant,attraction,weather
+3161	10	USER	ありがとうございます。	general,restaurant,attraction,weather
+3161	11	SYSTEM	他にご用件はございますか？	general,restaurant,attraction,weather
+3161	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant,attraction,weather

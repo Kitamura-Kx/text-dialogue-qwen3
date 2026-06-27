@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4075	0	USER	名古屋への旅行を計画しています． 当日泊まる宿泊施設を探してください．Wi-Fiが無料で利用できるところにしてください．最寄り駅が上前津駅のところにしてください．駐車場を無料で利用できるところがいいです。	general,hotel,taxi
+4075	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,hotel,taxi
+4075	2	USER	でしたら駐車場の有無はどちらでも。	general,hotel,taxi
+4075	3	SYSTEM	トリップ&スリープホステルはいかがでしょうか。	general,hotel,taxi
+4075	4	USER	そちらのレストランの有無，チェックアウト終了時刻を教えていただけますか。	general,hotel,taxi
+4075	5	SYSTEM	レストランの有無は無しでチェックアウト終了時刻は10:00です。	general,hotel,taxi
+4075	6	USER	そちらで人数は3人．日付は10/22．宿泊日数は2泊で予約してほしいです。	general,hotel,taxi
+4075	7	SYSTEM	予約完了いたしました。予約番号は94725になります。	general,hotel,taxi
+4075	8	USER	ありがとうございます。あと当日利用できるタクシー会社を探してください．ジャンボタクシーを利用できるところがいいです。	general,hotel,taxi
+4075	9	SYSTEM	丸八交通はいかがでしょうか。	general,hotel,taxi
+4075	10	USER	そちらのキャッシュレス対応，，電話番号を教えていただけますか。	general,hotel,taxi
+4075	11	SYSTEM	キャッシュレス対応は不明で電話番号は0528026711です。	general,hotel,taxi
+4075	12	USER	そちらで日付は10/22．時間は10:00．出発地はローソンストア100 名古屋丸の内というところで．目的地は先ほど見つけた宿泊所で予約して欲しいです。	general,hotel,taxi
+4075	13	SYSTEM	予約完了いたしました。予約番号は18864になります。	general,hotel,taxi
+4075	14	USER	ありがとうございます。	general,hotel,taxi

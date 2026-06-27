@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4413	0	USER	札幌へ旅行に行くのですが、豊平区で駐車場を無料で使える観光名所はありませんか？	general,attraction,weather
+4413	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,attraction,weather
+4413	2	USER	そうですか。では、豊平区以外でも大丈夫です。	general,attraction,weather
+4413	3	SYSTEM	かしこまりました。それでは札幌オリンピックミュージアムはいかがでしょうか？	general,attraction,weather
+4413	4	USER	そこにします。営業時間、大人入場料とWi-Fiの有無を教えてください。	general,attraction,weather
+4413	5	SYSTEM	はい、営業時間は9時から18時でして、大人入場料は600円でございます。また、申し訳ありませんがWi-Fiの有無は分かりません。	general,attraction,weather
+4413	6	USER	わかりました。あと、西区の11/1の天気を教えてください。	general,attraction,weather
+4413	7	SYSTEM	お待たせ致しました。当日の西区の天気は雨のち曇の予報でございます。	general,attraction,weather
+4413	8	USER	わかりました。ありがとうございました。	general,attraction,weather
+4413	9	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,weather

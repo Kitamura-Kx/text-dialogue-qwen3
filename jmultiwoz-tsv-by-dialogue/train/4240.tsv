@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4240	0	USER	京都旅行の際に行きたいのですが、教室・ワークショップなどで駐車場無料のところを探していただけますか。	general,attraction,taxi
+4240	1	SYSTEM	承知しました。エリアでいうと西京区にある、桂坂野鳥遊園はいかがでしょう？	general,attraction,taxi
+4240	2	USER	それからタクシー会社も調べていただきたいのですが、ジャンボタクシーがあるところ希望です。	general,attraction,taxi
+4240	3	SYSTEM	承知しました。では、興進タクシー株式会社はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0756814481となります。	general,attraction,taxi
+4240	4	USER	ありがとうございます。予約をお願いします。11/4、14:00で桂坂野鳥遊園からステーキ・鉄板焼 みくらまでです。	general,attraction,taxi
+4240	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、77066となります。	general,attraction,taxi
+4240	6	USER	ありがとうございました。	general,attraction,taxi

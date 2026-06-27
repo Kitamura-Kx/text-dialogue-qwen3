@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1733	0	USER	仙台へ旅行に行くんですが、宿泊施設を探してください。	general,hotel
+1733	1	SYSTEM	希望条件などは、ありますか？	general,hotel
+1733	2	USER	宮城野区で駐車場が無料のところでお願いします！	general,hotel
+1733	3	SYSTEM	キャッスルイン仙台は、いかがですか？	general,hotel
+1733	4	USER	いいですね！住所を教えてください。	general,hotel
+1733	5	SYSTEM	住所は、宮城県仙台市宮城野区福室字田中前1番53-1です。	general,hotel
+1733	6	USER	では予約をお願いします！12/20から3泊で3人で行きたいです。	general,hotel
+1733	7	SYSTEM	予約出来ました。予約番号は、97517です。	general,hotel
+1733	8	USER	ありがとうございます。	general,hotel
+1733	9	SYSTEM	他にご用件はありますか？	general,hotel
+1733	10	USER	いえ、大丈夫です。楽しんできます！	general,hotel
+1733	11	SYSTEM	承知致しました。　ありがとうございました。	general,hotel

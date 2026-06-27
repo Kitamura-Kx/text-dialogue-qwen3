@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+398	0	USER	名古屋へ行こうと思っています。場所は中村区でビジネスホテルでレストランが併設されているところを探していただけますか？	general,hotel
+398	1	SYSTEM	承知しました。10件ございますが、他にご希望はございますか？	general,hotel
+398	2	USER	12月29日にから2人で2泊泊まれるところはありますでしょうか？	general,hotel
+398	3	SYSTEM	申し訳ありません。その条件では宿泊可能な施設がございません。いかが致しましょう？	general,hotel
+398	4	USER	同条件で人数を1人に変更してもう一度探していただけますか？	general,hotel
+398	5	SYSTEM	ありがとうございます。ダイワロイネットホテル名古屋駅前にて、予約させていただきました。ご予約番号は、51939となります。電話番号は0525413955、住所は名古屋市中村区名駅南1丁目23-20です。	general,hotel
+398	6	USER	ありがとうございます。	general,hotel
+398	7	SYSTEM	他にご用件はございますか？	general,hotel
+398	8	USER	いいえ、大丈夫です。	general,hotel

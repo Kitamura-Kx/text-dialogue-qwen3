@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3542	0	USER	横浜への旅行を計画しています．当日買い物ができるところを探してください．	general,shopping,weather
+3542	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,weather
+3542	2	USER	駐車場を無料、最寄り駅が新横浜駅のところにしてください。	general,shopping,weather
+3542	3	SYSTEM	では新横浜プリンスペペはいかがでしょうか。	general,shopping,weather
+3542	4	USER	いいですね。エリア、電話番号が知りたいです。	general,shopping,weather
+3542	5	SYSTEM	エリアは港北区、電話番号は不明でございます。	general,shopping,weather
+3542	6	USER	あと、10/19の港南区の天候が知りたいです。	general,shopping,weather
+3542	7	SYSTEM	天気は曇、最低気温が13.2度で最高気温が20.6度でございます。	general,shopping,weather
+3542	8	USER	ありがとうございます。助かりました。	general,shopping,weather
+3542	9	SYSTEM	ほかにご用件はございませんか。	general,shopping,weather
+3542	10	USER	大丈夫です。	general,shopping,weather
+3542	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1983	0	USER	名古屋で駐車場が無料の飲食店を探しています。料金は高めが良いです。	general,restaurant
+1983	1	SYSTEM	かしこまりました。では、うなぎの新甫というお店はいかがでしょうか？	general,restaurant
+1983	2	USER	そこにします。定休日はありますか？	general,restaurant
+1983	3	SYSTEM	はい、日曜日が定休日となっております。	general,restaurant
+1983	4	USER	わかりました。ありがとうございました。	general,restaurant
+1983	5	SYSTEM	他にお調べすることはございますか？	general,restaurant
+1983	6	USER	大丈夫です。	general,restaurant
+1983	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

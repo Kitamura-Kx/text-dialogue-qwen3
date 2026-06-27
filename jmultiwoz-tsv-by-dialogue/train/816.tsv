@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+816	0	USER	札幌への旅行を考えているのですが、厚別区でWi-Fiが無料で利用できる観光名所はありますか？	general,attraction,weather
+816	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,weather
+816	2	USER	そうですか。なら厚別区じゃなくても大丈夫です。	general,attraction,weather
+816	3	SYSTEM	かしこまりました。そうしますと、9件ほど候補がございます。たとえば、国営滝野すずらん丘陵公園は、いかがでしょうか？	general,attraction,weather
+816	4	USER	そこにします。電話番号と大人入場料を教えてください。あとジャンルも知りたいです。	general,attraction,weather
+816	5	SYSTEM	電話番号は、0115923333です。15歳以上の大人入場料は、450円です。なお、65歳以上のシルバーになりますと210円となっております。ジャンルは、自然・公園, キャンプとなっております。	general,attraction,weather
+816	6	USER	了解です。当日の天気も知りたいのですが、白石区の6/8の天候を教えてください。	general,attraction,weather
+816	7	SYSTEM	かしこまりました。当日の天気は、曇り時々晴れの予報です。最低気温は19.4度、最高気温は21.8度となる予想です。	general,attraction,weather
+816	8	USER	そうですか。ありがとうございます。	general,attraction,weather
+816	9	SYSTEM	ほかにお調べすることはございますか？	general,attraction,weather
+816	10	USER	いえ、大丈夫です。	general,attraction,weather
+816	11	SYSTEM	承知いたしました。また何かございましたら、お気軽にお問い合わせください。	general,attraction,weather

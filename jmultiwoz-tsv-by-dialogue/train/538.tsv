@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+538	0	USER	京都への旅行を計画しているのですが、当日食事ができるお店を探しています。	general,restaurant,taxi,weather
+538	1	SYSTEM	京都のお食事処ですね。お食事のジャンルなど、ご希望の条件はございますか？	general,restaurant,taxi,weather
+538	2	USER	ジャンルは問わず、左京区で駐車場が無料のお店がよいです。	general,restaurant,taxi,weather
+538	3	SYSTEM	かしこまりました。2件候補がございまして、例えば稲穂食堂ですと、アジア・エスニック料理のお店となっております。	general,restaurant,taxi,weather
+538	4	USER	稲穂食堂にしたいと思います。定休日はいつでしょうか。	general,restaurant,taxi,weather
+538	5	SYSTEM	定休日は、月曜日となっております。	general,restaurant,taxi,weather
+538	6	USER	では、12月7日の11時20分、4名で予約をお願いします。	general,restaurant,taxi,weather
+538	7	SYSTEM	申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,restaurant,taxi,weather
+538	8	USER	それでは、時間を11時50分に変更してください。	general,restaurant,taxi,weather
+538	9	SYSTEM	ありがとうございます。11時50分にて、ご予約承りました。予約番号は、34701です。	general,restaurant,taxi,weather
+538	10	USER	当日タクシーも利用したいのですが、ジャンボタクシーを利用できるタクシー会社はありますか？	general,restaurant,taxi,weather
+538	11	SYSTEM	はい、17件ほどご案内可能です。株式会社エコロ２１でしたら、キャッシュレスにも対応しておりますよ。いかがでしょうか？	general,restaurant,taxi,weather
+538	12	USER	それでは、株式会社エコロ２１の電話番号を教えてください。	general,restaurant,taxi,weather
+538	13	SYSTEM	かしこまりました。電話番号は、0758032228です。予約もなさいますか？	general,restaurant,taxi,weather
+538	14	USER	はい、お願いします。12月7日の9時30分に、稲穂食堂から京都駅前 さと茂旅館までお願いします。	general,restaurant,taxi,weather
+538	15	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。ご予約番号は、74414です。	general,restaurant,taxi,weather
+538	16	USER	ありがとうございます。当日12月7日の中京区の天気を教えていただけますか。	general,restaurant,taxi,weather
+538	17	SYSTEM	はい、かしこまりました。当日の天気は、晴れのち曇りの予報となっております。	general,restaurant,taxi,weather
+538	18	USER	大変たすかりました。ありがとうございました。	general,restaurant,taxi,weather

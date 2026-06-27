@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3928	0	USER	こんにちは、今東京への旅行を計画してまして当日訪れる観光名所を探しています。	general,attraction
+3928	1	SYSTEM	承知いたしました。50件ありますが、何かご希望がございますか。	general,attraction
+3928	2	USER	駐車場が無料で、せっかくなのでWi-Fiが無料で使えるところが良いです。	general,attraction
+3928	3	SYSTEM	申し訳ございません。駐車場が無料で、Wi-Fiが無料で使えるところは見つかりません。	general,attraction
+3928	4	USER	承知しました、ではWi-Fiは考慮しないで良いのでどこか良いところはありますか？	general,attraction
+3928	5	SYSTEM	はい、Wi-Fiは考慮しないのであれば、５件あります。	general,attraction
+3928	6	USER	ありがとうございます、ではオススメの場所のお名前とそこの定休日を教えていただけますか？	general,attraction
+3928	7	SYSTEM	承知いたしました。根津美術館は如何でしょう、定休日は月と年末年始となっております。	general,attraction
+3928	8	USER	ありがとうございます。そこは月曜日と年末年始が定休日ですね。今回確認したかった内容はこれで以上です。	general,attraction
+3928	9	SYSTEM	ありがとうございます。	general,attraction

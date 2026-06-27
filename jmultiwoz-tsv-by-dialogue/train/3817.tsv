@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3817	0	USER	東京へ旅行を計画しているのですが。	general,restaurant
+3817	1	SYSTEM	東京旅行ですね。　どのようなお店や施設をご希望ですか？	general,restaurant
+3817	2	USER	飲食店を探しています。無料の駐車場が利用できる場所はありますか？	general,restaurant
+3817	3	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant
+3817	4	USER	そうですか。では、駐車場はなくても大丈夫なのでほかに良いところはありますか？	general,restaurant
+3817	5	SYSTEM	91件みつかりました。　予算など何かご希望などは、ありますか？	general,restaurant
+3817	6	USER	特にありません。	general,restaurant
+3817	7	SYSTEM	では、新荘園 ムスブ田町店はいかがですか？	general,restaurant
+3817	8	USER	はい。そちらの定休日はわかりますか？	general,restaurant
+3817	9	SYSTEM	定休日は、無しとなっています。	general,restaurant
+3817	10	USER	わかりました。ではそちらで予約をお願いします。2/24に13:30で、2名でお願いします。	general,restaurant
+3817	11	SYSTEM	予約出来ました。予約番号は、76947です。	general,restaurant
+3817	12	USER	ありがとうございます。	general,restaurant
+3817	13	SYSTEM	他にご用件はありますか？	general,restaurant
+3817	14	USER	特にありません。ありがとうございました。	general,restaurant

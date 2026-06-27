@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2096	0	USER	横浜への旅行を検討しています。当日宿泊できる場所を探しているのですが、お伺いしてもよろしいでしょうか？	general,hotel,taxi,weather
+2096	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,taxi,weather
+2096	2	USER	最寄り駅が戸塚駅で、レストランが併設されている場所ってありますか？	general,hotel,taxi,weather
+2096	3	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,taxi,weather
+2096	4	USER	では、最寄り駅が戸塚駅で、Wi-Fiが無料で利用できる所はありますか？	general,hotel,taxi,weather
+2096	5	SYSTEM	かしこまりました。では、天然温泉 戸塚宿 大橋の湯 スーパーホテル戸塚駅東口はいかがでしょうか？	general,hotel,taxi,weather
+2096	6	USER	ありがとうございます。そちらの電話番号もお伺いしてもよろしいですか？	general,hotel,taxi,weather
+2096	7	SYSTEM	はい。電話番号は0458649000です。	general,hotel,taxi,weather
+2096	8	USER	ありがとうございます。それと、当日利用出来るタクシー会社も探しているのですが、よろしいでしょうか？	general,hotel,taxi,weather
+2096	9	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,taxi,weather
+2096	10	USER	ジャンボタクシーが利用出来るとありがたいです。	general,hotel,taxi,weather
+2096	11	SYSTEM	かしこまりました。では、京浜ハイヤー株式会社はいかがでしょうか？キャッシュレスにも対応しております。	general,hotel,taxi,weather
+2096	12	USER	そちらの電話番号も教えて頂けますか？	general,hotel,taxi,weather
+2096	13	SYSTEM	はい。電話番号は0457411896になります。予約されますか？	general,hotel,taxi,weather
+2096	14	USER	はい。お願いします。5月16日の14時30分で、天然温泉 戸塚宿 大橋の湯 スーパーホテル戸塚駅東口から、ゑびす鯛 横浜店までお願いしたいです。	general,hotel,taxi,weather
+2096	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、52217です。	general,hotel,taxi,weather
+2096	16	USER	ありがとうございます。最後に、当日の天候もお伺いしたいのですが。	general,hotel,taxi,weather
+2096	17	SYSTEM	はい。日付と場所の指定はございますか？	general,hotel,taxi,weather
+2096	18	USER	はい。南区の5月16日の天気をお願いします。	general,hotel,taxi,weather
+2096	19	SYSTEM	かしこまりました。5/16の南区の天気予報は曇のち雨となっております。最低気温は17.3度、最高気温は20.7度になる予報です。	general,hotel,taxi,weather
+2096	20	USER	ありがとうございます。これで当日は大丈夫そうです。ありがとうございました。	general,hotel,taxi,weather
+2096	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi,weather

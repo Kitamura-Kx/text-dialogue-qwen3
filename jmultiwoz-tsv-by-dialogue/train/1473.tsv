@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1473	0	USER	福岡へ旅行に行くので、観光名所を探してください	general,attraction,shopping,restaurant
+1473	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,shopping,restaurant
+1473	2	USER	駐車場とWi-Fiが無料で利用できるところにしてください	general,attraction,shopping,restaurant
+1473	3	SYSTEM	では福岡市博物館はいかがでしょうか。	general,attraction,shopping,restaurant
+1473	4	USER	ではそちらの近辺の駅からの所要時間を教えてください	general,attraction,shopping,restaurant
+1473	5	SYSTEM	西新駅から徒歩で15分、藤崎駅からバスで10分、博多駅からバスで25分、天神駅からバスで20分となっております。	general,attraction,shopping,restaurant
+1473	6	USER	ありがとうございます。次に当日買い物ができるところを探してください。	general,attraction,shopping,restaurant
+1473	7	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,shopping,restaurant
+1473	8	USER	ジャンルはファッション、駐車場を無料で利用できるところにしてください。地区は博多区です。	general,attraction,shopping,restaurant
+1473	9	SYSTEM	では博多リバレインはいかがでしょうか。	general,attraction,shopping,restaurant
+1473	10	USER	ではそちらの近辺の駅からの所要時間を教えてください	general,attraction,shopping,restaurant
+1473	11	SYSTEM	中洲川端駅から徒歩で1分、博多駅から徒歩で20分、西鉄福岡（天神）駅から徒歩で15分でございます。	general,attraction,shopping,restaurant
+1473	12	USER	では続いて当日食事ができる飲食店を探してください	general,attraction,shopping,restaurant
+1473	13	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,shopping,restaurant
+1473	14	USER	地区は南区で、Wi-Fiが無料で利用できるところにしてください	general,attraction,shopping,restaurant
+1473	15	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,attraction,shopping,restaurant
+1473	16	USER	それではWi-Fiの条件はなくして構いません	general,attraction,shopping,restaurant
+1473	17	SYSTEM	では焼にく とびこがございます。	general,attraction,shopping,restaurant
+1473	18	USER	そちらの電話番号と住所を教えてください	general,attraction,shopping,restaurant
+1473	19	SYSTEM	電話番号は0925542958、住所が福岡県福岡市南区玉川町10-7でございます。	general,attraction,shopping,restaurant
+1473	20	USER	ではそちらで予約をお願いします。人数は4人、日付は2/18、時間は13:30でお願いします。	general,attraction,shopping,restaurant
+1473	21	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,attraction,shopping,restaurant
+1473	22	USER	それでは時間を14:10に変更してください	general,attraction,shopping,restaurant
+1473	23	SYSTEM	その時間ですと予約が可能でございました。予約番号は66155でございます。	general,attraction,shopping,restaurant
+1473	24	USER	ありがとうございました。以上です。	general,attraction,shopping,restaurant
+1473	25	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,restaurant

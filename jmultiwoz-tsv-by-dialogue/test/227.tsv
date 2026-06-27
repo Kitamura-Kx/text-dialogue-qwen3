@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+227	0	USER	東京へ旅行に行こうと思っているので、飲食店を探しています。	general,restaurant,weather,taxi
+227	1	SYSTEM	かしこまりました。何か条件はございますか。	general,restaurant,weather,taxi
+227	2	USER	予算は普通で、Wi-Fiが無料で利用できるお店でいいところはありますか？	general,restaurant,weather,taxi
+227	3	SYSTEM	Italian Dining Vittoria 北千住店はいかがでしょうか。	general,restaurant,weather,taxi
+227	4	USER	ジャンルは何になりますか？	general,restaurant,weather,taxi
+227	5	SYSTEM	イタリアン・フレンチ, 居酒屋となっております。	general,restaurant,weather,taxi
+227	6	USER	いいですね、そこにしたいと思います。8/23の15:00に２名で予約をお願いします。	general,restaurant,weather,taxi
+227	7	SYSTEM	はい。予約完了いたしました。予約番号は75622でございます。	general,restaurant,weather,taxi
+227	8	USER	ありがとうございます。あと8/23の豊島区の天候が知りたいです。	general,restaurant,weather,taxi
+227	9	SYSTEM	天気は雨のち晴となっております。	general,restaurant,weather,taxi
+227	10	USER	最高気温も教えてください。	general,restaurant,weather,taxi
+227	11	SYSTEM	最高気温は30.7度の予定でございます。	general,restaurant,weather,taxi
+227	12	USER	ありがとうございます。あとキャッシュレス払い対応のジャンボタクシーが利用できるタクシー会社も探してもらえますか？	general,restaurant,weather,taxi
+227	13	SYSTEM	ではキャピタルオートはいかがでしょうか。	general,restaurant,weather,taxi
+227	14	USER	そこでお願いしようと思うので、電話番号を教えてください。	general,restaurant,weather,taxi
+227	15	SYSTEM	0357552151でございます。	general,restaurant,weather,taxi
+227	16	USER	ありがとうございます。8/23の14:00にItalian Dining Vittoria 北千住店から江戸東京博物館まで予約もお願いできますか？	general,restaurant,weather,taxi
+227	17	SYSTEM	はい。予約完了いたしました。予約番号は43272でございます。	general,restaurant,weather,taxi
+227	18	USER	ありがとうございます。	general,restaurant,weather,taxi
+227	19	SYSTEM	ほかにご用件はございますか。	general,restaurant,weather,taxi
+227	20	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant,weather,taxi
+227	21	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather,taxi

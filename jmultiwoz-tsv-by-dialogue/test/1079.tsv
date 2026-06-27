@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1079	0	USER	京都への旅行を計画しているのですが。	general,shopping,restaurant,weather
+1079	1	SYSTEM	はい。お問合せありがとうございます。	general,shopping,restaurant,weather
+1079	2	USER	当日買い物ができるところを探してください．駐車場を無料で利用で．最寄り駅が嵐山駅のところがいいです。	general,shopping,restaurant,weather
+1079	3	SYSTEM	すいません、ご希望似合う場所がございません。	general,shopping,restaurant,weather
+1079	4	USER	でしたら最寄りはどこでもいいです。	general,shopping,restaurant,weather
+1079	5	SYSTEM	でしたらトーイハウス童はいかがでしょうか。	general,shopping,restaurant,weather
+1079	6	USER	いいですね。そこの定休日とエリアをおしえてください。	general,shopping,restaurant,weather
+1079	7	SYSTEM	定休日は月, 火, 土でエリアは北区になります	general,shopping,restaurant,weather
+1079	8	USER	ありがとうございました。あと、当日食事ができる飲食店を探してください．駐車場を無料で利用できるところがいいです。	general,shopping,restaurant,weather
+1079	9	SYSTEM	海雲亭 洛西店はいかがでしょうか。	general,shopping,restaurant,weather
+1079	10	USER	そちらのエリアはどこですか。	general,shopping,restaurant,weather
+1079	11	SYSTEM	西京区です。	general,shopping,restaurant,weather
+1079	12	USER	ありがとうございます。そちらで人数は4人、日付は1/17で時間は16:20で予約してほしいです。	general,shopping,restaurant,weather
+1079	13	SYSTEM	予約成功しました。予約番号は15420になります。	general,shopping,restaurant,weather
+1079	14	USER	ありがとうございました。あと、伏見区の1/17の天気も教えていただけますか。	general,shopping,restaurant,weather
+1079	15	SYSTEM	天気は晴のち雨です。	general,shopping,restaurant,weather
+1079	16	USER	最高気温，最低気温もおしえていただけますか。	general,shopping,restaurant,weather
+1079	17	SYSTEM	最低気温は2.9度で 最高気温は14.5度です。	general,shopping,restaurant,weather
+1079	18	USER	ありがとうございました。	general,shopping,restaurant,weather

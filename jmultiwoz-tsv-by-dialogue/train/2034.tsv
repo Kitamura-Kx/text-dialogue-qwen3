@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2034	0	USER	大阪の北区にある、駐車場が無料で利用できる観光名所を探しています。	general,attraction,weather
+2034	1	SYSTEM	該当は1件のみ、大阪天満宮がございます。ジャンルは、歴史的な散策エリア、神社、寺院、教会、モニュメントなど、となります。	general,attraction,weather
+2034	2	USER	ありがとうございます。そちらの住所と子供の入場料を教えてもらえますか？	general,attraction,weather
+2034	3	SYSTEM	住所は大阪府大阪市北区天神橋2丁目1-8、子供入場料は無料となっております。	general,attraction,weather
+2034	4	USER	ありがとうございます。あと、旭区の１月１０日の最低気温と天気も教えてもらえますか？	general,attraction,weather
+2034	5	SYSTEM	天気は晴時々曇、最低気温9.2度となります。他にご用件はございますか？	general,attraction,weather
+2034	6	USER	大丈夫です。ありがとうございました。	general,attraction,weather
+2034	7	SYSTEM	ありがとうございました。	general,attraction,weather

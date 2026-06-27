@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1805	0	USER	仙台へ旅行に行く計画をしているので、泊まる所を探してください。	general,hotel,shopping,weather
+1805	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,shopping,weather
+1805	2	USER	予算は高めで考えています。レストランつきで無料Wi-Fiもある所を案内お願いします。	general,hotel,shopping,weather
+1805	3	SYSTEM	エリアでいうと太白区にある、秋保温泉 茶寮宗園はいかがでしょう？タイプは旅館となります。	general,hotel,shopping,weather
+1805	4	USER	ありがとうございます。料金の情報もありますか？それでは、1/30から2泊で3人の予約を取ってください。	general,hotel,shopping,weather
+1805	5	SYSTEM	申し訳ありません。ご案内可能な料金情報はございません。予約に関しては予約が完了し、ご予約番号は、2185となります。	general,hotel,shopping,weather
+1805	6	USER	あと、当日は太白区で買い物をしたいと思っているんですが、無料駐車場付きのお店はありませんか？	general,hotel,shopping,weather
+1805	7	SYSTEM	申し訳ありません、ご紹介可能な店舗がございません。いかがされますか？	general,hotel,shopping,weather
+1805	8	USER	そうですか、それでは青葉区で無料駐車場付きのお店を探してもらえますか？	general,hotel,shopping,weather
+1805	9	SYSTEM	錦ケ丘ヒルサイドモールはいかがでしょう？ジャンルは、ショッピングモールとなります。	general,hotel,shopping,weather
+1805	10	USER	よいですね。錦ケ丘ヒルサイドモールの電話番号と、営業時間も教えてください。	general,hotel,shopping,weather
+1805	11	SYSTEM	電話番号は0223920585、営業時間は10時から19時となります。	general,hotel,shopping,weather
+1805	12	USER	ありがとうございます。あと、1/30の太白区の天気も分かりますでしょうか？	general,hotel,shopping,weather
+1805	13	SYSTEM	天気は曇のち雪、最低気温-2.5度、最高気温12.1度となります。他にご用件はございますか？	general,hotel,shopping,weather
+1805	14	USER	ありがとうございます。	general,hotel,shopping,weather
+1805	15	SYSTEM	ありがとうございました。	general,hotel,shopping,weather

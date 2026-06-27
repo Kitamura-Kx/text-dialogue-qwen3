@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+439	0	USER	札幌の飲食店で、店名がFAbULOUSというところはありますか？	general,restaurant,attraction,taxi
+439	1	SYSTEM	はい、北海道札幌市中央区南1条東2丁目3-1 NKCビル 1Fにございます。お間違いないでしょうか？	general,restaurant,attraction,taxi
+439	2	USER	そこの電話番号を教えてもらえますか？	general,restaurant,attraction,taxi
+439	3	SYSTEM	電話番号は、0112710310でございます。	general,restaurant,attraction,taxi
+439	4	USER	ありがとうございます。札幌で観光をしたいのですが、中央区でどこかありますか？	general,restaurant,attraction,taxi
+439	5	SYSTEM	札幌もいわ山ロープウェイという場所がございますよ。ほかにも20件ほどご案内可能です。	general,restaurant,attraction,taxi
+439	6	USER	なるほど。観光名所で駐車場とWi-Fiが無料で使えるところだといいのですが。	general,restaurant,attraction,taxi
+439	7	SYSTEM	大変申し訳ございません。その条件では、該当するものがありませんでした。	general,restaurant,attraction,taxi
+439	8	USER	そうですか。駐車場の条件を外した場合、どこかありますか？	general,restaurant,attraction,taxi
+439	9	SYSTEM	はい。1件候補があります。札幌競馬場という場所ですが、いかがでしょうか？	general,restaurant,attraction,taxi
+439	10	USER	いいですね。当日タクシーを使いたいのですが、ジャンボタクシーを利用できるタクシー会社はどこかありますか？	general,restaurant,attraction,taxi
+439	11	SYSTEM	はい、ございます。暁交通(株)はいかがでしょうか？	general,restaurant,attraction,taxi
+439	12	USER	そちらはキャッシュレス決済には対応していますか？	general,restaurant,attraction,taxi
+439	13	SYSTEM	はい、対応しております。	general,restaurant,attraction,taxi
+439	14	USER	では、予約をお願いしたいです。	general,restaurant,attraction,taxi
+439	15	SYSTEM	かしこまりました。ご利用予定の日付と出発時刻、出発地、目的地はお決まりでしょうか？	general,restaurant,attraction,taxi
+439	16	USER	2/2の12:30に、FAbULOUSから札幌競馬場まででお願いします。	general,restaurant,attraction,taxi
+439	17	SYSTEM	かしこまりました。予約完了いたしました。ご予約番号は、26045です。	general,restaurant,attraction,taxi
+439	18	USER	助かりました。ありがとうございました。	general,restaurant,attraction,taxi

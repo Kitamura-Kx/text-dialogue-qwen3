@@ -1,0 +1,28 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+133	0	USER	横浜に行くつもりなんですが、食事ができるお店を探してもらってもいいですか？	general,restaurant,hotel,attraction
+133	1	SYSTEM	承知致しました。ジャンルやエリアなどのご希望はございますか？	general,restaurant,hotel,attraction
+133	2	USER	すこし、高級なお店に行ってみたいんです。	general,restaurant,hotel,attraction
+133	3	SYSTEM	ありがとうございます。それでは、写楽 横浜関内店はいかがでしょう？ジャンルは寿司・魚料理, 和食となります。	general,restaurant,hotel,attraction
+133	4	USER	そこにしたいと思います。詳しい料金は分かりますか？	general,restaurant,hotel,attraction
+133	5	SYSTEM	申し訳ございません、値段帯が高め、ということ以外、詳細な料金については不明です。	general,restaurant,hotel,attraction
+133	6	USER	そうなんですね。では営業時間とお休みの日は分かるでしょうか？	general,restaurant,hotel,attraction
+133	7	SYSTEM	はい、営業時間は18時から午前3時、定休日は日曜日となっております。住所は横浜市中区常盤町3丁目21 関内甘糟ビル アライアンス B1、お電話番号は0456516116です。最寄りの関内駅から徒歩で2分となります。	general,restaurant,hotel,attraction
+133	8	USER	詳しくありがとうございます。あと泊るところも探しておきたいんですけど。	general,restaurant,hotel,attraction
+133	9	SYSTEM	承知致しました。何かご希望はございますか？	general,restaurant,hotel,attraction
+133	10	USER	レストラン併設の宿が良いですね。	general,restaurant,hotel,attraction
+133	11	SYSTEM	48件ございます。宿のタイプやエリア、値段帯などのご希望があれば教えていただけますか？	general,restaurant,hotel,attraction
+133	12	USER	レストラン以外の希望は思いつかないんで、良さそうなところを1つ、教えてもらえますか？	general,restaurant,hotel,attraction
+133	13	SYSTEM	それでは、ホテル パセラの森 横浜関内はいかがでしょう？Wi-Fi、駐車場が無料でご利用可能で、値段帯も安めとなっております。	general,restaurant,hotel,attraction
+133	14	USER	そこで検討してみます。電話番号と住所を聞いておきたいんですけど、いいですか？	general,restaurant,hotel,attraction
+133	15	SYSTEM	ありがとうございます。住所は横浜市中区福富町東通40-4、お電話番号は、0120194458となります。	general,restaurant,hotel,attraction
+133	16	USER	4名で3泊の予約をお願いできますか？7月の25日から泊まりたいんですが。	general,restaurant,hotel,attraction
+133	17	SYSTEM	承知致しました。予約は完了致しまして、ご予約番号は、84208　となります。	general,restaurant,hotel,attraction
+133	18	USER	ありがとうございます。あとですね、観光できる場所で良いところがないかなと思ってまして。	general,restaurant,hotel,attraction
+133	19	SYSTEM	はい、なにかご希望はございますか？	general,restaurant,hotel,attraction
+133	20	USER	WiFiが無料で使えるところで。	general,restaurant,hotel,attraction
+133	21	SYSTEM	承知致しました。それでは、横浜・八景島シーパラダイスはいかがでしょう？Wi-Fiが無料でご利用可能です。	general,restaurant,hotel,attraction
+133	22	USER	興味あります。そこの詳しい料金について、教えてほしいです。	general,restaurant,hotel,attraction
+133	23	SYSTEM	ありがとうございます。料金ですが、ワンデーパス当日券が、大人と高校生5500円、65歳以上3900円、小、中学生3900円、4歳以上2200円となっております。	general,restaurant,hotel,attraction
+133	24	USER	そうなんですね。今日は助かりました、ありがとうございます。	general,restaurant,hotel,attraction
+133	25	SYSTEM	他にご用件はございますか？	general,restaurant,hotel,attraction
+133	26	USER	もう特にないです。失礼します。	general,restaurant,hotel,attraction

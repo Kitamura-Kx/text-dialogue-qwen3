@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+916	0	USER	仙台に旅行に行こうと思っています。当日食事ができる飲食店を教えてください。地区は泉区で無料で駐車場が利用できるところが良いです。	general,restaurant,taxi
+916	1	SYSTEM	かに政宗 泉店は、いかがでしょうか？	general,restaurant,taxi
+916	2	USER	そこで良いです。そちらのジャンルと電話番号を教えてください。	general,restaurant,taxi
+916	3	SYSTEM	ジャンルは、和食, 寿司・魚料理です。電話番号は、0223759000です。	general,restaurant,taxi
+916	4	USER	あとそこに5/6の１３時１０分に２人分予約したいのですが予約をお願いします。	general,restaurant,taxi
+916	5	SYSTEM	申し訳ありません。その条件では、予約出来ませんでした。	general,restaurant,taxi
+916	6	USER	でしたら時間は１４時１０分に変更します。	general,restaurant,taxi
+916	7	SYSTEM	予約出来ました。　予約番号は、69649です。	general,restaurant,taxi
+916	8	USER	あと当日キャッシュレス払いができるジャンボタクシーを利用したいのでタクシー会社を教えてください。	general,restaurant,taxi
+916	9	SYSTEM	（株）フタバタクシーは、いかがでしょうか？	general,restaurant,taxi
+916	10	USER	そこで良いです。そこの電話番号を教えてください。	general,restaurant,taxi
+916	11	SYSTEM	電話番号は、0222369371です。	general,restaurant,taxi
+916	12	USER	あと。当日5/6の１１時４０分に出発地はかに政宗 泉店で目的地は大同苑 泉中央店で予約をお願いします。	general,restaurant,taxi
+916	13	SYSTEM	予約が完了しました。予約番号は、10499です。	general,restaurant,taxi
+916	14	USER	分かりました。ありがとうございます。	general,restaurant,taxi
+916	15	SYSTEM	他にご用件はございますか？	general,restaurant,taxi
+916	16	USER	大丈夫です。ありがとうございました。	general,restaurant,taxi
+916	17	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2269	0	USER	仙台に旅行するので、当日泊まる宿泊施設を探していただけますか？	general,hotel,taxi,weather
+2269	1	SYSTEM	はい、ご希望の条件をお聞かせください。	general,hotel,taxi,weather
+2269	2	USER	Wi-Fiが無料で利用できる苦竹駅周辺でお願いします。レストランが併設されているとうれしいです。	general,hotel,taxi,weather
+2269	3	SYSTEM	苦竹駅周辺でレストランが併設の宿泊施設はありません。	general,hotel,taxi,weather
+2269	4	USER	では、最寄り駅が富沢駅であればありそうですか？	general,hotel,taxi,weather
+2269	5	SYSTEM	それならば、茂庭温泉 茂庭荘がオススメです。	general,hotel,taxi,weather
+2269	6	USER	ではそちらにします。電話番号と料金情報を教えていただけますか？	general,hotel,taxi,weather
+2269	7	SYSTEM	電話番号は0222455141、料金情報は普通の価格帯以上の詳細情報を持ち合わせていません。	general,hotel,taxi,weather
+2269	8	USER	ありがとうございます。当日利用できるタクシー会社も教えて頂きたいのですが、キャッシュレス払い対応している会社はありますか？	general,hotel,taxi,weather
+2269	9	SYSTEM	仙台にはキャッシュレス対応のタクシーはありません。	general,hotel,taxi,weather
+2269	10	USER	では、対応していないところでも構いません。	general,hotel,taxi,weather
+2269	11	SYSTEM	稲荷タクシー（有）をお勧めします。	general,hotel,taxi,weather
+2269	12	USER	ではそちらでお願いします。ジャンボタクシーに対応しているかどうかと、電話番号も教えていただけますでしょうか。	general,hotel,taxi,weather
+2269	13	SYSTEM	ジャンボタクシーにも対応しています。電話番号は、0222411121です。	general,hotel,taxi,weather
+2269	14	USER	ではそちらで予約もお願いできますでしょうか。3/13の11:50で、出発地は茂庭温泉 茂庭荘、目的地はやきとり家竜鳳 泉中央店でお願いしたいと思います。	general,hotel,taxi,weather
+2269	15	SYSTEM	その条件だと予約に失敗してしまいました。	general,hotel,taxi,weather
+2269	16	USER	時間を12:50に変更したら予約可能でしょうか？	general,hotel,taxi,weather
+2269	17	SYSTEM	3/13の12:50、茂庭温泉 茂庭荘から、やきとり家竜鳳 泉中央店まで、予約成功しました。予約番号は66609です。	general,hotel,taxi,weather
+2269	18	USER	ありがとうございます。旅行日の3/13の若林区地区の天気も教えていただけますか？	general,hotel,taxi,weather
+2269	19	SYSTEM	3/13 仙台 若林区 の天気は、晴のち曇、最低気温3.2度、最高気温は11.2度です。	general,hotel,taxi,weather
+2269	20	USER	天気の情報ありがとうございました。	general,hotel,taxi,weather

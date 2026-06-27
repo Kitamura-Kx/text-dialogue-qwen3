@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2119	0	USER	こんにちは。札幌へ旅行予定ですので、南区あたりで化粧品を変えるところを教えていただけますか？	general,shopping,taxi
+2119	1	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,shopping,taxi
+2119	2	USER	では南区でなくてもいいですので、お願いします。	general,shopping,taxi
+2119	3	SYSTEM	かしこまりました。では、TSUTAYA 美しが丘はいかがでしょうか？ジャンルは書籍, 文房具・雑貨, 医薬品・化粧品になります。	general,shopping,taxi
+2119	4	USER	ありがとうございます。そちらの最寄り駅の名前と、所要時間を教えていただけますか？	general,shopping,taxi
+2119	5	SYSTEM	はい。最寄り駅は上野幌駅です。所要時間は、上野幌駅からタクシーで14分となります。	general,shopping,taxi
+2119	6	USER	ありがとうございます。当日タクシーを使いたいので、キャッシュレス払いができるタクシー会社をお願いできますか？	general,shopping,taxi
+2119	7	SYSTEM	かしこまりました。では、暁交通(株)はいかがでしょうか？ジャンボタクシーも利用可能です。	general,shopping,taxi
+2119	8	USER	ありがとうございます。そちらで予約お願いします。5/18の11:30で、TSUTAYA 美しが丘からパフェ、珈琲、酒、佐藤まで行きたいです。	general,shopping,taxi
+2119	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、75134です。	general,shopping,taxi
+2119	10	USER	ありがとうございます。念のため電話番号もお願いします。	general,shopping,taxi
+2119	11	SYSTEM	はい。電話番号は0117712632です。	general,shopping,taxi
+2119	12	USER	どうもありがとうございました。助かりました。	general,shopping,taxi
+2119	13	SYSTEM	他にご用件はありますか？	general,shopping,taxi
+2119	14	USER	大丈夫です。ありがとうございました。	general,shopping,taxi
+2119	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

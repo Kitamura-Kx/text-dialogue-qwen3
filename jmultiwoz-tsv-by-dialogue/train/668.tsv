@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+668	0	USER	東京へ旅行したいのですが、おすすめの観光名所はありますか？スポーツ・フィットネスが良いです。	general,attraction,shopping,hotel
+668	1	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,attraction,shopping,hotel
+668	2	USER	では、ジャンルは考慮しません。	general,attraction,shopping,hotel
+668	3	SYSTEM	他にご希望はございますか？	general,attraction,shopping,hotel
+668	4	USER	いえ、特にありません。	general,attraction,shopping,hotel
+668	5	SYSTEM	では、日本科学未来館はいかがでしょう？ジャンルは科学館、その他、エリアは江東区、最寄りのテレコムセンター駅から徒歩で4分となります。駐車場は有料ですが、Wi-Fiは無料でご利用いただけます。	general,attraction,shopping,hotel
+668	6	USER	ありがとうございます。定休日はありますか？	general,attraction,shopping,hotel
+668	7	SYSTEM	はい、定休日は火曜日と年末年始になります。	general,attraction,shopping,hotel
+668	8	USER	ありがとうございます。当日、葛飾区で買い物ができるところも探しています。	general,attraction,shopping,hotel
+668	9	SYSTEM	承知しました。たべものと日用品 WAOがございます。ジャンルは食料品、文房具、雑貨、最寄りの金町駅から徒歩で7分、営業時間は11時から18時、定休日は月曜日と火曜日となります。駐車場の有無については不明です。住所は東京都葛飾区金町4丁目23-11、電話番号は0358763167です。	general,attraction,shopping,hotel
+668	10	USER	ありがとうございます。当日の宿泊施設も探しているのですが、ビジネスホテルが良いです。	general,attraction,shopping,hotel
+668	11	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,attraction,shopping,hotel
+668	12	USER	では、簡易宿所（ベッドハウス・山小屋・カプセルホテル等）でも構いません。	general,attraction,shopping,hotel
+668	13	SYSTEM	ありがとうございます。エリアなどのご希望はございますか？	general,attraction,shopping,hotel
+668	14	USER	いえ、特にありません。	general,attraction,shopping,hotel
+668	15	SYSTEM	では、ファーストキャビン愛宕山はいかがでしょう？エリアは港区、値段帯は安めで、最寄りの御成門駅から徒歩で5分となります。駐車場はありませんが、Wi-Fiは無料でご利用いただけます。レストランも併設されております。	general,attraction,shopping,hotel
+668	16	USER	ありがとうございます。そこの予約をとりたいのですが、９月22日から３人で３泊の予約をお願いできますか？	general,attraction,shopping,hotel
+668	17	SYSTEM	承知しました。予約が完了しまして、ご予約番号は、61945となります。	general,attraction,shopping,hotel
+668	18	USER	ありがとうございます。	general,attraction,shopping,hotel
+668	19	SYSTEM	他にご用件はございますか？	general,attraction,shopping,hotel
+668	20	USER	他にはありません。ありがとうございました。	general,attraction,shopping,hotel

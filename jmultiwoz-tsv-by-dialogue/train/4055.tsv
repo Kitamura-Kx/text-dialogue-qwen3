@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4055	0	USER	横浜への旅行を計画しています。 観光名所を探しています。最寄り駅が弘明寺駅のところで良いところがありますか。	general,attraction,restaurant,shopping
+4055	1	SYSTEM	かしこまりました。その条件ですと弘明寺がございます。	general,attraction,restaurant,shopping
+4055	2	USER	大人入場料，定休日を教えてください。	general,attraction,restaurant,shopping
+4055	3	SYSTEM	大人入場料は無料でございます。また、定休日はございません。	general,attraction,restaurant,shopping
+4055	4	USER	次に飲食店を探してください。予算は安めが希望、駐車場を無料で利用できるところにしてください。	general,attraction,restaurant,shopping
+4055	5	SYSTEM	かしこまりました。それではカフェ・ド・ラペがございます。	general,attraction,restaurant,shopping
+4055	6	USER	そのお店の営業時間，定休日を教えてください。	general,attraction,restaurant,shopping
+4055	7	SYSTEM	はい、営業時間は10時から23時で、定休日は無しでございます。	general,attraction,restaurant,shopping
+4055	8	USER	では予約をお願いします。人数は4人、日付は2/16、時間は13:50です。	general,attraction,restaurant,shopping
+4055	9	SYSTEM	お待たせ致しました。予約番号47154でお取りさせていただきました。	general,attraction,restaurant,shopping
+4055	10	USER	あと、当日買い物ができるところを探してください。駐車場を無料で利用できるところで、ジャンルは食料品が希望です。	general,attraction,restaurant,shopping
+4055	11	SYSTEM	かしこまりました。それではコストコ金沢シーサイド倉庫はいかがでしょうか？	general,attraction,restaurant,shopping
+4055	12	USER	いいですね。定休日，最寄り駅を教えてください。	general,attraction,restaurant,shopping
+4055	13	SYSTEM	定休日は1月1日、最寄りの駅は並木中央駅でございます。	general,attraction,restaurant,shopping
+4055	14	USER	解決しました。ありがとうございました。	general,attraction,restaurant,shopping

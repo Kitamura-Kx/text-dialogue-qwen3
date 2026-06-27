@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4648	0	USER	那覇へ旅行に行きたいと思っています。宿泊施設を探してもらえますか？	general,hotel
+4648	1	SYSTEM	かしこまりました。ホテルロコアナハがおすすめです。	general,hotel
+4648	2	USER	そちらのホテルは、レストランが併設されていますか？駐車場も無料で利用ができるところが良いのですが、どうですか？	general,hotel
+4648	3	SYSTEM	その条件ですと、条件に合う宿泊施設は見つかりませんでした。	general,hotel
+4648	4	USER	それならレストランは併設されていなくても大丈夫です。	general,hotel
+4648	5	SYSTEM	それでしたら、チャビラホテル那覇はいかがですか？	general,hotel
+4648	6	USER	いいですね、そこにします。チェックアウト終了時刻を教えてもらえますか？	general,hotel
+4648	7	SYSTEM	チェックアウト終了時刻は10:00になります。	general,hotel
+4648	8	USER	4/6から4名で2泊したいのですが、予約をお願いできますか？	general,hotel
+4648	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、90854です。	general,hotel
+4648	10	USER	ありがとうございました。	general,hotel
+4648	11	SYSTEM	こちらこそご利用ありがとうございました。	general,hotel

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1731	0	USER	福岡へ旅行に行くんですが、飲食店を探して欲しいです。	general,restaurant,taxi,weather
+1731	1	SYSTEM	予算など、他にご希望はありますか？	general,restaurant,taxi,weather
+1731	2	USER	東区にあるところで、予算は高めがいいです！駐車場無料のところでお願いします！	general,restaurant,taxi,weather
+1731	3	SYSTEM	では、照鮨はいかがですか？	general,restaurant,taxi,weather
+1731	4	USER	ジャンルは何になりますか？	general,restaurant,taxi,weather
+1731	5	SYSTEM	ジャンルは、寿司・魚料理です。	general,restaurant,taxi,weather
+1731	6	USER	いいですね！ジャンボタクシーを利用できるタクシー会社も探していただけますか？キャッシュレス払いができるところでお願いします！	general,restaurant,taxi,weather
+1731	7	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,taxi,weather
+1731	8	USER	では、キャッシュレス払いじゃなくても大丈夫です。	general,restaurant,taxi,weather
+1731	9	SYSTEM	清流タクシー（有）は、いかがですか？	general,restaurant,taxi,weather
+1731	10	USER	電話番号は分かりますか？	general,restaurant,taxi,weather
+1731	11	SYSTEM	電話番号は、0928041000です。	general,restaurant,taxi,weather
+1731	12	USER	では予約をお願いします！照鮨を出発して、THE LIVELY 博多福岡まで乗りたいです。	general,restaurant,taxi,weather
+1731	13	SYSTEM	日時のご希望はいつがよろしいですか？	general,restaurant,taxi,weather
+1731	14	USER	4/9の10:40でお願いします。	general,restaurant,taxi,weather
+1731	15	SYSTEM	予約出来ました。予約番号は、47107です。	general,restaurant,taxi,weather
+1731	16	USER	ありがとうございます。4/9の博多区の天気も調べてほしいです。	general,restaurant,taxi,weather
+1731	17	SYSTEM	天気は、晴時々曇です。	general,restaurant,taxi,weather
+1731	18	USER	ありがとうございます。大変助かりました！	general,restaurant,taxi,weather
+1731	19	SYSTEM	他にご用件はありますか？	general,restaurant,taxi,weather
+1731	20	USER	これで大丈夫です。	general,restaurant,taxi,weather
+1731	21	SYSTEM	承知致しました。　ありがとうございました。	general,restaurant,taxi,weather

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4024	0	USER	福岡への旅行を計画中で、観光名所を探しています。	general,attraction,taxi
+4024	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,attraction,taxi
+4024	2	USER	はい、無料Wi-fi付きで、東区が良いです。	general,attraction,taxi
+4024	3	SYSTEM	かしこまりました。では、ザ・ルイガンズ. スパ&リゾートはいかがでしょうか？	general,attraction,taxi
+4024	4	USER	そこにしようと思います。最寄り駅と電話番号を教えてください。	general,attraction,taxi
+4024	5	SYSTEM	はい。最寄り駅は海ノ中道駅です。また、電話番号は0926032525になります。	general,attraction,taxi
+4024	6	USER	ありがとうございます。当日キャッシュレス払いができるタクシー会社を探しているのですが、ありますか？	general,attraction,taxi
+4024	7	SYSTEM	かしこまりました。では、日新交通（株）はいかがでしょうか？	general,attraction,taxi
+4024	8	USER	そこにしようと思います。電話番号とジャンボタクシー対応の可否を教えてください。	general,attraction,taxi
+4024	9	SYSTEM	電話番号は0120152452で、ジャンボタクシーにも対応しております。	general,attraction,taxi
+4024	10	USER	ありがとうございます。11/14の15:00にザ・ルイガンズ. スパ&リゾートからLe marchand de bonheurまで予約して欲しいのですが、可能でしょうか。	general,attraction,taxi
+4024	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、34663です。	general,attraction,taxi
+4024	12	USER	助かりました。ありがとうございます。	general,attraction,taxi
+4024	13	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,attraction,taxi
+4024	14	USER	では、失礼します。	general,attraction,taxi

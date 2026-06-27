@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3541	0	USER	那覇への旅行を計画しています。宿泊施設を探してほしいです。	general,hotel,restaurant,weather
+3541	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,restaurant,weather
+3541	2	USER	レストランが併設されているところにしてください。	general,hotel,restaurant,weather
+3541	3	SYSTEM	ではホテルグランビュー沖縄はいかがでしょうか。	general,hotel,restaurant,weather
+3541	4	USER	そこのホテルは駐車場、Wi-Fiを無料で利用できますか？	general,hotel,restaurant,weather
+3541	5	SYSTEM	Wi-Fiは無料でございますが、駐車場は有料でございます。どちらも無料でご利用できるところをお探しですか。	general,hotel,restaurant,weather
+3541	6	USER	そうなんです。ありますか？	general,hotel,restaurant,weather
+3541	7	SYSTEM	でしたらパシフィックホテル沖縄がございます。	general,hotel,restaurant,weather
+3541	8	USER	では、そのホテルの料金情報，エリア，チェックイン開始時刻を教えてください。	general,hotel,restaurant,weather
+3541	9	SYSTEM	値段帯は安めとなっておりますが、料金の詳細はわかりかねます。エリアは本庁で、チェックイン開始時刻は15:00でございます。	general,hotel,restaurant,weather
+3541	10	USER	ありがとうございます。当日和食が食べられる飲食店を探してほしいです。	general,hotel,restaurant,weather
+3541	11	SYSTEM	ひとりしゃぶしゃぶ いち 那覇小禄店はいかがでしょうか。	general,hotel,restaurant,weather
+3541	12	USER	Wi-Fiが無料で利用できますか？	general,hotel,restaurant,weather
+3541	13	SYSTEM	Wi-Fiの有無は不明でございます。	general,hotel,restaurant,weather
+3541	14	USER	そうですか、ではWi-Fiは無くてもよいので、さきほどご提案いただいたお店について、定休日を教えてください。	general,hotel,restaurant,weather
+3541	15	SYSTEM	定休日はございません。	general,hotel,restaurant,weather
+3541	16	USER	では。予約をお願いします。人数は2人、日付は12/15、時間は13:50です。	general,hotel,restaurant,weather
+3541	17	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は10182でございます。	general,hotel,restaurant,weather
+3541	18	USER	あと、当日の小禄の天候を教えてください。日付は12/15です。	general,hotel,restaurant,weather
+3541	19	SYSTEM	天気は雨、最低気温が18.2度で最高気温が22.6度でございます。	general,hotel,restaurant,weather
+3541	20	USER	ありがとうございます。十分な内容です。案内ありがとうございました。	general,hotel,restaurant,weather
+3541	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,weather

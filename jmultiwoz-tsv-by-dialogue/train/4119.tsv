@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4119	0	USER	東京の台東区で買い物ができるお店はありますか	general,shopping,restaurant
+4119	1	SYSTEM	かしこまりました。ではカキモリはいかがでしょうか。	general,shopping,restaurant
+4119	2	USER	住所はどこになりますか	general,shopping,restaurant
+4119	3	SYSTEM	住所は東京都台東区三筋1丁目6-2でございます。	general,shopping,restaurant
+4119	4	USER	ありがとうございます、営業時間と定休日を教えてください	general,shopping,restaurant
+4119	5	SYSTEM	営業時間は11:00～18:00で、定休日は月曜日でございます。	general,shopping,restaurant
+4119	6	USER	ありがとうございます、安めのラーメンやつけ麺が食べられるお店は有りませんか	general,shopping,restaurant
+4119	7	SYSTEM	恵比寿らぁ麺屋 つなぎ(繋) 中野店がございます。	general,shopping,restaurant
+4119	8	USER	エリアはどのあたりでえすか	general,shopping,restaurant
+4119	9	SYSTEM	エリアは中野区でございます。	general,shopping,restaurant
+4119	10	USER	営業時間と電話番号を教えてください	general,shopping,restaurant
+4119	11	SYSTEM	営業時間が11:00～23:00で、電話番号は0359429481でございます。	general,shopping,restaurant
+4119	12	USER		general,shopping,restaurant

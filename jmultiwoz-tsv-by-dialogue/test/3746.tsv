@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3746	0	USER	名古屋へ旅行するのですが最寄り駅が大曽根駅でWi-Fiが無料で利用できる飲食店はありますか？	general,restaurant,weather
+3746	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,weather
+3746	2	USER	かしこまりました。それでは最寄りはどちらでも結構です。	general,restaurant,weather
+3746	3	SYSTEM	ありがとうございます。では、エリアでいうと中区にある、すしざんまい 名古屋錦店はいかがでしょう？ジャンルは、寿司、魚料理、和食となります。	general,restaurant,weather
+3746	4	USER	いいですね。駐車場はありますか？あと住所と料金情報も教えて下さい。	general,restaurant,weather
+3746	5	SYSTEM	申し訳ありません、駐車場の有無は不明です。住所は愛知県名古屋市中区錦3丁目18-12 Minex88-1F、料金情報としては、大とろが437円、サーモンが140円となります。	general,restaurant,weather
+3746	6	USER	ありがとうございます。それではそこを予約して頂けますか？人数は2人、11/2の13:30で。	general,restaurant,weather
+3746	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、72877となります。	general,restaurant,weather
+3746	8	USER	ありがとうございます。11/2の名東区の天気と最高気温が気になります。	general,restaurant,weather
+3746	9	SYSTEM	はい、天気は曇のち晴、最低気温12.6度、最高気温23.8度となります。	general,restaurant,weather
+3746	10	USER	大変助かりました！以上です。どうもありがとうございました。	general,restaurant,weather
+3746	11	SYSTEM	ありがとうございました。	general,restaurant,weather

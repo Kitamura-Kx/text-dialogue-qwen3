@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+196	0	USER	札幌に行くんですけど、南区で無料駐車場のある観光名所を教えてもらえませんか？	general,attraction
+196	1	SYSTEM	かしこまりました。では、定山源泉公園はいかがでしょうか。	general,attraction
+196	2	USER	源泉っていい感じですね。営業時間はどうなってますか？あと電話番号も聞いときたいんですけど。	general,attraction
+196	3	SYSTEM	営業時間は07:00～21:00となっております。電話番号は0115982012でございます。	general,attraction
+196	4	USER	ありがとうございました。行ってみますね。	general,attraction

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4160	0	USER	横浜に旅行に行こうと思っています。当日訪れる観光名所を探しています。Wi-Fiが無料で駐車場が無料のところを教えてください。	general,attraction,hotel,taxi
+4160	1	SYSTEM	かしこまりました。そうしましたら、カップヌードルミュージアム 横浜はいかがでしょうか？	general,attraction,hotel,taxi
+4160	2	USER	そこが良さそうですね。そこの子供入場料と料金情報を教えてください。	general,attraction,hotel,taxi
+4160	3	SYSTEM	はい、高校生以下のお子様は無料でご入場いただけます。大学生以上の大人の場合は500円かかります。	general,attraction,hotel,taxi
+4160	4	USER	当日は横浜テクノタワーホテルというところで泊まる予定です。そこの値段帯とチェックイン開祖時刻と料金情報を教えてください。	general,attraction,hotel,taxi
+4160	5	SYSTEM	横浜テクノタワーホテルですね。料金帯はお安めとなっております。チェックインは15時から可能です。料金情報につきましては、お安めということ以外、詳しい情報は不明です。申し訳ありません。	general,attraction,hotel,taxi
+4160	6	USER	あと当日利用できるタクシー会社を探しています。ジャンボタクシーが利用できるところが希望です。	general,attraction,hotel,taxi
+4160	7	SYSTEM	申し訳ありません。横浜でジャンボタクシー対応の会社は、ご案内できるところがございませんでした。いかがいたしましょうか？	general,attraction,hotel,taxi
+4160	8	USER	でしたら、ジャンボタクシーはなくても良いです。	general,attraction,hotel,taxi
+4160	9	SYSTEM	ありがとうございます。では、金港交通株式会社 港南台営業所はいかがでしょうか？	general,attraction,hotel,taxi
+4160	10	USER	そこの電話番号を教えてください。	general,attraction,hotel,taxi
+4160	11	SYSTEM	電話番号は、0457526500でございます。	general,attraction,hotel,taxi
+4160	12	USER	あとそこに予約をしたいので日付は8/29で時間は11:10で出発地はカップヌードルミュージアム 横浜で目的地は横浜テクノタワーホテルでお願いします。	general,attraction,hotel,taxi
+4160	13	SYSTEM	かしこまりました。念のため、確認させてください。お時間は午後11時10分ではなく、午前でよろしかったでしょうか？	general,attraction,hotel,taxi
+4160	14	USER	はい。午前です。	general,attraction,hotel,taxi
+4160	15	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、99680です。	general,attraction,hotel,taxi
+4160	16	USER	分かりました。ありがとうございます。	general,attraction,hotel,taxi
+4160	17	SYSTEM	他にお調べすることなど、ございませんか？	general,attraction,hotel,taxi
+4160	18	USER	はい、大丈夫です。	general,attraction,hotel,taxi
+4160	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,hotel,taxi

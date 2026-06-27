@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+372	0	USER	今度仙台に行くのですが、泊まれるところを探しています。	general,hotel,taxi,weather
+372	1	SYSTEM	承知しました。他にご希望はございますか？	general,hotel,taxi,weather
+372	2	USER	旅館で、Wi-Fiが無料で利用できるところがいいです。	general,hotel,taxi,weather
+372	3	SYSTEM	ありがとうございます。では、奥州秋保温泉 蘭亭はいかがでしょう？ご案内できることはございますか？	general,hotel,taxi,weather
+372	4	USER	そちらの値段帯と，チェックアウト終了時刻を教えていただけますか？	general,hotel,taxi,weather
+372	5	SYSTEM	承知しました。値段帯は安め、チェックアウト終了時刻は10時となります。他に必要なご案内はございますか？	general,hotel,taxi,weather
+372	6	USER	ありがとうございます。そちらの旅館を、8/4に３名で４泊、予約をお願いできますか？	general,hotel,taxi,weather
+372	7	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,hotel,taxi,weather
+372	8	USER	では、３泊に変更してください。	general,hotel,taxi,weather
+372	9	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、37631となります。他にご用件はございますか？	general,hotel,taxi,weather
+372	10	USER	ありがとうございます。当日タクシーを利用したいのですが、キャッシュレス払いできるところはありますか？	general,hotel,taxi,weather
+372	11	SYSTEM	はい、では、仙台タクシーグループはいかがでしょう？ジャンボタクシーにも対応しております。電話番号は0570061616となります。	general,hotel,taxi,weather
+372	12	USER	助かります。では、8/4当日の12:00で、奥州秋保温泉 蘭亭からホテルグリーンセレクまで予約をお願いできますでしょうか。	general,hotel,taxi,weather
+372	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、9842となります。他にご案内できることはございますか？	general,hotel,taxi,weather
+372	14	USER	ありがとうございます。あと最後に、8/4当日の宮城野区の天気を知りたいです。	general,hotel,taxi,weather
+372	15	SYSTEM	承知しました。天気は曇、最低気温20.2度、最高気温30.6度となります。他にお忘れのことはございませんか？	general,hotel,taxi,weather
+372	16	USER	分かりました。以上です、ありがとうございました！	general,hotel,taxi,weather
+372	17	SYSTEM	ありがとうございました。	general,hotel,taxi,weather

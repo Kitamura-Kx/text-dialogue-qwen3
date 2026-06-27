@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4476	0	USER	横浜に旅行を計画していて、ファッションの買い物をしたいと思っています。駐車場は無料のところが希望です。	general,shopping
+4476	1	SYSTEM	そういたしますと、MEGAドン・キホーテ港山下総本店はいかがでしょうか？場所は、中区エリアにございます。	general,shopping
+4476	2	USER	ありがとうございます。そこで大丈夫です。そのお店の電話番号を教えてください。	general,shopping
+4476	3	SYSTEM	かしこまりました。電話番号は、0570090711でございます。	general,shopping
+4476	4	USER	ありがとうございます。これで大丈夫です。	general,shopping
+4476	5	SYSTEM	承知いたしました。本日はご利用いただき、ありがとうございました。	general,shopping

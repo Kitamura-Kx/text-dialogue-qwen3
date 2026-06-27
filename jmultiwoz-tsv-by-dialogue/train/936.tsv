@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+936	0	USER	札幌に旅行をしようと計画しています。場所は西区で、レストランがあって、Wi-Fiが無料利用できるところに泊まりたいのですが、いいところはないでしょうか	general,hotel,weather,taxi
+936	1	SYSTEM	申し訳ありません。その条件では、ないようです。	general,hotel,weather,taxi
+936	2	USER	そうですか、では場所はどこでも構いません。	general,hotel,weather,taxi
+936	3	SYSTEM	プレミアホテル-TSUBAKI-札幌は、いかがでしょうか？	general,hotel,weather,taxi
+936	4	USER	お調べして下さりありがとうございます。ちなみに、6/24の北区の天候はどのような感じですか？	general,hotel,weather,taxi
+936	5	SYSTEM	帰宅の天気は、曇のち晴です。	general,hotel,weather,taxi
+936	6	USER	わかりました。最低気温ってわかりますか？	general,hotel,weather,taxi
+936	7	SYSTEM	最低気温は、11.6度です。	general,hotel,weather,taxi
+936	8	USER	ありがとうございます。旅行中、タクシーで移動したいと考えています。ジャンボタクシー、キャッシュレス払いができる会社はありますか？	general,hotel,weather,taxi
+936	9	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,hotel,weather,taxi
+936	10	USER	そうですか。ではキャッシュレス払いはできなくても大丈夫です。	general,hotel,weather,taxi
+936	11	SYSTEM	新雪交通(株)は、いかがでしょうか？	general,hotel,weather,taxi
+936	12	USER	新雪交通(株)の電話番号も聞いていいですか？	general,hotel,weather,taxi
+936	13	SYSTEM	電話番号は、0118647811です。	general,hotel,weather,taxi
+936	14	USER	助かります。新雪交通(株)で予約をお願いします。6/24の15:00にマザーリーフ さっぽろ東急店からプレミアホテル-TSUBAKI-札幌までお願いします。	general,hotel,weather,taxi
+936	15	SYSTEM	申し訳ありません。その条件では予約出来ませんでした。	general,hotel,weather,taxi
+936	16	USER	そうですか。では時間を15:30にするとどうですか？	general,hotel,weather,taxi
+936	17	SYSTEM	予約が完了しました。　予約番号は、39853です。	general,hotel,weather,taxi
+936	18	USER	予約を取って下さりありがとうございました。	general,hotel,weather,taxi

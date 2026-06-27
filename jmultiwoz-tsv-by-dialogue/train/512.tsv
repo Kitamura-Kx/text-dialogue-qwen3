@@ -1,0 +1,28 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+512	0	USER	大阪の阿倍野区で宿泊施設を探しています。	general,hotel,restaurant,weather
+512	1	SYSTEM	3件ございます。大阪マリオット都ホテル、ホテルトレンドあべの天王寺、ヴィアインあべの天王寺です。	general,hotel,restaurant,weather
+512	2	USER	その中に駐車場が無料で利用できるところはありますか？	general,hotel,restaurant,weather
+512	3	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,hotel,restaurant,weather
+512	4	USER	そうですか。では、地区は問わないので、駐車場が無料という条件でもう一度探してもらえますか？	general,hotel,restaurant,weather
+512	5	SYSTEM	はい、２件ございます。ビジネス旅館 励明園、アスティルホテル十三プレシャスです。	general,hotel,restaurant,weather
+512	6	USER	では、ビジネス旅館 励明園の最寄り駅と近辺の駅からの所要時間を教えもらえますか？	general,hotel,restaurant,weather
+512	7	SYSTEM	はい、最寄りの大阪港駅から徒歩で3分となります。	general,hotel,restaurant,weather
+512	8	USER	チェックアウト終了時刻はわかりますか？	general,hotel,restaurant,weather
+512	9	SYSTEM	はい、チェックアウト終了時刻は10時となります。	general,hotel,restaurant,weather
+512	10	USER	わかりました。では、4/23から2泊、2名で予約をお願いできますか？	general,hotel,restaurant,weather
+512	11	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,hotel,restaurant,weather
+512	12	USER	そうですか。では、人数を1名に変更したらどうでしょうか。	general,hotel,restaurant,weather
+512	13	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、91969となります。	general,hotel,restaurant,weather
+512	14	USER	ありがとうございます。あと、当日食事ができるお店も探してもらえますか？	general,hotel,restaurant,weather
+512	15	SYSTEM	承知しました。ジャンルなどのご希望はございますか？	general,hotel,restaurant,weather
+512	16	USER	焼肉やホルモンがいいですね。予算は高めでお願いします。	general,hotel,restaurant,weather
+512	17	SYSTEM	ありがとうございます。では、焼肉トラジ ルクア大阪店はいかがでしょう？エリアは北区、最寄りの大阪駅から徒歩で0分となります。	general,hotel,restaurant,weather
+512	18	USER	いいですね。では、そちらの電話番号と料金情報がわかれば教えてください。	general,hotel,restaurant,weather
+512	19	SYSTEM	はい、電話番号は0664544329、料金情報としては、Standard courseが6050円となります。	general,hotel,restaurant,weather
+512	20	USER	わかりました。予約をお願いできますか？	general,hotel,restaurant,weather
+512	21	SYSTEM	承知しました。お手数ですが、日時と人数を教えていただけますか？	general,hotel,restaurant,weather
+512	22	USER	4/23の11:50から2人でお願いします。	general,hotel,restaurant,weather
+512	23	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、50850となります。	general,hotel,restaurant,weather
+512	24	USER	助かります。あと、4/23の淀川区の気温を教えてください。	general,hotel,restaurant,weather
+512	25	SYSTEM	はい、天気は晴、最低気温10度、最高気温23.1度となります。	general,hotel,restaurant,weather
+512	26	USER	わかりました。ありがとうございました。	general,hotel,restaurant,weather

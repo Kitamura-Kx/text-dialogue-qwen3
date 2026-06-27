@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+370	0	USER	今度福岡に行くのですが、泊まるところを探しています。	general,hotel
+370	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel
+370	2	USER	レストランが併設されていて、Wi-Fiと駐車場が無料のところはありますか？	general,hotel
+370	3	SYSTEM	はい、6件ございます。どのようなご案内が必要でしょう？	general,hotel
+370	4	USER	他に希望は特にありませんので、どこかご提案いただけますか？	general,hotel
+370	5	SYSTEM	承知しました。では、The358 UMIはいかがでしょう？必要な情報があればお調べ致します。	general,hotel
+370	6	USER	ありがとうございます。チェックアウト終了時間と、近くの駅からの所要時間を知りたいです。	general,hotel
+370	7	SYSTEM	はい、チェックアウト終了時刻は10時、最寄りの雁ノ巣駅からタクシーで9分となります。他にご案内できることはございますか？	general,hotel
+370	8	USER	では、5/24に４名で２泊予約をお願いできますか？	general,hotel
+370	9	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,hotel
+370	10	USER	では、１泊に変更してもらえますか？	general,hotel
+370	11	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、55717となります。他にご用件はございますか？	general,hotel
+370	12	USER	大丈夫です。お世話になりました。	general,hotel
+370	13	SYSTEM	ありがとうございました。	general,hotel

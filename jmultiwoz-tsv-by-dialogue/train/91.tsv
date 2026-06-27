@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+91	0	USER	こんにちは！ 那覇へ旅行を考えているのですが、案内をお願いしてもよろしいでしょうか。	general,attraction,weather
+91	1	SYSTEM	こんにちは。那覇へのご旅行ですね。どういったことをご案内をいたしましょうか？	general,attraction,weather
+91	2	USER	当日に行く観光名所を探しています。地区は小禄でお願いします。	general,attraction,weather
+91	3	SYSTEM	那覇の小禄地区にある観光地といたしまして、玉陵、那覇空港、パイナップルハウスの3ヶ所をご案内できます。気になる場所はございますか？	general,attraction,weather
+91	4	USER	それでは、パイナップルハウスについて案内をお願いしたいのですが、パイナップルハウスはその観光場所の名称でしょうか？	general,attraction,weather
+91	5	SYSTEM	はい。パイナップルハウスという名称でして、工場見学、産業観光の観光名所となります。	general,attraction,weather
+91	6	USER	そうなんですね！とてもよくわかりました。 それでは、そちらの電話番号と営業時間について、教えていただけますか？	general,attraction,weather
+91	7	SYSTEM	かしこまりました。電話番号は0988589000、営業時間は10時から夕方17時までとなっております。	general,attraction,weather
+91	8	USER	ありがとうございます！ あと、当日の天候についてもお調べ願いたいのですが、よろしいでしょうか。	general,attraction,weather
+91	9	SYSTEM	はい、かしこまりました。お天気をお調べするエリアは、那覇のどの辺りにいたしましょうか？	general,attraction,weather
+91	10	USER	地区は小禄なんですが、5月8日について、調べたいです。	general,attraction,weather
+91	11	SYSTEM	承知いたしました。小禄地区の5月8日のお天気は、晴れの予報です。	general,attraction,weather
+91	12	USER	そうなんですね。 最高気温と最低気温についても、お調べいただけますでしょうか？	general,attraction,weather
+91	13	SYSTEM	はい、かしこまりました。最高気温は31.1度、最低気温は18.9度となる予想です。	general,attraction,weather
+91	14	USER	ありがとうございます！	general,attraction,weather
+91	15	SYSTEM	こちらこそ、ご利用ありがとうございます。他に、なにかお調べすることはございますか？	general,attraction,weather
+91	16	USER	あとは大丈夫です。 本日は、ご対応いただき、ありがとうございました！	general,attraction,weather
+91	17	SYSTEM	こちらこそ、ありがとうございます。それでは本日のご案内は、以上とさせていただきます。またのご利用をお待ちしております。	general,attraction,weather

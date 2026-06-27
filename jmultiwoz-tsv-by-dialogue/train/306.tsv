@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+306	0	USER	お願いします。	general,shopping,taxi
+306	1	SYSTEM	よろしくお願いいたします。	general,shopping,taxi
+306	2	USER	東京への旅行を計画しています。無料で駐車場が使えるところで買い物をしたいと考えています。	general,shopping,taxi
+306	3	SYSTEM	かしこまりました。ご希望のエリア等ございますか。	general,shopping,taxi
+306	4	USER	千代田区で食料品を購入したいと思っています。	general,shopping,taxi
+306	5	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping,taxi
+306	6	USER	わかりました。では、食料品でなくて構いませんので、千代田区で買い物ができるところを1件教えて下さい。	general,shopping,taxi
+306	7	SYSTEM	では、KITTE丸の内はいかがですか。	general,shopping,taxi
+306	8	USER	わかりました。	general,shopping,taxi
+306	9	SYSTEM	ほかに何かお知りになりたい情報がございますか。	general,shopping,taxi
+306	10	USER	当日利用できるタクシー会社を探しています。	general,shopping,taxi
+306	11	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,taxi
+306	12	USER	ジャンボタクシーが使えることと、キャッシュレス対応なことです。	general,shopping,taxi
+306	13	SYSTEM	トーショー交通がございます。	general,shopping,taxi
+306	14	USER	そちらの電話番号はわかりますか？	general,shopping,taxi
+306	15	SYSTEM	電話番号は0423441111でございます。	general,shopping,taxi
+306	16	USER	では、予約をお願いします。	general,shopping,taxi
+306	17	SYSTEM	ご希望の日時と出発地、目的地を教えていただけますか。	general,shopping,taxi
+306	18	USER	6/25　15：00でKITTE丸の内出発、秋葉原ワシントンホテル着でお願いします。	general,shopping,taxi
+306	19	SYSTEM	申し訳ございません。その条件ですと予約ができませんでした。いかがなさいますか。	general,shopping,taxi
+306	20	USER	わかりました。では、16時に時間を変えれば予約可能ですか？	general,shopping,taxi
+306	21	SYSTEM	はい。その時間ですと予約可能でございました。予約番号は93348でございます。	general,shopping,taxi
+306	22	USER	ありがとうございました。	general,shopping,taxi
+306	23	SYSTEM	ほかにご用件はございませんか。	general,shopping,taxi
+306	24	USER	以上になります。	general,shopping,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2276	0	USER	横浜へ行くんですが、北新横浜駅が最寄りの買い物施設を探しています。	general,shopping,restaurant
+2276	1	SYSTEM	北新横浜駅だと買い物施設がヒットしませんね。	general,shopping,restaurant
+2276	2	USER	そうですか。じゃあ最寄り駅にはこだわらないので、できたら自動車・自転車などを扱っていて、無料駐車場があるところはありませんか？	general,shopping,restaurant
+2276	3	SYSTEM	自転車・自動車、かつ無料駐車場有ならば、ヤマダ電機 テックランド上山店、ここ一択です。	general,shopping,restaurant
+2276	4	USER	ありがとうございます。そこは近辺の駅からどのくらいかかりますか？	general,shopping,restaurant
+2276	5	SYSTEM	中山駅からバスで6分になります。	general,shopping,restaurant
+2276	6	USER	わかりました。あと電話番号も教えてください。	general,shopping,restaurant
+2276	7	SYSTEM	0459355512になります。	general,shopping,restaurant
+2276	8	USER	あと、駐車場無料のある、お好み焼き・たこ焼きが食べられる飲食店はありますか？	general,shopping,restaurant
+2276	9	SYSTEM	横浜で駐車場無料かつお好み焼き・たこ焼き条件の飲食店はなさそうです。	general,shopping,restaurant
+2276	10	USER	わかりました。じゃあ駐車場はなくても大丈夫です。	general,shopping,restaurant
+2276	11	SYSTEM	横浜でお好み焼き・たこ焼きならば、大阪こなもん酒場 たこやき番長、ここ一択です。	general,shopping,restaurant
+2276	12	USER	ありがとうございます。そこの料金情報はどんな感じですか？	general,shopping,restaurant
+2276	13	SYSTEM	値段帯は高め、例えばの例ですが、たこ焼き　ねぎ塩が330円、こんな感じですね。	general,shopping,restaurant
+2276	14	USER	わかりました。ありがとうございました。	general,shopping,restaurant
+2276	15	SYSTEM	お役に立てて光栄です。	general,shopping,restaurant

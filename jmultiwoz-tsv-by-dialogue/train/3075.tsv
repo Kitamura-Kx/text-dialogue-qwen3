@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3075	0	USER	京都へ行くのですが、南区の宿泊施設を探してもらえますか？	general,hotel,shopping,taxi
+3075	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,shopping,taxi
+3075	2	USER	では地区はこだわりません。	general,hotel,shopping,taxi
+3075	3	SYSTEM	かしこまりました。では、アパホテル〈京都駅北〉はどうですか？	general,hotel,shopping,taxi
+3075	4	USER	そこにしようかな。駐車場はありますか？	general,hotel,shopping,taxi
+3075	5	SYSTEM	いえ、駐車場はございません。	general,hotel,shopping,taxi
+3075	6	USER	ありがとうございます。当日買い物する場所も探しています。地区は右京区で、駐車場が無料のところがいいです。	general,hotel,shopping,taxi
+3075	7	SYSTEM	かしこまりました。では、道の駅 ウッディー京北はいかがでしょうか？	general,hotel,shopping,taxi
+3075	8	USER	いいですね。そこのジャンルと住所はわかりますか？	general,hotel,shopping,taxi
+3075	9	SYSTEM	はい、ジャンルはお土産, ショッピングモールです。また、住所は京都府京都市右京区京北周山町上寺田1-1になります。	general,hotel,shopping,taxi
+3075	10	USER	ありがとうございます。あと、キャッシュレス払いができるタクシー会社も探してもらえますか？	general,hotel,shopping,taxi
+3075	11	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,hotel,shopping,taxi
+3075	12	USER	ではキャッシュレス払いはできなくても大丈夫です。	general,hotel,shopping,taxi
+3075	13	SYSTEM	であれば、京都観光バス株式会社はいかがですか。	general,hotel,shopping,taxi
+3075	14	USER	そこにします。2/13の15:20、出発地はアパホテル〈京都駅北〉、目的地は道の駅 ウッディー京北で、予約をお願いします。	general,hotel,shopping,taxi
+3075	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、44737です。	general,hotel,shopping,taxi
+3075	16	USER	ありがとうございます。	general,hotel,shopping,taxi
+3075	17	SYSTEM	はい。こちらこそありがとうございました。	general,hotel,shopping,taxi

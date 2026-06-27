@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+625	0	USER	京都へ旅行予定なのですが、Wi-Fiが無料で利用できて、レストランが併設されている高めの宿泊施設を調べてください。	general,hotel,weather,taxi
+625	1	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,hotel,weather,taxi
+625	2	USER	そうなんですね。では値段が高めのところじゃなくてもいいです。	general,hotel,weather,taxi
+625	3	SYSTEM	ありがとうございます。では、リーガロイヤルホテル京都はいかがでしょう？何かご案内致しましょうか？	general,hotel,weather,taxi
+625	4	USER	そこにします。当日の2月8日の北区の天候も教えてください。	general,hotel,weather,taxi
+625	5	SYSTEM	承知しました。天気は、曇時々雨、最低気温-1度、最高気温12.5度となります。他にご案内できることはございますか？	general,hotel,weather,taxi
+625	6	USER	わかりました。タクシーも使う予定なのですが、キャッシュレス払いできるところを調べてください。	general,hotel,weather,taxi
+625	7	SYSTEM	承知しました。では、洛東タクシー株式会社はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0755931112となります。	general,hotel,weather,taxi
+625	8	USER	そこにします2月8日の13時で、リーガロイヤルホテル京都からブロシェットまで予約お願いします。	general,hotel,weather,taxi
+625	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、31695となります。他にご用件はございますか？	general,hotel,weather,taxi
+625	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel,weather,taxi
+625	11	SYSTEM	ありがとうございました。	general,hotel,weather,taxi

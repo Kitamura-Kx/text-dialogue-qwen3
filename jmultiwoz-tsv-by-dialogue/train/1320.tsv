@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1320	0	USER	札幌で買い物をしたいのですが、手稲駅の近くに百貨店や総合スーパーはありますか？	general,shopping,attraction
+1320	1	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,shopping,attraction
+1320	2	USER	では、最寄り駅は考慮しなくていいので、札幌の百貨店や総合スーパーを教えてください。	general,shopping,attraction
+1320	3	SYSTEM	かしこまりました。では、アリオ札幌はいかがでしょうか？	general,shopping,attraction
+1320	4	USER	アリオ良いですね。ではそちらのお店の電話番号を教えてください。	general,shopping,attraction
+1320	5	SYSTEM	はい。電話番号は0117231111でございます。	general,shopping,attraction
+1320	6	USER	ありがとうございます。あと、観光名所でWi-Fiと駐車場が無料に使えるところはありますか？	general,shopping,attraction
+1320	7	SYSTEM	かしこまりました。複数ありますが、たとえばシャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートはいかがでしょうか？	general,shopping,attraction
+1320	8	USER	スパ良いですね！そちらのジャンルは何ですか？	general,shopping,attraction
+1320	9	SYSTEM	ジャンルは銭湯・スパ, スポーツ・フィットネス, 温泉でございます。	general,shopping,attraction
+1320	10	USER	子供入場料や料金情報を教えてください。	general,shopping,attraction
+1320	11	SYSTEM	かしこまりました。子供入場料は申し訳ありませんが不明です。料金情報は手元の資料では施設、時期により異なるとなっています。	general,shopping,attraction
+1320	12	USER	わかりました。今日聞きたかったことは以上です。ありがとうございました。	general,shopping,attraction
+1320	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction

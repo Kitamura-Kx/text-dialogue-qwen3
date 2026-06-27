@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4261	0	USER	東京への旅行を計画しているのですが、当日泊まる施設を探してほしいです。墨田区で簡易宿所はありますか。	general,hotel,restaurant
+4261	1	SYSTEM	かしこまりました。では墨田長屋がございます。	general,hotel,restaurant
+4261	2	USER	そちらの料金情報と駐車場の有無を教えてください。	general,hotel,restaurant
+4261	3	SYSTEM	こちら値段帯は安めとなっておりますが、詳しい料金情報に関してはわかりかねます。駐車場の有無は不明でございます。	general,hotel,restaurant
+4261	4	USER	わかりました。では、そちらの予約をお願いします。5月12日から3泊、2名でお願いします。	general,hotel,restaurant
+4261	5	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,restaurant
+4261	6	USER	そうですか。それは残念です。では、1名に変更してお願いできますか。	general,hotel,restaurant
+4261	7	SYSTEM	１名ですと予約が可能でございました。予約番号は72473でございます。	general,hotel,restaurant
+4261	8	USER	ありがとうございました。続けてとなりますが、当日食事をするお店を探してほしいです。予算は普通で最寄り駅が提婆駅のところでお願いします。	general,hotel,restaurant
+4261	9	SYSTEM	恐れ入りますが、最寄り駅についてもう一度お聞かせいただけますか。	general,hotel,restaurant
+4261	10	USER	申し訳ないです。間違えていました。最寄り駅は、台場駅でお願いします。	general,hotel,restaurant
+4261	11	SYSTEM	申し訳ございません。その条件ですと案内できるところがございませんでした。いかがなさいますか。	general,hotel,restaurant
+4261	12	USER	それでは、最寄り駅は考慮しなくても大丈夫です。ただ、Wi-Fiが無料のところがよいです。	general,hotel,restaurant
+4261	13	SYSTEM	ではTaverna e Pizzeria Saluteはいかがでしょうか。	general,hotel,restaurant
+4261	14	USER	そちらのジャンルと料金情報、電話番号を教えていただけますか。	general,hotel,restaurant
+4261	15	SYSTEM	ジャンルはイタリアン・フレンチで、電話番号が0368084570でございます。	general,hotel,restaurant
+4261	16	USER	あとは、料金情報も教えてください。	general,hotel,restaurant
+4261	17	SYSTEM	はい。料金情報はピザかパスタのミニサラダ付ランチが1000円となっております。	general,hotel,restaurant
+4261	18	USER	予約をしたいと思います。5月12日の16時40分に2名でお願いします。	general,hotel,restaurant
+4261	19	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は41740でございます。	general,hotel,restaurant
+4261	20	USER	ありがとうございました。いろいろとお手数をおかけしました。	general,hotel,restaurant

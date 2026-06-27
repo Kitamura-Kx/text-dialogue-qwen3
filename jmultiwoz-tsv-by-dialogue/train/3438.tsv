@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3438	0	USER	大阪へ旅行行こうと思います。当日、食事ができるお店を探しています。	general,restaurant
+3438	1	SYSTEM	かしこまりました。その条件ですと101件ほど該当箇所ありますが、何かご希望はございますか？	general,restaurant
+3438	2	USER	Wi-Fiが無料で使えるところがいいです。	general,restaurant
+3438	3	SYSTEM	かしこまりました。それでは神楽はいかがでしょうか？	general,restaurant
+3438	4	USER	ありがとうございます。料金情報と定休日教えて下さい。	general,restaurant
+3438	5	SYSTEM	料金情報は、【地鶏料理を堪能】酒菜コースが3850円、宴会コースが5500円でございます。また、定休日は日曜日でございます。	general,restaurant
+3438	6	USER	では、予約お願いします。2/20の12：50で、3人でお願いします。	general,restaurant
+3438	7	SYSTEM	かしこまりました。それでは予約番号11953でお取りさせていただきました。	general,restaurant
+3438	8	USER	ありがとうございました。	general,restaurant
+3438	9	SYSTEM	その他に何かご用件はございますか？	general,restaurant
+3438	10	USER	大丈夫です。	general,restaurant
+3438	11	SYSTEM	かしこまりました。またお待ちしております。	general,restaurant

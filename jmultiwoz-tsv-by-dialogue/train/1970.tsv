@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1970	0	USER	横浜へ行こうと思っています。駐車場が無料で利用できておもちゃが買えるお店を探していただきたいです。	general,shopping,weather,taxi
+1970	1	SYSTEM	４件みつかりますが、そうですね、トイザらス・ベビーザらスみなとみらい店などいかがでしょうか	general,shopping,weather,taxi
+1970	2	USER	そちらの電話番号、近辺の駅からの所要時間について教えていただけますでしょうか。	general,shopping,weather,taxi
+1970	3	SYSTEM	0456416900、みなとみらい駅から徒歩で1分他、桜木町駅から徒歩で8分ってところです。	general,shopping,weather,taxi
+1970	4	USER	わかりました。ありがとうございます。	general,shopping,weather,taxi
+1970	5	SYSTEM	他にご希望はありますか？	general,shopping,weather,taxi
+1970	6	USER	12月17日磯子区の最低気温を教えていただけますでしょうか。	general,shopping,weather,taxi
+1970	7	SYSTEM	12月17日磯子区の最低気温は9.9度です。	general,shopping,weather,taxi
+1970	8	USER	わかりました。ありがとうございます。	general,shopping,weather,taxi
+1970	9	SYSTEM	他にご希望はありますか？	general,shopping,weather,taxi
+1970	10	USER	ジャンボタクシーが利用できるタクシー会社を探していただきたいです。	general,shopping,weather,taxi
+1970	11	SYSTEM	横浜にはジャンボタクシーはありません。	general,shopping,weather,taxi
+1970	12	USER	ではジャンボタクシーは考慮せずタクシー会社を探していただけますか？	general,shopping,weather,taxi
+1970	13	SYSTEM	いくつかありますが飛鳥交通横浜株式会社をお勧めします。	general,shopping,weather,taxi
+1970	14	USER	そちらはキャッシュレス対応でしょうか？	general,shopping,weather,taxi
+1970	15	SYSTEM	はい、対応しています。	general,shopping,weather,taxi
+1970	16	USER	では、12月17日12時50分トイザらス・ベビーザらスみなとみらい店から横浜中華街 北京飯店まで予約をお願いします。	general,shopping,weather,taxi
+1970	17	SYSTEM	その条件だと予約できませんでした。	general,shopping,weather,taxi
+1970	18	USER	では時間を13時40分に変更して予約をお願いします。	general,shopping,weather,taxi
+1970	19	SYSTEM	予約成功しました。予約番号は85114です。	general,shopping,weather,taxi
+1970	20	USER	わかりました。ありがとうございます。	general,shopping,weather,taxi
+1970	21	SYSTEM	お役に立てて光栄です。	general,shopping,weather,taxi
+1970	22	USER	ありがとうございました。	general,shopping,weather,taxi

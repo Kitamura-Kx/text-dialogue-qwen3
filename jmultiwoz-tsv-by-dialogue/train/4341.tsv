@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4341	0	USER	横浜に旅行に行こう思っています、青葉区でカフェ・スイーツが楽しめるお店はありませんか	general,restaurant
+4341	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant
+4341	2	USER	では青葉区以外ではありませんか	general,restaurant
+4341	3	SYSTEM	それでしたら、カフェ・ド・ラペはいかがでしょうか。	general,restaurant
+4341	4	USER	ありがとうございます、定休日を教えていただけますか	general,restaurant
+4341	5	SYSTEM	はい。定休日は無しです。	general,restaurant
+4341	6	USER	では8月8日の15時に2人で予約をお願いできますか	general,restaurant
+4341	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant
+4341	8	USER	では15時40分ではお願いできますか	general,restaurant
+4341	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、59823です。	general,restaurant
+4341	10	USER		general,restaurant

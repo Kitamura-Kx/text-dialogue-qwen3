@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2011	0	USER	札幌の新道東駅近くで、駐車場が無料で利用できる百貨店か総合スーパーを探してもらえますか？	general,shopping,taxi
+2011	1	SYSTEM	かしこまりました。では、イオン札幌元町ショッピングセンターはいかがでしょうか？	general,shopping,taxi
+2011	2	USER	ありがとうございます。当日はタクシーを利用したいと思っているんですが、キャッシュレス払いに対応していて、ジャンボタクシーも利用できる会社はありますか？	general,shopping,taxi
+2011	3	SYSTEM	かしこまりました。では、暁交通(株)はいかがでしょうか？	general,shopping,taxi
+2011	4	USER	そちらの電話番号を教えてもらえますか？	general,shopping,taxi
+2011	5	SYSTEM	はい。電話番号は0117712632です。	general,shopping,taxi
+2011	6	USER	９月１２日の11:40にラウンドワンスタジアム札幌北21条店からイオン札幌元町ショッピングセンターまで、そちらの会社でタクシー予約お願いできますか？	general,shopping,taxi
+2011	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、16948です。	general,shopping,taxi
+2011	8	USER	ありがとうございます。	general,shopping,taxi
+2011	9	SYSTEM	他にご用件はありますか？	general,shopping,taxi
+2011	10	USER	大丈夫です。ありがとうございました。	general,shopping,taxi
+2011	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

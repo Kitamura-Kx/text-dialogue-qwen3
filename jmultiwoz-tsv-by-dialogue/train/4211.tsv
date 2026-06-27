@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4211	0	USER	名古屋でキャッシュレス対応しているタクシー会社を１件教えてください。	general,taxi
+4211	1	SYSTEM	では、瑞穂タクシーはいかがですか？	general,taxi
+4211	2	USER	そちらはジャンボタクシーをお願いすることは出来ますか？	general,taxi
+4211	3	SYSTEM	はい、ジャンボタクシーも利用可能となっております。	general,taxi
+4211	4	USER	では、そちらの電話番号を教えてください。	general,taxi
+4211	5	SYSTEM	電話番号は、0523311680です。	general,taxi
+4211	6	USER	わかりました。では、予約をお願いします。５月２日の１４時３０分で、くれたけインプレミアム名駅南発、スタンザベルデ名古屋着でお願いします。	general,taxi
+4211	7	SYSTEM	予約が完了しました。　予約番号は、21335です。	general,taxi
+4211	8	USER	ありがとうございました。では失礼します。	general,taxi

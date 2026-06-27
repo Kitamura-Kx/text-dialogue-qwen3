@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4108	0	USER	札幌への旅行を計画しています。 観光名所を探してください。駐車場を無料で利用できるところがいいです。	general,attraction
+4108	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction
+4108	2	USER	そうですか。では、駐車場の有無は考慮しないようにします。	general,attraction
+4108	3	SYSTEM	では、エリアでいうと中央区にある、さっぽろテレビ塔はいかがでしょう？ジャンルは、展望台、タワーとなります。	general,attraction
+4108	4	USER	その施設のWi-Fiの有無，営業時間が知りたいです。	general,attraction
+4108	5	SYSTEM	営業時間は9時から22時となります。申し訳ありません、Wi-Fiの有無は不明です。	general,attraction
+4108	6	USER	わかりました。ありがとうございました。	general,attraction

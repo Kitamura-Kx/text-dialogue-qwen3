@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4571	0	USER	名古屋でWi-Fiが無料のラーメン・つけ麺のお店を探しています。	general,restaurant,weather
+4571	1	SYSTEM	名古屋にはWiFi無料のラーメンつけ麺の店はなさそうです。	general,restaurant,weather
+4571	2	USER	そうですか。ではジャンルは何でも大丈夫です。	general,restaurant,weather
+4571	3	SYSTEM	名古屋でWiFi無料の飲食店は３件、その中からは、ゆめや 金山店をオススメします。	general,restaurant,weather
+4571	4	USER	そのお店の料金情報はなにかありますか？	general,restaurant,weather
+4571	5	SYSTEM	全12種類のタン食べ放題4000円のプランがウリのようです。	general,restaurant,weather
+4571	6	USER	わかりました。最後に9/9の名東区の気温を教えてください。	general,restaurant,weather
+4571	7	SYSTEM	9/9 名古屋 名東区 の天気は雨時々曇、最低気温24.1度、最高気温28.6度です。	general,restaurant,weather
+4571	8	USER	ありがとうございました。	general,restaurant,weather
+4571	9	SYSTEM	よい旅を	general,restaurant,weather

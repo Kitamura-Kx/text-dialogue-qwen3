@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3622	0	USER	福岡に旅行に行こうと思っていて、Wi-Fiが無料で利用できるアリーナやスタジアムを探しています。	general,attraction,shopping
+3622	1	SYSTEM	承知いたしました。マリンメッセ福岡ともう１件ございます。いかがでしょうか？	general,attraction,shopping
+3622	2	USER	ありがとうございます。マリンメッセ福岡の住所と営業時間を教えてください。	general,attraction,shopping
+3622	3	SYSTEM	住所は、福岡県福岡市博多区沖浜町7-1です。営業時間は、イベントにより異なるとの記載がございます。	general,attraction,shopping
+3622	4	USER	ありがとうございます。あと、東区でスポーツの買い物をしたいと思っています。	general,attraction,shopping
+3622	5	SYSTEM	申し訳ございません、該当箇所がございませんでした。いかがいたしましょうか？	general,attraction,shopping
+3622	6	USER	それでは東区でなくても大丈夫です。	general,attraction,shopping
+3622	7	SYSTEM	承知いたしました。そうしますと、アビスパ福岡 オフィシャルショップがご案内可能でございます。	general,attraction,shopping
+3622	8	USER	ありがとうございます。そのお店に駐車場はありますか。	general,attraction,shopping
+3622	9	SYSTEM	はい、無料駐車場がございます。	general,attraction,shopping
+3622	10	USER	ありがとうございます。これで大丈夫です。	general,attraction,shopping
+3622	11	SYSTEM	ありがとうございました。	general,attraction,shopping

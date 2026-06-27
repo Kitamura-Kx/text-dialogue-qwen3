@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1833	0	USER	京都に旅行するので、キャッシュレス払いできるタクシー会社を知りたいです。	general,taxi
+1833	1	SYSTEM	かしこまりました。京都でキャッシュレス決済でしたら、都タクシー株式会社はいかがでしょうか？	general,taxi
+1833	2	USER	ありがとうございます。そこは、ジャンボタクシーに対応していますか？	general,taxi
+1833	3	SYSTEM	はい、ジャンボタクシーにも対応しております。	general,taxi
+1833	4	USER	では、予約をお願いいたします。6/23 12:50 出発地はジェイアール京都伊勢丹で、目的地はクレープリー オルハコシト カフェでお願いします。	general,taxi
+1833	5	SYSTEM	お待たせいたしました。予約番号73491で完了致しました。	general,taxi
+1833	6	USER	今日お願いしたいことは以上です。ありがとうございました。	general,taxi
+1833	7	SYSTEM	ありがとうございました。またのお越しをお待ちしております。	general,taxi

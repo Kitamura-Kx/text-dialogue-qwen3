@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3288	0	USER	横浜に行くのですが、ジャンボタクシーが利用できるタクシー会社を探しています。	general,taxi
+3288	1	SYSTEM	はい、それならば、瀬谷交通有限会社をお勧めします。	general,taxi
+3288	2	USER	そちらはキャッシュレスには対応していますか？	general,taxi
+3288	3	SYSTEM	対応しているかどうか不明ですね。	general,taxi
+3288	4	USER	ありがとうございます。そちらのタクシーを、８月５日の午前１１時５０分に、横浜アンパンマンこどもミュージアム&モールから原鉄道模型博物館まで予約お願いします。	general,taxi
+3288	5	SYSTEM	予約成功しました。予約番号は68315です。	general,taxi
+3288	6	USER	ありがとうございました。	general,taxi
+3288	7	SYSTEM	よい旅を	general,taxi

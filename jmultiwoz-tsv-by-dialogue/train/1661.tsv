@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1661	0	USER	札幌での観光を予定しているのですが、おすすめの場所はありますか？	general,attraction
+1661	1	SYSTEM	札幌の観光名所は、48件ほどご案内できるのですが、ジャンルやエリアなど、何かご希望はございますか？	general,attraction
+1661	2	USER	南区の手稲駅の近くで、できれば駐車場が無料で利用できるところがいいです。	general,attraction
+1661	3	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,attraction
+1661	4	USER	そうですか。じゃあ、最寄り駅にこだわらなければありますか？	general,attraction
+1661	5	SYSTEM	ありがとうございます。そういたしますと、7件ご案内可能です。たとえば、二見吊橋はいかがでしょうか？	general,attraction
+1661	6	USER	良さそうですね。そこは入場料とかいる所ですか？	general,attraction
+1661	7	SYSTEM	いいえ、大人もお子様も入場料0円で無料となっております。	general,attraction
+1661	8	USER	そうなんですね。定休日とかもないですか？	general,attraction
+1661	9	SYSTEM	申し訳ありません。冬季がお休みとなっております。	general,attraction
+1661	10	USER	わかりました。ありがとうございました。	general,attraction
+1661	11	SYSTEM	他になにかお調べすることはございますか？	general,attraction
+1661	12	USER	いいえ、以上です。	general,attraction
+1661	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction
+1661	14	USER		general,attraction

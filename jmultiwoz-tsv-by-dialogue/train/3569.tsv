@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3569	0	USER	今度、仙台の鷹泉閣 岩松旅館へ宿泊予定なんですが、料金情報とチェックイン開始時間を教えて下さい。	general,hotel
+3569	1	SYSTEM	かしこまりました。値段帯は普通となっております。チェックイン開始時刻は15:00でございます。	general,hotel
+3569	2	USER	詳しい料金情報は無いんですかね？駐車場はありますか？	general,hotel
+3569	3	SYSTEM	はい。詳しい料金情報についてはわかりかねます。駐車場は無料でご利用いただけます。	general,hotel
+3569	4	USER	分かりました。ありがとうございます。それでは失礼します。	general,hotel

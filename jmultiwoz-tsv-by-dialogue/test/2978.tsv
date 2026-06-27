@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2978	0	USER	名古屋に旅行に行くのでジャンボタクシーを利用できるタクシー会社があるか調べてほしいです	general,taxi
+2978	1	SYSTEM	名古屋にはジャンボタクシー対応の会社はなさそうです。	general,taxi
+2978	2	USER	ではジャンボタクシーが使えなくてもいいです	general,taxi
+2978	3	SYSTEM	では、名鉄名古屋タクシーをお勧めします。	general,taxi
+2978	4	USER	電話番号も教えてください	general,taxi
+2978	5	SYSTEM	0570085255です。	general,taxi
+2978	6	USER	では、3/15の10：40でコメ兵 本館からハーバーロッジなごやまでで予約してもらえますか？	general,taxi
+2978	7	SYSTEM	予約成功しました。予約番号は41251です。	general,taxi
+2978	8	USER	了解です！ありがとうございました	general,taxi
+2978	9	SYSTEM	よい旅を	general,taxi

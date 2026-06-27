@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3404	0	USER	旅行で那覇に行くので、観光名所を探しています。歴史的な散策エリアに行ってみたいので、調べてください。	general,attraction,taxi
+3404	1	SYSTEM	承知しました。首里城と国営沖縄記念公園が該当いたしました。いかがでしょうか？	general,attraction,taxi
+3404	2	USER	首里城には無料の駐車場はありますか？	general,attraction,taxi
+3404	3	SYSTEM	首里城の駐車場は有料となっております。	general,attraction,taxi
+3404	4	USER	では、国営沖縄記念公園はどうですか？	general,attraction,taxi
+3404	5	SYSTEM	国営沖縄記念公園には無料駐車場がございます。	general,attraction,taxi
+3404	6	USER	じゃあそこに行きます。当日タクシーを使いたいのですが、キャッシュレス払いできるタクシー会社はありませんか？	general,attraction,taxi
+3404	7	SYSTEM	那覇でキャッシュレス対応が可能なタクシー会社は、丸星交通を含め7件ございます。いかがでしょうか？	general,attraction,taxi
+3404	8	USER	ジャンボタクシーに対応しているところがいいのですが。	general,attraction,taxi
+3404	9	SYSTEM	先程ご紹介しました、丸星交通はジャンボタクシーにも対応可能です。	general,attraction,taxi
+3404	10	USER	そうですか、では予約します。4月10日にしゃぶしゃぶ 焼肉 杏から国営沖縄記念公園までお願いします。	general,attraction,taxi
+3404	11	SYSTEM	承知しました。何時にご出発なさいますか？	general,attraction,taxi
+3404	12	USER	12:40です。	general,attraction,taxi
+3404	13	SYSTEM	4月１０日12：40出発でご予約完了しました。ご予約番号は、50023でございます。	general,attraction,taxi
+3404	14	USER	ありがとうございました。	general,attraction,taxi
+3404	15	SYSTEM	他にご用命ございますか？	general,attraction,taxi
+3404	16	USER	いえ、大丈夫です。ありがとうございます。	general,attraction,taxi
+3404	17	SYSTEM	ありがとうございました。	general,attraction,taxi

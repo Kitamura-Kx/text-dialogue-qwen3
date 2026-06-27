@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1319	0	USER	名古屋へ行きたいと思っているのですが、良い飲食店はありませんか？	general,restaurant,shopping
+1319	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,restaurant,shopping
+1319	2	USER	場所は中川区なんです。あと、駐車場も無料で利用できるお店が良いですね。	general,restaurant,shopping
+1319	3	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,shopping
+1319	4	USER	そうですか。それでは駐車場がなくても良いので、他にはありませんか？	general,restaurant,shopping
+1319	5	SYSTEM	かしこまりました。では、牛祥はいかがでしょうか？	general,restaurant,shopping
+1319	6	USER	ありがとうございます。ちなみに牛祥の営業時間は何時から何時までですか？	general,restaurant,shopping
+1319	7	SYSTEM	はい。営業時間は11:00～14:30, 17:00～21:30となっています。	general,restaurant,shopping
+1319	8	USER	それと、同じ中川区で買い物をしたいと思っています。百貨店や総合スーパーだとどこがありますか？	general,restaurant,shopping
+1319	9	SYSTEM	かしこまりました。では、ヨシヅヤ 太平通り店はいかがでしょうか？	general,restaurant,shopping
+1319	10	USER	ありがとうございます、ヨシヅヤ 太平通り店の電話番号もお願いします。	general,restaurant,shopping
+1319	11	SYSTEM	かしこまりました。電話番号は0523548211でございます。	general,restaurant,shopping
+1319	12	USER	ありがとうございます。	general,restaurant,shopping
+1319	13	SYSTEM	他にご用件はありますか？	general,restaurant,shopping
+1319	14	USER	いいえ、お世話になりました。	general,restaurant,shopping
+1319	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping

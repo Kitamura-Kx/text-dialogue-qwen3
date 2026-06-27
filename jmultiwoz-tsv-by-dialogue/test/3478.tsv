@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3478	0	USER	こんにちは	general,shopping
+3478	1	SYSTEM	何かお知りになりたい情報はございますか。	general,shopping
+3478	2	USER	名古屋へ旅行に行って、コメ兵 本館で買い物をしたいです。定休日はいつですか？	general,shopping
+3478	3	SYSTEM	定休日は不定休でございます。	general,shopping
+3478	4	USER	わかりました、ありがとうございます	general,shopping
+3478	5	SYSTEM	ほかにご用件はございませんか。	general,shopping
+3478	6	USER	ないです。ありがとうございました。	general,shopping
+3478	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

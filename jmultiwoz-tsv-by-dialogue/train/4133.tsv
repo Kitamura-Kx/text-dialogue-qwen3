@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4133	0	USER	東京へ旅行に行こうと考えています、予算が高めで駐車場無料で利用できる宿泊施設を教えてください	general,hotel,weather
+4133	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,weather
+4133	2	USER	では予算は安めでお願いします	general,hotel,weather
+4133	3	SYSTEM	ではつるや旅館がございます。	general,hotel,weather
+4133	4	USER	wifiの有無とチェックインの時間、近辺の駅からの所要時間を教えてください	general,hotel,weather
+4133	5	SYSTEM	Wi-Fiはございません。チェックイン開始時刻は15:00で、本所吾妻橋駅から徒歩で2分、浅草駅から徒歩で5分となっております。	general,hotel,weather
+4133	6	USER	ありがとうございます、では12月14日から4泊で3人で予約お願いします	general,hotel,weather
+4133	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は45783でございます。	general,hotel,weather
+4133	8	USER	ありがとうございます、宿泊当日の新宿区の天気と最高気温を教えてください	general,hotel,weather
+4133	9	SYSTEM	12月14日の天気は曇時々晴、最高気温は16.6度でございます。	general,hotel,weather
+4133	10	USER		general,hotel,weather

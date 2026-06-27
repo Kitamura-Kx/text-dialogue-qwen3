@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3382	0	USER	福岡へ行こうと思うのですが、博多区で買い物ができるところを探しています。	general,shopping,attraction
+3382	1	SYSTEM	かしこまりました。お調べしましたところ、ラーメンスタジアムを含む18件の候補がございます。いかがでしょうか？	general,shopping,attraction
+3382	2	USER	ラーメンスタジアムの電話番号が知りたいです。	general,shopping,attraction
+3382	3	SYSTEM	承知いたしました。電話番号は、0922822525でございます。	general,shopping,attraction
+3382	4	USER	あと福大前駅の近くの観光名所を探しています。	general,shopping,attraction
+3382	5	SYSTEM	ご希望の条件ですと、も~も~らんど油山牧場という名所が該当致します。いかがでしょうか？	general,shopping,attraction
+3382	6	USER	いいですね。子供の入場料はいくらになりますか？	general,shopping,attraction
+3382	7	SYSTEM	入場料は無料でございます。	general,shopping,attraction
+3382	8	USER	ありがとうございます。助かりました。	general,shopping,attraction
+3382	9	SYSTEM	ありがとうございました。	general,shopping,attraction

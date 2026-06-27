@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4949	0	USER	仙台旅行について教えてくれますか？太白区で最寄り駅が東仙台駅の宿泊施設はありますか。	general,hotel,shopping,taxi
+4949	1	SYSTEM	申し訳ございません。対象がございません。	general,hotel,shopping,taxi
+4949	2	USER	では、地区は太白区以外でも構いません。	general,hotel,shopping,taxi
+4949	3	SYSTEM	オレンジ・イン仙台東はいかがですか？	general,hotel,shopping,taxi
+4949	4	USER	そこにします。値段帯と、レストランがあるかどうかも教えてくれますか？	general,hotel,shopping,taxi
+4949	5	SYSTEM	値段は安めで、レストランは併設されております。	general,hotel,shopping,taxi
+4949	6	USER	それは良かったです。当日は買い物もしたいんです、泉区で駐車場が無料の食料品店はありますか？	general,hotel,shopping,taxi
+4949	7	SYSTEM	シベールの杜 南中山店はいかがでしょうか	general,hotel,shopping,taxi
+4949	8	USER	そちらに行きたいです。住所と定休日も調べてもらえますか？	general,hotel,shopping,taxi
+4949	9	SYSTEM	宮城県仙台市泉区南中山5丁目5-47が住所で、定休日はなしです。	general,hotel,shopping,taxi
+4949	10	USER	そうですか。ジャンボタクシーを利用できるタクシー会社を探してもらえますか？	general,hotel,shopping,taxi
+4949	11	SYSTEM	（株）フタバタクシーはいかがですか？	general,hotel,shopping,taxi
+4949	12	USER	そちらにお願いしたいんですが、念のためにキャッシュレスに対応しているかどうかと、電話番号も教えてください。	general,hotel,shopping,taxi
+4949	13	SYSTEM	対応しております。	general,hotel,shopping,taxi
+4949	14	USER	電話番号はわかりますか？	general,hotel,shopping,taxi
+4949	15	SYSTEM	申し訳ございません。漏れていましたね。0222369371でございます。	general,hotel,shopping,taxi
+4949	16	USER	いえいえ。では、7月20日14時10分に、オレンジ・イン仙台東を出発してシベールの杜 南中山店に到着で予約をお願いします。	general,hotel,shopping,taxi
+4949	17	SYSTEM	予約完了しております。予約番号は69337です。	general,hotel,shopping,taxi
+4949	18	USER	ありがとうございます。予約も終えられて良かったです。	general,hotel,shopping,taxi

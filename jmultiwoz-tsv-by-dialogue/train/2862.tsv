@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2862	0	USER	京都への旅行を計画しているので、5/30の上京区の天候を調べてほしいです。	general,weather,taxi
+2862	1	SYSTEM	天気は、晴のち曇となっています。	general,weather,taxi
+2862	2	USER	ありがとうございます。最低気温も調べてもらえますか？	general,weather,taxi
+2862	3	SYSTEM	最低気温は、16.5度です。	general,weather,taxi
+2862	4	USER	ありがとうございます。あとジャンボタクシーを利用できるタクシー会社を探してほしいのですが、どこかいいタクシー会社はありますか？	general,weather,taxi
+2862	5	SYSTEM	では、都タクシー株式会社はいかがですか？	general,weather,taxi
+2862	6	USER	そこでお願いしようと思うので、電話番号とキャッシュレスに対応しているか調べてもらえますか？	general,weather,taxi
+2862	7	SYSTEM	電話番号は、0756616611です。　キャッシュレスにも対応しています。	general,weather,taxi
+2862	8	USER	ありがとうございます。では、5/30の12:40に京・黒桜から東映太秦映画村まで予約をお願いできますか？	general,weather,taxi
+2862	9	SYSTEM	予約出来ました。予約番号は、50643です。	general,weather,taxi
+2862	10	USER	ありがとうございます。	general,weather,taxi
+2862	11	SYSTEM	他にご用件はありますか？	general,weather,taxi
+2862	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,weather,taxi

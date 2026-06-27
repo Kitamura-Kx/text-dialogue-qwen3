@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4015	0	USER	横浜へ旅行予定です。自然・公園の観光名所はありますか？Wi-Fiが無料で使えると嬉しいです。	general,attraction
+4015	1	SYSTEM	横浜で自然公園かつWiFi無料な観光名所はなさそうです。	general,attraction
+4015	2	USER	そうですか。では自然公園以外でも構いません。	general,attraction
+4015	3	SYSTEM	横浜でWiFi無料な観光名所はいくつかありますが、横浜赤レンガ倉庫、こちらをオススメします。	general,attraction
+4015	4	USER	いいですね。ちなみに子供入場料はいくらでしょうか。	general,attraction
+4015	5	SYSTEM	大人も子供も無料です。	general,attraction
+4015	6	USER	わかりました。ありがとうございます。	general,attraction
+4015	7	SYSTEM	よい旅を。	general,attraction

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1112	0	USER	京都の観光名所を探してもらえますか？Wi-Fiと駐車場がタダで使えるところを希望します。	general,attraction,taxi
+1112	1	SYSTEM	申し訳ありません。その条件ではご紹介できないのですが、いかが致しましょう？	general,attraction,taxi
+1112	2	USER	そうですか。じゃあ、Wi-Fiはなくても構わないので、もう一度探してもらえますか？	general,attraction,taxi
+1112	3	SYSTEM	では、エリアでいうと東山区にある、安井金比羅宮はいかがでしょう？	general,attraction,taxi
+1112	4	USER	そちらはどういったジャンルの施設になりますか？	general,attraction,taxi
+1112	5	SYSTEM	ジャンルは神社、寺院、教会、モニュメントなど、となります。	general,attraction,taxi
+1112	6	USER	営業時間はわかりますか？	general,attraction,taxi
+1112	7	SYSTEM	はい、0時から0時となります。	general,attraction,taxi
+1112	8	USER	わかりました。当日タクシーを使いたいので、キャッシュレス決済ができるタクシー会社を探してください。	general,attraction,taxi
+1112	9	SYSTEM	申し訳ありません。キャッシュレス対応のタクシー会社はございません。いかが致しましょう？	general,attraction,taxi
+1112	10	USER	そうですか。では、キャッシュレス決済はできなくてもいいので、再度探してもらえますか？	general,attraction,taxi
+1112	11	SYSTEM	では、加茂タクシー株式会社はいかがでしょう？ジャンボタクシーには対応しております。電話番号は0774436400となります。	general,attraction,taxi
+1112	12	USER	ありがとうございます。6/28の12:50に予約をお願いできますか？出発地はギオンコーナー、目的地は安井金比羅宮で。	general,attraction,taxi
+1112	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、83706となります。	general,attraction,taxi
+1112	14	USER	助かりました。ありがとうございました。	general,attraction,taxi

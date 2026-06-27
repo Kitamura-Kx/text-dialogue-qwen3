@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3848	0	USER	名古屋へ行くのですが、泊まるところを探していただけませんか？	general,hotel,restaurant,weather
+3848	1	SYSTEM	はい、ご希望の条件をおきかせください	general,hotel,restaurant,weather
+3848	2	USER	wifiが無料でつかる旅館でお願いします。	general,hotel,restaurant,weather
+3848	3	SYSTEM	名古屋でWiFi無料の旅館はいくつかありますが、SAMURAI HOUSE、こちらをお勧めします。	general,hotel,restaurant,weather
+3848	4	USER	そちらの電話番号ってわかりますか？	general,hotel,restaurant,weather
+3848	5	SYSTEM	05036349344です。	general,hotel,restaurant,weather
+3848	6	USER	最寄り駅は何駅でしょう？	general,hotel,restaurant,weather
+3848	7	SYSTEM	中村区役所駅になります。	general,hotel,restaurant,weather
+3848	8	USER	天白区で食事が出来るところも探しています。駐車場が無料で使えるところがいいのですが？	general,hotel,restaurant,weather
+3848	9	SYSTEM	天白区で駐車場無料の飲食店といえば、オーガニック食堂 Engi、こちら一択です。	general,hotel,restaurant,weather
+3848	10	USER	そちらの住所を教えてください。	general,hotel,restaurant,weather
+3848	11	SYSTEM	愛知県名古屋市天白区八事天道811	general,hotel,restaurant,weather
+3848	12	USER	では、９月２１日の１４時４０分に３人で予約をお願いします。	general,hotel,restaurant,weather
+3848	13	SYSTEM	予約成功しました。予約番号は29981です。	general,hotel,restaurant,weather
+3848	14	USER	９月２１日の東区の天気情報を教えてください。	general,hotel,restaurant,weather
+3848	15	SYSTEM	9/21 名古屋 東区 の天気は雨時々曇、最低気温20度、最高気温28.7度です。	general,hotel,restaurant,weather
+3848	16	USER	ありがとうございました。	general,hotel,restaurant,weather

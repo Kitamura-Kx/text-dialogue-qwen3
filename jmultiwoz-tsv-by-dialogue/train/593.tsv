@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+593	0	USER	こんにちは！福岡へ旅行に行くんですが、飲食店を探していただけますか？	general,restaurant,attraction
+593	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございませんか？	general,restaurant,attraction
+593	2	USER	中央区で、Wi-Fiが無料で利用できるところだったら大丈夫です。	general,restaurant,attraction
+593	3	SYSTEM	では、HAPPY HILLというお店はいかがでしょうか？最寄り駅は、天神南駅となります。	general,restaurant,attraction
+593	4	USER	ジャンルは何になりますか？	general,restaurant,attraction
+593	5	SYSTEM	ジャンルは、イタリアン・フレンチ, カフェ・スイーツ、となっております。	general,restaurant,attraction
+593	6	USER	いいですね。営業時間と電話番号についても教えてください。	general,restaurant,attraction
+593	7	SYSTEM	営業時間は、10:00～22:00です。電話番号は、0927913299でございます。予約もおとりできますが、いかがいたしますか？	general,restaurant,attraction
+593	8	USER	予約お願いします！8/22の10時から3人で行きたいです！	general,restaurant,attraction
+593	9	SYSTEM	ありがとうございます。予約が完了いたしました。予約番号は、17549でございます。	general,restaurant,attraction
+593	10	USER	ありがとうございます。西区の観光名所についても教えてほしいです。	general,restaurant,attraction
+593	11	SYSTEM	かしこまりました。ジャンルなどでご希望がなければ、マリノアシティ福岡などは、いかがでしょうか？	general,restaurant,attraction
+593	12	USER	駐車場とWi-Fiが無料のところがいいんですが、どうですか？	general,restaurant,attraction
+593	13	SYSTEM	はい、マリノアシティ福岡は駐車場とWiFiが無料でご利用いただけます。その条件ですと、ご案内できるのが、こちらの1件のみとなりますが、いかがいたしますか？	general,restaurant,attraction
+593	14	USER	良いところが見つかって嬉しいです！大人の入場料はいくらですか？	general,restaurant,attraction
+593	15	SYSTEM	大人も子供も、入場料は無料でございます。	general,restaurant,attraction
+593	16	USER	素晴らしいですね。大変助かりました。ありがとうございます。	general,restaurant,attraction
+593	17	SYSTEM	他にお手伝いできることはございませんか？	general,restaurant,attraction
+593	18	USER	はい！ありがとうございました。	general,restaurant,attraction
+593	19	SYSTEM	本日はご利用ありがとうございました。	general,restaurant,attraction

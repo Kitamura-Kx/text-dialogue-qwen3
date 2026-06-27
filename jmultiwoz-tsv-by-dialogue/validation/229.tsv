@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+229	0	USER	札幌への旅行を計画中のため、キャッシュレス払い対応のタクシー会社を探してもらえますか？	general,taxi
+229	1	SYSTEM	かしこまりました。では、北都交通(株)はいかがでしょうか。	general,taxi
+229	2	USER	そこはジャンボタクシーに対応していますか？	general,taxi
+229	3	SYSTEM	はい。対応しております。	general,taxi
+229	4	USER	ありがとうございます。そこにしたいと思うので電話番号を教えてください。	general,taxi
+229	5	SYSTEM	0112904181でございます。	general,taxi
+229	6	USER	12/11の14:00に北海道大学から日本料理 まるやまかわなかまで予約もお願いできますか？	general,taxi
+229	7	SYSTEM	はい。予約完了いたしました。予約番号は78778でございます。	general,taxi
+229	8	USER	ありがとうございます。	general,taxi
+229	9	SYSTEM	ほかにご用件はございますか。	general,taxi
+229	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,taxi
+229	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

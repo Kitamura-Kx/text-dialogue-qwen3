@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+189	0	USER	横浜に旅行に行った際に利用する飲食店を探しています。	general,restaurant
+189	1	SYSTEM	119件ほどございますが、ご希望の条件はございますか？	general,restaurant
+189	2	USER	駐車場が無料で利用できる、ホテルレストランを希望しています。	general,restaurant
+189	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できる施設がありません。	general,restaurant
+189	4	USER	そうですか。でしたら、駐車場に関する条件はなしでもかまいません。	general,restaurant
+189	5	SYSTEM	ありがとうございます。3件ほど見つかりました。イル・ジャルディーノというお店はいかがでしょうか？	general,restaurant
+189	6	USER	イル・ジャルディーノというお店は最寄りの駅から行くとどれくらいかかりますか？	general,restaurant
+189	7	SYSTEM	最寄りの元町・中華街駅から、歩いて1分でアクセスできます。	general,restaurant
+189	8	USER	そうですか。電話番号を教えておいてもらいたいのですが。	general,restaurant
+189	9	SYSTEM	電話番号は、0456811841です。	general,restaurant
+189	10	USER	ありがとうございます。こちらのお店で予約をお願いできますか？5/26の10:50から4人でお願いします。	general,restaurant
+189	11	SYSTEM	ご予約ありがとうございます。予約番号52456にて、ご予約完了いたしました。	general,restaurant
+189	12	USER	素敵なお店を教えて下さりありがとうございました！	general,restaurant

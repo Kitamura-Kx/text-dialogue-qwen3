@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4793	0	USER	那覇へ旅行する際、真和志で飲食店に行きたいので、探してもらえますか？	general,restaurant,hotel
+4793	1	SYSTEM	真和志だと飲食店はヒットしませんでした。	general,restaurant,hotel
+4793	2	USER	そうですか。では地区を首里に変更します。	general,restaurant,hotel
+4793	3	SYSTEM	首里には４つありますが、りゅうそう茶屋をおすすめします。	general,restaurant,hotel
+4793	4	USER	よさそうですね。そちらは駐車場はありますか？	general,restaurant,hotel
+4793	5	SYSTEM	無料駐車場があります。	general,restaurant,hotel
+4793	6	USER	わかりました。あと、レストランがあって、無料Wi-Fiもつかえるような宿泊施設を教えてほしいです。	general,restaurant,hotel
+4793	7	SYSTEM	レストラン併設、無料WiFiのある施設はいくつかありますが、ヒューイットリゾート那覇をお勧めします。	general,restaurant,hotel
+4793	8	USER	いいですね。そちらの電話番号ってわかります？	general,restaurant,hotel
+4793	9	SYSTEM	0989438325です。	general,restaurant,hotel
+4793	10	USER	わかりました。ありがとうございました。	general,restaurant,hotel

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4472	0	USER	名古屋への旅行を計画しています。 当日泊まる宿泊施設を探してください。駐車場を無料で利用できるところにしてください。予算は高めが希望です。レストランが併設されているところにしてください。	general,hotel,shopping,weather
+4472	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel,shopping,weather
+4472	2	USER	かしこまりました。では、予算は安めでお願いします。	general,hotel,shopping,weather
+4472	3	SYSTEM	ありがとうございます。では、プチホテル ニューひふみ、というお安めのビジネスホテルはいかがでしょうか？	general,hotel,shopping,weather
+4472	4	USER	ありがとうございます。最寄り駅を教えてください。	general,hotel,shopping,weather
+4472	5	SYSTEM	はい、最寄りは、尾頭橋駅です。	general,hotel,shopping,weather
+4472	6	USER	ありがとうございます。当日買い物ができるところを探してください。最寄り駅が中村区役所駅のところにしてください。駐車場を無料で利用できるところにしてください。	general,hotel,shopping,weather
+4472	7	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。いかがいたしましょう？	general,hotel,shopping,weather
+4472	8	USER	かしこまりました。では、最寄りは考慮しません。	general,hotel,shopping,weather
+4472	9	SYSTEM	ありがとうございます。そういたしますと、28件候補がございますが、他にご希望の条件はございませんか？	general,hotel,shopping,weather
+4472	10	USER	特にございません。おすすめでお願いします。	general,hotel,shopping,weather
+4472	11	SYSTEM	では、ジェイアール名古屋タカシマヤはいかがでしょうか？中村区エリアにある、百貨店や総合スーパーとなります。	general,hotel,shopping,weather
+4472	12	USER	ありがとうございます。住所と電話番号を教えてください。	general,hotel,shopping,weather
+4472	13	SYSTEM	住所は、愛知県名古屋市中村区名駅1丁目1-4です。電話番号は、0525661101でございます。	general,hotel,shopping,weather
+4472	14	USER	ありがとうございます。日付は10/30で、地区は緑区の 最低気温，天気を教えてください。	general,hotel,shopping,weather
+4472	15	SYSTEM	かしこまりました。当日の緑区の最高気温は、14.9度、お天気は晴れの予報となっております。	general,hotel,shopping,weather
+4472	16	USER	かしこまりました。本日はありがとうございました。	general,hotel,shopping,weather
+4472	17	SYSTEM	他にお知りになりたい情報などはございませんか？	general,hotel,shopping,weather
+4472	18	USER	問題ございません。ありがとうございました。	general,hotel,shopping,weather
+4472	19	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,hotel,shopping,weather

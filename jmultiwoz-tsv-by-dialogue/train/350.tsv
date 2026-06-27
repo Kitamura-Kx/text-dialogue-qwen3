@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+350	0	USER	今度東京へ行くのですが、飲食店を探しています。	general,restaurant,attraction,weather
+350	1	SYSTEM	東京のお食事処ですね。ジャンルやエリアなど、何かご希望はございませんか？	general,restaurant,attraction,weather
+350	2	USER	最寄り駅が虎ノ門駅で、駐車場を無料で利用できるところがいいです。	general,restaurant,attraction,weather
+350	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,attraction,weather
+350	4	USER	では、駐車場はなくてもいいです。	general,restaurant,attraction,weather
+350	5	SYSTEM	ありがとうございます。そうしますと、杜の都 太助 虎ノ門店というお店はいかがでしょうか？	general,restaurant,attraction,weather
+350	6	USER	値段帯はどんな感じでしょうか？	general,restaurant,attraction,weather
+350	7	SYSTEM	普通となっております。詳しい料金情報もお伝えしましょうか？	general,restaurant,attraction,weather
+350	8	USER	いえ、大丈夫です。ありがとうございます。定休日と電話番号を教えていただけませんか？	general,restaurant,attraction,weather
+350	9	SYSTEM	かしこまりました。定休日は、日曜日, 祝日, GW, お盆, 年末年始となっております。電話番号は、0355103965でございます。	general,restaurant,attraction,weather
+350	10	USER	ありがとうございます。当日行ける観光名所はありますか？文京区で駐車場が無料だとありがたいです。	general,restaurant,attraction,weather
+350	11	SYSTEM	そうしますと、根津神社はいかがでしょうか？根津駅の近くにある観光名所です。	general,restaurant,attraction,weather
+350	12	USER	住所を教えていただけませんか？	general,restaurant,attraction,weather
+350	13	SYSTEM	住所は、東京都文京区根津1丁目28-9でございます。	general,restaurant,attraction,weather
+350	14	USER	ありがとうございます。最後に、当日の天気を知りたいです。9/5の豊島区のお天気は分かりますか？	general,restaurant,attraction,weather
+350	15	SYSTEM	はい、当日の天気予報は雨となっております。最低気温は16.7度、最高気温は29.4度になる予想です。	general,restaurant,attraction,weather
+350	16	USER	分かりました。以上です、大変ありがとうございました。	general,restaurant,attraction,weather
+350	17	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,restaurant,attraction,weather

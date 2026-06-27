@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2961	0	USER	今度京都へ行くんですが、上京区で駐車場が無料のスーパーマーケットを探してもらえますか？	general,shopping,restaurant,attraction
+2961	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,restaurant,attraction
+2961	2	USER	そうですか。では、ジャンルにはこだわらず探してください。	general,shopping,restaurant,attraction
+2961	3	SYSTEM	ありがとうございます。山田松香木店はいかがでしょう？ジャンルは、文房具、雑貨となります。	general,shopping,restaurant,attraction
+2961	4	USER	ありがとうございます。あと、Wi-Fiが無料で予算が普通くらいの飲食店も探してもらえますか？	general,shopping,restaurant,attraction
+2961	5	SYSTEM	はい、エリアでいうと中京区に、フィゲラス 烏丸店がございます。ジャンルは、洋食、西洋料理、その他、となります。	general,shopping,restaurant,attraction
+2961	6	USER	ありがとうございます。そこの近辺の駅からの所要時間はわかりますか？	general,shopping,restaurant,attraction
+2961	7	SYSTEM	最寄りの烏丸駅から徒歩で2分となります。	general,shopping,restaurant,attraction
+2961	8	USER	わかりました。それから、左京区で駐車場無料の観光名所はありますか。	general,shopping,restaurant,attraction
+2961	9	SYSTEM	はい、下鴨神社がございます。ジャンルは、神社、寺院、教会、モニュメントなど、となります。	general,shopping,restaurant,attraction
+2961	10	USER	ありがとうございます。そこの料金情報も教えてください。	general,shopping,restaurant,attraction
+2961	11	SYSTEM	料金情報としては、無料拝観自由、となります。	general,shopping,restaurant,attraction
+2961	12	USER	ありがとうございます。以上で結構です。	general,shopping,restaurant,attraction
+2961	13	SYSTEM	ありがとうございました。	general,shopping,restaurant,attraction

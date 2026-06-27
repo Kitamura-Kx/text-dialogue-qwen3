@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2190	0	USER	今度、仙台へ旅行に行くんですが、安めの予算で寿司・魚料理を楽しめるお店を教えてください。	general,restaurant,taxi,weather
+2190	1	SYSTEM	承知しました。エリアでいうと宮城野区にある、梵天食堂 中野栄店はいかがでしょう？	general,restaurant,taxi,weather
+2190	2	USER	いいですね。住所と最寄駅からの所要時間を教えてください。	general,restaurant,taxi,weather
+2190	3	SYSTEM	はい、住所は宮城県仙台市宮城野区出花2丁目4-1、最寄りの中野栄駅から徒歩で2分となります。	general,restaurant,taxi,weather
+2190	4	USER	ありがとうございます。当日は、タクシーを利用したいのでキャッシュレス払いのできるタクシー会社を教えてください。	general,restaurant,taxi,weather
+2190	5	SYSTEM	申し訳ありません、その条件ではご紹介できません。いかが致しましょう？	general,restaurant,taxi,weather
+2190	6	USER	キャッシュレス払いできなくても大丈夫です。	general,restaurant,taxi,weather
+2190	7	SYSTEM	では、稲荷タクシー（有）はいかがでしょう？ジャンボタクシーには対応しております。電話番号は、0222411121となります。	general,restaurant,taxi,weather
+2190	8	USER	ありがとうございます。予約までお願いします。8月4日の9時40分にトータスというところから、梵天食堂 中野栄店までお願いしたいです。	general,restaurant,taxi,weather
+2190	9	SYSTEM	申し訳ありません。その条件ではご予約できません。いかが致しましょう？	general,restaurant,taxi,weather
+2190	10	USER	そうですか。では、10時20分ではどうですか？	general,restaurant,taxi,weather
+2190	11	SYSTEM	予約が可能になりまして、ご予約番号は、51085となります。	general,restaurant,taxi,weather
+2190	12	USER	ありがとうございます。最後に8月4日の泉区の天気と最高気温を教えてください。	general,restaurant,taxi,weather
+2190	13	SYSTEM	はい、天気は曇のち雨、最低気温24.6度、最高気温26.6度となります。	general,restaurant,taxi,weather
+2190	14	USER	ありがとうございました。では失礼します。	general,restaurant,taxi,weather

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3677	0	USER	福岡に行くのですが、どこか観光できるところはありますか？	general,attraction,restaurant,hotel
+3677	1	SYSTEM	はい。48件ございます。何か他の希望の要件はございますか？	general,attraction,restaurant,hotel
+3677	2	USER	リゾート・保養地で、Wi-Fiが無料のところはありますか？	general,attraction,restaurant,hotel
+3677	3	SYSTEM	かしこまりました。では、ザ・ルイガンズ. スパ&リゾートはいかがでしょうか？	general,attraction,restaurant,hotel
+3677	4	USER	ありがとうございます。そちらの近くの駅からの所要時間はどのくらいですか？	general,attraction,restaurant,hotel
+3677	5	SYSTEM	はい。最寄りの海ノ中道駅から徒歩で6分です。	general,attraction,restaurant,hotel
+3677	6	USER	ありがとうございます。あと当日の飲食店を探していますが、東区でWi-Fiが無料のところはありますか？	general,attraction,restaurant,hotel
+3677	7	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,attraction,restaurant,hotel
+3677	8	USER	では、地区を博多区にしてください。	general,attraction,restaurant,hotel
+3677	9	SYSTEM	かしこまりました。では、レカイエ オイスターバー JR博多シティ店はいかがでしょうか？	general,attraction,restaurant,hotel
+3677	10	USER	そこに行ってみます。そちらの営業時間，料金情報，駐車場の有無を教えていただけますか？	general,attraction,restaurant,hotel
+3677	11	SYSTEM	はい。営業時間は11:00～23:00です。料金情報としては、例えばコールドオイスタープレートが1990円、焼き牡蠣3種が1280円。また、ホットオイスタープレートが1090円などです。あと駐車場ですが、無料のものがございますよ。	general,attraction,restaurant,hotel
+3677	12	USER	ありがとうございます。あと一点、当日の宿泊施設も探しています。予算が高めで、レストランが併設されているところはありますか？	general,attraction,restaurant,hotel
+3677	13	SYSTEM	かしこまりました。では、ソラリア西鉄ホテル福岡はいかがでしょうか？	general,attraction,restaurant,hotel
+3677	14	USER	ありがとうございます。そちらの住所と、チェックイン開始時間、チェックアウト終了時間は分かりますか？	general,attraction,restaurant,hotel
+3677	15	SYSTEM	もちろんです。住所は福岡県福岡市中央区天神2丁目2-43です。また、チェックイン開始時刻は15:00で、チェックアウト終了時刻は11:00となっております。	general,attraction,restaurant,hotel
+3677	16	USER	分かりました。以上です、大変お世話になりました。	general,attraction,restaurant,hotel
+3677	17	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,hotel

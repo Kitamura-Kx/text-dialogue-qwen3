@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2036	0	USER	京都の中京区で買い物ができるお店を探しています。ジャンルはスポーツがよくて、駐車場が無料のところだと嬉しいです。	general,shopping,weather,taxi
+2036	1	SYSTEM	申し訳ありません。この条件ではご案内できません。いかが致しましょう？	general,shopping,weather,taxi
+2036	2	USER	でしたら、駐車場はなくても構いません。それだとありますでしょうか？	general,shopping,weather,taxi
+2036	3	SYSTEM	該当は1件のみ、モンベル 京都店がございます。	general,shopping,weather,taxi
+2036	4	USER	そちらの定休日を教えてもらえますか？	general,shopping,weather,taxi
+2036	5	SYSTEM	定休日は第三水曜日となります。	general,shopping,weather,taxi
+2036	6	USER	ありがとうございます。１２月１日の西京区の天気と最高気温も教えてください。	general,shopping,weather,taxi
+2036	7	SYSTEM	天気は曇時々晴、最高気温13.4度となります。他にご用件はございますか？	general,shopping,weather,taxi
+2036	8	USER	当日タクシーを利用したいのですが、ジャンボタクシーが利用できるところありますでしょうか？	general,shopping,weather,taxi
+2036	9	SYSTEM	株式会社エコロ２１はいかがでしょう？キャッシュレスにも対応しております。電話番号は0758032228となります。	general,shopping,weather,taxi
+2036	10	USER	ありがとうございます。そちらで予約お願いします。１２月１日の１４時半に、プレミアムステーキ听京都駅前からモンベル 京都店までお願いします。	general,shopping,weather,taxi
+2036	11	SYSTEM	申し訳ありません。この条件では予約ができませんでした。いかが致しましょう？	general,shopping,weather,taxi
+2036	12	USER	時間を１５時に変更したらできますか？	general,shopping,weather,taxi
+2036	13	SYSTEM	予約が可能になりまして、ご予約番号は、62913となります。他にご案内できることはございますか？	general,shopping,weather,taxi
+2036	14	USER	予約ありがとうございました。他は大丈夫です。ありがとうございました。	general,shopping,weather,taxi
+2036	15	SYSTEM	ありがとうございました。	general,shopping,weather,taxi

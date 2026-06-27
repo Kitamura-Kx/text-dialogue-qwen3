@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4245	0	USER	仙台へ旅行しようと思っているのですが、若林区で買い物ができるところはどこかあるでしょうか。	general,shopping,taxi
+4245	1	SYSTEM	はい、1件ご案内可能です。岡田の仙台長なす漬 卸町本店という、食料品, お土産ジャンルのお店ですが、いかがでしょうか？	general,shopping,taxi
+4245	2	USER	なるほど、ありがとうございます。駐車場が無料のところだとありがたいのですがその点はどうでしょうか。	general,shopping,taxi
+4245	3	SYSTEM	申し訳ありません。こちらは、駐車場の有無が不明となっております。無料駐車場併設のお店ですと、若林区ではご案内できるところが見つかりませんでした。	general,shopping,taxi
+4245	4	USER	分かりました。では地区の条件はなくてもかまいません。	general,shopping,taxi
+4245	5	SYSTEM	かしこまりました。そうしますと、26件ほど、ご案内できます。たとえば、ララガーデン長町というショッピングモールはいかがでしょうか？	general,shopping,taxi
+4245	6	USER	ありがとうございます、そこに行きたいと思います。あとタクシー会社を探しているのですが、キャッシュレス対応しているジャンボタクシーはあるでしょうか。	general,shopping,taxi
+4245	7	SYSTEM	はい、ございます。平和交通（株）という会社はいかがでしょうか？	general,shopping,taxi
+4245	8	USER	ありがとうございます、そこを利用しようと思います。電話番号をお聞きしてもいいですか？	general,shopping,taxi
+4245	9	SYSTEM	かしこまりました。電話番号は、0570086000でございます。	general,shopping,taxi
+4245	10	USER	ありがとうございます。では当日の予約をしたいのですが、6月8日の12:30にホテルグリーンウィズからララガーデン長町まで予約は可能でしょうか。	general,shopping,taxi
+4245	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、59083です。	general,shopping,taxi
+4245	12	USER	ありがとうございます。お聞きしたい事は以上になります。丁寧にサポートしていただき本当にありがとうございました。	general,shopping,taxi
+4245	13	SYSTEM	こちらこそ、ありがとうございます。もし他にご質問がないようでしたら、これで失礼いたします。本日はご利用ありがとうございました。	general,shopping,taxi

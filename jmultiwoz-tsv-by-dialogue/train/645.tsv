@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+645	0	USER	大阪旅行で食事ができる飲食店を探しているのですが、どこかありますか？	general,restaurant
+645	1	SYSTEM	はい、大阪にはご案内できるお食事処が100件ほどございます。ジャンルやエリアなど、何かご希望はございませんか？	general,restaurant
+645	2	USER	浪速区周辺でWi-Fiが無料で利用できるところはありますか？	general,restaurant
+645	3	SYSTEM	申し訳ございません。その条件では候補が見つかりませんでした。	general,restaurant
+645	4	USER	でしたら、Wi-Fiはなくても大丈夫です。	general,restaurant
+645	5	SYSTEM	ありがとうございます。では、TEPPANとワインと蕎麦 つなぐ、というイタリアン・フレンチのお店はいかがでしょうか？	general,restaurant
+645	6	USER	そちらにします。料金情報を教えていただけますか？	general,restaurant
+645	7	SYSTEM	かしこまりました。本日のカルパッチョが1100円、本日の鮮魚が1628円となっております。	general,restaurant
+645	8	USER	ありがとうございました。	general,restaurant

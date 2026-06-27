@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4314	0	USER	那覇へ旅行したいので、キャッシュレス払いできてジャンボタクシーが使えるタクシー会社を探してください	general,taxi,weather
+4314	1	SYSTEM	かしこまりました。それでは沖縄交通はいかがでしょうか？	general,taxi,weather
+4314	2	USER	電話番号はわかりますか？	general,taxi,weather
+4314	3	SYSTEM	はい、0120170978でございます。	general,taxi,weather
+4314	4	USER	そしたら東急ステイ沖縄那覇から那覇空港まで4/202の13:50で予約してください	general,taxi,weather
+4314	5	SYSTEM	日程をもう一度確認してもよろしいでしょうか？	general,taxi,weather
+4314	6	USER	4/20になります	general,taxi,weather
+4314	7	SYSTEM	お待たせ致しました。予約番号84947でお取りさせていただきました。	general,taxi,weather
+4314	8	USER	ありがとうございます。あと本庁で4/20の天気はどうですか？	general,taxi,weather
+4314	9	SYSTEM	はい、当日の本庁の天気は雨の予報でございます。	general,taxi,weather
+4314	10	USER	最低気温はわかりますか？	general,taxi,weather
+4314	11	SYSTEM	はい、最低気温は14.8度の予報でございます。	general,taxi,weather
+4314	12	USER	了解です。ありがとうございました。	general,taxi,weather
+4314	13	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi,weather

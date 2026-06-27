@@ -1,0 +1,35 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4925	0	USER	東京に旅行するので、観光名所を探して欲しいです	general,attraction,restaurant,hotel
+4925	1	SYSTEM	かしこまりました。ご希望のエリアなどはございますか？	general,attraction,restaurant,hotel
+4925	2	USER	エリアはないですが、Wi-Fiと駐車場が無料の場所が良いです。	general,attraction,restaurant,hotel
+4925	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,attraction,restaurant,hotel
+4925	4	USER	駐車場が有料の場所ならありますか？	general,attraction,restaurant,hotel
+4925	5	SYSTEM	はい、１３件ほどご案内可能です。たとえば、墨田区にある江戸東京博物館は、ご興味ございませんか？	general,attraction,restaurant,hotel
+4925	6	USER	では、そこにします。料金情報と定休日、子供の入場料を教えてもらえますか？	general,attraction,restaurant,hotel
+4925	7	SYSTEM	かしこまりました。料金は、一般600円、大学生・専門学校生480円、高校生と都外の中学生、65歳以上は300円、都内在学または在住の中学生と小学生、未就学児童のお子様は無料です。	general,attraction,restaurant,hotel
+4925	8	USER	定休日はいつですか？	general,attraction,restaurant,hotel
+4925	9	SYSTEM	大変失礼いたしました。月曜日と年末年始がお休みとなっております。	general,attraction,restaurant,hotel
+4925	10	USER	では、近くのレストランを予約したいです。	general,attraction,restaurant,hotel
+4925	11	SYSTEM	かしこまりました。こちらの観光名所のお近くのエリアをご希望でしょうか？	general,attraction,restaurant,hotel
+4925	12	USER	エリアは指定せずに、安めの居酒屋で、Wi-Fiが無料の場所をお願いします。	general,attraction,restaurant,hotel
+4925	13	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,attraction,restaurant,hotel
+4925	14	USER	では、予算は条件にしなければどうでしょうか？	general,attraction,restaurant,hotel
+4925	15	SYSTEM	ありがとうございます。そうしますと、９件ご案内可能です。たとえば、中央区エリアの銀座 魚ばか、というお店はいかがでしょうか？	general,attraction,restaurant,hotel
+4925	16	USER	では、そこにします。近くの駅からの所要時間と、営業時間を教えてもらえますか？	general,attraction,restaurant,hotel
+4925	17	SYSTEM	かしこまりました。最寄りの銀座一丁目駅から徒歩で1分、そのほか有楽町駅から徒歩で2分、銀座駅から徒歩で3分の場所にございます。営業時間は、17:30～23:00です。	general,attraction,restaurant,hotel
+4925	18	USER	は、そこで6月13日、15時40分から3人で予約もお願いします。	general,attraction,restaurant,hotel
+4925	19	SYSTEM	大変申し訳ございません。ご希望の条件では予約できませんでした。お時間など、ご調整いただくことは可能でしょうか？	general,attraction,restaurant,hotel
+4925	20	USER	2人だったらいけますか？	general,attraction,restaurant,hotel
+4925	21	SYSTEM	ありがとうございます。２名様にて、ご予約完了いたしました。予約番号は、28468です。	general,attraction,restaurant,hotel
+4925	22	USER	その日、宿泊する場所も探したいです	general,attraction,restaurant,hotel
+4925	23	SYSTEM	かしこまりました。エリアなど、ご希望はございますか？	general,attraction,restaurant,hotel
+4925	24	USER	エリアは無いですが、安めの簡易宿所で、レストランがあるところをお願いします	general,attraction,restaurant,hotel
+4925	25	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,restaurant,hotel
+4925	26	USER	では、簡易宿所以外ではどうですか？	general,attraction,restaurant,hotel
+4925	27	SYSTEM	そうしますと、３７件ご案内可能です。たとえば、ASTA HOTELというビジネスホテルはいかがでしょうか？	general,attraction,restaurant,hotel
+4925	28	USER	ではそこにします。最寄り駅と、チェックインの時間を教えてもらえますか？	general,attraction,restaurant,hotel
+4925	29	SYSTEM	最寄りは池袋駅です。徒歩４分の距離にございます。チェックインは１６時からとなっております。	general,attraction,restaurant,hotel
+4925	30	USER	6月13日から4泊、2人で予約もお願いします	general,attraction,restaurant,hotel
+4925	31	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、96255です。	general,attraction,restaurant,hotel
+4925	32	USER	以上です。助かりました。ありがとうございました。	general,attraction,restaurant,hotel
+4925	33	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,attraction,restaurant,hotel

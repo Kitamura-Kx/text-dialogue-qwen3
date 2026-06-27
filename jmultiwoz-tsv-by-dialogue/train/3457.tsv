@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3457	0	USER	福岡へ旅行に行くので買い物ができる場所を探してください。	general,shopping
+3457	1	SYSTEM	かしこまりました。その条件ですと44件ほど候補がありますが、何かこだわりはございますか？	general,shopping
+3457	2	USER	おもちゃが買えるところでお願いします。中央区だといいのですが。	general,shopping
+3457	3	SYSTEM	申し訳ございません。中央区ではお探しすることが出来ませんでした。	general,shopping
+3457	4	USER	では中央区でなくても構いません。	general,shopping
+3457	5	SYSTEM	かしこまりました。それではポケモンセンターフクオカはいかがでしょうか？	general,shopping
+3457	6	USER	ありがとうございます。そちらは最寄り駅はどちらでしょうか？	general,shopping
+3457	7	SYSTEM	はい、博多駅でございます。	general,shopping
+3457	8	USER	ありがとうございます。これで以上です。	general,shopping
+3457	9	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping

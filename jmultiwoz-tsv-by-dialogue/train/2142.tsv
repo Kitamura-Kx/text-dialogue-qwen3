@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2142	0	USER	福岡で居酒屋を探しています。予算は普通で、Wi-Fiが無料のところを教えてください。	general,restaurant
+2142	1	SYSTEM	福岡でWiFi無料の居酒屋は４件あります。追加のご希望はありますか？	general,restaurant
+2142	2	USER	あとは特にないので、適当なところを一つ教えてください。あとその店の最寄り駅と駐車場があるかも聞いときたいんですけど。	general,restaurant
+2142	3	SYSTEM	それでは古民家居酒屋こまちをお勧めします。最寄り駅は大橋駅、駐車場は不明となっていて、ちょっとよくわかりませんね。	general,restaurant
+2142	4	USER	あ、大丈夫です。その店7月10日で予約したいんですけど、11時50分から4人でお願いします。	general,restaurant
+2142	5	SYSTEM	7月10日11時50分から4人で予約成功しました。予約番号は38032です。	general,restaurant
+2142	6	USER	ありがとうございました。お世話になりました。	general,restaurant

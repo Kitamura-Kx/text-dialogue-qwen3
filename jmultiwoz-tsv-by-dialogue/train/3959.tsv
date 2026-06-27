@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3959	0	USER	京都に旅行するので、飲食店を探しています。烏丸御池駅近くでいいところないですか？	general,restaurant,attraction
+3959	1	SYSTEM	はい、５件ご案内可能です。例えばNAKATSUKAという、イタリアン・フレンチのお店はいかがでしょうか？	general,restaurant,attraction
+3959	2	USER	そのお店は安いですか？	general,restaurant,attraction
+3959	3	SYSTEM	申し訳ありません、こちらは少々、お高めの値段設定のようです。お安いお店をお探ししましょうか？	general,restaurant,attraction
+3959	4	USER	はい、お願いします。	general,restaurant,attraction
+3959	5	SYSTEM	大変申し訳ございません。お安めの条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,attraction
+3959	6	USER	じゃあ、烏丸御池駅に近くなくてもいいです。	general,restaurant,attraction
+3959	7	SYSTEM	ありがとうございます。では、グルグルどんという、お好み焼き・たこ焼きのお店はいかがでしょうか？	general,restaurant,attraction
+3959	8	USER	いいですね。そのお店の営業時間を教えてください。	general,restaurant,attraction
+3959	9	SYSTEM	営業時間は、お昼が11:30～14:00, 夜が17:00～23:00となっております。	general,restaurant,attraction
+3959	10	USER	ありがとうございます。あと、歴史的建造物の観光名所に行きたいんですが、駐車場が無料のところでありませんか？	general,restaurant,attraction
+3959	11	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,restaurant,attraction
+3959	12	USER	そうですか、ではジャンルは問いません。	general,restaurant,attraction
+3959	13	SYSTEM	かしこまりました。では、伏見稲荷大社はいかがでしょうか？	general,restaurant,attraction
+3959	14	USER	伏見稲荷大社は定休日ってありますか？	general,restaurant,attraction
+3959	15	SYSTEM	いえ、定休日はございません。	general,restaurant,attraction
+3959	16	USER	わかりました。ありがとうございます。	general,restaurant,attraction
+3959	17	SYSTEM	他にお調べすることはございませんか？	general,restaurant,attraction
+3959	18	USER	いえ、大丈夫です。ありがとうございます。	general,restaurant,attraction
+3959	19	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant,attraction

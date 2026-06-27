@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+128	0	USER	恐れ入ります。札幌旅行で買い物したいところがあって、詳しく知りたいんですが。	general,shopping,taxi,weather
+128	1	SYSTEM	承知致しました。ジャンルやエリアなどのご希望はございますか？	general,shopping,taxi,weather
+128	2	USER	札幌二条市場という場所を探してほしいです。	general,shopping,taxi,weather
+128	3	SYSTEM	中央区にございます。住所は札幌市中央区南三条東1丁目、お電話番号は0112225308、営業時間は7時から18時となっております。	general,shopping,taxi,weather
+128	4	USER	そこから一番近い駅は、何駅でしょうか？	general,shopping,taxi,weather
+128	5	SYSTEM	最寄りの大通駅から徒歩で5分となっております。	general,shopping,taxi,weather
+128	6	USER	駐車場はついてますか？	general,shopping,taxi,weather
+128	7	SYSTEM	申し訳ございません、駐車場のご用意はございません。	general,shopping,taxi,weather
+128	8	USER	わかりました。あとまだ聞きたいことがありまして。	general,shopping,taxi,weather
+128	9	SYSTEM	はい、どういったことでしょう？	general,shopping,taxi,weather
+128	10	USER	ジャンボタクシーが使える会社を探してほしいです。	general,shopping,taxi,weather
+128	11	SYSTEM	承知致しました。では、北都ベリアールサービス(株)はいかがでしょう？ジャンボタクシー、キャッシュレスともに対応しております。	general,shopping,taxi,weather
+128	12	USER	キャッシュレスで払えるなら、そこにします。電話番号を教えてください。	general,shopping,taxi,weather
+128	13	SYSTEM	はい、お電話番号は0118202200となります。ご予約されますでしょうか？	general,shopping,taxi,weather
+128	14	USER	ハイ、お願いします。6月30日14時に、さっきの札幌二条市場から、しゃぶしゃぶ温野菜 北24条店まで乗せていってもらいたいです。	general,shopping,taxi,weather
+128	15	SYSTEM	ありがとうございます。予約完了しまして、ご予約番号は、24189　となります。	general,shopping,taxi,weather
+128	16	USER	ありがとうございます。6月30日の天候も伺っていいですかね？	general,shopping,taxi,weather
+128	17	SYSTEM	承知致しました。お知りになりたいエリアを教えていただけますか？	general,shopping,taxi,weather
+128	18	USER	清田区あたりのが知りたいです。	general,shopping,taxi,weather
+128	19	SYSTEM	ありがとうございます。天気は晴、最低気温は15.4度、最高気温は24.2度となります。	general,shopping,taxi,weather
+128	20	USER	そうなんですね。助かりました。	general,shopping,taxi,weather
+128	21	SYSTEM	他にご用件はございますか？	general,shopping,taxi,weather
+128	22	USER	いや、大丈夫です。ありがとうございました。	general,shopping,taxi,weather
+128	23	SYSTEM	承知致しました。ありがとうございました。	general,shopping,taxi,weather

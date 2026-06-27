@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+544	0	USER	大阪への旅行を計画しているのですが、当日買い物ができるお店を探しています。ジャンルは食料品です。	general,shopping
+544	1	SYSTEM	大阪の食料品のお店ですね。19件ほどご案内可能です。他にご希望の条件はございませんでしょうか？	general,shopping
+544	2	USER	はい、特にありませんので、おすすめのお店をご紹介ください。	general,shopping
+544	3	SYSTEM	承知いたしました。では、あみだ池大黒 本店というお店はいかがでしょうか？西区エリアにあるお店です。	general,shopping
+544	4	USER	ありがとうございます。では、住所を駐車場の有無を教えてください。	general,shopping
+544	5	SYSTEM	住所は、大阪府大阪市西区北堀江3丁目11-26です。駐車場は、不明となっております。申し訳ありません。	general,shopping
+544	6	USER	ありがとうございました。	general,shopping

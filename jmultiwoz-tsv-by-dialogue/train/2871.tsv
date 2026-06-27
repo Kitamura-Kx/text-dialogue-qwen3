@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2871	0	USER	福岡で飲食店を探してまして。西区で、無料駐車場があるところはありますか？	general,restaurant
+2871	1	SYSTEM	福岡西区の無料駐車場のある飲食店といえば、旬やみなくちをオススメします。	general,restaurant
+2871	2	USER	近辺の駅からはどれぐらいかかりますか？あと、電話番号も教えてください。	general,restaurant
+2871	3	SYSTEM	姪浜駅から徒歩で8分、電話番号は0928855553になります。	general,restaurant
+2871	4	USER	では2/12、13：30で予約をお願いします。利用は3人です。	general,restaurant
+2871	5	SYSTEM	その条件だと予約に失敗してしまいました。	general,restaurant
+2871	6	USER	そうですか。では時間は14:20に変更してください。	general,restaurant
+2871	7	SYSTEM	2/12、14：20で3人、旬や みなくち予約成功しました。予約番号は55766です。	general,restaurant
+2871	8	USER	ありがとうございます。	general,restaurant

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+792	0	USER	すみません。京都への旅行を計画していますが、当日食事ができる飲食店を探してください。	general,restaurant
+792	1	SYSTEM	かしこまりました。京都のお食事処ですと、100件ほどご案内出来る場所がございます。ご希望の条件などはございますか？	general,restaurant
+792	2	USER	最寄り駅が鞍馬駅のところにしてください。予算は安めが希望です。	general,restaurant
+792	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,restaurant
+792	4	USER	では、最寄り駅が二条駅でも良いです。	general,restaurant
+792	5	SYSTEM	ありがとうございます。そうしますと、グルグルどん、というお店が1件ございます。ジャンルは、お好み焼き・たこ焼きとなっておりますが、いかがでしょうか？	general,restaurant
+792	6	USER	いいですね。料金情報を教えてもらえますか？	general,restaurant
+792	7	SYSTEM	はい。お好み焼き（豚）が750円、天使のエビ岩塩焼きは850円、豚キムチ丼480円といったものがございます。	general,restaurant
+792	8	USER	それでは予約をお願いします。人数は2人、日付は3/14、時間は10:00希望です。	general,restaurant
+792	9	SYSTEM	ご予約ありがとうございます。予約番号64521にて、承りました。	general,restaurant
+792	10	USER	どうもありがとうございました。	general,restaurant

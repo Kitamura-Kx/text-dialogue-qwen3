@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2774	0	USER	札幌に旅行するのですが、宿泊施設を探しています。	general,hotel,weather
+2774	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,weather
+2774	2	USER	南区の駐車場が無料のところで、レストランが併設されているところはありますか？	general,hotel,weather
+2774	3	SYSTEM	では、定山渓第一寶亭留 翠山亭はいかがでしょう？タイプはその他となります。	general,hotel,weather
+2774	4	USER	いいですね。そこはWi-Fiがありますか？	general,hotel,weather
+2774	5	SYSTEM	はい、無料でご利用いただけます。	general,hotel,weather
+2774	6	USER	あと、8/20の清田区の最高気温が知りたいです。	general,hotel,weather
+2774	7	SYSTEM	はい、天気は雨のち晴、最低気温17.2度、最高気温25度となります。他にご用件はございますか？	general,hotel,weather
+2774	8	USER	特にありません。助かりました。	general,hotel,weather
+2774	9	SYSTEM	ありがとうございました。	general,hotel,weather

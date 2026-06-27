@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2877	0	USER	大阪へ旅行に行こうと思っています。当日買い物ができるところを探しています。地区は大正区で駐車場は無料で利用できるところが希望です。	general,shopping,hotel
+2877	1	SYSTEM	大正区で駐車場無料の買い物スポットといえば、ずばり、IKEA鶴浜ストア、こちら一択です。	general,shopping,hotel
+2877	2	USER	そこが良さそうですね。そこの定休日を教えてください。	general,shopping,hotel
+2877	3	SYSTEM	正月が定休日です。	general,shopping,hotel
+2877	4	USER	あと当日泊まる宿泊施設を探しています。レストランが併設されているところで予算は普通が希望です。	general,shopping,hotel
+2877	5	SYSTEM	大阪でレストラン併設、予算普通といえば、ずばり、大阪マリオット都ホテル、こちら一択です。	general,shopping,hotel
+2877	6	USER	そこは駐車場がありますでしょうか？あとチェックアウト時刻も教えてください。	general,shopping,hotel
+2877	7	SYSTEM	有料ですが駐車場はあります。チェックアウトは１２時になります。	general,shopping,hotel
+2877	8	USER	分かりました。ありがとうございます。	general,shopping,hotel
+2877	9	SYSTEM	よい旅を	general,shopping,hotel

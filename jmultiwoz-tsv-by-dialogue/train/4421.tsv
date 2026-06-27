@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4421	0	USER	横浜へ旅行する予定なのですが、最寄り駅が元町・中華街駅でいい観光名所はありませんか？	general,attraction,weather,taxi
+4421	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,attraction,weather,taxi
+4421	2	USER	なら、最寄り駅が八景島駅のところでもいいです。	general,attraction,weather,taxi
+4421	3	SYSTEM	かしこまりました。それでは横浜・八景島シーパラダイスがおすすめでございます。	general,attraction,weather,taxi
+4421	4	USER	いいですね。駐車場はあります？	general,attraction,weather,taxi
+4421	5	SYSTEM	はい、有料ですが、駐車場はご利用いただけます。	general,attraction,weather,taxi
+4421	6	USER	了解です。あと、3/25の都筑区の天気を教えてください。	general,attraction,weather,taxi
+4421	7	SYSTEM	お待たせ致しました。当日の天気は曇時々晴でございます。	general,attraction,weather,taxi
+4421	8	USER	わかりました。あと、ジャンボタクシーを利用したいのですが、キャッシュレス払いができるようなところはないですか？	general,attraction,weather,taxi
+4421	9	SYSTEM	かしこまりました。それでは株式会社グリーンキャブはいかがでしょうか？	general,attraction,weather,taxi
+4421	10	USER	そちらの電話番号を教えてください。	general,attraction,weather,taxi
+4421	11	SYSTEM	はい、電話番号は0456638181でございます。	general,attraction,weather,taxi
+4421	12	USER	了解です。3/25の10:00に予約をお願いします。道のりはごう 大倉山店から横浜・八景島シーパラダイスまでです。	general,attraction,weather,taxi
+4421	13	SYSTEM	お待たせ致しました。予約番号9687でお取りさせていただきました。	general,attraction,weather,taxi
+4421	14	USER	ありがとうございました。もういいです。	general,attraction,weather,taxi
+4421	15	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,weather,taxi

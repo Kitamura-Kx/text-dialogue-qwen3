@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1774	0	USER	こんにちは。福岡へ旅行予定で、西日本自動車（株）というタクシー会社を探していますが、その名前のタクシー会社はありますか？	general,taxi,weather
+1774	1	SYSTEM	はい、ジャンボタクシーには対応しておりますが、キャッシュレスへの対応は不明です。電話番号は、0570075678となります。	general,taxi,weather
+1774	2	USER	そうですか、ありがとうございます。では7/30の11:40で、アサヒビール博多工場から紀伊國屋書店 福岡本店までで、予約をお願いします。	general,taxi,weather
+1774	3	SYSTEM	申し訳ありません。この条件では予約ができませんでした。いかが致しましょう？	general,taxi,weather
+1774	4	USER	そうなんですね、では12:20だとどうでしょうか？	general,taxi,weather
+1774	5	SYSTEM	予約が可能になりまして、ご予約番号は、4277となります。	general,taxi,weather
+1774	6	USER	ありがとうございます。それと、7/30の早良区の天気はどんな具合でしょうか？	general,taxi,weather
+1774	7	SYSTEM	天気は曇時々晴、最低気温26度、最高気温26.6度となります。	general,taxi,weather
+1774	8	USER	ありがとうございます。これでお尋ねしたいことは全部です。ありがとうございました。	general,taxi,weather
+1774	9	SYSTEM	ありがとうございました。	general,taxi,weather

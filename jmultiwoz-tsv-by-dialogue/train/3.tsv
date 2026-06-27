@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3	0	USER	こんにちは。今度、京都旅行を計画しているので、当日食事ができる飲食店についてお伺いしたいです。	general,restaurant,taxi
+3	1	SYSTEM	こんにちは。京都の飲食店ですね。100件ほどあるのですが、ご希望の条件などはありますか？	general,restaurant,taxi
+3	2	USER	Wi-Fiが無料で利用できるところがいいのですが、ありますか？	general,restaurant,taxi
+3	3	SYSTEM	無料wifiのあるお店は3件ほどあります。スペインバル Ternuraがオススメですよ。	general,restaurant,taxi
+3	4	USER	ありがとうございます。そちらのお店を検討したいのですが、食事の値段帯としてはどのくらいになりますか？	general,restaurant,taxi
+3	5	SYSTEM	はい、スペインバル Ternuraは、お安めな料金設定ですので、気軽にお食事いただけるかと思います。	general,restaurant,taxi
+3	6	USER	具体的にいくらくらいかかるかというのは、わかりますか？	general,restaurant,taxi
+3	7	SYSTEM	はい、たとえばランチですと、Paellaパエリア950円、単品ですと、おまかせピンチョス４本立て990円などがございます。	general,restaurant,taxi
+3	8	USER	そうなんですね。わかりました。それでは、そちらに決めようかと思います。	general,restaurant,taxi
+3	9	SYSTEM	ありがとうございます。他にご用件はございますか？	general,restaurant,taxi
+3	10	USER	あと、タクシー会社を探しているのですが、ジャンボタクシーを使えて、キャッシュレス払いができるところはありますか？	general,restaurant,taxi
+3	11	SYSTEM	はい、キャッシュレス対応のジャンボタクシーですね。ご利用予定の都市やエリアはお決まりですか？	general,restaurant,taxi
+3	12	USER	出発地は<ホテル エムズ・エスト七条>なんですけど、そこから先ほどの飲食店まで行けるタクシー会社はありますか？	general,restaurant,taxi
+3	13	SYSTEM	失礼いたしました。京都でご利用予定ですね。エムケイ株式会社はいかがでしょうか。	general,restaurant,taxi
+3	14	USER	ありがとうございます。それではそちらのタクシー会社に決めようと思います。電話番号を伺ってもよろしいですか？	general,restaurant,taxi
+3	15	SYSTEM	はい、エムケイ株式会社の電話番号は、0757784141です	general,restaurant,taxi
+3	16	USER	ありがとうございます。そちらのタクシーの予約をしたいのですが、3月22日の10時40分でお願いします。	general,restaurant,taxi
+3	17	SYSTEM	かしこまりました。3月22日10時40分、エムケイ株式会社にて出発地ホテル エムズ・エスト七条、目的地スペインバル Ternuraでご予約お取りしました。予約番号は48779となります。	general,restaurant,taxi
+3	18	USER	わかりました。ありがとうございます。	general,restaurant,taxi
+3	19	SYSTEM	ご予約ありがとうございます。ほかに何か、ご不明な点やご用件などはございますでしょうか？	general,restaurant,taxi
+3	20	USER	大丈夫です。ありがとうございました。	general,restaurant,taxi
+3	21	SYSTEM	こちらこそ、ありがとうございました。またのご利用をお待ちしております。	general,restaurant,taxi

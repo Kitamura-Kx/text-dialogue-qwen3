@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1306	0	USER	こんにちは。横浜へ行きますので、観光名所を探しています。	general,attraction
+1306	1	SYSTEM	ご利用ありがとうございます。お探しのエリアなどは、お決まりでしょうか？	general,attraction
+1306	2	USER	エリアは特に希望はありませんが、駐車場とwi-fiが無料のところがありがたいです。	general,attraction
+1306	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction
+1306	4	USER	そうですか。でしたらwi-fiはなくても大丈夫です。それでしたら、どこかよいところはありますか？	general,attraction
+1306	5	SYSTEM	はい、12件ほどご案内可能です。例えば、キリンビール 横浜工場などは、いかがでしょうか？	general,attraction
+1306	6	USER	そこは子供も入れますか？	general,attraction
+1306	7	SYSTEM	はい。お子様も大人も入場料は0円で無料となっております。	general,attraction
+1306	8	USER	ありがとうございます。大人の入場料はおいくらでしょうか？	general,attraction
+1306	9	SYSTEM	大人入場料も、0円で無料でございます。	general,attraction
+1306	10	USER	ごめんなさい、両方おっしゃってくださっていましたね。失礼いたしました。ぜひそこへ行ってみたいと思います。ありがとうございました。	general,attraction
+1306	11	SYSTEM	他になにかお調べすることはございますか？	general,attraction
+1306	12	USER	いえ、大丈夫です。ありがとうございました。	general,attraction
+1306	13	SYSTEM	承知いたしました。ご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,attraction
+1306	14	USER		general,attraction

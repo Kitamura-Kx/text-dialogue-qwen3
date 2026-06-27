@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+659	0	USER	京都への旅行を計画していますが、観光名所を教えてください。	general,attraction,taxi,weather
+659	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction,taxi,weather
+659	2	USER	Wi-Fiが無料で利用できるところで、地区は左京区です。	general,attraction,taxi,weather
+659	3	SYSTEM	では、国立京都国際会館はいかがでしょうか？	general,attraction,taxi,weather
+659	4	USER	そこの電話番号、ジャンルは何ですか？	general,attraction,taxi,weather
+659	5	SYSTEM	電話番号は、0757051218です。ジャンルは、コンサート・ショーとなっております。	general,attraction,taxi,weather
+659	6	USER	では当日利用できるタクシー会社を探してください。	general,attraction,taxi,weather
+659	7	SYSTEM	かしこまりました。株式会社キャビックというところはいかがでしょうか？	general,attraction,taxi,weather
+659	8	USER	そこはジャンボタクシーが利用できますか？	general,attraction,taxi,weather
+659	9	SYSTEM	はい、ご利用可能です。	general,attraction,taxi,weather
+659	10	USER	では、そのタクシー会社の電話番号を教えてください。	general,attraction,taxi,weather
+659	11	SYSTEM	電話番号は、0758642100です。ご予約もなさいますか？	general,attraction,taxi,weather
+659	12	USER	そうですね。予約をお願いします。日付は8/14、時間は12:00、出発地はステーキ花郷 祇園店で、目的地は国立京都国際会館です。	general,attraction,taxi,weather
+659	13	SYSTEM	かしこまりました。予約が完了いたしました。ご予約番号は、49747でございます。	general,attraction,taxi,weather
+659	14	USER	あと、西京区の8/14の最低気温，天気を教えてください。	general,attraction,taxi,weather
+659	15	SYSTEM	最低気温は、22度の予想です。天気は、曇の予報となっております。	general,attraction,taxi,weather
+659	16	USER	ありがとうございます。助かりました。	general,attraction,taxi,weather
+659	17	SYSTEM	他にお調べすることはございますか？	general,attraction,taxi,weather
+659	18	USER	大丈夫です。他にはありません。	general,attraction,taxi,weather
+659	19	SYSTEM	承知しました。ではまたのご利用をお待ちしております。	general,attraction,taxi,weather

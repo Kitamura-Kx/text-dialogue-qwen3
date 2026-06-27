@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4404	0	USER	東京へ旅行にいきたいので、安めのWi-Fiが無料で使える飲食店を探してください。	general,restaurant,weather
+4404	1	SYSTEM	かしこまりました。それでは土風炉 大井町店はいかがでしょうか？	general,restaurant,weather
+4404	2	USER	そこにします。そちらの店のジャンルとあるリア、電話番号を調べてください。	general,restaurant,weather
+4404	3	SYSTEM	はい、ジャンルは居酒屋, 和食, 寿司・魚料理でして、エリアは品川区、電話番号は0357832262でございます。	general,restaurant,weather
+4404	4	USER	わかりました。あと、2/18の文京区の最高気温を教えてください。	general,restaurant,weather
+4404	5	SYSTEM	お待たせ致しました。当日の最高気温は14.7度でございます。	general,restaurant,weather
+4404	6	USER	ありがとうございました。	general,restaurant,weather
+4404	7	SYSTEM	ありませんでした。その他にご用件はございますか？	general,restaurant,weather
+4404	8	USER	はい、もう大丈夫です。	general,restaurant,weather
+4404	9	SYSTEM	ありませんでした。またお待ちしております。	general,restaurant,weather

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1825	0	USER	仙台への旅行を計画中なのですが、泉区でWiFiが無料の宿泊施設はありますか？	general,hotel,shopping,attraction
+1825	1	SYSTEM	かしこまりました。では、スマイルホテル仙台泉インターはいかがでしょうか？	general,hotel,shopping,attraction
+1825	2	USER	最寄駅からどれくらいかかりますか？	general,hotel,shopping,attraction
+1825	3	SYSTEM	はい。最寄り駅の泉中央駅からタクシーで10分になります。	general,hotel,shopping,attraction
+1825	4	USER	それでは「スマイルホテル仙台泉インター」で宿泊予約をお願いします。2/28から2泊、3人での利用です。	general,hotel,shopping,attraction
+1825	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、8173です。	general,hotel,shopping,attraction
+1825	6	USER	当日は買い物もしたいのですが、宮城野区でWiFi無料の店舗はありますか？	general,hotel,shopping,attraction
+1825	7	SYSTEM	申し訳ありません。お調べする買い物の店舗は、宮城野区のWiFi無料の店舗で間違いないですか？	general,hotel,shopping,attraction
+1825	8	USER	失礼しましたWiFiではなく駐車場無料です。お願いします。	general,hotel,shopping,attraction
+1825	9	SYSTEM	かしこまりました。では、ヨドバシカメラマルチメディア仙台はいかがでしょうか？ジャンルは家電・電化製品, おもちゃになります。	general,hotel,shopping,attraction
+1825	10	USER	最寄り駅からはどれくらいかかりますか？	general,hotel,shopping,attraction
+1825	11	SYSTEM	はい。最寄りの仙台駅から徒歩で1分になります。	general,hotel,shopping,attraction
+1825	12	USER	それでは住所と電話番号もお願いします。	general,hotel,shopping,attraction
+1825	13	SYSTEM	かしこまりました。住所は宮城県仙台市宮城野区榴岡1丁目2番13号で、電話番号は0222951010でございます。	general,hotel,shopping,attraction
+1825	14	USER	あとは青葉区で駐車場が無料の観光名所があれば教えて下さい。	general,hotel,shopping,attraction
+1825	15	SYSTEM	かしこまりました。では、東北大学植物園はいかがでしょうか？	general,hotel,shopping,attraction
+1825	16	USER	「東北大学植物園」の最寄駅からの所要時間と営業時間を教えて下さい。	general,hotel,shopping,attraction
+1825	17	SYSTEM	はい。最寄り駅である国際センター駅からの所要時間は徒歩で12分になります。同じく川内駅からも徒歩で12分です。営業時間は09:00～17:00でございます。	general,hotel,shopping,attraction
+1825	18	USER	あとは大丈夫です、有難うございました。	general,hotel,shopping,attraction
+1825	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,attraction

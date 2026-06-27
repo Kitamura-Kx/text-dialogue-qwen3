@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2014	0	USER	那覇で、無料Wi-Fiが利用できて、レストランのある泊まれるところを探してもらえますか？	general,hotel,restaurant,weather
+2014	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,restaurant,weather
+2014	2	USER	だったら、レストランはなくてもいいです。どこかありますか？	general,hotel,restaurant,weather
+2014	3	SYSTEM	かしこまりました。では、旅の宿 らくちんはいかがでしょうか？	general,hotel,restaurant,weather
+2014	4	USER	ありがとうございます。そちらの住所を教えてもらえますか？	general,hotel,restaurant,weather
+2014	5	SYSTEM	はい。住所は沖縄県那覇市辻1丁目13-8です。	general,hotel,restaurant,weather
+2014	6	USER	値段帯も教えて下さい。	general,hotel,restaurant,weather
+2014	7	SYSTEM	はい。値段帯は安めとなっております。	general,hotel,restaurant,weather
+2014	8	USER	ありがとうございます。１０月５日から３泊で、人数４人でそちらを予約できますでしょうか？	general,hotel,restaurant,weather
+2014	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、8121です。	general,hotel,restaurant,weather
+2014	10	USER	ありがとうございます。当日、焼肉かホルモンを食べたいのですが、駐車場が無料のお店探してもらえますか？	general,hotel,restaurant,weather
+2014	11	SYSTEM	かしこまりました。では、焼肉工房 團はいかがでしょうか？	general,hotel,restaurant,weather
+2014	12	USER	そちらの定休日と近くの駅からどのくらいかかるか教えて下さい。	general,hotel,restaurant,weather
+2014	13	SYSTEM	はい。定休日は火曜日です。近辺の駅からの所要時間は、奥武山公園駅から徒歩で13分になります。	general,hotel,restaurant,weather
+2014	14	USER	ありがとうございます。そちらに行きたいので予約お願いできますか？	general,hotel,restaurant,weather
+2014	15	SYSTEM	はい。詳細な情報をお伺いしていいですか？	general,hotel,restaurant,weather
+2014	16	USER	１０月５日の15:10に３人でお願いします。	general,hotel,restaurant,weather
+2014	17	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか	general,hotel,restaurant,weather
+2014	18	USER	人数を２人にしたらどうでしょうか？	general,hotel,restaurant,weather
+2014	19	SYSTEM	かしこまりました。ご予約承りました。予約番号は、52364です。	general,hotel,restaurant,weather
+2014	20	USER	ありがとうございます。１０月５日の小禄地区の最高気温も教えてもらえないでしょうか？	general,hotel,restaurant,weather
+2014	21	SYSTEM	かしこまりました。10/5の小禄の天気予報は晴のち曇となっております。最高気温は30.8度になる予報です。	general,hotel,restaurant,weather
+2014	22	USER	ありがとうございます。	general,hotel,restaurant,weather
+2014	23	SYSTEM	他にご用件はありますか？	general,hotel,restaurant,weather
+2014	24	USER	大丈夫です。ありがとうございました。	general,hotel,restaurant,weather
+2014	25	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,weather

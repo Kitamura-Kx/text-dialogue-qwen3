@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+875	0	USER	東京へ旅行に行くのですが、キャッシュレス対応可能なタクシー会社はありますか？	general,taxi
+875	1	SYSTEM	はい、20件ほどございます。たとえば、昭栄自動車はいかがでしょうか？	general,taxi
+875	2	USER	昭栄自動車はジャンボタクシー対応可能でしょうか？	general,taxi
+875	3	SYSTEM	はい、対応しております。	general,taxi
+875	4	USER	それでは予約をお願いします。12月14日11:30「アクアシティお台場」から「厲家菜 銀座」までお願いします。	general,taxi
+875	5	SYSTEM	かしこまりました。予約番号75011にて、ご予約承りました。	general,taxi
+875	6	USER	有難うございました	general,taxi
+875	7	SYSTEM	ほかになにかお調べすることはございますか？	general,taxi
+875	8	USER	いえ大丈夫です、有難うございました	general,taxi
+875	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

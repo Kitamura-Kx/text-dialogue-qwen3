@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1670	0	USER	仙台へ旅行予定なのですが、宿泊施設を調べてもらえますか？	general,hotel,shopping,weather
+1670	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,shopping,weather
+1670	2	USER	はい。宮城野区にあって、最寄り駅が愛子駅のところがいいです。あと、駐車場を無料で利用できるところ希望です。	general,hotel,shopping,weather
+1670	3	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,hotel,shopping,weather
+1670	4	USER	わかりました。では、最寄り駅が愛子駅でなくても大丈夫です。	general,hotel,shopping,weather
+1670	5	SYSTEM	ではオレンジ・イン仙台東はいかがでしょうか。	general,hotel,shopping,weather
+1670	6	USER	いいですね。住所と料金情報。あと、レストランがあるかどうか教えてください。	general,hotel,shopping,weather
+1670	7	SYSTEM	住所は宮城県仙台市宮城野区東仙台3丁目12-47、値段帯は安めで詳しい料金情報はわかりかねます。レストランは併設されております。	general,hotel,shopping,weather
+1670	8	USER	了解です。買い物できるところも探しているのですが、最寄り駅が八乙女駅で、無料駐車場がある店を調べてください。	general,hotel,shopping,weather
+1670	9	SYSTEM	かしこまりました。ではスポーツデポ 仙台泉店はいかがでしょうか。	general,hotel,shopping,weather
+1670	10	USER	そこにします。電話番号を教えてください。	general,hotel,shopping,weather
+1670	11	SYSTEM	電話番号は0227763981でございます。	general,hotel,shopping,weather
+1670	12	USER	わかりました。あと、6/22の青葉区の天気も知りたいです。	general,hotel,shopping,weather
+1670	13	SYSTEM	6/22の青葉区の天気は晴れでございます。	general,hotel,shopping,weather
+1670	14	USER	わかりました。ありがとうございます。	general,hotel,shopping,weather
+1670	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,weather

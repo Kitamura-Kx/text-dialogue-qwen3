@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+232	0	USER	大阪への旅行を計画中のため、飲食店を探しています。	general,restaurant
+232	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+232	2	USER	予算は普通で無料でWi-Fiが利用できるお店がいいのですが、どこかいいお店はありますか？	general,restaurant
+232	3	SYSTEM	tresというお店はいかがでしょうか。	general,restaurant
+232	4	USER	そこにしようと思います。営業時間を教えてください。	general,restaurant
+232	5	SYSTEM	営業時間は17:00～05:00となっております。	general,restaurant
+232	6	USER	ありがとうございます。あと近辺の駅からの所要時間も教えてください。	general,restaurant
+232	7	SYSTEM	なんば駅から徒歩で3分、心斎橋駅から徒歩で3分でございます。	general,restaurant
+232	8	USER	ありがとうございます。	general,restaurant
+232	9	SYSTEM	ほかにご用件はございますか。	general,restaurant
+232	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant
+232	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3546	0	USER	横浜で利用できるタクシー会社を探しています。キャッシュレス払いできるところが希望です。	general,taxi
+3546	1	SYSTEM	かしこまりました。株式会社グリーンキャブがございます。	general,taxi
+3546	2	USER	電話番号，ジャンボタクシー対応を教えてください。	general,taxi
+3546	3	SYSTEM	電話番号は0456638181でございます。ジャンボタクシーにも対応しております。	general,taxi
+3546	4	USER	では予約してください。日付は8/14、時間は11:40です。出発地は大阪こなもん酒場 たこやき番長、目的地は横浜DRAセブンでお願いします。	general,taxi
+3546	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は45573でございます。	general,taxi
+3546	6	USER	対応ありがとうございました。	general,taxi
+3546	7	SYSTEM	ありがとうございました。	general,taxi

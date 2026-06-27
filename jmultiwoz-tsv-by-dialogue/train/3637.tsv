@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3637	0	USER	東京へ旅行しようと思っています。文房具と雑貨を買える、駐車場が無料のところはありますか？	general,shopping,taxi
+3637	1	SYSTEM	東京で駐車場無料の文具雑貨の店はいくつかありますが、ポケモンセンターメガトウキョー、こちらをお勧めします。	general,shopping,taxi
+3637	2	USER	最寄り駅を教えてください。	general,shopping,taxi
+3637	3	SYSTEM	東池袋駅です。	general,shopping,taxi
+3637	4	USER	住所はわかりますか？	general,shopping,taxi
+3637	5	SYSTEM	東京都豊島区東池袋3丁目1-2 サンシャインシティ 専門店街アルパ 2Fです。	general,shopping,taxi
+3637	6	USER	当日、ジャンボタクシーが利用できるタクシー会社も探しています。	general,shopping,taxi
+3637	7	SYSTEM	小田急交通南多摩をオススメします。	general,shopping,taxi
+3637	8	USER	では、そちらで1月13日に和食と和酒 磯じまんというところから教えていただいたポケモンセンターまで予約をお願いします。時間は14時50分です。	general,shopping,taxi
+3637	9	SYSTEM	予約成功しました。予約番号は96545です。	general,shopping,taxi
+3637	10	USER	ありがとうございました。	general,shopping,taxi

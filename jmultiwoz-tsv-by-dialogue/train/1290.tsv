@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1290	0	USER	札幌への旅行を計画しているのですが、どこか買い物ができるところはありますでしょうか？	general,shopping
+1290	1	SYSTEM	本日はご利用ありがとうございます。お買い物のジャンルやエリアなど、何かご希望はございますか？	general,shopping
+1290	2	USER	南区で、駐車場を無料で利用できるところがいいと思っております。	general,shopping
+1290	3	SYSTEM	では、ジェラート札幌果林樹という食料品のお店はいかがでしょうか？	general,shopping
+1290	4	USER	ありがとうございます、ではそこに行きたいと思います。そのお店の電話番号を教えていただけますか？	general,shopping
+1290	5	SYSTEM	かしこまりました。電話番号は、0115925151でございます。	general,shopping
+1290	6	USER	ありがとうございます。お聞きしたい事は以上になります。丁寧なご対応ありがとうございました。	general,shopping
+1290	7	SYSTEM	ほかにお手伝いできることはございませんか？	general,shopping
+1290	8	USER	他にはございません。ありがとうございました。	general,shopping
+1290	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

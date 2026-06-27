@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+850	0	USER	大阪の飲食店で、Wi-Fiが無料で使えるお店はありますか？	general,restaurant,taxi
+850	1	SYSTEM	はい、15件ほどご案内可能です。他にご希望の条件など、ございませんでしょうか？	general,restaurant,taxi
+850	2	USER	できれば港区で、イタリアン・フレンチ料理のお店が良いです。	general,restaurant,taxi
+850	3	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,restaurant,taxi
+850	4	USER	イタリアン・フレンチのお店は、他の地区にはありますか？	general,restaurant,taxi
+850	5	SYSTEM	はい、4件ほどございます。たとえば、世界のワイン博物館 グランフロント大阪店というお店が北区エリアにありますが、いかがでしょうか？	general,restaurant,taxi
+850	6	USER	よさそうですね。ではそちらのお店の電話番号を教えてください。	general,restaurant,taxi
+850	7	SYSTEM	電話番号は、0663716978でございます。	general,restaurant,taxi
+850	8	USER	住所もわかりますか？	general,restaurant,taxi
+850	9	SYSTEM	住所は、大阪府大阪市北区大深町3-1 グランフロント大阪 ショップ＆レストラン 北館 B1Fです。	general,restaurant,taxi
+850	10	USER	5/25 10:40に、４名で予約をお願いします。	general,restaurant,taxi
+850	11	SYSTEM	かしこまりました。予約を完了いたしました。ご予約番号は、4161です。	general,restaurant,taxi
+850	12	USER	ありがとうございます。あとタクシーを予約したいのですが、キャッシュレス対応で、ジャンボタクシーがあるところはありますか？	general,restaurant,taxi
+850	13	SYSTEM	はい、10件ほどご案内可能です。たとえば、近鉄タクシー株式会社というところはいかがでしょうか？	general,restaurant,taxi
+850	14	USER	そちらのタクシー会社の電話番号を教えてください。	general,restaurant,taxi
+850	15	SYSTEM	電話番号は、0570069001でございます。ご予約もなさいますか？	general,restaurant,taxi
+850	16	USER	はい。5/25 9:30にstructまでお願いします。目的地は、世界のワイン博物館 グランフロント大阪店です。	general,restaurant,taxi
+850	17	SYSTEM	かしこまりました。struct発、世界のワイン博物館 グランフロント大阪店着でご予約完了いたしました。予約番号は、38105です。	general,restaurant,taxi
+850	18	USER	今回依頼したいことは以上です。ありがとうございました。	general,restaurant,taxi
+850	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,taxi

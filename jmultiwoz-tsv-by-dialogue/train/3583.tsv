@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3583	0	USER	東京への旅行を計画しているのですが、予算が安めな墨田区のビジネスホテルを教えてください。	general,hotel
+3583	1	SYSTEM	かしこまりました。では、ロッテシティホテル錦糸町はいかがでしょうか。	general,hotel
+3583	2	USER	いいですね。そのホテルの近辺の駅からの所要時間、住所、料金情報も教えていただけますか？	general,hotel
+3583	3	SYSTEM	錦糸町駅から徒歩で1分、住所は東京都墨田区錦糸4丁目6-1でございます。予算は安めですが、詳しい料金情報についてはわかりかねます。	general,hotel
+3583	4	USER	ありがとうございます。ではそのホテルで、人数3人、日付は9/3で、宿泊日数は2泊で予約をお願いします。	general,hotel
+3583	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は69722でございます。	general,hotel
+3583	6	USER	ありがとうございます。	general,hotel
+3583	7	SYSTEM	ほかにご用件はございませんか。	general,hotel
+3583	8	USER	いえ、大丈夫です。案内ありがとうございました。	general,hotel
+3583	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

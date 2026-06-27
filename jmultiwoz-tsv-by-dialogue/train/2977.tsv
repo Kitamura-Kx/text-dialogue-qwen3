@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2977	0	USER	京都へ旅行に行くので南区で駐車場が無料で買い物ができる施設はありますか？	general,shopping,restaurant,hotel
+2977	1	SYSTEM	南区に駐車場無料の買い物スポットはなさそうです。	general,shopping,restaurant,hotel
+2977	2	USER	では下京区だとどうでしょう？	general,shopping,restaurant,hotel
+2977	3	SYSTEM	いくつかありますが、京都らしく、京扇堂をおすすめします。	general,shopping,restaurant,hotel
+2977	4	USER	わかりました。定休日を教えて貰えますか？	general,shopping,restaurant,hotel
+2977	5	SYSTEM	年末年始が定休日です。	general,shopping,restaurant,hotel
+2977	6	USER	分かりました。あと予算が高めの郷土料理が食べられるお店はありますか？駐車場が無料でできるところがいいです	general,shopping,restaurant,hotel
+2977	7	SYSTEM	全ての条件を満たす店はなさそうです。	general,shopping,restaurant,hotel
+2977	8	USER	わかりました。そうしましたら郷土料理でなくてもOKです	general,shopping,restaurant,hotel
+2977	9	SYSTEM	予算高めで駐車場ありならば、加賀屋 京都店、こちらをオススメします。	general,shopping,restaurant,hotel
+2977	10	USER	営業時間を教えて貰えますか？	general,shopping,restaurant,hotel
+2977	11	SYSTEM	昼１１時から３時半、夜は５時から１１時までです。	general,shopping,restaurant,hotel
+2977	12	USER	わかりました。あと安めでWi-Fiが無料で利用できる宿泊施設を探しています	general,shopping,restaurant,hotel
+2977	13	SYSTEM	京都で安めのWiFi無料の宿泊施設は９２件ヒットしますが、ロイヤルツインホテル京都八条口、こちらをお勧めします。	general,shopping,restaurant,hotel
+2977	14	USER	チェックイン開始時刻と電話番号を教えて貰えますか？	general,shopping,restaurant,hotel
+2977	15	SYSTEM	１５時チェックイン、電話は0756815678になります。	general,shopping,restaurant,hotel
+2977	16	USER	了解です！ありがとうございました	general,shopping,restaurant,hotel
+2977	17	SYSTEM	よい旅を	general,shopping,restaurant,hotel

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3826	0	USER	京都へ旅行を計画をしているのですが、西京区で無料駐車場が利用できる観光名所はありますか？	general,attraction,taxi
+3826	1	SYSTEM	1件みつかりました。桂坂野鳥遊園はいかがですか？	general,attraction,taxi
+3826	2	USER	そちらは定休日はいつですか？	general,attraction,taxi
+3826	3	SYSTEM	定休日月曜、火曜、年末年始です。	general,attraction,taxi
+3826	4	USER	わかりました。ありがとうございます。	general,attraction,taxi
+3826	5	SYSTEM	他にご用件はありますか？	general,attraction,taxi
+3826	6	USER	では、ジャンボタクシーが利用できるタクシー会社を探してください。キャッシュレス払いができるところがいいです。	general,attraction,taxi
+3826	7	SYSTEM	それでしたら、京都相互タクシー株式会社はいかがですか？	general,attraction,taxi
+3826	8	USER	そちらの電話番号はわかりますか？	general,attraction,taxi
+3826	9	SYSTEM	電話番号は、0758623000です。	general,attraction,taxi
+3826	10	USER	ありがとうございます。そちらで予約をお願いします。10/7の10:00に桂坂野鳥遊園を出発で、紡 堀川吉文字までお願いします。	general,attraction,taxi
+3826	11	SYSTEM	予約出来ました。予約番号は、50371です。	general,attraction,taxi
+3826	12	USER	ありがとうございます。	general,attraction,taxi
+3826	13	SYSTEM	他にご用件はありますか？	general,attraction,taxi
+3826	14	USER	特にありません。ありがとうございました。	general,attraction,taxi
+3826	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi

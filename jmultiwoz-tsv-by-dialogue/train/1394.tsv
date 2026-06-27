@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1394	0	USER	こんばんは。大阪旅行に行きたいのですが、ご飯を食べられるお店を探して下さい。北区の大阪梅田駅付近でWi-Fiが無料で使える所でお願いします。	general,restaurant
+1394	1	SYSTEM	炭火焼dining おかげ家 梅田店は、いかがでしょうか？	general,restaurant
+1394	2	USER	炭火焼dining おかげ家 梅田店さんはどのようなジャンルのお店なのですか？	general,restaurant
+1394	3	SYSTEM	ジャンルは、居酒屋, 焼肉・ホルモン, 鍋になります。	general,restaurant
+1394	4	USER	なるほど。ちなみに何時から何時まで営業していますか？	general,restaurant
+1394	5	SYSTEM	営業時間は、11:00～15:00、16:00～00:00になります。	general,restaurant
+1394	6	USER	教えて下さりありがとうございます。こちらのお店で予約をお願いします。3/27の10:40、2人で利用をしたいです。	general,restaurant
+1394	7	SYSTEM	予約が完了しました。　予約番号は、54891です。	general,restaurant
+1394	8	USER	予約して下さりありがとうございました。	general,restaurant

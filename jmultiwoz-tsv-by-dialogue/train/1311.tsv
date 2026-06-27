@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1311	0	USER	こんにちは。東京の杉並区へ旅行予定なのですが、お土産を買えるところを探しています。	general,shopping,taxi
+1311	1	SYSTEM	ご利用ありがとうございます。申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,taxi
+1311	2	USER	そうなんですね、では千代田区ではどうでしょうか？	general,shopping,taxi
+1311	3	SYSTEM	ありがとうございます。そういたしますと、北海道どさんこプラザ有楽町店というお店が1件ご案内可能です。いかがでしょうか？	general,shopping,taxi
+1311	4	USER	ありがとうございます、当日タクシーを使いたいので、タクシー会社も探してもらえますか？キャッシュレス払いができるところが希望です。	general,shopping,taxi
+1311	5	SYSTEM	かしこまりました。では、昭栄自動車はいかがでしょうか？こちらでしたら、ジャンボタクシーもご利用いただけます。	general,shopping,taxi
+1311	6	USER	ありがとうございます。そちらの電話番号を教えてください。	general,shopping,taxi
+1311	7	SYSTEM	はい。電話番号は、0357552151です。ご予約もなさいますか？	general,shopping,taxi
+1311	8	USER	お願いしたいです。8/18の10:30に銀座三越乗車で、先ほどの北海道どさんこプラザ有楽町店へ向かいます。	general,shopping,taxi
+1311	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、80118でございます。	general,shopping,taxi
+1311	10	USER	ありがとうございます。助かりました。	general,shopping,taxi
+1311	11	SYSTEM	他になにかお調べすることはございますか？	general,shopping,taxi
+1311	12	USER	今回はもう大丈夫です。	general,shopping,taxi
+1311	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,taxi

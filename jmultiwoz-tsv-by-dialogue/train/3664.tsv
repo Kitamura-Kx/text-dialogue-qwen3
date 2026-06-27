@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3664	0	USER	こんにちは。京都へ旅行しますので、観光名所を探していただけますか？Wi-Fiと駐車場が無料のところがあると助かります。	general,attraction,restaurant
+3664	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,restaurant
+3664	2	USER	そうですか。じゃあ駐車場は有料でも大丈夫なので、どこかありそうですか？	general,attraction,restaurant
+3664	3	SYSTEM	国立京都国際会館は、いかがでしょうか？	general,attraction,restaurant
+3664	4	USER	よいですね、行ってみます。そこは定休日はありますか？	general,attraction,restaurant
+3664	5	SYSTEM	定休日は、年末年始のみです。	general,attraction,restaurant
+3664	6	USER	ありがとうございます。それと当日どこかで食事もしたいのですけど、和食でお安めの所はどこかありますか？	general,attraction,restaurant
+3664	7	SYSTEM	京菜味のむら 烏丸本店は、いかがですか？	general,attraction,restaurant
+3664	8	USER	そちらは近辺の駅からどれくらいかかりますか？あと定休日もあれば教えていただきたいです。	general,attraction,restaurant
+3664	9	SYSTEM	所要時間は、烏丸駅から徒歩で4分です。　定休日は、無しとなっています。	general,attraction,restaurant
+3664	10	USER	ありがとうございます。そこの予約をお願いしたいです。11/18の13:30からで、3名でお願いします。	general,attraction,restaurant
+3664	11	SYSTEM	予約が完了しました。　予約番号は、30795です。	general,attraction,restaurant
+3664	12	USER	色々ありがとうございました。助かりました。	general,attraction,restaurant
+3664	13	SYSTEM	他にご用件はありますか？	general,attraction,restaurant
+3664	14	USER	いえ、これで大丈夫です。	general,attraction,restaurant
+3664	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant

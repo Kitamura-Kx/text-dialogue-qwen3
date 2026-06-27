@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4191	0	USER	福岡へ行くのですが、西区周辺でWi-Fiが無料な食事できる場所探して下さい。予算は普通でお願いします。	general,restaurant,weather,taxi
+4191	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。どうされますか？	general,restaurant,weather,taxi
+4191	2	USER	西区じゃなくてもいいです＞	general,restaurant,weather,taxi
+4191	3	SYSTEM	では、月まる海 大橋店　こちらはいかがですか？	general,restaurant,weather,taxi
+4191	4	USER	行ってみます。1月7日の中央区の最高気温はどのくらいですか？	general,restaurant,weather,taxi
+4191	5	SYSTEM	その日の最高気温は、16.9度となっています。	general,restaurant,weather,taxi
+4191	6	USER	ありがとうございます。当日、キャッシュレス払いでタクシーを利用したいので、予約お願いします。	general,restaurant,weather,taxi
+4191	7	SYSTEM	それでは、五十川タクシー（有）はいかがでしょうか？　ご希望の日時と目的地などお願いします。	general,restaurant,weather,taxi
+4191	8	USER	電話番号も教えていただいてもいいですか？1月7日の13時40分で、月まる海 大橋店からManlyまでお願いします。	general,restaurant,weather,taxi
+4191	9	SYSTEM	電話番号は、0925012525です。　あと申し訳ありません。　その条件では、予約出来ないようですがどうされますか？	general,restaurant,weather,taxi
+4191	10	USER	では、時間を14時30分でとれますか？	general,restaurant,weather,taxi
+4191	11	SYSTEM	はい、14時30分ですね　予約出来ました。予約番号は、17536です。	general,restaurant,weather,taxi
+4191	12	USER	ありがとうございます。お世話様でした。	general,restaurant,weather,taxi
+4191	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather,taxi

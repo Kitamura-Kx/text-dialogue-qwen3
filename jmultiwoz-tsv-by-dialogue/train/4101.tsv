@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4101	0	USER	福岡へ旅行に行きたく、香椎神宮駅近辺で観光名所を探してほしいです。できれば無料の駐車場が利用できるところでお願いします。	general,attraction,hotel,weather
+4101	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction,hotel,weather
+4101	2	USER	それでは、吉塚駅近辺で再度探してもらえますか？	general,attraction,hotel,weather
+4101	3	SYSTEM	かしこまりました。それでしたら博多の食と文化の博物館ハクハクがございます。	general,attraction,hotel,weather
+4101	4	USER	そちらの料金情報を教えてください。	general,attraction,hotel,weather
+4101	5	SYSTEM	はい、料金情報は大人(中学生以上)が300円、小学生以下が無料でございます。	general,attraction,hotel,weather
+4101	6	USER	ありがとうございます。次に当日泊まれる宿泊施設を探してください。ベッドハウス・山小屋・カプセルホテル等の簡易宿所で無料のWi-Fiが利用できるところでお願いします。	general,attraction,hotel,weather
+4101	7	SYSTEM	かしこまりました。それではげすとはうす中今はいかがでしょうか？	general,attraction,hotel,weather
+4101	8	USER	そちらの料金情報とレストランの有無を教えてください。	general,attraction,hotel,weather
+4101	9	SYSTEM	申し訳ありません。値段帯は安めですが、料金情報は分かりません。レストランはございません。	general,attraction,hotel,weather
+4101	10	USER	承知しました。最後に7/19の城南区の天候を調べてほしいです。最高気温も一緒に教えてください。	general,attraction,hotel,weather
+4101	11	SYSTEM	お待たせ致しました。当日の天気は雨のち晴、最高気温は32.4度でございます。	general,attraction,hotel,weather
+4101	12	USER	ありがとうございます。問い合わせは以上です。	general,attraction,hotel,weather
+4101	13	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,hotel,weather

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2139	0	USER	仙台に旅行を考えています。お買い物できる所を紹介してもらえないでしょうか？	general,shopping,weather,taxi
+2139	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,shopping,weather,taxi
+2139	2	USER	無料の駐車場が用意されていて、おもちゃが買える場所でお願いします。	general,shopping,weather,taxi
+2139	3	SYSTEM	かしこまりました。では、ホビーステーション 仙台駅前店はいかがでしょうか？	general,shopping,weather,taxi
+2139	4	USER	お調べ下さりありがとうございます。あと、旅行中の天気が気になるんです。5月30日の太白区はどんな感じでしょうか？	general,shopping,weather,taxi
+2139	5	SYSTEM	かしこまりました。5/30の太白区の天気予報は雨のち晴となっております。最低気温は16度、最高気温は21.1度になる予報です。	general,shopping,weather,taxi
+2139	6	USER	詳しくお調べ下さりありがとうございます。旅行中、タクシーを使って移動したいのですが、ジャンボタクシーが使える会社はありますか？	general,shopping,weather,taxi
+2139	7	SYSTEM	かしこまりました。では、仙南タクシー（株）はいかがでしょうか？	general,shopping,weather,taxi
+2139	8	USER	お調べ下さりありがとうございます。ではこちらの会社で予約をお願いできますか？	general,shopping,weather,taxi
+2139	9	SYSTEM	かしこまりました。出発時刻と、出発地と目的地はお決まりでしょうか？	general,shopping,weather,taxi
+2139	10	USER	5月30日の10時50分、出発地はどんぐりガーデン共和国 仙台一番町店で目的地はホビーステーション 仙台駅前店となります。	general,shopping,weather,taxi
+2139	11	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,shopping,weather,taxi
+2139	12	USER	そうですか。では時間を11時20分に遅らせるとどうでしょうか？	general,shopping,weather,taxi
+2139	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、4589です。	general,shopping,weather,taxi
+2139	14	USER	ご予約を取って下さりありがとうございました。とても助かりました。	general,shopping,weather,taxi

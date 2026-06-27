@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4142	0	USER	こんにちは、大阪旅行に行きたいと思っていますが、どの観光名所に行くべきでしょうか？	general,attraction,restaurant
+4142	1	SYSTEM	何かご希望はございますか？	general,attraction,restaurant
+4142	2	USER	うーん、できればWi-Fiを無料で使いたいです。	general,attraction,restaurant
+4142	3	SYSTEM	申し訳ありません、Wi-Fiを無料でご利用いただける観光名所はございません。いかが致しましょう？	general,attraction,restaurant
+4142	4	USER	じゃあ、別のところでもいいです。特にこだわりはないのでオススメを教えてください。	general,attraction,restaurant
+4142	5	SYSTEM	エリアでいうと此花区にある、舞洲スポーツアイランドはいかがでしょう？ジャンルは、スポーツ、フィットネスとなります。	general,attraction,restaurant
+4142	6	USER	そこにします。駐車場はありますか？	general,attraction,restaurant
+4142	7	SYSTEM	申し訳ありません、駐車場の有無は不明です。	general,attraction,restaurant
+4142	8	USER	そうですか、では定休日と料金だけ教えてくれますか？	general,attraction,restaurant
+4142	9	SYSTEM	申し訳ありません、入場料は大人、子供とも不明、料金情報としては、施設により異なる、となっております。定休日は年末年始となります。	general,attraction,restaurant
+4142	10	USER	じゃあ、その日に食事できる店についても知りたいです。居酒屋があればいいんですが。	general,attraction,restaurant
+4142	11	SYSTEM	エリアでいうと福島区にある、やきとり番長 福島店はいかがでしょう？	general,attraction,restaurant
+4142	12	USER	その店ではWi-Fiは無料で使えるんですか？	general,attraction,restaurant
+4142	13	SYSTEM	申し訳ありません、Wi-Fiの有無は不明となっております。条件に加えますか？	general,attraction,restaurant
+4142	14	USER	ぜひお願いします。	general,attraction,restaurant
+4142	15	SYSTEM	では、エリアでいうと福島区にある、オペレッタ52 福島店はいかがでしょう？	general,attraction,restaurant
+4142	16	USER	そこにしたいと思います。住所はわかりますか？	general,attraction,restaurant
+4142	17	SYSTEM	住所は大阪府大阪市福島区福島2丁目7-15 1Fとなります。	general,attraction,restaurant
+4142	18	USER	ありがとうございます。では、今予約も済ませてしまいたいです。1月16日の14時10分から、2人でお願いできますか？	general,attraction,restaurant
+4142	19	SYSTEM	承知しました。予約が完了し、ご予約番号は、94476となります。	general,attraction,restaurant
+4142	20	USER	ありがとうございます。助かりました！	general,attraction,restaurant

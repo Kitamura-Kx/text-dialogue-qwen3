@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4107	0	USER	仙台への旅行を計画しています。 当日買い物ができるところを探してください。	general,shopping,weather
+4107	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,weather
+4107	2	USER	地区は宮城野区、駐車場を無料で利用できるところにしてください。ジャンルはアウトレットモールが希望です。	general,shopping,weather
+4107	3	SYSTEM	では、三井アウトレットパーク 仙台港はいかがでしょう？	general,shopping,weather
+4107	4	USER	営業時間，最寄り駅，住所を教えてください。	general,shopping,weather
+4107	5	SYSTEM	営業時間は10時から20時、住所は宮城県仙台市宮城野区中野3丁目7-2となります。最寄りの中野栄駅から徒歩で8分です。	general,shopping,weather
+4107	6	USER	3/22の天気を教えてください。地区は宮城野区です。	general,shopping,weather
+4107	7	SYSTEM	はい、天気は曇のち雨、最低気温7.4度、最高気温10.9度となります。	general,shopping,weather
+4107	8	USER	解決しました。ありがとうございました。	general,shopping,weather

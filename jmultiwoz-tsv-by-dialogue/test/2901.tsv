@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2901	0	USER	今度、名古屋で文房具や雑貨の買い物をしたいと思っています。名古屋駅近くで良いお店を教えて下さい。	general,shopping
+2901	1	SYSTEM	名古屋駅近くの文房具・雑貨といえば、東急ハンズ名古屋店、こちら一択です。	general,shopping
+2901	2	USER	良さそうですね。営業時間を教えて下さい。それと、駐車場はありますか？	general,shopping
+2901	3	SYSTEM	朝１０時から夜８時まで、駐車場無料です。	general,shopping
+2901	4	USER	ありがとうございます。助かりました。それでは失礼します。	general,shopping

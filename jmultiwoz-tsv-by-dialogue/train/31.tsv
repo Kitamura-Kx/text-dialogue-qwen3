@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+31	0	USER	名古屋の観光名所を探してます。Wifiが無料で使える所が良いんですけど。	general,attraction
+31	1	SYSTEM	お問い合わせいただき、ありがとうございます。名古屋で無料WiFiを完備している観光名所は、全部で6件ほどございます。	general,attraction
+31	2	USER	おすすめはありますか？	general,attraction
+31	3	SYSTEM	たとえば散策エリアですと大高緑地、展望台ではミッドランドスクエア 屋外展望台 スカイプロムナードといった場所がございます。トヨタ産業技術記念館というのもご興味ございますか？	general,attraction
+31	4	USER	トヨタ産業技術記念館は面白そうですね。大人の入場料はいくらですか？	general,attraction
+31	5	SYSTEM	トヨタ産業技術記念館の大人入場料は、500円です。	general,attraction
+31	6	USER	お手頃ですね。駐車場はありますか？　あと料金にかかわる情報はありませんか？	general,attraction
+31	7	SYSTEM	はい、こちら、無料の駐車場がございます。また料金の詳細ですが、大人500円のほか、65歳以上でしたら300円、中高生300円、小学生200円というかたちになっております。	general,attraction
+31	8	USER	詳しい情報ありがとうございました。また何かあったら相談に乗ってください。	general,attraction
+31	9	SYSTEM	いえ、こちらこそありがとうございました。またのご利用をお待ちしております。	general,attraction

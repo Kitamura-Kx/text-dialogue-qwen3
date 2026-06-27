@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+962	0	USER	那覇の観光名所を探しています。旭橋駅近くの観光スポットはありますか？	general,attraction,shopping
+962	1	SYSTEM	かしこまりました。ではストリートカート 沖縄はいかがでしょうか。	general,attraction,shopping
+962	2	USER	いいですね。営業時間はどうなりますか？	general,attraction,shopping
+962	3	SYSTEM	営業時間は10:00～22:00でございます。	general,attraction,shopping
+962	4	USER	分かりました。ついでに買い物スポットも教えてください。ローソン 那覇牧志公園前店ってお店はありますか？	general,attraction,shopping
+962	5	SYSTEM	はい。ございます。お知りになりたい情報がございますか。	general,attraction,shopping
+962	6	USER	最寄り駅はどちらになりますか？	general,attraction,shopping
+962	7	SYSTEM	最寄り駅は牧志駅でございます。	general,attraction,shopping
+962	8	USER	分かりました！ありがとうございます。	general,attraction,shopping

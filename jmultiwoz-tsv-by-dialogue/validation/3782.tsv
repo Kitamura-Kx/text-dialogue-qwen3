@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3782	0	USER	仙台旅行を計画しているのですが、観光名所を教えてもらえますか？	general,attraction,taxi
+3782	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,attraction,taxi
+3782	2	USER	Wi-Fiが無料で利用できて、駐車場が無料の場所を希望しています。	general,attraction,taxi
+3782	3	SYSTEM	そういたしますと、青葉区エリアにある、仙台市文学館というところはいかがでしょうか？	general,attraction,taxi
+3782	4	USER	いいですね。当日、タクシーを利用したいのですが、キャッシュレス払いができるジャンボタクシーはありますか？	general,attraction,taxi
+3782	5	SYSTEM	はい、ございます。（株）帝産キャブ仙台というところはいかがでしょうか？	general,attraction,taxi
+3782	6	USER	電話番号を教えてもらえますか？	general,attraction,taxi
+3782	7	SYSTEM	電話番号は、0120117101でございます。	general,attraction,taxi
+3782	8	USER	4/16の朝9:50に予約をお願いできますか？仙台市文学館からローソン 仙台荒井西店までお願いします。	general,attraction,taxi
+3782	9	SYSTEM	大変申し訳ございません。ご希望の条件では予約できませんでした。お時間など、ご調整いただくことは可能でしょうか？	general,attraction,taxi
+3782	10	USER	では、時間を午前10:20にします。	general,attraction,taxi
+3782	11	SYSTEM	ありがとうございます。10:20発にて、ご予約完了いたしました。予約番号は、67846です。	general,attraction,taxi
+3782	12	USER	ありがとうございました。	general,attraction,taxi
+3782	13	SYSTEM	他にお手伝いすることはございませんか？	general,attraction,taxi
+3782	14	USER	はい、大丈夫です。ありがとうございました。	general,attraction,taxi
+3782	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,taxi

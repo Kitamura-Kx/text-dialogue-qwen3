@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2022	0	USER	横浜の保土ケ谷区で買い物ができるところを探してもらいたいです。	general,shopping
+2022	1	SYSTEM	承知しました。1件、洪福寺松原商店街がございます。ジャンルは商店街となります。	general,shopping
+2022	2	USER	ありがとうございます。最寄り駅が伊勢佐木長者町駅のところがあればそこがいいのですが、ありますか？	general,shopping
+2022	3	SYSTEM	申し訳ありません。伊勢佐木長者町駅が最寄りとなると、ご紹介ができません。いかがされますか？	general,shopping
+2022	4	USER	なければ大丈夫です。さっき調べていただいた洪福寺松原商店街の電話番号を教えてもらえますか？	general,shopping
+2022	5	SYSTEM	はい、電話番号は0453417920となります。	general,shopping
+2022	6	USER	ありがとうございます。	general,shopping
+2022	7	SYSTEM	他にご用件はございますか？	general,shopping
+2022	8	USER	大丈夫です。ありがとうございました。	general,shopping
+2022	9	SYSTEM	ありがとうございました。	general,shopping

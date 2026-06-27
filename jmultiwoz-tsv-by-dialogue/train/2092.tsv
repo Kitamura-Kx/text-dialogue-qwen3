@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2092	0	USER	仙台への旅行を計画しています。当日買い物が出来る施設を探しているのですが、よろしいでしょうか？	general,shopping,attraction,hotel
+2092	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,shopping,attraction,hotel
+2092	2	USER	若林区で食料品を購入できる場所を探しています。	general,shopping,attraction,hotel
+2092	3	SYSTEM	かしこまりました。では、岡田の仙台長なす漬 卸町本店はいかがでしょうか？	general,shopping,attraction,hotel
+2092	4	USER	ごめんなさい。そちらは無料で利用できる駐車場ってありますか？	general,shopping,attraction,hotel
+2092	5	SYSTEM	こちらは駐車場の有無が不明となっております。	general,shopping,attraction,hotel
+2092	6	USER	申し訳ありません。でしたら、先程の条件に無料で使用出来る駐車場も加えて探して頂いてもよろしいでしょうか？	general,shopping,attraction,hotel
+2092	7	SYSTEM	かしこまりました。では、鐘崎 かまぼこの国 笹かま館はいかがでしょうか？	general,shopping,attraction,hotel
+2092	8	USER	助かります。そちらの住所と、最寄り駅を教えて貰ってもよろしいですか？	general,shopping,attraction,hotel
+2092	9	SYSTEM	住所は宮城県仙台市若林区鶴代町6-65です。最寄り駅は荒井駅になります。	general,shopping,attraction,hotel
+2092	10	USER	ありがとうございます。営業時間も教えて貰っても良いですか？	general,shopping,attraction,hotel
+2092	11	SYSTEM	はい。営業時間は09:30～18:00です。	general,shopping,attraction,hotel
+2092	12	USER	ありがとうございます。他に、当日利用する観光名所も探しているのですが、このまま続けても大丈夫でしょうか？	general,shopping,attraction,hotel
+2092	13	SYSTEM	はい。ご案内させていただきます。	general,shopping,attraction,hotel
+2092	14	USER	駐車場とWi-Fiが無料で利用できる場所を探しているのですが、何処かありますかね？	general,shopping,attraction,hotel
+2092	15	SYSTEM	かしこまりました。では、仙台市文学館はいかがでしょうか？	general,shopping,attraction,hotel
+2092	16	USER	ありがとうございます。そちらはどんなジャンルの場所でしょうか？	general,shopping,attraction,hotel
+2092	17	SYSTEM	はい。ジャンルは美術館・博物館, アートギャラリー, 教室・ワークショップ・体験となっております。	general,shopping,attraction,hotel
+2092	18	USER	ありがとうございます。そちらの住所も教えて貰っても良いですか？	general,shopping,attraction,hotel
+2092	19	SYSTEM	はい。住所は宮城県仙台市青葉区北根2-7-1です。	general,shopping,attraction,hotel
+2092	20	USER	ありがとうございます。最後に、当日利用出来る宿泊施設も探しているのですが、よろしいでしょうか？	general,shopping,attraction,hotel
+2092	21	SYSTEM	はい。ご案内させていただきます。	general,shopping,attraction,hotel
+2092	22	USER	ありがとうございます。シティホテルを探しています。駐車場とWi-Fiが無料で利用できるとありがたいのですが。	general,shopping,attraction,hotel
+2092	23	SYSTEM	かしこまりました。では、ホテル白萩はいかがでしょうか？	general,shopping,attraction,hotel
+2092	24	USER	そちらのホテルのチェックアウト終了時刻ってわかりますか？	general,shopping,attraction,hotel
+2092	25	SYSTEM	はい。チェックアウト終了時刻は10:00になります。ご予約されますか？	general,shopping,attraction,hotel
+2092	26	USER	いえ、大丈夫です。住所も教えて頂けますかね？	general,shopping,attraction,hotel
+2092	27	SYSTEM	かしこまりました。住所は宮城県仙台市青葉区錦町2丁目2-19です。	general,shopping,attraction,hotel
+2092	28	USER	ありがとうございます。検討してみます。以上になります。どうもありがとうございました。	general,shopping,attraction,hotel
+2092	29	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction,hotel

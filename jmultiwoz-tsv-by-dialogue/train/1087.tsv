@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1087	0	USER	大阪のほうへ行きたいと思っているので、泊まる所を探してもらえますか？	general,hotel
+1087	1	SYSTEM	ホテルトレンドあべの天王寺は、いかがでしょうか？	general,hotel
+1087	2	USER	そのホテルはリゾートホテルでしょうか？Wi-Fi無料なのかも知りたいです。	general,hotel
+1087	3	SYSTEM	こちらのホテルは、タイプはビジネスホテルになります。　Wi-Fiは、無料にてご利用可能です。	general,hotel
+1087	4	USER	リゾートホテルではないのですか。ベッドハウスやカプセルホテルでWi-Fi無料の所はありますか？	general,hotel
+1087	5	SYSTEM	bnb+ Osaka Nambaは、いかがでしょうか？	general,hotel
+1087	6	USER	その宿にはレストランも付いていますか？宿泊料と電話番号も教えてください。	general,hotel
+1087	7	SYSTEM	申し訳ありません。レストランは無しになっています。　値段帯は安めですが詳しい料金の詳細は記載されていません。　電話番号は、0643955957です。	general,hotel
+1087	8	USER	分かりました、それではbnb+ Osaka Nambaの予約をお願いしたいです。	general,hotel
+1087	9	SYSTEM	それでは、予約希望の日時と人数をお願いします。	general,hotel
+1087	10	USER	9/17から2泊の予定で、人数は2人です。	general,hotel
+1087	11	SYSTEM	予約出来ました。予約番号は、85974です。	general,hotel
+1087	12	USER	ありがとうございます。	general,hotel
+1087	13	SYSTEM	他にご用件はございますか？	general,hotel
+1087	14	USER	これだけで結構です、ありがとうございました。	general,hotel
+1087	15	SYSTEM	承知致しました。　ありがとうございました。	general,hotel

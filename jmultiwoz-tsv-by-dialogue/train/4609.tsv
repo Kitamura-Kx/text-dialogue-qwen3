@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4609	0	USER	仙台への旅行を計画しています． 当日訪れる観光名所を探してください．駐車場を無料で利用できるところにしてください．最寄り駅が作並駅のところにしてください．地区は青葉区です．	general,attraction
+4609	1	SYSTEM	ニッカウイスキー仙台工場宮城峡蒸溜所はいかがでしょうか。	general,attraction
+4609	2	USER	ありがとうございます。そちらの料金情報，近辺の駅からの所要時間，定休日を教えていただけますか。	general,attraction
+4609	3	SYSTEM	料金情報は無料、近辺の駅からの所要時間は作並駅から徒歩で20分、定休日は年末年始です。	general,attraction
+4609	4	USER		general,attraction

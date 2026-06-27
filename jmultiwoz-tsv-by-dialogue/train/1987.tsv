@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1987	0	USER	大阪の肥後橋駅近くでレストランがついていてWi-Fiが無料の宿泊施設を探しています。	general,hotel,restaurant,taxi
+1987	1	SYSTEM	そういたしますと、リーガプレイス肥後橋というお安めのビジネスホテルを1件ご案内可能です。いかがでしょうか？	general,hotel,restaurant,taxi
+1987	2	USER	住所はどちらになりますか？	general,hotel,restaurant,taxi
+1987	3	SYSTEM	大阪府大阪市西区江戸堀1丁目13-10となります。	general,hotel,restaurant,taxi
+1987	4	USER	なるほど。チェックインは何時からでしょうか？	general,hotel,restaurant,taxi
+1987	5	SYSTEM	15時からチェックイン開始です。	general,hotel,restaurant,taxi
+1987	6	USER	わかりました。検討してみます。	general,hotel,restaurant,taxi
+1987	7	SYSTEM	ありがとうございます。他にお調べすることはございますか？	general,hotel,restaurant,taxi
+1987	8	USER	あと、同じ日に和食が食べられるお店も探しています。安めで食べれて、Wi-Fiが無料な所が良いです。	general,hotel,restaurant,taxi
+1987	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,restaurant,taxi
+1987	10	USER	Wi-Fiなくても大丈夫です。	general,hotel,restaurant,taxi
+1987	11	SYSTEM	ありがとうございます。そうしますと、4件ご案内可能です。たとえば、素材の力と和の心 乾坤一擲という、寿司・魚料理, 和食, 居酒屋ジャンルのお店はいかがでしょうか？	general,hotel,restaurant,taxi
+1987	12	USER	行ってみたいです！住所はどちらになりますか？	general,hotel,restaurant,taxi
+1987	13	SYSTEM	大阪府大阪市北区曾根崎新地2丁目1-13 曽根崎澤田ビル 2Fでございます。	general,hotel,restaurant,taxi
+1987	14	USER	ありがとうございます。あと、キャッシュレス払いができるタクシーも探しています。	general,hotel,restaurant,taxi
+1987	15	SYSTEM	かしこまりました。では、株式会社国際興業大阪はいかがでしょうか？	general,hotel,restaurant,taxi
+1987	16	USER	電話番号を教えて頂けますか？	general,hotel,restaurant,taxi
+1987	17	SYSTEM	はい。電話番号は、0570035931です。	general,hotel,restaurant,taxi
+1987	18	USER	ありがとうございます。4/23にリーガプレイス肥後橋からさきほどの和食のお店まで予約したいです。	general,hotel,restaurant,taxi
+1987	19	SYSTEM	かしこまりました。出発時刻は、お決まりでしょうか？	general,hotel,restaurant,taxi
+1987	20	USER	12：40です。	general,hotel,restaurant,taxi
+1987	21	SYSTEM	ありがとうございます。12：40にリーガプレイス肥後橋発、素材の力と和の心 乾坤一擲着にて、ご予約完了いたしました。予約番号は、25317です。	general,hotel,restaurant,taxi
+1987	22	USER	ありがとうございました。	general,hotel,restaurant,taxi
+1987	23	SYSTEM	ほかにお手伝いできることはございませんか？	general,hotel,restaurant,taxi
+1987	24	USER	大丈夫です。ありがとうございました。	general,hotel,restaurant,taxi
+1987	25	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,restaurant,taxi

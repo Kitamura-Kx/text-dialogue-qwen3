@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4570	0	USER	東京でWi-Fiが無料で、レストランがある宿泊施設を探してほしいです。	general,hotel,restaurant,taxi
+4570	1	SYSTEM	６１件ほどあります。他に追加の希望条件はありますか？	general,hotel,restaurant,taxi
+4570	2	USER	他に希望は特にないです。	general,hotel,restaurant,taxi
+4570	3	SYSTEM	それでは、帝国ホテル東京をお勧めします。	general,hotel,restaurant,taxi
+4570	4	USER	検討してみます。あと中央区で駐車場が無料の飲食店も探してほしいです。予算は普通でお願いします。	general,hotel,restaurant,taxi
+4570	5	SYSTEM	中央区で予算普通、駐車場無料の飲食店はなさそうです。	general,hotel,restaurant,taxi
+4570	6	USER	そうですか。では地区はどこでも大丈夫です。	general,hotel,restaurant,taxi
+4570	7	SYSTEM	それでは、予算普通で駐車場無料のところで、醍醐 お台場店をオススメします。	general,hotel,restaurant,taxi
+4570	8	USER	そこにします！1/25の17：30から4人で予約したいです。	general,hotel,restaurant,taxi
+4570	9	SYSTEM	予約成功しました。予約番号は76874です。	general,hotel,restaurant,taxi
+4570	10	USER	ありがとうございます。あとその日に使うジャンボタクシーも探してほしいです。	general,hotel,restaurant,taxi
+4570	11	SYSTEM	京王自動車 多摩北をおすすめします。	general,hotel,restaurant,taxi
+4570	12	USER	ちなみにキャッシュレス払いはできますか？	general,hotel,restaurant,taxi
+4570	13	SYSTEM	はい、対応しています。	general,hotel,restaurant,taxi
+4570	14	USER	では1/25の15：50に帝国ホテル東京から醍醐 お台場店までを予約したいです。	general,hotel,restaurant,taxi
+4570	15	SYSTEM	予約成功しました。予約番号17037です。	general,hotel,restaurant,taxi
+4570	16	USER	ありがとうございました。	general,hotel,restaurant,taxi
+4570	17	SYSTEM	よい旅を	general,hotel,restaurant,taxi

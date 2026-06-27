@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2176	0	USER	仙台への旅行で当日買い物ができる場所を探しています。	general,shopping,restaurant,hotel
+2176	1	SYSTEM	かしこまりました。その条件ですと、53件ほど該当店舗がありますが、何をお求めでしょうか？	general,shopping,restaurant,hotel
+2176	2	USER	家電・電化製品が買いたいです。駐車場無料のところでどこかありますか？	general,shopping,restaurant,hotel
+2176	3	SYSTEM	かしこまりました。その条件ですとヨドバシカメラマルチメディア仙台がオススメでございます。	general,shopping,restaurant,hotel
+2176	4	USER	そちらに行きたいと思います。近辺の駅からの所要時間も教えて頂けないでしょうか。	general,shopping,restaurant,hotel
+2176	5	SYSTEM	ありがとうございます。仙台駅から徒歩で1分でございます。	general,shopping,restaurant,hotel
+2176	6	USER	ありがとうございます。当日食事ができる飲食店も調べて頂けますか？駐車場とWi-Fiが無料で利用できるホテルレストランはありますか？	general,shopping,restaurant,hotel
+2176	7	SYSTEM	はい、その条件ですとChef's Tableがご案内できます。	general,shopping,restaurant,hotel
+2176	8	USER	ではそちらに伺いたいと思います。最寄り駅はどこになりますか？	general,shopping,restaurant,hotel
+2176	9	SYSTEM	ありがとうございます。最寄りの駅は宮城野通駅でございます。	general,shopping,restaurant,hotel
+2176	10	USER	予約も可能でしょうか？3人で9/19の15:40からですが空いていますか？	general,shopping,restaurant,hotel
+2176	11	SYSTEM	はい！予約番号25500でお取りさせていただきました。	general,shopping,restaurant,hotel
+2176	12	USER	ありがとうございます。当日泊まる宿泊施設も探して頂けないでしょうか。予算は高めで駐車場を無料で利用できるところを希望します。地区は太白区がいいです。	general,shopping,restaurant,hotel
+2176	13	SYSTEM	かしこまりました。その条件でしたら、たびの邸宅 秋保山荘はいかがでしょうか？	general,shopping,restaurant,hotel
+2176	14	USER	ではそちらでお願いします。最寄り駅とWi-Fiの有無を調べて頂けますか？	general,shopping,restaurant,hotel
+2176	15	SYSTEM	ありがとうございます。最寄りの駅は仙台駅で、Wi-Fiは無料でご利用いただけます。	general,shopping,restaurant,hotel
+2176	16	USER	ありがとうございました。	general,shopping,restaurant,hotel

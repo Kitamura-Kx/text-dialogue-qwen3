@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1944	0	USER	横浜への旅行を計画中なのですが、いくつかお願いします。まずは、カプセルプラス横浜という宿泊施設はあるか調べてもらえますか？	general,hotel,shopping,attraction
+1944	1	SYSTEM	はい、西区に同名の簡易宿所がございます！	general,hotel,shopping,attraction
+1944	2	USER	カプセルプラス横浜の住所を教えて下さい。値段帯とエリアもお願いします	general,hotel,shopping,attraction
+1944	3	SYSTEM	かしこまりました。住所は神奈川県横浜市西区北幸2丁目1-5でございます。値段帯は安め、エリアは西区でございます。	general,hotel,shopping,attraction
+1944	4	USER	わかりました、買い物もしたいのですが駐車場が無料の百貨店か総合スーパーはありますか？	general,hotel,shopping,attraction
+1944	5	SYSTEM	はい、それでは新横浜プリンスペペはいかがでしょうか？	general,hotel,shopping,attraction
+1944	6	USER	新横浜プリンスペペの電話番号を教えて下さい	general,hotel,shopping,attraction
+1944	7	SYSTEM	申し訳ございません。電話番号は分かりません。	general,hotel,shopping,attraction
+1944	8	USER	わかりました、それでは建築物を楽しめる観光名所もお願いします。	general,hotel,shopping,attraction
+1944	9	SYSTEM	かしこまりました。それでは横浜赤レンガ倉庫はいかがでしょうか？	general,hotel,shopping,attraction
+1944	10	USER	横浜赤レンガ倉庫の最寄駅からの所要時間はわかりますか？	general,hotel,shopping,attraction
+1944	11	SYSTEM	はい、馬車道駅から徒歩で6分でございます。	general,hotel,shopping,attraction
+1944	12	USER	ありがとうございました、ほかは大丈夫です。	general,hotel,shopping,attraction
+1944	13	SYSTEM	かしこまりました。またのご利用お待ちしております。	general,hotel,shopping,attraction

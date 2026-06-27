@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1777	0	USER	こんにちは。那覇へ旅行しますので、飲食店を探しています。	general,restaurant,hotel,weather
+1777	1	SYSTEM	何かご希望はございますか？	general,restaurant,hotel,weather
+1777	2	USER	そうですね、首里あたりだとありがたいです。	general,restaurant,hotel,weather
+1777	3	SYSTEM	サブウェイ 首里りうぼう店はいかがでしょう？ジャンルは、洋食、西洋料理、となります。	general,restaurant,hotel,weather
+1777	4	USER	ありがとうございます。そこへ行きたいので、予約をお願いしたいです。9/17の09:40で、4名です。	general,restaurant,hotel,weather
+1777	5	SYSTEM	申し訳ありません。この条件では予約ができませんでした。いかが致しましょう？	general,restaurant,hotel,weather
+1777	6	USER	10:30だといかがでしょうか？	general,restaurant,hotel,weather
+1777	7	SYSTEM	予約が可能になりまして、ご予約番号は、28945となります。	general,restaurant,hotel,weather
+1777	8	USER	ありがとうございます。それから宿泊施設も探しています。最寄り駅が小禄駅の駐車場無料のところはどこかありますか？	general,restaurant,hotel,weather
+1777	9	SYSTEM	1件、チャビラホテル那覇がございます。タイプはビジネスホテルとなります。	general,restaurant,hotel,weather
+1777	10	USER	ありがとうございます。そちらの住所、電話番号と、料金情報をお願いできますか？	general,restaurant,hotel,weather
+1777	11	SYSTEM	住所は沖縄県那覇市金城5丁目5-11-1、電話番号は0988401000となります。申し訳ありませんが、ご案内できる料金情報はございません。	general,restaurant,hotel,weather
+1777	12	USER	そうなんですね、大丈夫です。ではそちらで予約をお願いしたいです。9/17から2泊で、4名です。	general,restaurant,hotel,weather
+1777	13	SYSTEM	申し訳ありません。この条件では予約ができませんでした。いかが致しましょう？	general,restaurant,hotel,weather
+1777	14	USER	そうですか。では3名だと取れそうですか？	general,restaurant,hotel,weather
+1777	15	SYSTEM	予約が可能になりまして、ご予約番号は、46170となります。	general,restaurant,hotel,weather
+1777	16	USER	ありがとうございます。あと当日の天気も確認したいのですが、真和志の9/17の天気を教えてもらえますか？	general,restaurant,hotel,weather
+1777	17	SYSTEM	天気は晴、最低気温29.9度、最高気温32.9度となります。	general,restaurant,hotel,weather
+1777	18	USER	ありがとうございました。助かりました。これで全部です。	general,restaurant,hotel,weather
+1777	19	SYSTEM	ありがとうございました。	general,restaurant,hotel,weather

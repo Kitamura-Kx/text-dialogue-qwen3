@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3383	0	USER	名古屋へ行くのですが、散策できるような観光名所を探しています。	general,attraction,weather
+3383	1	SYSTEM	ご希望の条件ですと、農業文化園・戸田川緑地と大高緑地という2か所該当致します。いかがでしょうか？	general,attraction,weather
+3383	2	USER	Wi-Fiが無料で使えて、駐車場も無料の所が良いです。	general,attraction,weather
+3383	3	SYSTEM	そうしますと、大高緑地がよろしいかと思います。	general,attraction,weather
+3383	4	USER	いいですね。大人の入場料と営業時間を教えてください。	general,attraction,weather
+3383	5	SYSTEM	かしこまりました。大人の入場料は不明でございまして、営業時間も施設により異なるとの記載がございました。	general,attraction,weather
+3383	6	USER	ちなみに11/22の中村区の最低気温はどのくらいですか？	general,attraction,weather
+3383	7	SYSTEM	最低気温は6.8度でございます。	general,attraction,weather
+3383	8	USER	そうっですか。ありがとうございました。	general,attraction,weather
+3383	9	SYSTEM	ありがとうございました。	general,attraction,weather

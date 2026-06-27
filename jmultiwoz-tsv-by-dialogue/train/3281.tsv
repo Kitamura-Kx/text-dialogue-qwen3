@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3281	0	USER	大阪の阿波座駅近くで、無料駐車場のある百貨店や総合スーパーを探しています。	general,shopping
+3281	1	SYSTEM	阿波座駅で無料駐車場のある百貨店や総合スーパーはなさそうです。	general,shopping
+3281	2	USER	それでしたら、阿波座駅近くでなくても構わないので、無料駐車場のある百貨店や総合スーパーを探してもらえますか	general,shopping
+3281	3	SYSTEM	大阪で無料駐車場のある百貨店や総合スーパーはいくつかありますが、なんばCITY、こちらをおすすめします。	general,shopping
+3281	4	USER	そちらの店舗は、近くの駅からどのくらいかかりますか？	general,shopping
+3281	5	SYSTEM	難波駅から徒歩で1分です。	general,shopping
+3281	6	USER	ありがとうございました。	general,shopping
+3281	7	SYSTEM	よい旅を	general,shopping

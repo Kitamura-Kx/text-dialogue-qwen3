@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4033	0	USER	名古屋に行きますが、千種区に観光名所があったら教えてください。	general,attraction,shopping,weather
+4033	1	SYSTEM	承知しました。では、名古屋市東山動植物園はいかがでしょう？ジャンルは、動物園、植物園となります。	general,attraction,shopping,weather
+4033	2	USER	いいですね。入場料はいくらになりますか？	general,attraction,shopping,weather
+4033	3	SYSTEM	はい、大人入場料500円、子供入場料0円となります。	general,attraction,shopping,weather
+4033	4	USER	ありがとうございます。買い物できるところも探していただけますか。瑞穂区で駐車場が無料のところが希望です。	general,attraction,shopping,weather
+4033	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,shopping,weather
+4033	6	USER	そうしましたら、地区はどこでもいいです。	general,attraction,shopping,weather
+4033	7	SYSTEM	ありがとうございます。エリアでいうと守山区にある、草叢BOOKS 新守山店はいかがでしょう？ジャンルは、書籍となります。	general,attraction,shopping,weather
+4033	8	USER	ありがとうございます。そちらのお店の電話番号を教えてください。	general,attraction,shopping,weather
+4033	9	SYSTEM	はい、電話番号は、052791 5152となります。	general,attraction,shopping,weather
+4033	10	USER	ありがとうございます。当日8/11の、中区の天気を教えていただけますか。	general,attraction,shopping,weather
+4033	11	SYSTEM	はい、天気は曇、最低気温28.9度、最高気温39.9度となります。	general,attraction,shopping,weather
+4033	12	USER	ありがとうございました。	general,attraction,shopping,weather

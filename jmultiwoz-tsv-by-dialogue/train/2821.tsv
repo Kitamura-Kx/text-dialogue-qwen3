@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2821	0	USER	京都へ旅行へ行くため、祇園四条駅の近くの観光名所を探しています。	general,attraction,weather
+2821	1	SYSTEM	そうしますと、京都市円山公園音楽堂はいかがでしょうか？	general,attraction,weather
+2821	2	USER	駐車場が無料でWi-Fiも無料の所が良いです。	general,attraction,weather
+2821	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,weather
+2821	4	USER	ではWi-Fiはどうでもいいです。	general,attraction,weather
+2821	5	SYSTEM	ありがとうございます。そうしますと、安井金比羅宮というところが1件ご案内可能です。いかがでしょうか？	general,attraction,weather
+2821	6	USER	いいですね。電話番号は何番になりますか？	general,attraction,weather
+2821	7	SYSTEM	0755615127でございます。	general,attraction,weather
+2821	8	USER	ちなみに10/2の北区の最低気温はどうなっていますか？	general,attraction,weather
+2821	9	SYSTEM	最低気温は16.8度まで下がる見込みのようです	general,attraction,weather
+2821	10	USER	ありがとうございます。助かりました。	general,attraction,weather
+2821	11	SYSTEM	他にお調べすることはございませんか？	general,attraction,weather
+2821	12	USER	特にありません。	general,attraction,weather
+2821	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,weather

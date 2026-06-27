@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1625	0	USER	こんにちは。京都に旅行するので、名所を教えて欲しいです。	general,attraction,weather
+1625	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction,weather
+1625	2	USER	西京区で無料Wi-Fiがある場所を探して欲しいです。	general,attraction,weather
+1625	3	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,attraction,weather
+1625	4	USER	西京区以外ではどうですか？	general,attraction,weather
+1625	5	SYSTEM	ありがとうございます。そうしますと、国立京都国際会館というところが1件ございます。ジャンルとしては、コンサート・ショーとなっておりますが、いかがでしょうか？	general,attraction,weather
+1625	6	USER	では、そこにします。定休日と子供の入場料を教えてもらえますか？	general,attraction,weather
+1625	7	SYSTEM	かしこまりました。定休日は、年末年始です。お子様の入場料は不明となっておりまして、詳しい料金情報につきましても、企画により異なるということのみの情報しかございませんでした。	general,attraction,weather
+1625	8	USER	わかりました。では、4月30日の伏見区の天気を教えてもらえますか？	general,attraction,weather
+1625	9	SYSTEM	かしこまりました。当日の天気は曇時々雨、最低気温は7.9度、最高気温は16.3度の予報となっております。	general,attraction,weather
+1625	10	USER	ありがとうございます。以上です。	general,attraction,weather
+1625	11	SYSTEM	承知いたしました。もし他にご質問がないようでしたら、これで失礼いたします。本日はご利用ありがとうございました。	general,attraction,weather

@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2101	0	USER	今度、大阪へ行く予定なので、Wi-Fiが無料で使えるお城を探しています。	general,attraction,restaurant,taxi
+2101	1	SYSTEM	かしこまりました。では、大阪城天守閣はいかがでしょうか？	general,attraction,restaurant,taxi
+2101	2	USER	はい、行ってみたいです。大人の入場料はいくらですか？	general,attraction,restaurant,taxi
+2101	3	SYSTEM	大人の入場料は600円になります。	general,attraction,restaurant,taxi
+2101	4	USER	ありがとうございます。それと、Wi-Fiが無料で使えて低価格で食事ができるお店も教えてください。	general,attraction,restaurant,taxi
+2101	5	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,attraction,restaurant,taxi
+2101	6	USER	そうですか。では、予算は気にしません。どこかありますか？	general,attraction,restaurant,taxi
+2101	7	SYSTEM	かしこまりました。では、神戸牛焼肉 和ノ宮 なんば御堂筋店はいかがでしょうか？	general,attraction,restaurant,taxi
+2101	8	USER	良さそうですね。最寄り駅はどこになりますか？	general,attraction,restaurant,taxi
+2101	9	SYSTEM	はい。最寄り駅はなんば駅になります。	general,attraction,restaurant,taxi
+2101	10	USER	分かりました。ありがとうございます。最後に、タクシーの利用を考えているので、キャッシュレスで使用できるタクシー会社を教えてください。	general,attraction,restaurant,taxi
+2101	11	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,attraction,restaurant,taxi
+2101	12	USER	では現金でも大丈夫です。	general,attraction,restaurant,taxi
+2101	13	SYSTEM	かしこまりました。では、一番株式会社はいかがでしょうか？ジャンボタクシーにも対応しています。	general,attraction,restaurant,taxi
+2101	14	USER	ありがとうございます。電話番号を教えてください。	general,attraction,restaurant,taxi
+2101	15	SYSTEM	はい。電話番号は0667077171です。	general,attraction,restaurant,taxi
+2101	16	USER	では、8月30日に予約をお願いします。時間は12時20分で大阪城天守閣から神戸牛焼肉 和ノ宮 なんば御堂筋店まで行きたいです。	general,attraction,restaurant,taxi
+2101	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、24021です。	general,attraction,restaurant,taxi
+2101	18	USER	ありがとうございます。助かりました。では失礼します。	general,attraction,restaurant,taxi

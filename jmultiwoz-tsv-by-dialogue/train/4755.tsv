@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4755	0	USER	福岡へ行くのですが、焼肉・ホルモンを食べれる飲食店はありますか？駐車場が無料のところがいいです。	general,restaurant,shopping
+4755	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,shopping
+4755	2	USER	そうですか。であれば焼肉・ホルモン以外でも大丈夫です。	general,restaurant,shopping
+4755	3	SYSTEM	ありがとうございます。エリアでいうと早良区にある、中国大明火鍋城はいかがでしょう？ジャンルは、中華料理となります。	general,restaurant,shopping
+4755	4	USER	いいですね。最寄り駅と住所を教えてください。	general,restaurant,shopping
+4755	5	SYSTEM	はい、住所は福岡県福岡市早良区百道1丁目5-1、最寄りの藤崎駅から徒歩で2分となります。	general,restaurant,shopping
+4755	6	USER	ありがとうございます。百貨店や総合スーパーで買い物できるところも探してもらえますか？駐車場が無料だとうれしいです。	general,restaurant,shopping
+4755	7	SYSTEM	承知しました。エリアでいうと中央区にある、福岡三越はいかがでしょう？	general,restaurant,shopping
+4755	8	USER	いいですね。最寄り駅はどこですか？	general,restaurant,shopping
+4755	9	SYSTEM	西鉄福岡（天神）駅となります。	general,restaurant,shopping
+4755	10	USER	ありがとうございました。もう大丈夫です。	general,restaurant,shopping
+4755	11	SYSTEM	ありがとうございました。	general,restaurant,shopping

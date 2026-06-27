@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3285	0	USER	横浜で無料駐車場が利用できる、建築物のある観光名所を探しています。	general,attraction,restaurant,taxi
+3285	1	SYSTEM	横浜で無料駐車場のある建築物といえば、三溪園、こちらになります。	general,attraction,restaurant,taxi
+3285	2	USER	ありがとうございます。あと、関内駅近くで、予算高めの焼肉やホルモンが食べれるお店教えて下さい。	general,attraction,restaurant,taxi
+3285	3	SYSTEM	関内駅近くの予算高めな焼肉ホルモンといえば、鳥伊勢 関内店、こちらになります。	general,attraction,restaurant,taxi
+3285	4	USER	そちらの営業時間とWi-Fiがあるかどうか教えてください。	general,attraction,restaurant,taxi
+3285	5	SYSTEM	営業時間は夕方５時から夜１１時まで、WiFiは不明ですね。	general,attraction,restaurant,taxi
+3285	6	USER	ありがとうございます。当日タクシーを利用しようと思っているのですが、ジャンボタクシーが利用できて、キャッシュレス払いにも対応しているタクシー会社ありますか？	general,attraction,restaurant,taxi
+3285	7	SYSTEM	横浜でキャッシュレスとジャンボ両方に対応しているタクシー会社はありません。	general,attraction,restaurant,taxi
+3285	8	USER	ジャンボタクシーは利用できなくてもいいので、それだったらどこかありますか？	general,attraction,restaurant,taxi
+3285	9	SYSTEM	はい、キャッシュレス対応のタクシー会社ならば、横浜北交通株式会社、こちらをお勧めします。	general,attraction,restaurant,taxi
+3285	10	USER	そちらの電話番号を教えてください。	general,attraction,restaurant,taxi
+3285	11	SYSTEM	0120915502です。	general,attraction,restaurant,taxi
+3285	12	USER	そちらのタクシー会社で、１月２８日の午後２時４０分に、三溪園から鳥伊勢 関内店まで、予約お願いします。	general,attraction,restaurant,taxi
+3285	13	SYSTEM	予約成功しました。予約番号は89918です。	general,attraction,restaurant,taxi
+3285	14	USER	ありがとうございました。	general,attraction,restaurant,taxi
+3285	15	SYSTEM	よい旅を	general,attraction,restaurant,taxi

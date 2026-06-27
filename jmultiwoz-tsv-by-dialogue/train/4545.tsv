@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4545	0	USER	仙台への旅行を考えているのですが泉区のショッピングモールを探しています。	general,shopping
+4545	1	SYSTEM	仙台泉区には、ショッピングモールはなさそうです。	general,shopping
+4545	2	USER	それではどこでも構いません！	general,shopping
+4545	3	SYSTEM	ならば、ララガーデン長町をお勧めします。	general,shopping
+4545	4	USER	そこの営業時間と住所、定休日はわかりますか？	general,shopping
+4545	5	SYSTEM	営業時間は10:00～20:00、住所は宮城県仙台市太白区長町7丁目20-5、定休日はありません。	general,shopping
+4545	6	USER	大変助かりました！ありがとうございました。	general,shopping

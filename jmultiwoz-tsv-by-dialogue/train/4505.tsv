@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4505	0	USER	京都へ旅行に行くのですが、百貨店や総合スーパーで駐車場を無料利用できる買い物店舗を探してください。	general,shopping,hotel,weather
+4505	1	SYSTEM	京都で駐車場無料の百貨店総合スーパーといえば、大丸京都店です。	general,shopping,hotel,weather
+4505	2	USER	なるほど。そこの最寄り駅はわかりますか？	general,shopping,hotel,weather
+4505	3	SYSTEM	烏丸駅です。	general,shopping,hotel,weather
+4505	4	USER	わかりました。あと、最寄り駅が五条駅でレストランがある旅館はありますか？	general,shopping,hotel,weather
+4505	5	SYSTEM	京都五条駅でレストランがある旅館といえば、なごみ旅館 悠です。	general,shopping,hotel,weather
+4505	6	USER	そこにするので、住所も教えてください。	general,shopping,hotel,weather
+4505	7	SYSTEM	京都府京都市下京区若宮通六条西入上若宮町９４です。	general,shopping,hotel,weather
+4505	8	USER	予約もお願いします。2人で7/15から2泊です。	general,shopping,hotel,weather
+4505	9	SYSTEM	予約成功しました。予約番号は13387です。	general,shopping,hotel,weather
+4505	10	USER	ありがとうございます。あと、右京区の7/15の天気も教えてください。	general,shopping,hotel,weather
+4505	11	SYSTEM	7/15 京都 右京区 の天気は雨のち曇、最低気温25度、最高気温26.2度です。	general,shopping,hotel,weather
+4505	12	USER	ありがとうございました。	general,shopping,hotel,weather
+4505	13	SYSTEM	よい旅を。	general,shopping,hotel,weather

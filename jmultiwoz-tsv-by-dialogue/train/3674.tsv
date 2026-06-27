@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3674	0	USER	今度名古屋に行くのですが、買い物ができるところを探しています。	general,shopping,taxi
+3674	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,shopping,taxi
+3674	2	USER	天白区で、最寄り駅が亀島駅のところがいいです。駐車場が無料だと助かります。	general,shopping,taxi
+3674	3	SYSTEM	申し訳ございません。条件に合う買い物店舗は見つかりませんでした。	general,shopping,taxi
+3674	4	USER	では、地区は特にこだわりません。	general,shopping,taxi
+3674	5	SYSTEM	かしこまりました。では、サンエース 亀島店はいかがでしょうか？	general,shopping,taxi
+3674	6	USER	ありがとうございます。あと、当日タクシーを使いたいのですが、キャッシュレス払いができるところはありますか？	general,shopping,taxi
+3674	7	SYSTEM	かしこまりました。では、楠交通はいかがでしょうか？	general,shopping,taxi
+3674	8	USER	そちらの電話番号と、ジャンボタクシー対応かどうかが知りたいです。	general,shopping,taxi
+3674	9	SYSTEM	ジャンボタクシー利用可能です。また、電話番号は0522412233です。	general,shopping,taxi
+3674	10	USER	ありがとうございます。では、10/29の11:50で、サンエース 亀島店から、三交インGrande名古屋−HOTEL&SPA−まで予約をお願いできますでしょうか？	general,shopping,taxi
+3674	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、85799です。	general,shopping,taxi
+3674	12	USER	ありがとうございます。以上です、お世話になりました。	general,shopping,taxi
+3674	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

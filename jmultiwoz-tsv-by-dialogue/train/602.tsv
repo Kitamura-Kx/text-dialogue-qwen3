@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+602	0	USER	仙台への観光名所を探しているんですが、教えてくれますか？	general,attraction,weather
+602	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,weather
+602	2	USER	宮城野区にある、教室・ワークショップ・体験ができるところで、Wi-Fiが無料で利用できるところがいいです！	general,attraction,weather
+602	3	SYSTEM	ありがとうございます。2件ございます。仙台うみの杜水族館はいかがでしょう？何かご案内致しましょうか？	general,attraction,weather
+602	4	USER	いいですね！住所と料金情報について教えてくれますか？	general,attraction,weather
+602	5	SYSTEM	はい、住所は宮城県仙台市宮城野区中野4丁目6番地、料金情報としては、入館券が大人は2,200円、シニアと中高校生は1,600円、小学生1,100円、幼児600円、年間パスポートは大人4,400円、シニアと中高校生3,200円、小学生2,200円、幼児1,200円となります。他にご案内できることはございますか？	general,attraction,weather
+602	6	USER	詳しくありがとうございました。これで大丈夫です。	general,attraction,weather
+602	7	SYSTEM	ありがとうございました。	general,attraction,weather
+602	8	USER	すみません、天候についても聞きたかったんでした。2/27の太白区について分かりますか？	general,attraction,weather
+602	9	SYSTEM	承知しました。天気は、雨時々晴、最低気温4.9度、最高気温12.7度となります。他にご不明な点はございませんか？	general,attraction,weather
+602	10	USER	ありがとうございます。助かりました！	general,attraction,weather
+602	11	SYSTEM	ありがとうございました。	general,attraction,weather

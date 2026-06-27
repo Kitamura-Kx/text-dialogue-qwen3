@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4267	0	USER	那覇への旅行を計画しているのですが、当日本庁地区の観光名所に行きたいと思っています。Wi-Fiが無料の場所はありますでしょうか。	general,attraction,taxi
+4267	1	SYSTEM	かしこまりました。では沖縄県立博物館・美術館はいかがでしょうか。	general,attraction,taxi
+4267	2	USER	ぜひ行ってみたいと思います。そちらの電話番号と住所を教えてください。	general,attraction,taxi
+4267	3	SYSTEM	電話番号は0989418200で、住所が沖縄県那覇市おもろまち3丁目1番1号でございます。	general,attraction,taxi
+4267	4	USER	ありがとうございます。当日ジャンボタクシーを利用したいのですが、キャッシュ払いができるタクシー会社はありますか。	general,attraction,taxi
+4267	5	SYSTEM	はい。沖縄交通がございます。こちら電話番号は0120170978でございます。	general,attraction,taxi
+4267	6	USER	では、3月10日の14時50分に　沖縄県立博物館・美術館　から　37 Steakhouse & Bar 那覇　までの予約をお願いします。	general,attraction,taxi
+4267	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は39181でございます。	general,attraction,taxi
+4267	8	USER	お世話になりました。ありがとうございます。	general,attraction,taxi

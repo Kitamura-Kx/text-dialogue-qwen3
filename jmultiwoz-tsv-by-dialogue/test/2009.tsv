@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2009	0	USER	福岡で、無料駐車場のある予算高めの飲食店を探してもらえますか？	general,restaurant,attraction,shopping
+2009	1	SYSTEM	かしこまりました。では、照鮨はいかがでしょうか？	general,restaurant,attraction,shopping
+2009	2	USER	そちらの店舗の営業時間を教えてもらえますか？	general,restaurant,attraction,shopping
+2009	3	SYSTEM	はい。営業時間は11:00～15:00, 18:00～22:00となります。	general,restaurant,attraction,shopping
+2009	4	USER	ありがとうございます。１０月１３日の１３時半に４人で予約お願いできますか？	general,restaurant,attraction,shopping
+2009	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、1232です。	general,restaurant,attraction,shopping
+2009	6	USER	ありがとうございます。あと東区で無料駐車場のある観光名所も探してもらえますか？	general,restaurant,attraction,shopping
+2009	7	SYSTEM	かしこまりました。では、潮見公園はいかがでしょうか？	general,restaurant,attraction,shopping
+2009	8	USER	そちらにはWi-Fiはありますでしょうか？	general,restaurant,attraction,shopping
+2009	9	SYSTEM	いえ、Wi-Fiは無しとなっております。	general,restaurant,attraction,shopping
+2009	10	USER	子供の入場料も教えてもらえますか？	general,restaurant,attraction,shopping
+2009	11	SYSTEM	はい。入場料は大人も子供も無料となっております。	general,restaurant,attraction,shopping
+2009	12	USER	ありがとうございます。福岡駅近くで買い物ができるところも調べてもらえないでしょうか？	general,restaurant,attraction,shopping
+2009	13	SYSTEM	かしこまりました。では、ベイサイドプレイス博多はいかがでしょうか？	general,restaurant,attraction,shopping
+2009	14	USER	ありがとうございます。色々と調べていただき助かりました。	general,restaurant,attraction,shopping
+2009	15	SYSTEM	他にご用件はありますか？	general,restaurant,attraction,shopping
+2009	16	USER	大丈夫です。ありがとうございました。	general,restaurant,attraction,shopping
+2009	17	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,shopping

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3601	0	USER	名古屋でキャッシュレス払いができるジャンボタクシーを探しています。	general,taxi
+3601	1	SYSTEM	かしこまりました。では、名鉄西部交通西部がございます。	general,taxi
+3601	2	USER	電話番号を教えてください。	general,taxi
+3601	3	SYSTEM	電話番号は0568213295でございます。	general,taxi
+3601	4	USER	ありがとうございます。そのタクシーを4/13の10時40分にORPHEEからNagoya Hostel The Three Smilesまで予約したいです。	general,taxi
+3601	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は70007でございます。	general,taxi
+3601	6	USER	ありがとうございました。	general,taxi
+3601	7	SYSTEM	ほかにご用件はございませんか。	general,taxi
+3601	8	USER	大丈夫です。	general,taxi
+3601	9	SYSTEM	承知しました。ありがとうございました。	general,taxi

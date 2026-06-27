@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4637	0	USER	こんにちは。横浜旅行を計画中です。Wi-Fiが無料のリゾートホテルはありますか？	general,hotel,attraction,taxi
+4637	1	SYSTEM	かしこまりました。ではホテルプラムはいかがでしょうか。	general,hotel,attraction,taxi
+4637	2	USER	そこにします。それはどのあたりのエリアで、チェックアウト終了時刻はどうなっていますか？	general,hotel,attraction,taxi
+4637	3	SYSTEM	エリアは西区で、チェックアウト終了時刻が11:00でございます。	general,hotel,attraction,taxi
+4637	4	USER	ありがとうございます。緑区の観光名所を探しているんですが、Wi-Fiと駐車場が両方とも無料というところは難しいですか？	general,hotel,attraction,taxi
+4637	5	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,attraction,taxi
+4637	6	USER	それでは、Wi-Fiは考慮しなくていいので、ほかの条件は同じで探していただけないでしょうか？	general,hotel,attraction,taxi
+4637	7	SYSTEM	それでしたら県立 四季の森公園がございます。	general,hotel,attraction,taxi
+4637	8	USER	公園ですか、いいですね。住所を教えてください。あと、念のためにどういうジャンルの施設かも知りたいですが。	general,hotel,attraction,taxi
+4637	9	SYSTEM	住所は神奈川県横浜市緑区寺山町291でございます。ジャンルは自然・公園でございます。	general,hotel,attraction,taxi
+4637	10	USER	いろいろお願いして悪いんですが、キャッシュレス払いとジャンボタクシーが利用できるタクシー会社も探してもらえませんか？	general,hotel,attraction,taxi
+4637	11	SYSTEM	京浜ハイヤー株式会社がございます。電話番号は0457411896出ございます。	general,hotel,attraction,taxi
+4637	12	USER	では、予約もお願いします。12月11日の14時ちょうどに、ホテルプラムを出発して県立 四季の森公園まで行ってください。	general,hotel,attraction,taxi
+4637	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は22708でございます。	general,hotel,attraction,taxi
+4637	14	USER	ありがとうございました！	general,hotel,attraction,taxi

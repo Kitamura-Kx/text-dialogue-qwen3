@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+539	0	USER	福岡への旅行を計画しているのですが、当日行く観光名所を探しています。	general,attraction,hotel,restaurant
+539	1	SYSTEM	福岡の観光名所ですね。そうしますと、45件ほどご案内可能です。エリアなど、何かご希望はございますか？	general,attraction,hotel,restaurant
+539	2	USER	エリアは特にありませんが、駐車場とWifiが無料の場所がよいです。	general,attraction,hotel,restaurant
+539	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,hotel,restaurant
+539	4	USER	そうですか。では、Wifiの条件はなしでお願いします。	general,attraction,hotel,restaurant
+539	5	SYSTEM	ありがとうございます。では、アサヒビール博多工場という場所は、ご興味ございませんか？	general,attraction,hotel,restaurant
+539	6	USER	そちらは子供も入場できますか。	general,attraction,hotel,restaurant
+539	7	SYSTEM	はい。大人とお子様、どちらも入場料0円でお入りいただけます。	general,attraction,hotel,restaurant
+539	8	USER	ありがとうございます。では、そちらに行きたいと思います。あと、当日の宿泊施設を探してほしいです。	general,attraction,hotel,restaurant
+539	9	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,attraction,hotel,restaurant
+539	10	USER	最寄り駅が大濠公園駅、レストランが併設されているところがよいです。	general,attraction,hotel,restaurant
+539	11	SYSTEM	そういたしますと、UNPLAN Fukuokaという場所が1件ご案内可能です。いかがでしょうか？	general,attraction,hotel,restaurant
+539	12	USER	そちらの、駅からの所要時間、チェックアウト終了時刻を教えてください。	general,attraction,hotel,restaurant
+539	13	SYSTEM	最寄りの大濠公園駅から徒歩で1分の距離にございます。チェックアウトは、11時までなっております。	general,attraction,hotel,restaurant
+539	14	USER	ありがとうございます。では、そちらの予約をお願いします。5月5日から3泊、4人でお願いします。	general,attraction,hotel,restaurant
+539	15	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。ご予約番号は、74804でございます。	general,attraction,hotel,restaurant
+539	16	USER	ありがとうございます。ついでに、当日食事ができるお店も探してほしいです。城南区でWifiが無料で利用できるお店はありますか。	general,attraction,hotel,restaurant
+539	17	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,hotel,restaurant
+539	18	USER	では、博多区に変更してください。	general,attraction,hotel,restaurant
+539	19	SYSTEM	かしこまりました。そうしますと、レカイエ オイスターバー JR博多シティ店というお店が、1件ご案内可能です。いかがでしょうか？	general,attraction,hotel,restaurant
+539	20	USER	ジャンル，値段帯、定休日を教えていただけますか。	general,attraction,hotel,restaurant
+539	21	SYSTEM	ジャンルは、寿司・魚料理となっております。お値段帯は、普通です。また、こちらのお店は、定休日はございません。	general,attraction,hotel,restaurant
+539	22	USER	わかりました。そちらの予約をお願いします。5月5日の15時半、4名でお願いします。	general,attraction,hotel,restaurant
+539	23	SYSTEM	ご予約ありがとうございます。予約番号89023にて、承りました。	general,attraction,hotel,restaurant
+539	24	USER	ありがとうございました。	general,attraction,hotel,restaurant

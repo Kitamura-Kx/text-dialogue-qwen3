@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1781	0	USER	こんにちは。今度名古屋へ行くのですけど、宿泊施設を探しています。予算高めでいいので、最寄り駅が池下駅が希望です。	general,hotel
+1781	1	SYSTEM	申し訳ありません、この条件ではご案内できません。いかが致しましょう？	general,hotel
+1781	2	USER	そうですか。では予算は考えずに、池下駅最寄のどこかよいところを教えてください。	general,hotel
+1781	3	SYSTEM	エリアでいうと千種区にある、ホテル ルブラ王山はいかがでしょう？タイプはシティホテルとなります。	general,hotel
+1781	4	USER	ありがとうございます。そちらはレストランはありますか？	general,hotel
+1781	5	SYSTEM	はい、レストランが併設されております。	general,hotel
+1781	6	USER	そうなんですね、ありがとうございます。電話番号もお願いできますか？	general,hotel
+1781	7	SYSTEM	電話番号は、0527623105となります。	general,hotel
+1781	8	USER	ありがとうございます。ではそちらで予約お願いしたいです。6/27から2泊、3名です。	general,hotel
+1781	9	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかがされますか？	general,hotel
+1781	10	USER	そうですか、では人数を2名に変更してお願いします。	general,hotel
+1781	11	SYSTEM	予約が可能になりまして、ご予約番号は、10157となります。	general,hotel
+1781	12	USER	どうもありがとうございます。助かりました。	general,hotel
+1781	13	SYSTEM	ありがとうございました。	general,hotel

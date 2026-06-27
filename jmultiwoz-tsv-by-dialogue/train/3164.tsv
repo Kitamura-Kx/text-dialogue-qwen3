@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3164	0	USER	横浜への旅行を計画しており、牛たん うしすけ モザイクモール港北店で食事をする予定なのですが、料金情報を知りたいです。	general,restaurant
+3164	1	SYSTEM	申し訳ありません、料金情報は不明となっております。	general,restaurant
+3164	2	USER	わかりました。2/22の14:30に４名で予約をお願いします。	general,restaurant
+3164	3	SYSTEM	予約出来ました。予約番号は、60343です。	general,restaurant
+3164	4	USER	ありがとうございます。	general,restaurant
+3164	5	SYSTEM	他にご用件はございますか？	general,restaurant
+3164	6	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant

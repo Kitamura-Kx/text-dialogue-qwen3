@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3042	0	USER	仙台に行くのですが、青葉区で観光名所を探しています。	general,attraction
+3042	1	SYSTEM	かしこまりました。何か他の要件はございますか？	general,attraction
+3042	2	USER	駐車場が無料のところがいいです。	general,attraction
+3042	3	SYSTEM	それでしたら、ニッカウイスキー仙台工場宮城峡蒸溜所なんてどうですか？	general,attraction
+3042	4	USER	そこは、どういうジャンルのところになりますか？	general,attraction
+3042	5	SYSTEM	はい。ジャンルは工場見学です。	general,attraction
+3042	6	USER	そうですか。そこにします。	general,attraction
+3042	7	SYSTEM	かしこまりました。他にご用件はございませんか？	general,attraction
+3042	8	USER	とくにありません。ありがとうございました。	general,attraction
+3042	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

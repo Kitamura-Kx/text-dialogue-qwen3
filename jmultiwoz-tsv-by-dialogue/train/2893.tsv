@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2893	0	USER	名古屋へ旅行に行くんですが、買い物ができるところを探して欲しいです。	general,shopping,taxi,weather
+2893	1	SYSTEM	はい、ご希望の条件をおきかせください	general,shopping,taxi,weather
+2893	2	USER	瑞穂区で駐車場無料のところがいいです！	general,shopping,taxi,weather
+2893	3	SYSTEM	瑞穂区で駐車場無料の買い物スポットはなさそうです。	general,shopping,taxi,weather
+2893	4	USER	では地区はどこでも大丈夫です！	general,shopping,taxi,weather
+2893	5	SYSTEM	名古屋で駐車場無料の買い物スポットは２８件あります。他に希望の条件はありますか？	general,shopping,taxi,weather
+2893	6	USER	特にないです！	general,shopping,taxi,weather
+2893	7	SYSTEM	では、ポケモンセンターナゴヤ、こちらをオススメします。	general,shopping,taxi,weather
+2893	8	USER	楽しそうですね。住所もお願いします！	general,shopping,taxi,weather
+2893	9	SYSTEM	愛知県名古屋市中区栄3丁目16-1 松坂屋 名古屋店 本館 5Fになります。	general,shopping,taxi,weather
+2893	10	USER	ありがとうございます。キャッシュレス払いができるタクシー会社も探していただけますか？ジャンボタクシーを利用したいです。	general,shopping,taxi,weather
+2893	11	SYSTEM	はい、それでは、楠交通をオススメします。	general,shopping,taxi,weather
+2893	12	USER	予約をお願いします！スギ薬局 中区役所前店から、ポケモンセンターナゴヤまで乗りたいです。	general,shopping,taxi,weather
+2893	13	SYSTEM	はい、日付と時刻をお願いします。	general,shopping,taxi,weather
+2893	14	USER	12/31の12:40でお願いします！	general,shopping,taxi,weather
+2893	15	SYSTEM	その条件で予約できました。予約番号は27807です。	general,shopping,taxi,weather
+2893	16	USER	ありがとうございます。最後に天気を調べてほしいです。中村区の12/31でお願いします！	general,shopping,taxi,weather
+2893	17	SYSTEM	12/31 名古屋 中村区 の天気は晴のち曇、最低気温7.9度、最高気温11.8度です。	general,shopping,taxi,weather
+2893	18	USER	ありがとうございます。楽しんで行ってきます！	general,shopping,taxi,weather
+2893	19	SYSTEM	よい旅を	general,shopping,taxi,weather

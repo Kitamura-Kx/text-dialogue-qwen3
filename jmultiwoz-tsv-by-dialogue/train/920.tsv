@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+920	0	USER	札幌への旅行を計画しているのですが	general,hotel
+920	1	SYSTEM	はい、何かご要望ございますか。	general,hotel
+920	2	USER	当日泊まる宿泊施設を探してください．名前がスーパーホテル札幌・すすきのというところです．	general,hotel
+920	3	SYSTEM	こちらでお調べいたしました。	general,hotel
+920	4	USER	そちらの近辺の駅からの所要時間，料金情報，Wi-Fiの有無について教えて欲しいです。	general,hotel
+920	5	SYSTEM	近辺の駅からの所要時間は豊水すすきの駅から徒歩で2分 、すすきの駅から徒歩で5分で値段帯は安め、Wi-Fiの有無は有り(無料)になります。	general,hotel
+920	6	USER	ありがとうございました。	general,hotel

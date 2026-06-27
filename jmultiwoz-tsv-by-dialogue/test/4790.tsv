@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4790	0	USER	東京へ旅行にいくので、最寄り駅が北千住駅の飲食店を探してもらえますか？駐車場が無料のところで。	general,restaurant
+4790	1	SYSTEM	北千住で駐車場無料の飲食店はなさそうです。	general,restaurant
+4790	2	USER	そうですか。じゃあ駐車場なくてもいいです。	general,restaurant
+4790	3	SYSTEM	北千住の飲食店ならば、Italian Dining Vittoria 北千住店、こちら一択です。	general,restaurant
+4790	4	USER	そこにします。値段帯を教えてください。	general,restaurant
+4790	5	SYSTEM	普通になります。	general,restaurant
+4790	6	USER	わかりました。2人で2/27の14:30から予約をお願いします。	general,restaurant
+4790	7	SYSTEM	予約に失敗してしまいました。	general,restaurant
+4790	8	USER	そうですか。では1人に人数を変更します。	general,restaurant
+4790	9	SYSTEM	予約成功しました。予約番号は95710です。	general,restaurant
+4790	10	USER	ありがとうございます。	general,restaurant

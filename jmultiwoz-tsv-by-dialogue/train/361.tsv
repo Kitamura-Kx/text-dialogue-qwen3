@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+361	0	USER	お願いします。札幌へ旅行するのですが、食事ができるところを探しています。	general,restaurant
+361	1	SYSTEM	札幌のお食事処ですね。ジャンルやエリアなど、なにかご希望はございますでしょうか？	general,restaurant
+361	2	USER	場所等は問いません。予算は高めで結構です。ただ、wifiが無料で使える所が良いです。	general,restaurant
+361	3	SYSTEM	かしこまりました。そうしますと、和味酒彩 秋夏は如何でしょうか？お値段お高めの和食, 居酒屋となっております。	general,restaurant
+361	4	USER	そちらのお店の営業時間はわかりますか？	general,restaurant
+361	5	SYSTEM	はい。営業時間は、12:00～23:00です。	general,restaurant
+361	6	USER	わかりました。ありがとうございました。これで失礼します。	general,restaurant
+361	7	SYSTEM	本日はご利用ありがとうございました。	general,restaurant

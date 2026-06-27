@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4068	0	USER	仙台への旅行を計画しています． 当日食事ができる飲食店を探してください．地区は宮城野区です．Wi-Fiが無料で利用できるところにしてください．予算は高めが希望です．	general,restaurant,taxi,weather
+4068	1	SYSTEM	黒毛和牛一頭切り 伊達哉はいかがでしょうか。	general,restaurant,taxi,weather
+4068	2	USER	そちらの定休日を教えてください。	general,restaurant,taxi,weather
+4068	3	SYSTEM	定休日は月, 12/30-1/3です。	general,restaurant,taxi,weather
+4068	4	USER	そちらで人数は3人．日付は7/25で．時間は14:40で予約お願いします。	general,restaurant,taxi,weather
+4068	5	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,restaurant,taxi,weather
+4068	6	USER	予約できない場合は人数を2にかえてください。	general,restaurant,taxi,weather
+4068	7	SYSTEM	失礼しました。予約完了いたしました。予約番号は86506になります。	general,restaurant,taxi,weather
+4068	8	USER	ありがとうございます。あと当日利用できるタクシー会社を探してください．ジャンボタクシーを利用できるところにしてください．	general,restaurant,taxi,weather
+4068	9	SYSTEM	稲荷タクシー（有）はいかがでしょうか。	general,restaurant,taxi,weather
+4068	10	USER	そちらの電話番号とキャッシュレス対応について教えていただけますか。	general,restaurant,taxi,weather
+4068	11	SYSTEM	電話番号は0222411121でキャッシュレス対応は不明です。	general,restaurant,taxi,weather
+4068	12	USER	ありがとうございます。そちらで日付は7/25．時間は12:50．出発地はしまぬき本店というところで．目的地は先ほど見つけた飲食店で予約してほしいです。	general,restaurant,taxi,weather
+4068	13	SYSTEM	予約完了いたしました。予約番号は90394になります。	general,restaurant,taxi,weather
+4068	14	USER	ありがとうございます。あと、7/25の若林区の天気と最高気温を教えてください。	general,restaurant,taxi,weather
+4068	15	SYSTEM	天気は雨っで、最高気温は28.1度です。	general,restaurant,taxi,weather
+4068	16	USER	ありがとうございます。	general,restaurant,taxi,weather

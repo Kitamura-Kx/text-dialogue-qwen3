@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+389	0	USER	京都に旅行するのですが、書籍の買い物ができる場所はありますか？	general,shopping,restaurant
+389	1	SYSTEM	２件ありますね、誠光社とえほん館です	general,shopping,restaurant
+389	2	USER	えほん館、楽しそうですね。そちらにします。電話番号を教えてください。あと住所と営業時間も知りたいんですが？	general,shopping,restaurant
+389	3	SYSTEM	電話番号は0753834811、京都府京都市西京区桂下豆田町36-2、営業時間は朝１０時から夕方６時までです。	general,shopping,restaurant
+389	4	USER	お世話様です。食事できる場所も探してるんですが、駐車場とWi-Fiが無料で使えるところはありますか？	general,shopping,restaurant
+389	5	SYSTEM	残念ながら京都には駐車場をWifi両方無料のところはなさそうです。	general,shopping,restaurant
+389	6	USER	では、駐車場はなくても構いません。それならいかがですか？	general,shopping,restaurant
+389	7	SYSTEM	WiFi無料のところは３件ありますね。	general,shopping,restaurant
+389	8	USER	特にこだわりはないのでおすすめを一つ教えてください。	general,shopping,restaurant
+389	9	SYSTEM	それではスペインバル Ternuraなどはいかがでしょうか？	general,shopping,restaurant
+389	10	USER	おしゃれな感じでいいですね。エリア的にはどの辺になりますか？	general,shopping,restaurant
+389	11	SYSTEM	中京区ですね、河原町駅や祇園四条駅から徒歩圏です。	general,shopping,restaurant
+389	12	USER	わかりました。丁寧に対応していただきありがとうございました。	general,shopping,restaurant

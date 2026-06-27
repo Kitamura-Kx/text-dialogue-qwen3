@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2050	0	USER	京都に行こうと思っているのですが、寿司・魚料理のお店ってありますか？	general,restaurant,taxi
+2050	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,restaurant,taxi
+2050	2	USER	他の希望は特にありません。	general,restaurant,taxi
+2050	3	SYSTEM	かしこまりました。では、すし岩はいかがでしょうか？	general,restaurant,taxi
+2050	4	USER	ありがとうございます。そこにします。当日はジャンボタクシーを利用したいと考えているのですが、キャッシュレス払いができるところがいいです。	general,restaurant,taxi
+2050	5	SYSTEM	かしこまりました。では、都タクシー株式会社はいかがでしょうか？電話番号は0756616611になります。	general,restaurant,taxi
+2050	6	USER	ありがとうございます。そこのタクシー会社で予約もお願いしたいのですが、11/6の11:50でお願いします。出発地は先ほどの飲食店で、目的地はホテル飯田です。	general,restaurant,taxi
+2050	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、17221です。	general,restaurant,taxi
+2050	8	USER	ありがとうございます。	general,restaurant,taxi
+2050	9	SYSTEM	他にご用件はありますか？	general,restaurant,taxi
+2050	10	USER	いえ、大丈夫です。ありがとうございました。	general,restaurant,taxi

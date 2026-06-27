@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4590	0	USER	札幌への旅行を計画しています． 当日食事ができる飲食店を探してください．Wi-Fiが無料で利用できるところにしてください．地区は中央区です．予算は普通が希望で	general,restaurant,hotel,taxi
+4590	1	SYSTEM	HOKKAIDO CUISINE KAMUYはいかがでしょうか。	general,restaurant,hotel,taxi
+4590	2	USER	そちらの住所を教えていただけますか。	general,restaurant,hotel,taxi
+4590	3	SYSTEM	住所は北海道札幌市中央区大通西1丁目12 ザ ロイヤルパーク キャンバス 札幌大通公園 1Fです	general,restaurant,hotel,taxi
+4590	4	USER	ありがとうございます。あと、当日泊まる宿泊施設を探してください．予算は普通が希望です．最寄り駅が新道東駅のところにしてください．レストランが併設されているところにしてください．	general,restaurant,hotel,taxi
+4590	5	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,restaurant,hotel,taxi
+4590	6	USER	でしたら最寄りを札幌駅にしてください。	general,restaurant,hotel,taxi
+4590	7	SYSTEM	JRタワーホテル日航札幌はいかがでしょうか。	general,restaurant,hotel,taxi
+4590	8	USER	そちらの住所を教えていただけますか。	general,restaurant,hotel,taxi
+4590	9	SYSTEM	住所 北海道札幌市中央区北5条西2丁目5番地です。	general,restaurant,hotel,taxi
+4590	10	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してください．キャッシュレス払いできるところがいいです。	general,restaurant,hotel,taxi
+4590	11	SYSTEM	昭和交通(株)はいかがでしょうか。	general,restaurant,hotel,taxi
+4590	12	USER	そちらの電話番号を教えていただけますか。あと、そちらで日付は3/5です．時間は11:50です．出発地は先ほど見つけた飲食店です．目的地は先ほど見つけた宿泊所で予約お願いします。	general,restaurant,hotel,taxi
+4590	13	SYSTEM	予約完了いたしました。予約番号は13115になります。	general,restaurant,hotel,taxi
+4590	14	USER	すみません、電話番号も教えていただけますか。	general,restaurant,hotel,taxi
+4590	15	SYSTEM	電話番号は0117811525になります。	general,restaurant,hotel,taxi
+4590	16	USER		general,restaurant,hotel,taxi

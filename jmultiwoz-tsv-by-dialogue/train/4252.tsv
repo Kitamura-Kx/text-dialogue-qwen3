@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4252	0	USER	京都へ旅行したいと考えているのですが、無料WiFiが利用できる飲食店を探しております。	general,restaurant
+4252	1	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,restaurant
+4252	2	USER	分かりました。ではWiFiはなくてもかまいません。	general,restaurant
+4252	3	SYSTEM	ありがとうございます。そうしますと、いづう、という寿司・魚料理, 和食のお店はいかがでしょうか？	general,restaurant
+4252	4	USER	美味しそうなお店ですね、そこに行きたいと思います。エリアと住所をお聞きしてもよろしいですか？	general,restaurant
+4252	5	SYSTEM	はい、エリアは、東山区でございます。住所は、京都府京都市東山区清本町367です。	general,restaurant
+4252	6	USER	ありがとうございます。電話番号もお聞きしたいのですがよろしいですか？	general,restaurant
+4252	7	SYSTEM	はい、電話番号は、0755610751でございます。	general,restaurant
+4252	8	USER	ありがとうございます。では当日の予約をお願いしたいのですが、10月30日の12:50に3人で予約は可能でしょうか。	general,restaurant
+4252	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、15039です。	general,restaurant
+4252	10	USER	ありがとうございます。お聞きしたい事は以上になります。丁寧なご対応本当にありがとうございました。	general,restaurant
+4252	11	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,restaurant

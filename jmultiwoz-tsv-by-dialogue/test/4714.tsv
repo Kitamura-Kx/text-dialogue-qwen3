@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4714	0	USER	福岡へ旅行予定なのですが、当日泊まるリゾートホテルを探してくれますか？値段は普通くらいで、Wi-Fiが無料で使えるところがいいです。	general,hotel,restaurant
+4714	1	SYSTEM	WITH THE STYLE FUKUOKAと、GARDEN TERRACE FUKUOKA HOTEL&RESORTSがご紹介できます。	general,hotel,restaurant
+4714	2	USER	WITH THE STYLE FUKUOKAにします。料金情報と電話番号をわかる範囲で教えてください。	general,hotel,restaurant
+4714	3	SYSTEM	電話番号は、0924333900です。料金情報はございません。	general,hotel,restaurant
+4714	4	USER	わかりました。あと、安めでカフェ、スイーツを楽しみたいのですが、いいところはありますか？	general,hotel,restaurant
+4714	5	SYSTEM	Manlyや、 上島珈琲店 天神地下街店はいかがですか？	general,hotel,restaurant
+4714	6	USER	Manlyが気になりますね。最寄り駅と店のあるエリアが知りたいです。	general,hotel,restaurant
+4714	7	SYSTEM	福岡駅が最寄で、中央区になります。	general,hotel,restaurant
+4714	8	USER	わかりました。ありがとうございます。	general,hotel,restaurant
+4714	9	SYSTEM	ありがとうございました。	general,hotel,restaurant

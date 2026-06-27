@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+727	0	USER	京都に行くんですが、伏見駅近くで安めの宿泊施設はありますか？	general,hotel,shopping,weather
+727	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,shopping,weather
+727	2	USER	では、伏見駅近くでなくても構わないので、安いところ探してもらえますか？	general,hotel,shopping,weather
+727	3	SYSTEM	承知しました。そうしますと、東本願寺前 山田屋旅館という京都駅から7分の旅館はいかがでしょうか？	general,hotel,shopping,weather
+727	4	USER	ありがとうございます。そこの旅館にはWi-Fiはありますか？	general,hotel,shopping,weather
+727	5	SYSTEM	申し訳ありません。こちらにはWiFiは無いのですが、WiFiのある場所をお探ししましょうか？	general,hotel,shopping,weather
+727	6	USER	大丈夫です。あと、その旅館にレストランがありますでしょうか？	general,hotel,shopping,weather
+727	7	SYSTEM	申し訳ありません。レストランも、ございません。	general,hotel,shopping,weather
+727	8	USER	ありがとうございます。あと、当日買い物ができるところも探しているんですが、お願いできますか？	general,hotel,shopping,weather
+727	9	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,hotel,shopping,weather
+727	10	USER	無料駐車場があれば、どこでもいいです。	general,hotel,shopping,weather
+727	11	SYSTEM	かしこまりました。では、画箋堂という、ジャンルが文房具・雑貨のお店はいかがでしょうか？	general,hotel,shopping,weather
+727	12	USER	ありがとうございます。そのお店の住所を教えてください。	general,hotel,shopping,weather
+727	13	SYSTEM	かしこまりました。住所は、 京都府京都市下京区河原町通五条上る西橋詰町752です。	general,hotel,shopping,weather
+727	14	USER	ありがとうございました。あともう一つお願いしたいのですが、５月14日の左京区の最高気温を調べてもらえますでしょうか？	general,hotel,shopping,weather
+727	15	SYSTEM	かしこまりました。当日の最高気温は30.7度になる予想です。なお、天気は曇時々雨の予報となっております。	general,hotel,shopping,weather
+727	16	USER	ありがとうございました。	general,hotel,shopping,weather
+727	17	SYSTEM	ほかに何かお調べすることはございませんか？	general,hotel,shopping,weather
+727	18	USER	大丈夫です。ありがとうございました。	general,hotel,shopping,weather
+727	19	SYSTEM	では、本日はご利用ありがとうございました。	general,hotel,shopping,weather

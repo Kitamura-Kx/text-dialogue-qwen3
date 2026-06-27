@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+331	0	USER	こんにちは。名古屋に行った際に泊まる所を探しています。	general,hotel,weather
+331	1	SYSTEM	かしこまりました。100件ほどございますが、ご希望の条件はございますか。	general,hotel,weather
+331	2	USER	烏森駅付近でWi-Fiが無料利用できて予算帯が普通のところでお願いします。	general,hotel,weather
+331	3	SYSTEM	ではSakurAはいかがでしょうか。	general,hotel,weather
+331	4	USER	こちらの電話番号とチェックインできる時刻を教えてもらえませんか？	general,hotel,weather
+331	5	SYSTEM	電話番号は0523877555でございます。チェックイン開始時刻は16:00となっております。	general,hotel,weather
+331	6	USER	ありがとうございます。こちらで予約をお願いします。5/12から4泊、3人です。	general,hotel,weather
+331	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は6474でございます。	general,hotel,weather
+331	8	USER	助かります。あと、5/12の瑞穂区の天候が気になります。	general,hotel,weather
+331	9	SYSTEM	天気は晴時々曇、最低気温は13.3度、最高気温は26.5度でございます。	general,hotel,weather
+331	10	USER	とても助かります！ありがとうございました。	general,hotel,weather

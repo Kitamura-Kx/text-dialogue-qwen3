@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3775	0	USER	大阪への旅行を計画しているのですが、Wi-Fiが無料の飲食店を探してもらえますか？	general,restaurant,taxi
+3775	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,taxi
+3775	2	USER	じゃあWi-Fiは外してもらって大丈夫です。	general,restaurant,taxi
+3775	3	SYSTEM	承知しました。他にご希望はございますか？	general,restaurant,taxi
+3775	4	USER	いいえ、ありません。	general,restaurant,taxi
+3775	5	SYSTEM	では、エリアでいうと浪速区にある、TEPPANとワインと蕎麦 つなぐはいかがでしょう？ジャンルは、イタリアン、フレンチとなります。	general,restaurant,taxi
+3775	6	USER	そちらにします。あと、ジャンボタクシーを利用できるタクシー会社を探してもらえますか？	general,restaurant,taxi
+3775	7	SYSTEM	承知しました。では、東京・日本交通株式会社はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0666493171となります。	general,restaurant,taxi
+3775	8	USER	そちらで12/7の12:30に、TEPPANとワインと蕎麦 つなぐから幻想の国のアリスまでの予約をお願いできますか？	general,restaurant,taxi
+3775	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、19923となります。	general,restaurant,taxi
+3775	10	USER	ありがとうございました。	general,restaurant,taxi
+3775	11	SYSTEM	ありがとうございました。	general,restaurant,taxi

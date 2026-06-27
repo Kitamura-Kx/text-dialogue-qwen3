@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4299	0	USER	名古屋への旅行を計画していて、当日の観光名所を探しています。大須演芸場というところがいいのですが。	general,attraction,shopping
+4299	1	SYSTEM	かしこまりました。何かお調べすることはございますか？	general,attraction,shopping
+4299	2	USER	ありがとうございます。大須演芸場があるエリアとWi-Fiの有無は分かりますか？	general,attraction,shopping
+4299	3	SYSTEM	はい。エリアは中区で、Wi-Fiは不明となっております。申し訳ございません。	general,attraction,shopping
+4299	4	USER	ありがとうございます。当日はSUNSHINE SAKAEというお店で買い物もする予定ですが、お店の電話番号，住所は分かりますか？	general,attraction,shopping
+4299	5	SYSTEM	はい。電話番号は0523102211で、住所は愛知県名古屋市中区錦3丁目24-4でございます。	general,attraction,shopping
+4299	6	USER	ありがとうございました。	general,attraction,shopping
+4299	7	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,attraction,shopping

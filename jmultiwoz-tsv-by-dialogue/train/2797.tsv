@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2797	0	USER	横浜への旅行を検討しています。当日利用できる飲食店を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,restaurant,attraction
+2797	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant,attraction
+2797	2	USER	そうですね、和食のお店を探して欲しいです。Wi-Fiも無料で利用出来るとありがたいですね。	general,restaurant,attraction
+2797	3	SYSTEM	では、エリアでいうと中区にある、和んずはいかがでしょう？	general,restaurant,attraction
+2797	4	USER	では、そこで検討してみたいです。このお店の料金情報を教えて頂けますか？	general,restaurant,attraction
+2797	5	SYSTEM	はい、焼き鳥ねぎ肉1本180円、手羽先200円、匠の大山鶏からあげ　トマトの油淋鶏ソースを添えてが630円となります。	general,restaurant,attraction
+2797	6	USER	ありがとうございます。それと、このお店の最寄り駅ってわかりますかね？	general,restaurant,attraction
+2797	7	SYSTEM	最寄りの桜木町駅から徒歩で1分となります。	general,restaurant,attraction
+2797	8	USER	ありがとうございます。最後に、当日利用出来る観光名所も探しているのですが、このまま続けてもよろしいでしょうか？	general,restaurant,attraction
+2797	9	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant,attraction
+2797	10	USER	はい。駐車場が無料で利用出来る場所を探しています。	general,restaurant,attraction
+2797	11	SYSTEM	では、エリアでいうと鶴見区にある、三ツ池公園はいかがでしょう？ジャンルは、自然、公園となります。	general,restaurant,attraction
+2797	12	USER	では、そこで検討してみたいです。この施設の電話番号を教えて頂けますか？	general,restaurant,attraction
+2797	13	SYSTEM	電話番号は0455810287となります。	general,restaurant,attraction
+2797	14	USER	ありがとうございます。もう少し色々検討してみようと思います。ご対応、ありがとうございました。	general,restaurant,attraction
+2797	15	SYSTEM	ありがとうございました。	general,restaurant,attraction

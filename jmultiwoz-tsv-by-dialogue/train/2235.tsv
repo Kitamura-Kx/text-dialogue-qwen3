@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2235	0	USER	大阪に旅行に行くんですけど、西区で駐車場無料の買い物できる場所ってありますか？	general,shopping,attraction
+2235	1	SYSTEM	大阪に西区で駐車場無料の買い物といえば、イオン大阪ドームシティ店です。	general,shopping,attraction
+2235	2	USER	そこの電話番号は何番ですか？あと営業時間も教えてください。	general,shopping,attraction
+2235	3	SYSTEM	0665841500、営業時間は朝８時から夜１１時までです。	general,shopping,attraction
+2235	4	USER	助かりました。あと観光名所も聞いていいですか？鶴見緑地駅の近くで、Wi-FIと駐車場がただのところがあるといいんですけど。	general,shopping,attraction
+2235	5	SYSTEM	鶴見緑地でWiFi、駐車場無料といえば、鶴見緑地湯元 水春です。	general,shopping,attraction
+2235	6	USER	そこってエリア的にはどこってことになりますか？あと子供の入場料ってかかりますか？	general,shopping,attraction
+2235	7	SYSTEM	エリアは鶴見区、子供は中学生以上か小学生か、小学生未満かによってかわります	general,shopping,attraction
+2235	8	USER	それぞれ教えてもらっていいですかね？	general,shopping,attraction
+2235	9	SYSTEM	中学生以上は平日 ご入浴 820円 土日・祝 ご入浴 920円 平日 岩盤処 920円 土日・祝 岩盤処 1,020円 。小学生は平日 ご入浴 410円 土日・祝 ご入浴 460円平日 岩盤処 610円 土日・祝 岩盤処 710円 、幼児は10円 平日 ご入浴 土日・祝 ご入浴 260円で岩盤浴はできません。	general,shopping,attraction
+2235	10	USER	幼児10円って安すぎません？これ平日入浴の値段ですか？	general,shopping,attraction
+2235	11	SYSTEM	２１０円の記入間違いです、すいません。	general,shopping,attraction
+2235	12	USER	面倒な情報をお願いしてすみませんでした。よくわかりました。ありがとうございました。	general,shopping,attraction

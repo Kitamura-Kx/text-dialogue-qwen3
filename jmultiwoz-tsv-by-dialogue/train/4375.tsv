@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4375	0	USER	横浜へ旅行する際の宿泊施設を探していただきたいです。みなとみらい駅が最寄り駅となり、Wi-Fiが無料で利用できるところがいいです。レストランが併設されているところでお願いします。	general,hotel,weather
+4375	1	SYSTEM	それでしたら、横浜ベイホテル東急という西区エリアにあるシティホテルはいかがでしょうか？	general,hotel,weather
+4375	2	USER	ありがとうございます。そこにします。チェックアウト終了時刻，住所を教えていただけますか？	general,hotel,weather
+4375	3	SYSTEM	はい、チェックアウトは11時までとなっております。住所は、神奈川県横浜市西区みなとみらい2丁目3-7です。	general,hotel,weather
+4375	4	USER	ありがとうございます。あと、7/3の鶴見区の最低気温を教えていただけますか？	general,hotel,weather
+4375	5	SYSTEM	はい、当日の最低気温は26度の予想となっております。	general,hotel,weather
+4375	6	USER	ありがとうございます。	general,hotel,weather
+4375	7	SYSTEM	他にお調べすることはございませんか？	general,hotel,weather
+4375	8	USER	はい、だいじょうぶです。ありがとうございました。	general,hotel,weather
+4375	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,weather

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4052	0	USER	福岡への旅行を計画しています。 観光名所を探してください。	general,attraction
+4052	1	SYSTEM	かしこまりました。その条件ですと48件ほどございますが、何かこだわりはありますか？	general,attraction
+4052	2	USER	駐車場を無料で利用できるところにしてください。ジャンルは絶景が希望です。	general,attraction
+4052	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction
+4052	4	USER	そうですか。ではジャンルは考慮しないものとします。	general,attraction
+4052	5	SYSTEM	かしこまりました。それでは住吉神社はいかがでしょうか？	general,attraction
+4052	6	USER	その観光地の営業時間，大人入場料，電話番号を教えてください。	general,attraction
+4052	7	SYSTEM	はい、営業時間は0時から0時で、大人入場料はかかりません。	general,attraction
+4052	8	USER	電話番号はわかりますか？	general,attraction
+4052	9	SYSTEM	はい、電話番号は0922912670でございます。	general,attraction
+4052	10	USER	解決しました。ありがとうございました。	general,attraction

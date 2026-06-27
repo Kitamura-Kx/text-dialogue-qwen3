@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1621	0	USER	こんにちは。大阪に旅行するので、レストランを探しています。	general,restaurant,weather,taxi
+1621	1	SYSTEM	大阪のお食事処ですね。お食事のジャンルやエリアなど、何かご希望はございますか？	general,restaurant,weather,taxi
+1621	2	USER	もよりが難波駅で、Wi-Fiが無料のところが良いですね	general,restaurant,weather,taxi
+1621	3	SYSTEM	そういたしますと、ミゲルフアニ なんばダイニングメゾン店という、洋食・西洋料理ジャンルのお店はいかがでしょうか？	general,restaurant,weather,taxi
+1621	4	USER	予算はどれくらいでしょうか？普通ぐらいがいいんですが	general,restaurant,weather,taxi
+1621	5	SYSTEM	はい、こちらのお店も値段帯は普通となっております。他のお店も探しましょうか？	general,restaurant,weather,taxi
+1621	6	USER	いえ、ではそれでお願いします。1月26日の16時10分、二人で予約してもらえますか？	general,restaurant,weather,taxi
+1621	7	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、96156です。	general,restaurant,weather,taxi
+1621	8	USER	ありがとうございます。では、天気を調べて欲しいのですが、予約当日の東住吉区の天気は分かりますか？	general,restaurant,weather,taxi
+1621	9	SYSTEM	お調べするお日にちですが、ご予約当日ということは1月26日でよろしかったでしょうか？	general,restaurant,weather,taxi
+1621	10	USER	はい、そうです。特に最高気温が知りたいですね	general,restaurant,weather,taxi
+1621	11	SYSTEM	かしこまりました。当日の最高気温は16.7度になる予想です。なお、天気は、晴時々曇の予報となっております。	general,restaurant,weather,taxi
+1621	12	USER	ありがとうございます。では、当日のタクシーも手配したいので、キャッシュレス払いできるところを探してもらえますか？	general,restaurant,weather,taxi
+1621	13	SYSTEM	かしこまりました。そうしますと、東京・日本交通株式会社はいかがでしょうか？こちらでしたら、ジャンボタクシーもご利用いただけますよ。	general,restaurant,weather,taxi
+1621	14	USER	いいですね。では、とりあえず電話番号を教えてください	general,restaurant,weather,taxi
+1621	15	SYSTEM	電話番号は、0666493171です。	general,restaurant,weather,taxi
+1621	16	USER	そのタクシー会社で1月26日の14時30分、出発地は、ままごとや、というところから予約したいのですが、できますか？	general,restaurant,weather,taxi
+1621	17	SYSTEM	はい、承ります。ご利用する際の目的地はお決まりでしょうか？	general,restaurant,weather,taxi
+1621	18	USER	先ほどのミゲルフアニというお店でお願いします	general,restaurant,weather,taxi
+1621	19	SYSTEM	かしこまりました。ただ申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,restaurant,weather,taxi
+1621	20	USER	仕方ないですね。15時30分ならどうでしょう？	general,restaurant,weather,taxi
+1621	21	SYSTEM	ありがとうございます。15時30分にてご予約完了いたしました。予約番号は、67753です。	general,restaurant,weather,taxi
+1621	22	USER	では、ありがとうございました	general,restaurant,weather,taxi
+1621	23	SYSTEM	他になにかお調べすることはございませんか？	general,restaurant,weather,taxi
+1621	24	USER	いえ、大丈夫です	general,restaurant,weather,taxi
+1621	25	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,weather,taxi

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1181	0	USER	京都への旅行を考えているのですが、ステーキ花郷 祇園店という飲食店はありますか？	general,restaurant,weather
+1181	1	SYSTEM	はい、エリアでいうと東山区にございます。何かご案内致しましょうか？	general,restaurant,weather
+1181	2	USER	わかりました。定休日と住所を教えてください。あと予約もしたいです。	general,restaurant,weather
+1181	3	SYSTEM	承知しました。住所は京都府京都市東山区橋本町404 新橋クリスタルビル、定休日は水曜日となります。恐れ入りますが、予約の日時と人数を教えていただけますか？	general,restaurant,weather
+1181	4	USER	はい。人数は3人で、6/26の時間は14:30でお願いします。	general,restaurant,weather
+1181	5	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、52506となります。他にご案内できることはございますか？	general,restaurant,weather
+1181	6	USER	ありがとうございます。当日6/26の南区の天気も知りたいです。	general,restaurant,weather
+1181	7	SYSTEM	承知しました。天気は晴、最低気温21.5度、最高気温25.4度となります。他にご用件はございますか？	general,restaurant,weather
+1181	8	USER	わかりました。もう大丈夫です！	general,restaurant,weather
+1181	9	SYSTEM	ありがとうございました。	general,restaurant,weather

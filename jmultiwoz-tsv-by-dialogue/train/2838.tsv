@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2838	0	USER	こんにちは。大阪旅行の際の、飲食店を探してほしいんですが。郷土料理系で、予算が普通のところを希望してます。	general,restaurant,hotel,taxi
+2838	1	SYSTEM	承知しました。エリアでいうと浪速区に、沖縄ん家 てりとりーがございます。	general,restaurant,hotel,taxi
+2838	2	USER	ありがとうございます。最寄りの駅とWi-Fiの有無もわかったら教えてください。	general,restaurant,hotel,taxi
+2838	3	SYSTEM	Wi-Fiは無料でご利用いただけます。最寄りのなんば駅から徒歩で3分となります。	general,restaurant,hotel,taxi
+2838	4	USER	ありがとうございます。当日泊まるホテルも探していただけますか？Wi-Fiが無料で使えて予算が安めの、シティホテルがいいです。	general,restaurant,hotel,taxi
+2838	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,hotel,taxi
+2838	6	USER	じゃあシティホテルじゃなくても大丈夫です。	general,restaurant,hotel,taxi
+2838	7	SYSTEM	では、エリアでいうと天王寺区にある、和空 下寺町はいかがでしょう？タイプは旅館となります。	general,restaurant,hotel,taxi
+2838	8	USER	ありがとうございます。その旅館の近辺の駅からの所要時間もわかりますか？	general,restaurant,hotel,taxi
+2838	9	SYSTEM	最寄りの四天王寺前夕陽ヶ丘駅から徒歩で6分となります。	general,restaurant,hotel,taxi
+2838	10	USER	ありがとうございます。当日使うタクシー会社も探してほしいです。ジャンボタクシーが利用できるところがいいです。	general,restaurant,hotel,taxi
+2838	11	SYSTEM	申し訳ありません、ジャンボタクシー対応のタクシー会社はございません。いかが致しましょう？	general,restaurant,hotel,taxi
+2838	12	USER	じゃあジャンボタクシー使えなくても大丈夫です。	general,restaurant,hotel,taxi
+2838	13	SYSTEM	駒姫タクシーグループはいかがでしょう？キャッシュレスには対応しております。電話番号は0666858451となります。	general,restaurant,hotel,taxi
+2838	14	USER	ありがとうございます。そこのタクシー会社で予約もお願いします。9/1の15:10、出発地は沖縄ん家 てりとりー、目的地は和空 下寺町でお願いします。	general,restaurant,hotel,taxi
+2838	15	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,restaurant,hotel,taxi
+2838	16	USER	じゃあ時間を15：40に変更したら予約できそうですか？	general,restaurant,hotel,taxi
+2838	17	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、10541となります。他にご用件はございますか？	general,restaurant,hotel,taxi
+2838	18	USER	いえ、これで十分です。ありがとうございました。	general,restaurant,hotel,taxi
+2838	19	SYSTEM	ありがとうございました。	general,restaurant,hotel,taxi

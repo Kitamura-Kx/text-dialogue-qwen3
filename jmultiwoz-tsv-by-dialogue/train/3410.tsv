@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3410	0	USER	東京でWi-Fiが無料のカフェ・スイーツのお店を探しています。	general,restaurant,hotel,weather
+3410	1	SYSTEM	アナログ八重洲は、いかがですか？	general,restaurant,hotel,weather
+3410	2	USER	エリアと駐車場があるかを教えてください。	general,restaurant,hotel,weather
+3410	3	SYSTEM	エリアは、中央区で駐車場は、不明となっております。	general,restaurant,hotel,weather
+3410	4	USER	わかりました。あと、泊まる場所でシティホテルのタイプで駐車場が無料のところはありますか？	general,restaurant,hotel,weather
+3410	5	SYSTEM	The Okura Tokyoは、どうですか？	general,restaurant,hotel,weather
+3410	6	USER	住所はどこになりますか？	general,restaurant,hotel,weather
+3410	7	SYSTEM	住所は、東京都港区虎ノ門2丁目10-4です。	general,restaurant,hotel,weather
+3410	8	USER	ありがとうございます。最後に5/31の江戸川区の天気を教えてください。	general,restaurant,hotel,weather
+3410	9	SYSTEM	天気は、雨の予報です。	general,restaurant,hotel,weather
+3410	10	USER	わかりました。ありがとうございました。	general,restaurant,hotel,weather
+3410	11	SYSTEM	他にご用件はありますか？	general,restaurant,hotel,weather
+3410	12	USER	大丈夫です。	general,restaurant,hotel,weather

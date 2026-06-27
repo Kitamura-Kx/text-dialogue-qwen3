@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2072	0	USER	名古屋の名東区で買い物ができるところはありますか？最寄り駅が桜山駅だと嬉しいのですが。	general,shopping,weather,taxi
+2072	1	SYSTEM	申し訳ございません。その条件ですとお買い物が出来る店舗をお探しすることが出来ませんでした。	general,shopping,weather,taxi
+2072	2	USER	そうですか。では、最寄り駅はどこでもいいので、名東区で駐車場が無料で使えるお店を探してもらえますか？	general,shopping,weather,taxi
+2072	3	SYSTEM	かしこまりました。それではアイスランドマーケットがございます。	general,shopping,weather,taxi
+2072	4	USER	そこに行ってみようと思います。あと、当日8/25の北区の天候を教えてもらえますか？	general,shopping,weather,taxi
+2072	5	SYSTEM	ありがとうございます。当日の北区の天気は晴時々曇、最低気温が27.3度、最高気温が33.2度でございます。	general,shopping,weather,taxi
+2072	6	USER	ありがとう。当日タクシーを利用するのでタクシー会社を探してください。ジャンボタクシーにもキャッシュレス払いにも対応しているところがいいです。	general,shopping,weather,taxi
+2072	7	SYSTEM	かしこまりました。それではつばめタクシーグループはいかがでしょうか？	general,shopping,weather,taxi
+2072	8	USER	いいですね。電話番号を教えてもらえますか？	general,shopping,weather,taxi
+2072	9	SYSTEM	電話番号は0522031212でございます。	general,shopping,weather,taxi
+2072	10	USER	予約をお願いします。8/25の15:00に、若宮八幡社からアイスランドマーケットまで。	general,shopping,weather,taxi
+2072	11	SYSTEM	かしこまりました。お待たせ致しました。予約番号84313でご予約させていただきました。	general,shopping,weather,taxi
+2072	12	USER	わかりました。どうもありがとうございました。	general,shopping,weather,taxi

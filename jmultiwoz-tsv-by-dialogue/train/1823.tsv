@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1823	0	USER	横浜への旅行を計画中です、海の公園南口駅近くでWiFi無料の観光名所はありますか？	general,attraction,restaurant,taxi
+1823	1	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction,restaurant,taxi
+1823	2	USER	それではWiFiはこだわりません	general,attraction,restaurant,taxi
+1823	3	SYSTEM	かしこまりました。では、海の公園はいかがでしょうか？	general,attraction,restaurant,taxi
+1823	4	USER	「海の公園」はどんなジャンルですか？	general,attraction,restaurant,taxi
+1823	5	SYSTEM	はい。ジャンルは、自然・公園, アウトドア, スポーツ・フィットネスとなっております。	general,attraction,restaurant,taxi
+1823	6	USER	有難うございます、当日の飲食店も教えて下さい。WiFiが無料のお店が希望です。	general,attraction,restaurant,taxi
+1823	7	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,attraction,restaurant,taxi
+1823	8	USER	それではWiFiは無くても大丈夫です	general,attraction,restaurant,taxi
+1823	9	SYSTEM	かしこまりました。では、ぎんざ磯むら 関内駅前店はいかがでしょうか？	general,attraction,restaurant,taxi
+1823	10	USER	「ぎんざ磯むら 関内駅前店」の最寄り駅はどちらですか？	general,attraction,restaurant,taxi
+1823	11	SYSTEM	はい。最寄り駅は関内駅になります。	general,attraction,restaurant,taxi
+1823	12	USER	わかりました、タクシーも利用したいのですがキャッシュレス対応可能な会社はありますか？	general,attraction,restaurant,taxi
+1823	13	SYSTEM	かしこまりました。では、京浜ハイヤー株式会社はいかがでしょうか？	general,attraction,restaurant,taxi
+1823	14	USER	「京浜ハイヤー株式会社」はジャンボタクシーは対応可能ですか？	general,attraction,restaurant,taxi
+1823	15	SYSTEM	はい。対応可能ですよ。ご予約されますか？	general,attraction,restaurant,taxi
+1823	16	USER	「京浜ハイヤー株式会社」でタクシーの予約をお願いします。11/13の14：00に「海の公園」から「ぎんざ磯むら 関内駅前店」までお願いします	general,attraction,restaurant,taxi
+1823	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、87666です。	general,attraction,restaurant,taxi
+1823	18	USER	後は大丈夫です、助かりました有難うございました。	general,attraction,restaurant,taxi
+1823	19	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,taxi

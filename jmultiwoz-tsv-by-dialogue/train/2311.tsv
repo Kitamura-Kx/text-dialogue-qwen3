@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2311	0	USER	大阪の観光名所を探しています。鶴見区で無料駐車場があるスポットはありますか？	general,attraction
+2311	1	SYSTEM	鶴見緑地湯元 水春は、いかがでしょうか？	general,attraction
+2311	2	USER	ちなみに、Wifiが使える場所ですか？あと、子供の入場料も知りたいです。	general,attraction
+2311	3	SYSTEM	はい、無料Wi-Fiの利用が可能です。	general,attraction
+2311	4	USER	子供の入場料金はいくらですか？	general,attraction
+2311	5	SYSTEM	申し訳ありません。小人 (小学生)平日410円、土日祝日は450円となっています。なお小学生未満の幼児は平日210円、土日祝日260円です。	general,attraction
+2311	6	USER	料金設定が細かいのですね。分かりました。ありがとうございます！	general,attraction

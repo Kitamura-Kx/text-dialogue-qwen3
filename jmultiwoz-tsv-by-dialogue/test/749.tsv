@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+749	0	USER	名古屋へ旅行する予定なのですが、駐車場が無料で、買い物できる場所を探してください。	general,shopping,taxi,weather
+749	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,shopping,taxi,weather
+749	2	USER	そうですか。では駐車場はなくてもいいです。	general,shopping,taxi,weather
+749	3	SYSTEM	ありがとうございます。そういたしますと、22件ご案内可能です。たとえば、童具店・名古屋というファションのジャンルのお店はいかがでしょうか？	general,shopping,taxi,weather
+749	4	USER	そこにします。住所と最寄り駅を教えてください。	general,shopping,taxi,weather
+749	5	SYSTEM	住所は、愛知県名古屋市中区錦1丁目10-27 1階でございます。最寄りは伏見駅で、徒歩2分の距離です。	general,shopping,taxi,weather
+749	6	USER	わかりました。当日タクシーを利用したいのですが、ジャンボタクシーがあって、キャッシュレス払いができるところありますか？	general,shopping,taxi,weather
+749	7	SYSTEM	大変申し訳ございません。その条件では、該当するタクシー会社がありませんでした。	general,shopping,taxi,weather
+749	8	USER	なるほど。ジャンボタクシーは利用できなくても大丈夫です。	general,shopping,taxi,weather
+749	9	SYSTEM	ありがとうございます。では、名鉄交通第一は如何でしょうか？	general,shopping,taxi,weather
+749	10	USER	そこにします。電話番号を教えてください。	general,shopping,taxi,weather
+749	11	SYSTEM	電話番号は、0570085255です。予約もなさいますか？	general,shopping,taxi,weather
+749	12	USER	はい。7月30日の13時で、SAMURAI HOUSEから童具店・名古屋までお願いします。	general,shopping,taxi,weather
+749	13	SYSTEM	かしこまりました。ご予約番号84936にて、予約を完了いたしました。	general,shopping,taxi,weather
+749	14	USER	ありがとうございます。当日7月30日の千種区の天候を教えてください。	general,shopping,taxi,weather
+749	15	SYSTEM	かしこまりました。当日の天気は雨時々曇りの予報です。最低気温は26.2度、最高気温は30.1度の予想となっております。	general,shopping,taxi,weather
+749	16	USER	わかりました。ありがとうございます。	general,shopping,taxi,weather
+749	17	SYSTEM	他にお調べすることはございますか？	general,shopping,taxi,weather
+749	18	USER	大丈夫です。	general,shopping,taxi,weather
+749	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,taxi,weather

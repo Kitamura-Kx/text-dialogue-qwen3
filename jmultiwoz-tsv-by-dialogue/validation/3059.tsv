@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3059	0	USER	大阪への旅行を検討しています。当日訪れる観光名所を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,attraction,taxi
+3059	1	SYSTEM	はい、ご希望をどうぞ	general,attraction,taxi
+3059	2	USER	ありがとうございます。Wi-Fiと駐車場が無料で利用できる施設を探しているのですが、どうでしょうか？	general,attraction,taxi
+3059	3	SYSTEM	大阪でWifiと駐車場が無料の観光名所といえば、鶴見緑地湯元 水春、こちらになります。	general,attraction,taxi
+3059	4	USER	ありがとうございます。この施設の近辺の駅からの所要時間ってわかりますか？	general,attraction,taxi
+3059	5	SYSTEM	鶴見緑地駅から徒歩で2分になります。	general,attraction,taxi
+3059	6	USER	ありがとうございます。電話番号も教えて貰えますか？	general,attraction,taxi
+3059	7	SYSTEM	0642571126になります	general,attraction,taxi
+3059	8	USER	ありがとうございます。最後に、当日利用するタクシー会社についてもお伺いしたいのですが、よろしいでしょうか？	general,attraction,taxi
+3059	9	SYSTEM	はい、どうぞ	general,attraction,taxi
+3059	10	USER	ありがとうございます。キャッシュレス払いが出来て、ジャンボタクシーも利用出来るタクシー会社さんってありますかね？	general,attraction,taxi
+3059	11	SYSTEM	いくつかありますが、株式会社国際興業大阪、こちらをお勧めします。	general,attraction,taxi
+3059	12	USER	そちらにしてみようと思います。この会社の電話番号ってわかりますか？	general,attraction,taxi
+3059	13	SYSTEM	0570035931になります。	general,attraction,taxi
+3059	14	USER	ありがとうございます。電話番号を聞いておいて何ですが、このまま予約をお願いしてもよろしいでしょうか？	general,attraction,taxi
+3059	15	SYSTEM	はい、日付と出発時刻、出発地と目的地をお願いします。	general,attraction,taxi
+3059	16	USER	はい。1月5日の9:40で、創作天ぷらと酒とワイン ぷらりんから、鶴見緑地湯元 水春まででお願いしたいです。	general,attraction,taxi
+3059	17	SYSTEM	この条件で予約成功しました。予約番号は36363です。	general,attraction,taxi
+3059	18	USER	ありがとうございます。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,attraction,taxi
+3059	19	SYSTEM	よい旅を	general,attraction,taxi

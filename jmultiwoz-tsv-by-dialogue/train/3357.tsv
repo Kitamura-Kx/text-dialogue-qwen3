@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3357	0	USER	札幌への旅行を計画中で、旅館を探しています。無料の駐車場とWi-fi付きが良いです。	general,hotel
+3357	1	SYSTEM	定山渓温泉 ぬくもりの宿 ふる川をご紹介できます。	general,hotel
+3357	2	USER	そこにしようと思います。電話番号を教えてください。	general,hotel
+3357	3	SYSTEM	0115982345です。	general,hotel
+3357	4	USER	助かります。ありがとうございます。	general,hotel
+3357	5	SYSTEM	とんでもないです。	general,hotel
+3357	6	USER	では、失礼します。	general,hotel

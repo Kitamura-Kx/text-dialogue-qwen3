@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4174	0	USER	名古屋旅行で食事ができるところを探しています。駐車場とWifiが無料のところはありますか？	general,restaurant,attraction,taxi
+4174	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,restaurant,attraction,taxi
+4174	2	USER	では、駐車場はなしだとどうですか？	general,restaurant,attraction,taxi
+4174	3	SYSTEM	ではとり焼肉 もう壱鳥はいかがですか？	general,restaurant,attraction,taxi
+4174	4	USER	そこの予約をしたいです。10月24日の10時から、2人でお願いします。	general,restaurant,attraction,taxi
+4174	5	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant,attraction,taxi
+4174	6	USER	では、11時だとどうですか？	general,restaurant,attraction,taxi
+4174	7	SYSTEM	予約出来ました。予約番号は、50103です。	general,restaurant,attraction,taxi
+4174	8	USER	ありがとうございます。その日行く観光名所も探したいのですが、昭和区でいいところはありますか？	general,restaurant,attraction,taxi
+4174	9	SYSTEM	八事山興正寺はどうですか？	general,restaurant,attraction,taxi
+4174	10	USER	そこはWifiと駐車場は無料ですか？	general,restaurant,attraction,taxi
+4174	11	SYSTEM	Wi-Fiは、不明となっています。　駐車場については、有料駐車場がございます。	general,restaurant,attraction,taxi
+4174	12	USER	では、Wifiはなくてもいいので、駐車場が無料のところはありますか？	general,restaurant,attraction,taxi
+4174	13	SYSTEM	では、昭和美術館(公益財団法人後藤報恩会)はいかがですか？	general,restaurant,attraction,taxi
+4174	14	USER	定休日と大人の入場料を教えてください。	general,restaurant,attraction,taxi
+4174	15	SYSTEM	定休日は、月曜と火曜、年末年始です。　入場料は、大人600円です。	general,restaurant,attraction,taxi
+4174	16	USER	ありがとうございます。タクシーも使いたいのですが、キャッシュレス払いできて、ジャンボタクシーがある会社はありますか？	general,restaurant,attraction,taxi
+4174	17	SYSTEM	では、伸和交通はいかがですか？	general,restaurant,attraction,taxi
+4174	18	USER	そこにします。電話番号を教えてください。	general,restaurant,attraction,taxi
+4174	19	SYSTEM	電話番号は、0522031212です。	general,restaurant,attraction,taxi
+4174	20	USER	10月24日の12時からで、とり焼肉 もう壱鳥から昭和美術館(公益財団法人後藤報恩会)までで予約したいのですが。	general,restaurant,attraction,taxi
+4174	21	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant,attraction,taxi
+4174	22	USER	じゃあ12時50分だとどうですか？	general,restaurant,attraction,taxi
+4174	23	SYSTEM	予約出来ました。予約番号は、56253です。	general,restaurant,attraction,taxi
+4174	24	USER	ありがとうございます。後は大丈夫です。	general,restaurant,attraction,taxi
+4174	25	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,taxi

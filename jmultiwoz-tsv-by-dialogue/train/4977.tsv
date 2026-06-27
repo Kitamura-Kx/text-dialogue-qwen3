@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4977	0	USER	こんにちは。那覇で、最寄り駅が那覇空港駅の観光名所を探しています。駐車場は無料でお願いしたいです。	general,attraction,hotel
+4977	1	SYSTEM	こんにちは。パイナップルハウスはいかがでしょうか？	general,attraction,hotel
+4977	2	USER	その店でお願いします。Wi-Fiの有無と、営業時間、それと住所はわかりますか？	general,attraction,hotel
+4977	3	SYSTEM	Wi-Fiは有りません。営業時間は10:00～17:00です。住所は沖縄県那覇市鏡水684-1です。	general,attraction,hotel
+4977	4	USER	そうですか。それから、当日は宿泊施設を利用したいです。最寄り駅が赤嶺駅で、レストランが併設されていてWi-Fiが無料のところはありますか？	general,attraction,hotel
+4977	5	SYSTEM	承知しました。ホテルグランビュー沖縄はいかがでしょうか？	general,attraction,hotel
+4977	6	USER	そこで頼みます。チェックイン開始時刻と、最寄り駅からの時間はどれくらいですか？	general,attraction,hotel
+4977	7	SYSTEM	チェックイン開始時刻は15:00です。赤嶺駅から徒歩で1分です。	general,attraction,hotel
+4977	8	USER	では、人数は3人、1月17日から2泊予定で予約をお願いします。	general,attraction,hotel
+4977	9	SYSTEM	申し訳ありません。その条件では予約ができませんでした。	general,attraction,hotel
+4977	10	USER	1泊に変えてみても無理でしょうか？	general,attraction,hotel
+4977	11	SYSTEM	予約完了しました。予約番号は58040です。	general,attraction,hotel
+4977	12	USER	助かりました。ありがとうございます。	general,attraction,hotel

@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+59	0	USER	横浜に行く計画を立ててまして。	general,attraction,hotel,taxi
+59	1	SYSTEM	横浜ですね。どういった計画でしょう？	general,attraction,hotel,taxi
+59	2	USER	三溪園に行こうと思っています。観光地らしいんですが。	general,attraction,hotel,taxi
+59	3	SYSTEM	中区にございますね。何かお調べしましょうか？	general,attraction,hotel,taxi
+59	4	USER	お休みの日は分かりますか？	general,attraction,hotel,taxi
+59	5	SYSTEM	はい、定休日は、12月29日から31日までの3日間となっております。	general,attraction,hotel,taxi
+59	6	USER	そうなんですね。えーっと、エリア的には、どこになるんでしょう？	general,attraction,hotel,taxi
+59	7	SYSTEM	エリアとしては、中区になります。	general,attraction,hotel,taxi
+59	8	USER	なるほど。あ、それと、ホテルを探してもらってもいいですか？	general,attraction,hotel,taxi
+59	9	SYSTEM	承知致しました。 エリアなど、ご希望はございますか？	general,attraction,hotel,taxi
+59	10	USER	新横浜グレイスホテルというところをピンポイントでさがしてもらったりできますでしょうか？	general,attraction,hotel,taxi
+59	11	SYSTEM	はい、可能でございます。	general,attraction,hotel,taxi
+59	12	USER	たすかります。そのホテルにしようと思ってるんですが、詳しく教えてもらいたいです。	general,attraction,hotel,taxi
+59	13	SYSTEM	承知致しました。 電話番号は、0454745111、住所は横浜市港北区新横浜3丁目6-15となっております。 チェックイン開始時刻は15時、チェックアウト終了時刻は11時となります。	general,attraction,hotel,taxi
+59	14	USER	ありがとうございます。それじゃ、予約入れてもらえますか？	general,attraction,hotel,taxi
+59	15	SYSTEM	承知致しました。 宿泊人数と宿泊日、宿泊日数はお決まりでしょうか？	general,attraction,hotel,taxi
+59	16	USER	人数は4人でお願いします。10月の25日からの2日間で予約可能ですか？	general,attraction,hotel,taxi
+59	17	SYSTEM	ありがとうございます。 ご予約完了致しました。 予約番号は、10535　となります。	general,attraction,hotel,taxi
+59	18	USER	分かりました。最後にもう一つ。タクシーでキャッシュレスで支払えるところを探してください。	general,attraction,hotel,taxi
+59	19	SYSTEM	承知致しました。 株式会社グリーンキャブはいかがでしょう？ キャッシュレスに対応しております。	general,attraction,hotel,taxi
+59	20	USER	そこにしますね。電話番号、いいですか？	general,attraction,hotel,taxi
+59	21	SYSTEM	はい、電話番号は、0456638181となります。	general,attraction,hotel,taxi
+59	22	USER	配車もお願いしたくて。10月25日、昼の1時50分出発予定で、三溪園からさっきのホテルまで乗せてもらいたいです。	general,attraction,hotel,taxi
+59	23	SYSTEM	申し訳ございません。その条件では予約ができませんでした。 いかが致しましょう？	general,attraction,hotel,taxi
+59	24	USER	それじゃあ、出発予定を1時間遅らせます。	general,attraction,hotel,taxi
+59	25	SYSTEM	ありがとうございます。 14時50分出発で、ご予約完了致しました。 予約番号は、30292　となります。	general,attraction,hotel,taxi
+59	26	USER	ありがとうございました。これで安心して旅行できそうです。	general,attraction,hotel,taxi
+59	27	SYSTEM	他にご用件はございますか？	general,attraction,hotel,taxi
+59	28	USER	いえ、もう結構です。また何かあったら、その時はよろしくお願いします。	general,attraction,hotel,taxi
+59	29	SYSTEM	承知致しました。 ありがとうございました。	general,attraction,hotel,taxi

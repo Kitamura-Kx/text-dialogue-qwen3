@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1563	0	USER	仙台へ行こうと思っているんですが。	general,shopping
+1563	1	SYSTEM	仙台へのご旅行ですね。どういった情報をお探しでしょうか？	general,shopping
+1563	2	USER	無料駐車場があるスーパーマーケットを探しています。エリアなどは特に希望無いです。	general,shopping
+1563	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping
+1563	4	USER	では、ジャンルは問わないのでスーパーマーケット以外で無料駐車場がある買い物ができるところはありますか？	general,shopping
+1563	5	SYSTEM	はい、そうしますと例えば、ララガーデン長町というショッピングモールはいかがでしょうか？	general,shopping
+1563	6	USER	ありがとうございます。そちらの住所とエリアと定休日を教えてください。	general,shopping
+1563	7	SYSTEM	住所は、宮城県仙台市太白区長町7丁目20-5です。エリアは太白区となります。定休日はございません。	general,shopping
+1563	8	USER	分かりました。ありがとうございます。	general,shopping
+1563	9	SYSTEM	他にお調べすることはございますか？	general,shopping
+1563	10	USER	特にありません。ありがとうございました。	general,shopping
+1563	11	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,shopping

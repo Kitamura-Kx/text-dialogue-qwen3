@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+434	0	USER	東京へ行こうと思っています。葛飾区で旅行用品が買えるお店を探していただきたいです。	general,shopping
+434	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping
+434	2	USER	では葛飾区でジャンルを問わずお店を探していただけますか？	general,shopping
+434	3	SYSTEM	たべものと日用品 WAOはいかがでしょうか。ジャンルは食料品, 文房具・雑貨でございます。	general,shopping
+434	4	USER	そちらのお店の最寄り駅と駐車場の有無を教えていただけますでしょうか。	general,shopping
+434	5	SYSTEM	最寄り駅は金町駅で、駐車場の有無は不明でございます。	general,shopping
+434	6	USER	わかりました。ありがとうございます。	general,shopping
+434	7	SYSTEM	ほかにご用件はございませんか。	general,shopping
+434	8	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping

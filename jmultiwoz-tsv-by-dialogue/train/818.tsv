@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+818	0	USER	名古屋へ旅行予定なのですが、Wi-Fiが無料で利用できて、無料駐車場がある観光名所を調べてもらえますか？	general,attraction
+818	1	SYSTEM	かしこまりました。3件該当がございます。たとえば、トヨタ産業技術記念館という、美術館・博物館, 科学館ジャンルの場所はいかがでしょうか？	general,attraction
+818	2	USER	そこにします。大人入場料を教えてもらえますか？	general,attraction
+818	3	SYSTEM	大人入場料は500円です。65歳以上になりますと、300円となります。	general,attraction
+818	4	USER	わかりました。ありがとうございます。	general,attraction
+818	5	SYSTEM	ほかにお調べすることはございますか？	general,attraction
+818	6	USER	いえ、もう大丈夫です。	general,attraction
+818	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

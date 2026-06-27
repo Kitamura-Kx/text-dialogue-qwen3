@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3003	0	USER	札幌への旅行を計画しています。 観光名所を探してください。	general,attraction
+3003	1	SYSTEM	ご希望の条件をおきかせください。	general,attraction
+3003	2	USER	ジャンルは温泉、駐車場を無料で利用できるところが希望です。	general,attraction
+3003	3	SYSTEM	札幌で駐車場無料の温泉といえば、シャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートになります。	general,attraction
+3003	4	USER	そちらの大人入場料，電話番号が知りたいです。	general,attraction
+3003	5	SYSTEM	入場料は不明ですね。どうやら施設、時期により異なるようです。電話は0117732211になります。	general,attraction
+3003	6	USER	解決しました。ありがとうございました。	general,attraction

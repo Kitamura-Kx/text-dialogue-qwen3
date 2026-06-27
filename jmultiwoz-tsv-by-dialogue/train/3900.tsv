@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3900	0	USER	那覇への旅行を計画しているのですが、当日泊まるリゾートホテルを探してほしいです。	general,hotel
+3900	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,hotel
+3900	2	USER	Wi-Fiが無料のところにしてください。	general,hotel
+3900	3	SYSTEM	ではHOTEL SANSUI NAHAがおすすめです。	general,hotel
+3900	4	USER	そちらは、レストランは付いていますか？　住所も教えてください。	general,hotel
+3900	5	SYSTEM	はい。レストランも併設されております。住所は沖縄県那覇市辻2丁目25-1でございます。	general,hotel
+3900	6	USER	ありがとうございました。助かりました。	general,hotel

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1866	0	USER	ちょっとお伺いしたいのですが、名古屋に東海交通というタクシー会社はありますか？	general,taxi
+1866	1	SYSTEM	はいございますよ。何かお調べできることはありますか？	general,taxi
+1866	2	USER	その会社の電話番号を教えて下さい。	general,taxi
+1866	3	SYSTEM	はい。電話番号は0532571111です。	general,taxi
+1866	4	USER	東海交通で、タクシーの予約もお願いできますか？ 12/13 13時 出発地は うなぎ和食 しら河 名駅店、目的地は、若宮八幡社です。	general,taxi
+1866	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、94209です。	general,taxi
+1866	6	USER	今、お願いしたいことは以上です。ありがとうございました。	general,taxi
+1866	7	SYSTEM	承知しました。ありがとうございました。	general,taxi

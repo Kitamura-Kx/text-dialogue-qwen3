@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+110	0	USER	こんにちは！ 今、大阪旅行を計画しているところなんですが、色々ご案内いただいてもよろしいですか？	general,hotel,attraction,restaurant
+110	1	SYSTEM	承知致しました。 どのようなご案内を致しましょうか？	general,hotel,attraction,restaurant
+110	2	USER	西成区にある、レストランが併設されている宿泊施設を探していまして、どこかありますかね？	general,hotel,attraction,restaurant
+110	3	SYSTEM	はい、2件ございます。 ホテル新今宮と、ホテルブルーメン花園北という、どちらもビジネスホテルになります。	general,hotel,attraction,restaurant
+110	4	USER	そうなんですね！それでは、ホテル新今宮についての案内をお願いします。 最寄り駅と、チェックイン開始時刻、あと、WiFiがあるかどうかについて教えていただけますか？	general,hotel,attraction,restaurant
+110	5	SYSTEM	承知致しました。 まず、最寄り駅は新今宮駅で、駅からの所要時間は徒歩で1分です。 チェックイン開始時刻は15時、Wi-Fiは無料でご利用いただけます。	general,hotel,attraction,restaurant
+110	6	USER	ありがとうございます！なるほど、承知いたしました。 それでは、そちらを予約させていただきたいのですが、6月5日から2泊で、4人の予約は取れますか？	general,hotel,attraction,restaurant
+110	7	SYSTEM	申し訳ございません。その条件ではご予約できませんでした。 いかが致しましょう？	general,hotel,attraction,restaurant
+110	8	USER	そうなんですね。では、2泊ではなくて、1泊でお願いします。	general,hotel,attraction,restaurant
+110	9	SYSTEM	ありがとうございます。 ご予約完了致しました。 予約番号は、76002　となります。	general,hotel,attraction,restaurant
+110	10	USER	ありがとうございます！良かったです。 あと、天保山大観覧車という観光名所に行こうと思っているのですが、そちらで情報を調べていただくことはできますか？	general,hotel,attraction,restaurant
+110	11	SYSTEM	承知致しました。 天保山大観覧車については、営業時間は10時から22時、電話番号は、0665766222、住所は大阪市港区海岸通1丁目1-10となります。 定休日は無く、入場料は、大人、子供ともに800円となっております。	general,hotel,attraction,restaurant
+110	12	USER	ありがとうございます！そうだったんですね。 ちなみに、駐車場と、WiFiがあるかどうかということも、お調べいただくことはできますか？	general,hotel,attraction,restaurant
+110	13	SYSTEM	はい、駐車場はございますが、有料となります。 大変申し訳ありませんが、Wi-Fiの有無につきましては、こちらでは分かりかねます。	general,hotel,attraction,restaurant
+110	14	USER	そうでしたか。お調べいただき、ありがとうございます！ あと、飲食店についても探しているところなんですが、店名が季楽酒場 おっきゃがり 福島というところをお探しいただけますか？	general,hotel,attraction,restaurant
+110	15	SYSTEM	承知致しました。 住所は大阪市福島区福島7丁目2-5 ふくまる通り57、電話番号は、0664543511、営業時間は15時から25時となっております。 定休日については不定休です。	general,hotel,attraction,restaurant
+110	16	USER	ありがとうございます！承知いたしました。	general,hotel,attraction,restaurant
+110	17	SYSTEM	他にご用件はございますか？	general,hotel,attraction,restaurant
+110	18	USER	あとは大丈夫です。本日は色々ご案内いただき、助かりました！また、機会があった際はよろしくお願いいたします！	general,hotel,attraction,restaurant
+110	19	SYSTEM	承知致しました。 ありがとうございました。	general,hotel,attraction,restaurant

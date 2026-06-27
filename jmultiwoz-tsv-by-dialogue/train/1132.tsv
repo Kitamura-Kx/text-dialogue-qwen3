@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1132	0	USER	東京へ旅行に行く予定なのですが。天王洲アイル駅近くで飲食店を教えて下さい。	general,restaurant,weather
+1132	1	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,restaurant,weather
+1132	2	USER	それでは天王洲アイル駅以外ではありますか？	general,restaurant,weather
+1132	3	SYSTEM	はい、ございます。他にご希望はございますか？	general,restaurant,weather
+1132	4	USER	条件は特にありません	general,restaurant,weather
+1132	5	SYSTEM	では、分とく山はいかがでしょう？何かご案内致しましょうか？	general,restaurant,weather
+1132	6	USER	分とく山の住所と料金情報をお願いします	general,restaurant,weather
+1132	7	SYSTEM	はい、住所は東京都港区南麻布5丁目1-5、料金情報としては、おまかせコースが16500円、冷酒が1200円、生ビールが900円となります。他にご案内できることはございますか？	general,restaurant,weather
+1132	8	USER	有難うございます、4/24の足立区の最低気温を教えて下さい。	general,restaurant,weather
+1132	9	SYSTEM	はい、最低気温は10.6度となります。他にご用件はございますか？	general,restaurant,weather
+1132	10	USER	いえこれで大丈夫です、有難うございました。	general,restaurant,weather
+1132	11	SYSTEM	ありがとうございました。	general,restaurant,weather

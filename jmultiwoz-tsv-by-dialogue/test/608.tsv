@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+608	0	USER	東京への旅行を計画しているんですが、飲食店を探していただけますか？	general,restaurant,weather
+608	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant,weather
+608	2	USER	安い所だったらどこでもいいです！	general,restaurant,weather
+608	3	SYSTEM	ありがとうございます。では、土風炉 大井町店はいかがでしょう？何かご案内致しましょうか？	general,restaurant,weather
+608	4	USER	いいですね！営業時間を教えてください。	general,restaurant,weather
+608	5	SYSTEM	はい、営業時間は11時30分から23時となります。他にご案内できることはございますか？	general,restaurant,weather
+608	6	USER	予約をお願いします！8/9の13:40に2人で行きたいです。	general,restaurant,weather
+608	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、91233となります。他に必要なご案内はございますか？	general,restaurant,weather
+608	8	USER	ありがとうございます。8/9の豊島区の天気と最高気温を教えてください。	general,restaurant,weather
+608	9	SYSTEM	はい、天気は曇、最高気温38.2度となります。他にご用件はございますか？	general,restaurant,weather
+608	10	USER	大丈夫です。ありがとうございました。	general,restaurant,weather
+608	11	SYSTEM	ありがとうございました。	general,restaurant,weather

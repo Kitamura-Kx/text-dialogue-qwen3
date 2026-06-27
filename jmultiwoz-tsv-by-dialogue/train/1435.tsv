@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1435	0	USER	札幌への旅行を計画しています．	general,shopping
+1435	1	SYSTEM	お問合せありがとうございます。	general,shopping
+1435	2	USER	当日買い物ができるところを探してください．最寄り駅が北24条駅のところで駐車場を無料で利用できるところがいいです。	general,shopping
+1435	3	SYSTEM	コーチャンフォー新川通り店はいかがでしょうか。	general,shopping
+1435	4	USER	そちらの電話番号を教えて欲しいです。	general,shopping
+1435	5	SYSTEM	電話番号は0117694000です。	general,shopping
+1435	6	USER	ありがとうございます。	general,shopping

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1375	0	USER	横浜への旅行を計画しています。どこか飲食店を探しておりまして、無料でWi-Fiが利用できて予算が安い所はありますでしょうか。	general,restaurant,hotel
+1375	1	SYSTEM	世界のビール博物館 横浜店は、いかがでしょうか？	general,restaurant,hotel
+1375	2	USER	そこの住所と最寄駅を教えてください。	general,restaurant,hotel
+1375	3	SYSTEM	住所は、神奈川県横浜市西区みなとみらい2丁目2-1です。　最寄り駅は、みなとみらい駅になります。	general,restaurant,hotel
+1375	4	USER	それでは予約をお願いします。人数は4名、日時は11/18、13:40でお願いしたいです。	general,restaurant,hotel
+1375	5	SYSTEM	予約が完了しました。　予約番号は、74120です。	general,restaurant,hotel
+1375	6	USER	ありがとうございます。追加で宿泊施設も探しており、予算は安めで黄金町駅周辺にいい所ありませんか？	general,restaurant,hotel
+1375	7	SYSTEM	ホテルマイステイズ横浜は、いかがですか？	general,restaurant,hotel
+1375	8	USER	そこの電話番号、エリア、チェックアウト終了時刻を教えていただきたいです。	general,restaurant,hotel
+1375	9	SYSTEM	電話番号は、0452521311です。　エリアは、中区です。　チェックアウト終了時刻は、11時になります。	general,restaurant,hotel
+1375	10	USER	それでは予約をお願いします。人数は3名、日付は11/18で3泊お願いしたいでs。	general,restaurant,hotel
+1375	11	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant,hotel
+1375	12	USER	それでは人数を２名に変更すれば大丈夫でしょうか。	general,restaurant,hotel
+1375	13	SYSTEM	予約が完了しました。　予約番号は、28653です。	general,restaurant,hotel
+1375	14	USER	ありがとうございます。	general,restaurant,hotel
+1375	15	SYSTEM	他にご用件はありますか？	general,restaurant,hotel
+1375	16	USER	ありません。	general,restaurant,hotel
+1375	17	SYSTEM	承知致しました。　ありがとうございました。	general,restaurant,hotel

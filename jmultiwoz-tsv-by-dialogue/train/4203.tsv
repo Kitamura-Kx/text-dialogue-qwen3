@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4203	0	USER	那覇で食事が出来るところを探してください。駐車場が無料で使える、高めの予算のお店がいいです。	general,restaurant
+4203	1	SYSTEM	かしこまりました。それでは、おもろダイニング 山葵はいかがでしょうか？	general,restaurant
+4203	2	USER	そちらのお店は、カフェ・スイーツジャンルのお店ですか？できればカフェ・スイーツジャンルのお店に行きたいのです。	general,restaurant
+4203	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant
+4203	4	USER	わかりました。先程のお店の料金情報を教えてください。	general,restaurant
+4203	5	SYSTEM	かしこまりました。料金情報は、大とろが1320円、やんばる鶏ももが858円とのことです。	general,restaurant
+4203	6	USER	ありがとうございました。	general,restaurant

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+604	0	USER	仙台へ旅行に行くんですが、宿泊施設を探していただけますか？	general,hotel,weather
+604	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,weather
+604	2	USER	レストランが併設されているところがいいです。あとは、Wi-Fiが無料で、予算が安めがいいです！	general,hotel,weather
+604	3	SYSTEM	ありがとうございます。では、ビジネスホテル太陽はいかがでしょう？何かご案内することはございますか？	general,hotel,weather
+604	4	USER	いいですね！ちなみにエリアはどこになりますか？	general,hotel,weather
+604	5	SYSTEM	エリアは青葉区となります。	general,hotel,weather
+604	6	USER	ありがとうございます。あと、1/1の泉区の天候を調べてほしいです。	general,hotel,weather
+604	7	SYSTEM	承知しました。天気は、晴時々雨、最低気温1.1度、最高気温12.1度となります。他にご案内できることはございますか？	general,hotel,weather
+604	8	USER	これで大丈夫です。ありがとうございました。	general,hotel,weather
+604	9	SYSTEM	ありがとうございました。	general,hotel,weather

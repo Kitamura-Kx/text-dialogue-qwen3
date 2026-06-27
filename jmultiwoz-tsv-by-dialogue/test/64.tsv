@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+64	0	USER	名古屋に旅行するんですけど、中区で買い物できるところでおすすめはありますか？	general,shopping
+64	1	SYSTEM	名古屋の中区ですね。19店ほどございますが、ジャンルなどでご希望はございますでしょうか？	general,shopping
+64	2	USER	特に希望するものってないんです。良さそうなところを教えてもらえないですか？	general,shopping
+64	3	SYSTEM	かしこまりました。たとえば、山中羊羹舗というお店がございますが、ご興味はおありでしょうか？	general,shopping
+64	4	USER	なんか老舗っぽくていい感じですね。ジャンル的にはどういうお店ですか？	general,shopping
+64	5	SYSTEM	はい、こちらはお土産や食料品を扱っている店舗となります。	general,shopping
+64	6	USER	ありがとうございました。そこで考えてみます。また何か聞きたいことがあったら連絡しますね。お世話様でした。	general,shopping
+64	7	SYSTEM	こちらこそ、いつでもお気軽にご連絡くださいませ。他にご用件はございませんか？	general,shopping
+64	8	USER	今日は大丈夫です。またよろしくお願いしますね。	general,shopping
+64	9	SYSTEM	かしこまりました。それでは失礼いたします。	general,shopping

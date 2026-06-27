@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3486	0	USER	札幌旅行へ行って鈴木徳太郎商店でご飯を食べたいと思っています。住所を教えて貰えますか？	general,restaurant
+3486	1	SYSTEM	かしこまりました。住所は北海道札幌市中央区大通東2丁目15-1でございます。	general,restaurant
+3486	2	USER	わかりました。ありがとうございました。	general,restaurant
+3486	3	SYSTEM	ほかにご用件はございませんか。	general,restaurant
+3486	4	USER	ないです。ありがとうございました	general,restaurant
+3486	5	SYSTEM	承知しました。ありがとうございました。	general,restaurant

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4620	0	USER	こんにちは。東京旅行を計画しているんですが、江戸川区で駐車場を無料で使える買い物スポットはありますか？	general,shopping,restaurant
+4620	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant
+4620	2	USER	そうですか、では地区は考慮せずに、駐車場無料でおすすめのお店を教えてくださいますか？	general,shopping,restaurant
+4620	3	SYSTEM	ではラフォーレ原宿はいかがでしょうか。	general,shopping,restaurant
+4620	4	USER	ありがとうございます、そこにします。飲食店も探しているんです。イタリアン・フレンチで予算は高めがいいんですけど。	general,shopping,restaurant
+4620	5	SYSTEM	ではル・ポトローズはいかがですか。	general,shopping,restaurant
+4620	6	USER	いいですね。必須ではありませんが、駐車場もあれば嬉しいです。	general,shopping,restaurant
+4620	7	SYSTEM	駐車場の有無は不明でございます。	general,shopping,restaurant
+4620	8	USER	そうですか。では、5月30日の正午過ぎ12時10分からの時間で、4人予約できますか？	general,shopping,restaurant
+4620	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は75906でございます。	general,shopping,restaurant
+4620	10	USER	ありがとうございます。行くのが楽しみです。	general,shopping,restaurant

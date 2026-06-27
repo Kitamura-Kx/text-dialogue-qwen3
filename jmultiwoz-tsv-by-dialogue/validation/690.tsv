@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+690	0	USER	名古屋でお土産を買いたいので、お店を探してください。駐車場無料ならよりよいです。	general,shopping
+690	1	SYSTEM	承知しました。エリアでいうと名東区にございます、アイスランドマーケットはいかがでしょう？何かご案内致しましょうか？	general,shopping
+690	2	USER	アイスランドマーケットには、定休日がありますか？	general,shopping
+690	3	SYSTEM	はい、お盆の期間とお正月が定休日となっております。他にご案内できることはございますか？	general,shopping
+690	4	USER	いいえ、今日のお願いは以上です。ありがとうございました。	general,shopping
+690	5	SYSTEM	ありがとうございました。	general,shopping

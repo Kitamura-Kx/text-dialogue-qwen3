@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+840	0	USER	大阪で安めの飲食店を探したいです。	general,restaurant,hotel
+840	1	SYSTEM	かしこまりました。ほかに、ご希望の条件などはございますか？	general,restaurant,hotel
+840	2	USER	Wi-Fiが無料で利用できたら嬉しいです。	general,restaurant,hotel
+840	3	SYSTEM	かしこまりました。では、UMIYA ROCK CLUBというお店はいかがでしょうか？ジャンルは、居酒屋, 鍋, 焼肉・ホルモン、となっております。	general,restaurant,hotel
+840	4	USER	ありがとうございます。では、そちらの営業時間と住所を教えて頂けますか？	general,restaurant,hotel
+840	5	SYSTEM	営業時間は、11:00～00:00です。住所は、大阪府大阪市中央区西心斎橋2丁目8-27でございます。	general,restaurant,hotel
+840	6	USER	ではそちらを予約したいのですが、下記条件でお願いいたします。人数は2人、日付は12/18、時間は09:40です。	general,restaurant,hotel
+840	7	SYSTEM	ご予約ありがとうございます。ご予約承りました。予約番号は、71163です。	general,restaurant,hotel
+840	8	USER	ありがとうございました。以上です。	general,restaurant,hotel
+840	9	SYSTEM	承知いたしました。他にお調べすることがなければ、これで失礼いたします。本日はご利用ありがとうございました。	general,restaurant,hotel
+840	10	USER	もう一つよろしいでしょうか？	general,restaurant,hotel
+840	11	SYSTEM	はい、どんなご用件でしょうか？	general,restaurant,hotel
+840	12	USER	駐車場が無料で利用できる、南森町駅の宿泊施設を探して欲しいです。	general,restaurant,hotel
+840	13	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,hotel
+840	14	USER	では、駐車場が有料でも良いので南森町駅近くで探してください。	general,restaurant,hotel
+840	15	SYSTEM	かしこまりました。そうしますと、堂島川温泉 天神の湯 ドーミーイン梅田東というところが1件ご案内可能です。いかがでしょうか？	general,restaurant,hotel
+840	16	USER	そちらのホテルのチェックアウト終了時刻を教えて頂けますか？	general,restaurant,hotel
+840	17	SYSTEM	かしこまりました。チェックアウトの終了は、11時までとなっております。	general,restaurant,hotel
+840	18	USER	ではそちらのホテルの予約をお願いいたします。人数は２名で、12/18から２泊おねがいします。	general,restaurant,hotel
+840	19	SYSTEM	かしこまりました。ご予約承りました。予約番号は、30319です。	general,restaurant,hotel
+840	20	USER	ありがとうございました。	general,restaurant,hotel
+840	21	SYSTEM	他にお調べすることはございますか？	general,restaurant,hotel
+840	22	USER	いいえけっこうです。	general,restaurant,hotel
+840	23	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,hotel

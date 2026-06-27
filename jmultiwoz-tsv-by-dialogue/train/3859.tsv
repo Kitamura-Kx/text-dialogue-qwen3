@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3859	0	USER	名古屋へ旅行に行きたく、飲食店を探しています。できれば無料のWi-Fiが利用できる所でお願いします。	general,restaurant
+3859	1	SYSTEM	名古屋のお店ですね、とり焼肉 もう壱鳥はいかがでしょうか？	general,restaurant
+3859	2	USER	そちらの営業時間、料金情報を教えてください。	general,restaurant
+3859	3	SYSTEM	営業時間は、17時から深夜1時までとなっています。　料金情報は、カルビ462円、もも462円です。	general,restaurant
+3859	4	USER	それでは予約をお願いします。人数は3名、日時は3/19、10:50でお願いします。	general,restaurant
+3859	5	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant
+3859	6	USER	それでは、時間を11:30に変更でお願いします。	general,restaurant
+3859	7	SYSTEM	予約出来ました。予約番号は、24259です。	general,restaurant
+3859	8	USER	ありがとうございます。こちらからは以上です。	general,restaurant
+3859	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

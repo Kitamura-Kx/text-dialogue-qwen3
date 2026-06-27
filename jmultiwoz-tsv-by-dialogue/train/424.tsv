@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+424	0	USER	札幌へ旅行を計画しているので、訪れる観光名所のおすすめはありますか？	general,attraction
+424	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction
+424	2	USER	駐車場とWi-Fiが無料のところにしてください。	general,attraction
+424	3	SYSTEM	申し訳ございません。その条件ですと案内できるところがございませんでした。	general,attraction
+424	4	USER	それでは、有料の駐車場でも大丈夫です。	general,attraction
+424	5	SYSTEM	では札幌ドームはいかがでしょうか。	general,attraction
+424	6	USER	そちらに伺いたいと思います。ありがとうございました。	general,attraction

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+205	0	USER	京都の南区で観光名所を知りたいんですけど、スポーツやフィットネス関連の名所ってありますか？	general,attraction
+205	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction
+205	2	USER	じゃあエリアを右京区にしたらどうですか？	general,attraction
+205	3	SYSTEM	京都市京北運動公園がございます。	general,attraction
+205	4	USER	そこの料金ってどうなってますか？	general,attraction
+205	5	SYSTEM	野球場(1h当たり) 8:30~17:30が520円で、17:30~22:30が720円です。テニスコート(1h当たり) 520円で、クラブハウスは午前2500円、午後2500円、夜間3000円となっております。	general,attraction
+205	6	USER	よくわかりました。お世話になりました。	general,attraction

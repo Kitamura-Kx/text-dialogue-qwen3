@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3516	0	USER	東京へ旅行したいのですが、駐車場もWi-Fiも無料の飲食店はありますか？	general,restaurant,shopping
+3516	1	SYSTEM	かしこまりました。それではバルバッコア 六本木ヒルズ店はいかがでしょうか？	general,restaurant,shopping
+3516	2	USER	どのようなジャンルですか？	general,restaurant,shopping
+3516	3	SYSTEM	はい、ジャンルは洋食・西洋料理, 居酒屋でございます。	general,restaurant,shopping
+3516	4	USER	なるほど。電話番号はわかりますか？	general,restaurant,shopping
+3516	5	SYSTEM	電話番号は0354133663でございます。	general,restaurant,shopping
+3516	6	USER	ありがとうございます。それと、当日、百貨店や総合スーパーで買い物がしたいです。おすすめはありますか？	general,restaurant,shopping
+3516	7	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant,shopping
+3516	8	USER	ジャンルは問わないので、買い物できるところを教えていただけますか？	general,restaurant,shopping
+3516	9	SYSTEM	かしこまりました。それではアメ横商店街はいかがでしょうか？	general,restaurant,shopping
+3516	10	USER	いいですね。駐車場はありますか？	general,restaurant,shopping
+3516	11	SYSTEM	申し訳ございません。駐車場はございません。	general,restaurant,shopping
+3516	12	USER	わかりました。質問は以上です。どうもありがとうございました。	general,restaurant,shopping
+3516	13	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,shopping

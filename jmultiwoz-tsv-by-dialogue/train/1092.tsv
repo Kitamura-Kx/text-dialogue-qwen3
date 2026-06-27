@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1092	0	USER	こんにちは、京都への旅行を考えています。	general,attraction,taxi
+1092	1	SYSTEM	希望条件などは、ございますか？	general,attraction,taxi
+1092	2	USER	山科区の観光スポットを探しています。Wi-Fi無料で利用出来て、ジャンルとしてはコンサート・ショーです。	general,attraction,taxi
+1092	3	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,taxi
+1092	4	USER	分かりました！Wi-Fi無料にこだわらなければ、ありませんか？	general,attraction,taxi
+1092	5	SYSTEM	京都市東部文化会館は、いかがでしょうか？	general,attraction,taxi
+1092	6	USER	ありがとうございます。京都市東部文化会館の住所と、最寄り駅がどこかを教えてください。	general,attraction,taxi
+1092	7	SYSTEM	住所は、京都府京都市山科区椥辻西浦町1-8です。　最寄り駅は、椥辻駅になります。	general,attraction,taxi
+1092	8	USER	当日、キャッシュレス決済が可能なタクシーも利用したいと思っています。	general,attraction,taxi
+1092	9	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,taxi
+1092	10	USER	分かりました、キャッシュレスではなくても良いのでタクシー会社を案内して下さい。	general,attraction,taxi
+1092	11	SYSTEM	加茂タクシー株式会社は、いかがですか？	general,attraction,taxi
+1092	12	USER	それでは加茂タクシー株式会社で配車の予約をお願いします。電話番号は分かりますか？	general,attraction,taxi
+1092	13	SYSTEM	電話番号は、0774436400です。　予約の希望日時と出発地と目的地をお知らせください。	general,attraction,taxi
+1092	14	USER	10/31の13時に、ホテルグランヴィア京都から乗車したいです。行先は京都市東部文化会館です。	general,attraction,taxi
+1092	15	SYSTEM	予約出来ました。予約番号は、65180です。	general,attraction,taxi
+1092	16	USER	ありがとうございます、お世話になりました。	general,attraction,taxi
+1092	17	SYSTEM	他にご用件はございますか？	general,attraction,taxi
+1092	18	USER	これだけです。	general,attraction,taxi
+1092	19	SYSTEM	承知致しました。　ありがとうございました。	general,attraction,taxi

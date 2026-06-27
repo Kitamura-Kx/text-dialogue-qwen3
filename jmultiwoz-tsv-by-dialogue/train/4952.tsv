@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4952	0	USER	こんにちは。札幌旅行について教えていただきたいです。澄川駅のホテルレストランで、予算は普通の飲食店はありますか？	general,restaurant
+4952	1	SYSTEM	申し訳ございません。ご紹介できる施設がございません。	general,restaurant
+4952	2	USER	そうですか、ではジャンルはホテルレストラン以外でも構いません。ほかの条件はそのままでお願いします。	general,restaurant
+4952	3	SYSTEM	鉄板DINING KENをご紹介できます。	general,restaurant
+4952	4	USER	そのお店の営業時間と、駐車場の有無、それと料金情報はわかりますか？	general,restaurant
+4952	5	SYSTEM	営業時間は11:00～14:00, 17:00～22:00で、駐車場情報はございません。メニューは北海道産黒毛和牛100%ハンバーグセット:1760円、鉄板焼き北海道産黒毛和牛ランプステーキ（100g）:2750円、シーザーサラダ:550円などがございます。	general,restaurant
+4952	6	USER	駐車場の有無は不明ということですか？	general,restaurant
+4952	7	SYSTEM	はい。申し訳ございません。	general,restaurant
+4952	8	USER	いえ、大丈夫です。では、人数は4人で、10月11日の午前11時50分に予約できますか？	general,restaurant
+4952	9	SYSTEM	申し訳ございません。予約できませんでした。	general,restaurant
+4952	10	USER	では、人数は3人に減らします。それだとどうでしょうか。	general,restaurant
+4952	11	SYSTEM	予約できました。予約番号は12523です。	general,restaurant
+4952	12	USER	予約できて安心しました。今日はありがとうございました！	general,restaurant

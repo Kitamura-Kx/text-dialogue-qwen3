@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+754	0	USER	名古屋へ旅行予定なのですが、観光名所を探してくれますか？	general,attraction,shopping
+754	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction,shopping
+754	2	USER	東区で駐車場を無料で利用できるところがいいです。	general,attraction,shopping
+754	3	SYSTEM	承知いたしました。そうしますと、堀美術館をはじめ、3件ほどご案内可能です。	general,attraction,shopping
+754	4	USER	そこでお願いします。堀美術館の住所とジャンル、あと子供入場料を教えてもらっていいですか？	general,attraction,shopping
+754	5	SYSTEM	かしこまりました。堀美術館の住所は、愛知県名古屋市東区主税町4丁目4-2です。ジャンルは、美術館・博物館となっております。お子様の入場料は500円です。	general,attraction,shopping
+754	6	USER	わかりました。当日買い物できるところも探しているのですが、名東区で駐車場が無料なところはありますか？	general,attraction,shopping
+754	7	SYSTEM	はい、1件ご案内可能です。アイスランドマーケットというお店ですが、いかがでしょうか？	general,attraction,shopping
+754	8	USER	そこにします。最寄り駅を教えてください。	general,attraction,shopping
+754	9	SYSTEM	最寄りは本郷駅で、徒歩で4分でアクセス可能です。	general,attraction,shopping
+754	10	USER	わかりました。ありがとうございます。	general,attraction,shopping
+754	11	SYSTEM	他にお調べすることはございますか？	general,attraction,shopping
+754	12	USER	いえ、もう大丈夫です。	general,attraction,shopping
+754	13	SYSTEM	承知しました。では、またのご利用をお待ちしております。	general,attraction,shopping

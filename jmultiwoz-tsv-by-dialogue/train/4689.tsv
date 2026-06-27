@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4689	0	USER	京都へ旅行するので、駐車場を無料利用できる観光名所を調べてください。	general,attraction,hotel,restaurant
+4689	1	SYSTEM	京都で駐車場無料の観光名所は ６件ありますが、なんといっても、伏見稲荷大社をお勧めします。	general,attraction,hotel,restaurant
+4689	2	USER	いいですね。近辺の駅からの所要時間と大人入場料を教えてください。	general,attraction,hotel,restaurant
+4689	3	SYSTEM	稲荷駅から徒歩で1分、その他、伏見稲荷駅から徒歩で5分。なお、大人も子供も無料で拝観自由です。	general,attraction,hotel,restaurant
+4689	4	USER	わかりました。あと、伏見区で安めのビジネスホテルも探してください。	general,attraction,hotel,restaurant
+4689	5	SYSTEM	京都伏見区には、安めのビジネスホテルはなさそうです。	general,attraction,hotel,restaurant
+4689	6	USER	そうですか。では、伏見区以外でもいいです。	general,attraction,hotel,restaurant
+4689	7	SYSTEM	京都には、安めのビジネスホテルは１９件ありますが、ホテルステーション京都をお勧めします。	general,attraction,hotel,restaurant
+4689	8	USER	そこにします。Wi-Fiとレストランはありますか？あと、チェックイン開始時刻も教えてください。	general,attraction,hotel,restaurant
+4689	9	SYSTEM	WiFiは無料、レストランは併設です。チェックイン開始は15:00 です。	general,attraction,hotel,restaurant
+4689	10	USER	わかりました。あと、Wi-Fiが無料で使える安めの飲食店も教えてください。	general,attraction,hotel,restaurant
+4689	11	SYSTEM	京都には、WiFi無料で安めの飲食店は２件ありますが、いっかくじゅう 四条新町店をお勧めします。	general,attraction,hotel,restaurant
+4689	12	USER	いいですね。いろいろ教えていただきありがとうございました。	general,attraction,hotel,restaurant

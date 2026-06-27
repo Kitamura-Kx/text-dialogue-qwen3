@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3242	0	USER	那覇へ旅行をする予定です。那覇第一交通のタクシーは選択できますか？	general,taxi
+3242	1	SYSTEM	はい、キャッシュレス、ジャンボタクシーともに対応しております。電話番号は、0988537801となります。	general,taxi
+3242	2	USER	それでは1/5に那覇第一交通で、タクシーの手配をお願いします。09:50にチャビラホテル那覇から乗り、行先はALOHA SHOP PAIKAJI 国際通り店です。	general,taxi
+3242	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、60416となります。	general,taxi
+3242	4	USER	ありがとうございます。	general,taxi
+3242	5	SYSTEM	ありがとうございました。	general,taxi

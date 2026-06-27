@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4556	0	USER	札幌へ旅行するのですが、ジャンボタクシーを利用したいです。	general,taxi
+4556	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,taxi
+4556	2	USER	そうですか。それでは普通のタクシーでも結構です。	general,taxi
+4556	3	SYSTEM	では、寿ハイヤー(株)はいかがですか？	general,taxi
+4556	4	USER	電話番号を教えて下さい。	general,taxi
+4556	5	SYSTEM	電話番号は、0115726000です。	general,taxi
+4556	6	USER	予約はしていただけますか？11/29です．時間は14:30で出発地はありんこJR札幌店というところです．目的地は鈴木徳太郎商店です。	general,taxi
+4556	7	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,taxi
+4556	8	USER	それでは15時20分ではどうですか？	general,taxi
+4556	9	SYSTEM	予約出来ました。予約番号は、98514です。	general,taxi
+4556	10	USER	助かりました。以上です。ありがとうございました。	general,taxi
+4556	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

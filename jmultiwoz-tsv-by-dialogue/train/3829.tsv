@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3829	0	USER	名古屋へ旅行を計画しているのですが、探しています。無料Wi-Fiが利用できる観光名所を探していただけますか？	general,attraction,weather,taxi
+3829	1	SYSTEM	名古屋へのご旅行ですね、では、名古屋市東山動植物園はいかがでしょうか？	general,attraction,weather,taxi
+3829	2	USER	そちらは駐車場はありますか？	general,attraction,weather,taxi
+3829	3	SYSTEM	はい、駐車場は有料駐車場があります。	general,attraction,weather,taxi
+3829	4	USER	ありがとうございます。	general,attraction,weather,taxi
+3829	5	SYSTEM	他にご用件はございますか？	general,attraction,weather,taxi
+3829	6	USER	はい。7/24の中村区の最低気温を調べてください。	general,attraction,weather,taxi
+3829	7	SYSTEM	はい、最低気温は21.4度の予報となっています。	general,attraction,weather,taxi
+3829	8	USER	ありがとうございます。	general,attraction,weather,taxi
+3829	9	SYSTEM	他に何かご用件はありますか？	general,attraction,weather,taxi
+3829	10	USER	当日利用できるタクシー会社を探してください。できればジャンボタクシーが利用できて、キャッシュレス払いができるところでお願いします。	general,attraction,weather,taxi
+3829	11	SYSTEM	それでしたら、伸和交通がおすすめです。	general,attraction,weather,taxi
+3829	12	USER	そちらの電話番号はわかりますか？	general,attraction,weather,taxi
+3829	13	SYSTEM	はい、電話番号は0522031212となっています。	general,attraction,weather,taxi
+3829	14	USER	ありがとうございます。では、そちらで予約お願いします。7/24の12:40に名古屋市東山動植物園を出発でじゃけん 名古屋2号店までお願いします。	general,attraction,weather,taxi
+3829	15	SYSTEM	予約出来ました。予約番号は、6978になります。	general,attraction,weather,taxi
+3829	16	USER	ありがとうございます。	general,attraction,weather,taxi
+3829	17	SYSTEM	他にご用件はありますか？	general,attraction,weather,taxi
+3829	18	USER	特にありません。ありがとうございました。	general,attraction,weather,taxi
+3829	19	SYSTEM	承知いたしました。ありがとうございました。	general,attraction,weather,taxi

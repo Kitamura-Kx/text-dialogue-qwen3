@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+182	0	USER	大阪に旅行に行きたいと考えています。	general,hotel,taxi
+182	1	SYSTEM	大阪のご旅行の予定ですね。なにからお調べしましょうか？	general,hotel,taxi
+182	2	USER	宿泊施設を調べて頂けますか？	general,hotel,taxi
+182	3	SYSTEM	かしこまりました。大阪の宿泊施設は、１００件ほどご案内可能です。最寄り駅や値段帯などでご希望はございますか？	general,hotel,taxi
+182	4	USER	Wi-Fiと駐車場が無料で利用できて、レストランが併設されていれば地区や値段帯は問いません。	general,hotel,taxi
+182	5	SYSTEM	その条件ですと、１件ご案内可能です。ビジネス旅館 励明園はいかがでしょうか？	general,hotel,taxi
+182	6	USER	こちらでお願いします。当日ジャンボタクシーを利用したいと考えています。	general,hotel,taxi
+182	7	SYSTEM	申し訳ありません。大阪でジャンボタクシーに対応している会社は、ご案内できるところがありませんでした。どういたしましょうか？	general,hotel,taxi
+182	8	USER	でしたら、ジャンボタクシーでなくても大丈夫なので、タクシーを手配してもらえるでしょうか？	general,hotel,taxi
+182	9	SYSTEM	かしこまりました。商都交通株式会社でしたらキャッシュレスのお支払いにも対応しておりますし、いかがでしょうか？	general,hotel,taxi
+182	10	USER	是非、商都交通株式会社でお願いします。3/28の10:50に励明園からたんとたんとで予約をお願いします。	general,hotel,taxi
+182	11	SYSTEM	かしこまりました。予約を完了いたしました。ご予約番号は、2306です。	general,hotel,taxi
+182	12	USER	承知致しました。ご対応ありがとうございました。	general,hotel,taxi

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3595	0	USER	こんにちは。大阪に行くのですが、駐車場が無料で使える観光名所はありますか？	general,attraction
+3595	1	SYSTEM	かしこまりました。では、難波神社はいかがでしょうか。	general,attraction
+3595	2	USER	いいですね。その神社のエリアと、近辺の駅からの所要時間ってわかりますか？	general,attraction
+3595	3	SYSTEM	エリアは中央区で、心斎橋駅から徒歩で5分、本町駅から徒歩で5分でございます。	general,attraction
+3595	4	USER	ありがとうございます。	general,attraction
+3595	5	SYSTEM	ほかにご用件はございませんか。	general,attraction
+3595	6	USER	いえ、大丈夫です。案内ありがとうございました。	general,attraction
+3595	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

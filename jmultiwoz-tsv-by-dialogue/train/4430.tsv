@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4430	0	USER	仙台へ旅行予定なのですが、太白区で無料Wi-Fiが使える安めの飲食店はありませんか？	general,restaurant,attraction
+4430	1	SYSTEM	では、タリーズコーヒー ララガーデン長町店はいかがでしょう？ジャンルは、カフェ、スイーツとなります。	general,restaurant,attraction
+4430	2	USER	そこにします。営業時間も知りたいです。	general,restaurant,attraction
+4430	3	SYSTEM	はい、営業時間は、10時から21時となります。	general,restaurant,attraction
+4430	4	USER	それでは4人で9/15の14:50から予約を頼めますか？	general,restaurant,attraction
+4430	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、38398となります。	general,restaurant,attraction
+4430	6	USER	ありがとうございました。	general,restaurant,attraction
+4430	7	SYSTEM	ありがとうございました。	general,restaurant,attraction
+4430	8	USER	あ、あと一つだけ、泉区の駐車場を無料で利用できる観光名所を教えてほしいです。	general,restaurant,attraction
+4430	9	SYSTEM	申し訳ありません、承知しました。では、アイスリンク仙台はいかがでしょう？ジャンルは、スポーツ、フィットネスとなります。	general,restaurant,attraction
+4430	10	USER	そこよさそうですね。定休日はありますか？	general,restaurant,attraction
+4430	11	SYSTEM	定休日はございません。	general,restaurant,attraction
+4430	12	USER	わかりました。もう大丈夫です。ありがとうございました。	general,restaurant,attraction
+4430	13	SYSTEM	ありがとうございました。	general,restaurant,attraction

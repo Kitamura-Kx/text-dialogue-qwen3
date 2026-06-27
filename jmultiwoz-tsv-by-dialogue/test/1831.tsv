@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1831	0	USER	名古屋へ旅行に行くんですが、宿泊施設を探して欲しいです。	general,hotel,shopping,weather
+1831	1	SYSTEM	希望条件などは、ありますか？	general,hotel,shopping,weather
+1831	2	USER	駐車場が無料で、レストランが併設されているところがいいです。予算は安めでお願いします。	general,hotel,shopping,weather
+1831	3	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,hotel,shopping,weather
+1831	4	USER	では、レストランの有無はどちらでも大丈夫です。	general,hotel,shopping,weather
+1831	5	SYSTEM	ハーバーロッジなごやは、いかがでしょうか？	general,hotel,shopping,weather
+1831	6	USER	ありがとうございます。ちなみに、Wi-Fiの有無と近辺の駅からの所要時間は分かりますか？	general,hotel,shopping,weather
+1831	7	SYSTEM	Wi-Fi利用につきましては、、無料Wi-Fiが利用可能です。　近辺の駅からの所要時間は、名古屋港駅から徒歩で2分です。	general,hotel,shopping,weather
+1831	8	USER	ありがとうございます。中区で買い物ができるところも探して欲しいです。	general,hotel,shopping,weather
+1831	9	SYSTEM	大須商店街は、いかがですか？	general,hotel,shopping,weather
+1831	10	USER	駐車場が無料で、お土産が買えるお店が良かったんですが、どうですか？	general,hotel,shopping,weather
+1831	11	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,hotel,shopping,weather
+1831	12	USER	では、お土産が買えるお店じゃなくて大丈夫です！	general,hotel,shopping,weather
+1831	13	SYSTEM	RAYARD Hisaya-odori Parkは、いかがですか？	general,hotel,shopping,weather
+1831	14	USER	ありがとうございます。電話番号と近辺の駅からの所要時間は分かりますか？	general,hotel,shopping,weather
+1831	15	SYSTEM	電話番号は、0522655575です。　近辺の駅からの所要時間は、久屋大通駅から徒歩で1分、栄駅から徒歩で1分 、栄町駅から徒歩で1分となっています。	general,hotel,shopping,weather
+1831	16	USER	ありがとうございます。最後に中区の1/17の天気を教えてください。	general,hotel,shopping,weather
+1831	17	SYSTEM	その日の天気は、晴です。	general,hotel,shopping,weather
+1831	18	USER	なるほどです！最高気温は分かりますか？	general,hotel,shopping,weather
+1831	19	SYSTEM	最高気温は11.5度です。	general,hotel,shopping,weather
+1831	20	USER	ありがとうございます。	general,hotel,shopping,weather
+1831	21	SYSTEM	他にご用件はございますか？	general,hotel,shopping,weather
+1831	22	USER	これで大丈夫です。ありがとうございました。	general,hotel,shopping,weather
+1831	23	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,weather

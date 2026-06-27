@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4072	0	USER	東京への旅行を計画しています． 当日訪れる観光名所を探してください．地区は中野区です．Wi-Fiが無料で利用できるところがいいです。	general,attraction,taxi
+4072	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction,taxi
+4072	2	USER	でしたら地区はどこでも、。	general,attraction,taxi
+4072	3	SYSTEM	teamLab Planets TOKYOはいかがでしょうか。	general,attraction,taxi
+4072	4	USER	ありがとうございます。あと当日利用できるタクシー会社を探してください．ジャンボタクシー、キャッシュレス払いできるところがいいです。	general,attraction,taxi
+4072	5	SYSTEM	キャピタルオートはいかがでしょうか。	general,attraction,taxi
+4072	6	USER	そちらの電話番号をおしえてください。それと、日付は7/26．時間は12:50．出発地は先ほど見つけた観光施設です．目的地はヴィアイン秋葉原というところで予約して欲しいです。	general,attraction,taxi
+4072	7	SYSTEM	電話番号は0357552151です。予約完了いたしました。予約番号は24668になります。	general,attraction,taxi
+4072	8	USER	ありがとうございます。	general,attraction,taxi

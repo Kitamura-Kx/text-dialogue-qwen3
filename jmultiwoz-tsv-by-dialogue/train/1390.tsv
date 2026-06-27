@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1390	0	USER	京都への旅行を計画中なのですが。駐車場が無料の宿泊施設はありますか？予算は普通でお願いします。	general,hotel
+1390	1	SYSTEM	申し訳ございません。ご希望の条件では案内できるところがございませんでした。いかがなさいますか。	general,hotel
+1390	2	USER	それでは予算はこだわりません。	general,hotel
+1390	3	SYSTEM	かしこまりました。では湯の宿 松栄はいかがでしょうか。	general,hotel
+1390	4	USER	そちらにはレストランはありますか？	general,hotel
+1390	5	SYSTEM	レストランも併設されております。	general,hotel
+1390	6	USER	わかりました、助かりました。	general,hotel
+1390	7	SYSTEM	ほかにご用件はございますか。	general,hotel
+1390	8	USER	いえ大丈夫です、ありがとうございました。	general,hotel
+1390	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

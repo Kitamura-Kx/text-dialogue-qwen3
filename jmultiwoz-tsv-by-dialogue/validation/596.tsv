@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+596	0	USER	こんにちは！京都へ旅行に行くんですが、飲食店を探していただけますか？	general,restaurant,shopping
+596	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございませんか？	general,restaurant,shopping
+596	2	USER	最寄り駅が今出川駅で、Wi-Fiが無料だと嬉しいです！	general,restaurant,shopping
+596	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping
+596	4	USER	ではWi-Fiの有無は無しでお願いします。	general,restaurant,shopping
+596	5	SYSTEM	ありがとうございます。そうしますと、下鴨茶寮 本店という和食のお店が1件ございますが、いかがでしょうか？	general,restaurant,shopping
+596	6	USER	和食いいですね！駐車場はありますか？	general,restaurant,shopping
+596	7	SYSTEM	はい。無料駐車場がございます。	general,restaurant,shopping
+596	8	USER	そこに行ってみます！家電・電化製品を買いたいんですが、駐車場が無料のところってありますかね？	general,restaurant,shopping
+596	9	SYSTEM	大変申し訳ございません。その条件では、該当するお店がありませんでした。	general,restaurant,shopping
+596	10	USER	ではショッピングモールだとどうですか？	general,restaurant,shopping
+596	11	SYSTEM	1件、ございます。道の駅 ウッディー京北というところですが、いかがでしょうか？	general,restaurant,shopping
+596	12	USER	いいですね！最後に最寄駅について教えてください。	general,restaurant,shopping
+596	13	SYSTEM	最寄りは、円町駅となっております。ただ、円町駅からタクシーで40分ほどかかります。	general,restaurant,shopping
+596	14	USER	ご丁寧にありがとうございます。行ってみますね！	general,restaurant,shopping
+596	15	SYSTEM	はい、よろしくお願いいたします。ほかにお調べすることはございますか？	general,restaurant,shopping
+596	16	USER	はい！大丈夫です。ありがとうございます。	general,restaurant,shopping
+596	17	SYSTEM	では、本日はご利用ありがとうございました。	general,restaurant,shopping

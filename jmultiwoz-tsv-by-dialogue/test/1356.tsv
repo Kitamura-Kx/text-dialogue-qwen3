@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1356	0	USER	名古屋へ旅行に行くのですが宿泊施設を探しています	general,hotel,attraction,weather
+1356	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,attraction,weather
+1356	2	USER	予算は安めで、Wi-Fiと駐車場が無料で利用できるところがいいです	general,hotel,attraction,weather
+1356	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,hotel,attraction,weather
+1356	4	USER	それでは予算のことは考えなくていいです	general,hotel,attraction,weather
+1356	5	SYSTEM	ではSAMURAI HOUSEはいかがですか。	general,hotel,attraction,weather
+1356	6	USER	ではそちらで。そちらはどんなタイプの宿泊施設ですか	general,hotel,attraction,weather
+1356	7	SYSTEM	こちら旅館でございます。	general,hotel,attraction,weather
+1356	8	USER	わかりました。あと当日観光したいできるところを探してください。	general,hotel,attraction,weather
+1356	9	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,attraction,weather
+1356	10	USER	最寄り駅が御器所駅のところにしてください	general,hotel,attraction,weather
+1356	11	SYSTEM	その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,attraction,weather
+1356	12	USER	最寄り駅の条件をなしにして構いません。	general,hotel,attraction,weather
+1356	13	SYSTEM	では大高緑地はいかがでしょうか。	general,hotel,attraction,weather
+1356	14	USER	そちらにいきます。大人の入場料はいくらですか？	general,hotel,attraction,weather
+1356	15	SYSTEM	大人の入場料は不明でございます。	general,hotel,attraction,weather
+1356	16	USER	わかりました。あと2月14日の熱田区の天候を知りたいです。	general,hotel,attraction,weather
+1356	17	SYSTEM	天気は雨時々晴、最低気温が-1.8度で、最高気温が13.8度でございます。	general,hotel,attraction,weather
+1356	18	USER	ありがとうございました。以上です。	general,hotel,attraction,weather
+1356	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction,weather

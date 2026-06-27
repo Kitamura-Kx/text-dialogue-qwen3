@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+631	0	USER	福岡で買い物出したいのですが、どこかありますか？	general,shopping,weather
+631	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,weather
+631	2	USER	城南区で、駐車場が無料のところがいいです。	general,shopping,weather
+631	3	SYSTEM	申し訳ございません。その条件ですと案内できるところがございませんでした。いかがなさいますか。	general,shopping,weather
+631	4	USER	では、地区はこだわりません。ですが、スポーツ用品を買いたいです。	general,shopping,weather
+631	5	SYSTEM	ではアビスパ福岡 オフィシャルショップはいかがでしょうか。	general,shopping,weather
+631	6	USER	そちらの最寄り駅はどこになりますか？	general,shopping,weather
+631	7	SYSTEM	最寄り駅は博多駅でございます。	general,shopping,weather
+631	8	USER	ありがとうございます。住所を教えていただけますか？	general,shopping,weather
+631	9	SYSTEM	住所は福岡県福岡市博多区博多駅東1丁目12-1でございます。	general,shopping,weather
+631	10	USER	ありがとうございます。あと、当日の天気を知りたいです。6/2の城南区のお天気を教えていただけますか？	general,shopping,weather
+631	11	SYSTEM	天気は曇のち雨、最低気温は24.9度で最高気温は31度でございます。	general,shopping,weather
+631	12	USER	ありがとうございました。以上です、お世話になりました。	general,shopping,weather
+631	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4084	0	USER	あなたは仙台への旅行を計画しています． 当日泊まる宿泊施設を探してください．レストランが併設されているところにしてください．Wi-Fiが無料で利用できるところにしてください．最寄り駅が勾当台公園駅のところがいいです。	general,hotel,shopping,taxi
+4084	1	SYSTEM	ホテルグリーンパークはいかがでしょうか。	general,hotel,shopping,taxi
+4084	2	USER	チェックアウト終了時刻，チェックイン開始時刻を教えていただけますか。	general,hotel,shopping,taxi
+4084	3	SYSTEM	チェックイン開始時刻は15:00で チェックアウト終了時刻は11:00です。	general,hotel,shopping,taxi
+4084	4	USER	ありがとうございます。	general,hotel,shopping,taxi
+4084	5	SYSTEM	いえいえ。おといあわせありがとうございます。	general,hotel,shopping,taxi
+4084	6	USER	あと、当日買い物ができるところを探してください．ジャンルは百貨店や総合スーパーです．最寄り駅が小鶴新田駅のところがいいです	general,hotel,shopping,taxi
+4084	7	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,hotel,shopping,taxi
+4084	8	USER	でしたら最寄りはどこでも。	general,hotel,shopping,taxi
+4084	9	SYSTEM	仙台パルコはいかがでしょうか。	general,hotel,shopping,taxi
+4084	10	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してください．キャッシュレス払いできるところがいいです	general,hotel,shopping,taxi
+4084	11	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,hotel,shopping,taxi
+4084	12	USER	でしたらキャッシュレスはどちらでも。	general,hotel,shopping,taxi
+4084	13	SYSTEM	仙台第一交通（株）はいかがでしょうか。	general,hotel,shopping,taxi
+4084	14	USER	そこは，ジャンボタクシー対応していますか？また、そちらで日付は9/9．時間は11:50．出発地は先ほど見つけた宿泊所で．目的地は先ほど見つけた買い物店舗で予約してほしいです。	general,hotel,shopping,taxi
+4084	15	SYSTEM	ジャンボタクシー対応は非対応です。予約完了いたしました。予約番号は36937になります。	general,hotel,shopping,taxi
+4084	16	USER	ありがとうございます。	general,hotel,shopping,taxi

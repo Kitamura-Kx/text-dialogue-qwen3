@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4779	0	USER	札幌での飲食店を探してください。Wi-Fiと駐車場を無料で利用できるところにしてください。予算は高めが希望です。	general,restaurant
+4779	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant
+4779	2	USER	わかりました。Wi-Fiは考慮しなくてもいいです。	general,restaurant
+4779	3	SYSTEM	それでしたら、ふしみグリエはいかがですか？	general,restaurant
+4779	4	USER	わかりました。電話番号は何ですか。	general,restaurant
+4779	5	SYSTEM	はい。電話番号は0115332432です。	general,restaurant
+4779	6	USER	ありがとうございます。予約をお願いしたいです。人数は4人、日付は3/24、時間は11:40でお願いします。	general,restaurant
+4779	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、90241です。	general,restaurant
+4779	8	USER	ありがとうございます。	general,restaurant
+4779	9	SYSTEM	はい。他に何かご用件はございませんか？	general,restaurant
+4779	10	USER	大丈夫です。	general,restaurant
+4779	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant
+4779	12	USER	ありがとうございました。	general,restaurant

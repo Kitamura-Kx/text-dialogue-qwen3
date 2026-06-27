@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3481	0	USER	大阪の観光名所を知りたいです	general,attraction
+3481	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction
+3481	2	USER	Wi-Fiが無料で使えて、東住吉区あたりがいいです	general,attraction
+3481	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction
+3481	4	USER	残念、じゃあ、エリアはどこでもいいです	general,attraction
+3481	5	SYSTEM	ではグランフロント大阪はいかがですか。	general,attraction
+3481	6	USER	そこに行ってみます。営業時間とジャンルを教えてください	general,attraction
+3481	7	SYSTEM	営業時間は店舗により異なるとのことでございます。ジャンルはアートギャラリー, 教室・ワークショップ・体験, コンサート・ショーとなっております。	general,attraction
+3481	8	USER	了解です	general,attraction
+3481	9	SYSTEM	ほかにご用件はございませんか。	general,attraction
+3481	10	USER	ないです。ありがとうございました	general,attraction
+3481	11	SYSTEM	承知しました。ありがとうございました。	general,attraction

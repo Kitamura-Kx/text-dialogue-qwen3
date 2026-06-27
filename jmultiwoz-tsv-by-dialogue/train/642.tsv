@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+642	0	USER	福岡に旅行に行くのですが、買い物できる場所ってありますか？	general,shopping,hotel,weather
+642	1	SYSTEM	はい、４４件ほどご案内可能です。なにかご希望の条件はございませんでしょうか？	general,shopping,hotel,weather
+642	2	USER	西区周辺の駐車場を無料で利用できる場所がいいです。ジャンルはショッピングモールだとありがたいですがありますか？	general,shopping,hotel,weather
+642	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,shopping,hotel,weather
+642	4	USER	でしたら、ショッピングモールでなくても大丈夫です。	general,shopping,hotel,weather
+642	5	SYSTEM	ありがとうございます。では、モーリーファンタジー 福岡伊都店というお店はいかがでしょうか？	general,shopping,hotel,weather
+642	6	USER	そちらに伺おうと思います。住所と近辺の駅からの所要時間を教えていただけますか？	general,shopping,hotel,weather
+642	7	SYSTEM	住所は、福岡県福岡市西区北原1丁目2-1 イオン福岡伊都店3階です。最寄りの九大学研都市駅からは徒歩で3分の距離となります。	general,shopping,hotel,weather
+642	8	USER	ありがとうございます。当日の宿泊施設も探していただけますか？	general,shopping,hotel,weather
+642	9	SYSTEM	かしこまりました。なにかご希望の条件などはございますか？	general,shopping,hotel,weather
+642	10	USER	東区周辺で駐車場を無料で利用できる場所がいいです。	general,shopping,hotel,weather
+642	11	SYSTEM	それでしたら、The358 SORAというリゾートホテルはいかがでしょうか？お値段はお安めとなっております。	general,shopping,hotel,weather
+642	12	USER	そちらに泊まりたいと思います。チェックアウト終了時刻と料金情報、あと近辺の駅からの所要時間の情報をいただけますか？	general,shopping,hotel,weather
+642	13	SYSTEM	チェックアウトは11時までとなっております。料金につきましては、お値段帯がお安めということ以外、詳しい情報は不明です。アクセス方法ですが、最寄りの雁ノ巣駅からタクシーで9分となります。	general,shopping,hotel,weather
+642	14	USER	ありがとうございます。ついでに予約もお願いできますか？4人で10/10から3泊を希望します。	general,shopping,hotel,weather
+642	15	SYSTEM	大変申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,shopping,hotel,weather
+642	16	USER	3人なら予約可能でしょうか？	general,shopping,hotel,weather
+642	17	SYSTEM	ありがとうございます。ご予約できました。予約番号は、55778です。	general,shopping,hotel,weather
+642	18	USER	ありがとうございました。	general,shopping,hotel,weather
+642	19	SYSTEM	他にご用件はございませんか？	general,shopping,hotel,weather
+642	20	USER	当日の天気も教えていただけますか？10/10の東区なのですが。	general,shopping,hotel,weather
+642	21	SYSTEM	かしこまりました。当日の天気は、晴時々雨の予報です。最低気温は14.2度、最高気温は28.4度になる予想です。	general,shopping,hotel,weather
+642	22	USER	ありがとうございました。	general,shopping,hotel,weather

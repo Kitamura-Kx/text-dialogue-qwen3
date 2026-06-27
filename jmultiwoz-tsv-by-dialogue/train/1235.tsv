@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1235	0	USER	東京への旅行を計画しています。当日買い物が出来る所を探しているのですが、お伺いしてもよろしいでしょうか？	general,shopping,weather
+1235	1	SYSTEM	はい、かしこまりました。お買い物のジャンルやエリアなど、何かご希望はございますか？	general,shopping,weather
+1235	2	USER	はい。墨田区で、駐車場が無料で利用できる場所を探しているのですが。	general,shopping,weather
+1235	3	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,shopping,weather
+1235	4	USER	でしたら、駐車場は大丈夫ですので、墨田区で買い物出来る場所はありますか？	general,shopping,weather
+1235	5	SYSTEM	はい、1件ございます。すみだ江戸切子館というところなのですが、いかがでしょうか？ジャンルとしては、文房具・雑貨, お土産, その他となっております。	general,shopping,weather
+1235	6	USER	ありがとうございます。そちらに行ってみようかと思います。最寄り駅を教えてもらってもよいですか？	general,shopping,weather
+1235	7	SYSTEM	かしこまりました。最寄りは、錦糸町駅です。徒歩6分ほどの距離にございます。	general,shopping,weather
+1235	8	USER	ありがとうございます。当日の天気も教えて頂きたいのですが、よろしいでしょうか？	general,shopping,weather
+1235	9	SYSTEM	かしこまりました。お調べするエリアとお日にちを伺ってもよろしいでしょうか？	general,shopping,weather
+1235	10	USER	はい。中央区で、10月22日でお願いします。	general,shopping,weather
+1235	11	SYSTEM	かしこまりました。当日の天気は、晴時々曇の予報です。最低気温は10.2度、最高気温は23.1度の予想となっております。	general,shopping,weather
+1235	12	USER	ありがとうございます。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,shopping,weather
+1235	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,weather

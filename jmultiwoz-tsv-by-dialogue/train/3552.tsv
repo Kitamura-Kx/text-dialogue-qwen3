@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3552	0	USER	那覇への旅行で利用できるタクシー会社を探してください。ジャンボタクシーを利用できるところで、キャッシュレス払いできるところにしてください。	general,taxi
+3552	1	SYSTEM	かしこまりました。では那覇第一交通がございます。	general,taxi
+3552	2	USER	電話番号を教えてください。	general,taxi
+3552	3	SYSTEM	電話番号は0988537801でございます。	general,taxi
+3552	4	USER	予約をお願いします。日付は3/15、時間は12:40、出発地はりょう次、目的地はいしぐふー 港町店です。	general,taxi
+3552	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は59266でございます。	general,taxi
+3552	6	USER	解決しました。ありがとうございました。	general,taxi
+3552	7	SYSTEM	ありがとうございました。	general,taxi

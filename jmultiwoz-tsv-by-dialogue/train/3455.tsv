@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3455	0	USER	那覇へ旅行へ行く予定なんですが、泊まれる場所を探しています。	general,hotel,shopping,taxi
+3455	1	SYSTEM	かしこまりました。１０２件ございますが、ご希望の条件はございますか。	general,hotel,shopping,taxi
+3455	2	USER	本庁地区にあるレストランが併設されていて、Wi-Fiが無料で使える施設がいいです。	general,hotel,shopping,taxi
+3455	3	SYSTEM	ではリーガロイヤルグラン沖縄はいかがでしょうか。	general,hotel,shopping,taxi
+3455	4	USER	なるほど。ありがとうございます。	general,hotel,shopping,taxi
+3455	5	SYSTEM	ほかにご用件はございませんか。	general,hotel,shopping,taxi
+3455	6	USER	それから、買い物が出来る場所も探しています。	general,hotel,shopping,taxi
+3455	7	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,shopping,taxi
+3455	8	USER	最寄り駅が小禄駅で、駐車場が無料で使える場所がいいです。	general,hotel,shopping,taxi
+3455	9	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,shopping,taxi
+3455	10	USER	それなら、最寄り駅はどこでも大丈夫です。	general,hotel,shopping,taxi
+3455	11	SYSTEM	ではYAMADA web.com 那覇本店がございます。	general,hotel,shopping,taxi
+3455	12	USER	そのお店の住所を教えていただけますか？	general,hotel,shopping,taxi
+3455	13	SYSTEM	住所は沖縄県那覇市おもろまち2丁目5-33でございます。	general,hotel,shopping,taxi
+3455	14	USER	なるほど。ありがとうございます。	general,hotel,shopping,taxi
+3455	15	SYSTEM	ほかにご用件はございませんか。	general,hotel,shopping,taxi
+3455	16	USER	キャッシュレス払いに対応しているタクシー会社も探しているんですが、教えていただきたいです。	general,hotel,shopping,taxi
+3455	17	SYSTEM	申し訳ございません。キャッシュレスに対応している会社がございませんでした。いかがなさいますか。	general,hotel,shopping,taxi
+3455	18	USER	それなら、キャッシュレスに対応していない会社でも大丈夫です。	general,hotel,shopping,taxi
+3455	19	SYSTEM	では大栄交通がございます。	general,hotel,shopping,taxi
+3455	20	USER	そのタクシー会社ではジャンボタクシーが使えますか？それから、電話番号も知りたいです。	general,hotel,shopping,taxi
+3455	21	SYSTEM	はい。ジャンボタクシーには対応しております。電話番号は0989465005でございます。	general,hotel,shopping,taxi
+3455	22	USER	予約をお願いしたいです。6月28日午前11時40分にリーガロイヤルグラン沖縄からYAMADA web.com 那覇本店までです。	general,hotel,shopping,taxi
+3455	23	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は67630でございます。	general,hotel,shopping,taxi
+3455	24	USER	ありがとうございます。	general,hotel,shopping,taxi
+3455	25	SYSTEM	ほかにご用件はございませんか。	general,hotel,shopping,taxi
+3455	26	USER	もう大丈夫です。ありがとうございました。	general,hotel,shopping,taxi
+3455	27	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,taxi

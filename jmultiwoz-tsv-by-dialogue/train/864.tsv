@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+864	0	USER	那覇に行くのですが、どこか買い物できるところはありますか？	general,shopping,hotel,weather
+864	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,hotel,weather
+864	2	USER	首里で、駐車場が無料で利用できるところがいいです。	general,shopping,hotel,weather
+864	3	SYSTEM	申し訳ございません。その条件ですと案内できるところがございません。	general,shopping,hotel,weather
+864	4	USER	では、地区は特にこだわりません。	general,shopping,hotel,weather
+864	5	SYSTEM	ではデパートリウボウはいかがでしょうか。エリアは本庁でございます。	general,shopping,hotel,weather
+864	6	USER	ジャンルは何になりますか？	general,shopping,hotel,weather
+864	7	SYSTEM	ジャンルは百貨店や総合スーパーでございます。	general,shopping,hotel,weather
+864	8	USER	ありがとうございます。あと、当日の宿泊施設を探しているのですが、小禄で、最寄り駅が小禄駅でWi-Fiが無料のところはありますか？	general,shopping,hotel,weather
+864	9	SYSTEM	チャビラホテル那覇がございます。	general,shopping,hotel,weather
+864	10	USER	そちらの料金情報と値段帯を教えていただけますか？	general,shopping,hotel,weather
+864	11	SYSTEM	Wi-Fi駐車場共に無料で利用いただけます。値段帯は安めとなっております。	general,shopping,hotel,weather
+864	12	USER	ありがとうございます。あと、当日の天気が知りたいです。10/24の首里の天気なのですが。	general,shopping,hotel,weather
+864	13	SYSTEM	天気は曇時々晴でございます。	general,shopping,hotel,weather
+864	14	USER	分かりました。以上です、ありがとうございました！	general,shopping,hotel,weather
+864	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,weather

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2902	0	USER	すみません、福岡で無料Wi-Fiがある宿泊施設を教えて下さい。	general,hotel,taxi
+2902	1	SYSTEM	９８件ほどヒットします。追加の希望条件はありますか	general,hotel,taxi
+2902	2	USER	レストランがあると助かります。	general,hotel,taxi
+2902	3	SYSTEM	福岡で無料WiFi有、レストラン有の宿泊施設は４３件ありますね。他に追加の希望条件はありますか。	general,hotel,taxi
+2902	4	USER	いえ、特にありません。おすすめはどちらになりますか？	general,hotel,taxi
+2902	5	SYSTEM	それでは、THE LUIGANS Spa&Resort、こちらをおすすめします。	general,hotel,taxi
+2902	6	USER	ありがとうございます。そちらの予約をお願いします。5月21日から3泊、2名で泊まりたいです。	general,hotel,taxi
+2902	7	SYSTEM	5月21日から3泊、2名で予約成功しました。予約番号は47034です。	general,hotel,taxi
+2902	8	USER	ありがとうございます。当日はタクシー移動を考えています。ジャンボタクシーを利用できるタクシー会社を教えて下さい。	general,hotel,taxi
+2902	9	SYSTEM	福岡昭和タクシー（株）をお勧めします。	general,hotel,taxi
+2902	10	USER	ありがとうございます。そちらはキャッシュレス払いできますか？それと、電話番号も教えて下さい。	general,hotel,taxi
+2902	11	SYSTEM	キャッシュレスも対応しています。電話番号は0120408860になります。	general,hotel,taxi
+2902	12	USER	分かりました。それでは、5月21日の午後3時にTHE LUIGANS Spa&Resortから、HAPPY HILLまで予約をお願いします。	general,hotel,taxi
+2902	13	SYSTEM	予約成功しました。予約番号は48745です。	general,hotel,taxi
+2902	14	USER	ありがとうございました。助かりました。それでは失礼します。	general,hotel,taxi

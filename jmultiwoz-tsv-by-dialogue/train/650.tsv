@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+650	0	USER	那覇旅行で利用できるタクシー会社を教えていただけますか？	general,taxi
+650	1	SYSTEM	かしこまりました。では、丸二タクシーという会社はいかがでしょうか？	general,taxi
+650	2	USER	大栄交通がおすすめと聞いたのですが、こちらでお願いできたりしますか？	general,taxi
+650	3	SYSTEM	はい、該当する会社をご案内可能です。予約をおとりしましょうか？	general,taxi
+650	4	USER	お願いします。ちなみに、キャッシュレス対応とジャンボタクシー対応について情報はわかりますか？	general,taxi
+650	5	SYSTEM	キャッシュレスにつきましては、対応が不明となっております。ジャンボタクシーはご利用いただけます。	general,taxi
+650	6	USER	ありがとうございます。8/2の15:00で、出発地は塩屋 平和通り店、目的地はロワジール スパタワー 那覇での予約をお願いしたいのですが空いていますか？	general,taxi
+650	7	SYSTEM	はい、予約をお入れしました。ご予約番号は、83171となります。	general,taxi
+650	8	USER	ありがとうございました。	general,taxi

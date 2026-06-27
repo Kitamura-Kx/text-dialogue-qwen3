@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+118	0	USER	こんばんは！ 那覇旅行を考えてるのですが、ご案内いただけますか？	general,shopping,hotel,weather
+118	1	SYSTEM	那覇ですね。かしこまりました。	general,shopping,hotel,weather
+118	2	USER	当日、買い物を考えていて、コジマ×ビックカメラ那覇店というところを探していただけますか？	general,shopping,hotel,weather
+118	3	SYSTEM	はい。ございました。	general,shopping,hotel,weather
+118	4	USER	良かったです！そのお店のエリアはどこになりますか？	general,shopping,hotel,weather
+118	5	SYSTEM	本庁エリアでございます。	general,shopping,hotel,weather
+118	6	USER	わかりました！ありがとうございます！ あと、住所と営業時間についても、教えていただけますか？	general,shopping,hotel,weather
+118	7	SYSTEM	住所は沖縄県那覇市安謝664-5でございます。営業時間は10:00～21:00となっております。	general,shopping,hotel,weather
+118	8	USER	ありがとうございます！ では、今度は当日に泊まる宿泊施設を探していただきたいのですが、名前がSea~PaっPaというところはありますか？	general,shopping,hotel,weather
+118	9	SYSTEM	はい。ございます。	general,shopping,hotel,weather
+118	10	USER	良かったです！そちらの宿泊施設なんですが、レストランがあるかどうかはわかりますか？	general,shopping,hotel,weather
+118	11	SYSTEM	レストランは無しとなっております。	general,shopping,hotel,weather
+118	12	USER	そうなんですね。お調べいただき、ありがとうございます！ 最後にもう一つあるんですけど、7月4日の真和志地区の天候についてお調べいただけますか？	general,shopping,hotel,weather
+118	13	SYSTEM	天気は雨のち晴、最低気温は30度、最高気温 は31.8度でございます。	general,shopping,hotel,weather
+118	14	USER	そうなんですね。色々とお調べいただいて、とても助かりました。	general,shopping,hotel,weather
+118	15	SYSTEM	ほかにご用件はございませんか。	general,shopping,hotel,weather
+118	16	USER	はい！あとは大丈夫です。色々と、ありがとうございました！	general,shopping,hotel,weather
+118	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,weather

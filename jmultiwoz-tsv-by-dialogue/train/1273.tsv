@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1273	0	USER	仙台で観光名所を探してください。宮城野区で無料Wifiがあるスポットはどこですか？	general,attraction,taxi
+1273	1	SYSTEM	2件ご案内可能ですが、例えば、仙台うみの杜水族館というところはご興味ございませんか？	general,attraction,taxi
+1273	2	USER	そちらはジャンルでいうと何ですか？あと、近所の駅からどれぐらいの時間で行けるかも知りたいです。	general,attraction,taxi
+1273	3	SYSTEM	ジャンルは、水族館, 自然・公園, 教室・ワークショップ・体験, エンタメ・アミューズメントとなっております。最寄りの中野栄駅から徒歩で15分、またはバスで10分ほどかかります。	general,attraction,taxi
+1273	4	USER	分かりました。続いてタクシー情報もお願いします。キャッシュレスとジャンボタクシーに対応している会社はありますか？	general,attraction,taxi
+1273	5	SYSTEM	はい、ございます。仙南タクシー（株）はいかがでしょうか？	general,attraction,taxi
+1273	6	USER	電話番号も教えてください。	general,attraction,taxi
+1273	7	SYSTEM	電話番号は、0570021070です。ご予約もなさいますか？	general,attraction,taxi
+1273	8	USER	はい、お願いします。5/23の12:30乗車希望です。スマイルホテル仙台泉インターから仙台うみの杜水族館までです。	general,attraction,taxi
+1273	9	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,attraction,taxi
+1273	10	USER	時間を13：20に変更したらどうでしょうか？	general,attraction,taxi
+1273	11	SYSTEM	ありがとうございます。13：20にてご予約完了いたしました。予約番号は、42428です。	general,attraction,taxi
+1273	12	USER	ありがとうございます！	general,attraction,taxi

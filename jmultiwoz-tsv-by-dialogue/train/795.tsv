@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+795	0	USER	すみません。福岡の観光名所で百道中央公園というところがありますか。	general,attraction,weather
+795	1	SYSTEM	はい、早良区エリアに1件ございます。どういった情報をご紹介しましょうか？	general,attraction,weather
+795	2	USER	電話番号，子供入場料，営業時間が知りたいです。	general,attraction,weather
+795	3	SYSTEM	電話番号は、0928334337です。子供入場料は0円で無料です。営業時間は0時から0時ですので、24時間ですね。	general,attraction,weather
+795	4	USER	あと、12/3の博多区の最高気温，天気を調べてほしいです。	general,attraction,weather
+795	5	SYSTEM	かしこまりました。当日の最高気温は14.6度になる見込みです。お天気は、曇りの予報となっております。	general,attraction,weather
+795	6	USER	ありがとうございました。	general,attraction,weather

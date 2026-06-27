@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+722	0	USER	福岡への旅行を考えているのですが、西区の値段が高めな飲食店を教えてください。	general,restaurant
+722	1	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,restaurant
+722	2	USER	そうですか。であれば西区じゃなくてもいいです。	general,restaurant
+722	3	SYSTEM	ありがとうございます。では、稜庵はいかがでしょう？何かご案内致しましょうか？	general,restaurant
+722	4	USER	そこにします。近辺の駅からの所要時間と定休日、あとWi-Fiがあるかどうかを教えてください。	general,restaurant
+722	5	SYSTEM	はい、最寄りの天神南駅からは徒歩で6分、近辺の中洲川端駅からは徒歩で7分となります。定休日は日曜日と祝日です。申し訳ありませんが、Wi-Fiの有無については不明です。他にご案内できることはございますか？	general,restaurant
+722	6	USER	わかりました。もう大丈夫です。ありがとうございました。	general,restaurant
+722	7	SYSTEM	ありがとうございました。	general,restaurant

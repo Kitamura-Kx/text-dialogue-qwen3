@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+241	0	USER	横浜への旅行を計画中のため、観光名所を探しています。	general,attraction,weather
+241	1	SYSTEM	かしこまりました。何かご希望の条件はございますか。	general,attraction,weather
+241	2	USER	西区でWi-Fiが無料で利用できるところがいいのですが、どこかありますか？	general,attraction,weather
+241	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,attraction,weather
+241	4	USER	ではWi-Fiはなくてもよいので、西区の観光名所でどこかいいところはありますか？	general,attraction,weather
+241	5	SYSTEM	では野毛山動物園はいかがでしょうか。	general,attraction,weather
+241	6	USER	楽しそうです。ジャンルは何になりますか？	general,attraction,weather
+241	7	SYSTEM	動物園, 自然・公園となっております。	general,attraction,weather
+241	8	USER	近辺の駅からの所要時間も調べてもらえますか？	general,attraction,weather
+241	9	SYSTEM	日ノ出町駅から徒歩で10分、桜木町駅から徒歩で15分でございます。	general,attraction,weather
+241	10	USER	ありがとうございます。あと8/15の中区の天候も知りたいです。	general,attraction,weather
+241	11	SYSTEM	天気は晴のち曇でございます。	general,attraction,weather
+241	12	USER	最低気温も調べてもらえますか？	general,attraction,weather
+241	13	SYSTEM	最低気温は30度の見込みです。	general,attraction,weather
+241	14	USER	ありがとうございます。	general,attraction,weather
+241	15	SYSTEM	ほかにご用件はございますか。	general,attraction,weather
+241	16	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,weather
+241	17	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

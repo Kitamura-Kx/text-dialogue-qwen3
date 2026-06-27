@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4016	0	USER	横浜へ旅行するのですが、二俣川駅が最寄りの観光名所はありますか？Wi-Fiが無料だといいのですが。	general,attraction
+4016	1	SYSTEM	二俣川でWiFi無料の観光名所はなさそうです。	general,attraction
+4016	2	USER	そうですか。Wi-Fiがなくても大丈夫なんですけど、それならどうですか？	general,attraction
+4016	3	SYSTEM	二俣川の観光名所といえば、こども自然公園、こちらになります。	general,attraction
+4016	4	USER	いいですね。大人入場料ってわかりますか？	general,attraction
+4016	5	SYSTEM	大人も子供も無料です。	general,attraction
+4016	6	USER	ありがとうございます。助かります。	general,attraction
+4016	7	SYSTEM	よい旅を	general,attraction

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+762	0	USER	東京への旅行を考えているのですが、観光名所を調べてもらえますか？	general,attraction
+762	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction
+762	2	USER	はい、最寄り駅が御茶ノ水駅で、Wi-Fiが無料で使えるところがいいです。	general,attraction
+762	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できる場所が見つかりませんでした。	general,attraction
+762	4	USER	わかりました。じゃあ最寄り駅は御茶ノ水駅じゃなくてもいいです。	general,attraction
+762	5	SYSTEM	かしこまりました。そうしますと、上野動物園はいかがでしょうか？最寄りの駅は、上野駅です。	general,attraction
+762	6	USER	そこにします。大人入場料と近辺の駅からの所要時間を教えてください。	general,attraction
+762	7	SYSTEM	大人入場料は600円です。65歳以上は300円となります。上野駅からは徒歩で5分ほどの距離にございます。	general,attraction
+762	8	USER	わかりました。ありがとうございます。	general,attraction
+762	9	SYSTEM	他にお知りになりたい情報など、ございませんか？	general,attraction
+762	10	USER	いえ、大丈夫です。ありがとうございました。	general,attraction
+762	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,attraction

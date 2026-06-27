@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2897	0	USER	すみません、今度、大阪でレストランがある宿泊施設で泊まりたいんですが、良い所はありますか？	general,hotel,restaurant,weather
+2897	1	SYSTEM	大阪でレストランありの宿泊施設は67件あります。	general,hotel,restaurant,weather
+2897	2	USER	たくさんありますね。予算は高めで予定しています。おすすめをお願いします。	general,hotel,restaurant,weather
+2897	3	SYSTEM	高めでレストランありだと、ずばり、9別邸 大阪谷町 MAISON DE 9、こちら一択になります。	general,hotel,restaurant,weather
+2897	4	USER	ありがとうございます。そこはどの辺りになりますか？	general,hotel,restaurant,weather
+2897	5	SYSTEM	エリアは中央区になります	general,hotel,restaurant,weather
+2897	6	USER	それでは、11月28日から2泊、2名の予約をお願いします。	general,hotel,restaurant,weather
+2897	7	SYSTEM	予約成功しました。予約番号は39486です。	general,hotel,restaurant,weather
+2897	8	USER	ありがとうございます。その日に新今宮駅の近くで食事をしたいのですが、無料Wi-Fiがある所を教えて下さい。	general,hotel,restaurant,weather
+2897	9	SYSTEM	新今宮駅で無料WiFiのある飲食店はなさそうです。	general,hotel,restaurant,weather
+2897	10	USER	そうですか。では、新今宮駅以外の場所ならありますか？	general,hotel,restaurant,weather
+2897	11	SYSTEM	大阪で無料WiFiありの飲食店は15件ありますが、大阪らしく、牛すじホルモン 二刀流武蔵をおすすめします。	general,hotel,restaurant,weather
+2897	12	USER	ありがとうございます。そちらはどんなジャンルのお店ですか？料金情報も教えて下さい。	general,hotel,restaurant,weather
+2897	13	SYSTEM	ジャンルは焼肉・ホルモン, 鍋, 居酒屋になります。宮本武蔵コース４０００円が目玉のようです。	general,hotel,restaurant,weather
+2897	14	USER	なるほど、良さそうですね。近くの駅からどれくらいかかりますか？	general,hotel,restaurant,weather
+2897	15	SYSTEM	本町駅から徒歩で1分ですね。	general,hotel,restaurant,weather
+2897	16	USER	駅に近くて良いですね。もう１つ、11月28日の中央区の最低気温と天気を教えて下さい。	general,hotel,restaurant,weather
+2897	17	SYSTEM	11/28 大阪 中央区 の天気は雨のち晴、最低気温14.6度、最高気温19.2度です。	general,hotel,restaurant,weather
+2897	18	USER	ありがとうございました。助かりました。それでは失礼します。	general,hotel,restaurant,weather

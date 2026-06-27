@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1616	0	USER	札幌の中央区で中華料理が食べられるお店を探してほしいです。	general,restaurant,attraction
+1616	1	SYSTEM	中国料理 月下翁は、いかがでしょうか？	general,restaurant,attraction
+1616	2	USER	いいですね。電話番号を伺えますか？	general,restaurant,attraction
+1616	3	SYSTEM	電話番号は、0112151017です。	general,restaurant,attraction
+1616	4	USER	ありがとうございます。当日、観光もしたいのですが、豊平区でWi-Fiが無料で利用できるところはどこかありますか？	general,restaurant,attraction
+1616	5	SYSTEM	さっぽろ羊ヶ丘展望台は、いかがですか？	general,restaurant,attraction
+1616	6	USER	よさそうですね。そちらの住所を教えてもらえますか？	general,restaurant,attraction
+1616	7	SYSTEM	住所は、北海道札幌市豊平区羊ケ丘1です。	general,restaurant,attraction
+1616	8	USER	定休日はありますでしょうか？	general,restaurant,attraction
+1616	9	SYSTEM	定休日は、無しになっています。	general,restaurant,attraction
+1616	10	USER	参考になりました。どうもありがとう。	general,restaurant,attraction

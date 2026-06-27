@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3567	0	USER	今度、大阪の旭区で観光しようと思っています。良い所がありますか？	general,attraction,taxi
+3567	1	SYSTEM	申し訳ございません。旭区でご案内できる観光名所がございません。いかがなさいますか。	general,attraction,taxi
+3567	2	USER	そうですか。では旭区以外で大丈夫ですので、Wi-Fiが無料で利用できて、無料駐車場がある観光名所を教えてください。	general,attraction,taxi
+3567	3	SYSTEM	では鶴見緑地湯元 水春はいかがでしょうか。	general,attraction,taxi
+3567	4	USER	ありがとうございます。行ってみたいです。もう１つ、ジャンボタクシーを利用できるタクシー会社を教えて下さい。	general,attraction,taxi
+3567	5	SYSTEM	はい。南タクシー株式会社がございます。	general,attraction,taxi
+3567	6	USER	ありがとうございます。キャッシュレス払いもできますか？	general,attraction,taxi
+3567	7	SYSTEM	はい。キャッシュレスにも対応しております。	general,attraction,taxi
+3567	8	USER	それでは、11月12日の午後12:50に鶴見緑地湯元 水春からローザロッチェまで予約をお願いします。	general,attraction,taxi
+3567	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は69745でございます。	general,attraction,taxi
+3567	10	USER	ありがとうございます。助かりました。それでは失礼します。	general,attraction,taxi

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1624	0	USER	こんにちは。京都へ旅行するのですが、食事できるところを探してもらえますか？	general,restaurant,weather
+1624	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,restaurant,weather
+1624	2	USER	価格は安めで、駐車場が無料の場所をお願いします	general,restaurant,weather
+1624	3	SYSTEM	では、海雲亭 洛西店というお店はいかがでしょうか？ジャンルは、焼肉・ホルモンとなっております。	general,restaurant,weather
+1624	4	USER	そこにします。エリアと定休日、無料Wi-Fiがあるかを教えてもらえますか？	general,restaurant,weather
+1624	5	SYSTEM	エリアは西京区にございます。こちらのお店は定休日はございません。WiFiの有無につきましては不明となっております、申し訳ありません。	general,restaurant,weather
+1624	6	USER	いえいえ。では、予約もお願いします。10月9日の10時50分で、4人で予約できますか？	general,restaurant,weather
+1624	7	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,restaurant,weather
+1624	8	USER	3人だったらできますか？	general,restaurant,weather
+1624	9	SYSTEM	ありがとうございます。3名様にてご予約完了いたしました。予約番号は、33466です。	general,restaurant,weather
+1624	10	USER	ありがとうございます。当日の東山区の天気もわかりますか？	general,restaurant,weather
+1624	11	SYSTEM	恐れ入ります。天気をお調べするお日にちを、伺ってもよろしいでしょうか？	general,restaurant,weather
+1624	12	USER	10月9日です	general,restaurant,weather
+1624	13	SYSTEM	ありがとうございます。当日の天気は、晴のち曇の予報です。最低気温は14.9度、最高気温は20.6度の予想となっております。	general,restaurant,weather
+1624	14	USER	ありがとうございます。	general,restaurant,weather
+1624	15	SYSTEM	他になにかお調べすることはございませんか？	general,restaurant,weather
+1624	16	USER	いえ、以上です	general,restaurant,weather
+1624	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,weather

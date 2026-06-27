@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+571	0	USER	こんにちは。今度、那覇に行こうかと思っているんですけど、当日泊る宿泊施設の検索をお願いします。	general,hotel
+571	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel
+571	2	USER	えっと、安めの予算で希望したいのですが。あと、レストランが併設されているところが良いです。	general,hotel
+571	3	SYSTEM	では、ハイアット リージェンシー 那覇 沖縄はいかがでしょう？タイプはリゾートホテル、エリアは本庁、最寄りの牧志駅から徒歩で7分となります。	general,hotel
+571	4	USER	ありがとうございます。そこは駐車場は無料で使えますか？	general,hotel
+571	5	SYSTEM	申し訳ありません。駐車場は有料となります。無料で利用できる駐車場の条件を追加されますか？	general,hotel
+571	6	USER	はい、お願いします。	general,hotel
+571	7	SYSTEM	では、パシフィックホテル沖縄、ルートイングランティア那覇、HOTEL MARUKIの3件がございます。	general,hotel
+571	8	USER	そうなんですね。では、パシフィックホテル沖縄を利用して観ようかと思います。そちらのエリアと近辺の駅からの所要時間について、伺っても宜しいですか？	general,hotel
+571	9	SYSTEM	はい、エリアは本庁となります。最寄りの旭橋駅からは徒歩で15分です。	general,hotel
+571	10	USER	ありがとうございます。予約もお願いしてよろしいですか？	general,hotel
+571	11	SYSTEM	承知しました。お手数ですが、人数と宿泊日、宿泊日数を教えていただけますか？	general,hotel
+571	12	USER	えっと、人数は2人で、日付は1月21日。宿泊日数は2泊でお願いします。	general,hotel
+571	13	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、59072となります。	general,hotel
+571	14	USER	お手配、ありがとうございます。あとは大丈夫です。この度はありがとうございました。	general,hotel
+571	15	SYSTEM	ありがとうございました。	general,hotel

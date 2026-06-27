@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1588	0	USER	横浜への旅行を計画していまして、観光について相談したいです。	general,attraction,weather,taxi
+1588	1	SYSTEM	かしこまりました。どういったお手伝いをいたしましょうか？	general,attraction,weather,taxi
+1588	2	USER	磯子区にある建築物で観光名所になるようなところはありますか？	general,attraction,weather,taxi
+1588	3	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,attraction,weather,taxi
+1588	4	USER	なるほど、では建築物以外だとどこかありますか？	general,attraction,weather,taxi
+1588	5	SYSTEM	はい、2件ご案内可能です。例えば、はまぎん こども宇宙科学館というところはいかがでしょうか？	general,attraction,weather,taxi
+1588	6	USER	いいですね、そこの子供の入場料はいくらでしょうか？	general,attraction,weather,taxi
+1588	7	SYSTEM	お子様の入場料は、200円です。	general,attraction,weather,taxi
+1588	8	USER	安いですね、子供を連れて伺いたいと思います。12/21旅行当日の磯子区の天気はいかがでしょうか？	general,attraction,weather,taxi
+1588	9	SYSTEM	当日の天気は、晴れ、最低気温は9.4度、最高気温は10.6度の予報が出ております。	general,attraction,weather,taxi
+1588	10	USER	良い天気で良かったです。では、そちらに伺いたいのでタクシーを手配いただけますか？	general,attraction,weather,taxi
+1588	11	SYSTEM	かしこまりました。ジャンボタクシーやキャッシュレスのお支払いなど、ご希望はございますか？	general,attraction,weather,taxi
+1588	12	USER	ジャンボタクシーもキャッシュレスも利用できるタクシー会社はありますか？	general,attraction,weather,taxi
+1588	13	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,weather,taxi
+1588	14	USER	では、ジャンボタクシーは利用せずキャッシュレスだけで大丈夫です。	general,attraction,weather,taxi
+1588	15	SYSTEM	ありがとうございます。そうしますと、富士見交通株式会社はいかがでしょうか？	general,attraction,weather,taxi
+1588	16	USER	そちらの電話番号はいくつでしょうか？	general,attraction,weather,taxi
+1588	17	SYSTEM	0120411190でございます。	general,attraction,weather,taxi
+1588	18	USER	では、12/21の13:50にとりいちず 新横浜店というところからはまぎん こども宇宙科学館まで予約をお願いします。	general,attraction,weather,taxi
+1588	19	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、32373です。	general,attraction,weather,taxi
+1588	20	USER	ありがとうございました、本日は以上となります。	general,attraction,weather,taxi
+1588	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,weather,taxi

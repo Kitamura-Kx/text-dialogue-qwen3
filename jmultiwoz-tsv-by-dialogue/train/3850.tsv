@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3850	0	USER	福岡への旅行をするのですが、ジャンボタクシーが使えるタクシー会社はありますか？	general,taxi
+3850	1	SYSTEM	はい、清流タクシー（有）をお勧めします。	general,taxi
+3850	2	USER	そちらはキャッシュレス対応はしていますか？	general,taxi
+3850	3	SYSTEM	キャッシュレス対応は不明です。福岡にジャンボタクシーとキャッシュレス両方対応しているタクシー会社はありません。	general,taxi
+3850	4	USER	わかりました。では、先程のタクシー会社の電話番号ってわかりますか？	general,taxi
+3850	5	SYSTEM	0928041000です。	general,taxi
+3850	6	USER	予約をお願いします。６月１９日の９時４０分で、ひしむら発、エスペリアホテル博多着でお願いします。	general,taxi
+3850	7	SYSTEM	予約成功しました。予約番号は80791です。	general,taxi
+3850	8	USER	ありがとうございました。	general,taxi

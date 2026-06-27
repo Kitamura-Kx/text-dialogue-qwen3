@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3224	0	USER	横浜へ行く予定をしているので、その時に行く観光スポットの案内をお願いします。	general,attraction,weather
+3224	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,attraction,weather
+3224	2	USER	西区で探しているのですが、野島公園駅あたりでは見つかりますか？	general,attraction,weather
+3224	3	SYSTEM	申し訳ございません。条件に合う観光スポットは見つかりませんでした。	general,attraction,weather
+3224	4	USER	西区で最寄り駅関係ないという条件なら、どこかありますか？	general,attraction,weather
+3224	5	SYSTEM	はい。原鉄道模型博物館はいかがでしょうか？	general,attraction,weather
+3224	6	USER	原鉄道模型博物館は、どんなジャンルの施設でしょうか？定休日もいつか知りたいです。	general,attraction,weather
+3224	7	SYSTEM	はい。ジャンルは美術館・博物館です。また、定休日は火、水曜日と、年末年始や2月上旬になります。	general,attraction,weather
+3224	8	USER	ありがとうございます。旅行は7/4を予定しているのですが、青葉区のこの日の気温も教えてください。	general,attraction,weather
+3224	9	SYSTEM	はい。最低気温が17.8度で、最高気温が23.3度になります。	general,attraction,weather
+3224	10	USER	ありがとうございます、これでお聞きしたいことは全てです。	general,attraction,weather
+3224	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4830	0	USER	札幌へ旅行予定なのですが、洋食・西洋料理が食べれて、Wi-Fiと駐車場が無料で使えるところを調べてください。	general,restaurant,attraction
+4830	1	SYSTEM	それでしたら、カフェ・スイーツ, 洋食・西洋料理はいかがでしょうか？	general,restaurant,attraction
+4830	2	USER	すいません。カフェ・スイーツ, 洋食・西洋料理という店ですか？	general,restaurant,attraction
+4830	3	SYSTEM	申し訳ありません。　J.S. PANCAKE CAFE 札幌ステラプレイス店　こちらになります。	general,restaurant,attraction
+4830	4	USER	それが店名なんですね。住所と電話番号もわかりますか？	general,restaurant,attraction
+4830	5	SYSTEM	住所は、北海道札幌市中央区北五条西2丁目 札幌ステラプレイス イースト3Fで、0112095121になります。	general,restaurant,attraction
+4830	6	USER	わかりました。3人で6/11の09:50から予約とれますか？	general,restaurant,attraction
+4830	7	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。　どうされますか？	general,restaurant,attraction
+4830	8	USER	二人に人数を変更します。	general,restaurant,attraction
+4830	9	SYSTEM	2名様でご予約出来ました。予約番号は、22817になります。	general,restaurant,attraction
+4830	10	USER	ありがとうございます。あと、駐車場とWi-Fiが無料な観光名所も教えてください。	general,restaurant,attraction
+4830	11	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,restaurant,attraction
+4830	12	USER	そうですか。では、駐車場がなくても大丈夫です。	general,restaurant,attraction
+4830	13	SYSTEM	それでしたら、アシリベツの滝　こちらはいかがですか？	general,restaurant,attraction
+4830	14	USER	そこにします。料金情報と最寄り駅を教えてください。	general,restaurant,attraction
+4830	15	SYSTEM	申し訳ありません、料金情報は、不明となっています。　最寄り駅は、真駒内駅になります。	general,restaurant,attraction
+4830	16	USER	わかりました。ありがとうございました。	general,restaurant,attraction
+4830	17	SYSTEM	他にご用件はございますか？	general,restaurant,attraction
+4830	18	USER	いえ、大丈夫です。	general,restaurant,attraction
+4830	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction

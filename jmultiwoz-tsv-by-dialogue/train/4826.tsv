@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4826	0	USER	横浜へ旅行に行くので、食事ができるお店を探してください。	general,restaurant,shopping,attraction
+4826	1	SYSTEM	はい。ご希望の条件をおきかせください。	general,restaurant,shopping,attraction
+4826	2	USER	カフェ・スイーツが食べられるお店で、予算は安めがいいです。あと無料駐車場があるところがいいです。	general,restaurant,shopping,attraction
+4826	3	SYSTEM	横浜で安めで無料駐車場のあるカフェスイーツの店といえば、カフェ・ド・ラペです。	general,restaurant,shopping,attraction
+4826	4	USER	最寄り駅はどこですか？	general,restaurant,shopping,attraction
+4826	5	SYSTEM	日本大通り駅です。	general,restaurant,shopping,attraction
+4826	6	USER	次に買い物ができるところを探してください。こちらも無料駐車場があるところでお願いします。	general,restaurant,shopping,attraction
+4826	7	SYSTEM	横浜には、駐車場無料の買い物施設は２８件ありますが、六角橋商店街をお勧めします。	general,restaurant,shopping,attraction
+4826	8	USER	そちらの最寄り駅はどこですか？	general,restaurant,shopping,attraction
+4826	9	SYSTEM	白楽駅です。	general,restaurant,shopping,attraction
+4826	10	USER	最後に観光できるところを探してください。	general,restaurant,shopping,attraction
+4826	11	SYSTEM	はい。何か希望はありますか。	general,restaurant,shopping,attraction
+4826	12	USER	無料駐車場があって、あとWi-Fiも無料で使えるところがいいです。	general,restaurant,shopping,attraction
+4826	13	SYSTEM	横浜でWifiと駐車場無料の観光名所は２件ありますが、カップヌードルミュージアム 横浜をお勧めします。	general,restaurant,shopping,attraction
+4826	14	USER	子供の入場料金はいくらですか？	general,restaurant,shopping,attraction
+4826	15	SYSTEM	高校生以下無料です。	general,restaurant,shopping,attraction
+4826	16	USER	ありがとうございます。以上です。	general,restaurant,shopping,attraction

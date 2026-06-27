@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2770	0	USER	名古屋へ旅行を計画しており、宿泊施設を探しています。条件として無料のWi-Fi、駐車場が利用できるところがいいです。	general,hotel,restaurant
+2770	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel,restaurant
+2770	2	USER	それではWi-Fiの有無は考慮しません。	general,hotel,restaurant
+2770	3	SYSTEM	ありがとうございます。エリアでいうと中区にある、旅館名龍はいかがでしょう？タイプは旅館となります。	general,hotel,restaurant
+2770	4	USER	ありがとうございます。そちらのチェックイン開始時刻を教えてください。	general,hotel,restaurant
+2770	5	SYSTEM	はい、チェックイン開始時刻は15時、チェックアウト終了時刻は10時となります。	general,hotel,restaurant
+2770	6	USER	承知しました。最後に飲食店を探しており、無料のWi-Fiがあるところでどこかありますか？	general,hotel,restaurant
+2770	7	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel,restaurant
+2770	8	USER	それではWi-Fiの有無は考慮しません。	general,hotel,restaurant
+2770	9	SYSTEM	ありがとうございます。エリアでいうと中区にある、魚屋の台所 下の一色 本店はいかがでしょう？ジャンルは、寿司、魚料理、和食、居酒屋、となります。	general,hotel,restaurant
+2770	10	USER	そちらの定休日を教えてください。	general,hotel,restaurant
+2770	11	SYSTEM	定休日はございません。	general,hotel,restaurant
+2770	12	USER	それでは予約をお願いします。人数は4名、日時は5/19、11:40でお願いします。	general,hotel,restaurant
+2770	13	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,hotel,restaurant
+2770	14	USER	それでは人数を3名に変更でお願いします。	general,hotel,restaurant
+2770	15	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、58209となります。	general,hotel,restaurant
+2770	16	USER	ありがとうございます。こちらからは以上です。	general,hotel,restaurant
+2770	17	SYSTEM	ありがとうございました。	general,hotel,restaurant

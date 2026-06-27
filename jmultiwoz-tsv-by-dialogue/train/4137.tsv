@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4137	0	USER	那覇への旅行を計画しています。真和志で駐車場を無料で利用出来て買い物できるところはありますか？	general,shopping,hotel
+4137	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,shopping,hotel
+4137	2	USER	では、真和志でなくてもいいです。	general,shopping,hotel
+4137	3	SYSTEM	では、サンエー那覇メインプレイスはいかがですか？	general,shopping,hotel
+4137	4	USER	そのお店の電話番号と営業時間が知りたいです。	general,shopping,hotel
+4137	5	SYSTEM	電話番号は、0989513300です。　営業時間は、9時から23時までとなっています。	general,shopping,hotel
+4137	6	USER	ありがとうございます。	general,shopping,hotel
+4137	7	SYSTEM	他にご用件はありますか？	general,shopping,hotel
+4137	8	USER	駐車場を無料で利用出来て、簡易宿所はありますか？地区は小禄がいいです。	general,shopping,hotel
+4137	9	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,shopping,hotel
+4137	10	USER	では、その地区でなくてもいいです。	general,shopping,hotel
+4137	11	SYSTEM	沖縄国際ユースホステル、こちらはいかがですか？	general,shopping,hotel
+4137	12	USER	電話番号が知りたいです。あと、wifiは使えますか？	general,shopping,hotel
+4137	13	SYSTEM	電話番号は、0988570073です。　Wi-Fiにつきましては、無料Wi-Fiの利用が可能です。	general,shopping,hotel
+4137	14	USER	1月31日に３人で4泊予約したいです。	general,shopping,hotel
+4137	15	SYSTEM	予約出来ました。予約番号は、73852です。	general,shopping,hotel
+4137	16	USER	ありがとうございます。これで大丈夫です。	general,shopping,hotel
+4137	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel
+4137	18	USER		general,shopping,hotel

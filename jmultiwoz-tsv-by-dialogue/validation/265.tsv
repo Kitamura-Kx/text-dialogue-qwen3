@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+265	0	USER	横浜で、駐車場が無料で、Wi-Fiも無料の飲食店ってありますか？	general,restaurant
+265	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant
+265	2	USER	では、Wi-Fiはなくてもいいです。それならどうですか？	general,restaurant
+265	3	SYSTEM	ではカフェ・ド・ラペはいかがでしょうか。	general,restaurant
+265	4	USER	エリアはどこになりますか？住所も教えてください。	general,restaurant
+265	5	SYSTEM	エリアは中区となっております。住所は神奈川県横浜市中区山下町2 産業貿易センター２Fでございます。	general,restaurant
+265	6	USER	4人で予約できますか？12月19日の13時なんですけど。	general,restaurant
+265	7	SYSTEM	はい。予約が完了いたしました。予約番号は48713でございます。	general,restaurant
+265	8	USER	お世話様でした。ありがとうございました。	general,restaurant

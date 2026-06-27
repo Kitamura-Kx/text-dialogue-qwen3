@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+5004	0	USER	那覇へ旅行に行くのですが、おもろまち駅の近くで、無料で駐車可能な場所を探しています。おもちゃを買うことが出来るお店です。	general,shopping
+5004	1	SYSTEM	おもちゃを買うことが出来るトイザらス・ベビーザらス 那覇新都心店が見つかりました。いかがでしょうか。	general,shopping
+5004	2	USER	ありがとうございます！では、その店の定休日と、駅からの所要時間を教えていただけますか？	general,shopping
+5004	3	SYSTEM	はい。定休日は無しで所要時間はおもろまち駅から徒歩で10分となっております。	general,shopping
+5004	4	USER	ありがとうございました。お世話になりました！！	general,shopping

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4941	0	USER	こんにちは。横浜に旅行を計画しています。ちょっと難しいかもしれませんが、ジャンルは燃料で、駐車場を無料で利用できる、買い物ができる場所はありますか？	general,shopping,hotel,taxi
+4941	1	SYSTEM	申し訳ございません。この条件では難しいです。	general,shopping,hotel,taxi
+4941	2	USER	そうですよね、ではジャンルは食料品で、駐車場無料でお願いします。	general,shopping,hotel,taxi
+4941	3	SYSTEM	コストコ金沢シーサイド倉庫 Augusta Milk Farm 相澤良牧場 MEGAドン・キホーテ港山下総本店がご紹介できます	general,shopping,hotel,taxi
+4941	4	USER	コストコ金沢シーサイド倉庫に行こうと思います。それから、青葉台駅が最寄り駅のところで、Wi-Fiが無料の宿泊施設はありますか？	general,shopping,hotel,taxi
+4941	5	SYSTEM	青葉台フォーラムはいかがですか？	general,shopping,hotel,taxi
+4941	6	USER	そこにしたいんですが、どういうタイプですか？あと住所も教えてください。	general,shopping,hotel,taxi
+4941	7	SYSTEM	シティホテルタイプです。神奈川県横浜市青葉区青葉台1丁目5-8です。	general,shopping,hotel,taxi
+4941	8	USER	ありがとうございます。タクシー会社も探していただけますか？ジャンボタクシーを利用できて、キャッシュレスにも対応しているところがいいですね。	general,shopping,hotel,taxi
+4941	9	SYSTEM	株式会社グリーンキャブ 国際自動車株式会社 京浜ハイヤー株式会社などは条件に当てはまります。いかがですか？	general,shopping,hotel,taxi
+4941	10	USER	株式会社グリーンキャブで予約をお願いします。9月4日13時10分に、コストコ金沢シーサイド倉庫から青葉台フォーラムまで行ってください。	general,shopping,hotel,taxi
+4941	11	SYSTEM	かしこまりました。予約完了いたしました。予約番号は39494です。	general,shopping,hotel,taxi
+4941	12	USER	ご対応ありがとうございました！	general,shopping,hotel,taxi

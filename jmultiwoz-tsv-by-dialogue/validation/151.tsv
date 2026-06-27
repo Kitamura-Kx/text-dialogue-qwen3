@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+151	0	USER	京都の下京区で宿を探しています。Wi-Fi無料でレストランが一緒になっている所、みつくろってもらえませんか？	general,hotel,taxi,weather
+151	1	SYSTEM	承知致しました。それでは、リーガロイヤルホテル京都はいかがでしょう？値段帯は安めのシティホテルとなります。最寄りの京都駅から徒歩で7分です。	general,hotel,taxi,weather
+151	2	USER	駅からも近くていいですね。9月13日から4泊予約したいんですけど。人数は2人でお願いします。	general,hotel,taxi,weather
+151	3	SYSTEM	申し訳ございません、その条件では予約できませんでした。いかが致しましょう？	general,hotel,taxi,weather
+151	4	USER	えー、しょうがないなあ、じゃあ、1人だけならなんとかなりますか？	general,hotel,taxi,weather
+151	5	SYSTEM	申し訳ございません、人数の変更ありがとうございます。予約が可能になりまして、ご予約番号は、30247となります。	general,hotel,taxi,weather
+151	6	USER	ああ、よかった。あと、キャッシュレス払いができるタクシー会社を教えてほしいんですけど。	general,hotel,taxi,weather
+151	7	SYSTEM	承知致しました。それでは、都タクシー株式会社はいかがでしょう？キャッシュレスの他、ジャンボタクシーにも対応しております。電話番号は、0756616611となります。	general,hotel,taxi,weather
+151	8	USER	ジャンボも使えるのはいいですね。9月13日に予約したいんですけど。11時半にリーガロイヤルホテル京都を出て、東映太秦映画村まで行きたいんです。	general,hotel,taxi,weather
+151	9	SYSTEM	ありがとうございます。予約が完了致しました。ご予約番号は、94362となります。	general,hotel,taxi,weather
+151	10	USER	一揃い予約してもらえて助かりました。お世話になりました。	general,hotel,taxi,weather
+151	11	SYSTEM	承知致しました。ありがとうございました。	general,hotel,taxi,weather
+151	12	USER	すみません、あと一つだけ聞いていいですか？9月13日の左京区、暑くなりそうですか？	general,hotel,taxi,weather
+151	13	SYSTEM	配慮が足りず、申し訳ございませんでした。当日の天気は曇のち晴、最低気温19度、最高気温は34.8度ですので、まだまだ暑さが残りそうです。	general,hotel,taxi,weather
+151	14	USER	いやあ、やっぱり京都は暑いですね。忘れずに確認できてよかったです。ありがとうございました。	general,hotel,taxi,weather

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1010	0	USER	京都で食事ができる店を探してます。駐車場が無料で予算が普通の店が良いです。	general,restaurant,weather,taxi
+1010	1	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,restaurant,weather,taxi
+1010	2	USER	駐車場が有料だったらありますか？	general,restaurant,weather,taxi
+1010	3	SYSTEM	はい、Pizza Cafe TakemuRa、菊水の2件がございます。何をご案内致しましょう？	general,restaurant,weather,taxi
+1010	4	USER	では菊水の方でお願いします。WiFiがあるか教えてください。	general,restaurant,weather,taxi
+1010	5	SYSTEM	申し訳ありません。Wi-Fiの有無については不明となっております。	general,restaurant,weather,taxi
+1010	6	USER	わかりました。	general,restaurant,weather,taxi
+1010	7	SYSTEM	他にご用件はございますか？	general,restaurant,weather,taxi
+1010	8	USER	6/28の中京区の天気と気温を教えてください。	general,restaurant,weather,taxi
+1010	9	SYSTEM	はい、天気は曇、最低気温25.5度、最高気温28.8度となります。	general,restaurant,weather,taxi
+1010	10	USER	わかりました。あともう１つ良いですか？	general,restaurant,weather,taxi
+1010	11	SYSTEM	はい、何をご案内致しましょう？	general,restaurant,weather,taxi
+1010	12	USER	キャッシュレス払いができるジャンボタクシーを探しています。	general,restaurant,weather,taxi
+1010	13	SYSTEM	それでは、エムケイ株式会社はいかがでしょう？電話番号は、0757784141となります。	general,restaurant,weather,taxi
+1010	14	USER	ありがとうございます。6/28に予約したいです。	general,restaurant,weather,taxi
+1010	15	SYSTEM	承知しました。出発時刻と出発地、目的地を教えていただけますか？	general,restaurant,weather,taxi
+1010	16	USER	12：40にジェイアール京都伊勢丹からさっきの菊水というお店までお願いします。	general,restaurant,weather,taxi
+1010	17	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、26153となります。	general,restaurant,weather,taxi
+1010	18	USER	わかりました。ありがとうございました。	general,restaurant,weather,taxi
+1010	19	SYSTEM	他にご用件はございますか？	general,restaurant,weather,taxi
+1010	20	USER	いいえ大丈夫です。	general,restaurant,weather,taxi
+1010	21	SYSTEM	ありがとうございました。	general,restaurant,weather,taxi

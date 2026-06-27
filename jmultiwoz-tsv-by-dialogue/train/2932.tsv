@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2932	0	USER	大阪に行くのですが、宿泊施設を探しています。	general,hotel
+2932	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,hotel
+2932	2	USER	淀川区で大江橋駅の近くが良いです。	general,hotel
+2932	3	SYSTEM	淀川区、大江橋の条件では宿泊施設がヒットしませんでした。	general,hotel
+2932	4	USER	大江橋駅の近くでなくてもいいです。	general,hotel
+2932	5	SYSTEM	淀川区ならば、アスティルホテル十三プレシャス、こちらをオススメします。	general,hotel
+2932	6	USER	あ、そっちの方がいいかも。料金情報を教えてください。	general,hotel
+2932	7	SYSTEM	値段帯は安めですが、料金情報詳細までは不明です。	general,hotel
+2932	8	USER	そうなんですね。でもそちらにします。ありがとうございました。	general,hotel
+2932	9	SYSTEM	よい旅を。	general,hotel

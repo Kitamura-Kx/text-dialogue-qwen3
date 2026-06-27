@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2244	0	USER	名古屋へ旅行に行くので、観光できるところを探して欲しいです。	general,attraction
+2244	1	SYSTEM	名古屋の観光名所ですね。なにかご希望の条件などはございませんか？	general,attraction
+2244	2	USER	地区は天白区で、駐車場を無料で利用できるところにしてください。	general,attraction
+2244	3	SYSTEM	では、塩竈神社はいかがでしょうか？	general,attraction
+2244	4	USER	そちらの最寄り駅と住所を教えてください。	general,attraction
+2244	5	SYSTEM	最寄りは塩釜口駅で、徒歩で10分の場所にございます。住所は、愛知県名古屋市天白区御幸山1328です。	general,attraction
+2244	6	USER	ありがとうございました。全て聞けたので、こちらで終わりでいいです。	general,attraction
+2244	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

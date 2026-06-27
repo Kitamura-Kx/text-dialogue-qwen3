@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4303	0	USER	横浜へ旅行するのですが、普通ぐらいのお値段で食べられる飲食店を探しています。ありますかね？	general,restaurant,taxi
+4303	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant,taxi
+4303	2	USER	じゃあ、お値段は切意思なくて大丈夫です	general,restaurant,taxi
+4303	3	SYSTEM	かしこまりました。それではタイ料理トムヤムくんはいかがでしょうか？	general,restaurant,taxi
+4303	4	USER	いいですね。お店の名前はなんですか？	general,restaurant,taxi
+4303	5	SYSTEM	はい、紛らわしいですがお店の名称がタイ料理トムヤムくんでございます。	general,restaurant,taxi
+4303	6	USER	そうなんですね！では予約をお願いしたいのですがよろしいですか？	general,restaurant,taxi
+4303	7	SYSTEM	かしこまりました。日程等お伺いいたします。	general,restaurant,taxi
+4303	8	USER	5/15の10:50から3人でお願いします	general,restaurant,taxi
+4303	9	SYSTEM	お待たせ致しました。予約番号3690でお取りさせていただきました。	general,restaurant,taxi
+4303	10	USER	あとキャッシュレス払いできるタクシー会社を探しているのですが	general,restaurant,taxi
+4303	11	SYSTEM	かしこまりました。それではスタジアム交通株式会社はいかがでしょうか？	general,restaurant,taxi
+4303	12	USER	ジャンボタクシーに対応しているかを教えてください	general,restaurant,taxi
+4303	13	SYSTEM	はい、ジャンボタクシーにも対応しております。	general,restaurant,taxi
+4303	14	USER	では、5/15の9:40にタイ料理トムヤムくんからbills 横浜赤レンガ倉庫まで予約をお願いします	general,restaurant,taxi
+4303	15	SYSTEM	申し訳ございません。その条件では予約することが出来ませんでした。	general,restaurant,taxi
+4303	16	USER	では10:20だとどうでしょう？	general,restaurant,taxi
+4303	17	SYSTEM	お待たせ致しました。予約番号613でお取りさせていただきました。	general,restaurant,taxi
+4303	18	USER	了解です！ありがとうございました	general,restaurant,taxi
+4303	19	SYSTEM	その他に何かご用件はございますか？	general,restaurant,taxi
+4303	20	USER	大丈夫です。ありがとうございました	general,restaurant,taxi
+4303	21	SYSTEM	かしこまりました。ありがとうございました。またお待ちしております。	general,restaurant,taxi

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4787	0	USER	那覇の宿泊施設を教えてください。Wi-Fiが無料で利用でき、レストランが併設されているところでお願いします。	general,hotel,shopping,weather
+4787	1	SYSTEM	かしこまりました。では、JR九州ホテル ブラッサム那覇はいかがでしょうか？	general,hotel,shopping,weather
+4787	2	USER	はい。そこの最寄り駅，チェックアウト終了時刻をお聞きしたいです。	general,hotel,shopping,weather
+4787	3	SYSTEM	はい。最寄り駅は美栄橋駅で、チェックアウト終了時刻は11:00になります。	general,hotel,shopping,weather
+4787	4	USER	予約をお願いします。人数は3人、日付は3/5、宿泊日数は4泊です。	general,hotel,shopping,weather
+4787	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、72738です。	general,hotel,shopping,weather
+4787	6	USER	ありがとうございます。また、当日買い物ができる場所を探してください。駐車場を無料で利用できるところでお願いします。	general,hotel,shopping,weather
+4787	7	SYSTEM	かしこまりました。トイザらス・ベビーザらス 那覇新都心店なんていかがですか？	general,hotel,shopping,weather
+4787	8	USER	分かりました。そこの近辺の駅からの所要時間を聞きたいです。	general,hotel,shopping,weather
+4787	9	SYSTEM	はい。おもろまち駅から徒歩で10分となります。	general,hotel,shopping,weather
+4787	10	USER	ありがとうございます。また、首里の天候を調べてください。日付は3/５です。	general,hotel,shopping,weather
+4787	11	SYSTEM	かしこまりました。天気予報は晴となっております。最低気温は16.5度、最高気温は25.3度になる予報です。	general,hotel,shopping,weather
+4787	12	USER	ありがとうございました。	general,hotel,shopping,weather
+4787	13	SYSTEM	こちらこそご利用ありがとうございました。	general,hotel,shopping,weather

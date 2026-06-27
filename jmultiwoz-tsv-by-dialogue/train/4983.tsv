@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4983	0	USER	こんにちは。大阪に旅行を計画しています。予算は普通で、Wi-Fiは無料で利用できる飲食店を教えてくれますか？	general,restaurant,attraction
+4983	1	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,restaurant,attraction
+4983	2	USER	では、予算は考慮しないで探してもらえますか？	general,restaurant,attraction
+4983	3	SYSTEM	承知しました。神楽はいかがでしょうか？	general,restaurant,attraction
+4983	4	USER	そのお店にします。ジャンルは何ですか？	general,restaurant,attraction
+4983	5	SYSTEM	ジャンルは和食, 寿司・魚料理, 居酒屋です。	general,restaurant,attraction
+4983	6	USER	気に入りました。それと、地区は西区で、最寄り駅がユニバーサルシティ駅の観光名所にも行きたいと思っています。	general,restaurant,attraction
+4983	7	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,restaurant,attraction
+4983	8	USER	そうですか、地区は考慮せずに探してもらえますか。	general,restaurant,attraction
+4983	9	SYSTEM	承知しました。ユニバーサル・スタジオ・ジャパン(USJ)はいかがでしょうか？	general,restaurant,attraction
+4983	10	USER	有名ですよね、興味がありました。子供入場料と、料金情報は調べられますか？	general,restaurant,attraction
+4983	11	SYSTEM	子供入場料は￥4,910です。料金情報は12歳以上は ￥7,455～ （税込￥8,200～） 、4歳～11歳は ￥4,910～ （税込￥5,400～）、65歳以上は ￥6,728～ （税込￥7,400～）です。	general,restaurant,attraction
+4983	12	USER	詳しい情報ありがとうございます。旅行が楽しみになりました。	general,restaurant,attraction

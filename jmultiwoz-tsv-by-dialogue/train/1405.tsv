@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1405	0	USER	横浜旅行を考えていて、旅行当日の飲食店を探しています。中区でWi-Fi無料の、焼肉・ホルモンのお店が良いのですが。	general,restaurant,attraction,taxi
+1405	1	SYSTEM	かしこまりました。そうしますと、焼肉カーニバルというお店が1件ご案内可能です。いかがでしょうか？	general,restaurant,attraction,taxi
+1405	2	USER	ありがとうございます。そこにしようと思います。営業時間と料金をお聞きしてもいいですか？	general,restaurant,attraction,taxi
+1405	3	SYSTEM	営業時間は、11:30～15:00と17:00～23:00の2部に分かれております。料金は、値段帯がお安めで、詳しくは「期間限定」お手軽コース（1.5時間　1650円（税込）飲み放題付き）3850円、スタンダードコース3300円となっております。	general,restaurant,attraction,taxi
+1405	4	USER	ありがとうございます。当日の観光名所も探しています。	general,restaurant,attraction,taxi
+1405	5	SYSTEM	ご希望の条件は何かございますか？	general,restaurant,attraction,taxi
+1405	6	USER	はまぎん こども宇宙科学館 というところの大人入場料と駐車場があるかを知りたいです。	general,restaurant,attraction,taxi
+1405	7	SYSTEM	かしこまりました。はまぎん こども宇宙科学館の大人入場料は、400円です。駐車場は、有料ですがご利用いただけます。	general,restaurant,attraction,taxi
+1405	8	USER	ありがとうございます。タクシーも探しています。キャッシュレス払いが出来て、ジャンボタクシーも利用できるところが良いのですが。	general,restaurant,attraction,taxi
+1405	9	SYSTEM	かしこまりました。そうしますと、京浜ハイヤー株式会社はいかがでしょうか？	general,restaurant,attraction,taxi
+1405	10	USER	ありがとうございます。電話番号は分かりますか？	general,restaurant,attraction,taxi
+1405	11	SYSTEM	電話番号は、0457411896でございます。	general,restaurant,attraction,taxi
+1405	12	USER	ありがとうございます。そこでタクシーの予約をしたいのですが、4/27の16：40から、焼肉カーニバルからはまぎん こども宇宙科学館までお願いできますか？	general,restaurant,attraction,taxi
+1405	13	SYSTEM	かしこまりました。ご予約が完了いたしました。予約番号は、46288でございます。	general,restaurant,attraction,taxi
+1405	14	USER	ありがとうございました。	general,restaurant,attraction,taxi
+1405	15	SYSTEM	他になにかお調べすることはございますか？	general,restaurant,attraction,taxi
+1405	16	USER	いえ、他にはありません。ありがとうございました。	general,restaurant,attraction,taxi
+1405	17	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,restaurant,attraction,taxi

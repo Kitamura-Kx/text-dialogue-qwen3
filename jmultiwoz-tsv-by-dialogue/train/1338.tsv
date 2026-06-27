@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1338	0	USER	名古屋への旅行を計画しています．	general,taxi,weather
+1338	1	SYSTEM	はい。お問合せありがとうございます。	general,taxi,weather
+1338	2	USER	当日利用できるタクシー会社を探してください．ジャンボタクシーを利用できるところがいいです。	general,taxi,weather
+1338	3	SYSTEM	宝タクシー第三はどうでしょうか。	general,taxi,weather
+1338	4	USER	いいですね。そちらを付は1/4で時間は11:30で出発地はグランドベース大須というところで目的地はKITTE名古屋というところで予約してほしいです。	general,taxi,weather
+1338	5	SYSTEM	予約完了いたしました。予約番号は64415になります。	general,taxi,weather
+1338	6	USER	ありがとうございます。あと、守山区の1/4の天気も知りたいです。	general,taxi,weather
+1338	7	SYSTEM	天気は晴時々曇になります。	general,taxi,weather
+1338	8	USER	ありがとうございます。最低気温もしりたいです。	general,taxi,weather
+1338	9	SYSTEM	最低気温は7.6度になります。	general,taxi,weather
+1338	10	USER	ありがとうございます。	general,taxi,weather

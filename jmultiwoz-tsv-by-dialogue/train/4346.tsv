@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4346	0	USER	東京に旅行に行こうと思っているのですが予算高めで墨田区のwifiが無料で利用できる飲食店はありませんか	general,restaurant
+4346	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant
+4346	2	USER	では地区以外の条件でお願いします	general,restaurant
+4346	3	SYSTEM	墨田区意外ですと、中央区に銀座 おうちというお店がございます。	general,restaurant
+4346	4	USER		general,restaurant

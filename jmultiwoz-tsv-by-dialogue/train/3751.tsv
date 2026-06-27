@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3751	0	USER	はじめまして。横浜への旅行を計画しているのですが。	general,weather,taxi
+3751	1	SYSTEM	どのようなお店や施設をご希望ですか？	general,weather,taxi
+3751	2	USER	特にお店などはないのですが、当日の天気を知りたいです。場所は青葉地区で、日付は7/14なのですが。	general,weather,taxi
+3751	3	SYSTEM	当日の天気は、雨の予報です。	general,weather,taxi
+3751	4	USER	わかりました。当日の最高気温もわかりますか？	general,weather,taxi
+3751	5	SYSTEM	最高気温は、29.9度です。	general,weather,taxi
+3751	6	USER	ありがとうございます。	general,weather,taxi
+3751	7	SYSTEM	他にご用件はありますか？	general,weather,taxi
+3751	8	USER	はい。当日、キャッシュレスでジャンボタクシーが利用できる、タクシー会社を探しています。	general,weather,taxi
+3751	9	SYSTEM	では、株式会社グリーンキャブはいかがですか？	general,weather,taxi
+3751	10	USER	そちらにします。電話番号を伺いたいのと、当日の予約をお願いしたいです。	general,weather,taxi
+3751	11	SYSTEM	電話番号は、0456638181です。　それとご予約ですね、では予約希望の日時と出発地と目的地をお知らせください。	general,weather,taxi
+3751	12	USER	日付は7/14で、時間は14:40です。出発地はホテル・アルファーワン横浜関内というところから、目的地はDRAGON酒家 離になります。	general,weather,taxi
+3751	13	SYSTEM	予約出来ました。予約番号は、19928 です。	general,weather,taxi
+3751	14	USER	ありがとうございます。	general,weather,taxi
+3751	15	SYSTEM	他にご用件はございますか？	general,weather,taxi
+3751	16	USER	ありません。ありがとうございました。	general,weather,taxi
+3751	17	SYSTEM	承知しました。ありがとうございました。	general,weather,taxi

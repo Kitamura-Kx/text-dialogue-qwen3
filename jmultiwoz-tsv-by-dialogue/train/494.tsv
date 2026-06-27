@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+494	0	USER	横浜へ行こうと思っているのですが、観光できる名所を探してください。	general,attraction,weather
+494	1	SYSTEM	承知しました。エリアなど何かご希望はございますか？	general,attraction,weather
+494	2	USER	エリアの希望はないのですが、Wifiと駐車場が無料のところがよいです。	general,attraction,weather
+494	3	SYSTEM	ありがとうございます。カップヌードルミュージアム 横浜と三溪園の2件ございます。	general,attraction,weather
+494	4	USER	それでは、今回はカップヌードルミュージアム 横浜にしたいと思います。電話番号，子供入場料，料金情報を教えていただけますか。	general,attraction,weather
+494	5	SYSTEM	承知しました。電話番号は、0453450825、子供入場料は必要ありません。料金情報としては、入館料として、大学生以上の大人は500円、高校生以下は無料となっております。	general,attraction,weather
+494	6	USER	当日の天気を知りたいのですが、7月28日の港北区の天気と最高気温を教えてください。	general,attraction,weather
+494	7	SYSTEM	はい、天気は晴時々曇、最高気温25.1度、最低気温20.1度となります。	general,attraction,weather
+494	8	USER	いろいろ教えていただきありがとうございました！	general,attraction,weather

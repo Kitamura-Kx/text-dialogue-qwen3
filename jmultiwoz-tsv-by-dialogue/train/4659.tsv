@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4659	0	USER	８月２８日に仙台に旅行します。若林区の天気を教えていただけますか。	general,weather,taxi
+4659	1	SYSTEM	かしこまりました。当日の天気は、雨のち曇の予報です。最低気温は24.6度、最高気温は32.4度の予想となっております。	general,weather,taxi
+4659	2	USER	ご親切にありがとうございます。当日タクシーを利用したいのですがジャンボタクシー利用可能でキャッシュレス払いできるところを教えてください。	general,weather,taxi
+4659	3	SYSTEM	かしこまりました。では、仙台中央タクシー（株）はいかがでしょうか？	general,weather,taxi
+4659	4	USER	ありがとうございます。電話番号を教えていただけますか。	general,weather,taxi
+4659	5	SYSTEM	電話番号は、0570057818でございます。	general,weather,taxi
+4659	6	USER	それでは予約をお願いいたします。8/2８の09:50でです。コンフォートホテル仙台東口からダイワロイネットホテル仙台までお願いいたします。	general,weather,taxi
+4659	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、12050です。	general,weather,taxi
+4659	8	USER	ありがとうございました。これですべて予約が完了いたしました。ありがとうございました。	general,weather,taxi
+4659	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,weather,taxi

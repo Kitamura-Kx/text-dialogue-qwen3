@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+933	0	USER	京都への旅行を計画中です。観光できる場所を探しているのですが、駐車場が無料で利用できて、中京区にあるスポットを教えてもらえないでしょうか？	general,attraction
+933	1	SYSTEM	申し訳ありません。その条件では、ないようです。	general,attraction
+933	2	USER	そうですか。では、駐車場に関してはなくても大丈夫です。	general,attraction
+933	3	SYSTEM	元離宮二条城は、いかがでしょうか？	general,attraction
+933	4	USER	元離宮二条城は子供の入場料はいくらかかりますか？	general,attraction
+933	5	SYSTEM	子供の入場料は200円になります。、	general,attraction
+933	6	USER	わかりました！お調べ下さりありがとうございました。	general,attraction

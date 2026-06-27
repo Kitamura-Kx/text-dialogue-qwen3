@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3621	0	USER	大阪に旅行に行こうと思っていて、イタリアンやフレンチが食べられるお店を探しています。Wi-Fiが無料で使えるお店でお願いします。	general,restaurant,weather
+3621	1	SYSTEM	申し訳ございません。頂いた条件ですと、該当がございませんでした。	general,restaurant,weather
+3621	2	USER	では、ジャンルはイタリアンやフレンチでなくてもかまいません。	general,restaurant,weather
+3621	3	SYSTEM	承知いたしました。そうしますと、オペレッタ52 福島店ほか10件該当しました。いかがでしょうか？	general,restaurant,weather
+3621	4	USER	オペレッタ52 福島店はどのエリアでしょうか。あと駅からはどのくらいかかりますか。	general,restaurant,weather
+3621	5	SYSTEM	福島区エリアでございます。新福島駅から徒歩で3分、 福島駅から徒歩で3分にございます。	general,restaurant,weather
+3621	6	USER	ありがとうございます。10/23の住之江区の最低気温と天気を教えてください。	general,restaurant,weather
+3621	7	SYSTEM	天気は曇です。最低気温は、15.5度でございます。	general,restaurant,weather
+3621	8	USER	ありがとうございます。これで大丈夫です。	general,restaurant,weather
+3621	9	SYSTEM	ありがとうございました。	general,restaurant,weather

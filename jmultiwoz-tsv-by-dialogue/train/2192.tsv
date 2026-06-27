@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2192	0	USER	今度、名古屋に行くので、安めの飲食店を教えてください。	general,restaurant
+2192	1	SYSTEM	エリアでいうと中村区にある、蒲郡桔梗屋はいかがでしょう？	general,restaurant
+2192	2	USER	蒲郡桔梗屋ですね。そこは近くの駅からどれくらいかかりますか？	general,restaurant
+2192	3	SYSTEM	最寄りの名古屋駅から徒歩で6分となります。	general,restaurant
+2192	4	USER	では、予約をお願いします。8月28日の12時30分に4人で行きたいです。	general,restaurant
+2192	5	SYSTEM	申し訳ありません、その条件では予約ができません。いかが致しましょう？	general,restaurant
+2192	6	USER	そうですか。では3人に減らせば予約取れますか？	general,restaurant
+2192	7	SYSTEM	はい、可能になりまして、ご予約番号は、46793となります。	general,restaurant
+2192	8	USER	ありがとうございます。助かりました。では失礼します。	general,restaurant

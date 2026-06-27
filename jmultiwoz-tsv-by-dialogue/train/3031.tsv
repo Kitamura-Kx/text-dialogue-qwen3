@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3031	0	USER	名古屋への旅行を予定しているので、当日泊まれる宿泊施設を探して頂けますか。	general,hotel,shopping
+3031	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,hotel,shopping
+3031	2	USER	レストランが併設されていて、かつ駐車場を無料で利用できる場所はありますか。	general,hotel,shopping
+3031	3	SYSTEM	名古屋で駐車場無料、レストラン併設の宿泊施設はいくつかありますが、ホテル いろは、こちらをお勧めします。	general,hotel,shopping
+3031	4	USER	ではそちらにしたいと思います。最寄り駅とエリアを教えていただけますでしょうか。	general,hotel,shopping
+3031	5	SYSTEM	最寄りは金山駅、中川区になります。	general,hotel,shopping
+3031	6	USER	ありがとうございます。当日買い物ができる場所も教えて頂けないでしょうか。ジャンルは医薬品・化粧品で、守山区付近で駐車場を無料で利用できる場所がいいです。	general,hotel,shopping
+3031	7	SYSTEM	守山区で駐車場無料の医薬化粧品だとヒットしませんね。	general,hotel,shopping
+3031	8	USER	それでは、場所はどこでも大丈夫です。	general,hotel,shopping
+3031	9	SYSTEM	医薬品化粧品で駐車場無料のところはいくつかありますが、ロクシタン 松坂屋名古屋店をお勧めします。	general,hotel,shopping
+3031	10	USER	ではそちらに行きたいと思います。最寄り駅はどこになりますか。	general,hotel,shopping
+3031	11	SYSTEM	矢場町駅になります。	general,hotel,shopping
+3031	12	USER	ありがとうございました。	general,hotel,shopping

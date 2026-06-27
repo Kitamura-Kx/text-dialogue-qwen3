@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1642	0	USER	こんにちは。京都へ旅行予定なので、タクシー会社を探しています。キャッシュレス払いでジャンボタクシーが使えるといいのですが。	general,taxi
+1642	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,taxi
+1642	2	USER	じゃあキャッシュレス払いじゃなくても大丈夫です。ジャンボタクシーが使える会社をお願いします。	general,taxi
+1642	3	SYSTEM	では京都第一交通株式会社はいかがでしょうか。	general,taxi
+1642	4	USER	ありがとうございます。そこにします。ここで予約も可能ですか？	general,taxi
+1642	5	SYSTEM	可能でございます。	general,taxi
+1642	6	USER	3/14の14:40にウォーターマークホテル京都から乗車で、北野天満宮へ行きたいです。	general,taxi
+1642	7	SYSTEM	予約が完了いたしました。予約番号は63765でございます。	general,taxi
+1642	8	USER	助かりました。ありがとうございました。	general,taxi
+1642	9	SYSTEM	ほかにご用件はございますか。	general,taxi
+1642	10	USER	大丈夫です。どうもありがとうございました。	general,taxi
+1642	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

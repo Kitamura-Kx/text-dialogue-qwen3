@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2015	0	USER	京都でレストランがある簡易宿所を探してもらえますか？	general,hotel,attraction
+2015	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,attraction
+2015	2	USER	レストランはなくても構わないです。	general,hotel,attraction
+2015	3	SYSTEM	かしこまりました。では、町家レジデンスイン京都 あおしだはいかがでしょうか？	general,hotel,attraction
+2015	4	USER	そちらの料金情報と値段帯教えてもらえますか？	general,hotel,attraction
+2015	5	SYSTEM	はい。値段帯は安め以外の料金情報はありません。申し訳ございません。	general,hotel,attraction
+2015	6	USER	ありがとうございます。エリアはどこになりますか？	general,hotel,attraction
+2015	7	SYSTEM	はい。エリアは下京区です。	general,hotel,attraction
+2015	8	USER	１月２８日から２泊、人数２人でそちらを予約お願いできますか？	general,hotel,attraction
+2015	9	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel,attraction
+2015	10	USER	１泊に減らしたら予約できますか？	general,hotel,attraction
+2015	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、23777です。	general,hotel,attraction
+2015	12	USER	ありがとうございます。下京区にある無料で駐車場が利用できる観光名所も教えてもらえますか？	general,hotel,attraction
+2015	13	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,hotel,attraction
+2015	14	USER	じゃあ駐車場はなくても構わないので、どこか教えてもらえますか？	general,hotel,attraction
+2015	15	SYSTEM	かしこまりました。では、京都水族館はいかがでしょうか？	general,hotel,attraction
+2015	16	USER	そこの住所と営業時間、子供の入場料を教えてください。	general,hotel,attraction
+2015	17	SYSTEM	住所は京都府京都市下京区観喜寺町35-1（梅小路公園内）で、営業時間は10:00～17:00です。子供入場料は2200円になります。	general,hotel,attraction
+2015	18	USER	ありがとうございました。	general,hotel,attraction
+2015	19	SYSTEM	他にご用件はありますか？	general,hotel,attraction
+2015	20	USER	大丈夫です。ありがとうございました。	general,hotel,attraction
+2015	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction

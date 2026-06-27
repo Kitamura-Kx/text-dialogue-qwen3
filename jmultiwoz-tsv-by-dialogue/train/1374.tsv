@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1374	0	USER	札幌へ旅行に行きたいのですが、宿泊施設でJRイン札幌北2条という所はありますか？	general,hotel,restaurant,weather
+1374	1	SYSTEM	はい、そのホテルが1件あります。	general,hotel,restaurant,weather
+1374	2	USER	そこのレストランの有無、最寄駅からの所要時間、料金情報を教えていただきたいです。	general,hotel,restaurant,weather
+1374	3	SYSTEM	レストランも併設されています。　近辺の駅からの所要時間は、札幌駅から徒歩で7分です。　料金上方ですが、値段帯は安め以外に詳しい料金情報はありません。	general,hotel,restaurant,weather
+1374	4	USER	ありがとうございます。次に鍋が食べられる店を探していただきたいです。補足で無料の駐車場が利用できて予算は高め希望です。	general,hotel,restaurant,weather
+1374	5	SYSTEM	鬼はそと福はうちは、いかがでしょうか？	general,hotel,restaurant,weather
+1374	6	USER	そこの最寄駅と営業時間を教えてください。	general,hotel,restaurant,weather
+1374	7	SYSTEM	最寄り駅は、円山公園駅です。　営業時間は、11:30～16:00、17:30～22:00となっております。	general,hotel,restaurant,weather
+1374	8	USER	ありがとうございます。最後に11/5の白石区の天候を調べていただきたいです。	general,hotel,restaurant,weather
+1374	9	SYSTEM	天気は、晴のち曇です。	general,hotel,restaurant,weather
+1374	10	USER	ちなみに最低気温は何度になりそうでしょうか。	general,hotel,restaurant,weather
+1374	11	SYSTEM	最低気温は、5.8度です。	general,hotel,restaurant,weather
+1374	12	USER	ありがとうございます。	general,hotel,restaurant,weather
+1374	13	SYSTEM	他にご用件はございますか？	general,hotel,restaurant,weather
+1374	14	USER	いいえ、大丈夫です。	general,hotel,restaurant,weather
+1374	15	SYSTEM	承知致しました。　ありがとうございました。	general,hotel,restaurant,weather

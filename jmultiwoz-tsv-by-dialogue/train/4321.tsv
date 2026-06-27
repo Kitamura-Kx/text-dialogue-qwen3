@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4321	0	USER	福岡に旅行するので、普通ぐらいの価格で旅館を探してもらえますか？	general,hotel,taxi
+4321	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,hotel,taxi
+4321	2	USER	旅館じゃなくリゾートホテルならどうでしょうか？	general,hotel,taxi
+4321	3	SYSTEM	かしこまりました。それではGARDEN TERRACE FUKUOKA HOTEL&RESORTSはいかがでしょうか？	general,hotel,taxi
+4321	4	USER	エリアはどこですか？	general,hotel,taxi
+4321	5	SYSTEM	西区でございます。	general,hotel,taxi
+4321	6	USER	では1/8に二名で4泊の予約を取って頂きたく思います。	general,hotel,taxi
+4321	7	SYSTEM	お待たせ致しました。予約番号79776でお取りさせていただきました。	general,hotel,taxi
+4321	8	USER	あと。ジャンボタクシーを使えてキャッシュレス払いが可能なタクシー会社を見つけてください	general,hotel,taxi
+4321	9	SYSTEM	かしこまりました。それでは福岡交通（株）はいかがでしょうか？	general,hotel,taxi
+4321	10	USER	電話番号は分かりますか？	general,hotel,taxi
+4321	11	SYSTEM	はい、0570081234でございます。	general,hotel,taxi
+4321	12	USER	そしたら1/8の15:00にGARDEN TERRACE FUKUOKA HOTEL&RESORTSからスマイルホテル博多まで予約をお願いいたします	general,hotel,taxi
+4321	13	SYSTEM	お待たせ致しました。予約番号70432でお取りさせていただきました。	general,hotel,taxi
+4321	14	USER	了解です。ありがとうございました	general,hotel,taxi
+4321	15	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,taxi

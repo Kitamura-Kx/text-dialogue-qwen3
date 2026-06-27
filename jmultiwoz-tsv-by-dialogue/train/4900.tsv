@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4900	0	USER	大阪への旅行を計画しており、最寄り駅が宮ノ森駅のところで駐車場が無料で利用できるコンビニを探してほしいです。	general,shopping,hotel,restaurant
+4900	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,shopping,hotel,restaurant
+4900	2	USER	では最寄り駅はどこでもいいので、駐車場が無料で利用できるコンビニを探してもらえますか？	general,shopping,hotel,restaurant
+4900	3	SYSTEM	かしこまりました。それでは大阪シティエアターミナルがございます。	general,shopping,hotel,restaurant
+4900	4	USER	定休日を教えてください。	general,shopping,hotel,restaurant
+4900	5	SYSTEM	はい、第三水曜日、12月31日、1月1日でございます。	general,shopping,hotel,restaurant
+4900	6	USER	わかりました。あとレストランが併設されていて駐車場が無料で利用できる簡易宿所も探してもらえますか？	general,shopping,hotel,restaurant
+4900	7	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,shopping,hotel,restaurant
+4900	8	USER	では駐車場はなくてもいいので、レストランが併設されている簡易宿所でどこかいいところはありますか？	general,shopping,hotel,restaurant
+4900	9	SYSTEM	かしこまりました。それではゲストハウス木雲はいかがでしょうか？	general,shopping,hotel,restaurant
+4900	10	USER	エリアはどこになりますか？	general,shopping,hotel,restaurant
+4900	11	SYSTEM	エリアは東淀川区でございます。	general,shopping,hotel,restaurant
+4900	12	USER	わかりました。あと予算高めの飲食店も探してもらえますか？	general,shopping,hotel,restaurant
+4900	13	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,shopping,hotel,restaurant
+4900	14	USER	では予算は関係なしでどこかいい飲食店はありますか？	general,shopping,hotel,restaurant
+4900	15	SYSTEM	かしこまりました。それではミゲルフアニ なんばダイニングメゾン店はいかがでしょうか？	general,shopping,hotel,restaurant
+4900	16	USER	ありがとうございます。	general,shopping,hotel,restaurant
+4900	17	SYSTEM	その他にご用件はございますか？	general,shopping,hotel,restaurant
+4900	18	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,hotel,restaurant

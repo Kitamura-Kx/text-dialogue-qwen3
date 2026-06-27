@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2981	0	USER	横浜に旅行します。Wi-Fiが無料で利用できるビジネスホテルがあるといいのですが	general,hotel
+2981	1	SYSTEM	横浜でWiFi無料のビジネスホテルは４１件ありますが、京急EXイン 横浜駅東口(きた東口)をおすすめします。	general,hotel
+2981	2	USER	電話番号を教えて貰えますか？	general,hotel
+2981	3	SYSTEM	0454413910です。	general,hotel
+2981	4	USER	では。10/30から4泊で3名予約をお願い致します。	general,hotel
+2981	5	SYSTEM	予約成功しました。予約番号は18096です。	general,hotel
+2981	6	USER	ありがとうございました！	general,hotel
+2981	7	SYSTEM	よい旅を	general,hotel

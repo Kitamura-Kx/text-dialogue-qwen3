@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+559	0	USER	仙台へ旅行予定なのですが、宿泊施設を教えてください。	general,hotel,taxi
+559	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,taxi
+559	2	USER	シティホテルで駐車場を無料で利用できるところがいいです。	general,hotel,taxi
+559	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,hotel,taxi
+559	4	USER	そうですか。シティホテルじゃなくてもいいです。	general,hotel,taxi
+559	5	SYSTEM	ではキャッスルイン仙台はいかがですか。	general,hotel,taxi
+559	6	USER	そこにします。住所と、Wi-Fiがあるかどうかを教えてください。	general,hotel,taxi
+559	7	SYSTEM	住所は宮城県仙台市宮城野区福室字田中前1番53-1で、無料のWi-Fiがございます。	general,hotel,taxi
+559	8	USER	ありがとうございます。当日利用できるタクシー会社も探しているのですが、ジャンボタクシーがあって、キャッシュレス払いができるところはありますか？	general,hotel,taxi
+559	9	SYSTEM	（有）振興タクシーがございます。	general,hotel,taxi
+559	10	USER	そこにします。電話番号を教えてください。	general,hotel,taxi
+559	11	SYSTEM	電話番号は0222841411でございます。ご予約なさいますか。	general,hotel,taxi
+559	12	USER	はい。6月17日の10時50分から予約したいです。出発地はキャッスルイン仙台で、うまい鮨勘 宮城野原支店までおねがいします。	general,hotel,taxi
+559	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は86697でございます。	general,hotel,taxi
+559	14	USER	ありがとうございます！	general,hotel,taxi
+559	15	SYSTEM	ほかにご用件はございませんか。	general,hotel,taxi
+559	16	USER	はい。もう大丈夫です。	general,hotel,taxi
+559	17	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi

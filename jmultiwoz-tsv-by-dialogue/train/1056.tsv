@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1056	0	USER	横浜で観光名所を探しています。金沢区で無料の、駐車場とWi-Fiが使える所はありますか？	general,attraction,shopping,weather
+1056	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,shopping,weather
+1056	2	USER	分かりました。金沢区以外でしたら、ありますか？	general,attraction,shopping,weather
+1056	3	SYSTEM	ありがとうございます。そうしますと2件ご案内可能です。たとえば、中区エリアのカップヌードルミュージアム 横浜というところはいかがでしょうか？	general,attraction,shopping,weather
+1056	4	USER	いいですね。子どもの入場料と営業時間を教えてください。	general,attraction,shopping,weather
+1056	5	SYSTEM	かしこまりました。お子様の入場料は0円です。営業時間は、10:00～18:00でございます。	general,attraction,shopping,weather
+1056	6	USER	分かりました。近くの駅からどれくらいかかりますか？	general,attraction,shopping,weather
+1056	7	SYSTEM	最寄りのみなとみらい駅から徒歩で8分、他には、馬車道駅から徒歩で8分、桜木町駅から徒歩で12分ほどかかります。	general,attraction,shopping,weather
+1056	8	USER	ありがとうございます。では青葉区で医薬品・化粧品を買えるお店も教えてください。	general,attraction,shopping,weather
+1056	9	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,attraction,shopping,weather
+1056	10	USER	青葉区以外でしたらありますか？	general,attraction,shopping,weather
+1056	11	SYSTEM	はい、5件ほどご案内可能です。例えば、西区エリアに、Laline 横浜ジョイナス店というお店がありますが、いかがでしょうか？	general,attraction,shopping,weather
+1056	12	USER	そこに行ってみます。その店の住所と営業時間を教えてください。	general,attraction,shopping,weather
+1056	13	SYSTEM	かしこまりました。住所は、神奈川県横浜市西区南幸1丁目5-1　ジョイナス1Fです。営業時間は、10:00～20:00でございます。	general,attraction,shopping,weather
+1056	14	USER	ありがとうございます。もう１つ、12月30日の港北区の天気を教えてください。最高気温も知りたいです。	general,attraction,shopping,weather
+1056	15	SYSTEM	かしこまりました。当日の天気は晴れの予報です。最高気温は、14.1度まで上がる見込みです。	general,attraction,shopping,weather
+1056	16	USER	ありがとうございます。助かりました。失礼します。	general,attraction,shopping,weather

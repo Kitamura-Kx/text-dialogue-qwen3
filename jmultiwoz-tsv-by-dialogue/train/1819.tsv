@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1819	0	USER	那覇への旅行を計画中なのですが、駐車場とWiFiが無料の飲食店を教えて下さい。	general,restaurant
+1819	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant
+1819	2	USER	それではWiFiの有無はこだわりません。	general,restaurant
+1819	3	SYSTEM	かしこまりました。では、おもろダイニング 山葵はいかがでしょうか？	general,restaurant
+1819	4	USER	「おもろダイニング 山葵」へ最寄駅からの所要時間も教えて下さい。	general,restaurant
+1819	5	SYSTEM	はい。おもろまち駅から徒歩で8分になります。	general,restaurant
+1819	6	USER	わかりました、助かりました。	general,restaurant
+1819	7	SYSTEM	他にご用件はありますか？	general,restaurant
+1819	8	USER	いえ大丈夫です、有難うございました。	general,restaurant
+1819	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

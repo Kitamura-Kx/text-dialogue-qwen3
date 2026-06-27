@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2982	0	USER	東京に旅行するのですが、豊島区で家電や電化製品を買い物したいと思っています。駐車場が無料で利用できるお店はありますかね？	general,shopping,taxi,weather
+2982	1	SYSTEM	豊島区で駐車場無料の家電の店はなさそうです。	general,shopping,taxi,weather
+2982	2	USER	では、豊島区でなくてもいいです	general,shopping,taxi,weather
+2982	3	SYSTEM	それならば、二子玉川 蔦屋家電、こちらになります。	general,shopping,taxi,weather
+2982	4	USER	最寄りの駅と店舗名を教えてください	general,shopping,taxi,weather
+2982	5	SYSTEM	二子玉川駅、店舗名は、二子玉川 蔦屋家電、こうなります。	general,shopping,taxi,weather
+2982	6	USER	わかりました。定休日も聞いていいですか？	general,shopping,taxi,weather
+2982	7	SYSTEM	定休日はありません。	general,shopping,taxi,weather
+2982	8	USER	了解です。キャッシュレス払いできてジャンボタクシーがあるタクシー会社も探しているのですがありますか？	general,shopping,taxi,weather
+2982	9	SYSTEM	両方対応している会社はいくつかありますが、銀星交通をお勧めします。	general,shopping,taxi,weather
+2982	10	USER	そしたら10/3の12:40に個室居酒屋 番屋 蒲田駅前店から二子玉川 蔦屋家電まで予約をしてください	general,shopping,taxi,weather
+2982	11	SYSTEM	予約成功しました。予約番号は67567です。	general,shopping,taxi,weather
+2982	12	USER	どうもです。あと10/3の足立区の最高気温も教えてください	general,shopping,taxi,weather
+2982	13	SYSTEM	17.8度です。	general,shopping,taxi,weather
+2982	14	USER	了解です。ありがとうございました！	general,shopping,taxi,weather
+2982	15	SYSTEM	よい旅を	general,shopping,taxi,weather

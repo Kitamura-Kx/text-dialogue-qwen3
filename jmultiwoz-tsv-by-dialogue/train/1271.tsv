@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1271	0	USER	横浜で買い物スポットを探しています。ジャンルはファッションで、地区は金沢区ですが。あと、駐車場無料のところがいいのですが。	general,shopping,weather
+1271	1	SYSTEM	そうしますと、コストコ金沢シーサイド倉庫はいかがでしょうか？並木中央駅から徒歩10分のお店でございます。	general,shopping,weather
+1271	2	USER	ありがとうございます。そちらにします。続いて、保土ケ谷区の天気と最低気温も教えて頂けますか？日付は6/16です。	general,shopping,weather
+1271	3	SYSTEM	かしこまりました。当日のお天気は晴時々曇り、最低気温は18.1度の予報です。	general,shopping,weather
+1271	4	USER	ありがとうございます。助かりました！	general,shopping,weather

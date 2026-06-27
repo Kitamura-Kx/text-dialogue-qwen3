@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2052	0	USER	大阪に旅行を考えていて、最寄り駅が天王寺駅で、地区が天王寺区のショッピングできそうなところはありますか？	general,shopping,weather
+2052	1	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,shopping,weather
+2052	2	USER	そうなんですね。では地区はどこでもいいので、買い物できそうなところを教えてください。	general,shopping,weather
+2052	3	SYSTEM	かしこまりました。では、アカチャンホンポ あべのイトーヨーカドー店はいかがでしょうか？	general,shopping,weather
+2052	4	USER	ありがとうございます。そこにします。そのお店の、近辺の駅からの所要時間ってどれくらいですか？	general,shopping,weather
+2052	5	SYSTEM	はい。天王寺駅から徒歩で2分となっております。	general,shopping,weather
+2052	6	USER	ありがとうございます。当日の天候って調べてもらえますか？8/29の、東成区なんですけど。	general,shopping,weather
+2052	7	SYSTEM	かしこまりました。8/29の東成区の天気予報は晴となっております。最低気温は25.2度、最高気温は31.3度になる予報です。	general,shopping,weather
+2052	8	USER	ご丁寧に調べていただき、ありがとうございます。	general,shopping,weather
+2052	9	SYSTEM	他にご用件はありますか？	general,shopping,weather
+2052	10	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping,weather

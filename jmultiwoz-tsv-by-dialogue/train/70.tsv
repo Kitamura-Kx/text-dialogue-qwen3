@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+70	0	USER	京都に行くんですけど、下京区で電気製品を買えるお店ってありますか？	general,shopping,taxi
+70	1	SYSTEM	お問い合わせありがとうございます。京都の下京区にございます家電・電化製品のお店は、2件ほど見つかりました。他にご希望の条件などはございませんか？	general,shopping,taxi
+70	2	USER	特にないんで、どちらかのお店の名前を教えてください。	general,shopping,taxi
+70	3	SYSTEM	かしこまりました。では、ビックカメラ JR京都駅店はいかがでしょうか？	general,shopping,taxi
+70	4	USER	ビックカメラの営業時間はどうなっていますか？	general,shopping,taxi
+70	5	SYSTEM	ビックカメラ JR京都駅店は、開店が朝10時、閉店が夜21時までとなっております。	general,shopping,taxi
+70	6	USER	タクシーを使いたいんですけど、都タクシー株式会社って分かりますか？	general,shopping,taxi
+70	7	SYSTEM	京都の都タクシー株式会社ですね。1件該当するものがございます。	general,shopping,taxi
+70	8	USER	そこはジャンボタクシーやキャッスレスの対応ってどうなってますか？	general,shopping,taxi
+70	9	SYSTEM	どちらにも対応しております。	general,shopping,taxi
+70	10	USER	電話番号を教えてください。	general,shopping,taxi
+70	11	SYSTEM	はい、かしこまりました。電話番号は、0756616611でございます。	general,shopping,taxi
+70	12	USER	えっと、ここで予約ってできますか？　12月1日の14時30分にホテル法華クラブ京都を出て、ビックカメラ JR京都駅店までなんですけど。	general,shopping,taxi
+70	13	SYSTEM	はい、予約可能です。ご指定の日時、出発地、目的地で予約をお取りしました。予約番号は、13549となります。	general,shopping,taxi
+70	14	USER	いやあ助かりました。お世話になりました。	general,shopping,taxi
+70	15	SYSTEM	お役に立てて光栄です。他にご用件はございませんか？	general,shopping,taxi
+70	16	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,taxi

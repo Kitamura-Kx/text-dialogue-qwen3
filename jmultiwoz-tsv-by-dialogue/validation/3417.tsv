@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3417	0	USER	今度札幌に行くのですが、どこか買い物ができるところはありますか？	general,shopping
+3417	1	SYSTEM	ありがとうございます。札幌で買い物ですと、46件ほどございますが、何かご希望などありますか？	general,shopping
+3417	2	USER	書籍が買いたいのと、駐車場が無料のところがいいです。	general,shopping
+3417	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,shopping
+3417	4	USER	では、買い物のジャンルは特にこだわりません。	general,shopping
+3417	5	SYSTEM	かしこまりました。それでは、ポケモンセンターサッポロはいかがでしょうか？	general,shopping
+3417	6	USER	いいですね、そちらはどこのエリアになりますか？	general,shopping
+3417	7	SYSTEM	はい、エリアは中央区でございます。	general,shopping
+3417	8	USER	ありがとうございます。以上です、お世話になりました！	general,shopping
+3417	9	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping

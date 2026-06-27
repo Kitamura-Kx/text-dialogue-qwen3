@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4454	0	USER	こんにちは。名古屋の飲食店を探しています。ジャンルは郷土料理です	general,restaurant
+4454	1	SYSTEM	そうしましたら、蒲郡桔梗屋というお店はいかがでしょうか？	general,restaurant
+4454	2	USER	ありがとうございます。営業時間を教えていただけますか	general,restaurant
+4454	3	SYSTEM	営業時間は、11:00～15:00, 17:00～23:00となっております。	general,restaurant
+4454	4	USER	ありがとうございます。5/8の12:40- ２名で予約できますでしょうか	general,restaurant
+4454	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、46996です。	general,restaurant
+4454	6	USER	ありがとうございます。当日はよろしくお願いいたします。	general,restaurant
+4454	7	SYSTEM	他にお調べすることはございませんか？	general,restaurant
+4454	8	USER	問題ございません。ありがとうございました	general,restaurant
+4454	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

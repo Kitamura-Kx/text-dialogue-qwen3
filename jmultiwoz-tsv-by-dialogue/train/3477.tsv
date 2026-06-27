@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3477	0	USER	横浜に旅行へ行きたいので、ホテルを探してください	general,hotel,weather
+3477	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,weather
+3477	2	USER	中区でWi-Fiが無料で利用できるところがいいです。	general,hotel,weather
+3477	3	SYSTEM	ではJR東日本ホテルメッツ 横浜桜木町はいかがでしょうか。	general,hotel,weather
+3477	4	USER	そのホテルはレストランがついていますか？	general,hotel,weather
+3477	5	SYSTEM	はい。レストランも併設されております。	general,hotel,weather
+3477	6	USER	このホテルにしようと思います。住所とチェックイン開始時刻を教えてください	general,hotel,weather
+3477	7	SYSTEM	住所は神奈川県横浜市中区桜木町1丁目1-93でございます。チェックイン開始時刻は15:00となっております。	general,hotel,weather
+3477	8	USER	ありがとうございます。あと天気のことも聞いていいですか？	general,hotel,weather
+3477	9	SYSTEM	かしこまりました。お知りになりたいエリアと日付を教えていただけますか。	general,hotel,weather
+3477	10	USER	戸塚区で６/13です。	general,hotel,weather
+3477	11	SYSTEM	天気は雨のち晴、最低気温が23.5度で最高気温が29.3度でございます。	general,hotel,weather
+3477	12	USER	わかりました。ありがとうございました。	general,hotel,weather
+3477	13	SYSTEM	ほかにご用件はございませんか。	general,hotel,weather
+3477	14	USER	はい、大丈夫です。助かりました、ありがとうございました。	general,hotel,weather
+3477	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

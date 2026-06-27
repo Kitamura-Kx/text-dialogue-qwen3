@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+578	0	USER	こんにちは。札幌に旅行に行こうと思うんですが、宿泊施設を探していただけますか？	general,hotel,attraction,taxi
+578	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございませんか？	general,hotel,attraction,taxi
+578	2	USER	エリアは特にないんですが、レストランが併設されているところで、お値段的に普通のところがいいです！	general,hotel,attraction,taxi
+578	3	SYSTEM	では、JRタワーホテル日航札幌というシティホテルはいかがでしょうか？中央区エリアにございます。	general,hotel,attraction,taxi
+578	4	USER	駐車場は無料で利用できますか？	general,hotel,attraction,taxi
+578	5	SYSTEM	はい、無料駐車場をご利用いただけます。	general,hotel,attraction,taxi
+578	6	USER	ではそちらにしようかと思います！当日観光もしたいと思うんですが、観光名所も探して欲しいです。	general,hotel,attraction,taxi
+578	7	SYSTEM	かしこまりました。札幌の観光名所は48件ほどご案内可能です。なにかご希望の条件など、ございませんか？	general,hotel,attraction,taxi
+578	8	USER	駐車場が無料で利用できる、スポーツ・フィットネスで探して欲しいです。	general,hotel,attraction,taxi
+578	9	SYSTEM	でしたら、星置スケート場はいかがでしょうか？ジャンルは、スポーツ・フィットネス, 教室・ワークショップ・体験となっております。	general,hotel,attraction,taxi
+578	10	USER	Wi-Fiは無料で使えますか？	general,hotel,attraction,taxi
+578	11	SYSTEM	申し訳ありません。こちらの施設はWiFiの有無が不明となっております。	general,hotel,attraction,taxi
+578	12	USER	Wi-Fiが無料で使える、スポーツ・フィットネスの観光名所はありますか？	general,hotel,attraction,taxi
+578	13	SYSTEM	はい、1件ございます。シャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートというところはいかがでしょうか？	general,hotel,attraction,taxi
+578	14	USER	駐車場も無料でしたら、そちらにしたいです！料金情報も教えてください。	general,hotel,attraction,taxi
+578	15	SYSTEM	はい、無料駐車場がご利用いただけます。料金につきましては、入場料は不明でして、詳しい料金も施設、時期により異なるとなっております。申し訳ありません。	general,hotel,attraction,taxi
+578	16	USER	いえ、そちらで大丈夫です。ありがとうございます。当日利用できるキャッシュレス払い対応の、ジャンボタクシーを利用できるタクシー会社はありますか？	general,hotel,attraction,taxi
+578	17	SYSTEM	はい、6件ございます。北都交通(株)は、いかがでしょうか？電話番号は、0112904181でございます。	general,hotel,attraction,taxi
+578	18	USER	ではそちらを予約して欲しいです！5/24に12:40にJRタワーホテル日航札幌を出発したいです。目的地はシャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートにしてください。	general,hotel,attraction,taxi
+578	19	SYSTEM	かしこまりました。予約完了いたしました。ご予約番号は、5794です。	general,hotel,attraction,taxi
+578	20	USER	ありがとうございます。これで観光が楽しめそうです！助かりました！	general,hotel,attraction,taxi
+578	21	SYSTEM	ほかにお調べすることはございますか？	general,hotel,attraction,taxi
+578	22	USER	いえ、大丈夫です。ありがとうございました。	general,hotel,attraction,taxi
+578	23	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction,taxi

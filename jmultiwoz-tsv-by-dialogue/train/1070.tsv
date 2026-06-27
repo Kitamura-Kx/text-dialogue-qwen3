@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1070	0	USER	大阪の旅行で泊まる所を探しています。	general,hotel,attraction
+1070	1	SYSTEM	大阪の宿泊施設ですね。ご希望の条件は何かございますか？	general,hotel,attraction
+1070	2	USER	Wi-Fiが無料で使えて、レストランもある所が良いですね。	general,hotel,attraction
+1070	3	SYSTEM	では、ゲストハウス木雲はいかがでしょうか？	general,hotel,attraction
+1070	4	USER	ゲストハウス木雲はどういったタイプの施設ですか？値段帯がどの程度か、料金情報もあれば教えてください。	general,hotel,attraction
+1070	5	SYSTEM	タイプは、簡易宿所（ベッドハウス・山小屋・カプセルホテル等）となります。値段帯は、お安めとなっております。料金情報につきましては、WiFiが無料ということ以外で、お伝えできる情報がなく、申し訳ありません。	general,hotel,attraction
+1070	6	USER	分かりました。その日は動物園前駅周辺の観光スポットにも向かいたいと考えています。	general,hotel,attraction
+1070	7	SYSTEM	そうなんですね。では、天王寺動物園という所に寄られてみては如何でしょうか？	general,hotel,attraction
+1070	8	USER	良いですね。天王寺動物園には駐車場は完備しているのでしょうか？	general,hotel,attraction
+1070	9	SYSTEM	はい。有料ですが、ご利用いただけます。	general,hotel,attraction
+1070	10	USER	ありがとうございます、よく分かりました。	general,hotel,attraction
+1070	11	SYSTEM	他にお調べすることはございますか？	general,hotel,attraction
+1070	12	USER	これで全てです、お世話になりました。	general,hotel,attraction
+1070	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction

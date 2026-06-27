@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3890	0	USER	大坂へ旅行に行きたいです。福島駅の近くで駐車場が無料で利用できる飲食店はありますか？	general,restaurant,weather
+3890	1	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,restaurant,weather
+3890	2	USER	でしたら、駐車場がなくてもいいです。	general,restaurant,weather
+3890	3	SYSTEM	ありがとうございます。そうしますと、3件ほどご案内可能です。たとえば、げん家 福ろうじ店という、寿司・魚料理, 和食のお店はいかがでしょうか？	general,restaurant,weather
+3890	4	USER	そのお店の定休日が知りたいです。	general,restaurant,weather
+3890	5	SYSTEM	こちらのお店は、不定休となっております。	general,restaurant,weather
+3890	6	USER	5月14日の12:00時で４人で予約したいです。	general,restaurant,weather
+3890	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、41654です。	general,restaurant,weather
+3890	8	USER	ありがとうございます。	general,restaurant,weather
+3890	9	SYSTEM	他にお手伝いすることはございませんか？	general,restaurant,weather
+3890	10	USER	5月14日の鶴見区の天気が知りたいです。	general,restaurant,weather
+3890	11	SYSTEM	かしこまりました。当日の天気は、曇の予報です。	general,restaurant,weather
+3890	12	USER	分かりました。ありがとうございました。	general,restaurant,weather
+3890	13	SYSTEM	他にお調べすることはございませんか？	general,restaurant,weather
+3890	14	USER	いえ、これで大丈夫です。	general,restaurant,weather
+3890	15	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant,weather
+3890	16	USER		general,restaurant,weather

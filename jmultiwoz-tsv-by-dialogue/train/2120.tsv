@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2120	0	USER	こんにちは。仙台へ旅行予定ですので、若林区の観光名所を教えていただけますか？	general,attraction,shopping,weather
+2120	1	SYSTEM	かしこまりました。では、南小泉交通公園はいかがでしょうか？	general,attraction,shopping,weather
+2120	2	USER	ありがとうございます。そちらの最寄り駅と電話番号をお願いします。	general,attraction,shopping,weather
+2120	3	SYSTEM	はい。最寄り駅は仙台駅です。電話番号は0222854603になります。	general,attraction,shopping,weather
+2120	4	USER	あと、買い物もしたいのですけど、青葉区で駐車場無料で、ファッション関係のお店はありますか？	general,attraction,shopping,weather
+2120	5	SYSTEM	かしこまりました。では、アニメイト仙台はいかがでしょうか？ジャンルは文房具・雑貨, 書籍, ファッション, おもちゃになります。	general,attraction,shopping,weather
+2120	6	USER	ありがとうございます。そちらの営業時間と、近くの駅からの所用時間も教えてもらえますか？	general,attraction,shopping,weather
+2120	7	SYSTEM	はい。営業時間は10:00～20:00です。最寄りの仙台駅からの所要時間は徒歩で2分になります。	general,attraction,shopping,weather
+2120	8	USER	色々すみません、6/25の泉区の天気と最高気温を教えてもらえますか？	general,attraction,shopping,weather
+2120	9	SYSTEM	かしこまりました。6/25の泉区の天気予報は晴のち曇となっております。最高気温は26.5度になる予報です。	general,attraction,shopping,weather
+2120	10	USER	どうもありがとうございました。これで以上です。	general,attraction,shopping,weather
+2120	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,weather

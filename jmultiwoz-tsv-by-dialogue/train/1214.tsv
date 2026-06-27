@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1214	0	USER	福岡への旅行を計画しています．	general,attraction
+1214	1	SYSTEM	はい。お問合せありがとうございます。	general,attraction
+1214	2	USER	当日訪れる観光名所を探してください．ジャンルは銭湯・スパで最寄り駅が唐人町駅のところにしてください．	general,attraction
+1214	3	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction
+1214	4	USER	でしたら、ジャンルはどこでもよいです。	general,attraction
+1214	5	SYSTEM	福岡 PayPayドームはいかがでしょう。	general,attraction
+1214	6	USER	ありがとうございます。Wi-Fiの有無，電話番号を教えてください。	general,attraction
+1214	7	SYSTEM	Wi-Fiの有無は有り(無料)で、電話番号は0928471006です。	general,attraction
+1214	8	USER	ありがとうございます	general,attraction

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4367	0	USER	大阪西成区の観光名所を探しておりますがご案内いただけますか。	general,attraction,shopping
+4367	1	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,attraction,shopping
+4367	2	USER	それでは中央区ではいかがでしょうか。	general,attraction,shopping
+4367	3	SYSTEM	ありがとうございます。そうしますと、道頓堀はいかがでしょうか？	general,attraction,shopping
+4367	4	USER	そうですね。そちらで結構です。定休日と駐車場の有無を教えてくださいますか。	general,attraction,shopping
+4367	5	SYSTEM	ありがとうございます。こちらは定休日はございません。また駐車場については、不明となっております。申し訳ありません。	general,attraction,shopping
+4367	6	USER	ありがとうございます。当日お買い物をできるところも探しているんですが、駐車場無料のところをご案内いただけますか。	general,attraction,shopping
+4367	7	SYSTEM	かしこまりました。他にご希望条件がないようでしたら、ルクア大阪というショッピングモールはいかがでしょうか？	general,attraction,shopping
+4367	8	USER	そちらで結構です。定休日を教えていただけますか。	general,attraction,shopping
+4367	9	SYSTEM	はい、こちらは、定休日は不定休となっております。	general,attraction,shopping
+4367	10	USER	お問合せは以上です。ありがとうございました。	general,attraction,shopping
+4367	11	SYSTEM	かしこまりました。本日はご利用ありがとうございました。	general,attraction,shopping

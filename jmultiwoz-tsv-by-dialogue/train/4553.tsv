@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4553	0	USER	名古屋へ旅行するのですがショッピングモールを探しています。	general,shopping
+4553	1	SYSTEM	名古屋でお探しですね、オアシス21はいかがですか？	general,shopping
+4553	2	USER	いいですね。駐車場はありますか？	general,shopping
+4553	3	SYSTEM	申し訳ありません、駐車場は無しとなっています。	general,shopping
+4553	4	USER	オッケーです。大丈夫です。以上です。ありがとうございました。	general,shopping
+4553	5	SYSTEM	承知しました。ありがとうございました。	general,shopping

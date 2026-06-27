@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1425	0	USER	名古屋の昭和区で、Wi-Fi無料の飲食店を探したいです。	general,restaurant,weather
+1425	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,weather
+1425	2	USER	そうなんですね。では昭和区で、Wi-Fiなくても良いのでどこかおすすめの飲食店はありますか？	general,restaurant,weather
+1425	3	SYSTEM	では王様のフレンチはいかがですか。	general,restaurant,weather
+1425	4	USER	ジャンル的に、フレンチ料理のお店になりますか？料金について教えてください。	general,restaurant,weather
+1425	5	SYSTEM	はい。ジャンルはイタリアン・フレンチでございます。値段帯は高めで、詳しい料金情報は不明となっております。	general,restaurant,weather
+1425	6	USER	わかりました。近辺の駅からの所要時間はどれくらいですか？	general,restaurant,weather
+1425	7	SYSTEM	御器所駅から徒歩で1分でございます。	general,restaurant,weather
+1425	8	USER	近くて良いですね。あと一点確認したいのですが、8/28緑区の天気はどうですか？	general,restaurant,weather
+1425	9	SYSTEM	天気は晴時々曇でございます。	general,restaurant,weather
+1425	10	USER	わかりました。今知りたいことは以上です。ありがとうございました。	general,restaurant,weather
+1425	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather

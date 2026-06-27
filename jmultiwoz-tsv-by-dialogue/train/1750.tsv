@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1750	0	USER	こんにちは、横浜旅行の時にご飯を食べるところを探してもらってもいいですか？	general,restaurant,attraction,shopping
+1750	1	SYSTEM	はい、より具体的なご希望をお聞かせください	general,restaurant,attraction,shopping
+1750	2	USER	予算は高めで大丈夫なのですが、Wi-Fiと駐車場代はかからない所でお願いします。	general,restaurant,attraction,shopping
+1750	3	SYSTEM	予算高めでWiFi駐車場無料の条件を満たす飲食店は横浜にはなさそうです。	general,restaurant,attraction,shopping
+1750	4	USER	そうなんですか、じゃあWi-Fiはなくてもいいです！	general,restaurant,attraction,shopping
+1750	5	SYSTEM	予算高め、駐車場無料だとうなぎ料理 しま村 青葉台店一択ですね。	general,restaurant,attraction,shopping
+1750	6	USER	調べて下さってありがとうございます。こちらのお店って何駅の近くにあるんですか？	general,restaurant,attraction,shopping
+1750	7	SYSTEM	青葉台駅です。	general,restaurant,attraction,shopping
+1750	8	USER	なるほど！あと料金に関する情報とか、わかったりしますか？	general,restaurant,attraction,shopping
+1750	9	SYSTEM	鰻釜(竹)が4180円、お重(竹)が3630円、こんな感じですね。	general,restaurant,attraction,shopping
+1750	10	USER	ありがとうございます。観光スポットも一緒に探してもらえないでしょうか？	general,restaurant,attraction,shopping
+1750	11	SYSTEM	はい、どのようなところがお好みですか？	general,restaurant,attraction,shopping
+1750	12	USER	展望台やタワーが気になります。Wi-Fiが無料だともっと嬉しいです。	general,restaurant,attraction,shopping
+1750	13	SYSTEM	展望台やタワーでWi-Fiが無料なところはなさそうですね。	general,restaurant,attraction,shopping
+1750	14	USER	そうですか、ではWi-Fiはなしにしてもらっても構わないですよ。	general,restaurant,attraction,shopping
+1750	15	SYSTEM	ならばなんといっても横浜港シンボルタワーでしょう。	general,restaurant,attraction,shopping
+1750	16	USER	いいですね！こちらの施設の電話番号ってわかりますか？	general,restaurant,attraction,shopping
+1750	17	SYSTEM	0456229600です。	general,restaurant,attraction,shopping
+1750	18	USER	ありがとうございます。あと、スポーツオーソリティ・MARK ISみなとみらい店でショッピングを楽しみたいんです。住所ってわかりますか？	general,restaurant,attraction,shopping
+1750	19	SYSTEM	神奈川県横浜市西区みなとみらい3丁目5-1MARK IS みなとみらい B2Fです。	general,restaurant,attraction,shopping
+1750	20	USER	ありがとうございます。ちなみに、最寄り駅は何駅になるんですか？	general,restaurant,attraction,shopping
+1750	21	SYSTEM	みなとみらい駅ですね。	general,restaurant,attraction,shopping
+1750	22	USER	なるほど！今日はご対応して下さってありがとうございました。	general,restaurant,attraction,shopping

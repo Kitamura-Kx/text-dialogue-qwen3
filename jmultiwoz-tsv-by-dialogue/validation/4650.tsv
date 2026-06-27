@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4650	0	USER	東京旅行を考えているんですけど、その時に行く飲食店を探してもらえますか？	general,restaurant
+4650	1	SYSTEM	その条件ですと100件の飲食店がヒットしました。どうなさいますか？	general,restaurant
+4650	2	USER	そうですね、予算は普通なんですけど、Wi-Fiが無料で使えるお店がいいですね。	general,restaurant
+4650	3	SYSTEM	かしこまりました。では、Taverna e Pizzeria Saluteはいかがでしょうか？	general,restaurant
+4650	4	USER	エリアはどこになりますか？	general,restaurant
+4650	5	SYSTEM	江戸川区になります。	general,restaurant
+4650	6	USER	じゃあそこで7/13の午前11時に3名で予約をお願いできますか？	general,restaurant
+4650	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、39135です。	general,restaurant
+4650	8	USER	ありがとうございます。	general,restaurant
+4650	9	SYSTEM	ありがとうございました。	general,restaurant

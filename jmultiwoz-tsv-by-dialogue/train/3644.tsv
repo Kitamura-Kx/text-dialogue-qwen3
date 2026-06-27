@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3644	0	USER	大阪へ旅行に行くのですが、食事ができるお店を探して欲しいです。	general,restaurant,taxi,weather
+3644	1	SYSTEM	かしこまりました。101件ほど該当致しますので、御条件を伺います。	general,restaurant,taxi,weather
+3644	2	USER	福島区のお店で、Wi-Fiが無料で利用できるところがいいです。	general,restaurant,taxi,weather
+3644	3	SYSTEM	お待たせ致しました。その条件でしたら、オペレッタ52 福島店がございます。	general,restaurant,taxi,weather
+3644	4	USER	そちらの料金情報と値段帯を教えてください。	general,restaurant,taxi,weather
+3644	5	SYSTEM	はい、値段帯は普通ですが、料金情報は不明でございます。	general,restaurant,taxi,weather
+3644	6	USER	わかりました。そのお店で予約してください。7/1の15:20、人数は4人です。	general,restaurant,taxi,weather
+3644	7	SYSTEM	お待たせ致しました。予約番号10720でお取りさせていただきました。	general,restaurant,taxi,weather
+3644	8	USER	ありがとうございます。次にタクシー会社を探してください。キャッシュレス払いができるところがいいです。	general,restaurant,taxi,weather
+3644	9	SYSTEM	お待たせ致しました。それでは、南タクシー株式会社はいかがしましょうか？	general,restaurant,taxi,weather
+3644	10	USER	そちらの電話番号を教えてください。	general,restaurant,taxi,weather
+3644	11	SYSTEM	はい、電話番号は0667121331でございます。	general,restaurant,taxi,weather
+3644	12	USER	ではタクシーの予約をお願いします。7/1の13:40乗車、出発地はオペレッタ52 福島店、目的地はシナモンホテルというところです。	general,restaurant,taxi,weather
+3644	13	SYSTEM	お待たせ致しました。予約番号38304でお取りさせていただきました。	general,restaurant,taxi,weather
+3644	14	USER	ありがとうございます。最後に7/1の東淀川区の天気を教えてください。	general,restaurant,taxi,weather
+3644	15	SYSTEM	当日の天気は雨予報でございます。	general,restaurant,taxi,weather
+3644	16	USER	わかりました。ありがとうございます。以上です。	general,restaurant,taxi,weather
+3644	17	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,taxi,weather

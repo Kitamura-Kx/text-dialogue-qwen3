@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+896	0	USER	福岡への旅行を考えているのですが、駐車場が無料で利用できる買い物できる場所はありますか？	general,shopping,restaurant,taxi
+896	1	SYSTEM	岩田屋 本店は、いかがでしょうか？	general,shopping,restaurant,taxi
+896	2	USER	そこにします。飲食店も探しているのですが、洋食・西洋料理で値段が普通な店はありますか？駐車場を無料で利用できるところがいいです。	general,shopping,restaurant,taxi
+896	3	SYSTEM	リタの農園は、いかがでしょうか？	general,shopping,restaurant,taxi
+896	4	USER	そこにします。近辺の駅からの所要時間と定休日を教えてください。	general,shopping,restaurant,taxi
+896	5	SYSTEM	近辺の駅からの所要時間は、呉服町駅から徒歩で17分です。　定休日は、木曜になります。	general,shopping,restaurant,taxi
+896	6	USER	わかりました。3人で12月14日の12時20分で予約をお願いします。	general,shopping,restaurant,taxi
+896	7	SYSTEM	予約出来ました。予約番号は、17575です。	general,shopping,restaurant,taxi
+896	8	USER	ありがとうございます。タクシーも利用予定なのですが、キャッシュレス払いできるところはありますか？	general,shopping,restaurant,taxi
+896	9	SYSTEM	日本交通産業（株）は、いかがでしょうか？	general,shopping,restaurant,taxi
+896	10	USER	そこにします。電話番号を教えてください。	general,shopping,restaurant,taxi
+896	11	SYSTEM	電話番号は、0925886377です。	general,shopping,restaurant,taxi
+896	12	USER	わかりました。12月14日の11時で、岩田屋 本店からリタの農園までの予約をお願いします。	general,shopping,restaurant,taxi
+896	13	SYSTEM	予約出来ました。予約番号は、46198です。	general,shopping,restaurant,taxi
+896	14	USER	ありがとうございます。	general,shopping,restaurant,taxi
+896	15	SYSTEM	他にご用件はございますか？	general,shopping,restaurant,taxi
+896	16	USER	いえ、大丈夫です。	general,shopping,restaurant,taxi
+896	17	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,restaurant,taxi

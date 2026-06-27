@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+308	0	USER	よろしくお願いします。	general,restaurant
+308	1	SYSTEM	おねがいします。	general,restaurant
+308	2	USER	名古屋への旅行を計画しています。当日利用できる飲食店を教えて下さい。	general,restaurant
+308	3	SYSTEM	どのような飲食店がよろしいですか。	general,restaurant
+308	4	USER	料理の内容は問いませんが、安めの所が良いです。あと、熱田区であればいいのですが？	general,restaurant
+308	5	SYSTEM	すみません、ご希望条件に該当するお店がありません。	general,restaurant
+308	6	USER	そうですか。熱田区でなければ、ありますか？	general,restaurant
+308	7	SYSTEM	東区のソウルキッチンはいかがでしょうか。	general,restaurant
+308	8	USER	そちらのお店は駐車場はありますか？	general,restaurant
+308	9	SYSTEM	駐車場はありません。	general,restaurant
+308	10	USER	わかりました。そちらのお店の最寄り駅を教えて下さい。	general,restaurant
+308	11	SYSTEM	最寄り駅は栄駅になります。	general,restaurant
+308	12	USER	わかりました。	general,restaurant
+308	13	SYSTEM	他に何かございませんか？	general,restaurant
+308	14	USER	以上です。ありがとうございます。	general,restaurant

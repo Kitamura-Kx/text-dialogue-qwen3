@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1876	0	USER	こんばんは！今度、札幌へ行くので、当日利用するタクシーを探してもらいたいです。	general,taxi
+1876	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,taxi
+1876	2	USER	ジャンボタクシーが利用できるところだと、どこか良い所はありますか？	general,taxi
+1876	3	SYSTEM	かしこまりました。では、北広島第一交通(株)はいかがでしょうか？キャッシュレスにも対応しております。	general,taxi
+1876	4	USER	ありがとうございます！そちらの電話番号ってわかりますか？	general,taxi
+1876	5	SYSTEM	はい。電話番号は0118115151でございます。	general,taxi
+1876	6	USER	ありがとうございます！では、そちらのタクシーの予約をお願いします。11月16日の9時30分に、出発地はHOKKAIDO CUISINE KAMUY、目的地はふくの家たなかでお願いします。	general,taxi
+1876	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,taxi
+1876	8	USER	そうなんですね。では、時間は9時30分ではなくて、10時30分でお願いします。	general,taxi
+1876	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、79661です。	general,taxi
+1876	10	USER	ありがとうございます！わかりました。	general,taxi
+1876	11	SYSTEM	他にご用件はありますか？	general,taxi
+1876	12	USER	いえ、あとは大丈夫です。タクシーの手配、ありがとうございました！	general,taxi
+1876	13	SYSTEM	承知しました。ありがとうございました。	general,taxi

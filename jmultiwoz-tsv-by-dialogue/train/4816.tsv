@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4816	0	USER	京都へ旅行に行くので、食事ができるお店を探してください。	general,restaurant,taxi
+4816	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,restaurant,taxi
+4816	2	USER	無料の駐車場があって、安めのお店希望です。	general,restaurant,taxi
+4816	3	SYSTEM	はい、京都で安め、無料駐車場のある飲食店といえば、海雲亭 洛西店、こちら一択です。	general,restaurant,taxi
+4816	4	USER	そちらの電話番号教えてください。	general,restaurant,taxi
+4816	5	SYSTEM	0753810298です。	general,restaurant,taxi
+4816	6	USER	7/27の15:10、人数3人で予約できますか？	general,restaurant,taxi
+4816	7	SYSTEM	予約成功しました。予約番号は62842です。	general,restaurant,taxi
+4816	8	USER	ありがとうございます。次にジャンボタクシーが利用できるタクシー会社を探してください。	general,restaurant,taxi
+4816	9	SYSTEM	はい、京都でジャンボタクシー対応している会社はいくつかありますが、エムケイ株式会社、こちらをお勧めします。	general,restaurant,taxi
+4816	10	USER	ちなみにそちらはキャッシュレス対応してますか？	general,restaurant,taxi
+4816	11	SYSTEM	対応しています。	general,restaurant,taxi
+4816	12	USER	わかりました。ではそちらでタクシーを予約します。	general,restaurant,taxi
+4816	13	SYSTEM	はい、条件をお聞かせください。	general,restaurant,taxi
+4816	14	USER	7/27の13:30乗車で、出発地ははる家 梅小路というところで、目的地は海雲亭 洛西店でお願いします。	general,restaurant,taxi
+4816	15	SYSTEM	予約成功しました。予約番号は70669です。	general,restaurant,taxi
+4816	16	USER	ありがとうございます。これにて以上です。	general,restaurant,taxi
+4816	17	SYSTEM	よい旅を。	general,restaurant,taxi

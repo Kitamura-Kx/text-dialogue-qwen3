@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3165	0	USER	今度名古屋へ行く予定で、名古屋ガーランドホテルに泊まる予定なのですが、チェックアウト終了時刻を調べてもらえますか？	general,hotel
+3165	1	SYSTEM	チェックアウト終了時刻は、10時となっています。	general,hotel
+3165	2	USER	ありがとうございます。	general,hotel
+3165	3	SYSTEM	他にご用件はありますか？	general,hotel
+3165	4	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel

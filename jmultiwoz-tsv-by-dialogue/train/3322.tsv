@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3322	0	USER	京都旅行の時に、利用するタクシー会社を探してもらえますか？キャッシュレスで支払をしたいと思っています。	general,taxi
+3322	1	SYSTEM	京都でキャッシュレス対応の会社はいくつかありますが、洛東タクシー株式会社をお勧めします。	general,taxi
+3322	2	USER	ありがとうございます。洛東タクシー株式会社は、ジャンボタクシーも選べる会社でしょうか？	general,taxi
+3322	3	SYSTEM	はい、ジャンボにも対応しています。	general,taxi
+3322	4	USER	それでは1/25の12:50にSAKURA TERRACE THE GALLERY(サクラテラスザギャラリー)で、配車予約をお願いします。行先は大丸京都店までです。	general,taxi
+3322	5	SYSTEM	予約成功しました。予約番号は1924です。	general,taxi
+3322	6	USER	ありがとうございます。	general,taxi
+3322	7	SYSTEM	よい旅を。	general,taxi

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4391	0	USER	今度横浜へ行くんですが、駐車場が無料で予算安めの飲食店ってありますか？	general,restaurant,weather
+4391	1	SYSTEM	では、カフェ・ド・ラペはいかがでしょうか。	general,restaurant,weather
+4391	2	USER	ありがとうございます。そこの定休日もわかりますか？	general,restaurant,weather
+4391	3	SYSTEM	定休日は無しでございます。	general,restaurant,weather
+4391	4	USER	ありがとうございます。あと、10/18の南区の天気と最高気温はわかりますか？	general,restaurant,weather
+4391	5	SYSTEM	天気は晴のち曇、最高気温は21.2度でございます。	general,restaurant,weather
+4391	6	USER	ありがとうございました。以上で結構です。	general,restaurant,weather
+4391	7	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather

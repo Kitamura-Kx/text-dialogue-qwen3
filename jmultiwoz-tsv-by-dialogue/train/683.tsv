@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+683	0	USER	大阪へ行こうと思っています。駐車場が無料で利用できるテーマパークを探していただきたいです。	general,attraction
+683	1	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,attraction
+683	2	USER	ではジャンルは考慮せずもう一度調べていただけますでしょうか。	general,attraction
+683	3	SYSTEM	ありがとうございます。鶴見緑地湯元 水春、大阪天満宮、難波神社の3件ございます。何をご案内致しましょう？	general,attraction
+683	4	USER	鶴見緑地湯元 水春の電話番号を教えていただけますでしょうか。	general,attraction
+683	5	SYSTEM	はい、電話番号は0642571126となります。	general,attraction
+683	6	USER	わかりました。ありがとうございます。	general,attraction
+683	7	SYSTEM	他にご用件はございますか？	general,attraction
+683	8	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction

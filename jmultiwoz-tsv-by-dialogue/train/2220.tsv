@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2220	0	USER	那覇へ旅行に行くので、宿泊施設を探してください。	general,hotel,weather
+2220	1	SYSTEM	承知致しました。何かご希望はございますか？	general,hotel,weather
+2220	2	USER	地区は本庁で、駐車場とWi-Fiが無料で利用できるところにしてください。	general,hotel,weather
+2220	3	SYSTEM	パシフィックホテル沖縄はいかがでしょう？タイプはシティホテルとなります。	general,hotel,weather
+2220	4	USER	そちらのチェックアウト終了時刻を教えてください。	general,hotel,weather
+2220	5	SYSTEM	チェックアウト終了時刻は10時となります。	general,hotel,weather
+2220	6	USER	ではそちらで予約してください。人数は3人、日付は4/17で、宿泊日数は4泊です。	general,hotel,weather
+2220	7	SYSTEM	申し訳ありません。この条件では予約ができませんでした。いかが致しましょう？	general,hotel,weather
+2220	8	USER	人数を2人にするとどうですか？	general,hotel,weather
+2220	9	SYSTEM	予約が可能になりまして、ご予約番号は、28268となります。	general,hotel,weather
+2220	10	USER	ではそちらで予約確定してください。あと4/17、本庁の天候を教えて下さい。	general,hotel,weather
+2220	11	SYSTEM	はい、天気は曇時々雨、最低気温13.5度、最高気温27.2度となります。他にご用件はございますか？	general,hotel,weather
+2220	12	USER	これで全部です。ありがとうございました。	general,hotel,weather
+2220	13	SYSTEM	ありがとうございました。	general,hotel,weather

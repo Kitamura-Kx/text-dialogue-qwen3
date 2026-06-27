@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+94	0	USER	こんにちは！	general,restaurant
+94	1	SYSTEM	こんにちは。本日はご利用いただき、誠にありがとうございます。どういったご用件でしょうか？	general,restaurant
+94	2	USER	那覇に旅行しようと思っていまして、ちょっと調べていただいてもよろしいですか？	general,restaurant
+94	3	SYSTEM	はい、かしこまりました。那覇について、どんなことをお調べしましょうか？	general,restaurant
+94	4	USER	当日食事ができる飲食店を探しているんですけど、串角 泉崎ロータリー店というお店はありますか？	general,restaurant
+94	5	SYSTEM	那覇の串角 泉崎ロータリー店ですね。1件、該当する店舗がございました。	general,restaurant
+94	6	USER	ありましたか！良かったです。 ちなみに、そのお店のエリアはどちらになるかわかりますか？	general,restaurant
+94	7	SYSTEM	はい、わかります。串角 泉崎ロータリー店は、本庁エリアの居酒屋です。	general,restaurant
+94	8	USER	ありがとうございます！お調べいただき、確認することができました。	general,restaurant
+94	9	SYSTEM	お役に立てて幸いです。他にもご不明な点や、お調べすることはございますか？	general,restaurant
+94	10	USER	いえ、これだけで大丈夫です。ありがとうございました！	general,restaurant
+94	11	SYSTEM	承知いたしました。本日はご利用いただき、ありがとうございました。	general,restaurant

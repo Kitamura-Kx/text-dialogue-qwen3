@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4351	0	USER	横浜への旅行を計画しています、都築区で予算高めで楽しめる飲食店はありませんか	general,restaurant,hotel,weather
+4351	1	SYSTEM	申し訳ございません。都筑区でよろしかったですか？	general,restaurant,hotel,weather
+4351	2	USER	はい、都筑区で大丈夫です	general,restaurant,hotel,weather
+4351	3	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,hotel,weather
+4351	4	USER	では予算を考慮しなかった場合はありますか	general,restaurant,hotel,weather
+4351	5	SYSTEM	はい。天啓がおすすめです。	general,restaurant,hotel,weather
+4351	6	USER	ありがとうございます、駐車場はありますか	general,restaurant,hotel,weather
+4351	7	SYSTEM	はい。有料ですがございます。	general,restaurant,hotel,weather
+4351	8	USER	ありがとうございます、宿泊施設も探しているのですがWIFIが無料で利用できてレストランが併設されている施設はありませんか	general,restaurant,hotel,weather
+4351	9	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,restaurant,hotel,weather
+4351	10	USER	ではwifiが有料で同条件の施設はありませんか	general,restaurant,hotel,weather
+4351	11	SYSTEM	その条件でしたら、インターコンチネンタル横浜Pier8がございます。	general,restaurant,hotel,weather
+4351	12	USER	ありがとうございます、エリア、チェック開始時間、駅からの所要時間を教えてください	general,restaurant,hotel,weather
+4351	13	SYSTEM	はい。エリアは中区で、チェックイン開始時刻は15:00でございます。また、近辺の駅からの所要時間としましては、馬車道駅から徒歩で10分、みなとみらい駅から徒歩で12分、桜木町駅から徒歩で15分になります。また、タクシーでもよければ、桜木町駅からタクシーで7分、横浜駅からタクシーで15分になります。	general,restaurant,hotel,weather
+4351	14	USER	ありがとうございます、4月28日に訪れる予定なのですが金沢区の最高気温を教えてください	general,restaurant,hotel,weather
+4351	15	SYSTEM	はい。最高気温は18.7度になります。	general,restaurant,hotel,weather
+4351	16	USER		general,restaurant,hotel,weather

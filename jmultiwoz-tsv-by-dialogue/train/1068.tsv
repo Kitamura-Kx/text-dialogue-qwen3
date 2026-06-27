@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1068	0	USER	大阪へ行く予定をしているので、その時に行く飲食店を探してください。	general,restaurant,shopping,taxi
+1068	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,restaurant,shopping,taxi
+1068	2	USER	洋食や西洋料理のお店で、予算としては普通程度でお願いします。無料Wi-Fiもついていると助かります。	general,restaurant,shopping,taxi
+1068	3	SYSTEM	そうしますと、2件ほど、ご案内可能です。たとえば、ミゲルフアニ なんばダイニングメゾン店というお店はいかがでしょうか？	general,restaurant,shopping,taxi
+1068	4	USER	ありがとうございます。それではこのお店で5/17の予約をお願いします。予定時間は10:40で人数は2人です。	general,restaurant,shopping,taxi
+1068	5	SYSTEM	ご予約承りました。ご予約番号は、93353です。	general,restaurant,shopping,taxi
+1068	6	USER	ありがとうございます。当日は中央区でお土産も買いたいと思っていますが、どこか良いお店はありますか？	general,restaurant,shopping,taxi
+1068	7	SYSTEM	はい、3件ほどご案内できます。例えば、長崎堂 心斎橋本店というところは、いかがでしょうか？	general,restaurant,shopping,taxi
+1068	8	USER	はい。それでは、長崎堂 心斎橋本店の住所と営業時間は分かりますか？	general,restaurant,shopping,taxi
+1068	9	SYSTEM	はい。住所は、大阪府大阪市中央区心斎橋筋2丁目1-29です。営業時間は、9:00～18:00でございます。	general,restaurant,shopping,taxi
+1068	10	USER	その日は、タクシーで移動をしたいと思っています。ジャンボタクシーも選べる会社で予約をお願いします。	general,restaurant,shopping,taxi
+1068	11	SYSTEM	かしこまりました。では、榮交通株式会社という会社は、いかがでしょうか？	general,restaurant,shopping,taxi
+1068	12	USER	榮交通株式会社はキャッシュレス決済もできますか？電話番号も教えてください。	general,restaurant,shopping,taxi
+1068	13	SYSTEM	はい、キャッシュレスでお支払いいただけます。電話番号は、0669624641です。	general,restaurant,shopping,taxi
+1068	14	USER	それでは5/17の12:10で、タクシー予約をお願いします。ミゲルフアニ なんばダイニングメゾン店から乗って、長崎堂 心斎橋本店までタクシー移動をしたいです。	general,restaurant,shopping,taxi
+1068	15	SYSTEM	かしこまりました。予約を承りました。予約番号は、43916です。	general,restaurant,shopping,taxi
+1068	16	USER	ありがとうございます。	general,restaurant,shopping,taxi
+1068	17	SYSTEM	他にお調べすることはございますか？	general,restaurant,shopping,taxi
+1068	18	USER	いいえ、お世話になりました。	general,restaurant,shopping,taxi
+1068	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,shopping,taxi

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4512	0	USER	大阪への旅行を計画しているんですけど、駐車場が無料で使える観光名所を探して頂けますか？	general,attraction,weather
+4512	1	SYSTEM	かしこまりました。では、難波神社はいかがでしょうか。	general,attraction,weather
+4512	2	USER	そちらの住所と定休日、営業時間を教えてもらえますか？	general,attraction,weather
+4512	3	SYSTEM	住所は大阪府大阪市中央区博労町4丁目1-3でございます。定休日はございません。営業時間は06:30～18:00となっております。	general,attraction,weather
+4512	4	USER	淀川区の5/20の最低気温と最高気温も教えてもらえますか？	general,attraction,weather
+4512	5	SYSTEM	はい。その日の最低気温は12.1度で、最高気温が26.9度となっております。	general,attraction,weather
+4512	6	USER	ありがとうございます。	general,attraction,weather
+4512	7	SYSTEM	ほかにご用件はございませんか。	general,attraction,weather
+4512	8	USER	大丈夫です。ありがとうございました。	general,attraction,weather
+4512	9	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

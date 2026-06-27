@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+363	0	USER	お願いします。京都への旅行を計画しています。どこかおすすめの観光名所を１軒紹介して下さい。	general,attraction,restaurant,taxi
+363	1	SYSTEM	京都の観光名所ですね。では、京都タワーはいかがでしょう？	general,attraction,restaurant,taxi
+363	2	USER	そちらは無料で駐車場を使えますか？	general,attraction,restaurant,taxi
+363	3	SYSTEM	申し訳ありません。京都タワーには駐車場は、ございません。駐車場のある観光名所をお探ししますか？	general,attraction,restaurant,taxi
+363	4	USER	はい。無料で駐車場が利用できるところでお願いします。	general,attraction,restaurant,taxi
+363	5	SYSTEM	かしこまりました。では、伏見稲荷大社はいかがでしょうか？	general,attraction,restaurant,taxi
+363	6	USER	いいですね。当日食事ができるところも探しているのですが、上京区でどこかありませんか？	general,attraction,restaurant,taxi
+363	7	SYSTEM	上京区ですと、2件候補がございます。epiceというイタリアン・フレンチのお店はいかがでしょうか？	general,attraction,restaurant,taxi
+363	8	USER	できれば、居酒屋さんがいいのですが、ありませんか？	general,attraction,restaurant,taxi
+363	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,restaurant,taxi
+363	10	USER	そうですか。では東山区の居酒屋さんではどうでしょう？	general,attraction,restaurant,taxi
+363	11	SYSTEM	1件、ご案内できる場所がございます。京家 きよみず 祇をん新橋というお店ですが、いかがでしょうか？	general,attraction,restaurant,taxi
+363	12	USER	そちらの営業時間はわかりますか？	general,attraction,restaurant,taxi
+363	13	SYSTEM	はい。営業時間は、16:00～22:30となっております。	general,attraction,restaurant,taxi
+363	14	USER	最寄り駅からの所要時間はどのぐらいでしょう？	general,attraction,restaurant,taxi
+363	15	SYSTEM	祇園四条駅からは、徒歩5分でアクセスできます。また、三条駅と三条京阪駅からも徒歩7分、京都河原町駅からですと徒歩15分でアクセス可能です。	general,attraction,restaurant,taxi
+363	16	USER	わかりました。それと、当日、タクシーを利用したいのですが、ジャンボタクシーのあるところはありますか？	general,attraction,restaurant,taxi
+363	17	SYSTEM	はい、17件ございます。例えば、京都相互タクシー株式会社ですと、キャッシュレスのお支払いにも対応しておりますし、いかがでしょうか？	general,attraction,restaurant,taxi
+363	18	USER	そちらの電話番号はわかりますか？	general,attraction,restaurant,taxi
+363	19	SYSTEM	はい。電話番号は、0758623000です。予約をお入れしますか？	general,attraction,restaurant,taxi
+363	20	USER	お願いします。７月６日の１３時３０分で、伏見稲荷大社発、京家 きよみず 祇をん新橋着でお願いします。	general,attraction,restaurant,taxi
+363	21	SYSTEM	申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょう？	general,attraction,restaurant,taxi
+363	22	USER	そうですか。では出発時間を１４時２０分に変更したらどうでしょう？	general,attraction,restaurant,taxi
+363	23	SYSTEM	ありがとうございます。予約完了いたしました。ご予約番号は、60608です。	general,attraction,restaurant,taxi
+363	24	USER	ありがとうございました。ではこれで失礼します。	general,attraction,restaurant,taxi
+363	25	SYSTEM	はい。本日はご利用ありがとうございました。	general,attraction,restaurant,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1357	0	USER	大阪旅行に行くのですが、当日買い物ができる場所を探しています。	general,shopping,restaurant
+1357	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant
+1357	2	USER	最寄り駅が谷町六丁目駅で、おもちゃを買いたいです。	general,shopping,restaurant
+1357	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping,restaurant
+1357	4	USER	それでは最寄り駅の条件は外して構いません。	general,shopping,restaurant
+1357	5	SYSTEM	ではアカチャンホンポ あべのイトーヨーカドー店がございます。	general,shopping,restaurant
+1357	6	USER	そこに行くので電話番号と住所を教えてください。	general,shopping,restaurant
+1357	7	SYSTEM	電話番号は0666412520でございます。住所は大阪府大阪市阿倍野区阿倍野筋1丁目6-1でございます。	general,shopping,restaurant
+1357	8	USER	ありがとうございます。あと当日食事ができる飲食店を探して欲しいです	general,shopping,restaurant
+1357	9	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant
+1357	10	USER	Wi-Fiが無料で利用でき、最寄り駅が大阪梅田駅のところにしてください	general,shopping,restaurant
+1357	11	SYSTEM	では炭火焼dining おかげ家 梅田店はいかがでしょうか。	general,shopping,restaurant
+1357	12	USER	そちらにしますので、近辺の駅からの所要時間、定休日、駐車場の有無を教えてください	general,shopping,restaurant
+1357	13	SYSTEM	大阪梅田駅から徒歩で2分、大阪駅から徒歩で5分でございます。定休日は不定休となっております。駐車場はございません。	general,shopping,restaurant
+1357	14	USER	わかりました。ありがとうございます。以上です。	general,shopping,restaurant
+1357	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant

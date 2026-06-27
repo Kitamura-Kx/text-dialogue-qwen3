@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+54	0	USER	ちょっといいですか？仙台に行く予定なんですが、泊る場所を調べてもらいたくて。	general,hotel,restaurant,taxi
+54	1	SYSTEM	承知致しました。エリアやご予算などはお決まりでしょうか？	general,hotel,restaurant,taxi
+54	2	USER	無料駐車場がついているところでお願いしたいです。	general,hotel,restaurant,taxi
+54	3	SYSTEM	32件ございます。他にご希望はございますか？	general,hotel,restaurant,taxi
+54	4	USER	タダで車が停められるならどこでも。	general,hotel,restaurant,taxi
+54	5	SYSTEM	それでは、秋保グランドホテルはいかがでしょう？	general,hotel,restaurant,taxi
+54	6	USER	そこの一番近くにある駅は、何駅になるんでしょう？	general,hotel,restaurant,taxi
+54	7	SYSTEM	最寄駅は愛子駅になります。駅からホテルまで、車で10分程度となっております。	general,hotel,restaurant,taxi
+54	8	USER	分かりました。すみません、そこの名前、もう一度お願いしてもいいですか？	general,hotel,restaurant,taxi
+54	9	SYSTEM	はい、秋保グランドホテルです。	general,hotel,restaurant,taxi
+54	10	USER	ああ、すみません、ありがとうございます。あとですね、食事ができる場所も探してほしくて。	general,hotel,restaurant,taxi
+54	11	SYSTEM	承知致しました。ホテルの近くでお探しでしょうか？	general,hotel,restaurant,taxi
+54	12	USER	いやいや、行きたい店があるんです。	general,hotel,restaurant,taxi
+54	13	SYSTEM	承知致しました。どちらの飲食店になりますでしょう？	general,hotel,restaurant,taxi
+54	14	USER	あんだんち食堂というところなんですけど、ありそうですか？	general,hotel,restaurant,taxi
+54	15	SYSTEM	はい、若林区にございます。	general,hotel,restaurant,taxi
+54	16	USER	もう少し詳しく住所を教えてもらえますか？	general,hotel,restaurant,taxi
+54	17	SYSTEM	住所は、仙台市若林区なないろの里1丁目19-2 アンダンチ内、となっております。	general,hotel,restaurant,taxi
+54	18	USER	分かりました。永楽交通（株）ってタクシーのところも探してもらえたりできます？	general,hotel,restaurant,taxi
+54	19	SYSTEM	はい、なにかご希望がございますか？	general,hotel,restaurant,taxi
+54	20	USER	永楽交通（株）っていうタクシー会社も探してほしいです。	general,hotel,restaurant,taxi
+54	21	SYSTEM	はい、ございます。	general,hotel,restaurant,taxi
+54	22	USER	そこのタクシーだと、支払いはキャッシュレスオッケー？	general,hotel,restaurant,taxi
+54	23	SYSTEM	はい、キャッシュレスに対応しております。	general,hotel,restaurant,taxi
+54	24	USER	それじゃ、そこで5月6日の16時に予約したしです。	general,hotel,restaurant,taxi
+54	25	SYSTEM	承知致しました。出発地と目的地を教えていただけますか？	general,hotel,restaurant,taxi
+54	26	USER	さっきのホテルから、あんだんち食堂まで連れて行ってほしいんですけど。	general,hotel,restaurant,taxi
+54	27	SYSTEM	ありがとうございます。 ご予約完了致しました。 予約番号は、50736　となっております。	general,hotel,restaurant,taxi
+54	28	USER	すみません、助かりました。今のところ、これで大丈夫そうです。	general,hotel,restaurant,taxi
+54	29	SYSTEM	承知致しました。 ありがとうございました。	general,hotel,restaurant,taxi

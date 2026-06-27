@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4632	0	USER	こんにちは。京都旅行を計画しています。アジア・エスニック料理を食べられる飲食店で、駐車場が無料のお店を紹介して頂けませんか？	general,restaurant,hotel,attraction
+4632	1	SYSTEM	かしこまりました。では稲穂食堂はいかがでしょうか。	general,restaurant,hotel,attraction
+4632	2	USER	そのお店にします。電話番号と営業時間と、Wi-Fiがあるかどうかも教えてください。	general,restaurant,hotel,attraction
+4632	3	SYSTEM	電話番号は0757027934で、営業時間は17:00～23:00でございます。Wi-Fiの有無は不明でございます。	general,restaurant,hotel,attraction
+4632	4	USER	では、予約もお願いします。2人で6月9日の11時50分です。	general,restaurant,hotel,attraction
+4632	5	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,restaurant,hotel,attraction
+4632	6	USER	それでは、人数は1人だけで、ほかは同じ日時でお願いします。	general,restaurant,hotel,attraction
+4632	7	SYSTEM	１人ですと予約が可能でございました。予約番号は64896でございます。	general,restaurant,hotel,attraction
+4632	8	USER	泊れるところも探しているんです。レストランが併設されていて、Wi-Fiを無料で利用できる宿泊施設はありますか？	general,restaurant,hotel,attraction
+4632	9	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,restaurant,hotel,attraction
+4632	10	USER	そうですか、ではレストランの有無は考慮せずに、Wi-Fiは無料でお願いします。	general,restaurant,hotel,attraction
+4632	11	SYSTEM	ではHOTEL IMAGINE KYOTOガございます。	general,restaurant,hotel,attraction
+4632	12	USER	そちらで予約をお願いします。人数4人、6月9日から4泊の予定です。	general,restaurant,hotel,attraction
+4632	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は15792でございます。	general,restaurant,hotel,attraction
+4632	14	USER	やっぱり、観光名所にも行きたいんですが、山科区で駐車場が無料のところはありませんか？	general,restaurant,hotel,attraction
+4632	15	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,restaurant,hotel,attraction
+4632	16	USER	そうですか、駐車場はなくても良いので、もう一度調べていただけませんか？	general,restaurant,hotel,attraction
+4632	17	SYSTEM	では京都市東部文化会館がございます。	general,restaurant,hotel,attraction
+4632	18	USER	そちらにします。電話番号はありますか？	general,restaurant,hotel,attraction
+4632	19	SYSTEM	電話番号は0755021012でございます。	general,restaurant,hotel,attraction
+4632	20	USER	ありがとうございました。旅行を楽しみたいです。	general,restaurant,hotel,attraction

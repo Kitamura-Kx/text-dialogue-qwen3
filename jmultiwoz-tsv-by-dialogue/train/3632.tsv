@@ -1,0 +1,35 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3632	0	USER	札幌に行こうと思っているのですが、買い物ができるところはどのようなところがありますか？	general,shopping,restaurant,taxi
+3632	1	SYSTEM	札幌で買い物スポットは５０件ほどあります。ご希望の条件をおきかせください。	general,shopping,restaurant,taxi
+3632	2	USER	駐車場が無料で、最寄り駅が大通駅でどこかありますか？	general,shopping,restaurant,taxi
+3632	3	SYSTEM	大通駅で駐車場無料といえば、さっぽろ地下街、こちら一択です。	general,shopping,restaurant,taxi
+3632	4	USER	わかりました。駅からの所要時間を教えてください。	general,shopping,restaurant,taxi
+3632	5	SYSTEM	大通駅から徒歩で1分、また、すすきの駅からも徒歩で1分です。	general,shopping,restaurant,taxi
+3632	6	USER	電話番号も教えていただけますか？	general,shopping,restaurant,taxi
+3632	7	SYSTEM	0112514912です。	general,shopping,restaurant,taxi
+3632	8	USER	ありがとうございます。それから、駐車場が無料の飲食店も探していただきたいです。	general,shopping,restaurant,taxi
+3632	9	SYSTEM	札幌で駐車場無料の飲食店はいくつかありますが、札幌らしいものでいえば、北海道スープカレー専門店 雪道、こちらがオススメです。	general,shopping,restaurant,taxi
+3632	10	USER	いいですね、でもできれば予算が普通の和食を希望しています。	general,shopping,restaurant,taxi
+3632	11	SYSTEM	予算普通の和食で駐車場無料ならば、しゃぶしゃぶ温野菜 北24条店、こちらがオススメです。	general,shopping,restaurant,taxi
+3632	12	USER	ありがとうございます。そちらの住所を教えてください。	general,shopping,restaurant,taxi
+3632	13	SYSTEM	北海道札幌市北区北23条西4丁目2-39 北24条スガイビル 2Fです。	general,shopping,restaurant,taxi
+3632	14	USER	Wi-Fiはありますか？	general,shopping,restaurant,taxi
+3632	15	SYSTEM	WiFiは不明ですね。	general,shopping,restaurant,taxi
+3632	16	USER	わかりました。では、そちらのお店を9月15日に予約していただきたいです。	general,shopping,restaurant,taxi
+3632	17	SYSTEM	人数と時刻をお願いします。	general,shopping,restaurant,taxi
+3632	18	USER	3人で14時20分でお願いします。	general,shopping,restaurant,taxi
+3632	19	SYSTEM	予約成功しました。予約番号は13723です。	general,shopping,restaurant,taxi
+3632	20	USER	ありがとうございます。あとは、ジャンボタクシーが利用できるタクシー会社も探しているのですが。	general,shopping,restaurant,taxi
+3632	21	SYSTEM	札幌にはジャンボタクシー対応のタクシー会社はなさそうです。	general,shopping,restaurant,taxi
+3632	22	USER	では、ジャンボタクシーは利用しない場合、おすすめのタクシー会社はありますか？	general,shopping,restaurant,taxi
+3632	23	SYSTEM	それでは、鈴蘭交通(株)をお勧めします。	general,shopping,restaurant,taxi
+3632	24	USER	そちらはキャッシュレスで支払いできますか？	general,shopping,restaurant,taxi
+3632	25	SYSTEM	はい、キャッシュレスに対応しています。	general,shopping,restaurant,taxi
+3632	26	USER	電話番号も教えてください。	general,shopping,restaurant,taxi
+3632	27	SYSTEM	0116676000です。	general,shopping,restaurant,taxi
+3632	28	USER	では、予約をお願いします。9月15日の13時で。	general,shopping,restaurant,taxi
+3632	29	SYSTEM	出発地と目的地をお願いします。	general,shopping,restaurant,taxi
+3632	30	USER	さっぽろ地下街から先ほど教えていただいた、温野菜までお願いします。	general,shopping,restaurant,taxi
+3632	31	SYSTEM	9/15 13時、さっぽろ地下街からしゃぶしゃぶ温野菜 北24条店まで、予約成功しました。予約番号は74944です。	general,shopping,restaurant,taxi
+3632	32	USER	わかりました。色々とありがとうございました。	general,shopping,restaurant,taxi
+3632	33	SYSTEM	よい旅を	general,shopping,restaurant,taxi

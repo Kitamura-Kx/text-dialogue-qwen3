@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+418	0	USER	名古屋への旅行を計画しているのですが、どこか買い物ができるところを探しています。	general,shopping
+418	1	SYSTEM	ジャンルやエリアのご希望はございますか？	general,shopping
+418	2	USER	百貨店や総合スーパーがよいです。	general,shopping
+418	3	SYSTEM	ありがとうございます。それでは、名古屋栄三越はいかがでしょう？エリアは中区になります。	general,shopping
+418	4	USER	駐車場が無料のところがよいのですが、そちらは無料でしょうか。	general,shopping
+418	5	SYSTEM	はい、無料でご利用いただけます。	general,shopping
+418	6	USER	ありがとうございます。では、そちらに行きたいと思います。営業時間を教えていただけますか？	general,shopping
+418	7	SYSTEM	はい、営業時間は10時から20時となります。	general,shopping
+418	8	USER	ありがとうございます。	general,shopping
+418	9	SYSTEM	他にご用件はございますか？	general,shopping
+418	10	USER	大丈夫です。ありがとうございました。	general,shopping

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1471	0	USER	福岡にある一斗五合というお店の値段帯を教えてください。	general,restaurant,shopping,taxi
+1471	1	SYSTEM	かしこまりました。こちら値段帯は普通となっております。	general,restaurant,shopping,taxi
+1471	2	USER	ありがとうございます。あと、住所と最寄り駅も教えてもらえますか？	general,restaurant,shopping,taxi
+1471	3	SYSTEM	住所は福岡県福岡市早良区祖原14-25でございます。最寄り駅は西新駅でございます。	general,restaurant,shopping,taxi
+1471	4	USER	ありがとうございます。当日買い物もしたいのですが、橋本駅近くで無料駐車場のあるところはないでしょうか？	general,restaurant,shopping,taxi
+1471	5	SYSTEM	ではホームセンター グッデイ 西福岡店はいかがでしょうか。	general,restaurant,shopping,taxi
+1471	6	USER	ありがとうございます。そのお店のジャンルと電話番号を教えてもらえますか？	general,restaurant,shopping,taxi
+1471	7	SYSTEM	ジャンルはその他、電話番号は0928911122でございます。	general,restaurant,shopping,taxi
+1471	8	USER	ありがとうございます。当日タクシーを利用しようと思っていますが、キャッシュレス払いとジャンボタクシーが利用できる会社はありますか？	general,restaurant,shopping,taxi
+1471	9	SYSTEM	はい。福岡西鉄タクシー（株）がございます。	general,restaurant,shopping,taxi
+1471	10	USER	そちらを、９月１２日の１３時に、一斗五合からホームセンター グッデイ 西福岡店まで予約お願いできますか？	general,restaurant,shopping,taxi
+1471	11	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,restaurant,shopping,taxi
+1471	12	USER	時間を１４時に変更すれば可能でしょうか？	general,restaurant,shopping,taxi
+1471	13	SYSTEM	その時間ですと予約が可能でございました。予約が完了いたしました。予約番号は14170でございます。	general,restaurant,shopping,taxi
+1471	14	USER	ありがとうございます。電話番号も教えてもらえますか？	general,restaurant,shopping,taxi
+1471	15	SYSTEM	電話番号は0570010531でございます。	general,restaurant,shopping,taxi
+1471	16	USER	ありがとうございます。	general,restaurant,shopping,taxi
+1471	17	SYSTEM	ほかにご用件はございますか。	general,restaurant,shopping,taxi
+1471	18	USER	大丈夫です。ありがとうございました。	general,restaurant,shopping,taxi
+1471	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,taxi

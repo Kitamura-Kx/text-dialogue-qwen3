@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3094	0	USER	札幌への旅行を計画しています．南区の飲食店を紹介してください	general,restaurant
+3094	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,restaurant
+3094	2	USER	それでは豊平区ではどうでしょうか	general,restaurant
+3094	3	SYSTEM	ありがとうございます。そうしますと5件ほどご案内可能です。たとえば、トリコローレというお店はいかがでしょうか？	general,restaurant
+3094	4	USER	そのお店の，近辺の駅からの所要時間，値段帯，住所が知りたいです	general,restaurant
+3094	5	SYSTEM	はい、最寄りの福住駅から徒歩で17分ほどかかります。また、南郷13丁目駅からですと徒歩で24分の距離にございます。お値段帯はお安めの設定です。住所は、北海道札幌市豊平区月寒東3条16丁目5-21です。	general,restaurant
+3094	6	USER	ありがとうございます．ではそこを予約したいです．人数は2人で6月29日，時間は14:40にお願いします	general,restaurant
+3094	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、75219です。	general,restaurant
+3094	8	USER	ありがとうございました．	general,restaurant
+3094	9	SYSTEM	他にお調べすることはございませんか？	general,restaurant

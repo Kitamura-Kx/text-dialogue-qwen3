@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3021	0	USER	東京へ行くのですが、杉並区の江戸川橋駅が最寄りのエリアで観光名所を探してください。	general,attraction,taxi
+3021	1	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction,taxi
+3021	2	USER	そうですか。じゃあ、杉並区の中なら最寄り駅はどこでも大丈夫です。	general,attraction,taxi
+3021	3	SYSTEM	かしこまりました。では、大田黒公園はいかがでしょうか？	general,attraction,taxi
+3021	4	USER	ありがとうございます。そこの利用料金と電話番号を教えてください。	general,attraction,taxi
+3021	5	SYSTEM	はい。利用料金は無料です。電話番号は0333985814になります。	general,attraction,taxi
+3021	6	USER	ありがとうございます。あと、キャッシュレス払いができるタクシー会社を探してもらえますか？ジャンボタクシーを利用したいです。	general,attraction,taxi
+3021	7	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。どういたしましょうか。	general,attraction,taxi
+3021	8	USER	そうですか。じゃあ、ジャンボタクシーじゃなくてもいいです。	general,attraction,taxi
+3021	9	SYSTEM	かしこまりました。では、西武ハイヤーはいかがでしょうか？	general,attraction,taxi
+3021	10	USER	ありがとうございます。では、そこの電話番号も教えてください。	general,attraction,taxi
+3021	11	SYSTEM	はい。電話番号は0570058180です。	general,attraction,taxi
+3021	12	USER	ありがとうございます。ではそこのタクシーの予約をお願いできますか？2/24の午前11：00に大田黒公園を出発して、増上寺まで利用したいです。	general,attraction,taxi
+3021	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、15784です。	general,attraction,taxi
+3021	14	USER	ありがとうございました。以上で結構です。	general,attraction,taxi
+3021	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi

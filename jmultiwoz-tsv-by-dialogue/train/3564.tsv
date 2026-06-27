@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3564	0	USER	今度、横浜へ行く予定です。西区で無料駐車場を利用できる飲食店を教えてください。	general,restaurant,shopping,taxi
+3564	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,shopping,taxi
+3564	2	USER	そうですか。では、西区以外で大丈夫ですので、高めの予算のお店を教えて下さい。	general,restaurant,shopping,taxi
+3564	3	SYSTEM	ではうなぎ料理 しま村 青葉台店はいかがでしょうか。	general,restaurant,shopping,taxi
+3564	4	USER	良いですね。そちらの電話番号を教えて下さい。それと近くの駅からどれくらいかかりますか？	general,restaurant,shopping,taxi
+3564	5	SYSTEM	電話番号は0454791131で、青葉台駅から徒歩で3分でございます。	general,restaurant,shopping,taxi
+3564	6	USER	ありがとうございます。8月20日の午前10:30に2名で予約をお願いできますか？	general,restaurant,shopping,taxi
+3564	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は86997でございます。	general,restaurant,shopping,taxi
+3564	8	USER	ありがとうございます。それから、無料駐車場のある買い物できる所も紹介して下さい。	general,restaurant,shopping,taxi
+3564	9	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,restaurant,shopping,taxi
+3564	10	USER	そうですか。では駐車場は無くても構いません。	general,restaurant,shopping,taxi
+3564	11	SYSTEM	ではHAMABOWL EASはいかがでしょうか。	general,restaurant,shopping,taxi
+3564	12	USER	そこに行ってみます。最寄り駅はどこになりますか？	general,restaurant,shopping,taxi
+3564	13	SYSTEM	最寄り駅は横浜駅でございます。	general,restaurant,shopping,taxi
+3564	14	USER	分かりました。ありがとうございます。当日、タクシーで移動を考えています。ジャンボタクシーを利用できてキャッシュレス払いのできるタクシー会社を教えて下さい。	general,restaurant,shopping,taxi
+3564	15	SYSTEM	はい。日本サントスキャブ株式会社がございます。	general,restaurant,shopping,taxi
+3564	16	USER	そちらの電話番号を教えて下さい。	general,restaurant,shopping,taxi
+3564	17	SYSTEM	電話番号は0120193117でございます。	general,restaurant,shopping,taxi
+3564	18	USER	ありがとうございます。8月20日の午前11:30にうなぎ料理 しま村 青葉台店からHAMABOWL EASまで予約をお願いします。	general,restaurant,shopping,taxi
+3564	19	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は51355でございます。	general,restaurant,shopping,taxi
+3564	20	USER	ありがとうございました。助かりました。それでは失礼します。	general,restaurant,shopping,taxi

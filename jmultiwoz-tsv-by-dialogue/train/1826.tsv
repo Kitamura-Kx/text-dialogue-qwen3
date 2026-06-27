@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1826	0	USER	東京への旅行を計画中なのですが、渋谷区で駐車場無料の買い物ができる店舗はありますか？	general,shopping,weather
+1826	1	SYSTEM	かしこまりました。では、ラフォーレ原宿はいかがでしょうか？	general,shopping,weather
+1826	2	USER	「ラフォーレ原宿」の最寄駅からの所要時間を教えて下さい。	general,shopping,weather
+1826	3	SYSTEM	はい。最寄り駅である明治神宮前〈原宿〉駅からの所要時間は徒歩で1分です。	general,shopping,weather
+1826	4	USER	ありがとうございます、港区の当日1/5の天気と最低気温を教えて下さい。	general,shopping,weather
+1826	5	SYSTEM	かしこまりました。1/5の港区の天気予報は晴のち雨となっております。最低気温は8.1度になる予報です。	general,shopping,weather
+1826	6	USER	ありがとうございました、ほかは大丈夫です。	general,shopping,weather
+1826	7	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

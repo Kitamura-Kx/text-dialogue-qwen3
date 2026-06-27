@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+329	0	USER	札幌旅行に行こうと考えているのですが、豊平区の駐車場が無料利用できるような観光スポットはありますか？	general,attraction,hotel
+329	1	SYSTEM	申し訳ありません。その条件ではご紹介可能な施設がございません。	general,attraction,hotel
+329	2	USER	そうですか。では、駐車場の料金はかかってしまっても構いません。	general,attraction,hotel
+329	3	SYSTEM	ありがとうございます。それでは、札幌ドームはいかがでしょう？ジャンルはアリーナ、スタジアム、展望台、タワー、スポーツ、フィットネスとなります。	general,attraction,hotel
+329	4	USER	なるほど、いいですね。こちらはWi-Fiは用意されていますか？	general,attraction,hotel
+329	5	SYSTEM	はい、Wi-Fiは無料でご利用いただけます。	general,attraction,hotel
+329	6	USER	そうなのですね。ちなみにこちらの施設は、近くの駅からアクセスしようとすると、どんな感じですか？	general,attraction,hotel
+329	7	SYSTEM	はい、最寄りの福住駅から徒歩で10分となります。	general,attraction,hotel
+329	8	USER	わかりました。あと、泊まるところも探してもらえないでしょうか？	general,attraction,hotel
+329	9	SYSTEM	承知しました。エリアや値段帯のご希望はございますか？	general,attraction,hotel
+329	10	USER	条件としては、レストランが併設されていて、Wi-Fiが無料で利用できる所がいいなと思っています。	general,attraction,hotel
+329	11	SYSTEM	それでは、ホテルルートイン札幌白石はいかがでしょう？タイプはビジネスホテル、値段帯は安めとなります。	general,attraction,hotel
+329	12	USER	ご紹介して下さりありがとうございます。こちらのホテルは駐車場は用意されていますか？	general,attraction,hotel
+329	13	SYSTEM	はい、無料でご利用いただけます。	general,attraction,hotel
+329	14	USER	わかりました。今日はとても助かりました、ありがとうございます。	general,attraction,hotel

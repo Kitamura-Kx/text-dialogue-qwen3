@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1499	0	USER	横浜の飲食店情報をお願いします。安めで、駐車場が無料の飲食店はありますか？	general,restaurant
+1499	1	SYSTEM	はい、エリアでいうと中区に、カフェ・ド・ラペがございます。	general,restaurant
+1499	2	USER	住所と、近辺の駅からの所要時間もお願いできますか？	general,restaurant
+1499	3	SYSTEM	はい、住所は神奈川県横浜市中区山下町2 産業貿易センター２階、最寄りの日本大通り駅から徒歩で3分、近辺の関内駅から徒歩で10分となります。	general,restaurant
+1499	4	USER	ありがとうございます。助かりました！	general,restaurant

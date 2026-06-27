@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1439	0	USER	東京への旅行を計画しています．	general,shopping,weather
+1439	1	SYSTEM	お問合せありがとうございます。	general,shopping,weather
+1439	2	USER	当日買い物ができるところを探してください．ジャンルは書籍で駐車場を無料で利用できるところがいいです。	general,shopping,weather
+1439	3	SYSTEM	二子玉川 蔦屋家電はいかがでしょうか。	general,shopping,weather
+1439	4	USER	そちら定休日はいつでしょうか。	general,shopping,weather
+1439	5	SYSTEM	定休日は無しです。	general,shopping,weather
+1439	6	USER	ありがとうございます。あと、中央区の2/28の天気も知りたいです。	general,shopping,weather
+1439	7	SYSTEM	天気は曇です。	general,shopping,weather
+1439	8	USER	ありがとうございます。	general,shopping,weather

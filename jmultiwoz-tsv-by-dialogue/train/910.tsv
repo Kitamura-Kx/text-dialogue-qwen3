@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+910	0	USER	横浜へ旅行へ行きたいのですが。	general,taxi
+910	1	SYSTEM	はい。何がご希望でしょうか。	general,taxi
+910	2	USER	当日利用できるキャッシュレス払い可能なタクシー会社を探してほしいです。	general,taxi
+910	3	SYSTEM	でしたら、京浜ハイヤー株式会社などはいかがでしょう。	general,taxi
+910	4	USER	そちらはジャンボタクシー対応していますか。また、電話番号も教えて欲しいです。	general,taxi
+910	5	SYSTEM	対応しています。電話番号は0457411896です。	general,taxi
+910	6	USER	そちらで予約して欲しいです。日付は1/3で時間は11:50、出発地は横浜大世界というところで．目的地は横浜・八景島シーパラダイスでおねがいします。	general,taxi
+910	7	SYSTEM	予約完了しました。予約番号は27855になります。	general,taxi
+910	8	USER	ありがとうございました。	general,taxi

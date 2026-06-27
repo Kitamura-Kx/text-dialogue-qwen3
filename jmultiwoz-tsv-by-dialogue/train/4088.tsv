@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4088	0	USER	札幌への旅行を計画中で、リゾートホテルを探しています。無料駐車場付きがいいです。	general,hotel,shopping
+4088	1	SYSTEM	札幌の無料駐車場のあるリゾートホテルは２つありますが、定山渓ビューホテル、こちらをお勧めします。	general,hotel,shopping
+4088	2	USER	そこにしようと思います。チェックイン開始時刻と最寄駅からの所要時間を教えてください。	general,hotel,shopping
+4088	3	SYSTEM	１４時チェックイン開始、札幌駅からタクシーで50分になります。	general,hotel,shopping
+4088	4	USER	ありがとうございます。当日北区で文房具や雑貨を買える場所を探しています。無料駐車場付きがいいです。	general,hotel,shopping
+4088	5	SYSTEM	北区で文房具や雑貨を変える、無料駐車場のある施設は、コーチャンフォー新川通り店、こちらになります。	general,hotel,shopping
+4088	6	USER	そこにしようと思います。定休日と電話番号、最寄駅からの所要時間を教えてください。	general,hotel,shopping
+4088	7	SYSTEM	定休日なし、電話番号0117694000、北24条駅からバスで18分です。	general,hotel,shopping
+4088	8	USER	助かります。ありがとうございました。	general,hotel,shopping

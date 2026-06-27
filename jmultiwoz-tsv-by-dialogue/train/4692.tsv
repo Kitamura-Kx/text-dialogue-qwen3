@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4692	0	USER	那覇へ旅行に行くので、本庁で最寄り駅が安里駅の買い物できるところを教えてください。	general,shopping
+4692	1	SYSTEM	那覇本庁で最寄り駅安里駅の買い物施設はなさそうです。	general,shopping
+4692	2	USER	そうですか。では本庁以外でも構いません	general,shopping
+4692	3	SYSTEM	安里駅の買い物施設ならば、タウンプラザかねひで与儀公園市場、こちら一択です。	general,shopping
+4692	4	USER	そこにします。近辺の駅からの所要時間と住所はわかります？	general,shopping
+4692	5	SYSTEM	住所は沖縄県那覇市寄宮1-8-45、安里駅から徒歩で11分のほか、牧志駅からも徒歩で11分です。	general,shopping
+4692	6	USER	ありがとうございました。	general,shopping

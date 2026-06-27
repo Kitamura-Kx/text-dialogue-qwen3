@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1107	0	USER	仙台の太白区で食事ができるところを探してほしいです。駐車場が無料利用できるところだと嬉しいです。	general,restaurant,hotel,attraction
+1107	1	SYSTEM	申し訳ありません、その条件ではご紹介ができないのですが、いかが致しましょう？	general,restaurant,hotel,attraction
+1107	2	USER	そうですか。では、駐車場はあってもなくても構いませんので、もう一度探してもらえますか？	general,restaurant,hotel,attraction
+1107	3	SYSTEM	ありがとうございます。では、星乃珈琲店 仙台太白店はいかがでしょう？ジャンルはカフェ、スイーツになります。	general,restaurant,hotel,attraction
+1107	4	USER	では、そちらに予約をお願いします。8/29の13:00に4名で。	general,restaurant,hotel,attraction
+1107	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、44742となります。	general,restaurant,hotel,attraction
+1107	6	USER	ありがとうございます。当日泊まれるところも探してもらえますか？予算は普通くらいでレストランが併設されているところがいいです。	general,restaurant,hotel,attraction
+1107	7	SYSTEM	承知しました。では、エリアでいうと若林区にある、アパヴィラホテル<仙台駅五橋>はいかがでしょう？	general,restaurant,hotel,attraction
+1107	8	USER	駐車場が無料で使えるところがいいのですが、そちらはどうですか？	general,restaurant,hotel,attraction
+1107	9	SYSTEM	申し訳ありません。こちらは有料となります。駐車場が無料で、ご紹介可能な宿泊施設はございません。	general,restaurant,hotel,attraction
+1107	10	USER	そうですか。では、レストランはなくてもいいので、予算普通で駐車場が無料のところをもう一度探してもらえますか？	general,restaurant,hotel,attraction
+1107	11	SYSTEM	はい、では、エリアでいうと太白区にある、旅館仙秋はいかがでしょう？タイプは旅館になります。	general,restaurant,hotel,attraction
+1107	12	USER	よさそうですね。当日観光できるところも探してもらえますか。駐車場とWi-Fiが無料で使えるところがいいなと思っています。	general,restaurant,hotel,attraction
+1107	13	SYSTEM	承知しました。エリアでいうと青葉区にある、仙台市文学館はいかがでしょう？	general,restaurant,hotel,attraction
+1107	14	USER	いいですね。そちらの住所を教えてもらえますか？	general,restaurant,hotel,attraction
+1107	15	SYSTEM	はい、住所は宮城県仙台市青葉区北根2-7-1となります。	general,restaurant,hotel,attraction
+1107	16	USER	わかりました。いろいろありがとうございました。	general,restaurant,hotel,attraction

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2971	0	USER	今度名古屋へ行くんですが、Wi-Fiが無料で利用できる西区の観光名所を探してもらえますか？	general,attraction,hotel
+2971	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,hotel
+2971	2	USER	そうですか。じゃあ中村区でも探してもらえますか？	general,attraction,hotel
+2971	3	SYSTEM	ありがとうございます。ミッドランドスクエア 屋外展望台 スカイプロムナードがございます。ジャンルは、展望台、タワー、絶景、となります。	general,attraction,hotel
+2971	4	USER	ありがとうございます。ではそこの近辺の駅からの所要時間と定休日も教えてもらえますか	general,attraction,hotel
+2971	5	SYSTEM	はい、最寄りの名古屋駅から徒歩で7分となります。定休日はございません。	general,attraction,hotel
+2971	6	USER	ありがとうございます。あと、中区で予算安めの宿泊施設を探してもらえますか？	general,attraction,hotel
+2971	7	SYSTEM	承知しました。ホテルアベスト大須観音駅前 羽ノ湯はいかがでしょう？タイプはビジネスホテルとなります。	general,attraction,hotel
+2971	8	USER	ありがとうございます。ではそこのチェックイン開始時刻と最寄り駅も教えてもらえますか？	general,attraction,hotel
+2971	9	SYSTEM	はい、チェックイン開始時刻は15時、最寄りの大須観音駅から徒歩で1分となります。	general,attraction,hotel
+2971	10	USER	ありがとうございます。ではそこの予約をお願いできますか？5/7から２泊で３名です。	general,attraction,hotel
+2971	11	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,attraction,hotel
+2971	12	USER	じゃあ１泊に変更します。	general,attraction,hotel
+2971	13	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、17000となります。	general,attraction,hotel
+2971	14	USER	ありがとうございました。以上で結構です。	general,attraction,hotel
+2971	15	SYSTEM	ありがとうございました。	general,attraction,hotel

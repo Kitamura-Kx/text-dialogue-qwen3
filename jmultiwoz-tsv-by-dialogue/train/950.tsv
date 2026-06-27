@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+950	0	USER	京都に行こうと思っているのですが、買い物できるところを探しています。	general,shopping
+950	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping
+950	2	USER	駐車場を無料で利用できて、食料品が買えるところはありますでしょうか？	general,shopping
+950	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping
+950	4	USER	では、駐車場を無料で利用できる文房具・雑貨のお店はありますか？	general,shopping
+950	5	SYSTEM	では京扇堂はいかがでしょうか。	general,shopping
+950	6	USER	そちらの定休日，近辺の駅からの所要時間，営業時間を教えてもらえますか？	general,shopping
+950	7	SYSTEM	定休日は年末年始でございます。京都駅から徒歩で10分、営業時間9:00～17:00でございます。	general,shopping
+950	8	USER	ありがとうございました。	general,shopping
+950	9	SYSTEM	ほかにご用件はございますか。	general,shopping
+950	10	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping
+950	11	SYSTEM	承知しました。ありがとうございました。	general,shopping

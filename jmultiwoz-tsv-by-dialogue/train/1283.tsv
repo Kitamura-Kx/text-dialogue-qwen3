@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1283	0	USER	仙台に旅行しますが、青葉区で焼肉・ホルモンを食べられるレストランはありますか？	general,restaurant
+1283	1	SYSTEM	はい、ございます。例えば、ときわ亭 上杉店というお店はいかがでしょうか？	general,restaurant
+1283	2	USER	そちらは駐車場はありますか。	general,restaurant
+1283	3	SYSTEM	はい、無料でご利用いただけます。	general,restaurant
+1283	4	USER	わかりました。値段はどのくらいですか？	general,restaurant
+1283	5	SYSTEM	お値段帯は、お安めでございます。詳しい料金としましては、ホルモン食べ飲み放題コース:3200円、塩ホルモン大盛:880円、赤盛りミックスホルモン:680円といったものがございます。	general,restaurant
+1283	6	USER	ありがとうございます。4名で予約をお願いします。9/9の10:40です。	general,restaurant
+1283	7	SYSTEM	ご予約ありがとうございます。予約を完了いたしました。予約番号は、34070です。	general,restaurant
+1283	8	USER	ありがとうございました。	general,restaurant

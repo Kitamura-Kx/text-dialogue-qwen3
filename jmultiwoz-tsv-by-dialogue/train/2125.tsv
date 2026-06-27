@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2125	0	USER	大阪へ行こうと思っています。阿倍野区にあって駐車場が無料で利用できる買い物施設を探していただきたいです。	general,shopping,restaurant,weather
+2125	1	SYSTEM	申し訳ございません。その条件では店舗をお探しすることが出来ませんでした。	general,shopping,restaurant,weather
+2125	2	USER	では地区は考慮せず同条件で探していただけますか？	general,shopping,restaurant,weather
+2125	3	SYSTEM	かしこまりました。では、ダイエー マルナカ住之江店はいかがでしょうか？	general,shopping,restaurant,weather
+2125	4	USER	そちらの営業時間、定休日を教えていただけますでしょうか。	general,shopping,restaurant,weather
+2125	5	SYSTEM	はい、営業時間は9時から0時まで。定休日はございません。	general,shopping,restaurant,weather
+2125	6	USER	わかりました。ありがとうございます。	general,shopping,restaurant,weather
+2125	7	SYSTEM	ありがとうございます。その他に何かお手伝いできることはございますか？	general,shopping,restaurant,weather
+2125	8	USER	予算が安めでお好み焼きかたこ焼きが食べられる飲食店を探していただきたいです。	general,shopping,restaurant,weather
+2125	9	SYSTEM	かしこまりました。その条件ですと、花まる亭 淀屋橋店はいかがでしょうか？	general,shopping,restaurant,weather
+2125	10	USER	そちらの営業時間を教えていただけますでしょうか。	general,shopping,restaurant,weather
+2125	11	SYSTEM	はい、こちらは11時から14時と、17時から0時までとなっております。	general,shopping,restaurant,weather
+2125	12	USER	では、1月27日13時20分から3人で予約をお願いします。	general,shopping,restaurant,weather
+2125	13	SYSTEM	お待たせ致しました。それでは予約番号56717でお取りさせていただきました。	general,shopping,restaurant,weather
+2125	14	USER	わかりました。ありがとうございます。	general,shopping,restaurant,weather
+2125	15	SYSTEM	ありがとうございました。	general,shopping,restaurant,weather
+2125	16	USER	追加で、1月27日西成区の天気、最低気温を教えていただけますでしょうか。	general,shopping,restaurant,weather
+2125	17	SYSTEM	かしこまりました。当日の天気は晴時々雨、最低気温は4.3度の予報となっております。	general,shopping,restaurant,weather
+2125	18	USER	わかりました。ありがとうございます。	general,shopping,restaurant,weather
+2125	19	SYSTEM	その他に御用件はございますか？	general,shopping,restaurant,weather
+2125	20	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping,restaurant,weather

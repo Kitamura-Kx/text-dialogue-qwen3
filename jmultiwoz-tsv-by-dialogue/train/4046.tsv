@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4046	0	USER	東京への旅行を計画しています。　 当日泊まる宿泊施設を探してほしいです。	general,hotel
+4046	1	SYSTEM	お待たせ致しました。東京の宿泊施設ですと100件ほどありますが、何か条件はございますか？	general,hotel
+4046	2	USER	レストランが併設されていて、予算は高め、駐車場を無料で利用できるところが希望です。	general,hotel
+4046	3	SYSTEM	かしこまりました。それでは、The Okura Tokyoがございます。	general,hotel
+4046	4	USER	いいですね。ェックアウト終了時刻，エリアを教えてください。	general,hotel
+4046	5	SYSTEM	はい、チェックアウト終了時刻は12時でして、エリアは港区でございます。	general,hotel
+4046	6	USER	解決しました。ありがとうございました。	general,hotel

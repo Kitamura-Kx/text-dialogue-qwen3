@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4128	0	USER	那覇に旅行に行こうと思っているのですが安里駅の近くで駐車場を無料で来て買い物ができる場所はありますか	general,shopping,weather
+4128	1	SYSTEM	かしこまりました。タウンプラザかねひで与儀公園市場がございます。	general,shopping,weather
+4128	2	USER	定休日と近辺の駅からの所要時間を教えてください	general,shopping,weather
+4128	3	SYSTEM	定休日はございません。安里駅から徒歩で11分、牧志駅から徒歩で11分でございます。	general,shopping,weather
+4128	4	USER	ありがとうございます、11月28日の本庁の最高気温を教えてください	general,shopping,weather
+4128	5	SYSTEM	はい。当日の最高気温は29.3度でございます。	general,shopping,weather
+4128	6	USER		general,shopping,weather

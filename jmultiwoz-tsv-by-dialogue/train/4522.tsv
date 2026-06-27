@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4522	0	USER	旅行で福岡に行きたいんですけど、その時に利用する飲食店を探してもらえませんか？	general,restaurant
+4522	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+4522	2	USER	そうですね、博多区で予算は安めが良いですね。	general,restaurant
+4522	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant
+4522	4	USER	それなら予算は問いません。	general,restaurant
+4522	5	SYSTEM	ではGARB LEAVESはいかがでしょうか。	general,restaurant
+4522	6	USER	いいですね、ありがとうございます。	general,restaurant
+4522	7	SYSTEM	ほかにご用件はございませんか。	general,restaurant
+4522	8	USER	はい、他は大丈夫です、ありがとうございました。	general,restaurant
+4522	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

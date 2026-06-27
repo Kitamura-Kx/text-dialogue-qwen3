@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4947	0	USER	こんにちは、那覇に旅行したいと思っていますが、最寄り駅が安里駅で駐車場無料の買い物できる場所を教えてください。	general,shopping,weather
+4947	1	SYSTEM	こんにちは！ タウンプラザかねひで与儀公園市場がご紹介できます。	general,shopping,weather
+4947	2	USER	その店に行ってみたいです。住所とエリアを教えてくれますか？	general,shopping,weather
+4947	3	SYSTEM	住所は沖縄県那覇市寄宮1-8-45、エリアは真和志になります。	general,shopping,weather
+4947	4	USER	ありがとうございます。小禄の1月1日の天気、できれば最低気温と最高気温を教えてくれますか？	general,shopping,weather
+4947	5	SYSTEM	天気は晴れ、最低気温は16.7度、最高気温は21.8度です。	general,shopping,weather
+4947	6	USER	いい天気になりそうですね。ご対応ありがとうございました！	general,shopping,weather

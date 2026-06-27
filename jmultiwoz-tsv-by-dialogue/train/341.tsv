@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+341	0	USER	札幌での観光名所を探しています。	general,attraction,hotel
+341	1	SYSTEM	札幌の観光名所ですね。48件ほどご案内可能です。ご希望のジャンルやエリアなどはございませんか？	general,attraction,hotel
+341	2	USER	WiFiと駐車場が無料で利用できるところがいいです。	general,attraction,hotel
+341	3	SYSTEM	では、さっぽろ羊ヶ丘展望台はいかがでしょうか？	general,attraction,hotel
+341	4	USER	定休日はいつですか？	general,attraction,hotel
+341	5	SYSTEM	こちら、定休日はございません。	general,attraction,hotel
+341	6	USER	ありがとうございます。そこに行ってみようと思います。あと、当日泊まるところを探しています。駐車場が無料で利用できて、レストランが併設されているところがいいです。	general,attraction,hotel
+341	7	SYSTEM	大変申し訳ございません。その条件の場合、ご案内できるところが見つかりませんでした。	general,attraction,hotel
+341	8	USER	では、駐車場はなくてもいいです。	general,attraction,hotel
+341	9	SYSTEM	ありがとうございます。では、札幌グランドホテルはいかがでしょうか？	general,attraction,hotel
+341	10	USER	いいですね。エリアと最寄り駅を教えてください。	general,attraction,hotel
+341	11	SYSTEM	エリアは中央区にございます。最寄り駅は札幌駅で、徒歩10分でアクセスできます。	general,attraction,hotel
+341	12	USER	ありがとうございます。では、予約したいのですが、２月１３日で２人２泊でおねがいします。	general,attraction,hotel
+341	13	SYSTEM	かしこまりました。予約番号1093にて、ご予約承りました。	general,attraction,hotel
+341	14	USER	ありがとうございました。以上です。お世話になりました。	general,attraction,hotel
+341	15	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,attraction,hotel

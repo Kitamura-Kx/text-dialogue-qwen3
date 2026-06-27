@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2831	0	USER	横浜へ行くのですが本郷台駅の近くの飲食店を探しています。	general,restaurant
+2831	1	SYSTEM	それでしたら、タイ料理トムヤムくん、というお店がございますが、いかがでしょうか？	general,restaurant
+2831	2	USER	和食がいいのですが、ありませんか？	general,restaurant
+2831	3	SYSTEM	申し訳ございません。和食ですと、該当するところがございませんでした。	general,restaurant
+2831	4	USER	ではタイ料理トムヤムくんのエリアはどこになるのかと定休日を教えてください。	general,restaurant
+2831	5	SYSTEM	エリアは、栄区でございます。こちらは、月曜日が定休日です。	general,restaurant
+2831	6	USER	Wi-Fiはありますか？	general,restaurant
+2831	7	SYSTEM	申し訳ございません。WiFiのご提供は不明となっております。	general,restaurant
+2831	8	USER	わかりました。	general,restaurant
+2831	9	SYSTEM	他にお知りになりたい情報はございませんか？	general,restaurant
+2831	10	USER	特にないです。ありがとうございました。	general,restaurant
+2831	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

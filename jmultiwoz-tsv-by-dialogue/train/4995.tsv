@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4995	0	USER	こんにちは。仙台をタクシーで観光したいです。キャッシュレスで支払いできるタクシー会社はありますか？	general,taxi
+4995	1	SYSTEM	（株）フタバタクシーなど、15件見つかりました。	general,taxi
+4995	2	USER	ではそちらで予約をお願いしたいです。日付は12/9で、時間は10:00です。出発地はドーミーインEXPRESS仙台広瀬通で、青葉城本丸会館まで行ってほしいです。	general,taxi
+4995	3	SYSTEM	予約が完了しました。予約番号は559です。	general,taxi
+4995	4	USER	ありがとうございます。	general,taxi
+4995	5	SYSTEM	他に何かお調べすることはございますか？	general,taxi
+4995	6	USER	もうありません、ありがとうございました。	general,taxi

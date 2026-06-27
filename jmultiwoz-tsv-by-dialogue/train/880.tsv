@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+880	0	USER	大阪への旅行を計画しているのですが、当日買い物が出来るところを探しています。此花区で駐車場が無料で使えるところがいいです。	general,shopping,weather
+880	1	SYSTEM	かしこまりました。そうしますと、GoodBBQ舞洲 オーチャードグラスという食料品のお店はいかがでしょうか？	general,shopping,weather
+880	2	USER	ありがとうございます。そこにしようと思います。住所と電話番号を教えていただきたいです。	general,shopping,weather
+880	3	SYSTEM	住所は、大阪府大阪市此花区北港緑地2丁目1-107です。電話番号は、0664601646でございます。	general,shopping,weather
+880	4	USER	ありがとうございます。当日の天候も調べたいです。12/9の東淀川区です。	general,shopping,weather
+880	5	SYSTEM	かしこまりました。当日の天気は、晴れ時々曇りの予報です。最低気温は1度、最高気温は11.2度の予報となっております。	general,shopping,weather
+880	6	USER	ありがとうございます。	general,shopping,weather
+880	7	SYSTEM	他になにかお調べすることはございますか？	general,shopping,weather
+880	8	USER	いえ、他にはありません。ありがとうございました。	general,shopping,weather

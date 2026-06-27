@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4116	0	USER	横浜に旅行に行きたいです、中区にある観光名所の植物園はありませんか	general,attraction,shopping,restaurant
+4116	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,shopping,restaurant
+4116	2	USER	では植物園以外の中区の観光名所を教えてください	general,attraction,shopping,restaurant
+4116	3	SYSTEM	では横浜ブリキのおもちゃ博物館がございます。	general,attraction,shopping,restaurant
+4116	4	USER	駐車場はありますか	general,attraction,shopping,restaurant
+4116	5	SYSTEM	無料でご利用いただけます。	general,attraction,shopping,restaurant
+4116	6	USER	近くに駅はありますか	general,attraction,shopping,restaurant
+4116	7	SYSTEM	最寄り駅は元町・中華街駅でございます。	general,attraction,shopping,restaurant
+4116	8	USER	駅からどのくらいかかりますか	general,attraction,shopping,restaurant
+4116	9	SYSTEM	石川町駅から徒歩で15分、元町・中華街駅から徒歩で5分でございます。	general,attraction,shopping,restaurant
+4116	10	USER	横浜ブリキのおもちゃ博物館の電話番号を教えてください	general,attraction,shopping,restaurant
+4116	11	SYSTEM	電話番号は0456218710でございます。	general,attraction,shopping,restaurant
+4116	12	USER	ありがとうございます、西区で医薬品や化粧品を買うことができるお店はありますか	general,attraction,shopping,restaurant
+4116	13	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,attraction,shopping,restaurant
+4116	14	USER	では旅行用品を扱っているお店はありますか	general,attraction,shopping,restaurant
+4116	15	SYSTEM	では東急ハンズ 横浜店はいかがでしょうか。	general,attraction,shopping,restaurant
+4116	16	USER	最寄り駅はどの駅でしょうか	general,attraction,shopping,restaurant
+4116	17	SYSTEM	最寄り駅は横浜駅でございます。	general,attraction,shopping,restaurant
+4116	18	USER	ありがとうございます、wifiが無料でつかえる安めの居酒屋はありますか	general,attraction,shopping,restaurant
+4116	19	SYSTEM	では世界のビール博物館 横浜店はいかがでしょうか。	general,attraction,shopping,restaurant
+4116	20	USER	営業時間を教えてください	general,attraction,shopping,restaurant
+4116	21	SYSTEM	営業時間は11:00～23:00でございます。	general,attraction,shopping,restaurant
+4116	22	USER	では12月22日に12時40分で2人予約お願いします	general,attraction,shopping,restaurant
+4116	23	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は63047でございます。	general,attraction,shopping,restaurant
+4116	24	USER		general,attraction,shopping,restaurant

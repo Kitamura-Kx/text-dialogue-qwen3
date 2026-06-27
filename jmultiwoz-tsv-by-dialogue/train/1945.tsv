@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1945	0	USER	那覇への旅行を計画中なのですが、無料WiFiが利用できる宿泊施設を教えて下さい。	general,hotel
+1945	1	SYSTEM	それでは、アパホテル〈那覇〉はいかがでしょうか？	general,hotel
+1945	2	USER	アパホテル〈那覇〉の住所と電話番号をお願いします。	general,hotel
+1945	3	SYSTEM	はい、住所は沖縄県那覇市松山1丁目4-16、電話番号は0988689111でございます。	general,hotel
+1945	4	USER	「アパホテル〈那覇〉」で宿泊予約をお願いします。8/15から4泊、3人での利用です。	general,hotel
+1945	5	SYSTEM	申し訳ございません。その条件ですとご予約が出来ませんでした。	general,hotel
+1945	6	USER	それでは、2名でお願いします	general,hotel
+1945	7	SYSTEM	お待たせ致しました。それでは予約番号9859で承らせていただきました。	general,hotel
+1945	8	USER	他は大丈夫です、ありがとうございました。	general,hotel
+1945	9	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

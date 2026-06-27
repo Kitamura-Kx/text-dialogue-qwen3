@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+942	0	USER	今度東京へ行くのですが、どこか観光できるところを探しています。	general,attraction
+942	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction
+942	2	USER	品川区で探しています。	general,attraction
+942	3	SYSTEM	ではしながわ水族館はいかがでしょうか。	general,attraction
+942	4	USER	大人の入場料はいくらでしょうか？	general,attraction
+942	5	SYSTEM	大人の入場料は1350円でございます。	general,attraction
+942	6	USER	ありがとうございます。以上です。	general,attraction
+942	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

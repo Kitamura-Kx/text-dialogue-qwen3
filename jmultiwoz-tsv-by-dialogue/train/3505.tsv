@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3505	0	USER	横浜へ行くのですが、簡易宿所を探しています。	general,hotel
+3505	1	SYSTEM	かしこまりました。それではHostel Zenはいかがでしょうか？	general,hotel
+3505	2	USER	Wi-Fiが無料のところがいいのですが	general,hotel
+3505	3	SYSTEM	その条件ではお探しすることが出来ませんでした。	general,hotel
+3505	4	USER	では簡易宿所でなくても普通の宿泊施設でいいです。	general,hotel
+3505	5	SYSTEM	かしこまりました。それではニューオータニイン横浜プレミアムはいかがでしょうか？	general,hotel
+3505	6	USER	いいですね。料金情報を教えてください。	general,hotel
+3505	7	SYSTEM	値段帯は安めですが、料金情報は分かりません。	general,hotel
+3505	8	USER	近辺の駅からの所要時間と住所はわかりますか？	general,hotel
+3505	9	SYSTEM	はい、桜木町駅から徒歩で1分、桜木町駅から徒歩で2分、みなとみらい駅から徒歩で7分でございまして、住所は神奈川県横浜市中区桜木町1丁目1-7です。	general,hotel
+3505	10	USER	よくわかりました。ありがとうございました。	general,hotel
+3505	11	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

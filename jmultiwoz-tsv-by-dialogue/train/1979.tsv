@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1979	0	USER	那覇のショッピングモールを探しています。	general,shopping,taxi
+1979	1	SYSTEM	那覇のショッピングモールですね。そうしますと、2件ご案内可能です。例えば、サンエー那覇メインプレイスというところは、いかがでしょうか？	general,shopping,taxi
+1979	2	USER	地区が本庁で駐車場が無料なところが良いのですが…	general,shopping,taxi
+1979	3	SYSTEM	はい、こちらは本庁エリアにございまして、最寄り駅は、おもろまち駅となっております。駐車場も無料でついております。また、もう1件ののうれんプラザも、同様で2件ともご案内可能です。	general,shopping,taxi
+1979	4	USER	良かったです。最初に教えて頂いたところにしようと思います。	general,shopping,taxi
+1979	5	SYSTEM	ありがとうございます。では、サンエー那覇メインプレイスのどういった情報をご案内いたしましょうか？	general,shopping,taxi
+1979	6	USER	そこに行くためのジャンボタクシーを探しています。	general,shopping,taxi
+1979	7	SYSTEM	かしこまりました。では、沖縄交通はいかがでしょうか？こちらでしたら、キャッシュレスのお支払いも可能ですよ。	general,shopping,taxi
+1979	8	USER	そこにします。電話番号も教えてください。	general,shopping,taxi
+1979	9	SYSTEM	はい。電話番号は、0120170978でございます。	general,shopping,taxi
+1979	10	USER	2/23の10：40にRYUKA HOTEL NAHAから予約したいです。	general,shopping,taxi
+1979	11	SYSTEM	承知いたしました。到着地のほうは、お決まりでしょうか？	general,shopping,taxi
+1979	12	USER	さきほどのサンエー那覇メインプレイスまでお願いします。	general,shopping,taxi
+1979	13	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、53714です。	general,shopping,taxi
+1979	14	USER	ありがとうございます。	general,shopping,taxi
+1979	15	SYSTEM	他にお調べすることはございますか？	general,shopping,taxi
+1979	16	USER	いいえ大丈夫です。ありがとうございました。	general,shopping,taxi
+1979	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,taxi

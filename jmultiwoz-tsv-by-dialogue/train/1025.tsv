@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1025	0	USER	名古屋に行くんですが、無料Wi-Fiが利用できる予算安めのレストランが併設されている宿泊施設を探しています。	general,hotel,restaurant
+1025	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,hotel,restaurant
+1025	2	USER	他には特にないです。	general,hotel,restaurant
+1025	3	SYSTEM	ではホテルアクテル名古屋錦はいかがでしょうか。	general,hotel,restaurant
+1025	4	USER	そちらの最寄り駅はどこになりますか？	general,hotel,restaurant
+1025	5	SYSTEM	最寄り駅は栄駅でございます。	general,hotel,restaurant
+1025	6	USER	エリアでいうとどこになるんでしょうか？	general,hotel,restaurant
+1025	7	SYSTEM	エリアは中区でございます。	general,hotel,restaurant
+1025	8	USER	駐車場はありますか？	general,hotel,restaurant
+1025	9	SYSTEM	有料ですがございます。	general,hotel,restaurant
+1025	10	USER	ではそこで予約をお願いします。９月２７日から３泊で、人数は４人です。	general,hotel,restaurant
+1025	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は52753でございます。	general,hotel,restaurant
+1025	12	USER	ありがとうございます。当日食事ができる飲食店も探してほしいです。	general,hotel,restaurant
+1025	13	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,restaurant
+1025	14	USER	中村区にある無料駐車場が利用できるところがいいです。予算は普通で。	general,hotel,restaurant
+1025	15	SYSTEM	ではサラベス 名古屋店はいかがでしょうか。	general,hotel,restaurant
+1025	16	USER	そこのお店はジャンルは何になりますか？	general,hotel,restaurant
+1025	17	SYSTEM	カフェ・スイーツ, 洋食・西洋料理でございます。	general,hotel,restaurant
+1025	18	USER	ありがとうございます。ではそこで予約お願いします。９月２７日の12:30に２人でお願いします。	general,hotel,restaurant
+1025	19	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は71219でございます。	general,hotel,restaurant
+1025	20	USER	ありがとうございました。これで大丈夫です。	general,hotel,restaurant
+1025	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant

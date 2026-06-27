@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3586	0	USER	福岡に行こうかなと思ってて、駐車場が無料で使えて、予算が普通な飲食店はありますか？	general,restaurant
+3586	1	SYSTEM	かしこまりました。では、レカイエ オイスターバー JR博多シティ店はいかがでしょうか。	general,restaurant
+3586	2	USER	いいですね。ではそのお店の近辺の駅からの所要時間を教えてもらえますか？	general,restaurant
+3586	3	SYSTEM	博多駅から徒歩で1分でございます。	general,restaurant
+3586	4	USER	ありがとうございます。	general,restaurant
+3586	5	SYSTEM	ほかにご用件はございませんか。	general,restaurant
+3586	6	USER	いえ、大丈夫です。ありがとうございました。	general,restaurant
+3586	7	SYSTEM	承知しました。ありがとうございました。	general,restaurant

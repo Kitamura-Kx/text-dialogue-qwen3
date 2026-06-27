@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+433	0	USER	大阪へ行こうと思っています。9月26日の福島区の天候を調べていただきたいです。	general,weather,taxi
+433	1	SYSTEM	かしこまりました。天気は曇時々晴、最低気温が25.9度、最高気温が34.2度でございます。	general,weather,taxi
+433	2	USER	わかりました。ありがとうございます。	general,weather,taxi
+433	3	SYSTEM	ほかにご用件はございませんか。	general,weather,taxi
+433	4	USER	ジャンボタクシーが利用できてキャッシュレス払いができるタクシー会社を探していただきたいです。	general,weather,taxi
+433	5	SYSTEM	大宝タクシー株式会社がございます。	general,weather,taxi
+433	6	USER	電話番号を教えていただけますか？	general,weather,taxi
+433	7	SYSTEM	電話番号は0647020011でございます。	general,weather,taxi
+433	8	USER	では、9月26日13時50分に三井ガーデンホテル大阪プレミアからユニバーサル・スタジオ・ジャパン(USJ)までの予約をお願いします。	general,weather,taxi
+433	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は87198でございます。	general,weather,taxi
+433	10	USER	わかりました。ありがとうございます。	general,weather,taxi
+433	11	SYSTEM	ほかにご用件はございませんか。	general,weather,taxi
+433	12	USER	いいえ、大丈夫です。ありがとうございました。	general,weather,taxi

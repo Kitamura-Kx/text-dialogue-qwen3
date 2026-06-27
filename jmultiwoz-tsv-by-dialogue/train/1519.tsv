@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1519	0	USER	横浜旅行で当日食事ができる飲食店を探して頂けますか？	general,restaurant,hotel,attraction
+1519	1	SYSTEM	承知致しました。何かご希望はございますか？	general,restaurant,hotel,attraction
+1519	2	USER	予算は普通でWi-Fiが無料で利用できるところがいいです。西区でお願いします。	general,restaurant,hotel,attraction
+1519	3	SYSTEM	ありがとうございます。では、NICK STOCK 横浜ポルタ店はいかがでしょう？何かご案内致しましょうか？	general,restaurant,hotel,attraction
+1519	4	USER	ではそちらでお願いします。住所も教えていただけますでしょうか。	general,restaurant,hotel,attraction
+1519	5	SYSTEM	はい、住所は神奈川県横浜市西区高島2丁目2-16 横浜ポルタ B1階となります。ご予約はいかがされますか？	general,restaurant,hotel,attraction
+1519	6	USER	ありがとうございます。予約は大丈夫です。当日泊まる予算が普通くらいの宿泊施設も探して頂けないでしょうか。	general,restaurant,hotel,attraction
+1519	7	SYSTEM	承知しました。エリアでいうと中区にある、横浜みなとみらい 万葉倶楽部はいかがでしょう？	general,restaurant,hotel,attraction
+1519	8	USER	そちらの料金情報を教えていただけますでしょうか。	general,restaurant,hotel,attraction
+1519	9	SYSTEM	はい、料金情報としては、値段帯が普通、Wi-Fiは無料でご利用いただけて、駐車場のご利用は有料、ということしか情報がございません。他にご案内できることはございますか？	general,restaurant,hotel,attraction
+1519	10	USER	ありがとうございます。予約もお願いします。4人で3/14から3泊を希望しているのですが、空いていますか？	general,restaurant,hotel,attraction
+1519	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、38833となります。他にご用件はございますか？	general,restaurant,hotel,attraction
+1519	12	USER	当日訪れる観光名所も教えていただけますでしょうか。アートギャラリーでWi-Fiが無料で利用できる場所はありますか？	general,restaurant,hotel,attraction
+1519	13	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,restaurant,hotel,attraction
+1519	14	USER	でしたら、ジャンルは特にこだわりません。	general,restaurant,hotel,attraction
+1519	15	SYSTEM	ありがとうございます。エリアでいうと中区にある、横浜赤レンガ倉庫はいかがでしょう？	general,restaurant,hotel,attraction
+1519	16	USER	ではそちらに伺いたいと思います。定休日と駐車場の有無、あと住所を教えていただけますでしょうか。	general,restaurant,hotel,attraction
+1519	17	SYSTEM	はい、住所は神奈川県横浜市中区新港1丁目1、駐車場は有料ですがございます。定休日はございません。他にご案内できることはございますか？	general,restaurant,hotel,attraction
+1519	18	USER	大丈夫です。ありがとうございました。	general,restaurant,hotel,attraction

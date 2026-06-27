@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3573	0	USER	今度東京へ行くんですが、無料駐車場がある旅館で、Wi-Fi無料のところはありますか？	general,hotel,attraction,weather
+3573	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,attraction,weather
+3573	2	USER	そうですか、じゃあ駐車場は有料でもいいです。	general,hotel,attraction,weather
+3573	3	SYSTEM	では行燈旅館がございます。	general,hotel,attraction,weather
+3573	4	USER	ありがとうございます。そこはレストランは併設されてますか？	general,hotel,attraction,weather
+3573	5	SYSTEM	はい。レストランも併設されております。	general,hotel,attraction,weather
+3573	6	USER	わかりました。では予約をお願いできますか？4/1から４泊で２名です。	general,hotel,attraction,weather
+3573	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は3162でございます。	general,hotel,attraction,weather
+3573	8	USER	ありがとうございます。あと、アートギャラリーに行きたいのですが、中央区にありますか？	general,hotel,attraction,weather
+3573	9	SYSTEM	はい。日本橋三井ホールがございます。	general,hotel,attraction,weather
+3573	10	USER	そこの大人の入場料はいくらですか？	general,hotel,attraction,weather
+3573	11	SYSTEM	大人の入場料は不明でございます。	general,hotel,attraction,weather
+3573	12	USER	わかりました。あと、4/1の港区の天気と最高気温も教えてもらえますか？	general,hotel,attraction,weather
+3573	13	SYSTEM	天気は晴時々曇、最高気温が19.9度でございます。	general,hotel,attraction,weather
+3573	14	USER	ありがとうございました。以上で結構です。	general,hotel,attraction,weather
+3573	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction,weather

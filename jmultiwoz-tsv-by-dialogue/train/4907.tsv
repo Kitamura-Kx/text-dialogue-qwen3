@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4907	0	USER	大阪への旅行を計画中のため、買い物をするのに天王寺駅のところで駐車場が無料で利用できるお店を探してもらえますか？	general,shopping,restaurant,attraction
+4907	1	SYSTEM	承知しました。天王寺MIOはいかがでしょうか？	general,shopping,restaurant,attraction
+4907	2	USER	エリアと近辺の駅からの所要時間を教えてください。	general,shopping,restaurant,attraction
+4907	3	SYSTEM	エリアは天王寺区です。近辺の駅からの所要時間は天王寺駅から徒歩で1分です。	general,shopping,restaurant,attraction
+4907	4	USER	あと定休日も調べてもらえますか？	general,shopping,restaurant,attraction
+4907	5	SYSTEM	定休日は不定休です。	general,shopping,restaurant,attraction
+4907	6	USER	ありがとうございます。あと北区でWi-Fiが無料で利用できる中華料理のお店を探してほしいです。	general,shopping,restaurant,attraction
+4907	7	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,shopping,restaurant,attraction
+4907	8	USER	では中華料理以外でいいので、北区でWi-Fiが無料で利用できる飲食店でどこかいいところはありますか？	general,shopping,restaurant,attraction
+4907	9	SYSTEM	炭火焼dining おかげ家 梅田店はいかがでしょうか？	general,shopping,restaurant,attraction
+4907	10	USER	そこにしようと思います。2/5 16:10に3人で予約をお願いします。	general,shopping,restaurant,attraction
+4907	11	SYSTEM	予約が完了しました。予約番号は71141です。	general,shopping,restaurant,attraction
+4907	12	USER	ありがとうございます。あと浪速区の最寄り駅がなんば駅のところでWi-Fiが無料で利用できる観光名所を探してほしいです。	general,shopping,restaurant,attraction
+4907	13	SYSTEM	承知しました。なんばパークスはいかがでしょうか？	general,shopping,restaurant,attraction
+4907	14	USER	そこにしようと思います。営業時間と駐車場の有無を教えてください。	general,shopping,restaurant,attraction
+4907	15	SYSTEM	営業時間は11:00～21:00です。駐車場の有無は有り(有料)です。	general,shopping,restaurant,attraction
+4907	16	USER	ありがとうございます。	general,shopping,restaurant,attraction
+4907	17	SYSTEM	他にご用件はありますか？	general,shopping,restaurant,attraction
+4907	18	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,restaurant,attraction

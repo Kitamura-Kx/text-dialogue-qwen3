@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+780	0	USER	仙台へ行こうと思っています。駐車場とWiFiが無料で利用できる観光名所を探していただきたいです。	general,attraction,shopping,weather
+780	1	SYSTEM	かしこまりました。2件ほど、ご案内可能です。たとえば、仙台市文学館はいかがでしょうか？	general,attraction,shopping,weather
+780	2	USER	そちらのジャンル、料金、定休日を教えていただけますでしょうか。	general,attraction,shopping,weather
+780	3	SYSTEM	ジャンルは、美術館・博物館, アートギャラリー, 教室・ワークショップ・体験、となっております。料金は、一般460円、高校生230円、小中学生110円です。定休日は、月曜日と1月から11月の第四木曜日、12/28～1/4です。	general,attraction,shopping,weather
+780	4	USER	わかりました。ありがとうございます。	general,attraction,shopping,weather
+780	5	SYSTEM	ほかにご用件はございませんか？	general,attraction,shopping,weather
+780	6	USER	青葉区にあって駐車場が無料で利用できる買い物施設を探していただきたいです。	general,attraction,shopping,weather
+780	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,attraction,shopping,weather
+780	8	USER	では地区を宮城野区に変更して探していただけますか？	general,attraction,shopping,weather
+780	9	SYSTEM	ありがとうございます。そうしますと、6件ご案内可能です。例えば、三井アウトレットパーク 仙台港は、いかがでしょうか？	general,attraction,shopping,weather
+780	10	USER	そちらの住所、定休日を教えていただけますでしょうか。	general,attraction,shopping,weather
+780	11	SYSTEM	住所は、宮城県仙台市宮城野区中野3丁目7-2です。定休日は、不定休となっております。	general,attraction,shopping,weather
+780	12	USER	わかりました。ありがとうございます。	general,attraction,shopping,weather
+780	13	SYSTEM	他にお調べすることはございますか？	general,attraction,shopping,weather
+780	14	USER	4月18日青葉区の天候を調べていただきたいです。	general,attraction,shopping,weather
+780	15	SYSTEM	かしこまりました。4/18の青葉区の天気は、雨時々晴れの予報です。最低気温は8.8度、最高気温は10.3度になる予想となっております。	general,attraction,shopping,weather
+780	16	USER	わかりました。ありがとうございます。	general,attraction,shopping,weather
+780	17	SYSTEM	ほかにお手伝いできることはございませんか？	general,attraction,shopping,weather
+780	18	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,shopping,weather

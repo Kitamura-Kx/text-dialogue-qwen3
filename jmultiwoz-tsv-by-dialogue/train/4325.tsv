@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4325	0	USER	京都での観光名所を教えてください。wifiと駐車場が無料で使えるところを希望します。	general,attraction,restaurant
+4325	1	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction,restaurant
+4325	2	USER	では、駐車場については問いませんので、どこかおすすめを教えてください。	general,attraction,restaurant
+4325	3	SYSTEM	かしこまりました。では、国立京都国際会館がいいと思います。	general,attraction,restaurant
+4325	4	USER	そこの営業時間はわかりますか？	general,attraction,restaurant
+4325	5	SYSTEM	はい。営業時間は09:00～22:00となります。	general,attraction,restaurant
+4325	6	USER	大人の入場料はおいくらでしょう？	general,attraction,restaurant
+4325	7	SYSTEM	申し訳ございません。不明となっております。	general,attraction,restaurant
+4325	8	USER	わかりました。それと、食事ができるところも探しているのですが、和食のお店で駐車場が無料で使えるところはありますか？	general,attraction,restaurant
+4325	9	SYSTEM	それでしたら、加賀屋 京都店がおすすめです。	general,attraction,restaurant
+4325	10	USER	そちらは、定休日はありますか？	general,attraction,restaurant
+4325	11	SYSTEM	いえ、定休日は無しとなっております。	general,attraction,restaurant
+4325	12	USER	最寄りの駅は何駅でしょう？	general,attraction,restaurant
+4325	13	SYSTEM	はい。最寄りは京都駅です。	general,attraction,restaurant
+4325	14	USER	わかりました。では予約をお願いします。7月5日の１４時で、２人でお願いします。	general,attraction,restaurant
+4325	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、93004です。	general,attraction,restaurant
+4325	16	USER	ありがとうございました。では、失礼します。	general,attraction,restaurant
+4325	17	SYSTEM	承知しました。こちらこそありがとうございました。	general,attraction,restaurant

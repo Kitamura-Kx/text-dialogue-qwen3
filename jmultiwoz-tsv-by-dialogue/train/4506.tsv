@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4506	0	USER	大阪へ旅行予定なので、レストランがあって無料駐車場のある宿泊施設を探してほしいです。	general,hotel,attraction
+4506	1	SYSTEM	大阪には、レストラン併設で無料駐車場のある宿泊施設は２件ありますが、ビジネス旅館 励明園をお勧めします。	general,hotel,attraction
+4506	2	USER	そこにしようかな。エリアと住所を教えてください。	general,hotel,attraction
+4506	3	SYSTEM	エリアは港区です。住所は大阪府大阪市港区築港4丁目2-10です。	general,hotel,attraction
+4506	4	USER	わかりました。あと予約お願いします。3人で4/6から2泊です。	general,hotel,attraction
+4506	5	SYSTEM	予約成功しました。予約番号は64745です。	general,hotel,attraction
+4506	6	USER	ありがとうございます。あと、東住吉区でWi-Fiが無料で使える観光名所を探してください。	general,hotel,attraction
+4506	7	SYSTEM	大阪東住吉でWiFi無料の観光名所は、長居植物園です。	general,hotel,attraction
+4506	8	USER	そこの近辺の駅からの所要時間とジャンルも聞きたいです。	general,hotel,attraction
+4506	9	SYSTEM	ジャンルは植物園、長居駅から徒歩で11分のほか、鶴ヶ丘駅から徒歩で15分です。	general,hotel,attraction
+4506	10	USER	ありがとうございました。	general,hotel,attraction
+4506	11	SYSTEM	よい旅を。	general,hotel,attraction

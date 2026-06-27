@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3070	0	USER	今度、那覇の県庁前駅近くでお土産を買いたいのですが、良い所はありますか？	general,shopping
+3070	1	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,shopping
+3070	2	USER	そうですか。では、お土産じゃなくても、買い物できれば大丈夫です。	general,shopping
+3070	3	SYSTEM	それでは、星砂ガラス工房 DEARRYUQはいかがですか？	general,shopping
+3070	4	USER	なるほど、良さそうですね。そちらのエリアと電話番号を教えて下さい。	general,shopping
+3070	5	SYSTEM	エリアは本庁です。また、電話番号は0988678850になります。	general,shopping
+3070	6	USER	ありがとうございました。助かりました。それでは失礼します。	general,shopping

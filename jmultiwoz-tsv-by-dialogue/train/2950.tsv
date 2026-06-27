@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2950	0	USER	京都への旅行を計画しています。 当日利用できるタクシー会社を探してください。キャッシュレス払い、ジャンボタクシーを利用できるところが希望です。	general,taxi
+2950	1	SYSTEM	承知しました。株式会社エコロ２１はいかがでしょう？電話番号は0758032228となります。	general,taxi
+2950	2	USER	予約をお願いします。日付は8/2、時間は11:50、出発地はA4黒毛和牛熟成肉焼肉 Yakiniku221、目的地はいはら田です。	general,taxi
+2950	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、93367となります。	general,taxi
+2950	4	USER	解決しました。ありがとうございました。	general,taxi

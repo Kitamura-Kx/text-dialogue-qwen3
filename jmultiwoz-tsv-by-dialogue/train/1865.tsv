@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1865	0	USER	今度京都へ行くのですが、タクシーを予約したいです。キャッシュレスとジャンボタクシー対応の会社はありますか？	general,taxi,weather
+1865	1	SYSTEM	かしこまりました。では、愛都交通株式会社はいかがでしょうか？	general,taxi,weather
+1865	2	USER	その会社の電話番号はわかりますか？	general,taxi,weather
+1865	3	SYSTEM	はい。電話番号が0756460020になります。	general,taxi,weather
+1865	4	USER	そうしましたら、そこでタクシーの予約をお願いします。7/17 14:50 に、貴船 喜らく までお願いします。行きたい場所は、松本旅館です。	general,taxi,weather
+1865	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、8927です。	general,taxi,weather
+1865	6	USER	あと、天候も聞きたいです。西京区の最高気温と最低気温ですが、7/17はどれくらいですか？	general,taxi,weather
+1865	7	SYSTEM	かしこまりました。7/17の西京区の天気予報は雨のち晴となっております。最低気温は24.4度、最高気温は28.5度になる予報です。	general,taxi,weather
+1865	8	USER	今日のお願いは以上です。ありがとうございました。	general,taxi,weather
+1865	9	SYSTEM	承知しました。ありがとうございました。	general,taxi,weather

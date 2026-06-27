@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1941	0	USER	札幌への旅行を計画中なのですが、レストラン併設有りの簡易宿泊所はありますか？予算は安めでお願いします。	general,hotel,restaurant,taxi
+1941	1	SYSTEM	かしこまりました。その条件でしたらSappolodgeはいかがでしょうか？	general,hotel,restaurant,taxi
+1941	2	USER	わかりました、それと東区でWiFiと駐車場が無料の飲食店があれば教えて下さい。	general,hotel,restaurant,taxi
+1941	3	SYSTEM	申し訳ございません。該当の飲食店をお探しすることが出来ませんでした。	general,hotel,restaurant,taxi
+1941	4	USER	そうですか、東区以外ではどうでしょうか？	general,hotel,restaurant,taxi
+1941	5	SYSTEM	では、東区以外でしたら、パーラーエノキはいかがでしょうか？	general,hotel,restaurant,taxi
+1941	6	USER	ありがとうございます利用させてもらいます。当日はタクシーを利用したいのですが、キャッシュレス対応可能な会社を教えて下さい。	general,hotel,restaurant,taxi
+1941	7	SYSTEM	申し訳ございません。キャッシュレス対応のタクシー会社を見つけることが出来ませんでした。	general,hotel,restaurant,taxi
+1941	8	USER	キャッシュレスは諦めます	general,hotel,restaurant,taxi
+1941	9	SYSTEM	かしこまりました。それでは、つばめ自動車(株)さんはいかがでしょうか？	general,hotel,restaurant,taxi
+1941	10	USER	つばめ自動車(株)はジャンボタクシーは利用できますか？	general,hotel,restaurant,taxi
+1941	11	SYSTEM	はい、ご利用いただけます。	general,hotel,restaurant,taxi
+1941	12	USER	「つばめ自動車(株)」で通常のタクシー予約をお願いします。5/19の14:50に「Sappolodge」から「パーラーエノキ」までお願いします。	general,hotel,restaurant,taxi
+1941	13	SYSTEM	お待たせ致しました。予約番号23588でご予約致しました。	general,hotel,restaurant,taxi
+1941	14	USER	ほかは大丈夫です、ありがとうございました。	general,hotel,restaurant,taxi
+1941	15	SYSTEM	ありがとうございました。	general,hotel,restaurant,taxi

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1886	0	USER	札幌の観光名所で、キャンプができるところはありますか？できれば、新道東駅近くが良いです。	general,attraction
+1886	1	SYSTEM	お待たせいたしました。申し訳ありませんが、新道東駅が最寄りのキャンプ場はお探しすることが出来ませんでした。	general,attraction
+1886	2	USER	わかりました。では、キャンプ以外で新道東駅近くの観光名所はありますか？	general,attraction
+1886	3	SYSTEM	その条件ですと、モエレ沼公園がございます。	general,attraction
+1886	4	USER	公園もいいですね。大人は入場料がかかりますか？	general,attraction
+1886	5	SYSTEM	入場料は無料でございます。	general,attraction
+1886	6	USER	今聞きたいことは以上です。ありがとうございました。	general,attraction
+1886	7	SYSTEM	ありがとうございました。	general,attraction

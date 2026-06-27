@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1859	0	USER	仙台に行くのですが、普通の価格帯で、駐車場無料の宿泊施設はありますか？	general,hotel,taxi
+1859	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,taxi
+1859	2	USER	では、価格帯が安めのホテルはありますか？	general,hotel,taxi
+1859	3	SYSTEM	かしこまりました。では、旅館つかさはいかがでしょうか？	general,hotel,taxi
+1859	4	USER	旅館つかさ で、予約をお願いします。5/7 から３泊、２名でお願いできますか？	general,hotel,taxi
+1859	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、32449です。	general,hotel,taxi
+1859	6	USER	あとタクシーも予約してほしいです。ジャンボタクシー対応の会社はありますか？	general,hotel,taxi
+1859	7	SYSTEM	かしこまりました。では、（有）振興タクシーはいかがでしょうか？	general,hotel,taxi
+1859	8	USER	その会社は、キャッシュレス対応ですか？あと、電話番号も教えてください。	general,hotel,taxi
+1859	9	SYSTEM	はい。キャッシュレス対応です。電話番号は0222841411でございます。	general,hotel,taxi
+1859	10	USER	ではタクシーを予約してください。5/７　11:50に、先ほどの 旅館つかさ へ迎えに来て欲しいです。目的地は、星乃珈琲店 仙台太白店です。	general,hotel,taxi
+1859	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、84687です。	general,hotel,taxi
+1859	12	USER	今回お願いしたいことは以上です。ありがとうございました。	general,hotel,taxi
+1859	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi

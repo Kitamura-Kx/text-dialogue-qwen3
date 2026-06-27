@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4479	0	USER	那覇に旅行を計画していて、小禄で飲食できるお店を探しています。予算は安めがいいです。	general,restaurant,weather
+4479	1	SYSTEM	そういたしますと、１１件ご案内可能です。例えば、しゃぶ葉 那覇小禄店という和食のお店はいかがでしょうか？	general,restaurant,weather
+4479	2	USER	ありがとうございます。そのお店の電話番号と最寄り駅について教えてください。	general,restaurant,weather
+4479	3	SYSTEM	電話番号は、0988401718です。最寄りは小禄駅でして、徒歩４分ほどの距離にございます。	general,restaurant,weather
+4479	4	USER	ありがとうございます。あと、9/24の首里の最高気温と最低気温は何度くらいになりますか。	general,restaurant,weather
+4479	5	SYSTEM	はい、当日の最高気温は、32.4度、最低気温は22.8度になる見込みです。	general,restaurant,weather
+4479	6	USER	ありがとうございます。これで大丈夫です。	general,restaurant,weather
+4479	7	SYSTEM	承知いたしました。本日はご利用いただき、ありがとうございました。	general,restaurant,weather

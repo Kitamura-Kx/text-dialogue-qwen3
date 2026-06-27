@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+269	0	USER	那覇に行くんですが、那覇空港駅が最寄りの安めの飲食店ってありませんか？	general,restaurant,hotel,taxi
+269	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,restaurant,hotel,taxi
+269	2	USER	じゃあ、最寄り駅は気にしないです。いい所ありませんか？	general,restaurant,hotel,taxi
+269	3	SYSTEM	ではしゃぶ葉 那覇小禄店はいかがでしょうか。	general,restaurant,hotel,taxi
+269	4	USER	そこにします。その小禄の地区で宿は取れますかね？	general,restaurant,hotel,taxi
+269	5	SYSTEM	はい。ではHOTEL OROXはいかがでしょうか。	general,restaurant,hotel,taxi
+269	6	USER	そこでいいです。ちなみにWi-Fiは使えますか？	general,restaurant,hotel,taxi
+269	7	SYSTEM	はい。無料でお使いいただけます。	general,restaurant,hotel,taxi
+269	8	USER	わかりました。えっと、キャッシュレス払いができるタクシー会社も知りたいんですが。	general,restaurant,hotel,taxi
+269	9	SYSTEM	申し訳ございません。キャッシュレス対応の会社がございません。いかがなさいますか。	general,restaurant,hotel,taxi
+269	10	USER	そうですか、ではキャッスレスは使えなくてもいいので手頃な会社を教えてください。	general,restaurant,hotel,taxi
+269	11	SYSTEM	大栄交通がございます。	general,restaurant,hotel,taxi
+269	12	USER	それでは、そこで予約をお願いします。しゃぶ葉 那覇小禄店からHOTEL OROXまで、10月18日の14時出発でお願いします。	general,restaurant,hotel,taxi
+269	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は1021でございます。	general,restaurant,hotel,taxi
+269	14	USER	お手配りいただきありがとうございました。助かりました。	general,restaurant,hotel,taxi

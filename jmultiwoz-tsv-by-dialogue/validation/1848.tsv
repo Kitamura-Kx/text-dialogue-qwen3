@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1848	0	USER	名古屋の東区で買い物できるところを紹介してもらえませんか？	general,shopping,attraction,taxi
+1848	1	SYSTEM	かしこまりました。では、オアシス21はいかがでしょうか？ジャンルはショッピングモールになります。	general,shopping,attraction,taxi
+1848	2	USER	住所は分かりますか？	general,shopping,attraction,taxi
+1848	3	SYSTEM	はい。住所は愛知県名古屋市東区東桜1丁目11-1になります。	general,shopping,attraction,taxi
+1848	4	USER	Wi-Fiと駐車場が無料の観光名所も教えてもらえませんか？	general,shopping,attraction,taxi
+1848	5	SYSTEM	かしこまりました。では、トヨタ産業技術記念館はいかがでしょうか？	general,shopping,attraction,taxi
+1848	6	USER	添加のトヨタの技術を見れるんですね。いいなあ、キャッシュレスが使えるタクシー会社も教えてもらっていいですか？	general,shopping,attraction,taxi
+1848	7	SYSTEM	かしこまりました。では、伸和交通はいかがでしょうか？ジャンボタクシーにも対応しております。	general,shopping,attraction,taxi
+1848	8	USER	いいですね。7月12日、13時10分にオアシス21を出て、トヨタ産業技術記念館までの予約はできますか？	general,shopping,attraction,taxi
+1848	9	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,shopping,attraction,taxi
+1848	10	USER	そうですか、じゃあ、出発を14時にずらしたら取れませんか？	general,shopping,attraction,taxi
+1848	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、58942です。	general,shopping,attraction,taxi
+1848	12	USER	お世話になりました。ありがとうございました。	general,shopping,attraction,taxi

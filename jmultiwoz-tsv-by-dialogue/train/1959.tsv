@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1959	0	USER	那覇への旅行を考えています。当日食事ができる飲食店を教えてください。	general,restaurant,hotel
+1959	1	SYSTEM	その条件ですと101件ほど該当致します。何かその他に条件はありますか？	general,restaurant,hotel
+1959	2	USER	無料でWi-Fiが使えるところが良いです。	general,restaurant,hotel
+1959	3	SYSTEM	申し訳ありません。その条件では飲食店をお探しすることが出来ませんでした。	general,restaurant,hotel
+1959	4	USER	では、Wi-Fiがなくてもかまわないです。	general,restaurant,hotel
+1959	5	SYSTEM	では、PIZZZERIA ONDAはいかがでしょうか？	general,restaurant,hotel
+1959	6	USER	そこが良さそうですね。そこの営業時間と値段帯とジャンルを教えてください。	general,restaurant,hotel
+1959	7	SYSTEM	営業時間は、11時50分から15時と、18時から23時です。値段帯は普通、ジャンルはイタリアン・フレンチ, 洋食・西洋料理と伺っております。	general,restaurant,hotel
+1959	8	USER	そちらに予約をしたいので人数は2人日付は6/20時間は14:30で予約をお願いします。	general,restaurant,hotel
+1959	9	SYSTEM	お待たせいたしました。予約番号60867でご予約出来ました。	general,restaurant,hotel
+1959	10	USER	あと、当日泊まる宿泊施設を探しています。最寄り駅が牧志駅のところを希望します。	general,restaurant,hotel
+1959	11	SYSTEM	申し訳ありません。その条件では宿泊施設をお探しすることが出来ませんでした。	general,restaurant,hotel
+1959	12	USER	では、最寄り駅は諦めます。	general,restaurant,hotel
+1959	13	SYSTEM	かしこまりました。それでは沖縄国際ユースホステルはいかがでしょうか？	general,restaurant,hotel
+1959	14	USER	そちらにします。そこにはWi-Fiや駐車場やレストランはありますでしょうか？	general,restaurant,hotel
+1959	15	SYSTEM	Wi-Fiと駐車場は無料、レストランはございません。	general,restaurant,hotel
+1959	16	USER	分かりました。ありがとうございます。	general,restaurant,hotel
+1959	17	SYSTEM	ありがとうございます。ご用件は他にありますか？	general,restaurant,hotel
+1959	18	USER	大丈夫です。ありがとうございました。	general,restaurant,hotel
+1959	19	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,hotel

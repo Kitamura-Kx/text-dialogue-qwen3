@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1124	0	USER	大阪へ旅行に行こうと思っています。当日訪れる観光名所で地区は鶴見区で無料でWi-Fiが使えるところを教えてください。	general,attraction
+1124	1	SYSTEM	承知しました。咲くやこの花館はいかがでしょう？ジャンルは植物園になります。何か必要なご案内はございますか？	general,attraction
+1124	2	USER	そこの住所と最寄り駅も教えてください。	general,attraction
+1124	3	SYSTEM	はい、住所は大阪府大阪市鶴見区緑地公園2丁目163番、最寄りの鶴見緑地駅から徒歩で10分となります。他にご案内できることはございますか？	general,attraction
+1124	4	USER	大丈夫です。ありがとうございました。	general,attraction
+1124	5	SYSTEM	ありがとうございました。	general,attraction

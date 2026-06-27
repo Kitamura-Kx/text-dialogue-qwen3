@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1758	0	USER	大阪へ旅行に行くので、観光できるところを探してください。	general,attraction
+1758	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction
+1758	2	USER	Wi-Fiが無料で利用できるところにしてください。あと最寄り駅が東三国駅のところだと嬉しいです。	general,attraction
+1758	3	SYSTEM	申し訳ありません。その条件ではご紹介できません。いかが致しましょう？	general,attraction
+1758	4	USER	では最寄り駅の条件は外して構いません。	general,attraction
+1758	5	SYSTEM	浪速区にある、なんばパークスはいかがでしょう？ジャンルはその他になります。	general,attraction
+1758	6	USER	そちらの近辺の駅からの所要時間と大人入場料を教えてください。	general,attraction
+1758	7	SYSTEM	最寄りのなんば駅から徒歩で1分となります。大人入場料は必要なく、無料でご利用いただけます。	general,attraction
+1758	8	USER	ありがとうございます。以上です。	general,attraction
+1758	9	SYSTEM	ありがとうございました。	general,attraction

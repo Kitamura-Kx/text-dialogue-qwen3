@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4847	0	USER	東京の新宿区で駐車場が無料のお店で買い物がしたいです。	general,shopping
+4847	1	SYSTEM	THE CONRAN SHOP 新宿本店、こちらはいかがですか？	general,shopping
+4847	2	USER	このお店は定休日はありますか？	general,shopping
+4847	3	SYSTEM	定休日は、水曜日です。	general,shopping
+4847	4	USER	わかりました。検討してみます。ありがとうございました。	general,shopping
+4847	5	SYSTEM	他にご用件はありますか？	general,shopping
+4847	6	USER	大丈夫です。ありがとうございました。	general,shopping
+4847	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

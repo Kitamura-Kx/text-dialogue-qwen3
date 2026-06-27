@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3201	0	USER	那覇に旅行するときの宿泊施設を探しています	general,hotel,taxi
+3201	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,taxi
+3201	2	USER	駐車場が無料で、小禄あたりがいいです	general,hotel,taxi
+3201	3	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,taxi
+3201	4	USER	じゃあ駐車場なくてもいいです	general,hotel,taxi
+3201	5	SYSTEM	かしこまりました。では、ホテルグランビュー沖縄はいかがでしょうか？	general,hotel,taxi
+3201	6	USER	そこにします。Wi-Fiはありますか？	general,hotel,taxi
+3201	7	SYSTEM	はい。無料のものがございますよ。	general,hotel,taxi
+3201	8	USER	わかりました。予約をお願いします	general,hotel,taxi
+3201	9	SYSTEM	はい。宿泊人数と日付、宿泊日数を教えていただけますか？	general,hotel,taxi
+3201	10	USER	3人で、11/29で四泊おねがいします	general,hotel,taxi
+3201	11	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel,taxi
+3201	12	USER	では二名ならどうでしょう？	general,hotel,taxi
+3201	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、91097です。	general,hotel,taxi
+3201	14	USER	ありがとうございます。あとタクシー会社も探しているのですが	general,hotel,taxi
+3201	15	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,hotel,taxi
+3201	16	USER	ジャンボタクシーがあって、キャッシュレス払いができるところがいいです	general,hotel,taxi
+3201	17	SYSTEM	かしこまりました。では、沖縄交通はいかがでしょうか？	general,hotel,taxi
+3201	18	USER	電話番号を教えてください。	general,hotel,taxi
+3201	19	SYSTEM	はい。電話番号は0120170978です。	general,hotel,taxi
+3201	20	USER	ありがとうございます。予約をお願いします。	general,hotel,taxi
+3201	21	SYSTEM	はい。予約情報をお願いします。	general,hotel,taxi
+3201	22	USER	11/29の9:50で、出発がKARIYUSHI LCH. PREMIUM、目的地がホテルグランビュー沖縄で	general,hotel,taxi
+3201	23	SYSTEM	申し訳ございません。午前9:50でよろしかったですか？	general,hotel,taxi
+3201	24	USER	はい、そうです	general,hotel,taxi
+3201	25	SYSTEM	かしこまりました。ご予約承りました。予約番号は、61123 です。	general,hotel,taxi
+3201	26	USER	ありがとうございました	general,hotel,taxi
+3201	27	SYSTEM	他にご用件はございませんか？	general,hotel,taxi
+3201	28	USER	ないです。ありがとうございました	general,hotel,taxi
+3201	29	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi

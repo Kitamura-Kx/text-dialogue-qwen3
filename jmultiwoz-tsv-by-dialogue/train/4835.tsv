@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4835	0	USER	東京へ旅行予定なのですが、普通の値段で、Wi-Fiが無料で使える飲食店を探してもらえますか。	general,restaurant,hotel
+4835	1	SYSTEM	それでは、新荘園 ムスブ田町店はいかがですか？	general,restaurant,hotel
+4835	2	USER	そこにします。駐車場の有無と営業時間を教えてください。	general,restaurant,hotel
+4835	3	SYSTEM	駐車場については、有料駐車場があります。　営業時間は、11時から23時30分となっています。	general,restaurant,hotel
+4835	4	USER	じゃあ、2人で3/11の10:50から予約できます？	general,restaurant,hotel
+4835	5	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。　どうされますか？	general,restaurant,hotel
+4835	6	USER	それなら時間を11:30に変更します。	general,restaurant,hotel
+4835	7	SYSTEM	11時30分で予約出来ました。予約番号は、95030です。	general,restaurant,hotel
+4835	8	USER	ありがとうございます。あと、普通の値段位の、レストランが併設されている宿泊施設を探してください。	general,restaurant,hotel
+4835	9	SYSTEM	それでしたら、帝国ホテル東京はいかがでしょうか？	general,restaurant,hotel
+4835	10	USER	そこにします。近辺の駅からの所要時間を教えてください。	general,restaurant,hotel
+4835	11	SYSTEM	はい、所要時間は、日比谷駅から徒歩で3分となっています。	general,restaurant,hotel
+4835	12	USER	そうなんですね。3人で3/11から2泊の予約はとれそうですか？	general,restaurant,hotel
+4835	13	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。　どうされますか？	general,restaurant,hotel
+4835	14	USER	それなら人数を2人にします。	general,restaurant,hotel
+4835	15	SYSTEM	はい、2名様で予約が完了しました。　予約番号は、2863になります。	general,restaurant,hotel
+4835	16	USER	ありがとうございました。いろいろ助かりました。	general,restaurant,hotel
+4835	17	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel

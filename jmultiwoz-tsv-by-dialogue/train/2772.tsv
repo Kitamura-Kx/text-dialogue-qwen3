@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2772	0	USER	那覇へ旅行を検討していますが、買い物できるとこが知りたいです。	general,shopping,attraction
+2772	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,attraction
+2772	2	USER	最寄り駅が美栄橋駅の近くがいいのですが	general,shopping,attraction
+2772	3	SYSTEM	エリアでいうと本庁にある、フレッシュプラザユニオン前島店はいかがでしょう？ジャンルは、スーパーマーケットとなります。	general,shopping,attraction
+2772	4	USER	そこがいいですね。あと観光名所も探しています。	general,shopping,attraction
+2772	5	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,attraction
+2772	6	USER	地区は首里で壷川駅の近く、無料駐車場があるといいです。	general,shopping,attraction
+2772	7	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,attraction
+2772	8	USER	壷川駅の近くじゃなくてもいいです。	general,shopping,attraction
+2772	9	SYSTEM	では、首里殿内 首里金城町石畳道はいかがでしょう？ジャンルは、美術館、博物館となります。	general,shopping,attraction
+2772	10	USER	そこに決めます！	general,shopping,attraction
+2772	11	SYSTEM	他にご用件はございますか？	general,shopping,attraction
+2772	12	USER	特にありません。ありがとうございました。	general,shopping,attraction
+2772	13	SYSTEM	ありがとうございました。	general,shopping,attraction

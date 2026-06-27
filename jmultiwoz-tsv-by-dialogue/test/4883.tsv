@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4883	0	USER	名古屋への旅行を計画中のため、1/4の北区の最低気温を調べてもらえますか？	general,weather,taxi
+4883	1	SYSTEM	承知しました。最低気温は2度です。	general,weather,taxi
+4883	2	USER	ありがとうございます。あと名古屋近鉄タクシーを利用したいと思っているのですが、キャッシュレスに対応しているかどうかとジャンボタクシーに対応しているかどうか、調べてもらえますか？	general,weather,taxi
+4883	3	SYSTEM	承知しました。キャッシュレス対応は対応です。ジャンボレスタクシー対応は非対応です。	general,weather,taxi
+4883	4	USER	わかりました。では1/4の14:00に八事山興正寺からすしざんまい 名古屋錦店まで予約をお願いします。	general,weather,taxi
+4883	5	SYSTEM	予約が完了しました。予約番号は47123です。	general,weather,taxi
+4883	6	USER	ありがとうございます。	general,weather,taxi
+4883	7	SYSTEM	他にご用件はありますか？	general,weather,taxi
+4883	8	USER	いえ、もう大丈夫です。ありがとうございました。	general,weather,taxi

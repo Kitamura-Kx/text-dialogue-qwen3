@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+581	0	USER	こんにちは！福岡へ旅行を計画しています！飲食店を探してもらえますか？	general,restaurant,taxi,weather
+581	1	SYSTEM	かしこまりました。福岡でご案内できる飲食店は108件ほどございます。なにかご希望の条件などはございませんか？	general,restaurant,taxi,weather
+581	2	USER	早良区で駐車場が無料のところがいいです！	general,restaurant,taxi,weather
+581	3	SYSTEM	そういたしましたら、THE BEACHという洋食・西洋料理のお店はいかがでしょうか？	general,restaurant,taxi,weather
+581	4	USER	いいですね！Wi-Fiの有無と料金情報についても教えてください。	general,restaurant,taxi,weather
+581	5	SYSTEM	申し訳ありません。WiFiの有無は不明となっております。料金情報につきましては、お値段帯は普通の設定です。たとえば、タコライス850円、NYチキンオーバーライス950円、 激旨カルボナーラ1100円などございます。	general,restaurant,taxi,weather
+581	6	USER	ではそちらを予約してください。1/2の13:00に4人で行きたいです！	general,restaurant,taxi,weather
+581	7	SYSTEM	ご予約ありがとうございます。予約番号72204にて、予約をおとりしました。	general,restaurant,taxi,weather
+581	8	USER	ありがとうございました。（有）さくらタクシーというタクシー会社の予約もしてもらいたいです！	general,restaurant,taxi,weather
+581	9	SYSTEM	かしこまりました。1件、該当がございます。お電話番号が、0928712325となっておりますが、お間違い無いでしょうか？	general,restaurant,taxi,weather
+581	10	USER	あってると思います！1/2の11:40にTHE BEACHを出発して、ノボルトというところまでの予約をお願いします。	general,restaurant,taxi,weather
+581	11	SYSTEM	かしこまりました。予約を完了いたしました。ご予約番号は、50123です。	general,restaurant,taxi,weather
+581	12	USER	ありがとうございます。城南区の1/2の天候はどうでしょう？気温は分かりますか？	general,restaurant,taxi,weather
+581	13	SYSTEM	はい、当日の天気は曇りで、最高気温は8.5度、最低気温は3度の予報となっております。	general,restaurant,taxi,weather
+581	14	USER	ありがとうございます。	general,restaurant,taxi,weather
+581	15	SYSTEM	ほかにお調べすることはございますか？	general,restaurant,taxi,weather
+581	16	USER	いえ、色々とありがとうございました。	general,restaurant,taxi,weather
+581	17	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,restaurant,taxi,weather

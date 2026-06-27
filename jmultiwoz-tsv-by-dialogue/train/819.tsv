@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+819	0	USER	東京へ旅行したいのですが。	general,hotel
+819	1	SYSTEM	東京のご旅行ですね。本日はどのようなお手伝いをいたしましょうか？	general,hotel
+819	2	USER	宿泊施設を探してください。できればレストランが併設されているところがいいです。予算は高めが希望です。	general,hotel
+819	3	SYSTEM	かしこまりました。そうしますと、グランドハイアット東京という、港区エリアのリゾートホテルはいかがでしょうか？	general,hotel
+819	4	USER	では、そこに決めます。住所を教えていただけますか？	general,hotel
+819	5	SYSTEM	はい。住所は、東京都港区六本木6丁目10-3です。	general,hotel
+819	6	USER	ありがとうございます。予約もお願いします。2/26から2泊で。人数は2名です。	general,hotel
+819	7	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,hotel
+819	8	USER	そうですか。では、1泊では取れますか？	general,hotel
+819	9	SYSTEM	ありがとうございます。1泊にて、ご予約完了いたしました。予約番号は、59811です。	general,hotel
+819	10	USER	よかったです。	general,hotel
+819	11	SYSTEM	他にお調べすることはございますか？	general,hotel
+819	12	USER	特にありません。ありがとうございました。	general,hotel
+819	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

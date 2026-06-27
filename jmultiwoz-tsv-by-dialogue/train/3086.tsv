@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3086	0	USER	仙台の青葉区で居酒屋を探しています。	general,restaurant,shopping,weather
+3086	1	SYSTEM	青葉区の居酒屋はいくつかありますが、仙台らしく、伊達の牛たん本舗 本店、こちらをお勧めします。	general,restaurant,shopping,weather
+3086	2	USER	定休日はいつですか？	general,restaurant,shopping,weather
+3086	3	SYSTEM	定休日はありません。	general,restaurant,shopping,weather
+3086	4	USER	予約を3/27の11：00で4人お願いできますか？	general,restaurant,shopping,weather
+3086	5	SYSTEM	予約成功しました。予約番号は62595です。	general,restaurant,shopping,weather
+3086	6	USER	ありがとうございます。中野栄駅が最寄り駅で、宮城野区で買い物できる所教えて下さい。	general,restaurant,shopping,weather
+3086	7	SYSTEM	中野栄、宮城野区で買い物できるところはいくつかありますが、三井アウトレットパーク 仙台港、こちらをおすすめします。	general,restaurant,shopping,weather
+3086	8	USER	定休日はいつですか？	general,restaurant,shopping,weather
+3086	9	SYSTEM	不定休です。	general,restaurant,shopping,weather
+3086	10	USER	分かりました。3/27の若林区の最高気温，最低気温教えて下さい。	general,restaurant,shopping,weather
+3086	11	SYSTEM	3/27 仙台 若林区 の天気は雨時々晴、最低気温1.1度、最高気温15.3度です。	general,restaurant,shopping,weather
+3086	12	USER	ありがとうございました。では。	general,restaurant,shopping,weather
+3086	13	SYSTEM	よい旅を	general,restaurant,shopping,weather

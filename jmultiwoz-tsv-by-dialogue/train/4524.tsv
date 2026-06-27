@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4524	0	USER	横浜へ旅行に行きたいのですが、その時に買い物ができるお店を探してもらえますか？	general,shopping,weather
+4524	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,weather
+4524	2	USER	駐車場が無料で、食料品が購入できるところが良いです。	general,shopping,weather
+4524	3	SYSTEM	ではAugusta Milk Farm 相澤良牧場はいかがでしょうか。	general,shopping,weather
+4524	4	USER	いいですね、近辺の駅からの所要時間と定休日を教えてもらえますか？	general,shopping,weather
+4524	5	SYSTEM	三ツ境駅からバスで19分、いずみ野駅からバスで11分でございます。定休日は１月、２月、３月が月曜日となっております。	general,shopping,weather
+4524	6	USER	あと、9/30の旭区の天気と最低気温も教えてもらえますか？	general,shopping,weather
+4524	7	SYSTEM	はい。当日の天気は晴れ、最低気温は17.7度でございます。	general,shopping,weather
+4524	8	USER	ありがとうございました。	general,shopping,weather
+4524	9	SYSTEM	ほかにご用件はございませんか。	general,shopping,weather
+4524	10	USER	はい、大丈夫です。	general,shopping,weather
+4524	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

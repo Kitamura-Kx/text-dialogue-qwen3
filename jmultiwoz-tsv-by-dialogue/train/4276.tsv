@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4276	0	USER	東京へ行くので、観光名所を探しています。無料駐車場のある、美術館や博物館がいいのですが、	general,attraction,shopping
+4276	1	SYSTEM	では、エリアでいうと港区にある、Caretta汐留はいかがでしょう？	general,attraction,shopping
+4276	2	USER	いいですね。営業時間と料金情報、最寄り駅からのアクセスを教えてください。	general,attraction,shopping
+4276	3	SYSTEM	はい、料金情報としては、入場料無料となります。最寄りの汐留駅から徒歩で1分、営業時間は、店舗により異なります。	general,attraction,shopping
+4276	4	USER	ありがとうございます。あと、溜池山王駅の近くで、医薬品や化粧品のお店はないでしょうか？	general,attraction,shopping
+4276	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,shopping
+4276	6	USER	そうですは。では、溜池山王駅の近くでなくてもいいです。	general,attraction,shopping
+4276	7	SYSTEM	では、エリアでいうと目黒区にある、SHIRO 自由が丘店はいかがでしょう？	general,attraction,shopping
+4276	8	USER	そこにします。営業時間を教えてください。	general,attraction,shopping
+4276	9	SYSTEM	はい、営業時間は11時から20時となります。	general,attraction,shopping
+4276	10	USER	わかりました。ありがとうございます。	general,attraction,shopping
+4276	11	SYSTEM	ありがとうございました。	general,attraction,shopping

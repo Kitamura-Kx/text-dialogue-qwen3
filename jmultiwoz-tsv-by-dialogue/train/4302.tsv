@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4302	0	USER	福岡への旅行を計画していて、当日の宿泊施設を探しています。Wi-Fi無料のリゾートホテルが希望です。	general,hotel,shopping,attraction
+4302	1	SYSTEM	かしこまりました。では、WITH THE STYLE FUKUOKAはいかがでしょうか？	general,hotel,shopping,attraction
+4302	2	USER	ありがとうございます。そこにしようと思います。チェックイン開始時刻と値段帯は分かりますか？	general,hotel,shopping,attraction
+4302	3	SYSTEM	はい。チェックイン開始時刻は16:00で、値段帯は普通となっております。	general,hotel,shopping,attraction
+4302	4	USER	ありがとうございます。そのホテルを予約したいのですが、2/16から２泊、４人で予約をお願い出来ますか？	general,hotel,shopping,attraction
+4302	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、54558です。	general,hotel,shopping,attraction
+4302	6	USER	ありがとうございます。当日は買い物もする予定です。ホームセンター グッデイ 西福岡店というところについてお聞きしたいのですが。	general,hotel,shopping,attraction
+4302	7	SYSTEM	かしこまりました。何をお調べしましょうか。	general,hotel,shopping,attraction
+4302	8	USER	最寄り駅とエリアについて教えて貰えますか？	general,hotel,shopping,attraction
+4302	9	SYSTEM	はい。最寄り駅は橋本駅で、エリアは西区でございます。	general,hotel,shopping,attraction
+4302	10	USER	ありがとうございます。旅行当日は観光もしたいと思っています。キャナルシティ劇場についてお聞きしても良いですか？	general,hotel,shopping,attraction
+4302	11	SYSTEM	かしこまりました。何をお調べしましょうか。	general,hotel,shopping,attraction
+4302	12	USER	電話番号と大人入場料が知りたいです。	general,hotel,shopping,attraction
+4302	13	SYSTEM	はい。電話番号は0922716062で、大人入場料は不明となっております。申し訳ございません。	general,hotel,shopping,attraction
+4302	14	USER	分かりました。色々と教えて頂きありがとうございました。	general,hotel,shopping,attraction
+4302	15	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,hotel,shopping,attraction

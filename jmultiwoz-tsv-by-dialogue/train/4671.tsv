@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4671	0	USER	札幌の中央区でWi-Fiが無料の飲食店を探しています。	general,restaurant,weather,taxi
+4671	1	SYSTEM	かしこまりました。では、J.S. PANCAKE CAFE 札幌ステラプレイス店はいかがでしょうか。	general,restaurant,weather,taxi
+4671	2	USER	検討してみます。あと8/4の中央区の気温を教えてください。	general,restaurant,weather,taxi
+4671	3	SYSTEM	当日の最低気温は18.1度で、最高気温が31.8度でございます。	general,restaurant,weather,taxi
+4671	4	USER	わかりました。その日に利用したいのでキャッシュレス払いができるタクシーも探してほしいです。	general,restaurant,weather,taxi
+4671	5	SYSTEM	申し訳ございません。キャッシュレスに対応している会社がございません。いかがなさいますか。	general,restaurant,weather,taxi
+4671	6	USER	ではキャッシュレス払いはできなくても大丈夫です。	general,restaurant,weather,taxi
+4671	7	SYSTEM	ではつばめ自動車(株)がございます。	general,restaurant,weather,taxi
+4671	8	USER	ここはジャンボタクシーは対応してますか？	general,restaurant,weather,taxi
+4671	9	SYSTEM	はい。ジャンボタクシーには対応しております。	general,restaurant,weather,taxi
+4671	10	USER	良かったです。電話番号も教えてください。	general,restaurant,weather,taxi
+4671	11	SYSTEM	電話番号は0118112121でございます。	general,restaurant,weather,taxi
+4671	12	USER	8/4の12：40にイオンモール札幌平岡からJ.S. PANCAKE CAFE 札幌ステラプレイス店まで予約したいです。	general,restaurant,weather,taxi
+4671	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は92544でございます。	general,restaurant,weather,taxi
+4671	14	USER	ありがとうございました。	general,restaurant,weather,taxi
+4671	15	SYSTEM	本日はありがとうございました。	general,restaurant,weather,taxi

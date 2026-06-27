@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4057	0	USER	京都への旅行を計画しています。 当日訪れる観光名所を探してください。	general,attraction
+4057	1	SYSTEM	かしこまりました。その条件ですと50件ほどありますが、何かご希望はありますか？	general,attraction
+4057	2	USER	地区は上京区、最寄り駅が西京極駅のところにしてください。	general,attraction
+4057	3	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,attraction
+4057	4	USER	そうなんですね。では、最寄り駅は丸太町駅でも良いという条件ならどうでしょうか。	general,attraction
+4057	5	SYSTEM	お待たせ致しました。でしたら、京都御苑がございます。	general,attraction
+4057	6	USER	なるほど。料金情報，ジャンルが知りたいです。	general,attraction
+4057	7	SYSTEM	はい、料金は無料でございます。ジャンルは旧跡, 自然・公園でございます。	general,attraction
+4057	8	USER	解決しました。ありがとうございました。	general,attraction

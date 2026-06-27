@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4525	0	USER	旅行で仙台に行きたいんですけど、その時に利用できる飲食店を探してもらえますか？	general,restaurant
+4525	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+4525	2	USER	はい、希望は八乙女駅が最寄り駅で駐車場が無料のところです。	general,restaurant
+4525	3	SYSTEM	では牛たん炭焼 利久 泉本店がございます。	general,restaurant
+4525	4	USER	そちらのジャンルと営業時間はわかりますか？	general,restaurant
+4525	5	SYSTEM	ジャンルは郷土料理, 居酒屋で、営業時間は11:30～23:00でございます。	general,restaurant
+4525	6	USER	わかりました、ありがとう。	general,restaurant
+4525	7	SYSTEM	本日はありがとうございました。	general,restaurant

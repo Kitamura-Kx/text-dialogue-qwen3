@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3338	0	USER	那覇へ旅行したいと思っていまして、買い物ができるところを探しています。	general,shopping
+3338	1	SYSTEM	宮古島の雪塩 国際通り店は、いかがですか？	general,shopping
+3338	2	USER	なるほど、最寄り駅が美栄橋駅だとありがたいのですが最寄りはどうでしょうか。	general,shopping
+3338	3	SYSTEM	申し訳ありません、最寄り駅は、県庁前駅になります。	general,shopping
+3338	4	USER	いえ、ありがとうございます。では最寄りが美栄橋駅で買い物できる場所はありますか？	general,shopping
+3338	5	SYSTEM	では、フレッシュプラザユニオン前島店はいかがですか？	general,shopping
+3338	6	USER	ありがとうございます。ではそこに行こうと思います。駐車場はありますか？	general,shopping
+3338	7	SYSTEM	はい、無料駐車場があります。	general,shopping
+3338	8	USER	ありがとうございます。質問は以上になります。丁寧なご対応ありがとうございました。	general,shopping
+3338	9	SYSTEM	承知しました。ありがとうございました。	general,shopping

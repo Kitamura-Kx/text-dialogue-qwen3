@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3707	0	USER	こんにちは。名古屋に行くのですが、駐車場とWi-Fiが無料で使える、観光名所はありますか？	general,attraction
+3707	1	SYSTEM	こんにちは。それではトヨタ産業技術記念館はいかがでしょうか？	general,attraction
+3707	2	USER	いいですね。そこの料金情報と住所もわかりますか？	general,attraction
+3707	3	SYSTEM	はい、料金情報は大人が500円、65歳以上が300円、中高生が300円、小学生が200円でございます。住所は愛知県名古屋市西区則武新町4丁目1-35です。	general,attraction
+3707	4	USER	そこに行ってみようと思います。ありがとうございました。	general,attraction
+3707	5	SYSTEM	ありがとうございました。その他にご用件はございますか？	general,attraction
+3707	6	USER	いえ、大丈夫です。案内ありがとうございました。	general,attraction
+3707	7	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction

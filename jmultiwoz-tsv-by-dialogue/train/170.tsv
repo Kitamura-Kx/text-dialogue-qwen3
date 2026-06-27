@@ -1,0 +1,39 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+170	0	USER	ちょっといいですか？	general,shopping,hotel,taxi
+170	1	SYSTEM	ご利用ありがとうございます。どういったご用件でしょうか？	general,shopping,hotel,taxi
+170	2	USER	札幌に旅行に行く予定なんですが、買い物ができるところを探すのを手伝ってもらいたくて。	general,shopping,hotel,taxi
+170	3	SYSTEM	札幌でお買い物ですね。札幌には50件ほどお買い物の施設がございますが、ご希望の条件などはありますか？	general,shopping,hotel,taxi
+170	4	USER	白石区で探してもらってもいいですか？	general,shopping,hotel,taxi
+170	5	SYSTEM	承知いたしました。札幌の白石区には1軒ございまして、どんぐり 本店というお店になります。	general,shopping,hotel,taxi
+170	6	USER	それは何のお店なんでしょうか？	general,shopping,hotel,taxi
+170	7	SYSTEM	どんぐり 本店は、食料品を扱う店舗となっております。	general,shopping,hotel,taxi
+170	8	USER	そうなんですね。最寄りの駅はどこになるんでしょうか？	general,shopping,hotel,taxi
+170	9	SYSTEM	最寄り駅は南郷７丁目駅です。駅から徒歩1分の距離にあります。	general,shopping,hotel,taxi
+170	10	USER	あとすみません、泊る場所も探してもらったりできますか？	general,shopping,hotel,taxi
+170	11	SYSTEM	はい、お調べいたします。札幌の宿泊施設は94件ありますが、ご希望の条件などはございますでしょうか？	general,shopping,hotel,taxi
+170	12	USER	車を無料で停められて、レストランが付いているところでお願いします。あとフリーwifiも使えるところで。	general,shopping,hotel,taxi
+170	13	SYSTEM	申し訳ございません。その条件では該当する施設を見つけられませんでした。いかが致しましょうか？	general,shopping,hotel,taxi
+170	14	USER	であれば、駐車場は有っても無くても、どちらでもいいです。	general,shopping,hotel,taxi
+170	15	SYSTEM	ありがとうございます。その条件ですと、63件ございます。価格帯などで他にご希望の条件はありますか？	general,shopping,hotel,taxi
+170	16	USER	いえ、特にないですね。どこかオススメを教えてください。	general,shopping,hotel,taxi
+170	17	SYSTEM	かしこまりました。では、ホテルルートイン札幌駅前北口は、いかがでしょうか？	general,shopping,hotel,taxi
+170	18	USER	ホテルルートイン札幌駅前北口ですね。そこにします。	general,shopping,hotel,taxi
+170	19	SYSTEM	ありがとうございます。ご予約もいたしますか？	general,shopping,hotel,taxi
+170	20	USER	はい、お願いします。11月7日から4名で3泊、予約してもらえますか？	general,shopping,hotel,taxi
+170	21	SYSTEM	ご予約ありがとうございます。11月7日より3泊、4名様で承りました。ご予約番号は、93760です。	general,shopping,hotel,taxi
+170	22	USER	ありがとうございます。あとタクシー会社も探したくて、キャッシュレスに対応しているところって、どこかありますか？	general,shopping,hotel,taxi
+170	23	SYSTEM	札幌でキャッシュレス対応しておりますタクシー会社は、12件ございます。ジャンボタクシーのご利用予定などはありますでしょうか？	general,shopping,hotel,taxi
+170	24	USER	キャッシュレスで払えるなら、どこでもいいです。	general,shopping,hotel,taxi
+170	25	SYSTEM	かしこまりました。では、北都ベリアールサービス(株)は、いかがでしょうか？	general,shopping,hotel,taxi
+170	26	USER	北都ベリアールサービス(株)ですね。そこの電話番号を伺っても？	general,shopping,hotel,taxi
+170	27	SYSTEM	はい。電話番号は、0118202200です。	general,shopping,hotel,taxi
+170	28	USER	そこだと、ジャンボタクシーは使えるんですか？	general,shopping,hotel,taxi
+170	29	SYSTEM	はい。ジャンボタクシーに対応しております。	general,shopping,hotel,taxi
+170	30	USER	では、そこで予約をお願いします。使いたいのは、11月の7日で、10時50分にどんぐり 本店で乗って、ホテルルートイン札幌駅前北口まで連れて行ってほしいです。	general,shopping,hotel,taxi
+170	31	SYSTEM	申し訳ございません。その条件ですと、ご予約をお取りすることができませんでした。いかがいたしましょう？	general,shopping,hotel,taxi
+170	32	USER	であれば、時間は11時50分発でも大丈夫です。	general,shopping,hotel,taxi
+170	33	SYSTEM	ありがとうございます。11月7日11時50分、どんぐり 本店からホテルルートイン札幌駅前北口で、ご予約完了いたしました。ご予約番号は、65024です。	general,shopping,hotel,taxi
+170	34	USER	予約までしていただき、大変助かりました。ありがとうございます。	general,shopping,hotel,taxi
+170	35	SYSTEM	とんでもございません。他にお手伝い出来ることはございますか？	general,shopping,hotel,taxi
+170	36	USER	いえ、もう十分です。これで失礼いたします。	general,shopping,hotel,taxi
+170	37	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,hotel,taxi

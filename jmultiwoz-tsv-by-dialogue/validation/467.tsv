@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+467	0	USER	福岡の箱崎駅近くで買い物ができるところを教えてください。	general,shopping,weather
+467	1	SYSTEM	かしこまりました。やまや本店がございますがいかがでしょうか。	general,shopping,weather
+467	2	USER	そこはどういったジャンルのお店なのですか？	general,shopping,weather
+467	3	SYSTEM	ジャンルは食料品, お土産でございます。	general,shopping,weather
+467	4	USER	なるほど。営業時間はわかりますか？	general,shopping,weather
+467	5	SYSTEM	営業時間は09:30～18:30でございます。	general,shopping,weather
+467	6	USER	わかりました。あと、当日2/10の中央区の気温を教えてもらえますか？	general,shopping,weather
+467	7	SYSTEM	最低気温は10.7度で最高気温は18.4度でございます。	general,shopping,weather
+467	8	USER	ありがとうございます。助かりました。	general,shopping,weather

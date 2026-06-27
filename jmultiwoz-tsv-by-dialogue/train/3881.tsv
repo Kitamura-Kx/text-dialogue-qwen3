@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3881	0	USER	名古屋へ旅行を計画しています。wi-fiが無料で利用できる観光名所はありますか？	general,attraction
+3881	1	SYSTEM	そうしますと、6件候補がございますが、ほかにご希望条件はございませんか？	general,attraction
+3881	2	USER	千種区で駐車場が無料な所がいいです。	general,attraction
+3881	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction
+3881	4	USER	でしたら、駐車場が無料でなくてもいいです。	general,attraction
+3881	5	SYSTEM	かしこまりました。駐車場は有料でもあったほうがよろしいですか？	general,attraction
+3881	6	USER	駐車場はなくてもいいです。	general,attraction
+3881	7	SYSTEM	ありがとうございます。そうしますと、名古屋市東山動植物園というところが1件ございます。こちらは有料駐車場が付いております。	general,attraction
+3881	8	USER	駐車場がなくても他に観光名所はありますか？	general,attraction
+3881	9	SYSTEM	申し訳ありません。ご案内できるのは、現在のご希望条件ですと、この1件のみとなります。	general,attraction
+3881	10	USER	わかりました。そこに行こうと思います。ありがとうございました。	general,attraction
+3881	11	SYSTEM	他にお調べすることはございませんか？	general,attraction
+3881	12	USER	いえ、もう大丈夫です。	general,attraction
+3881	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction
+3881	14	USER		general,attraction

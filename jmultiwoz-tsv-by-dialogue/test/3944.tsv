@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3944	0	USER	大阪旅行で、炭と地酒とたしなみワイン Kai本店 醸すというお店に行く予定をしているのですが。	general,restaurant
+3944	1	SYSTEM	かしこまりました。何かお調べ致しますか？	general,restaurant
+3944	2	USER	料金情報が知りたくて。	general,restaurant
+3944	3	SYSTEM	申し訳ありません。料金情報については分かりません。	general,restaurant
+3944	4	USER	そうですか。わかりました。	general,restaurant
+3944	5	SYSTEM	その他にご用件はございますか？	general,restaurant
+3944	6	USER	ないです。ありがとうございました。	general,restaurant
+3944	7	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3726	0	USER	こんにちは。東京に行くのですが、ジャンボタクシーが利用できて、キャッシュレス払いが可能な、タクシー会社を探してもらえますか？	general,taxi
+3726	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,taxi
+3726	2	USER	ではジャンボタクシーは利用できなくても構いません。	general,taxi
+3726	3	SYSTEM	では、ビゲストはいかがですか？	general,taxi
+3726	4	USER	そこにしようかな。電話番号はわかりますか？	general,taxi
+3726	5	SYSTEM	はい、電話番号は0334201385です。	general,taxi
+3726	6	USER	ありがとうございます。ではそのタクシー会社で、3/14の11:30、出発地は日本橋高島屋S.C.、目的地は九州居酒屋 博多天神もつ鍋 永山本店 炎の陣 上野新館で、予約をお願いします。	general,taxi
+3726	7	SYSTEM	予約出来ました。予約番号は、75494になります。	general,taxi
+3726	8	USER	ありがとうございます。	general,taxi
+3726	9	SYSTEM	他にご用件はありますか？	general,taxi
+3726	10	USER	いえ、大丈夫です。案内ありがとうございました。	general,taxi
+3726	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

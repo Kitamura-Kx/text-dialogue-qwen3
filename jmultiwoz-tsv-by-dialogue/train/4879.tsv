@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4879	0	USER	仙台へ旅行をしたいと思っているんですけど、買い物ができるところはありますか？	general,shopping
+4879	1	SYSTEM	絵本と木のおもちゃ 横田やなど、53件見つかりました。	general,shopping
+4879	2	USER	それなら、青葉区で書籍がよいのですが。	general,shopping
+4879	3	SYSTEM	ヴィレッジヴァンガード仙台ロフト店など、4件見つかりました。	general,shopping
+4879	4	USER	ヴィレッジヴァンガード仙台ロフト店の住所と電話番号を教えてもらえますか？	general,shopping
+4879	5	SYSTEM	住所は宮城県仙台市青葉区中央1丁目10-10 仙台ロフト７F、電話番号は0227265635です。	general,shopping
+4879	6	USER	ありがとうございます。	general,shopping
+4879	7	SYSTEM	他に何かお調べすることはありますか？	general,shopping
+4879	8	USER	他は大丈夫です。ありがとうございました。	general,shopping
+4879	9	SYSTEM	わかりました。ご利用ありがとうございました。	general,shopping

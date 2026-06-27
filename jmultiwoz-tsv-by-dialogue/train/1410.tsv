@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1410	0	USER	那覇への旅行を計画しています．	general,attraction
+1410	1	SYSTEM	はい。お問合せありがとうございます。	general,attraction
+1410	2	USER	当日訪れる観光名所を探してください．Wi-Fiと駐車場を無料で利用できるでジャンルは歴史的建造物がいいです。	general,attraction
+1410	3	SYSTEM	識名園はいかがですか？	general,attraction
+1410	4	USER	料金情報，住所，営業時間について教えていただけますか。	general,attraction
+1410	5	SYSTEM	料金情報は大人400円、小人（中学生以下）200円、保護者が同伴する小学校就学前の小人は無料で、住所は沖縄県那覇市字真地421-7、営業時間は09:00～18:00になります。	general,attraction
+1410	6	USER	ありがとうございます。	general,attraction

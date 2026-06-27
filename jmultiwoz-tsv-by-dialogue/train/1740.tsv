@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1740	0	USER	名古屋で飲食店を探しています。新栄町の最寄りで予算安めのお店を教えてください。	general,restaurant,weather
+1740	1	SYSTEM	新栄町で予算安めといえば、中華ダイニング くうかいですね。	general,restaurant,weather
+1740	2	USER	電話番号は何番ですか？	general,restaurant,weather
+1740	3	SYSTEM	05054870735になります。	general,restaurant,weather
+1740	4	USER	1月29日の14時40分から3人で予約できますか？	general,restaurant,weather
+1740	5	SYSTEM	1月29日の14時40分から3人で予約成功しました。予約番号は99908です。	general,restaurant,weather
+1740	6	USER	同じ日の昭和区の天候ってどうなりそうか分かりますか？	general,restaurant,weather
+1740	7	SYSTEM	1月29日昭和区の天気は曇りです。	general,restaurant,weather
+1740	8	USER	曇りか、寒いのかなあ？最低気温って分かります？	general,restaurant,weather
+1740	9	SYSTEM	最低気温は0.2度、かなり寒いですね。	general,restaurant,weather
+1740	10	USER	ひやあ、覚悟が必要ですね。ありがとうございました。	general,restaurant,weather

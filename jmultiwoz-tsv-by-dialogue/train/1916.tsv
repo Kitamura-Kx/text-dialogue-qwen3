@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1916	0	USER	すみません、今度、京都へ旅行に行くんですけど、案内をお願いできますか？	general,shopping,taxi,weather
+1916	1	SYSTEM	かしこまりました。何をご案内させていただきましょうか。	general,shopping,taxi,weather
+1916	2	USER	えっと、丸太町駅が最寄り駅の、買い物ができるような所を探していただけますか？	general,shopping,taxi,weather
+1916	3	SYSTEM	山田松香木店、 香老舗 松栄堂、 誠光社の3件が見つかりました。	general,shopping,taxi,weather
+1916	4	USER	では、山田松香木店について、案内をお願いします。そちらは、どこのエリアのお店になりますか？	general,shopping,taxi,weather
+1916	5	SYSTEM	上京区のお店です。	general,shopping,taxi,weather
+1916	6	USER	ありがとうございます！わかりました。あと、ジャンボタクシーを利用できるタクシー会社も探しているのですが、お願いできますか？	general,shopping,taxi,weather
+1916	7	SYSTEM	高速タクシー株式会社はいかがでしょうか。	general,shopping,taxi,weather
+1916	8	USER	ありがとうございます！そちらのタクシー会社の電話番号を伺っても宜しいですか？	general,shopping,taxi,weather
+1916	9	SYSTEM	0756015588	general,shopping,taxi,weather
+1916	10	USER	ありがとうございます！書き留めました。えっと、そちらの予約をお願いしたいんですけど、11月12日の14時に、洛西タカシマヤから、山田松香木店まででお願いします。	general,shopping,taxi,weather
+1916	11	SYSTEM	かしこまりました。ご予約完了しております。予約番号は５１０３です。	general,shopping,taxi,weather
+1916	12	USER	わかりました。ありがとうございます！あと、最後に山科区の11月12日の天気について伺いたいのですが。	general,shopping,taxi,weather
+1916	13	SYSTEM	かしこまりました。11月12日の天気は晴れのち曇です。	general,shopping,taxi,weather
+1916	14	USER	そうなんですね。最低気温もわかりますか？	general,shopping,taxi,weather
+1916	15	SYSTEM	5.8度の予報です。	general,shopping,taxi,weather
+1916	16	USER	ありがとうございます。色々とご案内いただき、助かりました！	general,shopping,taxi,weather
+1916	17	SYSTEM	とんでもないです。またよろしくお願いいたします。	general,shopping,taxi,weather
+1916	18	USER	はい、それでは失礼いたします。	general,shopping,taxi,weather
+1916	19	SYSTEM	失礼いたします。	general,shopping,taxi,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3488	0	USER	東京へ旅行に行くので飲食店を探しています	general,restaurant
+3488	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+3488	2	USER	イタリアン・フレンチで予算は高めです	general,restaurant
+3488	3	SYSTEM	ではROTISSERIE★BLUEはいかがでしょうか。	general,restaurant
+3488	4	USER	そこにします。料金について教えてください。	general,restaurant
+3488	5	SYSTEM	料金情報はロティサリーチキン二分の一が、パン又はライス付きのランチで1500円、名物のロティサリーチキンFullサイズが3980円、モッツァレラブッファラとカラフルトマトのマリネが1260円となっております。	general,restaurant
+3488	6	USER	詳しくありがとうございます。	general,restaurant
+3488	7	SYSTEM	ほかにご用件はございませんか。	general,restaurant
+3488	8	USER	ないです。ありがとうございました！	general,restaurant
+3488	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

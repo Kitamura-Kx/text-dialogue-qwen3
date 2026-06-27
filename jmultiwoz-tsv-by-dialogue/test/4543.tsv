@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4543	0	USER	名古屋へ旅行する予定なのですが天気が気になります。９月３０日の西区の最高気温と天気を教えて下さい。	general,weather,taxi
+4543	1	SYSTEM	9/30 名古屋 西区 の天気は雨時々晴、最低気温17.5度、最高気温30.7度です。	general,weather,taxi
+4543	2	USER	ジャンボタクシーを利用したいのですがキャッシュレス可能な会社はありますか？	general,weather,taxi
+4543	3	SYSTEM	両方対応できる、東海交通をお勧めします。	general,weather,taxi
+4543	4	USER	ちなみに電話番号を教えて下さい。	general,weather,taxi
+4543	5	SYSTEM	0532571111です。	general,weather,taxi
+4543	6	USER	ありがとうございます。そこを予約して頂けますか？9/30の午前09:40、出発地は覚王山アパートで目的地はNagoya Hostel The Three Smilesです。	general,weather,taxi
+4543	7	SYSTEM	予約成功しました。予約番号は47200です。	general,weather,taxi
+4543	8	USER	大変助かりました！ありがとうございました。	general,weather,taxi

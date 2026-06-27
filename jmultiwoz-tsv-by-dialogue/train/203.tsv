@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+203	0	USER	名古屋で旅館を探しています。Wi-Fiが無料のところを教えてほしいんですが。	general,hotel,weather
+203	1	SYSTEM	度々申し訳ございません。ビジネス旅館 平野屋はいかがでしょうか。	general,hotel,weather
+203	2	USER	そこでいいです。価格帯を知りたいんですけど、あと分かる範囲で料金情報を。	general,hotel,weather
+203	3	SYSTEM	価格帯は安めとなっております。詳しい料金に関しましてはこちらではわかりかねます。	general,hotel,weather
+203	4	USER	わかりました。5月23日に2人で予約したいんですけど。2泊希望で。	general,hotel,weather
+203	5	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,weather
+203	6	USER	じゃあ1泊だけならどうですか？	general,hotel,weather
+203	7	SYSTEM	1泊ですと予約が可能でございました。予約番号は34048でございます。	general,hotel,weather
+203	8	USER	同じ23日の瑞穂区の天候ってどうなりそうですか？	general,hotel,weather
+203	9	SYSTEM	天気は曇のち晴、最低気温は16.9度、最高気温は30.5度となっております。	general,hotel,weather
+203	10	USER	温度差がすごいですね。気をつけようっと。お手数をかけました。お世話様でした。	general,hotel,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2757	0	USER	福岡へ旅行に行きたく、観光名所を探してほしいです。条件としては、無料のWi-Fiと駐車場が利用できるところがいいです。	general,attraction,hotel
+2757	1	SYSTEM	承知しました。エリアでいうと西区にある、マリノアシティ福岡はいかがでしょう？ジャンルは、その他となります。	general,attraction,hotel
+2757	2	USER	そちらの営業時間と大人の入場料を教えてください。	general,attraction,hotel
+2757	3	SYSTEM	はい、大人入場料は必要なく、無料でご利用いただけます。営業時間は、店舗により異なる、とのことです。	general,attraction,hotel
+2757	4	USER	承知しました。次に宿泊施設を探して欲しく、予算は高めのリゾートホテルを希望します。	general,attraction,hotel
+2757	5	SYSTEM	では、エリアでいうと中央区にある、ソラリア西鉄ホテル福岡はいかがでしょう？	general,attraction,hotel
+2757	6	USER	そちらの電話番号、料金情報と住所を教えてほしいです。	general,attraction,hotel
+2757	7	SYSTEM	はい、電話番号は0927525555、住所は福岡県福岡市中央区天神2丁目2-43となります。申し訳ありません、ご案内可能な料金情報はございません。	general,attraction,hotel
+2757	8	USER	承知致しました。こちらからは以上です。	general,attraction,hotel
+2757	9	SYSTEM	ありがとうございました。	general,attraction,hotel

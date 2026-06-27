@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3185	0	USER	福岡への旅行を計画していて、当日の宿泊施設を探しています。Wi-Fi無料で高めのところが良いです。	general,hotel,weather,taxi
+3185	1	SYSTEM	かしこまりました。では、グランド ハイアット 福岡はいかがでしょうか？	general,hotel,weather,taxi
+3185	2	USER	ありがとうございます。そこの最寄り駅、電話番号は分かりますか？	general,hotel,weather,taxi
+3185	3	SYSTEM	はい。最寄りは博多駅で、電話番号は0922821234でございます。	general,hotel,weather,taxi
+3185	4	USER	ありがとうございます。そこの予約をお願いしたいのですが、1/27から4泊、3人で予約をお願い出来ますか？	general,hotel,weather,taxi
+3185	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、75311です。	general,hotel,weather,taxi
+3185	6	USER	ありがとうございます。当日の天気も知りたいです。1/27、西区の天気と最低気温は分かりますか？	general,hotel,weather,taxi
+3185	7	SYSTEM	かしこまりました。1/27の西区の天気予報は晴のち雨となっております。最低気温は3.7度、最高気温は9.1度になる予報です。	general,hotel,weather,taxi
+3185	8	USER	ありがとうございます。当日のタクシー会社も探しています。ジャンボタクシーが利用できて、キャッシュレス払い対応があるところがいいです。	general,hotel,weather,taxi
+3185	9	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,hotel,weather,taxi
+3185	10	USER	では、キャッシュレス対応は無くても良いです。	general,hotel,weather,taxi
+3185	11	SYSTEM	かしこまりました。では、清流タクシー（有）はいかがでしょうか？	general,hotel,weather,taxi
+3185	12	USER	ありがとうございます。そこの電話番号は分かりますか？	general,hotel,weather,taxi
+3185	13	SYSTEM	はい。0928041000です。	general,hotel,weather,taxi
+3185	14	USER	ありがとうございます。そこの予約をお願いしたいのですが、1/27の午後14：40から、グランド ハイアット 福岡からどん蔵までお願い出来ますか？	general,hotel,weather,taxi
+3185	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、7264です。	general,hotel,weather,taxi
+3185	16	USER	ありがとうございました。	general,hotel,weather,taxi
+3185	17	SYSTEM	はい。こちらこそありがとうございました。	general,hotel,weather,taxi

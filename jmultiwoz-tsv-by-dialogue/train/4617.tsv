@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4617	0	USER	仙台への旅行を計画しています． 当日利用できるタクシー会社を探してください．ジャンボタクシーを利用できるところにしてください．キャッシュレス払いできるところにしてください．	general,taxi
+4617	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,taxi
+4617	2	USER	でしたらジャンボタクシーはどちらでも。	general,taxi
+4617	3	SYSTEM	宮城タクシー（株）はいかがでしょうか。	general,taxi
+4617	4	USER	そちらの電話番号を教えていただけますか。あと、日付は9/17です．時間は10:00です．出発地は三宝亭仙台泉店というところです．目的地は青葉城 本丸会館というところで予約いただけますか。	general,taxi
+4617	5	SYSTEM	電話番号は0222441181です。予約完了いたしました。予約番号は88853になります。	general,taxi
+4617	6	USER		general,taxi

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+986	0	USER	那覇旅行を計画しているのですが、小禄周辺で医薬品・化粧品が買える所はありますか？	general,shopping
+986	1	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,shopping
+986	2	USER	そうですか。じゃあ本庁周辺にはありそうですか？	general,shopping
+986	3	SYSTEM	はい。では、塩屋 平和通り店はいかがでしょうか？	general,shopping
+986	4	USER	そこは駐車場はありますか？	general,shopping
+986	5	SYSTEM	申し訳ありません、こちらには併設しておりません。	general,shopping
+986	6	USER	ありがとうございます。以上です。	general,shopping
+986	7	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,shopping

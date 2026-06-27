@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+281	0	USER	大阪への旅行を計画しており、宿泊施設を探してもらいたいです。	general,hotel,weather
+281	1	SYSTEM	かしこまりました。なにか、ご希望の条件など、ございますでしょうか？	general,hotel,weather
+281	2	USER	Wi-Fiが無料で利用できるシティホテルがいいのですが、どこかいいところはありますか？	general,hotel,weather
+281	3	SYSTEM	では、大阪エクセルホテル東急は如何でしょうか？	general,hotel,weather
+281	4	USER	そこはレストランはありますか？	general,hotel,weather
+281	5	SYSTEM	はい、併設しております。	general,hotel,weather
+281	6	USER	わかりました。あと10/9の北区の天候も調べてもらいたいです。	general,hotel,weather
+281	7	SYSTEM	10/9、大阪の北区の天気は、晴れの予報です。最低気温は12.5度、最高気温は18.5度の予想となっております。	general,hotel,weather
+281	8	USER	ありがとうございます。	general,hotel,weather
+281	9	SYSTEM	ほかにお調べすることはございますか？	general,hotel,weather
+281	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel,weather
+281	11	SYSTEM	本日はご利用ありがとうございました。	general,hotel,weather

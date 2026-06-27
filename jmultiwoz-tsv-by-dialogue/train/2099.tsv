@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2099	0	USER	仙台への旅行を検討しています。当日宿泊できる施設を探しているのですが、お伺いしてもよろしいでしょうか？	general,hotel,shopping,attraction
+2099	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,shopping,attraction
+2099	2	USER	はい。若林区で、Wi-Fiが無料で利用できればと思います。	general,hotel,shopping,attraction
+2099	3	SYSTEM	かしこまりました。では、ホテルルートイン仙台東はいかがでしょうか？	general,hotel,shopping,attraction
+2099	4	USER	そちらで検討してみたいです。ちなみに、このホテルはどのようなタイプでしょうか？	general,hotel,shopping,attraction
+2099	5	SYSTEM	はい。タイプはビジネスホテルです。	general,hotel,shopping,attraction
+2099	6	USER	ありがとうございます。このホテルにはレストランはありますか？	general,hotel,shopping,attraction
+2099	7	SYSTEM	はい。レストランはございます。	general,hotel,shopping,attraction
+2099	8	USER	助かります。ちなみに、このホテルの最寄り駅ってわかりますか？	general,hotel,shopping,attraction
+2099	9	SYSTEM	はい。最寄り駅は六丁の目駅です。	general,hotel,shopping,attraction
+2099	10	USER	ありがとうございます。最後に、当日買い物が出来る場所を探しているのですが、よろしいでしょうか？	general,hotel,shopping,attraction
+2099	11	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,shopping,attraction
+2099	12	USER	そうですね。スポーツ系のお店で、駐車場が無料で利用できるお店ってありますか？	general,hotel,shopping,attraction
+2099	13	SYSTEM	かしこまりました。では、スポーツデポ 仙台新港店はいかがでしょうか？	general,hotel,shopping,attraction
+2099	14	USER	そちらで検討してみたいです。このお店の営業時間ってわかりますか？	general,hotel,shopping,attraction
+2099	15	SYSTEM	はい。営業時間は10:00～20:30です。	general,hotel,shopping,attraction
+2099	16	USER	ありがとうございます。最後に、観光名所も探しているのですが、お伺いしてもよろしいでしょうか？	general,hotel,shopping,attraction
+2099	17	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,shopping,attraction
+2099	18	USER	はい。映画館を探しています。	general,hotel,shopping,attraction
+2099	19	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,hotel,shopping,attraction
+2099	20	USER	そうですか。でしたら、特にジャンル指定はありませんので、おすすめの観光名所とかってありますか？	general,hotel,shopping,attraction
+2099	21	SYSTEM	かしこまりました。では、AER展望テラスはいかがでしょうか？	general,hotel,shopping,attraction
+2099	22	USER	そこで検討してみようと思います。ちなみ、この施設では、Wi-Fiは利用出来ますか？	general,hotel,shopping,attraction
+2099	23	SYSTEM	いえ、Wi-Fiはございません。	general,hotel,shopping,attraction
+2099	24	USER	そうですか。とりあえず、もう少し色々と検討してみます。これで大丈夫です。ご対応、ありがとうございました。	general,hotel,shopping,attraction
+2099	25	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,attraction

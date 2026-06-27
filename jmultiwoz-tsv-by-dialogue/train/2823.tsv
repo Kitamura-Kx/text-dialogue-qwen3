@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2823	0	USER	京都へ行くのに簡易宿所が出来るところを探しています。	general,hotel,attraction
+2823	1	SYSTEM	そうしますと、22件ご案内可能です。エリアなどでご希望はございませんか？	general,hotel,attraction
+2823	2	USER	上京区でWi-Fiが無料のところはありますか？	general,hotel,attraction
+2823	3	SYSTEM	申し訳ありません。その条件ですと、該当するところがありませんでした。	general,hotel,attraction
+2823	4	USER	では上京区でなくてもいいです。	general,hotel,attraction
+2823	5	SYSTEM	ありがとうございます。では、ゲストハウス ファミリー・イン慶 京都市はいかがでしょうか？こちらは、南区エリアにございます。	general,hotel,attraction
+2823	6	USER	いいですね。レストランはありますか？最寄り駅も教えてください。	general,hotel,attraction
+2823	7	SYSTEM	申し訳ありません、こちらにはレストランは併設しておりません。最寄り駅は九条駅です。	general,hotel,attraction
+2823	8	USER	電話番号は何番になりますか？	general,hotel,attraction
+2823	9	SYSTEM	申し訳ありません、こちらの電話番号は、不明となっております。	general,hotel,attraction
+2823	10	USER	2/7から4泊、2人で予約をお願いしたいです。	general,hotel,attraction
+2823	11	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,hotel,attraction
+2823	12	USER	一人だとどうですか？	general,hotel,attraction
+2823	13	SYSTEM	ありがとうございます。1名様にて、ご予約完了いたしました。予約番号は、67974です。	general,hotel,attraction
+2823	14	USER	あと京都水族館に行こうと思っているのですが、エリアと住所が知りたいです。	general,hotel,attraction
+2823	15	SYSTEM	京都水族館ですね。エリアは、下京区にございます。住所は、京都府京都市下京区観喜寺町35-1（梅小路公園内）です。	general,hotel,attraction
+2823	16	USER	ありがとうございました。助かりました。	general,hotel,attraction
+2823	17	SYSTEM	ほかに何かお調べすることはございませんか？	general,hotel,attraction
+2823	18	USER	特にありません。	general,hotel,attraction
+2823	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction

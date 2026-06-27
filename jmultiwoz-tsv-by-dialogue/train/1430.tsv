@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1430	0	USER	横浜で安めの飲食店を探して欲しいです。できれば、駐車場無料だと良いです。	general,restaurant,taxi
+1430	1	SYSTEM	かしこまりました。ではカフェ・ド・ラペはいかがですか。	general,restaurant,taxi
+1430	2	USER	よさそうですね。最寄り駅と、所要時間を教えて頂けますか？	general,restaurant,taxi
+1430	3	SYSTEM	最寄り駅は日本大通り駅でございます。日本大通り駅から徒歩で3分となっております。	general,restaurant,taxi
+1430	4	USER	ありがとうございます。次にタクシーも予約したいのですが、ジャンボタクシーがあって、キャッシュレス払いできる会社はありますか？	general,restaurant,taxi
+1430	5	SYSTEM	はい。株式会社グリーンキャブがございます。	general,restaurant,taxi
+1430	6	USER	株式会社グリーンキャブの連絡先はわかりますか？	general,restaurant,taxi
+1430	7	SYSTEM	電話番号は0456638181でございます。	general,restaurant,taxi
+1430	8	USER	ではそちらで予約をお願いします。6/10 12:40に、先ほどのカフェ・ド・ラペを出発して、ダイワロイネットホテル横浜関内まで行きたいです。	general,restaurant,taxi
+1430	9	SYSTEM	申し訳ございません。その条件では予約ができませんでした。	general,restaurant,taxi
+1430	10	USER	そうしたら、13:10の出発でもかまいませんが、予約できそうですか？	general,restaurant,taxi
+1430	11	SYSTEM	その時間ですと予約が可能でございました。予約番号は84526でございます。	general,restaurant,taxi
+1430	12	USER	ありがとうございます。今日は以上で大丈夫です。	general,restaurant,taxi
+1430	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

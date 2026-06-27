@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1666	0	USER	札幌へ旅行に行くので、宿泊施設を探してもらえますか？	general,hotel,restaurant,taxi
+1666	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,hotel,restaurant,taxi
+1666	2	USER	エリアはどこでも大丈夫です。旅館がいいのですが、できればWi-Fiが無料で、レストランが併設されているところがいいですね。	general,hotel,restaurant,taxi
+1666	3	SYSTEM	かしこまりました。そうしますと、２件ご案内可能です。例えば、ONSEN RYOKAN 由縁 札幌という中央区エリアの旅館はいかがでしょうか？	general,hotel,restaurant,taxi
+1666	4	USER	じゃあ、そこにします。最寄り駅はどこになりますか？	general,hotel,restaurant,taxi
+1666	5	SYSTEM	最寄り駅は、大通駅でございます。	general,hotel,restaurant,taxi
+1666	6	USER	わかりました。あと、当日食事ができる飲食店も探してもらえますか？普通くらいの予算のところがいいです。	general,hotel,restaurant,taxi
+1666	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,restaurant,taxi
+1666	8	USER	そうですか。では予算にはこだわらないことにします。	general,hotel,restaurant,taxi
+1666	9	SYSTEM	ありがとうございます。そうしますと、味処 こめますという安めのお値段のお店はいかがでしょうか？	general,hotel,restaurant,taxi
+1666	10	USER	どんなジャンルのお店ですか？	general,hotel,restaurant,taxi
+1666	11	SYSTEM	ジャンルは、和食, 洋食・西洋料理でございます。	general,hotel,restaurant,taxi
+1666	12	USER	じゃあ、そこにします。営業時間を教えてください。	general,hotel,restaurant,taxi
+1666	13	SYSTEM	営業時間は、11:00～15:00と17:00～20:00となっております。	general,hotel,restaurant,taxi
+1666	14	USER	では、予約もお願いします。４名で6/26の15：30が希望です。	general,hotel,restaurant,taxi
+1666	15	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,hotel,restaurant,taxi
+1666	16	USER	そうですか。では16：10だったらどうでしょうか。	general,hotel,restaurant,taxi
+1666	17	SYSTEM	ありがとうございます。１６時１０分でご予約完了いたしました。予約番号は、19666でございます。	general,hotel,restaurant,taxi
+1666	18	USER	ありがとうございます。あと、当日利用できるジャンボタクシーの会社も探してくください。キャッシュレス決済ができるところがいいです。	general,hotel,restaurant,taxi
+1666	19	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,restaurant,taxi
+1666	20	USER	じゃあ、現金決済でも大丈夫です。	general,hotel,restaurant,taxi
+1666	21	SYSTEM	ありがとうございます。そうしますと、新雪交通(株)はいかがでしょうか？	general,hotel,restaurant,taxi
+1666	22	USER	ありがとうございます。そこの電話番号を教えてもらえますか？	general,hotel,restaurant,taxi
+1666	23	SYSTEM	電話番号は、0118647811でございます。	general,hotel,restaurant,taxi
+1666	24	USER	予約もお願いできますか。6/26の14：00で、ONSEN RYOKAN 由縁 札幌から味処 こめますへ行くのに利用します。	general,hotel,restaurant,taxi
+1666	25	SYSTEM	かしこまりました。ご予約ありがとうございます。予約番号57430にて、承りました。	general,hotel,restaurant,taxi
+1666	26	USER	ありがとうございました。	general,hotel,restaurant,taxi
+1666	27	SYSTEM	他にお調べすることはございますか？	general,hotel,restaurant,taxi
+1666	28	USER	ありません。	general,hotel,restaurant,taxi
+1666	29	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,restaurant,taxi

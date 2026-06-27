@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3654	0	USER	那覇へ旅行に行こうと思っています。当日訪れる観光名所を探しています。駐車場が無料でWi-Fiも無料のところが希望です。	general,attraction,restaurant,hotel
+3654	1	SYSTEM	かしこまりました。それでは那覇空港はいかがでしょうか？	general,attraction,restaurant,hotel
+3654	2	USER	そこのエリアを教えてください。	general,attraction,restaurant,hotel
+3654	3	SYSTEM	エリアは小禄でございます。	general,attraction,restaurant,hotel
+3654	4	USER	あと当日食事ができる飲食店を探しています。ジャンルは洋食・西洋料理です．駐車場を無料で利用できるところにしてください。地区は本庁希望です。	general,attraction,restaurant,hotel
+3654	5	SYSTEM	お待たせ致しました。申し訳ございませんがその条件ではお探しすることが出来ませんでした。	general,attraction,restaurant,hotel
+3654	6	USER	でしたら、ジャンルはなんでも良いです。	general,attraction,restaurant,hotel
+3654	7	SYSTEM	かしこまりました。それでは、おもろダイニング 山葵はいかがでしょうか？	general,attraction,restaurant,hotel
+3654	8	USER	そこの値段帯と電話番号を教えてください。	general,attraction,restaurant,hotel
+3654	9	SYSTEM	はい、値段帯は高め、電話番号は分かりません。	general,attraction,restaurant,hotel
+3654	10	USER	あと当日泊まる宿泊施設を探しています。地区は本庁で、駐車場とWi-Fiが無料のところが良いです。	general,attraction,restaurant,hotel
+3654	11	SYSTEM	かしこまりました。それではさくらや国際通りはいかがでしょうか？	general,attraction,restaurant,hotel
+3654	12	USER	そこのチェックアウト終了時刻と住所を教えてください。	general,attraction,restaurant,hotel
+3654	13	SYSTEM	チェックアウト終了時刻は10時でございます。住所は沖縄県那覇市松尾1丁目3-16 2Fです。	general,attraction,restaurant,hotel
+3654	14	USER	そこに予約をしたいので人数は2人で日付は2/17宿泊日数は2泊でお願いします。	general,attraction,restaurant,hotel
+3654	15	SYSTEM	申し訳ございませんがその条件では予約することが出来ませんでした。	general,attraction,restaurant,hotel
+3654	16	USER	でしたら、人数は1人で良いです。	general,attraction,restaurant,hotel
+3654	17	SYSTEM	お待たせ致しました。予約番号54663でお取りさせていただきました。	general,attraction,restaurant,hotel
+3654	18	USER	分かりました。ありがとうございます。	general,attraction,restaurant,hotel
+3654	19	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,restaurant,hotel

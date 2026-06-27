@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3645	0	USER	福岡へ旅行に行くので、泊まるところを探してください。	general,hotel
+3645	1	SYSTEM	かしこまりました。92件からお選びいただけますが、何か条件などございますか？	general,hotel
+3645	2	USER	無料駐車場があるところがいいです。	general,hotel
+3645	3	SYSTEM	申し訳ございません。無料駐車場のあるところはお探し出来ませんでした。	general,hotel
+3645	4	USER	では有料でもいいので駐車場があるところはありますか？	general,hotel
+3645	5	SYSTEM	かしこまりました。それではサットンホテル 博多シティはいかがでしょうか？	general,hotel
+3645	6	USER	そちらはどちらのエリアにありますか？	general,hotel
+3645	7	SYSTEM	博多区でございます。	general,hotel
+3645	8	USER	そのホテルにレストランはありますか？	general,hotel
+3645	9	SYSTEM	併設のレストランはございません。	general,hotel
+3645	10	USER	あとチェックアウト終了時刻をお願いします。	general,hotel
+3645	11	SYSTEM	チェックアウト終了時刻は11時でございます。	general,hotel
+3645	12	USER	11時ちょうどですか？	general,hotel
+3645	13	SYSTEM	はい、ちょうどでございます。	general,hotel
+3645	14	USER	わかりました。ありがとうございます。以上になります。	general,hotel
+3645	15	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

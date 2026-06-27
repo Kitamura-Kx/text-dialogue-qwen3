@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4163	0	USER	京都へ旅行に行こうと思っています。当日食事ができる飲食店を教えてください。予算は高めで駐車場は無料が希望です。	general,restaurant
+4163	1	SYSTEM	では、加賀屋 京都店という和食のお店はいかがでしょうか？	general,restaurant
+4163	2	USER	そこが良さそうですね。そこの定休日を教えてください。	general,restaurant
+4163	3	SYSTEM	こちらは、定休日はございません。	general,restaurant
+4163	4	USER	分かりました。ありがとうございます。	general,restaurant
+4163	5	SYSTEM	他になにか、お調べすることなどございませんか？	general,restaurant
+4163	6	USER	はい、大丈夫です。	general,restaurant
+4163	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

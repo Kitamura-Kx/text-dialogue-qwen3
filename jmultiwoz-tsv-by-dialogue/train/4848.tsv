@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4848	0	USER	那覇の小禄地区でWi-Fiが無料の飲食店はありますか？	general,restaurant,shopping,weather
+4848	1	SYSTEM	琉球村 那覇空港店はいかがですか？	general,restaurant,shopping,weather
+4848	2	USER	駐車場が無料のお店が良いのですがこのお店は駐車場は無料ですか？	general,restaurant,shopping,weather
+4848	3	SYSTEM	申し訳ありません、こちらは有料駐車場になります。　どうされますか？	general,restaurant,shopping,weather
+4848	4	USER	他のお店でWi-Fiと駐車場、両方無料の飲食店はないですか？	general,restaurant,shopping,weather
+4848	5	SYSTEM	それでしたら、ワイン食堂トランク イタリアゴハン 小禄店はいかがですか？	general,restaurant,shopping,weather
+4848	6	USER	ありがとうございます！そのお店の値段帯と最寄り駅を教えてください。	general,restaurant,shopping,weather
+4848	7	SYSTEM	値段帯は、普通となっています。最寄り駅は、小禄駅です。	general,restaurant,shopping,weather
+4848	8	USER	わかりました。あと小禄地区で駐車場が無料で買い物できる所はありますか？	general,restaurant,shopping,weather
+4848	9	SYSTEM	1件みつかりました。LEO & JOEはいかがですか？	general,restaurant,shopping,weather
+4848	10	USER	このお店の営業時間を教えてください。	general,restaurant,shopping,weather
+4848	11	SYSTEM	営業時間は、10時から18時までです。	general,restaurant,shopping,weather
+4848	12	USER	ありがとうございます。駅からはどれくらいの時間がかかりますか？	general,restaurant,shopping,weather
+4848	13	SYSTEM	所要時間は、奥武山公園駅から徒歩で2分となっています。	general,restaurant,shopping,weather
+4848	14	USER	わかりました。最後に6/19の首里地区の気温を教えてください。	general,restaurant,shopping,weather
+4848	15	SYSTEM	最高気温は、33度で最低気温は30.3度となっています。	general,restaurant,shopping,weather
+4848	16	USER	わかりました。ありがとうございました。	general,restaurant,shopping,weather
+4848	17	SYSTEM	他にご用件はありますか？	general,restaurant,shopping,weather
+4848	18	USER	大丈夫です。ありがとうございました。	general,restaurant,shopping,weather
+4848	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,weather

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+474	0	USER	名古屋の飲食店を探してください。	general,restaurant
+474	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+474	2	USER	駐車場とWi-Fiが無料利用できるところがいいです。	general,restaurant
+474	3	SYSTEM	申し訳ございません。どちらも無料の飲食店はございませんでした。いかがなさいますか。	general,restaurant
+474	4	USER	じゃあ、Wi-Fiは無料じゃなくてもいいです。どこかありますか？	general,restaurant
+474	5	SYSTEM	ではうなぎの新甫はいかがでしょうか。	general,restaurant
+474	6	USER	いいですね。そちらのお店、定休日はありますか？	general,restaurant
+474	7	SYSTEM	定休日は日曜日でございます。	general,restaurant
+474	8	USER	では、予約をお願いします。12/27の14:30に4人で。	general,restaurant
+474	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は76464でございます。	general,restaurant
+474	10	USER	わかりました！ありがとうございます。	general,restaurant

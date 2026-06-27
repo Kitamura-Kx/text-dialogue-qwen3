@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4890	0	USER	福岡への旅行を計画しているのですが、レストランが併設されていて、Wi-Fiが無料で利用できるビジネスホテルをさがしてもらえますか？	general,hotel,weather
+4890	1	SYSTEM	かしこまりました。それではシーサイドホテルツインズももちはいかがでしょうか？	general,hotel,weather
+4890	2	USER	料金情報を教えてください。	general,hotel,weather
+4890	3	SYSTEM	価格帯は安めですが、料金情報は分かりません。申し訳ありません。	general,hotel,weather
+4890	4	USER	わかりました。あと10/31の東区の天気と最低気温を調べてもらえますか？	general,hotel,weather
+4890	5	SYSTEM	お待たせ致しました。当日の天気は晴時々雨、最低気温は20.2度でございます。	general,hotel,weather
+4890	6	USER	ありがとうございます。	general,hotel,weather
+4890	7	SYSTEM	その他にご用件はございますか？	general,hotel,weather
+4890	8	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3108	0	USER	札幌の南区で観光名所はありますか？	general,attraction
+3108	1	SYSTEM	申し訳ありません、ご案内可能な観光名所がございません。いかが致しましょう？	general,attraction
+3108	2	USER	南区じゃなくても大丈夫です。	general,attraction
+3108	3	SYSTEM	では、エリアでいうと北区にある、北海道大学はいかがでしょう？ジャンルはその他となります。	general,attraction
+3108	4	USER	ありがとうございます。駐車場があるかと最寄り駅を教えてください。	general,attraction
+3108	5	SYSTEM	はい、駐車場は有料ですがご利用いただけます。最寄りの北12条駅から徒歩で5分となります。	general,attraction
+3108	6	USER	わかりました。ありがとうございました。	general,attraction
+3108	7	SYSTEM	他にご用件はございますか？	general,attraction
+3108	8	USER	大丈夫です。	general,attraction
+3108	9	SYSTEM	ありがとうございました。	general,attraction

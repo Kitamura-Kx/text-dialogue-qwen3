@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3286	0	USER	仙台で無料駐車場と無料Wi-Fiが利用できる観光名所を探しています。	general,attraction,restaurant
+3286	1	SYSTEM	仙台で無料WiFiと駐車場無料の観光名所は２つありますが、仙台市文学館、こちらをおすすめします。	general,attraction,restaurant
+3286	2	USER	ありがとうございます。飲食店も探しているのですが、予算高めで、無料駐車場と無料Wi-Fiが利用できるところはありますでしょうか？	general,attraction,restaurant
+3286	3	SYSTEM	全ての条件を満たす飲食店はなさそうです。	general,attraction,restaurant
+3286	4	USER	予算が安めのお店だったらありますか？	general,attraction,restaurant
+3286	5	SYSTEM	予算安めでWiFiと駐車場が無料の飲食店は３つありますが、岳山珈琲、こちらをお勧めします。	general,attraction,restaurant
+3286	6	USER	そちらの住所と料金情報教えて下さい。	general,attraction,restaurant
+3286	7	SYSTEM	宮城県仙台市泉区福岡岳山7-101、Bランチ（サラダ、季節のスープ、自家製パンのスペシャルチーズトースト、コーヒー）1480円、岳山ブレンド 610円、りんごのタルト 550円、このあたりが目玉商品のようです。	general,attraction,restaurant
+3286	8	USER	ありがとうございます。あとそのお店は、近くの駅からどのくらいかかりますか？	general,attraction,restaurant
+3286	9	SYSTEM	笈坂駅から徒歩で2分です。その他泉中央駅からならタクシーで35分ですね。	general,attraction,restaurant
+3286	10	USER	ありがとうございました。	general,attraction,restaurant
+3286	11	SYSTEM	よい旅を	general,attraction,restaurant

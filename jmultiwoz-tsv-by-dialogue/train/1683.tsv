@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1683	0	USER	那覇へ旅行に行きたく、地区が小禄で無料のWi-Fiが利用できる観光名所はありますか？	general,attraction,restaurant,weather
+1683	1	SYSTEM	かしこまりました。では那覇空港はいかがでしょうか。	general,attraction,restaurant,weather
+1683	2	USER	そちらの電話番号を教えてください。	general,attraction,restaurant,weather
+1683	3	SYSTEM	電話番号は0988401179でございます。	general,attraction,restaurant,weather
+1683	4	USER	ありがとうございます。次に飲食店を探しており、ブラックハーレムという所はありますか？	general,attraction,restaurant,weather
+1683	5	SYSTEM	ございます。何かお知りになりたい情報はございますか。	general,attraction,restaurant,weather
+1683	6	USER	そこの最寄駅、最寄駅からの所要時間を教えてください。	general,attraction,restaurant,weather
+1683	7	SYSTEM	最寄り駅は牧志駅で、牧志駅から徒歩で1分でございます。	general,attraction,restaurant,weather
+1683	8	USER	それでは予約をお願いします。人数は4名、日時は3/29で16:30でお願いします。	general,attraction,restaurant,weather
+1683	9	SYSTEM	予約が完了いたしました。予約番号は39390でございます。	general,attraction,restaurant,weather
+1683	10	USER	ありがとうございます。最後に天候を調べてほしいです。地区は本庁、日付は3/29です。	general,attraction,restaurant,weather
+1683	11	SYSTEM	天気は晴のち曇で、最低気温17.6度、最高気温24.1度でございます。	general,attraction,restaurant,weather
+1683	12	USER	ありがとうございます。こちらからは以上です。	general,attraction,restaurant,weather
+1683	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,weather

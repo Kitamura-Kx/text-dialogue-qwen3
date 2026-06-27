@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+624	0	USER	大阪への旅行を考えているのですが、当日泊まる宿泊施設を探してください。	general,hotel,attraction
+624	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,attraction
+624	2	USER	はい。都島区にあるリゾートホテルで、Wi-Fiが無料で利用できるところが希望です。	general,hotel,attraction
+624	3	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,hotel,attraction
+624	4	USER	そうですか。なら、リゾートホテルじゃなくても大丈夫です。	general,hotel,attraction
+624	5	SYSTEM	ありがとうございます。では、東横INN京橋桜ノ宮がございます。何かご案内致しましょうか？	general,hotel,attraction
+624	6	USER	はい。値段帯とレストランがあるかどうかを知りたいです。あと、チェックアウト終了時刻も教えてください。	general,hotel,attraction
+624	7	SYSTEM	はい、値段帯は安め、併設のレストランはございません。チェックアウト終了時刻は10時となります。他にご案内できることはございますか？	general,hotel,attraction
+624	8	USER	わかりました。観光名所も探しているのですが、港区の美術館・博物館はありますか？	general,hotel,attraction
+624	9	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,hotel,attraction
+624	10	USER	じゃあ、ジャンルはなんでもいいです。	general,hotel,attraction
+624	11	SYSTEM	ありがとうございます。では、空庭温泉 OSAKA BAY TOWERはいかがでしょう？何かご案内致しましょうか？	general,hotel,attraction
+624	12	USER	そこにします。もう大丈夫です。	general,hotel,attraction
+624	13	SYSTEM	ありがとうございました。	general,hotel,attraction

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+784	0	USER	大阪へ行こうと思っています。北御堂という観光名所について詳しく教えていただけますでしょうか。	general,attraction,hotel
+784	1	SYSTEM	北御堂ですね。中央区エリアにございます観光名所となります。住所は、大阪府大阪市中央区本町4丁目1-3で、最寄り駅は本町駅となっております。	general,attraction,hotel
+784	2	USER	近辺の駅からの所要時間、定休日についても教えていただけますでしょうか。	general,attraction,hotel
+784	3	SYSTEM	最寄りの本町駅からは徒歩で1分、その他、梅田駅から徒歩で4分、新大阪駅から徒歩で15分、天王寺駅から徒歩で10分、難波駅から徒歩で4分といった行き方がございます。定休日につきましては、無休となっております。	general,attraction,hotel
+784	4	USER	わかりました。ありがとうございます。	general,attraction,hotel
+784	5	SYSTEM	他にお調べすることはございますか？	general,attraction,hotel
+784	6	USER	最寄り駅が十三駅で駐車場が無料で利用できる予算が普通な宿泊施設を探していただきたいです。	general,attraction,hotel
+784	7	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,hotel
+784	8	USER	では予算は考慮せず探していただけますでしょうか？	general,attraction,hotel
+784	9	SYSTEM	ありがとうございます。そうしますと、アスティルホテル十三プレシャスという、値段帯がお安めのビジネスホテルがございます。いかがでしょうか？	general,attraction,hotel
+784	10	USER	そちらのエリア、チェックイン開始時刻を教えていただけますでしょうか。	general,attraction,hotel
+784	11	SYSTEM	はい。エリアは、淀川区にございます。チェックイン開始は15時となっております。	general,attraction,hotel
+784	12	USER	わかりました。ありがとうございます。	general,attraction,hotel
+784	13	SYSTEM	他になにか、お知りになりたい情報などございますか？	general,attraction,hotel
+784	14	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,hotel

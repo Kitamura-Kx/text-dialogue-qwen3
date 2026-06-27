@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3416	0	USER	大阪の鶴見区で安めの所でWi-Fiが無料の宿泊施設を探しています。	general,hotel
+3416	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,hotel
+3416	2	USER	では、地区はどこでも大丈夫です。	general,hotel
+3416	3	SYSTEM	ANAクラウンプラザホテル大阪は、いかがですか？	general,hotel
+3416	4	USER	そちらのホテルの料金情報はなにかありますか？	general,hotel
+3416	5	SYSTEM	値段等が安めという事以外に、料金情報の記載はございません。	general,hotel
+3416	6	USER	わかりました。レストランはありますか？	general,hotel
+3416	7	SYSTEM	はい、レストランは、有りとなっています。	general,hotel
+3416	8	USER	わかりました。そのホテルを2/21に2人で4泊予約したいです。	general,hotel
+3416	9	SYSTEM	予約出来ました。予約番号は、72717です。	general,hotel
+3416	10	USER	ありがとうございます。	general,hotel
+3416	11	SYSTEM	他にご用件はありますか？	general,hotel
+3416	12	USER	大丈夫です。ありがとうございました。	general,hotel
+3416	13	SYSTEM	承知致しました。ありがとうございました。	general,hotel

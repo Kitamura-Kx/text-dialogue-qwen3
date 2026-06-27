@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4818	0	USER	大阪へ旅行に行くので、泊まるところを探してください。	general,hotel,attraction,weather
+4818	1	SYSTEM	はい、大阪の宿泊施設ですね。	general,hotel,attraction,weather
+4818	2	USER	予算は安めで、簡易宿所タイプがいいです。あとレストランが併設されているところでお願いします。	general,hotel,attraction,weather
+4818	3	SYSTEM	大阪で予算休め、レストラン併設の簡易宿所といえば、ゲストハウス木雲、こちらをお勧めします。	general,hotel,attraction,weather
+4818	4	USER	そちらの最寄り駅はどこですか？	general,hotel,attraction,weather
+4818	5	SYSTEM	淡路駅です。	general,hotel,attraction,weather
+4818	6	USER	チェックアウト終了時刻は何時ですか？	general,hotel,attraction,weather
+4818	7	SYSTEM	１０時です。	general,hotel,attraction,weather
+4818	8	USER	１０時ちょうどですか？	general,hotel,attraction,weather
+4818	9	SYSTEM	はい。	general,hotel,attraction,weather
+4818	10	USER	それでは1/29から4泊で、4人で予約してください。	general,hotel,attraction,weather
+4818	11	SYSTEM	予約成功しました。予約番号は11126です。	general,hotel,attraction,weather
+4818	12	USER	ありがとうございます。次に観光できる場所を探してください。	general,hotel,attraction,weather
+4818	13	SYSTEM	大阪の観光地ですね。	general,hotel,attraction,weather
+4818	14	USER	はい。Wi-Fiが無料で利用できるところがいいのですが。	general,hotel,attraction,weather
+4818	15	SYSTEM	大阪でWiFi無料の観光地はいくつかありますが、大阪城天守閣、こちらをお勧めします。	general,hotel,attraction,weather
+4818	16	USER	そちらの近辺の駅からの所要時間を教えてください。	general,hotel,attraction,weather
+4818	17	SYSTEM	いろいろあります。例えば、谷町四丁目駅から徒歩で17分、天満橋駅から徒歩で16分、森ノ宮駅から徒歩で16分、大阪ビジネスパーク駅から徒歩で12分、大阪城公園駅から徒歩で14分。どこからも近くて遠い感じです。	general,hotel,attraction,weather
+4818	18	USER	詳しくありがとうございます。あとこども入場料を教えてください。	general,hotel,attraction,weather
+4818	19	SYSTEM	中学生以下は無料、高校生以上だと６００円になります。	general,hotel,attraction,weather
+4818	20	USER	ありがとうございます。最後に1/29の港区の天候を教えてください。	general,hotel,attraction,weather
+4818	21	SYSTEM	1/29 大阪 港区 の天気は晴のち曇、最低気温8.8度、最高気温15.6度です。	general,hotel,attraction,weather
+4818	22	USER	ありがとうございます。以上になります。	general,hotel,attraction,weather
+4818	23	SYSTEM	よい旅を。	general,hotel,attraction,weather

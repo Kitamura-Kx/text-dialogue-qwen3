@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4711	0	USER	東京へ旅行予定です。豊島区で無料Wi-Fiが使える飲食店はありますか？	general,restaurant
+4711	1	SYSTEM	シュラスコレストラン ALEGRIA IKEBUKURO はいかがですか？	general,restaurant
+4711	2	USER	そこにします。駐車場はありますか？	general,restaurant
+4711	3	SYSTEM	ございません。	general,restaurant
+4711	4	USER	了解です。4人で2/1の10:00の予約は可能ですか？	general,restaurant
+4711	5	SYSTEM	かしこまりました。予約完了しております。予約番号は７２８５５です。	general,restaurant
+4711	6	USER	ありがとうございました。	general,restaurant
+4711	7	SYSTEM	ありがとうございました。	general,restaurant

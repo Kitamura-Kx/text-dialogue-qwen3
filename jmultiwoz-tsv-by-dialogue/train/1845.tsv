@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1845	0	USER	福岡で、WI-FIと駐車場が無料で使える飲食店ってありますか？	general,restaurant,attraction,weather
+1845	1	SYSTEM	かしこまりました。では、レカイエ オイスターバー JR博多シティ店はいかがでしょうか？	general,restaurant,attraction,weather
+1845	2	USER	オイスターバーなんておしゃれですね。料金情報は分かりますか？あと電話番号も聞いときたいんですけど。	general,restaurant,attraction,weather
+1845	3	SYSTEM	はい。料金情報としては、コールドオイスタープレート:1990円、焼き牡蠣3種:1280円、ホットオイスタープレート:1090円、とあります。電話番号は05036470275でございます。	general,restaurant,attraction,weather
+1845	4	USER	いいところを教えてもらいました。あと観光名所も知りたいんですが、W--Fiが無料のところってありますか？	general,restaurant,attraction,weather
+1845	5	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,restaurant,attraction,weather
+1845	6	USER	そうですか、じゃあWi-Fiはあきらめます。それならどうですか？	general,restaurant,attraction,weather
+1845	7	SYSTEM	かしこまりました。では、はかた伝統工芸館はいかがでしょうか？	general,restaurant,attraction,weather
+1845	8	USER	興味あります。そちらの電話番号って何番ですか？あと料金情報も知りたいんですけど。	general,restaurant,attraction,weather
+1845	9	SYSTEM	はい。電話番号は0924095450でございます。料金情報は、無料※体験教室等は有料、と記載されています。	general,restaurant,attraction,weather
+1845	10	USER	ありがとうございます。えっと11月24日の西区の天候なんて分かりますか？	general,restaurant,attraction,weather
+1845	11	SYSTEM	かしこまりました。11/24の西区の天気予報は晴のち曇となっております。最低気温は10.2度、最高気温は18.1度になる予報です。	general,restaurant,attraction,weather
+1845	12	USER	ちょっと涼しい感じですね。よくわかりました。お世話になりました。	general,restaurant,attraction,weather

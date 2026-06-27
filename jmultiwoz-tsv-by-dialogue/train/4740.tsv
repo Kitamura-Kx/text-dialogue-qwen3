@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4740	0	USER	福岡へ旅行予定で、警固公園に行くつもりなのですが、そこの情報はありますか？	general,attraction,restaurant,shopping
+4740	1	SYSTEM	はい、エリアでいうと中央区にあり、ジャンルは、自然、公園となります。何をご案内致しましょう？	general,attraction,restaurant,shopping
+4740	2	USER	なるほど。近辺の駅からの所要時間と子供入場料が知りたいです。	general,attraction,restaurant,shopping
+4740	3	SYSTEM	はい、子供入場料は必要なく、無料でご利用いただけます。最寄りの西鉄福岡（天神）駅から徒歩で1分となります。	general,attraction,restaurant,shopping
+4740	4	USER	了解です。飲食店も探していて、東区にある最寄り駅が大橋駅のところがいいのですが。	general,attraction,restaurant,shopping
+4740	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,restaurant,shopping
+4740	6	USER	そうですか。なら、地区はどこでも大丈夫です。	general,attraction,restaurant,shopping
+4740	7	SYSTEM	ありがとうございます。では、エリアでいうと南区にある、古民家居酒屋こまちはいかがでしょう？ジャンルは、居酒屋、鍋となります。	general,attraction,restaurant,shopping
+4740	8	USER	そこにします。定休日と電話番号を知りたいです。	general,attraction,restaurant,shopping
+4740	9	SYSTEM	はい、定休日は火曜日、電話番号は0927103101となります。	general,attraction,restaurant,shopping
+4740	10	USER	ではそちらで、10/20の13:40から2人での予約をお願いします。	general,attraction,restaurant,shopping
+4740	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、49909となります。	general,attraction,restaurant,shopping
+4740	12	USER	ありがとうございます。あと、無料駐車場のある買い物店舗はありませんか？	general,attraction,restaurant,shopping
+4740	13	SYSTEM	はい、では、エリアでいうと西区にある、ホームセンター グッデイ 西福岡店はいかがでしょう？ジャンルは、その他となります。	general,attraction,restaurant,shopping
+4740	14	USER	そこにします。近辺の駅からの所要時間ってわかります？	general,attraction,restaurant,shopping
+4740	15	SYSTEM	はい、最寄りの橋本駅から徒歩で13分となります。	general,attraction,restaurant,shopping
+4740	16	USER	わかりました。もう大丈夫です。	general,attraction,restaurant,shopping
+4740	17	SYSTEM	ありがとうございました。	general,attraction,restaurant,shopping

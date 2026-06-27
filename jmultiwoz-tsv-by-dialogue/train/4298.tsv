@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4298	0	USER	横浜への旅行を計画していて、当日買い物が出来るところを探しています。駐車場無料、最寄り駅が上大岡駅のところが希望です。	general,shopping,weather,taxi
+4298	1	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,shopping,weather,taxi
+4298	2	USER	そうですか。では、最寄り駅は考慮しません。	general,shopping,weather,taxi
+4298	3	SYSTEM	かしこまりました。では、トレッサ横浜はいかがでしょうか？	general,shopping,weather,taxi
+4298	4	USER	ありがとうございます。そこの住所と営業時間は分かりますか？	general,shopping,weather,taxi
+4298	5	SYSTEM	はい。住所は神奈川県横浜市港北区師岡町700番地で、営業時間は10:00～21:00になります。	general,shopping,weather,taxi
+4298	6	USER	ありがとうございます。当日の天気も知りたいです。6/29の鶴見区の天気と最高気温は分かりますか？	general,shopping,weather,taxi
+4298	7	SYSTEM	かしこまりました。6/29の鶴見区の天気予報は曇となっております。最低気温は18.3度、最高気温は30.9度になる予報です。	general,shopping,weather,taxi
+4298	8	USER	ありがとうございます。当日のタクシー会社も探しています。キャッシュレス払いできるところが良いのですが。	general,shopping,weather,taxi
+4298	9	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,shopping,weather,taxi
+4298	10	USER	では、キャッシュレス払い対応は有っても無くても良いです。	general,shopping,weather,taxi
+4298	11	SYSTEM	かしこまりました。北斗タクシー株式会社はどうでしょうか？	general,shopping,weather,taxi
+4298	12	USER	ありがとうございます。そのタクシー会社の予約をしたいのですが、6/29の13：50から、トレッサ横浜からリューバンカフェまで予約をお願い出来ますか？	general,shopping,weather,taxi
+4298	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、75816です。	general,shopping,weather,taxi
+4298	14	USER	ありがとうございました。	general,shopping,weather,taxi
+4298	15	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,shopping,weather,taxi

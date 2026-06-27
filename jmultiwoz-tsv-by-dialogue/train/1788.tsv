@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1788	0	USER	こんにちは。那覇への旅行を計画しているのですが、本庁地区で駐車場無料のコンビニはありますか？	general,shopping,taxi,weather
+1788	1	SYSTEM	申し訳ありません、この条件ではご案内できません。いかが致しましょう？	general,shopping,taxi,weather
+1788	2	USER	そうなんですね、ではコンビニでなくても大丈夫ですので、買い物ができるところを探していただけますか？	general,shopping,taxi,weather
+1788	3	SYSTEM	のうれんプラザはいかがでしょう？ジャンルはショッピングモールとなります。	general,shopping,taxi,weather
+1788	4	USER	ありがとうございます。そちらの電話番号を教えてもらえますか？	general,shopping,taxi,weather
+1788	5	SYSTEM	電話番号は0988347818となります。	general,shopping,taxi,weather
+1788	6	USER	ありがとうございます。あと那覇ではタクシーを使いたいのですが、キャッシュレス払いができるタクシー会社はありますか？	general,shopping,taxi,weather
+1788	7	SYSTEM	申し訳ありません。キャッシュレス対応のタクシー会社はございません。いかが致しましょう？	general,shopping,taxi,weather
+1788	8	USER	そうなんですね、ではキャッシュレス払いができなくても大丈夫です。	general,shopping,taxi,weather
+1788	9	SYSTEM	大栄交通はいかがでしょう？ジャンボタクシーには対応しております。電話番号は0989465005となります。	general,shopping,taxi,weather
+1788	10	USER	ありがとうございます。そちらで予約をお願いします。2/1の13:30で、先ほど見つけていただいたのうれんプラザから焼肉の店 牛屋という店までです。	general,shopping,taxi,weather
+1788	11	SYSTEM	予約が完了し、ご予約番号は、7009となります。	general,shopping,taxi,weather
+1788	12	USER	ありがとうございます。それと天気も確認お願いできますか？2/1の本庁の天気です。	general,shopping,taxi,weather
+1788	13	SYSTEM	天気は曇、最低気温18.6度、最高気温22.6度となります。	general,shopping,taxi,weather
+1788	14	USER	色々ありがとうございました。助かりました。お尋ねしたいことは以上です。	general,shopping,taxi,weather
+1788	15	SYSTEM	ありがとうございました。	general,shopping,taxi,weather

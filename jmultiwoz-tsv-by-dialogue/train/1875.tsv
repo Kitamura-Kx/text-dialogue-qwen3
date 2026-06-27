@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1875	0	USER	すみません、大阪旅行での飲食店を探してるんですけど、お願いできますか？	general,restaurant,taxi
+1875	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,restaurant,taxi
+1875	2	USER	えっと、ジャンルは中華料理が良いです。あと、WiFiが無料で使える所で、予算は安めのところが良いですね。	general,restaurant,taxi
+1875	3	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,taxi
+1875	4	USER	そうでしたか。じゃぁ、予算については考えなくても良いです。	general,restaurant,taxi
+1875	5	SYSTEM	かしこまりました。では、オペレッタ52 福島店はいかがでしょうか？値段帯は普通となっております。	general,restaurant,taxi
+1875	6	USER	良いですね。では、そちらの電話番号を伺ってもよろしいですか？	general,restaurant,taxi
+1875	7	SYSTEM	電話番号は05054868230でございます。	general,restaurant,taxi
+1875	8	USER	ありがとうございます。承知しました。あと、タクシー会社も探してるんですが、ジャンボタクシーが利用できるところだったら、どこでも良いです。	general,restaurant,taxi
+1875	9	SYSTEM	かしこまりました。では、日本タクシー株式会社はいかがでしょうか？キャッシュレスにも対応しております。	general,restaurant,taxi
+1875	10	USER	そうなんですね。こちらについても、電話番号を伺えますか？	general,restaurant,taxi
+1875	11	SYSTEM	はい。電話番号は0669285151でございます。	general,restaurant,taxi
+1875	12	USER	ありがとうございます。では、そちらのタクシーの手配をお願いしたいのですが。	general,restaurant,taxi
+1875	13	SYSTEM	かしこまりました。出発時刻と、出発地と目的地はお決まりでしょうか？	general,restaurant,taxi
+1875	14	USER	はい、５月８日の１２時３０分に、先ほどのオペレッタ52 福島店から、花博記念公園 鶴見緑地まででお願いします。	general,restaurant,taxi
+1875	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、15837です。	general,restaurant,taxi
+1875	16	USER	承知しました。手配、ありがとうございます。	general,restaurant,taxi
+1875	17	SYSTEM	他にご用件はありますか？	general,restaurant,taxi
+1875	18	USER	あとは大丈夫です。ご対応、ありがとうございました。	general,restaurant,taxi
+1875	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

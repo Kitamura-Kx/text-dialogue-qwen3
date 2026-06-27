@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3739	0	USER	名古屋に旅行するのですが最寄り駅が亀島駅で予算が高めの飲食店がを探しています。	general,restaurant,hotel
+3739	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,hotel
+3739	2	USER	それでは最寄りはどこでも結構です。	general,restaurant,hotel
+3739	3	SYSTEM	ありがとうございます。では、エリアでいうと千種区にある、うなぎの新甫はいかがでしょう？ジャンルは、寿司、魚料理、和食となります。	general,restaurant,hotel
+3739	4	USER	ありがとうございます。住所を教えて下さい。あとWi-Fiはありますか？	general,restaurant,hotel
+3739	5	SYSTEM	はい、住所は愛知県名古屋市千種区高見2丁目10-12となります。申し訳ありません、Wi-Fiの有無は不明です。	general,restaurant,hotel
+3739	6	USER	わかりました。それでは、そこを予約して頂けますか？3人で8/21、時間は13:00でお願いします。	general,restaurant,hotel
+3739	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、32862となります。	general,restaurant,hotel
+3739	8	USER	ありがとうございます。Wi-Fiが無料の最寄り駅が東別院駅のビジネスホテルってありますか？	general,restaurant,hotel
+3739	9	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,hotel
+3739	10	USER	それではどこの駅でも構いません。	general,restaurant,hotel
+3739	11	SYSTEM	ありがとうございます。では、エリアでいうと中区にある、ホテル シルク・トゥリー名古屋はいかがでしょう？	general,restaurant,hotel
+3739	12	USER	そこにします。チェックイン開始時刻を教えて下さい。	general,restaurant,hotel
+3739	13	SYSTEM	はい、チェックイン開始時刻は15時となります。	general,restaurant,hotel
+3739	14	USER	大変助かりました！以上です。どうもありがとうございました。	general,restaurant,hotel
+3739	15	SYSTEM	ありがとうございました。	general,restaurant,hotel

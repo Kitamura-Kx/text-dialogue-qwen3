@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+993	0	USER	大阪へ旅行を考えているのですが、西区で無料駐車場がある買い物屋さんはありますか？	general,shopping,weather
+993	1	SYSTEM	はい、1件ご案内できます。イオン大阪ドームシティ店というお店で、ジャンルは百貨店や総合スーパーとなりますが、いかがでしょうか？	general,shopping,weather
+993	2	USER	いいですね。定休日を知りたいです。	general,shopping,weather
+993	3	SYSTEM	こちらのお店は、定休日はございません。	general,shopping,weather
+993	4	USER	わかりました。港区の7/4の天気も教えてください。	general,shopping,weather
+993	5	SYSTEM	かしこまりました。当日の港区の天気は、曇り時々雨の予報です。最低気温は22.7度、最高気温は26.6度の予想となっております。	general,shopping,weather
+993	6	USER	なるほど。ありがとうございます。	general,shopping,weather
+993	7	SYSTEM	他になにか、お手伝いすることはございませんか？	general,shopping,weather
+993	8	USER	いえ、大丈夫です。	general,shopping,weather
+993	9	SYSTEM	承知いたしました。ご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,shopping,weather
+993	10	USER		general,shopping,weather

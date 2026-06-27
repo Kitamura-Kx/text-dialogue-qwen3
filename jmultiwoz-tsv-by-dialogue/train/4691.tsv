@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4691	0	USER	東京へ旅行に行くので、普通の値段帯くらいの旅館を教えてください。Wi-Fiが無料がいいです。	general,hotel
+4691	1	SYSTEM	東京へ旅行に行くので、旅館を教えてください。Wi-Fiが無料がいいです。	general,hotel
+4691	2	USER	そちらの値段帯は普通くらいなのですか？普通の値段帯くらいの旅館がいいのですが。	general,hotel
+4691	3	SYSTEM	値段帯普通の条件だとヒットしませんでした。	general,hotel
+4691	4	USER	そうなんですね。では、旅館じゃなくてもいいので調べてもらえますか？	general,hotel
+4691	5	SYSTEM	東京には、値段帯普通でWiFi無料の宿泊施設は１３件ありますが、帝国ホテル東京をお勧めします。	general,hotel
+4691	6	USER	そこの最寄り駅と住所を教えてください。	general,hotel
+4691	7	SYSTEM	最寄りは日比谷駅、住所は東京都千代田区内幸町1丁目1-1です。	general,hotel
+4691	8	USER	わかりました。4人で12/24から2泊の予約お願いします。	general,hotel
+4691	9	SYSTEM	予約成功しました。予約番号は18640です。	general,hotel
+4691	10	USER	ありがとうございます。	general,hotel

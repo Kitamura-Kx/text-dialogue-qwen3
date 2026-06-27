@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1451	0	USER	横浜へ旅行に行くんですが、宿泊施設を探していただけますか？	general,hotel,shopping
+1451	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,shopping
+1451	2	USER	Wi-Fiが無料の、簡易宿所（ベッドハウス・山小屋・カプセルホテル等）でお願いします。	general,hotel,shopping
+1451	3	SYSTEM	では横浜のゲストハウス FUTARENOはいかがでしょうか。	general,hotel,shopping
+1451	4	USER	ありがとうございます。ちなみにレストランはありますか？	general,hotel,shopping
+1451	5	SYSTEM	レストランはございません。	general,hotel,shopping
+1451	6	USER	わかりました！あと、医薬品・化粧品を買い物したいので、探し欲しいんですが。駐車場無料のところがいいです！	general,hotel,shopping
+1451	7	SYSTEM	ではコストコ金沢シーサイド倉庫がございます。	general,hotel,shopping
+1451	8	USER	ありがとうございます。最寄り駅は分かりますか？	general,hotel,shopping
+1451	9	SYSTEM	最寄り駅は並木中央駅でございます。	general,hotel,shopping
+1451	10	USER	ありがとうございます。助かりました！	general,hotel,shopping
+1451	11	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping

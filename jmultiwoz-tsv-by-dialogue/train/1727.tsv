@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1727	0	USER	札幌へ旅行に行くんですが、買い物ができるところを探してほしいです！	general,shopping,attraction
+1727	1	SYSTEM	希望条件などは、ありますか？	general,shopping,attraction
+1727	2	USER	清田区でお土産を買いたいです。駐車場が無料のところがいいです。	general,shopping,attraction
+1727	3	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,attraction
+1727	4	USER	では、お土産を買えるお店じゃなくて大丈夫です。	general,shopping,attraction
+1727	5	SYSTEM	コーチャンフォー美しが丘店は、いかがでしょうか？	general,shopping,attraction
+1727	6	USER	いいですね！あと、豊平区で観光名所を探しているんですが、記念碑・像が見れるところってありますかね？	general,shopping,attraction
+1727	7	SYSTEM	クラーク博士像がありますが、いかがでしょうか？	general,shopping,attraction
+1727	8	USER	いいですね！ではそこの、住所と駐車場の有無について教えてください。	general,shopping,attraction
+1727	9	SYSTEM	住所は、北海道札幌市豊平区羊ヶ丘1です。　こちらには、無料駐車場があります。	general,shopping,attraction
+1727	10	USER	ありがとうございます。大人入場料についても教えてほしいです。	general,shopping,attraction
+1727	11	SYSTEM	大人入場料は、530円となっています。	general,shopping,attraction
+1727	12	USER	ありがとうございます。行ってみますね！	general,shopping,attraction
+1727	13	SYSTEM	他にご用件はありますか？	general,shopping,attraction
+1727	14	USER	これで大丈夫です。ありがとうございました。	general,shopping,attraction
+1727	15	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,attraction

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1535	0	USER	東京への旅行を考えているのですが、宿泊施設を調べてもらえますか？	general,hotel,shopping,taxi
+1535	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,shopping,taxi
+1535	2	USER	はい。レストランが併設されているところで、Wi-Fiと駐車場が無料で利用できると嬉しいです。	general,hotel,shopping,taxi
+1535	3	SYSTEM	では帝国ホテル東京はいかがですか。	general,hotel,shopping,taxi
+1535	4	USER	いいですね。エリアとチェックイン開始時刻を教えてください。	general,hotel,shopping,taxi
+1535	5	SYSTEM	エリアは千代田区で、チェックイン開始時刻は14:00でございます。	general,hotel,shopping,taxi
+1535	6	USER	わかりました。買い物できる場所も探しているのですが、最寄り駅が恵比寿駅の店はありませんか？	general,hotel,shopping,taxi
+1535	7	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,shopping,taxi
+1535	8	USER	わかりました。では最寄り駅は特に指定なしでお願いします。	general,hotel,shopping,taxi
+1535	9	SYSTEM	では新宿高野 本店はいかがですか。	general,hotel,shopping,taxi
+1535	10	USER	そこにします。ジャンルは何ですか？	general,hotel,shopping,taxi
+1535	11	SYSTEM	ジャンルはお土産, 食料品でございます。	general,hotel,shopping,taxi
+1535	12	USER	わかりました。当日タクシー利用予定なのですが、キャッシュレス払いできるところを調べてください。	general,hotel,shopping,taxi
+1535	13	SYSTEM	では銀星交通がございます。ジャンボタクシーにも対応しております。	general,hotel,shopping,taxi
+1535	14	USER	そこにします。電話番号を知りたいです。	general,hotel,shopping,taxi
+1535	15	SYSTEM	電話番号は0425750458でございます。	general,hotel,shopping,taxi
+1535	16	USER	わかりました。6/13の15:10から予約をお願いしたいです。帝国ホテル東京から新宿高野 本店までお願いします。	general,hotel,shopping,taxi
+1535	17	SYSTEM	申し訳ございません。その条件では予約ができませんでした。	general,hotel,shopping,taxi
+1535	18	USER	そうですか。なら時間を16時にします。	general,hotel,shopping,taxi
+1535	19	SYSTEM	その時間ですと予約が可能でございました。予約番号は39377でございます。	general,hotel,shopping,taxi
+1535	20	USER	ありがとうございます。もう大丈夫です。	general,hotel,shopping,taxi
+1535	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,taxi

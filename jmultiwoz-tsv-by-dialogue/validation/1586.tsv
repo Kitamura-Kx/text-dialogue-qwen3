@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1586	0	USER	ちょっとお尋ねしてもよろしいでしょうか？	general,shopping,taxi
+1586	1	SYSTEM	はい、どういったご用件でしょうか？	general,shopping,taxi
+1586	2	USER	横浜への旅行を計画してまして、緑区で駐車場が無料の買い物できるお店はありますでしょうか？	general,shopping,taxi
+1586	3	SYSTEM	はい、3件ご案内可能です。例えば、まいばすけっと 鴨居駅西店というお店でしたら、鴨居駅から徒歩で3分の場所にございますよ。	general,shopping,taxi
+1586	4	USER	駅から近くて良いですね、当日別のところに寄ってからそちらに伺いたいのでタクシーを手配いただけないでしょうか？	general,shopping,taxi
+1586	5	SYSTEM	はい、かしこまりました。20件ほどタクシー会社をご案内出来るのですが、瀬谷交通有限会社という会社でよろしいでしょうか？	general,shopping,taxi
+1586	6	USER	そこはキャッシュレス対応していますか？	general,shopping,taxi
+1586	7	SYSTEM	申し訳ありません。こちらは、キャッシュレス対応が不明となっております。	general,shopping,taxi
+1586	8	USER	キャッシュレス対応しているタクシーはありますか？	general,shopping,taxi
+1586	9	SYSTEM	はい、11件ほど、ご案内可能です。例えば、株式会社グリーンキャブはいかがでしょうか？	general,shopping,taxi
+1586	10	USER	ありがとうございます、そちらの電話番号とジャンボタクシーの対応状況を教えていただけますか？	general,shopping,taxi
+1586	11	SYSTEM	電話番号は、0456638181です。ジャンボタクシーにも対応しております。	general,shopping,taxi
+1586	12	USER	ありがとうございます、では2/6の09:30に横浜みなとみらいホールというところからまいばすけっと 鴨居駅西店まで予約をお願いできますか？	general,shopping,taxi
+1586	13	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、65535です。	general,shopping,taxi
+1586	14	USER	承知しました。本日は色々ご対応いただき、ありがとうございました。	general,shopping,taxi
+1586	15	SYSTEM	こちらこそ、ご利用ありがとうございました。他にご質問がないようでしたら、これで失礼します。	general,shopping,taxi

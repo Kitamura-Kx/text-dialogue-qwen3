@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1646	0	USER	こんにちは。東京へ行く予定なので、宿泊施設を探しています。駐車場とWi-Fiが無料で、レストランがあると尚いいです。どこかありますか？	general,hotel
+1646	1	SYSTEM	かしこまりました。では帝国ホテル東京はいかがですか。	general,hotel
+1646	2	USER	よさそうですね。そちらへは近辺の駅からの所用時間はどれくらいですか？	general,hotel
+1646	3	SYSTEM	有楽町駅から徒歩で5分、新橋駅から徒歩で7分、東京駅からタクシーで5分、日比谷駅から徒歩で3分、そして内幸町駅から徒歩で3分でございます。	general,hotel
+1646	4	USER	ありがとうございます。こちらで予約お願いできますか？7/18から2泊、2名です。	general,hotel
+1646	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は20673でございます。	general,hotel
+1646	6	USER	どうもありがとうございました。	general,hotel
+1646	7	SYSTEM	ほかにご用件はございますか。	general,hotel
+1646	8	USER	いえ、大丈夫です。ありがとうございました。	general,hotel
+1646	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

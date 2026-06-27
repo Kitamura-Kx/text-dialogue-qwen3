@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3820	0	USER	仙台へ旅行を計画しています。無料駐車場があって、無料Wi-Fiが使える、お好み焼きが食べられる飲食店はありますか？	general,restaurant,attraction
+3820	1	SYSTEM	1件みつかりました。楽亭というお店はいかがですか？	general,restaurant,attraction
+3820	2	USER	そちらの住所とエリアはわかりますか？	general,restaurant,attraction
+3820	3	SYSTEM	住所は、宮城県仙台市太白区砂押町17-8です。　エリアは、太白区です。	general,restaurant,attraction
+3820	4	USER	値段帯はどのくらいですか？	general,restaurant,attraction
+3820	5	SYSTEM	値段帯は、普通です。	general,restaurant,attraction
+3820	6	USER	わかりました。ではそちらで予約をお願いします。1/24の10:50に、4名で予約できますか？	general,restaurant,attraction
+3820	7	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant,attraction
+3820	8	USER	そうですか。では3名ではできますか？	general,restaurant,attraction
+3820	9	SYSTEM	予約出来ました。　予約番号は、57035です。	general,restaurant,attraction
+3820	10	USER	ありがとうございます。一緒に観光名所を探してください。スポーツやフィットネス関連の施設で、無料Wi-Fiが使えるところはありますか？	general,restaurant,attraction
+3820	11	SYSTEM	では、ユアテックスタジアム仙台はいかがでしょうか？	general,restaurant,attraction
+3820	12	USER	そちらの定休日と子供の入場料を教えてください。	general,restaurant,attraction
+3820	13	SYSTEM	定休日は、月曜日と年末年始です。　子供の入場料は、不明となっています。	general,restaurant,attraction
+3820	14	USER	わかりました。ありがとうございます。	general,restaurant,attraction
+3820	15	SYSTEM	他にご用件はありますか？	general,restaurant,attraction
+3820	16	USER	特にありません。ありがとうございました。	general,restaurant,attraction
+3820	17	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction

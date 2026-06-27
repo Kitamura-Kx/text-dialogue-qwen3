@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+143	0	USER	京都で宿を探しています。駐車場が無料でレストランが併設されているところを教えてください。	general,hotel,taxi
+143	1	SYSTEM	承知致しました。エリアや値段帯のご希望はございますか？	general,hotel,taxi
+143	2	USER	そのへんは大丈夫ですが、Wi-Fiが無料の所がいいです。	general,hotel,taxi
+143	3	SYSTEM	ありがとうございます。それでは、湯の宿 松栄はいかがでしょう？タイプは旅館、値段帯は安めとなっております。最寄りの京都駅からタクシーで10分です。	general,hotel,taxi
+143	4	USER	京都の旅館、最高です！電話番号を教えてもらえますか？	general,hotel,taxi
+143	5	SYSTEM	はい、電話番号は、0753514084となっております。	general,hotel,taxi
+143	6	USER	ありがとうございます。合わせてタクシー会社を探してるんですが、ジャンボタクシーが使えてキャシュレス払いができる会社を紹介してください。	general,hotel,taxi
+143	7	SYSTEM	承知致しました。株式会社キャビックはいかがでしょう？ジャンボタクシー、キャシュレスのどちらも対応しております。電話番号は、0758642100となります。	general,hotel,taxi
+143	8	USER	そこで予約します。1月29日、10時半に湯の宿松栄を出て、東映太秦映画村までお願いします。	general,hotel,taxi
+143	9	SYSTEM	ありがとうございます。予約が完了致しました。ご予約番号は、168となります。	general,hotel,taxi
+143	10	USER	手際よく予約していただけて助かりました。お世話になりました。	general,hotel,taxi

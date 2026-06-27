@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4076	0	USER	名古屋への旅行を計画しています． 当日訪れる観光名所を探してください．ジャンルは展望台・タワーです．駐車場を無料で利用できるところにしてください．	general,attraction
+4076	1	SYSTEM	ミッドランドスクエア 屋外展望台 スカイプロムナードはいかがでしょうか。	general,attraction
+4076	2	USER	そちらのエリアと電話番号を教えていただけますか。	general,attraction
+4076	3	SYSTEM	エリアは中村区で電話番号は不明です。	general,attraction
+4076	4	USER	ありがとうございます。	general,attraction

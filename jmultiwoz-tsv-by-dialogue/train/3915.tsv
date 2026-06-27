@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3915	0	USER	仙台への旅行を計画中で、最寄り駅が小鶴新田駅の観光名所を探しています。	general,attraction,restaurant,weather
+3915	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,restaurant,weather
+3915	2	USER	分かりました。では、最寄り駅はどこでも構いません。	general,attraction,restaurant,weather
+3915	3	SYSTEM	承知しました。では、エリアでいうと青葉区にある、ニッカウイスキー仙台工場宮城峡蒸溜所はいかがでしょう？ジャンルは、工場見学となります。	general,attraction,restaurant,weather
+3915	4	USER	そこにしようと思います。営業時間と最寄駅からの所要時間は分かりますか？	general,attraction,restaurant,weather
+3915	5	SYSTEM	はい、営業時間は9時から16時、最寄りの作並駅から徒歩で20分となります。	general,attraction,restaurant,weather
+3915	6	USER	ありがとうございます。当日無料のWi-fiと駐車場付きのカフェ・スイーツ店を探しています。	general,attraction,restaurant,weather
+3915	7	SYSTEM	承知しました。では、エリアでいうと宮城野区にある、珈琲館 仙台東口店はいかがでしょう？	general,attraction,restaurant,weather
+3915	8	USER	そこにしようと思います。住所と値段帯を教えてください。	general,attraction,restaurant,weather
+3915	9	SYSTEM	はい、住所は、宮城県仙台市宮城野区榴岡2丁目1-25 BiVi仙台 1F、値段帯は安めとなります。	general,attraction,restaurant,weather
+3915	10	USER	ありがとうございます。3/22の13:50に3名で予約して欲しいのですが可能でしょうか。	general,attraction,restaurant,weather
+3915	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、60467となります。	general,attraction,restaurant,weather
+3915	12	USER	ありがとうございます。3/22の宮城野区の最低気温を教えてください。	general,attraction,restaurant,weather
+3915	13	SYSTEM	はい、最低気温は7.4度となります。	general,attraction,restaurant,weather
+3915	14	USER	助かります。ありがとうございました。	general,attraction,restaurant,weather
+3915	15	SYSTEM	ありがとうございました。	general,attraction,restaurant,weather

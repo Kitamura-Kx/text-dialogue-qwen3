@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3468	0	USER	横浜に旅行に行こうと考えていまして、アジア・エスニック料理の飲食店を探しています。	general,restaurant,hotel,taxi
+3468	1	SYSTEM	申し訳ありません。その条件ですとお探しすることが出来ませんでした。	general,restaurant,hotel,taxi
+3468	2	USER	では、アジア・エスニック料理でなくてもかまいません。	general,restaurant,hotel,taxi
+3468	3	SYSTEM	かしこまりました。それではスープカレー KIFUKUはいかがでしょうか？	general,restaurant,hotel,taxi
+3468	4	USER	そこにします。あと、宿泊施設を探しています。希望は無料Wi-Fiが使えて、レストランが併設されていて、予算は高めのところなのですがありますでしょうか。	general,restaurant,hotel,taxi
+3468	5	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant,hotel,taxi
+3468	6	USER	わかりました。では予算は高めではなくても大丈夫です。	general,restaurant,hotel,taxi
+3468	7	SYSTEM	かしこまりました。それでは横浜ロイヤルパークホテルはいかがでしょうか？	general,restaurant,hotel,taxi
+3468	8	USER	そこにします。住所はどこになりますか。	general,restaurant,hotel,taxi
+3468	9	SYSTEM	はい、住所は神奈川県横浜市西区みなとみらい2丁目2-1-3でございます。	general,restaurant,hotel,taxi
+3468	10	USER	ありがとうございます。ではそこに、6月11日3人で3泊の予約をお願いします。	general,restaurant,hotel,taxi
+3468	11	SYSTEM	申し訳ありません。その条件では予約が出来ませんでした。	general,restaurant,hotel,taxi
+3468	12	USER	それなら人数は2人に変更でお願いします。	general,restaurant,hotel,taxi
+3468	13	SYSTEM	かしこまりました。それでは予約番号79099でお取りさせていただきました。	general,restaurant,hotel,taxi
+3468	14	USER	ありがとうございます。次にタクシーを予約したいのですが、ジャンボタクシーを利用できるところはありますか。	general,restaurant,hotel,taxi
+3468	15	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant,hotel,taxi
+3468	16	USER	ではジャンボタクシーでなくてもかまいません。	general,restaurant,hotel,taxi
+3468	17	SYSTEM	かしこまりました。それでは富士見交通株式会社はいかがでしょうか？	general,restaurant,hotel,taxi
+3468	18	USER	そこでお願いします。6月11日の15:30、スープカレー KIFUKUから横浜ロイヤルパークホテルで予約してください。	general,restaurant,hotel,taxi
+3468	19	SYSTEM	お待たせいたしました。それでは予約番号545でお取りさせていただきました。	general,restaurant,hotel,taxi
+3468	20	USER	ありがとうございました。これで大丈夫です。	general,restaurant,hotel,taxi
+3468	21	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,hotel,taxi

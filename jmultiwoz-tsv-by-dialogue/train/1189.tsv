@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1189	0	USER	福岡への旅行を計画しています。天神中央公園と言うところはありますか？	general,attraction,restaurant
+1189	1	SYSTEM	はい、エリアでいうと中央区にございます。何かご案内致しましょうか？	general,attraction,restaurant
+1189	2	USER	営業時間を教えて下さい。	general,attraction,restaurant
+1189	3	SYSTEM	はい、営業時間は0時から0時となります。	general,attraction,restaurant
+1189	4	USER	わかりました。それと、当日利用できる飲食店を探して欲しいのですが？	general,attraction,restaurant
+1189	5	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,restaurant
+1189	6	USER	博多区で、安めのところを希望しています。	general,attraction,restaurant
+1189	7	SYSTEM	ありがとうございます。では、エリアでいうと博多区にある、日の出食堂はいかがでしょう？	general,attraction,restaurant
+1189	8	USER	そちらのお店の最寄り駅はどこになりますか？	general,attraction,restaurant
+1189	9	SYSTEM	はい、最寄りの博多駅から徒歩で7分となります。	general,attraction,restaurant
+1189	10	USER	わかりました。では、予約をお願いします。	general,attraction,restaurant
+1189	11	SYSTEM	承知しました。人数と予約日時を教えていただけますか？	general,attraction,restaurant
+1189	12	USER	１２月２日の１１時３０分で、３人でお願いします。	general,attraction,restaurant
+1189	13	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、81072となります。	general,attraction,restaurant
+1189	14	USER	わかりました。ではこれで、失礼します。	general,attraction,restaurant

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+996	0	USER	名古屋へ旅行予定なのですが、無料でWi-Fiが使える温泉施設はありますか？	general,attraction,hotel
+996	1	SYSTEM	申し訳ございません。その条件ですと、観光名所としてご案内できる場所が見つかりませんでした。	general,attraction,hotel
+996	2	USER	わかりました。じゃあ温泉じゃなくてもいいので、観光名所を調べてほしいです。	general,attraction,hotel
+996	3	SYSTEM	ありがとうございます。そうしますと、トヨタ産業技術記念館というところはどうでしょう？ジャンルとしては、美術館・博物館, 科学館となります。	general,attraction,hotel
+996	4	USER	気になります。料金情報を教えてください。	general,attraction,hotel
+996	5	SYSTEM	かしこまりました。詳しい料金としては、大人500円、65歳以上300円、中高生300円、小学生200円となっております。	general,attraction,hotel
+996	6	USER	そうなんですね。レストランが併設されている宿泊施設も探しているのですが、無料駐車場があって、Wi-Fiが無料なところはありますか？	general,attraction,hotel
+996	7	SYSTEM	はい、7件ほどご案内可能です。例えば、中区エリアにある、お値段お安めのアイリス愛知というシティホテルは、いかがでしょうか？	general,attraction,hotel
+996	8	USER	そこにします。電話番号と料金情報を教えてください。	general,attraction,hotel
+996	9	SYSTEM	電話番号は、0522233751です。料金ですが、お安めであるということ以外、WiFiと駐車場が無料ということしかご案内できず、申し訳ございません。直接、宿泊施設のほうに、お問い合わせいただけますでしょうか？	general,attraction,hotel
+996	10	USER	いえ、それで十分です。ありがとうございます。そのホテルを2人で11/26から3泊予約可能でしょうか？	general,attraction,hotel
+996	11	SYSTEM	はい、ご予約をお取りしました。予約番号は、82063でございます。	general,attraction,hotel
+996	12	USER	ありがとうございます。	general,attraction,hotel
+996	13	SYSTEM	ほかにお手伝いすることはございませんか？	general,attraction,hotel
+996	14	USER	いえ、もう大丈夫です。	general,attraction,hotel
+996	15	SYSTEM	承知いたしました。また何かございましたら、お気軽にお問い合わせください。	general,attraction,hotel

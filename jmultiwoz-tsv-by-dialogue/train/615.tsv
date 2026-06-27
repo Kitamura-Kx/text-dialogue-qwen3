@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+615	0	USER	大阪へ旅行に行くんですが、宿泊施設を探していただけますか？	general,hotel
+615	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel
+615	2	USER	駐車場が無料で、レストランが併設されているところがいいです。あとはWi-Fiが無料だと嬉しいんですが。	general,hotel
+615	3	SYSTEM	ありがとうございます。ビジネス旅館 励明園がございます。何かご案内致しましょうか？	general,hotel
+615	4	USER	ありがとうございます！近辺の駅からの所要時間とタイプについて教えてください。	general,hotel
+615	5	SYSTEM	はい、タイプは旅館、最寄りの大阪港駅から徒歩で3分となります。予約はされますか？	general,hotel
+615	6	USER	して欲しいです。6/26から2泊で2人でお願いします。	general,hotel
+615	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、21486となります。他に必要なご案内はございますか？	general,hotel
+615	8	USER	これで大丈夫です。ありがとうございました。	general,hotel
+615	9	SYSTEM	ありがとうございました。	general,hotel

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3145	0	USER	札幌に行くのですが、ジャンボタクシーを利用できるところを探しています。	general,taxi
+3145	1	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,taxi
+3145	2	USER	そうですか、それでは、普通のタクシーで大丈夫です。	general,taxi
+3145	3	SYSTEM	ありがとうございます。そうしますと、日北交通(株)はいかがでしょうか？こちらでしたら、キャッシュレスのお支払いにも対応してございますよ。	general,taxi
+3145	4	USER	電話番号を知りたいです。	general,taxi
+3145	5	SYSTEM	はい。電話番号は、0118888686です。	general,taxi
+3145	6	USER	ありがとうございます。では、1/1の15：00でホテルビスタ札幌[中島公園]からHIPPIES SAPPORO SUSUKINOまで、予約お願いします。	general,taxi
+3145	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、43256でございます。	general,taxi
+3145	8	USER	ありがとうございます。お世話になりました。	general,taxi
+3145	9	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,taxi

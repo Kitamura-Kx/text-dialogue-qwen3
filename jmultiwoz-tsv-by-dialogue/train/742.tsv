@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+742	0	USER	大阪で無料Wi-Fiが利用できて、鍋が食べれるお店ありますか？	general,restaurant
+742	1	SYSTEM	はい、3件ご案内可能です。例えば、牛すじホルモン 二刀流武蔵というお店でしたら、お値段がお安めの設定ですよ。	general,restaurant
+742	2	USER	そちらの店舗の最寄り駅はどこになりますか？	general,restaurant
+742	3	SYSTEM	最寄りは本町駅です。徒歩1分の距離にございます。	general,restaurant
+742	4	USER	ありがとうございます。そのお店を予約してもらえますか？	general,restaurant
+742	5	SYSTEM	かしこまりました。ご利用予定の日付と時刻、人数はおきまりでしょうか？	general,restaurant
+742	6	USER	９月２１日の９時半、４人でお願いします。	general,restaurant
+742	7	SYSTEM	恐れ入ります。念のため確認させていただきますが、お時間は午前の９時半でよろしかったでしょうか？	general,restaurant
+742	8	USER	はい。午前でお願いします。	general,restaurant
+742	9	SYSTEM	かしこまりました。午前9時30分でご予約完了いたしました。予約番号は、62943です。	general,restaurant
+742	10	USER	ありがとうございます。	general,restaurant
+742	11	SYSTEM	他にお手伝いすることはございませんか？	general,restaurant
+742	12	USER	大丈夫です。ありがとうございました。	general,restaurant
+742	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

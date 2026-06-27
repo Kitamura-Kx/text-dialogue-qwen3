@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4173	0	USER	観光スポットを探しています。大阪で工場見学できるところはありますか？	general,attraction
+4173	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction
+4173	2	USER	じゃあ、歴史的建造物だとどうですか？	general,attraction
+4173	3	SYSTEM	では、大阪城天守閣はいかがですか？	general,attraction
+4173	4	USER	そこの子供の入場料と、近くの駅からの所要時間はどのくらいですか？	general,attraction
+4173	5	SYSTEM	子供の入場料は、無料となっています。　　所要時間は、谷町四丁目駅から徒歩で17分です。	general,attraction
+4173	6	USER	そこにします。ありがとうございます。	general,attraction
+4173	7	SYSTEM	他にご用件はありますか？	general,attraction
+4173	8	USER	大丈夫です。	general,attraction
+4173	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

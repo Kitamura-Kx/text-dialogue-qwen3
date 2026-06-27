@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4884	0	USER	仙台へ旅行に行きたいと思っているのですが、Wi-Fiが無料で利用できる歴史的な散策エリアを探していただけますか？	general,attraction
+4884	1	SYSTEM	承知しました。仙台城跡はいかがでしょうか？	general,attraction
+4884	2	USER	そこにしようと思います。住所と駐車場の有無を教えてください。	general,attraction
+4884	3	SYSTEM	住所は宮城県仙台市青葉区天守台青葉城址です。駐車場の有無は有り(有料)です。	general,attraction
+4884	4	USER	ありがとうございます。	general,attraction
+4884	5	SYSTEM	他にご用件はありますか？	general,attraction
+4884	6	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction

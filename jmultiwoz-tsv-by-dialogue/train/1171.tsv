@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1171	0	USER	那覇へ旅行に行くんですが、首里のあたりでWi-Fiが無料で利用できる飲食店はありますか？	general,restaurant,attraction,weather
+1171	1	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,restaurant,attraction,weather
+1171	2	USER	そうですか。じゃあWi-Fiはなくてもいいです。	general,restaurant,attraction,weather
+1171	3	SYSTEM	ありがとうございます。そうしますと、りゅうそう茶屋は、いかがでしょうか？	general,restaurant,attraction,weather
+1171	4	USER	そこはどんなジャンルのお店ですか？	general,restaurant,attraction,weather
+1171	5	SYSTEM	郷土料理, カフェ・スイーツとなっております。	general,restaurant,attraction,weather
+1171	6	USER	そうなんですね。料金情報と値段帯も教えてもらえますか？	general,restaurant,attraction,weather
+1171	7	SYSTEM	値段帯は普通のお店です。詳しい料金につきましては、不明となっておりまして、ご案内できず申し訳ございません。	general,restaurant,attraction,weather
+1171	8	USER	分かりました。ありがとうございます。あと、首里で観光名所も探してほしいです。	general,restaurant,attraction,weather
+1171	9	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,restaurant,attraction,weather
+1171	10	USER	とくに希望はありません。	general,restaurant,attraction,weather
+1171	11	SYSTEM	申し訳ありません。エリアは首里でしたね。そうしますと、首里琉染というところはいかがでしょうか？	general,restaurant,attraction,weather
+1171	12	USER	ありがとうございます。そこの料金情報と定休日を教えてもらえますか？	general,restaurant,attraction,weather
+1171	13	SYSTEM	料金は、サンゴ染め体験が大人 3,300円(材料費込)、子供(～小学生) 2,750円(材料費込)といったかたちになっております。また、こちらは定休日はございません。	general,restaurant,attraction,weather
+1171	14	USER	わかりました。じゃあ、あと8/2の小禄地区の最高気温も調べてください。	general,restaurant,attraction,weather
+1171	15	SYSTEM	かしこまりました。当日の最高気温は、27.6度になる見込みです。なお、お天気は雨の予報が出ております。	general,restaurant,attraction,weather
+1171	16	USER	わかりました。ありがとうございました。	general,restaurant,attraction,weather
+1171	17	SYSTEM	他にお調べすることはございませんか？	general,restaurant,attraction,weather
+1171	18	USER	はい、ないです。	general,restaurant,attraction,weather
+1171	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,attraction,weather

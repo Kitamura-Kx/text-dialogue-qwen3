@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3946	0	USER	那覇の本庁にある飲食店を探しています。	general,restaurant,taxi
+3946	1	SYSTEM	かしこまりました。それではクマ カフェはいかがでしょうか？	general,restaurant,taxi
+3946	2	USER	そこってWi-Fiと駐車場は無料ですか？	general,restaurant,taxi
+3946	3	SYSTEM	こちらはWi-Fiの有無は不明、駐車場はございません。	general,restaurant,taxi
+3946	4	USER	Wi-Fiと駐車場が無料のところが希望なんです。	general,restaurant,taxi
+3946	5	SYSTEM	かしこまりました。それではしゃぶ葉 那覇おもろまち店はいかがでしょうか？	general,restaurant,taxi
+3946	6	USER	そこにします！営業時間も教えてください。	general,restaurant,taxi
+3946	7	SYSTEM	はい、この店舗の営業時間は11時から23時30分でございます。	general,restaurant,taxi
+3946	8	USER	ありがとうございます。	general,restaurant,taxi
+3946	9	SYSTEM	その他にご用件はございますか？	general,restaurant,taxi
+3946	10	USER	キャッシュレスのタクシー会社はありますか？	general,restaurant,taxi
+3946	11	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant,taxi
+3946	12	USER	ではキャッシュレスは使えなくてもいいです。	general,restaurant,taxi
+3946	13	SYSTEM	かしこまりました。それでは大栄交通はいかがでしょうか？	general,restaurant,taxi
+3946	14	USER	そこにします。電話番号も聞いてもいいですか？	general,restaurant,taxi
+3946	15	SYSTEM	はい、電話番号は0989465005でございます。	general,restaurant,taxi
+3946	16	USER	予約もお願いします。	general,restaurant,taxi
+3946	17	SYSTEM	はい、日程等お伺いいたします。	general,restaurant,taxi
+3946	18	USER	7/11の10:00にさっきの飲食店から、田原屋まで。	general,restaurant,taxi
+3946	19	SYSTEM	お待たせ致しました。予約番号28474でお取りさせていただきました。	general,restaurant,taxi
+3946	20	USER	ありがとうございます！	general,restaurant,taxi
+3946	21	SYSTEM	その他にご用件はございますか？	general,restaurant,taxi
+3946	22	USER	もう大丈夫です。	general,restaurant,taxi
+3946	23	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,taxi

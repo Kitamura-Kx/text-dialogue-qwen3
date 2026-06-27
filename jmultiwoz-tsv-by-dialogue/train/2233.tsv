@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2233	0	USER	横浜で予算高めの飲食店を見つけてほしいんですが、Wi-Fiと駐車場は無料で使えるところをお願いします。	general,restaurant
+2233	1	SYSTEM	あいにく全ての条件を満たす飲食店はなさそうです。	general,restaurant
+2233	2	USER	そうかあ、じゃあ、Wi-FIはなくてもいいです。	general,restaurant
+2233	3	SYSTEM	予算高め、駐車場無料となると、うなぎ料理 しま村 青葉台店、こちらがおすすめです。	general,restaurant
+2233	4	USER	うなぎ、いいですね。そのお店はエリア的にはどこですか？営業時間も教えてほしいです。	general,restaurant
+2233	5	SYSTEM	エリアは青葉区、昼の部が１１時から３時まで、夜の部が４時から９時半までです。	general,restaurant
+2233	6	USER	じゃあ昼にしようかな。8月4日に2人予約できますか？えっと、時間は、10時40分で。	general,restaurant
+2233	7	SYSTEM	8/4 10:40 2人で予約しました。予約番号は60301です。	general,restaurant
+2233	8	USER	良かった、楽しみにです。お世話になりました。	general,restaurant

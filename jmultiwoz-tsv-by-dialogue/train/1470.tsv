@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1470	0	USER	東京で無料駐車場と無料Wi-Fiが利用できる飲食店を探してもらえますか？	general,restaurant
+1470	1	SYSTEM	かしこまりました。では、バルバッコア 六本木ヒルズ店がございます。	general,restaurant
+1470	2	USER	そちらはどのエリアにあるお店でしょうか？	general,restaurant
+1470	3	SYSTEM	エリアは港区でございます。	general,restaurant
+1470	4	USER	あとジャンルも教えてもらえますか？	general,restaurant
+1470	5	SYSTEM	ジャンルは洋食・西洋料理, 居酒屋でございます。	general,restaurant
+1470	6	USER	ありがとうございます。	general,restaurant
+1470	7	SYSTEM	ほかにご用件はございますか。	general,restaurant
+1470	8	USER	大丈夫です。ありがとうございました。	general,restaurant
+1470	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3976	0	USER	名古屋へ旅行を考えています。	general,taxi
+3976	1	SYSTEM	お知りになりたい情報がございますか。	general,taxi
+3976	2	USER	ジャンボタクシーのあるタクシー会社はありますか？	general,taxi
+3976	3	SYSTEM	申し訳ございません。ジャンボタクシーに対応している会社がございません。いかがなさいますか。	general,taxi
+3976	4	USER	ではジャンボタクシーはなしで。	general,taxi
+3976	5	SYSTEM	では名鉄名古屋タクシーがございます。こちらキャッシュレスには対応しております。	general,taxi
+3976	6	USER	電話番号もお願いします。	general,taxi
+3976	7	SYSTEM	電話番号は0570085255でございます。	general,taxi
+3976	8	USER	7/1の12:00に出発地はthe b 名古屋(ザビー なごや)というところから目的地はすしざんまい 名古屋錦店というところまで、予約お願いします。	general,taxi
+3976	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は19917でございます。	general,taxi
+3976	10	USER	ありがとうございます。	general,taxi
+3976	11	SYSTEM	ほかにご用件はございませんか。	general,taxi
+3976	12	USER	はい。	general,taxi
+3976	13	SYSTEM	承知しました。ありがとうございました。	general,taxi

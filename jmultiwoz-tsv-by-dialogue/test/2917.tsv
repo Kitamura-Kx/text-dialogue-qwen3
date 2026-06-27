@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2917	0	USER	こんにちは。横浜に行こうかと思うのですが、Wi-Fiが無料で使えて、予算が普通な、カフェ・スイーツのお店はないですか？	general,restaurant,taxi,weather
+2917	1	SYSTEM	横浜でWiFi無料、予算普通のカフェスイーツといえば、NICK STOCK 横浜ポルタ店、こちらになります。	general,restaurant,taxi,weather
+2917	2	USER	ありがとうございます。そこに行ってみます。当日利用するタクシー会社も探してもらえますか？キャッシュレス払いが可能なところがいいです。	general,restaurant,taxi,weather
+2917	3	SYSTEM	横浜でキャッシュレス対応のタクシー会社はいくつかありますが、日本サントスキャブ株式会社、こちらをオススメします。	general,restaurant,taxi,weather
+2917	4	USER	ありがとうございます。そのタクシー会社はジャンボタクシーも対応してますか？	general,restaurant,taxi,weather
+2917	5	SYSTEM	はい、対応しています。	general,restaurant,taxi,weather
+2917	6	USER	ありがとうございます。ではそのタクシー会社で、12/12の09:40、出発地はNICK STOCK 横浜ポルタ店、目的地は日本郵船歴史博物館で、予約をお願いします。	general,restaurant,taxi,weather
+2917	7	SYSTEM	予約成功しました。予約番号は81722です。	general,restaurant,taxi,weather
+2917	8	USER	ありがとうございます。12/12の金沢区の天候も調べてもらえませんか？	general,restaurant,taxi,weather
+2917	9	SYSTEM	12/12 横浜 金沢区 の天気は晴時々曇、最低気温6.7度、最高気温9.9度です。	general,restaurant,taxi,weather
+2917	10	USER	ありがとうございます。	general,restaurant,taxi,weather
+2917	11	SYSTEM	よい旅を	general,restaurant,taxi,weather

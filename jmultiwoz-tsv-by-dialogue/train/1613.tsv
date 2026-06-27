@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1613	0	USER	京都の伏見区にある観光名所を探してもらえますか？駐車場が無料で使えるところだと嬉しいです。	general,attraction,shopping
+1613	1	SYSTEM	では、伏見稲荷大社はいかがですか？	general,attraction,shopping
+1613	2	USER	よさそうですね。営業時間はわかりますか？	general,attraction,shopping
+1613	3	SYSTEM	営業時間は、00:00～00:00となっております。	general,attraction,shopping
+1613	4	USER	入場料はわかりますか？子どもの料金が知りたいのですが。	general,attraction,shopping
+1613	5	SYSTEM	入場料につきましては、大人子供に関わらず無料となっています。	general,attraction,shopping
+1613	6	USER	わかりました。当日、食料品の買い物もしたいです。駐車場が無料で使えるところでどこかありますか？	general,attraction,shopping
+1613	7	SYSTEM	鶴屋𠮷信 本店は、いかがでしょうか？	general,attraction,shopping
+1613	8	USER	いいですね。近辺の駅からの所要時間を教えてほしいです。	general,attraction,shopping
+1613	9	SYSTEM	はい、近辺の駅からの所要時間は、今出川駅から徒歩で10分となっています。	general,attraction,shopping
+1613	10	USER	ありがとうございます。参考になりました。	general,attraction,shopping

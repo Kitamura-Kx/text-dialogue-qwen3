@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1607	0	USER	那覇旅行を計画していて、当日の飲食店を探しています。Wi-Fi無料でうどん・そばのお店が良いのですが。	general,restaurant,shopping
+1607	1	SYSTEM	そうしますと、琉球村 那覇空港店はいかがでしょうか？	general,restaurant,shopping
+1607	2	USER	ありがとうございます。そこは駐車場はありますか？	general,restaurant,shopping
+1607	3	SYSTEM	はい、有料ですが、ございます。	general,restaurant,shopping
+1607	4	USER	ありがとうございます。琉球村 那覇空港店を予約したいのですが、1/24の12：40から、2人で予約をお願い出来ますか？	general,restaurant,shopping
+1607	5	SYSTEM	はい、かしこまりました。ご予約完了いたしました。予約番号は8312です。	general,restaurant,shopping
+1607	6	USER	ありがとうございました。あと、旅行当日に買い物が出来るところも探しています。本庁地区で、駐車場が無料の家電・電化製品が買えるところが良いのですが。	general,restaurant,shopping
+1607	7	SYSTEM	そうしますと、YAMADA web.com 那覇本店はいかがでしょうか？最寄りが、おもろまち駅のお店となります。	general,restaurant,shopping
+1607	8	USER	ありがとうございます。そこの定休日は分かりますか？	general,restaurant,shopping
+1607	9	SYSTEM	はい。こちらのお店は、定休日はございません。	general,restaurant,shopping
+1607	10	USER	定休日無しですね。ありがとうございます。	general,restaurant,shopping
+1607	11	SYSTEM	はい。他にお調べすることはございますか？	general,restaurant,shopping
+1607	12	USER	いえ、他にはありません。ありがとうございました。	general,restaurant,shopping
+1607	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,shopping

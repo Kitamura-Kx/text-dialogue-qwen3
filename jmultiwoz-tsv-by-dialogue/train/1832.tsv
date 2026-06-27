@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1832	0	USER	福岡へ旅行に行くんですが、観光名所を探してほしいです！	general,attraction,taxi
+1832	1	SYSTEM	希望条件などは、ございますか？	general,attraction,taxi
+1832	2	USER	駐車場とWi-Fiが無料のところでお願いします！	general,attraction,taxi
+1832	3	SYSTEM	マリノアシティ福岡は、いかがでしょうか？	general,attraction,taxi
+1832	4	USER	いいですね！最寄り駅は分かりますか？	general,attraction,taxi
+1832	5	SYSTEM	最寄り駅は、姪浜駅です。	general,attraction,taxi
+1832	6	USER	ありがとうございます。キャッシュレス払いができるタクシー会社も探して欲しいです。	general,attraction,taxi
+1832	7	SYSTEM	平和交通（株）は、いかがですか？	general,attraction,taxi
+1832	8	USER	ありがとうございます。電話番号は分かりますか？	general,attraction,taxi
+1832	9	SYSTEM	電話番号は、0924114422です。	general,attraction,taxi
+1832	10	USER	ありがとうございます。予約をお願いします！福岡市博物館を出発して、マリノアシティ福岡まで行きたいです。	general,attraction,taxi
+1832	11	SYSTEM	希望日時は、いつがよろしいですか？	general,attraction,taxi
+1832	12	USER	7/27の9:50でお願いします。	general,attraction,taxi
+1832	13	SYSTEM	予約が完了しました。　予約番号は、21236になります。	general,attraction,taxi
+1832	14	USER	大変助かりました！ありがとうございます。	general,attraction,taxi
+1832	15	SYSTEM	他にご用件はございますか？	general,attraction,taxi
+1832	16	USER	大丈夫です！ありがとうございました。	general,attraction,taxi
+1832	17	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi

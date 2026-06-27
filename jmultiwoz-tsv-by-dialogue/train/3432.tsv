@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3432	0	USER	今度京都に行くのですが、飲食店を探しています。	general,restaurant,hotel,taxi
+3432	1	SYSTEM	ありがとうございます。御条件伺います。	general,restaurant,hotel,taxi
+3432	2	USER	予算は普通で、駐車場を無料で利用できるところがいいです。	general,restaurant,hotel,taxi
+3432	3	SYSTEM	かしこまりました。それでは牛々亭はいかがでしょうか？	general,restaurant,hotel,taxi
+3432	4	USER	いいですね。そちらの定休日とエリアを教えていただけますか。	general,restaurant,hotel,taxi
+3432	5	SYSTEM	定休日は12月31日と1月1日のみです。エリアは中京区でございます。	general,restaurant,hotel,taxi
+3432	6	USER	ありがとうございます。あと、当日の宿泊施設を探しています。山科区で、Wi-Fiが無料のシティホテルはありますか？	general,restaurant,hotel,taxi
+3432	7	SYSTEM	お待たせ致しました。京都山科 ホテル山楽がございます。	general,restaurant,hotel,taxi
+3432	8	USER	ありがとうございます。そちらの住所が知りたいです。	general,restaurant,hotel,taxi
+3432	9	SYSTEM	住所は京都府京都市山科区安朱桟敷町23でございます。	general,restaurant,hotel,taxi
+3432	10	USER	分かりました。では、1/3に３名で２泊、予約をお願いできますでしょうか。	general,restaurant,hotel,taxi
+3432	11	SYSTEM	お待たせ致しました。予約番号87983でお取りさせていただきました。	general,restaurant,hotel,taxi
+3432	12	USER	ありがとうございます。あと、当日タクシーを使いたいのですが、キャッシュレス払いができるところはありますか？	general,restaurant,hotel,taxi
+3432	13	SYSTEM	お待たせ致しました。では、高速タクシー株式会社はいかがでしょうか？	general,restaurant,hotel,taxi
+3432	14	USER	ありがとうございます。そちらの電話番号と、ジャンボタクシーに対応しているかを知りたいです。	general,restaurant,hotel,taxi
+3432	15	SYSTEM	はい、電話番号は0756015588です。ジャンボタクシーにも対応しております。	general,restaurant,hotel,taxi
+3432	16	USER	そうですか。では、1/3の16:40で、牛々亭から、京都山科 ホテル山楽まで予約をお願いできますでしょうか。	general,restaurant,hotel,taxi
+3432	17	SYSTEM	お待たせ致しました。予約番号82977でお取りさせていただきました。	general,restaurant,hotel,taxi
+3432	18	USER	ありがとうございました。以上です、お世話になりました。	general,restaurant,hotel,taxi
+3432	19	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,hotel,taxi

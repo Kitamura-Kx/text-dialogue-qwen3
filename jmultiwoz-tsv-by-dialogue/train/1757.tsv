@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1757	0	USER	札幌へ旅行に行くので、宿泊施設を探してください。	general,hotel,restaurant
+1757	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,restaurant
+1757	2	USER	予算は安めが希望で、Wi-Fiが無料で利用できるところにしてください。	general,hotel,restaurant
+1757	3	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,hotel,restaurant
+1757	4	USER	では予算の条件は外して構いません。	general,hotel,restaurant
+1757	5	SYSTEM	エリアでいうと南区にある、定山渓第一寶亭留 翠山亭はいかがでしょう？タイプはその他となります。	general,hotel,restaurant
+1757	6	USER	そちらの料金情報について教えてください。	general,hotel,restaurant
+1757	7	SYSTEM	申し訳ありません。ご案内可能な料金情報はございません。	general,hotel,restaurant
+1757	8	USER	わかりました。あと飲食店を探してください。	general,hotel,restaurant
+1757	9	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,restaurant
+1757	10	USER	地区は白石区で、予算は安め希望です。	general,hotel,restaurant
+1757	11	SYSTEM	誠寿司 本店はいかがでしょう？ジャンルは寿司、魚料理となります。	general,hotel,restaurant
+1757	12	USER	そちらの営業時間と最寄り駅を教えてください。	general,hotel,restaurant
+1757	13	SYSTEM	営業時間は11時から22時、最寄りの南郷7丁目駅から徒歩で5分となります。	general,hotel,restaurant
+1757	14	USER	ありがとうございました。以上です。	general,hotel,restaurant
+1757	15	SYSTEM	ありがとうございました。	general,hotel,restaurant

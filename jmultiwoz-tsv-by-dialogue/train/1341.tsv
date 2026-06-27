@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1341	0	USER	大阪へ行こうと思っています。駐車場が無料で利用できて医療品や化粧品が帰るお店を探していただきたいです。	general,shopping,weather
+1341	1	SYSTEM	大阪シティエアターミナルは、いかがですか？	general,shopping,weather
+1341	2	USER	そちらの定休日、最寄り駅を教えていただけますでしょうか。	general,shopping,weather
+1341	3	SYSTEM	定休日は、第３水曜と12/31、1/1です。　最寄り駅は、難波駅になります。	general,shopping,weather
+1341	4	USER	わかりました。ありがとうございます。	general,shopping,weather
+1341	5	SYSTEM	他にご用件はありますか？	general,shopping,weather
+1341	6	USER	7月21日西成区の天候を調べていただきたいです。	general,shopping,weather
+1341	7	SYSTEM	その日の天気は、雨のち晴です。	general,shopping,weather
+1341	8	USER	最高気温も教えていただけますでしょうか。	general,shopping,weather
+1341	9	SYSTEM	最高気温は、34.1度です。	general,shopping,weather
+1341	10	USER	わかりました。ありがとうございます。	general,shopping,weather
+1341	11	SYSTEM	他にご用件はありますか？	general,shopping,weather
+1341	12	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping,weather

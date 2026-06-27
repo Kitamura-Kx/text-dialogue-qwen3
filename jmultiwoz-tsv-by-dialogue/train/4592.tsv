@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4592	0	USER	福岡への旅行を計画しています． 当日泊まる宿泊施設を探してください．駐車場を無料で利用できるところにしてください．レストランが併設されているところにしてください．予算は高めが希望です	general,hotel,taxi,weather
+4592	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,hotel,taxi,weather
+4592	2	USER	でしたら駐車場は有料でいいです。	general,hotel,taxi,weather
+4592	3	SYSTEM	ソラリア西鉄ホテル福岡はいかがでしょうか。	general,hotel,taxi,weather
+4592	4	USER	いいですね。そちらで人数は4人です．日付は2/3です．宿泊日数は4泊で予約お願いします。	general,hotel,taxi,weather
+4592	5	SYSTEM	予約完了いたしました。予約番号は966になります。	general,hotel,taxi,weather
+4592	6	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してください．ジャンボタクシーを利用できるところにしてください．キャッシュレス払いできるところにしてください．	general,hotel,taxi,weather
+4592	7	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,hotel,taxi,weather
+4592	8	USER	でしたらキャッシュレスはどちらでも。	general,hotel,taxi,weather
+4592	9	SYSTEM	（有）春吉タクシーはいかがでしょうか。	general,hotel,taxi,weather
+4592	10	USER	そちらの電話番号を教えていただけますか。あと、日付は2/3です．時間は11:00です．出発地はTHE LUIGANS Spa&Resortというところです．目的地は先ほど見つけた宿泊所で予約いただけますか。	general,hotel,taxi,weather
+4592	11	SYSTEM	電話番号は0924778484です。予約完了いたしました。予約番号は38391になります。	general,hotel,taxi,weather
+4592	12	USER	ありがとうございます。あと、2/3の東区の最低気温、最高気温を教えていただけますか。	general,hotel,taxi,weather
+4592	13	SYSTEM	最低気温は9.7度、 最高気温は11度です。	general,hotel,taxi,weather
+4592	14	USER		general,hotel,taxi,weather

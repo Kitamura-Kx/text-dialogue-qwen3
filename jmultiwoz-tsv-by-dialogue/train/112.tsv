@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+112	0	USER	こんにちは。 名古屋へ旅行を考えているのですが、情報を探していただけますでしょうか。	general,restaurant
+112	1	SYSTEM	かしこまりました。どのような情報が必要でしょうか。	general,restaurant
+112	2	USER	当日食事ができる飲食店を探しているところでして。 無料で駐車場が使えるが良いのですが。	general,restaurant
+112	3	SYSTEM	12件該当しますがほかに何か条件はございますか。	general,restaurant
+112	4	USER	他には特にありません。	general,restaurant
+112	5	SYSTEM	ではビストロコバはいかがでしょうか。	general,restaurant
+112	6	USER	ビストロコバですね。 そちらは値段帯的には、どのくらいになりますか？	general,restaurant
+112	7	SYSTEM	高めとなっております。	general,restaurant
+112	8	USER	そうなんですね。わかりました。 あと、住所を伺っても宜しいですか？	general,restaurant
+112	9	SYSTEM	愛知県名古屋市西区那古野2丁目25-12でございます。	general,restaurant
+112	10	USER	ありがとうございます。お探しいただいて良かったです。	general,restaurant
+112	11	SYSTEM	ほかにご用件はございますか。	general,restaurant
+112	12	USER	いえ、あとは大丈夫です。ありがとうございました。	general,restaurant
+112	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant

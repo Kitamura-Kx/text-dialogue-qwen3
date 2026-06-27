@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1164	0	USER	仙台の観光名所を探したいです。	general,attraction
+1164	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction
+1164	2	USER	wifiと駐車場が無料で使えて、できれば宮城野区にあればと思っています。	general,attraction
+1164	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction
+1164	4	USER	そうなんですね。では、宮城野区以外には該当箇所がありますか？	general,attraction
+1164	5	SYSTEM	仙台市文学館がございます。エリアは青葉区となります。	general,attraction
+1164	6	USER	ではそちらの子供入場料と営業時間、最寄り駅を教えてください。	general,attraction
+1164	7	SYSTEM	子供入場料は110円でございます。営業時間は09:00～17:00、最寄り駅は八乙女駅でございます。	general,attraction
+1164	8	USER	今日調べたいことは以上です。ありがとうございました。	general,attraction
+1164	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

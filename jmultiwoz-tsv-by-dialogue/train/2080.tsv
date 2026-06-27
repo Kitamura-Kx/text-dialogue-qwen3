@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2080	0	USER	東京でおもちゃが買えるお店ってありますか？駐車場が無料で使えるところだといいのですが。	general,shopping,restaurant,hotel
+2080	1	SYSTEM	申し訳ございません。その条件ではおもちゃ屋さんはお探しすることが出来ませんでした。	general,shopping,restaurant,hotel
+2080	2	USER	そうですか。では、ジャンルは問わないので、駐車場が無料で、買い物ができるお店を探してもらえますか？	general,shopping,restaurant,hotel
+2080	3	SYSTEM	かしこまりました。それでは京王百貨店新宿店はいかがでしょうか？	general,shopping,restaurant,hotel
+2080	4	USER	よさそうですね。近辺の駅からの所要時間も教えてもらえますか？	general,shopping,restaurant,hotel
+2080	5	SYSTEM	はい。新宿駅から徒歩で1分でございます。	general,shopping,restaurant,hotel
+2080	6	USER	わかりました。当日食事もしたいので、予算高めのお店をどこか探してください。駐車場が無料で使えるところだと嬉しいです。	general,shopping,restaurant,hotel
+2080	7	SYSTEM	かしこまりました。それではユニオン スクエア トウキョウはいかがでしょうか？	general,shopping,restaurant,hotel
+2080	8	USER	そこにします。ちなみに、近辺の駅からお店まではどのくらい時間がかかりますか？	general,shopping,restaurant,hotel
+2080	9	SYSTEM	はい、六本木駅から徒歩で3分でございます。	general,shopping,restaurant,hotel
+2080	10	USER	なるほど。あと、当日泊まれるところも探してほしいです。予算は高めのところでお願いします。	general,shopping,restaurant,hotel
+2080	11	SYSTEM	かしこまりました。それではグランドハイアット東京はいかがでしょうか？	general,shopping,restaurant,hotel
+2080	12	USER	そちらはどういったタイプの宿泊施設になりますか？	general,shopping,restaurant,hotel
+2080	13	SYSTEM	タイプはリゾートホテルでございます。	general,shopping,restaurant,hotel
+2080	14	USER	参考になりました。どうもありがとうございました。	general,shopping,restaurant,hotel

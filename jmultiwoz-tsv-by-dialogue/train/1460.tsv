@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1460	0	USER	福岡へ旅行に行くんですが、飲食店を探していただけますか？	general,restaurant,taxi
+1460	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,taxi
+1460	2	USER	駐車場とWi-Fiが無料の所でお願いします。	general,restaurant,taxi
+1460	3	SYSTEM	ではレカイエ オイスターバー JR博多シティ店がございます。	general,restaurant,taxi
+1460	4	USER	ありがとうございます。予約を取ってください！12/18の11:20に2人で行きたいです。	general,restaurant,taxi
+1460	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は44508でございます。	general,restaurant,taxi
+1460	6	USER	ありがとうございます。あと、キャッシュレス払いができるタクシー会社を探していただけますか？	general,restaurant,taxi
+1460	7	SYSTEM	福岡昭和タクシー（株）がございます。こちらジャンボタクシーにも対応しております	general,restaurant,taxi
+1460	8	USER	こちらも予約をお願いします。福岡市動植物園を出発して、レカイエ オイスターバー JR博多シティ店までお願いします。	general,restaurant,taxi
+1460	9	SYSTEM	かしこまりました。では予約の日時を教えていただけますか。	general,restaurant,taxi
+1460	10	USER	12/18の9:40でお願いします。	general,restaurant,taxi
+1460	11	SYSTEM	はい。予約が完了いたしました。予約番号は12269でございます。	general,restaurant,taxi
+1460	12	USER	ありがとうございます。助かりました！	general,restaurant,taxi
+1460	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

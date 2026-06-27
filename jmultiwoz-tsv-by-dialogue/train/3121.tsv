@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3121	0	USER	那覇へ旅行に行くので小禄地区で簡易宿所でレストランがついているところを探してください	general,hotel
+3121	1	SYSTEM	かしこまりました。では、グランドキャビンホテル那覇小禄はいかがでしょうか？	general,hotel
+3121	2	USER	チェックアウト終了時刻と最寄り駅を教えて貰えますか？	general,hotel
+3121	3	SYSTEM	チェックアウトは10時までとなっております。最寄り駅は、赤嶺駅です。駅から徒歩3分の距離にございます。	general,hotel
+3121	4	USER	わかりました！ありがとうございました	general,hotel
+3121	5	SYSTEM	他にお調べすることはございませんか？	general,hotel
+3121	6	USER	大丈夫です。ありがとうございました	general,hotel
+3121	7	SYSTEM	こちらこそ、ありがとうございます。では、またのご利用をお待ちしております。	general,hotel

@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2078	0	USER	大阪の谷森町駅近くの飲食店を探してもらえますか？予算は安めが希望です。	general,restaurant,taxi
+2078	1	SYSTEM	申し訳ございません。その条件ではご案内出来る飲食店をお探しすることが出来ませんでした。	general,restaurant,taxi
+2078	2	USER	そうですか。では、最寄り駅はどこでもいいので、予算安めのお店を探してもらえますか？	general,restaurant,taxi
+2078	3	SYSTEM	かしこまりました。それでは牛歩はいかがでしょうか？	general,restaurant,taxi
+2078	4	USER	そちらはどういったジャンルのお店になりますか？	general,restaurant,taxi
+2078	5	SYSTEM	焼肉・ホルモンのお店でございます。	general,restaurant,taxi
+2078	6	USER	料金情報はわかりますか？もしわかれば教えてください。	general,restaurant,taxi
+2078	7	SYSTEM	料金の詳細は平日限定の特選牛肉ランチ（ご飯おかわり自由）が1250円、土曜日祝日限定の特選焼肉が2050円でございます。	general,restaurant,taxi
+2078	8	USER	よさそうですね。ではそちらで予約をお願いします。	general,restaurant,taxi
+2078	9	SYSTEM	かしこまりました。日程や人数はお決まりでしょうか？	general,restaurant,taxi
+2078	10	USER	3/13の16:10に4名でお願いしたいです。	general,restaurant,taxi
+2078	11	SYSTEM	かしこまりました。予約番号96906でお取りさせていただきました。	general,restaurant,taxi
+2078	12	USER	ありがとうございます。当日利用できるタクシー会社も探してもらえますか？ジャンボタクシーとキャッシュレス決済に対応しているところがいいです。	general,restaurant,taxi
+2078	13	SYSTEM	かしこまりました。それでは日本タクシー株式会社はいかがでしょうか？	general,restaurant,taxi
+2078	14	USER	そちらの電話番号を教えてもらえますか？	general,restaurant,taxi
+2078	15	SYSTEM	0669285151でございます。	general,restaurant,taxi
+2078	16	USER	予約もお願いします。3/13の14:50に、牛歩から楽韓堂 心斎橋店までで。	general,restaurant,taxi
+2078	17	SYSTEM	かしこまりました。予約番号94701でお取りさせていただきました。	general,restaurant,taxi
+2078	18	USER	助かりました。どうもありがとう。	general,restaurant,taxi

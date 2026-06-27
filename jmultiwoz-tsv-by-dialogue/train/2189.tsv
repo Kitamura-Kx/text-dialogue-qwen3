@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2189	0	USER	今度、札幌へ行くのでWi-Fiが無料で使えるビジネスホテルを探しています。	general,hotel,restaurant,weather
+2189	1	SYSTEM	では、エリアでいうと中央区にある、札幌エクセルホテル東急はいかがでしょう？	general,hotel,restaurant,weather
+2189	2	USER	はい、そこで大丈夫です。どれくらいの値段ですか？レストランはありますか？	general,hotel,restaurant,weather
+2189	3	SYSTEM	はい、値段帯は安めとなります。また、レストランが併設されています。	general,hotel,restaurant,weather
+2189	4	USER	ありがとうございます。それから、西区で予算高めの飲食店も教えてください。	general,hotel,restaurant,weather
+2189	5	SYSTEM	申し訳ありません。その条件ではご案内できないのですが、いかが致しましょう？	general,hotel,restaurant,weather
+2189	6	USER	大丈夫です。では予算はこだわりません。	general,hotel,restaurant,weather
+2189	7	SYSTEM	では、ピカンティ 札幌琴似店はいかがでしょう？	general,hotel,restaurant,weather
+2189	8	USER	そこの料金情報を教えてください。	general,hotel,restaurant,weather
+2189	9	SYSTEM	はい、料金情報としては、サクッとPICA チキンが1320円、チキンレッグが1210円、プレミア舞茸が1298円となっております。	general,hotel,restaurant,weather
+2189	10	USER	ありがとうございます。最後に10月3日の清田区の天気を教えてもらえますか？	general,hotel,restaurant,weather
+2189	11	SYSTEM	はい、天気は曇、最低気温5度、最高気温20.8度となります。	general,hotel,restaurant,weather
+2189	12	USER	詳しくありがとうございます。助かりました。では失礼します。	general,hotel,restaurant,weather

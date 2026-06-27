@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1963	0	USER	横浜への旅行を考えています。当日買い物ができるところを教えてください。	general,shopping,weather,taxi
+1963	1	SYSTEM	かしこまりました。50件ほどございますが。何かその他に条件はございますか？	general,shopping,weather,taxi
+1963	2	USER	駐車場が無料で最寄り駅が新横浜駅が希望です。	general,shopping,weather,taxi
+1963	3	SYSTEM	それでしたら、新横浜プリンスペペがございます。	general,shopping,weather,taxi
+1963	4	USER	そこが良いですね。そこの住所を教えてください。	general,shopping,weather,taxi
+1963	5	SYSTEM	ありがとうございます。住所は神奈川県横浜市港北区新横浜3丁目4でございます。	general,shopping,weather,taxi
+1963	6	USER	あと当日11/1の金沢区の最高気温を教えてください。	general,shopping,weather,taxi
+1963	7	SYSTEM	はい、当日最高気温は18.3度となっております。	general,shopping,weather,taxi
+1963	8	USER	当日はジャンボタクシーを使いたいのでタクシー会社を探してください。	general,shopping,weather,taxi
+1963	9	SYSTEM	申し訳ございません。その条件に該当するタクシー会社を見つけることが出来ませんでした。	general,shopping,weather,taxi
+1963	10	USER	でしたらジャンボタクシーでなくても良いです。	general,shopping,weather,taxi
+1963	11	SYSTEM	では、東宝タクシー株式会社はいかがでしょうか？	general,shopping,weather,taxi
+1963	12	USER	そこが良さそうですね。そこはキャッシュレス対応でしょうか？	general,shopping,weather,taxi
+1963	13	SYSTEM	申し訳ございません。キャッシュレスは非対応となっております。	general,shopping,weather,taxi
+1963	14	USER	分かりました。そこに予約をしたいので日付は11/1の10:50で出発地は世界のビール博物館 横浜店で目的地は新横浜プリンスペペで予約をお願いします。	general,shopping,weather,taxi
+1963	15	SYSTEM	お待たせいたしました。予約番号65119で承らせていただきました。	general,shopping,weather,taxi
+1963	16	USER	分かりました。ありがとうございます。	general,shopping,weather,taxi
+1963	17	SYSTEM	その他にご用件はございますか？	general,shopping,weather,taxi
+1963	18	USER	大丈夫です。ありがとうございました。	general,shopping,weather,taxi
+1963	19	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,weather,taxi

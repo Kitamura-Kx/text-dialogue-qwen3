@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4115	0	USER	大阪に旅行にいきたいとおもってます	general,shopping,taxi
+4115	1	SYSTEM	かしこまりました。お知りになりたい情報がございますか。	general,shopping,taxi
+4115	2	USER	此花区で買い物ができるところを探しています、無料の駐車場がついている所がいいです	general,shopping,taxi
+4115	3	SYSTEM	ではGoodBBQ舞洲 オーチャードグラスはいかがでしょうか。	general,shopping,taxi
+4115	4	USER	ありがとうございます、キャッシュレス払いのできるジャンボタクシーを借りることはできますか？	general,shopping,taxi
+4115	5	SYSTEM	申し訳ございません。どちらにも対応している会社がございませんでした。いかがなさいますか。	general,shopping,taxi
+4115	6	USER	ではキャッシュレスに対応していなくてもいいのでジャンボタクシーを借りたいです	general,shopping,taxi
+4115	7	SYSTEM	では一番株式会社がございます。	general,shopping,taxi
+4115	8	USER	電話番号を教えてください	general,shopping,taxi
+4115	9	SYSTEM	電話番号は0667077171でございます。	general,shopping,taxi
+4115	10	USER	11月7日の13時50分に一口いなりむろや 大丸梅田店からGoodBBQ舞洲まで予約していただけますか	general,shopping,taxi
+4115	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は16370でございます。	general,shopping,taxi
+4115	12	USER		general,shopping,taxi

@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4595	0	USER	京都への旅行を計画しています． 当日食事ができる飲食店を探してください．予算は普通が希望です．ジャンルはアジア・エスニック料理です．	general,restaurant
+4595	1	SYSTEM	稲穂食堂はいかがでしょうか。	general,restaurant
+4595	2	USER	そちらの近辺の駅からの所要時間，Wi-Fiの有無，住所を教えていただけますか。	general,restaurant
+4595	3	SYSTEM	近辺の駅からの所要時間は一乗寺駅から徒歩で8分、Wi-Fiの有無 は不明、住所は京都府京都市左京区高野玉岡町33-4 Nature bldg 2Fです。	general,restaurant
+4595	4	USER		general,restaurant

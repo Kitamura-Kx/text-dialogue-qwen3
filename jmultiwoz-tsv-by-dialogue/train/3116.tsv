@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3116	0	USER	大阪旅行でアウトレットモールで買い物をしたいと思っています。良いところはありますか？	general,shopping,hotel,weather
+3116	1	SYSTEM	はい、1件ご案内可能です。三井アウトレットパーク 大阪鶴見というところですが、いかがでしょうか？	general,shopping,hotel,weather
+3116	2	USER	いいですね。定休日を教えてください	general,shopping,hotel,weather
+3116	3	SYSTEM	こちらは、定休日はございません。	general,shopping,hotel,weather
+3116	4	USER	分かりました。あと駐車場が無料で利用できてレストランがある宿泊施設を探しているのですが	general,shopping,hotel,weather
+3116	5	SYSTEM	そういたしますと、アスティルホテル十三プレシャスはいかがでしょうか？淀川区のお安めなビジネスホテルでございます。	general,shopping,hotel,weather
+3116	6	USER	近辺の駅からの所要時間はどれくらいですか？	general,shopping,hotel,weather
+3116	7	SYSTEM	十三駅から徒歩で2分ほどの場所にございます。	general,shopping,hotel,weather
+3116	8	USER	分かりました。12/7に二名で4泊予約してほしいのですが	general,shopping,hotel,weather
+3116	9	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,shopping,hotel,weather
+3116	10	USER	三泊ならどうでしょうか？	general,shopping,hotel,weather
+3116	11	SYSTEM	ありがとうございます。三泊にて、ご予約完了いたしました。予約番号は、86321です。	general,shopping,hotel,weather
+3116	12	USER	ありがとうございます。あと12/7の生野区の最低気温を教えて貰えますか？	general,shopping,hotel,weather
+3116	13	SYSTEM	はい、当日の最低気温は、1.3度まで下がる見込みのようです。	general,shopping,hotel,weather
+3116	14	USER	わかりました！	general,shopping,hotel,weather
+3116	15	SYSTEM	他にお調べすることはございませんか？	general,shopping,hotel,weather
+3116	16	USER	大丈夫です。たくさんありがとうございました	general,shopping,hotel,weather
+3116	17	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,shopping,hotel,weather

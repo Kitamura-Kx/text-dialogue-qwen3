@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3892	0	USER	東京へ旅行に行きたいのですが、当日泊まる施設を探してください。レストランが付いているところがよいです。	general,hotel
+3892	1	SYSTEM	かしこまりました。６２件ございますが、ほかにご希望の条件はございますか。	general,hotel
+3892	2	USER	Wi-Fiが無料で使え、駐車場も無料のところはありますか。	general,hotel
+3892	3	SYSTEM	ではThe Okura Tokyoがございますが、いかがですか。	general,hotel
+3892	4	USER	ありがとうございます。では、そこの電話番号を教えてください。	general,hotel
+3892	5	SYSTEM	電話番号は0335820111でございます。	general,hotel
+3892	6	USER	ありがとうございました。	general,hotel

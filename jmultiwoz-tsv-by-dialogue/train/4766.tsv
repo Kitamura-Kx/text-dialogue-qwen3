@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4766	0	USER	名古屋への旅行を計画していて、当日の宿泊施設を探しています。安めのところが良いです。	general,hotel,shopping
+4766	1	SYSTEM	承知しました。コンフォートホテル名古屋金山はいかがでしょうか？	general,hotel,shopping
+4766	2	USER	ありがとうございます。そのホテルにしようと思います。レストランの有無とチェックアウト終了時刻は分かりますか？	general,hotel,shopping
+4766	3	SYSTEM	レストランは無しです。チェックアウト終了時刻は10:00です。	general,hotel,shopping
+4766	4	USER	ありがとうございます。そのホテルを予約したいのですが、12/19から3泊、2人で予約をお願い出来ますか？	general,hotel,shopping
+4766	5	SYSTEM	予約が完了しました。予約番号は60180です。	general,hotel,shopping
+4766	6	USER	ありがとうございます。当日買い物が出来るところも探しています。駐車場無料で、自動車・自転車のお店が希望です。	general,hotel,shopping
+4766	7	SYSTEM	承知しました。ヨドバシカメラ マルチメディア名古屋松坂屋店はいかがでしょうか？	general,hotel,shopping
+4766	8	USER	ありがとうございます。そのお店にしようと思います。営業時間と定休日は分かりますか？	general,hotel,shopping
+4766	9	SYSTEM	営業時間は10:00～22:00です。定休日は無しです。	general,hotel,shopping
+4766	10	USER	ありがとうございました。	general,hotel,shopping
+4766	11	SYSTEM	他にご用件はありますか？	general,hotel,shopping
+4766	12	USER	いえ、他にはありません。ありがとうございました。	general,hotel,shopping
+4766	13	SYSTEM	ありがとうございました。又のご利用をお待ちしています。	general,hotel,shopping

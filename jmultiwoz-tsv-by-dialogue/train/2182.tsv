@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2182	0	USER	仙台への旅行を計画しているのですが、植物園に行ってみたいとおもっています。若林区にありますか。	general,attraction
+2182	1	SYSTEM	申し訳ございません。その条件では植物園をお探しすることが出来ませんでした。	general,attraction
+2182	2	USER	では、ジャンルは問わず、駐車場が無料で利用できるところを探してください。	general,attraction
+2182	3	SYSTEM	かしこまりました。それでは南小泉交通公園はいかがでしょうか？	general,attraction
+2182	4	USER	そこは、Wi-Fiは利用できますか。	general,attraction
+2182	5	SYSTEM	Wi-Fiのご利用は出来ません。	general,attraction
+2182	6	USER	ありがとうございます。なくても大丈夫です。	general,attraction

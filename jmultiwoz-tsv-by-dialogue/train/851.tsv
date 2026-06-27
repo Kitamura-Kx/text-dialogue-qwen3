@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+851	0	USER	札幌に旅行しますが、北区にレストランが併設されている宿泊施設はありますか？	general,hotel,attraction,weather
+851	1	SYSTEM	はい、8件ほどございます。札幌サンプラザというシティホテルはいかがでしょうか？	general,hotel,attraction,weather
+851	2	USER	そちらのホテルは、Wi-Fiが無料ですか？	general,hotel,attraction,weather
+851	3	SYSTEM	はい、無料でご利用いただけます。他の施設も探してみましょうか？	general,hotel,attraction,weather
+851	4	USER	そちらで大丈夫です。価格帯とチェックイン開始時刻を教えてください。	general,hotel,attraction,weather
+851	5	SYSTEM	価格帯はお安めとなっております。チェックインは15時開始です。	general,hotel,attraction,weather
+851	6	USER	ありがとうございます。あと、観光名所でWi-Fiが無料で利用できるところを探して欲しいです。	general,hotel,attraction,weather
+851	7	SYSTEM	かしこまりました。9件候補がございます。たとえば、クラーク博士像はいかがでしょうか？	general,hotel,attraction,weather
+851	8	USER	ジャンル的にはどのような場所でしょうか？	general,hotel,attraction,weather
+851	9	SYSTEM	ジャンルは、記念碑・像, 展望台・タワー、となっております。	general,hotel,attraction,weather
+851	10	USER	わかりました。そちらの子供入場料と最寄り駅を教えてください。	general,hotel,attraction,weather
+851	11	SYSTEM	お子様の入場料は300円です。最寄り駅は、福住駅でございます。	general,hotel,attraction,weather
+851	12	USER	最後に手稲区の天候を教えてください。3/24の最高気温はどれくらいですか？	general,hotel,attraction,weather
+851	13	SYSTEM	当日の最高気温は、3度の予報です。	general,hotel,attraction,weather
+851	14	USER	寒そうですね！わかりました。以上です。ありがとうございました。	general,hotel,attraction,weather
+851	15	SYSTEM	他にお調べすることはございますか？	general,hotel,attraction,weather
+851	16	USER	いいえありません。大丈夫です。	general,hotel,attraction,weather
+851	17	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,hotel,attraction,weather

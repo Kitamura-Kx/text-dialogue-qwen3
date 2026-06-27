@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3748	0	USER	旅行の計画を立てたいのですが、場所は福岡になります。	general,restaurant,weather
+3748	1	SYSTEM	どのようなお店や施設をお探しですか？	general,restaurant,weather
+3748	2	USER	最寄り駅が呉服町駅で、Wi-Fiが無料の、当日利用できる飲食店を探しています。	general,restaurant,weather
+3748	3	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,weather
+3748	4	USER	では、最寄り駅は考慮しなくても大丈夫です。	general,restaurant,weather
+3748	5	SYSTEM	では、レカイエ オイスターバー JR博多シティ店はいかがですか？	general,restaurant,weather
+3748	6	USER	そちらのお店にしたいと思います。住所を教えていただいてよろしいですか？	general,restaurant,weather
+3748	7	SYSTEM	住所は、福岡県福岡市博多区博多駅中央街1-1 JR博多シティ 10Fです。	general,restaurant,weather
+3748	8	USER	ありがとうございます。	general,restaurant,weather
+3748	9	SYSTEM	他にご用件はありますか？	general,restaurant,weather
+3748	10	USER	当日の天候を調べることは可能ですか？	general,restaurant,weather
+3748	11	SYSTEM	では、日時とエリアをお願いします。	general,restaurant,weather
+3748	12	USER	地区は早良区で、日付は7/29になります。	general,restaurant,weather
+3748	13	SYSTEM	当日の天気は、雨のち曇です。	general,restaurant,weather
+3748	14	USER	ありがとうございます。最後に最高気温と最低気温も調べていただけますか？	general,restaurant,weather
+3748	15	SYSTEM	最高気温は、28.7度で最低気温は、19.7度となっております。	general,restaurant,weather
+3748	16	USER	ありがごうございます。助かりました。	general,restaurant,weather
+3748	17	SYSTEM	他にご用件はありますか？	general,restaurant,weather
+3748	18	USER	ありません。ありがとうございます	general,restaurant,weather
+3748	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather

@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+504	0	USER	横浜へ行こうと思っています。WiFiが無料で利用できる観光名所を探していただきたいです。	general,attraction,restaurant,weather
+504	1	SYSTEM	かしこまりました。では象の鼻テラスはいかがでしょうか。	general,attraction,restaurant,weather
+504	2	USER	そちらの料金情報、大人の入場料、近辺の駅からの所要時間を教えていただけますでしょうか。	general,attraction,restaurant,weather
+504	3	SYSTEM	入場料は無料でございます。日本大通り駅から徒歩で3分でございます。	general,attraction,restaurant,weather
+504	4	USER	わかりました。ありがとうございます。	general,attraction,restaurant,weather
+504	5	SYSTEM	ほかにご用件はございますか。	general,attraction,restaurant,weather
+504	6	USER	WiFiが無料で利用できて予算が高めな焼肉・ホルモンが食べられる飲食店を探していただきたいです。	general,attraction,restaurant,weather
+504	7	SYSTEM	申し訳ございません。その条件ですと案内できるところがございませんでした。いかがなさいますか。	general,attraction,restaurant,weather
+504	8	USER	予算は考慮せず、WiFiが無料で焼肉・ホルモンが食べられる飲食店を探していただけますか？	general,attraction,restaurant,weather
+504	9	SYSTEM	では焼肉カーニバルはいかがですか。	general,attraction,restaurant,weather
+504	10	USER	そちらの営業時間と駐車場の有無を教えていただけますでしょうか。	general,attraction,restaurant,weather
+504	11	SYSTEM	営業時間は11:30～15:00と 17:00～23:00でございます。駐車場はございません。	general,attraction,restaurant,weather
+504	12	USER	わかりました。ありがとうございます。	general,attraction,restaurant,weather
+504	13	SYSTEM	ほかにご用件はございますか。	general,attraction,restaurant,weather
+504	14	USER	12月10日の神奈川区の天候を調べていただきたいです。	general,attraction,restaurant,weather
+504	15	SYSTEM	天気は晴時々雨で最低気温は7.7度、最高気温は17.3度でございます。	general,attraction,restaurant,weather
+504	16	USER	わかりました。ありがとうございます。	general,attraction,restaurant,weather
+504	17	SYSTEM	ほかにご用件はございませんか。	general,attraction,restaurant,weather
+504	18	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,restaurant,weather

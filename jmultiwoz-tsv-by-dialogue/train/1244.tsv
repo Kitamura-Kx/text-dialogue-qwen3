@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1244	0	USER	仙台への旅行を検討しています。当日泊まれる宿泊施設を探しているのですが、お伺いしてもよろしいでしょうか？	general,hotel
+1244	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,hotel
+1244	2	USER	はい。予算が高めのリゾートホテルを探しています。	general,hotel
+1244	3	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,hotel
+1244	4	USER	そうですか。でしたら、リゾートホテルでは無くても大丈夫ですので、予算が高めでWi-Fiが無料で利用できる所はありますか？	general,hotel
+1244	5	SYSTEM	はい、ありがとうございます。4件ご案内可能です。例えば、秋保温泉 茶寮宗園という旅館はいかがでしょうか？	general,hotel
+1244	6	USER	そちらにしようかと思います。この施設の最寄り駅を教えて下さい。	general,hotel
+1244	7	SYSTEM	最寄り駅は、仙台駅です。ただ、仙台駅からタクシーで30分ほどかかります。	general,hotel
+1244	8	USER	そうですか。この施設のエリアはわかりますか？	general,hotel
+1244	9	SYSTEM	エリアは、太白区となります。	general,hotel
+1244	10	USER	わかりました。この施設にはレストランってありますか？	general,hotel
+1244	11	SYSTEM	はい、併設しております。	general,hotel
+1244	12	USER	ありがとうございます。検討してみます。ご対応、ありがとうございました。	general,hotel
+1244	13	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,hotel

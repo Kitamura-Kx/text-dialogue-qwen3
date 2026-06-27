@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3456	0	USER	大阪へ旅行する予定なんですが、食事が出来る場所を探しています。	general,restaurant,weather
+3456	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,weather
+3456	2	USER	Wi-Fiが無料で利用できる場所がいいです。	general,restaurant,weather
+3456	3	SYSTEM	では浅野焼鳥日本酒店HOMMACHIはいかがでしょうか。	general,restaurant,weather
+3456	4	USER	そのお店に駐車場があるかどうかと、料金ついて、それからエリアについても知りたいです。	general,restaurant,weather
+3456	5	SYSTEM	駐車場はございません。料金情報は不明となっております。エリアは中央区でございます。	general,restaurant,weather
+3456	6	USER	なるほど。ありがとうございます。	general,restaurant,weather
+3456	7	SYSTEM	ほかにご用件はございませんか。	general,restaurant,weather
+3456	8	USER	もう大丈夫です。ありがとうございました。	general,restaurant,weather
+3456	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather
+3456	10	USER	あ、申し訳ありません。当日の天気をお聞きしたかったのをすっかり忘れていました。5月13日の東成区の最高気温を教えていただきたいです。	general,restaurant,weather
+3456	11	SYSTEM	当日の最高気温は24.8度でございます。	general,restaurant,weather
+3456	12	USER	なるほど。ありがとうございます。	general,restaurant,weather
+3456	13	SYSTEM	ほかにご用件はございませんか。	general,restaurant,weather
+3456	14	USER	いえ、大丈夫です。ありがとうございます。	general,restaurant,weather
+3456	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather
+3456	16	USER		general,restaurant,weather

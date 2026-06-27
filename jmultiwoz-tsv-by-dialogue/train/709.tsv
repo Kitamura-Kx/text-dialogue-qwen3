@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+709	0	USER	京都へ行く予定があるのですが、当日タクシーを利用したいと思います。	general,taxi
+709	1	SYSTEM	承知しました。株式会社キャビックはいかがでしょう？キャッシュレス、ジャンボタクシーともに対応しております。電話番号は、0758642100となります。	general,taxi
+709	2	USER	帝産京都自動車株式会社がよいのですが。	general,taxi
+709	3	SYSTEM	承知しました。電話番号は0756611881となります。ご予約されますか？	general,taxi
+709	4	USER	ジャンボタクシー対応、キャッシュレス対応はありますでしょうか。	general,taxi
+709	5	SYSTEM	はい、どちらも対応しております。	general,taxi
+709	6	USER	ありがとうございます。では、9月6日の11時40分、リーガロイヤルホテル京都からA4黒毛和牛熟成肉焼肉 Yakiniku221まで予約をお願いします。	general,taxi
+709	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、70233となります。他にご案内できることはございますか？	general,taxi
+709	8	USER	他は大丈夫です。ありがとうございました。	general,taxi

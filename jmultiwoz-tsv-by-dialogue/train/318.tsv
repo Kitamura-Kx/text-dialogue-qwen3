@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+318	0	USER	こんにちは。仙台旅行を計画しているのですが、飲食店を探してもらえないでしょうか？	general,restaurant
+318	1	SYSTEM	承知しました。エリアやジャンルのご希望はございますか？	general,restaurant
+318	2	USER	カフェかスイーツを食べられるお店で、駐車場代が無料で価格帯が普通くらいのお店だと嬉しいです。	general,restaurant
+318	3	SYSTEM	申し訳ありません。その条件ですとご紹介可能な飲食店がございません。いかが致しましょう？	general,restaurant
+318	4	USER	そうですか。じゃあやっぱり、お好み焼きやたこ焼きを食べられるお店で探してもらってもいいですか？	general,restaurant
+318	5	SYSTEM	ありがとうございます。それでは、楽亭がよろしいかと思います。住所は仙台市太白区砂押町17-8、電話番号は0227960307です。	general,restaurant
+318	6	USER	楽亭さんってお食事の他に何か料金がかかりますか？あとWi-Fiがあるかどうかも知りたいです。	general,restaurant
+318	7	SYSTEM	Wi-Fi、駐車場とも無料でご利用いただけます。	general,restaurant
+318	8	USER	そうですか。お調べ下さりありがとうございました！	general,restaurant

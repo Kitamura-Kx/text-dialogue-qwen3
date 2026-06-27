@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+868	0	USER	福岡へ旅行に行くのですがジャンボタクシーとキャッシュレスに対応可能な会社はありますか？	general,taxi
+868	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,taxi
+868	2	USER	そうですか、それではジャンボタクシーでなくても良いのでお願いします	general,taxi
+868	3	SYSTEM	かしこまりました。では、日本交通産業（株）はいかがでしょうか？	general,taxi
+868	4	USER	電話番号を教えてもらえますか	general,taxi
+868	5	SYSTEM	はい。電話番号は、0925886377です。ご予約もできますが、いかがいたしますか？	general,taxi
+868	6	USER	はい予約もい願いします。9月17日10:40に「博多水炊きさもんじ」でいお願いします、行先は「ALPHABED INN 福岡大濠公園」です	general,taxi
+868	7	SYSTEM	かしこまりました。予約番号16913にて、ご予約完了いたしました。	general,taxi
+868	8	USER	ありがとうございました	general,taxi
+868	9	SYSTEM	他にお手伝いできることはございませんか？	general,taxi
+868	10	USER	いえ大丈夫です	general,taxi
+868	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

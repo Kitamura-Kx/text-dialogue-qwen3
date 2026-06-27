@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3323	0	USER	東京で買い物をしたいと考えています。	general,shopping
+3323	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,shopping
+3323	2	USER	目黒区で本を買いたいのですが、どこかありますか？	general,shopping
+3323	3	SYSTEM	目黒区でジャンル書籍だと、残念ながらヒットしませんでした。	general,shopping
+3323	4	USER	そうなんですね。ジャンル問わずなら、目黒区のどこで買い物ができそうですか？	general,shopping
+3323	5	SYSTEM	目黒区の買い物スポットは２件、そのうち、SHIRO 自由が丘店をお勧めします。	general,shopping
+3323	6	USER	そちらにします。SHIRO 自由が丘店の電話番号もお願いできますか？	general,shopping
+3323	7	SYSTEM	0357019146です。	general,shopping
+3323	8	USER	ありがとうございます、お聞きしたいことはこれで全てです。	general,shopping
+3323	9	SYSTEM	よい旅を。	general,shopping

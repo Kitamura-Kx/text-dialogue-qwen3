@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+81	0	USER	こんにちは。 東京旅行を計画しているので、宿泊施設を探していただきたいのですが、よろしいでしょうか？	general,hotel
+81	1	SYSTEM	こんにちは。ご利用ありがとうございます。東京の宿泊施設ですと、100件ほどございますが、ご希望の条件などはございますか？	general,hotel
+81	2	USER	予算的には、普通くらいの所を希望しています。そのほかの希望は特にありません。	general,hotel
+81	3	SYSTEM	かしこまりました。ご予算が普通ぐらいのところですと、ホテル椿山荘東京をはじめ、15件ございます。	general,hotel
+81	4	USER	そうなんですね。ホテル椿山荘東京は、Wi-Fiはありますか？	general,hotel
+81	5	SYSTEM	はい、こちらは無料のWiFiを完備しております。	general,hotel
+81	6	USER	それでは、そちらのホテルの電話番号を伺ってもよろしいですか？	general,hotel
+81	7	SYSTEM	かしこまりました。電話番号は、0339431111です。	general,hotel
+81	8	USER	ありがとうございます。	general,hotel
+81	9	SYSTEM	他にご不明な点などはございますでしょうか？	general,hotel
+81	10	USER	いえ、大丈夫です。お調べいただき、ありがとうございました。	general,hotel
+81	11	SYSTEM	こちらこそ、お役に立てて幸いです。またのご利用をお待ちしております。	general,hotel

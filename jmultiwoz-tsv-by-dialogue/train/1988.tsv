@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1988	0	USER	福岡のグリーンリッチホテル西鉄大橋駅前というホテルについてお聞きしたいことがあります。	general,hotel,taxi
+1988	1	SYSTEM	はい、南区エリアに該当のものが1件ございますが、どういった情報をご案内いたしましょうか？	general,hotel,taxi
+1988	2	USER	電話番号とチェックイン、チェックアウトの時間を知りたいです。	general,hotel,taxi
+1988	3	SYSTEM	かしこまりました。電話番号は、0925524400です。チェックインは15時から、チェックアウトは11時までとなっております。	general,hotel,taxi
+1988	4	USER	ありがとうございます。キャッシュレス払いができるタクシーも探して頂きたいです。	general,hotel,taxi
+1988	5	SYSTEM	はい、かしこまりました。では、福岡交通（株）というところはいかがでしょうか？	general,hotel,taxi
+1988	6	USER	そこにします。電話番号を教えてください。	general,hotel,taxi
+1988	7	SYSTEM	はい、電話番号は、0570081234でございます。	general,hotel,taxi
+1988	8	USER	ありがとうございます。3/30に予約したいです。	general,hotel,taxi
+1988	9	SYSTEM	かしこまりました。ご利用予定の日の出発時刻、出発地、目的地をお願いできますでしょうか？	general,hotel,taxi
+1988	10	USER	10：00にグリーンリッチホテル西鉄大橋駅前からTHE BASICS FUKUOKAまでお願いします。	general,hotel,taxi
+1988	11	SYSTEM	大変申し訳ございません。ご希望の内容では予約を入れることができませんでした。いかがいたしましょうか？	general,hotel,taxi
+1988	12	USER	10：40ではどうですか？	general,hotel,taxi
+1988	13	SYSTEM	ありがとうございます。10：40発にて、ご予約完了いたしました。予約番号は、30293でございます。	general,hotel,taxi
+1988	14	USER	わかりました。ありがとうございました。	general,hotel,taxi
+1988	15	SYSTEM	他にお調べすることはございませんか？	general,hotel,taxi
+1988	16	USER	大丈夫です。	general,hotel,taxi
+1988	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,hotel,taxi

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2264	0	USER	仙台での旅行で当日買い物できるお店を教えていただけますか？	general,shopping,weather
+2264	1	SYSTEM	はい、ご希望の条件をお聞かせください。	general,shopping,weather
+2264	2	USER	ファッションのお店はありそうですか？	general,shopping,weather
+2264	3	SYSTEM	ジャンルファッションではヒットしませんでした。	general,shopping,weather
+2264	4	USER	では家電・電化製品を買えるお店でお願いします。	general,shopping,weather
+2264	5	SYSTEM	仙台で家電といえば、ヨドバシカメラマルチメディア仙台、こちら一択です。	general,shopping,weather
+2264	6	USER	ではそちらにします。近辺の駅からの所要時間を教えてください。	general,shopping,weather
+2264	7	SYSTEM	仙台駅から徒歩で1分、便利な立地です。	general,shopping,weather
+2264	8	USER	ありがとうございます。旅行当日の6/6の青葉区の天気も教えていただけますか？	general,shopping,weather
+2264	9	SYSTEM	6/6 仙台 青葉区 の天気は雨時々曇、最低気温20.1度、最高気温21.4度です。	general,shopping,weather
+2264	10	USER	ありがとうございました。	general,shopping,weather

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3127	0	USER	仙台に旅行に行くので最寄り駅が泉中央駅でWi-Fiが無料で使える観光名所を探してほしいです	general,attraction,hotel
+3127	1	SYSTEM	かしこまりました。では、namcoアリオ仙台泉店はいかがでしょうか？	general,attraction,hotel
+3127	2	USER	駐車場の有無と子どもの入場料をおしえてください	general,attraction,hotel
+3127	3	SYSTEM	はい。駐車場は有料ですが、ご利用いただけます。お子様の入場料は0円で無料です。	general,attraction,hotel
+3127	4	USER	分かりました。あとレストランが併設されている宿泊施設も知りたいです	general,attraction,hotel
+3127	5	SYSTEM	かしこまりました。６０件候補がございますが、ほかにご希望の条件はございませんか？	general,attraction,hotel
+3127	6	USER	ないです	general,attraction,hotel
+3127	7	SYSTEM	では、ウェスティンホテル仙台というお高めのリゾートホテルは、いかがでしょうか？	general,attraction,hotel
+3127	8	USER	そうします。Wi-Fiの有無もおしえてください	general,attraction,hotel
+3127	9	SYSTEM	はい、WiFiは無料でご利用いただけます。	general,attraction,hotel
+3127	10	USER	わかりました！ありがとうございました	general,attraction,hotel
+3127	11	SYSTEM	他にご用件はございませんか？	general,attraction,hotel
+3127	12	USER	ないです。ありがとうございました	general,attraction,hotel
+3127	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,hotel

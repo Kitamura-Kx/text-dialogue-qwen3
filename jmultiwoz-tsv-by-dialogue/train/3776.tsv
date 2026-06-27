@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3776	0	USER	京都への旅行を計画しています。Racinehome京都という宿泊施設の料金情報を教えてもらえますか？	general,hotel,taxi
+3776	1	SYSTEM	申し訳ありません、Racinehome京都については確認が取れましたが、値段帯は安め、ということ以外ご案内可能な料金情報がございません。	general,hotel,taxi
+3776	2	USER	ありがとうございます。そちらを3/4から3人で2泊したいのですが、予約をお願いできますか？	general,hotel,taxi
+3776	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、9222となります。	general,hotel,taxi
+3776	4	USER	キャッシュレス払いが可能なタクシー会社も探してもらえますか？	general,hotel,taxi
+3776	5	SYSTEM	承知しました。では、都タクシー株式会社はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0756616611となります。	general,hotel,taxi
+3776	6	USER	そちらの予約をお願いします。3/4の14:40に、西利祇園店からRacinehome京都までお願いします。	general,hotel,taxi
+3776	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、93087となります。	general,hotel,taxi
+3776	8	USER	ありがとうございました。	general,hotel,taxi
+3776	9	SYSTEM	ありがとうございました。	general,hotel,taxi

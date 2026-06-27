@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4742	0	USER	札幌へ旅行予定です。清田区で文房具・雑貨を買い物できるところはありますか？	general,shopping
+4742	1	SYSTEM	承知しました。では、コーチャンフォー美しが丘店はいかがでしょう？	general,shopping
+4742	2	USER	そこにします。最寄り駅ってわかります？	general,shopping
+4742	3	SYSTEM	はい、最寄りの福住駅からバスで24分となります。	general,shopping
+4742	4	USER	最寄り駅が福住駅ってことですね。ありがとうございます。	general,shopping
+4742	5	SYSTEM	他にご用件はございますか？	general,shopping
+4742	6	USER	いえ、もういいです。	general,shopping
+4742	7	SYSTEM	ありがとうございました。	general,shopping

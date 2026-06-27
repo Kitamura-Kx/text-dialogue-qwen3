@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3057	0	USER	仙台への旅行を検討しています。当日訪れる観光名所を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,attraction
+3057	1	SYSTEM	はい、ご希望をおきかせください	general,attraction
+3057	2	USER	はい。駐車場を無料で利用出来る場所ってありますかね？	general,attraction
+3057	3	SYSTEM	仙台で駐車場無料の観光名所といえば３２カ所ほどあります。追加のご希望はありますか。	general,attraction
+3057	4	USER	いえ、無料の駐車場だけで結構です。何処かおすすめはありますか？	general,attraction
+3057	5	SYSTEM	それでは、ニッカウイスキー仙台工場宮城峡蒸溜所、こちら大人気です。	general,attraction
+3057	6	USER	良さそうですね。この施設の料金情報を教えて貰えますか？	general,attraction
+3057	7	SYSTEM	無料です。大人も子供も無料。	general,attraction
+3057	8	USER	それは有難いですね。この施設は何処のエリアにありますか？	general,attraction
+3057	9	SYSTEM	青葉区になります。	general,attraction
+3057	10	USER	ありがとうございます。ここで検討してみます。ご対応、ありがとうございました。	general,attraction
+3057	11	SYSTEM	よい旅を	general,attraction

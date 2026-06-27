@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1880	0	USER	すみません、京都に行くので、旅行の案内をお願いします！	general,hotel
+1880	1	SYSTEM	はい。ご案内させていただきます。	general,hotel
+1880	2	USER	宿泊施設を探してもらいたいんですけど、レストランが併設されていて、WiFiが無料で使える所って、どこかありますか？	general,hotel
+1880	3	SYSTEM	かしこまりました。では、京都タワーホテルはいかがでしょうか？	general,hotel
+1880	4	USER	ありがとうございます！そちらは、どこのエリアの施設になりますか？	general,hotel
+1880	5	SYSTEM	はい。エリアは下京区になります。	general,hotel
+1880	6	USER	そうなんですね！料金情報は、何かわかりますか？	general,hotel
+1880	7	SYSTEM	はい。値段帯は安めとなっております。	general,hotel
+1880	8	USER	そうなんですね！わかりました。	general,hotel
+1880	9	SYSTEM	他にご用件はありますか？	general,hotel
+1880	10	USER	あとは、大丈夫だと思います！お調べいただき、ありがとうございました！	general,hotel
+1880	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

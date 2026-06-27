@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3324	0	USER	札幌へ旅行に行った時に、買い物をするお店を探してもらえますか？	general,shopping
+3324	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,shopping
+3324	2	USER	西区で買い物を考えています。無料駐車場もあるお店が良いですね。	general,shopping
+3324	3	SYSTEM	札幌西区で無料駐車場のある買い物スポットといえば、イオンモール札幌発寒になります。	general,shopping
+3324	4	USER	ありがとうございます。イオンモール札幌発寒はどんなジャンルのお店でしょうか？	general,shopping
+3324	5	SYSTEM	百貨店や総合スーパーです。	general,shopping
+3324	6	USER	分かりました。あと、イオンモール札幌発寒の住所と、最寄り駅からどの位かかるかも知りたいです。	general,shopping
+3324	7	SYSTEM	北海道札幌市西区発寒8条12丁目1、発寒駅から徒歩で10分、宮の沢駅から徒歩で10分です。	general,shopping
+3324	8	USER	ありがとうございました。	general,shopping
+3324	9	SYSTEM	よい旅を	general,shopping

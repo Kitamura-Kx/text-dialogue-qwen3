@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1204	0	USER	京都へ旅行を計画中です、アパホテル<京都駅前>という宿泊施設はありますか？	general,hotel,weather
+1204	1	SYSTEM	アパホテル〈京都駅前〉が1件あります。　ご希望の条件などはありますか？	general,hotel,weather
+1204	2	USER	Wi-Fiは利用可能でしょうか？電話番号も教えて下さい。	general,hotel,weather
+1204	3	SYSTEM	はい、無料Wi-Fiの利用が可能です。	general,hotel,weather
+1204	4	USER	電話番号も教えてもらえますか？	general,hotel,weather
+1204	5	SYSTEM	電話番号は、0753654111です。	general,hotel,weather
+1204	6	USER	有難うございます、当日9/26の左京区の最低気温と天気を教えて下さい。	general,hotel,weather
+1204	7	SYSTEM	その日の天気は、晴です。　最低気温は、23.2度です。	general,hotel,weather
+1204	8	USER	わかりました、有難うございました。	general,hotel,weather
+1204	9	SYSTEM	他にご用件はございますか？	general,hotel,weather
+1204	10	USER	いえ大丈夫です。	general,hotel,weather
+1204	11	SYSTEM	承知致しました。　ありがとうございました。	general,hotel,weather

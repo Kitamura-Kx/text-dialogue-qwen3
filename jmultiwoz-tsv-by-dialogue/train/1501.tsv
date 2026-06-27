@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1501	0	USER	仙台の若林区で、Wifiが無料の飲食店を探しています。ジャンルは郷土料理です。	general,restaurant,taxi
+1501	1	SYSTEM	申し訳ありません、その条件ではご案内できません。いかが致しましょう？	general,restaurant,taxi
+1501	2	USER	Wifiの条件を除いてください。	general,restaurant,taxi
+1501	3	SYSTEM	では、牛たん炭焼 利久 大和町店はいかがでしょう？	general,restaurant,taxi
+1501	4	USER	そちらで予約をお願いします。6/20の10:50で、3人です。	general,restaurant,taxi
+1501	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、52411となります。	general,restaurant,taxi
+1501	6	USER	ありがとうございます。ついでに、タクシーも聞いていいですか？キャッシュレスとジャンボタクシーに対応している会社を教えてください。	general,restaurant,taxi
+1501	7	SYSTEM	はい、（株）帝産キャブ仙台はいかがでしょう？電話番号は、0120117101となります。	general,restaurant,taxi
+1501	8	USER	予約をお願いします。6/20の9:50で、仙台市子育てふれあいプラザ ｢のびすく宮城野｣から牛たん炭焼 利久 大和町店までの利用です。	general,restaurant,taxi
+1501	9	SYSTEM	申し訳ありません、その条件では予約ができませんでした。いかが致しましょう？	general,restaurant,taxi
+1501	10	USER	時間を10:20に変更していただけますか？	general,restaurant,taxi
+1501	11	SYSTEM	予約が可能になりまして、ご予約番号は、90703となります。	general,restaurant,taxi
+1501	12	USER	ありがとうございます！以上です。	general,restaurant,taxi

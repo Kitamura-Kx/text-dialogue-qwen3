@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4869	0	USER	那覇に旅行に行こうと思っています。Wi-Fiと駐車場を無料で利用できる最寄りが美栄橋駅の飲食店を探してほしいです。	general,restaurant,hotel,weather
+4869	1	SYSTEM	承知しました。エリアでいうと本庁にある、しゃぶしゃぶ 焼肉 杏はいかがでしょう？ジャンルは、焼肉、ホルモン、和食となります。	general,restaurant,hotel,weather
+4869	2	USER	ありがとうございます。あと、Wi-Fiと駐車場を無料で利用できる宿泊施設はありますか。	general,restaurant,hotel,weather
+4869	3	SYSTEM	はい、エリアでいうと本庁にある、旅の宿 らくちんはいかがでしょう？タイプは、その他となります。	general,restaurant,hotel,weather
+4869	4	USER	ありがとうございます。そのお宿の駅からの所要時間とレストランがあるかについて教えてください。	general,restaurant,hotel,weather
+4869	5	SYSTEM	はい、最寄りの旭橋駅から徒歩で15分となります。併設のレストランはございません。	general,restaurant,hotel,weather
+4869	6	USER	ありがとうございます。では11/22に2人で4泊の予約をお願いします。	general,restaurant,hotel,weather
+4869	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、98690となります。	general,restaurant,hotel,weather
+4869	8	USER	ありがとうございます。あと、真和志の11/22の最高気温と天気を教えてください。	general,restaurant,hotel,weather
+4869	9	SYSTEM	はい、天気は晴、最低気温21.4度、最高気温25.4度となります。	general,restaurant,hotel,weather
+4869	10	USER	ありがとうございます。これで大丈夫です。	general,restaurant,hotel,weather
+4869	11	SYSTEM	ありがとうございました。	general,restaurant,hotel,weather

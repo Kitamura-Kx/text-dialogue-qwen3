@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3177	0	USER	横浜への旅行を計画していて、当日の飲食店を探しています。駐車場とWi-Fiが無料で、中華料理のお店が希望です。	general,restaurant,attraction
+3177	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,attraction
+3177	2	USER	では、Wi-Fiは無くても良いです。	general,restaurant,attraction
+3177	3	SYSTEM	かしこまりました。では、三和楼はいかがでしょうか？	general,restaurant,attraction
+3177	4	USER	ありがとうございます。そこにしようと思います。電話番号，営業時間は分かりますか？	general,restaurant,attraction
+3177	5	SYSTEM	はい。電話番号は0456812321で、営業時間は11:30～21:30になります。	general,restaurant,attraction
+3177	6	USER	ありがとうございます。そこの予約をお願いしたいのですが、10/7の午後13：40から3人でお願い出来ますか？	general,restaurant,attraction
+3177	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、24301です。	general,restaurant,attraction
+3177	8	USER	ありがとうございます。当日の観光名所も探しています。駐車場無料、Wi-Fi無料のところが良いです。	general,restaurant,attraction
+3177	9	SYSTEM	かしこまりました。では、カップヌードルミュージアム 横浜はいかがでしょうか？	general,restaurant,attraction
+3177	10	USER	ありがとうございます。そこの定休日，近辺の駅からの所要時間は分かりますか？	general,restaurant,attraction
+3177	11	SYSTEM	定休日はありません。また、近辺の駅からの所要時間は、みなとみらい駅と馬車道駅から徒歩8分で、桜木町駅から徒歩で12分になります。	general,restaurant,attraction
+3177	12	USER	ありがとうございました。	general,restaurant,attraction
+3177	13	SYSTEM	こちらこそありがとうございました。	general,restaurant,attraction

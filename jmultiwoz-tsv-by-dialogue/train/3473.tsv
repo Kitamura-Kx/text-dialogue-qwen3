@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3473	0	USER	大阪に旅行に行こうと思っていまして、買い物できる場所を探しています。北区で駐車場を無料で利用できるところはありますか。	general,shopping,restaurant
+3473	1	SYSTEM	かしこまりました。それではMARUZEN&ジュンク堂書店 梅田店はいかがでしょうか？	general,shopping,restaurant
+3473	2	USER	どのようなジャンルのお店ですか。	general,shopping,restaurant
+3473	3	SYSTEM	ジャンルは書籍でございます。	general,shopping,restaurant
+3473	4	USER	ありがとうございます。定休日はいつになりますか。	general,shopping,restaurant
+3473	5	SYSTEM	はい、定休日は1月1日でございます。	general,shopping,restaurant
+3473	6	USER	ありがとうございます。あと、飲食店も探しているのですが、天満橋駅が最寄り駅でうどん・そばを食べられるお店はありますか。	general,shopping,restaurant
+3473	7	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,shopping,restaurant
+3473	8	USER	それでは最寄り駅は天満橋駅でなくても大丈夫です。	general,shopping,restaurant
+3473	9	SYSTEM	かしこまりました。それではうどん居酒屋 江戸堀はいかがでしょうか？	general,shopping,restaurant
+3473	10	USER	そのお店の定休日と値段帯を教えてください。	general,shopping,restaurant
+3473	11	SYSTEM	定休日は日曜日、値段帯は安めでございます。	general,shopping,restaurant
+3473	12	USER	ありがとうございます。そのお店に1/22の14:20、人数2人で予約をお願いします。	general,shopping,restaurant
+3473	13	SYSTEM	申し訳ありません。その条件では予約が出来ませんでした。	general,shopping,restaurant
+3473	14	USER	では、時間を15:00に変更してください。	general,shopping,restaurant
+3473	15	SYSTEM	お待たせいたしました。予約番号84912でお取りさせていただきました。	general,shopping,restaurant
+3473	16	USER	ありがとうございます。これで大丈夫です。	general,shopping,restaurant
+3473	17	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,restaurant

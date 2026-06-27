@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1840	0	USER	名古屋の旅行の時に泊まるシティホテルを探しています。	general,hotel
+1840	1	SYSTEM	かしこまりました。では、ホテルトラスティ名古屋栄はいかがでしょうか？値段帯は安めとなっております。	general,hotel
+1840	2	USER	駐車場とWi-Fi無料のホテルが良いのですが、ホテルトラスティ名古屋栄はこの条件に当てはまりそうですか？	general,hotel
+1840	3	SYSTEM	申し訳ありません。Wi-Fiは無料であるのですが、駐車場のほうは有料になります。他に名古屋で、条件に合う宿泊施設は見つかりませんでした。	general,hotel
+1840	4	USER	そうなんですね、ではシティホテルではなく旅館で同じ条件の所はありそうですか？	general,hotel
+1840	5	SYSTEM	かしこまりました。では、魚鍵旅館はいかがでしょうか？	general,hotel
+1840	6	USER	では、そちらにします。10/18から4泊で、4人で予約をお願いしたいです。	general,hotel
+1840	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、3463です。	general,hotel
+1840	8	USER	ありがとうございます。	general,hotel
+1840	9	SYSTEM	他にご用件はありますか？	general,hotel
+1840	10	USER	これだけです。お世話になりました。	general,hotel
+1840	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

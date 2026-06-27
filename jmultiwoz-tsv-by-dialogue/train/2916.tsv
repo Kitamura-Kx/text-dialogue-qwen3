@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2916	0	USER	こんにちは。名古屋に行くのですが、最寄り駅が名古屋港駅で、駐車場が無料で使える、旅館はありませんか？	general,hotel,shopping,weather
+2916	1	SYSTEM	名古屋港駅で駐車場無料の旅館はなさそうです。	general,hotel,shopping,weather
+2916	2	USER	わかりました。では最寄り駅にはこだわりません。	general,hotel,shopping,weather
+2916	3	SYSTEM	名古屋で駐車場無料の旅館は３件ありますが、SAMURAI HOUSE、こちらをオススメします。	general,hotel,shopping,weather
+2916	4	USER	ありがとうございます。そこにします。そこはWi-Fiはありますか？値段帯もわかれば教えてください。	general,hotel,shopping,weather
+2916	5	SYSTEM	WiFiは無料です。値段帯は普通になります。	general,hotel,shopping,weather
+2916	6	USER	ありがとうございます。ではその旅館で、人数は2人、日付は2/19、宿泊日数は2泊で、予約をお願いします。	general,hotel,shopping,weather
+2916	7	SYSTEM	予約成功しました。予約番号は34467です。	general,hotel,shopping,weather
+2916	8	USER	ありがとうございます。駐車場が無料で使える、ジャンルが商店街の、買い物できる場所はありますか？	general,hotel,shopping,weather
+2916	9	SYSTEM	名古屋には駐車場無料のジャンル商店街の買い物スポットはなさそうです。	general,hotel,shopping,weather
+2916	10	USER	では駐車場はなくても大丈夫です。	general,hotel,shopping,weather
+2916	11	SYSTEM	名古屋に商店街は２つ、そのうち、柳橋中央市場をお勧めします。	general,hotel,shopping,weather
+2916	12	USER	ありがとうございます。その市場の、近辺の駅からの所要時間もわかりますか？	general,hotel,shopping,weather
+2916	13	SYSTEM	国際センター駅から徒歩で3分、その他、名古屋駅からも徒歩で5分です。	general,hotel,shopping,weather
+2916	14	USER	ありがとうございます。あと、北区の2/19の天候も調べてもらえませんか？	general,hotel,shopping,weather
+2916	15	SYSTEM	2/19 名古屋 北区 の天気は曇時々晴、最低気温6.7度、最高気温12.7度です。	general,hotel,shopping,weather
+2916	16	USER	ありがとうございます。	general,hotel,shopping,weather
+2916	17	SYSTEM	よい旅を	general,hotel,shopping,weather

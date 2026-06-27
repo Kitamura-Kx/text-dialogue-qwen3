@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1755	0	USER	福岡へ旅行に行くので、買い物ができるところを探してください	general,shopping,restaurant,taxi
+1755	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,restaurant,taxi
+1755	2	USER	ジャンルは文房具・雑貨で、駐車場を無料で利用できるところにしてください。	general,shopping,restaurant,taxi
+1755	3	SYSTEM	エリアでいうと中央区にある、天神LOFTはいかがでしょう？	general,shopping,restaurant,taxi
+1755	4	USER	ありがとうございます。次に飲食店を探してください。	general,shopping,restaurant,taxi
+1755	5	SYSTEM	何かご希望はございますか？	general,shopping,restaurant,taxi
+1755	6	USER	Wi-Fiと駐車場を無料で利用できるところにしてください。	general,shopping,restaurant,taxi
+1755	7	SYSTEM	エリアでいうと博多区に1件、レカイエ オイスターバー JR博多シティ店がございます。ジャンルは、寿司、魚料理、となります。	general,shopping,restaurant,taxi
+1755	8	USER	そちらの料金情報と近辺の駅からの所要時間を教えてください。	general,shopping,restaurant,taxi
+1755	9	SYSTEM	最寄りの博多駅から徒歩で1分となります。料金情報としては、コールドオイスタープレートが1990円、焼き牡蠣3種が1280円、ホットオイスタープレートが1090円、となります。	general,shopping,restaurant,taxi
+1755	10	USER	ではそのお店で。予約してください。人数は2人、8/7の16:20で予約してください。	general,shopping,restaurant,taxi
+1755	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、72678となります。	general,shopping,restaurant,taxi
+1755	12	USER	ありがとうございます。あとタクシー会社を探してください。	general,shopping,restaurant,taxi
+1755	13	SYSTEM	何かご希望はございますか？	general,shopping,restaurant,taxi
+1755	14	USER	ジャンボタクシーとキャッシュレス払いが利用できるところにしてください。	general,shopping,restaurant,taxi
+1755	15	SYSTEM	申し訳ありません。その条件ではご案内できません。いかが致しましょう？	general,shopping,restaurant,taxi
+1755	16	USER	ではジャンボタクシーの条件は外して構いません。	general,shopping,restaurant,taxi
+1755	17	SYSTEM	平和交通（株）はいかがでしょう？電話番号は、0924114422となります。	general,shopping,restaurant,taxi
+1755	18	USER	ではそちらでタクシーを予約してください。日付は8/7で、時間は15:00です。	general,shopping,restaurant,taxi
+1755	19	SYSTEM	出発地と目的地を教えていただけますか？	general,shopping,restaurant,taxi
+1755	20	USER	出発地は天神LOFT、目的地はレカイエ オイスターバー JR博多シティ店です。	general,shopping,restaurant,taxi
+1755	21	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、39351となります。他にご用件はございますか？	general,shopping,restaurant,taxi
+1755	22	USER	いえ、これで終わりです。ありがとうございました。	general,shopping,restaurant,taxi
+1755	23	SYSTEM	ありがとうございました。	general,shopping,restaurant,taxi

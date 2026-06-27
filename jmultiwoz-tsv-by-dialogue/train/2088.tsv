@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2088	0	USER	札幌への旅行を検討しています。当日行く観光名所を探しているのですが、よろしいでしょうか？	general,attraction,weather
+2088	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction,weather
+2088	2	USER	豊平区で探しているのですが、何かありますかね？	general,attraction,weather
+2088	3	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction,weather
+2088	4	USER	そうですか。では、中央区ではどうでしょう？	general,attraction,weather
+2088	5	SYSTEM	かしこまりました。では、札幌オリンピックミュージアムはいかがでしょうか？	general,attraction,weather
+2088	6	USER	良さそうですね！そちらの近辺の駅からの所要時間ってどのくらいかかりますか？	general,attraction,weather
+2088	7	SYSTEM	はい。円山公園駅からバスで20分、タクシーで10分となっております。	general,attraction,weather
+2088	8	USER	ありがとうございます。当日の天気についてもお伺いしてよろしいですか？	general,attraction,weather
+2088	9	SYSTEM	はい。日付と場所の指定はございますか？	general,attraction,weather
+2088	10	USER	はい。7月1日の北区の天気をお願いします。	general,attraction,weather
+2088	11	SYSTEM	かしこまりました。7/1の北区の天気予報は雨時々曇となっております。最低気温は17.1度、最高気温は21.9度になる予報です。	general,attraction,weather
+2088	12	USER	わかりました。これで当日は大丈夫そうです。ありがとうございました。	general,attraction,weather
+2088	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

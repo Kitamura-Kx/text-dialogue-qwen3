@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3337	0	USER	京都へ旅行したいと考えているのですが、飲食店を探しています。	general,restaurant,weather,taxi
+3337	1	SYSTEM	京都の飲食店ですね、希望条件などは、ございますか？	general,restaurant,weather,taxi
+3337	2	USER	駐車場を無料で利用できるところだとありがたいと思っています。	general,restaurant,weather,taxi
+3337	3	SYSTEM	加賀屋 京都店は、いかがですか？	general,restaurant,weather,taxi
+3337	4	USER	ありがとうございます。ではそこに行こうと思います。ジャンルは何でしょうか。	general,restaurant,weather,taxi
+3337	5	SYSTEM	お店のジャンルは、和食になっています。	general,restaurant,weather,taxi
+3337	6	USER	ありがとうございます。値段帯もお教えいただけますか？	general,restaurant,weather,taxi
+3337	7	SYSTEM	値段等は、高めとなっています。	general,restaurant,weather,taxi
+3337	8	USER	ありがとうございます。では12月27日の13:30に3人で予約をしたいのですが可能でしょうか。	general,restaurant,weather,taxi
+3337	9	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant,weather,taxi
+3337	10	USER	では時間を14:00に変更していただいた場合はどうでしょうか。	general,restaurant,weather,taxi
+3337	11	SYSTEM	予約出来ました。予約番号は、46673です。	general,restaurant,weather,taxi
+3337	12	USER	ありがとうございます。あと当日の天気をお聞きしたいです。12月27日の上京区の最低気温をお教えいただけますか？	general,restaurant,weather,taxi
+3337	13	SYSTEM	最低気温は、1.6度です。	general,restaurant,weather,taxi
+3337	14	USER	ありがとうございます。最後にタクシー会社を探していただきたいのですが、キャッシュレス対応のジャンボタクシーはあるでしょうか。	general,restaurant,weather,taxi
+3337	15	SYSTEM	エムケイ株式会社は、いかがですか？	general,restaurant,weather,taxi
+3337	16	USER	ありがとうございます。電話番号をお聞きしてもよろしいですか？	general,restaurant,weather,taxi
+3337	17	SYSTEM	電話番号は、0757784141です。	general,restaurant,weather,taxi
+3337	18	USER	ありがとうございます。では当日の予約をお願いしたいのですが、12月27日の12:30に加賀屋 京都店から下鴨神社まで予約できますでしょうか。	general,restaurant,weather,taxi
+3337	19	SYSTEM	予約出来ました。予約番号は、93008です。	general,restaurant,weather,taxi
+3337	20	USER	お手数をおかけして申し訳ございませんでした。お聞きしたいことは以上になります。丁寧なサポートありがとうございました。	general,restaurant,weather,taxi
+3337	21	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather,taxi

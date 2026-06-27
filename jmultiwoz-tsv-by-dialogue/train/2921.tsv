@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2921	0	USER	横浜へ行くのですが、レストランが併設されている、簡易宿所（ベッドハウス・山小屋・カプセルホテル等）はありますか？	general,hotel
+2921	1	SYSTEM	横浜でレストラン併設の簡易宿所といえば、リゾートカプセル桜木町、こちら一択です。	general,hotel
+2921	2	USER	ありがとうございます。そこのチェックアウト終了時刻と値段帯はわかりますか？	general,hotel
+2921	3	SYSTEM	チェックアウトは１０時、値段帯は安めになります。	general,hotel
+2921	4	USER	ありがとうございます。ではその宿所で、人数は4人、日付は9/29、宿泊日数は2泊で、予約をお願いします。	general,hotel
+2921	5	SYSTEM	その条件だと予約に失敗してしまいました。	general,hotel
+2921	6	USER	人数を3人にしたら予約できそうですか？	general,hotel
+2921	7	SYSTEM	予約成功しました。予約番号は55092です。	general,hotel
+2921	8	USER	ありがとうございました。	general,hotel
+2921	9	SYSTEM	よい旅を	general,hotel

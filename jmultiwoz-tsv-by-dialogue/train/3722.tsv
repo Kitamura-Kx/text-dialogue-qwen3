@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3722	0	USER	こんにちは。札幌に行くのですが、駐車場が無料で使えて、予算が普通な、うどん・そばのお店はありますか？	general,restaurant
+3722	1	SYSTEM	1件みつかりました。蕎麦切り 春のすけはいかがですか？	general,restaurant
+3722	2	USER	いいですね、そこにします。そのお店の電話番号はわかりますか？	general,restaurant
+3722	3	SYSTEM	電話番号は、0117421290です。	general,restaurant
+3722	4	USER	ありがとうございます。	general,restaurant
+3722	5	SYSTEM	他にご用件はありますか？	general,restaurant
+3722	6	USER	いえ、大丈夫です。案内ありがとうございました。	general,restaurant
+3722	7	SYSTEM	承知しました。ありがとうございました。	general,restaurant

@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3888	0	USER	京都への旅行を計画しています。wihiが無料で利用できる観光名所はありますか？	general,attraction,restaurant,weather
+3888	1	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,attraction,restaurant,weather
+3888	2	USER	では、wifiはなくてもいいです。	general,attraction,restaurant,weather
+3888	3	SYSTEM	そうしますと、49件候補がございます。ほかにご希望の条件はございませんか？	general,attraction,restaurant,weather
+3888	4	USER	特に希望はありません。	general,attraction,restaurant,weather
+3888	5	SYSTEM	では、下京区にある、いのちの森というところはいかがでしょうか？	general,attraction,restaurant,weather
+3888	6	USER	そこに行こうと思います。	general,attraction,restaurant,weather
+3888	7	SYSTEM	なにかお知りになりたい情報はございませんか？	general,attraction,restaurant,weather
+3888	8	USER	下京区で駐車場が無料な飲食店を探しています。	general,attraction,restaurant,weather
+3888	9	SYSTEM	そうしますと、2件ご案内可能です。たとえば、加賀屋 京都店は、いかがでしょうか？	general,attraction,restaurant,weather
+3888	10	USER	そこのお店のジャンルは何ですか？	general,attraction,restaurant,weather
+3888	11	SYSTEM	和食となります。	general,attraction,restaurant,weather
+3888	12	USER	分かりました。	general,attraction,restaurant,weather
+3888	13	SYSTEM	他にお知りになりたい情報はございませんか？	general,attraction,restaurant,weather
+3888	14	USER	12月24日の右京区の天気が知りたいです。	general,attraction,restaurant,weather
+3888	15	SYSTEM	かしこまりました。当日の天気は、晴のち曇の予報です。最低気温は7.3度、最高気温は15.4度の予想となっております。	general,attraction,restaurant,weather
+3888	16	USER	分かりました。ありがとうございました。	general,attraction,restaurant,weather
+3888	17	SYSTEM	他にお手伝いすることはございませんか？	general,attraction,restaurant,weather
+3888	18	USER	いえ、これで大丈夫です。	general,attraction,restaurant,weather
+3888	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,restaurant,weather
+3888	20	USER		general,attraction,restaurant,weather

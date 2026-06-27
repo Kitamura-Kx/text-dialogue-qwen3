@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3571	0	USER	今度那覇へ行くのですが、本庁エリアで洋食や西洋料理が食べられるお店を探してもらえますか？	general,restaurant,weather
+3571	1	SYSTEM	かしこまりました。では、37 Steakhouse & Bar 那覇はいかがでしょうか。	general,restaurant,weather
+3571	2	USER	ありがとうございます。そのお店の住所と値段帯も教えてください。	general,restaurant,weather
+3571	3	SYSTEM	住所は沖縄県那覇市牧志2丁目16-1　JR九州ホテル　ブラッサム那覇1Fで、値段帯は高めとなっております。	general,restaurant,weather
+3571	4	USER	ありがとうございます。ではそこの予約をお願いできますか？5/31の11：40で４名です。	general,restaurant,weather
+3571	5	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,restaurant,weather
+3571	6	USER	そうですか。じゃあ12：20に変更します。	general,restaurant,weather
+3571	7	SYSTEM	その時間ですと予約が可能でございました。予約番号は51272でございます。	general,restaurant,weather
+3571	8	USER	ありがとうございます。あと、本庁エリアの5/31の天気と最低気温はわかりますか？	general,restaurant,weather
+3571	9	SYSTEM	はい。天気は雨のち曇、最低気温は26.1度でございます。	general,restaurant,weather
+3571	10	USER	ありがとうございます。以上で結構です。	general,restaurant,weather
+3571	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+330	0	USER	こんにちは。仙台に旅行に行った際に泊まるところを探してもらいたいです。	general,hotel,taxi,weather
+330	1	SYSTEM	承知しました。エリアや宿のタイプのご希望はございますか？	general,hotel,taxi,weather
+330	2	USER	リゾートホテルに泊まりたいのですが、駐車場が無料で使えるホテルはありますか？	general,hotel,taxi,weather
+330	3	SYSTEM	ありがとうございます。それでは、秋保リゾート ホテルクレセントはいかがでしょう？エリアは太白区、値段帯は安めとなります。Wi-Fi、駐車場ともに無料でご利用いただけます。	general,hotel,taxi,weather
+330	4	USER	お調べして下さりありがとうございます。あと、タクシーを利用したいと考えています。ジャンボタクシーが使えるといいのですが。	general,hotel,taxi,weather
+330	5	SYSTEM	申し訳ありません。ジャンボタクシー対応のタクシー会社はございません。	general,hotel,taxi,weather
+330	6	USER	そうですか。じゃあ、ジャンボタクシーは使えなくても大丈夫です。	general,hotel,taxi,weather
+330	7	SYSTEM	申し訳ありません、ありがとうございます。それでは、（株）泉交通はいかがでしょう？キャッシュレスには対応しております。電話番号は、0223795656となります。	general,hotel,taxi,weather
+330	8	USER	ありがとうございます。最後に12/28の青葉区の天候を教えて下さい。	general,hotel,taxi,weather
+330	9	SYSTEM	承知しました。天気は曇のち晴、最低気温-2.3度、最高気温4.8度となります。	general,hotel,taxi,weather
+330	10	USER	わかりました。本日は丁寧にご対応して下さりありがとうございました！	general,hotel,taxi,weather

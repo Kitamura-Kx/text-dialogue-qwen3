@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+542	0	USER	横浜へ旅行を計画しているのですが、当日食事ができるお店を探しています。	general,restaurant
+542	1	SYSTEM	横浜のお食事処ですね。100件以上ご案内可能ですが、ジャンルやエリアなど、ご希望はございませんか？	general,restaurant
+542	2	USER	神奈川区で、予算安めでお願いします。	general,restaurant
+542	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant
+542	4	USER	では、エリアを港北区に変更してください。	general,restaurant
+542	5	SYSTEM	かしこまりました。港北区エリアでは3件ご案内可能です。例えば、とりいちず 新横浜店という、居酒屋, 鍋ジャンルのお店はいかがでしょうか？	general,restaurant
+542	6	USER	よいですね。最寄り駅，駐車場の有無を教えてください。	general,restaurant
+542	7	SYSTEM	最寄り駅は新横浜駅です。駅から徒歩2分の距離にございます。駐車場につきましては、不明となっております。申し訳ありません。	general,restaurant
+542	8	USER	承知しました。調べて下さり、ありがとうございました。	general,restaurant

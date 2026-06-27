@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3414	0	USER	福岡でキャッシュレス払いができるタクシー会社はありますか？	general,taxi
+3414	1	SYSTEM	（有）さくらタクシーは、いかがですか？	general,taxi
+3414	2	USER	ジャンボタクシーは対応してますか？	general,taxi
+3414	3	SYSTEM	申し訳ありません、ジャンボタクシーは非対応となっております。	general,taxi
+3414	4	USER	わかりました。12/28の11：40にそのタクシー会社を予約したいです。	general,taxi
+3414	5	SYSTEM	では、出発地と目的地をお願いします。	general,taxi
+3414	6	USER	ABISAI HOUSE 博多からよりあい処つしままでお願いします。	general,taxi
+3414	7	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,taxi
+3414	8	USER	時間を12：30にしたら大丈夫でしょうか？	general,taxi
+3414	9	SYSTEM	予約出来ました。予約番号は、48677 です。	general,taxi
+3414	10	USER	ありがとうございました！	general,taxi
+3414	11	SYSTEM	他にご用件はありますか？	general,taxi
+3414	12	USER	大丈夫です。	general,taxi
+3414	13	SYSTEM	承知致しました。ありがとうございました。	general,taxi

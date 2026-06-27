@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1557	0	USER	横浜に旅行をしたいのですが。	general,shopping
+1557	1	SYSTEM	ご利用ありがとうございます。今日はどういったご用件でしょうか？	general,shopping
+1557	2	USER	栄区で旅行用品が買えるところはありますか？	general,shopping
+1557	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,shopping
+1557	4	USER	では、地区は問わないので他に旅行用品が買えるところはありますか？	general,shopping
+1557	5	SYSTEM	かしこまりました。そうしますと、東急ハンズ 横浜店ということろはいかがでしょうか？エリアは、西区になります。	general,shopping
+1557	6	USER	ありがとうございます。ではそこの電話番号も教えてください。	general,shopping
+1557	7	SYSTEM	電話番号は、0453200109でございます。	general,shopping
+1557	8	USER	ありがとうございます。	general,shopping
+1557	9	SYSTEM	他にお調べすることはございますか？	general,shopping
+1557	10	USER	他はないです。	general,shopping
+1557	11	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,shopping

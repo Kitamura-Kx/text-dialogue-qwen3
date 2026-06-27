@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2155	0	USER	こんにちは。今度那覇へ旅行しますので、観光名所も探しています。世界遺産で、本庁地区に何かありますか？	general,attraction,restaurant,weather
+2155	1	SYSTEM	申し訳ございません。その条件ですとお探しすることが出来ませんでした。	general,attraction,restaurant,weather
+2155	2	USER	そうなんですね。では絶景だったらどうでしょうか？	general,attraction,restaurant,weather
+2155	3	SYSTEM	お待たせ致しました。三重城がございます。	general,attraction,restaurant,weather
+2155	4	USER	ありがとうございます。そこの大人入場料と営業時間を教えてください。	general,attraction,restaurant,weather
+2155	5	SYSTEM	大人の入場料は無料でございます。営業時間は24時間です。	general,attraction,restaurant,weather
+2155	6	USER	ありがとうございます。行ってみます。それから小禄地区の飲食店も探しています。予算は普通で、Wi-Fiが無料のところがいいんですけど。	general,attraction,restaurant,weather
+2155	7	SYSTEM	申し訳ございません。その条件ですとお探しすることが出来ませんでした。	general,attraction,restaurant,weather
+2155	8	USER	そうですか。では予算はどの価格帯でもいいので、探していただけますか？	general,attraction,restaurant,weather
+2155	9	SYSTEM	かしこまりました。それでは琉球村 那覇空港店はいかがでしょうか？	general,attraction,restaurant,weather
+2155	10	USER	ありがとうございます。そこの住所と営業時間を教えてもらえますか？	general,attraction,restaurant,weather
+2155	11	SYSTEM	かしこまりました。住所は沖縄県那覇市鏡水150、営業時間は午前9時から午後8時30分まででございます。	general,attraction,restaurant,weather
+2155	12	USER	それから、近辺の駅からの所要時間も知りたいです。	general,attraction,restaurant,weather
+2155	13	SYSTEM	はい、那覇空港駅から徒歩で2分でございます。	general,attraction,restaurant,weather
+2155	14	USER	近いですね。ありがとうございます。それと、本庁の12/31の天気と最高気温を調べていただけますか？	general,attraction,restaurant,weather
+2155	15	SYSTEM	かしこまりました。当日の天気は曇時々雨、最高気温は24.6度の予報です。	general,attraction,restaurant,weather
+2155	16	USER	色々ありがとうございました、助かりました。	general,attraction,restaurant,weather
+2155	17	SYSTEM	ありがとうございます。その他に御用件はございますか？	general,attraction,restaurant,weather
+2155	18	USER	大丈夫です。どうもありがとうございました。	general,attraction,restaurant,weather
+2155	19	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,restaurant,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3599	0	USER	こんにちは。大阪肉のですが、駐車場とWi-Fiが無料で使えて、予算が普通な、飲食店はありますか？	general,restaurant
+3599	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant
+3599	2	USER	では、有料の駐車場でも大丈夫です。	general,restaurant
+3599	3	SYSTEM	ではミゲルフアニ なんばダイニングメゾン店がございます。	general,restaurant
+3599	4	USER	いいですね。そこの料金情報も教えてください。	general,restaurant
+3599	5	SYSTEM	料金情報はミゲルセットが1980円となっております。	general,restaurant
+3599	6	USER	ありがとうございます。	general,restaurant
+3599	7	SYSTEM	ほかにご用件はございませんか。	general,restaurant
+3599	8	USER	いえ、大丈夫です。ありがとうございました。	general,restaurant
+3599	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

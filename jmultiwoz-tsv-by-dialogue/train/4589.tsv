@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4589	0	USER	仙台への旅行を計画しています． 当日泊まる宿泊施設を探してください．最寄り駅が東仙台駅のところにしてください．Wi-Fiが無料で利用できるところにしてください．宿のタイプはビジネスホテルで	general,hotel,shopping,weather
+4589	1	SYSTEM	オレンジ・イン仙台東はいかがでしょうか。	general,hotel,shopping,weather
+4589	2	USER	そちらの駐車場の有無，住所を教えていただけますか。	general,hotel,shopping,weather
+4589	3	SYSTEM	駐車場の有無は有り(無料)、住所は宮城県仙台市宮城野区東仙台3丁目12-47です。	general,hotel,shopping,weather
+4589	4	USER	ありがとうございます。あと、当日買い物ができるところを探してください．地区は泉区で	general,hotel,shopping,weather
+4589	5	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,hotel,shopping,weather
+4589	6	USER	そちらの営業時間を教えていただけますか。	general,hotel,shopping,weather
+4589	7	SYSTEM	すみません、条件に合う店がないです。	general,hotel,shopping,weather
+4589	8	USER	すみません、でしたら地区はどこでも。	general,hotel,shopping,weather
+4589	9	SYSTEM	ホビーステーション 仙台駅前店はいかがでしょうか。	general,hotel,shopping,weather
+4589	10	USER	そちらの営業時間をおしえてください。	general,hotel,shopping,weather
+4589	11	SYSTEM	営業時間は10:00～20:00です。	general,hotel,shopping,weather
+4589	12	USER	ありがとうございます。あと、4/5の青葉区の最低気温と天気を教えていただけますか。	general,hotel,shopping,weather
+4589	13	SYSTEM	天気は晴で最低気温は1.5度です。	general,hotel,shopping,weather
+4589	14	USER		general,hotel,shopping,weather

@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4593	0	USER	仙台への旅行を計画しています． 当日訪れる観光名所を探してください．地区は宮城野区です．駐車場を無料で利用できるところにしてください．	general,attraction
+4593	1	SYSTEM	キリンビール仙台工場はいかがでしょうか。	general,attraction
+4593	2	USER	そちらの電話番号，営業時間を教えていただけますか。	general,attraction
+4593	3	SYSTEM	営業時間は09:00～16:40 電話番号は0222542992です。	general,attraction
+4593	4	USER	ありがとうございます。	general,attraction

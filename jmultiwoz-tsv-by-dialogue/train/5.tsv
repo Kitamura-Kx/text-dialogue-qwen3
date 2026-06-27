@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+5	0	USER	こんにちは。旅行を計画してるのですが。	general,hotel
+5	1	SYSTEM	ご相談頂きありがとうございます。 どちらに行かれたいでしょうか？	general,hotel
+5	2	USER	札幌を考えています。お宿を先に探そうと思っていて。	general,hotel
+5	3	SYSTEM	札幌ですね。 宿泊ですが、検索すると100件出てきます。 ご予算などのご希望はございますでしょうか。	general,hotel
+5	4	USER	wifiが無料で使えると助かります。	general,hotel
+5	5	SYSTEM	wifiが無料ですと、例えばソラリア西鉄ホテル札幌はいかがでしょうか？	general,hotel
+5	6	USER	初めて聞くホテルです。値段って、どんな感じなんですか？	general,hotel
+5	7	SYSTEM	はい、金額は安めです。タイプとしては、一般的なビジネスホテルになります。	general,hotel
+5	8	USER	安めなのは助かります。そこで検討したいのですが、詳しい住所は分かりますか？	general,hotel
+5	9	SYSTEM	もちろん分かります。 北海道札幌市中央区北4条西5丁目1番2号　です。 札幌駅から徒歩5分です。	general,hotel
+5	10	USER	ありがとうございます。駅から近くていい感じなので、そこで検討したいと思います。	general,hotel
+5	11	SYSTEM	是非ご検討下さい。 ご予約はいかがされますでしょうか？	general,hotel
+5	12	USER	予約はまた今度にします。今日はありがとうございました。	general,hotel
+5	13	SYSTEM	かしこまりました。 その他ご質問などはございますでしょうか？	general,hotel
+5	14	USER	もう大丈夫です。ありがとうございます。	general,hotel
+5	15	SYSTEM	承知致しました。ご相談頂きありがとうございました。	general,hotel
+5	16	USER		general,hotel

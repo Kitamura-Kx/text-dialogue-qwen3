@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3840	0	USER	京都旅行にいくのですが、イタリアン・フレンチでいいお店はありますでしょうか？駐車場無料でWi-Fi無料のお店が希望です。	general,restaurant
+3840	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,restaurant
+3840	2	USER	WiFiはなくてもいいので、駐車場無料のお店はありますか？	general,restaurant
+3840	3	SYSTEM	では、ルルソンキボアはいかがでしょうか？	general,restaurant
+3840	4	USER	そちらはフレンチでしょうか？イタリアンでしょうか？価格帯はどれくらいでしょうか？	general,restaurant
+3840	5	SYSTEM	こちらのお店のジャンルは、イタリアン、フレンチと記載されています。　価格帯は、高めとなっています。	general,restaurant
+3840	6	USER	ありがとうございます。住所をお教えいただけますか？	general,restaurant
+3840	7	SYSTEM	住所は、京都府京都市北区上賀茂豊田町52です。	general,restaurant
+3840	8	USER	ありがとうございます。	general,restaurant
+3840	9	SYSTEM	他にご用件はありますか？	general,restaurant
+3840	10	USER	いえ、だいじょうぶです。ありがとうございました。	general,restaurant

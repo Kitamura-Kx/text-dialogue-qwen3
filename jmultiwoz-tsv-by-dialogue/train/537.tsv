@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+537	0	USER	横浜への旅行を計画しているのですが、当日食事ができるお店を探してください。	general,restaurant,shopping,weather
+537	1	SYSTEM	かしこまりました。ご希望の条件などはございますか？	general,restaurant,shopping,weather
+537	2	USER	駐車場が無料で利用できるのがよいです。また、食事代は高めに設定してください。	general,restaurant,shopping,weather
+537	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping,weather
+537	4	USER	それでは、駐車場の無料は気にしなくてよいです。	general,restaurant,shopping,weather
+537	5	SYSTEM	ありがとうございます。では、大志満 横浜店というお店はどうでしょう？ジャンルは和食, 鍋となっており、西区エリアにあるお店です。	general,restaurant,shopping,weather
+537	6	USER	そちらにしたいと思います。料金情報を教えていただけますか？	general,restaurant,shopping,weather
+537	7	SYSTEM	かしこまりました。料金といたしましては、季節会席7900円、楽 ら く ＜飲み放題 2時間付＞10000円といったものがございます。	general,restaurant,shopping,weather
+537	8	USER	ありがとうございます。では、お店の予約をお願いします。	general,restaurant,shopping,weather
+537	9	SYSTEM	かしこまりました。ご利用予定の日付と時刻、人数をお願いできますでしょうか？	general,restaurant,shopping,weather
+537	10	USER	2月7日の11時、4名です。	general,restaurant,shopping,weather
+537	11	SYSTEM	ご予約ありがとうございます。予約番号73311にて、承りました。	general,restaurant,shopping,weather
+537	12	USER	お世話になりました。ありがとうございます。	general,restaurant,shopping,weather
+537	13	SYSTEM	他にお調べすることはございますか？	general,restaurant,shopping,weather
+537	14	USER	では、当日買い物ができるお店を探していただけますか。	general,restaurant,shopping,weather
+537	15	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,restaurant,shopping,weather
+537	16	USER	アウトレットモールで駐車場が無料のところはありますか？	general,restaurant,shopping,weather
+537	17	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,restaurant,shopping,weather
+537	18	USER	では、駐車場は無料でなくてもよいです。	general,restaurant,shopping,weather
+537	19	SYSTEM	ありがとうございます。そうしますと、三井アウトレットパーク横浜ベイサイドというところが、1件ご案内可能です。駐車場は有料となっております。	general,restaurant,shopping,weather
+537	20	USER	ありがとうございます。定休日はいつでしょうか。	general,restaurant,shopping,weather
+537	21	SYSTEM	定休日は不定休となっております。	general,restaurant,shopping,weather
+537	22	USER	ありがとうございます。もう１つ、2月7日の青葉区の天気と最高気温をを教えてください。	general,restaurant,shopping,weather
+537	23	SYSTEM	かしこまりました。当日の天気は曇り時々晴れの予報です。最高気温は16.4度になる予想です。	general,restaurant,shopping,weather
+537	24	USER	ありがとうございました。	general,restaurant,shopping,weather

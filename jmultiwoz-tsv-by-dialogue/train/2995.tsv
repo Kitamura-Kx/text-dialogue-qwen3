@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2995	0	USER	名古屋へ旅行に行きます。西区で予算が高めで洋食や西洋料理のお店はありますか？	general,restaurant,attraction,hotel
+2995	1	SYSTEM	名古屋の西区で予算高めな洋食西洋料理ではヒットしませんでした。	general,restaurant,attraction,hotel
+2995	2	USER	ではどんな料理でもいいです	general,restaurant,attraction,hotel
+2995	3	SYSTEM	名古屋西区で予算高めならば、しら河 浄心本店、こちらをお勧めします。	general,restaurant,attraction,hotel
+2995	4	USER	営業時間を教えてください	general,restaurant,attraction,hotel
+2995	5	SYSTEM	昼は１１時から３時まで、夕方５時から夜９時半までですね。	general,restaurant,attraction,hotel
+2995	6	USER	そしたら3人で10/9の13:00で予約してください	general,restaurant,attraction,hotel
+2995	7	SYSTEM	予約成功しました。予約番号は45596です。	general,restaurant,attraction,hotel
+2995	8	USER	了解です！あと中村区で駐車場が無料の観光名所を教えてください	general,restaurant,attraction,hotel
+2995	9	SYSTEM	中村区で駐車場無料の観光名所といえば、ミッドランドスクエア 屋外展望台 スカイプロムナード、こちらになります。	general,restaurant,attraction,hotel
+2995	10	USER	料金情報と最寄り駅は分かりますか？	general,restaurant,attraction,hotel
+2995	11	SYSTEM	最寄り駅は名古屋駅、大人通常750 円、１日1,050 円、65歳以上なら１日500 円、通常 800 円、 中高生 通常500 円、1日 800 円、小学生通常300 円、１日600 円。なお通常は再入場不可なのに対し、一日券は何度でも入場できるようです。	general,restaurant,attraction,hotel
+2995	12	USER	詳しくありがとうございます！あと熱田区で安めのホテルを探しています。レストランがついてると嬉しいのですが	general,restaurant,attraction,hotel
+2995	13	SYSTEM	上、６５歳以上の通常と一日が逆でした。申し訳ありません。熱田区の安めレストラン付きホテルは、サイプレスガーデンホテルになります。	general,restaurant,attraction,hotel
+2995	14	USER	了解です！住所を教えてください	general,restaurant,attraction,hotel
+2995	15	SYSTEM	愛知県名古屋市熱田区金山町1丁目9-8です。	general,restaurant,attraction,hotel
+2995	16	USER	わかりました。ありがとうございました！	general,restaurant,attraction,hotel
+2995	17	SYSTEM	よい旅を。	general,restaurant,attraction,hotel

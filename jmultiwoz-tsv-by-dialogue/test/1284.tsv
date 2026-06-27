@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1284	0	USER	東京に旅行に行く予定ですが、お高めのレストランを探しています。駐車場は無料が希望です。	general,restaurant,taxi
+1284	1	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,restaurant,taxi
+1284	2	USER	そうですか・・。では値段はどれくらいでもいいです。どこかありますか？	general,restaurant,taxi
+1284	3	SYSTEM	では、醍醐 お台場店はいかがでしょうか？ジャンルは、焼肉・ホルモン, 居酒屋で、お値段帯は普通のお店です。	general,restaurant,taxi
+1284	4	USER	ありがとうございます。あとタクシーを使うので探してほしいのですが、キャッシュレス支払い可能なジャンボタクシーのあるところはありますか。	general,restaurant,taxi
+1284	5	SYSTEM	はい、ございます。キャピタルオートはいかがでしょうか？	general,restaurant,taxi
+1284	6	USER	条件に合うならそこでいいです。電話番号を教えてください。	general,restaurant,taxi
+1284	7	SYSTEM	電話番号は、0357552151です。	general,restaurant,taxi
+1284	8	USER	ありがとうございます。予約をお願いしたいのですが、11/21の13:40に、醍醐 お台場店からたれ焼肉 金肉屋 渋谷店までです。	general,restaurant,taxi
+1284	9	SYSTEM	ご予約ありがとうございます。予約を完了いたしました。ご予約番号は、97175でございます。	general,restaurant,taxi
+1284	10	USER	ありがとうございました。	general,restaurant,taxi

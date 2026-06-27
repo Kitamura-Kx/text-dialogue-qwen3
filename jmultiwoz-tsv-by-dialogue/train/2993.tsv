@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2993	0	USER	福岡に旅行します。西区でWi-Fiと駐車場が無料で利用できる観光名所はありますか？	general,attraction,shopping
+2993	1	SYSTEM	福岡の西区でWiFiと駐車場が無料な観光名所といえば、マリノアシティ福岡、こちらになります。	general,attraction,shopping
+2993	2	USER	定休日と営業時間はわかりますか？	general,attraction,shopping
+2993	3	SYSTEM	定休日はなし、営業時間は店舗により異なるようです。	general,attraction,shopping
+2993	4	USER	分かりました。あと南区で医薬品や化粧品が買い物できる場所はありますか？	general,attraction,shopping
+2993	5	SYSTEM	南区でジャンル医薬品化粧品の買い物スポットはなさそうです。	general,attraction,shopping
+2993	6	USER	そうなんですね。駐車場も無料がいいので地区は考えなくていいです	general,attraction,shopping
+2993	7	SYSTEM	福岡で駐車場無料な医薬品化粧品といえば、ドラッグストアモリ 香椎宮前店、こちらになります。	general,attraction,shopping
+2993	8	USER	近辺の駅からの所要時間と電話番号と営業時間が知りたいです	general,attraction,shopping
+2993	9	SYSTEM	香椎神宮駅から徒歩で2分、0924100610、朝９時から夜１２時まで営業しています。	general,attraction,shopping
+2993	10	USER	わかりました！ありがとうございました	general,attraction,shopping
+2993	11	SYSTEM	よい旅を	general,attraction,shopping

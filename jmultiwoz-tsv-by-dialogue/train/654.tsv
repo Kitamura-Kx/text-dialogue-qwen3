@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+654	0	USER	すみません。横浜への旅行を計画しているのですが、当日食事ができる飲食店を教えてください。	general,restaurant,hotel,attraction
+654	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,restaurant,hotel,attraction
+654	2	USER	駐車場を無料で利用できるお店で、うどん・そばが希望です。	general,restaurant,hotel,attraction
+654	3	SYSTEM	では、松葉寿しはいかがでしょうか？	general,restaurant,hotel,attraction
+654	4	USER	そこの定休日を教えてください。	general,restaurant,hotel,attraction
+654	5	SYSTEM	定休日は、月曜日です。	general,restaurant,hotel,attraction
+654	6	USER	そこにします。予約をお願いしたいです。人数は2人、日付は11/20、時間は14:40が希望です。	general,restaurant,hotel,attraction
+654	7	SYSTEM	申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,restaurant,hotel,attraction
+654	8	USER	なるほど。では時間を15:20に変更したらどうでしょうか。	general,restaurant,hotel,attraction
+654	9	SYSTEM	ありがとうございます。15時20分で予約が完了いたしました。ご予約番号は、50893です。	general,restaurant,hotel,attraction
+654	10	USER	あと、当日の宿泊施設を探しています。レストランが併設されている旅館が良いですが、ありますか。	general,restaurant,hotel,attraction
+654	11	SYSTEM	そういたしますと、2件ご案内可能です。たとえば、旅館 松島はいかがでしょうか？南区エリアにある、お値段が安めの旅館でございます。	general,restaurant,hotel,attraction
+654	12	USER	予算が安めなんですね。そこにします。住所を教えてください。	general,restaurant,hotel,attraction
+654	13	SYSTEM	はい。住所は、神奈川県横浜市南区蒔田町863でございます。	general,restaurant,hotel,attraction
+654	14	USER	それでは予約をお願いします。人数は2人、日付は11/20、宿泊日数は4泊希望です。	general,restaurant,hotel,attraction
+654	15	SYSTEM	大変申し訳ございません。ご希望の条件では予約ができませんでした。いかがいたしましょうか？	general,restaurant,hotel,attraction
+654	16	USER	それでは人数を１に変更してください。	general,restaurant,hotel,attraction
+654	17	SYSTEM	ありがとうございます。1名様で予約が完了いたしました。ご予約番号は、13112です。	general,restaurant,hotel,attraction
+654	18	USER	あと、観光名所を探しています。最寄り駅が伊勢佐木長者町駅で良いところがありますか？	general,restaurant,hotel,attraction
+654	19	SYSTEM	申し訳ございません。その場所ですと、ご案内できるところが見つかりませんでした。	general,restaurant,hotel,attraction
+654	20	USER	そうですか、では最寄り駅は考えないことにして、Wi-Fiが無料で利用できるところでしたらありますか？	general,restaurant,hotel,attraction
+654	21	SYSTEM	ありがとうございます。そうしますと、象の鼻テラスというところはどうでしょうか？ジャンルは、アートギャラリー, コンサート・ショー、となっております。	general,restaurant,hotel,attraction
+654	22	USER	いいですね。そこの住所と料金情報が知りたいです。	general,restaurant,hotel,attraction
+654	23	SYSTEM	住所は、神奈川県横浜市中区海岸通1丁目1-1です。料金情報は、入場無料ですが、開館日時は都合により変更する場合があるようです。	general,restaurant,hotel,attraction
+654	24	USER	わかりました。そこに決めます。	general,restaurant,hotel,attraction
+654	25	SYSTEM	ありがとうございます。ほかにお調べすることはございますか？	general,restaurant,hotel,attraction
+654	26	USER	大丈夫です。ありがとうございました。	general,restaurant,hotel,attraction
+654	27	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant,hotel,attraction

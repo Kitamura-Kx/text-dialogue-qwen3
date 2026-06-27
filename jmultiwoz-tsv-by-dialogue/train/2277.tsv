@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2277	0	USER	福岡へ旅行に行くんですが、予算普通くらいの旅館を探してもらえますか？	general,hotel,taxi
+2277	1	SYSTEM	福岡で値段帯普通の旅館といえば、博多の奥座敷 椎原温泉 割烹旅館みはる荘、こちらになります。	general,hotel,taxi
+2277	2	USER	そこは近辺の駅からどのくらいかかりますか？	general,hotel,taxi
+2277	3	SYSTEM	野芥駅からタクシーで19分ですね。	general,hotel,taxi
+2277	4	USER	わかりました。じゃあそこを予約してほしいです。11/27から３泊で３名です。	general,hotel,taxi
+2277	5	SYSTEM	予約成功しました。予約番号は17807です。	general,hotel,taxi
+2277	6	USER	ありがとうございます。あと、ジャンボタクシーが利用できるタクシー会社も探してもらえますか。	general,hotel,taxi
+2277	7	SYSTEM	福岡でジャンボタクシー対応の会社はいくつかありますが、福岡交通（株）をお勧めします。	general,hotel,taxi
+2277	8	USER	そこはキャッシュレス対応はどうでしょうか。	general,hotel,taxi
+2277	9	SYSTEM	はい、キャッシュレスも対応しています。	general,hotel,taxi
+2277	10	USER	わかりました。じゃあ予約もお願いします。11/27の13：50にさっき予約した宿から警固公園まで利用したいです。	general,hotel,taxi
+2277	11	SYSTEM	11/27の13：50、博多の奥座敷 椎原温泉 割烹旅館みはる荘から、警固公園まで、予約成功しました。予約番号は38818です。	general,hotel,taxi
+2277	12	USER	ありがとうございました。用件は以上です	general,hotel,taxi
+2277	13	SYSTEM	お役に立てて光栄です。	general,hotel,taxi

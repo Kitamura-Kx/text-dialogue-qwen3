@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+298	0	USER	お願いします。東京への旅行を考えていますが、おすすめの観光名所を教えて下さい。	general,attraction,taxi,weather
+298	1	SYSTEM	東京の観光名所ですね。ジャンルやエリアなど、ご希望はございませんか？	general,attraction,taxi,weather
+298	2	USER	文京区で、wifiが無料で使えるところがいいです。	general,attraction,taxi,weather
+298	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できる場所がありませんでした。	general,attraction,taxi,weather
+298	4	USER	そうですか。では、wifiは断念しますので、文京区でのおすすめスポットを教えてください。	general,attraction,taxi,weather
+298	5	SYSTEM	かしこまりました。では、湯島天満宮(湯島天神)は如何でしょうか？	general,attraction,taxi,weather
+298	6	USER	いいですね。当日はタクシーを利用したいのですが、ジャンボタクシーをお願いできるところはありますか？	general,attraction,taxi,weather
+298	7	SYSTEM	申し訳ございません。東京ではジャンボタクシーに対応しているタクシー会社でご案内できるところがありませんでした。	general,attraction,taxi,weather
+298	8	USER	わかりました。ではジャンボタクシーではなくて構いませんので、タクシー会社を1件教えて下さい。	general,attraction,taxi,weather
+298	9	SYSTEM	では、北光自動車交通はいかがでしょうか？	general,attraction,taxi,weather
+298	10	USER	そちらはキャッシュレス対応はしていますか？	general,attraction,taxi,weather
+298	11	SYSTEM	はい、対応しております。	general,attraction,taxi,weather
+298	12	USER	北光自動車交通の電話番号を教えて下さい。	general,attraction,taxi,weather
+298	13	SYSTEM	電話番号は、0335635151でございます。	general,attraction,taxi,weather
+298	14	USER	わかりました。では予約をお願いします。１/14の9：50で、湯島天満宮発、TODAY'S SPECIAL Jiyugaoka着でお願いします。	general,attraction,taxi,weather
+298	15	SYSTEM	かしこまりました。ご予約番号12886にて、承りました。	general,attraction,taxi,weather
+298	16	USER	ありがとうございます。ところで、1/14の杉並区の天気はどうですか？	general,attraction,taxi,weather
+298	17	SYSTEM	晴れ時々曇りの予報となっております。	general,attraction,taxi,weather
+298	18	USER	最低気温はどうでしょう？	general,attraction,taxi,weather
+298	19	SYSTEM	最低気温は、3.2度まで下がる見込みです。	general,attraction,taxi,weather
+298	20	USER	ありがとうございました。助かりました。失礼いたします。	general,attraction,taxi,weather
+298	21	SYSTEM	ご利用ありがとうございました。	general,attraction,taxi,weather

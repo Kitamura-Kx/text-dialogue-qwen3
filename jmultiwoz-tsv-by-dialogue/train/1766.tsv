@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1766	0	USER	横浜への旅行を検討しています。当日利用できる宿泊施設を探しているのですが、お伺いしてもよろしいですか？	general,hotel
+1766	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel
+1766	2	USER	はい。予算は普通で、駐車場を無料で利用できるとありがたいです。	general,hotel
+1766	3	SYSTEM	申し訳ありません、その条件ではご紹介できないのですが、いかが致しましょう？	general,hotel
+1766	4	USER	そうですね。でしたら、予算を普通から安めに変えて頂けるとどうでしょうか？	general,hotel
+1766	5	SYSTEM	エリアでいうと南区にある、旅館 松島はいかがでしょう？タイプは旅館となります。	general,hotel
+1766	6	USER	そちらで検討してみたいです。この施設ではWi-Fiは利用出来ますか？	general,hotel
+1766	7	SYSTEM	はい、無料でご利用いただけます。	general,hotel
+1766	8	USER	ありがとうございます。検討してみます。ご案内、ありがとうございました。	general,hotel
+1766	9	SYSTEM	ありがとうございました。	general,hotel

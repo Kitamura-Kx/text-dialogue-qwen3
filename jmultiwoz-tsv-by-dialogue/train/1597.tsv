@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1597	0	USER	東京旅行に行くので、当日利用できるタクシー会社を探して頂けますか？	general,taxi
+1597	1	SYSTEM	京王自動車 多摩北は、いかがでしょうか？	general,taxi
+1597	2	USER	キャッシュレス払い可能でしょうか？あと、ジャンボタクシーを利用できるとうれしいです。	general,taxi
+1597	3	SYSTEM	はい、こちらはキャッシュレス対応とジャンボタクシーどちらも対応しております。	general,taxi
+1597	4	USER	ではそちらを利用したいと思います。電話番号も教えていただけますでしょうか。	general,taxi
+1597	5	SYSTEM	電話番号は、0336436881です。	general,taxi
+1597	6	USER	ありがとうございます。予約もお願いできますか？6/12の09:30で、出発地はhotel azabu ten、目的地はロイヤルパークホテルがいいのですが空いていますか？	general,taxi
+1597	7	SYSTEM	予約が完了しました。　予約番号は、38831です。	general,taxi
+1597	8	USER	ありがとうございました。	general,taxi

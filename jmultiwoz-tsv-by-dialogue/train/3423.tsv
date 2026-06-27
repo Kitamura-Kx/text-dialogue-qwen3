@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3423	0	USER	今度仙台に行くのですが、タクシー会社を探しています。	general,taxi
+3423	1	SYSTEM	かしこまりました。何かご希望はありますか？	general,taxi
+3423	2	USER	キャッシュレス払いできて、ジャンボタクシーを利用できるところがいいです。	general,taxi
+3423	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,taxi
+3423	4	USER	では、ジャンボタクシーは特にこだわりません。	general,taxi
+3423	5	SYSTEM	かしこまりました。それでは、（株）青葉タクシーはいかがでしょうか？	general,taxi
+3423	6	USER	ありがとうございます。7/24の13:40で、ダイワロイネットホテル仙台一番町というところから、青葉神社までで、予約をお願いできますか？	general,taxi
+3423	7	SYSTEM	お待たせいたしました。予約番号77391でお取りさせていただきました。	general,taxi
+3423	8	USER	ありがとうございます。以上です、お世話になりました。	general,taxi
+3423	9	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi

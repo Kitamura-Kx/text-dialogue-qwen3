@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4760	0	USER	福岡への旅行を計画していて、当日買い物が出来るところを探しています。駐車場無料で、ファッションのお店がいいのですが。	general,shopping,restaurant
+4760	1	SYSTEM	その条件では見つかりませんでした。	general,shopping,restaurant
+4760	2	USER	そうですか。では、ジャンルは何でも良いです。	general,shopping,restaurant
+4760	3	SYSTEM	承知しました。KITTE博多はいかがでしょうか？	general,shopping,restaurant
+4760	4	USER	ありがとうございます。そこにしようと思います。近辺の駅からの所要時間と営業時間は分かりますか？	general,shopping,restaurant
+4760	5	SYSTEM	近辺の駅からの所要時間は博多駅から徒歩で1分です。営業時間は店舗により異なります。	general,shopping,restaurant
+4760	6	USER	ありがとうございます。旅行当日の飲食店も探しています。駐車場が無料で、予算は普通のところが良いです。	general,shopping,restaurant
+4760	7	SYSTEM	承知しました。中国大明火鍋城はいかがでしょうか？	general,shopping,restaurant
+4760	8	USER	ありがとうございます。そこにしようと思います。そのお店があるエリアと定休日は分かりますか？	general,shopping,restaurant
+4760	9	SYSTEM	エリアは早良区です。定休日は年末年始です。	general,shopping,restaurant
+4760	10	USER	ありがとうございました。	general,shopping,restaurant

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+718	0	USER	福岡へ旅行予定なのですが、家電・電化製品を買い物できるところを調べてください。駐車場を無料で利用できるところがいいです。	general,shopping,hotel,taxi
+718	1	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,shopping,hotel,taxi
+718	2	USER	じゃあ家電・電化製品じゃなくてスポーツにします。	general,shopping,hotel,taxi
+718	3	SYSTEM	ありがとうございます。アビスパ福岡 オフィシャルショップがございます。何かご案内致しましょうか？	general,shopping,hotel,taxi
+718	4	USER	そこにします。住所と定休日を教えてください。	general,shopping,hotel,taxi
+718	5	SYSTEM	はい、住所は福岡県福岡市博多区博多駅東1丁目12-1、定休日は水曜日と年末年始となります。他にご案内できることはございますか？	general,shopping,hotel,taxi
+718	6	USER	わかりました。宿泊施設も探しているのですが、レストランが併設されているリゾートホテルを教えてください。Wi-Fiが無料で利用できるところがいいです。	general,shopping,hotel,taxi
+718	7	SYSTEM	承知しました。では、The358 SORAはいかがでしょう？何かご案内致しましょうか？	general,shopping,hotel,taxi
+718	8	USER	予約をお願いしたいです。3人で4月20日から3泊の予定です。	general,shopping,hotel,taxi
+718	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、13636となります。他にご案内できることはございますか？	general,shopping,hotel,taxi
+718	10	USER	ありがとうございます。タクシー利用を考えているのですが、ジャンボタクシーがあるところを調べてください。	general,shopping,hotel,taxi
+718	11	SYSTEM	承知しました。では、日新交通（株）はいかがでしょう？キャッシュレスにも対応しております。電話番号は0120152452となります。予約されますか？	general,shopping,hotel,taxi
+718	12	USER	予約します。4月20日の14時30分で、アビスパ福岡 オフィシャルショップからThe358 SORAまでお願いします。	general,shopping,hotel,taxi
+718	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、45079となります。他にご用件はございますか？	general,shopping,hotel,taxi
+718	14	USER	ありがとうございます。もう大丈夫です。	general,shopping,hotel,taxi
+718	15	SYSTEM	ありがとうございました。	general,shopping,hotel,taxi

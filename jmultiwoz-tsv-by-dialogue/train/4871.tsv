@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4871	0	USER	仙台への旅行を計画しているんですけど、駐車場が無料で使える、買い物ができる場所はありませんか？	general,shopping,hotel
+4871	1	SYSTEM	錦ケ丘ヒルサイドモールなど、30件見つかりました。	general,shopping,hotel
+4871	2	USER	そちらにしようと思います。住所とエリアを教えてもらえますか？	general,shopping,hotel
+4871	3	SYSTEM	住所は宮城県仙台市青葉区錦ヶ丘1丁目3-1、エリアは青葉区です。	general,shopping,hotel
+4871	4	USER	泊まれるところも探して欲しいんですけど、レストランが併設されていて、駐車場が無料のところはありますか？お値段は高めでお願いします。	general,shopping,hotel
+4871	5	SYSTEM	申し訳ございません。条件に合う宿泊施設はありません。	general,shopping,hotel
+4871	6	USER	それならレストランはなくても大丈夫です。	general,shopping,hotel
+4871	7	SYSTEM	かしこまりました。たびの邸宅 秋保山荘など、3件見つかりました。	general,shopping,hotel
+4871	8	USER	じゃあその、たびの邸宅 秋保山荘のエリアとチェックアウト終了時刻を教えて下さい。	general,shopping,hotel
+4871	9	SYSTEM	エリアは太白区、チェックアウト終了時刻は11:00です。	general,shopping,hotel
+4871	10	USER	ありがとうございます。	general,shopping,hotel
+4871	11	SYSTEM	他に何かご希望はありますか？	general,shopping,hotel
+4871	12	USER	他にはありません。ありがとうございました。	general,shopping,hotel
+4871	13	SYSTEM	承知いたしました。ご利用ありがとうございました。	general,shopping,hotel

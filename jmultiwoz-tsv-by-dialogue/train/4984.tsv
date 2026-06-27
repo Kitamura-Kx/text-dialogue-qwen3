@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4984	0	USER	京都旅行を計画していますが、Wi-Fiが無料の宿泊施設を紹介してもらえますか？	general,hotel,shopping
+4984	1	SYSTEM	承知しました。ホテル京阪 京都駅南はいかがでしょうか？	general,hotel,shopping
+4984	2	USER	ホテル京阪 京都駅南でお願いします。住所と電話番号と、最寄り駅もわかりますか？	general,hotel,shopping
+4984	3	SYSTEM	住所は京都府京都市南区東九条室町５５番地です。電話番号は0756920321です。最寄り駅は京都駅です。	general,hotel,shopping
+4984	4	USER	ありがとうございます。CANDY SHOW TIME 京都祇園店という店で買い物する予定ですが、そちらの最寄り駅と電話番号も教えてください。	general,hotel,shopping
+4984	5	SYSTEM	承知しました。最寄り駅は祇園四条駅です。電話番号は0755322055です。	general,hotel,shopping
+4984	6	USER	わかりました。ありがとうございます。	general,hotel,shopping

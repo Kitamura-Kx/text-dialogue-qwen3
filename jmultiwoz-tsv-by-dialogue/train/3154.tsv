@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3154	0	USER	東京への旅行を計画していて、当日の飲食店を探しています。Wi-Fi無料のカフェ・スイーツが良いです。	general,restaurant,attraction
+3154	1	SYSTEM	かしこまりました。そうしますと、アナログ八重洲というところが、1件ご案内可能です。いかがでしょうか？	general,restaurant,attraction
+3154	2	USER	ありがとうございます。そこにしようと思います。駐車場の有無，近辺の駅からの所要時間は分かりますか？	general,restaurant,attraction
+3154	3	SYSTEM	はい。駐車場は申し訳ありませんが、不明となっております。駅からの所要時間は、最寄りの銀座一丁目駅から徒歩で2分、また他にも東京駅から徒歩で5分、有楽町駅から徒歩で6分といった行き方がございます。	general,restaurant,attraction
+3154	4	USER	ありがとうございます。そこの予約をしたいです。1/24のお昼12:40から、3名で予約をお願い出来ますか？	general,restaurant,attraction
+3154	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、23063です。	general,restaurant,attraction
+3154	6	USER	ありがとうございます。当日の観光名所も探しています。歴史的な散策エリアがいいです。	general,restaurant,attraction
+3154	7	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,attraction
+3154	8	USER	そうですか。では都市の景観の観光名所にしようと思います。	general,restaurant,attraction
+3154	9	SYSTEM	ありがとうございます。では、東京都庁はいかがでしょうか？新宿区エリアにある、都市の景観の観光名所でございます。	general,restaurant,attraction
+3154	10	USER	ありがとうございます。東京都庁にしようと思います。電話番号は分かりますか？	general,restaurant,attraction
+3154	11	SYSTEM	はい。0353211111でございます。	general,restaurant,attraction
+3154	12	USER	ありがとうございました。	general,restaurant,attraction
+3154	13	SYSTEM	他にお調べすることはございませんか？	general,restaurant,attraction
+3154	14	USER	いえ、他にはありません。ありがとうございました。	general,restaurant,attraction
+3154	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,attraction

@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1533	0	USER	仙台へ旅行予定なのですが、泉区で買い物ができるところはありますか？	general,shopping,restaurant,taxi
+1533	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant,taxi
+1533	2	USER	わかりました。泉区じゃなくても大丈夫です。	general,shopping,restaurant,taxi
+1533	3	SYSTEM	ではお茶の井ヶ田 仙台中央本店はいかがですか。	general,shopping,restaurant,taxi
+1533	4	USER	そこにします。住所と電話番号を知りたいです。	general,shopping,restaurant,taxi
+1533	5	SYSTEM	住所は宮城県仙台市青葉区中央2-5-9　庄文堂ビル1階南でございます。電話番号 0222611351でございます。	general,shopping,restaurant,taxi
+1533	6	USER	わかりました。高めのホテルレストランも探しているのですが、駐車場を無料で利用できるような場所はありますか？	general,shopping,restaurant,taxi
+1533	7	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant,taxi
+1533	8	USER	そうですか。なら値段は高めじゃなくても大丈夫です。	general,shopping,restaurant,taxi
+1533	9	SYSTEM	ではChef's Tableがございます。	general,shopping,restaurant,taxi
+1533	10	USER	そこにします。営業時間と最寄り駅を教えてください。	general,shopping,restaurant,taxi
+1533	11	SYSTEM	営業時間は07:00～10:00, 11:30～14:00, 17:00～20:30でございます。最寄り駅は宮城野通駅となっております。	general,shopping,restaurant,taxi
+1533	12	USER	わかりました。予約お願いします。3人で11/10の13:00でしたいです。	general,shopping,restaurant,taxi
+1533	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は63001でございます。	general,shopping,restaurant,taxi
+1533	14	USER	ありがとうございます。当日ジャンボタクシーの利用も考えているのですが、キャッシュレス払いができるところはありますか？	general,shopping,restaurant,taxi
+1533	15	SYSTEM	申し訳ございません。どちらにも対応している会社がございませんでした。いかがなさいますか。	general,shopping,restaurant,taxi
+1533	16	USER	わかりました。であればジャンボタクシーでなくても大丈夫です。	general,shopping,restaurant,taxi
+1533	17	SYSTEM	では（株）青葉タクシーがございます。	general,shopping,restaurant,taxi
+1533	18	USER	そこにします。11/10の11:40で、お茶の井ヶ田 仙台中央本店からChef's Tableまでの道のりを予約できますか？	general,shopping,restaurant,taxi
+1533	19	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は29389でございます。	general,shopping,restaurant,taxi
+1533	20	USER	ありがとうございます。	general,shopping,restaurant,taxi
+1533	21	SYSTEM	ほかにご用件はございますか。	general,shopping,restaurant,taxi
+1533	22	USER	もう大丈夫です。	general,shopping,restaurant,taxi
+1533	23	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant,taxi

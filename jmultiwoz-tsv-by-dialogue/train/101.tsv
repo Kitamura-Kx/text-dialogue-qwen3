@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+101	0	USER	こんにちは！ 今、大阪への旅行を計画しているのですが、案内をお願いしてもよろしいでしょうか？	general,attraction,taxi
+101	1	SYSTEM	承知致しました。どのようなご案内が必要でしょうか？	general,attraction,taxi
+101	2	USER	当日に行く観光名所なんですが、大阪まいしまシーサイドパークというところを探しています。ありますか？	general,attraction,taxi
+101	3	SYSTEM	はい、此花区にございます。	general,attraction,taxi
+101	4	USER	あったんですね。良かったです！ それでは、そちらの場所の営業時間と定休日を伺ってもよろしいですか？	general,attraction,taxi
+101	5	SYSTEM	営業時間は、10時から17時、定休日はございません。	general,attraction,taxi
+101	6	USER	ありがとうございます！ あと、料金情報についても教えていただけると助かります。	general,attraction,taxi
+101	7	SYSTEM	申し訳ありません、入場料については不明なのですが、4800円から5800円が必要なようです。	general,attraction,taxi
+101	8	USER	そうなんですね。4800円から5800円というのは、何の料金でしょうか？	general,attraction,taxi
+101	9	SYSTEM	申し訳ありません、詳細については不明です。料金情報として、4800円、5800円と記載があるのみです。	general,attraction,taxi
+101	10	USER	そうでしたか。かしこまりました！ それでは、あと別件なのですが、タクシー会社も探しておりまして、ジャンボタクシーとキャッシュレス払いができるところで、どこか良い所はありますか？	general,attraction,taxi
+101	11	SYSTEM	株式会社国際興業大阪はいかがでしょう？ ジャンボタクシー、キャッシュレスともに対応しております。	general,attraction,taxi
+101	12	USER	ありがとうございます！それでは、そちらのタクシー会社の電話番号を伺っても宜しいですか？	general,attraction,taxi
+101	13	SYSTEM	はい、電話番号は、0570035931になります。	general,attraction,taxi
+101	14	USER	ありがとうございます。 あと、予約の方もお願いしたいのですが、10月４日の１２時に、グリッズプレミアムホテル大阪なんばから、大阪まいしまシーサイドパークまでで、お願いしてもよろしいですか？	general,attraction,taxi
+101	15	SYSTEM	ご予約完了致しました。 予約番号は、93812　となります。	general,attraction,taxi
+101	16	USER	承知いたしました。ご案内いただき、ありがとうございました。	general,attraction,taxi
+101	17	SYSTEM	他にご用件はございますか？	general,attraction,taxi
+101	18	USER	あとは大丈夫です。また、機会がありましたら、よろしくお願いいたします。ありがとうございました！	general,attraction,taxi
+101	19	SYSTEM	承知致しました。ありがとうございました。	general,attraction,taxi

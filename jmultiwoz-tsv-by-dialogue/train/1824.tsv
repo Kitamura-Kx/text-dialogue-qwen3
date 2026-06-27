@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1824	0	USER	東京への旅行を計画しています。芝公園駅近くで安めのビジネスホテルを教えて下さい。	general,hotel,weather
+1824	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,weather
+1824	2	USER	それでは芝公園駅ちかくでなくても良いです。	general,hotel,weather
+1824	3	SYSTEM	かしこまりました。では、ヴィアイン秋葉原はいかがでしょうか？	general,hotel,weather
+1824	4	USER	「ヴィアイン秋葉原」はレストラン併設でしょうか？住所と料金情報も教えて下さい。	general,hotel,weather
+1824	5	SYSTEM	すいません。レストランは併設されていません。また、住所は東京都千代田区神田須田町2丁目19番4号になります。料金情報は、値段帯が安めという以外の情報はございません。申し訳ありません。	general,hotel,weather
+1824	6	USER	それでは「ヴィアイン秋葉原」で宿泊予約をお願いします。6/17から2泊、4人での利用です。	general,hotel,weather
+1824	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、83819 です。	general,hotel,weather
+1824	8	USER	あと台東区の当日6/17の天気を教えて下さい。	general,hotel,weather
+1824	9	SYSTEM	かしこまりました。6/17の台東区の天気予報は晴時々曇となっております。最低気温は17.4度、最高気温は27.6度になる予報です。	general,hotel,weather
+1824	10	USER	わかりました、他は大丈夫です有難うございました。	general,hotel,weather
+1824	11	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

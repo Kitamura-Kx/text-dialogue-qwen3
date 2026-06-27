@@ -1,0 +1,4 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3363	0	USER	札幌への旅行を計画中で、札幌モダンレストラン えりも亭で食事をする予定です。電話番号を教えてください。	general,restaurant
+3363	1	SYSTEM	0117085544です。	general,restaurant
+3363	2	USER	助かります。ありがとうございました。	general,restaurant

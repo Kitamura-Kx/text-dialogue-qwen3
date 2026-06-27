@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1427	0	USER	大阪で安めの宿泊施設を探して欲しいです。できればレストラン併設でお願いします。	general,hotel,restaurant,taxi
+1427	1	SYSTEM	では大阪コロナホテルはいかがですか。	general,hotel,restaurant,taxi
+1427	2	USER	そちらで予約をお願いします。人数は２名。6/1から４泊したいです。	general,hotel,restaurant,taxi
+1427	3	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は72767でございます。	general,hotel,restaurant,taxi
+1427	4	USER	次に安めの飲食店も探したいです。お好み焼き・たこ焼きを食べたいです。	general,hotel,restaurant,taxi
+1427	5	SYSTEM	では花まる亭 淀屋橋店はいかがでしょうか。	general,hotel,restaurant,taxi
+1427	6	USER	定休日はありますか？	general,hotel,restaurant,taxi
+1427	7	SYSTEM	定休日は土日でございます。	general,hotel,restaurant,taxi
+1427	8	USER	わかりました。最後にタクシーも予約したいのですが、キャッシュレス払いができて、ジャンボタクシーがあるところがよいです。	general,hotel,restaurant,taxi
+1427	9	SYSTEM	では南タクシー株式会社がございます。	general,hotel,restaurant,taxi
+1427	10	USER	そちらの電話番号はわかりますか？	general,hotel,restaurant,taxi
+1427	11	SYSTEM	電話番号は0667121331でございます。	general,hotel,restaurant,taxi
+1427	12	USER	ではそちらで予約をお願いします。6/1 11:20 大阪コロナホテルを出発。目的地は花まる亭 淀屋橋店でお願いします。	general,hotel,restaurant,taxi
+1427	13	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,restaurant,taxi
+1427	14	USER	そうなんですね。では、時間が12:20ではいかがでしょうか。	general,hotel,restaurant,taxi
+1427	15	SYSTEM	その時間ですと予約が可能でございました。予約番号は96482でございます。	general,hotel,restaurant,taxi
+1427	16	USER	今日お願いしたいことは以上です。ありがとうございました。	general,hotel,restaurant,taxi
+1427	17	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,taxi

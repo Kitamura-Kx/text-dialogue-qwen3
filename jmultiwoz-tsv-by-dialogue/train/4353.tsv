@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4353	0	USER	仙台への旅行を予定しているのですが、当日買い物ができるお店を探していただけますか。宮城野区で文房具・雑貨のお店がよいです。	general,shopping,restaurant,weather
+4353	1	SYSTEM	お待たせ致しました。それではumimorishop ミュージアムショップが良いかと思います。	general,shopping,restaurant,weather
+4353	2	USER	ありがとうございます。それから、当日食事ができるお店も探していただけますでしょうか。最寄り駅が北四番丁駅のお店にしてください。	general,shopping,restaurant,weather
+4353	3	SYSTEM	かしこまりました。その条件でしたら、ジャントが該当致します。	general,shopping,restaurant,weather
+4353	4	USER	そちらは駐車場は無料で利用できますか？	general,shopping,restaurant,weather
+4353	5	SYSTEM	申し訳ございません。駐車場の利用に関しては分かりません。	general,shopping,restaurant,weather
+4353	6	USER	それでは、最寄り駅は問わず、駐車場が無料のお店にしていただけますか。	general,shopping,restaurant,weather
+4353	7	SYSTEM	かしこまりました。それでは丸源ラーメン 仙台長町南店はいかがでしょうか？	general,shopping,restaurant,weather
+4353	8	USER	ありがとうございます。そちらのお店の電話番号を教えてください。	general,shopping,restaurant,weather
+4353	9	SYSTEM	はい、0227468231でございます。	general,shopping,restaurant,weather
+4353	10	USER	では、1月18日の15時40分から2名で予約をお願いします。	general,shopping,restaurant,weather
+4353	11	SYSTEM	お待たせ致しました。予約番号78946でお取りさせていただきました。	general,shopping,restaurant,weather
+4353	12	USER	ありがとうございます。当日の天気を知りたいのですが、1月18日の青葉区の天気を教えてください。	general,shopping,restaurant,weather
+4353	13	SYSTEM	お待たせ致しました。当日の青葉区の天気は晴予報でございます。	general,shopping,restaurant,weather
+4353	14	USER	晴れですね。よかったです。ありがとうございました。	general,shopping,restaurant,weather

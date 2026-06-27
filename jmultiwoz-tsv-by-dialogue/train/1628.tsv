@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1628	0	USER	大阪への旅行の予定があるのですが、生野区で宿泊施設を探してください。予算は高めにしてください。	general,hotel,weather
+1628	1	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しましょう？	general,hotel,weather
+1628	2	USER	それでは、地区は気にしないでお願いします。	general,hotel,weather
+1628	3	SYSTEM	ありがとうございます。では、エリアでいうと福島区にございます、ヴィラ デ くらすはいかがでしょう？	general,hotel,weather
+1628	4	USER	では、そちらの電話番号とレストランがあるかないかを教えていただけますか。	general,hotel,weather
+1628	5	SYSTEM	はい、電話番号は0667518888となります。併設のレストランはございません。他にご案内できることはございますか？	general,hotel,weather
+1628	6	USER	では、次に8月10日の浪速区の天気と気温を教えてください。	general,hotel,weather
+1628	7	SYSTEM	はい、天気は晴、最低気温24.1度、最高気温32.7度となります。他にご用件はございますか？	general,hotel,weather
+1628	8	USER	大丈夫です。ありがとうございました。	general,hotel,weather

@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4726	0	USER	仙台へ旅行予定なのですが、エル・パーク仙台という観光地についてお調べしてもらっていいですか？	general,attraction
+4726	1	SYSTEM	はい、市内に1件みつかりました。	general,attraction
+4726	2	USER	では、そこのエリアについて教えてください。	general,attraction
+4726	3	SYSTEM	エリアは、青葉区になります。	general,attraction
+4726	4	USER	ありがとうございます。これで大丈夫です。	general,attraction
+4726	5	SYSTEM	承知しました。ありがとうございました。	general,attraction

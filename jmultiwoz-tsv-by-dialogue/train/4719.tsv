@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4719	0	USER	大阪へ行くのですが、駐車場を無料で利用できるアートギャラリーが観れる観光名所ってないですか？	general,attraction,taxi
+4719	1	SYSTEM	申し訳ございません。ございません。	general,attraction,taxi
+4719	2	USER	そうですか。じゃあ駐車場はなくてもいいです。	general,attraction,taxi
+4719	3	SYSTEM	グランフロント大阪はいかがですか？	general,attraction,taxi
+4719	4	USER	いいですね。近辺の駅からの所要時間とエリアを教えてください。	general,attraction,taxi
+4719	5	SYSTEM	大阪駅から徒歩で1分です。エリアは北区になります。	general,attraction,taxi
+4719	6	USER	ありがとうございます。あと、商都交通株式会社というタクシー会社のタクシーを使いたいのですが、ありますか？	general,attraction,taxi
+4719	7	SYSTEM	ございます。	general,attraction,taxi
+4719	8	USER	そうですか。ならジャンボタクシーが使えるかどうかと、電話番号を教えてください。	general,attraction,taxi
+4719	9	SYSTEM	ジャンボタクシー対応はしておりません。電話番号は0662626868です。	general,attraction,taxi
+4719	10	USER	わかりました。4/28の11:50に通天閣からグランフロント大阪まで利用したいのですが、予約できますか？	general,attraction,taxi
+4719	11	SYSTEM	かしこまりました。予約完了しております。予約番号は４９６００です。	general,attraction,taxi
+4719	12	USER	ありがとうございます。以上です。	general,attraction,taxi
+4719	13	SYSTEM	ありがとうございました。	general,attraction,taxi

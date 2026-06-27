@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1627	0	USER	横浜への旅行の予定があります。当日訪れる観光名所を探してほしいです。Wi-Fiと駐車場が無料のところはありますか。	general,attraction,restaurant,weather
+1627	1	SYSTEM	はい、エリアでいうと中区にございます、カップヌードルミュージアム 横浜はいかがでしょう？	general,attraction,restaurant,weather
+1627	2	USER	楽しそうです。電話番号を教えてください。	general,attraction,restaurant,weather
+1627	3	SYSTEM	はい、電話番号は、0453450825となります。他にご案内できることはございますか？	general,attraction,restaurant,weather
+1627	4	USER	では、当日食事をするお店も探してほしいです。予算は安めでお願いします。	general,attraction,restaurant,weather
+1627	5	SYSTEM	承知しました。他にご希望はございますか？	general,attraction,restaurant,weather
+1627	6	USER	Wi-Fiが無料のところがよいですね。	general,attraction,restaurant,weather
+1627	7	SYSTEM	申し訳ありません。その条件ではご紹介できないのですが、いかが致しましょう？	general,attraction,restaurant,weather
+1627	8	USER	では、Wi-Fiの有無は気にしないでお願いします。	general,attraction,restaurant,weather
+1627	9	SYSTEM	申し訳ありません、では、エリアでいうと中区にございます、関内餃子軒 2号店はいかがでしょう？	general,attraction,restaurant,weather
+1627	10	USER	そちらのジャンルと定休日を教えていただけますか。	general,attraction,restaurant,weather
+1627	11	SYSTEM	はい、ジャンルは中華料理、定休日は日曜日となっております。他にご案内できることはございますか？	general,attraction,restaurant,weather
+1627	12	USER	ありがとうございます。では、5月5日の14時30分、3名で予約をお願いします。	general,attraction,restaurant,weather
+1627	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、70365となります。他にご用件はございますか？	general,attraction,restaurant,weather
+1627	14	USER	続けてですが、5月5日の南区の気温を教えてください。	general,attraction,restaurant,weather
+1627	15	SYSTEM	はい、天気は晴時々曇、最低気温20.1度、最高気温21.2度となります。他にご案内できることはございますか？	general,attraction,restaurant,weather
+1627	16	USER	これで終わりになります。ありがとうございました。	general,attraction,restaurant,weather

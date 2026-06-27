@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+980	0	USER	すいません	general,shopping,restaurant,weather
+980	1	SYSTEM	ご利用ありがとうございます。本日はどういったご用件でしょうか？	general,shopping,restaurant,weather
+980	2	USER	仙台へ行くのですが、当日買い物できるところを探しています。駐車場が無料でできれば六丁の目駅の近くが良いのですが良いところはありますでしょうか？	general,shopping,restaurant,weather
+980	3	SYSTEM	はい、2件ございます。例えば、セブンイレブン仙台六丁の目駅前店はいかがでしょうか？	general,shopping,restaurant,weather
+980	4	USER	いいですね、ご教示ありがとうございます。ちなみに、駅からの所要時間と定休日があればその情報もいただけないでしょうか？	general,shopping,restaurant,weather
+980	5	SYSTEM	六丁の目駅から徒歩で1分です。定休日はございません。	general,shopping,restaurant,weather
+980	6	USER	ありがとうございます。次に若林区あたりで飲食店を探しています。無料の駐車場があってWi-Fiが使えるところがあるといいのですが、そういったお店はありますか？	general,shopping,restaurant,weather
+980	7	SYSTEM	恐れ入ります。WiFiは無料をご希望でしょうか？それとも有料のものでもよろしかったでしょうか？	general,shopping,restaurant,weather
+980	8	USER	Wi-Fiは無料が良いです。無料であれば最悪若林区以外でも構いません。	general,shopping,restaurant,weather
+980	9	SYSTEM	大変申し訳ございません。若林区では、該当するところがありませんでした。若林区以外でお探ししてもよろしいですか？	general,shopping,restaurant,weather
+980	10	USER	はい、お願いできますか？	general,shopping,restaurant,weather
+980	11	SYSTEM	かしこまりました。ひげぱんだ、というお店はいかがでしょうか？ジャンルは、カフェ・スイーツ, 洋食・西洋料理で、泉区エリアのお店となります。	general,shopping,restaurant,weather
+980	12	USER	ちなみに営業時間はいかがでしょうか？	general,shopping,restaurant,weather
+980	13	SYSTEM	営業時間は、11:00～20:00でございます。	general,shopping,restaurant,weather
+980	14	USER	分かりました、ではそこで予約をお願いします。	general,shopping,restaurant,weather
+980	15	SYSTEM	かしこまりました。ご利用予定の日付と時刻、人数をお願いできますでしょうか？	general,shopping,restaurant,weather
+980	16	USER	7/3の12:50から3名でお願いします。	general,shopping,restaurant,weather
+980	17	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,shopping,restaurant,weather
+980	18	USER	そうですか、では13:40ならいかがでしょうか？	general,shopping,restaurant,weather
+980	19	SYSTEM	ありがとうございます。13：40でご予約完了いたしました。予約番号は、53276です。	general,shopping,restaurant,weather
+980	20	USER	ご予約ありがとうございます。当日の天候も調べておきたいのですが、7/3の太白区は天気いかがでしょうか？	general,shopping,restaurant,weather
+980	21	SYSTEM	当日の天気は、曇時々雨の予報です。最低気温は15.3度、最高気温は26.6度の予想となっております。	general,shopping,restaurant,weather
+980	22	USER	ありがとうございます、これで全て確認できました。	general,shopping,restaurant,weather
+980	23	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,shopping,restaurant,weather

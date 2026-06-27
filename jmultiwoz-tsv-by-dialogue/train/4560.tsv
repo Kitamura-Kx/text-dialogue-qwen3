@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4560	0	USER	仙台に旅行するのですが太白区で普通の値段の宿を探しています。	general,hotel,shopping,restaurant
+4560	1	SYSTEM	それでしたら、ホテルニュー水戸屋 アネックスはいかがですか？	general,hotel,shopping,restaurant
+4560	2	USER	料金はどれくらいですか？	general,hotel,shopping,restaurant
+4560	3	SYSTEM	申し訳ありません、詳しい料金情報の記載はございません。	general,hotel,shopping,restaurant
+4560	4	USER	そうなんですね！大丈夫です。では岡田の仙台長なす漬け　御町本店で買い物します。電話番号を教えて下さい。駐車場はありますか？	general,hotel,shopping,restaurant
+4560	5	SYSTEM	はい、電話番号は0222840131です。　駐車場は、不明となっています。	general,hotel,shopping,restaurant
+4560	6	USER	ありがとうございます。郷土料理でWIFIが利用できる店はありますか？	general,hotel,shopping,restaurant
+4560	7	SYSTEM	それでしたら、伊達の牛たん本舗 東インター店はいかがですか？	general,hotel,shopping,restaurant
+4560	8	USER	そちらはお値段どれくらいでしょう？	general,hotel,shopping,restaurant
+4560	9	SYSTEM	料金情報によれば、牛たん定食 麦ご飯・テールスープ付2180円、ロースト牛たん丼 1100円、牛たんカレーサラダ付1100円となっています。	general,hotel,shopping,restaurant
+4560	10	USER	いいですね。そこを予約して頂けますか？4人で2/5、時間は15:20です。	general,hotel,shopping,restaurant
+4560	11	SYSTEM	予約出来ました。予約番号は、63669です。	general,hotel,shopping,restaurant
+4560	12	USER	以上です。ありがとうございました！	general,hotel,shopping,restaurant
+4560	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,restaurant

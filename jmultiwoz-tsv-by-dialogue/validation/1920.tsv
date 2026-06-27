@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1920	0	USER	仙台へ行きたいのですが、泉区に安めの飲食店はありますか？	general,restaurant
+1920	1	SYSTEM	はい、11件ほどご案内可能です。例えば、三宝亭仙台泉店という、ラーメン・つけ麺, 中華料理ジャンルのお店がございますが、いかがでしょうか？	general,restaurant
+1920	2	USER	美味しそうですね。Wi-Fiはありますか？	general,restaurant
+1920	3	SYSTEM	申し訳ありません。こちらのお店のWiFi有無は、不明となっております。	general,restaurant
+1920	4	USER	わかりました。営業時間も知りたいです。	general,restaurant
+1920	5	SYSTEM	営業時間は、11:00～21:30です。	general,restaurant
+1920	6	USER	ありがとうございます。そこにしようと思うのですが、予約はお願いできますか。	general,restaurant
+1920	7	SYSTEM	はい、喜んで承ります。ご利用予定の日付と時刻、人数はお決まりでしょうか？	general,restaurant
+1920	8	USER	4/10の13:30に4人でお願いします。	general,restaurant
+1920	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、26244です。	general,restaurant
+1920	10	USER	ありがとうございます。以上で大丈夫です。	general,restaurant
+1920	11	SYSTEM	承知いたしました。他にご質問がないようでしたらこれで失礼します。本日はご利用ありがとうございました。	general,restaurant

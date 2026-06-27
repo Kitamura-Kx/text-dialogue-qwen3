@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+287	0	USER	お願いします。	general,hotel,restaurant
+287	1	SYSTEM	よろしくお願いいたします。	general,hotel,restaurant
+287	2	USER	大阪への旅行を計画しています。wifiが無料で使える宿泊施設を探していただけませんか・	general,hotel,restaurant
+287	3	SYSTEM	かしこまりました。９１件ヒットしますが、ほかにご希望の条件はおありですか。	general,hotel,restaurant
+287	4	USER	レストランが付いているところがいいです。あと、西区で探していただきたいです。	general,hotel,restaurant
+287	5	SYSTEM	ではリーガプレイス肥後橋はいかがでしょうか。	general,hotel,restaurant
+287	6	USER	そちらの宿泊施設のチェックアウトは何時までですか？	general,hotel,restaurant
+287	7	SYSTEM	チェックアウト終了時刻は11:00でございます。	general,hotel,restaurant
+287	8	USER	わかりました。	general,hotel,restaurant
+287	9	SYSTEM	ほかにご用件はございませんか。	general,hotel,restaurant
+287	10	USER	当日食事ができるお店を探しています。予算的には安めがいいのですが？	general,hotel,restaurant
+287	11	SYSTEM	では牛すじホルモン 二刀流武蔵はいかがでしょうか。	general,hotel,restaurant
+287	12	USER	あと、wifiが無料で使えるところがいいのですが、こちらは無料で使用可能ですか？	general,hotel,restaurant
+287	13	SYSTEM	はい。Wi-Fiも無料で利用いただけます。	general,hotel,restaurant
+287	14	USER	ありがとうございます。では、こちらのお店の最寄り駅と営業時間を教えて下さい。	general,hotel,restaurant
+287	15	SYSTEM	最寄り駅は本町駅でございます。営業時間は11:30～14:30, 17:00～23:00となっております。	general,hotel,restaurant
+287	16	USER	わかりました。丁寧に対応していただいてありがとうございました。	general,hotel,restaurant
+287	17	SYSTEM	ほかにご用件はございませんか。	general,hotel,restaurant
+287	18	USER	はい。以上になります。	general,hotel,restaurant

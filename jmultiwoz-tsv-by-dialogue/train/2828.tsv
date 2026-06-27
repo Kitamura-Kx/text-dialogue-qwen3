@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2828	0	USER	名古屋へ行くのですが、御器所駅の近くの飲食店を探しています。	general,restaurant,taxi
+2828	1	SYSTEM	そうしますと、王様のフレンチというところが1件ご案内可能です。いかがでしょうか？	general,restaurant,taxi
+2828	2	USER	駐車場を無料で利用できるところがいいのですが、王様のフレンチはどうですか？	general,restaurant,taxi
+2828	3	SYSTEM	はい、こちらは無料駐車場が併設しております。	general,restaurant,taxi
+2828	4	USER	良かったです。あとジャンボタクシーを利用できるタクシー会社を探しています。	general,restaurant,taxi
+2828	5	SYSTEM	そうしますと、東海交通はいかがでしょうか？	general,restaurant,taxi
+2828	6	USER	キャッシュレス対応はしていますか？	general,restaurant,taxi
+2828	7	SYSTEM	はい、対応しております。	general,restaurant,taxi
+2828	8	USER	電話番号を教えてください。	general,restaurant,taxi
+2828	9	SYSTEM	電話番号は、0532571111でございます。	general,restaurant,taxi
+2828	10	USER	1/30の11:40にそれいけ精香園から王様のフレンチまで予約をお願いしたいです。	general,restaurant,taxi
+2828	11	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、49318です。	general,restaurant,taxi
+2828	12	USER	ありがとうございます。	general,restaurant,taxi
+2828	13	SYSTEM	他にお調べすることはございませんか？	general,restaurant,taxi
+2828	14	USER	特にないです。	general,restaurant,taxi
+2828	15	SYSTEM	承知しました。では、またのご利用をお待ちしております。	general,restaurant,taxi

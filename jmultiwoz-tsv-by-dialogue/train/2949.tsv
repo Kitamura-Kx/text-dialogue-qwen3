@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2949	0	USER	那覇への旅行を計画しています。 当日泊まる宿泊施設を探してください。	general,hotel,shopping
+2949	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,shopping
+2949	2	USER	レストランが併設されているところにしてください。予算は普通が希望です。	general,hotel,shopping
+2949	3	SYSTEM	エリアでいうと本庁にある、ザ・ナハテラスはいかがでしょう？タイプはリゾートホテルとなります。	general,hotel,shopping
+2949	4	USER	なるほど。近辺の駅からの所要時間を教えてほしいです。	general,hotel,shopping
+2949	5	SYSTEM	最寄りの牧志駅からタクシーで5分となります。	general,hotel,shopping
+2949	6	USER	では予約をお願いします。人数は4人、日付は11/28、宿泊日数は2泊です。	general,hotel,shopping
+2949	7	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,hotel,shopping
+2949	8	USER	そうですか。では人数を3人にしたらどうですか？	general,hotel,shopping
+2949	9	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、94765となります。	general,hotel,shopping
+2949	10	USER	あと、当日買い物ができるところを探してください。最寄り駅が古島駅、駐車場を無料で利用できるところにしてください。	general,hotel,shopping
+2949	11	SYSTEM	エリアでいうと本庁に、コジマ×ビックカメラ那覇店がございます。	general,hotel,shopping
+2949	12	USER	いいですね。営業時間，定休日が知りたいです。	general,hotel,shopping
+2949	13	SYSTEM	はい、営業時間は１０時から２１時、定休日はございません。	general,hotel,shopping
+2949	14	USER	解決しました。ありがとうございました。	general,hotel,shopping

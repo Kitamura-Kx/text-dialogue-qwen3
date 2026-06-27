@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3832	0	USER	仙台旅行に行く予定なのですが、青葉区で無料の駐車場がある観光名所はどこがよいでしょうか？	general,attraction
+3832	1	SYSTEM	では、大崎八幡宮 大石段はいかがですか？	general,attraction
+3832	2	USER	よさげですね。ジャンルとしては寺社仏閣でいいでしょうか？	general,attraction
+3832	3	SYSTEM	はい、ジャンルは神社、寺院、協会、モニュメントなどの散策エリアです。	general,attraction
+3832	4	USER	わかりました。営業時間と電話番号をお教えいただけますでしょうか	general,attraction
+3832	5	SYSTEM	営業時間は、0時から0時となっています。　電話番号は、0222343606です。	general,attraction
+3832	6	USER	0時から0時というのは24時間営業ですか？	general,attraction
+3832	7	SYSTEM	申し訳ありません、0時から0時までと記載されていますが、24時間営業との記載はございません。	general,attraction
+3832	8	USER	わかりました。ありがとうございます。	general,attraction
+3832	9	SYSTEM	他にご用件はありますか？	general,attraction

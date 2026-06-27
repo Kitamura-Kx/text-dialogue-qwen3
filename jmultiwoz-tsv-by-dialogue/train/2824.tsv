@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2824	0	USER	名古屋へ行くのですが、簡易宿所を探しています。	general,hotel,attraction,taxi
+2824	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,hotel,attraction,taxi
+2824	2	USER	東山公園駅の近くで予算は普通の所が良いです。	general,hotel,attraction,taxi
+2824	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,attraction,taxi
+2824	4	USER	では東山公園駅の近くでなくてもいいです。	general,hotel,attraction,taxi
+2824	5	SYSTEM	かしこまりました。そうしますと、Show和の宿つちや、というところがご案内可能です。いかがでしょうか？	general,hotel,attraction,taxi
+2824	6	USER	料金情報とチェックイン開始時刻が知りたいです。	general,hotel,attraction,taxi
+2824	7	SYSTEM	料金につきましては、お値段帯が普通であることと、駐車場が無料ということ以外は詳しい情報が手元になく、ご案内できません。申し訳ありません。チェックインは夕方16時開始となっております。	general,hotel,attraction,taxi
+2824	8	USER	12/31から4泊、2人で予約をお願いしたいです。	general,hotel,attraction,taxi
+2824	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、97400です。	general,hotel,attraction,taxi
+2824	10	USER	あと千種区で駐車場が無料な観光名所を探しています。	general,hotel,attraction,taxi
+2824	11	SYSTEM	そうしますと、古川美術館・分館 爲三郎記念館のみのご案内となりますが、いかがでしょうか？	general,hotel,attraction,taxi
+2824	12	USER	いいですね。そこにします。	general,hotel,attraction,taxi
+2824	13	SYSTEM	他にお調べすることはございませんか？	general,hotel,attraction,taxi
+2824	14	USER	特にないです。	general,hotel,attraction,taxi
+2824	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction,taxi
+2824	16	USER	あと、すみません。タクシーのこと忘れてました。キャッシュレス払いできるタクシーを探しています。	general,hotel,attraction,taxi
+2824	17	SYSTEM	そうしますと、伸和交通はいかがでしょうか？こちらでしたら、ジャンボタクシーもご利用いただけますよ。	general,hotel,attraction,taxi
+2824	18	USER	いいですね。では12/31、13:50にShow和の宿つちやから古川美術館・分館 爲三郎記念館まで予約をお願いしたいです。	general,hotel,attraction,taxi
+2824	19	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、53317です。	general,hotel,attraction,taxi
+2824	20	USER	ありがとうございます。助かりました。	general,hotel,attraction,taxi
+2824	21	SYSTEM	他にお手伝いすることはございませんか？	general,hotel,attraction,taxi
+2824	22	USER	特にないです。	general,hotel,attraction,taxi
+2824	23	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction,taxi

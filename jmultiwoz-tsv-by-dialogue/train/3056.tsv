@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3056	0	USER	大阪への旅行を検討しています。当日利用できる飲食店を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,restaurant,taxi
+3056	1	SYSTEM	はい、ご希望をおきかせください	general,restaurant,taxi
+3056	2	USER	ありがとうございます。料金が安めのお店を探して欲しいです。	general,restaurant,taxi
+3056	3	SYSTEM	大阪で料金安めといえば１６件ほどヒットしますが、大阪らしいものといえば、牛すじホルモン 二刀流武蔵、こちらがオススメです。	general,restaurant,taxi
+3056	4	USER	良さそうですね。そこにしたいと思います。安めと言って何ですが、このお店の料金情報を教えて貰えますか？	general,restaurant,taxi
+3056	5	SYSTEM	宮本武蔵コース4000円、こちらがオススメのようです。	general,restaurant,taxi
+3056	6	USER	なるほど。興味深いですね。では、このお店の予約をしてみたいのですが、お願いしても良いですか？	general,restaurant,taxi
+3056	7	SYSTEM	はい、人数と日付時刻をお願いします。	general,restaurant,taxi
+3056	8	USER	はい。人数は2人で、11月24日の14:20でお願いしたいです。	general,restaurant,taxi
+3056	9	SYSTEM	その条件で予約に成功しました。予約番号は33698になります。	general,restaurant,taxi
+3056	10	USER	ありがとうございます。最後に、当日利用出来るタクシー会社も探して欲しいのですが、よろしいでしょうか？	general,restaurant,taxi
+3056	11	SYSTEM	はい、ご希望はありますか	general,restaurant,taxi
+3056	12	USER	そうですね。キャッシュレス払いが出来て、ジャンボタクシーも利用出来れば最高なのですが。どうでしょうか？	general,restaurant,taxi
+3056	13	SYSTEM	それでは、近鉄タクシー株式会社をお勧めします	general,restaurant,taxi
+3056	14	USER	なるほど。この会社の電話番号ってわかりますか？	general,restaurant,taxi
+3056	15	SYSTEM	0570069001です	general,restaurant,taxi
+3056	16	USER	ありがとうございます。では、このタクシー会社で予約をしたいのですが、このままお願いしても大丈夫でしょうか？	general,restaurant,taxi
+3056	17	SYSTEM	はい、日付と出発時刻、出発地と目的地をお願いします	general,restaurant,taxi
+3056	18	USER	はい。11月24日の12:50で、もりのみやキューズモールBASEから、牛すじホルモン 二刀流武蔵まででお願いしたいです。	general,restaurant,taxi
+3056	19	SYSTEM	この条件で予約成功しました。予約番号は93185です。	general,restaurant,taxi
+3056	20	USER	ありがとうございます。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,restaurant,taxi
+3056	21	SYSTEM	よい旅を	general,restaurant,taxi

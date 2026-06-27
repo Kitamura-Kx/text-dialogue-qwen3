@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3866	0	USER	東京で無料の駐車場があって買い物できる場所を紹介していただけますか？	general,shopping,hotel
+3866	1	SYSTEM	かしこまりました。ほかに条件はございますか。	general,shopping,hotel
+3866	2	USER	特にありません。	general,shopping,hotel
+3866	3	SYSTEM	では京王百貨店新宿店はいかがでしょうか。	general,shopping,hotel
+3866	4	USER	良いですね。最寄り駅と住所を教えて下さい。	general,shopping,hotel
+3866	5	SYSTEM	最寄り駅は新宿駅で、住所が東京都新宿区西新宿1丁目1-4でございます。	general,shopping,hotel
+3866	6	USER	営業時間も教えていただけますか？	general,shopping,hotel
+3866	7	SYSTEM	営業時間は10:00～20:30でございます。	general,shopping,hotel
+3866	8	USER	ありがとうございます。宿泊も考えています。品川区で無料の駐車場がある所が良いのですが、どうですか？	general,shopping,hotel
+3866	9	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,hotel
+3866	10	USER	そうですか。では、駐車場は有料でも大丈夫です。予算が普通の所を教えて下さい。	general,shopping,hotel
+3866	11	SYSTEM	では東京マリオットホテルがございます。	general,shopping,hotel
+3866	12	USER	良さそうですね。そちらの料金情報と近くの駅からどれくらいかかるかを教えて下さい。	general,shopping,hotel
+3866	13	SYSTEM	値段値は普通ですが、料金情報に関しては詳細はわかりかねます。品川駅から徒歩で10分、五反田駅から徒歩で20分でございます。	general,shopping,hotel
+3866	14	USER	分かりました。ありがとうございます。それでは失礼します。	general,shopping,hotel

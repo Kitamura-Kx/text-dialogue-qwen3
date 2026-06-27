@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4851	0	USER	東京に旅行したいのですが、宿泊する旅館を探しています。	general,hotel,restaurant,taxi
+4851	1	SYSTEM	ご希望の条件をおきかせください。	general,hotel,restaurant,taxi
+4851	2	USER	レストランが併設されているところが良いです。	general,hotel,restaurant,taxi
+4851	3	SYSTEM	東京でレストラン有の宿泊施設は６２件あります。	general,hotel,restaurant,taxi
+4851	4	USER	場所なども決めていないのですが、レストランがある旅館でおすすめはありますか？	general,hotel,restaurant,taxi
+4851	5	SYSTEM	東京でレストランがある旅館は５件あります。その中から、新宿御苑にある、ONSEN RYOKAN 由縁 新宿をオススメします。	general,hotel,restaurant,taxi
+4851	6	USER	ありがとうございます。それと、Wi-Fiが無料の飲食店も探しているのですが、駐車場も無料のところはありますか？	general,hotel,restaurant,taxi
+4851	7	SYSTEM	東京でWiFiと駐車場無料の飲食店は、バルバッコア 六本木ヒルズ店、こちら一択です。	general,hotel,restaurant,taxi
+4851	8	USER	どのようなジャンルのお店ですか？	general,hotel,restaurant,taxi
+4851	9	SYSTEM	洋食・西洋料理, 居酒屋です。	general,hotel,restaurant,taxi
+4851	10	USER	では予約をお願いします。	general,hotel,restaurant,taxi
+4851	11	SYSTEM	人数と日付時刻をどうぞ	general,hotel,restaurant,taxi
+4851	12	USER	3名で、5月18日、時間は15時30分です。	general,hotel,restaurant,taxi
+4851	13	SYSTEM	予約成功しました。予約番号は32004です。	general,hotel,restaurant,taxi
+4851	14	USER	わかりました。当日、ジャンボタクシーを利用できるタクシー会社はありますか？	general,hotel,restaurant,taxi
+4851	15	SYSTEM	東京にはジャンボタクシー対応の会社はなさそうです。	general,hotel,restaurant,taxi
+4851	16	USER	では、ジャンボタクシーでなくていいので、予約をお願いします。	general,hotel,restaurant,taxi
+4851	17	SYSTEM	グリーンキャブでいかがでしょうか、日付と時刻、出発地と目的地をお願いします。	general,hotel,restaurant,taxi
+4851	18	USER	グリーンキャブでお願いします。5月18日、14時10分に、先ほど紹介していただいた宿泊施設から、予約をしていただいたレストランまでお願いします。	general,hotel,restaurant,taxi
+4851	19	SYSTEM	予約成功しました。予約番号は90288です。	general,hotel,restaurant,taxi
+4851	20	USER	ちなみに、電話番号とキャッシュレス決済が可能かどうかも教えてください。	general,hotel,restaurant,taxi
+4851	21	SYSTEM	0332038181、キャッシュレスに対応しています。	general,hotel,restaurant,taxi
+4851	22	USER	ありがとうございました。	general,hotel,restaurant,taxi
+4851	23	SYSTEM	よい旅を	general,hotel,restaurant,taxi

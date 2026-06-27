@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4539	0	USER	福岡へ旅行に行く予定なのですが駐車場が無料で中央区で最寄り駅が西鉄福岡（天神）駅の買い物ができる場所を教えて下さい。	general,shopping,attraction,weather
+4539	1	SYSTEM	中央区、西鉄福岡天神、駐車場無料、これらを満たす買い物施設はいくつかありますが、岩田屋 本店、こちらをお勧めします。	general,shopping,attraction,weather
+4539	2	USER	ありがとうございます。そこの営業時間はわかりますか？	general,shopping,attraction,weather
+4539	3	SYSTEM	朝１０時から夜８時までです。	general,shopping,attraction,weather
+4539	4	USER	ありがとうございます。東区で駐車場が無料の観光名所を探しています。	general,shopping,attraction,weather
+4539	5	SYSTEM	東区には駐車場無料の観光名所はなさそうです。	general,shopping,attraction,weather
+4539	6	USER	それでは地区はどこでもよいです。	general,shopping,attraction,weather
+4539	7	SYSTEM	福岡で駐車場無料の観光名所はいくつかありますが、アサヒビール博多工場、こちらをお勧めします。	general,shopping,attraction,weather
+4539	8	USER	いいですね。WI-FIは使えますか？あと住所も聞いておいていいですか？	general,shopping,attraction,weather
+4539	9	SYSTEM	WiFiは不明です。住所は福岡県福岡市博多区竹下3丁目1-1になります。	general,shopping,attraction,weather
+4539	10	USER	ありがとうございます。中央区の２月１７日の最低気温と最高気温を教えて下さい。	general,shopping,attraction,weather
+4539	11	SYSTEM	2/17 福岡 中央区 の天気は晴時々曇、最低気温3.4度、最高気温12.3度です。	general,shopping,attraction,weather
+4539	12	USER	すごく助かりました！ありがとうございました。	general,shopping,attraction,weather

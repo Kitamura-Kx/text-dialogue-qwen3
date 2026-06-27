@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2043	0	USER	名古屋で買い物スポットを探しています。西区で、無料駐車場があるところだといいのですが。	general,shopping,taxi,weather
+2043	1	SYSTEM	かしこまりました。その条件でしたらイオンタウン名西はいかがでしょうか？	general,shopping,taxi,weather
+2043	2	USER	そちらにします。ついでにタクシー情報も聞いていいですか？キャッシュレス払いができるジャンボタクシーを利用したいのですが。	general,shopping,taxi,weather
+2043	3	SYSTEM	申し訳ございません。その条件に該当するタクシー会社をお探しすることが出来ませんでした。	general,shopping,taxi,weather
+2043	4	USER	ではキャッシュレスの条件は除いてください。	general,shopping,taxi,weather
+2043	5	SYSTEM	ありがとうございます。それでは鯱第一交通さんはいかがでしょうか？	general,shopping,taxi,weather
+2043	6	USER	電話番号も教えて頂けますか？	general,shopping,taxi,weather
+2043	7	SYSTEM	電話番号は0529123456でございます。	general,shopping,taxi,weather
+2043	8	USER	2/5の13時で予約をお願いします。出発はイオンタウン名西で、到着はオーガニック食堂 Engiです。	general,shopping,taxi,weather
+2043	9	SYSTEM	お待たせいたしました。予約番号55408でご予約させていただきました。	general,shopping,taxi,weather
+2043	10	USER	ありがとうございます。最後に、緑区の2/5の最高気温も教えてください。	general,shopping,taxi,weather
+2043	11	SYSTEM	はい、当日の緑区の最高気温は9.7度となっております。	general,shopping,taxi,weather
+2043	12	USER	ありがとうございます。以上です！	general,shopping,taxi,weather

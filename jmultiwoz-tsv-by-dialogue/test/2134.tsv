@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2134	0	USER	仙台に旅行するので、当日泊まる宿泊施設を探して頂けますか？	general,hotel,restaurant,weather
+2134	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,restaurant,weather
+2134	2	USER	レストランが併設されていて、かつWi-Fiが無料で利用できる場所はありますか？	general,hotel,restaurant,weather
+2134	3	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,restaurant,weather
+2134	4	USER	でしたら、有料のWi-Fiでも構いません。	general,hotel,restaurant,weather
+2134	5	SYSTEM	かしこまりました。では、コーラスホテル仙台富沢はいかがでしょうか？	general,hotel,restaurant,weather
+2134	6	USER	ではそちらでお願いします。チェックイン開始時刻と最寄り駅を教えていただけますでしょうか。	general,hotel,restaurant,weather
+2134	7	SYSTEM	はい。チェックイン開始時刻は15:00です。最寄り駅は富沢駅になります。	general,hotel,restaurant,weather
+2134	8	USER	ありがとうございます。当日食事ができる飲食店も教えて頂けると助かります。予算は普通くらいで、宮城野区の宮城野通駅周辺を希望しています。	general,hotel,restaurant,weather
+2134	9	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,hotel,restaurant,weather
+2134	10	USER	でしたら、地区はどこでも構いません。	general,hotel,restaurant,weather
+2134	11	SYSTEM	かしこまりました。では、Chef's Tableはいかがでしょうか？	general,hotel,restaurant,weather
+2134	12	USER	ではそちらに伺いたいと思います。営業時間と近辺の駅からの所要時間を教えて頂けると助かります。	general,hotel,restaurant,weather
+2134	13	SYSTEM	はい。営業時間は07:00～10:00, 11:30～14:00, 17:00～20:30となっております。近辺の駅からの所要時間は最寄りの宮城野通駅から徒歩で5分、仙台駅と五橋駅から徒歩で6分となっております。	general,hotel,restaurant,weather
+2134	14	USER	ありがとうございます。4/4に若林区に旅行に行くので、天気も調べていただけますでしょうか。	general,hotel,restaurant,weather
+2134	15	SYSTEM	かしこまりました。4/4の若林区の天気予報は雨のち晴となっております。最低気温は2.7度、最高気温は18.3度になる予報です。	general,hotel,restaurant,weather
+2134	16	USER	ありがとうございました。	general,hotel,restaurant,weather

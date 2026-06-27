@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1629	0	USER	仙台への旅行を予定しているのですが、当日泉区で買い物ができるお店を探しています。	general,shopping,weather
+1629	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,weather
+1629	2	USER	ジャンルはファッションで駐車場が無料のところがよいです。	general,shopping,weather
+1629	3	SYSTEM	ありがとうございます。では、アカチャンホンポ 仙台泉店はいかがでしょう？	general,shopping,weather
+1629	4	USER	ありがとうございます。では、そちらの電話番号を教えてください。	general,shopping,weather
+1629	5	SYSTEM	はい、電話番号は、0227723388となります。他にご案内できることはございますか？	general,shopping,weather
+1629	6	USER	11月26日の若林区の天気を教えてください。	general,shopping,weather
+1629	7	SYSTEM	はい、天気は晴、最低気温8.9度、最高気温15.8度となります。他にご用件はございますか？	general,shopping,weather
+1629	8	USER	大丈夫です。いろいろとありがとうございました。	general,shopping,weather

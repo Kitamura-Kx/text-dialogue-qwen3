@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4378	0	USER	那覇に旅行した際の宿泊施設を探していただきたいです。小禄という地区でWi-Fiが無料で利用できる簡易宿所でお願いします。	general,hotel,taxi
+4378	1	SYSTEM	そういたしますと、グランドキャビンホテル那覇小禄はいかがでしょうか？お値段帯がお安めの宿泊施設です。	general,hotel,taxi
+4378	2	USER	ありがとうございます。そこにします。駐車場の有無と料金情報を教えていただけますか？	general,hotel,taxi
+4378	3	SYSTEM	駐車場は、有料ですが、ご利用いただけます。料金につきましては、お安めということ以外、詳しい情報は不明となっております。	general,hotel,taxi
+4378	4	USER	ありがとうございます。その施設の予約をお願いします。11/11から４泊を2人でお願いします。	general,hotel,taxi
+4378	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、80242です。	general,hotel,taxi
+4378	6	USER	ありがとうございます。当日利用できるタクシー会社も探していただけますか？キャッシュレス払いに対応していてジャンボタクシーが利用できるところでお願いします。	general,hotel,taxi
+4378	7	SYSTEM	では、三和交通はいかがでしょうか？	general,hotel,taxi
+4378	8	USER	ありがとうございます。そこにします。電話番号を教えていただけますか？	general,hotel,taxi
+4378	9	SYSTEM	電話番号は、0120100084でございます。	general,hotel,taxi
+4378	10	USER	ありがとうございます。予約もお願いしたいです。11/11の13:50で、出発地は先ほど見つけていただいた宿泊所で、目的地はホテルパームロイヤルNAHA国際通りです。	general,hotel,taxi
+4378	11	SYSTEM	ありがとうございます。グランドキャビンホテル那覇小禄発にて、ご予約完了いたしました。予約番号は、38522です。	general,hotel,taxi
+4378	12	USER	ありがとうございます。	general,hotel,taxi
+4378	13	SYSTEM	他にご用件はございませんか？	general,hotel,taxi
+4378	14	USER	はい、大丈夫です。ありがとうございました。	general,hotel,taxi
+4378	15	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,hotel,taxi

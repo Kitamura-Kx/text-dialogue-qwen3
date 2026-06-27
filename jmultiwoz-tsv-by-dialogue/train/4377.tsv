@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4377	0	USER	名古屋へ旅行した際に利用できる、中区金山駅が最寄りの飲食店を探しています。予算は普通でお願いします。	general,restaurant
+4377	1	SYSTEM	そうしますと、ゆめや 金山店はいかがでしょうか？	general,restaurant
+4377	2	USER	ありがとうございます。そこにします。営業時間を教えていただけますか？	general,restaurant
+4377	3	SYSTEM	はい、18:00から夜00:00までとなっております。	general,restaurant
+4377	4	USER	ありがとうございます。	general,restaurant
+4377	5	SYSTEM	他にお調べすることはございませんか？	general,restaurant
+4377	6	USER	はい、大丈夫です。ありがとうございました。	general,restaurant
+4377	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

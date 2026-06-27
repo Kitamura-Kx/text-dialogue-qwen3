@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2899	0	USER	今度、名古屋へ旅行に行くので、ジャンボタクシーを利用できるタクシー会社を教えて下さい。	general,taxi
+2899	1	SYSTEM	はい、宝タクシー第三をおすすめします	general,taxi
+2899	2	USER	そのタクシーはキャッシュレス払いできますか？	general,taxi
+2899	3	SYSTEM	はい、対応しています。	general,taxi
+2899	4	USER	良かったです。電話番号を教えて下さい。	general,taxi
+2899	5	SYSTEM	0526826000です。	general,taxi
+2899	6	USER	それでは、11月19日の午前10時30分にオアシス21からビジネスホテル アップルまで予約をお願いします。	general,taxi
+2899	7	SYSTEM	予約成功しました。予約番号は87431です。	general,taxi
+2899	8	USER	ありがとうございました。助かりました。それでは失礼します。	general,taxi

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3938	0	USER	仙台への旅行を計画中で、卸町駅でお土産を買いたいと思っています。	general,shopping,weather
+3938	1	SYSTEM	では、岡田の仙台長なす漬 卸町本店はいかがでしょうか？卸町駅から徒歩で5分の場所にございます。	general,shopping,weather
+3938	2	USER	そこにしようと思います。定休日とエリアを教えてください。	general,shopping,weather
+3938	3	SYSTEM	はい、定休日は水曜日と日曜日です。エリアは、若林区となります。	general,shopping,weather
+3938	4	USER	ありがとうございます。11/20の宮城野区の最低気温を教えてください。	general,shopping,weather
+3938	5	SYSTEM	かしこまりました。当日の最低気温は、5.3度まで下がる見込みです。	general,shopping,weather
+3938	6	USER	助かります。ありがとうございます。	general,shopping,weather
+3938	7	SYSTEM	他にお調べすることなど、ございませんか？	general,shopping,weather
+3938	8	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,weather
+3938	9	SYSTEM	こちらこそ、ありがとうございます。では、またのご利用をお待ちしております。	general,shopping,weather

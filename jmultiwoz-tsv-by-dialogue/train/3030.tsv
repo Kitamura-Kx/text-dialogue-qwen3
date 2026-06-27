@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3030	0	USER	仙台へ行くのですが、最寄り駅が北仙台駅で、Wi-Fiが無料の宿泊施設ってありますか？	general,hotel,attraction,taxi
+3030	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,attraction,taxi
+3030	2	USER	じゃあ、最寄り駅はどこでも大丈夫です。	general,hotel,attraction,taxi
+3030	3	SYSTEM	かしこまりました。それであれば、ホテルニュー水戸屋アネックスはいかがでしょうか。	general,hotel,attraction,taxi
+3030	4	USER	よさそうですね。そこの料金と電話番号も教えてもらえますか？	general,hotel,attraction,taxi
+3030	5	SYSTEM	はい。値段帯は安めとなっております。電話番号は0223982301です。	general,hotel,attraction,taxi
+3030	6	USER	もう少し具体的な料金情報はありますか？	general,hotel,attraction,taxi
+3030	7	SYSTEM	申し訳ございません。これ以上の情報は調べても出てきませんでした。	general,hotel,attraction,taxi
+3030	8	USER	わかりました。ではそこの予約をお願いできますか？10/11から４泊で４名です。	general,hotel,attraction,taxi
+3030	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、29458です。	general,hotel,attraction,taxi
+3030	10	USER	ありがとうございます。あと、泉区で駐車場が無料の観光名所も探してください。	general,hotel,attraction,taxi
+3030	11	SYSTEM	かしこまりました。アイスリンク仙台はいかがでしょうか。	general,hotel,attraction,taxi
+3030	12	USER	ありがとうございます。そこの住所も教えてもらえますか？	general,hotel,attraction,taxi
+3030	13	SYSTEM	はい。住所は宮城県仙台市泉区高玉町9-2です。	general,hotel,attraction,taxi
+3030	14	USER	ありがとうございます。あと、キャッシュレス払いができるタクシー会社を探してもらえますか？	general,hotel,attraction,taxi
+3030	15	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。いかがいたしましょうか。	general,hotel,attraction,taxi
+3030	16	USER	そうですか。じゃあ支払方法はこだわりません。	general,hotel,attraction,taxi
+3030	17	SYSTEM	かしこまりました。では、稲荷タクシー（有）はいかがでしょうか？	general,hotel,attraction,taxi
+3030	18	USER	ありがとうございます。そこはジャンボタクシーの対応はありますか？	general,hotel,attraction,taxi
+3030	19	SYSTEM	はい。ジャンボタクシーに対応しております。	general,hotel,attraction,taxi
+3030	20	USER	ありがとうございます。ではそこでタクシー予約をお願いできますか？10/11の13：10に、ホテルニュー水戸屋アネックスを出発して、アイスリンク仙台まで利用したいです。	general,hotel,attraction,taxi
+3030	21	SYSTEM	かしこまりました。ご予約承りました。予約番号は、82369 です。	general,hotel,attraction,taxi
+3030	22	USER	ありがとうございました。以上で結構です。	general,hotel,attraction,taxi
+3030	23	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction,taxi

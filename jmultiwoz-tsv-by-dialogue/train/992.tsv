@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+992	0	USER	横浜へ旅行予定なのですが、無料駐車場のある飲食店はありますか？	general,restaurant,weather
+992	1	SYSTEM	はい、5件ほどご案内可能です。例えば、保土ケ谷区にある松葉寿し、というお店はいかがでしょうか？	general,restaurant,weather
+992	2	USER	そこいいですね。近辺の駅からの所要時間を教えてください。	general,restaurant,weather
+992	3	SYSTEM	かしこまりました。最寄りの西谷駅から徒歩で6分ほどの距離にございます。	general,restaurant,weather
+992	4	USER	わかりました。12/12の中区の天気予報を教えてください。	general,restaurant,weather
+992	5	SYSTEM	かしこまりました。当日の天気は、曇り時々雨の予報となっております。最低気温は6.4度、最高気温も10.3度までしか上がらない見込みです。	general,restaurant,weather
+992	6	USER	わかりました。ありがとうございます。	general,restaurant,weather
+992	7	SYSTEM	他になにかお調べすることはございますか？	general,restaurant,weather
+992	8	USER	いえ、もう大丈夫です。	general,restaurant,weather
+992	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,weather

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3458	0	USER	那覇へ旅行に行くので、買い物ができるところを探してください。	general,shopping,attraction,weather
+3458	1	SYSTEM	かしこまりました。那覇で買い物ですと49件からお選びできますが、御条件の提示をお願いいたします。	general,shopping,attraction,weather
+3458	2	USER	地区は本庁で、食料品を買いたいです。あと駐車場無料のところだと嬉しいのですが。	general,shopping,attraction,weather
+3458	3	SYSTEM	申し訳ございません。無料の駐車場があるお店は発見できませんでした。	general,shopping,attraction,weather
+3458	4	USER	では駐車場はなくても構いません。	general,shopping,attraction,weather
+3458	5	SYSTEM	かしこまりました。それでは琉球醤油屋 国際通り1号店はいかがでしょうか？	general,shopping,attraction,weather
+3458	6	USER	ありがとうございます。次に観光ができるところを探してください。	general,shopping,attraction,weather
+3458	7	SYSTEM	かしこまりました。御条件の提示をお願いいたします。	general,shopping,attraction,weather
+3458	8	USER	最寄り駅が県庁駅のところで、Wi-Fiが無料で利用できるところがいいです。	general,shopping,attraction,weather
+3458	9	SYSTEM	お待たせ致しました。それでは御菓子御殿国際通り松尾店がございます。	general,shopping,attraction,weather
+3458	10	USER	そちらの営業時間と子供入場料を教えてください。	general,shopping,attraction,weather
+3458	11	SYSTEM	営業時間は10時から19時でして、子供の入場料は無料でございます。	general,shopping,attraction,weather
+3458	12	USER	ありがとうございます。最後に3/3の真和志の天候を教えてください。	general,shopping,attraction,weather
+3458	13	SYSTEM	お待たせ致しました。当日の天気は曇時々晴の予報でございます。	general,shopping,attraction,weather
+3458	14	USER	最低気温は何度ですか？	general,shopping,attraction,weather
+3458	15	SYSTEM	はい、14.4度でございます。	general,shopping,attraction,weather
+3458	16	USER	ありがとうございます。以上になります。	general,shopping,attraction,weather
+3458	17	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,attraction,weather

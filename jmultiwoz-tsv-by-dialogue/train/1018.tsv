@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1018	0	USER	東京へ旅行に行くのですが、駐車場無料の宿泊施設はありますか？予算は高めでお願いします	general,hotel,attraction
+1018	1	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,hotel,attraction
+1018	2	USER	予算が安めならありますか？	general,hotel,attraction
+1018	3	SYSTEM	はい、そうしますと1件ご案内可能です。つるや旅館というお値段がお安めの旅館ですが、いかがでしょうか？	general,hotel,attraction
+1018	4	USER	つるや旅館はエリアはどこでしょうか？Wi-Fiの有無と住所も教えて下さい	general,hotel,attraction
+1018	5	SYSTEM	エリアは墨田区です。WiFiについては、無しとなっております。住所は、東京都墨田区吾妻橋2丁目18-2です。	general,hotel,attraction
+1018	6	USER	わかりました、観光名所も探しているのですがWi-Fiが無料の施設はありますか？	general,hotel,attraction
+1018	7	SYSTEM	はい、19件ほど、ご案内可能です。例えば、日本科学未来館というところはいかがでしょうか？	general,hotel,attraction
+1018	8	USER	日本科学未来館の子供と大人の入場料を教えて下さい	general,hotel,attraction
+1018	9	SYSTEM	お子様の入場料は210円です。大人の場合は630円となります。	general,hotel,attraction
+1018	10	USER	わかりました、有難うございました	general,hotel,attraction
+1018	11	SYSTEM	他にお調べすることはございますか？	general,hotel,attraction
+1018	12	USER	他にはありません	general,hotel,attraction
+1018	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction

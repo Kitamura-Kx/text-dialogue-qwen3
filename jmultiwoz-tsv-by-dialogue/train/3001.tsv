@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3001	0	USER	那覇で買い物ができるところを探してください。最寄り駅が牧志駅が希望です。	general,shopping,restaurant,weather
+3001	1	SYSTEM	牧志駅の買い物スポットは２７件あります。追加の希望条件はありますか。	general,shopping,restaurant,weather
+3001	2	USER	特にありません。どこか提案してほしいです。	general,shopping,restaurant,weather
+3001	3	SYSTEM	それでは、沖縄らしく、おきなわ屋 泡盛蔵 国際店、こちらをお勧めします。	general,shopping,restaurant,weather
+3001	4	USER	よさそうです。ジャンル，定休日を教えてください。	general,shopping,restaurant,weather
+3001	5	SYSTEM	ジャンルは食料品、定休日はありません。	general,shopping,restaurant,weather
+3001	6	USER	続けて飲食店を探してください。地区は本庁、Wi-Fiが無料で利用できて、最寄り駅が旭橋駅のところにしてください。	general,shopping,restaurant,weather
+3001	7	SYSTEM	全ての条件を満たす飲食店は、ずばり、酒場KUMECHO、ここ一択です。	general,shopping,restaurant,weather
+3001	8	USER	定休日はいつでしょうか。	general,shopping,restaurant,weather
+3001	9	SYSTEM	不定休となっているようです。	general,shopping,restaurant,weather
+3001	10	USER	あとは天気を教えてください。日付は2/25、地区は真和志です。	general,shopping,restaurant,weather
+3001	11	SYSTEM	2/25 那覇 真和志 の天気は晴、最低気温13.1度、最高気温23.1度。真冬でも過ごしやすい感じですね。	general,shopping,restaurant,weather
+3001	12	USER	解決しました。ありがとうございました。	general,shopping,restaurant,weather

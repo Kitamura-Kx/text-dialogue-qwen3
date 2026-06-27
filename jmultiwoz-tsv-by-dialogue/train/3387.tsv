@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3387	0	USER	大阪へ旅行に行くので、飲食店を探してください。	general,restaurant,attraction
+3387	1	SYSTEM	大阪の飲食店ですと、101件該当があります。何か他の条件などございますか？	general,restaurant,attraction
+3387	2	USER	無料Wi-Fiが使えて、あと価格帯は普通のところがいいです。	general,restaurant,attraction
+3387	3	SYSTEM	大阪、価格帯が普通で無料wifiですと9件まで絞れました。炭火焼dining おかげ家 梅田店などはいかがでしょうか？	general,restaurant,attraction
+3387	4	USER	そこのお店は、駐車場がありますか？	general,restaurant,attraction
+3387	5	SYSTEM	駐車場はございません。	general,restaurant,attraction
+3387	6	USER	わかりました。あと、無料駐車場のある観光名所はないですか？	general,restaurant,attraction
+3387	7	SYSTEM	大阪の無料駐車場ありの観光名所は３件です。難波神社がその１つです。	general,restaurant,attraction
+3387	8	USER	難波神社行ってみようと思います。どのエリアにありますか？	general,restaurant,attraction
+3387	9	SYSTEM	承知しました。難波神社のエリアは中央区でございます。	general,restaurant,attraction
+3387	10	USER	わかりました。ありがとうございます。	general,restaurant,attraction
+3387	11	SYSTEM	他になんかご用件はございますか？	general,restaurant,attraction
+3387	12	USER	いえ、特にありません。ありがとうございました	general,restaurant,attraction
+3387	13	SYSTEM	ありがとうございました。	general,restaurant,attraction

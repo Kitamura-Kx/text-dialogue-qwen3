@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4794	0	USER	京都に旅行に行くので、普通のお値段位で、Wi-Fiが無料である飲食店を教えてください。	general,restaurant,shopping,taxi
+4794	1	SYSTEM	京都には、値段普通でWiFi無料の飲食店はなさそうです。	general,restaurant,shopping,taxi
+4794	2	USER	そうですか。なら、値段は特に指定しません。	general,restaurant,shopping,taxi
+4794	3	SYSTEM	京都でWiFi無料の飲食店は２件ありますが、いっかくじゅう 四条新町店をお勧めします。	general,restaurant,shopping,taxi
+4794	4	USER	そこにします。あと、駐車場を無料で利用できる、スポーツが買えるお店はありますか？	general,restaurant,shopping,taxi
+4794	5	SYSTEM	京都には駐車場無料のジャンルスポーツの買い物店はありません。	general,restaurant,shopping,taxi
+4794	6	USER	そうですか。ではスポーツではなくて食料品で調べてほしいです。	general,restaurant,shopping,taxi
+4794	7	SYSTEM	京都には、駐車場無料で食料品の買い物施設は２件ありますが、鶴屋𠮷信 本店をお勧めします。	general,restaurant,shopping,taxi
+4794	8	USER	そこにしようかな。住所と電話番号を教えてください。	general,restaurant,shopping,taxi
+4794	9	SYSTEM	住所は京都府京都市上京区今出川通堀川西入る、電話は0754410105です。	general,restaurant,shopping,taxi
+4794	10	USER	ありがとうございます。さいごに、キャッシュレス払いができるタクシー会社を調べてほしいです。	general,restaurant,shopping,taxi
+4794	11	SYSTEM	京都にはキャッシュレス対応のタクシーはなさそうです。	general,restaurant,shopping,taxi
+4794	12	USER	そうですか。では、キャッシュレス払いできなくても大丈夫です。	general,restaurant,shopping,taxi
+4794	13	SYSTEM	それでは、ユニオン株式会社をお勧めします。	general,restaurant,shopping,taxi
+4794	14	USER	そこにします。ジャンボタクシーは使えますか？あと、電話番号も知りたいです。	general,restaurant,shopping,taxi
+4794	15	SYSTEM	ジャンボタクシーは非対応、電話番号は、0756721872です。	general,restaurant,shopping,taxi
+4794	16	USER	わかりました。8/21の15:50に予約をお願いします。いっかくじゅう 四条新町店から鶴屋𠮷信 本店までです。	general,restaurant,shopping,taxi
+4794	17	SYSTEM	予約成功しました。予約番号は91689です。	general,restaurant,shopping,taxi
+4794	18	USER	いろいろありがとうございました。	general,restaurant,shopping,taxi

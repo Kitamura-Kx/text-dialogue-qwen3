@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+307	0	USER	よろしくおねがいします。	general,restaurant,weather
+307	1	SYSTEM	よろしくお願いいたします。	general,restaurant,weather
+307	2	USER	横浜への旅行を計画しています。当日食事ができるところを探しているのですが？	general,restaurant,weather
+307	3	SYSTEM	かしこまりました。114件ございますが、ご希望の条件はございますか。	general,restaurant,weather
+307	4	USER	予算は高めで構いません。西区にあるお店がいいのですが、ありますか？	general,restaurant,weather
+307	5	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,restaurant,weather
+307	6	USER	そうですか。では、西区ではなく神奈川区でしたらどうでしょう？	general,restaurant,weather
+307	7	SYSTEM	では満月いぶき 横浜鶴屋町はいかがでしょうか。	general,restaurant,weather
+307	8	USER	そちらのお店の電話番号はわかりますか？	general,restaurant,weather
+307	9	SYSTEM	電話番号は0455348859でございます。	general,restaurant,weather
+307	10	USER	では、予約をお願いします。	general,restaurant,weather
+307	11	SYSTEM	かしこまりました。ご希望の人数と日時を教えていただけますか。	general,restaurant,weather
+307	12	USER	はい。3人で、6/24。12：40でお願いします。	general,restaurant,weather
+307	13	SYSTEM	予約完了いたしました。予約番号は70680でございます。	general,restaurant,weather
+307	14	USER	ありがとうございます。	general,restaurant,weather
+307	15	SYSTEM	ほかにご用件はございませんか。	general,restaurant,weather
+307	16	USER	6/24の磯子区の最低気温はわかりますか？	general,restaurant,weather
+307	17	SYSTEM	最低気温は１7.3度となっております。	general,restaurant,weather
+307	18	USER	わかりました。ありがとうございます。	general,restaurant,weather
+307	19	SYSTEM	ほかにご用件はございませんか。	general,restaurant,weather
+307	20	USER	以上になります。	general,restaurant,weather

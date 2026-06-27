@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2835	0	USER	こんにちは。名古屋旅行を計画してるんですけど、熱田区で駐車場とWi-Fiが無料で使える宿泊施設ありませんか？	general,hotel,taxi
+2835	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel,taxi
+2835	2	USER	わかりました。じゃあ駐車場はなくてもいいので、Wi-Fiが無料で使える熱田区の宿泊施設を教えてください。	general,hotel,taxi
+2835	3	SYSTEM	ありがとうございます。サイプレスガーデンホテルはいかがでしょう？タイプはシティホテルとなります。	general,hotel,taxi
+2835	4	USER	ありがとうございます。そこにします。当日利用するタクシー会社も探してもらえますか？ジャンボタクシーが利用できるところがいいです。	general,hotel,taxi
+2835	5	SYSTEM	申し訳ありません、ジャンボタクシー対応のタクシー会社はございません。いかがされますか？	general,hotel,taxi
+2835	6	USER	そうなんですね。じゃあジャンボタクシーが使えなくても大丈夫なんですけど、何かありますか？	general,hotel,taxi
+2835	7	SYSTEM	名鉄交通第一はいかがでしょう？キャッシュレスには対応しております。電話番号は0570085255となります。	general,hotel,taxi
+2835	8	USER	ありがとうございます。そのタクシー会社で予約もお願いします。2/20の13:30、出発地はサイプレスガーデンホテルで、目的地はSUNSHINE SAKAEでお願いします。	general,hotel,taxi
+2835	9	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,hotel,taxi
+2835	10	USER	時間を14:20に変更した場合は可能ですか？	general,hotel,taxi
+2835	11	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、26618となります。他にご用件はございますか？	general,hotel,taxi
+2835	12	USER	ありがとうございます。これで全部です。案内ありがとうございました。	general,hotel,taxi
+2835	13	SYSTEM	ありがとうございました。	general,hotel,taxi

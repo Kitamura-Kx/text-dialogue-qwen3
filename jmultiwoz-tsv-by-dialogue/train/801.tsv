@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+801	0	USER	東京へ旅行予定なのですが、Wi-Fiが無料で、駐車場を無料利用できる観光名所を調べてください。	general,attraction
+801	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction
+801	2	USER	であれば、駐車場はなくてもかまいません。	general,attraction
+801	3	SYSTEM	ありがとうございます。そうしますと、19件ほどご案内可能です。たとえば、江戸東京博物館という場所にご興味ございませんか？	general,attraction
+801	4	USER	興味あります。そちらにしようと思います。営業時間を教えてください。	general,attraction
+801	5	SYSTEM	営業時間は、9:30～19:30でございます。	general,attraction
+801	6	USER	わかりました。ありがとうございます。	general,attraction
+801	7	SYSTEM	ほかにお調べすることはございますか？	general,attraction
+801	8	USER	はい、大丈夫です。	general,attraction
+801	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

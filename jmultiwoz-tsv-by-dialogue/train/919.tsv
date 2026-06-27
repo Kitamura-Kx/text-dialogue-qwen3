@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+919	0	USER	仙台への旅行を計画しているのですが。	general,restaurant,taxi
+919	1	SYSTEM	はい、なにかご希望ございますか。	general,restaurant,taxi
+919	2	USER	当日食事ができる飲食店を探してください。地区は太白区で、ジャンルは鍋でWi-Fiが無料で利用できるところにしてほしいです	general,restaurant,taxi
+919	3	SYSTEM	でしたら楽亭という場所はいかがでしょうか	general,restaurant,taxi
+919	4	USER	いいですね。そちらの店名，定休日，電話番号を教えて欲しいです。	general,restaurant,taxi
+919	5	SYSTEM	店名は楽亭で、定休日は火曜日、電話番号は0227960307になります。	general,restaurant,taxi
+919	6	USER	そちらを予約して欲しいです。人数は4人で日付は8/20で時間は14:10希望です。	general,restaurant,taxi
+919	7	SYSTEM	予約しました。予約番号は56801です。	general,restaurant,taxi
+919	8	USER	ありがとうございます。あとジャンボタクシーを利用できるタクシー会社も探して欲しいです。	general,restaurant,taxi
+919	9	SYSTEM	平和交通（株）はいかがでしょうか。	general,restaurant,taxi
+919	10	USER	そちらはキャッシュレス対応でしょうか。	general,restaurant,taxi
+919	11	SYSTEM	はい、対応しています。	general,restaurant,taxi
+919	12	USER	そこを予約してほしいです。日付は8/20で時間は12:50.出発地は先ほど見つけた飲食店で目的地は星乃珈琲店 仙台太白店でお願いします。	general,restaurant,taxi
+919	13	SYSTEM	予約しました。予約番号は26147になります。	general,restaurant,taxi
+919	14	USER	ありがとうございました。	general,restaurant,taxi

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4712	0	USER	札幌へ旅行予定なので、商店街があるか調べてほしいです。駐車場が無料で使えるところにしてください。	general,shopping,hotel
+4712	1	SYSTEM	札幌市中央卸売市場 場外市場がご紹介できます。	general,shopping,hotel
+4712	2	USER	そこにします。エリアと最寄り駅、営業時間を教えてください。	general,shopping,hotel
+4712	3	SYSTEM	中央区で、最寄りは二十四軒駅、営業時間は06:00～17:00です。	general,shopping,hotel
+4712	4	USER	ありがとうございます。宿泊施設も探しているのですが、駐車場とWi-Fiが無料で使えるいいところはありませんか？	general,shopping,hotel
+4712	5	SYSTEM	定山渓温泉 ぬくもりの宿 ふる川 定山渓第一寶亭留 翠山亭 ホテルルートイン札幌白石 JRタワーホテル日航札幌 定山渓万世閣ホテルミリオーネ 定山渓ビューホテルをご紹介できます	general,shopping,hotel
+4712	6	USER	定山渓温泉 ぬくもりの宿 ふる川にします。タイプとレストランの有無、あと料金情報が知りたいです。	general,shopping,hotel
+4712	7	SYSTEM	旅館タイプでレストランもございます。値段は安めです。	general,shopping,hotel
+4712	8	USER	了解です。ありがとうございました。	general,shopping,hotel
+4712	9	SYSTEM	ありがとうございました。	general,shopping,hotel

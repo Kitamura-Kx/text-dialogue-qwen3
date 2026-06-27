@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2869	0	USER	名古屋の飲食店を探しています。名古屋駅近くに郷土料理のお店はありますか？	general,restaurant
+2869	1	SYSTEM	名古屋駅近くの郷土料理といえば、ずばり、蒲郡桔梗屋がオススメです。	general,restaurant
+2869	2	USER	そのお店の料金情報も教えてください。	general,restaurant
+2869	3	SYSTEM	値段帯は安めになりますが、料金情報詳細は不明ですね。	general,restaurant
+2869	4	USER	では予約をお願いします。1/9の15時からで、4人での利用です。	general,restaurant
+2869	5	SYSTEM	蒲郡桔梗屋、1/9の15時から、4人、予約成功しました。予約番号は87569です。	general,restaurant
+2869	6	USER	ありがとうございます。助かりました！	general,restaurant

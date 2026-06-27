@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4065	0	USER	横浜への旅行を計画しています． 当日食事ができる飲食店を探してください．予算は高めが希望です．駐車場を無料で利用できるところでジャンルは和食がいいです。	general,restaurant,hotel
+4065	1	SYSTEM	うなぎ料理 しま村 青葉台店はいかがでしょうか。	general,restaurant,hotel
+4065	2	USER	そちらの定休日，営業時間，Wi-Fiの有無をおしてください。	general,restaurant,hotel
+4065	3	SYSTEM	定休日は火, 第二月, 第三月で、営業時間は11:00～15:00, 16:00～21:30、Wi-Fiの有無は不明です。	general,restaurant,hotel
+4065	4	USER	そちらで人数は2人．日付は8/30．時間は11:00で予約して欲しいです。	general,restaurant,hotel
+4065	5	SYSTEM	予約完了いたしました。予約番号は76269になります。	general,restaurant,hotel
+4065	6	USER	ありがとうございます。あと、当日泊まる宿泊施設を探してください．宿のタイプは旅館でWi-Fiと駐車場を無料で利用できるところがいいです	general,restaurant,hotel
+4065	7	SYSTEM	旅館 松島はいかがでしょうか。	general,restaurant,hotel
+4065	8	USER	そちらのレストランの有無，住所，電話番号を教えていただけますか。	general,restaurant,hotel
+4065	9	SYSTEM	レストランの有無は有り、住所は神奈川県横浜市南区蒔田町863、電話番号は0457312720です	general,restaurant,hotel
+4065	10	USER	ありがとうございます。	general,restaurant,hotel

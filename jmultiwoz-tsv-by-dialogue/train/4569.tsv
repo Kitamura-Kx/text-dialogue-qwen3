@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4569	0	USER	札幌へ旅行するのですが食料品のお店を探しています。駐車場無料で清田区にはありますか？	general,shopping,restaurant,attraction
+4569	1	SYSTEM	それでしたら、農家の茶屋自然満喫倶楽部はいかがですか？	general,shopping,restaurant,attraction
+4569	2	USER	いいですね。電話番号を教えて下さい。	general,shopping,restaurant,attraction
+4569	3	SYSTEM	電話番号は、0118836886になります。	general,shopping,restaurant,attraction
+4569	4	USER	ありがとうございます。厚別区でWIFIが無料の飲食店はありますか？	general,shopping,restaurant,attraction
+4569	5	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,shopping,restaurant,attraction
+4569	6	USER	わかりました。それではそれ以外の地区でも構いません。	general,shopping,restaurant,attraction
+4569	7	SYSTEM	では、誠寿司 本店はいかがですか？	general,shopping,restaurant,attraction
+4569	8	USER	値段帯はどんなもんですか？	general,shopping,restaurant,attraction
+4569	9	SYSTEM	値段帯は、安めとなっています。	general,shopping,restaurant,attraction
+4569	10	USER	ありがとうございます。それでは予約して下さい。4人で4/14で時間は12:20です。	general,shopping,restaurant,attraction
+4569	11	SYSTEM	予約出来ました。予約番号は、61044です。	general,shopping,restaurant,attraction
+4569	12	USER	ありがとうございます。西区で駐車場無料の観光名所も探しています。	general,shopping,restaurant,attraction
+4569	13	SYSTEM	1件みつかりました。白い恋人パークはいかがですか？	general,shopping,restaurant,attraction
+4569	14	USER	いいですね。そこの大人入場料金を知りたいのですが。	general,shopping,restaurant,attraction
+4569	15	SYSTEM	大人の入場料は、800円となっています。	general,shopping,restaurant,attraction
+4569	16	USER	助かりました！以上です。ありがとうございました。	general,shopping,restaurant,attraction
+4569	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant,attraction

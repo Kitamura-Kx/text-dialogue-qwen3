@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+148	0	USER	ホテルを探しているんですが、横浜のホテルで、相鉄フレッサイン 横浜駅東口というところは分かりますか？	general,hotel,restaurant,weather
+148	1	SYSTEM	はい、エリアでいうと神奈川区にございます。住所は横浜市神奈川区金港町5-10、電話番号は、0452852031、最寄りの横浜駅から徒歩で2分となります。	general,hotel,restaurant,weather
+148	2	USER	そのホテル、何時からチェックインできますかね？	general,hotel,restaurant,weather
+148	3	SYSTEM	はい、チェックイン開始時刻は15時、チェックアウト終了時刻は11時となります。	general,hotel,restaurant,weather
+148	4	USER	飲食店も探してもらえますか？きじま 新横浜店というお店がいいって聞いたんですけど。	general,hotel,restaurant,weather
+148	5	SYSTEM	承知致しました。きじま 新横浜店のエリアは港北区、住所は横浜市港北区新横浜3丁目3-4 プリンスホテル 2階、電話番号は、0454700828、営業時間は11時から22時、最寄りの新横浜駅から徒歩で2分となっております。	general,hotel,restaurant,weather
+148	6	USER	よくわかりました。ちなみにこのお店、値段帯としてはどのぐらいですか？	general,hotel,restaurant,weather
+148	7	SYSTEM	はい、値段帯は普通となっております。	general,hotel,restaurant,weather
+148	8	USER	高級店じゃなくて安心しました。あと服装も心配なんで、6月26日の都筑区の気温とか分かりますか？	general,hotel,restaurant,weather
+148	9	SYSTEM	はい、当日の天気は雨のち曇、最低気温19度、最高気温26.1度となります。	general,hotel,restaurant,weather
+148	10	USER	うわ、微妙だなあ、半袖でいいかなあ。いろいろ調べてもらってありがとうございました。お世話になりました。	general,hotel,restaurant,weather

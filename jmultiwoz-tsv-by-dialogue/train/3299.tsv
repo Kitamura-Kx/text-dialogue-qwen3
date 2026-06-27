@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3299	0	USER	こんにちは。東京に行くのですが、Wi-Fiが無料で使える、寿司・魚料理のお店はないですか？	general,restaurant
+3299	1	SYSTEM	東京でWiFi無料の寿司魚料理はいくつかありますが、せっかくの東京なので、銀座 魚ばか、こちらをオススメします。	general,restaurant
+3299	2	USER	銀座！いいですね。そこのエリアと営業時間、値段帯を教えてください。	general,restaurant
+3299	3	SYSTEM	エリアは中央区、夕方５時半から夜１１時までの営業、値段帯は銀座という場所柄、高めになります。	general,restaurant
+3299	4	USER	ありがとうございました。	general,restaurant
+3299	5	SYSTEM	よい旅を	general,restaurant

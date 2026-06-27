@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3249	0	USER	福岡への旅行を検討しています。当日買い物が出来る施設を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,shopping
+3249	1	SYSTEM	はい、ご希望をどうぞ	general,shopping
+3249	2	USER	はい、駐車場を無料で利用できる商店街を探しています。	general,shopping
+3249	3	SYSTEM	駐車場無料の商店街となるとヒットしません	general,shopping
+3249	4	USER	そうですか、でしたら、商店街ではなく、文房具・雑貨の取り扱いのあるお店はありますか？	general,shopping
+3249	5	SYSTEM	いくつかありますが、ポケモンセンターフクオカ、こちらをオススメします。	general,shopping
+3249	6	USER	なるほど。そこで検討してみようと思います。このお店の営業時間を教えて頂けますか？	general,shopping
+3249	7	SYSTEM	朝１０時から、夜８時までです	general,shopping
+3249	8	USER	助かります。定休日とかってわかりますか？	general,shopping
+3249	9	SYSTEM	定休日はありません	general,shopping
+3249	10	USER	ありがとうございます。引き続き検討します。ご対応、ありがとうございました。	general,shopping
+3249	11	SYSTEM	よい旅を	general,shopping

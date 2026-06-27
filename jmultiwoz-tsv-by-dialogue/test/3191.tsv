@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3191	0	USER	大阪への旅行を計画中で、観光名所を探しています。	general,attraction,shopping,weather
+3191	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,attraction,shopping,weather
+3191	2	USER	はい、最寄り駅が鶴見緑地駅で、無料駐車場のある観光名所を探しています。	general,attraction,shopping,weather
+3191	3	SYSTEM	かしこまりました。では、鶴見緑地湯元 水春はいかがでしょうか？	general,attraction,shopping,weather
+3191	4	USER	そこにしようと思います。大人入場料と料金情報、電話番号はわかりますか？	general,attraction,shopping,weather
+3191	5	SYSTEM	申し訳ございません。大人入場料は不明となっております。料金情報としては、大人 (中学生以上)が平日のご入浴だと820円で、土日・祝のご入浴だと920円になります。また、平日の岩盤処は920円で、土日・祝の岩盤処だと1,020円です。小人 (小学生)は平日のご入浴 410円で、土日・祝 ご入浴 460円です。また、平日 岩盤処 610円で、土日・祝の岩盤処は710円です。あと、電話番号は0642571126になります。	general,attraction,shopping,weather
+3191	6	USER	ありがとうございます。当日、阿倍野区で買い物をできる場所を探しています。無料駐車場付きが良いです	general,attraction,shopping,weather
+3191	7	SYSTEM	かしこまりました。では、あべのキューズモールはいかがでしょうか？	general,attraction,shopping,weather
+3191	8	USER	そこにしようと思います。営業時間はわかりますか？	general,attraction,shopping,weather
+3191	9	SYSTEM	はい。10:00～21:00です。	general,attraction,shopping,weather
+3191	10	USER	ありがとうございます。12/31の東淀川区の天候を知りたいです。	general,attraction,shopping,weather
+3191	11	SYSTEM	かしこまりました。12/31の東淀川区の天気予報は晴のち曇となっております。最低気温は2.7度、最高気温は14.8度になる予報です。	general,attraction,shopping,weather
+3191	12	USER	非常に助かります。ありがとうございます。	general,attraction,shopping,weather
+3191	13	SYSTEM	ほかにお調べすることはありますか？	general,attraction,shopping,weather
+3191	14	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,shopping,weather
+3191	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,weather
+3191	16	USER	それでは、失礼します。	general,attraction,shopping,weather

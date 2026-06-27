@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4562	0	USER	京都へ旅行するのですがレストラン併設の宿泊施設を探しています。	general,hotel,weather,taxi
+4562	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,hotel,weather,taxi
+4562	2	USER	なるほど！それではレストランがなくてもいいところがあれば紹介して下さい。	general,hotel,weather,taxi
+4562	3	SYSTEM	それでしたら、藤ホテル京都五条はいかがですか？	general,hotel,weather,taxi
+4562	4	USER	お値段はどれくらいですか？	general,hotel,weather,taxi
+4562	5	SYSTEM	値段帯は、安め以外の料金の記載はございません。	general,hotel,weather,taxi
+4562	6	USER	そうなんですね！11月1日の東山区の最低気温はどんな感じでしょう？	general,hotel,weather,taxi
+4562	7	SYSTEM	その日の最低気温は、6.1度です。	general,hotel,weather,taxi
+4562	8	USER	ありがとうございます。キャッシュレス対応のジャンボタクシーはありますか？	general,hotel,weather,taxi
+4562	9	SYSTEM	それでしたら、洛東タクシー株式会社はいかがですか？	general,hotel,weather,taxi
+4562	10	USER	ありがとうございます。ホテル近江屋から藤ホテル京都五条まで11/1に12:30で予約可能ですか？	general,hotel,weather,taxi
+4562	11	SYSTEM	予約出来ました。予約番号は、15559です。	general,hotel,weather,taxi
+4562	12	USER	ありがとうございます。とりあえず電話番号も聞いておいていいですか？	general,hotel,weather,taxi
+4562	13	SYSTEM	はい、電話番号は0755931112です。	general,hotel,weather,taxi
+4562	14	USER	助かりました！以上です。ありがとうございました。	general,hotel,weather,taxi
+4562	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather,taxi

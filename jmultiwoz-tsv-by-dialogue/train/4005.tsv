@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4005	0	USER	那覇へ医薬品や化粧品の買い物をしに行く予定なのですが、駐車場を無料で利用できるような店はありませんか？	general,shopping
+4005	1	SYSTEM	お待たせ致しました。それではコジマ×ビックカメラ那覇店はいかがでしょうか？	general,shopping
+4005	2	USER	そこにします。最寄り駅と営業時間を知りたいです。	general,shopping
+4005	3	SYSTEM	ありがとうございます。最寄り駅は古島駅、営業時間は10時から21時でございます。	general,shopping
+4005	4	USER	わかりました。ありがとうございます。	general,shopping
+4005	5	SYSTEM	その他にご用件はございますか？	general,shopping
+4005	6	USER	いえ、ありません。	general,shopping
+4005	7	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping

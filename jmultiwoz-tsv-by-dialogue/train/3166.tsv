@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3166	0	USER	福岡に行く予定ですなのですが、タクシー会社を探してもらえますか？	general,taxi
+3166	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,taxi
+3166	2	USER	ジャンボタクシーを利用したいと思っています。	general,taxi
+3166	3	SYSTEM	それでしたら、福岡昭和タクシー（株）はいかがですか？	general,taxi
+3166	4	USER	ありがとうございます。そちらで予約お願いできますか？	general,taxi
+3166	5	SYSTEM	はい。日付と出発時刻、出発地と目的地等を教えていただけますか？	general,taxi
+3166	6	USER	５月２０日の10:50に、Le marchand de bonheurからヨドバシ博多までお願いします。	general,taxi
+3166	7	SYSTEM	午前10時50分でよろしかったですか？	general,taxi
+3166	8	USER	はい。午前でお願いします。	general,taxi
+3166	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、4992です。	general,taxi
+3166	10	USER	ありがとうございました。	general,taxi
+3166	11	SYSTEM	ほかにお調べすることはございませんか？	general,taxi
+3166	12	USER	大丈夫です。ありがとうございました。	general,taxi
+3166	13	SYSTEM	承知しました。ありがとうございました。	general,taxi

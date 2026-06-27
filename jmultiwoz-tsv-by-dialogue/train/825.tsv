@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+825	0	USER	那覇へ行く予定なんですが。	general,restaurant
+825	1	SYSTEM	ご利用ありがとうございます。本日はどんなご案内をいたしましょうか？	general,restaurant
+825	2	USER	飲食店を探してほしくて。本庁地区でイタリアン・フレンチのおすすめなお店はありますか？駐車場が無料で利用できるところが理想です。	general,restaurant
+825	3	SYSTEM	では、ポルコロッソというお店はいかがでしょうか？	general,restaurant
+825	4	USER	料金はどのような感じですか？	general,restaurant
+825	5	SYSTEM	お値段帯はお安めとなっております。たとえば、明太子のカルボナーラ950円、カルボナーラ風グラタン1080円、いろいろキノコのオム・ストロガノフセット1080円といったものがございます。	general,restaurant
+825	6	USER	わかりました。ありがとうございます。	general,restaurant
+825	7	SYSTEM	他にお知りになりたい情報はございませんか？	general,restaurant
+825	8	USER	特にありません。	general,restaurant
+825	9	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+636	0	USER	横浜に行くのですが、どこか泊まれるところを探しています。	general,hotel,weather,taxi
+636	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,weather,taxi
+636	2	USER	レストランが併設されている旅館がいいです。	general,hotel,weather,taxi
+636	3	SYSTEM	申し訳ございません。その条件ですと案内できるところがございません。いかがなさいますか。	general,hotel,weather,taxi
+636	4	USER	では、レストランはなくてもいいです。	general,hotel,weather,taxi
+636	5	SYSTEM	では旅館 皆楽園はいかがでしょうか。	general,hotel,weather,taxi
+636	6	USER	ではそちらの予約をお願いします。8/10の２名で４泊、予約できますでしょうか。	general,hotel,weather,taxi
+636	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は89640でございます。	general,hotel,weather,taxi
+636	8	USER	ありがとうございます。当日の天気は分かりますか？8/10の西区です。	general,hotel,weather,taxi
+636	9	SYSTEM	天気は雨のち晴でございます。	general,hotel,weather,taxi
+636	10	USER	ありがとうございます。あと、当日タクシーを利用したいのですが、キャッシュレス払いができるところはありますか？	general,hotel,weather,taxi
+636	11	SYSTEM	国際自動車株式会社がキャッシュレスに対応しております。	general,hotel,weather,taxi
+636	12	USER	そこにします。そちらはジャンボタクシーに対応していますか？	general,hotel,weather,taxi
+636	13	SYSTEM	はい。ジャンボタクシーにも対応しております。	general,hotel,weather,taxi
+636	14	USER	助かります。では、予約もお願いできますか？8/10の13:40で、パイ ホリックから旅館 皆楽園までお願いいたします。	general,hotel,weather,taxi
+636	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は81595でございます。	general,hotel,weather,taxi
+636	16	USER	ありがとうございました。以上です、お世話になりました。	general,hotel,weather,taxi
+636	17	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather,taxi

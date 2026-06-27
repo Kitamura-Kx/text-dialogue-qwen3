@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+303	0	USER	恐れ入ります。京都旅行を計画しているのですが、当日買い物ができる場所を探すのを手伝ってもらえますか？	general,shopping
+303	1	SYSTEM	承知しました。どのような場所がご希望でしょうか	general,shopping
+303	2	USER	お土産を買えるお店が良いです。下京区の辺りでありますでしょうか？	general,shopping
+303	3	SYSTEM	その条件ですと、ポケモンセンターキョウトなどはいかがでしょうか	general,shopping
+303	4	USER	面白そうですね。営業時間は何時から何時までですか？	general,shopping
+303	5	SYSTEM	営業時間は10:00～20:00までとなっています。	general,shopping
+303	6	USER	分かりました。今日聞きたかったのは、以上です。	general,shopping
+303	7	SYSTEM	ありがとうございました。	general,shopping

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4998	0	USER	京都へ観光に行くとき、ひさごというお店でご飯を食べたいです。値段帯はどれくらいか教えてください。	general,restaurant
+4998	1	SYSTEM	ひさごの値段帯は安めです。	general,restaurant
+4998	2	USER	ありがとうございます。ちなみにそのお店は駐車場はありますか？	general,restaurant
+4998	3	SYSTEM	駐車場の有無は不明です。	general,restaurant
+4998	4	USER	わかりました。ありがとうございます。	general,restaurant
+4998	5	SYSTEM	承知いたしました。他に何かご希望はありますか？	general,restaurant
+4998	6	USER	もうないです。	general,restaurant

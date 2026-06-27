@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+477	0	USER	札幌への旅行を考えているのですが、利用できるタクシー会社はありますか？	general,taxi
+477	1	SYSTEM	ご利用ありがとうございます。20件ほどご案内可能ですが、ジャンボタクシーなどのご希望はございませんか？	general,taxi
+477	2	USER	はい。キャッシュレス払いができて、ジャンボタクシーを利用できるところにしてください。	general,taxi
+477	3	SYSTEM	かしこまりました。北都交通(株)でしたら、両方に対応しております。	general,taxi
+477	4	USER	了解です。電話番号を知りたいです。	general,taxi
+477	5	SYSTEM	電話番号は、0112904181でございます。ご予約なさいますか？	general,taxi
+477	6	USER	はい。5/5の10:40で、出発地はSappolodgeから、目的地は蕎麦切り 春のすけで予約をお願いします。	general,taxi
+477	7	SYSTEM	かしこまりました。ご予約番号51718にて、予約承りました。	general,taxi
+477	8	USER	わかりました。ありがとうございます。	general,taxi
+477	9	SYSTEM	他になにかお調べすることなどございませんか？	general,taxi
+477	10	USER	大丈夫です。ありがとうございました。	general,taxi
+477	11	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,taxi

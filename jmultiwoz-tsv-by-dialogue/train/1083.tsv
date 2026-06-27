@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1083	0	USER	那覇への旅行を計画しているのですが。	general,shopping
+1083	1	SYSTEM	はい。お問合せありがとうございます。	general,shopping
+1083	2	USER	当日買い物ができるところを探してください．駐車場を無料で利用できるところがいいです。	general,shopping
+1083	3	SYSTEM	トイザらス・ベビーザらス 那覇新都心店はいかがでしょうか。	general,shopping
+1083	4	USER	いいですね。そちらの住所、定休日も教えていただけますか。	general,shopping
+1083	5	SYSTEM	住所は沖縄県那覇市おもろまち3丁目3-3 あっぷるタウン 1Fで定休日は無しです。	general,shopping
+1083	6	USER	ありがとうございました。	general,shopping

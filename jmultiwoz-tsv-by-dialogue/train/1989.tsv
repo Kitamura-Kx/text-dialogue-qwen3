@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1989	0	USER	京都への旅行を計画しています．	general,hotel
+1989	1	SYSTEM	はい。お問合せありがとうございます。	general,hotel
+1989	2	USER	当日泊まる宿泊施設を探してください．予算は普通が希望で駐車場を無料で利用できるところがいいです。	general,hotel
+1989	3	SYSTEM	なごみ宿 都和はいかがでしょうか。	general,hotel
+1989	4	USER	そちらの住所，電話番号，料金情報を教えていただけますか。	general,hotel
+1989	5	SYSTEM	住所は京都府京都市下京区東中筋通七条上る文覚町395で、電話番号は0753715421、料金情報は不明です。	general,hotel
+1989	6	USER	ありがとうございます。	general,hotel

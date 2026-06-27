@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1452	0	USER	札幌へ旅行に行くんですが、観光名所を探していただけますか？	general,attraction,taxi
+1452	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,taxi
+1452	2	USER	南区でWi-Fiが無料のところでお願いします！	general,attraction,taxi
+1452	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,taxi
+1452	4	USER	では、Wi-Fiはなくても大丈夫です！	general,attraction,taxi
+1452	5	SYSTEM	では豊平峡ダムはいかがでしょうか。	general,attraction,taxi
+1452	6	USER	いいですね！駐車場はありますか？	general,attraction,taxi
+1452	7	SYSTEM	無料の駐車場がございます。	general,attraction,taxi
+1452	8	USER	ありがとうございます。続けてですみませんが、ジャンボタクシーを利用できるタクシー会社を探していただけますか？キャッシュレス払いをしたいです。	general,attraction,taxi
+1452	9	SYSTEM	では北広島第一交通(株)がございます。	general,attraction,taxi
+1452	10	USER	電話番号は分かりますか？	general,attraction,taxi
+1452	11	SYSTEM	電話番号は0118115151でございます。	general,attraction,taxi
+1452	12	USER	では予約をお願いします！豊平峡ダムから、天ぷら倶楽部 北郷店まで乗りたいです！	general,attraction,taxi
+1452	13	SYSTEM	かしこまりました。では、予約の日時を教えていただけますか。	general,attraction,taxi
+1452	14	USER	7/17の13:30でお願いします。	general,attraction,taxi
+1452	15	SYSTEM	はい。予約が完了いたしました。予約番号は27684でございます。	general,attraction,taxi
+1452	16	USER	色々とありがとうございました。	general,attraction,taxi
+1452	17	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi

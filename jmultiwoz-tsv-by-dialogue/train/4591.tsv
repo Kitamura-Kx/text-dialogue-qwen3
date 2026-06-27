@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4591	0	USER	札幌への旅行を計画しています． 当日食事ができる飲食店を探してください．最寄り駅が北24条駅のところにしてください．予算は普通が希望です．駐車場を無料で利用できるところがいいです。	general,restaurant,shopping,weather
+4591	1	SYSTEM	しゃぶしゃぶ温野菜 北24条店はいかがでしょうか。	general,restaurant,shopping,weather
+4591	2	USER	近辺の駅からの所要時間，営業時間を教えていただけますか。	general,restaurant,shopping,weather
+4591	3	SYSTEM	近辺の駅からの所要時間は北24条駅から徒歩で1分、営業時間 16:00～00:00です。	general,restaurant,shopping,weather
+4591	4	USER	ありがとうございます。あと、当日買い物ができるところを探してください．駐車場を無料で利用できるところにしてください．	general,restaurant,shopping,weather
+4591	5	SYSTEM	札幌ステラプレイスはいかがでしょうか。	general,restaurant,shopping,weather
+4591	6	USER	そちらの住所を教えていただけますか。	general,restaurant,shopping,weather
+4591	7	SYSTEM	住所は北海道札幌市中央区北5条西2丁目になります。	general,restaurant,shopping,weather
+4591	8	USER	ありがとうございます。あと、12/16の豊平区の天気と西国気温も教えていただけますか。	general,restaurant,shopping,weather
+4591	9	SYSTEM	最高気温であれば、-3.5度です。天気は晴れです。	general,restaurant,shopping,weather
+4591	10	USER	ありがとうございます。	general,restaurant,shopping,weather

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+510	0	USER	京都の下京区で買い物ができるところを探してください。	general,shopping,weather
+510	1	SYSTEM	承知しました。エリアなどのご希望はございますか？	general,shopping,weather
+510	2	USER	駐車場が無料で利用できるといいのですが。	general,shopping,weather
+510	3	SYSTEM	ありがとうございます。3件ございます。京扇堂、画箋堂、大丸京都店です。	general,shopping,weather
+510	4	USER	では、京扇堂の営業時間を教えてもらえますか？定休日があればそれも教えてください。	general,shopping,weather
+510	5	SYSTEM	承知しました。営業時間は9時から17時、定休日は年末年始となります。	general,shopping,weather
+510	6	USER	ありがとうございます。あと、2/18の南区の気温はわかりますか？	general,shopping,weather
+510	7	SYSTEM	はい、天気は晴のち曇、最低気温8.1度、最高気温12度となります。	general,shopping,weather
+510	8	USER	わかりました。どうもありがとうございました。	general,shopping,weather

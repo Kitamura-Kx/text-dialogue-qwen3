@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1264	0	USER	東京で無料駐車場があるショッピングスポットを探しているんですが、調べて頂けませんか？	general,shopping,attraction,weather
+1264	1	SYSTEM	かしこまりました。恐れ入ります。ショッピングスポットと申しますと、ショッピングモールをご指定でしょうか？	general,shopping,attraction,weather
+1264	2	USER	買い物できる場所ならどこでもいいです。	general,shopping,attraction,weather
+1264	3	SYSTEM	かしこまりました。では、大丸東京店は如何でしょうか？東京駅から徒歩1分の、百貨店、総合スーパーでございます。	general,shopping,attraction,weather
+1264	4	USER	その店のエリアも教えてください。	general,shopping,attraction,weather
+1264	5	SYSTEM	エリアは千代田区になります。	general,shopping,attraction,weather
+1264	6	USER	分かりました。ついでに、観光名所の情報も欲しいんですが。江東区で無料Wifiがある場所を探してください。	general,shopping,attraction,weather
+1264	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できる観光名所が見つかりませんでした。	general,shopping,attraction,weather
+1264	8	USER	地区の条件の除いてもう1度調べてもらってもいいですか？	general,shopping,attraction,weather
+1264	9	SYSTEM	ありがとうございます。そうしますと15件、ご案内可能です。例えば、国立新美術館という港区エリアの施設はいかがでしょうか？	general,shopping,attraction,weather
+1264	10	USER	いいですね。そちらにします。また、天気情報も知りたいんですけど。1/5、文京区の最低気温と天気を教えてください。	general,shopping,attraction,weather
+1264	11	SYSTEM	かしこまりました。当日の最高気温は11.8度、天気は曇りのち晴れの予報です。	general,shopping,attraction,weather
+1264	12	USER	ありがとうございます！助かりました。	general,shopping,attraction,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4309	0	USER	那覇へ旅行に行く予定なので、レストランがあってWi-Fiが無料で使える宿泊施設を探してください	general,hotel,weather
+4309	1	SYSTEM	かしこまりました。それではホテルアザット那覇はいかがでしょうか？	general,hotel,weather
+4309	2	USER	チェックイン開始時刻と値段帯と電話番号を教えてください	general,hotel,weather
+4309	3	SYSTEM	はい、チェックイン開始時刻は15時でして、値段帯は安めです。そして電話番号は0988630888です。	general,hotel,weather
+4309	4	USER	じゃあ12/17に二名で二泊の予約をお願いします	general,hotel,weather
+4309	5	SYSTEM	お待たせ致しました。予約番号10298でお取りさせていただきました。	general,hotel,weather
+4309	6	USER	ありがとうございます。あと真和志の12/17の最高気温を教えてください	general,hotel,weather
+4309	7	SYSTEM	はい、当日の真和志の最高気温は22.4度の予報でございます。	general,hotel,weather
+4309	8	USER	了解です。ありがとうございました！	general,hotel,weather
+4309	9	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,weather

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3273	0	USER	大阪で買い物をしたいと思っていますが、梅田駅付近で駐車場が無料のところを探してください。	general,shopping
+3273	1	SYSTEM	MARUZEN&ジュンク堂書店 梅田店は、いかがですか？	general,shopping
+3273	2	USER	梅田駅からの所要時間を教えてください。	general,shopping
+3273	3	SYSTEM	所要時間は、梅田駅から徒歩で3分です。	general,shopping
+3273	4	USER	わかりました。ありがとうございます。	general,shopping
+3273	5	SYSTEM	他にご用件はありますか？	general,shopping
+3273	6	USER	いいえ、もう大丈夫です。ありがとうございました。	general,shopping
+3273	7	SYSTEM	承知致しました。ありがとうございました。	general,shopping

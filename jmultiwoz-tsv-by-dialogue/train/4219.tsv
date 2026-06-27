@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4219	0	USER	仙台へ旅行に行くのですが、青葉区でカレーのお店を探してください。	general,restaurant
+4219	1	SYSTEM	かしこまりました。そうしますと、伊達の牛たん本舗 本店というところが、1件ご案内可能です。	general,restaurant
+4219	2	USER	そちらはWi-Fiが無料で利用できますか？	general,restaurant
+4219	3	SYSTEM	はい、無料でご利用いただけます。	general,restaurant
+4219	4	USER	11月22日の10:40に4人で行くので、予約お願いします。	general,restaurant
+4219	5	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,restaurant
+4219	6	USER	では人数を3人に変更します。	general,restaurant
+4219	7	SYSTEM	ありがとうございます。3名様にて、ご予約完了いたしました。予約番号は、75223です。	general,restaurant
+4219	8	USER	ありがとうございます。	general,restaurant
+4219	9	SYSTEM	他にお手伝いすることはございませんか？	general,restaurant
+4219	10	USER	いえ、大丈夫です。ありがとうございます。	general,restaurant
+4219	11	SYSTEM	承知いたしました。お役に立てて何よりです。また何かございましたら、お気軽にお問い合わせください。	general,restaurant

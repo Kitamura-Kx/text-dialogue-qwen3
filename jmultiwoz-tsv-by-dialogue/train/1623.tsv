@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1623	0	USER	こんにちは。東京に旅行するので、宿泊場所を探してもらえますか？	general,hotel,taxi
+1623	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,hotel,taxi
+1623	2	USER	ビジネスホテルで、レストランがあって、Wi-Fiが無料の場所にしてください	general,hotel,taxi
+1623	3	SYSTEM	かしこまりました。では、ハートンホテル東品川はいかがでしょうか？品川区エリアにあるお安めのビジネスホテルでございます。	general,hotel,taxi
+1623	4	USER	そこにします。電話番号は分かりますか？	general,hotel,taxi
+1623	5	SYSTEM	はい。電話番号は、0354950810です。	general,hotel,taxi
+1623	6	USER	ありがとうございます。では、3月2日に3人、2泊で予約もお願いできますか？	general,hotel,taxi
+1623	7	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、42022でございます。	general,hotel,taxi
+1623	8	USER	ありがとうございます。では、ジャンボタクシーが利用できるタクシー会社を探して欲しいのですが、ありますか？	general,hotel,taxi
+1623	9	SYSTEM	はい、ございます。東京エムケイというは、いかがでしょうか？	general,hotel,taxi
+1623	10	USER	そうします。では、電話番号を教えてください	general,hotel,taxi
+1623	11	SYSTEM	かしこまりました。電話番号は、0355475551です。	general,hotel,taxi
+1623	12	USER	予約もお願いしたいのですが、3月2日、9時40分に、パーク ハイアット 東京から先ほどのホテルまで可能ですか？	general,hotel,taxi
+1623	13	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,hotel,taxi
+1623	14	USER	時間を10時40分にすると、どうでしょうか？	general,hotel,taxi
+1623	15	SYSTEM	ありがとうございます。10時40分パーク ハイアット 東京発、ハートンホテル東品川着にてご予約完了いたしました。予約番号は、14719です。	general,hotel,taxi
+1623	16	USER	ありがとうございます。助かりました。	general,hotel,taxi
+1623	17	SYSTEM	他になにかお調べすることはございますか？	general,hotel,taxi
+1623	18	USER	いえ、以上です	general,hotel,taxi
+1623	19	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,hotel,taxi

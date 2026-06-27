@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1035	0	USER	那覇への旅行予定なのですが、真和志で駐車場を無料利用できる買い物できる場所はありますか？	general,shopping
+1035	1	SYSTEM	タウンプラザかねひで与儀公園市場は、いかがでしょうか？	general,shopping
+1035	2	USER	そこにします。最寄り駅とジャンルを教えてください。	general,shopping
+1035	3	SYSTEM	最寄り駅は、安里駅です。　ジャンルは、スーパーマーケットです。	general,shopping
+1035	4	USER	わかりました。ありがとうございます。	general,shopping
+1035	5	SYSTEM	他にご用件はございますか？	general,shopping
+1035	6	USER	いえ、大丈夫です。	general,shopping
+1035	7	SYSTEM	承知致しました。　ありがとうございました。	general,shopping

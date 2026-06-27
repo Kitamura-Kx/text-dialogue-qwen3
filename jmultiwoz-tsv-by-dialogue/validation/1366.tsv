@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1366	0	USER	名古屋へ旅行に行くので、観光名所を探してください。	general,attraction,weather
+1366	1	SYSTEM	名古屋の観光名所ですね。エリアなど、何かご希望はございますか？	general,attraction,weather
+1366	2	USER	エリアは天白区で、駐車場を無料で利用できるところにしてください。	general,attraction,weather
+1366	3	SYSTEM	かしこまりました。そうしますと、荒木集成館は如何でしょうか？ジャンルは、美術館・博物館となっております。	general,attraction,weather
+1366	4	USER	そこの電話番号を教えてください。	general,attraction,weather
+1366	5	SYSTEM	電話番号は、0528022531でございます。	general,attraction,weather
+1366	6	USER	ありがとうございます。あと9/8の天白区の天候を知りたいです。	general,attraction,weather
+1366	7	SYSTEM	かしこまりました。当日の天気は、雨時々曇の予報です。最低気温は22.7度、最高気温は33.2度の予想となっております。	general,attraction,weather
+1366	8	USER	ありがとうございました。以上です。	general,attraction,weather
+1366	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,weather

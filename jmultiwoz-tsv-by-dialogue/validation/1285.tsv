@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1285	0	USER	那覇に行く予定ですが、首里で食料品を買えるお店はありますか。	general,shopping
+1285	1	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,shopping
+1285	2	USER	では本庁にはありますか。	general,shopping
+1285	3	SYSTEM	はい、9件ご案内可能です。例えば、謝花きっぱん店というお店はいかがでしょうか？	general,shopping
+1285	4	USER	ありがとうございます。営業時間を教えてください。	general,shopping
+1285	5	SYSTEM	営業時間は、9:30～17:00でございます。	general,shopping
+1285	6	USER	ありがとうございました。	general,shopping

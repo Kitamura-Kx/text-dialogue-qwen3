@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2187	0	USER	横浜への旅行を計画しているのですが、最寄り駅が日本大通り駅の観光名所はありますでしょうか。	general,attraction,hotel,taxi
+2187	1	SYSTEM	かしこまりました。その条件でしたら、横浜開港資料館はいかがでしょうか？	general,attraction,hotel,taxi
+2187	2	USER	そちらは、Wi-Fiが無料で利用できますか？	general,attraction,hotel,taxi
+2187	3	SYSTEM	申し訳ございません。Wi-Fiの設備については分かりません。	general,attraction,hotel,taxi
+2187	4	USER	では、申し訳ありませんが、再度Wi-Fiが無料で利用できるところを探してください。	general,attraction,hotel,taxi
+2187	5	SYSTEM	かしこまりました。それでは象の鼻テラスはいかがでしょうか？	general,attraction,hotel,taxi
+2187	6	USER	そちらのエリアはどこになりますでしょうか。	general,attraction,hotel,taxi
+2187	7	SYSTEM	はい、エリアは中区でございます。	general,attraction,hotel,taxi
+2187	8	USER	ありがとうございます。そこにしたいと思います。当日泊まる施設も探してほしいです。予算高めでお願いします。	general,attraction,hotel,taxi
+2187	9	SYSTEM	かしこまりました。それではインターコンチネンタル横浜Pier8はいかがでしょうか？	general,attraction,hotel,taxi
+2187	10	USER	駐車場とWi-Fiが無料で利用できますか？	general,attraction,hotel,taxi
+2187	11	SYSTEM	申し訳ございません、どちらも有料でご利用いただけます。	general,attraction,hotel,taxi
+2187	12	USER	では、駐車場は有料でも構わないので、Wi-Fiが無料で利用できるところをお願いします。	general,attraction,hotel,taxi
+2187	13	SYSTEM	その条件ですと、ザ・カハラ・ホテル&リゾート 横浜がございます。	general,attraction,hotel,taxi
+2187	14	USER	ありがとうございます。そこにします。当日はタクシーを使いたいのですが、ジャンボタクシーを利用できる会社はありますか。	general,attraction,hotel,taxi
+2187	15	SYSTEM	かしこまりました。それでは株式会社グリーンキャブはいかがでしょうか？	general,attraction,hotel,taxi
+2187	16	USER	そちらの電話番号と、キャッシュレス対応があるかを教えてください。	general,attraction,hotel,taxi
+2187	17	SYSTEM	はい、電話番号は0456638181でして、キャッシュレスにも対応しております。	general,attraction,hotel,taxi
+2187	18	USER	では、5月28日の16時30分に象の鼻テラスからザ・カハラ・ホテル&リゾート 横浜まで予約をお願いします	general,attraction,hotel,taxi
+2187	19	SYSTEM	かしこまりました。予約番号62432でお取りさせていただきました。	general,attraction,hotel,taxi
+2187	20	USER	いろいろとお世話になりました。ありがとうございました。	general,attraction,hotel,taxi

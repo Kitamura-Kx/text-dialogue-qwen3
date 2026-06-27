@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+904	0	USER	名古屋へ旅行に行くのですが予算は高めの簡易宿泊所はありますか？	general,hotel,taxi
+904	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,taxi
+904	2	USER	予算はこだわらなければありますか？	general,hotel,taxi
+904	3	SYSTEM	はい、8件ほど案内可能でございます。たとえば、中村区エリアのShow和の宿つちや、というところはいかがでしょうか？	general,hotel,taxi
+904	4	USER	ありがとうございます、当日はジャンボタクシーも使いたいのですがキャッシュレス対応可能なタクシー会社はありますか？	general,hotel,taxi
+904	5	SYSTEM	大変申し訳ございません。その条件では、該当するタクシー会社がありませんでした。	general,hotel,taxi
+904	6	USER	ジャンボタクシーでなければどうでしょうか？	general,hotel,taxi
+904	7	SYSTEM	はい、そういたしますと、6件ほどご案内可能です。たとえば、名鉄交通第一はいかがでしょうか？	general,hotel,taxi
+904	8	USER	名鉄交通第一で予約をお願いします。6月26日13:50「徳川園」から「Show和の宿つちや」までお願いします	general,hotel,taxi
+904	9	SYSTEM	かしこまりました。予約をお入れいたしました。ご予約番号は63826です。	general,hotel,taxi
+904	10	USER	有難うございました。	general,hotel,taxi
+904	11	SYSTEM	ほかにお調べすることはございますか？	general,hotel,taxi
+904	12	USER	大丈夫です、有難うございました	general,hotel,taxi
+904	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,taxi

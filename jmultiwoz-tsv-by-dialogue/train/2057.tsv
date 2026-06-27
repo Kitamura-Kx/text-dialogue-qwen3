@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2057	0	USER	名古屋で宿泊施設を探しています。中川区で、安めに泊まれる場所はありますか？Wifiが無料であるといいのですが。	general,hotel,restaurant
+2057	1	SYSTEM	かしこまりました。では、プチホテル ニューひふみはいかがでしょうか？	general,hotel,restaurant
+2057	2	USER	最寄り駅と電話番号、住所もお願いできますか？	general,hotel,restaurant
+2057	3	SYSTEM	はい。最寄り駅は尾頭橋駅で、電話番号は0523221239になります。住所は愛知県名古屋市中川区八熊2丁目2-15-10でございます。	general,hotel,restaurant
+2057	4	USER	ではそちらで予約をお願いします。2/24から2泊、3人での利用です。	general,hotel,restaurant
+2057	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、80539です。	general,hotel,restaurant
+2057	6	USER	ありがとうございます。続いて飲食店情報もお願いします。中区で、安めの予算で食べられる場所はありますか？	general,hotel,restaurant
+2057	7	SYSTEM	かしこまりました。では、中華ダイニング くうかいはいかがでしょうか？	general,hotel,restaurant
+2057	8	USER	そのお店のジャンルは何ですか？あと、営業時間も知りたいです。	general,hotel,restaurant
+2057	9	SYSTEM	はい。ジャンルは中華料理, 居酒屋, アジア・エスニック料理です。営業時間は11:30～14:00, 17:00～23:00になります。	general,hotel,restaurant
+2057	10	USER	ありがとうございます！問い合わせは以上です。	general,hotel,restaurant

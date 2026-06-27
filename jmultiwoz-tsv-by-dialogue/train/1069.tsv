@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1069	0	USER	福岡旅行の時に泊まる所を探しています。	general,hotel,shopping
+1069	1	SYSTEM	福岡の宿泊施設ですね。エリアなど、何かご希望はございますか？	general,hotel,shopping
+1069	2	USER	はい、エリアの希望はありませんがレストランが併設していて、無料Wi-Fiがあると良いですね。	general,hotel,shopping
+1069	3	SYSTEM	かしこまりました。では、グランド ハイアット 福岡というところは如何でしょうか？	general,hotel,shopping
+1069	4	USER	グランド ハイアット 福岡には駐車場はありますか？ホテルのあるエリアとチェックアウトの時間も教えてください。	general,hotel,shopping
+1069	5	SYSTEM	はい、駐車場は有料ですが、ご利用いただけます。ホテルのあるエリアは、博多区でございます。チェックアウトは12時終了となっております。	general,hotel,shopping
+1069	6	USER	分かりました、それでは4/22での予約を取ってください。2泊予定で、人数は2人です。	general,hotel,shopping
+1069	7	SYSTEM	ご予約ありがとうございます。予約番号62712にて、承りました。	general,hotel,shopping
+1069	8	USER	ありがとうございます。この日は唐人町駅周辺で買い物も検討しています。駐車場無料のお店を案内してもらえますか？	general,hotel,shopping
+1069	9	SYSTEM	では、MARK IS 福岡ももちはいかがでしょうか？	general,hotel,shopping
+1069	10	USER	MARK IS 福岡ももちの住所は分かりますか？最寄り駅からどれくらい時間がかかるかも知りたいです。	general,hotel,shopping
+1069	11	SYSTEM	住所は、福岡県福岡市中央区地行浜2丁目2-1です。最寄りの唐人町駅からは、徒歩で10分ほどかかります。	general,hotel,shopping
+1069	12	USER	ありがとうございます、お聞きしたいことは以上です。	general,hotel,shopping
+1069	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,shopping

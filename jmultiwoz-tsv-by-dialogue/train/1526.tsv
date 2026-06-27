@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1526	0	USER	仙台への旅行を予定していますが、当日訪れる観光名所でおすすめはありますか？	general,attraction
+1526	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction
+1526	2	USER	駐車場を無料で利用できるところがいいです。	general,attraction
+1526	3	SYSTEM	では秋保ヴィレッジ アグリエの森はいかがですか。	general,attraction
+1526	4	USER	そちらに伺いたいと思います。料金情報とエリアを教えて頂けないでしょうか。	general,attraction
+1526	5	SYSTEM	料金情報は無料で、エリアは太白区でございます。	general,attraction
+1526	6	USER	ありがとうございました。	general,attraction

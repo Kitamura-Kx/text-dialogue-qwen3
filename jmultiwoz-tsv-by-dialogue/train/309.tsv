@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+309	0	USER	お願いします。	general,shopping,weather,taxi
+309	1	SYSTEM	お願いします。	general,shopping,weather,taxi
+309	2	USER	東京への旅行を考えています。当日買い物をしたいのですが、千代田区でおすすめのお店はありませんか？	general,shopping,weather,taxi
+309	3	SYSTEM	東京キャラクターストリートなどはいかがでしょうか。	general,shopping,weather,taxi
+309	4	USER	そちらは通車場を無料で使うことは出来ますか？	general,shopping,weather,taxi
+309	5	SYSTEM	駐車場の有無は不明	general,shopping,weather,taxi
+309	6	USER	千代田区で、無料で駐車場を使うことのできるお店はないでしょうか？	general,shopping,weather,taxi
+309	7	SYSTEM	すみません、ご希望条件にあうお店がありません。	general,shopping,weather,taxi
+309	8	USER	わかりました。では、有料でも構いませんので駐車場のあるお店を教えて下さい。	general,shopping,weather,taxi
+309	9	SYSTEM	東京交通会館というところがご希望にそいます。	general,shopping,weather,taxi
+309	10	USER	そちらのお店に行くのに、最寄り駅からはどのぐらいの時間がかかりますか？	general,shopping,weather,taxi
+309	11	SYSTEM	近辺の駅からの所要時間は有楽町駅から徒歩で1分、 銀座一丁目駅から徒歩で1分、 銀座駅から徒歩で3分、 日比谷駅から徒歩で8分になります。	general,shopping,weather,taxi
+309	12	USER	わかりました。	general,shopping,weather,taxi
+309	13	SYSTEM	ありがとうございました。	general,shopping,weather,taxi
+309	14	USER	天気を教えて下さい。3/13の文京区の最低気温、最高気温はどのぐらいでしょうか？	general,shopping,weather,taxi
+309	15	SYSTEM	最低気温は2.2度、 最高気温は17.2度になります。	general,shopping,weather,taxi
+309	16	USER	当日利用できるタクシー会社を探していただけませんか？	general,shopping,weather,taxi
+309	17	SYSTEM	大和交通保谷はいかがでしょうか	general,shopping,weather,taxi
+309	18	USER	そちらは、ジャンボタクシーを使うことは可能でしょうか？	general,shopping,weather,taxi
+309	19	SYSTEM	可能です。	general,shopping,weather,taxi
+309	20	USER	では、そちらで予約をお願いします。	general,shopping,weather,taxi
+309	21	SYSTEM	出発時刻と出発地、目的地を教えていただけますか	general,shopping,weather,taxi
+309	22	USER	はい。3/13　10：40東京交通会館出発で、宮崎料理万作渋谷ヒカリエ店着でお願いします。	general,shopping,weather,taxi
+309	23	SYSTEM	すみません、予約がとれませんでした。	general,shopping,weather,taxi
+309	24	USER	そうですか。では、時間を11：20に変更したら予約は可能ですか？	general,shopping,weather,taxi
+309	25	SYSTEM	そちらで成功しました。予約番号は70539になります	general,shopping,weather,taxi
+309	26	USER	承知いたしました。ありがとうございます。	general,shopping,weather,taxi
+309	27	SYSTEM	こちらこそ、ありがとうございました。	general,shopping,weather,taxi

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1089	0	USER	名古屋へ遊びに行きたいと思っています。	general,attraction
+1089	1	SYSTEM	お店など希望条件などは、ありますか？	general,attraction
+1089	2	USER	観光名所を探しています。無料の駐車場と、無料のWiｰFiがある場所ってありますか？	general,attraction
+1089	3	SYSTEM	ミッドランドスクエア 屋外展望台 スカイプロムナードは、いかがでしょうか？	general,attraction
+1089	4	USER	ありがとうございます！ミッドランドスクエア 屋外展望台 スカイプロムナードの住所を教えて頂けますか？	general,attraction
+1089	5	SYSTEM	住所は、愛知県名古屋市中村区名駅4丁目7-1ミッドランドスクエア44-46階です。	general,attraction
+1089	6	USER	ありがとうございます。	general,attraction
+1089	7	SYSTEM	他にご用件はございますか？	general,attraction
+1089	8	USER	これだけです、ありがとうございました。	general,attraction
+1089	9	SYSTEM	承知致しました。　ありがとうございました。	general,attraction

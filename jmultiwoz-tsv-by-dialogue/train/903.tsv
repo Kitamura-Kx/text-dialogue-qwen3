@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+903	0	USER	福岡へ旅行に行くのですが、中央区で予算は普通の宿泊施設を教えて下さい。	general,hotel,restaurant,attraction
+903	1	SYSTEM	かしこまりました。そうしますと、KKRホテル博多(国家公務員共済組合連合会福岡共済会館)という1件がご案内可能です。	general,hotel,restaurant,attraction
+903	2	USER	KKRホテル博多の最寄り駅はどこになりますか？	general,hotel,restaurant,attraction
+903	3	SYSTEM	最寄りは、薬院大通駅です。徒歩3分の距離にございます。	general,hotel,restaurant,attraction
+903	4	USER	それでは利用したいので予約をお願いします。10月3日から4泊3名です	general,hotel,restaurant,attraction
+903	5	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。予約番号は、68160でございます。	general,hotel,restaurant,attraction
+903	6	USER	当日の食事できるお店も探しています。予算は普通でうどんか蕎麦のお店はありますか？	general,hotel,restaurant,attraction
+903	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,restaurant,attraction
+903	8	USER	予算を気にしなければありますか？	general,hotel,restaurant,attraction
+903	9	SYSTEM	はい、3件ご案内可能です。例えば、資さんうどん 原店というお店はいかがでしょうか？	general,hotel,restaurant,attraction
+903	10	USER	最寄駅からの所要時間はどれくらいでしょうか	general,hotel,restaurant,attraction
+903	11	SYSTEM	藤崎駅から徒歩ですと、23分ほどかかってしまいます。	general,hotel,restaurant,attraction
+903	12	USER	わかりました利用したいので、予約をお願いします。10月3日16:00から2名でお願いします	general,hotel,restaurant,attraction
+903	13	SYSTEM	申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,hotel,restaurant,attraction
+903	14	USER	1名では予約可能ですか？	general,hotel,restaurant,attraction
+903	15	SYSTEM	はい、予約がおとりできました。予約番号は、9306です。	general,hotel,restaurant,attraction
+903	16	USER	有難うございます、当日は観光もしたいのですが早良区で駐車場無料の観光名所はありますか？	general,hotel,restaurant,attraction
+903	17	SYSTEM	申し訳ございません。その条件ですと、ご案内できる観光名所が見つかりませんでした。いかがいたしますか？	general,hotel,restaurant,attraction
+903	18	USER	それでは駐車場の有無は気にしなければどうでしょうか？	general,hotel,restaurant,attraction
+903	19	SYSTEM	ありがとうございます。そうしますと、百道中央公園はいかがでしょうか？駐車場はございますが、有料となっております。	general,hotel,restaurant,attraction
+903	20	USER	駐車料金はおいくらでしょうか、電話番号も教えて下さい	general,hotel,restaurant,attraction
+903	21	SYSTEM	料金は大人も子供も無料です。電話番号は、0928334337でございます。	general,hotel,restaurant,attraction
+903	22	USER	有難うございました利用したいと思います。	general,hotel,restaurant,attraction
+903	23	SYSTEM	こちらこそ、ありがとうございます。ほかにお調べすることはございますか？	general,hotel,restaurant,attraction
+903	24	USER	いえ大丈夫です	general,hotel,restaurant,attraction
+903	25	SYSTEM	では、またのご利用をお待ちしております。	general,hotel,restaurant,attraction

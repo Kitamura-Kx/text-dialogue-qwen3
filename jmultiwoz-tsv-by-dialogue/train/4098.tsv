@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4098	0	USER	仙台へ旅行に行きたく、宮城野区周辺で文房具・雑貨が買えるところを探してください。	general,shopping
+4098	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,shopping
+4098	2	USER	それではジャンルは問いません。	general,shopping
+4098	3	SYSTEM	かしこまりました。それではヨドバシカメラマルチメディア仙台はいかがでしょうか？	general,shopping
+4098	4	USER	そちらの電話番号、駐車場の有無を教えてください。	general,shopping
+4098	5	SYSTEM	はい、電話番号は0222951010、駐車場は無料でご利用いただけます。	general,shopping
+4098	6	USER	ありがとうございます。問い合わせは以上です。	general,shopping
+4098	7	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping

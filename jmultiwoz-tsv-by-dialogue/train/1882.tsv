@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1882	0	USER	こんにちは！今度、横浜へ旅行に行きたいので、宿泊施設の案内をお願いします。	general,hotel
+1882	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel
+1882	2	USER	神奈川区にある、予算が安めの、レストランが併設されている宿泊施設だと、どこか良い所はありますか？	general,hotel
+1882	3	SYSTEM	かしこまりました。では、リッチモンドホテル横浜駅前はいかがでしょうか？	general,hotel
+1882	4	USER	リッチモンドホテル横浜駅前ですね。ありがとうございます！そちらのホテルは、どんなタイプのホテルですか？	general,hotel
+1882	5	SYSTEM	はい。タイプはビジネスホテルになります。	general,hotel
+1882	6	USER	そうなんですね！では、そちらの予約をお願いしたいのですが、8月1日から4泊で、人数を3人として、お願いできますか？	general,hotel
+1882	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、62114です。	general,hotel
+1882	8	USER	ありがとうございます！かしこまりました。	general,hotel
+1882	9	SYSTEM	他にご用件はありますか？	general,hotel
+1882	10	USER	いえ、あとは大丈夫です。本日は、ご対応ありがとうございました！	general,hotel
+1882	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

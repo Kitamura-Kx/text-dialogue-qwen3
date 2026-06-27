@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4205	0	USER	横浜の都筑区で買い物がしたいのですが、駐車場が無料で使えるところはありませんか？	general,shopping,attraction,taxi
+4205	1	SYSTEM	かしこまりました。それではららぽーと横浜はいかがでしょうか？	general,shopping,attraction,taxi
+4205	2	USER	あと、観光名所も探しています。wifiが無料で使える温泉ジャンルのところってありますか？	general,shopping,attraction,taxi
+4205	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,shopping,attraction,taxi
+4205	4	USER	そうですか。ではwifiは無くてもいいので、温泉ジャンルのところを教えてください。	general,shopping,attraction,taxi
+4205	5	SYSTEM	かしこまりました。では、横濱スパヒルズ 竜泉寺の湯はいかがでしょうか？	general,shopping,attraction,taxi
+4205	6	USER	電話番号はわかりますか？	general,shopping,attraction,taxi
+4205	7	SYSTEM	電話番号は0454595268でございます。	general,shopping,attraction,taxi
+4205	8	USER	子供の入場料はいくらでしょう？	general,shopping,attraction,taxi
+4205	9	SYSTEM	子供の入場料は300円でございます。	general,shopping,attraction,taxi
+4205	10	USER	わかりました。ありがとうございました。	general,shopping,attraction,taxi
+4205	11	SYSTEM	かしこまりました。その他にご用件はございますか？	general,shopping,attraction,taxi
+4205	12	USER	タクシー会社も探して下さい。出来ればジャンボタクシーを利用したいのですが、ありますか？	general,shopping,attraction,taxi
+4205	13	SYSTEM	申し訳ありません。ジャンボタクシーのご利用できる会社をお探しすることが出来ませんでした。	general,shopping,attraction,taxi
+4205	14	USER	ではジャンボタクシーでなくて構いませんので、１社教えてください。	general,shopping,attraction,taxi
+4205	15	SYSTEM	かしこまりました。では、飛鳥交通横浜株式会社はいかがでしょうか？	general,shopping,attraction,taxi
+4205	16	USER	こちらの電話番号はわかりますか？	general,shopping,attraction,taxi
+4205	17	SYSTEM	はい、電話番号は0570075770でございます。	general,shopping,attraction,taxi
+4205	18	USER	では、予約をお願いします。１月２８日の１３時２０分、ららぽーと横浜発、横濱スパヒルズ 竜泉寺の湯着でお願いします。	general,shopping,attraction,taxi
+4205	19	SYSTEM	お待たせ致しました。予約番号21952でお取りさせていただきました。	general,shopping,attraction,taxi
+4205	20	USER	ありがとうございました。	general,shopping,attraction,taxi

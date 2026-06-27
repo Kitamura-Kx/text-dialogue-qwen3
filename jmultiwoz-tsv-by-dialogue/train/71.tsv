@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+71	0	USER	今度東京に行くんですけど、食事場所を探しているんですよ。東京なのに、神戸鉄板焼白秋ってお店なんですけど、分かります？	general,restaurant
+71	1	SYSTEM	はい、東京の神戸鉄板焼 白秋でございますね。1件該当するお店が見つかりました。	general,restaurant
+71	2	USER	その店の住所と電話番号って調べられますかね？	general,restaurant
+71	3	SYSTEM	はい、お調べできます。住所は、東京都渋谷区桜丘町17−10 MCDビル1Fです。電話番号は、05052629434となっております。	general,restaurant
+71	4	USER	ありがとうございました。助かりました。	general,restaurant
+71	5	SYSTEM	お役に立てて光栄です。他にご不明な点などはございますでしょうか？	general,restaurant
+71	6	USER	今はこれで大丈夫です。お世話になりました。	general,restaurant

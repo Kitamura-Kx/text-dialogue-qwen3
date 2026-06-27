@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3421	0	USER	東京での飲食店を探しています。	general,restaurant,attraction,hotel
+3421	1	SYSTEM	ありがとうございます。その条件ですと、100件ほど該当致しますが、何かご希望はありますか？	general,restaurant,attraction,hotel
+3421	2	USER	焼肉・ホルモンが食べたいです。あと、駐車場が無料のところがいいです。	general,restaurant,attraction,hotel
+3421	3	SYSTEM	お待たせ致しました。それでは、醍醐 お台場店はいかがでしょうか？	general,restaurant,attraction,hotel
+3421	4	USER	そこに行ってみます。最寄り駅と、電話番号を教えてください。	general,restaurant,attraction,hotel
+3421	5	SYSTEM	ありがとうございます。最寄り駅はお台場海浜公園駅、電話番号は、05031164263でございます。	general,restaurant,attraction,hotel
+3421	6	USER	ありがとうございます。あと、当日行ける観光名所も探しています。コンサート・ショーが見れて、駐車場が無料のところはありますか？	general,restaurant,attraction,hotel
+3421	7	SYSTEM	お待たせ致しました。それでは、Caretta汐留はいかがでしょうか？	general,restaurant,attraction,hotel
+3421	8	USER	ありがとうございます！そちらのWi-Fiの有無，営業時間，電話番号を教えていただけますか？	general,restaurant,attraction,hotel
+3421	9	SYSTEM	申し訳ありません。Wi-Fiの有無は分かりません。営業時間は店舗により異なるとのことです。電話番号は0362182100でございます。	general,restaurant,attraction,hotel
+3421	10	USER	分かりました、ありがとうございます。あともう一点、当日の宿泊施設も探しています。Wi-Fiと駐車場が無料のところはありますか？	general,restaurant,attraction,hotel
+3421	11	SYSTEM	お待たせ致しました。その条件ではお探しすることが出来ませんでした。	general,restaurant,attraction,hotel
+3421	12	USER	では、駐車場は特にこだわりません。	general,restaurant,attraction,hotel
+3421	13	SYSTEM	かしこまりました。では、ヒルトン東京お台場はいかがでしょうか？	general,restaurant,attraction,hotel
+3421	14	USER	ありがとうございます。そちらの電話番号を教えてください。	general,restaurant,attraction,hotel
+3421	15	SYSTEM	かしこまりました。電話番号は、0355005500でございます。	general,restaurant,attraction,hotel
+3421	16	USER	分かりました、以上です。ありがとうございました。	general,restaurant,attraction,hotel
+3421	17	SYSTEM	ありがとうございます。またお待ちしております。	general,restaurant,attraction,hotel

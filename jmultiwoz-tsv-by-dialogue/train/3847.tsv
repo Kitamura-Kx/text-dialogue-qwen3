@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3847	0	USER	札幌への旅行を考えています。手稲区で食事が出来るところを探しています。	general,restaurant
+3847	1	SYSTEM	手稲区の食事ならば、創作居酒屋 もり蔵、こちらをお勧めします。	general,restaurant
+3847	2	USER	そちらのお店って、wifiを無料で使うことはできますか？	general,restaurant
+3847	3	SYSTEM	WiFiは不明です。手稲区にWiFi無料の飲食店はありません。	general,restaurant
+3847	4	USER	わかりました。では先程のお店の住所を教えてください。	general,restaurant
+3847	5	SYSTEM	北海道札幌市手稲区手稲本町1条3丁目2-19です。	general,restaurant
+3847	6	USER	ありがとうございました。	general,restaurant

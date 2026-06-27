@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1939	0	USER	京都への旅行を計画中なのですが、いくつかお願いします。まずは、右京区で飲食店を教えて下さい。予算は普通でお願いします。	general,restaurant,hotel
+1939	1	SYSTEM	かしこまりました。その条件ですとカジュアル鉄板 大地はいかがでしょうか？	general,restaurant,hotel
+1939	2	USER	「カジュアル鉄板 大地」の料金情報を教えて下さい。	general,restaurant,hotel
+1939	3	SYSTEM	はい。黒毛和牛のステーキ(焼き野菜付)120gが2000円、シーフードの盛り合わせが1800円、神戸牛サーロインのステーキ(焼き野菜付)120gが5000円、などとなっております。	general,restaurant,hotel
+1939	4	USER	それでは「カジュアル鉄板 大地」に4/18の15:00から3名で予約をお願いします。	general,restaurant,hotel
+1939	5	SYSTEM	ありがとうございます。予約番号10540で完了致しました。	general,restaurant,hotel
+1939	6	USER	あとは当日の宿泊施設を探しています。西京区のWiFi無料でレストランが併設されている施設はありますか？	general,restaurant,hotel
+1939	7	SYSTEM	申し訳ございません。その条件ですと該当する宿泊施設をお探しすることが出来ませんでした。	general,restaurant,hotel
+1939	8	USER	西京区ではなく伏見区ならありますか？あれば予約をお願いします。	general,restaurant,hotel
+1939	9	SYSTEM	はい、伏見区でしたらパルセスイン京都がございます。いつのご予約を致しますか？	general,restaurant,hotel
+1939	10	USER	「パルセスイン京都」で宿泊予約をお願いします。4/18から2泊、4人での利用です。	general,restaurant,hotel
+1939	11	SYSTEM	申し訳ございません。その条件ですとご予約することが出来ませんでした。	general,restaurant,hotel
+1939	12	USER	1泊なら可能でしょうか？	general,restaurant,hotel
+1939	13	SYSTEM	はい、1泊なら大丈夫でした。予約番号は92214でございます。	general,restaurant,hotel
+1939	14	USER	わかりました、有難うございました。	general,restaurant,hotel
+1939	15	SYSTEM	ありがとうございます。その他に御用件はございますか？	general,restaurant,hotel
+1939	16	USER	いえ、大丈夫です。	general,restaurant,hotel
+1939	17	SYSTEM	かしこまりました。またお待ちしております。	general,restaurant,hotel

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+200	0	USER	京都で買い物をしたいんですけど、下京区で、烏丸駅の近くにいいところはありませんか？	general,shopping,restaurant
+200	1	SYSTEM	では茅乃舎 大丸京都店はいかがでしょうか。	general,shopping,restaurant
+200	2	USER	京都っぽい感じですね。駅からはどのくらいですか？住所も聞いときたいんですけど。	general,shopping,restaurant
+200	3	SYSTEM	烏丸駅から徒歩で2分、四条駅から徒歩で5分となっております。住所は京都府京都市下京区四条通高倉西入立売西町79番地　大丸京都店 地下1階でございます。	general,shopping,restaurant
+200	4	USER	駅近でいいですね。駐車場はありますか？	general,shopping,restaurant
+200	5	SYSTEM	駐車場の有無は不明でございます。	general,shopping,restaurant
+200	6	USER	わかりました。駅から近いから大丈夫かな？それと別にカフェやスイーツのお店を探してもらっていいですか？予算は高めがいいんですけど。	general,shopping,restaurant
+200	7	SYSTEM	申し訳ございません。その条件ですと案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant
+200	8	USER	じゃあ予算は何でもいいので、おすすめを教えてください。	general,shopping,restaurant
+200	9	SYSTEM	ではMONO MONO CAFEはいかがでしょうか。	general,shopping,restaurant
+200	10	USER	そこでいいです。Wi-Fiは使えますか？あと駐車場はあるかも教えてください。	general,shopping,restaurant
+200	11	SYSTEM	Wi-Fiと駐車場共に情報は不明となっております。	general,shopping,restaurant
+200	12	USER	そうですか、まあ、いいです。12月20日の12時50分で2人、予約したいんですけど。	general,shopping,restaurant
+200	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は30779でございます。	general,shopping,restaurant
+200	14	USER	お世話になりました。お手配りに感謝します。	general,shopping,restaurant

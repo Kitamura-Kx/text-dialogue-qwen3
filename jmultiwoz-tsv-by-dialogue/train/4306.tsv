@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4306	0	USER	那覇へ旅行するので駐車場が無料で利用できてファッションのショッピングができるお店を探しています。	general,shopping,taxi
+4306	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping,taxi
+4306	2	USER	では駐車場は考慮しなくてOKです	general,shopping,taxi
+4306	3	SYSTEM	かしこまりました。それでは吉浜さんごはいかがでしょうか？	general,shopping,taxi
+4306	4	USER	営業時間を教えてください	general,shopping,taxi
+4306	5	SYSTEM	はい、10時から22時でございます。	general,shopping,taxi
+4306	6	USER	ありがとうございます。あとジャンボタクシーを利用できるタクシー会社を探しています。	general,shopping,taxi
+4306	7	SYSTEM	それでは、沖縄第一交通株式会社はいかがでしょうか？	general,shopping,taxi
+4306	8	USER	キャッシュレス対応はしていますか？	general,shopping,taxi
+4306	9	SYSTEM	はい、キャッシュレスにも対応しております。	general,shopping,taxi
+4306	10	USER	では11/7の12:30に吉浜さんごから焼肉工房 團まで予約してください	general,shopping,taxi
+4306	11	SYSTEM	申し訳ございません。その条件では予約することが出来ませんでした。	general,shopping,taxi
+4306	12	USER	では13:30だとどうでしょう？	general,shopping,taxi
+4306	13	SYSTEM	お待たせ致しました。予約番号77877でお取りさせていただきました。	general,shopping,taxi
+4306	14	USER	了解です。ありがとうございました！	general,shopping,taxi
+4306	15	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,taxi

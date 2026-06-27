@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4149	0	USER	札幌に旅行に行きたいんですが、値段は普通くらいの飲食店はありますか？	general,restaurant,taxi
+4149	1	SYSTEM	はい、他にご希望はございますか？	general,restaurant,taxi
+4149	2	USER	駐車場が無料じゃないと困るんですが。	general,restaurant,taxi
+4149	3	SYSTEM	では、エリアでいうと中央区にある、銀座天一 札幌東急店はいかがでしょう？ジャンルは、和食になります。	general,restaurant,taxi
+4149	4	USER	そこに行きたいです。営業時間と、料金情報はわかりますか？	general,restaurant,taxi
+4149	5	SYSTEM	営業時間は11時から20時となります。申し訳ありません、料金情報については不明となっております。	general,restaurant,taxi
+4149	6	USER	では次なんですが、キャッシュレス払いができるタクシー会社について調べてもらえますか？	general,restaurant,taxi
+4149	7	SYSTEM	承知しました。北都交通(株)はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0112904181となります。	general,restaurant,taxi
+4149	8	USER	ありがとうございます、ついでに予約もお願いします。9月18日15時ちょうどで、銀座天一 札幌東急店から、目的地はにほんいち水産直営 居酒屋あらた 本店でお願いします。人数などはまだ決まっていません。	general,restaurant,taxi
+4149	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、90760となります。タクシーの場合、人数は不明でも予約に支障はないので大丈夫です。	general,restaurant,taxi
+4149	10	USER	ご対応ありがとうございました。	general,restaurant,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4527	0	USER	名古屋への旅行の時に利用できる飲食店を探してもらえますか？	general,restaurant,weather
+4527	1	SYSTEM	かしこまりました。１００件ございますが、ご希望の条件はございますか。	general,restaurant,weather
+4527	2	USER	はい、焼肉・ホルモンで予算は高めのところが良いです。あと、駐車場が無料のところを希望しています。	general,restaurant,weather
+4527	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,weather
+4527	4	USER	それなら駐車場の有無は問いません。	general,restaurant,weather
+4527	5	SYSTEM	では松庵 韓菜房 栄大津通店はいかがでしょうか。	general,restaurant,weather
+4527	6	USER	いいですね、松庵 韓菜房 栄大津通店の近辺の駅からの所要時間と電話番号を教えてもらえますか？	general,restaurant,weather
+4527	7	SYSTEM	栄駅から徒歩で３分でございます。電話番号は0529611400でございます。	general,restaurant,weather
+4527	8	USER	そちらのお店で予約をお願いします。	general,restaurant,weather
+4527	9	SYSTEM	かしこまりました。ではご予約の詳細をおきかせいただけますか。	general,restaurant,weather
+4527	10	USER	5/5の午前11時40分に、2名でお願いします。	general,restaurant,weather
+4527	11	SYSTEM	はい。予約が完了いたしました。予約番号は83113でございます。	general,restaurant,weather
+4527	12	USER	5/5の天白区のお天気と最低気温はわかりますか？	general,restaurant,weather
+4527	13	SYSTEM	当日の天気は雨時々曇りで、最低気温は16.8度となっております。	general,restaurant,weather
+4527	14	USER	ありがとうございました。	general,restaurant,weather
+4527	15	SYSTEM	本日はありがとうございました。	general,restaurant,weather

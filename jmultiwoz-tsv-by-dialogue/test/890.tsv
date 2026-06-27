@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+890	0	USER	こんばんは！今度、大阪に行こうかと思ってるんですけど、観光名所について案内をお願いできますか？	general,attraction
+890	1	SYSTEM	ご希望の条件などは、ありますか？	general,attraction
+890	2	USER	WiFiと、駐車場が、無料で使える所だったら、どこでも大丈夫です。	general,attraction
+890	3	SYSTEM	鶴見緑地湯元 水春は、いかがでしょうか？	general,attraction
+890	4	USER	そちらは、どんなジャンルの観光地なんですか？	general,attraction
+890	5	SYSTEM	ジャンルは、銭湯・スパ, 温泉になっています。	general,attraction
+890	6	USER	そうなんですね！良さそうなところですね。では、電話番号を教えてください。	general,attraction
+890	7	SYSTEM	電話番号は、0642571126です。	general,attraction
+890	8	USER	ありがとうございます！メモしました。	general,attraction
+890	9	SYSTEM	他にご用件はございますか？	general,attraction
+890	10	USER	いえ、あとは大丈夫です。調べていただいて助かりました。ありがとうございました！	general,attraction
+890	11	SYSTEM	承知致しました。　ありがとうございました。	general,attraction

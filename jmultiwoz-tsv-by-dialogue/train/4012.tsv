@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4012	0	USER	札幌へ旅行予定なのですが、駐車場とWi-Fiの無料利用が可能な観光名所ってありますか？	general,attraction,weather
+4012	1	SYSTEM	かしこまりました。それではクラーク博士像はいかがでしょうか？	general,attraction,weather
+4012	2	USER	そこにします。近辺の駅からの所要時間を聞いてもいいですか？	general,attraction,weather
+4012	3	SYSTEM	かしこまりました。福住駅からバスで10分、または札幌駅からバスで38分でございます。	general,attraction,weather
+4012	4	USER	了解です。ついでに、中央区の10/4の最低気温も調べてくれます？	general,attraction,weather
+4012	5	SYSTEM	お待たせ致しました。当日の中央区の最低気温は6.5度の予報でございます。	general,attraction,weather
+4012	6	USER	わかりました。ありがとうございあす。もういいです。	general,attraction,weather
+4012	7	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,weather

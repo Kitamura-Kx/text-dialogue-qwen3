@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1039	0	USER	札幌へ旅行に行きたいのですが、当日泊まる施設を探していただけますか。	general,hotel,shopping,weather
+1039	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,hotel,shopping,weather
+1039	2	USER	豊平区で予算は安めがよいです。	general,hotel,shopping,weather
+1039	3	SYSTEM	承知いたしました。そうしますと、プレミアホテル-TSUBAKI-札幌というシティホテルが1件、ご案内可能です。いかがでしょうか？	general,hotel,shopping,weather
+1039	4	USER	ありがとうございます。そちらは駐車場はありますか？また、料金情報も教えてください。	general,hotel,shopping,weather
+1039	5	SYSTEM	駐車場は、有料ですが、ご利用いただけます。料金情報につきましては、お値段帯がお安めということと、WiFiが無料、駐車場が有料、ということ以外は手元に情報がなく、ご案内できかねます。申し訳ありません。	general,hotel,shopping,weather
+1039	6	USER	いえいえ、それだけで結構ですよ。では、12月15日から4泊、4名で予約をお願いします。	general,hotel,shopping,weather
+1039	7	SYSTEM	ありがとうございます。ご予約を承りました。予約番号は、65023です。	general,hotel,shopping,weather
+1039	8	USER	ありがとうございます。それでは、次は当日買い物ができるところを探していただけますでしょうか。厚別区で駐車場が無料のところがよいです。	general,hotel,shopping,weather
+1039	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,shopping,weather
+1039	10	USER	そうですか。では、駐車場は気にしなくてよいです。	general,hotel,shopping,weather
+1039	11	SYSTEM	ありがとうございます。そういたしますと、ドーナツベーグル専門店 ふわもち邸という、お店がご案内できます。いかがでしょうか？	general,hotel,shopping,weather
+1039	12	USER	おいしそうです。営業時間を教えてください。	general,hotel,shopping,weather
+1039	13	SYSTEM	営業時間は、8:00～15:00でございます。	general,hotel,shopping,weather
+1039	14	USER	ありがとうございます。続けて、12月15日の厚別区の気温を教えてください。	general,hotel,shopping,weather
+1039	15	SYSTEM	かしこまりました。当日の最低気温はマイナス3.4度、最高気温は2.8度の予想です。なお、天気は雪の予報となっております。	general,hotel,shopping,weather
+1039	16	USER	寒いですね。暖かくしていきたいと思います。ありがとうございました。	general,hotel,shopping,weather

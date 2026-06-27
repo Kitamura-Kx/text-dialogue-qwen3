@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1742	0	USER	京都でキャッシュレス払いができるタクシー会社を教えてほしいのですが？	general,taxi
+1742	1	SYSTEM	残念ながら京都にはキャッシュレス対応のタクシーはありません。	general,taxi
+1742	2	USER	じゃあキャッシュレス使えなくてもいいので、いいところを教えてください。	general,taxi
+1742	3	SYSTEM	比叡タクシー株式会社をお勧めします。	general,taxi
+1742	4	USER	電話番号を教えてください。	general,taxi
+1742	5	SYSTEM	0755010050になります。	general,taxi
+1742	6	USER	11月19日に予約をお願いします。OYO旅館 晴輝京都ステーションを12時50分に出発して、o・mo・ya 東洞院というところまでです。	general,taxi
+1742	7	SYSTEM	11月19日12時50分、YO旅館 晴輝京都ステーションからYO旅館 晴輝京都ステーションまで、予約成功しました。予約番号は42732です。	general,taxi
+1742	8	USER	助かりました。ありがとうございました。	general,taxi

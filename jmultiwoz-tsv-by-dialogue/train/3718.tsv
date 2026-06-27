@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3718	0	USER	京都へ旅行をしたいのですが。	general,restaurant,hotel
+3718	1	SYSTEM	はい。何かお探しですか？	general,restaurant,hotel
+3718	2	USER	飲食店を探しています。イタリアンかフレンチで、無料の駐車場があるところはありますか？	general,restaurant,hotel
+3718	3	SYSTEM	かしこまりました。では、フランス料理 ボルドーはいかがでしょうか？	general,restaurant,hotel
+3718	4	USER	そちらの最寄り駅と電話番号と営業時間を教えてください。	general,restaurant,hotel
+3718	5	SYSTEM	はい。最寄り駅は北大路駅です。電話番号は0754926901になります。また、営業時間は12:00～15:00と17:30～22:00です。	general,restaurant,hotel
+3718	6	USER	ありがとうございます。では、そちらで予約をお願いします。8/12の14:40に4名でお願いします。	general,restaurant,hotel
+3718	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、37806です。	general,restaurant,hotel
+3718	8	USER	ありがとうございます。ついでに宿泊施設も探していただけますか？無料駐車場があるところで価格は普通が希望です。	general,restaurant,hotel
+3718	9	SYSTEM	かしこまりました。では、なごみ宿 都和はいかがでしょうか？	general,restaurant,hotel
+3718	10	USER	そちらの宿のチェックイン時刻は何時ですか？	general,restaurant,hotel
+3718	11	SYSTEM	はい。15:00 です。	general,restaurant,hotel
+3718	12	USER	レストランはありますか？	general,restaurant,hotel
+3718	13	SYSTEM	ございますよ。予約されますか？	general,restaurant,hotel
+3718	14	USER	宿泊施設の予約だけお願いします。8/12に2名で、2泊お願いしたいです。	general,restaurant,hotel
+3718	15	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,hotel
+3718	16	USER	そうですか。では、1泊でお願いします。	general,restaurant,hotel
+3718	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、26106です。	general,restaurant,hotel
+3718	18	USER	ありがとうございます。	general,restaurant,hotel
+3718	19	SYSTEM	はい。他にご用件はございませんか？	general,restaurant,hotel
+3718	20	USER	特にありません。ありがとうございました。	general,restaurant,hotel
+3718	21	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel

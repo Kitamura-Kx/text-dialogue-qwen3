@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4744	0	USER	大阪へ旅行予定なのですが、ジャンボタクシーを使えるタクシー会社を調べてください。	general,taxi
+4744	1	SYSTEM	承知しました。では、相互タクシー株式会社はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0669315489となります。	general,taxi
+4744	2	USER	そこにします。12/6の11:30にヴィラ デ くらすまで来てもらって、そこから長居植物園まで送ってほしいです。	general,taxi
+4744	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、72663となります。	general,taxi
+4744	4	USER	ありがとうございます。以上で大丈夫です。	general,taxi
+4744	5	SYSTEM	ありがとうございました。	general,taxi

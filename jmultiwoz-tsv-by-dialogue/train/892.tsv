@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+892	0	USER	こんばんは！今度、横浜旅行を計画しているのですが、案内をお願いしてもよろしいですか？	general,taxi
+892	1	SYSTEM	横浜ですね。　希望条件などは、ございますか？	general,taxi
+892	2	USER	タクシー会社を探していまして、キャッシュレス対応のところで、どこかありますでしょうか？	general,taxi
+892	3	SYSTEM	富士見交通株式会社は、いかがでしょうか？	general,taxi
+892	4	USER	そちらの電話番号は、わかりますか？	general,taxi
+892	5	SYSTEM	電話番号は、0120411190です。	general,taxi
+892	6	USER	ありがとうございます！それでは、そちらのタクシーの手配をお願いしようかと思うのですが、希望をお伝えしてよろしいですか？	general,taxi
+892	7	SYSTEM	はい、希望条件をお願いします。	general,taxi
+892	8	USER	えっと、4月18日の12時で、出発地がよこはまコスモワールド、目的地がクイーンズスクエア横浜でお願いいたします。	general,taxi
+892	9	SYSTEM	予約出来ました。予約番号は、81004です。	general,taxi
+892	10	USER	ありがとうございます！書き控えました。	general,taxi
+892	11	SYSTEM	他にご用件はございますか？	general,taxi
+892	12	USER	いえ、あとは大丈夫です。この度は、お手配いただきありがとうございました。	general,taxi
+892	13	SYSTEM	承知致しました。　ありがとうございました。	general,taxi

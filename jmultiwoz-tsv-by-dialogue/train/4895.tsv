@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4895	0	USER	大阪への旅行を計画しており、宿泊施設を探しています。予算が安めでレストランが併設されていて、Wi-Fiが無料で使えるところはありますか？	general,hotel,attraction
+4895	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel,attraction
+4895	2	USER	ではレストランはなくてもいいので、予算が安めでWi-Fiが無料で利用できる宿泊施設でどこかいいところはありますか？	general,hotel,attraction
+4895	3	SYSTEM	かしこまりました。それでは、なんば戎ホテルはいかがでしょうか？	general,hotel,attraction
+4895	4	USER	そこにしようと思います。近辺の駅からの所要時間と駐車場の有無を教えてください。	general,hotel,attraction
+4895	5	SYSTEM	はい、新今宮駅から徒歩で6分、動物園前駅から徒歩で6分、新今宮駅から徒歩で6分でございます。駐車場はございません。	general,hotel,attraction
+4895	6	USER	わかりました。あと中央区でジャンルが橋の観光名所を探してほしいです。	general,hotel,attraction
+4895	7	SYSTEM	それでは、道頓堀がございます。	general,hotel,attraction
+4895	8	USER	そこは駐車場はありますか？	general,hotel,attraction
+4895	9	SYSTEM	申し訳ありません。駐車場の有無が分かりません。	general,hotel,attraction
+4895	10	USER	ありがとうございます。	general,hotel,attraction
+4895	11	SYSTEM	その他にご用件はございますか？	general,hotel,attraction
+4895	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel,attraction

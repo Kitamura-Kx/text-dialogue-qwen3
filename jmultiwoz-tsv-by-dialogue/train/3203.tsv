@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3203	0	USER	札幌旅行で観光名所を探しています。東区で駐車場とWi-Fiが無料なところはありますか？	general,attraction,weather
+3203	1	SYSTEM	かしこまりました。では、ラウンドワンスタジアム札幌北21条店はいかがでしょうか？	general,attraction,weather
+3203	2	USER	営業時間を教えてください	general,attraction,weather
+3203	3	SYSTEM	はい。営業時間は00:00～00:00です。	general,attraction,weather
+3203	4	USER	天気も調べてもらえますか？3/9の中央区です	general,attraction,weather
+3203	5	SYSTEM	かしこまりました。3/9の中央区の天気予報は雨時々雪となっております。最低気温は-2.2度、最高気温は2度になる予報です。	general,attraction,weather
+3203	6	USER	了解！ありがとうございました	general,attraction,weather
+3203	7	SYSTEM	はい。何かほかにお調べすることはありますか？	general,attraction,weather
+3203	8	USER	ないです。ありがとうございました	general,attraction,weather
+3203	9	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

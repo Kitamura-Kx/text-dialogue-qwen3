@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3640	0	USER	京都への旅行を考えています。Wi-Fiが無料の観光名所はありますか？	general,attraction,hotel,weather
+3640	1	SYSTEM	京都でWiFi無料の観光名所は、国立京都国際会館、こちら一択です。	general,attraction,hotel,weather
+3640	2	USER	子供の入場料はいくらですか？	general,attraction,hotel,weather
+3640	3	SYSTEM	子供も大人も入場料は不明ですね、企画により異なるようです。	general,attraction,hotel,weather
+3640	4	USER	そうですか。それから京都での宿泊施設を探しています。予算が普通で、レストランが併設されているところがいいです。	general,attraction,hotel,weather
+3640	5	SYSTEM	京都で予算普通、レストラン併設の宿泊施設は２つありますが、Nazuna 京都 椿通、こちらをオススメします。	general,attraction,hotel,weather
+3640	6	USER	その宿泊施設はどのようなタイプのところですか？	general,attraction,hotel,weather
+3640	7	SYSTEM	旅館です。	general,attraction,hotel,weather
+3640	8	USER	そこの住所を教えていただけますか？	general,attraction,hotel,weather
+3640	9	SYSTEM	京都府京都市下京区高辻通大宮西入坊門町８３８です。	general,attraction,hotel,weather
+3640	10	USER	料金情報も教えてください。	general,attraction,hotel,weather
+3640	11	SYSTEM	値段帯は普通となっているのですが、詳細料金情報は不明ですね。	general,attraction,hotel,weather
+3640	12	USER	わかりました。ちなみに中京区のお天気を教えていただきたいです。	general,attraction,hotel,weather
+3640	13	SYSTEM	天気を知りたい日付をお願いします	general,attraction,hotel,weather
+3640	14	USER	2月2日です。	general,attraction,hotel,weather
+3640	15	SYSTEM	2/2 京都 中京区 の天気は晴のち雨、最低気温4.8度、最高気温11度です。	general,attraction,hotel,weather
+3640	16	USER	色々教えていただきありがとうございました。	general,attraction,hotel,weather
+3640	17	SYSTEM	よい旅を	general,attraction,hotel,weather

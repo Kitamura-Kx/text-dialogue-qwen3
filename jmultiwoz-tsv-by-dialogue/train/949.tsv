@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+949	0	USER	横浜に行こうと思っているんですが、北斗タクシー株式会社を当日利用したいと思っています。	general,taxi
+949	1	SYSTEM	かしこまりました。ご予約でしょうか。	general,taxi
+949	2	USER	はい。その前にそちらはキャッシュレス対応していますでしょうか？	general,taxi
+949	3	SYSTEM	キャッシュレスへの対応は不明です。	general,taxi
+949	4	USER	ありがとうございます。では予約をお願いします。５月6日で横浜ベイサイドマリーナから横浜 星のなる木までで、時間は09:40でお願いします。	general,taxi
+949	5	SYSTEM	申し訳ございません。その条件で予約ができませんでした。いかがなさいますか。	general,taxi
+949	6	USER	では、時間を10:20に変更したらできますでしょうか？	general,taxi
+949	7	SYSTEM	その時間ですと予約が可能でございました。予約番号は77583でございます。	general,taxi
+949	8	USER	ありがとうございました。	general,taxi
+949	9	SYSTEM	ほかにご用件はございますか。	general,taxi
+949	10	USER	特にないです。ありがとうございました。	general,taxi
+949	11	SYSTEM	承知しました。ありがとうございました。	general,taxi
+949	12	USER		general,taxi

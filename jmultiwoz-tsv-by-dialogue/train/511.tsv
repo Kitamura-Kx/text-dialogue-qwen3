@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+511	0	USER	仙台で買い物ができるところを探しています。太白区でどこかありますか？	general,shopping
+511	1	SYSTEM	はい、1件ございます。アカチャンホンポ ララガーデン長町店です。ジャンルはおもちゃ、ファッション、文房具、雑貨となります。	general,shopping
+511	2	USER	そちらは駐車場の無料利用は可能ですか？	general,shopping
+511	3	SYSTEM	申し訳ありません、駐車場はございますが、有料となります。	general,shopping
+511	4	USER	そうですか。では、地区は問わないので、駐車場が無料で使えるところを探してもらえますか？	general,shopping
+511	5	SYSTEM	承知しました。ジャンルなどのご希望はございますか？	general,shopping
+511	6	USER	特にありません。	general,shopping
+511	7	SYSTEM	では、仙台場外市場 杜の市場はいかがでしょう？ジャンルは商店街、エリアは若林区です。営業時間は10時から19時、定休日は1月1日です。住所は宮城県仙台市若林区卸町5丁目2-6、電話番号は0227625701、最寄りの卸町駅から徒歩で15分となります。	general,shopping
+511	8	USER	そちらに行ってみます。ありがとうございました。	general,shopping

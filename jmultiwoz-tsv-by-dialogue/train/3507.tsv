@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3507	0	USER	京都への旅行を検討しています。当日利用出来る、和食関連の飲食店を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,restaurant,hotel
+3507	1	SYSTEM	かしこまりました。京都の和食のお店ですと、37件ございますが、何かご希望はありますか？	general,restaurant,hotel
+3507	2	USER	はい。予算は高めが良いですね。それと、駐車場が無料で利用出来るとありがたいです。	general,restaurant,hotel
+3507	3	SYSTEM	かしこまりました。それでは、加賀屋 京都店はいかがでしょうか？	general,restaurant,hotel
+3507	4	USER	では、そこで検討してみたいです。このお店の電話番号を教えて頂けますか？	general,restaurant,hotel
+3507	5	SYSTEM	0753420022でございます。	general,restaurant,hotel
+3507	6	USER	ありがとうございます。このまま、このお店を予約したいのですが、お願いしてもよろしいでしょうか？	general,restaurant,hotel
+3507	7	SYSTEM	はい、御条件伺います。	general,restaurant,hotel
+3507	8	USER	では、お願いします。9月7日の10:50で、人数は2人でお願いします。	general,restaurant,hotel
+3507	9	SYSTEM	お待たせ致しました。予約番号67986でお取りさせていただきました。	general,restaurant,hotel
+3507	10	USER	ありがとうございます。最後に、当日利用できる宿泊施設も探して欲しいのですが、よろしいでしょうか？	general,restaurant,hotel
+3507	11	SYSTEM	かしこまりました。御条件伺います。	general,restaurant,hotel
+3507	12	USER	助かります。最寄り駅が七条駅で、駐車場が無料で利用できる施設って該当はありますかね？	general,restaurant,hotel
+3507	13	SYSTEM	その条件でしたら、京都 高瀬川別邸がございます。	general,restaurant,hotel
+3507	14	USER	そこで検討してみたいです。この施設の値段帯を教えて頂けますか？	general,restaurant,hotel
+3507	15	SYSTEM	値段帯は高めでございます。	general,restaurant,hotel
+3507	16	USER	わかりました。もう少し検討してみたいと思います。これで大丈夫です。ご対応、ありがとうございました。	general,restaurant,hotel
+3507	17	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,hotel

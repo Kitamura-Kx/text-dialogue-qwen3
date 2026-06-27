@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2049	0	USER	札幌に行こうと思っているのですが、ファッションの買い物ができるところを探しています。駐車場は無料のところがいいです。	general,shopping
+2049	1	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,shopping
+2049	2	USER	わかりました。では駐車場はなくても大丈夫ですので、何かありませんか？	general,shopping
+2049	3	SYSTEM	かしこまりました。では、SUUはいかがでしょうか？	general,shopping
+2049	4	USER	そこにします。最寄り駅を教えてください。	general,shopping
+2049	5	SYSTEM	はい。最寄り駅は西１８丁目駅となっております。	general,shopping
+2049	6	USER	ありがとうございます。	general,shopping
+2049	7	SYSTEM	他にご用件はありますか？	general,shopping
+2049	8	USER	いいえ、ありがとうございました。それでは、失礼します。	general,shopping

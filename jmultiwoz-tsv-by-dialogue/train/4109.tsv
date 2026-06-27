@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4109	0	USER	東京への旅行を計画しています。 観光名所を探してください。	general,attraction,restaurant,weather
+4109	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,restaurant,weather
+4109	2	USER	ジャンルは歴史的な散策エリア、Wi-Fiが無料で利用できるところにしてください。	general,attraction,restaurant,weather
+4109	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,restaurant,weather
+4109	4	USER	ではWi-Fiは無くてもいいです。それだとありますか？	general,attraction,restaurant,weather
+4109	5	SYSTEM	はい、エリアでいうと北区に、旧古河庭園がございます。	general,attraction,restaurant,weather
+4109	6	USER	では、近辺の駅からの所要時間，子供入場料，営業時間を教えてください。	general,attraction,restaurant,weather
+4109	7	SYSTEM	営業時間は9時から17時、近辺の上中里駅から徒歩で7分となります。子供入場料は必要なく、無料でご利用いただけます。	general,attraction,restaurant,weather
+4109	8	USER	それでは当日食事ができる飲食店を探してください。ジャンルはうどん・そばで、予算は普通が希望です。	general,attraction,restaurant,weather
+4109	9	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,restaurant,weather
+4109	10	USER	ジャンルを鍋に変更したらありますか？	general,attraction,restaurant,weather
+4109	11	SYSTEM	はい、エリアでいうと台東区に、九州居酒屋 博多天神もつ鍋 永山本店 炎の陣 上野新館がございます。	general,attraction,restaurant,weather
+4109	12	USER	いいですね。営業時間を教えてください。	general,attraction,restaurant,weather
+4109	13	SYSTEM	営業時間は12時から21時となります。	general,attraction,restaurant,weather
+4109	14	USER	あと、天気を調べてほしいです。地区は荒川区、日付は1/3です。	general,attraction,restaurant,weather
+4109	15	SYSTEM	はい、天気は晴、最低気温-0.4度、最高気温6.2度となります。	general,attraction,restaurant,weather
+4109	16	USER	解決しました。ありがとうございました。	general,attraction,restaurant,weather

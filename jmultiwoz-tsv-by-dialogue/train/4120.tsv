@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4120	0	USER	仙台に旅行に行きたいのですが太白区でおもちゃが買えるお店はありますか	general,shopping,restaurant,attraction
+4120	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant,attraction
+4120	2	USER	では太白区以外ではありますか	general,shopping,restaurant,attraction
+4120	3	SYSTEM	でしたらポケモンセンタートウホクがございます。	general,shopping,restaurant,attraction
+4120	4	USER	営業時間と最寄り駅を教えてください	general,shopping,restaurant,attraction
+4120	5	SYSTEM	営業時間は10:00～20:00で、最寄り駅は仙台駅でございます。	general,shopping,restaurant,attraction
+4120	6	USER	当日郷土料理が食べられるお店はありませんか	general,shopping,restaurant,attraction
+4120	7	SYSTEM	たんや善治郎 タピオ店はいかがですか。	general,shopping,restaurant,attraction
+4120	8	USER	どのエリアにありますか	general,shopping,restaurant,attraction
+4120	9	SYSTEM	エリアは泉区でございます。	general,shopping,restaurant,attraction
+4120	10	USER	最寄り駅はどの駅でしょうか	general,shopping,restaurant,attraction
+4120	11	SYSTEM	最寄り駅は泉中央駅でございます。	general,shopping,restaurant,attraction
+4120	12	USER	5月18日の12時30分に4人で予約お願いします	general,shopping,restaurant,attraction
+4120	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は20847でございます。	general,shopping,restaurant,attraction
+4120	14	USER	ありがとうござます、当日無料で駐車場が利用できる観光スポットは愛宕橋駅の近くでありませんか	general,shopping,restaurant,attraction
+4120	15	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,shopping,restaurant,attraction
+4120	16	USER	では愛宕橋駅以外ではありますか	general,shopping,restaurant,attraction
+4120	17	SYSTEM	スリーエム仙台市科学館がございますがいかがでしょうか。	general,shopping,restaurant,attraction
+4120	18	USER	ありがとうございます、wifiはありますかあとエリアはどのあたりでしょうか	general,shopping,restaurant,attraction
+4120	19	SYSTEM	Wi-Fiはございません。エリアは青葉区でございます。	general,shopping,restaurant,attraction
+4120	20	USER		general,shopping,restaurant,attraction

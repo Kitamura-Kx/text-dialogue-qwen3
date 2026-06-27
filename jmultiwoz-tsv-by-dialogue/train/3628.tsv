@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3628	0	USER	仙台に旅行を計画していて、宮城野区のアウトレットモールで買い物がしたいです。	general,shopping,attraction
+3628	1	SYSTEM	承知いたしました。そうしますと、三井アウトレットパーク 仙台港がご案内可能でございます。いかがでしょうか？	general,shopping,attraction
+3628	2	USER	ありがとうございます。そのお店の定休日はいつですか。	general,shopping,attraction
+3628	3	SYSTEM	定休日は不定休となっております。	general,shopping,attraction
+3628	4	USER	ありがとうございます。あと、アートギャラリーの観られる観光名所に行きたいです。Wi-Fiと駐車場が無料で利用できるところでお願いします。	general,shopping,attraction
+3628	5	SYSTEM	かしこまりました。ご案内出来ますスポットが、仙台市文学館のみでございますがいかがでしょうか？	general,shopping,attraction
+3628	6	USER	その施設のエリアはどこでしょうか。	general,shopping,attraction
+3628	7	SYSTEM	青葉区エリアでございます。	general,shopping,attraction
+3628	8	USER	ありがとうございます。これで大丈夫です。	general,shopping,attraction
+3628	9	SYSTEM	ありがとうございました。	general,shopping,attraction

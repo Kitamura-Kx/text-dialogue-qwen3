@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1329	0	USER	大阪への旅行を計画しているのですが。	general,hotel
+1329	1	SYSTEM	はい。お問合せありがとうございます。	general,hotel
+1329	2	USER	当日泊まる宿泊施設を探してください．レストランが併設されているところで、地区は港区、Wi-Fiが無料で利用できるところがいいです。	general,hotel
+1329	3	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,hotel
+1329	4	USER	でしたら、地区はどこでもいいです。	general,hotel
+1329	5	SYSTEM	でしたら、アパホテル〈御堂筋本町駅前〉はいかがでしょうか。	general,hotel
+1329	6	USER	いいですね。そちらのチェックイン開始時刻を教えていただけますか。	general,hotel
+1329	7	SYSTEM	チェックイン開始時刻は15:00となっています。	general,hotel
+1329	8	USER	ありがとうございます。	general,hotel

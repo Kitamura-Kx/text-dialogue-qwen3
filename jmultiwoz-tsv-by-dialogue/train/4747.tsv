@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4747	0	USER	名古屋へ旅行予定なのですが、東区で駐車場を無料で使えて、書籍を購入できる店ってありますか？	general,shopping,attraction,taxi
+4747	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,attraction,taxi
+4747	2	USER	そうですか。では東区以外でもかまいません。	general,shopping,attraction,taxi
+4747	3	SYSTEM	ありがとうございます。では、エリアでいうと千種区にある、らくだ書店 本店はいかがでしょう？	general,shopping,attraction,taxi
+4747	4	USER	そこにします。営業時間と最寄り駅を調べてください。	general,shopping,attraction,taxi
+4747	5	SYSTEM	はい、営業時間は10時から０時、最寄りの吹上駅から徒歩で7分となります。	general,shopping,attraction,taxi
+4747	6	USER	わかりました。あと、駐車場とWi-Fiが無料で利用できる観光名所ってどこかありますか？	general,shopping,attraction,taxi
+4747	7	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,attraction,taxi
+4747	8	USER	そうですか。なら、Wi-Fiは使えなくても大丈夫です。	general,shopping,attraction,taxi
+4747	9	SYSTEM	では、エリアでいうと天白区にある、塩竈神社はいかがでしょう？ジャンルは、神社、寺院、教会、モニュメントなどとなります。	general,shopping,attraction,taxi
+4747	10	USER	いいですね。最寄り駅ってどこですか？	general,shopping,attraction,taxi
+4747	11	SYSTEM	塩釜口駅となります。	general,shopping,attraction,taxi
+4747	12	USER	わかりました。あと、タクシーを利用したくて、キャッシュレス払いできるところを調べてください。	general,shopping,attraction,taxi
+4747	13	SYSTEM	申し訳ありません、キャッシュレス対応のタクシー会社はございません。いかが致しましょう？	general,shopping,attraction,taxi
+4747	14	USER	なるほど。ではキャッシュレス払いがなくても大丈夫です。	general,shopping,attraction,taxi
+4747	15	SYSTEM	ありがとうございます。丸八交通はいかがでしょう？ジャンボタクシーには対応しております。電話番号は、0528026711となります。	general,shopping,attraction,taxi
+4747	16	USER	そこにします。2/23の12:40にらくだ書店 本店から塩竈神社まで予約してください。	general,shopping,attraction,taxi
+4747	17	SYSTEM	承知しました。予約が完了し、ご予約番号は、21264となります。	general,shopping,attraction,taxi
+4747	18	USER	ありがとうございます。	general,shopping,attraction,taxi
+4747	19	SYSTEM	ありがとうございました。	general,shopping,attraction,taxi

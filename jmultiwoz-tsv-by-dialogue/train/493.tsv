@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+493	0	USER	大阪への旅行を計画しているのですが、当日食事ができるお店を探してください。	general,restaurant
+493	1	SYSTEM	承知しました。ジャンルなど、何かご希望はございますか？	general,restaurant
+493	2	USER	寿司・魚料理で中央区がよいです。	general,restaurant
+493	3	SYSTEM	ありがとうございます。それでは、神楽はいかがでしょう？値段帯は高め、Wi-Fiは無料でご利用いただけます。	general,restaurant
+493	4	USER	そちらにしたいと思います。電話番号，近辺の駅からの所要時間，営業時間を教えていただけますか。	general,restaurant
+493	5	SYSTEM	はい、電話番号は0662510831、最寄りの長堀橋駅から徒歩で3分、営業時間は17時から0時となります。	general,restaurant
+493	6	USER	ありがとうございます。では、1月26日の11:50から4人で予約をお願いします。	general,restaurant
+493	7	SYSTEM	申し訳ありません。その条件では予約できませんでした。いかが致しましょう？	general,restaurant
+493	8	USER	時間を変更します。12:50で予約をお願いします。	general,restaurant
+493	9	SYSTEM	ありがとうございます。予約が完了しました。ご予約番号は、96572となります。	general,restaurant
+493	10	USER	ありがとうございました！	general,restaurant

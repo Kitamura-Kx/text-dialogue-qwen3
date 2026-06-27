@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2905	0	USER	今度、京都への旅行を考えています。ジャンボタクシーを利用できるタクシー会社を教えていただけますか？	general,taxi
+2905	1	SYSTEM	はい、都タクシー株式会社をお勧めします。	general,taxi
+2905	2	USER	そちらはキャッシュレス払いできますか？それと、電話番号を教えて下さい。	general,taxi
+2905	3	SYSTEM	キャッシュレス対応、電話は0756616611です。	general,taxi
+2905	4	USER	分かりました。それでは、8月17日の午前9時40分に京都市障害者教養文化・体育会館から松本旅館まで予約をお願いします。	general,taxi
+2905	5	SYSTEM	予約成功しました。予約番号は19644です。	general,taxi
+2905	6	USER	ありがとうございました。助かりました。それでは失礼します。	general,taxi

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1879	0	USER	こんにちは。今、横浜旅行を計画しているところなので、案内をお願いしたいと思いまして。よろしくお願いします。	general,restaurant,hotel,taxi
+1879	1	SYSTEM	はい。ご案内させていただきます。よろしくおねがいします。	general,restaurant,hotel,taxi
+1879	2	USER	えっと、青葉区にある、最寄り駅が西横浜駅となるような飲食店は、どこか良い所ってありますか？	general,restaurant,hotel,taxi
+1879	3	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,hotel,taxi
+1879	4	USER	そうなんですね。じゃぁ、最寄り駅はどこでもオッケーです。	general,restaurant,hotel,taxi
+1879	5	SYSTEM	かしこまりました。では、うなぎ料理 しま村 青葉台店はいかがでしょうか？	general,restaurant,hotel,taxi
+1879	6	USER	美味しそうな所ですね。そこで検討しますね。あと、宿泊施設も探してるんですけど、宿のタイプは簡易宿所（ベッドハウス・山小屋・カプセルホテル等）で、WiFiと駐車場が無料で使える所はどこかありますか？	general,restaurant,hotel,taxi
+1879	7	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,restaurant,hotel,taxi
+1879	8	USER	そうなんですね。じゃぁ、宿のタイプを変更します。今度は旅館でお願いします。	general,restaurant,hotel,taxi
+1879	9	SYSTEM	かしこまりました。では、旅館 松島はいかがでしょうか？	general,restaurant,hotel,taxi
+1879	10	USER	わかりました。そこって、チェックアウト終了時刻は何時ごろになりますか？	general,restaurant,hotel,taxi
+1879	11	SYSTEM	チェックアウト終了時刻は10:00になります。	general,restaurant,hotel,taxi
+1879	12	USER	ありがとうございます。それから、ジャンボタクシーを利用できるタクシー会社も探しているのですが、お願いできますか？	general,restaurant,hotel,taxi
+1879	13	SYSTEM	かしこまりました。では、スタジアム交通株式会社はいかがでしょうか？キャッシュレスにも対応しております。	general,restaurant,hotel,taxi
+1879	14	USER	そうなんですね。では、そちらを利用しようかと思います。12月13日の15時50分に、先ほどのうなぎ料理 しま村 青葉台店から、旅館 松島までで、予約をお願いできますか？	general,restaurant,hotel,taxi
+1879	15	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,hotel,taxi
+1879	16	USER	そうでしたか。じゃぁ、時間を16時30分に変えてお願いします。	general,restaurant,hotel,taxi
+1879	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、89857です。	general,restaurant,hotel,taxi
+1879	18	USER	ありがとうございます。書き留めました。	general,restaurant,hotel,taxi
+1879	19	SYSTEM	他にご用件はありますか？	general,restaurant,hotel,taxi
+1879	20	USER	いえ、あとは大丈夫です。今回は、ありがとうございました。	general,restaurant,hotel,taxi
+1879	21	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel,taxi

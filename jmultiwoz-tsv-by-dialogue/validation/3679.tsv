@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3679	0	USER	今度札幌に行くのですが、宿泊施設を探しています。	general,hotel
+3679	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel
+3679	2	USER	Wi-Fiが無料で、レストランが併設されているところがいいです。あと、予算は普通が希望です。	general,hotel
+3679	3	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel
+3679	4	USER	では、予算を安めにしてください。	general,hotel
+3679	5	SYSTEM	かしこまりました。では、東急ステイ札幌はいかがでしょうか？	general,hotel
+3679	6	USER	ありがとうございます。そちらの施設のタイプと、料金情報が知りたいです。	general,hotel
+3679	7	SYSTEM	はい。タイプはビジネスホテルで、料金情報としては、値段帯が安めというくらいしかわかりません。申し訳ございません。	general,hotel
+3679	8	USER	とんでもございません。分かりました。以上です、ありがとうございました！	general,hotel
+3679	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

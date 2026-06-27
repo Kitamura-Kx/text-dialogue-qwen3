@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4965	0	USER	仙台へ旅行予定なのですがWi-Fiが無料な観光名所ってどこかあります？	general,attraction
+4965	1	SYSTEM	かしこまりました。それでは、仙台アンパンマンこどもミュージアム&モールはいかがでしょうか？	general,attraction
+4965	2	USER	そこいいですね。駐車場の有無と子供入場料、あとエリアも知りたいです。	general,attraction
+4965	3	SYSTEM	はい、駐車場は有料ですがございます。子供の入場料は2000円でございます。また、エリアは宮城野区に該当致します。	general,attraction
+4965	4	USER	了解です。もう用件は済みました。	general,attraction
+4965	5	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction

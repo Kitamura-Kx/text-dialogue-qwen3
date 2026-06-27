@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+902	0	USER	札幌へ旅行予定なのですが厚別区の11月12日の天気を教えてください。	general,weather,taxi
+902	1	SYSTEM	その日の天気は、曇のち晴です。	general,weather,taxi
+902	2	USER	ありがとうございます。タクシーを利用することを考えているのですが、ジャンボタクシーを利用できて、キャッシュレス払いに対応しているところはありますか？	general,weather,taxi
+902	3	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,weather,taxi
+902	4	USER	わかりました。ジャンボタクシーは利用できなくても大丈夫です。	general,weather,taxi
+902	5	SYSTEM	日北交通(株)は、いかがでしょうか？	general,weather,taxi
+902	6	USER	ではそこにします。電話番号を教えてください。	general,weather,taxi
+902	7	SYSTEM	電話番号は、0118888686です。	general,weather,taxi
+902	8	USER	わかりました。11月12日の9時30分で、砥山ふれあい果樹園からアカチャンホンポ アリオ札幌店までの予約をお願いしていいですか？	general,weather,taxi
+902	9	SYSTEM	予約出来ました。予約番号は、12266です。	general,weather,taxi
+902	10	USER	ありがとうございます。	general,weather,taxi
+902	11	SYSTEM	他にご用件はございますか？	general,weather,taxi
+902	12	USER	いえ、大丈夫です。	general,weather,taxi
+902	13	SYSTEM	承知致しました。　ありがとうございました。	general,weather,taxi

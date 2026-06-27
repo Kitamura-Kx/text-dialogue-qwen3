@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1129	0	USER	名古屋へ旅行に行こうと思っています。食事ができる飲食店を探しています。予算は安めで無料でWi-Fiが利用できるところが希望です。	general,restaurant,hotel,shopping
+1129	1	SYSTEM	申し訳ありません。この条件ではご案内できません。いかが致しましょう？	general,restaurant,hotel,shopping
+1129	2	USER	でしたら、Wi-Fiはなくても良いです。	general,restaurant,hotel,shopping
+1129	3	SYSTEM	ありがとうございます。エリアでいうと東区にある、ソウルキッチンはいかがでしょう？何か必要なご案内はございますか？	general,restaurant,hotel,shopping
+1129	4	USER	そこが良さそうですね。そこの住所を教えてください。	general,restaurant,hotel,shopping
+1129	5	SYSTEM	はい、住所は愛知県名古屋市東区東桜1丁目2-29となります。予約されますか？	general,restaurant,hotel,shopping
+1129	6	USER	予約は結構です。当日泊まる宿泊施設でWi-Fiが無料で最寄り駅が東別院駅のところを教えてください。	general,restaurant,hotel,shopping
+1129	7	SYSTEM	申し訳ありません。その条件ではご紹介できないのですが、いかが致しましょう？	general,restaurant,hotel,shopping
+1129	8	USER	でしたら、最寄り駅が東別院駅でなくても良いです。	general,restaurant,hotel,shopping
+1129	9	SYSTEM	ありがとうございます。エリアでいうと港区にある、旅館 広船はいかがでしょう？タイプは旅館となります。何か必要なご案内はございますか？	general,restaurant,hotel,shopping
+1129	10	USER	そこが良さそうです。そこの料金情報を教えてください。	general,restaurant,hotel,shopping
+1129	11	SYSTEM	申し訳ありません。こちらからご案内可能な料金情報はございません。他にご案内できることはございますか？	general,restaurant,hotel,shopping
+1129	12	USER	それでしたら、当日買い物ができるところを教えてください。ジャンルはお土産です。	general,restaurant,hotel,shopping
+1129	13	SYSTEM	はい。エリアでいうと中区にある、山中羊羹舗はいかがでしょう？何か必要なご案内はございますか？	general,restaurant,hotel,shopping
+1129	14	USER	そこが良さそうですね。近辺の駅からの所要時間を教えてください。	general,restaurant,hotel,shopping
+1129	15	SYSTEM	はい、最寄りの上前津駅から徒歩で2分となります。他にご用件はございますか？	general,restaurant,hotel,shopping
+1129	16	USER	大丈夫です。ありがとうございました。	general,restaurant,hotel,shopping
+1129	17	SYSTEM	ありがとうございました。	general,restaurant,hotel,shopping

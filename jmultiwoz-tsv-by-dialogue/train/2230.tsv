@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2230	0	USER	京都へ旅行に行きたいのですが。	general,taxi
+2230	1	SYSTEM	かしこまりました。何をお調べ致しますか？	general,taxi
+2230	2	USER	キャッシュレス払いができて、ジャンボタクシーが利用できるタクシー会社を探してください。	general,taxi
+2230	3	SYSTEM	かしこまりました。それでは都タクシー株式会社さんはいかがでしょうか？	general,taxi
+2230	4	USER	そちらの電話番号はわかりますか？	general,taxi
+2230	5	SYSTEM	はい、0756616611でございます。	general,taxi
+2230	6	USER	ありがとうございます。ではそちらで予約をお願いします。10/9、10:50に京・朱雀 すし市場を出発で、カメラのナニワ 京都店までお願いします。	general,taxi
+2230	7	SYSTEM	お待たせ致しました。それでは、予約番号88864でお取りさせていただきました。	general,taxi
+2230	8	USER	ありがとうございます。	general,taxi
+2230	9	SYSTEM	その他に何かご用件はございますか？	general,taxi
+2230	10	USER	特にありません。ありがとうございました。	general,taxi
+2230	11	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi

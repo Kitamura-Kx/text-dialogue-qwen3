@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+849	0	USER	札幌に旅行しますが、安めのレストランで駐車場が無料のお店はありますか？	general,restaurant,shopping
+849	1	SYSTEM	はい、6件ほどご案内可能です。レストランは、ホテルレストランのジャンルもございますが、特にジャンルのご指定はなかったでしょうか？	general,restaurant,shopping
+849	2	USER	安めの飲食店ならどこでも良いです。	general,restaurant,shopping
+849	3	SYSTEM	承知いたしました。では、三代目 月見軒 本店という、ラーメン・つけ麺のお店はいかがでしょうか？	general,restaurant,shopping
+849	4	USER	そのラーメン屋さんの電話番号と住所、最寄り駅はわかりますか？	general,restaurant,shopping
+849	5	SYSTEM	電話番号は、0118716767です。住所は、北海道札幌市白石区北郷3条12丁目7-34でございます。最寄りは平和駅で、徒歩で8分の距離にございます。	general,restaurant,shopping
+849	6	USER	わかりました。ではそちらのお店の予約をお願いします。２人で、2/1 12:40で予約してください。	general,restaurant,shopping
+849	7	SYSTEM	ご予約ありがとうございます。予約を承りました。ご予約番号は、39521でございます。	general,restaurant,shopping
+849	8	USER	あと、駐車場を無料で利用できるお店で買い物をしたいです。自動車や自転車店はありますか？	general,restaurant,shopping
+849	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping
+849	10	USER	わかりました。では、ジャンルは別のものでもかまいません。	general,restaurant,shopping
+849	11	SYSTEM	かしこまりました。そういたしますと、TSUTAYA 美しが丘というお店は、いかがでしょうか？ジャンルとしては、書籍, 文房具・雑貨, 医薬品・化粧品となります。	general,restaurant,shopping
+849	12	USER	いいですね。ではそちらの最寄り駅と電話番号を教えてください。	general,restaurant,shopping
+849	13	SYSTEM	最寄りは、上野幌駅です。ただ、上野幌駅からはタクシーで14分ほどかかります。電話番号は、0118861111でございます。	general,restaurant,shopping
+849	14	USER	ありがとうございます。今知りたいことは以上です。	general,restaurant,shopping
+849	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,shopping

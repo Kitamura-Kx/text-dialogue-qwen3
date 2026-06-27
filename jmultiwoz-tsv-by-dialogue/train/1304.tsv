@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1304	0	USER	こんにちは。京都旅行を検討中なので、飲食店を探しています。	general,restaurant,weather
+1304	1	SYSTEM	京都のお食事処ですね。ジャンルやエリアなど、何かご希望はございますか？	general,restaurant,weather
+1304	2	USER	そうですね、左京区で、予算は普通の感じでお願いします。あと、駐車場が無料だとありがたいです。	general,restaurant,weather
+1304	3	SYSTEM	そうしますと、1件ご案内可能です。稲穂食堂というアジア・エスニック料理のお店はいかがでしょうか？	general,restaurant,weather
+1304	4	USER	よさそうですね。そちらへは、最寄り駅からどれくらいかかりますか？住所も教えていただけると助かります。	general,restaurant,weather
+1304	5	SYSTEM	最寄りは一乗寺駅でして、徒歩8分ほどでアクセスできます。住所は、京都府京都市左京区高野玉岡町33-4 Nature bldg 2Fです。	general,restaurant,weather
+1304	6	USER	ありがとうございます。それと、訪問予定が8/21なのですが、南区のお天気を教えていただくことはできますか？	general,restaurant,weather
+1304	7	SYSTEM	はい、かしこまりました。当日の天気は曇りの予報です。最低気温は28.2度、最高気温は35.1度の予想となっております。	general,restaurant,weather
+1304	8	USER	詳しくありがとうございます。	general,restaurant,weather
+1304	9	SYSTEM	他になにかお調べすることはございますか？	general,restaurant,weather
+1304	10	USER	いえ、大丈夫です。またよろしくお願いします。	general,restaurant,weather
+1304	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,weather

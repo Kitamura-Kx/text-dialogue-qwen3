@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3367	0	USER	東京へ行くのですが、ジャンボタクシーを利用できる所教えて下さい。キャッシュレスだと嬉しいです。	general,taxi
+3367	1	SYSTEM	かしこまりました。キャピタルオートという会社ですと、両者対応しております。	general,taxi
+3367	2	USER	ありがとうございます。電話番号も教えて下さい。	general,taxi
+3367	3	SYSTEM	電話番号は、0357552151でございます。	general,taxi
+3367	4	USER	では、3月11日の12時で、ビジネスホテル新大久保石亭からみんちや by Salirまで予約お願いします。	general,taxi
+3367	5	SYSTEM	ご予約承りました。ご予約番号は、72202でございます。	general,taxi
+3367	6	USER	ありがとうございました。では、失礼します。	general,taxi
+3367	7	SYSTEM	ありがとうございました。	general,taxi

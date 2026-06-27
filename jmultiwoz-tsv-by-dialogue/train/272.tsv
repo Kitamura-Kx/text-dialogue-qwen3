@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+272	0	USER	恐れ入ります。京都で食事ができる場所を探してほしいんですが、お願いできますか？	general,restaurant,weather
+272	1	SYSTEM	承知致しました。京都の飲食店ですと100件ほど該当致します。何かご希望ございますか？	general,restaurant,weather
+272	2	USER	南区周辺でフリーwifiが使えるところでお願いします。	general,restaurant,weather
+272	3	SYSTEM	申し訳ございません。該当するお店がございません。	general,restaurant,weather
+272	4	USER	そうですか。では南区の近くでなくても、構いません。	general,restaurant,weather
+272	5	SYSTEM	承知致しました。京都のフリーwifi対応店は3件ございます。スペインバル Ternuraはいかがでしょうか？	general,restaurant,weather
+272	6	USER	良さそうですね。そこの料金について、詳しく教えてもらえますか？	general,restaurant,weather
+272	7	SYSTEM	承知致しました。伊賀産もち豚のロースハムシュークルトが880円、おまかせピンチョス４本立ては990円、ランチのパエリア950円などとなっております。	general,restaurant,weather
+272	8	USER	とても行きたくなってきました。できれば、2月16日の天気も調べていただけますか？	general,restaurant,weather
+272	9	SYSTEM	2月16日でお調べいたします。京都のご希望のエリアを教えてください。	general,restaurant,weather
+272	10	USER	北区の近くの天気と最高気温が知りたいです。	general,restaurant,weather
+272	11	SYSTEM	2/16、京都帰宅の天気は晴れです。最高気温は3.8度の予想でございます。	general,restaurant,weather
+272	12	USER	寒いんですね。ありがとうございます。	general,restaurant,weather
+272	13	SYSTEM	大変失礼いたしました。お伝えした内容に誤りがございました。訂正をさせていただいてもよろしいでしょうか。	general,restaurant,weather
+272	14	USER	はい、お願いします。	general,restaurant,weather
+272	15	SYSTEM	2/16、京都帰宅の天気は晴れです。最高気温は6.4度の予想でございます。お伝えしてしまいました3.8度が最低気温でございます。申し訳ございませんでした。	general,restaurant,weather
+272	16	USER	丁寧にありがとうございます。今日聞きたかったことは、以上です。助かりました。	general,restaurant,weather
+272	17	SYSTEM	承知いたしました。	general,restaurant,weather

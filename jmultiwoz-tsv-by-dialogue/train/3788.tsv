@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3788	0	USER	京都への旅行を計画しているのですが、宿泊施設を探してもらえますか？	general,hotel,restaurant,shopping
+3788	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,hotel,restaurant,shopping
+3788	2	USER	伏見区で、駐車場を無料で使えるところが良いです。	general,hotel,restaurant,shopping
+3788	3	SYSTEM	そうしますと、旅館 寿々喜荘という、お値段帯がお安めの旅館はいかがでしょうか？	general,hotel,restaurant,shopping
+3788	4	USER	そちらでお願いします。電話番号を教えて下さい。	general,hotel,restaurant,shopping
+3788	5	SYSTEM	はい、電話番号は、0756116622でございます。	general,hotel,restaurant,shopping
+3788	6	USER	駐車場が無料の飲食店はありますか？予算は普通で、寿司・魚料理が希望です。	general,hotel,restaurant,shopping
+3788	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,restaurant,shopping
+3788	8	USER	それなら駐車場は考慮しなくても大丈夫です。	general,hotel,restaurant,shopping
+3788	9	SYSTEM	ありがとうございます。では、漁港直送 海鮮酒場 あんじ 麩屋町綾小路店というお店はいかがでしょうか？	general,hotel,restaurant,shopping
+3788	10	USER	いいですね、そちらの定休日と最寄り駅はわかりますか？	general,hotel,restaurant,shopping
+3788	11	SYSTEM	はい、こちらは定休日はございません。最寄り駅は京都河原町駅で、徒歩2分でアクセスできます。	general,hotel,restaurant,shopping
+3788	12	USER	ありがとうございます。買い物もしたいのですが、南区にそういう場所はありますか？	general,hotel,restaurant,shopping
+3788	13	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel,restaurant,shopping
+3788	14	USER	では、南区でなくても大丈夫です。	general,hotel,restaurant,shopping
+3788	15	SYSTEM	ありがとうございます。では、伏見区の竜馬通り商店街というところは、ご興味ございませんか？	general,hotel,restaurant,shopping
+3788	16	USER	いいですね、そこにします。近辺の駅からの所要時間と、最寄り駅、定休日を教えて下さい。	general,hotel,restaurant,shopping
+3788	17	SYSTEM	はい、最寄りは中書島駅でして、徒歩で5分ほどの距離にございざいます。また、桃山御陵前駅からも徒歩で10分でアクセスできます。定休日は、店舗により異なるようです。	general,hotel,restaurant,shopping
+3788	18	USER	ありがとうございます。	general,hotel,restaurant,shopping
+3788	19	SYSTEM	他にお調べすることはございませんか？	general,hotel,restaurant,shopping
+3788	20	USER	はい、ありがとうございました。	general,hotel,restaurant,shopping
+3788	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,restaurant,shopping

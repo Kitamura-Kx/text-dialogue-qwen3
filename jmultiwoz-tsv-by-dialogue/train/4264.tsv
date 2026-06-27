@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4264	0	USER	那覇への旅行を予定しています。当日観光名所を訪れたいのですが、Wi-Fiと駐車場が無料で使えるところはありますか。	general,attraction,restaurant,hotel
+4264	1	SYSTEM	かしこまりました。ほかにご希望の条件はございませんか。	general,attraction,restaurant,hotel
+4264	2	USER	特にないです。	general,attraction,restaurant,hotel
+4264	3	SYSTEM	では那覇空港はいかがでしょうか。	general,attraction,restaurant,hotel
+4264	4	USER	空港も観光名所なのですね。では、そちらの住所とジャンルをお知らせください。	general,attraction,restaurant,hotel
+4264	5	SYSTEM	住所は沖縄県那覇市鏡水150で、ジャンルはその他と鳴っております。	general,attraction,restaurant,hotel
+4264	6	USER	ありがとうございます。当日食事ができるお店も探してほしいです。地区は小禄で、予算は安めでお願いします。	general,attraction,restaurant,hotel
+4264	7	SYSTEM	では、いしぐふー 小禄具志店はいかがですか。	general,attraction,restaurant,hotel
+4264	8	USER	そちらは、駐車場は無料でしょうか。無料がよいです。	general,attraction,restaurant,hotel
+4264	9	SYSTEM	はい。こちら駐車場無料でご利用いただけます。	general,attraction,restaurant,hotel
+4264	10	USER	ありがとうございます！よかったです。では、近辺の駅からの所要時間と料金情報を教えてください。	general,attraction,restaurant,hotel
+4264	11	SYSTEM	はい。赤嶺駅からタクシーで7分、赤嶺駅から徒歩で21分となっております。料金情報としては、いしぐふーそばが980円、あぶり丼そばセットが980円でございます。	general,attraction,restaurant,hotel
+4264	12	USER	情報をありがとうございます。では、7月23日の14時10分、3名で予約をお願いします。	general,attraction,restaurant,hotel
+4264	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は62882でございます。	general,attraction,restaurant,hotel
+4264	14	USER	続けて当日泊まる施設を探してください。レストランが付いていて、駐車場が無料のところがよいです。	general,attraction,restaurant,hotel
+4264	15	SYSTEM	ではパシフィックホテル沖縄はいかがでしょうか。	general,attraction,restaurant,hotel
+4264	16	USER	そちらの電話番号とチェックイン開始時刻を教えていただけますか。	general,attraction,restaurant,hotel
+4264	17	SYSTEM	電話番号は0988685162で、チェックイン開始時刻が15:00となっております。	general,attraction,restaurant,hotel
+4264	18	USER	情報をありがとうございました。後で予約したいと思います。	general,attraction,restaurant,hotel

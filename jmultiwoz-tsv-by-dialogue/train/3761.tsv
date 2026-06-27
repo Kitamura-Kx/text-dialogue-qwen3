@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3761	0	USER	横浜への旅行を計画しています	general,shopping,attraction,taxi
+3761	1	SYSTEM	どのようなお店や施設をお探しですか？	general,shopping,attraction,taxi
+3761	2	USER	駐車場が無料で、ジャンルは自動車・自転車です。	general,shopping,attraction,taxi
+3761	3	SYSTEM	カモのですね。　1件みつかりました。ヤマダ電機 テックランド上山店はいかがですか？	general,shopping,attraction,taxi
+3761	4	USER	そちらにします。営業時間と定休日を教えて下さい	general,shopping,attraction,taxi
+3761	5	SYSTEM	営業時間は、10時15分から21時までです。　定休日は、無しです。	general,shopping,attraction,taxi
+3761	6	USER	ありがとうございます	general,shopping,attraction,taxi
+3761	7	SYSTEM	他にご用件はありますか？	general,shopping,attraction,taxi
+3761	8	USER	地区が中区で、駐車場無料の観光名所を探しています。ジャンルは建築物です。	general,shopping,attraction,taxi
+3761	9	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,attraction,taxi
+3761	10	USER	では、駐車場は考慮しないで大丈夫です	general,shopping,attraction,taxi
+3761	11	SYSTEM	では、横浜赤レンガ倉庫はいかがですか？	general,shopping,attraction,taxi
+3761	12	USER	そちらは、Wi-Fiは利用できますか？	general,shopping,attraction,taxi
+3761	13	SYSTEM	はい、無料Wi-Fiの利用が可能です。	general,shopping,attraction,taxi
+3761	14	USER	わかりました。	general,shopping,attraction,taxi
+3761	15	SYSTEM	他にご用件はありますか？	general,shopping,attraction,taxi
+3761	16	USER	キャッシュレスで、ジャンボタクシーが利用できる、タクシー会社を探しています。	general,shopping,attraction,taxi
+3761	17	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,attraction,taxi
+3761	18	USER	では、ジャボタクシーは考慮しなくて大丈夫です	general,shopping,attraction,taxi
+3761	19	SYSTEM	それでしたら、横浜北交通株式会社はいかがですか？	general,shopping,attraction,taxi
+3761	20	USER	そちらの電話番号を教えていただけますか？	general,shopping,attraction,taxi
+3761	21	SYSTEM	はい、電話番号は、0120915502です。	general,shopping,attraction,taxi
+3761	22	USER	ありがとうございます。そちらのタクシーの予約をしたいです。	general,shopping,attraction,taxi
+3761	23	SYSTEM	予約希望の日時と出発地と目的地をお知らせください。	general,shopping,attraction,taxi
+3761	24	USER	日付は8/24で、時間は16:20です。出発地は先ほど見つけた買い物店舗で、目的地は先ほど見つけた観光施設です。	general,shopping,attraction,taxi
+3761	25	SYSTEM	予約が完了しました。　予約番号は、91355です。	general,shopping,attraction,taxi
+3761	26	USER	ありがとうございます。以上です。	general,shopping,attraction,taxi
+3761	27	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction,taxi

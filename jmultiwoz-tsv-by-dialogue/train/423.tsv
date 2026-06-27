@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+423	0	USER	東京に旅行するので、買い物できる場所を探してもらえますか？	general,shopping
+423	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping
+423	2	USER	駐車場を無料で利用できるお土産屋さんがいいです。	general,shopping
+423	3	SYSTEM	申し訳ございません。その条件ですと案内できるところがございませんでした。	general,shopping
+423	4	USER	それでは、お店のジャンルは何でもいいです。	general,shopping
+423	5	SYSTEM	では日本橋高島屋S.C.はいかがでしょうか。	general,shopping
+423	6	USER	そちらに行きたいと思います。営業時間と定休日を教えて頂けないでしょうか。	general,shopping
+423	7	SYSTEM	営業時間は10:30～19:30でございます。定休日はございません。	general,shopping
+423	8	USER	ありがとうございました。	general,shopping

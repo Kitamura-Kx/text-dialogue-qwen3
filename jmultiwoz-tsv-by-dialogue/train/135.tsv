@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+135	0	USER	仙台旅行するんですけど、泉区で買い物できるところを教えてください。	general,shopping,hotel,weather
+135	1	SYSTEM	承知致しました。ジャンルのご希望はございますか？	general,shopping,hotel,weather
+135	2	USER	その他で探してください。	general,shopping,hotel,weather
+135	3	SYSTEM	ありがとうございます。それでは、蔦屋書店 仙台泉店はいかがでしょう？住所は仙台市泉区大沢2-12-4、電話番号は、0227722011、営業時間は9時から21時となっております。	general,shopping,hotel,weather
+135	4	USER	詳しくありがとうございます。そこって最寄りの駅はどこですか？	general,shopping,hotel,weather
+135	5	SYSTEM	最寄り駅は泉中央駅で、駅から徒歩で51分、タクシーで15分となっております。	general,shopping,hotel,weather
+135	6	USER	ありがとうございます。宿も探してるんですけど、宮城野区でいい所ありませんか？	general,shopping,hotel,weather
+135	7	SYSTEM	宿のタイプやWi-Fiの有無、値段帯などのご希望はございますか？	general,shopping,hotel,weather
+135	8	USER	特にないです。おすすめの宿を教えてください。	general,shopping,hotel,weather
+135	9	SYSTEM	それでは、ホテルビスタ仙台はいかがでしょう？住所は仙台市宮城野区榴岡1丁目7-3、電話番号は、0223856222、Wi-Fiが無料でご利用いただけます。値段帯は安めとなっております。	general,shopping,hotel,weather
+135	10	USER	いいですね。そこで12月20日から3泊、4人で予約入れられますか？	general,shopping,hotel,weather
+135	11	SYSTEM	はい、予約完了致しまして、ご予約番号は、40462　となります。	general,shopping,hotel,weather
+135	12	USER	助かりました。ついでと言ってはなんですが、12月20日の若林区の天候や気温なんて分かりますか？	general,shopping,hotel,weather
+135	13	SYSTEM	はい、天気は曇時々晴、最低気温は3.6度、最高気温は7.6度となっております。	general,shopping,hotel,weather
+135	14	USER	うわあ、やっぱ寒いですね。厚着してこっと！すごいなんでもやってもらえるんですね、ほんとありがたかったです。お世話になりました。	general,shopping,hotel,weather

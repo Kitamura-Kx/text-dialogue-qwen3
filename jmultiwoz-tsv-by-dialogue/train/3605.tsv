@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3605	0	USER	横浜でジャンルがエンタメ・アミューズメントの観光名所を探しています。駐車場が無料の所でお願いします。	general,attraction,shopping,taxi
+3605	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,shopping,taxi
+3605	2	USER	では、ジャンルは何でも良いです。	general,attraction,shopping,taxi
+3605	3	SYSTEM	では横浜ブリキのおもちゃ博物館がございます。	general,attraction,shopping,taxi
+3605	4	USER	最寄り駅と住所を教えてください。	general,attraction,shopping,taxi
+3605	5	SYSTEM	最寄り駅が元町・中華街駅で、住所は神奈川県横浜市中区山手町239-2でございます。	general,attraction,shopping,taxi
+3605	6	USER	ありがとうございます。あと港南区の中山駅近くで駐車場が無料のお店を探しています。	general,attraction,shopping,taxi
+3605	7	SYSTEM	恐れ入りますが、お探しなのは飲食店でございますか。	general,attraction,shopping,taxi
+3605	8	USER	買い物ができるお店を探しています。	general,attraction,shopping,taxi
+3605	9	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,shopping,taxi
+3605	10	USER	では地区はどこでも良いです。	general,attraction,shopping,taxi
+3605	11	SYSTEM	ではヤマダ電機 テックランド上山店がございます。	general,attraction,shopping,taxi
+3605	12	USER	ありがとうございます。営業時間と駅からどれくらい時間がかかるか教えてください。	general,attraction,shopping,taxi
+3605	13	SYSTEM	営業時間は10:15～21:00で、中山駅からバスで6分でございます。	general,attraction,shopping,taxi
+3605	14	USER	わかりました。あとキャッシュレス払いができるジャンボタクシーを探してほしいです。	general,attraction,shopping,taxi
+3605	15	SYSTEM	申し訳ございません。どちらにも対応している会社がありませんでした。いかがなさいますか。	general,attraction,shopping,taxi
+3605	16	USER	ジャンボタクシーじゃなくても大丈夫です。	general,attraction,shopping,taxi
+3605	17	SYSTEM	では横浜北交通株式会社がございます。	general,attraction,shopping,taxi
+3605	18	USER	電話番号を教えてください。	general,attraction,shopping,taxi
+3605	19	SYSTEM	電話番号は0120915502でございます。	general,attraction,shopping,taxi
+3605	20	USER	ありがとうございます。このタクシーを10/14の13：20に横浜ブリキのおもちゃ博物館からヤマダ電機 テックランド上山店までを予約したいです。	general,attraction,shopping,taxi
+3605	21	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は60422でございます。	general,attraction,shopping,taxi
+3605	22	USER	ありがとうございました。	general,attraction,shopping,taxi
+3605	23	SYSTEM	ほかにご用件はございませんか。	general,attraction,shopping,taxi
+3605	24	USER	大丈夫です。	general,attraction,shopping,taxi
+3605	25	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,taxi

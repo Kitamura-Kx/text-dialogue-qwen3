@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3232	0	USER	東京へ旅行をする予定なので、その時に食事ができるお店を探しています。	general,restaurant,attraction
+3232	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,restaurant,attraction
+3232	2	USER	予算は普通程度で考えています。無料駐車場も完備しているお店で探してください。	general,restaurant,attraction
+3232	3	SYSTEM	かしこまりました。では、醍醐 お台場店はいかがでしょうか？	general,restaurant,attraction
+3232	4	USER	ありがとうございます。醍醐 お台場店はどんなジャンルのお店ですか？住所と料金情報も教えてください。	general,restaurant,attraction
+3232	5	SYSTEM	はい。ジャンルは焼肉・ホルモン, 居酒屋で、住所は東京都港区台場1丁目6-1 デックス東京ビーチ シーサイドモール 6Fになります。また、料金情報ですが、食べ放題コースが4980円、一頭喰いコースは7000円です。あと、飲み放題2時間が1500円でご利用いただけます。	general,restaurant,attraction
+3232	6	USER	良さそうなお店ですね。それでは6/6の09:50に予約もお願いしたいです。人数は4人です。	general,restaurant,attraction
+3232	7	SYSTEM	はい。午前09:50でよろしかったですか？	general,restaurant,attraction
+3232	8	USER	はい、午前です。	general,restaurant,attraction
+3232	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、99813です。	general,restaurant,attraction
+3232	10	USER	ありがとうございます。あとは港区の観光スポットも見つけてほしいです。産業観光のジャンルで良い所はありませんか？	general,restaurant,attraction
+3232	11	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,restaurant,attraction
+3232	12	USER	そうなんですね、ではジャンルを庭園に変えて探して頂けますか？	general,restaurant,attraction
+3232	13	SYSTEM	かしこまりました。では、東京都庭園美術館はいかがでしょうか？	general,restaurant,attraction
+3232	14	USER	ありがとうございます、そこにしますね。	general,restaurant,attraction
+3232	15	SYSTEM	はい。ほかに何かお調べすることはございませんか？	general,restaurant,attraction
+3232	16	USER	これで全てです、ありがとうございました。	general,restaurant,attraction
+3232	17	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction

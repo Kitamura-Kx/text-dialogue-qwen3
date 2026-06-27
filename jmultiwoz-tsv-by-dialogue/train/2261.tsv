@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2261	0	USER	福岡へ旅行に行くので、当日泊まる宿泊施設を探していただけますか？	general,hotel
+2261	1	SYSTEM	福岡の宿泊施設ですね、詳しい希望条件をお聞かせください。	general,hotel
+2261	2	USER	レストランが併設されていて、予算は高めのところがいいです。	general,hotel
+2261	3	SYSTEM	レストラン有、かつ高めのところはあいにくなさそうです。	general,hotel
+2261	4	USER	でしたら、レストランはなくても構いません。	general,hotel
+2261	5	SYSTEM	福岡の高めの宿泊施設といえば、イヌヤド ‐愛犬と宿泊する小さなホテル‐、こちら一択になります。	general,hotel
+2261	6	USER	ではそちらでお願いします。宿泊施設のタイプを教えていただけますか？	general,hotel
+2261	7	SYSTEM	特種なタイプなので、その他に該当します。	general,hotel
+2261	8	USER	ありがとうございます。予約もお願いできますでしょうか。3人で1/6から3泊で空いていますか？	general,hotel
+2261	9	SYSTEM	1/6から3人で3泊、予約成功しました。予約番号は84886です。	general,hotel
+2261	10	USER	ありがとうございました。	general,hotel

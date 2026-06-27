@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4426	0	USER	東京へ旅行予定です。グリル満天星 麻布本店という店があれば、Wi-Fiがあるかを調べてほしいです。	general,restaurant,taxi,weather
+4426	1	SYSTEM	承知しました。申し訳ありません、Wi-Fiの有無は不明となっております。	general,restaurant,taxi,weather
+4426	2	USER	そうなんですね。では、4人で3/23の15:50から予約をお願いできますか？	general,restaurant,taxi,weather
+4426	3	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,restaurant,taxi,weather
+4426	4	USER	それなら時間を16:40にします。	general,restaurant,taxi,weather
+4426	5	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、72533となります。	general,restaurant,taxi,weather
+4426	6	USER	ありがとうございます。あと、ジャンボタクシーが利用できるところも探してください。	general,restaurant,taxi,weather
+4426	7	SYSTEM	承知しました。では、東京エムケイはいかがでしょう？キャッシュレスにも対応しております。電話番号は、0355475551となります。	general,restaurant,taxi,weather
+4426	8	USER	では予約をお願いします。3/23の14:00に東京マリオットホテルを出発して、グリル満天星 麻布本店まで行きたいです。	general,restaurant,taxi,weather
+4426	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、23347となります。	general,restaurant,taxi,weather
+4426	10	USER	ありがとうございます。あと、当日3/23の足立区の最低気温はどうでしょうか。	general,restaurant,taxi,weather
+4426	11	SYSTEM	はい、最低気温は3.6度となります。	general,restaurant,taxi,weather
+4426	12	USER	ありがとうございました。	general,restaurant,taxi,weather
+4426	13	SYSTEM	ありがとうございました。	general,restaurant,taxi,weather

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4498	0	USER	仙台への旅行を計画していて、旅行当日の飲食店を探しています。駐車場無料、Wi-Fi無料のところでおすすめはありますか？	general,restaurant,attraction,taxi
+4498	1	SYSTEM	承知しました。味の牛たん喜助 駅前中央本店は如何でしょう。仙台駅から徒歩で1分の所にあります。	general,restaurant,attraction,taxi
+4498	2	USER	ありがとうございます。そのお店にしようと思います。予約したいのですが、12/1の12：40から、4人で予約をお願い出来ますか？	general,restaurant,attraction,taxi
+4498	3	SYSTEM	はい、12/1の12：40から、4人でご予約致しました。予約番号は17462となります。	general,restaurant,attraction,taxi
+4498	4	USER	ありがとうございます。旅行当日の観光名所も探しています。駐車場無料、Wi-Fi無料のところでおすすめはありますか？	general,restaurant,attraction,taxi
+4498	5	SYSTEM	観光名所で駐車場無料、Wi-Fi無料のところは見つかりません。	general,restaurant,attraction,taxi
+4498	6	USER	そうですか。では、駐車場は有っても無くても良いです。	general,restaurant,attraction,taxi
+4498	7	SYSTEM	はい、９件御座いますが、他にご希望がありますか。	general,restaurant,attraction,taxi
+4498	8	USER	いえ、他にはありません。	general,restaurant,attraction,taxi
+4498	9	SYSTEM	では、仙台城跡は如何でしょう。国際センター駅から徒歩で10分の所にあります。	general,restaurant,attraction,taxi
+4498	10	USER	ありがとうございます。そこにしようと思います。エリアと定休日は分かりますか？	general,restaurant,attraction,taxi
+4498	11	SYSTEM	はい、定休日はありません。エリアは青葉区となります。	general,restaurant,attraction,taxi
+4498	12	USER	ありがとうございます。旅行当日のタクシー会社も探しています。キャッシュレス払い対応があるところが希望です。	general,restaurant,attraction,taxi
+4498	13	SYSTEM	申し訳ございません。キャッシュレス払い対応があるところが見つかりません。	general,restaurant,attraction,taxi
+4498	14	USER	そうですか。では、キャッシュレス対応は有っても無くても大丈夫です。	general,restaurant,attraction,taxi
+4498	15	SYSTEM	はい、仙台第一交通（株）は如何でしょう。	general,restaurant,attraction,taxi
+4498	16	USER	ありがとうございます。電話番号とジャンボタクシーがあるかを教えて貰えますか？	general,restaurant,attraction,taxi
+4498	17	SYSTEM	はい、電話番号は0222361221で、ジャンボタクシーは非対応となります。	general,restaurant,attraction,taxi
+4498	18	USER	ありがとうございます。そのタクシーを予約したいのですが、12/1の14：40から、味の牛たん喜助 駅前中央本店から仙台城跡まで予約をお願い出来ますか？	general,restaurant,attraction,taxi
+4498	19	SYSTEM	承知しました。12/1の14：40、味の牛たん喜助 駅前中央本店から仙台城跡までご予約致しました。予約番号は67836です。	general,restaurant,attraction,taxi
+4498	20	USER	ありがとうございました。助かりました。	general,restaurant,attraction,taxi
+4498	21	SYSTEM	ありがとうございます。	general,restaurant,attraction,taxi

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+931	0	USER	横浜旅行を考えています。泊まるところを探してもらえませんか？	general,hotel
+931	1	SYSTEM	宿泊施設ですね。　では、ホテル アイマーレ 横浜伊勢佐木町　は、いかがでしょうか？	general,hotel
+931	2	USER	実は希望条件があるんです。レストランが併設されていて、八景島駅付近で駐車場が無料なところってありますかね？	general,hotel
+931	3	SYSTEM	申し訳ありません。その条件では、ご希望の施設はないようです。	general,hotel
+931	4	USER	そうですか。では最寄り駅はどこでも大丈夫です。	general,hotel
+931	5	SYSTEM	ホテル パセラの森 横浜関内は、いかがでしょうか？	general,hotel
+931	6	USER	こちらの宿泊施設の料金に関する情報と住所をおしえてもらえないでしょうか？	general,hotel
+931	7	SYSTEM	住所は、神奈川県横浜市中区福富町東通40-4　になります。　料金につきましては、値段帯が安めと言う事以外の明確な記載がありません。	general,hotel
+931	8	USER	詳しくお調べ下さりありがとうございます。こちらの施設で予約をお願いできますか？4/23から2泊、2名でお願いします。	general,hotel
+931	9	SYSTEM	予約出来ました。　予約番号は、47149　になります。	general,hotel
+931	10	USER	手配して下さりありがとうございました！	general,hotel

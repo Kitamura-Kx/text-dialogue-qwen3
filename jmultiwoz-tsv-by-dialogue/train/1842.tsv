@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1842	0	USER	東京への旅行の時に使うタクシー会社を探しています。	general,taxi
+1842	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,taxi
+1842	2	USER	はい、キャッシュレス払いができてジャンボタクシーも選べる会社でお願いします。	general,taxi
+1842	3	SYSTEM	かしこまりました。では、昭栄自動車はいかがでしょうか？	general,taxi
+1842	4	USER	昭栄自動車の電話番号は分かりますか？8/30にタクシーの予約もお願いします。	general,taxi
+1842	5	SYSTEM	はい。電話番号は0357552151でございます。かしこまりました。出発時刻と、出発地と目的地はお決まりでしょうか？	general,taxi
+1842	6	USER	はい、浅草ビューホテルから12:30に乗車して、清澄庭園まででお願いします。	general,taxi
+1842	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、54564です。	general,taxi
+1842	8	USER	ありがとうございます。	general,taxi
+1842	9	SYSTEM	他にご用件はありますか？	general,taxi
+1842	10	USER	いいえ、これだけです。ありがとうございました。	general,taxi
+1842	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

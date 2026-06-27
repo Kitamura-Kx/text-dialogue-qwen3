@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1385	0	USER	仙台へ旅行に行くのですが、当日食事ができる飲食店を探してください	general,restaurant,hotel
+1385	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,hotel
+1385	2	USER	ジャンルは郷土料理で、予算は高めが希望です	general,restaurant,hotel
+1385	3	SYSTEM	では牛たん炭焼 利久 tekuteながまち店はいかがですか。	general,restaurant,hotel
+1385	4	USER	そちらにするので、駐車場の有無，エリア，営業時間を教えてください	general,restaurant,hotel
+1385	5	SYSTEM	駐車場は無料でご利用いただけます。エリアは太白区、営業時間は11:00～23:00でございます。	general,restaurant,hotel
+1385	6	USER	ではそちらで予約をしたいです	general,restaurant,hotel
+1385	7	SYSTEM	かしこまりました。では予約の詳細をお聞かせいただけますか。	general,restaurant,hotel
+1385	8	USER	人数は3人、日付は11/1、時間は09:50です	general,restaurant,hotel
+1385	9	SYSTEM	はい。予約が完了いたしました。予約番号は27781でございます。	general,restaurant,hotel
+1385	10	USER	ありがとうございます。あと当日泊まる宿泊施設を探してください	general,restaurant,hotel
+1385	11	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,hotel
+1385	12	USER	宿のタイプは簡易宿所（ベッドハウス・山小屋・カプセルホテル等）でWi-Fiが無料で利用できるところにしてください	general,restaurant,hotel
+1385	13	SYSTEM	ではゲストハウス梅鉢がございます。	general,restaurant,hotel
+1385	14	USER	そこにするので、電話番号とチェックアウト終了時刻を教えてください	general,restaurant,hotel
+1385	15	SYSTEM	電話番号は0222317447でございます。チェックアウト終了時刻は11:00でございます。	general,restaurant,hotel
+1385	16	USER	わかりました。以上です。ありがとうございました。	general,restaurant,hotel
+1385	17	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel

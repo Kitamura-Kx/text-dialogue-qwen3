@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3358	0	USER	大阪への旅行を計画中で、心斎橋 法善あられ 堀江店を訪れる予定です。住所と電話番号、営業時間を教えてください。	general,shopping,restaurant,weather
+3358	1	SYSTEM	住所は大阪府大阪市西区北堀江1丁目4-8、電話番号は0665323770、営業時間は10:00～18:00です。	general,shopping,restaurant,weather
+3358	2	USER	ありがとうございます。当日福島区で鍋を食べられるお店を探しています。無料Wi-fi付きが良いのですが、ありますか？	general,shopping,restaurant,weather
+3358	3	SYSTEM	申し訳ございません。ご紹介できるお店がございません。	general,shopping,restaurant,weather
+3358	4	USER	分かりました。では、Wi-fi付きでなくても構いません。	general,shopping,restaurant,weather
+3358	5	SYSTEM	蕎麦酒房 ふくまるはいかがですか？	general,shopping,restaurant,weather
+3358	6	USER	そこにしようと思います。駐車場はありますか？	general,shopping,restaurant,weather
+3358	7	SYSTEM	ございません。	general,shopping,restaurant,weather
+3358	8	USER	ありがとうございます。4/19の旭区の最高気温を教えてください。	general,shopping,restaurant,weather
+3358	9	SYSTEM	22度です。	general,shopping,restaurant,weather
+3358	10	USER	ありがとうございます。助かります。	general,shopping,restaurant,weather
+3358	11	SYSTEM	こちらこそありがとうございます。	general,shopping,restaurant,weather
+3358	12	USER	では、失礼します。	general,shopping,restaurant,weather

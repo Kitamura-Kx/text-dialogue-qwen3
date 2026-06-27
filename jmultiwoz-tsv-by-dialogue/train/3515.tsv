@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3515	0	USER	仙台へ旅行しようと思っています。Wi-Fiと駐車場が無料の飲食店で泉区でありますか？	general,restaurant
+3515	1	SYSTEM	かしこまりました。それではひげぱんだはいかがでしょうか？	general,restaurant
+3515	2	USER	教えていただきありがとうございました！	general,restaurant
+3515	3	SYSTEM	その他に何かご用件はございますか？	general,restaurant
+3515	4	USER	ないです。ありがとうございました。	general,restaurant
+3515	5	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

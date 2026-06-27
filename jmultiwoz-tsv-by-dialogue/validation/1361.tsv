@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1361	0	USER	東京への旅行を計画中なのですが、駐車場とWiFiが無料の宿泊施設はありますか？	general,hotel,weather
+1361	1	SYSTEM	かしこまりました。ではThe Okura Tokyoはいかがでしょうか。	general,hotel,weather
+1361	2	USER	「The Okura Tokyo」の宿泊施設タイプは分りますか？	general,hotel,weather
+1361	3	SYSTEM	タイプはシティホテルとなっております。	general,hotel,weather
+1361	4	USER	有難うございます、当日8/2の杉並区の最低気温と最高気温を教えて下さい。	general,hotel,weather
+1361	5	SYSTEM	最低気温は28.4度、最高気温 36.5度でございます。	general,hotel,weather
+1361	6	USER	わかりました、有難うございました。	general,hotel,weather
+1361	7	SYSTEM	ほかにご用件はございますか。	general,hotel,weather
+1361	8	USER	大丈夫です。	general,hotel,weather
+1361	9	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

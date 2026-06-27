@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+805	0	USER	京都へ旅行予定なのですが、中京区で買い物できるところはありますか？	general,shopping,taxi,weather
+805	1	SYSTEM	はい、9件ほど、ご案内可能です。例えば、京都錦市場商店街という商店街にご興味ございませんか？	general,shopping,taxi,weather
+805	2	USER	なるほど。でも駐車場が無料で利用できて、最寄り駅が一乗寺駅のところがいいです。	general,shopping,taxi,weather
+805	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,taxi,weather
+805	4	USER	わかりました。では最寄り駅は違うくても大丈夫です。	general,shopping,taxi,weather
+805	5	SYSTEM	かしこまりました。では、香老舗 松栄堂はいかがでしょうか？	general,shopping,taxi,weather
+805	6	USER	そこにします。住所を教えてください。	general,shopping,taxi,weather
+805	7	SYSTEM	はい。住所は、京都府京都市中京区烏丸通二条上ル東側でございます。	general,shopping,taxi,weather
+805	8	USER	わかりました。タクシーの利用も考えているのですが、キャッシュレス払いできるところはありますか？	general,shopping,taxi,weather
+805	9	SYSTEM	申し訳ございません。キャッシュレス払いができるタクシー会社で、ご案内できるところが見つかりませんでした。	general,shopping,taxi,weather
+805	10	USER	そうですか。であればキャッシュレス払いできなくても大丈夫です。	general,shopping,taxi,weather
+805	11	SYSTEM	ありがとうございます。そういたしますと、株式会社新大文字交通は、いかがでしょうか？	general,shopping,taxi,weather
+805	12	USER	そこにします。ジャンボタクシーは利用できますか？あと、電話番号を教えてください。	general,shopping,taxi,weather
+805	13	SYSTEM	はい、ご利用いただけます。電話番号は、0756613901です。	general,shopping,taxi,weather
+805	14	USER	ではそこで、4/28の時間は10:50で予約したいです。香老舗 松栄堂からルルソンキボアまででお願いします。	general,shopping,taxi,weather
+805	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は、40524です。	general,shopping,taxi,weather
+805	16	USER	ありがとうございます。4/28の東山区の天候についても教えてください。	general,shopping,taxi,weather
+805	17	SYSTEM	かしこまりました。当日の天気は、晴れのち雨の予報です。最低気温は12.3度、最高気温は15.9度の予想です。	general,shopping,taxi,weather
+805	18	USER	そうですか。ありがとうございます。	general,shopping,taxi,weather
+805	19	SYSTEM	ほかにお調べすることはございますか？	general,shopping,taxi,weather
+805	20	USER	いえ、もう大丈夫です。	general,shopping,taxi,weather
+805	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,taxi,weather

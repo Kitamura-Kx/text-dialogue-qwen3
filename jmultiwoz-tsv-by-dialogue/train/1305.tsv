@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1305	0	USER	こんにちは。大阪へ旅行予定ですので、なんば駅近くの買い物ができるところを教えていただきたいです。できれば駐車場が無料だといいです。	general,shopping,restaurant,weather
+1305	1	SYSTEM	かしこまりました。そうしますと、大阪タカシマヤというお店が1件ご案内可能です。いかがでしょうか？	general,shopping,restaurant,weather
+1305	2	USER	ありがとうございます。それではそちらの営業時間と住所を教えていただけますか？	general,shopping,restaurant,weather
+1305	3	SYSTEM	営業時間は、10:00～20:00です。住所は、大阪府大阪市中央区難波5丁目1-5でございます。	general,shopping,restaurant,weather
+1305	4	USER	ありがとうございます。それから飲食店も探していただけますか？	general,shopping,restaurant,weather
+1305	5	SYSTEM	はい、かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,shopping,restaurant,weather
+1305	6	USER	予算は安めの設定で、できれば北区がいいです	general,shopping,restaurant,weather
+1305	7	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,shopping,restaurant,weather
+1305	8	USER	北区以外だと、安めの予算設定でどこかありますか？	general,shopping,restaurant,weather
+1305	9	SYSTEM	はい、14件ほどご案内可能です。例えば、グリル モトカラという淀川区エリアのお店はいかがでしょうか？	general,shopping,restaurant,weather
+1305	10	USER	結構ありますね。そこはどのようなジャンルのお店ですか？	general,shopping,restaurant,weather
+1305	11	SYSTEM	ジャンルは、イタリアン・フレンチ, 洋食・西洋料理, 居酒屋、となっております。	general,shopping,restaurant,weather
+1305	12	USER	いいですね、ありがとうございます。次々申し訳ないのですが、天気も知りたいのですが、調べていただけますか？	general,shopping,restaurant,weather
+1305	13	SYSTEM	かしこまりました。大阪のどのあたりの天気をお調べしましょうか？日にちもご指定いただけますよう、お願いたします。	general,shopping,restaurant,weather
+1305	14	USER	1/27の大正区の最低気温が知りたいです。	general,shopping,restaurant,weather
+1305	15	SYSTEM	かしこまりました。当日の最低気温は7.3度の予想です。最高気温も9.6度までしか上がらない見込みです。	general,shopping,restaurant,weather
+1305	16	USER	結構寒そうですね。どうもありがとうございました。	general,shopping,restaurant,weather
+1305	17	SYSTEM	他になにかお調べすることはございますか？	general,shopping,restaurant,weather
+1305	18	USER	他は大丈夫です。ありがとうございました。	general,shopping,restaurant,weather
+1305	19	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,shopping,restaurant,weather
+1305	20	USER		general,shopping,restaurant,weather

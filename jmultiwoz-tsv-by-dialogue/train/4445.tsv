@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4445	0	USER	横浜に旅行に行こうと思っています。戸塚区で宿泊できる施設を探してください。Wi-Fiが無料で利用できるところでお願いします。	general,hotel,restaurant,weather
+4445	1	SYSTEM	かしこまりました。それでは天然温泉 戸塚宿 大橋の湯 スーパーホテル戸塚駅東口がございます。	general,hotel,restaurant,weather
+4445	2	USER	ありがとうございます。そのホテルの住所を教えてください。	general,hotel,restaurant,weather
+4445	3	SYSTEM	はい、神奈川県横浜市戸塚区吉田町3002番地3でございます。	general,hotel,restaurant,weather
+4445	4	USER	ありがとうございます。次に、イタリアンやフレンチの食べられるお店を探してください。駐車場が無料で利用できるところが希望です。	general,hotel,restaurant,weather
+4445	5	SYSTEM	かしこまりました。それではDining Bar KISAKUはいかがでしょうか？	general,hotel,restaurant,weather
+4445	6	USER	ありがとうございます。そのお店にはWi-Fiはありますか。	general,hotel,restaurant,weather
+4445	7	SYSTEM	申し訳ございません。Wi-Fiの有無が分かりません。	general,hotel,restaurant,weather
+4445	8	USER	分かりました。あと値段帯と営業時間について教えてください。	general,hotel,restaurant,weather
+4445	9	SYSTEM	はい。値段帯は普通、営業時間は17時から0時でございます。	general,hotel,restaurant,weather
+4445	10	USER	ありがとうございます。あと、3/8の金沢区の最低気温と天気を教えてください。	general,hotel,restaurant,weather
+4445	11	SYSTEM	はい、当日の金沢区の最低気温は5.2度、天気は雨の予報でございます。	general,hotel,restaurant,weather
+4445	12	USER	ありがとうございます。これで大丈夫です。	general,hotel,restaurant,weather
+4445	13	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,restaurant,weather

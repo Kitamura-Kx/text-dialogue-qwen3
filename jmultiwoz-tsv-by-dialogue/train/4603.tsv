@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4603	0	USER	仙台への旅行を計画しています． 当日泊まる宿泊施設を探してください．レストランが併設されているところにしてください．地区は青葉区で	general,hotel,weather
+4603	1	SYSTEM	ホテル京阪 仙台はいかがでしょうか。	general,hotel,weather
+4603	2	USER	そちらのチェックイン開始時刻，料金情報を教えていただけますか。	general,hotel,weather
+4603	3	SYSTEM	チェックイン開始時刻は15:00、値段帯 安めです。	general,hotel,weather
+4603	4	USER	そちらで人数は4人です．日付は8/2です．宿泊日数は2泊で予約いただけますか。	general,hotel,weather
+4603	5	SYSTEM	予約完了いたしました。予約番号は59969になります。	general,hotel,weather
+4603	6	USER	ありがとうございます。あと、泉区の8/2の最高気温と天気を教えていただけますか。	general,hotel,weather
+4603	7	SYSTEM	最高気温 27.9度、天気は曇のち雨です。	general,hotel,weather
+4603	8	USER	ありがとうございます。	general,hotel,weather

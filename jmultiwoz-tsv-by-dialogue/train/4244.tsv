@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4244	0	USER	仙台への旅行を考えているのですが、宮城野区で見て回れる観光名所を探しています。	general,attraction,weather,taxi
+4244	1	SYSTEM	かしこまりました。4件ほどご案内可能です。他にはご希望の条件など、ございませんか？	general,attraction,weather,taxi
+4244	2	USER	駐車場を無料で利用できるとありがたいと考えております。	general,attraction,weather,taxi
+4244	3	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,attraction,weather,taxi
+4244	4	USER	分かりました。でしたら駐車場はなくてもかまいません。	general,attraction,weather,taxi
+4244	5	SYSTEM	ありがとうございます。そうしますと、仙台アンパンマンこどもミュージアム&モールというところは、ご興味ございませんか？	general,attraction,weather,taxi
+4244	6	USER	面白そうなところですね、そこに行きたいと思います。住所をお教えいただいてもよろしいですか？	general,attraction,weather,taxi
+4244	7	SYSTEM	はい、住所は、宮城県仙台市宮城野区小田原山本丁101-14です。	general,attraction,weather,taxi
+4244	8	USER	ありがとうございます。あと、当日の天候をお聞きしたいのですが、5月12日の泉区の天気はどうなっているでしょうか。	general,attraction,weather,taxi
+4244	9	SYSTEM	当日の天気は、曇の予報です。最低気温は12.7度、最高気温は17.8度の予想となっております。	general,attraction,weather,taxi
+4244	10	USER	ありがとうございます。最後に、タクシー会社を探しているのですが、キャッシュレス対応でジャンボタクシーが利用できるところはあるでしょうか。	general,attraction,weather,taxi
+4244	11	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,weather,taxi
+4244	12	USER	分かりました。ではキャッシュレス対応はなくてもかまいません。	general,attraction,weather,taxi
+4244	13	SYSTEM	ありがとうございます。では、稲荷タクシー（有）はいかがでしょうか？	general,attraction,weather,taxi
+4244	14	USER	ありがとうございます。そこを利用したいと思います。電話番号をお聞きしてもよろしいですか？	general,attraction,weather,taxi
+4244	15	SYSTEM	はい。電話番号は、0222411121でございます。	general,attraction,weather,taxi
+4244	16	USER	ありがとうございます。では当日の予約をしたいのですが、5月12日の14:40に瑞鳳殿 涅槃門から仙台アンパンマンこどもミュージアム&モールまでの予約は可能でしょうか。	general,attraction,weather,taxi
+4244	17	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、19247です。	general,attraction,weather,taxi
+4244	18	USER	何から何までありがとうございます。お願いしたい事は以上になります。丁寧なサポートありがとうございました。	general,attraction,weather,taxi
+4244	19	SYSTEM	承知いたしました。お役に立てて何よりです。また何かございましたら、お気軽にお問い合わせください。	general,attraction,weather,taxi

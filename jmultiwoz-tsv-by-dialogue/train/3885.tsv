@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3885	0	USER	札幌への観光旅行を計画しています。wi-hiが無料で利用できる観光名所は南区にありますか？	general,attraction,shopping,weather
+3885	1	SYSTEM	はい、2件ございます。南区でしたら、アシリベツの滝はいかがでしょうか？	general,attraction,shopping,weather
+3885	2	USER	近辺の駅からの所要時間を教えてください。	general,attraction,shopping,weather
+3885	3	SYSTEM	真駒内駅からバスで50分ほどかかります。	general,attraction,shopping,weather
+3885	4	USER	分かりました。そこの電話番号と住所は分かりますか？	general,attraction,shopping,weather
+3885	5	SYSTEM	はい。電話番号は、0115923333です。住所は、北海道札幌市南区滝野247でございます。	general,attraction,shopping,weather
+3885	6	USER	ありがとうございます。	general,attraction,shopping,weather
+3885	7	SYSTEM	他にお知りになりたい情報はございませんか？	general,attraction,shopping,weather
+3885	8	USER	買物出来るところを探しています。駐車場が無料で利用できる所はありますか？	general,attraction,shopping,weather
+3885	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,shopping,weather
+3885	10	USER	では、駐車場がなくてもいいです。	general,attraction,shopping,weather
+3885	11	SYSTEM	ありがとうございます。では、北海道どさんこプラザはいかがでしょうか？北区にある、食料品, お土産, 文房具・雑貨のお店です。	general,attraction,shopping,weather
+3885	12	USER	そこの営業時間は分かりますか？	general,attraction,shopping,weather
+3885	13	SYSTEM	はい。朝9:00から夜20:00までとなっております。	general,attraction,shopping,weather
+3885	14	USER	5月15日の東区の天気が知りたいです。	general,attraction,shopping,weather
+3885	15	SYSTEM	はい。当日の天気は、曇の予報となっております。	general,attraction,shopping,weather
+3885	16	USER	最低気温はどれくらいですか？	general,attraction,shopping,weather
+3885	17	SYSTEM	7.6度まで下がる見込みです。	general,attraction,shopping,weather
+3885	18	USER	分かりました。ありがとうございます。	general,attraction,shopping,weather
+3885	19	SYSTEM	ほかに何かお調べすることはございませんか？	general,attraction,shopping,weather
+3885	20	USER	いえ、これで大丈夫です。	general,attraction,shopping,weather
+3885	21	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,attraction,shopping,weather
+3885	22	USER		general,attraction,shopping,weather

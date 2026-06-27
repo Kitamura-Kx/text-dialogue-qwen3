@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1778	0	USER	こんにちは。大阪へ行く予定なのですが、レストランがあって、Wi-Fiが無料のところはどこかありますか？	general,hotel,shopping
+1778	1	SYSTEM	宿泊施設でよろしいでしょうか？他にご希望はございますか？	general,hotel,shopping
+1778	2	USER	すみません、はい、宿泊施設です。いえ、その他の希望はありません。	general,hotel,shopping
+1778	3	SYSTEM	では、エリアでいうと中央区にある、シティプラザ大阪はいかがでしょう？タイプはシティホテルとなります。	general,hotel,shopping
+1778	4	USER	ありがとうございます。そちらの住所と電話番号をお願いできますか？	general,hotel,shopping
+1778	5	SYSTEM	住所は大阪府大阪市中央区本町橋2-31、電話番号は、0669477702となります。	general,hotel,shopping
+1778	6	USER	ありがとうございます。あと、文房具・雑貨を買えるところを探していますが、駐車場が無料のところはありますか？	general,hotel,shopping
+1778	7	SYSTEM	エリアでいうと阿倍野区にある、アカチャンホンポ あべのイトーヨーカドー店はいかがでしょう？ジャンルは、おもちゃ、ファッション、文房具、雑貨、となります。	general,hotel,shopping
+1778	8	USER	ありがとうございます。そちらの住所と、最寄り駅、それと近辺の駅からの所要時間も教えてもらえると助かります。	general,hotel,shopping
+1778	9	SYSTEM	住所は大阪府大阪市阿倍野区阿倍野筋1丁目6-1、最寄りの天王寺駅から徒歩で2分となります。	general,hotel,shopping
+1778	10	USER	どうもありがとうございました。助かりました。	general,hotel,shopping
+1778	11	SYSTEM	ありがとうございました。	general,hotel,shopping

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+720	0	USER	京都へ旅行予定なのですが、タクシーを利用したいです。ジャンボタクシーを利用できて、キャッシュレス払いできるところを教えてください。	general,taxi
+720	1	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,taxi
+720	2	USER	であれば、キャッシュレス払いはできなくても大丈夫です。	general,taxi
+720	3	SYSTEM	ありがとうございます。では、京都第一交通株式会社はいかがでしょう？電話番号は0120382333となります。予約されますか？	general,taxi
+720	4	USER	そこにします。1月21日の12時30分で、旅館 寿々喜荘から大丸京都店まで予約お願いできますか？	general,taxi
+720	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、34589となります。他にご案内できることはございますか？	general,taxi
+720	6	USER	ありがとうございます。もう大丈夫です！	general,taxi
+720	7	SYSTEM	ありがとうございました。	general,taxi

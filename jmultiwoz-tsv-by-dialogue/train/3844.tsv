@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3844	0	USER	横浜の旅行を計画しています。西区でwifiが無料で使える飲食店を教えてください。	general,restaurant
+3844	1	SYSTEM	西区のWiFi無料の飲食店はいくつかありますが、ウラ横 焼肉センター、こちらをお勧めします。	general,restaurant
+3844	2	USER	そのお店は、最寄駅からどのぐらいかかりますか？	general,restaurant
+3844	3	SYSTEM	横浜駅から徒歩で5分、あと、高島駅からも徒歩で5分です。	general,restaurant
+3844	4	USER	では、１月１日の１０時３０分、４人で予約を取ってください。	general,restaurant
+3844	5	SYSTEM	予約成功しました。予約番号は64985です。	general,restaurant
+3844	6	USER	ありがとうございました。	general,restaurant

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+24	0	USER	京都で泊まるところを探してるんですけど、RESI STAY BRiXっていうところ分かりますか？	general,hotel,attraction,weather
+24	1	SYSTEM	ご利用ありがとうございます。宿泊施設、RESI STAY BRiXは、京都の下京区に1件ございます。お間違えないでしょうか？	general,hotel,attraction,weather
+24	2	USER	そこです、そこです。チャックインって何時からですか？　あ、あと、住所も教えてください。	general,hotel,attraction,weather
+24	3	SYSTEM	チェックインの開始は、15時からとなっています。住所は、京都府京都市下京区本塩竈町５５８－９です。	general,hotel,attraction,weather
+24	4	USER	4人で予約したいんですけど、7月21日から2泊とれますか？	general,hotel,attraction,weather
+24	5	SYSTEM	ご利用ありがとうございます。7月21日から2泊4名様でRESI STAY BRiXのご予約承りました。予約番号は、73088ですので、お控えくださいませ。	general,hotel,attraction,weather
+24	6	USER	ありがとうございます。観光名所もよく分からなくて、北区でおすすめってありますか？	general,hotel,attraction,weather
+24	7	SYSTEM	京都北区の観光名所ですね。島津アリーナ京都と大宮交通公園の2件がございますが、気になる方はございますか？	general,hotel,attraction,weather
+24	8	USER	交通公園って面白そうですね。そこの住所を教えてください。	general,hotel,attraction,weather
+24	9	SYSTEM	ありがとうございます。大宮交通公園の所在地は、京都府京都市北区大宮西脇台町17-1です。	general,hotel,attraction,weather
+24	10	USER	そこって駐車場ありますか？　あと大人の入場料を聞いときたいんですけど。	general,hotel,attraction,weather
+24	11	SYSTEM	駐車場は有料のものがございます。入場料は大人、子ども、どちらでも無料です。	general,hotel,attraction,weather
+24	12	USER	楽しみです。7月21日って東山区の天候はどうなりそうですか？	general,hotel,attraction,weather
+24	13	SYSTEM	はい、東山区の7月21日の天気は雨のち曇り、最高気温は30.6度まで上がる見込みです。	general,hotel,attraction,weather
+24	14	USER	いやあ暑そうだなあ、ありがとうございました。	general,hotel,attraction,weather
+24	15	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,hotel,attraction,weather

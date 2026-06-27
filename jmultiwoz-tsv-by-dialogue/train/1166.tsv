@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1166	0	USER	横浜に旅行するので、宿泊施設を探したいです。	general,hotel,weather
+1166	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,weather
+1166	2	USER	レストランが併設されていて、駐車場無料かつWi-Fi無料の所が良いです。	general,hotel,weather
+1166	3	SYSTEM	では旅館 松島はいかがですか。	general,hotel,weather
+1166	4	USER	ではその旅館の住所と電話番号を教えてください。	general,hotel,weather
+1166	5	SYSTEM	住所は神奈川県横浜市南区蒔田町863でございます。電話番号は0457312720でございます。	general,hotel,weather
+1166	6	USER	次にそちらの予約をお願いします。5/10 から３泊、人数は４人です。	general,hotel,weather
+1166	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は91274でございます。	general,hotel,weather
+1166	8	USER	ありがとうございます。あと、5/10 戸塚区の最高気温と最低気温を教えてください。	general,hotel,weather
+1166	9	SYSTEM	最高気温は24.6度で、最低気温は19.2度でございます。	general,hotel,weather
+1166	10	USER	ちょっと気温が高めなんですね。わかりました。今回は以上です。ありがとうございました。	general,hotel,weather
+1166	11	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1978	0	USER	すみません、今、札幌旅行を計画していまして、観光名所について案内していただけますか？	general,attraction
+1978	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction
+1978	2	USER	地区が東区で、最寄り駅が麻生駅のところでお願いします。あと、駐車場が無料のところを希望します。	general,attraction
+1978	3	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction
+1978	4	USER	そうなんですね。では、地区はどこでも結構です。	general,attraction
+1978	5	SYSTEM	かしこまりました。では、シャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートはいかがでしょうか？地区は北区になります。	general,attraction
+1978	6	USER	ありがとうございます！では、そちらを検討したいのですが、子供入場料についてお調べいただけますか？	general,attraction
+1978	7	SYSTEM	申し訳ございませんが、子供入場料は不明と記載されています。他にお調べできることはございませんか？	general,attraction
+1978	8	USER	そうなんですね。その点だけ確認したかったので、あとはもう大丈夫です。お調べいただき、ありがとうございました！	general,attraction
+1978	9	SYSTEM	かしこまりました。他にご用件はありますか？	general,attraction
+1978	10	USER	いえ、大丈夫です。ご対応いただき、ありがとうございました。また利用の機会がありましたら、その際はよろしくお願いいたします。	general,attraction
+1978	11	SYSTEM	承知しました。ありがとうございました。	general,attraction

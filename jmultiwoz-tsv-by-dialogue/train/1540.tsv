@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1540	0	USER	福岡への旅行を考えているのですが、川端通り商店街という買い物店舗はありますか？	general,shopping
+1540	1	SYSTEM	はい。ございます。お知りになりたい情報はございますか。	general,shopping
+1540	2	USER	最寄り駅と住所を教えてください。	general,shopping
+1540	3	SYSTEM	最寄り駅は中洲川端駅で、住所は福岡県福岡市博多区上川端町10でございます。	general,shopping
+1540	4	USER	わかりました。ありがとうございます。	general,shopping
+1540	5	SYSTEM	ほかにご用件はございますか。	general,shopping
+1540	6	USER	いえ、もう大丈夫です。	general,shopping
+1540	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

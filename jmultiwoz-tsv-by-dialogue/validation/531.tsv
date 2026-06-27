@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+531	0	USER	東京へ旅行予定なのですが、Wi-Fiが無料で使える観光名所はありますか？	general,attraction,shopping
+531	1	SYSTEM	はい、19件ほどご案内可能です。たとえば、東京国立博物館はいかがでしょうか？	general,attraction,shopping
+531	2	USER	そこにします。電話番号と大人入場料を教えてください。あと、エリアも知りたいです。	general,attraction,shopping
+531	3	SYSTEM	電話番号は、05055418600です、大人入場料は1000円となっております。満70歳以上の方は，総合文化展について無料です。また、エリアは台東区にございます。	general,attraction,shopping
+531	4	USER	ありがとうございます。また当日買い物できるところも知りたいです。百貨店や総合スーパーで探せますか？	general,attraction,shopping
+531	5	SYSTEM	はい、7件ほど候補が見つかりました。例えば、日本橋高島屋S.C.はいかがでしょう？	general,attraction,shopping
+531	6	USER	そこにします。営業時間とエリアを教えてください。	general,attraction,shopping
+531	7	SYSTEM	営業時間は、10:30～19:30です。エリアは中央区でございます。	general,attraction,shopping
+531	8	USER	わかりました。ありがとうございます。	general,attraction,shopping
+531	9	SYSTEM	ほかにお調べすることはございますか？	general,attraction,shopping
+531	10	USER	もう大丈夫です。	general,attraction,shopping
+531	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,shopping

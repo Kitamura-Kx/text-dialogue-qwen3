@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3176	0	USER	横浜への旅行を計画していて、当日の飲食店を探しています。駐車場無料の中華料理のお店が希望です。	general,restaurant,shopping
+3176	1	SYSTEM	かしこまりました。では、三和楼はいかがでしょうか？	general,restaurant,shopping
+3176	2	USER	ありがとうございます。そこの値段帯は分かりますか？	general,restaurant,shopping
+3176	3	SYSTEM	はい。値段帯は普通です。	general,restaurant,shopping
+3176	4	USER	ありがとうございます。当日買い物が出来るところも探しています。神奈川区で百貨店や総合スーパーのお店が良いです。	general,restaurant,shopping
+3176	5	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,restaurant,shopping
+3176	6	USER	では、地区はどこでも良いです。	general,restaurant,shopping
+3176	7	SYSTEM	かしこまりました。では、横浜タカシマヤはいかがでしょうか？	general,restaurant,shopping
+3176	8	USER	ありがとうございます。そこにしようと思います。近辺の駅からの所要時間は分かりますか？	general,restaurant,shopping
+3176	9	SYSTEM	はい。最寄りの横浜駅から徒歩で1分です。	general,restaurant,shopping
+3176	10	USER	ありがとうございました。	general,restaurant,shopping
+3176	11	SYSTEM	こちらこそありがとうございました。	general,restaurant,shopping

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3724	0	USER	こんにちは。名古屋へ行くのですが、地区が港区、最寄り駅が亀島駅で、駐車場が無料で使える、飲食店はありますか？	general,restaurant,taxi,weather
+3724	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,restaurant,taxi,weather
+3724	2	USER	では、最寄り駅は亀島駅以外でも大丈夫です。	general,restaurant,taxi,weather
+3724	3	SYSTEM	1件みつかりました。ソーサリートはいかがですか？	general,restaurant,taxi,weather
+3724	4	USER	そこにしようかな。料金情報って何かありますか？	general,restaurant,taxi,weather
+3724	5	SYSTEM	はい、料金情報は、シェフお任せコース　8800円、ステーキ・ディナーコース　6600円です。	general,restaurant,taxi,weather
+3724	6	USER	ありがとうございます。ジャンボタクシーが利用できるタクシー会社も探してもらえますか？	general,restaurant,taxi,weather
+3724	7	SYSTEM	それでしたら、つばめタクシーグループはいかがですか？	general,restaurant,taxi,weather
+3724	8	USER	ありがとうございます。ではそのタクシー会社で、4/18の11:30、出発地は刀剣コレクション 名古屋・丸の内、目的地はソーサリートで、予約をお願いします。	general,restaurant,taxi,weather
+3724	9	SYSTEM	予約が完了しました。　予約番号は、97384になります。	general,restaurant,taxi,weather
+3724	10	USER	ありがとうございます。あと、4/18の中区の天候も調べてもらえませんか？	general,restaurant,taxi,weather
+3724	11	SYSTEM	当日の天気は、曇時々晴の予報となっています。	general,restaurant,taxi,weather
+3724	12	USER	ありがとうございます。	general,restaurant,taxi,weather
+3724	13	SYSTEM	他にご用件はありますか？	general,restaurant,taxi,weather
+3724	14	USER	いえ、大丈夫です。ありがとうございました。	general,restaurant,taxi,weather
+3724	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi,weather

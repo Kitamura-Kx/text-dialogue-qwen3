@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+194	0	USER	こんにちは。那覇に旅行に行きたいと考えているんです。	general,attraction,taxi
+194	1	SYSTEM	那覇のご旅行ですね。どういった情報をお探しでしょうか？	general,attraction,taxi
+194	2	USER	那覇の観光名所ってありますか？できればWi-Fiが無料で使えると嬉しいんですけど。	general,attraction,taxi
+194	3	SYSTEM	那覇で無料WiFiがご利用いただける観光名所は16件ございます。ほかにはご希望の条件など、ございませんか？	general,attraction,taxi
+194	4	USER	Wi-Fiが無料で使えれば、他には条件はないです。	general,attraction,taxi
+194	5	SYSTEM	では、首里殿内 首里金城町石畳道はいかがでしょうか？	general,attraction,taxi
+194	6	USER	ご案内ありがとうございます。こちらは駐車場はあるのでしょうか？	general,attraction,taxi
+194	7	SYSTEM	はい。無料駐車場がございます。	general,attraction,taxi
+194	8	USER	わかりました。こちらの施設はどのようなジャンルの観光スポットですか？	general,attraction,taxi
+194	9	SYSTEM	美術館・博物館となっております。	general,attraction,taxi
+194	10	USER	そうですか。あと、那覇でタクシーを使いたいです。	general,attraction,taxi
+194	11	SYSTEM	かしこまりました。9件ほど、タクシー会社がございますが、ジャンボタクシーなどのご希望はありますでしょうか？	general,attraction,taxi
+194	12	USER	ジャンボタクシーが使えて、キャッシュレス決済ができる会社だとありがたいです。	general,attraction,taxi
+194	13	SYSTEM	では、鏡原第一交通はいかがでしょうか？どちらにも対応しております。	general,attraction,taxi
+194	14	USER	こちらの会社の電話番号を教えておいてもらえますか？	general,attraction,taxi
+194	15	SYSTEM	電話番号は、0988537801です。	general,attraction,taxi
+194	16	USER	ありがとうございます！ではこちらの会社でご予約をお願いします。	general,attraction,taxi
+194	17	SYSTEM	かしこまりました。ご利用の日時と、出発地、目的地はお決まりでしょうか？	general,attraction,taxi
+194	18	USER	10/20の10:50、出発地点が首里殿内 首里金城町石畳道、到着地点がザ・ナハテラスでお願いします。	general,attraction,taxi
+194	19	SYSTEM	申し訳ございません。その条件ですと、予約をおとりできませんでした。いかが致しましょうか？	general,attraction,taxi
+194	20	USER	そうですか。では時間を11:30に変更するとどうでしょうか？	general,attraction,taxi
+194	21	SYSTEM	ありがとうございます。予約完了いたしました。ご予約番号は、18050です。	general,attraction,taxi
+194	22	USER	わかりました。お世話になりました！	general,attraction,taxi

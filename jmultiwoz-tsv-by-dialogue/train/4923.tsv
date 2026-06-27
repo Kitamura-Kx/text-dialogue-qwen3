@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4923	0	USER	那覇に旅行に行くのですが、買い物ができる場所を探して欲しいです	general,shopping,taxi,weather
+4923	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,shopping,taxi,weather
+4923	2	USER	ジャンルはありませんが、場所は本町でお願いします	general,shopping,taxi,weather
+4923	3	SYSTEM	恐れ入ります。本町ではなく、那覇の本庁エリアでよろしかったでしょうか？	general,shopping,taxi,weather
+4923	4	USER	ああ、そうですね。そこでお願いします	general,shopping,taxi,weather
+4923	5	SYSTEM	かしこまりました。そうしますと４６ヶ所ほど、ご案内できるのですが、たとえば宮古島の雪塩 国際通り店というところにご興味ございませんか？	general,shopping,taxi,weather
+4923	6	USER	ではそこにします。ついでにタクシー会社も探してもらえますか？	general,shopping,taxi,weather
+4923	7	SYSTEM	かしこまりました。那覇では９件ほどご案内可能です。特にご希望条件がないようでしたら、三和交通はいかがでしょうか？	general,shopping,taxi,weather
+4923	8	USER	ジャンボタクシーが利用できるところはありますか？	general,shopping,taxi,weather
+4923	9	SYSTEM	はい、ございます。それでしたら、沖東交通グループはいかがでしょうか？	general,shopping,taxi,weather
+4923	10	USER	では、そうします。電話番号を教えてもらえますか？	general,shopping,taxi,weather
+4923	11	SYSTEM	かしこまりました。電話番号は、0989465654でございます。	general,shopping,taxi,weather
+4923	12	USER	では、8月3日の12時30分で、先ほど教えてもらった宮古島の雪塩 国際通り店からノボテル沖縄那覇で、予約してもらえますか？	general,shopping,taxi,weather
+4923	13	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょう？	general,shopping,taxi,weather
+4923	14	USER	13時30分ではどうでしょうか？	general,shopping,taxi,weather
+4923	15	SYSTEM	ありがとうございます。13時30分出発にて、ご予約完了いたしました。予約番号は、28358です。	general,shopping,taxi,weather
+4923	16	USER	では、その日、8月3日の真和志の天気も教えて欲しいです	general,shopping,taxi,weather
+4923	17	SYSTEM	かしこまりました。当日の天気は、晴れの予報です。最低気温は28.1度、最高気温は32.1度の予想となっております。	general,shopping,taxi,weather
+4923	18	USER	以上です。ありがとうございました。	general,shopping,taxi,weather
+4923	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,taxi,weather

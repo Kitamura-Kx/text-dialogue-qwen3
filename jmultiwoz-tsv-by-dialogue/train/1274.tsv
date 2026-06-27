@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1274	0	USER	札幌の買い物スポットを教えてください。ジャンルは自動車・自転車です。	general,shopping,taxi
+1274	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,taxi
+1274	2	USER	では、ジャンルを百貨店や総合スーパーに変更していただけますか？	general,shopping,taxi
+1274	3	SYSTEM	かしこまりました。そうしますと、9件ご案内可能です。たとえば、東区エリアにあるアリオ札幌というお店はいかがでしょうか？	general,shopping,taxi
+1274	4	USER	電話番号と営業時間も教えてください。	general,shopping,taxi
+1274	5	SYSTEM	電話番号は、0117231111です。営業時間は、9:00～22:00でございます。	general,shopping,taxi
+1274	6	USER	分かりました。ついでに、タクシーについてもお聞きしたいんですが。ジャンボタクシーが利用できるところがいいです。	general,shopping,taxi
+1274	7	SYSTEM	申し訳ありません。札幌でジャンボタクシーをご利用頂ける会社でご案内できるところが見つかりませんでした。	general,shopping,taxi
+1274	8	USER	ではジャンボタクシーの条件を除いてください。	general,shopping,taxi
+1274	9	SYSTEM	ありがとうございます。では、江別ハイヤー(株)はいかがでしょうか？	general,shopping,taxi
+1274	10	USER	電話番号もお願いします。	general,shopping,taxi
+1274	11	SYSTEM	電話番号は、0118466000でございます。	general,shopping,taxi
+1274	12	USER	予約もお願いできますか？11/13の9:50でお願いします。中島児童会館から出発で、アリオ札幌までです。	general,shopping,taxi
+1274	13	SYSTEM	ご予約ありがとうございます。予約完了いたしました。予約番号は、20705です。	general,shopping,taxi
+1274	14	USER	ありがとうございます。	general,shopping,taxi

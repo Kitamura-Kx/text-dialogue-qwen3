@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+253	0	USER	こんにちは、札幌旅行に行くので観光名所を探してもらえませんか？	general,attraction,taxi
+253	1	SYSTEM	かしこまりました。ジャンルやエリアなど、ご希望の条件はございますでしょうか？	general,attraction,taxi
+253	2	USER	Wi-Fiと駐車場がタダで使える所はありますか？	general,attraction,taxi
+253	3	SYSTEM	4件、ご案内可能です。例えば、さっぽろ羊ヶ丘展望台はいかがでしょうか？	general,attraction,taxi
+253	4	USER	さっぽろ羊ヶ丘展望台、気になります。こちらは子供の入場料は定められていますか？	general,attraction,taxi
+253	5	SYSTEM	小・中学生のお子様の入場料は、300円となっております。	general,attraction,taxi
+253	6	USER	わかりました。あと、札幌旅行中に利用するタクシーも探してもらえませんか？	general,attraction,taxi
+253	7	SYSTEM	かしこまりました。20件ほどご案内可能ですが、キャッシュレス対応やジャンボタクシーのご利用予定はありますか？	general,attraction,taxi
+253	8	USER	キャッシュレス払いとジャンボタクシーが利用できるところでお願いします。	general,attraction,taxi
+253	9	SYSTEM	かしこまりました。では、北広島第一交通(株)はいかがでしょうか？	general,attraction,taxi
+253	10	USER	こちらのタクシー会社の電話番号が知りたいです。	general,attraction,taxi
+253	11	SYSTEM	電話番号は、0118115151でございます。	general,attraction,taxi
+253	12	USER	ありがとうございます。こちらで予約をお願いします。	general,attraction,taxi
+253	13	SYSTEM	承知いたしました。ご利用の日付と出発時刻、出発地、目的地をお伺いしてもよろしいでしょうか？	general,attraction,taxi
+253	14	USER	3/13の11:30に立場割烹 料理屋Kからさっぽろ羊ヶ丘展望台まで利用したいと考えています。	general,attraction,taxi
+253	15	SYSTEM	大変申し訳ございません。その条件ですと、予約をおとりできませんでした。	general,attraction,taxi
+253	16	USER	では時間を12:00にずらしたら予約できそうでしょうか？	general,attraction,taxi
+253	17	SYSTEM	ありがとうございます。予約が完了いたしました。予約番号は、69541です。	general,attraction,taxi
+253	18	USER	わかりました。どうもありがとうございました。	general,attraction,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4954	0	USER	名古屋へ旅行予定なのですが、最寄り駅が星ヶ丘駅でおもちゃを買えるお店はありますか？	general,shopping,hotel,weather
+4954	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping,hotel,weather
+4954	2	USER	わかりました。であれば最寄り駅はどこでも大丈夫です。	general,shopping,hotel,weather
+4954	3	SYSTEM	かしこまりました。それではポケモンセンターナゴヤはいかがでしょうか？	general,shopping,hotel,weather
+4954	4	USER	そこいいですね。定休日はありますか？	general,shopping,hotel,weather
+4954	5	SYSTEM	ありがとうございます。定休日は無しでございます。	general,shopping,hotel,weather
+4954	6	USER	そうなんですね。あと、簡易宿所の普通くらいの値段の宿泊施設はありますか？	general,shopping,hotel,weather
+4954	7	SYSTEM	かしこまりました。その条件でしたらShow和の宿つちやがございます。	general,shopping,hotel,weather
+4954	8	USER	そこにします。エリアとレストランの有無、あとチェックイン開始時刻を教えてください。	general,shopping,hotel,weather
+4954	9	SYSTEM	ありがとうございます。エリアは中村区、レストランはございません。またチェックイン時刻は16時でございます。	general,shopping,hotel,weather
+4954	10	USER	いえいえ。3人で7/10から3泊の予約をお願いしたいです。	general,shopping,hotel,weather
+4954	11	SYSTEM	お待たせ致しました。予約番号93645でお取りさせていただきました。	general,shopping,hotel,weather
+4954	12	USER	了解です。あと、7/10の中川区の天気も調べれます？	general,shopping,hotel,weather
+4954	13	SYSTEM	お待たせ致しました。当日の中川区の天気は雨時々曇の予報でございます。	general,shopping,hotel,weather
+4954	14	USER	わかりました。いろいろとありがとうございました。もう大丈夫です。	general,shopping,hotel,weather
+4954	15	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,hotel,weather

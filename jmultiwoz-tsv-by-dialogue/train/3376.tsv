@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3376	0	USER	札幌に行くのですが、資生館小学校前停留所付近で、Wi-Fiが無料な宿泊施設探して下さい。	general,hotel,attraction
+3376	1	SYSTEM	そちらの条件では該当ございませんでした。	general,hotel,attraction
+3376	2	USER	資生館小学校前停留所付近じゃなくてもいいです。	general,hotel,attraction
+3376	3	SYSTEM	そうしますと、ホテルマイステイズプレミア札幌パーク含む94件ございますが、いかがでしょうか？	general,hotel,attraction
+3376	4	USER	エリアどのへんですか？住所おしえてください。	general,hotel,attraction
+3376	5	SYSTEM	中央区でございます。北海道札幌市中央区南9条西2丁目2-10でございます。	general,hotel,attraction
+3376	6	USER	4月22日で3泊、2人の予約お願いします。	general,hotel,attraction
+3376	7	SYSTEM	ご予約が完了しました。予約番号は93889でございます。	general,hotel,attraction
+3376	8	USER	ありがとうございます。それと、駐車場とWi-Fiが無料な観光名所おしえてください。	general,hotel,attraction
+3376	9	SYSTEM	ラウンドワンスタジアム札幌北21条店ほか３件ございます。いかがでしょうか？	general,hotel,attraction
+3376	10	USER	どこの駅が近いですか？大人料金と営業時間知りたいです。	general,hotel,attraction
+3376	11	SYSTEM	北24条駅が最寄りで入場は無料です。	general,hotel,attraction
+3376	12	USER	営業時間は何時ですか？	general,hotel,attraction
+3376	13	SYSTEM	失礼いたしました。00:00～00:00でございます。	general,hotel,attraction
+3376	14	USER	分かりました。ありがとうございました。	general,hotel,attraction
+3376	15	SYSTEM	ありがとうございました。	general,hotel,attraction

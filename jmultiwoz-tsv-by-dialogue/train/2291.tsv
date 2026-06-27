@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2291	0	USER	福岡の宿泊施設を教えてください。	general,hotel
+2291	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,hotel
+2291	2	USER	城南区の簡易宿所（ベッドハウス・山小屋・カプセルホテル等）でお願いします。	general,hotel
+2291	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel
+2291	4	USER	では、地区はどこでも大丈夫です。	general,hotel
+2291	5	SYSTEM	かしこまりました。では、WeBase博多は如何でしょうか？	general,hotel
+2291	6	USER	ありがとうございます。そちらの住所と価格帯も教えてください。	general,hotel
+2291	7	SYSTEM	住所は、福岡県福岡市博多区店屋町5-9です。価格帯は安めとなっております。	general,hotel
+2291	8	USER	ありがとうございます。	general,hotel
+2291	9	SYSTEM	ほかにお知りになりたい情報はございますか？	general,hotel
+2291	10	USER	もう大丈夫です。	general,hotel
+2291	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

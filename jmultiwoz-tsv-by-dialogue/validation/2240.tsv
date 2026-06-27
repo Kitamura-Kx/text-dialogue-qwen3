@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2240	0	USER	東京に旅行に行くんですけど、千代田区でお土産を買えるところを探しています。仲御徒町駅の近くでいいところはありませんか？	general,shopping,restaurant,weather
+2240	1	SYSTEM	全ての条件を兼ね備える買い物スポットはありません。	general,shopping,restaurant,weather
+2240	2	USER	じゃあ駅はどこでもいいです。それなら？	general,shopping,restaurant,weather
+2240	3	SYSTEM	千代田区でお土産といえば、北海道どさんこプラザ有楽町店です。	general,shopping,restaurant,weather
+2240	4	USER	住所と営業時間を教えてもらえますか？	general,shopping,restaurant,weather
+2240	5	SYSTEM	東京都千代田区有楽町2丁目10-1 東京交通会館1階49、営業時間は朝１０時から夜８時です。	general,shopping,restaurant,weather
+2240	6	USER	あと港区で洋食屋西洋料理の食事ができるところを教えてもらえませんか？駐車場無料のところをお願いします。	general,shopping,restaurant,weather
+2240	7	SYSTEM	その条件をみたすところでは、バルバッコア 六本木ヒルズ店をお勧めします。	general,shopping,restaurant,weather
+2240	8	USER	定休日ってありますか？	general,shopping,restaurant,weather
+2240	9	SYSTEM	定休日はありません。	general,shopping,restaurant,weather
+2240	10	USER	もう一ついいですか？5月21日の台東区の天候を知りたいんですけど？	general,shopping,restaurant,weather
+2240	11	SYSTEM	5/21 東京 台東区 の天気は雨、最低気温17.8度、最高気温26.4度です。	general,shopping,restaurant,weather
+2240	12	USER	雨のわりには暑くなりそうですね。よくわかりました。お世話になりました。	general,shopping,restaurant,weather

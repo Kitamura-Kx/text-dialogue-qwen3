@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3710	0	USER	こんにちは。東京に行くのですが、ジャンボタクシーが利用できて、キャッシュレス払いが可能な、タクシー会社を探してもらえますか？	general,taxi
+3710	1	SYSTEM	かしこまりました。それではキャピタルオートはいかがでしょうか？	general,taxi
+3710	2	USER	そこにしようかな。電話番号はわかりますか？	general,taxi
+3710	3	SYSTEM	はい、電話番号は0357552151でございます。	general,taxi
+3710	4	USER	ありがとうございます。ではそのタクシー会社で、10/16の13:30、出発地は東京都現代美術館 / MUSEUM OF CONTEMPORARY ART TOKYO (MOT)、目的地は江戸さくらで、予約をお願いします。	general,taxi
+3710	5	SYSTEM	お待たせ致しました。予約番号7585でお取りさせていただきました。	general,taxi
+3710	6	USER	助かりました。案内ありがとうございました。	general,taxi
+3710	7	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi

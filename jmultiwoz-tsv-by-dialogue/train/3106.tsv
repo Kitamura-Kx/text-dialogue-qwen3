@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3106	0	USER	那覇の真和志でWi-Fiが無料の宿泊施設を探しています。	general,hotel,taxi
+3106	1	SYSTEM	承知しました。沖縄サンプラザホテルはいかがでしょう？タイプはビジネスホテルとなります。	general,hotel,taxi
+3106	2	USER	ありがとうございます。その日に利用するタクシーも探しています。キャッシュレス払いができる所が良いです。	general,hotel,taxi
+3106	3	SYSTEM	申し訳ありません、キャッシュレス対応のタクシー会社はございません。いかが致しましょう？	general,hotel,taxi
+3106	4	USER	ではキャッシュレス払いはできなくても大丈夫です。	general,hotel,taxi
+3106	5	SYSTEM	ありがとうございます。では、大栄交通はいかがでしょう？ジャンボタクシーには対応しております。電話番号は、0989465005となります。	general,hotel,taxi
+3106	6	USER	ありがとうございます。そのタクシーを1/7の13：00に沖縄サンプラザホテルからアルモントホテル那覇県庁前まで予約したいです。	general,hotel,taxi
+3106	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、99615となります。他にご用件はございますか？	general,hotel,taxi
+3106	8	USER	大丈夫です。ありがとうございました。	general,hotel,taxi
+3106	9	SYSTEM	ありがとうございました。	general,hotel,taxi

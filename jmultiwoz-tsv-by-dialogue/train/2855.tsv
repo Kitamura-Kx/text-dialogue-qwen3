@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2855	0	USER	福岡への旅行を計画しているので、Wi-Fiを無料で利用できる観光名所を探してもらえますか？	general,attraction,restaurant
+2855	1	SYSTEM	福岡ですね。では、福岡タワーはいかがでしょうか？	general,attraction,restaurant
+2855	2	USER	そこはジャンルは何になりますか？	general,attraction,restaurant
+2855	3	SYSTEM	こちらのジャンルは、展望台・タワーとなっています。	general,attraction,restaurant
+2855	4	USER	ありがとうございます。あと博多区で駐車場が無料で利用できる予算安めの飲食店を探してほしいです。	general,attraction,restaurant
+2855	5	SYSTEM	1件みつかりました。　円坐・長屋は、いかがですか？	general,attraction,restaurant
+2855	6	USER	そこにしようと思うので、料金情報を教えてください。	general,attraction,restaurant
+2855	7	SYSTEM	料金情報は、焼き鳥食べ放題　極:4000円となっています。	general,attraction,restaurant
+2855	8	USER	ありがとうございます。では7/17 14:50に３名で予約をお願いできますか？	general,attraction,restaurant
+2855	9	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,attraction,restaurant
+2855	10	USER	では２名で予約お願いできますか？	general,attraction,restaurant
+2855	11	SYSTEM	予約出来ました。予約番号は、34967です。	general,attraction,restaurant
+2855	12	USER	ありがとうございます。	general,attraction,restaurant
+2855	13	SYSTEM	他にご用件はございますか？	general,attraction,restaurant
+2855	14	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,restaurant

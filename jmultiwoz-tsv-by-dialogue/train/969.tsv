@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+969	0	USER	名古屋への旅行を計画しており、タクシー会社を探しているのですが、何処かありますでしょうか？	general,taxi
+969	1	SYSTEM	かしこまりました。ご希望の条件はございませんか。	general,taxi
+969	2	USER	そうですね、ジャンボタクシーを利用したいのですが、該当する会社はあったりしませんか？	general,taxi
+969	3	SYSTEM	申し訳ございません。ジャンボタクシーに対応している会社がございませんでした。いかがなさいますか。	general,taxi
+969	4	USER	でしたら、ジャンボタクシーは大丈夫です。それ以外は特に条件はありませんので、何処かおすすめのタクシー会社はありますかね？	general,taxi
+969	5	SYSTEM	名鉄名古屋タクシーがございますが、いかがでしょうか。	general,taxi
+969	6	USER	では、そちらで検討してみます。その会社の電話番号はわかりますか？	general,taxi
+969	7	SYSTEM	電話番号は0570085255でございます。	general,taxi
+969	8	USER	あ、それと、そちらの会社はキャッシュレス対応はしていますか？	general,taxi
+969	9	SYSTEM	はい。キャッシュレスには対応しております。	general,taxi
+969	10	USER	わかりました。では、そちらの会社で当日のタクシーを予約したいのですが、よろしいでしょうか？	general,taxi
+969	11	SYSTEM	かしこまりました。では詳細をお聞かせいただけますか。	general,taxi
+969	12	USER	はい。日付は6月17日の10時です。出発地は加賀屋 名古屋店から、目的地はホテルウィングインターナショナルセレクト名古屋栄になります。	general,taxi
+969	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は54013でございます。	general,taxi
+969	14	USER	助かります。ありがとうございます。当日が楽しみです。	general,taxi
+969	15	SYSTEM	ほかにご用件はございますか。	general,taxi
+969	16	USER	大丈夫です。ご対応、ありがとうございました。	general,taxi
+969	17	SYSTEM	承知しました。ありがとうございました。	general,taxi

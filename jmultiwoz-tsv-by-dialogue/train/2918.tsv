@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2918	0	USER	こんにちは。那覇へ行くのですが、Calbee+沖縄国際通り店というお店に行こうと考えています。最寄り駅や営業時間、電話番号はわかりますか？	general,shopping,restaurant,taxi
+2918	1	SYSTEM	最寄りは牧志駅、朝10時半から夜７時半までの営業、電話は0988676254になります。	general,shopping,restaurant,taxi
+2918	2	USER	ありがとうございます。地区は真和志で、最寄り駅が牧志駅な、飲食店はありますか？	general,shopping,restaurant,taxi
+2918	3	SYSTEM	真和志で最寄り駅牧志な飲食店は２つ、そのうち、LE GOURMANDをおすすめします。	general,shopping,restaurant,taxi
+2918	4	USER	そこに行ってみます。そのお店で、人数は4人、日付は4/26、時間は14:30で、予約もお願いできますか？	general,shopping,restaurant,taxi
+2918	5	SYSTEM	予約成功しました。予約番号は73978です。	general,shopping,restaurant,taxi
+2918	6	USER	ありがとうございます。あと、キャッシュレス払いが可能なタクシー会社も探してもらえますか？	general,shopping,restaurant,taxi
+2918	7	SYSTEM	那覇にキャッシュレス対応のタクシー会社はなさそうです。	general,shopping,restaurant,taxi
+2918	8	USER	ではキャッシュレス払いにはこだわりません。	general,shopping,restaurant,taxi
+2918	9	SYSTEM	それでは、沖東交通グループをお勧めします。	general,shopping,restaurant,taxi
+2918	10	USER	ではそこにします。そこのタクシー会社はジャンボタクシーには対応していますか？電話番号も知りたいです。	general,shopping,restaurant,taxi
+2918	11	SYSTEM	ジャンボタクシー対応しています。電話は0989465654です。	general,shopping,restaurant,taxi
+2918	12	USER	ありがとうございます。ではそのタクシー会社で、4/26の13:00、出発地はCalbee+沖縄国際通り店、目的地はLE GOURMANDで、予約をお願いします。	general,shopping,restaurant,taxi
+2918	13	SYSTEM	その条件だと予約に失敗してしまいました。	general,shopping,restaurant,taxi
+2918	14	USER	では時間を13:40に変更すれば予約できそうですか？	general,shopping,restaurant,taxi
+2918	15	SYSTEM	13:40で予約成功しました。予約番号は5441です。	general,shopping,restaurant,taxi
+2918	16	USER	ありがとうございます。	general,shopping,restaurant,taxi
+2918	17	SYSTEM	よい旅を	general,shopping,restaurant,taxi

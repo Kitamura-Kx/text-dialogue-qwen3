@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4622	0	USER	すみません、名古屋旅行したいと思っていますが、文房具・雑貨のお店はありますか？駐車場が無料のところでお願いします。	general,shopping,restaurant,taxi
+4622	1	SYSTEM	では東急ハンズ名古屋店はいかがですか。	general,shopping,restaurant,taxi
+4622	2	USER	有名ですよね。最寄り駅とエリアってわかりますか？	general,shopping,restaurant,taxi
+4622	3	SYSTEM	最寄り駅は名古屋駅で、エリアは中村区でございます。	general,shopping,restaurant,taxi
+4622	4	USER	ありがとうございます、買い物したいと思います。それから、飲食店で、お好み焼き・たこ焼きのお店が国際センター駅近くにありませんか？	general,shopping,restaurant,taxi
+4622	5	SYSTEM	はい。じゃけん 名古屋2号店がございます。	general,shopping,restaurant,taxi
+4622	6	USER	そちらを予約できますか？人数は4人で、10月28日の16時50分にお願いします。	general,shopping,restaurant,taxi
+4622	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は59367でございます。	general,shopping,restaurant,taxi
+4622	8	USER	助かります。お手数なんですが、タクシー予約もお願いしたいです。キャッシュレス払いできるといいんですが。	general,shopping,restaurant,taxi
+4622	9	SYSTEM	では名古屋エムケイがございます。こちらジャンボタクシーにも対応しております。	general,shopping,restaurant,taxi
+4622	10	USER	そうですか。そちらに頼みたいですが、念のために電話番号も教えてください。	general,shopping,restaurant,taxi
+4622	11	SYSTEM	電話番号は0529125908でございます。	general,shopping,restaurant,taxi
+4622	12	USER	ありがとうございます。では10月28日の15時30分に、東急ハンズ名古屋店からじゃけん 名古屋2号店までで予約をお願いします。	general,shopping,restaurant,taxi
+4622	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は45898でございます。	general,shopping,restaurant,taxi
+4622	14	USER	スムーズに予約できて良かったです。ありがとうございます。	general,shopping,restaurant,taxi

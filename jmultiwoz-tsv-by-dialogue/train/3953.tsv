@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3953	0	USER	旅行で横浜に行きますが、当日利用できるタクシー会社を調べてください。	general,taxi
+3953	1	SYSTEM	かしこまりました。２０件ほどご案内できますが、ジャンボタクシーのご利用予定などはございませんか？	general,taxi
+3953	2	USER	はい、ジャンボタクシーを利用したいです。また、キャッシュレスに対応できるところがいいですね。	general,taxi
+3953	3	SYSTEM	かしこまりました。そうしますと、京浜ハイヤー株式会社はいかがでしょうか？	general,taxi
+3953	4	USER	そこにします。12月24の15:00に予約をお願いします。	general,taxi
+3953	5	SYSTEM	かしこまりました。ご利用予定の出発地、目的地はお決まりでしょうか？	general,taxi
+3953	6	USER	出発地はイル・ジャルディーノというところで、目的地は京華樓 鶴屋町CRANE店というところです。	general,taxi
+3953	7	SYSTEM	大変申し訳ございません。ご希望の内容では予約を入れることができませんでした。いかがいたしましょうか？	general,taxi
+3953	8	USER	時間を15:30に変更したらどうでしょうか？	general,taxi
+3953	9	SYSTEM	ありがとうございます。15:30発にて、ご予約完了いたしました。予約番号は、19692です。	general,taxi
+3953	10	USER	わかりました。ありがとうございます。	general,taxi
+3953	11	SYSTEM	他にお調べすることはございませんか？	general,taxi
+3953	12	USER	もう大丈夫です。ありがとうございました。	general,taxi
+3953	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

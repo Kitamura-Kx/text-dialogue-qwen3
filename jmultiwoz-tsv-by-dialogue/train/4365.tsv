@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4365	0	USER	福岡でお買い物をできるところを探しています。駐車場が無料のところはないでしょうか。	general,shopping
+4365	1	SYSTEM	はい、28件ほどご案内可能です。たとえば、中央区エリアにある、六本松421というところはいかがでしょうか？	general,shopping
+4365	2	USER	ありがとうございます。あいにく西区でお土産を購入できるところを探しています。そのようなところはないでしょうか。	general,shopping
+4365	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,shopping
+4365	4	USER	そうですか。それでは西区で駐車場が無料であればよいのですがもう一度探していただけますか	general,shopping
+4365	5	SYSTEM	かしこまりました。お買い物のジャンルを指定しない場合は、4件ご案内可能です。たとえば、ホームセンター グッデイ 西福岡店というお店はいかがでしょうか？	general,shopping
+4365	6	USER	そちらで結構です。営業時間と住所を教えていただけますか	general,shopping
+4365	7	SYSTEM	営業時間は、朝8:00から夜20:00までです。住所は、福岡県福岡市西区福重2丁目31番4号でございます。	general,shopping
+4365	8	USER	ありがとうございます。こちらで結構です。	general,shopping
+4365	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping
+4365	10	USER	ありがとうございました。	general,shopping

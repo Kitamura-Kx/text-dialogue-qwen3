@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3483	0	USER	名古屋でしゃなりしゃなりに行ってみたいと思っています。営業時間を教えてくれますか？	general,restaurant,hotel,taxi
+3483	1	SYSTEM	かしこまりました。営業時間は17:00～00:00でございます。	general,restaurant,hotel,taxi
+3483	2	USER	近辺の駅からの所要時間と住所についても教えて貰えますか？	general,restaurant,hotel,taxi
+3483	3	SYSTEM	伏見駅から徒歩で1分、栄駅から徒歩で10分でございます。住所は愛知県名古屋市中区錦1丁目20-6 高木ビル 2Fでございます。	general,restaurant,hotel,taxi
+3483	4	USER	分かりました！あと宿泊施設も探しているのですが	general,restaurant,hotel,taxi
+3483	5	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,hotel,taxi
+3483	6	USER	中川区で予算は高めのところがいいです	general,restaurant,hotel,taxi
+3483	7	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,hotel,taxi
+3483	8	USER	じゃあ、予算は考慮しなくていいです	general,restaurant,hotel,taxi
+3483	9	SYSTEM	ではホテル いろはがございます。	general,restaurant,hotel,taxi
+3483	10	USER	そこにします。駐車場はありますか？	general,restaurant,hotel,taxi
+3483	11	SYSTEM	はい。無料の駐車場がございます。	general,restaurant,hotel,taxi
+3483	12	USER	わかりました。あとタクシー会社を探してほしいのですが	general,restaurant,hotel,taxi
+3483	13	SYSTEM	かしこまりました。つばめタクシーグループはいかがでしょうか。	general,restaurant,hotel,taxi
+3483	14	USER	ジャンボタクシーは利用できますか？	general,restaurant,hotel,taxi
+3483	15	SYSTEM	はい。対応しております。	general,restaurant,hotel,taxi
+3483	16	USER	じゃあ予約してほしいです	general,restaurant,hotel,taxi
+3483	17	SYSTEM	では、ご予約の詳細をお聞かせいただけますか。	general,restaurant,hotel,taxi
+3483	18	USER	1/11で時間は14:50です	general,restaurant,hotel,taxi
+3483	19	SYSTEM	出発地と目的地も教えていただけますか。	general,restaurant,hotel,taxi
+3483	20	USER	出発地がしゃなりしゃなりで目的地がホテル いろはでお願いします	general,restaurant,hotel,taxi
+3483	21	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は76256でございます。	general,restaurant,hotel,taxi
+3483	22	USER	念のため電話番号も聞いていいですか？	general,restaurant,hotel,taxi
+3483	23	SYSTEM	電話番号は0522031212でございます。	general,restaurant,hotel,taxi
+3483	24	USER	わかりました。ありがとうございました	general,restaurant,hotel,taxi
+3483	25	SYSTEM	ほかにご用件はございませんか。	general,restaurant,hotel,taxi
+3483	26	USER	ないです。ありがとうございました	general,restaurant,hotel,taxi
+3483	27	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel,taxi

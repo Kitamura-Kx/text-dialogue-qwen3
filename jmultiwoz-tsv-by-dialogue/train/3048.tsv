@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3048	0	USER	札幌の旅行で泊まるビジネスホテルを探しています。	general,hotel
+3048	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel
+3048	2	USER	駐車場が無料のところがいいです。	general,hotel
+3048	3	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel
+3048	4	USER	駐車場がなくてもいいんですが、どうですか？	general,hotel
+3048	5	SYSTEM	それなら、ホテルグレイスリー札幌はどうでしょう。	general,hotel
+3048	6	USER	どのエリアになりますか？	general,hotel
+3048	7	SYSTEM	はい。エリアは中央区です。	general,hotel
+3048	8	USER	そこにします。ありがとうございました。	general,hotel
+3048	9	SYSTEM	はい。こちらこそご利用ありがとうございました。	general,hotel

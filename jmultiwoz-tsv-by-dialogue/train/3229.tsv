@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3229	0	USER	福岡旅行を予定しているのですが、その時にショッピングするお店を探しています。	general,shopping,attraction,taxi
+3229	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,shopping,attraction,taxi
+3229	2	USER	はい、駐車場は無料が良いです。場所は中央区がいいのですが、ありますか？	general,shopping,attraction,taxi
+3229	3	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,shopping,attraction,taxi
+3229	4	USER	そうなんですね、では中央区ではなく南区ではどうでしょうか？	general,shopping,attraction,taxi
+3229	5	SYSTEM	かしこまりました。では、サンプルRIKIはいかがでしょうか？	general,shopping,attraction,taxi
+3229	6	USER	いいですね、サンプルRIKIの営業時間と定休日がいつなのかも教えてください。	general,shopping,attraction,taxi
+3229	7	SYSTEM	はい。営業時間は10:00～16:00で、定休日は無しとなっております。	general,shopping,attraction,taxi
+3229	8	USER	分かりました。あとは観光地を探しているのですが、海の中道駅の周辺でWi-Fiも無料の施設はありますか？	general,shopping,attraction,taxi
+3229	9	SYSTEM	かしこまりました。では、海の中道海浜公園 動物の森はいかがでしょうか？	general,shopping,attraction,taxi
+3229	10	USER	良さそうですね。タクシーを利用して移動したいのですが、ジャンボタクシー対応の会社は見つかりますか？	general,shopping,attraction,taxi
+3229	11	SYSTEM	はい、ございますよ。キャッシュレスにも対応している福岡昭和タクシー（株）はいかがですか？	general,shopping,attraction,taxi
+3229	12	USER	それでは4/26に予約をお願いします。サンプルRIKIから15:00に乗車して、行先は海の中道海浜公園 動物の森です。	general,shopping,attraction,taxi
+3229	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、29810です。	general,shopping,attraction,taxi
+3229	14	USER	ありがとうございます。	general,shopping,attraction,taxi
+3229	15	SYSTEM	はい。ほかに何かご用件はございますか？	general,shopping,attraction,taxi
+3229	16	USER	これで全てです、ありがとうございました。	general,shopping,attraction,taxi
+3229	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction,taxi

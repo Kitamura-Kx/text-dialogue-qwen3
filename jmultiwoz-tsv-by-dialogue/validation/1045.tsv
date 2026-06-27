@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1045	0	USER	今度、東京へ行くので安めの宿泊施設を探しています。	general,hotel
+1045	1	SYSTEM	東京にご旅行ですね。お安めの宿泊施設は33件ご案内可能です。他にエリアなど、ご希望はございませんか？	general,hotel
+1045	2	USER	レストランが併設されている所が良いです。	general,hotel
+1045	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できる宿泊施設が見つかりませんでした。	general,hotel
+1045	4	USER	では、予算は考えずにレストラン併設していればいいです。	general,hotel
+1045	5	SYSTEM	かしこまりました。そうしますと、コンラッド東京というリゾートホテルはいかがでしょうか？お値段帯は普通となっております。	general,hotel
+1045	6	USER	コンラッド東京のタイプは、リゾートホテルという事ですかね？	general,hotel
+1045	7	SYSTEM	はい、左様でございます。	general,hotel
+1045	8	USER	分かりました。これで大丈夫です。ありがとうございました。失礼します。	general,hotel
+1045	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2082	0	USER	京都への旅行を検討しているのですが、当日利用できる飲食店を探しています。色々お伺いしたいのですが、よろしいでしょうか？	general,restaurant,weather
+2082	1	SYSTEM	はい。ご案内させていただきます。	general,restaurant,weather
+2082	2	USER	最寄り駅が梅小路京都西駅がいいですね。出来れば、駐車場が無料だと最高なのですけれども。	general,restaurant,weather
+2082	3	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,weather
+2082	4	USER	そうですか、では、最寄り駅が桂駅とかだったらどうですかね？	general,restaurant,weather
+2082	5	SYSTEM	かしこまりました。では、海雲亭 洛西店はいかがでしょうか？	general,restaurant,weather
+2082	6	USER	助かります。そちらの料金とかって概ねどのくらいでしょうか？	general,restaurant,weather
+2082	7	SYSTEM	はい。値段帯は安めとなっております。	general,restaurant,weather
+2082	8	USER	では、そちらにしようかと思います。そちらの住所を教えて頂けますか？	general,restaurant,weather
+2082	9	SYSTEM	はい。住所は京都府京都市西京区御陵谷町43-1でございます。	general,restaurant,weather
+2082	10	USER	ありがとうございます。定休日とかもわかりますか？	general,restaurant,weather
+2082	11	SYSTEM	はい。定休日は無しとなっております。	general,restaurant,weather
+2082	12	USER	ありがとうございます。旅行当日の天気も知りたいのですが、このまま続けてしまってもよろしいでしょうか？	general,restaurant,weather
+2082	13	SYSTEM	はい。大丈夫ですよ。	general,restaurant,weather
+2082	14	USER	ありがとうございます。7月2日の上京区の天気をお願いします。	general,restaurant,weather
+2082	15	SYSTEM	かしこまりました。7/2の上京区の天気予報は曇時々雨となっております。最低気温は18.2度、最高気温は27.6度になる予報です。	general,restaurant,weather
+2082	16	USER	ありがとうございます！これで当日は大丈夫そうです。ありがとうございました。	general,restaurant,weather
+2082	17	SYSTEM	こちらこそ、ありがとうございました。	general,restaurant,weather

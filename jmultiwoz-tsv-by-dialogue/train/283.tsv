@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+283	0	USER	お願いします。	general,restaurant
+283	1	SYSTEM	よろしくお願いいたします。何かお知りになりたい情報がございますか。	general,restaurant
+283	2	USER	大阪に出かけるのですが、おすすめの飲食店はありますか？	general,restaurant
+283	3	SYSTEM	該当するものが101件ございますが、ご希望の条件はございますか。	general,restaurant
+283	4	USER	料理の内容は問いませんが、無料で駐車場が利用できるところを探しています。	general,restaurant
+283	5	SYSTEM	申し訳ございません。無料の駐車場があるところはございませんでした。	general,restaurant
+283	6	USER	わかりました。では、いちばんおすすめのお店を1件ご紹介下さい。	general,restaurant
+283	7	SYSTEM	では、炭と地酒とたしなみワイン Kai本店 醸すはいかがでしょうか。	general,restaurant
+283	8	USER	いいですね。そのお店の予算はいくらですか？	general,restaurant
+283	9	SYSTEM	値段帯は普通でございます。詳しい料金情報は不明となっております。	general,restaurant
+283	10	USER	料金情報がわかるお店はありますか？	general,restaurant
+283	11	SYSTEM	ではタイハーブレストラン ソムタム by クワンチャイはいかがでしょうか。90分バイキング、昼の場合は1500円で、90分バイキング夜は2000円となっております。	general,restaurant
+283	12	USER	わかりました。ありがとうございます。	general,restaurant
+283	13	SYSTEM	ほかにご用件はございませんか。	general,restaurant
+283	14	USER	特にありません。	general,restaurant

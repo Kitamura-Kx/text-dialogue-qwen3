@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+678	0	USER	福岡へ旅行に行くのですが、薬院大通駅周辺に居酒屋はありますか？	general,restaurant
+678	1	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,restaurant
+678	2	USER	他の駅ではどうでしょうか？	general,restaurant
+678	3	SYSTEM	ご希望の駅を教えていただけますか？	general,restaurant
+678	4	USER	最寄り駅は駅はこだわりません	general,restaurant
+678	5	SYSTEM	承知しました。では、隠れ家個室居酒屋 天王 福岡店はいかがでしょう？ジャンルは居酒屋、郷土料理、エリアは中央区、最寄りの天神南駅から徒歩で3分となります。	general,restaurant
+678	6	USER	そちらにしようと思います、電話番号、料金、定休日を教えてもらえますか	general,restaurant
+678	7	SYSTEM	はい、電話番号は05052698850、定休日はございません。料金情報としては、イカの活き造り1,518円から、博多 国産もつ鍋、醤油、塩、味噌、各1人前 1,408円、ありた鶏の水炊き1人前 2,068円となります。値段帯は普通です。	general,restaurant
+678	8	USER	わかりました、有難うございました	general,restaurant
+678	9	SYSTEM	他にご用件はございますか？	general,restaurant
+678	10	USER	大丈夫です	general,restaurant

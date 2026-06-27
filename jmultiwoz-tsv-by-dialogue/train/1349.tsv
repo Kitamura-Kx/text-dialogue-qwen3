@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1349	0	USER	福岡へ行こうと思っています。駐車場が無料で利用できる買い物施設を探していただきたいです。	general,shopping
+1349	1	SYSTEM	ワッキー主基の里は、いかがですか？	general,shopping
+1349	2	USER	そちらの電話番号を教えていただけますでしょうか。	general,shopping
+1349	3	SYSTEM	電話番号は、0928032182です。	general,shopping
+1349	4	USER	わかりました。ありがとうございます。	general,shopping
+1349	5	SYSTEM	他にご用件はございますか？	general,shopping
+1349	6	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping

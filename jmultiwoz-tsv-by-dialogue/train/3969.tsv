@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3969	0	USER	名古屋への旅行を計画していて、当日の観光名所を探しています。駐車場無料の植物園が良いです。	general,attraction,shopping
+3969	1	SYSTEM	お待たせ致しました。それでは名古屋港ワイルドフラワーガーデン ブルーボネットがございます。	general,attraction,shopping
+3969	2	USER	ありがとうございます。そこの住所，料金情報，大人入場料は分かりますか？	general,attraction,shopping
+3969	3	SYSTEM	はい、住所は愛知県名古屋市港区潮見町42でございます。料金情報は、大人が300円、65歳以上が200円、小中学生が150円 、6歳未満は無料 、 障がい者、介護者（1人）は200円でございます。大人入場料は300円でございます。	general,attraction,shopping
+3969	4	USER	ありがとうございます。当日買い物が出来るところも探しています。駐車場無料のところが良いです。	general,attraction,shopping
+3969	5	SYSTEM	申し訳ありません。その条件では、お探しすることが出来ませんでした。	general,attraction,shopping
+3969	6	USER	そうですか。では、駐車場は有っても無くてもいいです。	general,attraction,shopping
+3969	7	SYSTEM	かしこまりました。それでは名古屋パルコはいかがでしょうか？	general,attraction,shopping
+3969	8	USER	ありがとうございます。名古屋パルコの定休日、ジャンルは分かりますか？	general,attraction,shopping
+3969	9	SYSTEM	定休日は不定休、ジャンルは百貨店や総合スーパーでございます。	general,attraction,shopping
+3969	10	USER	ありがとうございました。	general,attraction,shopping
+3969	11	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,shopping

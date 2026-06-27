@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4362	0	USER	仙台への旅行を計画しているところです。ジャンボタクシーを当日利用したいのですが、キャッシュレス払い対応している会社はありますか？	general,taxi
+4362	1	SYSTEM	お待たせ致しました。それでは仙台タクシーグループがおすすめでございます。	general,taxi
+4362	2	USER	そちらの電話番号を教えてください。	general,taxi
+4362	3	SYSTEM	はい、0570061616でございます。	general,taxi
+4362	4	USER	では、6月11日の10時半、回転鮨 清次郎 仙台泉店　から　ANAホリデイ・イン仙台　までの予約をお願いします。	general,taxi
+4362	5	SYSTEM	お待たせ致しました。予約番号6694でお取りさせていただきました。	general,taxi
+4362	6	USER	お世話になりました。ありがとうございました。	general,taxi

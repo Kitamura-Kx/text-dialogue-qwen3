@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3151	0	USER	東京への旅行を計画していて、当日に買い物が出来るところを探しています。中央区で駐車場が無料のところがいいのですがが。	general,shopping
+3151	1	SYSTEM	かしこまりました。そうしますと、銀座三越はいかがでしょうか？	general,shopping
+3151	2	USER	ありがとうございます。そこにしようと思います。営業時間を教えて貰えますか？	general,shopping
+3151	3	SYSTEM	はい、10:00～20:00となります。	general,shopping
+3151	4	USER	ありがとうございました。	general,shopping
+3151	5	SYSTEM	ほかに何かお調べすることはございませんか？	general,shopping
+3151	6	USER	いえ、他にはありません。ありがとうございました。	general,shopping
+3151	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

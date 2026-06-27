@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2943	0	USER	今度、東京で泊まる所を探しています。無料駐車場がある所を教えてください。	general,hotel,attraction
+2943	1	SYSTEM	エリアでいうと千代田区にある、帝国ホテル東京はいかがでしょう？タイプはシティホテルとなります。	general,hotel,attraction
+2943	2	USER	そちらはレストランはありますか？電話番号も教えて下さい。	general,hotel,attraction
+2943	3	SYSTEM	はい、併設のレストランがございます。電話番号は0335041111となります。	general,hotel,attraction
+2943	4	USER	ありがとうございます。もう１つ、教室・ワークショップ・体験などが楽しめる観光名所を教えて下さい。	general,hotel,attraction
+2943	5	SYSTEM	エリアでいうと港区に、東京都庭園美術館がございます。	general,hotel,attraction
+2943	6	USER	行ってみたいです。駐車場はありますか？	general,hotel,attraction
+2943	7	SYSTEM	はい、有料ですがご利用いただけます。	general,hotel,attraction
+2943	8	USER	料金情報も教えて下さい。	general,hotel,attraction
+2943	9	SYSTEM	はい、庭園入場料は一般200円、専修や各種専門学校含む大学生160円、中高校生と65歳以上100円、小学生以下および都内在住在学の中学生無料となります。また、入館料は展覧会により異なります。	general,hotel,attraction
+2943	10	USER	詳しくありがとうございます。助かりました。それでは失礼します。	general,hotel,attraction

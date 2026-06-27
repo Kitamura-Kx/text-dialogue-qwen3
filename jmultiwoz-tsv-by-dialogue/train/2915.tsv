@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2915	0	USER	今度、京都旅行を計画しています。西京極駅近くで安めの宿泊施設を教えて下さい。	general,hotel,shopping,weather
+2915	1	SYSTEM	西京極で安めの宿泊施設はなさそうです。	general,hotel,shopping,weather
+2915	2	USER	そうですか。では、京都駅近くで、レストランがある安めの宿泊施設はありますか？	general,hotel,shopping,weather
+2915	3	SYSTEM	京都駅近くで安め、レストラン有の宿泊施設は２９件ありますが、SAKURA TERRACE THE GALLERY(サクラテラスザギャラリー)、こちらオススメです。	general,hotel,shopping,weather
+2915	4	USER	そちらはどんなタイプの宿泊施設になりますか？	general,hotel,shopping,weather
+2915	5	SYSTEM	シティホテルになります。	general,hotel,shopping,weather
+2915	6	USER	チェックイン開始時刻も教えて下さい。	general,hotel,shopping,weather
+2915	7	SYSTEM	１４時開始ですね。	general,hotel,shopping,weather
+2915	8	USER	ありがとうございます。同じ日に西京区で買い物したいんですが、無料駐車場があるお店を教えてください。	general,hotel,shopping,weather
+2915	9	SYSTEM	西京区で無料駐車場のある買い物施設はなさそうです。	general,hotel,shopping,weather
+2915	10	USER	では、駐車場は無くても大丈夫です。	general,hotel,shopping,weather
+2915	11	SYSTEM	いくつかありますが、京都オルゴール堂 嵐山店、こちらをオススメします。	general,hotel,shopping,weather
+2915	12	USER	ありがとうございます。そちらの電話番号を教えて下さい。	general,hotel,shopping,weather
+2915	13	SYSTEM	0753663395です。	general,hotel,shopping,weather
+2915	14	USER	分かりました。もう１つ、7月16日の中京区の天気と最高気温を教えてください。	general,hotel,shopping,weather
+2915	15	SYSTEM	7/16 京都 中京区 の天気は雨、最高気温は29.8度です。	general,hotel,shopping,weather
+2915	16	USER	傘が必要ですね。助かりました。それでは失礼します。	general,hotel,shopping,weather

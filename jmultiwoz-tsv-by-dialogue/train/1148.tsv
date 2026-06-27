@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1148	0	USER	福岡への旅行を計画しているのですが、宿泊施設を探しています。	general,hotel
+1148	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel
+1148	2	USER	宿のタイプはビジネスホテル、無料でWi-Fiが利用できて予算は安めを希望です。	general,hotel
+1148	3	SYSTEM	ではアメニティホテルin博多がございます。	general,hotel
+1148	4	USER	そこのチェックアウト終了時刻と最寄駅からの所要時間を教えてください。	general,hotel
+1148	5	SYSTEM	チェックアウト終了時刻が10:00で、中洲川端駅から徒歩で3分でございます。	general,hotel
+1148	6	USER	ありがとうございます。	general,hotel
+1148	7	SYSTEM	ほかにご用件はございますか。	general,hotel
+1148	8	USER	ありません。	general,hotel
+1148	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

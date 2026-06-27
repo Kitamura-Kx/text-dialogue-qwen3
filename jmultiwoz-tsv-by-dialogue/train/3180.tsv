@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3180	0	USER	仙台への旅行を計画していて、当日の宿泊施設を探しています。駐車場無料のビジネスホテルで、レストランが併設されているところが良いです。	general,hotel
+3180	1	SYSTEM	かしこまりました。では、ホテルルートイン仙台泉インターはいかがでしょうか？	general,hotel
+3180	2	USER	ありがとうございます。そこのエリア，チェックアウト終了時刻，Wi-Fiの有無は分かりますか？	general,hotel
+3180	3	SYSTEM	はい。エリアは泉区で、チェックアウト終了時刻は10:00になります。また、Wi-Fiは無料で利用できます。	general,hotel
+3180	4	USER	ありがとうございました。	general,hotel
+3180	5	SYSTEM	こちらこそありがとうございました。	general,hotel

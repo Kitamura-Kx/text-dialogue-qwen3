@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+95	0	USER	こんばんは。 今度、名古屋旅行を計画しているので、案内をお願いします。	general,attraction
+95	1	SYSTEM	こんばんは。名古屋のご案内ですね。かしこまりました。	general,attraction
+95	2	USER	実は、横山美術館という名前の観光名所を探しているのですが、ありますか？	general,attraction
+95	3	SYSTEM	はい、横山美術館ですね。名古屋にございますが、どういった情報をお求めでしょうか？	general,attraction
+95	4	USER	それでは、住所と電話番号について、伺ってもよろしいですか？	general,attraction
+95	5	SYSTEM	かしこまりました。横山美術館の住所は、愛知県名古屋市東区葵1丁目1-21です。電話番号は、0529310006です。	general,attraction
+95	6	USER	ありがとうございます。	general,attraction
+95	7	SYSTEM	そのほか、営業時間や定休日などもお伝えできますが、いかがいたしますか？	general,attraction
+95	8	USER	あとは大丈夫です。この度は、お調べいただき、ありがとうございました。	general,attraction
+95	9	SYSTEM	承知いたしました。では、本日のご案内は以上になりますが、よろしかったでしょうか？	general,attraction
+95	10	USER	はい、大丈夫です。ありがとうございました。 それでは、失礼いたします。	general,attraction
+95	11	SYSTEM	こちらこそ、お問い合わせいただき、誠にありがとうございました。それでは失礼いたします。	general,attraction

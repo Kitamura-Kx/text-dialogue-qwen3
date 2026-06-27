@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4774	0	USER	東京にて、買い物ができる場所を探してください。	general,shopping
+4774	1	SYSTEM	はい。他に希望条件はございますか？	general,shopping
+4774	2	USER	ジャンルが書籍で、駐車場を無料で、地区を新宿区でお願いします。	general,shopping
+4774	3	SYSTEM	かしこまりました。では、STORY STORYはいかがでしょうか？	general,shopping
+4774	4	USER	ありがとうございます。	general,shopping
+4774	5	SYSTEM	はい。他に何かご用件はございませんか？	general,shopping
+4774	6	USER	大丈夫です。	general,shopping
+4774	7	SYSTEM	承知しました。ありがとうございました。	general,shopping
+4774	8	USER	ありがとうございました。	general,shopping

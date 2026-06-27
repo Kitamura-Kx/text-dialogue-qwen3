@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4043	0	USER	福岡への旅行を計画しています。 当日利用できるタクシー会社を探してほしいです。ジャンボタクシーを利用できるところが希望です。	general,taxi
+4043	1	SYSTEM	申し訳ありません。該当するタクシー会社を探すことが出来ませんでした。	general,taxi
+4043	2	USER	そうなんですね。では、ジャンボタクシーは考えないようにします。	general,taxi
+4043	3	SYSTEM	かしこまりました。では、第一タクシー（有）はいかがでしょうか？	general,taxi
+4043	4	USER	その会社のキャッシュレス対応，電話番号を教えてください。	general,taxi
+4043	5	SYSTEM	はい、キャッシュレスには対応しております。電話番号は0120775931でございます。	general,taxi
+4043	6	USER	では予約をお願いします。日付は2/26、時間は13:40、出発地はかに通 博多店、目的地はKOKO HOTEL 福岡天神でお願いします。	general,taxi
+4043	7	SYSTEM	申し訳ありません。その条件では、予約が出来ませんでした。	general,taxi
+4043	8	USER	そうですか。では、時間を14:30に変更したらどうでしょうか。	general,taxi
+4043	9	SYSTEM	お待たせ致しました。予約番号5207でお取りさせていただきました。	general,taxi
+4043	10	USER	解決しました。ありがとうございました。	general,taxi

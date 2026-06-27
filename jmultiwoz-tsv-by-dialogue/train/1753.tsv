@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1753	0	USER	那覇へ旅行予定なのですが、本庁でWi-Fiが無料で使える宿泊施設はありませんか？	general,hotel
+1753	1	SYSTEM	本庁にWiFi無料の宿泊施設はなさそうです。	general,hotel
+1753	2	USER	わかりました。なら、有料でもいいのでWi-Fi使えるところないですか？	general,hotel
+1753	3	SYSTEM	WiFi有料でもよければ、ダブルツリーbyヒルトン那覇があります。	general,hotel
+1753	4	USER	そこにします。チェックアウト終了時刻と料金情報を教えてください。	general,hotel
+1753	5	SYSTEM	チェックアウト終了は１１時、料金情報詳細はよくわからないのですが、安めの値段帯になります。	general,hotel
+1753	6	USER	わかりました。3人で2/19から3泊の予約お願いできますか？	general,hotel
+1753	7	SYSTEM	はい、その条件で予約できました。予約番号は54327になります。	general,hotel
+1753	8	USER	ありがとうございます。もう大丈夫です。	general,hotel
+1753	9	SYSTEM	お役に立てて光栄です	general,hotel

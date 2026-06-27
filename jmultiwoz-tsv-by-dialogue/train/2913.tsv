@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2913	0	USER	今度、仙台へ行って、薬師堂駅辺りで観光しようと思っています。無料Wi-Fiがある観光名所を教えて下さい。	general,attraction,restaurant
+2913	1	SYSTEM	薬師堂駅で無料WiFiのある観光名所はなさそうです。	general,attraction,restaurant
+2913	2	USER	そうですか。では薬師堂駅以外ではどうですか？	general,attraction,restaurant
+2913	3	SYSTEM	仙台で無料WiFiのある観光名所はいくつかありますが、仙台城跡、こちらが一番オススメです。	general,attraction,restaurant
+2913	4	USER	なるほど、良さそうですね。そちらのエリアと電話番号を教えて下さい。	general,attraction,restaurant
+2913	5	SYSTEM	青葉区にあります。電話は0222220218です。	general,attraction,restaurant
+2913	6	USER	大人の入場料も教えてください。	general,attraction,restaurant
+2913	7	SYSTEM	大人は700円です。	general,attraction,restaurant
+2913	8	USER	ありがとうございます。その日に太白区でラーメン・つけ麺を食べたいんですが、良いお店はありますか？	general,attraction,restaurant
+2913	9	SYSTEM	太白区でラーメン店は２つありますが、丸源ラーメン 仙台長町南店、こちらをおすすめします。	general,attraction,restaurant
+2913	10	USER	ありがとうございます。最寄り駅と、駅からどれくらいかかるか教えて下さい。	general,attraction,restaurant
+2913	11	SYSTEM	富沢駅からタクシーで4分になります。	general,attraction,restaurant
+2913	12	USER	ありがとうございました。助かりました。それでは失礼します。	general,attraction,restaurant

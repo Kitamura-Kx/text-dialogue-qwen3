@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4466	0	USER	仙台への旅行を計画しています。 当日買い物ができるところを探してください。最寄り駅が陸前高砂駅のところで、駐車場を無料で利用できるところにしてください。	general,shopping
+4466	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping
+4466	2	USER	かしこまりました。では、最寄り駅は考慮しません。	general,shopping
+4466	3	SYSTEM	そういたしますと、シベールの杜 南中山店という食料品ジャンルのお店はいかがでしょうか？	general,shopping
+4466	4	USER	ありがとうございます。住所、近辺の駅からの所要時間を教えてください。	general,shopping
+4466	5	SYSTEM	住所は、宮城県仙台市泉区南中山5丁目5-47です。アクセスは、最寄りの仙台駅からバスで40分ほどかかります。	general,shopping
+4466	6	USER	かしこまりました。本日はありがとうございました。	general,shopping
+4466	7	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,shopping

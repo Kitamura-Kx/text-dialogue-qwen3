@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1019	0	USER	仙台へ旅行の計画をしています。Wi-Fiが無料の飲食店はありますか？和食のお店でお願いします	general,restaurant
+1019	1	SYSTEM	かしこまりました。そうしますと、旬菜食健ひな野 長町店というお店はいかがでしょうか？太白区エリアにございます。	general,restaurant
+1019	2	USER	旬菜食健ひな野 長町店の値段帯，料金情報，駐車場の有無を教えて下さい	general,restaurant
+1019	3	SYSTEM	お値段は普通の設定となっております。詳しい料金は、ディナーバイキング（大人）が2497円となります。駐車場は無料のものがご利用いただけます。	general,restaurant
+1019	4	USER	わかりました、ありがとうございました	general,restaurant
+1019	5	SYSTEM	他にお調べすることはございませんか？	general,restaurant
+1019	6	USER	はい大丈夫です	general,restaurant
+1019	7	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,restaurant

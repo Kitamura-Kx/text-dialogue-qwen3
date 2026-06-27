@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1145	0	USER	京都へ旅行に行きたいのですが、観光名所を探したいです。	general,attraction,hotel,taxi
+1145	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,hotel,taxi
+1145	2	USER	エリアは右京区で無料でWi-Fiが利用できるところがいいです。	general,attraction,hotel,taxi
+1145	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,attraction,hotel,taxi
+1145	4	USER	では、Wi-Fiの有無は気にせず、もう一度探していただけますか？	general,attraction,hotel,taxi
+1145	5	SYSTEM	嵯峨野トロッコ列車はいかがでしょうか。	general,attraction,hotel,taxi
+1145	6	USER	そこにしたいと思います。ご提案いただいた場所の名称と料金情報、あと最寄駅からの所要時間を知りたいです。	general,attraction,hotel,taxi
+1145	7	SYSTEM	名称は嵯峨野トロッコ列車、料金情報は大人が630円、子供が320円、大人身障者が320円で子供身障者が160円でございます。また、嵯峨嵐山駅から徒歩で5分でございます。	general,attraction,hotel,taxi
+1145	8	USER	ありがとうございます。追加で右京区で当日泊まれる宿泊施設も探していただきたいです。	general,attraction,hotel,taxi
+1145	9	SYSTEM	申し訳ございません。右京区で宿泊施設がございませんでした。	general,attraction,hotel,taxi
+1145	10	USER	なるほど、ではエリアの範囲は絞らないでもう一度探していただきたいです。	general,attraction,hotel,taxi
+1145	11	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,attraction,hotel,taxi
+1145	12	USER	特にありません。	general,attraction,hotel,taxi
+1145	13	SYSTEM	ではザ ロイヤルパークホテル 京都梅小路はいかがですか。	general,attraction,hotel,taxi
+1145	14	USER	そこは駐車場はありますか？あとチェックアウトの終了時刻も教えて欲しいです。	general,attraction,hotel,taxi
+1145	15	SYSTEM	駐車場はございません。チェックアウト終了時刻は11:00でございます。	general,attraction,hotel,taxi
+1145	16	USER	ありがとうございます。最後に当日タクシーを利用したくジャンボタクシーがある所はありますか？	general,attraction,hotel,taxi
+1145	17	SYSTEM	はい。高速タクシー株式会社がございます。	general,attraction,hotel,taxi
+1145	18	USER	そこはキャッシュレス対応していますか？	general,attraction,hotel,taxi
+1145	19	SYSTEM	はい。対応しております。	general,attraction,hotel,taxi
+1145	20	USER	ではそこで予約をお願いしたいです。日時は9/27、11:50で出発地は嵯峨野トロッコ列車から目的地はロイヤルパークホテル 京都梅小路までです。	general,attraction,hotel,taxi
+1145	21	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は23376でございます。	general,attraction,hotel,taxi
+1145	22	USER	ありがとうございます。	general,attraction,hotel,taxi
+1145	23	SYSTEM	ほかにご用件はございますか。	general,attraction,hotel,taxi
+1145	24	USER	特にありません。	general,attraction,hotel,taxi
+1145	25	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel,taxi

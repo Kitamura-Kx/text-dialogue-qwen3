@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1060	0	USER	福岡の西区で伝統文化体験ができる観光名所を教えてください。Wi-Fiが無料で使える所が良いです。	general,attraction,hotel,taxi
+1060	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,hotel,taxi
+1060	2	USER	そうですか。では西区で無料Wi-Fiがある観光名所を探してみて下さい。	general,attraction,hotel,taxi
+1060	3	SYSTEM	ありがとうございます。そうしますと、マリノアシティ福岡というところがご案内可能です。ジャンルは、その他となっておりますが、いかがでしょうか？	general,attraction,hotel,taxi
+1060	4	USER	そこに行ってみます。もう１つ、中央区で簡易宿所でレストランがある宿泊施設を予約したいのですが、ありますか？	general,attraction,hotel,taxi
+1060	5	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,attraction,hotel,taxi
+1060	6	USER	では中央区以外でしたらありますか？	general,attraction,hotel,taxi
+1060	7	SYSTEM	はい、3件ございます。例えば、Fukuoka Guesthouse HIVEという博多区エリアの施設はいかがでしょうか？	general,attraction,hotel,taxi
+1060	8	USER	Fukuoka Guesthouse HIVEの住所を教えてください。	general,attraction,hotel,taxi
+1060	9	SYSTEM	かしこまりました。住所は、福岡県福岡市博多区上呉服町4-3です。	general,attraction,hotel,taxi
+1060	10	USER	ありがとうございます。10月21日に3人で3泊予約できますか？	general,attraction,hotel,taxi
+1060	11	SYSTEM	はい、ご予約ありがとうございます。予約完了いたしました。ご予約番号は、37051でございます。	general,attraction,hotel,taxi
+1060	12	USER	ありがとうございます。最後にタクシーを使いたいので、キャッシュレス払いのできるタクシー会社を教えてください。	general,attraction,hotel,taxi
+1060	13	SYSTEM	はい、かしこまりました。平和交通（株）というところはいかがでしょうか？	general,attraction,hotel,taxi
+1060	14	USER	ありがとうございます。平和交通（株）の電話番号を教えて下さい。それと、ジャンボタクシーはありますか？	general,attraction,hotel,taxi
+1060	15	SYSTEM	電話番号は、0924114422です。ジャンボタクシーですが、こちらは申し訳ありません、非対応となっております。ジャンボタクシーがご利用いただけるところで、お探ししましょうか？	general,attraction,hotel,taxi
+1060	16	USER	いえ、大丈夫です。平和交通（株）で10月21日の11時30分にマリノアシティ福岡からFukuoka Guesthouse HIVEへ予約をお願いします。	general,attraction,hotel,taxi
+1060	17	SYSTEM	大変申し訳ございません。その条件ですとご予約を入れることができませんでした。いかがいたしましょうか？	general,attraction,hotel,taxi
+1060	18	USER	では、時間を12時30分ではどうですか？	general,attraction,hotel,taxi
+1060	19	SYSTEM	ありがとうございます。12時30分にて、ご予約がお取りできました。予約番号は、20057でございます。	general,attraction,hotel,taxi
+1060	20	USER	良かったです。ありがとうございました。失礼します。	general,attraction,hotel,taxi

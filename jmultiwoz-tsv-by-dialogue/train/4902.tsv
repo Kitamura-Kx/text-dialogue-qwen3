@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4902	0	USER	仙台への旅行を計画中のため、買い物できるお店を探しています。青葉区で駐車場が無料で利用できるお店を探してもらえますか？	general,shopping,hotel
+4902	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,shopping,hotel
+4902	2	USER	では駐車場はなくてもいいので、青葉区で買い物ができるお店でどこかいいところはありますか？	general,shopping,hotel
+4902	3	SYSTEM	かしこまりました。それではポケモンセンタートウホクはいかがでしょうか？	general,shopping,hotel
+4902	4	USER	そこはジャンルは何になりますか？	general,shopping,hotel
+4902	5	SYSTEM	はい、ジャンルは文房具・雑貨, おもちゃ, お土産に該当致します。	general,shopping,hotel
+4902	6	USER	営業時間も教えてください。	general,shopping,hotel
+4902	7	SYSTEM	営業時間は10時から20時でございます。	general,shopping,hotel
+4902	8	USER	ありがとうございます。あと宿泊施設も探しており、Wi-Fiが無料で利用できる簡易宿所も探してもらえますか？	general,shopping,hotel
+4902	9	SYSTEM	でしたらゲストハウス梅鉢がございます。	general,shopping,hotel
+4902	10	USER	そこは駐車場とレストランはありますか？	general,shopping,hotel
+4902	11	SYSTEM	はい、駐車場は有料ですがご利用いただけます。レストランは申し訳ございませんがございません。	general,shopping,hotel
+4902	12	USER	わかりました。料金情報を教えてください。	general,shopping,hotel
+4902	13	SYSTEM	値段帯は安めですが、料金情報の詳細は分かりません。	general,shopping,hotel
+4902	14	USER	わかりました。ではそこで12/10から4泊で4人で予約をお願いします。	general,shopping,hotel
+4902	15	SYSTEM	お待たせ致しました。予約番号30388でお取りさせていただきました。	general,shopping,hotel
+4902	16	USER	ありがとうございます。	general,shopping,hotel
+4902	17	SYSTEM	その他にご用件はございますか？	general,shopping,hotel
+4902	18	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,hotel

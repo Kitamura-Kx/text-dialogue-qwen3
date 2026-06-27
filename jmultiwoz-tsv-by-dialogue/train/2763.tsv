@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2763	0	USER	札幌へ旅行に行きたく、買い物ができるところを探してください。できれば無料の駐車場があるところにしてほしいです。	general,shopping
+2763	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping
+2763	2	USER	それでは有料の駐車場でしたらいかがでしょうか。	general,shopping
+2763	3	SYSTEM	ありがとうございます。エリアでいうと中央区に、丸井今井札幌店がございます。ジャンルは、百貨店や総合スーパーとなります。	general,shopping
+2763	4	USER	そちらの定休日、住所を教えてください。	general,shopping
+2763	5	SYSTEM	はい、住所は北海道札幌市中央区南1条西2丁目、定休日はございません。	general,shopping
+2763	6	USER	ありがとうございます。こちらからは以上です。	general,shopping
+2763	7	SYSTEM	ありがとうございました。	general,shopping

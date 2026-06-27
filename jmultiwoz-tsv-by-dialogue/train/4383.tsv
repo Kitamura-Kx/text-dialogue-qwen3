@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4383	0	USER	那覇へ旅行した際の飲食店を探していただきたいです。本庁地区の壺川駅が最寄りで予算は安めでお願いします。	general,restaurant,shopping,taxi
+4383	1	SYSTEM	そういたしますと、楚辺というお店はいかがでしょうか？ジャンルとしては、郷土料理, うどん・そば, 寿司・魚料理となっております。	general,restaurant,shopping,taxi
+4383	2	USER	ありがとうございます。そこにします。Wi-Fiの有無と料金情報を教えていただけますか？	general,restaurant,shopping,taxi
+4383	3	SYSTEM	WiFiにつきましては、申し訳ありません、不明となっております。料金情報は、例えば、沖縄そばが600円、海鮮丼1200円、魚汁定食1300円といったものがございます。	general,restaurant,shopping,taxi
+4383	4	USER	ありがとうございます。当日に家電・電化製品の買い物ができるところを探していただきたいです。駐車場を無料で利用できるところでお願いします。	general,restaurant,shopping,taxi
+4383	5	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,restaurant,shopping,taxi
+4383	6	USER	ジャンルを考慮しなければ見つかりますか？	general,restaurant,shopping,taxi
+4383	7	SYSTEM	ありがとうございます。そうしますと、たとえば、おきなわ屋 泡盛蔵 国際店という食料品のお店がございますが、いかがでしょうか？	general,restaurant,shopping,taxi
+4383	8	USER	ありがとうございます。そこにします。当日利用できるタクシー会社はありますか？キャッシュレス払いができ、ジャンボタクシーを利用できるところがいいです。	general,restaurant,shopping,taxi
+4383	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,restaurant,shopping,taxi
+4383	10	USER	それでは、キャッシュレス払いでなくても構いません。それであればありますか？	general,restaurant,shopping,taxi
+4383	11	SYSTEM	ありがとうございます。2件ご案内できます。たとえば、大栄交通ですが、いかがでしょうか？	general,restaurant,shopping,taxi
+4383	12	USER	ありがとうございます。そこにします。電話番号を教えていただけますか？	general,restaurant,shopping,taxi
+4383	13	SYSTEM	はい、電話番号は、0989465005です。	general,restaurant,shopping,taxi
+4383	14	USER	ありがとうございます。予約をお願いしたいのですが、、12/19の16:50で、出発地は先ほど見つけていただいた飲食店で、目的地は先ほど見つけていただいた買い物店舗でお願いします。	general,restaurant,shopping,taxi
+4383	15	SYSTEM	かしこまりました。楚辺を出発して、おきなわ屋 泡盛蔵 国際店着にて、ご予約完了いたしました。予約番号は、97120です。	general,restaurant,shopping,taxi
+4383	16	USER	ありがとうございます。	general,restaurant,shopping,taxi
+4383	17	SYSTEM	他にお調べすることはございませんか？	general,restaurant,shopping,taxi
+4383	18	USER	はい、大丈夫です。ありがとうございました。	general,restaurant,shopping,taxi
+4383	19	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,restaurant,shopping,taxi

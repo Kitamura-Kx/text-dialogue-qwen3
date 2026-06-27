@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1007	0	USER	名古屋で泊まる所を探しています。	general,hotel,restaurant,attraction
+1007	1	SYSTEM	承知致しました。何かご希望はございますか？	general,hotel,restaurant,attraction
+1007	2	USER	駐車場が無料でレストランがある所が良いです。	general,hotel,restaurant,attraction
+1007	3	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,hotel,restaurant,attraction
+1007	4	USER	では、レストランはなくても大丈夫です。	general,hotel,restaurant,attraction
+1007	5	SYSTEM	ありがとうございます。では、魚鍵旅館はいかがでしょう？タイプは旅館、エリアは瑞穂区、値段帯は安めです。最寄りの金山駅からタクシーで10分、Wi-Fiと駐車場は無料でご利用いただけます。	general,hotel,restaurant,attraction
+1007	6	USER	そこにします。ありがとうございます。	general,hotel,restaurant,attraction
+1007	7	SYSTEM	他にご用件はございますか？	general,hotel,restaurant,attraction
+1007	8	USER	その日に名東区で食事ができる店を探しています。	general,hotel,restaurant,attraction
+1007	9	SYSTEM	承知しました。1件、スペイン料理 ダリがございます。ジャンルは洋食、西洋料理、寿司、魚料理です。どのようなご案内を致しましょう？	general,hotel,restaurant,attraction
+1007	10	USER	予算が高めの店を探しています。	general,hotel,restaurant,attraction
+1007	11	SYSTEM	スペイン料理 ダリは、値段帯が高めで設定されております。	general,hotel,restaurant,attraction
+1007	12	USER	そのお店にしようと思います。駐車場はありますか？	general,hotel,restaurant,attraction
+1007	13	SYSTEM	申し訳ありません、駐車場の有無は不明となっております。	general,hotel,restaurant,attraction
+1007	14	USER	わかりました。駅からはどれくらいの時間がかかりますか？	general,hotel,restaurant,attraction
+1007	15	SYSTEM	はい、最寄りの本郷駅から徒歩で1分となります。	general,hotel,restaurant,attraction
+1007	16	USER	わかりました。ありがとうございます。	general,hotel,restaurant,attraction
+1007	17	SYSTEM	他にご用件はございますか？	general,hotel,restaurant,attraction
+1007	18	USER	当日に観光もしたいです。天白区でWi-Fiが無料のところはありますか？	general,hotel,restaurant,attraction
+1007	19	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,hotel,restaurant,attraction
+1007	20	USER	天白区じゃなくても大丈夫です。それならありますか？	general,hotel,restaurant,attraction
+1007	21	SYSTEM	それでは、名古屋市東山動植物園はいかがでしょう？ジャンルは動物園、植物園となります。何かご案内することはございますか？	general,hotel,restaurant,attraction
+1007	22	USER	ここの営業時間を教えてください。	general,hotel,restaurant,attraction
+1007	23	SYSTEM	はい、営業時間は、9時から16時50分となります。	general,hotel,restaurant,attraction
+1007	24	USER	ありがとうございます。	general,hotel,restaurant,attraction
+1007	25	SYSTEM	他にご用件はございますか？	general,hotel,restaurant,attraction
+1007	26	USER	大丈夫です。ありがとうございました。	general,hotel,restaurant,attraction
+1007	27	SYSTEM	ありがとうございました。	general,hotel,restaurant,attraction

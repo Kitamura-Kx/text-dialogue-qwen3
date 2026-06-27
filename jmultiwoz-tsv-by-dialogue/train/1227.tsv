@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1227	0	USER	仙台に買い物に行きたいと思っています。	general,shopping
+1227	1	SYSTEM	仙台のお買い物のお店をお探しですね。ご希望の条件は何かございますか？	general,shopping
+1227	2	USER	洋服やバッグなどファッション関係のお店を探して欲しいです。	general,shopping
+1227	3	SYSTEM	では、SHIPS 仙台店というお店はいかがでしょうか？ただ、ジャンルとしてはファッションのお店となっておりますが、洋服やバッグをお取り扱いしているかどうかは分かりかねます。申し訳ありません。	general,shopping
+1227	4	USER	ありがとうございます、そのお店に行ってみますね。	general,shopping
+1227	5	SYSTEM	ありがとうございます。なにかお知りになりたい情報はございますか？	general,shopping
+1227	6	USER	これで結構です、ありがとうございました。	general,shopping
+1227	7	SYSTEM	承知しました。もし他にご質問がないようでしたら、これで失礼いたします。本日はご利用ありがとうございました。	general,shopping

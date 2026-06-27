@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3501	0	USER	大阪に行くのですが、港区で宿泊施設を探しています。	general,hotel
+3501	1	SYSTEM	かしこまりました。それではホテルシーガルてんぽーざん大阪はいかがでしょうか？	general,hotel
+3501	2	USER	Wi-Fiが無料で駐車場も無料のところがいいのですが	general,hotel
+3501	3	SYSTEM	かしこまりました。それではビジネス旅館 励明園がございます。	general,hotel
+3501	4	USER	値段帯はどうなりますか？	general,hotel
+3501	5	SYSTEM	安めでございます。	general,hotel
+3501	6	USER	住所を教えてください。	general,hotel
+3501	7	SYSTEM	住所は大阪府大阪市港区築港4丁目2-10でございます。	general,hotel
+3501	8	USER	わかりました。ありがとうございます。	general,hotel
+3501	9	SYSTEM	ありがとうございます。その他にご用件はございますか？	general,hotel
+3501	10	USER	特にありません。	general,hotel
+3501	11	SYSTEM	かしこまりました。またお待ちしております。	general,hotel

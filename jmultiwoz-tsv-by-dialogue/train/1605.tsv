@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1605	0	USER	大阪への旅行を予定しているのですが、当日お土産の買い物ができるお店を探してください。	general,shopping
+1605	1	SYSTEM	承知しました。他にご希望はございますか？	general,shopping
+1605	2	USER	駐車場が無料のところがよいです。	general,shopping
+1605	3	SYSTEM	ありがとうございます。エリアでいうと天王寺区にございます、ムーミンスタンド天王寺ミオ店はいかがでしょう？	general,shopping
+1605	4	USER	いいですね。行ってみます。ありがとうございました。	general,shopping

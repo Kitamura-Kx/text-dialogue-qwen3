@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4782	0	USER	仙台で買い物できるところを探してください。ジャンルはお土産で、駐車場を無料で使いたいです。	general,shopping,weather
+4782	1	SYSTEM	申し訳ございません。条件に合う買い物店舗は見つかりませんでした。	general,shopping,weather
+4782	2	USER	では、駐車場は有料で構いません。	general,shopping,weather
+4782	3	SYSTEM	それでしたら、エスパル仙台はいかがですか？	general,shopping,weather
+4782	4	USER	分かりました。電話番号とエリアを教えてください。	general,shopping,weather
+4782	5	SYSTEM	はい。電話番号は0222672111で、エリアは青葉区になります。	general,shopping,weather
+4782	6	USER	ありがとうございます。また、青葉区の天候を教えてください。日付は8/3です。	general,shopping,weather
+4782	7	SYSTEM	かしこまりました。天気予報は曇時々晴となっております。最低気温は21.5度、最高気温は28.2度になる予報です。	general,shopping,weather
+4782	8	USER	ありがとうございます。	general,shopping,weather
+4782	9	SYSTEM	はい。他に何かご用件はございませんか？	general,shopping,weather
+4782	10	USER	大丈夫です。	general,shopping,weather
+4782	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather
+4782	12	USER	ありがとうございました。	general,shopping,weather

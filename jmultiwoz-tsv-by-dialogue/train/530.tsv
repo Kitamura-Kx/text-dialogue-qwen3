@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+530	0	USER	横浜への旅行を考えているのですが、キャッシュレス払いができるタクシーを調べてください。	general,taxi
+530	1	SYSTEM	申し訳ございません。横浜でキャッシュレス払いに対応しているタクシー会社は、ご案内できるところが見つかりませんでした。	general,taxi
+530	2	USER	そうですか。であればキャッシュレス払いはできなくても大丈夫です。	general,taxi
+530	3	SYSTEM	ありがとうございます。では、株式会社富士タクシーはいかがでしょうか？	general,taxi
+530	4	USER	そこにします。電話番号を教えてください。	general,taxi
+530	5	SYSTEM	電話番号は、0457552211でございます。予約をおとりしましょうか？	general,taxi
+530	6	USER	お願いします。5月25日の9時50分から、出発地はモーション・ブルー・ヨコハマで、目的地はスポーツオーソリティ・MARK ISみなとみらい店です。	general,taxi
+530	7	SYSTEM	大変申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,taxi
+530	8	USER	わかりました。時間を10時20分に変更した場合はどうですか？	general,taxi
+530	9	SYSTEM	ありがとうございます。予約完了いたしました。ご予約番号は、88414でございます。	general,taxi
+530	10	USER	よかったです。ありがとうございます。	general,taxi
+530	11	SYSTEM	他になにかお手伝いできることはございませんか？	general,taxi
+530	12	USER	いえ、とりあえず大丈夫です。	general,taxi
+530	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1610	0	USER	東京観光の際の飲食店を探しています。駐車場が無料利用できるところはどこかありますか？	general,restaurant
+1610	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant
+1610	2	USER	そうですか。では駐車場の有無は問わないので、どこか探してもらえますか？	general,restaurant
+1610	3	SYSTEM	では、DDSK サイゴン キッチンはいかがでしょうか？	general,restaurant
+1610	4	USER	そちらはどのあたりのエリアになりますか？	general,restaurant
+1610	5	SYSTEM	エリアは、江東区になります。	general,restaurant
+1610	6	USER	最寄り駅と近辺の駅からの所要時間も教えてもらえますか？	general,restaurant
+1610	7	SYSTEM	最寄り駅は、豊洲駅です。　所要時間は、豊洲駅から徒歩で5分です。	general,restaurant
+1610	8	USER	わかりました。どうもありがとう。	general,restaurant

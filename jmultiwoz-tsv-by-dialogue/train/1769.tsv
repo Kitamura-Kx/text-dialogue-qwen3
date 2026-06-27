@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1769	0	USER	こんにちは。那覇へ旅行をするのですが、スーパーマーケットで、駐車場が無料のところを教えていただけますでしょうか。	general,shopping,attraction
+1769	1	SYSTEM	申し訳ありません。この条件ではご案内ができません。いかが致しましょう？	general,shopping,attraction
+1769	2	USER	そうですか。ではスーパーマーケットでなくてもいいので、買い物ができるところを教えてください。	general,shopping,attraction
+1769	3	SYSTEM	エリアでいうと本庁にある、サンエー那覇メインプレイスはいかがでしょう？ジャンルは、ショッピングモールとなります。	general,shopping,attraction
+1769	4	USER	ありがとうございます。あと、観光名所も探していて、同じく本庁エリアで、那覇空港駅が最寄りの所はありますか？	general,shopping,attraction
+1769	5	SYSTEM	1件、半日船釣りと釣った魚を味わう感動体験プランがございます。ジャンルは教室、ワークショップ、体験、港、波止場、アウトドア、となります。	general,shopping,attraction
+1769	6	USER	面白そうですね。そこにします。住所を教えてもらえますか？	general,shopping,attraction
+1769	7	SYSTEM	住所は沖縄県那覇市港町3丁目1-17となります。	general,shopping,attraction
+1769	8	USER	それと、そこはWi-Fiがありますか？	general,shopping,attraction
+1769	9	SYSTEM	申し訳ありません。Wi-Fiのご用意はございません。	general,shopping,attraction
+1769	10	USER	そうなんですね、でも大丈夫です。どうもありがとうございました。助かりました。	general,shopping,attraction
+1769	11	SYSTEM	他にご用件はございますか？	general,shopping,attraction
+1769	12	USER	いえ、大丈夫です。どうもありがとうございました。	general,shopping,attraction
+1769	13	SYSTEM	ありがとうございました。	general,shopping,attraction

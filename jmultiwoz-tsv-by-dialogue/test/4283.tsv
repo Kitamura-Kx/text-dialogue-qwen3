@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4283	0	USER	名古屋へ旅行に行こうと思っているので、観光名所を探してください。東区で駐車場が無料で使えるところがいいです。	general,attraction,hotel,restaurant
+4283	1	SYSTEM	ではヤマザキマザック美術館はいかがでしょうか。	general,attraction,hotel,restaurant
+4283	2	USER	そこに行こうと思います。そこの子供入場料と料金情報、定休日を教えてください。	general,attraction,hotel,restaurant
+4283	3	SYSTEM	子供の入場料は500円でございます。詳しい料金情報としては、所蔵作品展が一般で1,000円、10名以上の団体が800円、小中高生500円、小学生未満無料でございます。音声ガイドは無料で、企画展の料金は企画展により異なるとのことでございます。定休日は月曜日と年末年始でございます。	general,attraction,hotel,restaurant
+4283	4	USER	ありがとうございます。あと、当日泊まるところも探してほしいのですが、駐車場が無料のシティホテルはありませんか？	general,attraction,hotel,restaurant
+4283	5	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,hotel,restaurant
+4283	6	USER	では、駐車場は有料でもいいです。	general,attraction,hotel,restaurant
+4283	7	SYSTEM	ではthe b 名古屋(ザビー なごや)はいかがでしょうか。	general,attraction,hotel,restaurant
+4283	8	USER	そこにします。チェックアウト終了時刻と、料金情報を教えてください。	general,attraction,hotel,restaurant
+4283	9	SYSTEM	チェックアウト終了時刻は11:00でございます。値段帯は安めでございますが、詳しい料金情報はわかりかねます。	general,attraction,hotel,restaurant
+4283	10	USER	そうですか。では、4月3日から4泊、人数は3人で予約をお願いします	general,attraction,hotel,restaurant
+4283	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は10188でございます。	general,attraction,hotel,restaurant
+4283	12	USER	ありがとうございます。あと最寄り駅が浄心駅のところにある飲食店を探してください。	general,attraction,hotel,restaurant
+4283	13	SYSTEM	では、しら河 浄心本店がございます。	general,attraction,hotel,restaurant
+4283	14	USER	では、そのお店を予約します。4月3日に2人、時間が15時30分でお願いします。	general,attraction,hotel,restaurant
+4283	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は2941でございます。	general,attraction,hotel,restaurant
+4283	16	USER	ありがとうございました。	general,attraction,hotel,restaurant
+4283	17	SYSTEM	ほかにご用件はございませんか。	general,attraction,hotel,restaurant
+4283	18	USER	いえ、大丈夫です。ありがとうございます。	general,attraction,hotel,restaurant
+4283	19	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel,restaurant

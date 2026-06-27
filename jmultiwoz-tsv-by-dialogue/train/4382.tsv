@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4382	0	USER	那覇へ旅行した際に訪れる観光名所を探していただきたいです。真和志地区でWi-Fiが無料で利用できるところにしてください。ジャンルはリゾート・保養地でお願いします。	general,attraction,weather
+4382	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,weather
+4382	2	USER	ジャンルはなんでも構いません。それであればありますか？	general,attraction,weather
+4382	3	SYSTEM	ありがとうございます。そうしますと、識名園というところがご案内可能です。ジャンルとしては、庭園, 歴史的建造物, 世界遺産となっております。	general,attraction,weather
+4382	4	USER	ありがとうございます。そこにします。料金情報と子供入場料を教えていただけますか？あと、駐車場はありますか？	general,attraction,weather
+4382	5	SYSTEM	料金は、大人400円、中学生以下は200円です。保護者が同伴する小学校就学前の子どもは無料となります。ですので、お子様の入場料は、200円でございます。駐車場は、無料のものを併設しております。	general,attraction,weather
+4382	6	USER	ありがとうございます。最後に9/28の首里の最低気温を教えていただけますか？	general,attraction,weather
+4382	7	SYSTEM	はい、当日の最低気温は30.4度の予想となっております。なお、天気は、晴時々曇りのようです。	general,attraction,weather
+4382	8	USER	ありがとうございます。	general,attraction,weather
+4382	9	SYSTEM	他にお調べすることはございませんか？	general,attraction,weather
+4382	10	USER	はい、大丈夫です。ありがとうございました。	general,attraction,weather
+4382	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,weather

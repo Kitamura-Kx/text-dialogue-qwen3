@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3372	0	USER	京都へ行くのですが、服を買いたいのですが、お店教えて下さい。	general,shopping,restaurant
+3372	1	SYSTEM	京都のファッション取り扱い店舗ですと、ABC−MART 京都アバンティ店ともう1件ございました。いかがでしょうか？	general,shopping,restaurant
+3372	2	USER	そこから近い駅はどこでしょう？	general,shopping,restaurant
+3372	3	SYSTEM	最寄り駅は京都駅でございます。	general,shopping,restaurant
+3372	4	USER	ありがとうございます。それと、北区で高めな食事がしたいので、どこかありますか？	general,shopping,restaurant
+3372	5	SYSTEM	かしこまりました。ルルソンキボアを含む３件該当がございます。いかがでしょうか？	general,shopping,restaurant
+3372	6	USER	電話番号もおしえてください。	general,shopping,restaurant
+3372	7	SYSTEM	0757017155でございます。	general,shopping,restaurant
+3372	8	USER	では、1月1日の16時10分で、3人の予約お願いします。	general,shopping,restaurant
+3372	9	SYSTEM	ご予約が完了しました。予約番号は、75523でございます。	general,shopping,restaurant
+3372	10	USER	ありがとうございました。	general,shopping,restaurant
+3372	11	SYSTEM	ありがとうございました。	general,shopping,restaurant

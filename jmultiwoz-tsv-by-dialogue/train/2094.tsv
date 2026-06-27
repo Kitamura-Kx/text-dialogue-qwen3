@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2094	0	USER	那覇への旅行を検討しています。当日買い物が出来る場所を探しているのですが、よろしいでしょうか？	general,shopping
+2094	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,shopping
+2094	2	USER	本庁地区にあるショッピングモールを探しています。	general,shopping
+2094	3	SYSTEM	かしこまりました。では、のうれんプラザはいかがでしょうか？	general,shopping
+2094	4	USER	ありがとうございます。そちらは無料の駐車場ってありますか？	general,shopping
+2094	5	SYSTEM	はい。ございます。	general,shopping
+2094	6	USER	ありがとうございます。そちらの施設の電話番号をお伺いしてもよろしいでしょうか？	general,shopping
+2094	7	SYSTEM	はい。電話番号は0988347818です。	general,shopping
+2094	8	USER	ありがとうございます。これで当日は大丈夫そうです。ありがとうございました。	general,shopping
+2094	9	SYSTEM	承知しました。ありがとうございました。	general,shopping

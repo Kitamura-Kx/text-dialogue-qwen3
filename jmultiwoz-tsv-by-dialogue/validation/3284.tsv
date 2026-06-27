@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3284	0	USER	大阪で無料Wi-Fiと無料駐車場が利用できる観光名所を探しています。	general,attraction
+3284	1	SYSTEM	大阪でWiFiと駐車場が無料の観光名所といえば、鶴見緑地湯元 水春、こちら一択です。	general,attraction
+3284	2	USER	そちらの子供の入場料を教えてもらえますか？	general,attraction
+3284	3	SYSTEM	中学生以上だと平日８２０円、土日祝日は９２０円、岩盤平日９２０円、土日祝日は１０２０円。小学生だと 平日 ご入浴 410円 土日・祝 ご入浴 460円平日 岩盤処 610円 土日・祝 岩盤処 710円。幼児だと平日２１０円、祝日２６０円になります。	general,attraction
+3284	4	USER	詳しくありがとうございました。	general,attraction
+3284	5	SYSTEM	よい旅を	general,attraction

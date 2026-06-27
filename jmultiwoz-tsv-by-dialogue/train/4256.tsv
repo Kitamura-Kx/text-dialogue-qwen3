@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4256	0	USER	京都への旅行を考えているのですが、7月11日の右京区の天候をお伺いしたいです。	general,weather,taxi
+4256	1	SYSTEM	はい、当日の天気は、晴のち雨の予報です。最低気温は21.9度、最高気温は24.8度の予想となっております。	general,weather,taxi
+4256	2	USER	ありがとうございます。あと、当日利用するタクシー会社を探しているのですが、キャッシュレス対応でジャンボタクシーを利用できるところはあるでしょうか。	general,weather,taxi
+4256	3	SYSTEM	はい、ご案内可能です。たとえば、興進タクシー株式会社はいかがでしょうか？	general,weather,taxi
+4256	4	USER	ありがとうございます。そこを利用したいと思います。電話番号をお聞きしてもよろしいでしょうか。	general,weather,taxi
+4256	5	SYSTEM	はい、電話番号は、0756814481でございます。	general,weather,taxi
+4256	6	USER	ありがとうございます。では当日の予約をお願いしたいのですが、7月11日の14:30にいのちの森からヴィアイン京都駅八条口までで予約は可能でしょうか。	general,weather,taxi
+4256	7	SYSTEM	はい、ありがとうございます。ご予約完了いたしました。予約番号は、36747です。	general,weather,taxi
+4256	8	USER	ありがとうございます。お願いしたい事は以上になります。丁寧に対応していただき本当にありがとうございました。	general,weather,taxi
+4256	9	SYSTEM	こちらこそ、ご利用ありがとうございました。またのご利用をお待ちしております。	general,weather,taxi

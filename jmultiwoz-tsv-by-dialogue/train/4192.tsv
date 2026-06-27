@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4192	0	USER	那覇へ行く予定なので、Wi-Fiが無料な安めの宿泊施設を探して下さい。	general,hotel
+4192	1	SYSTEM	それでしたら、HOTEL COZY STAY IN 那覇はいかがでしょうか？	general,hotel
+4192	2	USER	ありがとうございます。電話番号教えていただけますか？	general,hotel
+4192	3	SYSTEM	電話番号は、0989881952です。	general,hotel
+4192	4	USER	ありがとうございました。	general,hotel
+4192	5	SYSTEM	他にご用件はございますか？	general,hotel
+4192	6	USER	いえ大丈夫です。	general,hotel
+4192	7	SYSTEM	承知しました。ありがとうございました。	general,hotel

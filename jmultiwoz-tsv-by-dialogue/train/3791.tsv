@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3791	0	USER	那覇への旅行を考えているのですが、Wi-Fiが無料の観光名所を探してもらえますか？	general,attraction,shopping
+3791	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,shopping
+3791	2	USER	では、Wi-Fiはなくても大丈夫です。	general,attraction,shopping
+3791	3	SYSTEM	ありがとうございます。では、スターシアターズという映画館はいかがでしょうか？	general,attraction,shopping
+3791	4	USER	いいですね、そちらの料金情報と、近くの駅からの所要時間を教えてもらえますか？	general,attraction,shopping
+3791	5	SYSTEM	料金は、一般1800円、高校生から大学生1500円、小中学生1000円などとなっております。最寄りの県庁前駅からは、徒歩で4分の距離にございます。	general,attraction,shopping
+3791	6	USER	ありがとうございます。首里地区で、医薬品・化粧品が購入できるお店も探してもらえますか？	general,attraction,shopping
+3791	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,attraction,shopping
+3791	8	USER	じゃあ、首里地区でなくても良いです。	general,attraction,shopping
+3791	9	SYSTEM	ありがとうございます。では、塩屋 平和通り店というお店はいかがでしょうか？本庁エリアのお店となります。	general,attraction,shopping
+3791	10	USER	そちらの住所と、電話番号、定休日はわかりますか？	general,attraction,shopping
+3791	11	SYSTEM	はい。住所は、沖縄県那覇市牧志3丁目2-59で、電話番号は、0120040155です。定休日はございません。	general,attraction,shopping
+3791	12	USER	ありがとうございます。	general,attraction,shopping
+3791	13	SYSTEM	他にお知りになりたい情報はございませんか？	general,attraction,shopping
+3791	14	USER	大丈夫です。ありがとうございました。	general,attraction,shopping
+3791	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,shopping

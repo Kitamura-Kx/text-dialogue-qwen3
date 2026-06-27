@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2941	0	USER	もうすぐ大阪への旅行を計画しています。Wi-Fiと駐車場が無料の飲食店を教えてください。	general,restaurant,taxi
+2941	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,taxi
+2941	2	USER	では、駐車場は無くても大丈夫です。	general,restaurant,taxi
+2941	3	SYSTEM	エリアでいうと中央区にある、浅野焼鳥日本酒店HOMMACHIはいかがでしょう？ジャンルは、居酒屋となります。	general,restaurant,taxi
+2941	4	USER	良さそうですね。その日はタクシーをキャッシュレス払いで利用したいと考えています。ジャンボタクシーの利用もできるタクシー会社を教えてください。	general,restaurant,taxi
+2941	5	SYSTEM	近鉄タクシー株式会社はいかがでしょう？どちらも対応しております。電話番号は0570069001となります。	general,restaurant,taxi
+2941	6	USER	それでは、12月31日の14：50に浅野焼鳥日本酒店HOMMACHIから、C&Cエンド 本店まで予約をお願いします。	general,restaurant,taxi
+2941	7	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,restaurant,taxi
+2941	8	USER	そうですか。では時間を15:30に変えるとどうですか？	general,restaurant,taxi
+2941	9	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、71998となります。	general,restaurant,taxi
+2941	10	USER	助かりました。それでは失礼します。	general,restaurant,taxi

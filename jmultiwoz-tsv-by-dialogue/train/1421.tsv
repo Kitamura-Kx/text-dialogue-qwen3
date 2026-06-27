@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1421	0	USER	札幌への旅行を計画中なのですが、11/20の東区の天気を教えてもらえますか？	general,weather,taxi
+1421	1	SYSTEM	かしこまりました。11月20日東区の天気は、曇です。	general,weather,taxi
+1421	2	USER	わかりました。当日はジャンボタクシーの利用も考えているのですが、対応できる会社はありますか？	general,weather,taxi
+1421	3	SYSTEM	はい。新雪交通(株)をはじめ、12件見つかりました。	general,weather,taxi
+1421	4	USER	新雪交通(株)はキャッシュレス対応可能ですか？	general,weather,taxi
+1421	5	SYSTEM	キャッシュレス対応は不明となっております。	general,weather,taxi
+1421	6	USER	わかりました。それでは「新雪交通(株)」でジャンボタクシーの予約をお願いします。11/20の14:40に「蕎麦切り　春のすけ」から「アピア」までお願いします。	general,weather,taxi
+1421	7	SYSTEM	予約が成功しました。予約番号は49067です。	general,weather,taxi
+1421	8	USER	助かりました。有難うございました。	general,weather,taxi
+1421	9	SYSTEM	他に何かご希望はありますか。	general,weather,taxi
+1421	10	USER	いえ、大丈夫です。	general,weather,taxi
+1421	11	SYSTEM	かしこまりました。ご利用ありがとうございました。	general,weather,taxi

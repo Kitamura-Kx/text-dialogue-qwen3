@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2202	0	USER	こんにちは、東京に旅行に行ったときに、泊まる所を探してもらえないでしょうか。	general,hotel
+2202	1	SYSTEM	はい、ご希望の条件をお聞かせください。	general,hotel
+2202	2	USER	駐車場代が無料でレストランが併設されているような所ってありますか？	general,hotel
+2202	3	SYSTEM	駐車場無料でレストラン有ならば、帝国ホテル東京がオススメです。	general,hotel
+2202	4	USER	帝国ホテル東京の最寄り駅ってどこですか？	general,hotel
+2202	5	SYSTEM	日比谷駅ですね。	general,hotel
+2202	6	USER	わかりました。素敵なホテルをご紹介下さりありがとうございました！	general,hotel

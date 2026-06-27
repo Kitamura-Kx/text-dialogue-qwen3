@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+533	0	USER	京都への旅行を考えているのですが、無料駐車場がある飲食店はありますか？	general,restaurant,taxi
+533	1	SYSTEM	大変申し訳ございません。その条件では、該当するものがありませんでした。	general,restaurant,taxi
+533	2	USER	わかりました。駐車場はなくてもいいです。	general,restaurant,taxi
+533	3	SYSTEM	ありがとうございます。そういたしましたら、Fuji屋 京色という和食のお店はいかがでしょうか？中京区エリアのお店です。	general,restaurant,taxi
+533	4	USER	そこにします。ジャンルは和食ですか？	general,restaurant,taxi
+533	5	SYSTEM	はい、そうです。	general,restaurant,taxi
+533	6	USER	わかりました。当日タクシー利用を考えているのですが、キャッシュレス払いができるタクシー会社はありますか？	general,restaurant,taxi
+533	7	SYSTEM	はい、10件ございます。京都相互タクシー株式会社はいかがでしょうか？	general,restaurant,taxi
+533	8	USER	そこにします。ジャンボタクシーがあるか教えてください。	general,restaurant,taxi
+533	9	SYSTEM	はい、ございます。ジャンボタクシーをご利用いただけます。	general,restaurant,taxi
+533	10	USER	ではそちらで予約をお願いしたいです。	general,restaurant,taxi
+533	11	SYSTEM	かしこまりました。ご利用予定の日付と出発時刻、出発地、目的地はお決まりでしょうか？	general,restaurant,taxi
+533	12	USER	1月13日の12時30分で、楽仙樓からFuji屋 京色まででお願いします。	general,restaurant,taxi
+533	13	SYSTEM	かしこまりました。ご予約番号32380にて、予約をおとりしました。	general,restaurant,taxi
+533	14	USER	ありがとうございます。	general,restaurant,taxi
+533	15	SYSTEM	他になにかお調べすることなどございませんか？	general,restaurant,taxi
+533	16	USER	はい。大丈夫です。	general,restaurant,taxi
+533	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,taxi

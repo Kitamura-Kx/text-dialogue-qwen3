@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1464	0	USER	京都へ旅行に行くんですが、宿泊施設を探していただけますか？	general,hotel,shopping,restaurant
+1464	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,shopping,restaurant
+1464	2	USER	予算は安めで、駐車場無料のところがいいです。あとは左京区希望です！	general,hotel,shopping,restaurant
+1464	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,shopping,restaurant
+1464	4	USER	では地区の希望はなしでお願いします！	general,hotel,shopping,restaurant
+1464	5	SYSTEM	ではリーガロイヤルホテル京都はいかがでしょうか。	general,hotel,shopping,restaurant
+1464	6	USER	ありがとうございます。住所と電話番号を教えてください。	general,hotel,shopping,restaurant
+1464	7	SYSTEM	住所は京都府京都市下京区東堀川通塩小路下ル松明町１番地でございます。電話番号は0753411121でございます。	general,hotel,shopping,restaurant
+1464	8	USER	ありがとうございます。南区で買い物もしたいんですが、駐車場が無料のところってありますかね？	general,hotel,shopping,restaurant
+1464	9	SYSTEM	ではココカラファイン アバンティ店がございます。	general,hotel,shopping,restaurant
+1464	10	USER	ありがとうございます。電話番号を教えてください。	general,hotel,shopping,restaurant
+1464	11	SYSTEM	電話番号は0756718966でございます。	general,hotel,shopping,restaurant
+1464	12	USER	ありがとうございます。あとは左京区で飲食店も探してほしいです！	general,hotel,shopping,restaurant
+1464	13	SYSTEM	かしこまりました。では下鴨茶寮 本店はいかがでしょうか。	general,hotel,shopping,restaurant
+1464	14	USER	すみません、最寄り駅が貴船口駅で、予算は安めが良かったです。どうですか？	general,hotel,shopping,restaurant
+1464	15	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,shopping,restaurant
+1464	16	USER	では予算を高めにしてください。	general,hotel,shopping,restaurant
+1464	17	SYSTEM	では貴船 喜らくがございました。	general,hotel,shopping,restaurant
+1464	18	USER	ありがとうございます。近辺の駅からの所要時間と駐車場の有無についても教えてください。	general,hotel,shopping,restaurant
+1464	19	SYSTEM	京都駅からタクシーで35分、貴船口駅から徒歩で20分、貴船口駅からタクシーで4分でございます。駐車場はございません。	general,hotel,shopping,restaurant
+1464	20	USER	わかりました！そこで予約をお願いします。7/29の15:10に2人で行きたいです。	general,hotel,shopping,restaurant
+1464	21	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は2903でございます。	general,hotel,shopping,restaurant
+1464	22	USER	ありがとうございます。助かりました！	general,hotel,shopping,restaurant
+1464	23	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,restaurant

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3365	0	USER	仙台への旅行を計画中で、青葉区の飲食店を探しています。予算は安めで、無料駐車場付きが良いです。	general,restaurant,shopping,weather
+3365	1	SYSTEM	ときわ亭 上杉店はいかがですか？	general,restaurant,shopping,weather
+3365	2	USER	そこにしようと思います。当日宮城野区で買い物をしたいのですが、おすすめのお店はありますか？	general,restaurant,shopping,weather
+3365	3	SYSTEM	JA仙台農産物直売所 たなばたけ 高砂店 umimorishop ミュージアムショップ ヨドバシカメラマルチメディア仙台はいかがですか？	general,restaurant,shopping,weather
+3365	4	USER	ヨドバシカメラマルチメディア仙台にしようと思います。5/28の泉区の天気と最低気温を教えてください。	general,restaurant,shopping,weather
+3365	5	SYSTEM	天気は曇、 最低気温は11.3度です。	general,restaurant,shopping,weather
+3365	6	USER	助かります。ありがとうございました。	general,restaurant,shopping,weather

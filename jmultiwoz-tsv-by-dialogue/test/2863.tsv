@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2863	0	USER	東京で泊まれるところを探しているんですけど。荒川区でWi-Fiが無料の所、レストランもある所がいいんですけど、いいところないですか？	general,hotel,weather,taxi
+2863	1	SYSTEM	ホテルサニーは、いかがでしょうか？	general,hotel,weather,taxi
+2863	2	USER	いい名前ですね。名前通りに晴れるといいんだけど、中央区の8月31日の天候ってどんな感じですか？	general,hotel,weather,taxi
+2863	3	SYSTEM	その日の天気は、曇です。	general,hotel,weather,taxi
+2863	4	USER	ありゃあ曇りかあ、朝寒いとかはないですよね、最低気温は？	general,hotel,weather,taxi
+2863	5	SYSTEM	最低気温は、24.9度となっています。	general,hotel,weather,taxi
+2863	6	USER	過ごしやすそうですね。えっと、キャッシュレス払いできるタクシー会社も探してほしいんですが？	general,hotel,weather,taxi
+2863	7	SYSTEM	それでは、北光自動車交通はどうでしょうか？	general,hotel,weather,taxi
+2863	8	USER	そちらジャンボタクシーは対応してますか？	general,hotel,weather,taxi
+2863	9	SYSTEM	申訳ありません、ジャンボタクシーは非対応となっています。	general,hotel,weather,taxi
+2863	10	USER	あ、大丈夫です。8月31日、13時半にホテルサニーを出て、Restaurant かえりやままで予約したいんですけど？	general,hotel,weather,taxi
+2863	11	SYSTEM	予約出来ました。予約番号は、51953です。	general,hotel,weather,taxi
+2863	12	USER	ありがとうございました。お世話になりました。	general,hotel,weather,taxi

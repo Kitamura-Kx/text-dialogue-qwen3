@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2106	0	USER	今度、横浜に行くんですが、ジャンボタクシーで移動を考えています。キャッシュレス対応している所を教えてください。	general,taxi
+2106	1	SYSTEM	かしこまりました。では、国際自動車株式会社はいかがでしょうか？	general,taxi
+2106	2	USER	ありがとうございます。電話番号を教えてもらえますか？	general,taxi
+2106	3	SYSTEM	はい。電話番号は0120385931です。	general,taxi
+2106	4	USER	ありがとうございます。では、8月14日の9時30分に腹黒屋 横浜から、うなぎ料理 しま村 青葉台店へ移動したいので、予約をお願いします。	general,taxi
+2106	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、95085です。	general,taxi
+2106	6	USER	助かりました。失礼します。	general,taxi

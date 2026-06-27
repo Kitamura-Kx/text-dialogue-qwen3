@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+834	0	USER	こんにちは。東京のタクシー会社を探しているんですが。キャッシュレス払いを利用できる会社はありますか？	general,taxi
+834	1	SYSTEM	はい。葵交通株式会社がございます。	general,taxi
+834	2	USER	そちらはジャンボータクシーも運営してますか？	general,taxi
+834	3	SYSTEM	はい。ジャンボタクシーにも対応しております。	general,taxi
+834	4	USER	それはよかったです。電話番号も教えてください。	general,taxi
+834	5	SYSTEM	電話番号は0570550555でございます。	general,taxi
+834	6	USER	予約日時は12/8の13:40でお願いします。出発は炭火ホルモン焼のネバーランド 戸越本店で、到着はカキモリです。	general,taxi
+834	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,taxi
+834	8	USER	そうですか、、、では時間は14:40に変更したら予約できますか？	general,taxi
+834	9	SYSTEM	その時間ですと予約が可能でございました。予約番号は35968でございます。	general,taxi
+834	10	USER	ありがとうございます！	general,taxi

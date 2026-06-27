@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3271	0	USER	札幌へ行こうと思っているのですが、キャッシュレス払いのできるタクシー会社を探してもらえませんか？	general,taxi
+3271	1	SYSTEM	では、北都ベリアールサービス(株)はいかがですか？	general,taxi
+3271	2	USER	そちらはジャンボタクシーに対応していますか？	general,taxi
+3271	3	SYSTEM	はい、ジャンボタクシーも対応しています。	general,taxi
+3271	4	USER	電話番号を教えてください。	general,taxi
+3271	5	SYSTEM	電話番号は、0118202200です。	general,taxi
+3271	6	USER	では1月19日の11：50に予約を入れてください。	general,taxi
+3271	7	SYSTEM	出発地と目的地をお知らせください。	general,taxi
+3271	8	USER	出発地は北の幸 海道、目的地はシャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートです。	general,taxi
+3271	9	SYSTEM	予約出来ました。予約番号は、85260です。	general,taxi
+3271	10	USER	ありがとうございます。	general,taxi
+3271	11	SYSTEM	他にご用件はありますか？	general,taxi
+3271	12	USER	いえありません。ありがとうございました。	general,taxi
+3271	13	SYSTEM	承知致しました。ありがとうございました。	general,taxi

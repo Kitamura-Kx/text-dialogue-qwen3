@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2769	0	USER	京都へ旅行に行きたく、そこで買い物ができるアウトレットモールを探しています。エリアは下京区で無料の駐車場を利用したく該当する施設はありますか？	general,shopping,weather
+2769	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,weather
+2769	2	USER	それではアウトレットモールでなくても大丈夫です。	general,shopping,weather
+2769	3	SYSTEM	ありがとうございます。大丸京都店はいかがでしょう？ジャンルは、百貨店や総合スーパーとなります。	general,shopping,weather
+2769	4	USER	そちらの住所と定休日を教えてください。	general,shopping,weather
+2769	5	SYSTEM	はい、住所は京都府京都市下京区四条通高倉西入立売西町79、定休日は1月1日となります。	general,shopping,weather
+2769	6	USER	ありがとうございます。最後に上京区の7/15の天候を教えてください。	general,shopping,weather
+2769	7	SYSTEM	はい、天気は曇時々雨、最低気温21度、最高気温24.7度となります。	general,shopping,weather
+2769	8	USER	ありがとうございます。こちらは以上です。	general,shopping,weather
+2769	9	SYSTEM	ありがとうございました。	general,shopping,weather

@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2271	0	USER	那覇へ旅行に行くのですが、無料駐車場があって予算は高めの宿泊施設を探してもらえますか？	general,hotel,weather,taxi
+2271	1	SYSTEM	那覇には高めの無料駐車場有宿泊施設はありません。	general,hotel,weather,taxi
+2271	2	USER	そうですか。じゃあ予算にはこだわらないことにします。	general,hotel,weather,taxi
+2271	3	SYSTEM	那覇で駐車場無料の宿泊施設は８件あります。追加の希望条件はありますか？	general,hotel,weather,taxi
+2271	4	USER	いいえ、他の希望はありません。	general,hotel,weather,taxi
+2271	5	SYSTEM	それでは、さくらや国際通り、この宿泊施設をお勧めします。	general,hotel,weather,taxi
+2271	6	USER	ありがとうございます。そこはどのあたりのエリアですか？住所も教えてください。	general,hotel,weather,taxi
+2271	7	SYSTEM	本庁エリアになります。住所は沖縄県那覇市松尾1丁目3-16 2Fです。	general,hotel,weather,taxi
+2271	8	USER	じゃあそこを予約してもらえますか？3名で11/19から４泊です。	general,hotel,weather,taxi
+2271	9	SYSTEM	はい、予約成功しました。予約番号は93815になります。	general,hotel,weather,taxi
+2271	10	USER	ありがとうございます。あと11/19の小禄地区の最高気温と最低気温も教えてください。	general,hotel,weather,taxi
+2271	11	SYSTEM	11/19 那覇 小禄 の天気は曇のち晴、最高気温25.6度、最低気温22.6度です。	general,hotel,weather,taxi
+2271	12	USER	ありがとうございます。それから、ジャンボタクシーを利用したいので、タクシー会社を探してください。	general,hotel,weather,taxi
+2271	13	SYSTEM	那覇でジャンボタクシーのある会社はいくつかありますが、那覇第一交通をお勧めします。	general,hotel,weather,taxi
+2271	14	USER	そこはキャッシュレス対応はありますか？	general,hotel,weather,taxi
+2271	15	SYSTEM	はい、キャッシュレスにも対応しています。	general,hotel,weather,taxi
+2271	16	USER	わかりました。あと電話番号も教えてください。	general,hotel,weather,taxi
+2271	17	SYSTEM	0988537801になります。	general,hotel,weather,taxi
+2271	18	USER	じゃあ、そこを予約してもらえますか？11/19の13：50で、シルバーショップ クラウディカというところを出発してさくらや国際通りまで行きたいです。	general,hotel,weather,taxi
+2271	19	SYSTEM	その条件だと予約に失敗してしまいました。	general,hotel,weather,taxi
+2271	20	USER	そうですか。じゃあ14：30出発に変更したらどうでしょうか。	general,hotel,weather,taxi
+2271	21	SYSTEM	11/19の14：30、シルバーショップ クラウディカから、さくらや国際通りまで、予約成功しました。予約番号は71413です。	general,hotel,weather,taxi
+2271	22	USER	ありがとうございます。用件は以上です。	general,hotel,weather,taxi
+2271	23	SYSTEM	お役に立てて光栄です	general,hotel,weather,taxi

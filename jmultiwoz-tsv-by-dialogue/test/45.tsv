@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+45	0	USER	どうもすみません。札幌に旅行に行こうと考えていまして、少し調べていただきたいことがあります。	general,shopping,taxi,weather
+45	1	SYSTEM	かしこまりました。どのようなことをお知りになりたいですか。	general,shopping,taxi,weather
+45	2	USER	まず買い物ができるところとして、イオン札幌元町ショッピングセンターって場所があるかどうか、調べられますか？	general,shopping,taxi,weather
+45	3	SYSTEM	はい。ございます。	general,shopping,taxi,weather
+45	4	USER	じゃ、そこの定休日と住所を教えてくれるかな？	general,shopping,taxi,weather
+45	5	SYSTEM	定休日は無しで、住所は北海道札幌市東区北31条東15丁目1-1でございます。	general,shopping,taxi,weather
+45	6	USER	ありがとう。あと当日使えるタクシー会社も調べてほしくて、キャッシュレス対応でお願いできますかね？	general,shopping,taxi,weather
+45	7	SYSTEM	かしこまりました。鈴蘭交通(株)はいかがでしょうか。	general,shopping,taxi,weather
+45	8	USER	鈴蘭交通(株)ですね。そこの電話番号と、ジャンボタクシーが使えるかも教えてもらえますか？	general,shopping,taxi,weather
+45	9	SYSTEM	電話番号は0116676000です。ジャンボタクシーは非対応になっております。	general,shopping,taxi,weather
+45	10	USER	分かりました。そこで予約お願いできますか？	general,shopping,taxi,weather
+45	11	SYSTEM	かしこまりました。日時など教えていただけますか。	general,shopping,taxi,weather
+45	12	USER	はい。日付は3月25日で、時間は昼の1時40分で。	general,shopping,taxi,weather
+45	13	SYSTEM	出発地と目的地はどちらでしょうか。	general,shopping,taxi,weather
+45	14	USER	VILLA KOSHIDO ODORIからイオン札幌元町ショッピングセンターまでで、お願いします。	general,shopping,taxi,weather
+45	15	SYSTEM	予約が完了いたしました。予約番号は73559です。	general,shopping,taxi,weather
+45	16	USER	ありがとうございます。	general,shopping,taxi,weather
+45	17	SYSTEM	他にご用件はございますか。	general,shopping,taxi,weather
+45	18	USER	そうそう、あとですね、南区の天候が知りたかったんだ。	general,shopping,taxi,weather
+45	19	SYSTEM	かしこまりました。何月何日の天気をお調べしましょうか。	general,shopping,taxi,weather
+45	20	USER	3月25日でお願いします。	general,shopping,taxi,weather
+45	21	SYSTEM	天気は晴れ、最低気温は-1.9、最高気温は6.1でございます。	general,shopping,taxi,weather
+45	22	USER	最高気温が6.1度か。寒そう。じゃ、今日はこのへんで。	general,shopping,taxi,weather
+45	23	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi,weather

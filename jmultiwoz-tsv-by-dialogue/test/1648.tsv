@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1648	0	USER	こんにちは。東京への旅行計画中でして、宿泊施設を探しています。日暮里駅が最寄の旅館ってどこかありますか？	general,hotel,taxi,weather
+1648	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,taxi,weather
+1648	2	USER	そうですか。でしたら日暮里駅じゃなくてもいいので、旅館を探していただけますか？	general,hotel,taxi,weather
+1648	3	SYSTEM	では旅館 浅草三河屋はいかがでしょうか。	general,hotel,taxi,weather
+1648	4	USER	よさそうですね、そこにします。あと、当日タクシーを使いたいのですが、キャッシュレス払いに対応しているところを探していただけますか？	general,hotel,taxi,weather
+1648	5	SYSTEM	はい。三和交通（板橋区）がございます。	general,hotel,taxi,weather
+1648	6	USER	そちらの電話番号もお願いします。	general,hotel,taxi,weather
+1648	7	SYSTEM	電話番号は0357552151でございます。	general,hotel,taxi,weather
+1648	8	USER	お手数ですが、6/3の09:40で、江戸東京博物館で乗車して旅館 浅草三河屋まで予約お願いします。	general,hotel,taxi,weather
+1648	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は90938でございます。	general,hotel,taxi,weather
+1648	10	USER	それと当日6/3の世田谷区の天気で、最低気温を知りたいです。	general,hotel,taxi,weather
+1648	11	SYSTEM	最低気温は20.7度でございます。	general,hotel,taxi,weather
+1648	12	USER	色々とありがとうございました。助かりました。	general,hotel,taxi,weather
+1648	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi,weather

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4469	0	USER	大阪への旅行を計画しています。 当日訪れる観光名所を探してください。Wi-Fiが無料で利用できるところで、最寄り駅が大阪港駅のところにしてください。ジャンルは動物園です。よろしくお願いします。	general,attraction,shopping,taxi
+4469	1	SYSTEM	そういたしますと、天保山アニパというところが1件ご案内可能です。いかがでしょうか？	general,attraction,shopping,taxi
+4469	2	USER	ありがとうございます。大人入場料を教えてください。	general,attraction,shopping,taxi
+4469	3	SYSTEM	大人入場料は660円です。	general,attraction,shopping,taxi
+4469	4	USER	ありがとうございます。当日買い物ができるところを探してください。ジャンルは文房具・雑貨です。駐車場を無料で利用できるところにしてください。	general,attraction,shopping,taxi
+4469	5	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,attraction,shopping,taxi
+4469	6	USER	では、ジャンルをお土産に変更します。	general,attraction,shopping,taxi
+4469	7	SYSTEM	かしこまりました。そうしましたら、ムーミンスタンド天王寺ミオ店というお店はいかがでしょうか？	general,attraction,shopping,taxi
+4469	8	USER	ありがとうございます。そちらでお願いします。では、当日利用できるタクシー会社を探してください。キャッシュレス払いできるところで、ジャンボタクシーを利用できるところでお願いします。	general,attraction,shopping,taxi
+4469	9	SYSTEM	かしこまりました。では、株式会社フットはいかがでしょうか？	general,attraction,shopping,taxi
+4469	10	USER	ありがとうございます。電話番号を教えてください。	general,attraction,shopping,taxi
+4469	11	SYSTEM	電話番号は、0665751700です。	general,attraction,shopping,taxi
+4469	12	USER	ありがとうございます。では、タクシー会社で当日のタクシーを予約してください。日付は6/29で、時間は14:10です。出発地は先ほど見つけた観光施設で、目的地は先ほど見つけた買い物店舗でお願いします。	general,attraction,shopping,taxi
+4469	13	SYSTEM	かしこまりました。天保山アニパ発、ムーミンスタンド天王寺ミオ店着にて、ご予約完了いたしました。予約番号は、2282です。	general,attraction,shopping,taxi
+4469	14	USER	かしこまりました。本日はありがとうございました。	general,attraction,shopping,taxi
+4469	15	SYSTEM	こちらこそ、ありがとうございました。では、またのご利用をお待ちしております。	general,attraction,shopping,taxi

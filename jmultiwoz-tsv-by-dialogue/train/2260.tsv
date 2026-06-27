@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2260	0	USER	那覇へ旅行に行くんですが、観光名所を探して欲しいです。	general,attraction,hotel,weather
+2260	1	SYSTEM	はい、ご希望はありますか？	general,attraction,hotel,weather
+2260	2	USER	アートギャラリーを見られる場所でお願いします！	general,attraction,hotel,weather
+2260	3	SYSTEM	那覇のアートギャラリーならば、首里琉染、こちらをお勧めします。	general,attraction,hotel,weather
+2260	4	USER	いいですね！駐車場の有無と営業時間は分かりますか？	general,attraction,hotel,weather
+2260	5	SYSTEM	無料駐車場があります。営業時間は朝９時から夕方６時までです。	general,attraction,hotel,weather
+2260	6	USER	なるほどです！宿泊施設も探してもらえますかね？	general,attraction,hotel,weather
+2260	7	SYSTEM	はい、ご希望の条件をお聞かせください。	general,attraction,hotel,weather
+2260	8	USER	地区は小禄で、駐車場無料のところでお願いします！	general,attraction,hotel,weather
+2260	9	SYSTEM	小禄で駐車場無料といえば、チャビラホテル那覇、こちら一択です。	general,attraction,hotel,weather
+2260	10	USER	そこに行ってみます！チェックアウト終了時刻は分かりますか？	general,attraction,hotel,weather
+2260	11	SYSTEM	１０時になります。	general,attraction,hotel,weather
+2260	12	USER	ありがとうございます。首里の9/11の最高気温も教えてください。	general,attraction,hotel,weather
+2260	13	SYSTEM	9/11 那覇 首里 の天気は晴、最低気温23.3度、最高気温31.5度です。	general,attraction,hotel,weather
+2260	14	USER	ありがとうございます。楽しんできます！	general,attraction,hotel,weather
+2260	15	SYSTEM	よい旅を。	general,attraction,hotel,weather

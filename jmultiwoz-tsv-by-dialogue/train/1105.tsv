@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1105	0	USER	那覇への旅行を計画しているのですが。	general,restaurant,attraction
+1105	1	SYSTEM	はい。お問合せありがとうございます。	general,restaurant,attraction
+1105	2	USER	当日食事ができる飲食店を探してください．地区は真和志で.	general,restaurant,attraction
+1105	3	SYSTEM	ぱやお栄町店はいかがでしょう。	general,restaurant,attraction
+1105	4	USER	そちらの値段帯，定休日，駐車場の有無もおしえてください。	general,restaurant,attraction
+1105	5	SYSTEM	値段帯は普通で定休日も無しで駐車場の有無は無しです。	general,restaurant,attraction
+1105	6	USER	ありがとうございました。あと、当日訪れる観光名所を探してください．地区は小禄です．駐車場を無料で利用できるところがいいです。	general,restaurant,attraction
+1105	7	SYSTEM	那覇空港はいかがでしょう、	general,restaurant,attraction
+1105	8	USER	いいですね。そちらの料金情報，大人入場料，子供入場料を教えて欲しいです。	general,restaurant,attraction
+1105	9	SYSTEM	全て無料になっています。	general,restaurant,attraction
+1105	10	USER	ありがとうございました。	general,restaurant,attraction

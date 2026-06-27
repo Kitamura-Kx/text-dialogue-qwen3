@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4980	0	USER	すみません、札幌旅行の相談をさせてください。布袋点心舗 弁財天で食事する予定なんですが、電話番号と、近辺の駅からの所要時間を調べられますか？	general,restaurant,weather,taxi
+4980	1	SYSTEM	承知しました。電話番号は0112061886です。お店まではすすきの駅から徒歩で2分です。	general,restaurant,weather,taxi
+4980	2	USER	今、予約もできますか？人数は3人で、12月8日の10時40分でお願いします。	general,restaurant,weather,taxi
+4980	3	SYSTEM	しょうちしました。予約が完了しました。予約番号は52102です。	general,restaurant,weather,taxi
+4980	4	USER	ありがとうございます。12月8日の厚別区の天気はどうなりそうですか？最高気温も教えてください。	general,restaurant,weather,taxi
+4980	5	SYSTEM	承知しました。12月8日の厚別区の天気は曇のち雪です。最高気温は-2.9度です。	general,restaurant,weather,taxi
+4980	6	USER	寒くなりそうですね。それと、キャッシュレス払いできて、ジャンボタクシーにも乗れるタクシー会社があるかどうかわかりますか？	general,restaurant,weather,taxi
+4980	7	SYSTEM	承知しました。北都交通(株)はいかがでしょうか？	general,restaurant,weather,taxi
+4980	8	USER	北都交通(株)で予約をお願いしたいんですが、念のために電話番号を教えてください。	general,restaurant,weather,taxi
+4980	9	SYSTEM	承知しました。電話番号は0112904181です。	general,restaurant,weather,taxi
+4980	10	USER	では、12月8日の午前9時40分に、ホテル京阪札幌から布袋点心舗 弁財天に行くルートで予約してください。	general,restaurant,weather,taxi
+4980	11	SYSTEM	予約が完了しました。予約番号は94342です。	general,restaurant,weather,taxi
+4980	12	USER	すぐに予約できて良かったです。ありがとうございます。	general,restaurant,weather,taxi

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+404	0	USER	名古屋へ行こうと思っています。駐車場が無料で利用できる観光名所を探していただけますか？	general,attraction,shopping
+404	1	SYSTEM	承知しました。エリアやジャンルなど他にご希望はございますか？	general,attraction,shopping
+404	2	USER	他に希望は特にないです。	general,attraction,shopping
+404	3	SYSTEM	それでは、古川美術館・分館 爲三郎記念館はいかがでしょう？ジャンルは美術館、博物館となります。	general,attraction,shopping
+404	4	USER	わかりました。ありがとうございます。	general,attraction,shopping
+404	5	SYSTEM	他にご用件はございますか？	general,attraction,shopping
+404	6	USER	最寄り駅が近鉄名古屋駅で駐車場が無料で利用できるスポーツ店を探していただけますか？	general,attraction,shopping
+404	7	SYSTEM	申し訳ありません、その条件ではご紹介ができません。いかが致しましょう？	general,attraction,shopping
+404	8	USER	ジャンルは考慮せずもう一度探していただけますか？	general,attraction,shopping
+404	9	SYSTEM	はい、ありがとうございます。近鉄パッセがございます。ジャンルは百貨店や総合スーパーとなります。	general,attraction,shopping
+404	10	USER	エリアはどちらになりますか？	general,attraction,shopping
+404	11	SYSTEM	エリアは中村区になります。	general,attraction,shopping
+404	12	USER	わかりました。ありがとうございます。	general,attraction,shopping
+404	13	SYSTEM	他にご用件はございますか？	general,attraction,shopping
+404	14	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,shopping

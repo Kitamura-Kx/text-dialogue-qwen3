@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+336	0	USER	今度東京への旅行を計画しているのですが、レストランを探しています	general,restaurant
+336	1	SYSTEM	ご利用ありがとうございます。東京のレストランですね。ジャンルは、ホテルレストランをご希望でしょうか？	general,restaurant
+336	2	USER	ジャンルは特に決めていませんが、駐車場を無料で利用したいです。	general,restaurant
+336	3	SYSTEM	かしこまりました。では、醍醐 お台場店はいかがでしょうか？港区にある、焼肉・ホルモン, 居酒屋のお店となっております。	general,restaurant
+336	4	USER	ありがとうございます。料金帯は普通でしょうか	general,restaurant
+336	5	SYSTEM	はい、普通のお値段設定となっております。	general,restaurant
+336	6	USER	そこに行ってみようと思います。最寄り駅と定休日を知りたいです。	general,restaurant
+336	7	SYSTEM	最寄り駅は、お台場海浜公園駅です。駅から徒歩で4分ほどでアクセス可能です。また、定休日はございません。	general,restaurant
+336	8	USER	ありがとうございました。	general,restaurant
+336	9	SYSTEM	他にお調べすることはございますか？	general,restaurant
+336	10	USER	はい、大丈夫です。お世話になりました。	general,restaurant
+336	11	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+719	0	USER	福岡への旅行を考えているのですが、早良区の飲食店を探してください。予算は普通くらいです。	general,restaurant,weather
+719	1	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,restaurant,weather
+719	2	USER	そうですか。なら予算は特に指定なしでお願いします。	general,restaurant,weather
+719	3	SYSTEM	ありがとうございます。資さんうどん 原店がございます。何かご案内致しましょうか？	general,restaurant,weather
+719	4	USER	そこにします。住所と定休日を教えてください。	general,restaurant,weather
+719	5	SYSTEM	はい、住所は福岡県福岡市早良区原3丁目17-32、定休日はございません。他にご案内できることはございますか？	general,restaurant,weather
+719	6	USER	ありがとうございます。11月2日の中央区の天候を教えてください。	general,restaurant,weather
+719	7	SYSTEM	承知しました。天気は、曇時々晴、最低気温11.8度、最高気温20.2度となります。他にご案内できることはございますか？	general,restaurant,weather
+719	8	USER	わかりました。もう大丈夫です。ありがとうございました。	general,restaurant,weather
+719	9	SYSTEM	ありがとうございました。	general,restaurant,weather

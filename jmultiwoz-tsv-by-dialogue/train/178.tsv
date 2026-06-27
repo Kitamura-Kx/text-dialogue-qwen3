@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+178	0	USER	東京へ行く予定なのですが、駐車場が無料で、無料Wi-Fiが利用できる飲食店はありますか？	general,restaurant,hotel,shopping
+178	1	SYSTEM	はい、1件ございます。バルバッコア 六本木ヒルズ店は、いかがでしょうか？	general,restaurant,hotel,shopping
+178	2	USER	そこにしようと思います。近辺の駅からの所要時間と値段帯	general,restaurant,hotel,shopping
+178	3	SYSTEM	近辺の駅からの所要時間は、六本木駅から徒歩で1分、麻布十番駅からは徒歩で5分、乃木坂駅からは徒歩で10分となります。値段帯は、お高めとなっております。	general,restaurant,hotel,shopping
+178	4	USER	2/28 9:50に2人で予約をお願いします。	general,restaurant,hotel,shopping
+178	5	SYSTEM	かしこまりました。2/28 9:50、2名様で予約完了いたしました。予約番号は、66919です。	general,restaurant,hotel,shopping
+178	6	USER	ありがとうございます。あとホテルも探しているのですが、無料Wi-Fiが利用できる予算安めのビジネスホテルを探してください。	general,restaurant,hotel,shopping
+178	7	SYSTEM	東京のビジネスホテルですね。28件ほどございますが、他に最寄り駅などでご希望はございますか？	general,restaurant,hotel,shopping
+178	8	USER	いえ、無料でWi-Fiが利用できて予算が安めであれば、どこでも構いません。	general,restaurant,hotel,shopping
+178	9	SYSTEM	かしこまりました。では、秋葉原駅近くのヴィアイン秋葉原はいかがでしょうか？	general,restaurant,hotel,shopping
+178	10	USER	そこでお願いしたいと思います。最寄り駅はどこになりますか？	general,restaurant,hotel,shopping
+178	11	SYSTEM	最寄り駅は、秋葉原駅となります。駅から徒歩5分ほどでアクセスできます。	general,restaurant,hotel,shopping
+178	12	USER	ヴィアイン秋葉原のチェックアウト終了時刻と料金情報も教えてください。	general,restaurant,hotel,shopping
+178	13	SYSTEM	チェックアウト終了時刻は10:00です。料金につきましては、お安い値段帯であることと、WiFiが無料、駐車場は有料という情報のみとなっております。	general,restaurant,hotel,shopping
+178	14	USER	では2/28から3泊、4名で予約をお願いします。	general,restaurant,hotel,shopping
+178	15	SYSTEM	申し訳ございません。ご希望の条件では予約をおとりできませんでした。いかがいたしましょう？	general,restaurant,hotel,shopping
+178	16	USER	では3名で予約してください。	general,restaurant,hotel,shopping
+178	17	SYSTEM	ありがとうございます。予約完了いたしました。予約番号は、67396です。	general,restaurant,hotel,shopping
+178	18	USER	ありがとうございます。それから当日おもちゃを買えるお店を探しています。	general,restaurant,hotel,shopping
+178	19	SYSTEM	申し訳ございません。東京で、おもちゃのお買い物ができる場所となりますと、ご案内できる施設がありませんでした。	general,restaurant,hotel,shopping
+178	20	USER	では商店街をお願いできますか？	general,restaurant,hotel,shopping
+178	21	SYSTEM	かしこまりました。アメ横商店街と築地場外市場の2件がございます。	general,restaurant,hotel,shopping
+178	22	USER	築地場外市場に行ってみようと思います。定休日と営業時間を教えてください。	general,restaurant,hotel,shopping
+178	23	SYSTEM	築地場外市場の定休日は、日曜日と祝日です。営業時間は、朝6時から昼14時までとなっております。	general,restaurant,hotel,shopping
+178	24	USER	あと電話番号も教えてください。	general,restaurant,hotel,shopping
+178	25	SYSTEM	電話番号は、0362641925です。	general,restaurant,hotel,shopping
+178	26	USER	ありがとうございます。	general,restaurant,hotel,shopping
+178	27	SYSTEM	他に何かお調べすることはございますか？	general,restaurant,hotel,shopping
+178	28	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant,hotel,shopping
+178	29	SYSTEM	こちらこそ、ありがとうございました。またのご利用をお待ちしております。	general,restaurant,hotel,shopping

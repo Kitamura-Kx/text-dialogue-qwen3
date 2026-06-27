@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3647	0	USER	京都へ旅行に行くので、食事ができるお店を探してください。	general,restaurant,weather
+3647	1	SYSTEM	かしこまりました。京都の飲食店ですと100件ほどございますので、何かこだわりなどあればお伺いいたします。	general,restaurant,weather
+3647	2	USER	Wi-Fiが無料で利用できるところがいいです。できれば駐車場も無料で利用できるといいのですが。	general,restaurant,weather
+3647	3	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant,weather
+3647	4	USER	では駐車場はなくても構いません。	general,restaurant,weather
+3647	5	SYSTEM	かしこまりました。それではいっかくじゅう 四条新町店はいかがでしょうか？	general,restaurant,weather
+3647	6	USER	そのお店の値段帯と住所をお願いします。	general,restaurant,weather
+3647	7	SYSTEM	はい、値段帯は安めでして、住所は京都府京都市中京区新町通錦小路下る小結棚町435 ジェイ・プライド四条烏丸1Fでございます。	general,restaurant,weather
+3647	8	USER	あと定休日の情報を教えてください。	general,restaurant,weather
+3647	9	SYSTEM	定休日は不定休とのことです。	general,restaurant,weather
+3647	10	USER	では予約をしてください。日付は9/2で、時間は14:00、人数3人で予約取れますか？	general,restaurant,weather
+3647	11	SYSTEM	申し訳ございません。その条件では予約が出来ませんでした。	general,restaurant,weather
+3647	12	USER	では人数を2人にしてください。	general,restaurant,weather
+3647	13	SYSTEM	お待たせ致しました。予約番号39284でお取りさせていただきました。	general,restaurant,weather
+3647	14	USER	ありがとうございます。あと9/2の北区の天候を調べてください。	general,restaurant,weather
+3647	15	SYSTEM	当日の北区の天気は曇のち晴予報でございます。	general,restaurant,weather
+3647	16	USER	最低気温は何度でしょうか？	general,restaurant,weather
+3647	17	SYSTEM	はい、最低気温は26.6度でございます。	general,restaurant,weather
+3647	18	USER	わかりました。ありがとうございます。以上です。	general,restaurant,weather
+3647	19	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,weather

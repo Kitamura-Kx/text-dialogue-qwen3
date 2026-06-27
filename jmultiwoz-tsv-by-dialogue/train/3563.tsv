@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3563	0	USER	東京の伝統芸能を楽しめる観光名所を教えてください。	general,attraction,taxi
+3563	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,taxi
+3563	2	USER	そうですか。では、無料Wi-Fiが利用できる観光名所を教えて下さい。伝統芸能は諦めます。	general,attraction,taxi
+3563	3	SYSTEM	では東京ミッドタウン日比谷はいかがでしょうか。	general,attraction,taxi
+3563	4	USER	良さそうですね。もう１つ、ジャンボタクシーを利用できるタクシー会社も紹介していただけますか？	general,attraction,taxi
+3563	5	SYSTEM	高鉄交通がございます。	general,attraction,taxi
+3563	6	USER	ありがとうございます。では、高鉄交通の電話番号とキャッシュレス対応できるかどうかを教えて下さい。	general,attraction,taxi
+3563	7	SYSTEM	電話番号は0120617212で、キャッシュレスにも対応しております。	general,attraction,taxi
+3563	8	USER	ありがとうございます。1月16日の午前１１：５０に東京ミッドタウン日比谷から東京スカイツリーまで予約をお願いします。	general,attraction,taxi
+3563	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は13160でございます。	general,attraction,taxi
+3563	10	USER	ありがとうございます。助かりました。それでは失礼します。	general,attraction,taxi

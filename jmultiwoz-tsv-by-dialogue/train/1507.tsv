@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1507	0	USER	こんにちは。大阪へ旅行を考えているのですが、Wi-Fiと駐車場が無料な、中央区の飲食店はありますか？	general,restaurant
+1507	1	SYSTEM	申し訳ありません。その条件ではご案内できません。いかが致しますか？	general,restaurant
+1507	2	USER	わかりました。では、駐車場は有料でも構いません。	general,restaurant
+1507	3	SYSTEM	では、ミゲルフアニ なんばダイニングメゾン店がございます。ジャンルは洋食、西洋料理、となります。	general,restaurant
+1507	4	USER	ありがとうございます。そこにします。ミゲルフアニ なんばダイニングメゾン店の、料金情報と電話番号を教えてください。	general,restaurant
+1507	5	SYSTEM	はい、電話番号は0666307138、料金情報は、ミゲルセットが1980円、となります。	general,restaurant
+1507	6	USER	ありがとうございます。	general,restaurant
+1507	7	SYSTEM	他にご用件はございますか？	general,restaurant
+1507	8	USER	いえ、大丈夫です。案内ありがとうございました。	general,restaurant
+1507	9	SYSTEM	ありがとうございました。	general,restaurant

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+284	0	USER	お願いします。	general,hotel
+284	1	SYSTEM	何かお知りになりたい情報がございますか。	general,hotel
+284	2	USER	京都への旅行を計画しています。レストランの付いている宿泊施設を探しています。	general,hotel
+284	3	SYSTEM	かしこまりました。では京湯元 ハトヤ瑞鳳閣はいかがでしょうか。	general,hotel
+284	4	USER	そちらはwifiを無料で使うことは出来ますか？	general,hotel
+284	5	SYSTEM	はい。Wi-Fiは無料で利用可能でございます。	general,hotel
+284	6	USER	できれば無料で駐車場が利用できるといいのですが？	general,hotel
+284	7	SYSTEM	こちら駐車場は有料となっております。	general,hotel
+284	8	USER	無料で駐車場を利用できるところは他にありますか？	general,hotel
+284	9	SYSTEM	申し訳ございません。レストランが有り、Wi-Fi、駐車場共に無料で利用できる宿泊施設はございませんでした。	general,hotel
+284	10	USER	わかりました。では、さきほど教えていただいた場所のエリアを教えて下さい。	general,hotel
+284	11	SYSTEM	京湯元 ハトヤ瑞鳳閣でございますね。エリアは下京区でございます。	general,hotel
+284	12	USER	わかりました。質問は以上です。ありがとうございます。	general,hotel

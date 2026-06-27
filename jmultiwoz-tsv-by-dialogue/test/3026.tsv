@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3026	0	USER	札幌へ行くんですが、中島公園駅付近で予算高めの飲食店を探してもらえますか。	general,restaurant,weather,taxi
+3026	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,weather,taxi
+3026	2	USER	そうですか。じゃあ予算にはこだわりません。	general,restaurant,weather,taxi
+3026	3	SYSTEM	かしこまりました。では、札幌ジンギスカン 羊の神様はいかがでしょうか？	general,restaurant,weather,taxi
+3026	4	USER	ありがとうございます。そこの住所も教えてください。	general,restaurant,weather,taxi
+3026	5	SYSTEM	はい。住所は北海道札幌市中央区南8条西4丁目423-10 第２エイトビル１Ｆです。	general,restaurant,weather,taxi
+3026	6	USER	ありがとうございます。あと、3/3の手稲区の天気を教えてください。	general,restaurant,weather,taxi
+3026	7	SYSTEM	かしこまりました。3/3の手稲区の天気予報は晴となっております。最低気温は2度、最高気温は6.8度になる予報です。	general,restaurant,weather,taxi
+3026	8	USER	ありがとうございます。それから、ジャンボタクシーが利用できるタクシー会社を探してもらえますか？	general,restaurant,weather,taxi
+3026	9	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,restaurant,weather,taxi
+3026	10	USER	そうですか。じゃあジャンボタクシーでなくても大丈夫です。	general,restaurant,weather,taxi
+3026	11	SYSTEM	わかりました。であれば、東邦交通(株)はいかがでしょうか。	general,restaurant,weather,taxi
+3026	12	USER	ありがとうございます。そこの電話番号も分かりますか？	general,restaurant,weather,taxi
+3026	13	SYSTEM	はい。電話番号は0116621040です。	general,restaurant,weather,taxi
+3026	14	USER	ありがとうございます。ではそこでタクシーの予約をお願いできますか？3/3の1に、を出発して、まで利用したいです。	general,restaurant,weather,taxi
+3026	15	SYSTEM	かしこまりました。出発時刻と、出発地、目的地を教えてもらえますか？	general,restaurant,weather,taxi
+3026	16	USER	すみません。3/3の13：40に丸井今井札幌店を出発して、札幌ジンギスカン 羊の神様まで行きたいです。	general,restaurant,weather,taxi
+3026	17	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,weather,taxi
+3026	18	USER	では、14：40に変更します。	general,restaurant,weather,taxi
+3026	19	SYSTEM	かしこまりました。ご予約承りました。予約番号は、33826です。	general,restaurant,weather,taxi
+3026	20	USER	ありがとうございました。以上で結構です。	general,restaurant,weather,taxi
+3026	21	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather,taxi

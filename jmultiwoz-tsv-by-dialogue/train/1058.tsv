@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1058	0	USER	東京で自然・公園といった感じで観光できる場所を教えて欲しいです。	general,attraction
+1058	1	SYSTEM	かしこまりました。他にエリアなど、ご希望がないようでしたら、等々力渓谷というところはいかがでしょうか？	general,attraction
+1058	2	USER	いいですね。等々力渓谷の最寄り駅と料金情報も教えてもらえますか？	general,attraction
+1058	3	SYSTEM	最寄り駅は、等々力駅です。徒歩3分の場所にございます。料金は、大人もお子様も無料です。	general,attraction
+1058	4	USER	分かりました。ありがとうございます。失礼します。	general,attraction

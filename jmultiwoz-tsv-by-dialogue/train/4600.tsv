@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4600	0	USER	札幌への旅行を計画しています． 当日泊まる宿泊施設を探してください．宿のタイプはビジネスホテルです．Wi-Fiが無料で利用できるところにしてください．	general,hotel,restaurant,taxi
+4600	1	SYSTEM	ソラリア西鉄ホテル札幌はいかがでしょうか。	general,hotel,restaurant,taxi
+4600	2	USER	そちらの電話番号，チェックアウト終了時刻を教えていただけますか。	general,hotel,restaurant,taxi
+4600	3	SYSTEM	電話番号は0112085555、チェックアウト終了時刻 11:00です。	general,hotel,restaurant,taxi
+4600	4	USER	そちらで人数は4人です．日付は4/2です．宿泊日数は4泊で予約してほしいです。	general,hotel,restaurant,taxi
+4600	5	SYSTEM	予約完了いたしました。予約番号は75466になります。	general,hotel,restaurant,taxi
+4600	6	USER	ありがとうございます。あと、当日食事ができる飲食店を探してください．ジャンルはホテルレストランです．	general,hotel,restaurant,taxi
+4600	7	SYSTEM	HOKKAIDO CUISINE KAMUYはいかがでしょうか。	general,hotel,restaurant,taxi
+4600	8	USER	そこの料金情報を教えていただけますか。あと、そこで人数は3人です．日付は4/2です．時間は15:20で	general,hotel,restaurant,taxi
+4600	9	SYSTEM	料金情報はDéjeuner A:7000円、Déjeuner B:15000円、Dîner A:8500円です。そちらの条件では予約できませんでした。	general,hotel,restaurant,taxi
+4600	10	USER	でしたら時間を16:20にしていただけますか	general,hotel,restaurant,taxi
+4600	11	SYSTEM	予約完了いたしました。予約番号は82740になります。	general,hotel,restaurant,taxi
+4600	12	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してください．キャッシュレス払いできるところにしてください．ジャンボタクシーを利用できるところにしてください．	general,hotel,restaurant,taxi
+4600	13	SYSTEM	北都交通(株)はいかがでしょうか。	general,hotel,restaurant,taxi
+4600	14	USER	そこの電話番号を教えていただけますか。	general,hotel,restaurant,taxi
+4600	15	SYSTEM	電話番号は0112904181です。	general,hotel,restaurant,taxi
+4600	16	USER	そちらで日付は4/2です．時間は13:40です．出発地は先ほど見つけた宿泊所です．目的地は先ほど見つけた飲食店で予約いただけますか。	general,hotel,restaurant,taxi
+4600	17	SYSTEM	すみません、そちらの条件で予約できませんでした。	general,hotel,restaurant,taxi
+4600	18	USER	でしたら時間は14:30で。	general,hotel,restaurant,taxi
+4600	19	SYSTEM	予約完了いたしました。予約番号は60322になります。	general,hotel,restaurant,taxi
+4600	20	USER		general,hotel,restaurant,taxi

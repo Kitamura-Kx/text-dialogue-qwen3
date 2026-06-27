@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3720	0	USER	福岡へ旅行したいのですが、宿泊施設を探してもらえますか？無料のWi-Fiが使えて無料の駐車場があるシティホテルをおねがいします。	general,hotel
+3720	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel
+3720	2	USER	そうですか、ではホテルのタイプはなんでもよいので他によいところはないですか？	general,hotel
+3720	3	SYSTEM	それでは、LIBERATED HOTEL 春吉開地はいかがでしょうか。	general,hotel
+3720	4	USER	そちらの最寄り駅はどちらですか？	general,hotel
+3720	5	SYSTEM	はい。最寄りは天神南駅になります。	general,hotel
+3720	6	USER	値段帯はどのような感じですか？	general,hotel
+3720	7	SYSTEM	はい。値段帯は安めです。	general,hotel
+3720	8	USER	エリアはどのあたりでか？	general,hotel
+3720	9	SYSTEM	中央区です。	general,hotel
+3720	10	USER	ではそちらで予約をお願いします。3/16に2名で2泊お願いします。	general,hotel
+3720	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、65437です。	general,hotel
+3720	12	USER	ありがとうございました。	general,hotel

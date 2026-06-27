@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4661	0	USER	名古屋で食事ができるところを探しています。洋食・西洋料理で普通くらいの予算なのですがよいお店があれば教えていただけますか	general,restaurant
+4661	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,restaurant
+4661	2	USER	それでは洋食でなくてもよいのですがお値段普通くらいのお店はありませんか	general,restaurant
+4661	3	SYSTEM	かしこまりました。そうしますと、カジュアルダイニング ムッシュいとう、というお店はいかがでしょうか？ジャンルとしては、カフェ・スイーツ, イタリアン・フレンチとなっております。	general,restaurant
+4661	4	USER	そちらで結構です。住所を教えていただけますか。	general,restaurant
+4661	5	SYSTEM	はい、住所は、愛知県名古屋市中村区名駅3丁目23-13 ザ ロイヤルパーク キャンバス 名古屋 2Fです。	general,restaurant
+4661	6	USER	それでは予約をお願いできますでしょうか。1/11の13:40から２名でお願いいたします。	general,restaurant
+4661	7	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,restaurant
+4661	8	USER	それでは１名ではどうでしょうか	general,restaurant
+4661	9	SYSTEM	ありがとうございます。1名様にて、ご予約完了いたしました。予約番号は、49929です。	general,restaurant
+4661	10	USER	ありがとうございました。これで結構です。	general,restaurant
+4661	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

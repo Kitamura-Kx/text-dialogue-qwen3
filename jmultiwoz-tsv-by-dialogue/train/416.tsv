@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+416	0	USER	福岡で駐車場が無料で使える飲食店はありますか？	general,restaurant
+416	1	SYSTEM	ご利用ありがとうございます。申し訳ございません、その条件では該当するお店が見つかりませんでした。	general,restaurant
+416	2	USER	そうですか。じゃあ、駐車場がないところでもいいです。	general,restaurant
+416	3	SYSTEM	では、はんやかどのくーた、という寿司・魚料理のお店はいかがでしょうか？	general,restaurant
+416	4	USER	いいですね。そちらのお店はエリアはどのあたりになりますか？	general,restaurant
+416	5	SYSTEM	中央区エリアにございます。	general,restaurant
+416	6	USER	わかりました。では、3/13、13:00から2名で予約をお願いします。	general,restaurant
+416	7	SYSTEM	大変申し訳ございません。ご希望の条件では予約をおとりできませんでした。いかがいたしましょうか？	general,restaurant
+416	8	USER	13:30からだったらどうでしょうか。	general,restaurant
+416	9	SYSTEM	ありがとうございます。予約完了いたしました。ご予約番号は、37920です。	general,restaurant
+416	10	USER	わかりました。ありがとうございました。	general,restaurant

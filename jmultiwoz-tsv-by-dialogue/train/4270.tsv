@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4270	0	USER	仙台に行くので飲食店を探しています。無料Wi-Fiが使えるところで、高めのお店を探してください。	general,restaurant,taxi
+4270	1	SYSTEM	承知しました。では、エリアでいうと宮城野区にある、黒毛和牛一頭切り 伊達哉はいかがでしょう？ジャンルは、焼肉、ホルモン、居酒屋となります。	general,restaurant,taxi
+4270	2	USER	よさそうですね。そこは駐車場がありますか？	general,restaurant,taxi
+4270	3	SYSTEM	申し訳ありません、駐車場はございません。条件に加えますか？	general,restaurant,taxi
+4270	4	USER	いえ、大丈夫です。最寄り駅を教えてください。	general,restaurant,taxi
+4270	5	SYSTEM	はい、最寄りの仙台駅から徒歩で3分となります。	general,restaurant,taxi
+4270	6	USER	ありがとうございます。8月21日の14:10に4人で予約します。	general,restaurant,taxi
+4270	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、87581となります。	general,restaurant,taxi
+4270	8	USER	ありがとうございます。あと、当日タクシーを利用しようと思います。ジャンボタクシー対応のところはありませんか？	general,restaurant,taxi
+4270	9	SYSTEM	では、（有）高砂タクシーはいかがでしょう？キャッシュレスにも対応しております。電話番号は、0222511166となります。	general,restaurant,taxi
+4270	10	USER	このタクシーを予約します。8月21日に黒毛和牛一頭切り 伊達哉から、三宝亭仙台泉店まで、時間は13:00でお願いします。	general,restaurant,taxi
+4270	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、40636となります。	general,restaurant,taxi
+4270	12	USER	どうもありがとうございました。	general,restaurant,taxi
+4270	13	SYSTEM	ありがとうございました。	general,restaurant,taxi

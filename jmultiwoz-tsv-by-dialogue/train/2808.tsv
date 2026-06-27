@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2808	0	USER	仙台の青葉区でWi-Fiが無料の飲食店を探しています。	general,restaurant,taxi
+2808	1	SYSTEM	ありがとうございます。3件ほどご案内可能です。たとえば、伊達の牛たん本舗 本店はいかがでしょうか？	general,restaurant,taxi
+2808	2	USER	そこにします！10/4に13：30で4人で予約はできますか？	general,restaurant,taxi
+2808	3	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,restaurant,taxi
+2808	4	USER	3人だったら大丈夫ですか？	general,restaurant,taxi
+2808	5	SYSTEM	ありがとうございます。3名様にて、ご予約完了いたしました。予約番号は、67177でございます。	general,restaurant,taxi
+2808	6	USER	ありがとうございます。そこに行くタクシーも探してほしいです。キャッシュレスの所でお願いします。	general,restaurant,taxi
+2808	7	SYSTEM	かしこまりました。そうしますと、仙都タクシー（株）はいかがでしょうか？	general,restaurant,taxi
+2808	8	USER	そちらはジャンボタクシーって対応してますか？	general,restaurant,taxi
+2808	9	SYSTEM	はい、対応してございます。	general,restaurant,taxi
+2808	10	USER	わかりました。10/4の12：00にスマイルホテル仙台国分町からさきほどの牛たんのお店まで予約したいです。	general,restaurant,taxi
+2808	11	SYSTEM	ありがとうございます。10/4の12時スマイルホテル仙台国分町発、伊達の牛たん本舗 本店着にて、ご予約完了いたしました。予約番号は、10995です。	general,restaurant,taxi
+2808	12	USER	ありがとうございました。	general,restaurant,taxi
+2808	13	SYSTEM	ほかにお調べすることはございますか？	general,restaurant,taxi
+2808	14	USER	大丈夫です。	general,restaurant,taxi
+2808	15	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,restaurant,taxi

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3343	0	USER	東京へ旅行したいと考えているのですが、千代田区で見て回れる観光名所はありますでしょうか。無料WiFiがあるとありがたいです。	general,attraction
+3343	1	SYSTEM	では、東京ミッドタウン日比谷はいかがですか？	general,attraction
+3343	2	USER	ありがとうございます。ではそちらに行こうと思います。料金情報をお聞きしてもよろしいでしょうか。	general,attraction
+3343	3	SYSTEM	料金情報は、入場料なしとなっております。	general,attraction
+3343	4	USER	ありがとうございます。近くの駅からの所要時間と電話番号もお聞きしたいです。	general,attraction
+3343	5	SYSTEM	所要時間は、日比谷駅から徒歩で0分です。　電話番号は、0351571251になります。	general,attraction
+3343	6	USER	ありがとうございます。お聞きしたい事は以上になります。丁寧なご対応ありがとうございました。	general,attraction
+3343	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

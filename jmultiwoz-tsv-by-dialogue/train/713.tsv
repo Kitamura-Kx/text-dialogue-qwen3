@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+713	0	USER	大阪へ旅行を計画しているのですが、当日買い物ができる医薬品・化粧品のお店を探してほしいです。	general,shopping,taxi
+713	1	SYSTEM	承知しました。エリアでいうと浪速区に1件、大阪シティエアターミナルがございます。何かご案内致しましょうか？	general,shopping,taxi
+713	2	USER	駐車場が無料のところがよいのですが。	general,shopping,taxi
+713	3	SYSTEM	はい、こちらの大阪シティエアターミナルは、駐車場が無料でご利用いただけます。	general,shopping,taxi
+713	4	USER	ありがとうございます。それならよかったです。では、そちらの定休日を教えてください。	general,shopping,taxi
+713	5	SYSTEM	はい、定休日は、第三水曜日と、12月31日、1月1日となっております。他にご案内できることはございますか？	general,shopping,taxi
+713	6	USER	当日タクシーを利用したいのですが、キャッシュレス払いができる会社を探してください。	general,shopping,taxi
+713	7	SYSTEM	承知しました。では、株式会社国際興業大阪はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0570035931となります。	general,shopping,taxi
+713	8	USER	ありがとうございます。それでは、9月15日14時に大阪シティエアターミナルからうしや精肉店の予約をお願いします。	general,shopping,taxi
+713	9	SYSTEM	申し訳ありません。この条件では予約ができません。いかが致しましょう？	general,shopping,taxi
+713	10	USER	では、時間を15時に変更して再度お願いします。	general,shopping,taxi
+713	11	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、51971となります。他にご用件はございますか？	general,shopping,taxi
+713	12	USER	いえ、他はありません。ありがとうございました。	general,shopping,taxi

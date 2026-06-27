@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4489	0	USER	大阪に旅行に行く予定なのですが、西区にビジネスホテルはありますか。	general,hotel,restaurant
+4489	1	SYSTEM	はい、3件ご案内可能です。例えば、リーガプレイス肥後橋というお安めのビジネスホテルはいかがでしょうか？	general,hotel,restaurant
+4489	2	USER	ありがとうございます。そのホテルの電話番号を教えてください。	general,hotel,restaurant
+4489	3	SYSTEM	かしこまりました。電話番号は、0664471122でございます。	general,hotel,restaurant
+4489	4	USER	ありがとうございます。あと料金情報について教えてください。	general,hotel,restaurant
+4489	5	SYSTEM	申し訳ありません。料金につきましては、お値段帯がお安めということ以外、詳しい情報は不明です。	general,hotel,restaurant
+4489	6	USER	分かりました。ありがとうございます。次に、予算が普通の飲食店を探してほしいです。Wi-Fiが無料で使えるお店でお願いします。	general,hotel,restaurant
+4489	7	SYSTEM	かしこまりました。9件ほどご案内できるのですが、他にご希望条件がないようでしたら、オペレッタ52 福島店という、居酒屋, 中華料理ジャンルのお店はいかがでしょうか？	general,hotel,restaurant
+4489	8	USER	ありがとうございます。そのお店の駅からの所要時間と営業時間を教えてください。	general,hotel,restaurant
+4489	9	SYSTEM	かしこまりました。最寄りの新福島駅から徒歩で3分、または福島駅から徒歩で3分でアクセスできます。営業時間は夕方17時から夜00時までとなっております。	general,hotel,restaurant
+4489	10	USER	ありがとうございます。助かりました。これで大丈夫です。	general,hotel,restaurant
+4489	11	SYSTEM	承知いたしました。本日はご利用いただき、ありがとうございました。	general,hotel,restaurant

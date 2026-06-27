@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+161	0	USER	すみません、那覇へ旅行に行ったときに買い物できるところを探したいんですが。	general,shopping,taxi
+161	1	SYSTEM	はい、買物したいジャンルなどはございますか？	general,shopping,taxi
+161	2	USER	ジャンルは決めてないんですが、小禄地区の県庁前駅近くで探してみてもらえますか？	general,shopping,taxi
+161	3	SYSTEM	申し訳ありません。その条件では、ないようです。	general,shopping,taxi
+161	4	USER	そうですか。それなら、地区は気にしないので、県庁前駅の近くではどうでしょう？	general,shopping,taxi
+161	5	SYSTEM	星砂ガラス工房 DEARRYUQは、いかがでしょうか？	general,shopping,taxi
+161	6	USER	興味あります。そこは駐車場はどうなっていますか？	general,shopping,taxi
+161	7	SYSTEM	申し訳ありません、駐車場の有無は不明になっております。	general,shopping,taxi
+161	8	USER	あ、そうなんですね。では電話番号を伺ってもいいですか？	general,shopping,taxi
+161	9	SYSTEM	はい、電話番号は　0988678850　になります。	general,shopping,taxi
+161	10	USER	メモしました。あとですね、当日乗るタクシーも探したくて。	general,shopping,taxi
+161	11	SYSTEM	丸星交通は、いかがでしょうか。	general,shopping,taxi
+161	12	USER	キャッシュレスに対応している会社が良いのですが。	general,shopping,taxi
+161	13	SYSTEM	丸星交通は、キャシュレスにも対応しております。	general,shopping,taxi
+161	14	USER	じゃ、そこに決めます。丸星交通はジャンボタクシーは使えますか？	general,shopping,taxi
+161	15	SYSTEM	はい、ジャンボタクシーも対応可能になっております。	general,shopping,taxi
+161	16	USER	では、予約してもらえますか？1月16日で、さっきのお店を14時に出て、旅の宿 らくちんまで乗せてほしいです。	general,shopping,taxi
+161	17	SYSTEM	はい、予約出来ました。　予約番号は、49683になります。	general,shopping,taxi
+161	18	USER	大変助かりました。お世話様でした。	general,shopping,taxi
+161	19	SYSTEM	他にご質問はございますか？	general,shopping,taxi
+161	20	USER	もう特にないです。失礼します。	general,shopping,taxi

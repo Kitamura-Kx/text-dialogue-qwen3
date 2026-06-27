@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4486	0	USER	東京に旅行に行く計画をしていて、文京区の最寄りが江戸川橋駅のあたりで宿泊したいと思っています。	general,hotel,attraction,taxi
+4486	1	SYSTEM	そういたしますと、ホテル椿山荘東京というリゾートホテルはいかがでしょうか？	general,hotel,attraction,taxi
+4486	2	USER	ありがとうございます。あと、散策エリアの観光名所に行きたいです。Wi-Fiは無料で利用できるところでお願いします。	general,hotel,attraction,taxi
+4486	3	SYSTEM	かしこまりました。そうしますと、代々木公園が1件ご案内可能です。いかがでしょうか？	general,hotel,attraction,taxi
+4486	4	USER	ありがとうございます。代々木公園は駅からどのくらいかかりますか。	general,hotel,attraction,taxi
+4486	5	SYSTEM	最寄りの原宿駅から徒歩で3分、ほかにも、代々木公園駅や明治神宮前（原宿）駅から徒歩で3分でアクセスできますよ。	general,hotel,attraction,taxi
+4486	6	USER	詳しくありがとうございます。あと、キャッシュレス払いのできるタクシーを利用したいです。	general,hotel,attraction,taxi
+4486	7	SYSTEM	かしこまりました。では、寿交通はいかがでしょうか？	general,hotel,attraction,taxi
+4486	8	USER	その会社の電話番号とジャンボタクシー対応について教えてください。	general,hotel,attraction,taxi
+4486	9	SYSTEM	かしこまりました。電話番号は、0422325189です。ジャンボタクシーについては、こちらは非対応となっております。	general,hotel,attraction,taxi
+4486	10	USER	ありがとうございます。ここで予約します。10/22の午後2時にホテル椿山荘東京から代々木公園でお願いします。	general,hotel,attraction,taxi
+4486	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、65462でございます。	general,hotel,attraction,taxi
+4486	12	USER	ありがとうございました。これで大丈夫です。	general,hotel,attraction,taxi
+4486	13	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,hotel,attraction,taxi

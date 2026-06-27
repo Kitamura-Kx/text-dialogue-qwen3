@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2038	0	USER	京都の上京区にある、飲食店を探しています。駐車場が無料のところでどこかありますか？	general,restaurant,taxi,weather
+2038	1	SYSTEM	申し訳ありません。ご紹介可能な飲食店がございません。いかが致しましょう？	general,restaurant,taxi,weather
+2038	2	USER	駐車場がなければありますか？	general,restaurant,taxi,weather
+2038	3	SYSTEM	はい、epiceがございます。ジャンルは、イタリアン、フレンチ、となります。	general,restaurant,taxi,weather
+2038	4	USER	ありがとうございます。そのお店の住所とWi-Fiがあるかどうか教えてください。	general,restaurant,taxi,weather
+2038	5	SYSTEM	住所は京都府京都市上京区寺町通り今出川下る真如堂前町105となります。申し訳ありませんが、Wi-Fiの有無については不明です。	general,restaurant,taxi,weather
+2038	6	USER	ありがとうございます。そのお店の予約お願いします。８月１０日の14:20に３人でお願いします。	general,restaurant,taxi,weather
+2038	7	SYSTEM	予約が完了し、ご予約番号は、68058となります。他にご案内できることはございますか？	general,restaurant,taxi,weather
+2038	8	USER	予約ありがとうございました。当日タクシーも利用したいのですが、キャッシュレス払いに対応していて、ジャンボタクシーが利用できるところを探してもらえますか？	general,restaurant,taxi,weather
+2038	9	SYSTEM	愛都交通株式会社はいかがでしょう？電話番号は0756460020となります。	general,restaurant,taxi,weather
+2038	10	USER	ありがとうございます。そちらのタクシーの予約お願いします。８月１０日の１２:40にepiceからPizza Cafe TakemuRaまでお願いします。	general,restaurant,taxi,weather
+2038	11	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかがされますか？	general,restaurant,taxi,weather
+2038	12	USER	時間を13:40に変更したら予約できますか？	general,restaurant,taxi,weather
+2038	13	SYSTEM	予約が可能になりまして、ご予約番号は、58277となります。他にご用件はございますか？	general,restaurant,taxi,weather
+2038	14	USER	ありがとうございます。８月１０日の左京区の天気と最高気温も教えてほしいです。	general,restaurant,taxi,weather
+2038	15	SYSTEM	天気は曇のち晴、最高気温39度となります。他にご案内できることはございますか？	general,restaurant,taxi,weather
+2038	16	USER	大丈夫です。ありがとうございました。	general,restaurant,taxi,weather
+2038	17	SYSTEM	ありがとうございました。	general,restaurant,taxi,weather

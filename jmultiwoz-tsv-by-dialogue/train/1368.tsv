@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1368	0	USER	那覇へ旅行に行くので、買い物ができるところを探してください。	general,shopping,hotel,weather
+1368	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,shopping,hotel,weather
+1368	2	USER	エリアは真和志でお願いします。その他は特にないです。	general,shopping,hotel,weather
+1368	3	SYSTEM	かしこまりました。では、杜山堂というお店はいかがでしょうか？ジャンルとしては、文房具・雑貨でして、牧志駅から徒歩で1分の場所にあるお店です。	general,shopping,hotel,weather
+1368	4	USER	そのお店の電話番号、定休日、住所を教えてください。	general,shopping,hotel,weather
+1368	5	SYSTEM	かしこまりました。電話番号は、0988621346です。定休日はございません。住所は、沖縄県那覇市安里１丁目1-56でございます。	general,shopping,hotel,weather
+1368	6	USER	ありがとうございます。次に宿泊施設を探してください。	general,shopping,hotel,weather
+1368	7	SYSTEM	かしこまりました。100件以上ご案内可能なのですが、エリアなど、何かご希望はございますか？	general,shopping,hotel,weather
+1368	8	USER	最寄り駅が安里駅で、予算は普通が希望、あとレストランが併設されているところにしてください。	general,shopping,hotel,weather
+1368	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,hotel,weather
+1368	10	USER	予算を安めにするといかがですか？	general,shopping,hotel,weather
+1368	11	SYSTEM	ありがとうございます。そうしますと4件ほどご案内可能です。たとえば、RYUKA HOTEL NAHAというビジネスホテルはいかがでしょうか？	general,shopping,hotel,weather
+1368	12	USER	そのホテルの近辺の駅からの所要時間と電話番号を教えてください。	general,shopping,hotel,weather
+1368	13	SYSTEM	最寄りの安里駅から徒歩で10分の距離にございます。電話番号は、0988948865です。	general,shopping,hotel,weather
+1368	14	USER	ありがとうございます。あと9/1の真和志の天候を教えてください。	general,shopping,hotel,weather
+1368	15	SYSTEM	かしこまりました。当日の天気は晴れ、最低気温は28.6度、最高気温は30.4度になる予想です。	general,shopping,hotel,weather
+1368	16	USER	ありがとうございました。以上です。	general,shopping,hotel,weather
+1368	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,hotel,weather

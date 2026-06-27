@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3110	0	USER	横浜のセンター北駅近くで買い物ができるお店はありますか？	general,shopping,weather
+3110	1	SYSTEM	はい、モザイクモール港北がございます。ジャンルはショッピングモールとなります。	general,shopping,weather
+3110	2	USER	ありがとうございます。住所を教えてください。	general,shopping,weather
+3110	3	SYSTEM	はい、住所は、神奈川県横浜市都筑区中川中央1丁目31-1-2となります。	general,shopping,weather
+3110	4	USER	ありがとうございます。最後に磯子区の2/2の気温を教えてください。	general,shopping,weather
+3110	5	SYSTEM	承知しました。天気は曇、最低気温0.7度、最高気温15.2度となります。他にお忘れのご用件はございませんか？	general,shopping,weather
+3110	6	USER	ありがとうございました。	general,shopping,weather
+3110	7	SYSTEM	ありがとうございました。	general,shopping,weather

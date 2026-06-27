@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2997	0	USER	札幌への旅行を計画しています。 宿泊施設を探してほしいです。	general,hotel,attraction,shopping
+2997	1	SYSTEM	ご希望の条件をおきかせください。	general,hotel,attraction,shopping
+2997	2	USER	駐車場を無料で利用できるところで、宿のタイプはビジネスホテル、予算は安めが希望です。	general,hotel,attraction,shopping
+2997	3	SYSTEM	札幌で予算安めの駐車場無料なビジネスホテルは、ホテルルートイン札幌白石、こちら一択です。	general,hotel,attraction,shopping
+2997	4	USER	そのホテルの近辺の駅からの所要時間を教えてください。	general,hotel,attraction,shopping
+2997	5	SYSTEM	白石駅から徒歩で20分です。いい運動ですね。	general,hotel,attraction,shopping
+2997	6	USER	続いて観光名所を探してください。地区は北区、駐車場を無料で利用できるところが希望です。	general,hotel,attraction,shopping
+2997	7	SYSTEM	北区で駐車場無料の観光名所といえば、シャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾート、こちら一択です。	general,hotel,attraction,shopping
+2997	8	USER	最寄り駅はどこになるでしょうか。	general,hotel,attraction,shopping
+2997	9	SYSTEM	麻生駅ですね。	general,hotel,attraction,shopping
+2997	10	USER	さらに買い物ができるところを探して欲しいです。地区は南区、駐車場を無料で利用できるところで、最寄り駅が札幌駅のところが希望です。	general,hotel,attraction,shopping
+2997	11	SYSTEM	全ての条件を満たす施設はなさそうです。	general,hotel,attraction,shopping
+2997	12	USER	そうなんですね。では、駐車場の有無は考えないようにします。それだとどうでしょうか。	general,hotel,attraction,shopping
+2997	13	SYSTEM	南区で札幌駅周辺の観光名所といえば、定山渓物産館、こちら一択です。	general,hotel,attraction,shopping
+2997	14	USER	そのお店について、近辺の駅からの所要時間が知りたいです。	general,hotel,attraction,shopping
+2997	15	SYSTEM	札幌駅からバスで57分ですね。もはや最寄りというのかって感じですが。	general,hotel,attraction,shopping
+2997	16	USER	解決しました。ありがとうございました。	general,hotel,attraction,shopping

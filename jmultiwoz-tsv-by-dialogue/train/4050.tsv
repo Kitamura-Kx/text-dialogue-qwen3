@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4050	0	USER	大阪への旅行を計画しています。 観光名所を探してください。	general,attraction,taxi,weather
+4050	1	SYSTEM	かしこまりました。その条件ですと、51件ほどありますが、何かご希望はありますか？	general,attraction,taxi,weather
+4050	2	USER	地区は生野区、駐車場、Wi-Fiが無料で利用できるところにしてください．	general,attraction,taxi,weather
+4050	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction,taxi,weather
+4050	4	USER	そうですか。では、地区は考慮しないものとします。	general,attraction,taxi,weather
+4050	5	SYSTEM	かしこまりました。では、鶴見緑地湯元 水春がございます。	general,attraction,taxi,weather
+4050	6	USER	続いてタクシー会社を探してください。ジャンボタクシーを利用できて、キャッシュレス払いできるところにしてください。	general,attraction,taxi,weather
+4050	7	SYSTEM	かしこまりました。それでは株式会社フットはいかがでしょうか？	general,attraction,taxi,weather
+4050	8	USER	いいですね。電話番号を教えてください。	general,attraction,taxi,weather
+4050	9	SYSTEM	かしこまりました。電話番号は0665751700でございます。	general,attraction,taxi,weather
+4050	10	USER	"では予約してください。日付は7/25、時間は13:00、出発地は鶴見緑地湯元 水春、目的地はTHE FLAVOR DESIGN® FLAGSHIP STORE ""OSAKA""というところが希望です。"	general,attraction,taxi,weather
+4050	11	SYSTEM	申し訳ありません。その条件では予約が出来ませんでした。	general,attraction,taxi,weather
+4050	12	USER	それでは時間を13:30に変更します。	general,attraction,taxi,weather
+4050	13	SYSTEM	お待たせ致しました。予約番号33726でお取りさせていただきました。	general,attraction,taxi,weather
+4050	14	USER	あと、天気を調べてください。日付は7/25、地区は住之江区です。	general,attraction,taxi,weather
+4050	15	SYSTEM	当日の天気は曇時々晴の予報でございます。	general,attraction,taxi,weather
+4050	16	USER	解決しました。ありがとうございました。	general,attraction,taxi,weather

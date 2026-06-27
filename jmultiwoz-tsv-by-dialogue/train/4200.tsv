@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4200	0	USER	福岡での飲食店を探しています。城南区で駐車場を無料で使えるお店はありませんか？	general,restaurant
+4200	1	SYSTEM	ありがとうございます。その条件ですと、まいどおおきに食堂城南堤食堂はいかがでしょうか？	general,restaurant
+4200	2	USER	そちらの営業時間はわかりますか？	general,restaurant
+4200	3	SYSTEM	はい、営業時間は11時から23時でございます。	general,restaurant
+4200	4	USER	最寄り駅は何駅でしょう？	general,restaurant
+4200	5	SYSTEM	はい、最寄り駅は福大前駅でございます。	general,restaurant
+4200	6	USER	では、６月１７日の１３時５０分で、４人で予約をお願いします。	general,restaurant
+4200	7	SYSTEM	お待たせ致しました。予約番号76425でお取りさせていただきました。	general,restaurant
+4200	8	USER	ありがとうございました。	general,restaurant

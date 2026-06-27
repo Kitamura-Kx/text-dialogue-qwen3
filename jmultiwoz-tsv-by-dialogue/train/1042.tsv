@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1042	0	USER	こんにちは、大阪で無料Wi-Fiが利用できる飲食店を探しているんですが、ありますか？	general,restaurant,weather
+1042	1	SYSTEM	ご利用ありがとうございます。そうしますと、15件ほど候補がございまして、例えばバルバッコア 心斎橋店は、いかがでしょうか？	general,restaurant,weather
+1042	2	USER	はい、そこに行ってみます。それから、6月25日の阿倍野区辺りの最高気温を教えてください。	general,restaurant,weather
+1042	3	SYSTEM	かしこまりました。当日の最高気温は32.2度まで上がる見込みです。なお天気は、曇の予報となっております。	general,restaurant,weather
+1042	4	USER	ありがとうございます。知りたい事は分かりました。助かりました。	general,restaurant,weather
+1042	5	SYSTEM	こちらこそ、ご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,restaurant,weather

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1429	0	USER	大阪で、安めの飲食店を見つけて欲しいです。	general,restaurant
+1429	1	SYSTEM	かしこまりました。では、浅野焼鳥日本酒店HOMMACHIはいかがですか。	general,restaurant
+1429	2	USER	そちらのお店のエリアと、ジャンルは何でしょうか。	general,restaurant
+1429	3	SYSTEM	エリアは中央区で、ジャンルは居酒屋でございます。	general,restaurant
+1429	4	USER	わかりました。営業時間についても、教えてもらえますか？	general,restaurant
+1429	5	SYSTEM	営業時間は11:30～13:00, 17:00～22:00でございます。	general,restaurant
+1429	6	USER	今日調べたかったことは以上です。ありがとうございました。	general,restaurant
+1429	7	SYSTEM	承知しました。ありがとうございました。	general,restaurant

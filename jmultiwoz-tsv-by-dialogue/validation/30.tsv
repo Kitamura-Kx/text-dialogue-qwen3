@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+30	0	USER	福岡の観光名所を探しているんですけど、タブレットも使いたいのでWifi無料の所が良いんですがありますか？	general,attraction
+30	1	SYSTEM	こんにちは、お問い合わせありがとうございます。福岡で無料wifiがご利用いただける観光名所は、18件ほどございますが、他にもご希望の条件などはありますでしょうか？	general,attraction
+30	2	USER	特にないので、有名どころでいくつか教えてもらえますか？	general,attraction
+30	3	SYSTEM	かしこまりました。では、福岡の東区にある海の中道海浜公園 動物の森は、いかがでしょうか？ほかには、福岡タワーなどもございますよ。	general,attraction
+30	4	USER	福岡タワーって興味ありますね。営業時間を教えてもらっていいですか？	general,attraction
+30	5	SYSTEM	はい。福岡タワーの営業時間は、9:30～22:00です。	general,attraction
+30	6	USER	わかりました。ありがとうございました。	general,attraction
+30	7	SYSTEM	こちらこそ、ありがとうございます。ご不明な点や、他にもお調べすることなどありましたら、お申し付けくださいませ。	general,attraction
+30	8	USER	ありがとうございます。もしもなにかあったらお願いしますね。	general,attraction

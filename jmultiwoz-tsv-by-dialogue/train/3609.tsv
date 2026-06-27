@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3609	0	USER	京都の中京区で駐車場が無料の飲食店を探してほしいです。予算は高めが良いです。	general,restaurant,weather
+3609	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,weather
+3609	2	USER	では予算はこだわらないです。	general,restaurant,weather
+3609	3	SYSTEM	では牛々亭がございます。	general,restaurant,weather
+3609	4	USER	Wi-Fiはありますか？	general,restaurant,weather
+3609	5	SYSTEM	Wi-Fiの有無は不明でございます。	general,restaurant,weather
+3609	6	USER	わかりました。9/23の13：00に2人でこのお店を予約したいです。	general,restaurant,weather
+3609	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は34985でございます。	general,restaurant,weather
+3609	8	USER	ありがとうございます。最後に9/23の伏見区の気温を教えてください。	general,restaurant,weather
+3609	9	SYSTEM	最低気温は17.5度で、最高気温が25.4度となっております。	general,restaurant,weather
+3609	10	USER	ありがとうございました。	general,restaurant,weather
+3609	11	SYSTEM	本日はありがとうございました。	general,restaurant,weather

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1223	0	USER	横浜への旅行を計画しています．	general,hotel,weather
+1223	1	SYSTEM	はい。お問合せありがとうございます。	general,hotel,weather
+1223	2	USER	当日泊まる宿泊施設を探してください．宿のタイプはリゾートホテルで予算は高め、レストランが併設されているところがいいです。	general,hotel,weather
+1223	3	SYSTEM	インターコンチネンタル横浜Pier8はいかがでしょう。	general,hotel,weather
+1223	4	USER	いいですね。そちらのエリア，電話番号，近辺の駅からの所要時間を教えてください。	general,hotel,weather
+1223	5	SYSTEM	エリアは中区で電話番号は0453071111、近辺の駅からの所要時間は馬車道駅から徒歩で10分 みなとみらい駅から徒歩で12分 桜木町駅からタクシーで7分 桜木町駅から徒歩で15分 横浜駅からタクシーで15分になります。	general,hotel,weather
+1223	6	USER	ありがとうございます。あと、7/8の磯子区の天気も教えてください。	general,hotel,weather
+1223	7	SYSTEM	天気は曇です。	general,hotel,weather
+1223	8	USER	ありがとうございます。あと最低気温も教えてください。	general,hotel,weather
+1223	9	SYSTEM	最低気温は23.3度になります。	general,hotel,weather
+1223	10	USER	ありがとうございます。	general,hotel,weather

@@ -1,0 +1,30 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3882	0	USER	大坂への観光旅行を計画しています。難波駅で駐車場が無料で利用できる場所はありますか？	general,attraction,hotel,taxi
+3882	1	SYSTEM	ご利用ありがとうございます。お探しの場所は、観光名所でよろしいでしょうか？それとも宿泊施設や飲食店、お買物施設などでしょうか？	general,attraction,hotel,taxi
+3882	2	USER	観光名所を探しています。	general,attraction,hotel,taxi
+3882	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,hotel,taxi
+3882	4	USER	でしたら、難波駅近くでなくてもいいです。	general,attraction,hotel,taxi
+3882	5	SYSTEM	ありがとうございます。では、大阪天満宮はいかがでしょうか？こちらは、最寄りが南森町駅となります。	general,attraction,hotel,taxi
+3882	6	USER	大坂天満宮の入場料はいくらですか？	general,attraction,hotel,taxi
+3882	7	SYSTEM	無料でございます。	general,attraction,hotel,taxi
+3882	8	USER	分かりました。そこに行こうと思います。	general,attraction,hotel,taxi
+3882	9	SYSTEM	ありがとうございます。他にお調べすることはございませんか？	general,attraction,hotel,taxi
+3882	10	USER	宿泊施設も探しています。宿のタイプは簡易宿所がいいです。	general,attraction,hotel,taxi
+3882	11	SYSTEM	かしこまりました。大阪の簡易宿泊所は、8件候補がございます。ほかにご希望の条件はございませんか？	general,attraction,hotel,taxi
+3882	12	USER	レストランが併設されていて、値段はいくら位になりますか？	general,attraction,hotel,taxi
+3882	13	SYSTEM	レストラン併設ですと、NEW JAPAN UMEDAというところがございます。こちらはお値段はお安めの簡易宿所となっております。	general,attraction,hotel,taxi
+3882	14	USER	そこの宿の値段はいくら位ですか？	general,attraction,hotel,taxi
+3882	15	SYSTEM	お安めということ以外で、詳しい料金情報につきましては、申し訳ありませんが手元にご案内出来る資料がございません。	general,attraction,hotel,taxi
+3882	16	USER	レストラン併設で宿の値段が分かる所はありますか？	general,attraction,hotel,taxi
+3882	17	SYSTEM	申し訳ありません。お値段帯でしたら、お安め、普通、お高めといった形でご希望をお聞きしてお調べできますが、いかがいたしましょうか？	general,attraction,hotel,taxi
+3882	18	USER	分かりました。先ほどの宿に行こうと思います。	general,attraction,hotel,taxi
+3882	19	SYSTEM	ありがとうございます。他にお手伝いすることはございませんか？	general,attraction,hotel,taxi
+3882	20	USER	当日は株式会社国際興業大阪というタクシーを利用したいのですが、電話番号は分かりますか？	general,attraction,hotel,taxi
+3882	21	SYSTEM	はい。株式会社国際興業大阪の電話番号は、0570035931でございます。	general,attraction,hotel,taxi
+3882	22	USER	1月２日の13時10分で予約したいです。出発地は先ほどの観光施設から目的地は先ほどの宿までです。	general,attraction,hotel,taxi
+3882	23	SYSTEM	ありがとうございます。大坂天満宮発、NEW JAPAN UMEDA着でご予約完了いたしました。予約番号は、17331です。	general,attraction,hotel,taxi
+3882	24	USER	ありがとうございました。	general,attraction,hotel,taxi
+3882	25	SYSTEM	他にお調べすることなど、ございませんか？	general,attraction,hotel,taxi
+3882	26	USER	いえ、これで大丈夫です。	general,attraction,hotel,taxi
+3882	27	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,hotel,taxi
+3882	28	USER		general,attraction,hotel,taxi

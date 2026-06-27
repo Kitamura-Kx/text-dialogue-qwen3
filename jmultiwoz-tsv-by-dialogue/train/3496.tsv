@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3496	0	USER	東京旅行に行くので飲食店をさがしています	general,restaurant,shopping,weather
+3496	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,shopping,weather
+3496	2	USER	洋食・西洋料理が食べられて、Wi-Fiと駐車場が無料のところがいいです。	general,restaurant,shopping,weather
+3496	3	SYSTEM	ではバルバッコア 六本木ヒルズ店はいかがでしょうか。	general,restaurant,shopping,weather
+3496	4	USER	値段帯と定休日を教えて貰えますか？	general,restaurant,shopping,weather
+3496	5	SYSTEM	値段帯は高めでございます。定休日は無しでございます。	general,restaurant,shopping,weather
+3496	6	USER	わかりました！予約をおねがいします	general,restaurant,shopping,weather
+3496	7	SYSTEM	かしこまりました。ご予約の詳細をお聞かせいただけますか。	general,restaurant,shopping,weather
+3496	8	USER	2名で9/12、11:00からお願いします	general,restaurant,shopping,weather
+3496	9	SYSTEM	予約が完了いたしました。予約番号は70882でございます。	general,restaurant,shopping,weather
+3496	10	USER	ありがとうございます。あと中央区の御茶ノ水駅で買い物をしたいのですが、駐車場を無料で利用できる場所はありますか？	general,restaurant,shopping,weather
+3496	11	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,shopping,weather
+3496	12	USER	では、最寄り駅は考慮しなくてOKです	general,restaurant,shopping,weather
+3496	13	SYSTEM	では日本橋高島屋S.C.がございます。	general,restaurant,shopping,weather
+3496	14	USER	わかりました。あと渋谷区の9/12の天気と最高気温を教えてください。	general,restaurant,shopping,weather
+3496	15	SYSTEM	天気は曇で、最高気温は28.2度でございます。	general,restaurant,shopping,weather
+3496	16	USER	わかりました	general,restaurant,shopping,weather
+3496	17	SYSTEM	ほかにご用件はございませんか。	general,restaurant,shopping,weather
+3496	18	USER	ないです。いろいろと詳しくありがとうございました	general,restaurant,shopping,weather
+3496	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,weather

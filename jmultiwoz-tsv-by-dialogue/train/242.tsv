@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+242	0	USER	横浜へ出かける予定で、観光名所を探しています。	general,attraction,taxi
+242	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,taxi
+242	2	USER	駐車場が無料で利用できるジャンルがキャンプのところがいいのですが、どこかありますか？	general,attraction,taxi
+242	3	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,attraction,taxi
+242	4	USER	ではキャンプでなくてもいいので、無料で駐車場が利用できる観光名所で、どこかいいところはありますか？	general,attraction,taxi
+242	5	SYSTEM	ではこども自然公園はいかがでしょうか。	general,attraction,taxi
+242	6	USER	ありがとうございます。あとキャッシュレス払い対応のタクシー会社も探してもらえますか？	general,attraction,taxi
+242	7	SYSTEM	国際自動車株式会社がございます。	general,attraction,taxi
+242	8	USER	そこはジャンボタクシー対応でしょうか？	general,attraction,taxi
+242	9	SYSTEM	はい。対応しております。	general,attraction,taxi
+242	10	USER	ではそこでお願いしたいと思います。2/14の9:30に海の公園からこども自然公園まで予約をお願いします。	general,attraction,taxi
+242	11	SYSTEM	はい。予約が完了いたしました。予約番号は79337でございます。	general,attraction,taxi
+242	12	USER	ありがとうございます。	general,attraction,taxi
+242	13	SYSTEM	ほかにご用件はございますか。	general,attraction,taxi
+242	14	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,taxi
+242	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi

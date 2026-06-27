@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1724	0	USER	名古屋へ旅行に行くんですが、飲食店を探して欲しいです！	general,restaurant
+1724	1	SYSTEM	希望条件などは、ありますか？	general,restaurant
+1724	2	USER	Wi-Fiが無料で、予算が普通のところでお願いします！	general,restaurant
+1724	3	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant
+1724	4	USER	ではWi-Fiはなくても大丈夫です！	general,restaurant
+1724	5	SYSTEM	では、魚!魚っ!いっちょらいはいかがでしょうか？	general,restaurant
+1724	6	USER	いいですね！近辺の駅からの所要時間を教えてください。	general,restaurant
+1724	7	SYSTEM	近辺の駅からの所要時間は、伏見駅から徒歩で2分になります。	general,restaurant
+1724	8	USER	ありがとうございます。予約もお願いできますか？11/1の11:40に2人でお願いします。	general,restaurant
+1724	9	SYSTEM	予約出来ました。予約番号は、1743です。	general,restaurant
+1724	10	USER	助かりました！ありがとうございます。	general,restaurant
+1724	11	SYSTEM	他にご用件はありますか？	general,restaurant
+1724	12	USER	いえ、これで大丈夫です。ありがとうございました。	general,restaurant
+1724	13	SYSTEM	承知致しました。　ありがとうございました。	general,restaurant

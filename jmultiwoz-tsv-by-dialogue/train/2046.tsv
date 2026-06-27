@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2046	0	USER	札幌への旅行を計画中なのですが、いくつかお願いします。まずは、白石区でWiFiが無料の宿泊施設を教えて下さい。予算は安めでお願いします。	general,hotel,restaurant
+2046	1	SYSTEM	かしこまりました。その条件でしたら、ホテルルートイン札幌白石はいかがでしょうか？	general,hotel,restaurant
+2046	2	USER	ホテルルートイン札幌白石の電話番号と住所も教えて下さい。	general,hotel,restaurant
+2046	3	SYSTEM	はい、電話番号は0118732727です。住所は北海道札幌市白石区北郷4条2丁目1-5でございます。	general,hotel,restaurant
+2046	4	USER	わかりました、当日利用する飲食店も探しているのですが、WiFiが無料で安めのお店はありますか？	general,hotel,restaurant
+2046	5	SYSTEM	その条件でしたら、一軒家ダイニング ~すしBAR~はいかがでしょうか？	general,hotel,restaurant
+2046	6	USER	一軒家ダイニング ~すしBAR~の電話番号を教えて下さい。	general,hotel,restaurant
+2046	7	SYSTEM	はい、電話番号は0112317878でございます。	general,hotel,restaurant
+2046	8	USER	助かりましたほかは大丈夫です、有難うございました。	general,hotel,restaurant
+2046	9	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,restaurant

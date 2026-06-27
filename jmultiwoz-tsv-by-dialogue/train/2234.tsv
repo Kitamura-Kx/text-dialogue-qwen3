@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2234	0	USER	那覇で食事したいんですけど、Wi-FI無料のお店を紹介してください。	general,restaurant
+2234	1	SYSTEM	那覇でWiFi無料の飲食店は１２件あります。追加の希望の条件はありますか？	general,restaurant
+2234	2	USER	あとは特にないのでいい所を教えてください。あとそのお店の電話番号と定休日も知りたいです。	general,restaurant
+2234	3	SYSTEM	では沖縄らしく、ステーキハウス88 国際通り店をオススメします。電話は0988663760、定休日はありません。	general,restaurant
+2234	4	USER	ステーキはいい感じですね。7月2日の11時50分で予約したいんですけど、えっと、2人で。	general,restaurant
+2234	5	SYSTEM	その条件だと予約に失敗してしまいました。	general,restaurant
+2234	6	USER	あちゃー、でもステーキ食べたいしなあ、えーい、1人で行っちゃおう。それならどうです？	general,restaurant
+2234	7	SYSTEM	１人なら予約できました。予約番号は42980です。	general,restaurant
+2234	8	USER	やった、ありがとうございました。お世話になりました。	general,restaurant

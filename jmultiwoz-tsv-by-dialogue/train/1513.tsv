@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1513	0	USER	こんにちは。東京へ旅行しようと思ってて、新宿で買い物ができるところを見つけてもらえませんか？駐車場が無料で使えるところがいいです。	general,shopping,taxi
+1513	1	SYSTEM	申し訳ありません。この条件ではご案内できません。いかが致しましょう？	general,shopping,taxi
+1513	2	USER	わかりました。じゃあ新宿区以外でも構いません。	general,shopping,taxi
+1513	3	SYSTEM	では、中央区にある、銀座伊東屋はいかがでしょう？ジャンルは文房具、雑貨になります。	general,shopping,taxi
+1513	4	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してます。キャッシュレス払いが可能なところでお願いします。	general,shopping,taxi
+1513	5	SYSTEM	では、キャピタルオートはいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0357552151となります。	general,shopping,taxi
+1513	6	USER	ありがとうございます。ではそのタクシー会社で予約をお願いします。6/1の14:40、出発地は銀座伊東屋、目的地はうなぎ割烹 大江戸でお願いします。	general,shopping,taxi
+1513	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、5992となります。他にご用件はございますか？	general,shopping,taxi
+1513	8	USER	ありがとうございます。いえ、大丈夫です。案内ありがとうございました。	general,shopping,taxi
+1513	9	SYSTEM	ありがとうございました。	general,shopping,taxi

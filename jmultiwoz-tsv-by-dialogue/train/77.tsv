@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+77	0	USER	ちょっといいですかね。福岡旅行の相談で。	general,restaurant,attraction
+77	1	SYSTEM	福岡ですね。どのような情報をお知りになりたいですか。	general,restaurant,attraction
+77	2	USER	食事ができるお店を探してましてね、無料駐車場と無料WiFiがあって、お値段は普通な感じのところはありますか？	general,restaurant,attraction
+77	3	SYSTEM	はい。その条件でしたら、レカイエ オイスターバー JR博多シティ店はいかがでしょうか。	general,restaurant,attraction
+77	4	USER	そのお店の住所を詳しく教えていただけますか？	general,restaurant,attraction
+77	5	SYSTEM	住所は福岡県福岡市博多区博多駅中央街1-1 JR博多シティ 10Fでございます。	general,restaurant,attraction
+77	6	USER	ではそこで予約を入れてください。日付は10月16日、時間は12時50分、2名で予約取れますかね？	general,restaurant,attraction
+77	7	SYSTEM	はい。予約が完了いたしました。予約番号は47683でございます。	general,restaurant,attraction
+77	8	USER	ありがとうございます。ほかにあと、観光できるところも探してほしいんですが、構いませんか？	general,restaurant,attraction
+77	9	SYSTEM	はい。どのようなところをお探しでしょうか。	general,restaurant,attraction
+77	10	USER	早良区のあたりにあるところで、駐車場は無料のがあるところでお願いします。	general,restaurant,attraction
+77	11	SYSTEM	では福岡市博物館はいかがでしょうか。	general,restaurant,attraction
+77	12	USER	そこは近くの駅からだと、どのぐらいの距離なんですか？	general,restaurant,attraction
+77	13	SYSTEM	西新駅からは徒歩で15分、藤崎駅からはバスで10分、博多駅からはバスで25分、天神駅からはバスで20分となっております。	general,restaurant,attraction
+77	14	USER	詳しくありがとうございます。それで、定休日はいつなんでしょう？	general,restaurant,attraction
+77	15	SYSTEM	定休日は月と年末年始でございます。	general,restaurant,attraction
+77	16	USER	すみません、月とは？ちょっとよく分からなかったので、もう一度お願いできますか？	general,restaurant,attraction
+77	17	SYSTEM	申し訳ございません。月曜日が定休日でございます。	general,restaurant,attraction
+77	18	USER	ああ、月曜日と年末年始が休みなんですね。つかぬことを伺いますが、そこはジャンル的には何になるんですかね？	general,restaurant,attraction
+77	19	SYSTEM	ジャンルは科学館, 美術館・博物館でございます。	general,restaurant,attraction
+77	20	USER	ですよね。名前がそうですもんね。いや、失礼しました。	general,restaurant,attraction
+77	21	SYSTEM	ほかにご用件はございますか。	general,restaurant,attraction
+77	22	USER	特にもうないです。ありがとうございました。	general,restaurant,attraction
+77	23	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2930	0	USER	那覇へ行くのですが、観光名所を探しています。	general,attraction,taxi,weather
+2930	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,attraction,taxi,weather
+2930	2	USER	Wi-Fiが無料で、橋がいいんですが	general,attraction,taxi,weather
+2930	3	SYSTEM	那覇でWiFi無料のジャンル橋にあたる観光スポットは見つかりませんでした。	general,attraction,taxi,weather
+2930	4	USER	庭園だとどうですか？	general,attraction,taxi,weather
+2930	5	SYSTEM	那覇でWiFi無料の庭園は２つヒットしましたが、識名園をオススメします。	general,attraction,taxi,weather
+2930	6	USER	エリアはどこになりますか？近辺の駅からの所要時間も知りたいです。	general,attraction,taxi,weather
+2930	7	SYSTEM	エリアは真和志になります。首里駅からタクシーで15分になりますね。	general,attraction,taxi,weather
+2930	8	USER	あとキャッシュレス払いできるタクシーも探しています。	general,attraction,taxi,weather
+2930	9	SYSTEM	はい、キャッシュレス対応しているタクシーならば、那覇第一交通をお勧めします。	general,attraction,taxi,weather
+2930	10	USER	ジャンボタクシーの対応はありますか？	general,attraction,taxi,weather
+2930	11	SYSTEM	はい、ジャンボタクシーも対応しています。	general,attraction,taxi,weather
+2930	12	USER	電話番号は何番になりますか？	general,attraction,taxi,weather
+2930	13	SYSTEM	0988537801になります。	general,attraction,taxi,weather
+2930	14	USER	では6/22、11:50に識名園から鍵石 牧志店まで予約をお願いしたいです	general,attraction,taxi,weather
+2930	15	SYSTEM	予約成功しました。予約番号は94484です。	general,attraction,taxi,weather
+2930	16	USER	6/22ですが、首里の最高気温はどのくらいになりますか？	general,attraction,taxi,weather
+2930	17	SYSTEM	30.1度になります。	general,attraction,taxi,weather
+2930	18	USER	色々ありがとうございました。	general,attraction,taxi,weather
+2930	19	SYSTEM	よい旅を。	general,attraction,taxi,weather

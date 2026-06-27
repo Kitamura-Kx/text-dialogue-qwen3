@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3966	0	USER	那覇への旅行を計画していて、当日のタクシー会社探をしています。ジャンボタクシーが利用できるところ、キャッシュレス払い対応があるところが希望です。	general,taxi,weather
+3966	1	SYSTEM	かしこまりました。それでは沖縄第一交通株式会社はいかがでしょうか？	general,taxi,weather
+3966	2	USER	沖縄第一交通株式会社の電話番号は分かりますか？	general,taxi,weather
+3966	3	SYSTEM	はい、電話番号は0120780124でございます。	general,taxi,weather
+3966	4	USER	ありがとうございます。では予約をお願いしたいのですが、9/17の12：40から、トイザらス・ベビーザらス 那覇新都心店からポルコロッソまで予約をお願い出来ますか？	general,taxi,weather
+3966	5	SYSTEM	お待たせ致しました。予約番号67350でお取りさせていただきました。	general,taxi,weather
+3966	6	USER	ありがとうございます。当日の天気も知りたいです。9/17の首里地区の最高気温は分かりますか？	general,taxi,weather
+3966	7	SYSTEM	はい、当日の最高気温は30度の予報でございます。	general,taxi,weather
+3966	8	USER	ありがとうございました。	general,taxi,weather
+3966	9	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi,weather

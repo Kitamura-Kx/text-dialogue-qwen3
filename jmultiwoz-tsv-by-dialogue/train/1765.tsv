@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1765	0	USER	仙台への旅行を計画しています。当日宿泊できる施設を探しているのですが、お伺いしてもよろしいですか？	general,hotel
+1765	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel
+1765	2	USER	そうですね。Wi-Fiが無料で利用できる施設はありますか？	general,hotel
+1765	3	SYSTEM	申し訳ありません。その条件ではご案内できません。いかが致しましょう？	general,hotel
+1765	4	USER	そうですか。でしたら、有料でも構いませんので、Wi-Fiが利用出来る施設はありませんか？	general,hotel
+1765	5	SYSTEM	エリアでいうと太白区に、コーラスホテル仙台富沢がございます。タイプはビジネスホテルとなります。	general,hotel
+1765	6	USER	そちらで検討してみたいです。この施設のチェックイン開始時刻はわかりますか？	general,hotel
+1765	7	SYSTEM	チェックイン開始時刻は１５時となります。	general,hotel
+1765	8	USER	ありがとうございます。検討してみます。ご案内、ありがとうございました。	general,hotel
+1765	9	SYSTEM	他にご用件はございますか？	general,hotel
+1765	10	USER	大丈夫です。ありがとうございます。	general,hotel
+1765	11	SYSTEM	ありがとうございました。	general,hotel

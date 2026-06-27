@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4136	0	USER	名古屋へ旅行に行きたいです。国際センター駅周辺で飲食店を探しています。予算は高めが希望です。	general,restaurant,attraction
+4136	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,restaurant,attraction
+4136	2	USER	でしたら、国際センター駅周辺でなくてもいいです。	general,restaurant,attraction
+4136	3	SYSTEM	では、スペイン料理 ダリはいかがでしょうか？	general,restaurant,attraction
+4136	4	USER	そのお店の定休日と電話番号が知りたいです。	general,restaurant,attraction
+4136	5	SYSTEM	定休日は、水曜です。　電話番号は、0527747518です。	general,restaurant,attraction
+4136	6	USER	ジャンルは何になりますか？	general,restaurant,attraction
+4136	7	SYSTEM	ジャンルとしては、洋食・西洋料理, 寿司・魚料理となっています。	general,restaurant,attraction
+4136	8	USER	ありがとうございます。	general,restaurant,attraction
+4136	9	SYSTEM	他にご用件はありますか？	general,restaurant,attraction
+4136	10	USER	大高緑地という所に行きたいのですが、駐車場はありますか？	general,restaurant,attraction
+4136	11	SYSTEM	はい、無料駐車場があります。	general,restaurant,attraction
+4136	12	USER	ありがとうございます。これで大丈夫です。	general,restaurant,attraction
+4136	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction
+4136	14	USER		general,restaurant,attraction

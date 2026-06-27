@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1719	0	USER	大阪への旅行を考えています。当日訪れる観光名所で大阪四季劇場というところを探しています。	general,attraction,taxi
+1719	1	SYSTEM	かしこまりました。大阪四季劇場について何かお知りになりたい情報はございますか。	general,attraction,taxi
+1719	2	USER	そこの営業時間と料金情報を教えてください。	general,attraction,taxi
+1719	3	SYSTEM	営業時間は公演により異なるとのことでございます。料金情報につきましても公演により異なるとのことでございます。	general,attraction,taxi
+1719	4	USER	あと当日キャッシュレス払いができるタクシー会社を探しています。	general,attraction,taxi
+1719	5	SYSTEM	かしこまりました。では株式会社国際興業大阪はいかがでしょうか。	general,attraction,taxi
+1719	6	USER	そこはジャンボタクシーに対応してますでしょうか？あとそこの電話番号も教えてください。	general,attraction,taxi
+1719	7	SYSTEM	ジャンボタクシーは対応しております。電話番号は0570035931でございます。	general,attraction,taxi
+1719	8	USER	では、そこで予約をしたいので日付は9/16で時間は15:00で出発地はオペレッタ52 福島店で目的地は大阪四季劇場で予約をお願いします。	general,attraction,taxi
+1719	9	SYSTEM	予約が完了いたしました。予約番号は4873でございます。	general,attraction,taxi
+1719	10	USER	分かりました。ありがとうございます。	general,attraction,taxi
+1719	11	SYSTEM	ほかにご用件はございますか。	general,attraction,taxi
+1719	12	USER	大丈夫です。ありがとうございました。	general,attraction,taxi
+1719	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3373	0	USER	東京へ行くので、ジャンボタクシーをキャッシュレスでできるところおしえてください。	general,taxi,weather
+3373	1	SYSTEM	かしこまりました。両方のご対応が出来ますのは、三和交通（板橋区）を含む１３件です。いかがでしょうか？	general,taxi,weather
+3373	2	USER	電話番号おしえてください。	general,taxi,weather
+3373	3	SYSTEM	0357552151でございます。	general,taxi,weather
+3373	4	USER	予約お願いします。8月19日の14時で恵比寿らぁ麺屋 つなぎ(繋) 中野店からCIBONEです。	general,taxi,weather
+3373	5	SYSTEM	ご予約が完了しました。予約番号は、42475でございます。	general,taxi,weather
+3373	6	USER	当日の江戸川区の天気と最低気温知りたいです。	general,taxi,weather
+3373	7	SYSTEM	8月１９日のお天気は晴時々曇、最低気温は28.8度です。	general,taxi,weather
+3373	8	USER	ありがとうございました。	general,taxi,weather
+3373	9	SYSTEM	ありがとうございました。	general,taxi,weather

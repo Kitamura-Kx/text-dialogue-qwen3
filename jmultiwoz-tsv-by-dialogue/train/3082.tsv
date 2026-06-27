@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3082	0	USER	横浜へ行くのですが、都筑区で駐車場が無料な買い物できる所を探しています。	general,shopping,attraction
+3082	1	SYSTEM	都筑区で駐車場が無料な買い物スポットといえば、ららぽーと横浜、こちらをお勧めします。	general,shopping,attraction
+3082	2	USER	そこは、どんなジャンルのお店ですか？	general,shopping,attraction
+3082	3	SYSTEM	ショッピングモールになります。	general,shopping,attraction
+3082	4	USER	ありがとうございます。さらに、駐車場無料、Wi-Fi無料で観光名所ありますか？根岸駅周辺がいいです。	general,shopping,attraction
+3082	5	SYSTEM	根岸駅で駐車場無料、Wi-Fi無料な観光名所とえいば、三溪園になります。	general,shopping,attraction
+3082	6	USER	料金情報教えて下さい。	general,shopping,attraction
+3082	7	SYSTEM	大人７００円、小中学生２００円、横浜在住６５歳以上なら２００円、また、１０名以上なら団体割引で１人マイナス１００円になります。	general,shopping,attraction
+3082	8	USER	行ってみます。では、失礼します。	general,shopping,attraction
+3082	9	SYSTEM	よい旅を	general,shopping,attraction

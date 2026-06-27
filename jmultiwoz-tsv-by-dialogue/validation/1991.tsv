@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1991	0	USER	東京への旅行を計画しています．	general,shopping
+1991	1	SYSTEM	はい。お問合せありがとうございます。	general,shopping
+1991	2	USER	当日買い物ができるところを探してください．駐車場を無料で利用で地区は板橋区がいいです。	general,shopping
+1991	3	SYSTEM	イオン板橋ショッピングセンターはいかがでしょうか。	general,shopping
+1991	4	USER	そちらの営業時間をおしえていただけますか。	general,shopping
+1991	5	SYSTEM	営業時間は09:00～22:00になります。	general,shopping
+1991	6	USER	ありがとうございます。	general,shopping
+1991	7	SYSTEM	いえいえ。ありがとうございました	general,shopping
+1991	8	USER		general,shopping

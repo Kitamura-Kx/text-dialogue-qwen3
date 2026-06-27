@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4155	0	USER	すみません、仙台の味の牛たん喜助 定禅寺店について知りたいんですけど情報はありますか？	general,restaurant,hotel
+4155	1	SYSTEM	エリアでいうと青葉区にあり、ジャンルは、郷土料理、和食となります。他に何をご案内致しましょう？	general,restaurant,hotel
+4155	2	USER	そうですね、住所はわかりますか？	general,restaurant,hotel
+4155	3	SYSTEM	住所は、宮城県仙台市青葉区一番町4丁目10-14 定禅寺ビル B1Fとなります。	general,restaurant,hotel
+4155	4	USER	では、予約もしたいです。6月16日12時40分に4人お願いします。	general,restaurant,hotel
+4155	5	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,restaurant,hotel
+4155	6	USER	3人でも無理ですか？	general,restaurant,hotel
+4155	7	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、189となります。	general,restaurant,hotel
+4155	8	USER	泊れる施設も探しています。太白区で予算が高めの、レストランが併設されている宿泊施設を教えてください。	general,restaurant,hotel
+4155	9	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,hotel
+4155	10	USER	うーん、残念ですが、レストランはなくてもいいです。他の条件は同じでお願いします。	general,restaurant,hotel
+4155	11	SYSTEM	では、たびの邸宅 秋保山荘はいかがでしょう？タイプはその他となります。	general,restaurant,hotel
+4155	12	USER	そこにします。チェックアウト終了時刻はわかりますか？	general,restaurant,hotel
+4155	13	SYSTEM	チェックアウト終了時刻は11時となります。	general,restaurant,hotel
+4155	14	USER	では、予約をお願いします。6月16日に2人で2泊です。	general,restaurant,hotel
+4155	15	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,restaurant,hotel
+4155	16	USER	1人に変更しても無理ですか？	general,restaurant,hotel
+4155	17	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、10670となります。	general,restaurant,hotel
+4155	18	USER	ご対応ありがとうございます！	general,restaurant,hotel

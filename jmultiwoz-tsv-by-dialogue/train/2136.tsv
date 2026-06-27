@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2136	0	USER	こんにちは、札幌に旅行したいと考えているのですが、文房具や雑貨が買えるところがあれば教えて欲しいです。	general,shopping,taxi,weather
+2136	1	SYSTEM	かしこまりました。では、コーチャンフォーミュンヘン大橋店はいかがでしょうか？	general,shopping,taxi,weather
+2136	2	USER	ご紹介下さりありがとうございます。旅行中タクシーに乗りたいのですが、キャッシュレス払いができる会社はありますか？	general,shopping,taxi,weather
+2136	3	SYSTEM	かしこまりました。では、暁交通(株)はいかがでしょうか？ジャンボタクシーも利用可能です。	general,shopping,taxi,weather
+2136	4	USER	ありがとうございます。ちなみにこちらの会社の電話番号ってわかりますか？	general,shopping,taxi,weather
+2136	5	SYSTEM	はい。電話番号は0117712632でございます。	general,shopping,taxi,weather
+2136	6	USER	わかりました。では暁交通(株)で予約をお願いできますか？	general,shopping,taxi,weather
+2136	7	SYSTEM	かしこまりました。出発時刻と、出発地と目的地はお決まりでしょうか？	general,shopping,taxi,weather
+2136	8	USER	10月22日14時50分一軒家ダイニング ~すしBAR~を出発してコーチャンフォーミュンヘン大橋店まで乗車します。	general,shopping,taxi,weather
+2136	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、239です。	general,shopping,taxi,weather
+2136	10	USER	手配ありがとうございます。ちなみになのですが、10月22日の東区の最高気温と最低気温はわかりますか？	general,shopping,taxi,weather
+2136	11	SYSTEM	かしこまりました。10/22の東区の最低気温は13.1度、最高気温は18.3度になる予報です。	general,shopping,taxi,weather
+2136	12	USER	なるほど！本日は何から何までご対応ありがとうございました。	general,shopping,taxi,weather

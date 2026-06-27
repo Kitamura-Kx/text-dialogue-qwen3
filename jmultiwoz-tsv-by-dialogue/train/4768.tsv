@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4768	0	USER	名古屋への旅行を計画していて、当日買い物が出来るところを探しています。中区で駐車場無料のところがいいです。	general,shopping,weather,taxi
+4768	1	SYSTEM	承知しました。RAYARD Hisaya-odori Parkはいかがでしょうか？	general,shopping,weather,taxi
+4768	2	USER	ありがとうございます。そのお店にしようと思います。電話番号と近辺の駅からの所要時間は分かりますか？	general,shopping,weather,taxi
+4768	3	SYSTEM	電話番号は0522655575です。近辺の駅からの所要時間は久屋大通駅から徒歩で1分栄駅から徒歩で1分栄町駅から徒歩で1分です。	general,shopping,weather,taxi
+4768	4	USER	ありがとうございます。当日の天候も知りたいです。10/31の緑区の天気を教えてください。	general,shopping,weather,taxi
+4768	5	SYSTEM	名古屋の天気でよろしいでしょうか？	general,shopping,weather,taxi
+4768	6	USER	はい。10/31の名古屋の緑区の天気が知りたいです。	general,shopping,weather,taxi
+4768	7	SYSTEM	10/31の名古屋の緑区の天気は雨時々晴です。	general,shopping,weather,taxi
+4768	8	USER	ありがとうございます。旅行当日のタクシー会社も探しています。ジャンボタクシーが利用できるところ、キャッシュレス払い対応があるところが希望です。	general,shopping,weather,taxi
+4768	9	SYSTEM	承知しました。伸和交通はいかがでしょうか？	general,shopping,weather,taxi
+4768	10	USER	ありがとうございます。そのタクシー会社にしようと思います。そのタクシー会社の電話番号は分かりますか？	general,shopping,weather,taxi
+4768	11	SYSTEM	電話番号は0522031212です。	general,shopping,weather,taxi
+4768	12	USER	ありがとうございます。タクシーを予約したいのですが、10/31の10：50から、RAYARD Hisaya-odori Parkから焼き鳥 きんざん 住吉店まで予約をお願い出来ますか？	general,shopping,weather,taxi
+4768	13	SYSTEM	予約が完了しました。予約番号は40621です。	general,shopping,weather,taxi
+4768	14	USER	ありがとうございました。	general,shopping,weather,taxi
+4768	15	SYSTEM	他にご用件はありますか？	general,shopping,weather,taxi
+4768	16	USER	いえ、他にはありません。ありがとうございました。	general,shopping,weather,taxi
+4768	17	SYSTEM	ありがとうございました。又のご利用をお待ちしています	general,shopping,weather,taxi

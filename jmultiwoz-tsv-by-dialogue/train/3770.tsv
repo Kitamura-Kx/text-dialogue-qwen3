@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3770	0	USER	横浜への旅行考えているのですが、泊まれる場所を探してもらえますか？予算は普通がいいです。	general,hotel
+3770	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel
+3770	2	USER	では予算の希望を外して下さい。	general,hotel
+3770	3	SYSTEM	承知しました。他にご希望はございますか？	general,hotel
+3770	4	USER	いいえ、大丈夫です。	general,hotel
+3770	5	SYSTEM	では、エリアでいうと中区にある、ホテルニューグランドはいかがでしょう？タイプは、シティホテルとなります。	general,hotel
+3770	6	USER	ありがとうございます。そちらのホテルのチェックアウト終了時刻を教えてもらえますか？	general,hotel
+3770	7	SYSTEM	はい、チェックアウト終了時刻は１１時となります。	general,hotel
+3770	8	USER	ありがとうございました。	general,hotel
+3770	9	SYSTEM	ありがとうございました。	general,hotel

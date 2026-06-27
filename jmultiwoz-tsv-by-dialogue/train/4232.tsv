@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4232	0	USER	横浜へ行くのですが、港北区で宿泊施設を探しています。	general,hotel,restaurant,taxi
+4232	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,hotel,restaurant,taxi
+4232	2	USER	レストランが併設されていて安めのところがいいです。	general,hotel,restaurant,taxi
+4232	3	SYSTEM	では新横浜プリンスホテルはいかがでしょうか。	general,hotel,restaurant,taxi
+4232	4	USER	いいですね。あと飲食店も探しています。駐車場が無料のところがいいです。	general,hotel,restaurant,taxi
+4232	5	SYSTEM	ではうなぎ料理 しま村 青葉台店はいかがですか。	general,hotel,restaurant,taxi
+4232	6	USER	予算は普通を希望していますが、うなぎ料理 しま村 青葉台店はどうですか？	general,hotel,restaurant,taxi
+4232	7	SYSTEM	予算が普通であれば、Dining Bar KISAKUはいかがでしょうか。	general,hotel,restaurant,taxi
+4232	8	USER	そこがいいです。近辺の駅からの所要時間を教えてください。	general,hotel,restaurant,taxi
+4232	9	SYSTEM	矢向駅から徒歩で3分でございます。	general,hotel,restaurant,taxi
+4232	10	USER	10/10の13:30で2人なんですが、予約できますか？	general,hotel,restaurant,taxi
+4232	11	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,restaurant,taxi
+4232	12	USER	一人だとどうですか？	general,hotel,restaurant,taxi
+4232	13	SYSTEM	その人数ですと予約が可能でございました。予約番号は42361でございます。	general,hotel,restaurant,taxi
+4232	14	USER	あとキャッシュレス払い可能なジャンボタクシーを利用できるタクシー会社を探しています。	general,hotel,restaurant,taxi
+4232	15	SYSTEM	はい。ではスタジアム交通株式会社がございます。	general,hotel,restaurant,taxi
+4232	16	USER	電話番号を教えてください。	general,hotel,restaurant,taxi
+4232	17	SYSTEM	電話番号は0120776081でございます。	general,hotel,restaurant,taxi
+4232	18	USER	10/10の11:50に新横浜プリンスホテルからDining Bar KISAKUまで予約お願いします。	general,hotel,restaurant,taxi
+4232	19	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は17905でございます。	general,hotel,restaurant,taxi
+4232	20	USER	ありがとうございます、助かりました。	general,hotel,restaurant,taxi
+4232	21	SYSTEM	ほかにご用件はございませんか。	general,hotel,restaurant,taxi
+4232	22	USER	特にありません。	general,hotel,restaurant,taxi
+4232	23	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,taxi

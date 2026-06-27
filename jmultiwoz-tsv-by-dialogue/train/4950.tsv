@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4950	0	USER	こんにちは。福岡旅行中に買い物したいんですけど、博多区でいいお店はありますか？	general,shopping
+4950	1	SYSTEM	福岡アジア美術館 博多バスターミナル ヨドバシ博多などはいかがですか？	general,shopping
+4950	2	USER	福岡アジア美術館に行きたいですね。電話番号を教えていただけますか？	general,shopping
+4950	3	SYSTEM	0922631100です。	general,shopping
+4950	4	USER	わかりました。ありがとうございます。	general,shopping

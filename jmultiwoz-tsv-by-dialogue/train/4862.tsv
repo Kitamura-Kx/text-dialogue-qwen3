@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4862	0	USER	大阪に旅行に行く予定で、駐車場が無料で利用できておもちゃが買えるお店に行きたいと思っています。	general,shopping
+4862	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping
+4862	2	USER	それでは、有料の駐車場でもかまいません。	general,shopping
+4862	3	SYSTEM	ありがとうございます。では、エリアでいうと北区にある、ポケモンセンターオーサカはいかがでしょう？	general,shopping
+4862	4	USER	ありがとうございます。そのお店の電話番号を教えてください。	general,shopping
+4862	5	SYSTEM	はい、電話番号は、0663466002となります。	general,shopping
+4862	6	USER	ありがとうございます。これで大丈夫です。	general,shopping
+4862	7	SYSTEM	ありがとうございました。	general,shopping

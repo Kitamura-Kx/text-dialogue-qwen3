@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1498	0	USER	名古屋で、安めのカフェ・スイーツを探してるんですが。おすすめはありますか？	general,restaurant
+1498	1	SYSTEM	はい、ソロピッツァ ナポレターナ ダ ジェンナーロ 矢場店が、エリアでいうと中区にございます。	general,restaurant
+1498	2	USER	ちなみに駐車場はありますか？	general,restaurant
+1498	3	SYSTEM	申し訳ありません、駐車場の有無については不明です。	general,restaurant
+1498	4	USER	分かりました。ありがとうございます！	general,restaurant

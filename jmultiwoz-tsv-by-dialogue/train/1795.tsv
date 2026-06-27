@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1795	0	USER	仙台へ旅行に行こうと思っています。	general,restaurant
+1795	1	SYSTEM	仙台のご旅行ですね。本日はどのようなお手伝いをいたしましょうか？	general,restaurant
+1795	2	USER	当日和食が食べられる飲食店はありますか？駐車場は無料で利用できるとことがいいです。	general,restaurant
+1795	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant
+1795	4	USER	では和食以外でも大丈夫です。	general,restaurant
+1795	5	SYSTEM	そうしますと、回転鮨 清次郎 仙台泉店はいかがでしょうか？ジャンルは、寿司・魚料理となっております。	general,restaurant
+1795	6	USER	そのお店の電話番号と近くの駅からの所要時間を教えてください。あと、エリアはどこになりますか？	general,restaurant
+1795	7	SYSTEM	電話番号は、0227718427です。泉中央駅からタクシーで7分ほどかかります。エリアは泉区にございます。	general,restaurant
+1795	8	USER	そのお店に予約もお願いします。12/26の11:40に４人で。	general,restaurant
+1795	9	SYSTEM	ご予約ありがとうございます。予約完了いたしました。ご予約番号は29499です。	general,restaurant
+1795	10	USER	ありがとうございます。	general,restaurant
+1795	11	SYSTEM	他になにかお調べすることはございますか？	general,restaurant
+1795	12	USER	いえもう大丈夫です。	general,restaurant
+1795	13	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant

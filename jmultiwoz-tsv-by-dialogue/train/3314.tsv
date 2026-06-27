@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3314	0	USER	名古屋へ行く予定ですが、書籍が買える駐車場無料のお店ってないですか？	general,shopping,taxi
+3314	1	SYSTEM	名古屋で駐車場無料、書籍の買い物といえば、らくだ書店 本店、こちらがおすすめです。	general,shopping,taxi
+3314	2	USER	こちらのお店の最寄り駅はどこですか？	general,shopping,taxi
+3314	3	SYSTEM	吹上駅です	general,shopping,taxi
+3314	4	USER	わかりました。キャッスレスとジャンボタクシーに対応しているタクシー会社はないでしょうか？	general,shopping,taxi
+3314	5	SYSTEM	はい、宝タクシー第三をオススメします。	general,shopping,taxi
+3314	6	USER	電話番号を教えてください。	general,shopping,taxi
+3314	7	SYSTEM	0526826000になります。	general,shopping,taxi
+3314	8	USER	11月19日の10：30に予約を入れます。出発地はサンエース 原駅前店、目的地がらくだ書店 本店です。	general,shopping,taxi
+3314	9	SYSTEM	予約成功しました。予約番号は65885です。	general,shopping,taxi
+3314	10	USER	ありがとうございました。	general,shopping,taxi
+3314	11	SYSTEM	よい旅を	general,shopping,taxi

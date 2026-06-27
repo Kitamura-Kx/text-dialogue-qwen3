@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3076	0	USER	札幌に行くのですが、北区で買い物ができる場所はありますか？	general,shopping,hotel
+3076	1	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,shopping,hotel
+3076	2	USER	では地区はこだわりません。	general,shopping,hotel
+3076	3	SYSTEM	かしこまりました。では、玉翠園はいかがでしょうか？	general,shopping,hotel
+3076	4	USER	いいですね。そこの住所はわかりますか？	general,shopping,hotel
+3076	5	SYSTEM	はい。住所は北海道札幌市中央区南1条東1丁目1です。	general,shopping,hotel
+3076	6	USER	ありがとうございます。あと、南区で、予算が普通な、宿泊施設はありますか？	general,shopping,hotel
+3076	7	SYSTEM	かしこまりました。では、定山渓第一寶亭留 翠山亭はいかがでしょうか？	general,shopping,hotel
+3076	8	USER	いいですね。そこはWi-Fiはありますか？	general,shopping,hotel
+3076	9	SYSTEM	はい、無料でご使用できます。	general,shopping,hotel
+3076	10	USER	ありがとうございます。	general,shopping,hotel
+3076	11	SYSTEM	いえいえ。ご利用ありがとうございました。	general,shopping,hotel

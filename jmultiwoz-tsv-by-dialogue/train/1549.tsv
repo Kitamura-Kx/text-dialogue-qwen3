@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1549	0	USER	東京の千代田区で買い物ができるところを探しいます。中野駅が最寄りだと嬉しいのですが。	general,shopping
+1549	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping
+1549	2	USER	そうですか。では、最寄り駅は問わないので、千代田区で駐車場が無料で使えるところを探してもらえますか？	general,shopping
+1549	3	SYSTEM	それでしたら、KITTE丸の内はいかがでしょうか？	general,shopping
+1549	4	USER	そちらはどういったジャンルのお店になりますか？	general,shopping
+1549	5	SYSTEM	こちらのお店のジャンルとしましては、ショッピングモールとなっています。	general,shopping
+1549	6	USER	なるほど。では、そちらの電話番号を教えてもらえますか？	general,shopping
+1549	7	SYSTEM	電話番号は、0332162811です。	general,shopping
+1549	8	USER	助かりました。ありがとう。	general,shopping

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3810	0	USER	東京へ旅行に行くので、買い物ができるところを探しています。荒川区で駐車場無料のお店を教えてください。	general,shopping,taxi
+3810	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,shopping,taxi
+3810	2	USER	じゃあ、地区はどこでもいいです。	general,shopping,taxi
+3810	3	SYSTEM	かしこまりました。それではポケモンセンターメガトウキョーはいかがでしょうか？	general,shopping,taxi
+3810	4	USER	そこにします。電話番号を教えてください。	general,shopping,taxi
+3810	5	SYSTEM	電話番号は0359279290でございます。	general,shopping,taxi
+3810	6	USER	あと、キャッシュレスに対応しているタクシー会社はありませんか？	general,shopping,taxi
+3810	7	SYSTEM	かしこまりました。それではグリーンキャブはいかがでしょうか？	general,shopping,taxi
+3810	8	USER	では予約したいのですが、8月6日の13:30に、ハートンホテル東品川からポケモンセンターメガトウキョーまで、お願いします。	general,shopping,taxi
+3810	9	SYSTEM	お待たせ致しました。予約番号27537でお取りさせていただきました。	general,shopping,taxi
+3810	10	USER	ありがとうございました。	general,shopping,taxi
+3810	11	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,taxi

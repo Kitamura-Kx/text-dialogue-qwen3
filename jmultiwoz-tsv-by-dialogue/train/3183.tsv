@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3183	0	USER	横浜への旅行を計画していて、当日の宿泊施設を探しています。最寄り駅が馬車道駅のリゾートホテルで、予算は安めが希望です。	general,hotel,shopping
+3183	1	SYSTEM	かしこまりました。では、ナビオス横浜はいかがでしょうか？	general,hotel,shopping
+3183	2	USER	ありがとうございます。ナビオス横浜のエリアはどの辺りになりますか？	general,hotel,shopping
+3183	3	SYSTEM	はい。エリアは中区です。	general,hotel,shopping
+3183	4	USER	ありがとうございます。当日、キタムラ元町本店で買い物をする予定です。営業時間は分かりますか？	general,hotel,shopping
+3183	5	SYSTEM	はい。営業時間は10:00～19:00です。	general,hotel,shopping
+3183	6	USER	ありがとうございました。	general,hotel,shopping
+3183	7	SYSTEM	こちらこそありがとうございました。	general,hotel,shopping

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2817	0	USER	札幌への旅行を計画しています。当日タクシーを利用したく、ジャンボタクシーが利用できてキャッシュレス払いが可能なところで探してほしいです。	general,taxi
+2817	1	SYSTEM	かしこまりました。では、ダイコク交通(株)はいかがでしょうか？	general,taxi
+2817	2	USER	そちらの電話番号を教えてほしいです。	general,taxi
+2817	3	SYSTEM	はい。電話番号は、0117416000でございます。	general,taxi
+2817	4	USER	ありがとうございます。それでは予約をお願いします。日時は9/15、14:40で出発地はラウンドワンスタジアム札幌北21条店から定山渓温泉 ぬくもりの宿 ふる川まででお願いします。	general,taxi
+2817	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、40833です。	general,taxi
+2817	6	USER	承知致しました。こちらからは以上です。	general,taxi
+2817	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

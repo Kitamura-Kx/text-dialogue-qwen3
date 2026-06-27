@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1153	0	USER	こんにちは！ちょっと横浜旅行を計画しているので、案内お願いしたいんですけど。	general,hotel,restaurant,shopping
+1153	1	SYSTEM	かしこまりました。お知りになりたい情報はございますか。	general,hotel,restaurant,shopping
+1153	2	USER	えっと、宿泊できるところを探してまして。地区は港北区で、WiFiが無料で使えるところが良いです。	general,hotel,restaurant,shopping
+1153	3	SYSTEM	では新横浜プリンスホテルはいかがでしょうか。	general,hotel,restaurant,shopping
+1153	4	USER	ありがとうございます！そこって、チェックイン開始時刻は、何時ですか？	general,hotel,restaurant,shopping
+1153	5	SYSTEM	チェックイン開始時刻は15:00でございます。	general,hotel,restaurant,shopping
+1153	6	USER	そうなんですね。わかりました！あと、他に、焼肉やホルモンが食べられる店も探してまして。こちらも、WiFiが無料で使えるところが良いです。	general,hotel,restaurant,shopping
+1153	7	SYSTEM	ではウラ横 焼肉センターはいかがでしょうか。	general,hotel,restaurant,shopping
+1153	8	USER	そこって、どこのエリアになりますか？	general,hotel,restaurant,shopping
+1153	9	SYSTEM	エリアは西区でございます。	general,hotel,restaurant,shopping
+1153	10	USER	そうなんですね！ありがとうございます。あと、買い物できるところで、南区にある商店街も探しているんですが、お願いできますか？	general,hotel,restaurant,shopping
+1153	11	SYSTEM	かしこまりました。しかしその条件では案内できるところがございませんでした。いかがなさいますか。	general,hotel,restaurant,shopping
+1153	12	USER	そうなんだぁ。じゃぁ、南区じゃなくても良いです。	general,hotel,restaurant,shopping
+1153	13	SYSTEM	では洪福寺松原商店街はいかがでしょうか。	general,hotel,restaurant,shopping
+1153	14	USER	そこって、駐車場はありますか？	general,hotel,restaurant,shopping
+1153	15	SYSTEM	駐車場は有料ですがございます。	general,hotel,restaurant,shopping
+1153	16	USER	そうなんですね！わかりました。	general,hotel,restaurant,shopping
+1153	17	SYSTEM	ほかにご用件はございますか。	general,hotel,restaurant,shopping
+1153	18	USER	あとは大丈夫です。本日は色々と調べていただいて、ありがとうございました！	general,hotel,restaurant,shopping
+1153	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,shopping

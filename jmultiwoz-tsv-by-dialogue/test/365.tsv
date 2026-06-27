@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+365	0	USER	お願いします。京都への旅行を計画しています。当日中京区で食事ができるところはありませんか・	general,restaurant,weather
+365	1	SYSTEM	中京区ですと、36件候補がございます。ジャンルなど、なにかご希望の条件はございますか？	general,restaurant,weather
+365	2	USER	ジャンルは問いませんが、wifiが無料で使えるところがいいです。	general,restaurant,weather
+365	3	SYSTEM	かしこまりました。では、スペインバル Ternuraというお店はいかがでしょうか？	general,restaurant,weather
+365	4	USER	そちらのお店の営業時間はわかりますか？	general,restaurant,weather
+365	5	SYSTEM	はい。お昼の12:00から夜00:00までとなっております。	general,restaurant,weather
+365	6	USER	最寄り駅からの所要時間はどのぐらいでしょう？	general,restaurant,weather
+365	7	SYSTEM	河原町駅から徒歩で3分、祇園四条駅からは徒歩7分ほどかかります。	general,restaurant,weather
+365	8	USER	値段帯はどうですか？	general,restaurant,weather
+365	9	SYSTEM	お安めとなっております。	general,restaurant,weather
+365	10	USER	わかりました。ところで、３月１７日の東山区の天気はどうですか？	general,restaurant,weather
+365	11	SYSTEM	3/17の東山区の天気は曇りの予報です。最低気温は5.8度、最高気温は15.5度の予想となっております。	general,restaurant,weather
+365	12	USER	わかりました。ありがとうございました。	general,restaurant,weather
+365	13	SYSTEM	他になにかお手伝いできることはございますか？	general,restaurant,weather
+365	14	USER	特にありません。失礼します。	general,restaurant,weather
+365	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,weather

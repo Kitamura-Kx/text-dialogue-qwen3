@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+98	0	USER	こんにちは！ 名古屋へ旅行に行きたいのですが、案内をお願いしてもよろしいでしょうか？	general,attraction,weather
+98	1	SYSTEM	こんにちは。はい、もちろん、お承ります。どういった情報をお探しでしょうか？	general,attraction,weather
+98	2	USER	ありがとうございます！ 当日訪れられる観光名所を探しているんですが、東山公園駅が最寄り駅のところは、どこかありますか？	general,attraction,weather
+98	3	SYSTEM	名古屋の東山公園駅が最寄り駅の観光名所ですね。名古屋市東山動植物園という場所が1件ございます。	general,attraction,weather
+98	4	USER	名古屋市東山動植物園ですね。あって良かったです！ それでは、そこに駐車場があるかどうかはわかりますか？	general,attraction,weather
+98	5	SYSTEM	はい、駐車場ですね。こちら、あることは有るのですが、有料となっております。	general,attraction,weather
+98	6	USER	そうなんですね。詳しくお調べいただき、ありがとうございます！ それではあと、大人入場料と住所についてもお調べいただけますでしょうか？	general,attraction,weather
+98	7	SYSTEM	はい、かしこまりました。まず大人入場料ですが、500円かかります。住所は、愛知県名古屋市千種区東山元町3丁目70です。	general,attraction,weather
+98	8	USER	わかりました。ありがとうございます！ あと、5月8日の西区の天候についても調べていただいてよろしいですか？	general,attraction,weather
+98	9	SYSTEM	はい、かしこまりました。5月8日の名古屋、西区の天気は晴れ、最高気温24.6度、最低気温19.7度の予報です。	general,attraction,weather
+98	10	USER	そうなんですね。ありがとうございます！	general,attraction,weather
+98	11	SYSTEM	お役に立てて幸いです。ほかにご不明な点などは、ございますでしょうか？	general,attraction,weather
+98	12	USER	いえ、あとは大丈夫です。本日はありがとうございました！	general,attraction,weather
+98	13	SYSTEM	こちらこそ、本日はお問い合わせいただき、誠にありがとうございました。またのご利用をお待ちしております。	general,attraction,weather

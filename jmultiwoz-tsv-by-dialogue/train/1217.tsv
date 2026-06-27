@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1217	0	USER	名古屋への旅行を計画しています．	general,attraction,taxi,weather
+1217	1	SYSTEM	はい。お疲れ様です	general,attraction,taxi,weather
+1217	2	USER	当日訪れる観光名所を探してください．駐車場を無料で利用できるところで．地区は天白区がいいです。	general,attraction,taxi,weather
+1217	3	SYSTEM	荒木集成館はいかがでしょう。	general,attraction,taxi,weather
+1217	4	USER	いいですね。あと、当日利用できるタクシー会社を探してください．キャッシュレス払いできるところがいいです。	general,attraction,taxi,weather
+1217	5	SYSTEM	宝タクシー第三はいかがでしょうか。	general,attraction,taxi,weather
+1217	6	USER	いいですね。電話番号もおしえてください。	general,attraction,taxi,weather
+1217	7	SYSTEM	電話番号は0526826000になります。	general,attraction,taxi,weather
+1217	8	USER	そちらで日付は5/24、時間は10:00で出発地は先ほど見つけた観光施設で目的地はナゴヤエキ アクセスホテルで予約していただけますか。	general,attraction,taxi,weather
+1217	9	SYSTEM	予約できました。予約番号は40230になっています。	general,attraction,taxi,weather
+1217	10	USER	ありがとうございます。あと、5/24の昭和区の天気もおしえてください。	general,attraction,taxi,weather
+1217	11	SYSTEM	天気は曇時々晴です。	general,attraction,taxi,weather
+1217	12	USER	最高気温と最低気温をおしえてほしいです。	general,attraction,taxi,weather
+1217	13	SYSTEM	最低気温は18.3度で 最高気温は28.2度になっています。	general,attraction,taxi,weather
+1217	14	USER	ありがとうございます。	general,attraction,taxi,weather

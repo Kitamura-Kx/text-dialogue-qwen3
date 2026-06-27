@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4433	0	USER	札幌へ旅行に行くのですが、最寄り駅が北24条駅の駐車場を無料で利用できる宿泊施設はありますか？	general,hotel,shopping,weather
+4433	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel,shopping,weather
+4433	2	USER	そうですか。最寄り駅はどこでもいいです。	general,hotel,shopping,weather
+4433	3	SYSTEM	ありがとうございます。では、エリアでいうと中央区にある、JRタワーホテル日航札幌はいかがでしょう？タイプは、シティホテルとなります。	general,hotel,shopping,weather
+4433	4	USER	そこにします。値段帯と電話番号はわかります？	general,hotel,shopping,weather
+4433	5	SYSTEM	はい、値段帯は普通、電話番号は、0112512222となります。	general,hotel,shopping,weather
+4433	6	USER	わかりました。あと、西区で最寄り駅が発寒駅の買い物できるところを探してください。	general,hotel,shopping,weather
+4433	7	SYSTEM	承知しました。では、イオンモール札幌発寒はいかがでしょう？ジャンルは、百貨店や総合スーパーとなります。	general,hotel,shopping,weather
+4433	8	USER	そこにします。近辺の駅からの所要時間と営業時間ってわかったりします？	general,hotel,shopping,weather
+4433	9	SYSTEM	はい、営業時間は9時から22時、最寄りの発寒駅から徒歩で10分となります。	general,hotel,shopping,weather
+4433	10	USER	わかりました。あと、白石区の11/26の天気と最高気温が知りたいです。	general,hotel,shopping,weather
+4433	11	SYSTEM	はい、天気は曇のち晴、最高気温9.4度となります。	general,hotel,shopping,weather
+4433	12	USER	ありがとうございました。	general,hotel,shopping,weather
+4433	13	SYSTEM	ありがとうございました。	general,hotel,shopping,weather

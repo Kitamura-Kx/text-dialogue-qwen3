@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1657	0	USER	沖縄へ旅行に行きたいのですが、観光名所を案内していただけますか？	general,attraction,hotel
+1657	1	SYSTEM	申し訳ありません、沖縄という都市はございません。いかが致しましょう？	general,attraction,hotel
+1657	2	USER	では、那覇でWi-Fiが無料で利用できる観光名所はありますか？	general,attraction,hotel
+1657	3	SYSTEM	はい、エリアでいうと首里にある、首里城 園比屋武御嶽石門はいかがでしょう？	general,attraction,hotel
+1657	4	USER	ありがとうございます。そちらは世界遺産でしょうか？	general,attraction,hotel
+1657	5	SYSTEM	はい、ジャンルは歴史的建造物、世界遺産、となっております。	general,attraction,hotel
+1657	6	USER	ありがとうございます。そちらは駐車場はありますか？	general,attraction,hotel
+1657	7	SYSTEM	はい、有料ですが、ご利用いただけます。	general,attraction,hotel
+1657	8	USER	近辺の駅からの所要時間を教えてもらえますか？	general,attraction,hotel
+1657	9	SYSTEM	はい、最寄りの首里駅から徒歩で15分となります。	general,attraction,hotel
+1657	10	USER	泊まれるシティホテルも探してもらえますか？駐車場が無料で、レストランが併設されている所が希望です。	general,attraction,hotel
+1657	11	SYSTEM	はい、エリアでいうと本庁に、パシフィックホテル沖縄がございます。値段帯は安め、となります。	general,attraction,hotel
+1657	12	USER	いいですね、そちらでお願いします。9/30から2名、2泊で予約をお願いします。	general,attraction,hotel
+1657	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、23353となります。他にご用件はございますか？	general,attraction,hotel
+1657	14	USER	いいえ、他にはありません。ありがとうございました。	general,attraction,hotel
+1657	15	SYSTEM	ありがとうございました。	general,attraction,hotel

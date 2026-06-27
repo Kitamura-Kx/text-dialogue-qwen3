@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4310	0	USER	仙台に旅行に行くので青葉区でWi-Fiが無料で利用できる歴史的建造物の観光名所はありますか？	general,attraction,taxi
+4310	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,attraction,taxi
+4310	2	USER	じゃあ、歴史的建造物でなくてもいいです	general,attraction,taxi
+4310	3	SYSTEM	お待たせ致しました。それでは仙台市文学館はいかがでしょうか？	general,attraction,taxi
+4310	4	USER	最寄駅はどこになりますか？	general,attraction,taxi
+4310	5	SYSTEM	八乙女駅でございます。	general,attraction,taxi
+4310	6	USER	ありがとうございます。あとキャッシュレス払いできるタクシー会社を探しているのですが	general,attraction,taxi
+4310	7	SYSTEM	お待たせ致しました。では、仙都タクシー（株）がおすすめでございます。	general,attraction,taxi
+4310	8	USER	ジャンボタクシーには対応していますか？	general,attraction,taxi
+4310	9	SYSTEM	はい、対応しております。	general,attraction,taxi
+4310	10	USER	では9/24の13:00にスポーツデポ 仙台泉店から仙台市文学館まで予約してください	general,attraction,taxi
+4310	11	SYSTEM	申し訳ございません。その条件では予約することが出来ませんでした。	general,attraction,taxi
+4310	12	USER	じゃあ13：30だとどうでしょうか？	general,attraction,taxi
+4310	13	SYSTEM	お待たせ致しました。予約番号79789でお取りさせていただきました。	general,attraction,taxi
+4310	14	USER	ありがとうございました！	general,attraction,taxi
+4310	15	SYSTEM	ありがとうございました。その他に御用件はございますか？	general,attraction,taxi
+4310	16	USER	大丈夫です、ありがとうございました	general,attraction,taxi
+4310	17	SYSTEM	かしこまりました。またお待ちしております。	general,attraction,taxi

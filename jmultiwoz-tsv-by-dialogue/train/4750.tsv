@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4750	0	USER	那覇へ旅行するのですが、スーパーマーケットに行きたくて、調べてもらえますか？駐車場を無料で使えるとうれしいです。	general,shopping,weather
+4750	1	SYSTEM	承知しました。では、エリアでいうと真和志にある、タウンプラザかねひで与儀公園市場はいかがでしょう？	general,shopping,weather
+4750	2	USER	いいですね。営業時間と電話番号を教えてください。	general,shopping,weather
+4750	3	SYSTEM	はい、営業時間は9時から０時、電話番号は0988323939となります。	general,shopping,weather
+4750	4	USER	ありがとうございます。あと、当日2/27の首里の天候も調べてもらえますか？	general,shopping,weather
+4750	5	SYSTEM	はい、天気は雨、最低気温13.9度、最高気温20.2度となります。	general,shopping,weather
+4750	6	USER	ありがとうございました。	general,shopping,weather
+4750	7	SYSTEM	ありがとうございました。	general,shopping,weather

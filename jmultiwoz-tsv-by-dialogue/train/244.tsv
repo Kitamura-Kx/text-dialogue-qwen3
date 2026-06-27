@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+244	0	USER	横浜への旅行を計画しているので、宿泊施設を探しています。	general,hotel
+244	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel
+244	2	USER	予算は高めで無料でWi-Fiが利用できる簡易宿所がいいのですが、どこかありますか？	general,hotel
+244	3	SYSTEM	ザ・カハラ・ホテル&リゾート 横浜がございます。	general,hotel
+244	4	USER	チェックイン開始時刻を教えてください。	general,hotel
+244	5	SYSTEM	15:00でございます。	general,hotel
+244	6	USER	近辺の駅からの所要時間も教えてください。	general,hotel
+244	7	SYSTEM	はい。新高島駅から徒歩で8分、みなとみらい駅から徒歩で8分、横浜駅からタクシーで6分、新横浜駅からタクシーで20分となっております。	general,hotel
+244	8	USER	ありがとうございます。	general,hotel
+244	9	SYSTEM	ほかにご用件はございますか。	general,hotel
+244	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel
+244	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

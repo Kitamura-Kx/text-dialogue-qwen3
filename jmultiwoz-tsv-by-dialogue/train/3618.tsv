@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3618	0	USER	横浜に旅行に行こうと思っています。最寄り駅が馬車道駅で買い物ができる場所はありますか。	general,shopping
+3618	1	SYSTEM	馬車道駅の指定で検索したところ該当がありませんでした。	general,shopping
+3618	2	USER	でしたら最寄り駅が馬車道駅という条件はなしでかまいません。	general,shopping
+3618	3	SYSTEM	承知いたしました。横浜のお買い物スポットは、三井アウトレットパーク横浜ベイサイドを含む49件ございますがいかがでしょうか？	general,shopping
+3618	4	USER	三井アウトレットパーク横浜ベイサイドはどのようなジャンルのお店でしょうか。	general,shopping
+3618	5	SYSTEM	こちらはアウトレットモールの記載がございます。	general,shopping
+3618	6	USER	ありがとうございます。今回はこれで大丈夫です。	general,shopping
+3618	7	SYSTEM	ありがとうございました。	general,shopping

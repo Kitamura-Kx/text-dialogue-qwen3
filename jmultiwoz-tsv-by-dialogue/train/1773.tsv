@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1773	0	USER	こんにちは。仙台へ行くことになったので、当日使うタクシー会社を探しています。ジャンボタクシーが使えて、キャッシュレス払いができるタクシー会社をお願いできますか？	general,taxi,weather
+1773	1	SYSTEM	平和交通（株）はいかがでしょう？電話番号は、0570086000となります。	general,taxi,weather
+1773	2	USER	ありがとうございます。じゃあそちらで予約お願いできますか？	general,taxi,weather
+1773	3	SYSTEM	承知しました。出発日時と出発地、目的地を教えていただけますか？	general,taxi,weather
+1773	4	USER	からはい。2/12の11:50で、ステーキ宮 仙台中田店というところからスマイルホテル仙台国分町までです。	general,taxi,weather
+1773	5	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、15650となります。	general,taxi,weather
+1773	6	USER	ありがとうございます。それと、当日の若林区の天気も知りたいのですけど、2/12の天気と最低気温はどんな感じですか？	general,taxi,weather
+1773	7	SYSTEM	天気は曇のち晴、最低気温3.9度となります。	general,taxi,weather
+1773	8	USER	どうもありがとうございました。助かりました。	general,taxi,weather
+1773	9	SYSTEM	ありがとうございました。	general,taxi,weather

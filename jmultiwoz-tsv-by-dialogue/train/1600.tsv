@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1600	0	USER	仙台への旅行で当日買い物ができる場所を教えて頂けると助かります。	general,shopping
+1600	1	SYSTEM	希望条件などは、ありますか？	general,shopping
+1600	2	USER	駐車場を無料で利用できる場所はありますか？	general,shopping
+1600	3	SYSTEM	ララガーデン長町は、いかがでしょうか？	general,shopping
+1600	4	USER	そちらに伺いたいと思います。そちらのジャンルはなんでしょうか？また、近辺の駅からの所要時間と住所を教えてください。	general,shopping
+1600	5	SYSTEM	ジャンルは、ショッピングモールです。長町駅から徒歩で9分で住所は、宮城県仙台市太白区長町7丁目20-5になります。	general,shopping
+1600	6	USER	ありがとうございました。	general,shopping

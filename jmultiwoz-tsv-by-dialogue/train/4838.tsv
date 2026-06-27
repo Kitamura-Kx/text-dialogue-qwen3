@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4838	0	USER	仙台へ旅行に行くので、泉区で最寄り駅が陸前高砂駅の買い物屋さんがあるか調べてもらえますか。	general,shopping,hotel,weather
+4838	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,hotel,weather
+4838	2	USER	そうですか。なら、地区は泉区以外でもいいです。	general,shopping,hotel,weather
+4838	3	SYSTEM	1件みつかりました。　JA仙台農産物直売所 たなばたけ 高砂店　こちらはいかがですか？	general,shopping,hotel,weather
+4838	4	USER	そこにします。営業時間と駐車場があるか教えてください。	general,shopping,hotel,weather
+4838	5	SYSTEM	営業時間は、10時から18時までとなっています。　駐車場については、有料駐車場がご利用いただけます。	general,shopping,hotel,weather
+4838	6	USER	わかりました。宿泊施設も探してほしいです。できれば駐車場とWi-Fiが無料で使えるところでお願いします。	general,shopping,hotel,weather
+4838	7	SYSTEM	申し訳ありません。　その条件では、ないようです。　どうされますか？	general,shopping,hotel,weather
+4838	8	USER	そうですか。駐車場がなくてもいいとしたらどうですか？	general,shopping,hotel,weather
+4838	9	SYSTEM	それでは、ホテルパールシティ仙台はいかがですか？	general,shopping,hotel,weather
+4838	10	USER	そこにします。3人で1/26から2泊の予約はできますか？	general,shopping,hotel,weather
+4838	11	SYSTEM	3名様でご予約出来ました。予約番号は、37545になります。	general,shopping,hotel,weather
+4838	12	USER	わかりました。あと、当日1/26の宮城野区の天気と最高気温も教えてください。	general,shopping,hotel,weather
+4838	13	SYSTEM	当日の天気は、晴時々雨で最高気温は、11.9度の予報です。	general,shopping,hotel,weather
+4838	14	USER	ありがとうございました。もう大丈夫です。	general,shopping,hotel,weather
+4838	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,weather

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3399	0	USER	京都へ旅行に行くので、飲食店を探してください。	general,restaurant,attraction,weather
+3399	1	SYSTEM	承知しました。京都で検索致しましたところ京のSAKESORAほか99件出て参ります。いかがいたしますか？	general,restaurant,attraction,weather
+3399	2	USER	では、地区は北区で、無料駐車場のあるところを教えてください。	general,restaurant,attraction,weather
+3399	3	SYSTEM	そちらの条件ですと、フランス料理 ボルドーともう1件ございます。	general,restaurant,attraction,weather
+3399	4	USER	そのお店にします。営業時間と定休日を教えてください。	general,restaurant,attraction,weather
+3399	5	SYSTEM	かしこまりました。営業時間は、お昼が12:00から15:00, 夜は17:30から22:00で、定休日は月曜日でございます。	general,restaurant,attraction,weather
+3399	6	USER	わかりました。予約を入れたいのですが、9月29日の11:30に、2人でお願いします。	general,restaurant,attraction,weather
+3399	7	SYSTEM	9月29日の11時30分、2名様でご予約が完了しました。ご予約番号は、77438でございます。	general,restaurant,attraction,weather
+3399	8	USER	ありがとうございます。あと、勧修寺観光農園というところに行く予定ですが、ここの情報は調べられますか？	general,restaurant,attraction,weather
+3399	9	SYSTEM	はい、かしこまりました。どんな情報が必要でしょうか？	general,restaurant,attraction,weather
+3399	10	USER	住所が知りたいです。	general,restaurant,attraction,weather
+3399	11	SYSTEM	勧修寺観光農園の住所は京都府京都市山科区勧修寺南大日町204でございます。	general,restaurant,attraction,weather
+3399	12	USER	ありがとうございます。あと天気も調べてほしいのですが、9月29日の伏見区の天候はどうですか？	general,restaurant,attraction,weather
+3399	13	SYSTEM	9月29日の伏見区は曇でございます。	general,restaurant,attraction,weather
+3399	14	USER	曇なんですね。最高気温は何度ですか？	general,restaurant,attraction,weather
+3399	15	SYSTEM	はい。最高気温は32.1度でございます。	general,restaurant,attraction,weather
+3399	16	USER	わかりました。ありがとうございます。	general,restaurant,attraction,weather
+3399	17	SYSTEM	他にはなにかご用命ございますか？	general,restaurant,attraction,weather
+3399	18	USER	いえ、特にありません。ありがとうございました。	general,restaurant,attraction,weather
+3399	19	SYSTEM	ありがとうございました。	general,restaurant,attraction,weather

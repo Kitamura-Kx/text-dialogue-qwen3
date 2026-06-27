@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1482	0	USER	福岡への旅行を計画中なのですが、ジャンボタクシーが利用可能なタクシー会社はありますか？	general,taxi
+1482	1	SYSTEM	はい、では、日新交通（株）はいかがでしょう？キャッシュレスにも対応しております。電話番号は0120152452となります。	general,taxi
+1482	2	USER	わかりました。それでは「日新交通（株）」でジャンボタクシーの予約をお願いします。3/2の13:50に「博多バスターミナル」から「Precious ONO HAKATA」までお願いします。	general,taxi
+1482	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、9620となります。他にご案内できることはございますか？	general,taxi
+1482	4	USER	いえ大丈夫です、有難うございました。	general,taxi
+1482	5	SYSTEM	ありがとうございました。	general,taxi

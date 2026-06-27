@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4631	0	USER	こんにちは。大阪旅行中に、飲食店を利用したいと考えています。予算は普通で、Wi-Fiを無料で利用できるお店はありますか？	general,restaurant,shopping
+4631	1	SYSTEM	かしこまりました。では、沖縄ん家 てりとりーはいかがでしょうか。	general,restaurant,shopping
+4631	2	USER	そちらにします。場所はどうなっていますか？エリアと最寄り駅、それから営業時間も知りたいです。	general,restaurant,shopping
+4631	3	SYSTEM	エリアは浪速区で、最寄り駅はなんば駅でございます。営業時間は17:00～00:00となっております。	general,restaurant,shopping
+4631	4	USER	ありがとうございます。最寄り駅が南巽駅で、当日食料品の買い物をできる店も探しています。駐車場が無料というところはありますか？	general,restaurant,shopping
+4631	5	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,shopping
+4631	6	USER	うーん、ではジャンルは食料品以外でも良いので、最寄り駅が同じで駐車場が無料のお店を教えていただけませんか？	general,restaurant,shopping
+4631	7	SYSTEM	ではC&Cエンド 本店がございます。	general,restaurant,shopping
+4631	8	USER	そのお店の電話番号はわかりますか？	general,restaurant,shopping
+4631	9	SYSTEM	電話番号は0667583400でございます。	general,restaurant,shopping
+4631	10	USER	今回はありがとうございました！	general,restaurant,shopping

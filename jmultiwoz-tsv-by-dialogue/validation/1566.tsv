@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1566	0	USER	那覇への旅行を考えているのですが、レストランが併設されていて、Wi-Fiを無料で利用できる宿泊施設を調べてください。	general,hotel,taxi,weather
+1566	1	SYSTEM	承知しました。他にご希望はございますか？	general,hotel,taxi,weather
+1566	2	USER	いえ、特にありません。	general,hotel,taxi,weather
+1566	3	SYSTEM	では、エリアが本庁にございます、HOTEL SANSUI NAHAはいかがでしょう？何かご案内致しましょうか？	general,hotel,taxi,weather
+1566	4	USER	いいですね。値段帯と電話番号を知りたいです。	general,hotel,taxi,weather
+1566	5	SYSTEM	はい、値段帯は安め、電話番号は0988607001となります。他にご案内できることはございますか？	general,hotel,taxi,weather
+1566	6	USER	はい、タクシーも利用予定なのですが、キャッシュレス払いできるところを調べてください。	general,hotel,taxi,weather
+1566	7	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,hotel,taxi,weather
+1566	8	USER	そうですか。であればキャッシュレス払いできなくてもいいです。	general,hotel,taxi,weather
+1566	9	SYSTEM	ありがとうございます。では、沖東交通グループはいかがでしょう？ジャンボタクシーには対応しております。電話番号は0989465654となります。予約されますか？	general,hotel,taxi,weather
+1566	10	USER	します。5/7の11:50で、ぱやお栄町店からHOTEL SANSUI NAHAまでお願いします。	general,hotel,taxi,weather
+1566	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、60312となります。他にご用件はございますか？	general,hotel,taxi,weather
+1566	12	USER	ありがとうございます。はい。5/7の小禄の天気を教えてほしいです。	general,hotel,taxi,weather
+1566	13	SYSTEM	はい、天気は曇時々晴、最低気温24.3度、最高気温32度となります。他にご用件はございますか？	general,hotel,taxi,weather
+1566	14	USER	わかりました。もう大丈夫です。	general,hotel,taxi,weather
+1566	15	SYSTEM	ありがとうございました。	general,hotel,taxi,weather

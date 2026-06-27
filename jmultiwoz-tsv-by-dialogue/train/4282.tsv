@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4282	0	USER	旅行で横浜に行きますが、金沢区で無料駐車場があるところを探してください。	general,shopping,attraction,hotel
+4282	1	SYSTEM	かしこまりました。お探しなのは飲食店でございますか。	general,shopping,attraction,hotel
+4282	2	USER	買い物ができるところです。	general,shopping,attraction,hotel
+4282	3	SYSTEM	ではコストコ金沢シーサイド倉庫がございます。	general,shopping,attraction,hotel
+4282	4	USER	このお店のジャンルは？	general,shopping,attraction,hotel
+4282	5	SYSTEM	ジャンルは食料品, 家電・電化製品, ファッション, 医薬品・化粧品, その他となっております。	general,shopping,attraction,hotel
+4282	6	USER	わかりました。あと、観光名所にも行きたいと思っています。最寄り駅が中山駅で、無料駐車場のあるところはありませんか？	general,shopping,attraction,hotel
+4282	7	SYSTEM	では県立 四季の森公園はいかがでしょうか。	general,shopping,attraction,hotel
+4282	8	USER	いいですね、行ってみます。そこの大人入場料はいくらですか？	general,shopping,attraction,hotel
+4282	9	SYSTEM	大人入場料は０円でございます。	general,shopping,attraction,hotel
+4282	10	USER	ありがとうございます。次に宿泊施設を探しているのですが、レストランが併設されていて、料金が高めのところってないですか？	general,shopping,attraction,hotel
+4282	11	SYSTEM	ではザ・カハラ・ホテル&リゾート 横浜はいかがですか。	general,shopping,attraction,hotel
+4282	12	USER	いいですね。そこの電話番号と、Wi-Fiの有無ってわかりますか？	general,shopping,attraction,hotel
+4282	13	SYSTEM	電話番号は0455220088で、Wi-Fiは無料でご利用いただけます。	general,shopping,attraction,hotel
+4282	14	USER	わかりました。では1月21日に3泊で予約します。人数は3人です。	general,shopping,attraction,hotel
+4282	15	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,shopping,attraction,hotel
+4282	16	USER	じゃあ、人数が2人ではどうですか？	general,shopping,attraction,hotel
+4282	17	SYSTEM	その人数ですと予約が可能でございました。予約番号は92657でございます。	general,shopping,attraction,hotel
+4282	18	USER	ありがとうございました。	general,shopping,attraction,hotel
+4282	19	SYSTEM	ほかにご用件はございませんか。	general,shopping,attraction,hotel
+4282	20	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,attraction,hotel
+4282	21	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction,hotel

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4956	0	USER	札幌へ旅行予定で、飲食店を探しているのですが、駐車場とWi-Fiが無料で使えて、東区にあるような店はありますか？	general,restaurant,shopping,taxi
+4956	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant,shopping,taxi
+4956	2	USER	そうですか。なら、Wi-Fiはどちらでもいいですよ。	general,restaurant,shopping,taxi
+4956	3	SYSTEM	かしこまりました。それでは蕎麦切り 春のすけはいかがでしょうか？	general,restaurant,shopping,taxi
+4956	4	USER	そこにします。3人で3/17の12:00から予約できますか？	general,restaurant,shopping,taxi
+4956	5	SYSTEM	お待たせ致しました。予約番号23441でお取りさせていただきました。	general,restaurant,shopping,taxi
+4956	6	USER	ありがとうございます。あと、ろばのこというお店で買い物をしたいのですが、ありますか？	general,restaurant,shopping,taxi
+4956	7	SYSTEM	はい、ろばのこございます。	general,restaurant,shopping,taxi
+4956	8	USER	そこのエリアを聞いてもいいですか？	general,restaurant,shopping,taxi
+4956	9	SYSTEM	はい、エリアは中央区でございます。	general,restaurant,shopping,taxi
+4956	10	USER	そうなんですね。最後に、ジャンボタクシーを利用しようと考えてて、いいところないですか？	general,restaurant,shopping,taxi
+4956	11	SYSTEM	かしこまりました。それではダイコク交通(株)がおすすめです。	general,restaurant,shopping,taxi
+4956	12	USER	そこにします。3/17の13:00に蕎麦切り 春のすけからろばのこまでの配車を頼めます？	general,restaurant,shopping,taxi
+4956	13	SYSTEM	お待たせ致しました。予約番号ろばのこでお取りさせていただきました。	general,restaurant,shopping,taxi
+4956	14	USER	予約番号をもう一度確認させてください。	general,restaurant,shopping,taxi
+4956	15	SYSTEM	申し訳ありません。予約番号69530でございます。	general,restaurant,shopping,taxi
+4956	16	USER	ありがとうございます。もう大丈夫です。	general,restaurant,shopping,taxi
+4956	17	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,shopping,taxi

@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1382	0	USER	福岡へ行きたく、観光名所を探しています。博多区で博多駅周辺にいいところありますか？	general,attraction
+1382	1	SYSTEM	住吉神社は、いかがですか？	general,attraction
+1382	2	USER	そこは駐車場ありますか？あと入場料があれば大人分、あと住所を知りたいです。	general,attraction
+1382	3	SYSTEM	無料駐車場があります。　入場料は、大人子供ともに無料となっています。住所は、　福岡県福岡市博多区住吉3丁目1-51です。	general,attraction
+1382	4	USER	ありがとうございます。こちらのご依頼は以上です。	general,attraction
+1382	5	SYSTEM	承知致しました。　ありがとうございました。	general,attraction

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3111	0	USER	名古屋旅行を計画しているのでレストランがある宿泊施設を探してほしいです	general,hotel
+3111	1	SYSTEM	かしこまりました。エリアなど、何かほかにご希望はございますか？	general,hotel
+3111	2	USER	駐車場とWi-Fiが無料で利用できるところがいいです	general,hotel
+3111	3	SYSTEM	そうしましたら、プチホテル ニューひふみ、というビジネスホテルはいかがでしょうか？	general,hotel
+3111	4	USER	わかりました。ありがとうございました	general,hotel
+3111	5	SYSTEM	他にお調べすることはございませんか？	general,hotel
+3111	6	USER	大丈夫です。ありがとうございました！	general,hotel
+3111	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

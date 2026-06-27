@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+694	0	USER	仙台に旅行するので、宿泊施設を探したいです。高めの予算で、レストラン併設、駐車場無料がよいです。	general,hotel,taxi,weather
+694	1	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,hotel,taxi,weather
+694	2	USER	そうしましたら、駐車場は有料でもかまいません。	general,hotel,taxi,weather
+694	3	SYSTEM	ありがとうございます。エリアでいうと青葉区にございます、ホテルメトロポリタン仙台はいかがでしょう？何かご案内致しましょうか？	general,hotel,taxi,weather
+694	4	USER	では、予約をお願いします。5/27 から４泊、人数は３名です。	general,hotel,taxi,weather
+694	5	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,hotel,taxi,weather
+694	6	USER	そうですか。では、人数を２名に変更して予約できますか？	general,hotel,taxi,weather
+694	7	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、98475となります。他にご用件はございますか？	general,hotel,taxi,weather
+694	8	USER	ありがとうございます。次にタクシーを予約したいのですが、ジャンボタクシーが利用できる会社はありますか？	general,hotel,taxi,weather
+694	9	SYSTEM	はい、仙台中央タクシー（株）はいかがでしょう？キャッシュレスにも対応しております。電話番号は0570057818となります。予約されますか？	general,hotel,taxi,weather
+694	10	USER	ではそちらで予約をお願いします。5/27 10:50 に、目利きの銀次 長町南駅前店を出発。目的地は、先ほどのホテルメトロポリタン仙台です。	general,hotel,taxi,weather
+694	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、34610となります。他にご案内できることはございますか？	general,hotel,taxi,weather
+694	12	USER	あともうひとつ聞きたいのですが、5/27　泉区の最高気温を教えてください。	general,hotel,taxi,weather
+694	13	SYSTEM	承知しました。天気は曇、最低気温8.8度、最高気温22.5度となります。他にご用件はございますか？	general,hotel,taxi,weather
+694	14	USER	いいえ、今日はこれで大丈夫です。ありがとうございました。	general,hotel,taxi,weather
+694	15	SYSTEM	ありがとうございました。	general,hotel,taxi,weather

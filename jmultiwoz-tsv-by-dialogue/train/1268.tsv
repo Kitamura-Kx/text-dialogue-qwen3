@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1268	0	USER	東京で泊まれる場所を教えてください。レストラン併設で、無料Wifiがあるといいのですが。	general,hotel,attraction,shopping
+1268	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,attraction,shopping
+1268	2	USER	そうですか、、、ならWifiの条件を除いても構いません。	general,hotel,attraction,shopping
+1268	3	SYSTEM	ありがとうございます。では、ビジネスホテル山百合はいかがでしょうか？	general,hotel,attraction,shopping
+1268	4	USER	いいですね。電話番号と住所も教えて頂けませんか？	general,hotel,attraction,shopping
+1268	5	SYSTEM	電話番号は、0338317759です。住所は、東京都台東区東上野2丁目19-5でございます。	general,hotel,attraction,shopping
+1268	6	USER	分かりました。あわせて観光名所の情報も知りたいんですが。ジャンルはビーチです。	general,hotel,attraction,shopping
+1268	7	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,hotel,attraction,shopping
+1268	8	USER	なら動物園で探して頂けますか？	general,hotel,attraction,shopping
+1268	9	SYSTEM	ありがとうございます。上野動物園を1件、ご案内可能です。いかがでしょうか？	general,hotel,attraction,shopping
+1268	10	USER	そちらに駐車場とWifiはありますか？あと住所も知りたいです。	general,hotel,attraction,shopping
+1268	11	SYSTEM	申し訳ありません。駐車場は併設しておりません。WiFiは無料でご利用いただけます。住所は、東京都台東区上野公園9-83でございます。	general,hotel,attraction,shopping
+1268	12	USER	分かりました。最後に豊島区で買い物できるスポットも教えてください。	general,hotel,attraction,shopping
+1268	13	SYSTEM	かしこまりました。2件ほどご案内できますが、例えば、大和サンプル製作所はどうでしょうか？	general,hotel,attraction,shopping
+1268	14	USER	そちらのジャンルは何ですか？	general,hotel,attraction,shopping
+1268	15	SYSTEM	お土産, 文房具・雑貨, その他となっております。	general,hotel,attraction,shopping
+1268	16	USER	分かりました。ありがとうございます！	general,hotel,attraction,shopping

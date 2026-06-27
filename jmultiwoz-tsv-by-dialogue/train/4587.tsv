@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4587	0	USER	札幌への旅行を計画しています． 当日泊まる宿泊施設を探してください．駐車場を無料で利用できるところにしてください．予算は普通が希望	general,hotel,taxi
+4587	1	SYSTEM	定山渓第一寶亭留 翠山亭はいかがでしょうか。	general,hotel,taxi
+4587	2	USER	ありがとうございます。あと、当日はダイコク交通(株)というタクシー会社のタクシーを利用する予定です．電話番号を教えていただけますか。	general,hotel,taxi
+4587	3	SYSTEM	電話番号は0117416000です。	general,hotel,taxi
+4587	4	USER	ありがとうございます。そちらで日付は12/10です．時間は12:00です．出発地は日本料理 まるやまかわなかというところです．目的地は先ほど見つけた宿泊所で予約いただけますか。	general,hotel,taxi
+4587	5	SYSTEM	予約完了いたしました。予約番号は89134になります。	general,hotel,taxi
+4587	6	USER		general,hotel,taxi

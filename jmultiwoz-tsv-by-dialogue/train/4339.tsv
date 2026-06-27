@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4339	0	USER	横浜の中区で駐車場を無料でできて買い物ができるところはありますか	general,shopping,hotel
+4339	1	SYSTEM	それでしたら、MEGAドン・キホーテ港山下総本店なんていかがですか？	general,shopping,hotel
+4339	2	USER	ありがとうございます、近くの駅からの所要時間を教えてください	general,shopping,hotel
+4339	3	SYSTEM	はい。元町・中華街駅から徒歩で2分です。	general,shopping,hotel
+4339	4	USER	ありがとうございます、馬車道駅の近くでwifiが無料で利用できて普通くらいの予算で泊まれる施設はありますか	general,shopping,hotel
+4339	5	SYSTEM	申し訳ございません。その条件に一致する宿泊施設は見つかりませんでした。	general,shopping,hotel
+4339	6	USER	では予算を考えずに同じ条件で宿泊できる施設をありませんか	general,shopping,hotel
+4339	7	SYSTEM	それでしたら、ナビオス横浜がおすすめです。	general,shopping,hotel
+4339	8	USER	その宿泊施設にレストランは併設されていますか	general,shopping,hotel
+4339	9	SYSTEM	はい、ございますよ。	general,shopping,hotel
+4339	10	USER	ありがとうございます、では10月4日から3泊、2人で予約をお願いできますか	general,shopping,hotel
+4339	11	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,shopping,hotel
+4339	12	USER	では2泊では可能ですか	general,shopping,hotel
+4339	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、29467です。	general,shopping,hotel
+4339	14	USER		general,shopping,hotel

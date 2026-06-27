@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3390	0	USER	那覇へ旅行に行くので、無料駐車場のある観光名所を探してください。	general,attraction
+3390	1	SYSTEM	承知しました。那覇の無料駐車場ありの観光名所は、沖縄県立図書館を含む27件ございます。	general,attraction
+3390	2	USER	真和志地区で、Wi-Fiが無料で使えるところがいいです。	general,attraction
+3390	3	SYSTEM	那覇の真和志エリア、無料駐車場ありの無料wifiがご利用いただける観光名所は、識名園のみでございます。	general,attraction
+3390	4	USER	識名園ですね。ここの子供入場料を教えてください。	general,attraction
+3390	5	SYSTEM	承知しました。識名園の子供入場料は、中学生以下のお子様は200円です。ただし、小学校就学前のお子様で保護者が同伴される場合は無料となります。	general,attraction
+3390	6	USER	わかりました。ありがとうございます。	general,attraction
+3390	7	SYSTEM	はい、ほかに何かお調べ致しますか？	general,attraction
+3390	8	USER	いえ、大丈夫です。ありがとうございました。	general,attraction
+3390	9	SYSTEM	ありがとうございました。	general,attraction

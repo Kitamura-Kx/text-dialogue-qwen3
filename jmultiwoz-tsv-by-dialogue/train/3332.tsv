@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3332	0	USER	名古屋への旅行を計画中で、ビジネスホテルを探しています。レストランと無料Wi-fi付きがいいです。	general,hotel
+3332	1	SYSTEM	かしこまりました。そうしますと、ホテル セントメイン名古屋を含む28件の候補がございます。いかがいたしましょうか？	general,hotel
+3332	2	USER	ホテル セントメイン名古屋にしようと思います。値段帯を教えてください。	general,hotel
+3332	3	SYSTEM	かしこまりました。価格帯は安めの設定でございます。	general,hotel
+3332	4	USER	助かります。ありがとうございます。	general,hotel
+3332	5	SYSTEM	ありがとうございました。	general,hotel
+3332	6	USER	では、失礼します。	general,hotel

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+734	0	USER	名古屋にあるトヨタ産業技術記念館の営業時間と子供の入場料を調べてもらえますか？	general,attraction,hotel
+734	1	SYSTEM	かしこまりました。トヨタ産業技術記念館の営業時間は、9:30～17:00です。小学生のお子様の入場料は200円です。中高生は300円となります。	general,attraction,hotel
+734	2	USER	ありがとうございます。Wi-Fiがあるかどうかも調べてもらえますか？	general,attraction,hotel
+734	3	SYSTEM	はい、無料でご利用いただけます。	general,attraction,hotel
+734	4	USER	ありがとうございます。当日泊まれるところも探してほしいのですが、無料で駐車場が利用できる簡易宿所でお願いします。	general,attraction,hotel
+734	5	SYSTEM	かしこまりました。では、Show和の宿つちやはいかがでしょうか？	general,attraction,hotel
+734	6	USER	ありがとうございます。そこの電話番号を教えてもらえますか？	general,attraction,hotel
+734	7	SYSTEM	電話番号は、0524510028です。	general,attraction,hotel
+734	8	USER	レストランはありますか？	general,attraction,hotel
+734	9	SYSTEM	申し訳ありません。こちらにはレストランは併設しておりません。レストランのある施設をお探ししますか？	general,attraction,hotel
+734	10	USER	大丈夫です。９月２５日から４泊、２人で予約お願いします。	general,attraction,hotel
+734	11	SYSTEM	ご予約ありがとうございます。予約完了いたしました。ご予約番号は、52473です。	general,attraction,hotel
+734	12	USER	ありがとうございました。	general,attraction,hotel
+734	13	SYSTEM	他にお調べすることはございますか？	general,attraction,hotel
+734	14	USER	大丈夫です。ありがとうございました。	general,attraction,hotel
+734	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,hotel

@@ -1,0 +1,30 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+445	0	USER	札幌でリゾートホテルを探しているのですが。	general,hotel,attraction,restaurant
+445	1	SYSTEM	かしこまりました。2件候補がございます。定山渓ビューホテルと、定山渓万世閣ホテルミリオーネですが、気になる方はございますでしょうか？	general,hotel,attraction,restaurant
+445	2	USER	予算は普通で、無料Wi-Fiが使えるところがいいのですが、どうでしょうか。	general,hotel,attraction,restaurant
+445	3	SYSTEM	大変申し訳ございません。その条件では、該当する施設がありませんでした。	general,hotel,attraction,restaurant
+445	4	USER	では予算は気にしません。どこかありますか？	general,hotel,attraction,restaurant
+445	5	SYSTEM	そういたしますと、定山渓万世閣ホテルミリオーネは如何でしょうか？お値段はお安めのリゾートホテルとなっております。	general,hotel,attraction,restaurant
+445	6	USER	よさそうですね。近辺の駅からのホテルまでの所要時間を教えてもらえますか？	general,hotel,attraction,restaurant
+445	7	SYSTEM	札幌駅からタクシーで60分ほどの距離にございます。	general,hotel,attraction,restaurant
+445	8	USER	わかりました。当日、展望台やタワーを観光したいのですが、どこかありますか？	general,hotel,attraction,restaurant
+445	9	SYSTEM	はい、7件候補がございます。ほかにご希望の条件がないようでしたら、札幌もいわ山ロープウェイは如何でしょうか？	general,hotel,attraction,restaurant
+445	10	USER	Wi-Fiと駐車場が無料のところがいいのですが、どうでしょうか。	general,hotel,attraction,restaurant
+445	11	SYSTEM	大変申し訳ございません。その条件では、該当するものがありませんでした。	general,hotel,attraction,restaurant
+445	12	USER	そうですか。では、ジャンルは問わないので、Wi-Fiと駐車場が無料で使える観光名所を教えてください。	general,hotel,attraction,restaurant
+445	13	SYSTEM	かしこまりました。では、シャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートはいかがでしょうか？ジャンルは、銭湯・スパ, スポーツ・フィットネス, 温泉となっております。	general,hotel,attraction,restaurant
+445	14	USER	いいですね。そちらは定休日はありますか？	general,hotel,attraction,restaurant
+445	15	SYSTEM	定休日はございません。	general,hotel,attraction,restaurant
+445	16	USER	わかりました。当日利用する飲食店についても相談したいのですが。	general,hotel,attraction,restaurant
+445	17	SYSTEM	かしこまりました。なにかご希望の条件はありますでしょうか？	general,hotel,attraction,restaurant
+445	18	USER	駐車場が無料で利用できて、予算は普通くらいのところがいいです。	general,hotel,attraction,restaurant
+445	19	SYSTEM	では、中央区にある吾照里 札幌エスタ店というお店はいかがでしょうか？	general,hotel,attraction,restaurant
+445	20	USER	中央区役所前停留所が最寄り駅だといいのですが、どうでしょうか？	general,hotel,attraction,restaurant
+445	21	SYSTEM	大変申し訳ございません。その条件では、該当するお店がありませんでした。	general,hotel,attraction,restaurant
+445	22	USER	そうですか。では、最寄り駅はどこでもいいです。	general,hotel,attraction,restaurant
+445	23	SYSTEM	そうしますと、さきほどご案内しました、吾照里 札幌エスタ店はいかがでしょうか？最寄りの札幌駅から徒歩で2分の場所にございます。	general,hotel,attraction,restaurant
+445	24	USER	そこにします。そちらのお店、エリアはどのあたりになりますか？	general,hotel,attraction,restaurant
+445	25	SYSTEM	中央区エリアにございます。	general,hotel,attraction,restaurant
+445	26	USER	料金情報とジャンルについても教えほしいです。	general,hotel,attraction,restaurant
+445	27	SYSTEM	詳しい料金につきましては、不明となっております。申し訳ございません。ジャンルは、焼肉・ホルモン, アジア・エスニック料理となっております。	general,hotel,attraction,restaurant
+445	28	USER	わかりました。ありがとうございました。	general,hotel,attraction,restaurant

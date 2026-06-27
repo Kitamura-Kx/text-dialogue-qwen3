@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4424	0	USER	仙台へ旅行予定なのですが、若林区で駐車場を無料で使える、書籍を買える店はありますか？	general,shopping,taxi
+4424	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,taxi
+4424	2	USER	でしたら、若林区以外で探してください。	general,shopping,taxi
+4424	3	SYSTEM	承知しました。では、蔦屋書店 仙台泉店はいかがでしょう？	general,shopping,taxi
+4424	4	USER	そこにします。当日ジャンボタクシーを使いたいのですが、いいところありますか？	general,shopping,taxi
+4424	5	SYSTEM	では、（有）振興タクシーはいかがでしょう？キャッシュレスにも対応しております。電話番号は、0222841411となります。	general,shopping,taxi
+4424	6	USER	そこにします。3/13の14:30に予約をお願いしていいですか。蔦屋書店 仙台泉店からホテルユニサイト仙台までです。	general,shopping,taxi
+4424	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、54958となります。	general,shopping,taxi
+4424	8	USER	ありがとうございました。もう大丈夫です。	general,shopping,taxi
+4424	9	SYSTEM	ありがとうございました。	general,shopping,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1479	0	USER	名古屋へ旅行に行くので、買い物ができるところを探してください。	general,shopping,restaurant
+1479	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant
+1479	2	USER	地区は東区で、駐車場を無料で利用できるところにしてください。	general,shopping,restaurant
+1479	3	SYSTEM	ではウエルシア名古屋代官町店はいかがでしょうか。	general,shopping,restaurant
+1479	4	USER	そちらの電話番号と定休日を教えてください	general,shopping,restaurant
+1479	5	SYSTEM	電話番号は0529305280で、定休日はありません。	general,shopping,restaurant
+1479	6	USER	続いて、食事ができる飲食店を探してください	general,shopping,restaurant
+1479	7	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant
+1479	8	USER	地区は北区で、Wi-Fiが無料で利用できるところにしてください	general,shopping,restaurant
+1479	9	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant
+1479	10	USER	ではWi-Fiの条件は外して構いません。	general,shopping,restaurant
+1479	11	SYSTEM	では御懐石 志ら玉がございます。	general,shopping,restaurant
+1479	12	USER	そちらの値段帯，営業時間，駐車場の有無を教えてください	general,shopping,restaurant
+1479	13	SYSTEM	値段帯は高め、営業時間は11:30～15:00, 17:00～22:00でございます。駐車場は無料でご利用いただけます。	general,shopping,restaurant
+1479	14	USER	ありがとうございました。以上です。	general,shopping,restaurant
+1479	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant

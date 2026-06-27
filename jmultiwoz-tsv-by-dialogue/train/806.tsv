@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+806	0	USER	福岡への旅行を考えているのですが、早良区の観光名所はありますか？Wi-Fiが無料で駐車場が無料であるところがいいです。	general,attraction,weather
+806	1	SYSTEM	かしこまりました。そうしますと、福岡市博物館というところが、1件ございます。いかがでしょうか？	general,attraction,weather
+806	2	USER	そこにします。ジャンルと営業時間を教えてください。あと、近辺の駅からの所要時間も知りたいです。	general,attraction,weather
+806	3	SYSTEM	ジャンルは、科学館, 美術館・博物館です。営業時間は、9:30～17:30となっております。アクセスは、西新駅から徒歩で15分、藤崎駅からバスで10分、博多駅からバスで25分、天神駅からバスで20分といった行き方がございます。	general,attraction,weather
+806	4	USER	ありがとうございます。あと、当日の天気を知りたいのですが、12/11の東区の天候はどうですか？	general,attraction,weather
+806	5	SYSTEM	当日の天気は、晴時々曇りとなっております。また、最低気温は7度、最高気温は13.2度の予報です。	general,attraction,weather
+806	6	USER	わかりました。ありがとうございます。	general,attraction,weather
+806	7	SYSTEM	ほかにお調べすることはございますか？	general,attraction,weather
+806	8	USER	いえ、大丈夫です。	general,attraction,weather
+806	9	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,attraction,weather

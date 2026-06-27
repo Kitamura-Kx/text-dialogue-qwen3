@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2875	0	USER	那覇への旅行を考えています。当日買い物ができるところを探しています。駐車場が無料で最寄り駅がおもろまち駅のところを教えてください。	general,shopping,taxi
+2875	1	SYSTEM	おもろまち駅で駐車場無料の買い物スポットはいくつかありますが、サンエー那覇メインプレイス、こちらをオススメします。	general,shopping,taxi
+2875	2	USER	そこが良さそうですね、あと当日利用できるタクシー会社を探しています。キャッシュレス払いができるところを教えてください。	general,shopping,taxi
+2875	3	SYSTEM	はい、丸星交通をお勧めします。	general,shopping,taxi
+2875	4	USER	そこはジャンボタクシーに対応してますでしょうか？	general,shopping,taxi
+2875	5	SYSTEM	ジャンボタクシーも対応しています。	general,shopping,taxi
+2875	6	USER	でしたら。そこに予約をしたいので日付は7/26で時間は14:50出発地ははなまるうどん 天久リウボウ店で目的地はサンエー那覇メインプレイスで予約をお願いします。	general,shopping,taxi
+2875	7	SYSTEM	予約成功しました。予約番号は66398です。	general,shopping,taxi
+2875	8	USER	分かりました。ありがとうございます。	general,shopping,taxi
+2875	9	SYSTEM	よい旅を	general,shopping,taxi

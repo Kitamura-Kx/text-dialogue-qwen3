@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4904	0	USER	京都への旅行を計画中のため、北区で予算安めの飲食店を探してもらえますか？	general,restaurant,taxi
+4904	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant,taxi
+4904	2	USER	では予算はいくらでもいいので、北区でどこかいい飲食店はありますか？	general,restaurant,taxi
+4904	3	SYSTEM	かしこまりました。ルルソンキボアはいかがでしょうか？	general,restaurant,taxi
+4904	4	USER	そこはジャンルは何ですか？	general,restaurant,taxi
+4904	5	SYSTEM	はい、ジャンルはイタリアン・フレンチでございます。	general,restaurant,taxi
+4904	6	USER	ありがとうございます。あとジャンボタクシーが利用できるタクシー会社も探してもらえますか？	general,restaurant,taxi
+4904	7	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant,taxi
+4904	8	USER	ではジャンボタクシーはなくてもいいので、どこかいいタクシー会社を教えてください。	general,restaurant,taxi
+4904	9	SYSTEM	かしこまりました。それではギオン自動車株式会社はいかがでしょうか？	general,restaurant,taxi
+4904	10	USER	そこはキャッシュレスには対応していますか？	general,restaurant,taxi
+4904	11	SYSTEM	申し訳ございません。キャッシュレスについては分かりません。	general,restaurant,taxi
+4904	12	USER	わかりました。12/1 13:40にごはんやからルルソンキボアまで予約をお願いします。	general,restaurant,taxi
+4904	13	SYSTEM	お待たせ致しました。予約番号65707でお取りさせていただきました。	general,restaurant,taxi
+4904	14	USER	ありがとうございます。	general,restaurant,taxi
+4904	15	SYSTEM	その他にご用件はございますか？	general,restaurant,taxi
+4904	16	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant,taxi

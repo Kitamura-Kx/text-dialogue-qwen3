@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1203	0	USER	名古屋へ旅行を計画中です、Wi-Fiが無料の飲食店を教えて下さい。予算は普通でお願いします。	general,restaurant
+1203	1	SYSTEM	ゆめや 金山店は、いかがでしょうか？	general,restaurant
+1203	2	USER	ゆめや 金山店はどんなジャンルのお店ですか？最寄り駅と料金情報も知りたいです。	general,restaurant
+1203	3	SYSTEM	ジャンルは、焼肉・ホルモン, 居酒屋, 鍋となっております。	general,restaurant
+1203	4	USER	最寄り駅と料金情報もお願いします。	general,restaurant
+1203	5	SYSTEM	最寄り駅は、金山駅です。　料金情報ですが、ゆめやの食べ放題が超お得っ！☆:4000円,タン食べ放題】全12種類のタンがお手頃価格で食べ放題☆ミ:4000円となっています。	general,restaurant
+1203	6	USER	わかりました、是非利用したいと思います。有難うございました。	general,restaurant
+1203	7	SYSTEM	他にご用件はございますか？	general,restaurant
+1203	8	USER	はい大丈夫です	general,restaurant
+1203	9	SYSTEM	承知致しました。　ありがとうございました。	general,restaurant

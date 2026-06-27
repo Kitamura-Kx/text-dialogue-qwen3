@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2254	0	USER	大阪へ旅行に行くんですが、観光名所を探して欲しいです。	general,attraction,hotel,weather
+2254	1	SYSTEM	はい、ご希望はありますか？	general,attraction,hotel,weather
+2254	2	USER	駐車場が無料でしたらどこでも大丈夫です！	general,attraction,hotel,weather
+2254	3	SYSTEM	大阪に駐車場無料の観光名所はありません。	general,attraction,hotel,weather
+2254	4	USER	では駐車場の有無はこだわりません。どこかありますか？	general,attraction,hotel,weather
+2254	5	SYSTEM	大阪の観光名所は４８カ所あります。追加の希望条件はありますか？	general,attraction,hotel,weather
+2254	6	USER	他はないです。	general,attraction,hotel,weather
+2254	7	SYSTEM	では、大阪城天守閣をおすすめします。必見ですよ。	general,attraction,hotel,weather
+2254	8	USER	いいですね！近辺の駅からの所要時間は分かりますか？	general,attraction,hotel,weather
+2254	9	SYSTEM	大阪ビジネスパーク駅から徒歩で12分、他谷町四丁目駅から徒歩で17分、天満橋駅から徒歩で16分、森ノ宮駅から徒歩で16分、大阪城公園駅から徒歩で14分、こんな感じです。	general,attraction,hotel,weather
+2254	10	USER	詳しくありがとうございます。中央区で宿泊施設も探して欲しいです。	general,attraction,hotel,weather
+2254	11	SYSTEM	大阪中央区の宿泊施設は３９件見つかりました。追加の希望条件はありますか？	general,attraction,hotel,weather
+2254	12	USER	リゾートホテルでレストランが併設されているところがいいです。	general,attraction,hotel,weather
+2254	13	SYSTEM	５件ほどヒットしますが、ザ ロイヤルパークホテル アイコニック 大阪御堂筋をお勧めします。	general,attraction,hotel,weather
+2254	14	USER	おすすめありがとうございます。チェックイン開始、チェックアウト終了時刻は分かりますか？	general,attraction,hotel,weather
+2254	15	SYSTEM	チェックインは昼３時、チェックアウトは１１時になります	general,attraction,hotel,weather
+2254	16	USER	ありがとうございます。最寄り駅についても教えてほしいです。	general,attraction,hotel,weather
+2254	17	SYSTEM	淀屋橋駅から徒歩で3分、他本町駅からも歩で4分です。	general,attraction,hotel,weather
+2254	18	USER	では最寄り駅は淀屋橋駅みたいですね。予約もお願いしていいですか？	general,attraction,hotel,weather
+2254	19	SYSTEM	はい、最寄りは淀屋橋駅です。予約希望人数、日付、宿泊数をお聞かせください。	general,attraction,hotel,weather
+2254	20	USER	9/26から3泊で3人で行きたいと思います！	general,attraction,hotel,weather
+2254	21	SYSTEM	予約成功しました。予約番号は6401です。	general,attraction,hotel,weather
+2254	22	USER	ありがとうございます。最後に天気を調べてほしいです。9/26の大正区なんですが、分かりますか？	general,attraction,hotel,weather
+2254	23	SYSTEM	9/26 大阪 大正区 の天気は雨のち曇、最低気温22.1度、最高気温32.8度です。	general,attraction,hotel,weather
+2254	24	USER	ありがとうございます。楽しんできますね。助かりました！	general,attraction,hotel,weather
+2254	25	SYSTEM	よい旅を。	general,attraction,hotel,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2231	0	USER	那覇へ旅行をしたいのですが。	general,attraction
+2231	1	SYSTEM	かしこまりました。何をお調べ致しますか？	general,attraction
+2231	2	USER	観光名所はありますか？真和志地区の庭園で無料Wi-Fiが使えるところがいいんですが。	general,attraction
+2231	3	SYSTEM	はい、その条件ですと、識名園がございます。	general,attraction
+2231	4	USER	ありがとうございます。そちらの料金はわかりますか？	general,attraction
+2231	5	SYSTEM	はい、こちらは大人は400円、小人（中学生以下）は200円、保護者が同伴する小学校就学前の小人は無料となっております。	general,attraction
+2231	6	USER	わかりました。ありがとうございます。	general,attraction
+2231	7	SYSTEM	その他に何かお手伝いできることはございますか？	general,attraction
+2231	8	USER	特にありません。ありがとうございました。	general,attraction
+2231	9	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction

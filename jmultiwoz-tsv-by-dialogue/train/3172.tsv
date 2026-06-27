@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3172	0	USER	札幌への旅行を計画していて、当日買い物が出来るところを探しています。白石地区で駐車場が無料の所がいいのですが。	general,shopping,taxi
+3172	1	SYSTEM	かしこまりました。では、どんぐり 本店はいかがでしょうか？	general,shopping,taxi
+3172	2	USER	ありがとうございます。どんぐり 本店のジャンルと定休日は分かりますか？	general,shopping,taxi
+3172	3	SYSTEM	はい。ジャンルは食料品で、定休日は1/1になります。	general,shopping,taxi
+3172	4	USER	ありがとうございます。当日のタクシー会社も探しています。ジャンボタクシーが利用できるところが良いです。	general,shopping,taxi
+3172	5	SYSTEM	かしこまりました。では、北都ベリアールサービス(株)はいかがでしょうか？	general,shopping,taxi
+3172	6	USER	ありがとうございます。そこのキャッシュレス対応と電話番号は分かりますか？	general,shopping,taxi
+3172	7	SYSTEM	キャッシュレスにも対応しています。電話番号は0118202200です。	general,shopping,taxi
+3172	8	USER	ありがとうございます。予約をしたいのですが、12/19の午後13：50から、どんぐり 本店から札幌オリンピックミュージアムまでお願い出来ますか？	general,shopping,taxi
+3172	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、70409です。	general,shopping,taxi
+3172	10	USER	ありがとうございました。	general,shopping,taxi
+3172	11	SYSTEM	こちらこそありがとうございました。	general,shopping,taxi

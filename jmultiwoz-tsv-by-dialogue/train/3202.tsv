@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3202	0	USER	東京旅行に行くので観光名所を探しています	general,attraction,hotel,restaurant
+3202	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,attraction,hotel,restaurant
+3202	2	USER	Wi-Fiが無料で使えて伝統芸能が楽しめる場所がいいです	general,attraction,hotel,restaurant
+3202	3	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction,hotel,restaurant
+3202	4	USER	じゃあ、伝統芸能じゃなくてもいいです	general,attraction,hotel,restaurant
+3202	5	SYSTEM	かしこまりました。では浜離宮恩賜庭園はいかがでしょうか。	general,attraction,hotel,restaurant
+3202	6	USER	そこにします。駐車場があるかどうかと電話番号と営業時間の3つを教えてください。	general,attraction,hotel,restaurant
+3202	7	SYSTEM	はい。駐車場はありません。電話番号は0335410200になります。また、営業時間は09:00～17:00となっております。	general,attraction,hotel,restaurant
+3202	8	USER	了解です。あと、最寄り駅が荻窪駅で予算は普通ぐらいの宿泊施設はありますか？	general,attraction,hotel,restaurant
+3202	9	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,attraction,hotel,restaurant
+3202	10	USER	じゃあ荻窪駅でなくてもOKです	general,attraction,hotel,restaurant
+3202	11	SYSTEM	かしこまりました。THE AOYAMA GRAND HOTELはいかがでしょうか。	general,attraction,hotel,restaurant
+3202	12	USER	料金情報とチェックアウト終了時間を教えて貰えますか？	general,attraction,hotel,restaurant
+3202	13	SYSTEM	はい。料金情報は値段帯が普通という情報しかなく、申し訳ございません。チェックアウト終了時刻は10:00です。	general,attraction,hotel,restaurant
+3202	14	USER	大丈夫です。あと板橋区にWi-Fiが無料で利用できる飲食店はありますか？	general,attraction,hotel,restaurant
+3202	15	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,attraction,hotel,restaurant
+3202	16	USER	じゃあ千代田区だったらどうでしょうか？	general,attraction,hotel,restaurant
+3202	17	SYSTEM	かしこまりました。では、YONA YONA BEER WORKS 赤坂店はいかがでしょうか？	general,attraction,hotel,restaurant
+3202	18	USER	営業時間を教えて貰えますか？	general,attraction,hotel,restaurant
+3202	19	SYSTEM	はい。11:30～23:00です。	general,attraction,hotel,restaurant
+3202	20	USER	わかりました。3人で6/14で13:30で予約してください	general,attraction,hotel,restaurant
+3202	21	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,attraction,hotel,restaurant
+3202	22	USER	人数を二人にしたら予約できますか？	general,attraction,hotel,restaurant
+3202	23	SYSTEM	かしこまりました。ご予約承りました。予約番号は、72843です。	general,attraction,hotel,restaurant
+3202	24	USER	ありがとうございます。	general,attraction,hotel,restaurant
+3202	25	SYSTEM	他に用件はございませんか。	general,attraction,hotel,restaurant
+3202	26	USER	ないです。いろいろありがとうございました	general,attraction,hotel,restaurant
+3202	27	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel,restaurant

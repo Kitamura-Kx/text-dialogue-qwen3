@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4598	0	USER	那覇への旅行を計画しています． 当日泊まる宿泊施設を探してください．駐車場を無料で利用できるところにしてください．	general,hotel
+4598	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,hotel
+4598	2	USER	でしたら駐車場はどちらでも。	general,hotel
+4598	3	SYSTEM	コンフォートホテル那覇県庁前はいかがでしょうか。	general,hotel
+4598	4	USER	そちらのレストランの有無，チェックイン開始時刻，住所を教えていただけますか。	general,hotel
+4598	5	SYSTEM	レストランの有無は無し、チェックイン開始時刻は15:00、住所 は沖縄県那覇市久茂地1丁目3-11です。	general,hotel
+4598	6	USER	ありがとうございます。そちらで人数は4人です．日付は7/27です．宿泊日数は2泊で予約して欲しいです。	general,hotel
+4598	7	SYSTEM	予約完了いたしました。予約番号は62865になります。	general,hotel
+4598	8	USER	ありがとうございます。	general,hotel

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1567	0	USER	大阪へ旅行に行く予定をしています。	general,restaurant,hotel
+1567	1	SYSTEM	どのようなお店や施設をお探しですか？	general,restaurant,hotel
+1567	2	USER	はい、食事をするお店を探しているのですが、無料Wi-Fi完備のお店がいいですね。	general,restaurant,hotel
+1567	3	SYSTEM	バルバッコア 心斎橋店は、いかがでしょうか？	general,restaurant,hotel
+1567	4	USER	そこにします。バルバッコア 心斎橋店は、近くの駅からどれくらいかかりそうですか？値段帯がどの程度かも知りたいです。	general,restaurant,hotel
+1567	5	SYSTEM	近辺の駅からの所要時間は、心斎橋駅から徒歩で1分です。　値段帯は、高めとなっています。	general,restaurant,hotel
+1567	6	USER	いいですね。それと、福島区でレストラン付きの宿泊施設を探しています。	general,restaurant,hotel
+1567	7	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,hotel
+1567	8	USER	そうなんですね。それではレストランが付いていなくても良いので、もう一度探してもらえますか？	general,restaurant,hotel
+1567	9	SYSTEM	では、D3 Hotelはいかがですか？	general,restaurant,hotel
+1567	10	USER	ありがとうございます。ちなみに、そこのホテルはWi-Fiはあるのでしょうか？	general,restaurant,hotel
+1567	11	SYSTEM	はい、無料Wi-Fiの利用が可能です。	general,restaurant,hotel
+1567	12	USER	ありがとうございます。	general,restaurant,hotel
+1567	13	SYSTEM	他にご用件はありますか？	general,restaurant,hotel
+1567	14	USER	いいえ、お世話になりました。	general,restaurant,hotel
+1567	15	SYSTEM	承知致しました。　ありがとうございました。	general,restaurant,hotel

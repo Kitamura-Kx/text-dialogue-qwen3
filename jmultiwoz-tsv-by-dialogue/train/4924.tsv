@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4924	0	USER	東京に行くので、泊まれる場所を探しています	general,hotel
+4924	1	SYSTEM	東京の宿泊施設ですね。ご希望の条件は何かございますか？	general,hotel
+4924	2	USER	予算は高めで、駐車場は無料の場所をお願いします	general,hotel
+4924	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel
+4924	4	USER	安めの場所ならどうですか？	general,hotel
+4924	5	SYSTEM	ありがとうございます。そうしますと、つるや旅館というところが、１件ご案内可能です。いかがでしょうか？	general,hotel
+4924	6	USER	ではそこにします。近くの駅からそこまでの所要時間と、料金について教えてもらえますか？	general,hotel
+4924	7	SYSTEM	かしこまりました。最寄りの本所吾妻橋駅から徒歩で2分、また浅草駅からの場合は徒歩で5分の距離にございます。料金につきましては、お値段が安めということ以外に詳しい料金情報が手元になく、ご案内することができません。申し訳ございません。	general,hotel
+4924	8	USER	わかりました。では、そこで、4人で1月2日から4泊で予約をお願いします	general,hotel
+4924	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、78643です。	general,hotel
+4924	10	USER	以上です。助かりました。	general,hotel
+4924	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせくださいませ。	general,hotel

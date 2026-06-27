@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1286	0	USER	東京へ旅行したいのですが、ショッピングできるところを教えて下さい。	general,shopping,taxi
+1286	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,taxi
+1286	2	USER	特にないのですが場所は世田谷区がいいんです。	general,shopping,taxi
+1286	3	SYSTEM	では、素今歩はいかがでしょう？ジャンルは文房具、雑貨となります。	general,shopping,taxi
+1286	4	USER	いいですね。そこに行きたいです。	general,shopping,taxi
+1286	5	SYSTEM	何かご案内することはございますか？	general,shopping,taxi
+1286	6	USER	当日、タクシーで行きたいのですが	general,shopping,taxi
+1286	7	SYSTEM	タクシーについて、何かご希望はございますか？	general,shopping,taxi
+1286	8	USER	できましたらトーショー交通などは予約できそうですか？	general,shopping,taxi
+1286	9	SYSTEM	トーショー交通ですね。キャッシュレス、ジャンボタクシーともに対応しております。電話番号は、0423441111となります。ご予約に必要な、出発日時と出発地、目的地を教えていただけますか？	general,shopping,taxi
+1286	10	USER	はい、ありがとうございます。ばっちりです。11/8で時間は14:50です．素今歩からルミネ新宿まで行きたいです。予約可能ですか？	general,shopping,taxi
+1286	11	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、93650となります。他にご案内できることはございますか？	general,shopping,taxi
+1286	12	USER	いえ、以上です。ありがとうございました。	general,shopping,taxi
+1286	13	SYSTEM	ありがとうございました。	general,shopping,taxi

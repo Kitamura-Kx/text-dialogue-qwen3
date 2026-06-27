@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+299	0	USER	お願いします。仙台へ行きたいのですが、当日利用できる飲食店を探しています。	general,restaurant,weather
+299	1	SYSTEM	ご利用ありがとうございます。ジャンルなど、なにかご希望の条件はございますか？	general,restaurant,weather
+299	2	USER	料理のジャンルは問いません。普通の予算で利用できる勾当台公園駅周辺のお店がいいです。	general,restaurant,weather
+299	3	SYSTEM	そういたしますと、味の牛たん喜助 定禅寺店は如何でしょうか？郷土料理, 和食のお店となっております。	general,restaurant,weather
+299	4	USER	そちらのお店に定休日はありますか？	general,restaurant,weather
+299	5	SYSTEM	定休日は不定休で、元旦もお休みとなっております。	general,restaurant,weather
+299	6	USER	わかりました。では予約をお願いします。	general,restaurant,weather
+299	7	SYSTEM	かしこまりました。ご利用予定の日時と人数はお決まりでしょうか？	general,restaurant,weather
+299	8	USER	はい。8/9の9：40からで、4人でお願いします。	general,restaurant,weather
+299	9	SYSTEM	ご予約承りました。予約番号は、79010です。	general,restaurant,weather
+299	10	USER	ありがとうございます。ところで、8/9の宮城野区の天気はわかりますか？	general,restaurant,weather
+299	11	SYSTEM	はい。天気は、雨のち晴れの予報となっております。	general,restaurant,weather
+299	12	USER	最低気温と最高気温はどうでしょう？	general,restaurant,weather
+299	13	SYSTEM	最低気温は26.3度、最高気温は31.1度になる予想です。	general,restaurant,weather
+299	14	USER	わかりました。ありがとうございます。失礼いたします。	general,restaurant,weather
+299	15	SYSTEM	こちらこそ、ありがとうございました。またのご利用をお待ちしております。	general,restaurant,weather

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4803	0	USER	名古屋へ旅行する予定なのですが、昭和美術館(公益財団法人後藤報恩会)という観光名所はありますか？	general,attraction,restaurant
+4803	1	SYSTEM	はい、昭和美術館(公益財団法人後藤報恩会)ですね。	general,attraction,restaurant
+4803	2	USER	そうです。大人入場料と駐車場の有無を調べてください。	general,attraction,restaurant
+4803	3	SYSTEM	大人入場料は６００円、駐車場は無料です。	general,attraction,restaurant
+4803	4	USER	わかりました。あと、しゃぶしゃぶ 山笑ふ 名古屋ラシック店にWi-Fiがあるかどうかも教えてください。	general,attraction,restaurant
+4803	5	SYSTEM	しゃぶしゃぶ 山笑ふ 名古屋ラシック店のWiFiは不明です。	general,attraction,restaurant
+4803	6	USER	わかりました。しゃぶしゃぶ 山笑ふ 名古屋ラシック店の予約をお願いしていいですか？2人で5/25の16:10からです。	general,attraction,restaurant
+4803	7	SYSTEM	予約成功しました。予約番号は6680です。	general,attraction,restaurant
+4803	8	USER	ありがとうございました。	general,attraction,restaurant

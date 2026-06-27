@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3430	0	USER	こんにちは。仙台に行くのですが、そこか飲食店を探しています。	general,restaurant,taxi
+3430	1	SYSTEM	かしこまりました。御条件伺います。	general,restaurant,taxi
+3430	2	USER	予算は高めで、Wi-Fiが無料のところがいいです。	general,restaurant,taxi
+3430	3	SYSTEM	お待たせ致しました。その条件でした黒毛和牛一頭切り 伊達哉がおすすめです。	general,restaurant,taxi
+3430	4	USER	そちらはどのエリアになりますか？	general,restaurant,taxi
+3430	5	SYSTEM	エリアは宮城野区でございます。	general,restaurant,taxi
+3430	6	USER	ありがとうございます。あと、当日タクシーを使いたいのですが、ジャンボタクシーが利用できるところはありますか？	general,restaurant,taxi
+3430	7	SYSTEM	かしこまりました。では、仙都タクシー（株）はいかがでしょうか？	general,restaurant,taxi
+3430	8	USER	そちらの電話番号を教えてください。	general,restaurant,taxi
+3430	9	SYSTEM	0120023742でございます。	general,restaurant,taxi
+3430	10	USER	ありがとうございます。では、2/5の14:00で、先ほどの黒毛和牛一頭切り 伊達哉から、ANAホリデイ・イン仙台まで予約をお願いできますでしょうか。	general,restaurant,taxi
+3430	11	SYSTEM	お待たせ致しました。予約番号9378でお取りさせていただきました。	general,restaurant,taxi
+3430	12	USER	ありがとうございます。以上です、お世話になりました。	general,restaurant,taxi
+3430	13	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,taxi

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3061	0	USER	今度、福岡に行く予定です。コンビニで買い物をしたいのですが良い所はありますか？	general,shopping,weather
+3061	1	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,shopping,weather
+3061	2	USER	そうですか。ではコンビニでなくても結構ですので、買い物できる場所を教えて下さい。	general,shopping,weather
+3061	3	SYSTEM	かしこまりました。やまや本店はどうですか？	general,shopping,weather
+3061	4	USER	行ってみたいです。住所を教えてもらえますか？	general,shopping,weather
+3061	5	SYSTEM	はい。住所は福岡県福岡市東区松島3丁目31-1です。	general,shopping,weather
+3061	6	USER	ありがとうございます。もう１つ、12月5日の西区の最低気温を教えてください。	general,shopping,weather
+3061	7	SYSTEM	はい。最低気温は0.9度です。	general,shopping,weather
+3061	8	USER	助かりました。それでは失礼します。	general,shopping,weather

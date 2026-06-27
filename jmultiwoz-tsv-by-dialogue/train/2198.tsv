@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2198	0	USER	横浜でショッピングモールを探してください。	general,shopping,taxi,weather
+2198	1	SYSTEM	横浜のショッピングモールは１４件あります。追加の希望条件はありますか？	general,shopping,taxi,weather
+2198	2	USER	他の条件はございません。おすすめのスポットはどこですか？	general,shopping,taxi,weather
+2198	3	SYSTEM	それならば、Leaf Minato Miraiをお勧めします。	general,shopping,taxi,weather
+2198	4	USER	そちらの営業時間は何時から何時までですか？	general,shopping,taxi,weather
+2198	5	SYSTEM	10:30～20:00になります。	general,shopping,taxi,weather
+2198	6	USER	分かりました。続いて、タクシーについても教えてください。キャッシュレス対応できる会社はありますか？	general,shopping,taxi,weather
+2198	7	SYSTEM	横浜にはキャッシュレス対応のタクシーはありません。	general,shopping,taxi,weather
+2198	8	USER	ではキャッシュレス対応の条件を除いてください。	general,shopping,taxi,weather
+2198	9	SYSTEM	いくつかありますが、北斗タクシー株式会社をお勧めします。	general,shopping,taxi,weather
+2198	10	USER	そちらはジャンボタクシーも運営されていますか？	general,shopping,taxi,weather
+2198	11	SYSTEM	はい、ジャンボタクシーを対応しています。	general,shopping,taxi,weather
+2198	12	USER	ではあわせて予約もお願いします。2/4の12:40で、マルタニホテルからLeaf Minato Miraiまでの利用です。	general,shopping,taxi,weather
+2198	13	SYSTEM	2/4の12:40、マルタニホテルからLeaf Minato Miraiまで、予約成功しました。予約番号は75055です。	general,shopping,taxi,weather
+2198	14	USER	ありがとうございます！最後に、瀬谷区の2/4の天気も教えてください。	general,shopping,taxi,weather
+2198	15	SYSTEM	2/4、横浜瀬谷区の天気は晴時々曇です。	general,shopping,taxi,weather
+2198	16	USER	ありがとうございました！	general,shopping,taxi,weather

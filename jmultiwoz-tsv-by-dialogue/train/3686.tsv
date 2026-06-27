@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3686	0	USER	今度東京に行くのですが、観光できるところを探しています。	general,attraction
+3686	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction
+3686	2	USER	Wi-Fiが無料で利用できて、絶景が見れるところがいいです。最寄り駅が亀戸駅だと嬉しいです。	general,attraction
+3686	3	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction
+3686	4	USER	では、最寄り駅は特にこだわりません。	general,attraction
+3686	5	SYSTEM	かしこまりました。では、teamLab Planets TOKYOはいかがでしょうか？	general,attraction
+3686	6	USER	いいですね、そこに行ってみます。電話番号を教えていただけますか。	general,attraction
+3686	7	SYSTEM	はい。電話番号は申し訳ございません。不明となっております。	general,attraction
+3686	8	USER	承知しました。以上です、ありがとうございました！	general,attraction
+3686	9	SYSTEM	かしこまりました。ありがとうございました。	general,attraction

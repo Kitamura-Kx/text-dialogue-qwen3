@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2892	0	USER	仙台へ旅行に行くんですが、宿泊施設を探して欲しいです。	general,hotel
+2892	1	SYSTEM	はい、ご希望の条件をおきかせください	general,hotel
+2892	2	USER	Wi-Fiが無料のシティホテルはありますか？	general,hotel
+2892	3	SYSTEM	仙台でWiFi無料のシティホテルはいくつかありますが、ホテルJALシティ仙台、こちらをお勧めします。	general,hotel
+2892	4	USER	エリアと住所を教えてください。	general,hotel
+2892	5	SYSTEM	青葉区です。宮城県仙台市青葉区花京院1丁目2-12になります。	general,hotel
+2892	6	USER	あと値段帯も分かりますか？	general,hotel
+2892	7	SYSTEM	値段帯は安めになります。	general,hotel
+2892	8	USER	では予約をお願いします！9/28から2泊で3人で泊まりたいです。	general,hotel
+2892	9	SYSTEM	その条件だと予約に失敗してしまいました。	general,hotel
+2892	10	USER	2人だとどうでしょう？	general,hotel
+2892	11	SYSTEM	２人だと予約できました。予約番号は59194です。	general,hotel
+2892	12	USER	助かりました！ありがとうございます。	general,hotel
+2892	13	SYSTEM	よい旅を	general,hotel

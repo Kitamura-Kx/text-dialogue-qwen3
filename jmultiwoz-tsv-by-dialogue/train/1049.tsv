@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1049	0	USER	那覇へ行くのですが、藤崎紅型工房、つぼや工藝店といった買い物できる所の情報を知りたいです。	general,shopping
+1049	1	SYSTEM	ご利用ありがとうございます。本庁エリアにある、藤崎紅型工房 つぼや工藝店ですね。どういった情報をお伝えしましょうか？	general,shopping
+1049	2	USER	定休日と最寄り駅からの所要時間を教えてください。	general,shopping
+1049	3	SYSTEM	定休日は、不定休となっております。最寄りは牧志駅で、徒歩で10分の距離にございます。	general,shopping
+1049	4	USER	ありがとうございます。それが分かれば大丈夫です。失礼します。	general,shopping

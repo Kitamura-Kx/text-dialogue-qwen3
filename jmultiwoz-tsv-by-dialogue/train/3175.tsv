@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3175	0	USER	那覇への旅行を計画していて、当日買い物が出来るところを探しています。最寄り駅が県庁前駅でお土産のお店が希望です。	general,shopping,restaurant,taxi
+3175	1	SYSTEM	かしこまりました。では、わしたショップ国際通り本店はいかがでしょうか？	general,shopping,restaurant,taxi
+3175	2	USER	ありがとうございます。そこにしようと思います。当日の飲食店も探しています。Wi-Fi無料、駐車場無料のところはありますか？	general,shopping,restaurant,taxi
+3175	3	SYSTEM	かしこまりました。では、しゃぶ葉 那覇小禄店はいかがでしょうか？	general,shopping,restaurant,taxi
+3175	4	USER	ありがとうございます。しゃぶ葉 那覇小禄店のジャンル，料金は分かりますか？	general,shopping,restaurant,taxi
+3175	5	SYSTEM	はい。ジャンルは和食で、値段帯は安めです。メニューを例に出すと、宮崎県産 霧島黒豚＆牛みすじ＆国産牛食べ放題コースが3409円と、ランチ牛2種＆三元豚食べ放題コースが1869円となっております。	general,shopping,restaurant,taxi
+3175	6	USER	ありがとうございます。そこの予約をお願いしたいのですが、9/24の午後13：00から4名で予約をお願い出来ますか？	general,shopping,restaurant,taxi
+3175	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、39967 です。	general,shopping,restaurant,taxi
+3175	8	USER	ありがとうございます。当日のタクシー会社も探しています。キャッシュレス対応しているところが良いです。	general,shopping,restaurant,taxi
+3175	9	SYSTEM	かしこまりました。では、三和交通はいかがでしょうか？	general,shopping,restaurant,taxi
+3175	10	USER	ありがとうございます。予約をお願いしたいのですが、9/24の午前11：30から、わしたショップ国際通り本店からしゃぶ葉 那覇小禄店までお願い出来ますか？	general,shopping,restaurant,taxi
+3175	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、21948です。	general,shopping,restaurant,taxi
+3175	12	USER	ありがとうございました。	general,shopping,restaurant,taxi
+3175	13	SYSTEM	ほかにお調べすることはありますか？	general,shopping,restaurant,taxi
+3175	14	USER	いえ、他にはありません。ありがとうございました。	general,shopping,restaurant,taxi
+3175	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant,taxi

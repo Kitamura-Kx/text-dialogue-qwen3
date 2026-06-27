@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3856	0	USER	大阪へ旅行に行きたく、淀川区で買い物ができるところを探してほしいです。無料の駐車場が利用できるところ希望です。	general,shopping
+3856	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping
+3856	2	USER	それではエリアは問いません。	general,shopping
+3856	3	SYSTEM	それでは、ムーミンスタンド天王寺ミオ店はいかがですか？	general,shopping
+3856	4	USER	そちらの最寄駅とジャンルを教えてください。	general,shopping
+3856	5	SYSTEM	お店のジャンルは、お土産, 食料品です。　最寄り駅は、天王寺駅になります。	general,shopping
+3856	6	USER	ありがとうございます。こちらからは以上です。	general,shopping
+3856	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

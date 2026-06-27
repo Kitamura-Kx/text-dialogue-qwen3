@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3899	0	USER	仙台への旅行を計画しているのですが、当日食事をするお店を探してください。予算は普通が希望です。	general,restaurant
+3899	1	SYSTEM	かしこまりました。５３件ございますが、ほかにご希望の条件はございますか。	general,restaurant
+3899	2	USER	Wi-Fiと駐車場が無料のところがよいです。	general,restaurant
+3899	3	SYSTEM	ではひげぱんだはいかがでしょうか。	general,restaurant
+3899	4	USER	楽しそうな名前ですね。では、そちらの電話番号を教えてください。	general,restaurant
+3899	5	SYSTEM	電話番号は0223418177でございます。	general,restaurant
+3899	6	USER	ありがとうございました！	general,restaurant

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4301	0	USER	福岡への旅行を計画していて、当日の観光名所を探しています。駐車場無料のところが良いのですが。	general,attraction
+4301	1	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction
+4301	2	USER	そうですか。では、駐車場は有料でも良いです。	general,attraction
+4301	3	SYSTEM	それでしたら、キャナルシティ劇場はどうですか？	general,attraction
+4301	4	USER	ありがとうございます。そこにしようと思います。キャナルシティ劇場のエリアはどこになりますか？	general,attraction
+4301	5	SYSTEM	はい。エリアは博多区です。	general,attraction
+4301	6	USER	博多区ですね、分かりました。ありがとうございました。	general,attraction
+4301	7	SYSTEM	はい。こちらこそご利用ありがとうございました。	general,attraction

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+259	0	USER	横浜で安めのうどん・そばの店を探してもらえませんか？	general,restaurant,attraction,weather
+259	1	SYSTEM	はい。1件、福てんかつ トツカーナモール店がございます。	general,restaurant,attraction,weather
+259	2	USER	そのお店は駐車場はありますか？あと、どのぐらいの感じか料金の情報が知りたいんですけど？	general,restaurant,attraction,weather
+259	3	SYSTEM	大変申し訳ございません。駐車場についてや料金情報については不明で、判りかねます。	general,restaurant,attraction,weather
+259	4	USER	そうですか、しょうがないですね。9月16日で予約は取れますか？4人で、9時40分でお願いします。	general,restaurant,attraction,weather
+259	5	SYSTEM	はい。ご予約できました。予約番号は33635となります。	general,restaurant,attraction,weather
+259	6	USER	もう一つ調べてほしいんですけど、根岸駅の近くでWi-Fiと駐車場が無料の観光名所ってありますか？	general,restaurant,attraction,weather
+259	7	SYSTEM	はい。ジャンルが美術館・博物館, 建築物, 歴史的な散策エリアになる、三溪園というのがございます。	general,restaurant,attraction,weather
+259	8	USER	楽しそうですね。そこはエリア的にはどこになりますか？あと電話番号も教えてください。	general,restaurant,attraction,weather
+259	9	SYSTEM	承知しました。エリアは中区になり、根岸駅からバスで10分です。電話番号は0456210634となります。	general,restaurant,attraction,weather
+259	10	USER	ありがとうございます。あと神奈川区の9月16日の天候を知りたいんですけど、気温とかどのぐらいになりそうですか？	general,restaurant,attraction,weather
+259	11	SYSTEM	お天気の予報は、晴時々曇り、最低気温25.9度、最高気温31.2度となっております。	general,restaurant,attraction,weather
+259	12	USER	うわあ、暑くなりそうですね。いろいろ調べていただき、ありがとうございました。	general,restaurant,attraction,weather

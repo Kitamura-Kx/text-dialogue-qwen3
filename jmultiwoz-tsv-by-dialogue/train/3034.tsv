@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3034	0	USER	京都旅行でポケモンセンターキョウトに行きたいのですが、エリアはどこですか？	general,shopping,restaurant,hotel
+3034	1	SYSTEM	下京区になります。	general,shopping,restaurant,hotel
+3034	2	USER	ありがとうございます。飲食店のおすすめも教えて頂けますか？予算は安めでWi-Fiが無料で利用できる場所はありますか。	general,shopping,restaurant,hotel
+3034	3	SYSTEM	京都で安め、WiFi無料の飲食店ならば、いっかくじゅう 四条新町店、こちらをオススメします。	general,shopping,restaurant,hotel
+3034	4	USER	ではそちらにします。電話番号と営業時間を教えてください。	general,shopping,restaurant,hotel
+3034	5	SYSTEM	電話は0757085536、朝７時から夜９時まで営業しています。	general,shopping,restaurant,hotel
+3034	6	USER	予約もお願いできますか？4人で9/26の16:30からが希望です。	general,shopping,restaurant,hotel
+3034	7	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,shopping,restaurant,hotel
+3034	8	USER	3人であれば予約できますか？	general,shopping,restaurant,hotel
+3034	9	SYSTEM	３人で予約成功しました。予約番号は98609です。	general,shopping,restaurant,hotel
+3034	10	USER	ありがとうございます。当日の宿泊施設を北区周辺で探して頂けますか。レストランが併設されている場所がいいです。	general,shopping,restaurant,hotel
+3034	11	SYSTEM	北区でレストラン併設の宿泊施設はなさそうです。	general,shopping,restaurant,hotel
+3034	12	USER	下京区であればありそうですか？	general,shopping,restaurant,hotel
+3034	13	SYSTEM	はい、いくつかありますが、アパホテル〈京都駅前〉、こちらをオススメします。	general,shopping,restaurant,hotel
+3034	14	USER	ではそちらでお願いします。電話番号も教えてください。	general,shopping,restaurant,hotel
+3034	15	SYSTEM	0753654111です。	general,shopping,restaurant,hotel
+3034	16	USER	ありがとうございます。4人で9/26から3泊だと予約できますか？	general,shopping,restaurant,hotel
+3034	17	SYSTEM	予約成功しました。予約番号は96402です。	general,shopping,restaurant,hotel
+3034	18	USER	ありがとうございました。	general,shopping,restaurant,hotel

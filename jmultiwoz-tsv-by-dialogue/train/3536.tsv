@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3536	0	USER	東京に行くのですが、ジャンボタクシーを利用できるタクシー会社を探しています。	general,taxi
+3536	1	SYSTEM	かしこまりました。東京エムケイがございます。	general,taxi
+3536	2	USER	キャッシュレス対応はしていますか？	general,taxi
+3536	3	SYSTEM	はい。キャッシュレスにも対応しております。	general,taxi
+3536	4	USER	電話番号を教えてください。	general,taxi
+3536	5	SYSTEM	電話番号は0355475551でございます。	general,taxi
+3536	6	USER	1/2の09:30にhotel azabu tenから、せとうち旬彩館まで予約をお願いしたいです。	general,taxi
+3536	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は82188でございます。	general,taxi
+3536	8	USER	ありがとうございます。	general,taxi
+3536	9	SYSTEM	ほかにご用件はございませんか。	general,taxi
+3536	10	USER	特にないです。	general,taxi
+3536	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

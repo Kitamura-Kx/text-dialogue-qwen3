@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4349	0	USER	仙台への旅行を計画しているのですがwifiが無料で利用できてレストランが併設されている青葉区の宿泊施設はありませんか	general,hotel,weather
+4349	1	SYSTEM	はい。変なホテル仙台 国分町はいかがですか。	general,hotel,weather
+4349	2	USER	ありがとうございます、値段帯を教えていただけますか	general,hotel,weather
+4349	3	SYSTEM	はい。値段帯は安めとなっております。	general,hotel,weather
+4349	4	USER	ありがとうございます、5月2日の青葉区の天気を教えていただけますか	general,hotel,weather
+4349	5	SYSTEM	はい。晴のち曇の予報です。	general,hotel,weather
+4349	6	USER		general,hotel,weather

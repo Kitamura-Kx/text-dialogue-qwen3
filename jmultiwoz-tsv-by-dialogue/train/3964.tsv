@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3964	0	USER	那覇への旅行を計画していて、当日買い物が出来るところを探しています。本庁地区で駐車場無料のところが希望です。	general,shopping,hotel,weather
+3964	1	SYSTEM	申し訳ありません。その条件では、お探しすることが出来ませんでした。	general,shopping,hotel,weather
+3964	2	USER	そうですか。では、駐車場は有料でもいいです。	general,shopping,hotel,weather
+3964	3	SYSTEM	かしこまりました。それでは那覇国際通り商店街はいかがでしょうか？	general,shopping,hotel,weather
+3964	4	USER	ありがとうございます。那覇国際通り商店街の定休日と営業時間は分かりますか？	general,shopping,hotel,weather
+3964	5	SYSTEM	定休日、営業時間共に店舗により異なるとのことです。	general,shopping,hotel,weather
+3964	6	USER	ありがとうございます。当日の宿泊施設も探しています。Wi-Fi無料でレストランが併設されているシティホテルが良いです。	general,shopping,hotel,weather
+3964	7	SYSTEM	かしこまりました。それではパシフィックホテル沖縄はいかがでしょうか？	general,shopping,hotel,weather
+3964	8	USER	ありがとうございます。パシフィックホテル沖縄のチェックアウト終了時刻は分かりますか？	general,shopping,hotel,weather
+3964	9	SYSTEM	チェックアウト終了時刻は10時でございます。	general,shopping,hotel,weather
+3964	10	USER	ありがとうございます。当日の天気も知りたいです。1/15の首里地区の天気を教えて貰えますか？	general,shopping,hotel,weather
+3964	11	SYSTEM	はい、当日の天気は曇のち雨の予報でございます。	general,shopping,hotel,weather
+3964	12	USER	ありがとうございました。	general,shopping,hotel,weather
+3964	13	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,hotel,weather

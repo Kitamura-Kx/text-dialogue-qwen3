@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2210	0	USER	那覇へ旅行に行くのですが、首里にWi-Fiが無料で利用できる飲食店はありますか？	general,restaurant,weather
+2210	1	SYSTEM	首里にWi-Fi無料の飲食店はありません。	general,restaurant,weather
+2210	2	USER	わかりました。なら、Wi-Fiはなくてもいいです。	general,restaurant,weather
+2210	3	SYSTEM	それならばりゅうそう茶屋がオススメです。	general,restaurant,weather
+2210	4	USER	よさげですね。値段帯と電話番号、あと料金情報も知りたいです。	general,restaurant,weather
+2210	5	SYSTEM	値段帯は普通、電話番号は0988867678、料金情報は不明ですね。	general,restaurant,weather
+2210	6	USER	わかりました。首里の7/19の天候も教えてください。	general,restaurant,weather
+2210	7	SYSTEM	7/19 那覇 首里 の天気は曇時々晴です。	general,restaurant,weather
+2210	8	USER	ありがとうございます。最低気温とかわかりますか？	general,restaurant,weather
+2210	9	SYSTEM	最低気温は26.1度です。	general,restaurant,weather
+2210	10	USER	ありがとうございました。もう大丈夫です。	general,restaurant,weather
+2210	11	SYSTEM	お役に立てて光栄です	general,restaurant,weather

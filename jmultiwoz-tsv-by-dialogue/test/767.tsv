@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+767	0	USER	大阪へ行こうと思っています。ジャンボタクシーを利用できるタクシー会社を探していただけますか？	general,taxi,weather
+767	1	SYSTEM	かしこまりました。榮交通株式会社はいかがでしょうか？こちらでしたら、ジャンボタクシーのほか、キャッシュレスのお支払いにも対応しておりますよ。	general,taxi,weather
+767	2	USER	そちらの電話番号も教えていただけますでしょうか。	general,taxi,weather
+767	3	SYSTEM	電話番号は、0669624641です。予約をお取りしますか？	general,taxi,weather
+767	4	USER	はい、5月5日14時30分道頓堀からゲストハウス木雲まで予約をお願いします。	general,taxi,weather
+767	5	SYSTEM	かしこまりました。ご予約が完了いたしました。予約番号は、15615です。	general,taxi,weather
+767	6	USER	わかりました。ありがとうございます。	general,taxi,weather
+767	7	SYSTEM	他になにか、お調べすることはございますか？	general,taxi,weather
+767	8	USER	5月5日の生野区の天候を調べていただけますか？	general,taxi,weather
+767	9	SYSTEM	はい、かしこまりました。当日の天気は、晴のち曇の予報です。最低気温は20.1度、最高気温は25.6度の予想となっております。	general,taxi,weather
+767	10	USER	わかりました。ありがとうございます。	general,taxi,weather
+767	11	SYSTEM	他にはお調べすることはございませんか？	general,taxi,weather
+767	12	USER	いいえ、大丈夫です。ありがとうございました。	general,taxi,weather

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1844	0	USER	福岡で観光名所を探してるんですけど、中央区で薬院大通（動植物園口）が最寄りになるWi-Fiが無料のところってありますか？	general,attraction,restaurant,taxi
+1844	1	SYSTEM	かしこまりました。では、福岡市動植物園はいかがでしょうか？	general,attraction,restaurant,taxi
+1844	2	USER	楽しそうですね。あと飲食店も教えてください。無料で駐車できる所が良いんですけど。	general,attraction,restaurant,taxi
+1844	3	SYSTEM	かしこまりました。では、能古の旬はいかがでしょうか？ジャンルは寿司・魚料理, 和食です。	general,attraction,restaurant,taxi
+1844	4	USER	寿司か、いいですね。11月26日18時で2人の予約は取れますか？	general,attraction,restaurant,taxi
+1844	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、59405です。	general,attraction,restaurant,taxi
+1844	6	USER	ではジャンボタクシーが使えるタクシー会社も探してもらえますか？	general,attraction,restaurant,taxi
+1844	7	SYSTEM	かしこまりました。では、ラッキー自動車（株）はいかがでしょうか？キャッシュレスにも対応しています。	general,attraction,restaurant,taxi
+1844	8	USER	助かります。11月26日、福岡市動植物園を16時20分に出て能古の旬まで予約できますか？	general,attraction,restaurant,taxi
+1844	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、10026 です。	general,attraction,restaurant,taxi
+1844	10	USER	いろいろお手数をかけました。ありがとうございました。	general,attraction,restaurant,taxi

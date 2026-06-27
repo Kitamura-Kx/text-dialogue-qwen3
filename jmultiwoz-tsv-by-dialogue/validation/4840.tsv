@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4840	0	USER	京都で京都府立府民ホールALTIという観光名所に行くのですがこれはどのエリアにありますか？	general,attraction,weather,taxi
+4840	1	SYSTEM	こちらのエリアは、上京区になります。	general,attraction,weather,taxi
+4840	2	USER	わかりました。あと9/28の東山区の天気と気温を教えてください。	general,attraction,weather,taxi
+4840	3	SYSTEM	当日の天気は、晴で最高気温は、31.9度、最低気温は17.8度です。	general,attraction,weather,taxi
+4840	4	USER	ありがとうございます。キャッシュレス払いができるジャンボタクシーも探してほしいです。	general,attraction,weather,taxi
+4840	5	SYSTEM	では、帝産京都自動車株式会社はいかがですか？	general,attraction,weather,taxi
+4840	6	USER	そのタクシー会社の電話番号を教えてください。	general,attraction,weather,taxi
+4840	7	SYSTEM	電話番号は、0756611881です。	general,attraction,weather,taxi
+4840	8	USER	ありがとうございます。9/28の14：50に京都府立府民ホールALTIから大宮交通公園までのタクシーを予約したいです。	general,attraction,weather,taxi
+4840	9	SYSTEM	予約出来ました。予約番号は、57055です。	general,attraction,weather,taxi
+4840	10	USER	ありがとうございました。	general,attraction,weather,taxi
+4840	11	SYSTEM	他にご用件はありますか？	general,attraction,weather,taxi
+4840	12	USER	大丈夫です。	general,attraction,weather,taxi
+4840	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather,taxi

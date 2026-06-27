@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1631	0	USER	札幌へ泊まりで行く予定をたてているところです。	general,hotel,shopping,weather
+1631	1	SYSTEM	かしこまりました。お知りになりたい情報はございますか。	general,hotel,shopping,weather
+1631	2	USER	はい、宿泊先を探しています。無料Wi-Fiの利用ができて、レストランもある所はありますか？	general,hotel,shopping,weather
+1631	3	SYSTEM	ではホテルビスタ札幌[大通]はいかがですか。	general,hotel,shopping,weather
+1631	4	USER	ありがとうございます、ホテルビスタ札幌[大通]はどの程度の値段帯でしょうか。チェックアウトの時間も知りたいです。	general,hotel,shopping,weather
+1631	5	SYSTEM	値段帯は安めでございます。チェックアウト終了時刻は11:00となっております。	general,hotel,shopping,weather
+1631	6	USER	分かりました。旅行の当日は中央区のあたりで買い物もしたいです。無料駐車場つきのお店はないですか？	general,hotel,shopping,weather
+1631	7	SYSTEM	ではポケモンセンターサッポロはいかがでしょうか。	general,hotel,shopping,weather
+1631	8	USER	ポケモンセンターサッポロというのは、どんなジャンルのお店ですか？定休日と、一番近い駅からどの位時間がかかるかも教えてください。	general,hotel,shopping,weather
+1631	9	SYSTEM	ジャンルは文房具・雑貨, おもちゃ, お土産でございます。定休日はございません。札幌駅から徒歩で1分となっております。	general,hotel,shopping,weather
+1631	10	USER	助かります。行くのは6/3なのですが、この日の中央区の天気は良さそうでしょうか。	general,hotel,shopping,weather
+1631	11	SYSTEM	天気は曇、最低気温が19度で最高気温が20.8度でございます。	general,hotel,shopping,weather
+1631	12	USER	ありがとうございます。	general,hotel,shopping,weather
+1631	13	SYSTEM	ほかにご用件はございますか。	general,hotel,shopping,weather
+1631	14	USER	ありません、これで以上です。	general,hotel,shopping,weather
+1631	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,weather

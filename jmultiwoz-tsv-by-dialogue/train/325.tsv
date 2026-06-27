@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+325	0	USER	大阪旅行を予定しています。1/13の住吉区の天気を調べてもらえないでしょうか。	general,weather,taxi
+325	1	SYSTEM	承知しました。天気は晴時々曇、最低気温9.2度、最高気温11.6度となります。	general,weather,taxi
+325	2	USER	わかりました。旅行の際にタクシーを使いたいと考えています。ジャンボタクシーが使える会社はありますか？	general,weather,taxi
+325	3	SYSTEM	申し訳ありません。ジャンボタクシー対応のタクシー会社はございません。	general,weather,taxi
+325	4	USER	そうですか。じゃあ、ジャンボタクシーが使えなくても大丈夫なので、どこかタクシー会社を探してもらえると助かります。	general,weather,taxi
+325	5	SYSTEM	申し訳ありません、ありがとうございます。それでは、タックン大阪株式会社はいかがでしょう？キャッシュレスには対応しております。電話番号は、0669350778になります。	general,weather,taxi
+325	6	USER	詳しく教えて下さりありがとうございます。では、こちらの会社で手配をお願いします。	general,weather,taxi
+325	7	SYSTEM	ありがとうございます。お手数ですが、出発日時と出発地、目的地を教えていただけますか？	general,weather,taxi
+325	8	USER	1/13の11:40、大阪城天守閣から今里旅館まで乗車したいと考えています。	general,weather,taxi
+325	9	SYSTEM	ありがとうございます。予約が完了しました。ご予約番号は、221となります。	general,weather,taxi
+325	10	USER	予約、ありがとうございます。	general,weather,taxi

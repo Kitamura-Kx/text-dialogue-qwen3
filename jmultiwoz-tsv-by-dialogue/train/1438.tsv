@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1438	0	USER	大阪への旅行を計画しています．	general,shopping
+1438	1	SYSTEM	お問合せありがとうございます。	general,shopping
+1438	2	USER	当日買い物ができるところを探してください．地区は鶴見区で駐車場を無料で利用できるところがいいです。	general,shopping
+1438	3	SYSTEM	三井アウトレットパーク 大阪鶴見はいかがでしょうか。	general,shopping
+1438	4	USER	いいですね。，近辺の駅からの所要時間をおしえてください。	general,shopping
+1438	5	SYSTEM	近辺の駅からの所要時間は門真南駅から徒歩で5分 門真市駅からバスで7分です。	general,shopping
+1438	6	USER	ありがとうございます。	general,shopping

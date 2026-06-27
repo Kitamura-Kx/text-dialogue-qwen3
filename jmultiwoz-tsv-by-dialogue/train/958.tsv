@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+958	0	USER	東京でお食事できる場所を探していまして。洋食か西洋料理のお店を調べてください。	general,restaurant
+958	1	SYSTEM	申し訳ございません。ご希望の条件では案内できるところがございませんでした。	general,restaurant
+958	2	USER	そうですか。では他のジャンルでも構いません。	general,restaurant
+958	3	SYSTEM	では鮨 水月はいかがでしょうか。ジャンルは寿司・魚料理, 和食でございます。	general,restaurant
+958	4	USER	そちらでお願いします。お店の詳しい料金情報も教えて頂けますか？	general,restaurant
+958	5	SYSTEM	飲み放題付お任せ握りプランは11000円、飲み放題付特上お任せ握りプランは16500円、《記念日プラン》豪華贅沢食器の彩りは13200円でございます。	general,restaurant
+958	6	USER	かなり豪華そうですね。では5/2の9:40で、4人の予約をお願いします。	general,restaurant
+958	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,restaurant
+958	8	USER	時間は10:10に変更するとどうですか？	general,restaurant
+958	9	SYSTEM	予約が完了いたしました。予約番号は52954でございます。	general,restaurant
+958	10	USER	ありがとうございます。	general,restaurant

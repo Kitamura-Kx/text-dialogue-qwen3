@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3527	0	USER	名古屋へ行こうと思っているのですが、買い物できる所を探しています。	general,shopping,weather,taxi
+3527	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,weather,taxi
+3527	2	USER	駐車場が無料で食料品が買えるところがいいです。	general,shopping,weather,taxi
+3527	3	SYSTEM	ではゲンキー富船店はいかがでしょうか。	general,shopping,weather,taxi
+3527	4	USER	いいですね。ちなみに11/20、中村区の天気はどうなっていますか？	general,shopping,weather,taxi
+3527	5	SYSTEM	天気は雨時々晴の予報でございます。	general,shopping,weather,taxi
+3527	6	USER	最低気温を教えてください。	general,shopping,weather,taxi
+3527	7	SYSTEM	最低気温は13度でございます。	general,shopping,weather,taxi
+3527	8	USER	それとタクシーを探しています。ジャンボタクシーを利用できればいいのですが	general,shopping,weather,taxi
+3527	9	SYSTEM	では東海交通はいかがでしょうか。	general,shopping,weather,taxi
+3527	10	USER	キャッシュレス対応していますか？	general,shopping,weather,taxi
+3527	11	SYSTEM	はい。キャッシュレスにも対応しております。	general,shopping,weather,taxi
+3527	12	USER	では11/20　11:50にゲンキー富船店からStation Inn Nagoyaで予約をお願いしたいです。	general,shopping,weather,taxi
+3527	13	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,shopping,weather,taxi
+3527	14	USER	12:50に変えたらどうですか？	general,shopping,weather,taxi
+3527	15	SYSTEM	その時間ですと予約が可能でございました。予約番号は90349でございます。	general,shopping,weather,taxi
+3527	16	USER	ありがとうございます。	general,shopping,weather,taxi
+3527	17	SYSTEM	ほかにご用件はございませんか。	general,shopping,weather,taxi
+3527	18	USER	特にないです。	general,shopping,weather,taxi
+3527	19	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather,taxi

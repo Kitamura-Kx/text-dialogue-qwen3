@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1962	0	USER	大阪への旅行を考えています。当日訪れる観光名所で駐車場は無料でWi-Fiが無料で利用できてジャンルが自然・公園のところを教えてください。	general,attraction
+1962	1	SYSTEM	ありがとうございます。でしたら大阪城天守閣がございます。	general,attraction
+1962	2	USER	そこが良さそうですね。近辺の駅からの所要時間を教えてください。	general,attraction
+1962	3	SYSTEM	かしこまりました。谷町四丁目駅から徒歩で17分、天満橋駅から徒歩で16分、森ノ宮駅から徒歩で16分、大阪ビジネスパーク駅から徒歩で12分、大阪城公園駅から徒歩で14分となっております。	general,attraction
+1962	4	USER	分かりました。ありがとうございます。	general,attraction
+1962	5	SYSTEM	他にご用件はありますか？	general,attraction
+1962	6	USER	大丈夫です。ありがとうございました。	general,attraction
+1962	7	SYSTEM	かしこまりました。またお待ちしております。	general,attraction

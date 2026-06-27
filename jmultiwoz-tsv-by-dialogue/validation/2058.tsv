@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2058	0	USER	名古屋でタクシー会社を探していまして。ジャンボタクシー対応ができて、キャッシュレスで決済できる業者はありますか？	general,taxi
+2058	1	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,taxi
+2058	2	USER	ではジャンボタクシーの条件を除いてください。	general,taxi
+2058	3	SYSTEM	かしこまりました。では、中日本タクシーはいかがでしょうか？	general,taxi
+2058	4	USER	電話番号も教えていただけますか？	general,taxi
+2058	5	SYSTEM	はい。電話番号は0570039758です。	general,taxi
+2058	6	USER	予約もお願いします。2/27の14:30に乗車希望です。とんちゃん横井から東急ハンズ名古屋店までの利用です。	general,taxi
+2058	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、16300です。	general,taxi
+2058	8	USER	ありがとうございます。助かりました！	general,taxi

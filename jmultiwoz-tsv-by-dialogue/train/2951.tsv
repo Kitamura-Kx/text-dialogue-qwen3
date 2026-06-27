@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2951	0	USER	仙台への旅行を計画しています。 当日買い物ができるところを探してください。	general,shopping,weather
+2951	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,weather
+2951	2	USER	駐車場を無料で利用できるところにしてください。地区は太白区が希望です。	general,shopping,weather
+2951	3	SYSTEM	では、ララガーデン長町はいかがでしょう？ジャンルは、ショッピングモールとなります。	general,shopping,weather
+2951	4	USER	そのお店の営業時間を教えてください。	general,shopping,weather
+2951	5	SYSTEM	はい、営業時間は１０時から２０時となります。	general,shopping,weather
+2951	6	USER	あと、当日の天気が知りたいです。日付は10/6、地区は宮城野区です。	general,shopping,weather
+2951	7	SYSTEM	はい、天気は雨時々曇、最低気温16.2度、最高気温18.9度となります。	general,shopping,weather
+2951	8	USER	解決しました。ありがとうございました。	general,shopping,weather

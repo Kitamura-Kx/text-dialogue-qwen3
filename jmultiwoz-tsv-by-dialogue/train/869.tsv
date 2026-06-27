@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+869	0	USER	京都へ旅行に行くのですがWi-Fiが無料の観光名所があれば教えて下さい。	general,attraction
+869	1	SYSTEM	かしこまりました。1件ご案内可能です。国立京都国際会館という場所ですが、いかがでしょうか？	general,attraction
+869	2	USER	どのような施設ですか？エリアと最寄駅からの所要時間も教えて下さい	general,attraction
+869	3	SYSTEM	エリアは左京区にある、コンサート・ショーの施設となります。最寄り駅は国際会館駅で、徒歩5分でアクセスできます。	general,attraction
+869	4	USER	わかりました、是非行きたいと思います	general,attraction
+869	5	SYSTEM	ありがとうございます。ほかにお調べすることはございますか？	general,attraction
+869	6	USER	いえ大丈夫です有難うございました	general,attraction
+869	7	SYSTEM	かしこまりました。本日はご利用ありがとうございました。	general,attraction

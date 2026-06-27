@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3413	0	USER	札幌の南区の麻生駅近くでWi-Fiが無料の観光名所はありますか？	general,attraction,taxi,weather
+3413	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,taxi,weather
+3413	2	USER	では南区でなくても大丈夫です。	general,attraction,taxi,weather
+3413	3	SYSTEM	シャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾート、こちらはいかがですか？	general,attraction,taxi,weather
+3413	4	USER	料金情報はなにかありますか？	general,attraction,taxi,weather
+3413	5	SYSTEM	料金情報は、施設、時期により異なると記載されています。	general,attraction,taxi,weather
+3413	6	USER	わかりました。子供の入場料はいくらかわかりますか？	general,attraction,taxi,weather
+3413	7	SYSTEM	申し訳ありません、子供入場料は不明となっています。	general,attraction,taxi,weather
+3413	8	USER	わかりました。あと、ジャンボタクシーが利用できてキャッシュレス払いができるタクシーも探しています。	general,attraction,taxi,weather
+3413	9	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,taxi,weather
+3413	10	USER	ジャンボタクシーでなくても大丈夫です。	general,attraction,taxi,weather
+3413	11	SYSTEM	日北交通(株)は、いかがでしょうか？	general,attraction,taxi,weather
+3413	12	USER	そこにします！電話番号を教えてください。	general,attraction,taxi,weather
+3413	13	SYSTEM	電話番号は、0118888686です。	general,attraction,taxi,weather
+3413	14	USER	ありがとうございます。そのタクシーを6/12の朝9：50にシャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートから北海道大学までで予約したいです。	general,attraction,taxi,weather
+3413	15	SYSTEM	予約出来ました。予約番号は、95028です。	general,attraction,taxi,weather
+3413	16	USER	ありがとうございます。最後に白石区の6/12の気温はどれくらいになりますか？	general,attraction,taxi,weather
+3413	17	SYSTEM	最高気温は、21度で最低気温は12度です。	general,attraction,taxi,weather
+3413	18	USER	わかりました。ありがとうございました。	general,attraction,taxi,weather
+3413	19	SYSTEM	他にご用件はありますか？	general,attraction,taxi,weather
+3413	20	USER	大丈夫です。	general,attraction,taxi,weather
+3413	21	SYSTEM	承知致しました。ありがとうございました。	general,attraction,taxi,weather

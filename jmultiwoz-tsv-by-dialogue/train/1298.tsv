@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1298	0	USER	大阪へ行こうと思っています。WiFiが無料で利用できる予算が高めな飲食店を探していただきたいです。	general,restaurant,shopping
+1298	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,shopping
+1298	2	USER	では、予算は考慮せず同条件で探していただけますか？	general,restaurant,shopping
+1298	3	SYSTEM	ミゲルフアニ なんばダイニングメゾン店は、いかがでしょうか？	general,restaurant,shopping
+1298	4	USER	そちらの電話番号を教えていただけますでしょうか。	general,restaurant,shopping
+1298	5	SYSTEM	電話番号は、0666307138です。	general,restaurant,shopping
+1298	6	USER	では2月4日13時50分から3人で予約をお願いします。	general,restaurant,shopping
+1298	7	SYSTEM	予約出来ました。予約番号は、74619です。	general,restaurant,shopping
+1298	8	USER	わかりました。ありがとうございます。	general,restaurant,shopping
+1298	9	SYSTEM	他にご用件はございますか？	general,restaurant,shopping
+1298	10	USER	鶴見区にあって駐車場が無料で利用できる買い物施設を探していただきたいです。	general,restaurant,shopping
+1298	11	SYSTEM	三井アウトレットパーク 大阪鶴見は、いかがでしょうか？	general,restaurant,shopping
+1298	12	USER	そちらのジャンルを教えていただけますでしょうか。	general,restaurant,shopping
+1298	13	SYSTEM	ジャンルは、アウトレットモールとなっております。	general,restaurant,shopping
+1298	14	USER	わかりました。ありがとうございます。	general,restaurant,shopping
+1298	15	SYSTEM	他にご用件はございますか？	general,restaurant,shopping
+1298	16	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant,shopping

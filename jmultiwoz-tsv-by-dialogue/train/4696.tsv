@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4696	0	USER	横浜へ旅行予定なのですが、金沢区で最寄り駅が洋光台駅のファッション関係の買い物ができるお店はありませんか？	general,shopping,attraction
+4696	1	SYSTEM	横浜金沢区には、洋光台駅が最寄りでファッションの店はなさそうです。	general,shopping,attraction
+4696	2	USER	そうですか。では最寄り駅はどこでも大丈夫です。	general,shopping,attraction
+4696	3	SYSTEM	横浜金沢区のファッションの店といえば、コストコ金沢シーサイド倉庫です。	general,shopping,attraction
+4696	4	USER	なるほど。近辺の駅からの所要時間と電話番号はわかります？	general,shopping,attraction
+4696	5	SYSTEM	並木中央駅から徒歩で10分、あと、幸浦駅から徒歩で10分です。電話番号は不明です。	general,shopping,attraction
+4696	6	USER	ありがとうございます。あと、Wi-Fiが無料な観光名所も探してください。	general,shopping,attraction
+4696	7	SYSTEM	横浜には、WiFi無料の観光名所はなさそうです。	general,shopping,attraction
+4696	8	USER	そうですか。Wi-Fiはなくても大丈夫です。	general,shopping,attraction
+4696	9	SYSTEM	横浜の観光名所はいくつかありますが、定番で、山下公園をお勧めします。	general,shopping,attraction
+4696	10	USER	そこにします。定休日はいつですか？	general,shopping,attraction
+4696	11	SYSTEM	定休日はありません。	general,shopping,attraction
+4696	12	USER	わかりました。ありがとうございました。	general,shopping,attraction

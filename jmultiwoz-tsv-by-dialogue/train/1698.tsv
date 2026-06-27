@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1698	0	USER	東京へ旅行計画中なのですが、板橋区で無料駐車場がある買い物店舗はありますか？	general,shopping,weather
+1698	1	SYSTEM	かしこまりました。ではイオン板橋ショッピングセンターはいかがでしょうか。	general,shopping,weather
+1698	2	USER	いいですね。最寄駅と定休日はわかります？	general,shopping,weather
+1698	3	SYSTEM	最寄り駅は東武練馬駅で、定休日は無しでございます。	general,shopping,weather
+1698	4	USER	ありがとうございます。あと、文京区の12/24の天気予報を教えてください。	general,shopping,weather
+1698	5	SYSTEM	天気は曇のち晴、最低気温は6.9度、最高気温は14.7度でございます。	general,shopping,weather
+1698	6	USER	ありがとうございました。もう大丈夫です。	general,shopping,weather
+1698	7	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

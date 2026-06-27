@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4029	0	USER	名古屋に行く計画をしていますが、上飯田駅近くの飲食店を探しています。できたら駐車場は無料がいいですが、どこかありますか？	general,restaurant,shopping,weather
+4029	1	SYSTEM	はい、エリアでいうと北区にある、御懐石 志ら玉はいかがでしょう？ジャンルは、和食、その他、となります。	general,restaurant,shopping,weather
+4029	2	USER	ありがとうございます。熱田区で該当するところはありませんか？	general,restaurant,shopping,weather
+4029	3	SYSTEM	申し訳ありません、熱田区ではご案内ができません。いかが致しましょう？	general,restaurant,shopping,weather
+4029	4	USER	そうですか。では教えていただいたお店にします。ありがとうございます。他に買い物をしようと思っているのですが、中川区に旅行用品を買えるところはありますか。	general,restaurant,shopping,weather
+4029	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,shopping,weather
+4029	6	USER	そうしましたら、中川区じゃなくても構いませんので探していただけますか？できたら駐車場無料のところがいいです。	general,restaurant,shopping,weather
+4029	7	SYSTEM	承知しました。エリアでいうと中村区にある、東急ハンズ名古屋店はいかがでしょう？ジャンルは、文房具、雑貨、ファッション、医薬品、化粧品、旅行用品、その他となります。	general,restaurant,shopping,weather
+4029	8	USER	ありがとうございます。駐車場は無料ですか？	general,restaurant,shopping,weather
+4029	9	SYSTEM	はい、無料でご利用いただけます。	general,restaurant,shopping,weather
+4029	10	USER	ありがとうございます。そちらのお店に行くときの最寄り駅と所要時間を教えてください。	general,restaurant,shopping,weather
+4029	11	SYSTEM	はい、最寄りの名古屋駅から徒歩で1分となります。	general,restaurant,shopping,weather
+4029	12	USER	ありがとうございます。12/23に行く予定ですが、緑区の当日の天気を教えてください。	general,restaurant,shopping,weather
+4029	13	SYSTEM	はい、天気は晴、最低気温8.5度、最高気温12.9度となります。	general,restaurant,shopping,weather
+4029	14	USER	ありがとうございました。	general,restaurant,shopping,weather

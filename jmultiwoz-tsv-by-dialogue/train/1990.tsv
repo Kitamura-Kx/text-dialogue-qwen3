@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1990	0	USER	札幌への旅行を計画しています．	general,shopping,restaurant,weather
+1990	1	SYSTEM	はい。お問合せありがとうございます。	general,shopping,restaurant,weather
+1990	2	USER	当日買い物ができるところを探してください．ジャンルは書籍で地区は西区がいいです。	general,shopping,restaurant,weather
+1990	3	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,restaurant,weather
+1990	4	USER	でしたら、ジャンルを百貨店や総合スーパーにしてください。	general,shopping,restaurant,weather
+1990	5	SYSTEM	イオンモール札幌発寒はいかがでしょうか。	general,shopping,restaurant,weather
+1990	6	USER	そちらの近辺の駅からの所要時間，店舗名を教えてください。	general,shopping,restaurant,weather
+1990	7	SYSTEM	近辺の駅からの所要時間は発寒駅から徒歩で10分 宮の沢駅から徒歩で10分でです。	general,shopping,restaurant,weather
+1990	8	USER	ありがとうございます。あと当日食事ができる飲食店を探してください．地区は東区で	general,shopping,restaurant,weather
+1990	9	SYSTEM	蕎麦切り 春のすけはいかがでしょうか。	general,shopping,restaurant,weather
+1990	10	USER	そちらの営業時間，住所をおしえてください。	general,shopping,restaurant,weather
+1990	11	SYSTEM	営業時間は11:30～14:30, 18:00～22:00で、住所は北海道札幌市東区北7条東3丁目15-72です。	general,shopping,restaurant,weather
+1990	12	USER	ありがとうございます。そこを人数は3人日付は2/19時間は16:40で予約して欲しいです。	general,shopping,restaurant,weather
+1990	13	SYSTEM	予約完了いたしました。予約番号は41385になります。	general,shopping,restaurant,weather
+1990	14	USER	ありがとうございます。あと、2/19の厚別区の最高気温を教えてください。	general,shopping,restaurant,weather
+1990	15	SYSTEM	最高気温は0.8度になります。	general,shopping,restaurant,weather
+1990	16	USER	ありがとうございます。	general,shopping,restaurant,weather

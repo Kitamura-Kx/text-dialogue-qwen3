@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1817	0	USER	東京への旅行を計画中です。レストランが併設された宿泊施設を教えて下さい。予算は高めでお願いします。	general,hotel,restaurant,taxi
+1817	1	SYSTEM	かしこまりました。では、グランドハイアット東京はいかがでしょうか？	general,hotel,restaurant,taxi
+1817	2	USER	最寄り駅からの所要時間をお願いします。	general,hotel,restaurant,taxi
+1817	3	SYSTEM	はい。六本木駅から徒歩で3分となっております。	general,hotel,restaurant,taxi
+1817	4	USER	それでは「グランドハイアット東京」で宿泊予約をお願いします。1/10から2泊、3人での利用です。	general,hotel,restaurant,taxi
+1817	5	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel,restaurant,taxi
+1817	6	USER	2人なら可能でしょうか？	general,hotel,restaurant,taxi
+1817	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、37092です。	general,hotel,restaurant,taxi
+1817	8	USER	当日の食事なのですが、渋谷区で駐車場とWiFiが無料の飲食店を教えて下さい。	general,hotel,restaurant,taxi
+1817	9	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,hotel,restaurant,taxi
+1817	10	USER	それでは渋谷区以外で構いません	general,hotel,restaurant,taxi
+1817	11	SYSTEM	かしこまりました。では、バルバッコア 六本木ヒルズ店はいかがでしょうか？	general,hotel,restaurant,taxi
+1817	12	USER	ありがとうございます、「バルバッコア 六本木ヒルズ店」に1/10の15:00から4名で予約をお願いします。	general,hotel,restaurant,taxi
+1817	13	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel,restaurant,taxi
+1817	14	USER	16:00ではどうでしょうか？	general,hotel,restaurant,taxi
+1817	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、78070です。	general,hotel,restaurant,taxi
+1817	16	USER	失礼しました料金情報も教えて下さい。	general,hotel,restaurant,taxi
+1817	17	SYSTEM	はい。値段帯は高めです。例えば、シュラスコ:6600円、カイピリーニャ:990円、ピッカーニャ（イチボ）ステーキランチ:2700円 となっております。	general,hotel,restaurant,taxi
+1817	18	USER	当日はジャンボタクシーを利用したいのですが対応出来る会社はありますか？	general,hotel,restaurant,taxi
+1817	19	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,hotel,restaurant,taxi
+1817	20	USER	それでは、ジャンボタクシーではなくても良いです。	general,hotel,restaurant,taxi
+1817	21	SYSTEM	かしこまりました。では、東京交通はいかがでしょうか？	general,hotel,restaurant,taxi
+1817	22	USER	東京交通はキャッシュレス対応可能でしょうか？電話番号も教えて下さい。	general,hotel,restaurant,taxi
+1817	23	SYSTEM	はい。キャッシュレス対応可能です。電話番号は0423914455でございます。	general,hotel,restaurant,taxi
+1817	24	USER	それでは「東京交通」でタクシーの予約をお願いします。1/10の13:30に「グランドハイアット東京」から「バルバッコア 六本木ヒルズ店」までお願いします。	general,hotel,restaurant,taxi
+1817	25	SYSTEM	かしこまりました。ご予約承りました。予約番号は、73339です。	general,hotel,restaurant,taxi
+1817	26	USER	助かりました、有難うございました。	general,hotel,restaurant,taxi
+1817	27	SYSTEM	他にご用件はありますか？	general,hotel,restaurant,taxi
+1817	28	USER	いえ大丈夫です	general,hotel,restaurant,taxi
+1817	29	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,taxi

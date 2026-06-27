@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1691	0	USER	名古屋へ旅行してほしいのですが、百貨店や総合スーパーを探してもらえますか？	general,shopping,weather
+1691	1	SYSTEM	かしこまりました。ではヨシヅヤ 太平通り店はいかがでしょうか。	general,shopping,weather
+1691	2	USER	なるほど。でも最寄り駅が徳重駅で、駐車場を無料で利用できるところがいいんですよね。	general,shopping,weather
+1691	3	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,shopping,weather
+1691	4	USER	わかりました。なら最寄り駅はどこでも大丈夫です。	general,shopping,weather
+1691	5	SYSTEM	ではタカシマヤ ゲートタワーモールはいかがでしょうか。	general,shopping,weather
+1691	6	USER	いいですね。近辺の駅からの所要時間と定休日を知りたいです。	general,shopping,weather
+1691	7	SYSTEM	近辺の駅からの所要時間は名古屋駅から徒歩で1分、名鉄名古屋駅から徒歩で1分 、近鉄名古屋駅から徒歩で1分でございます。定休日は店舗により異なるとのことでございます。	general,shopping,weather
+1691	8	USER	了解です。5/5の昭和区の天候も教えてくれますか？	general,shopping,weather
+1691	9	SYSTEM	天気は晴のち雨、最低気温は16.3度、最高気温は26.8度でございます。	general,shopping,weather
+1691	10	USER	わかりました。ありがとうございます。もう聞きたいことは全部聞けました。	general,shopping,weather
+1691	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

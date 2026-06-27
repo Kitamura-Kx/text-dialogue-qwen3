@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4885	0	USER	大阪へ旅行に行く予定のため、駐車場が無料で利用できる食料品のお店を探してもらえますか？	general,shopping,weather
+4885	1	SYSTEM	承知しました。GoodBBQ舞洲 オーチャードグラスはいかがでしょうか？	general,shopping,weather
+4885	2	USER	そこにしようと思います。エリアと電話番号を教えてください。	general,shopping,weather
+4885	3	SYSTEM	エリアは此花区です。電話番号は0664601646です。	general,shopping,weather
+4885	4	USER	ありがとうございます。あと5/19の淀川区の天気を調べてもらえますか？	general,shopping,weather
+4885	5	SYSTEM	5/19の淀川区の天気は雲のち晴です。	general,shopping,weather
+4885	6	USER	ありがとうございます。	general,shopping,weather
+4885	7	SYSTEM	他にご用件はありますか？	general,shopping,weather
+4885	8	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,weather

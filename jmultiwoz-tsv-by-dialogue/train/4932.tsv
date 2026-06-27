@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4932	0	USER	東京に旅行するので、ホテルを探して欲しいです。かまいませんか？	general,hotel,taxi
+4932	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,hotel,taxi
+4932	2	USER	エリアにこだわりはないのですが、駐車場とWi-Fiが無料で、レストランがあるところをお願いします。	general,hotel,taxi
+4932	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,taxi
+4932	4	USER	わかりました。駐車場を考えないとどうですか？	general,hotel,taxi
+4932	5	SYSTEM	そうしますと、例えば、hotel neorougeというビジネスホテルはいかがでしょうか？	general,hotel,taxi
+4932	6	USER	そこにします。現地でのタクシーの手配もお願いしたいのですが、大丈夫ですか？	general,hotel,taxi
+4932	7	SYSTEM	かしこまりました。７件ほど会社をご案内できますが、ジャンボタクシーのご利用予定などございませんか？	general,hotel,taxi
+4932	8	USER	ジャンボタクシーが使えて、キャッシュレス払いに対応しているところにして欲しいです。	general,hotel,taxi
+4932	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel,taxi
+4932	10	USER	でしたら、ジャンボタクシーが使えなくてもかまわないです。	general,hotel,taxi
+4932	11	SYSTEM	そういたしますと、北光自動車交通はいかがでしょうか？	general,hotel,taxi
+4932	12	USER	そこにします。では、電話番号を教えてもらえますか？	general,hotel,taxi
+4932	13	SYSTEM	はい、電話番号は、0335635151です。	general,hotel,taxi
+4932	14	USER	ありがとうございます。そのタクシーで、4月11日、9時40分に、almond hostel & cafeから、さっきのhotel neorougeまでで予約もお願いしたいです。	general,hotel,taxi
+4932	15	SYSTEM	かしこまりました。念のため確認させてください。お時間は夜ではなく、朝の９時４０分発でよろしかったでしょうか？	general,hotel,taxi
+4932	16	USER	はい。それでいいです。	general,hotel,taxi
+4932	17	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、1369です。	general,hotel,taxi
+4932	18	USER	以上です。助かりました。ありがとうございました。	general,hotel,taxi
+4932	19	SYSTEM	こちらこそ、お役に立てて何よりです。また何かございましたら、お気軽にお問い合わせください。	general,hotel,taxi

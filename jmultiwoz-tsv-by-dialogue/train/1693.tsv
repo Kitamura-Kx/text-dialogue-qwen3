@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1693	0	USER	仙台へ旅行予定なのですが、宮城野区に飲食店はありますか？	general,restaurant,weather
+1693	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,restaurant,weather
+1693	2	USER	いえ、大丈夫です。	general,restaurant,weather
+1693	3	SYSTEM	では黒毛和牛一頭切り 伊達哉はいかがでしょうか。	general,restaurant,weather
+1693	4	USER	いいですね。駐車場があるか教えてください。	general,restaurant,weather
+1693	5	SYSTEM	駐車場は無しでございます。	general,restaurant,weather
+1693	6	USER	わかりました。そのお店で4/4の14:30から2人の予約をお願いします。	general,restaurant,weather
+1693	7	SYSTEM	予約が完了いたしました。予約番号は94405でございます。	general,restaurant,weather
+1693	8	USER	ありがとうございます。あと、宮城野区の4/4の天気も教えて下さい。	general,restaurant,weather
+1693	9	SYSTEM	天気は晴時々雨でございます。	general,restaurant,weather
+1693	10	USER	なるほど。最高気温は何度でしょうか？	general,restaurant,weather
+1693	11	SYSTEM	最高気温は16.8度でございます。	general,restaurant,weather
+1693	12	USER	ありがとうございます。もう大丈夫です。	general,restaurant,weather
+1693	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather

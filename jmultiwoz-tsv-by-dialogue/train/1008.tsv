@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1008	0	USER	名古屋へ旅行に行くのですが気温を知りたいです。	general,weather,taxi
+1008	1	SYSTEM	承知しました。ご希望のエリアと日付を教えていただけますか？	general,weather,taxi
+1008	2	USER	瑞穂区で8/5に行きます。	general,weather,taxi
+1008	3	SYSTEM	ありがとうございます。天気は雨のち晴、最低気温29.1度、最高気温36.9度となります。	general,weather,taxi
+1008	4	USER	ありがとうございます。	general,weather,taxi
+1008	5	SYSTEM	他にご用件はございますか？	general,weather,taxi
+1008	6	USER	その日に使うタクシーを探しています。キャッシュレス払いができる所が良いです。	general,weather,taxi
+1008	7	SYSTEM	それでは、帝産キャブ名古屋はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0529141115となります。	general,weather,taxi
+1008	8	USER	それではそこを予約したいです！	general,weather,taxi
+1008	9	SYSTEM	承知しました。お手数ですが、出発日時と出発地、目的地を教えていただけますか？	general,weather,taxi
+1008	10	USER	8/5の14時にレゴランド・ジャパン・ホテルからスーパーホテル 名古屋駅前まで行きたいです。	general,weather,taxi
+1008	11	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、60721となります。	general,weather,taxi
+1008	12	USER	ありがとうございました。	general,weather,taxi
+1008	13	SYSTEM	他にご用件はございますか？	general,weather,taxi
+1008	14	USER	いいえ、大丈夫です。	general,weather,taxi
+1008	15	SYSTEM	ありがとうございました。	general,weather,taxi

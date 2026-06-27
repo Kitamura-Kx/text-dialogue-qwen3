@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1542	0	USER	京都に行くのですが、北区の観光名所を探してもらえますか？	general,attraction,restaurant,weather
+1542	1	SYSTEM	島津アリーナ京都は、いかがですか？	general,attraction,restaurant,weather
+1542	2	USER	そちらの施設はWi-Fiの無料利用は可能ですか？	general,attraction,restaurant,weather
+1542	3	SYSTEM	申し訳ありません。Wi-Fi利用につきましては、不明になっております。	general,attraction,restaurant,weather
+1542	4	USER	わかりました。そちらの施設はどういったジャンルの施設になりますか？	general,attraction,restaurant,weather
+1542	5	SYSTEM	ジャンルとしては、アリーナ・スタジアム, スポーツ・フィットネスとなっています。	general,attraction,restaurant,weather
+1542	6	USER	よさそうですね！駐車場はありますか？	general,attraction,restaurant,weather
+1542	7	SYSTEM	駐車場は、無しとなっております。	general,attraction,restaurant,weather
+1542	8	USER	わかりました。では、そちらの施設の電話番号を教えてください。	general,attraction,restaurant,weather
+1542	9	SYSTEM	電話番号は、0754629191です。	general,attraction,restaurant,weather
+1542	10	USER	ありがとうございます。当日利用できる飲食店も探してもらえますか？	general,attraction,restaurant,weather
+1542	11	SYSTEM	スコルピオーネ 祇園は、いかがでしょうか？	general,attraction,restaurant,weather
+1542	12	USER	お好み焼きかたこ焼きのお店がいいんですよね。予算は普通くらいが希望なんですが、どうでしょうか。	general,attraction,restaurant,weather
+1542	13	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,restaurant,weather
+1542	14	USER	そうですか、残念。では、ジャンルは問わないので、予算普通でもう一度探してもらえますか？	general,attraction,restaurant,weather
+1542	15	SYSTEM	では、京の四季 いろどりというお店はいかかげすか？	general,attraction,restaurant,weather
+1542	16	USER	よさそうですね。営業時間を教えてもらえますか？	general,attraction,restaurant,weather
+1542	17	SYSTEM	営業時間は、11:30～15:00、17:00～23:00となっております。	general,attraction,restaurant,weather
+1542	18	USER	わかりました。では、11/14、12:10から2名で予約をお願いします。	general,attraction,restaurant,weather
+1542	19	SYSTEM	予約出来ました。予約番号は、31574です。	general,attraction,restaurant,weather
+1542	20	USER	ありがとうございます。あと、11/14の上京区の天候が知りたいのですが、教えてもらえますか？	general,attraction,restaurant,weather
+1542	21	SYSTEM	天気は、晴の予報です。	general,attraction,restaurant,weather
+1542	22	USER	気温はわかりますか？	general,attraction,restaurant,weather
+1542	23	SYSTEM	最高気温は、23.5度で最低気温は、4.5度となっています。	general,attraction,restaurant,weather
+1542	24	USER	わかりました。いろいろ教えてくれてありがとうございました。	general,attraction,restaurant,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4381	0	USER	仙台に旅行した際に青葉区で買い物できる場所を探していただきたいです。駐車場を無料で利用できるところでお願いします。	general,shopping,weather
+4381	1	SYSTEM	かしこまりました。では、錦ケ丘ヒルサイドモールというショッピングモールはいかがでしょうか？	general,shopping,weather
+4381	2	USER	ありがとうございます。そこにします。定休日を教えていただけますか？	general,shopping,weather
+4381	3	SYSTEM	こちらは、定休日はございません。	general,shopping,weather
+4381	4	USER	ありがとうございます。最後に泉区の4/30の天気と最高気温を教えていただけますか？	general,shopping,weather
+4381	5	SYSTEM	かしこまりました。当日の天気は、晴のち曇の予報です。最高気温は、14.7度の予想となっております。	general,shopping,weather
+4381	6	USER	ありがとうございます。	general,shopping,weather
+4381	7	SYSTEM	ほかに、お知りになりたい情報などございませんか？	general,shopping,weather
+4381	8	USER	はい、大丈夫です。ありがとうございました。	general,shopping,weather
+4381	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,weather

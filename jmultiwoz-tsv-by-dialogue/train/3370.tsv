@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3370	0	USER	東京へ行くのですが、食料品を買える、駐車場が無料な場所教えて下さい。	general,shopping,restaurant,weather
+3370	1	SYSTEM	かしこまりました。新宿みやざき館KONNEという店舗のみ該当がございます。いかがでしょうか？	general,shopping,restaurant,weather
+3370	2	USER	エリアはどの辺ですか？住所と営業時間知りたいです。	general,shopping,restaurant,weather
+3370	3	SYSTEM	渋谷区エリアでございます。住所は、東京都渋谷区代々木2丁目2-1 新宿サザンテラス内で、営業時間は10:00から20:00でございます。	general,shopping,restaurant,weather
+3370	4	USER	ありがとうございます。それと、大田区で予算は普通で食事ができるお店も教えて下さい。	general,shopping,restaurant,weather
+3370	5	SYSTEM	申し訳ございません。そちらの条件では該当がございませんでした。	general,shopping,restaurant,weather
+3370	6	USER	では、他の地区でもいいです。	general,shopping,restaurant,weather
+3370	7	SYSTEM	かしこまりました。東京の価格帯普通でお調べしましたところ、あじる亭 Annessoを含む３８件該当がございます。いかがでしょうか？	general,shopping,restaurant,weather
+3370	8	USER	どんなジャンルのお店ですか？	general,shopping,restaurant,weather
+3370	9	SYSTEM	居酒屋, 洋食・西洋料理となっております。	general,shopping,restaurant,weather
+3370	10	USER	分かりました。4月20日の中央区の天気と、最低気温教えて下さい。	general,shopping,restaurant,weather
+3370	11	SYSTEM	中央区のお天気は曇のち雨、最低気温は2.9度でございます。	general,shopping,restaurant,weather
+3370	12	USER	ありがとうございます。では、失礼します。	general,shopping,restaurant,weather
+3370	13	SYSTEM	ありがとうございました。	general,shopping,restaurant,weather

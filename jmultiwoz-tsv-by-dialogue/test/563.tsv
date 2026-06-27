@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+563	0	USER	東京への旅行を計画しているのですが、当日食事ができる飲食店を探して頂けないでしょうか。	general,restaurant
+563	1	SYSTEM	承知しました。ジャンルなどのご希望はございますか？	general,restaurant
+563	2	USER	ジャンルの希望はありません。駐車場とWi-Fiが無料で利用できる場所がいいです。	general,restaurant
+563	3	SYSTEM	ありがとうございます。それでは、バルバッコア 六本木ヒルズ店がございます。エリアは港区、最寄りの六本木駅から徒歩で1分となります。	general,restaurant
+563	4	USER	そちらに行きたいと思います。料金情報と値段帯を教えて頂けないでしょうか。あと営業時間も分かれば情報を頂きたいです。	general,restaurant
+563	5	SYSTEM	承知しました。値段帯は高め、料金情報として、シュラスコが6600円、カイピリーニャが990円、ピッカーニャステーキランチが2700円 となります。ピッカーニャはイチボです。営業時間は11時から16時と、17時30分から22時です。	general,restaurant
+563	6	USER	ありがとうございました。	general,restaurant

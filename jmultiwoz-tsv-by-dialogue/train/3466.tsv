@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3466	0	USER	仙台へ旅行に行くのですが、観光地を探しています。	general,attraction,shopping,restaurant
+3466	1	SYSTEM	かしこまりました。50件ほどございますので、条件のご提示をお願いいたします。	general,attraction,shopping,restaurant
+3466	2	USER	泉区で、無料駐車場があるところがいいです。最寄り駅が中野栄駅のところだといいのですが。	general,attraction,shopping,restaurant
+3466	3	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,attraction,shopping,restaurant
+3466	4	USER	では泉区で、無料駐車場があるところならどこでもいいです。	general,attraction,shopping,restaurant
+3466	5	SYSTEM	かしこまりました。それではアイスリンク仙台がございます。	general,attraction,shopping,restaurant
+3466	6	USER	そちらの料金情報を教えて欲しいです。	general,attraction,shopping,restaurant
+3466	7	SYSTEM	はい、大人が1,200円、中・高生が700円、小学生以下が600円でございます。	general,attraction,shopping,restaurant
+3466	8	USER	次に買い物ができるところを探してください。無料駐車場があるところがいいです。	general,attraction,shopping,restaurant
+3466	9	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,attraction,shopping,restaurant
+3466	10	USER	では駐車場が有料でもいいので、買い物ができるところはありますか？	general,attraction,shopping,restaurant
+3466	11	SYSTEM	かしこまりました。それではHMV仙台 E BeanSはいかがでしょうか？	general,attraction,shopping,restaurant
+3466	12	USER	そちらのエリアと営業時間を教えてください。	general,attraction,shopping,restaurant
+3466	13	SYSTEM	はい、エリアは青葉区でして、営業時間が10時から20時でございます。	general,attraction,shopping,restaurant
+3466	14	USER	ありがとうございます。最後に食事ができるお店を探してください。	general,attraction,shopping,restaurant
+3466	15	SYSTEM	かしこまりました。何かご希望はありますか？	general,attraction,shopping,restaurant
+3466	16	USER	安めのお店で、無料駐車場があるところがいいです。	general,attraction,shopping,restaurant
+3466	17	SYSTEM	かしこまりました。それではえばーぐりーんはいかがでしょうか？	general,attraction,shopping,restaurant
+3466	18	USER	そちらはどんなジャンルのお店ですか？	general,attraction,shopping,restaurant
+3466	19	SYSTEM	ジャンルはイタリアン・フレンチ, その他, 居酒屋でございます。	general,attraction,shopping,restaurant
+3466	20	USER	ありがとうございます。以上になります。	general,attraction,shopping,restaurant
+3466	21	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,shopping,restaurant

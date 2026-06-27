@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3757	0	USER	那覇に旅行の計画を立てているのですが。	general,restaurant,attraction,weather
+3757	1	SYSTEM	どのようなお店や施設をお探しですか？	general,restaurant,attraction,weather
+3757	2	USER	値段安めの、焼肉・ホルモン店を探しています。	general,restaurant,attraction,weather
+3757	3	SYSTEM	それでしたら、焼肉・ホルモン 名嘉真はいかがですか？	general,restaurant,attraction,weather
+3757	4	USER	そちらにします。最寄り駅はどちらでしょうか？	general,restaurant,attraction,weather
+3757	5	SYSTEM	最寄り駅は、牧志駅です。	general,restaurant,attraction,weather
+3757	6	USER	ありがとうございます。	general,restaurant,attraction,weather
+3757	7	SYSTEM	他にご用件はありますか？	general,restaurant,attraction,weather
+3757	8	USER	他に、最寄り駅が古島駅で、駐車場無料の観光名所を探しています。	general,restaurant,attraction,weather
+3757	9	SYSTEM	1件みつかりました。出雲大社 沖縄分社はいかがですか？	general,restaurant,attraction,weather
+3757	10	USER	ありがとうございます。そちらはジャンルとしては何になりますか？またWi-Fiの有無と駅からの所要時間なども確認したいです。	general,restaurant,attraction,weather
+3757	11	SYSTEM	ジャンルとしては神社・寺院・教会・モニュメントなどです。	general,restaurant,attraction,weather
+3757	12	USER	他、Wi-Fiは使えますか？あと最寄り駅からの所要時間も確認したいです。	general,restaurant,attraction,weather
+3757	13	SYSTEM	すみません、Wi-Fi利用につきましては、無しとなっています。　所要時間は、古島駅から徒歩で4分になります。	general,restaurant,attraction,weather
+3757	14	USER	ありがとうございます	general,restaurant,attraction,weather
+3757	15	SYSTEM	他にご用件はありますか？	general,restaurant,attraction,weather
+3757	16	USER	当日の天候を確認したいです。	general,restaurant,attraction,weather
+3757	17	SYSTEM	どちらのエリアの天気をご希望ですか？	general,restaurant,attraction,weather
+3757	18	USER	日付は6/23です．地区は小禄です。あと最高気温も知りたいです。	general,restaurant,attraction,weather
+3757	19	SYSTEM	天気は、雨時々曇で最高気温は、31.8度です。	general,restaurant,attraction,weather
+3757	20	USER	ありがとうございます	general,restaurant,attraction,weather
+3757	21	SYSTEM	他にご用件はありますか？	general,restaurant,attraction,weather
+3757	22	USER	ありません。助かりました。	general,restaurant,attraction,weather
+3757	23	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,weather

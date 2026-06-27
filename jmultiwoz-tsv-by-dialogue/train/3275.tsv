@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3275	0	USER	仙台の宮城野区で宿泊施設を探しています。安めの料金のところはないでしょうか？	general,hotel
+3275	1	SYSTEM	では、ホテル メルパルク仙台はいかがでしょうか？	general,hotel
+3275	2	USER	レストランが併設されているとことがいいのですが。	general,hotel
+3275	3	SYSTEM	こちらは、レストランも併設されています。	general,hotel
+3275	4	USER	そうですか、チェックアウトの終了時刻は何時になりますか？	general,hotel
+3275	5	SYSTEM	チェックアウト終了時間は、11時となっています。	general,hotel
+3275	6	USER	そこのホテルを10月2日に予約できますか？	general,hotel
+3275	7	SYSTEM	人数と周拍数は、どうされますか？	general,hotel
+3275	8	USER	人数は3人で4泊です。	general,hotel
+3275	9	SYSTEM	予約出来ました。予約番号は、88209です。	general,hotel
+3275	10	USER	ありがとうございます。	general,hotel
+3275	11	SYSTEM	他にご用件はありますか？	general,hotel
+3275	12	USER	いえ大丈夫です。ありがとうございました。	general,hotel
+3275	13	SYSTEM	承知致しました。ありがとうございました。	general,hotel

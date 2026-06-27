@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1376	0	USER	京都へ旅行に行きたく、最寄りが西院駅周辺で地区は下京区あたりにイタリアン・フレンチのお店はありますか？	general,restaurant,hotel,weather
+1376	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,hotel,weather
+1376	2	USER	では最寄駅は考慮しないでもう一度探していただけますでしょうか。	general,restaurant,hotel,weather
+1376	3	SYSTEM	ITALIAN QUATRO 京都駅前店は、いかがですか？	general,restaurant,hotel,weather
+1376	4	USER	そこの最寄駅からの所要時間、営業時間、定休日を教えていただきたいです。	general,restaurant,hotel,weather
+1376	5	SYSTEM	近辺の駅からの所要時間は、京都駅から徒歩で4分です。　営業時間は、11:30～14:30、 17:00～23:00です。　定休日は、ありません。	general,restaurant,hotel,weather
+1376	6	USER	ありがとうございます。それでは予約をお願いします。人数は２名、日時は2/25、11:30です。	general,restaurant,hotel,weather
+1376	7	SYSTEM	予約出来ました。予約番号は、52453です。	general,restaurant,hotel,weather
+1376	8	USER	ありがとうございます。次に宿泊施設を探していただきたく、旅館でレストランが併設されている所はありますか？	general,restaurant,hotel,weather
+1376	9	SYSTEM	Nazuna 京都 椿通は、いかがですか？	general,restaurant,hotel,weather
+1376	10	USER	そこのWi-Fiの有無と電話番号を教えていただきたいです。	general,restaurant,hotel,weather
+1376	11	SYSTEM	Wi-Fi利用については、無料で利用可能です。　電話番号は、0757480402です。	general,restaurant,hotel,weather
+1376	12	USER	ありがとうございます。それでは予約をお願いします。人数は３名、2/25で2泊希望です。	general,restaurant,hotel,weather
+1376	13	SYSTEM	予約出来ました。予約番号は、2005です。	general,restaurant,hotel,weather
+1376	14	USER	ありがとうございます。最後に右京区の2/25の天候を教えていただきたいです。できれば最低気温も知りたいです。	general,restaurant,hotel,weather
+1376	15	SYSTEM	その日の天気は、雨のち雪の予報です。	general,restaurant,hotel,weather
+1376	16	USER	最低気温は何度ですか？	general,restaurant,hotel,weather
+1376	17	SYSTEM	最低気温は2.7度の予報です。	general,restaurant,hotel,weather
+1376	18	USER	ありがとうございます。	general,restaurant,hotel,weather
+1376	19	SYSTEM	他にご用件はありますか？	general,restaurant,hotel,weather
+1376	20	USER	いいえ、ありません。	general,restaurant,hotel,weather
+1376	21	SYSTEM	承知致しました。　ありがとうございました。	general,restaurant,hotel,weather

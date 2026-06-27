@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1057	0	USER	今度、福岡へ行くんですが、中央区でおもちゃを買える店を教えてください。	general,shopping,taxi
+1057	1	SYSTEM	大変申し訳ございません。ご希望の条件では、該当するところがありませんでした。	general,shopping,taxi
+1057	2	USER	そうですか。では、中央区以外でしたらありますか？	general,shopping,taxi
+1057	3	SYSTEM	ありがとうございます。そうしますと4件ほどご案内可能です。例えば、博多区エリアにある、ポケモンセンターフクオカというお店はご興味ございませんか？	general,shopping,taxi
+1057	4	USER	いいですね。当日タクシーをキャッシュレス払いで使いたいんですが探してもらえますか？	general,shopping,taxi
+1057	5	SYSTEM	大変申し訳ございません。キャッシュレス対応となりますと、ご案内できるところが見つかりませんでした。	general,shopping,taxi
+1057	6	USER	では、キャッシュレス払いは諦めます。どこかありますか？	general,shopping,taxi
+1057	7	SYSTEM	ありがとうございます。そうしますと、西日本自動車（株）はいかがでしょうか？キャッシュレス対応については、こちらは不明となっております。	general,shopping,taxi
+1057	8	USER	分かりました。そこの電話番号を教えて欲しいです。ジャンボタクシーはありますか？	general,shopping,taxi
+1057	9	SYSTEM	電話番号は、0570075678です。ジャンボタクシーには対応してございます。	general,shopping,taxi
+1057	10	USER	ありがとうございます。予約もお願いします。1月25日の10時40分にポケモンセンターフクオカからSYA HOTEL-祇園へ移動したいです。	general,shopping,taxi
+1057	11	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,shopping,taxi
+1057	12	USER	では時間を11時40分にずらしてみてください。	general,shopping,taxi
+1057	13	SYSTEM	ありがとうございます。11時40分にて、ご予約をお取りしました。予約番号は、66160です。	general,shopping,taxi
+1057	14	USER	助かりました。失礼します。	general,shopping,taxi

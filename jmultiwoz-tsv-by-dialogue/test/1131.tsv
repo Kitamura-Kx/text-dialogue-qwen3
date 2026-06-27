@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1131	0	USER	名古屋へ旅行に行く予定なのですがレストラン併設のビジネスホテルはありますでしょうか？	general,hotel,attraction,taxi
+1131	1	SYSTEM	はい、では、グレイスイン名古屋はいかがでしょう？何かご案内致しましょうか？	general,hotel,attraction,taxi
+1131	2	USER	宿泊に関しては大丈夫です、駐車場とWi-Fiが無料の観光名所も教えて下さい	general,hotel,attraction,taxi
+1131	3	SYSTEM	承知しました。大高緑地、トヨタ産業技術記念館、ミッドランドスクエア 屋外展望台 スカイプロムナードの3件ございます。何かご案内致しましょうか？	general,hotel,attraction,taxi
+1131	4	USER	大高緑地の住所と料金を教えて下さい	general,hotel,attraction,taxi
+1131	5	SYSTEM	はい、住所は愛知県名古屋市緑区大高町字高山1-1です。入場料については不明で、料金情報として、利用料金が必要な施設あり、とのことです。他にご案内できることはございますか？	general,hotel,attraction,taxi
+1131	6	USER	わかりました、ジャンボタクシーも利用したいのですがキャッシュレス対応の会社はありますか？	general,hotel,attraction,taxi
+1131	7	SYSTEM	はい、では、帝産キャブ名古屋はいかがでしょう？電話番号は0529141115になります。	general,hotel,attraction,taxi
+1131	8	USER	有難うございます、それでは予約をお願いします。10/21の14:00に「グレイスイン名古屋」から「大高緑地」までお願いします	general,hotel,attraction,taxi
+1131	9	SYSTEM	承知しました。ご予約が完了し、ご予約番号は、7073となります。他にご用件はございますか？	general,hotel,attraction,taxi
+1131	10	USER	いえ大丈夫です、有難うございました。	general,hotel,attraction,taxi
+1131	11	SYSTEM	ありがとうございました。	general,hotel,attraction,taxi

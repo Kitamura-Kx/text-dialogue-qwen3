@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2986	0	USER	大阪に旅行にいったらお土産を買いたいのですが、駐車場を無料で利用できるお土産屋さんはありますか？	general,shopping,weather
+2986	1	SYSTEM	大阪で駐車場無料の土産物ならば、ムーミンスタンド天王寺ミオ店、こちらがオススメです。	general,shopping,weather
+2986	2	USER	電話番号と定休日と近辺の駅からの所要時間が知りたいです！	general,shopping,weather
+2986	3	SYSTEM	不定休、電話は0643056326、天王寺駅から徒歩で1分ですね。	general,shopping,weather
+2986	4	USER	ありがとうございます。あと東淀川区の10/8の最高気温は何度ですか？	general,shopping,weather
+2986	5	SYSTEM	24.3度になります。	general,shopping,weather
+2986	6	USER	了解です！ありがとうございました！	general,shopping,weather
+2986	7	SYSTEM	よい旅を	general,shopping,weather

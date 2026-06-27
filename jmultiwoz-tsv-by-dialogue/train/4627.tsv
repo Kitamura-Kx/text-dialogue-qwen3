@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4627	0	USER	こんにちは。大阪に旅行したいと思っているんですが、7月18日の西区の天候は調べられますか？	general,weather,taxi
+4627	1	SYSTEM	かしこまりました。当日の天気は曇、最低気温が20.3度で最高気温が33.5度 でございます。	general,weather,taxi
+4627	2	USER	暑そうですね。ところで、キャッシュレス払い対応のタクシー会社も探していただきたいんです。	general,weather,taxi
+4627	3	SYSTEM	株式会社国際興業大阪がございます。こちらジャンボタクシーにも対応しております。	general,weather,taxi
+4627	4	USER	電話番号はわかりますか？	general,weather,taxi
+4627	5	SYSTEM	電話番号は0570035931でございます。	general,weather,taxi
+4627	6	USER	では、そちらで配車予約をお願いします。7月18日14時ちょうどに、ユニバーサル・スタジオ・ジャパン(USJ)からアローホテルイン心斎橋までお願いします。	general,weather,taxi
+4627	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は32867でございます。	general,weather,taxi
+4627	8	USER	ご対応ありがとうございました。	general,weather,taxi

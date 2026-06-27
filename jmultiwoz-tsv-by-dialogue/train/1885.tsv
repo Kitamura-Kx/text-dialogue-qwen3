@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1885	0	USER	横浜に旅行したいのですが、11/21 栄区のお天気はどうですか？	general,weather,taxi
+1885	1	SYSTEM	はい、横浜栄区の当日の天気は雨のち曇となっております。	general,weather,taxi
+1885	2	USER	ありがとうございます。タクシーの予約をしたいのですが、キャッシュレス対応の会社はありますか？	general,weather,taxi
+1885	3	SYSTEM	はい、富士見交通株式会社さんはいかがでしょうか？	general,weather,taxi
+1885	4	USER	その会社は、ジャンボタクシー対応ですか？	general,weather,taxi
+1885	5	SYSTEM	申し訳ありません、ジャンボタクシーは対応しておりません。	general,weather,taxi
+1885	6	USER	わかりました。でもそちらで大丈夫なので、予約をお願いします。11/21 11時 横浜平和プラザホテルから、ホテル エディット 横濱 までお願いしたいです。	general,weather,taxi
+1885	7	SYSTEM	お待たせいたしました。ご予約番号73403で完了致しました。	general,weather,taxi
+1885	8	USER	今回お願いしたいことは以上です。ありがとうございました。	general,weather,taxi
+1885	9	SYSTEM	ありがとうございました。	general,weather,taxi

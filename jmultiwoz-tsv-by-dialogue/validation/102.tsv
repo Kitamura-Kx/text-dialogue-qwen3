@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+102	0	USER	こんにちは。今度、大阪へ旅行するので、案内をお願いします。	general,taxi
+102	1	SYSTEM	承知致しました。どのようなご案内が必要でしょう？	general,taxi
+102	2	USER	駒姫タクシーグループというタクシー会社を探しているのですが、そういったところはありますか？	general,taxi
+102	3	SYSTEM	はい、ございます。なにかご要望がございますか？	general,taxi
+102	4	USER	それでは、電話番号と、あとキャッシュレスに対応してるかどうか、お調べいただけますでしょうか。	general,taxi
+102	5	SYSTEM	電話番号は、0666858451となります。 キャッシュレスに対応しております。	general,taxi
+102	6	USER	ありがとうございます。 では、そちらのタクシーの予約をお願いします。 ７月３日、１０時３０分、出発地はなにわ天ぷら 維心、目的地は京ほのか 梅田店というところでお願いします。	general,taxi
+102	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。 いかがされますか？	general,taxi
+102	8	USER	そうしましたら、時間を１１時に変更したいと思います。	general,taxi
+102	9	SYSTEM	ありがとうございます。 ご予約完了致しました。 予約番号は、23011　となります。	general,taxi
+102	10	USER	承知いたしました。予約のお手配、ありがとうございました。	general,taxi
+102	11	SYSTEM	他にご用件はございますか？	general,taxi
+102	12	USER	いえ、予約のみで大丈夫です。この度はありがとうございました。	general,taxi
+102	13	SYSTEM	承知致しました。ありがとうございました。	general,taxi

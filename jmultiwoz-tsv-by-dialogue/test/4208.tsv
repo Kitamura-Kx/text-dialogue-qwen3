@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4208	0	USER	名古屋への旅行を考えています。高岳駅近くの観光名所はありますか？	general,attraction,restaurant,taxi
+4208	1	SYSTEM	では、文化のみち二葉館はいかがですか？	general,attraction,restaurant,taxi
+4208	2	USER	駐車場が無料で使える、温泉・スパジャンルのところはありますか？	general,attraction,restaurant,taxi
+4208	3	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,restaurant,taxi
+4208	4	USER	そうですか。先程のところは無料で駐車場を使えますか？	general,attraction,restaurant,taxi
+4208	5	SYSTEM	はい、文化のみち二葉館は無料駐車場があります。	general,attraction,restaurant,taxi
+4208	6	USER	文化のみち二葉館は最寄駅からどのぐらい時間がかかりますか？	general,attraction,restaurant,taxi
+4208	7	SYSTEM	所要時間は、最寄り駅の高岳駅から徒歩で10分となっております。	general,attraction,restaurant,taxi
+4208	8	USER	わかりました。あと、当日食事が出来るところも探しています。出来れば安めの予算で抑えたいのですが？	general,attraction,restaurant,taxi
+4208	9	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,restaurant,taxi
+4208	10	USER	そうですか。では、予算は問いませんので、どこかおすすめを１件紹介してください。	general,attraction,restaurant,taxi
+4208	11	SYSTEM	では、魚!魚っ!いっちょらいはいかがですか？	general,attraction,restaurant,taxi
+4208	12	USER	よさそうですね。では予約をお願いします。７月２４日の１４時２０分で、２人でお願いします。	general,attraction,restaurant,taxi
+4208	13	SYSTEM	予約出来ました。予約番号は、64489です。	general,attraction,restaurant,taxi
+4208	14	USER	当日はタクシーを使いたいと思います。ジャンボタクシーが使えるところはありますか？	general,attraction,restaurant,taxi
+4208	15	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,restaurant,taxi
+4208	16	USER	わかりました。では、普通のタクシーで構いませんので、１社教えてください。	general,attraction,restaurant,taxi
+4208	17	SYSTEM	では、名古屋近鉄タクシーはいかがですか？	general,attraction,restaurant,taxi
+4208	18	USER	そちらはキャッシュレス対応はしていますか？	general,attraction,restaurant,taxi
+4208	19	SYSTEM	はい、キャッシュレス対応しております。	general,attraction,restaurant,taxi
+4208	20	USER	では、予約をお願いします。７月２４日の１２時３０分で、文化のみち二葉館発、魚!魚っ!いっちょらい着でお願いします。	general,attraction,restaurant,taxi
+4208	21	SYSTEM	予約出来ました。予約番号は、26549になります。	general,attraction,restaurant,taxi
+4208	22	USER	ありがとうございました。では失礼します。	general,attraction,restaurant,taxi

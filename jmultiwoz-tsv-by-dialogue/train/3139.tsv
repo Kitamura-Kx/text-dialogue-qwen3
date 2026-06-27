@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3139	0	USER	福岡に行きます。Wi-Fiが無料なカフェを探して下さい。	general,restaurant
+3139	1	SYSTEM	かしこまりました。そうしますと、HAPPY HILLというところが、１件ご案内可能です。いかがでしょうか？	general,restaurant
+3139	2	USER	定休日はいつですか？	general,restaurant
+3139	3	SYSTEM	お盆とお正月が定休日となっております。	general,restaurant
+3139	4	USER	そうですか。では、9/7の12：50で予約お願いします。4人です。	general,restaurant
+3139	5	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,restaurant
+3139	6	USER	それでは、3人でお願いします。	general,restaurant
+3139	7	SYSTEM	ありがとうございます。３名様にて、ご予約完了いたしました。予約番号は、11910です。	general,restaurant
+3139	8	USER	ありがとうございました。失礼します。	general,restaurant
+3139	9	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,restaurant

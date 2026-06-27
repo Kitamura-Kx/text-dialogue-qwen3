@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4574	0	USER	那覇の空港食堂というお店に行く予定なのですが、このお店は駐車場はありますか？営業時間も教えてください。	general,restaurant,hotel,weather
+4574	1	SYSTEM	那覇の空港食堂ですね。朝１０時から夜６時半まで、駐車場は不明です。	general,restaurant,hotel,weather
+4574	2	USER	わかりました。このお店を9/14の11：30に2人で予約したいです。	general,restaurant,hotel,weather
+4574	3	SYSTEM	予約成功しました。予約番号は81838です。	general,restaurant,hotel,weather
+4574	4	USER	ありがとうございました。あと小禄地区の古島駅近くで宿泊施設はありますか？	general,restaurant,hotel,weather
+4574	5	SYSTEM	小禄地区の古島駅では宿泊施設がヒットしません。	general,restaurant,hotel,weather
+4574	6	USER	では地区はどこでも大丈夫です。	general,restaurant,hotel,weather
+4574	7	SYSTEM	古島駅の宿泊施設ならば、HOTEL COZY STAY IN 那覇曙、こちら一択です。	general,restaurant,hotel,weather
+4574	8	USER	料金情報はなにかありますか？	general,restaurant,hotel,weather
+4574	9	SYSTEM	値段帯は安めですが、料金情報詳細は不明ですね。	general,restaurant,hotel,weather
+4574	10	USER	わかりました。ではそのホテルを9/14に3人で4泊で予約したいです。	general,restaurant,hotel,weather
+4574	11	SYSTEM	その条件だと予約に失敗してしまいました。	general,restaurant,hotel,weather
+4574	12	USER	では人数を２人にしたら大丈夫ですか？	general,restaurant,hotel,weather
+4574	13	SYSTEM	9/14に2人で4泊、予約成功しました。予約番号は45143です。	general,restaurant,hotel,weather
+4574	14	USER	最後に9/14の小禄地区の気温を教えてください。	general,restaurant,hotel,weather
+4574	15	SYSTEM	9/14 那覇 小禄 の天気は晴時々曇、最低気温22.8度、最高気温30.1度です。	general,restaurant,hotel,weather
+4574	16	USER	わかりました。ありがとうございました。	general,restaurant,hotel,weather
+4574	17	SYSTEM	よい旅を	general,restaurant,hotel,weather

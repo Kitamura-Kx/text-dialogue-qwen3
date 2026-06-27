@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2044	0	USER	名古屋への旅行を計画中なのですが、お願いします。WiFiが無料の美術館・博物館があれば教えて下さい。	general,attraction
+2044	1	SYSTEM	申し訳ございません。その条件に該当する美術館・博物館は見つかりませんでした。	general,attraction
+2044	2	USER	わかりました、それではWiFiは無くてもかまいません。	general,attraction
+2044	3	SYSTEM	かしこまりました。それでは、刀剣コレクション 名古屋・丸の内はいかがでしょうか？	general,attraction
+2044	4	USER	「刀剣コレクション 名古屋・丸の内」の電話番号と定休日はわかりますか？	general,attraction
+2044	5	SYSTEM	はい。電話番号は0522328017でして、土日祝と年末年始と 夏季休暇がお休みとなっております。	general,attraction
+2044	6	USER	助かりました他は大丈夫です、ありがとうございました。	general,attraction
+2044	7	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction

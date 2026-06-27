@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1167	0	USER	横浜の神奈川区で食事ができる飲食店はありますか？できれば、Wi-Fiが無料だと良いです。	general,restaurant,taxi
+1167	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,taxi
+1167	2	USER	では、神奈川区以外でWi-Fi無料のお店はありますか？	general,restaurant,taxi
+1167	3	SYSTEM	ではすしざんまい 横浜西口店はいかがですか。エリアは西区になります。	general,restaurant,taxi
+1167	4	USER	いいですね！では、予約をお願いします。9/2の13:30い４人で予約したいです。	general,restaurant,taxi
+1167	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は84322でございます。	general,restaurant,taxi
+1167	6	USER	ありがとうございます。次にタクシーも予約したいのですが、キャッシュレス対応で、ジャンボタクシーがある会社が良いです。	general,restaurant,taxi
+1167	7	SYSTEM	では日本サントスキャブ株式会社がございます。	general,restaurant,taxi
+1167	8	USER	その会社の連絡先を教えて頂けますか？	general,restaurant,taxi
+1167	9	SYSTEM	電話番号は0120193117でございます。	general,restaurant,taxi
+1167	10	USER	9/2の11:40に予約したいのですが、迎えは横浜・八景島シーパラダイスまでお願いします。	general,restaurant,taxi
+1167	11	SYSTEM	かしこまりました。目的地も教えていただけますか。	general,restaurant,taxi
+1167	12	USER	目的地は、先ほどのすしざんまい 横浜西口店でお願いします。	general,restaurant,taxi
+1167	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は98635でございます。	general,restaurant,taxi
+1167	14	USER	今回お願いしたいのは以上です。ありがとうございました。	general,restaurant,taxi
+1167	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

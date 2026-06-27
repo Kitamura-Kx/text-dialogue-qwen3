@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3476	0	USER	那覇に旅行に行こうと思っているのですが、最寄り駅が美栄橋駅で駐車場が無料で使える買い物ができる場所はありますか。	general,shopping,hotel,taxi
+3476	1	SYSTEM	お待たせいたしました。その条件ですと、フレッシュプラザユニオン前島店がございます。	general,shopping,hotel,taxi
+3476	2	USER	ありがとうございます。次に宿泊施設を予約したいと思っています。Wi-Fiが無料で使えるところでお願いします。	general,shopping,hotel,taxi
+3476	3	SYSTEM	はい、ではホテル沖縄 with サンリオキャラクターズはいかがでしょうか？	general,shopping,hotel,taxi
+3476	4	USER	そこでお願いします。6/13に人数4人で4泊の宿泊になります。	general,shopping,hotel,taxi
+3476	5	SYSTEM	ありがとうございます。予約番号8975でお取りさせていただきました。	general,shopping,hotel,taxi
+3476	6	USER	ありがとうございます。あと、タクシーを利用したいのですが、ジャンボタクシーが利用できる会社はありますか。	general,shopping,hotel,taxi
+3476	7	SYSTEM	かしこまりました。それでは沖縄交通はいかがでしょうか？	general,shopping,hotel,taxi
+3476	8	USER	沖縄交通のキャッシュレス対応はどのようになっていますか。	general,shopping,hotel,taxi
+3476	9	SYSTEM	キャッシュレスにも対応しております。	general,shopping,hotel,taxi
+3476	10	USER	ではそこでお願いします。6/13の16:10にフレッシュプラザユニオン前島店からホテル沖縄 with サンリオキャラクターズです。	general,shopping,hotel,taxi
+3476	11	SYSTEM	お待たせいたしました。それでは予約番号10173でお取りさせていただきました。	general,shopping,hotel,taxi
+3476	12	USER	ありがとうございます。これで大丈夫です。	general,shopping,hotel,taxi
+3476	13	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,hotel,taxi

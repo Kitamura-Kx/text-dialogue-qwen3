@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1994	0	USER	名古屋への旅行を計画しています． 当日訪れる観光名所を探してください．駐車場を無料で利用できるところがいいです。	general,attraction,shopping,hotel
+1994	1	SYSTEM	氷上姉子神社はいかがでしょうか。	general,attraction,shopping,hotel
+1994	2	USER	そちらの定休日を教えていただけますか。	general,attraction,shopping,hotel
+1994	3	SYSTEM	定休日は無しです。	general,attraction,shopping,hotel
+1994	4	USER	ありがとうございます。あと、当日買い物ができるところを探してください．ジャンルは旅行用品です．地区は中村区で	general,attraction,shopping,hotel
+1994	5	SYSTEM	東急ハンズ名古屋店はいかがでしょうか。	general,attraction,shopping,hotel
+1994	6	USER	ありがとうございます。	general,attraction,shopping,hotel
+1994	7	SYSTEM	いえいえ、こちらこそお問合せありがとうございます。	general,attraction,shopping,hotel
+1994	8	USER	あと、当日泊まる宿泊施設を探してください．レストランが併設されているところにしてください．駐車場を無料で利用できるところで予算は安めが希望です．	general,attraction,shopping,hotel
+1994	9	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction,shopping,hotel
+1994	10	USER	でしたら予算はなんでもいいです	general,attraction,shopping,hotel
+1994	11	SYSTEM	ザ タワーホテル ナゴヤはいかがでしょうか。	general,attraction,shopping,hotel
+1994	12	USER	そちらのチェックアウト終了時刻，料金情報，住所　を教えていただけますか。	general,attraction,shopping,hotel
+1994	13	SYSTEM	チェックアウト終了時刻は12:00で料金情報は不明、住所 は愛知県名古屋市中区錦3丁目6-15先になります。	general,attraction,shopping,hotel
+1994	14	USER	ありがとうございます。そちらを人数は4人、日付は10/19で宿泊日数は4泊で予約していただけますか。	general,attraction,shopping,hotel
+1994	15	SYSTEM	予約完了いたしました。予約番号は5823になります。	general,attraction,shopping,hotel
+1994	16	USER	ありがとうございます。	general,attraction,shopping,hotel

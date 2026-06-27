@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2279	0	USER	札幌へ旅行に行くんですが、当日買い物ができるところを探してください。無料駐車場があるところが希望です。	general,shopping,hotel
+2279	1	SYSTEM	札幌の無料駐車場有の買い物施設は３３件あります。他に追加で希望の条件はありますか？	general,shopping,hotel
+2279	2	USER	とくにないです。	general,shopping,hotel
+2279	3	SYSTEM	ならば、さっぽろ地下街がオススメです。	general,shopping,hotel
+2279	4	USER	そうなんですね。定休日はありますか？	general,shopping,hotel
+2279	5	SYSTEM	定休日は元日のみです。	general,shopping,hotel
+2279	6	USER	わかりました。あと、Wi-Fiが無料で無料駐車場のある宿泊施設も探してもらえますか？	general,shopping,hotel
+2279	7	SYSTEM	札幌でWiFiと駐車場が無料なところは６件あります。他に追加で希望の条件はありますか？	general,shopping,hotel
+2279	8	USER	いえ、とくにありません。	general,shopping,hotel
+2279	9	SYSTEM	ならば、JRタワーホテル日航札幌をお勧めします。	general,shopping,hotel
+2279	10	USER	ありがとうございます。ではそこの電話番号と住所と料金情報も教えてほしいです。	general,shopping,hotel
+2279	11	SYSTEM	電話番号は0112512222、住所は北海道札幌市中央区北5条西2丁目5番地です。値段帯は普通になりますが、料金情報詳細は持ち合わせていません。	general,shopping,hotel
+2279	12	USER	わかりました。ありがとうございました。	general,shopping,hotel
+2279	13	SYSTEM	お役に立てて光栄です。	general,shopping,hotel
+2279	14	USER		general,shopping,hotel

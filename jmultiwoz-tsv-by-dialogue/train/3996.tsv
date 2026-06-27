@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3996	0	USER	仙台へ旅行予定なのですが、安めで駐車場が無料な飲食店ないですか？	general,restaurant
+3996	1	SYSTEM	かしこまりました。それでは、大戸屋ごはん処 アリオ仙台泉店はいかがでしょうか？	general,restaurant
+3996	2	USER	いいですね。ちなみに最寄り駅ってわかります？	general,restaurant
+3996	3	SYSTEM	はい、泉中央駅でございます。	general,restaurant
+3996	4	USER	わかりました。聞きたいことはそれだけです。ありがとうございます。	general,restaurant
+3996	5	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1786	0	USER	こんにちは。今度福岡へ旅行予定です。博多区で、Wi-Fiが無料の飲食店を探していただけますか？	general,restaurant,taxi
+1786	1	SYSTEM	申し訳ありません、その条件ではご紹介できません。いかが致しましょう？	general,restaurant,taxi
+1786	2	USER	そうなんですね、では南区だとどこかありそうですか？	general,restaurant,taxi
+1786	3	SYSTEM	古民家居酒屋こまちがございます。ジャンルは、居酒屋、鍋、となります。	general,restaurant,taxi
+1786	4	USER	ありがとうございます。あと、当日タクシーを使いたいと思いますので、ジャンボタクシーが使えるところを教えてください。	general,restaurant,taxi
+1786	5	SYSTEM	申し訳ありません、ジャンボタクシー対応のタクシー会社はございません。いかが致しましょう？	general,restaurant,taxi
+1786	6	USER	ではジャンボタクシーが使えなくても大丈夫です。	general,restaurant,taxi
+1786	7	SYSTEM	親和交通（株）はいかがでしょう？キャッシュレスには対応しております。電話番号は、0924738811となります。	general,restaurant,taxi
+1786	8	USER	ありがとうございます。ではそちらで予約お願いしたいです。8/29の13:50乗車で、先ほど探していただいた古民家居酒屋こまちから、FORZA ホテルフォルツァ博多駅博多口までです。	general,restaurant,taxi
+1786	9	SYSTEM	予約が完了し、ご予約番号は、58208となります。	general,restaurant,taxi
+1786	10	USER	どうもありがとうございました。お願いしたいことは全部すみました。	general,restaurant,taxi
+1786	11	SYSTEM	ありがとうございました。	general,restaurant,taxi

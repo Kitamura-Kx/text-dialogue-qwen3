@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3447	0	USER	福岡に行こうと思っているのですが、食事が出来るところを探しています。	general,shopping,restaurant,taxi
+3447	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant,taxi
+3447	2	USER	申し訳ありません、伝え間違えました。場所は福岡なんですが、お買い物が出来るところを探しています。	general,shopping,restaurant,taxi
+3447	3	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant,taxi
+3447	4	USER	駐車場が無料で利用できる場所がいいです。それから、お店の感じとしては、百貨店や総合スーパーのような場所がいいです。	general,shopping,restaurant,taxi
+3447	5	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant,taxi
+3447	6	USER	そうですか。それなら、百貨店や総合スーパーでなくても、お買い物が出来れば大丈夫です。	general,shopping,restaurant,taxi
+3447	7	SYSTEM	では、六本松421はいかがでしょうか。	general,shopping,restaurant,taxi
+3447	8	USER	そこにしようと思います。それから、当日、食事が出来る飲食店を探しています。無料でWi-Fiが使える場所を教えていただきたいです。予算は高めです。	general,shopping,restaurant,taxi
+3447	9	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant,taxi
+3447	10	USER	分かりました。それならWi-Fiは使えなくても大丈夫です。	general,shopping,restaurant,taxi
+3447	11	SYSTEM	では焼肉 龍園 西中洲店はいかがですか。	general,shopping,restaurant,taxi
+3447	12	USER	そこでお願いします。9月9日の12時10分に、3人分予約をお願いしたいです。	general,shopping,restaurant,taxi
+3447	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は11226でございます。ほかにご用件はございますか。	general,shopping,restaurant,taxi
+3447	14	USER	ありがとうございます。その日に利用できるタクシーも探しているので、お願いしたいです。ジャンボタクシーでお願いしたいです。	general,shopping,restaurant,taxi
+3447	15	SYSTEM	（有）大鵬タクシーがございます。	general,shopping,restaurant,taxi
+3447	16	USER	ありがとうございます。そのタクシー会社は、キャッシュレスに対応していますか？	general,shopping,restaurant,taxi
+3447	17	SYSTEM	キャッシュレスに対応しているかは不明でございます。	general,shopping,restaurant,taxi
+3447	18	USER	分かりました。そこのタクシーを、9月9日の11時に予約をお願いしたいです。出発地は六本松421で、焼肉 龍園 西中洲店までを利用したいです。	general,shopping,restaurant,taxi
+3447	19	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は65814でございます。ほかにご用件はございませんか。	general,shopping,restaurant,taxi
+3447	20	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,restaurant,taxi
+3447	21	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant,taxi

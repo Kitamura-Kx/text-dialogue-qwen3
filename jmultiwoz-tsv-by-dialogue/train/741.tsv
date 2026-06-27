@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+741	0	USER	那覇で買い物をしようと思っているんですが、どこかに商店街はありますか？	general,shopping,weather
+741	1	SYSTEM	はい、2ヶ所ご案内可能です。例えば、牧志駅の近くに、第一牧志公設市場といところがございますが、いかがでしょうか？	general,shopping,weather
+741	2	USER	そちらはエリアでいうとどこになりますか？	general,shopping,weather
+741	3	SYSTEM	本庁エリアになります。	general,shopping,weather
+741	4	USER	ありがとうございます。そこの電話番号を教えてもらえますか？	general,shopping,weather
+741	5	SYSTEM	電話番号は、0988676560です。	general,shopping,weather
+741	6	USER	ありがとうございます。あと、小禄地区の１１月１９日の最高気温と最低気温を調べてもらえますか？	general,shopping,weather
+741	7	SYSTEM	かしこまりました。当日の最高気温は25.6度、最低気温は22.6度の予想となっております。	general,shopping,weather
+741	8	USER	ありがとうございます。	general,shopping,weather
+741	9	SYSTEM	他にお調べすることはございますか？	general,shopping,weather
+741	10	USER	大丈夫です。ありがとうございました。	general,shopping,weather
+741	11	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,shopping,weather

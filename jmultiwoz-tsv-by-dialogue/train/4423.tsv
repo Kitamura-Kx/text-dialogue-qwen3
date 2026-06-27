@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4423	0	USER	福岡に旅行するのですが、早良区で無料駐車場がある買い物できる店はありますか？	general,shopping
+4423	1	SYSTEM	はい、ワッキー主基の里がございます。ジャンルは、食料品となります。	general,shopping
+4423	2	USER	いいですね。住所と電話番号を教えてください。	general,shopping
+4423	3	SYSTEM	はい、住所は、福岡県福岡市早良区大字脇山592-1、電話番号は、0928032182となります。	general,shopping
+4423	4	USER	ありがとうございました。聞きたいことはそれだけです。	general,shopping
+4423	5	SYSTEM	ありがとうございました。	general,shopping

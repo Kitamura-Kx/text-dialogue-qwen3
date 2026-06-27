@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3864	0	USER	今度、名古屋に行くので、簡易宿所を紹介していただけますか？	general,hotel
+3864	1	SYSTEM	かしこまりました。ではトリップ&スリープホステルはいかがでしょうか。	general,hotel
+3864	2	USER	ありがとうございます。Wi-Fiと駐車場が無料で使用できる所が良いのですが、どうですか？	general,hotel
+3864	3	SYSTEM	ではNagoya Hostel The Three Smilesはいかがでしょうか。どちらも無料で利用いただけます。	general,hotel
+3864	4	USER	助かります。そちらの住所を教えてください。	general,hotel
+3864	5	SYSTEM	住所は愛知県名古屋市中区松原3丁目1-8でございます。	general,hotel
+3864	6	USER	ありがとうございます。それでは、そこを11月19日から4泊、4名で予約をお願いします。	general,hotel
+3864	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel
+3864	8	USER	そうですか。では、3泊ならどうですか？	general,hotel
+3864	9	SYSTEM	3泊ですと予約が可能でございました。予約番号は28683でございます。	general,hotel
+3864	10	USER	ありがとうございました。それでは失礼します。	general,hotel

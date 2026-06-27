@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2789	0	USER	大阪へ行く予定なのですが、天満橋駅近くの観光名所を探しています。	general,attraction,restaurant,weather
+2789	1	SYSTEM	申し訳ありません、天満橋駅近くに観光名所はございません。いかが致しましょう？	general,attraction,restaurant,weather
+2789	2	USER	では天満橋駅の近くでなくてもいいです。展望台・タワー系の観光名所がいいのですが	general,attraction,restaurant,weather
+2789	3	SYSTEM	では、エリアでいうと北区にある、梅田スカイビル空中庭園展望台はいかがでしょう？	general,attraction,restaurant,weather
+2789	4	USER	いいですね。駐車場の有無と定休日を教えてください。	general,attraction,restaurant,weather
+2789	5	SYSTEM	はい、駐車場は有料ですがご利用いただけます。定休日はございません。	general,attraction,restaurant,weather
+2789	6	USER	あと飲食店も探しています。	general,attraction,restaurant,weather
+2789	7	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,restaurant,weather
+2789	8	USER	中央区でWi-Fiが無料で使えるところがいいです。	general,attraction,restaurant,weather
+2789	9	SYSTEM	では、すしざんまい 道頓堀店はいかがでしょう？ジャンルは、寿司、魚料理となります。	general,attraction,restaurant,weather
+2789	10	USER	住所を教えてもらえませんか？	general,attraction,restaurant,weather
+2789	11	SYSTEM	はい、住所は大阪府大阪市中央区道頓堀1丁目7-21 中座くいだおれビル 1Fとなります。	general,attraction,restaurant,weather
+2789	12	USER	6/19の15:40から3人で予約をお願いしたいです。	general,attraction,restaurant,weather
+2789	13	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,attraction,restaurant,weather
+2789	14	USER	時間を16:30にしたら、どうでしょうか？	general,attraction,restaurant,weather
+2789	15	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、39467となります。他にご用件はございますか？	general,attraction,restaurant,weather
+2789	16	USER	あと6/19、港区の天気はどうなっていますか？最高気温も知りたいです。	general,attraction,restaurant,weather
+2789	17	SYSTEM	はい、天気は曇、最高気温25.6度となります。他にご案内できることはございますか？	general,attraction,restaurant,weather
+2789	18	USER	特にないです。	general,attraction,restaurant,weather
+2789	19	SYSTEM	ありがとうございました。	general,attraction,restaurant,weather

@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+251	0	USER	名古屋に旅行に行きたいな、と思っているんです。	general,restaurant,hotel,shopping
+251	1	SYSTEM	名古屋のご旅行ですね。どういった情報をお探ししましょうか？	general,restaurant,hotel,shopping
+251	2	USER	食事ができる場所を探しています。	general,restaurant,hotel,shopping
+251	3	SYSTEM	名古屋には、ORPHEEをはじめ、100件ほどご紹介できる飲食店がございます。	general,restaurant,hotel,shopping
+251	4	USER	そうですね、駐車場が無料で利用できるお店はありますか？	general,restaurant,hotel,shopping
+251	5	SYSTEM	では、サラベス 名古屋店は如何でしょうか？	general,restaurant,hotel,shopping
+251	6	USER	こちらのお店はどのような料金帯のお店なのでしょうか？	general,restaurant,hotel,shopping
+251	7	SYSTEM	普通の料金設定のお店となっております。	general,restaurant,hotel,shopping
+251	8	USER	わかりました。あと、名古屋で泊まる場所を探したいと考えています。	general,restaurant,hotel,shopping
+251	9	SYSTEM	かしこまりました。ご希望の条件など、ございますか？	general,restaurant,hotel,shopping
+251	10	USER	駐車場が無料で利用できる簡易宿所はありますか？	general,restaurant,hotel,shopping
+251	11	SYSTEM	その条件ですと、Show和の宿つちや、というところはいかがでしょうか？	general,restaurant,hotel,shopping
+251	12	USER	Show和の宿つちやさんは、どれくらいの値段帯の宿泊施設ですか？	general,restaurant,hotel,shopping
+251	13	SYSTEM	値段帯は、普通となっております。	general,restaurant,hotel,shopping
+251	14	USER	わかりました。ちなみにこちらの宿泊施設に、レストランやWi-Fiはありますか？	general,restaurant,hotel,shopping
+251	15	SYSTEM	レストランは併設しておりません。また、WiFiは手元の資料では、不明となっております。申し訳ございません。	general,restaurant,hotel,shopping
+251	16	USER	わかりました。教えて下さりありがとうございます。あと、名古屋でお土産を買いたいんです。	general,restaurant,hotel,shopping
+251	17	SYSTEM	では、山中羊羹舗はいかがでしょうか？中区にある、お土産, 食料品を扱うお店です。	general,restaurant,hotel,shopping
+251	18	USER	駐車場が無料で使えて、大曽根駅の近くにあるお店だと嬉しいのですが、山中羊羹舗は条件を満たしていますか？	general,restaurant,hotel,shopping
+251	19	SYSTEM	申し訳ございません。山中羊羹舗も含めて、その条件で該当するお店はありませんでした。	general,restaurant,hotel,shopping
+251	20	USER	そうですか。でしたら、場所は問いません。	general,restaurant,hotel,shopping
+251	21	SYSTEM	かしこまりました。では、アイスランドマーケットはいかがでしょうか？	general,restaurant,hotel,shopping
+251	22	USER	こちら、気になります。住所と電話番号を教えてもらえますか？	general,restaurant,hotel,shopping
+251	23	SYSTEM	住所は、愛知県名古屋市名東区社が丘1丁目1605です。電話番号は、0527536050でございます。	general,restaurant,hotel,shopping
+251	24	USER	わかりました。何から何までありがとうございました！	general,restaurant,hotel,shopping

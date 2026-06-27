@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4041	0	USER	福岡への旅行を計画しています。 当日泊まる宿泊施設を探してください。	general,hotel,attraction
+4041	1	SYSTEM	かしこまりました。その条件ですと、100件ほどありますが、何かご希望はありますか？	general,hotel,attraction
+4041	2	USER	レストランが併設されているところで、最寄り駅が姪浜駅のところにしてください。	general,hotel,attraction
+4041	3	SYSTEM	その条件ですと、GARDEN TERRACE FUKUOKA HOTEL&RESORTSがございます。	general,hotel,attraction
+4041	4	USER	いいですね。駐車場はありますか？	general,hotel,attraction
+4041	5	SYSTEM	はい、無料の駐車場がございます。	general,hotel,attraction
+4041	6	USER	では予約をお願いします。人数は3人、日付は11/20、宿泊日数は2泊です。	general,hotel,attraction
+4041	7	SYSTEM	お待たせ致しました。予約番号50009でお取りさせていただきました。	general,hotel,attraction
+4041	8	USER	南区で観光名所を探してください。駐車場を無料で利用できるところにしてください。	general,hotel,attraction
+4041	9	SYSTEM	お待たせ致しました。それでは福太郎本社(めんたい工場)はいかがでしょうか？	general,hotel,attraction
+4041	10	USER	そこがいいです。電話番号を調べてほしいです。	general,hotel,attraction
+4041	11	SYSTEM	ありがとうございます。電話番号は0924734455でございます。	general,hotel,attraction
+4041	12	USER	解決しました。ありがとうございました。	general,hotel,attraction

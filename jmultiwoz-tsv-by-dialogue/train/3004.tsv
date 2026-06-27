@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3004	0	USER	福岡への旅行を計画しています。 買い物を計画していますが、アビスパ福岡 オフィシャルショップというお店があるでしょうか。	general,shopping,taxi
+3004	1	SYSTEM	はい、あります。	general,shopping,taxi
+3004	2	USER	では、住所，営業時間を教えてください。	general,shopping,taxi
+3004	3	SYSTEM	福岡県福岡市博多区博多駅東1丁目12-1、営業時間は昼１２時から夕方６時までです。	general,shopping,taxi
+3004	4	USER	続いてタクシー会社を探してください。条件はジャンボタクシーを利用できてキャッシュレス払いできるところです。	general,shopping,taxi
+3004	5	SYSTEM	いくつか候補がありますが、福岡交通（株）をお勧めします。	general,shopping,taxi
+3004	6	USER	電話番号は何番でしょうか。	general,shopping,taxi
+3004	7	SYSTEM	0570081234です。	general,shopping,taxi
+3004	8	USER	では予約してください。日付は2/14、時間は14:40、出発地はThe358 UMI、目的地はアビスパ福岡 オフィシャルショップです。	general,shopping,taxi
+3004	9	SYSTEM	予約成功しました。予約番号は61669です。	general,shopping,taxi
+3004	10	USER	解決しました。ありがとうございました。	general,shopping,taxi

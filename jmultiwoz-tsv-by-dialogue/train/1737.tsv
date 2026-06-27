@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1737	0	USER	札幌で観光名所を探しています。自然とか公園とかそういったところに行きたいのですが、どこかありますか？	general,attraction,weather,taxi
+1737	1	SYSTEM	かしこまりました。では、二見吊橋はいかがでしょうか？ジャンルは、橋, 自然・公園, 散策エリアとなっております。	general,attraction,weather,taxi
+1737	2	USER	駐車場とWi-Fiが無料で使えるところがいいんですが、そちらはどうでしょうか？	general,attraction,weather,taxi
+1737	3	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction,weather,taxi
+1737	4	USER	そうですか。では、Wi-Fiの条件を外して、もう一度探してもらえますか？	general,attraction,weather,taxi
+1737	5	SYSTEM	かしこまりました。それでは、二見吊橋は条件に合う観光名所となっております。	general,attraction,weather,taxi
+1737	6	USER	そうなんですね！では、そちらの住所を教えていただけますか？近辺の駅からの所要時間もわかれば教えてください。	general,attraction,weather,taxi
+1737	7	SYSTEM	はい。住所は北海道札幌市南区定山渓温泉東4丁目となります。近辺の駅からの所要時間は、札幌駅からタクシーで40分、真駒内駅からタクシーで23分となります。また、バスを使われるのであれば真駒内駅からバスで50分となっております。	general,attraction,weather,taxi
+1737	8	USER	わかりました。当日12/5の北区の天気を教えてもらえますか？	general,attraction,weather,taxi
+1737	9	SYSTEM	はい。12/5の北区の天気予報は曇のち雪となっております。最低気温は-2.5度、最高気温は5.4度になる予報です。	general,attraction,weather,taxi
+1737	10	USER	ありがとう。当日タクシーを利用したいので、キャッシュレス決済可能なタクシー会社を教えてください。	general,attraction,weather,taxi
+1737	11	SYSTEM	かしこまりました。では、暁交通(株)はいかがでしょうか？ジャンボタクシーにも対応しております。	general,attraction,weather,taxi
+1737	12	USER	よさそうですね。そちらの電話番号を聞いてもいいですか？	general,attraction,weather,taxi
+1737	13	SYSTEM	はい。電話番号は0117712632でございます。	general,attraction,weather,taxi
+1737	14	USER	予約をお願いできますか？12/5の9:50に、二見吊橋からマークシティホテル札幌までお願いしたいです。	general,attraction,weather,taxi
+1737	15	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,attraction,weather,taxi
+1737	16	USER	では、時間を10:20に変更してもらえますか？	general,attraction,weather,taxi
+1737	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、79272です。	general,attraction,weather,taxi
+1737	18	USER	助かりました。どうもありがとう。	general,attraction,weather,taxi

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3999	0	USER	横浜へ旅行予定なのですが、安めの飲食店探してもらえますか？Wi-Fiが無料で使えるとうれしいです。	general,restaurant
+3999	1	SYSTEM	かしこまりました。それでは世界のビール博物館 横浜店はいかがでしょうか？	general,restaurant
+3999	2	USER	そこにします。近辺の駅からの所要時間ってわかります？	general,restaurant
+3999	3	SYSTEM	ありがとうございます。みなとみらい駅から徒歩で2分、桜木町駅から徒歩で5分でございます。	general,restaurant
+3999	4	USER	ありがとうございます。予約をお願いしたくて、4人で11/20の12:40から予約できますか？	general,restaurant
+3999	5	SYSTEM	申し訳ありません。その条件ではご予約することが出来ませんでした。	general,restaurant
+3999	6	USER	そうですか。時間を13:20にしたらどうですか？	general,restaurant
+3999	7	SYSTEM	お待たせ致しました。予約番号30581でお取りさせていただきました。	general,restaurant
+3999	8	USER	ありがとうございます。用件はそれだけです。	general,restaurant
+3999	9	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

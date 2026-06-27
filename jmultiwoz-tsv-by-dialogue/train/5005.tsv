@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+5005	0	USER	仙台へ旅行の予定です。大西公園駅の近くで駐車場が無料の飲食店はありますか？	general,restaurant
+5005	1	SYSTEM	承知しました。かつどんのかつどん家　はいかがでしょうか。	general,restaurant
+5005	2	USER	いいですね！では、駅からその店までの所要時間はどれくらいでしょうか？	general,restaurant
+5005	3	SYSTEM	はい。大西公園駅から徒歩で3分になります。	general,restaurant
+5005	4	USER	ありがとうございます！大変お世話になりました。	general,restaurant

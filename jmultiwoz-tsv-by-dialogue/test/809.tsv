@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+809	0	USER	福岡に旅行予定なのですが、駐車場を無料で利用できる観光名所を調べてください。	general,attraction,hotel
+809	1	SYSTEM	かしこまりました。そうしますと、14件候補がありますが、他になにかご希望の条件はございませんか？	general,attraction,hotel
+809	2	USER	いえ、これ以外は特に条件ありません。	general,attraction,hotel
+809	3	SYSTEM	では、福太郎本社(めんたい工場)というところはいかがでしょうか？ジャンルは、工場見学となっております。	general,attraction,hotel
+809	4	USER	そこにします。近辺の駅からの所要時間と定休日を教えてください。	general,attraction,hotel
+809	5	SYSTEM	最寄りの竹下駅から徒歩8分ほどでアクセス可能です。定休日は、お盆, 年末年始となっております。	general,attraction,hotel
+809	6	USER	わかりました。宿泊施設も探しているのですが、安めでWi-Fiが無料で利用できて、レストランが併設されているところはありますか？	general,attraction,hotel
+809	7	SYSTEM	はい、34件ほどご案内できます。たとえば、東区エリアのThe358 UMIというところがございますが、いかがでしょうか？	general,attraction,hotel
+809	8	USER	そこにします。The358 UMIのタイプはなんですか？	general,attraction,hotel
+809	9	SYSTEM	リゾートホテルとなっております。	general,attraction,hotel
+809	10	USER	ありがとうございます。	general,attraction,hotel
+809	11	SYSTEM	他にお知りになりたい情報など、ございませんか？	general,attraction,hotel
+809	12	USER	いえ、大丈夫です。	general,attraction,hotel
+809	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,hotel

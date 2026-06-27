@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4097	0	USER	東京へ旅行に行きたく、当日タクシーを利用したいです。ジャンボタクシーが利用できるところを探してほしいです。	general,taxi
+4097	1	SYSTEM	かしこまりました。それではキャピタルオートはいかがでしょうか？	general,taxi
+4097	2	USER	そちらはキャッシュレス対応はされていますか？また電話番号も教えてください。	general,taxi
+4097	3	SYSTEM	はい、キャッシュレスにも対応しております。電話番号は0357552151でございます。	general,taxi
+4097	4	USER	ありがとうございます。それでは予約をお願いします。日時は9/10、11:50で出発地は東京都現代美術館 / MUSEUM OF CONTEMPORARY ART TOKYO (MOT)からTaverna e Pizzeria Saluteまででお願いします。	general,taxi
+4097	5	SYSTEM	申し訳ありません。その条件では予約することが出来ませんでした。	general,taxi
+4097	6	USER	それでは時間を12:50に変更でお願いします。	general,taxi
+4097	7	SYSTEM	お待たせ致しました。予約番号57106でお取りさせていただきました。	general,taxi
+4097	8	USER	ありがとうございます。以上です。	general,taxi
+4097	9	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi

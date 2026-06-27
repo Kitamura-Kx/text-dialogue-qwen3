@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1741	0	USER	札幌で予算普通の宿泊場所を探しています。無料の駐車場があるといいんですが、分かりますか？	general,hotel,shopping
+1741	1	SYSTEM	札幌で予算普通だと、無料駐車場付きの宿はなさそうです。	general,hotel,shopping
+1741	2	USER	じゃあ、予算は普通じゃなくてもいいです。それならどうですか？	general,hotel,shopping
+1741	3	SYSTEM	定山渓ビューホテルはいかがでしょう。予算安めで無料駐車場もあります。	general,hotel,shopping
+1741	4	USER	そのホテルのエリアはどこになりますか？電話番号も聞いときたいです。あと、ホテルのタイプも教えてください。	general,hotel,shopping
+1741	5	SYSTEM	南区のリゾートホテルになります。電話番号は0115983339です。	general,hotel,shopping
+1741	6	USER	7月24日に予約できますか？3人で4泊したいんですけど。	general,hotel,shopping
+1741	7	SYSTEM	その条件だと予約厳しそうです。	general,hotel,shopping
+1741	8	USER	そっかあ、じゃあ2人ならどうですか？	general,hotel,shopping
+1741	9	SYSTEM	7月24日、2人で4泊で予約成功しました。予約番号は48866になります。	general,hotel,shopping
+1741	10	USER	買い物するところも知りたいんですが、桑園駅近くでありますか？	general,hotel,shopping
+1741	11	SYSTEM	桑園駅エリアだとイオン札幌桑園ショッピングセンター一択です。	general,hotel,shopping
+1741	12	USER	そこってエリア的にはどこになりますか？	general,hotel,shopping
+1741	13	SYSTEM	中央区になります。	general,hotel,shopping
+1741	14	USER		general,hotel,shopping

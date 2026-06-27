@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+371	0	USER	今度名古屋に行くのですが、どこか観光できるところを探しています。	general,attraction,weather
+371	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,weather
+371	2	USER	ジャンルは散策エリアで、駐車場が無料のところがいいです。	general,attraction,weather
+371	3	SYSTEM	ありがとうございます。2件、農業文化園・戸田川緑地、大高緑地がございます。何をご案内致しましょう？	general,attraction,weather
+371	4	USER	大高緑地に行ってみます。あと、5/4の緑区の天気を教えてください。	general,attraction,weather
+371	5	SYSTEM	はい、天気は曇のち晴、最低気温20.8度、最高気温27.4度となります。他にご案内できることはございますか？	general,attraction,weather
+371	6	USER	分かりました。以上です。ありがとうございました。	general,attraction,weather
+371	7	SYSTEM	ありがとうございました。	general,attraction,weather

@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3758	0	USER	東京へ、旅行に行くのですが、宿泊施設を探しています。	general,hotel,shopping,attraction
+3758	1	SYSTEM	予算など何かご希望などは、ありますか？	general,hotel,shopping,attraction
+3758	2	USER	宿のタイプはシティホテルで、駐車場無料、かつレストランが併設されてる所が良いです。	general,hotel,shopping,attraction
+3758	3	SYSTEM	それでしたら、The Okura Tokyoはいかがですか？	general,hotel,shopping,attraction
+3758	4	USER	そちらにします。エリアはどちらでしょうか？あと料金も知りたいです。	general,hotel,shopping,attraction
+3758	5	SYSTEM	エリアは、港区です。	general,hotel,shopping,attraction
+3758	6	USER	承知しました。では予約をしたいのですが、料金はいくらになりますか？	general,hotel,shopping,attraction
+3758	7	SYSTEM	申し訳ありません、、料金情報の記載はございません。　このままご予約でよろしければ予約希望の日時と人数をお知らせ下さい。	general,hotel,shopping,attraction
+3758	8	USER	承知しました。日付は4/18です。宿泊日数は4泊で人数は４人です。	general,hotel,shopping,attraction
+3758	9	SYSTEM	予約が完了しました。　予約番号は、50180です。	general,hotel,shopping,attraction
+3758	10	USER	ありがとうございます。	general,hotel,shopping,attraction
+3758	11	SYSTEM	他にご用件はありますか？	general,hotel,shopping,attraction
+3758	12	USER	駐車場が無料で買い物できる、商店街を探しています。	general,hotel,shopping,attraction
+3758	13	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,hotel,shopping,attraction
+3758	14	USER	では、駐車場は考慮しなくて大丈夫です	general,hotel,shopping,attraction
+3758	15	SYSTEM	では、アメ横商店街はいかがですか？	general,hotel,shopping,attraction
+3758	16	USER	そちらにします。最寄り駅と電話番号を教えて下さい	general,hotel,shopping,attraction
+3758	17	SYSTEM	最寄り駅は、仲御徒町駅です。　電話番号は、0338325053です。	general,hotel,shopping,attraction
+3758	18	USER	ありがとうございます	general,hotel,shopping,attraction
+3758	19	SYSTEM	他にご用件はありますか？	general,hotel,shopping,attraction
+3758	20	USER	展望台・タワーのジャンルで、Wi-Fiが無料の観光名所を探しています	general,hotel,shopping,attraction
+3758	21	SYSTEM	1件みつかりました。東京スカイツリーはいかがですか？	general,hotel,shopping,attraction
+3758	22	USER	そちらにします。駅からの所要時間と料金を教えて下さい。	general,hotel,shopping,attraction
+3758	23	SYSTEM	所要時間は、とうきょうスカイツリー駅から徒歩で1分です。　料金は大人　3400円、子供1550円です。	general,hotel,shopping,attraction
+3758	24	USER	ありがとうございます。	general,hotel,shopping,attraction
+3758	25	SYSTEM	他にご用件はありますか？	general,hotel,shopping,attraction
+3758	26	USER	特にありません	general,hotel,shopping,attraction
+3758	27	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,attraction

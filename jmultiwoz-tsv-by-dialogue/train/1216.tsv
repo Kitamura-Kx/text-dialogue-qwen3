@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1216	0	USER	札幌への旅行を計画しています。	general,hotel
+1216	1	SYSTEM	はい。お疲れ様です	general,hotel
+1216	2	USER	当日泊まる宿泊施設を探してください．レストランが併設されているところで駐車場を無料で利用できるところで、予算は安めが希望です．	general,hotel
+1216	3	SYSTEM	定山渓温泉 ぬくもりの宿 ふる川はいかがでしょうか。	general,hotel
+1216	4	USER	いいですね。そちらはWi-Fi使えますか。	general,hotel
+1216	5	SYSTEM	Wi-Fiの有無は有り(無料)となっています	general,hotel
+1216	6	USER	そちらで、人数は2人、日付は11/30、宿泊日数は3泊で予約していただけますか。	general,hotel
+1216	7	SYSTEM	予約しました。予約番号は88160になります。	general,hotel
+1216	8	USER	ありがとうございます。	general,hotel

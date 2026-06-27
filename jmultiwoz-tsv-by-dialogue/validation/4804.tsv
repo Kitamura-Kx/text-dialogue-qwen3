@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4804	0	USER	名古屋へ旅行予定なのですが、レストランがある、値段が安めの簡易宿所はありますか？	general,hotel,shopping,taxi
+4804	1	SYSTEM	名古屋には、値段が安めでレストラン併設の簡易宿所はなさそうです。	general,hotel,shopping,taxi
+4804	2	USER	そうですか。では、レストランはなくてもいいです。	general,hotel,shopping,taxi
+4804	3	SYSTEM	名古屋の簡易宿所で値段安めは４件ありますが、ホステル わさび名古屋駅前をお勧めします。	general,hotel,shopping,taxi
+4804	4	USER	いいですね。駐車場の有無と近辺の駅からの所要時間を教えてください。	general,hotel,shopping,taxi
+4804	5	SYSTEM	駐車場は不明、名古屋駅から徒歩で5分と大変便利です。	general,hotel,shopping,taxi
+4804	6	USER	了解です。3人で4/8から4泊の予約をお願いします。	general,hotel,shopping,taxi
+4804	7	SYSTEM	予約成功しました。予約番号は12371です。	general,hotel,shopping,taxi
+4804	8	USER	ありがとうございます。あと、燃料が買えるお店はありませんか？	general,hotel,shopping,taxi
+4804	9	SYSTEM	名古屋でジャンル燃料で買い物施設を検索しましたが、ヒットしませんでした。	general,hotel,shopping,taxi
+4804	10	USER	わかりました。では旅行用品に変更します。	general,hotel,shopping,taxi
+4804	11	SYSTEM	名古屋の旅行用品なら、東急ハンズ名古屋店がオススメです。	general,hotel,shopping,taxi
+4804	12	USER	そこにします。駐車場の有無と定休日を教えてください。	general,hotel,shopping,taxi
+4804	13	SYSTEM	駐車場は無料、定休日は不定休となっています。	general,hotel,shopping,taxi
+4804	14	USER	ありがとうございます。あと、中川タクシーを使う予定なのですが、ジャンボタクシーとキャッシュレスに対応しているかどうかと、電話番号を教えてもらえますか？	general,hotel,shopping,taxi
+4804	15	SYSTEM	中川タクシーはジャンボ対応ですが、キャッシュレスは不明となっています。電話番号は、0528212345です。	general,hotel,shopping,taxi
+4804	16	USER	わかりました。4/8の13:10にホステル わさび名古屋駅前を出発して、東急ハンズ名古屋店を目的地に設定して、予約してもらえますか？	general,hotel,shopping,taxi
+4804	17	SYSTEM	予約成功しました。予約番号は83891です。	general,hotel,shopping,taxi
+4804	18	USER	ありがとうございました。	general,hotel,shopping,taxi

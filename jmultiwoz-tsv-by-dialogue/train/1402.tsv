@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1402	0	USER	那覇に旅行に行ったときに食事をするお店を探してもらいたいです。できれば駐車場代がかからなくって小禄エリアにある、予算は普通くらいのところだとありがたいです。	general,restaurant
+1402	1	SYSTEM	蕎麦ダイニング 赤坂は、いかがでしょうか？	general,restaurant
+1402	2	USER	こちらのお店はどのような食事が楽しめるのですか？	general,restaurant
+1402	3	SYSTEM	お店のジャンルとしては、うどん・そば, 和食になります。	general,restaurant
+1402	4	USER	わかりました。蕎麦ダイニング 赤坂さんでご予約を取ってもらいたいです！	general,restaurant
+1402	5	SYSTEM	はい、では予約希望の日時と人数をお願いします。	general,restaurant
+1402	6	USER	6月7日の13時40分で3名で利用したいです。	general,restaurant
+1402	7	SYSTEM	予約出来ました。予約番号は、53968です。	general,restaurant
+1402	8	USER	とても助かりました。ご対応、ありがとうございました。	general,restaurant

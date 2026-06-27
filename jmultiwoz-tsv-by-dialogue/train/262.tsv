@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+262	0	USER	福岡の相良区で、簡易宿所タイプの宿を探してるんですけど。Wi-Fi無料のところをお願いします。	general,hotel
+262	1	SYSTEM	申し訳ございません。ご希望エリアの相良区を見落としておりました。そのエリアですとご希望の条件ではご案内できるところがございませんでした。いかがなさいますか。	general,hotel
+262	2	USER	そうなんですか、じゃあ簡易宿所タイプにこだわらないので、教えてください。	general,hotel
+262	3	SYSTEM	早良区でございますね。博多の奥座敷 椎原温泉 割烹旅館みはる荘がございます。	general,hotel
+262	4	USER	そこだと近い駅からの所要時間は？電話番号も教えてください。	general,hotel
+262	5	SYSTEM	野芥駅からタクシーで19分となっております。電話番号は0928042640でございます。	general,hotel
+262	6	USER	チャックインは何時から？	general,hotel
+262	7	SYSTEM	チェックイン開始時刻は16:00でございます。	general,hotel
+262	8	USER	2人で予約をお願いします。6月13日から2泊です。	general,hotel
+262	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は52378でございます。	general,hotel
+262	10	USER	いいところを教えてもらいました。ありがとうございました。	general,hotel

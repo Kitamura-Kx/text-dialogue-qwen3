@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1839	0	USER	福岡へ旅行にいく予定なので、その時に食事をとるお店を探しています。	general,restaurant,hotel,taxi
+1839	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,restaurant,hotel,taxi
+1839	2	USER	居酒屋で食事をしたいんですが、お店に無料Wi-Fiがある条件で探してもらえますか。	general,restaurant,hotel,taxi
+1839	3	SYSTEM	かしこまりました。では、古民家居酒屋こまちはいかがでしょうか？	general,restaurant,hotel,taxi
+1839	4	USER	良いですね、そちらにします。あと、泊まる所も探しています。レストランがあって無料駐車場が完備している所でお願いします。	general,restaurant,hotel,taxi
+1839	5	SYSTEM	かしこまりました。では、The358 UMIはいかがでしょうか？タイプはリゾートホテルになります。	general,restaurant,hotel,taxi
+1839	6	USER	良さそうですね。The358 UMIはどのエリアにありますか？最寄り駅がどこかも知りたいです。	general,restaurant,hotel,taxi
+1839	7	SYSTEM	はい。エリアは東区です。最寄り駅は雁ノ巣駅になります。	general,restaurant,hotel,taxi
+1839	8	USER	分かりました。当日はタクシーの利用もしたいと思っているのですが、日本交通産業（株）の利用はできますか？	general,restaurant,hotel,taxi
+1839	9	SYSTEM	はい、可能です。日本交通産業（株）に関して何かご案内できることはありますでしょうか？	general,restaurant,hotel,taxi
+1839	10	USER	日本交通産業（株）で、8/3の15:40に配車予約をお願いしたいです。ちなみにキャッシュレス決済もできますか？	general,restaurant,hotel,taxi
+1839	11	SYSTEM	キャッシュレス決済には対応しております。かしこまりました。出発地と目的地はお決まりでしょうか？	general,restaurant,hotel,taxi
+1839	12	USER	はい、古民家居酒屋こまちからThe358 UMIの移動でお願いしたいです。	general,restaurant,hotel,taxi
+1839	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、26462です。	general,restaurant,hotel,taxi
+1839	14	USER	ありがとうございます。	general,restaurant,hotel,taxi
+1839	15	SYSTEM	他にご用件はありますか？	general,restaurant,hotel,taxi
+1839	16	USER	ありがとうございます、これで全てです。	general,restaurant,hotel,taxi
+1839	17	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel,taxi

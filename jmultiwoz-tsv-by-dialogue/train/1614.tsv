@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1614	0	USER	札幌の中央区で買い物ができるところを教えてください。駐車場が無料利用できるところがいいなと考えています。	general,shopping
+1614	1	SYSTEM	イオン札幌桑園ショッピングセンターは、いかがですか？	general,shopping
+1614	2	USER	そちらはどういったジャンルのお店になりますか？	general,shopping
+1614	3	SYSTEM	こちらのお店のジャンルは、百貨店や総合スーパーとなります。	general,shopping
+1614	4	USER	なるほど。あと、近辺の駅からの所要時間が知りたいです。	general,shopping
+1614	5	SYSTEM	はい、近辺の駅からの所要時間は、桑園駅から徒歩で3分となっています。	general,shopping
+1614	6	USER	ありがとうございます。電話番号も聞いていいですか？	general,shopping
+1614	7	SYSTEM	電話番号は、0112047200です。	general,shopping
+1614	8	USER	わかりました！どうもありがとうございました。	general,shopping

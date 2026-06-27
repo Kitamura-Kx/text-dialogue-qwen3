@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+565	0	USER	横浜での旅行で買い物できるスポットを探して頂けますか？	general,shopping,weather,taxi
+565	1	SYSTEM	承知しました。エリアなどのご希望はございますか？	general,shopping,weather,taxi
+565	2	USER	エリアはどこでも大丈夫ですが、ジャンルは書籍で、駐車場を無料で利用できるところがいいのですが。	general,shopping,weather,taxi
+565	3	SYSTEM	ありがとうございます。では、ポポンデッタ横浜ビブレ店はいかがでしょう？エリアは西区で、最寄りの横浜駅から徒歩で3分となります。	general,shopping,weather,taxi
+565	4	USER	ではそちらに行きたいと思います。定休日と営業時間の情報もありますか？	general,shopping,weather,taxi
+565	5	SYSTEM	はい、営業時間は10時30分から20時30分、定休日は不定休となっております。	general,shopping,weather,taxi
+565	6	USER	ありがとうございます。当日の天気も知りたいのですが5/27の中区の天気ってわかるでしょうか？	general,shopping,weather,taxi
+565	7	SYSTEM	はい、天気は晴、最低気温19.7度、最高気温28.5度となります。	general,shopping,weather,taxi
+565	8	USER	ありがとうございます。あとタクシー会社も探しておきたいのですがジャンボタクシーを利用できるところはありますか？	general,shopping,weather,taxi
+565	9	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,shopping,weather,taxi
+565	10	USER	それであれば、ジャンボタクシーでなくても構いません。ありそうですか？	general,shopping,weather,taxi
+565	11	SYSTEM	申し訳ありません。では、平和交通株式会社 新子安営業所はいかがでしょう？キャッシュレスには対応しております。電話番号は、0456638181となります。	general,shopping,weather,taxi
+565	12	USER	ありがとうございます。そちらのタクシーの予約をお願いしたいのですが、5/27の10:30で空いていますか？出発地はポポンデッタ横浜ビブレ店で、目的地はナビオス横浜でお願いします。	general,shopping,weather,taxi
+565	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、73618となります。	general,shopping,weather,taxi
+565	14	USER	ありがとうございました。	general,shopping,weather,taxi

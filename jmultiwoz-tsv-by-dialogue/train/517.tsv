@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+517	0	USER	京都へ旅行にいきたいと思っています。京都の観光名所を教えてください。	general,attraction,weather
+517	1	SYSTEM	京都の観光名所ですね。49件ほどご案内可能な場所がございます。なにか、ご希望のジャンルなどはございますでしょうか？	general,attraction,weather
+517	2	USER	地区は山科区で駐車場を無料で利用できるところが良いです。	general,attraction,weather
+517	3	SYSTEM	申し訳ございません。その条件では、該当するものがありませんでした。いかがいたしましょうか？	general,attraction,weather
+517	4	USER	では、地区は諦めます。	general,attraction,weather
+517	5	SYSTEM	かしこまりました。では、北野天満宮はいかがでしょうか？上京区エリアにあり、駐車場が無料でご利用いただけます。	general,attraction,weather
+517	6	USER	そこにします。そこの大人入場料を教えてください。	general,attraction,weather
+517	7	SYSTEM	大人、子供ともに入場料は0円で、無料となっております。	general,attraction,weather
+517	8	USER	当日3/28の右京区の天候はどうなってますでしょうか。	general,attraction,weather
+517	9	SYSTEM	3/28右京区の天気は、曇り時々雨の予報です。最低気温は6.2度、最高気温は16.4度になる見込みです。	general,attraction,weather
+517	10	USER	分かりました。ありがとうございます。	general,attraction,weather
+517	11	SYSTEM	ほかにお調べすることはございませんか？	general,attraction,weather
+517	12	USER	はい、大丈夫です。	general,attraction,weather
+517	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,weather

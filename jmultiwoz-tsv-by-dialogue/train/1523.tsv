@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1523	0	USER	東京への旅行で当日訪れる観光名所でおすすめはありますか？	general,attraction,taxi
+1523	1	SYSTEM	はい、何かご希望はございますか？	general,attraction,taxi
+1523	2	USER	文京区周辺でWi-Fiが無料で利用できる場所でお願いします。	general,attraction,taxi
+1523	3	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,attraction,taxi
+1523	4	USER	でしたら、Wi-Fiはなくても大丈夫です。	general,attraction,taxi
+1523	5	SYSTEM	ありがとうございます。では、根津神社はいかがでしょう？	general,attraction,taxi
+1523	6	USER	ではそちらにします。住所も教えていただけますでしょうか。	general,attraction,taxi
+1523	7	SYSTEM	はい、住所は東京都文京区根津1丁目28-9となります。他にご案内できることはございますか？	general,attraction,taxi
+1523	8	USER	当日利用できるタクシー会社も教えていただけますでしょうか。キャッシュレス払い可能な会社がいいです。	general,attraction,taxi
+1523	9	SYSTEM	はい、では、京王自動車 多摩北はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0336436881となります。	general,attraction,taxi
+1523	10	USER	そちらでお願いします。予約もしたいのですが、4/9の09:50で、出発地は九州居酒屋 博多天神もつ鍋 永山本店 炎の陣 上野新館、目的地は根津神社で可能でしょうか？	general,attraction,taxi
+1523	11	SYSTEM	はい、予約が完了しまして、ご予約番号は、96627となります。他にご用件はございますか？	general,attraction,taxi
+1523	12	USER	大丈夫です。ありがとうございました。	general,attraction,taxi

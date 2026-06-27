@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3002	0	USER	大阪への旅行を計画しています。 当日泊まる宿泊施設を探してください。	general,hotel,restaurant,weather
+3002	1	SYSTEM	ご希望の条件をおきかせください。	general,hotel,restaurant,weather
+3002	2	USER	予算は安め、地区は生野区希望です。	general,hotel,restaurant,weather
+3002	3	SYSTEM	生野区に安めの宿泊施設はなさそうです。	general,hotel,restaurant,weather
+3002	4	USER	それなら地区は考慮しないものとします。	general,hotel,restaurant,weather
+3002	5	SYSTEM	大阪で安めの宿泊施設は９７件あります。追加の希望条件はありますか。	general,hotel,restaurant,weather
+3002	6	USER	特にありません。	general,hotel,restaurant,weather
+3002	7	SYSTEM	それでは、ホテルフクラシア大阪ベイをお勧めします。	general,hotel,restaurant,weather
+3002	8	USER	そちらの住所，チェックアウト終了時刻を教えてください。	general,hotel,restaurant,weather
+3002	9	SYSTEM	大阪府大阪市住之江区南港北1丁目7-50、チェックアウトは１０時です。	general,hotel,restaurant,weather
+3002	10	USER	では続いて飲食店を探してください。予算は普通が希望、最寄り駅が今里駅のところにしてください。	general,hotel,restaurant,weather
+3002	11	SYSTEM	大阪今里で予算普通の飲食店はなさそうです。	general,hotel,restaurant,weather
+3002	12	USER	それなら最寄り駅は考えないことにします。	general,hotel,restaurant,weather
+3002	13	SYSTEM	大阪で予算普通の飲食店は５０件ありますが、その中ならば、神戸牛焼肉 和ノ宮 なんば御堂筋店をお勧めします。	general,hotel,restaurant,weather
+3002	14	USER	いいですね。営業時間，近辺の駅からの所要時間を教えてください。	general,hotel,restaurant,weather
+3002	15	SYSTEM	昼１１時から夜１０時まで営業しています。なんば駅から徒歩で1分とアクセスもよいです。	general,hotel,restaurant,weather
+3002	16	USER	では予約をお願いします。人数は3人、日付は2/17、時間は10:40です。	general,hotel,restaurant,weather
+3002	17	SYSTEM	予約成功しました。予約番号は26118です。	general,hotel,restaurant,weather
+3002	18	USER	あと、天候を調べてほしいです。地区は大正区、日付は2/17です。	general,hotel,restaurant,weather
+3002	19	SYSTEM	2/17 大阪 大正区 の天気は晴時々曇、最低気温3.6度、最高気温11.5度です。	general,hotel,restaurant,weather
+3002	20	USER	解決しました。ありがとうございました。	general,hotel,restaurant,weather

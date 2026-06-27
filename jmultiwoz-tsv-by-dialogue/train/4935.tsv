@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4935	0	USER	こんにちは。京都に旅行するつもりなんですが。当日に買い物できるお店はありますか？駐車場が無料のところでお願いします。	general,shopping,weather,taxi
+4935	1	SYSTEM	こんにちは。11件見つかりました。道の駅 ウッディー京北 大丸京都店 京扇堂などご紹介できます。	general,shopping,weather,taxi
+4935	2	USER	道の駅 ウッディー京北にします。定休日と電話番号を教えてください。	general,shopping,weather,taxi
+4935	3	SYSTEM	定休日は年末年始、電話番号は0771521700です。	general,shopping,weather,taxi
+4935	4	USER	それでは、西京区の1月24日の天気も調べてもらえますか？	general,shopping,weather,taxi
+4935	5	SYSTEM	雨時々曇の予報です。	general,shopping,weather,taxi
+4935	6	USER	最低気温も知りたいです。	general,shopping,weather,taxi
+4935	7	SYSTEM	4.6度でございます。	general,shopping,weather,taxi
+4935	8	USER	ありがとうございます。タクシーも予約しておきたいんですが、キャッシュレス払いできるタクシー会社はありますか？	general,shopping,weather,taxi
+4935	9	SYSTEM	申し訳ございません。京都でキャッシュレス対応のタクシー会社はご紹介できません。	general,shopping,weather,taxi
+4935	10	USER	では、キャッシュレス払いはできなくても良いので、タクシー会社があれば教えてください。	general,shopping,weather,taxi
+4935	11	SYSTEM	株式会社新大文字交通 洛陽交運株式会社 比叡山観光タクシー株式会社など10件ご紹介できます。	general,shopping,weather,taxi
+4935	12	USER	株式会社新大文字交通で予約したいです。1月24日15時00分に、亀楽を出発して道の駅 ウッディー京北に行く予定で予約できますか？	general,shopping,weather,taxi
+4935	13	SYSTEM	予約完了しております。予約番号は74780です。	general,shopping,weather,taxi
+4935	14	USER	助かりました。ありがとうございます。	general,shopping,weather,taxi

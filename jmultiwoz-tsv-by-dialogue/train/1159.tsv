@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1159	0	USER	東京で買い物をしたいのですが、食料品を買えるお店で駐車場が無料のところはありますか？	general,shopping
+1159	1	SYSTEM	かしこまりました。では、新宿みやざき館KONNEはいかがでしょうか。	general,shopping
+1159	2	USER	そちらのお店の最寄り駅はわかりますか？	general,shopping
+1159	3	SYSTEM	最寄り駅は新宿駅でございます。	general,shopping
+1159	4	USER	ありがとうございます。今回知りたいことは以上です。ありがとうございました。	general,shopping
+1159	5	SYSTEM	承知しました。ありがとうございました。	general,shopping

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3424	0	USER	名古屋で宿泊できるところを探しています。	general,hotel
+3424	1	SYSTEM	ありがとうございます。その条件ですと、99件ほどございますが、何かご希望はありますか？	general,hotel
+3424	2	USER	中区で、最寄り駅が栄駅のところがいいです。あと、駐車場が無料だと嬉しいです。	general,hotel
+3424	3	SYSTEM	お待たせいたしました。その条件ではお探しすることが出来ませんでした。	general,hotel
+3424	4	USER	では、駐車場はなくても構いません。	general,hotel
+3424	5	SYSTEM	お待たせいたしました。それでは、名古屋ガーランドホテルはいかがでしょうか？	general,hotel
+3424	6	USER	ありがとうございます。そちらの電話番号と住所を教えていただけますか？	general,hotel
+3424	7	SYSTEM	かしこまりました。電話番号は0522426363、住所は愛知県名古屋市中区栄3丁目9-6でございます。	general,hotel
+3424	8	USER	分かりました。以上です、ありがとうございました！	general,hotel
+3424	9	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

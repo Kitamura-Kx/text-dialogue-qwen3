@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+632	0	USER	今度名古屋へ行くのですが、どこか泊まれるところを教えてください。	general,hotel,taxi
+632	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,taxi
+632	2	USER	中区で、駐車場が無料のところがいいです。	general,hotel,taxi
+632	3	SYSTEM	ではホテル キヨシ名古屋はいかがでしょうか。	general,hotel,taxi
+632	4	USER	そこにします。予約をお願いできますか？2/11の２名で、２泊です。	general,hotel,taxi
+632	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は81587でございます。	general,hotel,taxi
+632	6	USER	ありがとうございます。あと、当日タクシーを使いたいのですが、ジャンボタクシーが利用できて、キャッシュレス払いはできるところはありますか？	general,hotel,taxi
+632	7	SYSTEM	申し訳ございません。どちらにも対応している会社がございませんでした。	general,hotel,taxi
+632	8	USER	では、キャッシュレス払いはできなくてもよいです。	general,hotel,taxi
+632	9	SYSTEM	中川タクシーがございます。	general,hotel,taxi
+632	10	USER	そちらの電話番号を教えてください。	general,hotel,taxi
+632	11	SYSTEM	電話番号は0528212345でございます。	general,hotel,taxi
+632	12	USER	ありがとうございます。予約をお願いできますか？2/11の13:00で、R&Bホテル名古屋錦からホテル キヨシ名古屋までお願いします。	general,hotel,taxi
+632	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は11780でございます。	general,hotel,taxi
+632	14	USER	ありがとうございました。以上です。お世話になりました。	general,hotel,taxi
+632	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi

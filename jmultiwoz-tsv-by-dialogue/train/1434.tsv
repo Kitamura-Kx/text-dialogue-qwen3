@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1434	0	USER	名古屋への旅行を計画しています．	general,shopping,restaurant,weather
+1434	1	SYSTEM	お問合せありがとうございます。	general,shopping,restaurant,weather
+1434	2	USER	当日買い物ができるところを探してください．ジャンルは医薬品・化粧品で	general,shopping,restaurant,weather
+1434	3	SYSTEM	スギ薬局 中区役所前店はいかがでしょうか。	general,shopping,restaurant,weather
+1434	4	USER	そちらの定休日はいつですか。	general,shopping,restaurant,weather
+1434	5	SYSTEM	定休日は無しです。	general,shopping,restaurant,weather
+1434	6	USER	ありがとうございます。あと当日食事ができる飲食店を探してください．予算は普通が希望で．Wi-Fiが無料で利用できるところがいいです。	general,shopping,restaurant,weather
+1434	7	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,restaurant,weather
+1434	8	USER	でしたらWi-Fiはどちらでもいいです。	general,shopping,restaurant,weather
+1434	9	SYSTEM	オーガニック食堂 Engiはいかがでしょうか。	general,shopping,restaurant,weather
+1434	10	USER	料金情報とジャンルを教えて欲しいです。	general,shopping,restaurant,weather
+1434	11	SYSTEM	料金情報はほっこりグラタン:660円,有機卵フリッタータ(イタリア風オムレツ):880円で、ジャンルはイタリアン・フレンチ, カフェ・スイーツです。	general,shopping,restaurant,weather
+1434	12	USER	ありがとうございます。そちらを人数は4人、日付は1/2で時間は16:00で予約して欲しいです。	general,shopping,restaurant,weather
+1434	13	SYSTEM	予約完了いたしました。予約番号は95402になります。	general,shopping,restaurant,weather
+1434	14	USER	ありがとうございます。あと、昭和区の1/2の天気を教えて欲しいです。	general,shopping,restaurant,weather
+1434	15	SYSTEM	天気は曇りです。	general,shopping,restaurant,weather
+1434	16	USER	最高気温，最低気温も教えて欲しいです。	general,shopping,restaurant,weather
+1434	17	SYSTEM	最低気温は0.8度 最高気温は16.4度になります。	general,shopping,restaurant,weather
+1434	18	USER	ありがとうございます。	general,shopping,restaurant,weather

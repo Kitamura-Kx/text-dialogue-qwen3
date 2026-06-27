@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3395	0	USER	名古屋へ旅行に行くので、観光名所を探してください。Wi-Fiが無料で使える所が良いです。	general,attraction,hotel,shopping
+3395	1	SYSTEM	名古屋の無料WIFIが使える観光名所は、ミッドランドスクエア 屋外展望台 スカイプロムナードを含む６件ございます。	general,attraction,hotel,shopping
+3395	2	USER	駐車場も無料のところがいいのですが。	general,attraction,hotel,shopping
+3395	3	SYSTEM	ただいまご紹介しました、ミッドランドスクエア 屋外展望台 スカイプロムナードを含む3件には無料駐車場がございます。いかがでしょうか？	general,attraction,hotel,shopping
+3395	4	USER	そこにします。最寄り駅はどこになりますか？	general,attraction,hotel,shopping
+3395	5	SYSTEM	最寄り駅は名古屋駅でございます。	general,attraction,hotel,shopping
+3395	6	USER	わかりました。宿泊施設も探してほしいのですが、中村区役所駅の近くでありませんか？	general,attraction,hotel,shopping
+3395	7	SYSTEM	中村区役所駅が最寄り駅の宿泊ですと、ビジネスホテル アップルほか２件ございます。	general,attraction,hotel,shopping
+3395	8	USER	なるほど、無料Wi-Fiがあって、レストランが併設されているところがいいです。	general,attraction,hotel,shopping
+3395	9	SYSTEM	申し訳ございません、その条件ですと該当がございませんでした。	general,attraction,hotel,shopping
+3395	10	USER	では、レストランはなくてもいいです。	general,attraction,hotel,shopping
+3395	11	SYSTEM	無料wi-fiのみですと、先程のビジネスホテル アップルほか２件大丈夫です。	general,attraction,hotel,shopping
+3395	12	USER	じゃあ、ビジネスホテル アップルにします。そこのエリアと住所を教えてください。	general,attraction,hotel,shopping
+3395	13	SYSTEM	承知いたしました。ビジネスホテル アップルのエリアは中村区です。住所は、愛知県名古屋市中村区黄金通1丁目22でございます。	general,attraction,hotel,shopping
+3395	14	USER	ありがとうございます。買い物ができるところも探しているのですが、守山区で無料の駐車場があるところはありませんか？	general,attraction,hotel,shopping
+3395	15	SYSTEM	はい、守山区無料駐車場ありですと、草叢BOOKS 新守山店のみ該当がございます。	general,attraction,hotel,shopping
+3395	16	USER	このお店の電話番号と、最寄り駅からのアクセスを教えてください。	general,attraction,hotel,shopping
+3395	17	SYSTEM	草叢BOOKS 新守山店の最寄り駅は、新守山駅です。アクセスは新守山駅から徒歩で5分でございます。	general,attraction,hotel,shopping
+3395	18	USER	電話番号もお願いします。	general,attraction,hotel,shopping
+3395	19	SYSTEM	失礼いたしました。電話番号は、052791 5152でございます。	general,attraction,hotel,shopping
+3395	20	USER	わかりました。ありがとうございます。	general,attraction,hotel,shopping
+3395	21	SYSTEM	ありがとうございます。他のご用命ございますか？	general,attraction,hotel,shopping
+3395	22	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,hotel,shopping
+3395	23	SYSTEM	ありがとうございました。	general,attraction,hotel,shopping

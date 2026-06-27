@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1558	0	USER	すみません。沖縄の那覇へ旅行に行きたいのですが。	general,restaurant
+1558	1	SYSTEM	那覇のご旅行ですね。どういった情報をお探しでしょうか？	general,restaurant
+1558	2	USER	飲食店を探しています。	general,restaurant
+1558	3	SYSTEM	では、ご希望の条件は何かございますか？	general,restaurant
+1558	4	USER	ジャンルは問いません。無料の駐車場があればいいです。	general,restaurant
+1558	5	SYSTEM	かしこまりました。では、KO菜YA 新都心店というお好み焼き・たこ焼きのお店はいかがでしょうか？	general,restaurant
+1558	6	USER	無料でWi-Fiが使えますか？	general,restaurant
+1558	7	SYSTEM	申し訳ありません。こちらのお店のWiFi有無は、不明となっております。	general,restaurant
+1558	8	USER	出来れば無料Wi-Fiがあるところがいいです。	general,restaurant
+1558	9	SYSTEM	承知しました。では、しゃぶ葉 那覇おもろまち店は、いかがでしょうか？本庁エリアにある和食のお店になります。	general,restaurant
+1558	10	USER	ありがとうございます。そちらの料金などはわかりますか？	general,restaurant
+1558	11	SYSTEM	はい。詳しい料金情報としては、宮崎県産 霧島黒豚＆牛みすじ＆国産牛食べ放題コース3409円、ランチ牛2種＆三元豚食べ放題コース1869円というものがございます。	general,restaurant
+1558	12	USER	わかりました。ありがとうございます。	general,restaurant
+1558	13	SYSTEM	ほかにお知りになりたい情報はございませんか？	general,restaurant
+1558	14	USER	特にありません。	general,restaurant
+1558	15	SYSTEM	承知しました。では本日はご利用ありがとうございました。	general,restaurant
+1558	16	USER	ありがとうございます。	general,restaurant
+1558	17	SYSTEM	またのご利用をお待ちしております。	general,restaurant

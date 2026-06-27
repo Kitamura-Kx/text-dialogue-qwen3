@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3188	0	USER	名古屋への旅行を計画中で、シティホテルを探しています。	general,hotel,taxi
+3188	1	SYSTEM	かしこまりました。では、ヒルトン名古屋はいかがでしょうか？	general,hotel,taxi
+3188	2	USER	ありがとうございます。無料のWi-fiと駐車場が欲しいのですが、ありますか？	general,hotel,taxi
+3188	3	SYSTEM	その条件でしたら、ザ サイプレス メルキュールホテル名古屋がおすすめです。	general,hotel,taxi
+3188	4	USER	そこにしようと思います。価格帯はわかりますか？	general,hotel,taxi
+3188	5	SYSTEM	はい。安めです。	general,hotel,taxi
+3188	6	USER	ありがとうございます。当日ジャンボタクシーを利用したいのですが、利用できるところはありますか？	general,hotel,taxi
+3188	7	SYSTEM	はい。名古屋エムケイはどうですか？	general,hotel,taxi
+3188	8	USER	そこにしようと思います。キャッシュレスに対応していますか？	general,hotel,taxi
+3188	9	SYSTEM	はい。対応しております。	general,hotel,taxi
+3188	10	USER	ありがとうございます。11/24の09:30にコメ兵 本館からザ サイプレス メルキュールホテル名古屋へ予約して欲しいのですが、可能でしょうか？	general,hotel,taxi
+3188	11	SYSTEM	午前9時30分でよろしかったですか？	general,hotel,taxi
+3188	12	USER	はい、そうです。	general,hotel,taxi
+3188	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、5703です。	general,hotel,taxi
+3188	14	USER	助かりました。ありがとうございます。	general,hotel,taxi
+3188	15	SYSTEM	こちらこそありがとうございました。	general,hotel,taxi
+3188	16	USER	それでは、失礼します。	general,hotel,taxi

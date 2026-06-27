@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1736	0	USER	札幌の清田区で買い物ができるところを探してください。二十四軒駅の近くが希望です。	general,shopping,weather
+1736	1	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,shopping,weather
+1736	2	USER	そうですか。じゃあ、清田区じゃなくてもいいです。どこか探してもらえますか？	general,shopping,weather
+1736	3	SYSTEM	かしこまりました。では、札幌市中央卸売市場 場外市場はいかがでしょうか？	general,shopping,weather
+1736	4	USER	よさそうですね！営業時間はわかりますか？	general,shopping,weather
+1736	5	SYSTEM	はい。営業時間は06:00～17:00となっています。	general,shopping,weather
+1736	6	USER	ありがとうございます。近辺の駅からの所要時間と駐車場の有無もわかれば教えてください。	general,shopping,weather
+1736	7	SYSTEM	かしこまりました。近辺の駅からの所要時間は、二十四軒駅から徒歩で7分かかり、桑園駅から徒歩で9分となっております。駐車場は無料のものがございます。	general,shopping,weather
+1736	8	USER	わかりました。当日の天候を教えてください。5/17の手稲区の気温が知りたいです。	general,shopping,weather
+1736	9	SYSTEM	5/17の手稲区の天気予報は曇時々晴となっております。最低気温は10.8度、最高気温は15.5度になる予報です。	general,shopping,weather
+1736	10	USER	参考になりました。ありがとうございます。	general,shopping,weather

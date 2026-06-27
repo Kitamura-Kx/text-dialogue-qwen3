@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1111	0	USER	東京で中華料理が食べられるお店を探してください。Wi-Fiが無料で利用できるところがいいです。	general,restaurant
+1111	1	SYSTEM	承知しました。エリアでいうと港区にある、新荘園 ムスブ田町店はいかがでしょう？	general,restaurant
+1111	2	USER	よさそうですね。料金情報はわかりますか？	general,restaurant
+1111	3	SYSTEM	はい、料金情報としては、麻婆豆腐二種食べ比べが1480円、あんかけチャーハンが1380円、創作中華ブロンズコースが6000円となっております。	general,restaurant
+1111	4	USER	なるほど。ありがとうございます。	general,restaurant

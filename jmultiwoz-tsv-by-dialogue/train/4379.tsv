@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4379	0	USER	那覇へ旅行した際に利用できる飲食店を探しています。予算は普通で、駐車場は無料で利用できるところがいいです。	general,restaurant,attraction,taxi
+4379	1	SYSTEM	かしこまりました。他にご希望条件がないようでしたら、LE GOURMANDという、洋食・西洋料理ジャンルのお店はいかがでしょうか？	general,restaurant,attraction,taxi
+4379	2	USER	ありがとうございます。そこにします。予約をお願いします。1/29の13時50分から2人でお願いします。	general,restaurant,attraction,taxi
+4379	3	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、30209です。	general,restaurant,attraction,taxi
+4379	4	USER	ありがとうございます。牧志駅が最寄りで駐車場が無料で利用できる観光名所も探していただけますか？	general,restaurant,attraction,taxi
+4379	5	SYSTEM	かしこまりました。3件候補があるのですが、例えば、桜坂劇場はいかがでしょうか？	general,restaurant,attraction,taxi
+4379	6	USER	ありがとうございます。そこにします。料金情報と子供入場料を教えていただけますか？	general,restaurant,attraction,taxi
+4379	7	SYSTEM	料金は、一般 1,700円、60歳以上のシニアは割引で1,200円、大学生と高校生は1,400円、 小中学生のお子様の入場料は1,000円です。幼児の場合は、650円となります。	general,restaurant,attraction,taxi
+4379	8	USER	ありがとうございます。那覇第一交通というタクシー会社のタクシーを利用する予定をしているのですが、キャッシュレスには対応していますか？	general,restaurant,attraction,taxi
+4379	9	SYSTEM	那覇第一交通ですね、はい、キャッシュレス払いに対応しております。	general,restaurant,attraction,taxi
+4379	10	USER	ありがとうございます。予約をお願いしたいのですが、1/29の15:30で、出発地は先ほどの飲食店で、目的地は先ほどの観光施設でお願いします。	general,restaurant,attraction,taxi
+4379	11	SYSTEM	かしこまりました。LE GOURMAND発、桜坂劇場着にてご予約完了いたしました。予約番号は、94896です。	general,restaurant,attraction,taxi
+4379	12	USER	ありがとうございます。	general,restaurant,attraction,taxi
+4379	13	SYSTEM	ほかに、なにかお知りになりたい情報などございませんか？	general,restaurant,attraction,taxi
+4379	14	USER	はい、大丈夫です。ありがとうございました。	general,restaurant,attraction,taxi
+4379	15	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant,attraction,taxi

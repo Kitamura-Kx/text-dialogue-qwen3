@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1643	0	USER	こんにちは。福岡への旅行を計画しているので、早良区の飲食店を探しています。Wi-Fiが無料の所だと尚いいですが、探していただけますか？	general,restaurant,taxi
+1643	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,taxi
+1643	2	USER	そうなんですね。ではWi-Fiが無料でなくてもいいので、どこかよいところありますか？	general,restaurant,taxi
+1643	3	SYSTEM	では小麦ざんまいはいかがでしょうか。	general,restaurant,taxi
+1643	4	USER	美味しそうですね。そこは駐車場はありますか？	general,restaurant,taxi
+1643	5	SYSTEM	無料の駐車場がございます。	general,restaurant,taxi
+1643	6	USER	そうですか。ではそちらの予約をお願いしたいです。4/18の15:50で、2名でお願いできますか？	general,restaurant,taxi
+1643	7	SYSTEM	予約が完了いたしました。予約番号は49956でございます。	general,restaurant,taxi
+1643	8	USER	それから、タクシー会社も探しています。ジャンボタクシーを使いたいです。キャッシュレス払いができるところがいいです。	general,restaurant,taxi
+1643	9	SYSTEM	では福岡西鉄タクシー（株）はいかがでしょうか。	general,restaurant,taxi
+1643	10	USER	ありがとうございます。そのタクシー会社で予約お願いします。4/18の14:30で、七輪焼肉ふくの牛 大濠店から先ほど教えてもらった小麦ざんまいまでです。	general,restaurant,taxi
+1643	11	SYSTEM	予約が完了いたしました。予約番号は44491でございます。	general,restaurant,taxi
+1643	12	USER	ありがとうございます。今日お願いしたいことは全部できました。どうもありがとうございました。	general,restaurant,taxi
+1643	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+640	0	USER	横浜に旅行に行くので、訪れる観光名所を探してくれませんか？	general,attraction
+640	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction
+640	2	USER	Wi-Fiと駐車場が無料のところはありますか？	general,attraction
+640	3	SYSTEM	はい、２件ございます。たとえば、カップヌードルミュージアム 横浜はいかがでしょうか？	general,attraction
+640	4	USER	いいですね。そちらに伺おうと思います。料金情報も教えていただけますか？	general,attraction
+640	5	SYSTEM	入館料は大学生以上の大人が500円、高校生以下は無料となっております。	general,attraction
+640	6	USER	ありがとうございました。	general,attraction

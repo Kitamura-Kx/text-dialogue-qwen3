@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+999	0	USER	福岡へ旅行予定なのですが、高めでレストランがある宿泊施設を調べてください。Wi-Fiを無料で使えるところがいいです。	general,hotel,attraction,weather
+999	1	SYSTEM	かしこまりました。グランド ハイアット 福岡というところと、ソラリア西鉄ホテル福岡というところの2件ほど、ご案内可能です。どちらか気になる方はございますか？	general,hotel,attraction,weather
+999	2	USER	グランド ハイアット 福岡でおねがいします。最寄り駅を教えてください。	general,hotel,attraction,weather
+999	3	SYSTEM	かしこまりました。グランド ハイアット 福岡の最寄り駅は、博多駅です。徒歩10分でアクセスできます。天神駅からも徒歩15分でアクセス可能です。	general,hotel,attraction,weather
+999	4	USER	わかりました。東区でアウトドアを楽しめる観光名所も探しているのですが、いいところありますか？	general,hotel,attraction,weather
+999	5	SYSTEM	そういたしますと、海の中道海浜公園はいかがでしょうか？海ノ中道駅から徒歩で1分、西戸崎駅からも徒歩で10分の場所にあります。	general,hotel,attraction,weather
+999	6	USER	なるほど。最寄り駅は海ノ中道駅ですか？	general,hotel,attraction,weather
+999	7	SYSTEM	はい、左様でございます。	general,hotel,attraction,weather
+999	8	USER	わかりました。あと、9/9の城南区の天気予報を教えてください。	general,hotel,attraction,weather
+999	9	SYSTEM	かしこまりました。当日の天気は晴れの予報です。最低気温は22度、最高気温は30.6度の予想となっております。	general,hotel,attraction,weather
+999	10	USER	わかりました。ありがとうございます。	general,hotel,attraction,weather
+999	11	SYSTEM	他になにかお調べすることはございますか？	general,hotel,attraction,weather
+999	12	USER	いえ、大丈夫です。	general,hotel,attraction,weather
+999	13	SYSTEM	承知いたしました。また何かございましたら、お気軽にお問い合わせください。	general,hotel,attraction,weather

@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+811	0	USER	大阪への旅行を考えているのですが、イタリアン・フレンチの飲食店で、値段は普通くらいの店はありますか？駐車場を無料で利用できるところがいいです。	general,restaurant,hotel,taxi
+811	1	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,restaurant,hotel,taxi
+811	2	USER	そうですか。では駐車場はなくても大丈夫です。	general,restaurant,hotel,taxi
+811	3	SYSTEM	ありがとうございます。そうしますと、13件ほどご案内可能です。たとえば、ピエーノ フェスタというお店がございますが、いかがでしょうか？	general,restaurant,hotel,taxi
+811	4	USER	そこにします。営業時間とエリアを教えてください。	general,restaurant,hotel,taxi
+811	5	SYSTEM	営業時間は、11:00～23:00です。エリアは、北区となります。	general,restaurant,hotel,taxi
+811	6	USER	わかりました。3人で5/28の11:00から予約をお願いします。	general,restaurant,hotel,taxi
+811	7	SYSTEM	申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,restaurant,hotel,taxi
+811	8	USER	そうですか。なら、時間を11:30にします。	general,restaurant,hotel,taxi
+811	9	SYSTEM	ありがとうございます。11時30分で予約を承りました。ご予約番号は、45315です。	general,restaurant,hotel,taxi
+811	10	USER	ありがとうございます。宿泊施設も探しているのですが、駐車場を無料で利用できて、レストランが併設されているところはありますか？	general,restaurant,hotel,taxi
+811	11	SYSTEM	はい、2件ご案内可能です。淀川区エリアにある、アスティルホテル十三プレシャスというビジネスホテルは、いかがでしょうか？	general,restaurant,hotel,taxi
+811	12	USER	そこにします。Wi-Fiがあるかを教えてください。	general,restaurant,hotel,taxi
+811	13	SYSTEM	申し訳ございません。こちらは、WiFiの有無が不明となっております。	general,restaurant,hotel,taxi
+811	14	USER	わかりました。タクシーの利用も考えているのですが、ジャンボタクシーを利用できるところを教えてください。	general,restaurant,hotel,taxi
+811	15	SYSTEM	かしこまりました。では、榮交通株式会社はいかがでしょうか？	general,restaurant,hotel,taxi
+811	16	USER	そこにします。電話番号とキャッシュレス対応しているかどうかはわかりますか？	general,restaurant,hotel,taxi
+811	17	SYSTEM	電話番号は、0669624641でございます。キャッシュレスのお支払いにも、対応しております。	general,restaurant,hotel,taxi
+811	18	USER	わかりました。5/28の時間は12:30で予約をお願いします。出発地はピエーノ フェスタで、目的地はアスティルホテル十三プレシャスです。	general,restaurant,hotel,taxi
+811	19	SYSTEM	大変申し訳ございません。その条件では予約をおとりできませんでした。いかがいたしましょうか？	general,restaurant,hotel,taxi
+811	20	USER	なら、時間を13:00に変更します。	general,restaurant,hotel,taxi
+811	21	SYSTEM	ありがとうございます。出発時刻13時にて、ご予約承りました。予約番号は、13654でございます。	general,restaurant,hotel,taxi
+811	22	USER	ありがとうございます。	general,restaurant,hotel,taxi
+811	23	SYSTEM	ほかに、お調べすることはございますか？	general,restaurant,hotel,taxi
+811	24	USER	いえ、大丈夫です。	general,restaurant,hotel,taxi
+811	25	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,hotel,taxi

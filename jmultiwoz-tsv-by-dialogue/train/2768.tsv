@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2768	0	USER	仙台へ旅行を計画しています。当日食事できる飲食店を探しており、条件としてジャンルは中華料理、予算安めで探していただけますか？	general,restaurant,weather
+2768	1	SYSTEM	はい、エリアでいうと泉区にある、三宝亭仙台泉店はいかがでしょう？	general,restaurant,weather
+2768	2	USER	それでは予約をお願いします。人数は2名、日時は11/11、12:50でお願いします。	general,restaurant,weather
+2768	3	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,restaurant,weather
+2768	4	USER	それでは人数を1名に変更でいかがでしょうか。	general,restaurant,weather
+2768	5	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、50001となります。	general,restaurant,weather
+2768	6	USER	承知致しました。最後に11/11の宮城野区の天候を調べてほしいです。	general,restaurant,weather
+2768	7	SYSTEM	はい、天気は曇のち雨、最低気温3.9度、最高気温19.7度となります。	general,restaurant,weather
+2768	8	USER	ありがとうございます。こちらからは以上です。	general,restaurant,weather
+2768	9	SYSTEM	ありがとうございました。	general,restaurant,weather

@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+132	0	USER	札幌に行こうと思っていて、食事するお店を探すのを手伝ってもらえますか？	general,restaurant,attraction,taxi
+132	1	SYSTEM	承知致しました。何かご希望はございますか？	general,restaurant,attraction,taxi
+132	2	USER	無料駐車場完備、WiFiも無料なところが良いです。	general,restaurant,attraction,taxi
+132	3	SYSTEM	3件ございます。中央区のパーラーエノキ、同じ中央区のJ.S. PANCAKE CAFE 札幌ステラプレイス店、東区のCAFE VOIZです。	general,restaurant,attraction,taxi
+132	4	USER	なるほど。CAFE VOIZの住所をもう少し詳しく教えてもらっても？	general,restaurant,attraction,taxi
+132	5	SYSTEM	はい、住所は札幌市東区北36条東22丁目5-8 丘珠ガラス、お電話番号は0117688385です。最寄りの新道東駅から徒歩で18分となっております。	general,restaurant,attraction,taxi
+132	6	USER	そこで9月27日に予約をお願いします。	general,restaurant,attraction,taxi
+132	7	SYSTEM	承知致しました。お手数ですが、人数と予約の時刻を教えていただけますか？	general,restaurant,attraction,taxi
+132	8	USER	2名でお願いします。時間は朝の10時が良いです。	general,restaurant,attraction,taxi
+132	9	SYSTEM	ありがとうございます。予約完了致しました。ご予約番号は、20772　となります。	general,restaurant,attraction,taxi
+132	10	USER	ありがとうございます。あと、札幌市アイヌ文化交流センター サッポロピリカコタンという観光地があるらしいんですけど。	general,restaurant,attraction,taxi
+132	11	SYSTEM	はい、住所は札幌市南区小金湯27、お電話番号は0115965961となります。営業時間は、8時45分から22時となっております。	general,restaurant,attraction,taxi
+132	12	USER	良かった、あるんですね。そこって、大人は入場するのに、いくらかかりますか？	general,restaurant,attraction,taxi
+132	13	SYSTEM	はい、入場は無料となっております。ただし、展示室観覧料のみ有料で、大人は200円となります。	general,restaurant,attraction,taxi
+132	14	USER	料金については、それ以上の詳しいことは分からない感じですか？	general,restaurant,attraction,taxi
+132	15	SYSTEM	他にお伝え可能な料金としては、展示室観覧料について、高校生は100円、中学生以下無料、20人以上の団体料金は、大人180円、高校生90円、ということのみになります。	general,restaurant,attraction,taxi
+132	16	USER	ありがとうございます、わかりました。あと駐車場があるかも教えてもらえますか？	general,restaurant,attraction,taxi
+132	17	SYSTEM	はい、駐車場は無料でご利用いただけます。	general,restaurant,attraction,taxi
+132	18	USER	分かりました。あと最後に、タクシーについても教えてもらいたくて。	general,restaurant,attraction,taxi
+132	19	SYSTEM	承知致しました。北都交通(株)はいかがでしょう？	general,restaurant,attraction,taxi
+132	20	USER	そこだと、ジャンボタクシーは使えそうでしょうか？	general,restaurant,attraction,taxi
+132	21	SYSTEM	はい、ジャンボタクシー、キャッシュレスともに対応しております。	general,restaurant,attraction,taxi
+132	22	USER	いいですね。電話番号も聞いていいですか？	general,restaurant,attraction,taxi
+132	23	SYSTEM	はい、お電話番号は、0112904181となります。ご予約は必要でしょうか？	general,restaurant,attraction,taxi
+132	24	USER	はい、ぜひ。9月の27日11時40分に、CAFE VOIZから札幌市アイヌ文化交流センター サッポロピリカコタンでお願いします。	general,restaurant,attraction,taxi
+132	25	SYSTEM	申し訳ございません、その条件ですと予約できませんでした。いかが致しましょう？	general,restaurant,attraction,taxi
+132	26	USER	時間を12時30分に変えたら取れそうですか？	general,restaurant,attraction,taxi
+132	27	SYSTEM	はい、ありがとうございます。ご予約可能です。予約番号は、20805　となります。	general,restaurant,attraction,taxi
+132	28	USER	助かりました。伺いたかったのは以上です。今日はありがとうございました。	general,restaurant,attraction,taxi
+132	29	SYSTEM	承知致しました。ありがとうございました。	general,restaurant,attraction,taxi

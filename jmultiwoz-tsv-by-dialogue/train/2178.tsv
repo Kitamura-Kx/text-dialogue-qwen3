@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2178	0	USER	仙台への旅行を計画しているのですが、当日泊まるリゾートホテルをがしていただけますか。	general,hotel,weather
+2178	1	SYSTEM	かしこまりました。それではウェスティンホテル仙台はいかがでしょうか？	general,hotel,weather
+2178	2	USER	Wi-Fiが無料で利用できて、予算は安めがよいのですが。	general,hotel,weather
+2178	3	SYSTEM	申し訳ございません。その条件ですと該当する宿泊施設をお探しすることが出来ませんでした。	general,hotel,weather
+2178	4	USER	わかりました。それでは、リゾートホテルでなくてもかまいません。	general,hotel,weather
+2178	5	SYSTEM	かしこまりました。それではドーミーインEXPRESS仙台広瀬通はいかがでしょうか？	general,hotel,weather
+2178	6	USER	ありがとうございます。では、チェックイン開始時刻を教えてください。	general,hotel,weather
+2178	7	SYSTEM	はい、チェックイン開始時刻は15時となっております。	general,hotel,weather
+2178	8	USER	次に、12月13日の泉区の天気を教えていただけますか。	general,hotel,weather
+2178	9	SYSTEM	はい、当日の天気は雨時々晴という予報になっております。	general,hotel,weather
+2178	10	USER	最高気温もお願いします。	general,hotel,weather
+2178	11	SYSTEM	最高気温は12.4度の予報です。	general,hotel,weather
+2178	12	USER	ありがとうございました。助かりました。	general,hotel,weather

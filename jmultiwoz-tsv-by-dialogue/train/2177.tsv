@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2177	0	USER	札幌に旅行するので、当日泊まる宿泊施設を探して頂けますか？	general,hotel,weather
+2177	1	SYSTEM	かしこまりました。札幌の宿泊施設ですと、99件ございますが、何かご希望はありますでしょうか？	general,hotel,weather
+2177	2	USER	真駒内駅周辺でレストランが併設されている場所はありますか？	general,hotel,weather
+2177	3	SYSTEM	申し訳ございません。その条件では、お探しすることが出来ませんでした。	general,hotel,weather
+2177	4	USER	でしたら、場所はどこでも構いません。	general,hotel,weather
+2177	5	SYSTEM	かしこまりました。それではセンチュリーロイヤルホテルはいかがでしょうか？	general,hotel,weather
+2177	6	USER	ではそちらでお願いします。Wi-Fiの有無とチェックアウト終了時刻、あとタイプを教えて頂けないでしょうか。	general,hotel,weather
+2177	7	SYSTEM	ありがとうございます。Wi-Fiは無料でご利用いただけます。チェックアウト終了時刻は午前11時で、タイプはシティホテルでございます。	general,hotel,weather
+2177	8	USER	ありがとうございます。人数は3人で1/28から2泊で予約をしたいのですが、可能でしょうか？	general,hotel,weather
+2177	9	SYSTEM	ありがとうございます。予約番号90228でお取りさせていただきました。	general,hotel,weather
+2177	10	USER	旅行当日の天気が気になるので、1/28の西区の天気について教えて頂けないでしょうか。	general,hotel,weather
+2177	11	SYSTEM	かしこまりました。当日の天気は晴のち雪との予報です。	general,hotel,weather
+2177	12	USER	最高気温と最低気温も調べて頂けますか？	general,hotel,weather
+2177	13	SYSTEM	はい、最高気温は-3.7度、最低気温は-3.8度でございます。	general,hotel,weather
+2177	14	USER	ありがとうございました。	general,hotel,weather

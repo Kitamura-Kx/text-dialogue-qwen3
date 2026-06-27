@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1232	0	USER	名古屋への旅行を考えています。	general,hotel
+1232	1	SYSTEM	ご利用ありがとうございます。名古屋へのご旅行ですね。どんなお手伝いをいたしましょうか？	general,hotel
+1232	2	USER	駐車場もWi-Fiも無料で、レストランつきの宿泊先を探してもらえますか？	general,hotel
+1232	3	SYSTEM	かしこまりました。そうしますと、アイリス愛知というお値段がお安めのシティホテルは、いかがでしょうか？	general,hotel
+1232	4	USER	ありがとうございます。アイリス愛知はどのエリアにあるホテルなんでしょうか。何時からチェックインできるかも教えてください。	general,hotel
+1232	5	SYSTEM	エリアは中区です。チェックイン開始は15時となっております。	general,hotel
+1232	6	USER	それでは、アイリス愛知で予約をお願いします。	general,hotel
+1232	7	SYSTEM	かしこまりました。ご宿泊予定の人数と日付、ご宿泊日数はお決まりでしょうか？	general,hotel
+1232	8	USER	6/22から4泊の予定で、人数は3人です。	general,hotel
+1232	9	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。予約番号は、83102です。	general,hotel
+1232	10	USER	ありがとうございます。	general,hotel
+1232	11	SYSTEM	ほかに何かお調べすることはございませんか？	general,hotel
+1232	12	USER	これだけで結構です、ありがとうございます。	general,hotel
+1232	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

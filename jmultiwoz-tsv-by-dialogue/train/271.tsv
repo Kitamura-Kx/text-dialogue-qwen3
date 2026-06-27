@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+271	0	USER	すみません。京都旅行に行こうと思っているので、いろいろ伺ってもいいですか？	general,taxi
+271	1	SYSTEM	京都へのご旅行ですね。どのようなご用件でしょうか？	general,taxi
+271	2	USER	タクシー会社を探してもらいたいです。	general,taxi
+271	3	SYSTEM	20件の該当がございました。何かご希望はございますか？	general,taxi
+271	4	USER	キャッシュレスで払えるところが良いのですが。	general,taxi
+271	5	SYSTEM	株式会社キャビックが該当しております。その他9件ほど対応会社がございます。	general,taxi
+271	6	USER	株式会社キャビックで大丈夫です。電話番号を教えてください。	general,taxi
+271	7	SYSTEM	承知致しました。電話番号は、0758642100でございます。	general,taxi
+271	8	USER	では予約もお願いできますか？12月19日、11時半に京都山科 ホテル山楽まで迎えに来てほしいです。	general,taxi
+271	9	SYSTEM	ご予約ですね。目的地を併せてお伺いしてよろしいでしょうか？	general,taxi
+271	10	USER	はい、伏見稲荷大社までお願いします。	general,taxi
+271	11	SYSTEM	12月19日11:30、京都山科 ホテル山楽から伏見稲荷大社までのタクシー、ご予約いただけました。予約番号をお伝えしてよろしいでしょうか？	general,taxi
+271	12	USER	はい、お願いします。	general,taxi
+271	13	SYSTEM	予約番号は47421でございます。その他お力になれる事はございますか？	general,taxi
+271	14	USER	今日はもう大丈夫です。ありがとうございました。	general,taxi

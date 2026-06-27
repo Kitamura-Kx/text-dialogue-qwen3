@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3302	0	USER	仙台に行くのですが、宮城野区で、駐車場が無料で使える、スーパーマーケットはないですか？	general,shopping,hotel,taxi
+3302	1	SYSTEM	宮城野区で駐車場無料のスーパーマーケットならば、JA仙台農産物直売所 たなばたけ 高砂店、こちら一択です。	general,shopping,hotel,taxi
+3302	2	USER	ありがとうございます。そこの住所も教えていただけますか？	general,shopping,hotel,taxi
+3302	3	SYSTEM	宮城県仙台市宮城野区福室2丁目7-30になります。	general,shopping,hotel,taxi
+3302	4	USER	ありがとうございます。Wi-Fiが無料で使えて、レストランが併設されている、太白区の宿泊施設はありますか？	general,shopping,hotel,taxi
+3302	5	SYSTEM	太白でWiFi無料のレストラン併設宿泊施設はなさそうです。	general,shopping,hotel,taxi
+3302	6	USER	ではWi-Fiは有料でも大丈夫です。	general,shopping,hotel,taxi
+3302	7	SYSTEM	その条件ならば、コーラスホテル仙台富沢、こちらになります。	general,shopping,hotel,taxi
+3302	8	USER	ありがとうございます。このホテルのタイプはなんですか？	general,shopping,hotel,taxi
+3302	9	SYSTEM	ビジネスホテルです。	general,shopping,hotel,taxi
+3302	10	USER	ありがとうございます。ではそのホテルで、人数は3人、日付は9/26、宿泊日数は3泊で、予約をお願いします。	general,shopping,hotel,taxi
+3302	11	SYSTEM	予約成功しました。予約番号は1855です。	general,shopping,hotel,taxi
+3302	12	USER	ありがとうございます。あと、キャッシュレス払いが可能なタクシー会社も探してもらえますか？	general,shopping,hotel,taxi
+3302	13	SYSTEM	それならば、平和交通（株）をお勧めします。	general,shopping,hotel,taxi
+3302	14	USER	ありがとうございます。そこはジャンボタクシーが利用できそうですか？	general,shopping,hotel,taxi
+3302	15	SYSTEM	はい、ジャンボタクシーも対応しています。	general,shopping,hotel,taxi
+3302	16	USER	ありがとうございます。ではそのタクシー会社で、9/26です．時間は16:10です．出発地はJA仙台農産物直売所 たなばたけ 高砂店、目的地はコーラスホテル仙台富沢で、予約をお願いします。	general,shopping,hotel,taxi
+3302	17	SYSTEM	予約成功しました。予約番号は78808です。	general,shopping,hotel,taxi
+3302	18	USER	ありがとうございました。	general,shopping,hotel,taxi
+3302	19	SYSTEM	よい旅を。	general,shopping,hotel,taxi

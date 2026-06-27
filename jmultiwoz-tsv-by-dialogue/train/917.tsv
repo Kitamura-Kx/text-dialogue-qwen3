@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+917	0	USER	東京へ旅行に行こうと思っています。当日食事ができる飲食店を探してます。地区は荒川区で最寄り駅は赤坂駅のところが希望です。	general,restaurant,attraction
+917	1	SYSTEM	申し訳ありません。その条件ではないようです。	general,restaurant,attraction
+917	2	USER	でしたら、荒川区でなくても良いです。	general,restaurant,attraction
+917	3	SYSTEM	WE ARE THE FARM AKASAKAは、いかがでしょうか？	general,restaurant,attraction
+917	4	USER	そこで良いです。そこの定休日と近辺の駅からの所要時間を教えてください。	general,restaurant,attraction
+917	5	SYSTEM	定休日は、ありません。近辺の駅からの所要時間ですが、赤坂駅から徒歩で4分、溜池山王駅から徒歩で7分となっています。	general,restaurant,attraction
+917	6	USER	あと当日訪れる観光名所を探しているのですが、地区は葛飾区で無料で駐車場が使えるところを教えてください。	general,restaurant,attraction
+917	7	SYSTEM	申し訳ありません。その条件では、見つけられませんでした。	general,restaurant,attraction
+917	8	USER	でしたら、駐車場は有料でも良いです。	general,restaurant,attraction
+917	9	SYSTEM	水元公園は、いかがでしょうか？	general,restaurant,attraction
+917	10	USER	そこが良さそうですね。そこの料金情報を教えてください。	general,restaurant,attraction
+917	11	SYSTEM	料金情報ですね。料金情報は、無料ですが、一部有料施設ありとなっています。	general,restaurant,attraction
+917	12	USER	分かりました。ありがとうございます。	general,restaurant,attraction
+917	13	SYSTEM	他にご用件はございますか？	general,restaurant,attraction
+917	14	USER	大丈夫です。ありがとうございました。	general,restaurant,attraction
+917	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction

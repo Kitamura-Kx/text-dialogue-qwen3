@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3394	0	USER	横浜へ旅行に行くので、観光名所を探してください。	general,attraction,weather
+3394	1	SYSTEM	横浜の観光名所は、RAKU SPA 鶴見を含む50件該当ございます。他に条件などございますか？	general,attraction,weather
+3394	2	USER	無料Wi-Fiがあるところがいいです。	general,attraction,weather
+3394	3	SYSTEM	そうしますと、横浜・八景島シーパラダイスを含む9件ございます。いかがでしょうか？	general,attraction,weather
+3394	4	USER	横浜・八景島シーパラダイスの最寄り駅と子供入場料、電話番号を教えていただけますか？	general,attraction,weather
+3394	5	SYSTEM	横浜・八景島シーパラダイスの最寄り駅は、八景島駅です。ワンデーパス当日券ですと、小・中学生3900円、4歳以上2200円でございます。電話番号は、0457888888です。	general,attraction,weather
+3394	6	USER	ありがとうございます。当日7月31日の青葉区の天気はどうでしょうか？	general,attraction,weather
+3394	7	SYSTEM	7月31日の青葉区の天気は、雨時々晴でございます。	general,attraction,weather
+3394	8	USER	最高気温も教えてください。	general,attraction,weather
+3394	9	SYSTEM	最高気温は30.4度となっております。	general,attraction,weather
+3394	10	USER	わかりました。ありがとうございます。	general,attraction,weather
+3394	11	SYSTEM	他にご用命ございますか？	general,attraction,weather
+3394	12	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,weather
+3394	13	SYSTEM	ありがとうございました。	general,attraction,weather

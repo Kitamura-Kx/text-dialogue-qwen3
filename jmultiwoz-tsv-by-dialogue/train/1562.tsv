@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1562	0	USER	仙台に旅行を計画したいのですが。	general,taxi
+1562	1	SYSTEM	仙台へのご旅行ですね。本日は、どんなお手伝いをいたしましょうか？	general,taxi
+1562	2	USER	キャッシュレス払いができるタクシー会社を探しています。	general,taxi
+1562	3	SYSTEM	では、（株）フタバタクシーというところは、いかがでしょうか？こちらでしたら、ジャンボタクシーもご利用いただけますよ。	general,taxi
+1562	4	USER	ありがとうございます。そちらで予約お願いします。タクシー会社の電話番号も教えてください。	general,taxi
+1562	5	SYSTEM	かしこまりました。電話番号ですが、0222369371でございます。ご予約をお入れしますので、ご利用予定の日付と出発時刻、出発地、目的地をお願いできますでしょうか？	general,taxi
+1562	6	USER	日付は10/2です。時間は12:40、ホテル グリーンアーバを出発で仙台市天文台までお願いします。	general,taxi
+1562	7	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、5372でございます。	general,taxi
+1562	8	USER	ありがとうございました。	general,taxi
+1562	9	SYSTEM	他にお調べすることはございますか？	general,taxi
+1562	10	USER	特にありません。ありがとうございました。	general,taxi
+1562	11	SYSTEM	承知しました。では、またのご利用をお待ちしております。	general,taxi

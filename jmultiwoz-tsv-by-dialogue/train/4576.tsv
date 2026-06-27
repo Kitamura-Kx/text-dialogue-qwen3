@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4576	0	USER	仙台の青葉区でWi-Fiが無料の観光名所を探しています。	general,attraction,weather,taxi
+4576	1	SYSTEM	青葉区でWiFi無料の観光名所はいくつかありますが、なんといっても、仙台城跡、こちらがオススメです。	general,attraction,weather,taxi
+4576	2	USER	料金情報はなにかありますか？	general,attraction,weather,taxi
+4576	3	SYSTEM	大人７００円、中高生５００円、小学生は３００円です。	general,attraction,weather,taxi
+4576	4	USER	わかりました。9/23の宮城野区の気温を教えてください。	general,attraction,weather,taxi
+4576	5	SYSTEM	9/23 仙台 宮城野区 の天気は雨のち晴、最低気温19.2度、最高気温21.9度です。	general,attraction,weather,taxi
+4576	6	USER	ありがとうございます。あとキャッシュレス払いができるタクシーも探してほしいです。	general,attraction,weather,taxi
+4576	7	SYSTEM	仙台にはキャッシュレス対応のタクシーはなさそうです。	general,attraction,weather,taxi
+4576	8	USER	ではキャッシュレス払いができなくても大丈夫です。	general,attraction,weather,taxi
+4576	9	SYSTEM	それでは、稲荷タクシー（有）をオススメします。	general,attraction,weather,taxi
+4576	10	USER	そのタクシーを9/23の14：30に仙台城跡から仙台東照宮 石鳥居まで予約したいです。	general,attraction,weather,taxi
+4576	11	SYSTEM	その条件だと予約に失敗してしまいました。すこし時間を変更していただけないでしょうか。	general,attraction,weather,taxi
+4576	12	USER	15：20だとどうですか？	general,attraction,weather,taxi
+4576	13	SYSTEM	15:20で予約成功しました。予約番号は10396です。	general,attraction,weather,taxi
+4576	14	USER	ありがとうございました。	general,attraction,weather,taxi
+4576	15	SYSTEM	よい旅を。	general,attraction,weather,taxi

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4462	0	USER	横浜への旅行を計画しています． 当日食事ができる飲食店で、予算は高めが希望です．駐車場を無料で利用できるところはございますか	general,restaurant,hotel,taxi
+4462	1	SYSTEM	はい、1件ご案内可能です。うなぎ料理 しま村 青葉台店という青葉区のお店ですが、いかがでしょうか？	general,restaurant,hotel,taxi
+4462	2	USER	ありがとうございます。人数は2人で、日付は12/5、時間は12:00で予約できますか	general,restaurant,hotel,taxi
+4462	3	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、31117です。	general,restaurant,hotel,taxi
+4462	4	USER	ありがとうございます。当日泊まる宿泊施設を探しています。レストランが併設されており、駐車場を無料で利用できるところを希望します。また、Wi-Fiが無料で利用できるところはございますか	general,restaurant,hotel,taxi
+4462	5	SYSTEM	それでしたら、ホテル パセラの森 横浜関内というお安めのリゾートホテルはいかがでしょうか？	general,restaurant,hotel,taxi
+4462	6	USER	そちらでお願いします。当日利用できるタクシー会社を探しています。キャッシュレス払いできるところで、ジャンボタクシーを利用できる会社はございますか	general,restaurant,hotel,taxi
+4462	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,restaurant,hotel,taxi
+4462	8	USER	かしこまりました。では、キャッシュレス払いの可否は考慮しません。	general,restaurant,hotel,taxi
+4462	9	SYSTEM	ありがとうございます。では、株式会社富士タクシーはいかがでしょうか？	general,restaurant,hotel,taxi
+4462	10	USER	かしこまりました。電話番号を教えてください	general,restaurant,hotel,taxi
+4462	11	SYSTEM	電話番号は、0457552211でございます。	general,restaurant,hotel,taxi
+4462	12	USER	当日のタクシーを予約したいです。日付は12/5で、時間は13:10、出発地は先ほど見つけた飲食店です。目的地は先ほど見つけた宿泊所でお願いします	general,restaurant,hotel,taxi
+4462	13	SYSTEM	大変申し訳ございません。ご希望の条件では予約できませんでした。お時間など、ご調整いただくことは可能でしょうか？	general,restaurant,hotel,taxi
+4462	14	USER	では、13:50だといかがでしょうか	general,restaurant,hotel,taxi
+4462	15	SYSTEM	ありがとうございます。13:50にうなぎ料理 しま村 青葉台店を出発、ホテル パセラの森 横浜関内着にて、ご予約完了いたしました。予約番号は、16038です。	general,restaurant,hotel,taxi
+4462	16	USER	かしこまりました。本日はありがとうございました。	general,restaurant,hotel,taxi
+4462	17	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,restaurant,hotel,taxi

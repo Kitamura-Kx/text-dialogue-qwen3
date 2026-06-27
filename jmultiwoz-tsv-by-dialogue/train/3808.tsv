@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3808	0	USER	札幌に行くので、イタリアン・フレンチ系の飲食店を探しています。予算が高めのお店を教えてください。	general,restaurant
+3808	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant
+3808	2	USER	ではジャンルは問いません。	general,restaurant
+3808	3	SYSTEM	お待たせ致しました。それではうなぎ 仲じまはいかがでしょうか？	general,restaurant
+3808	4	USER	そこは、Wi-Fiはありますか？	general,restaurant
+3808	5	SYSTEM	Wi-Fiの有無は分かりません。	general,restaurant
+3808	6	USER	わかりました。そこのお店のエリアと電話番号を教えてください。	general,restaurant
+3808	7	SYSTEM	エリアは中央区、電話番号は0115123533でございます。	general,restaurant
+3808	8	USER	わかりました。ありがとうございました。	general,restaurant
+3808	9	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3344	0	USER	仙台へ旅行したいと思っているのですが、宿泊施設を探しています。	general,hotel
+3344	1	SYSTEM	希望条件などは、ございますか？	general,hotel
+3344	2	USER	レストランが併設されていて、予算は高め、無料WiFiが利用できるところが良いと考えています。	general,hotel
+3344	3	SYSTEM	ウェスティンホテル仙台は、いかがでしょうか？	general,hotel
+3344	4	USER	ありがとうございます。ではそこに泊まろうと思います。最寄り駅をお聞きしてもよろしいですか？	general,hotel
+3344	5	SYSTEM	はい、最寄り駅は、青葉通一番町駅になります。	general,hotel
+3344	6	USER	ありがとうございます。お聞きしたい事は以上になります。ご丁寧に対応いただきありがとうございました。	general,hotel
+3344	7	SYSTEM	承知しました。ありがとうございました。	general,hotel

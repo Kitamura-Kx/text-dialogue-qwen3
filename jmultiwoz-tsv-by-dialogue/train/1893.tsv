@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1893	0	USER	札幌の北区で、観光名所を探したいです。できれば駐車場無料、Wi-Fiも無料で利用できたら良いです。	general,attraction
+1893	1	SYSTEM	申し訳ございません。その条件ですと、該当する観光名所はございません。	general,attraction
+1893	2	USER	わかりました。では、駐車場はなくても結構です。	general,attraction
+1893	3	SYSTEM	かしこまりました。でしたら北海道大学総合博物館はいかがでしょうか？	general,attraction
+1893	4	USER	博物館良いですね！大人と子供の入場料を教えてもらえますか？	general,attraction
+1893	5	SYSTEM	大人も子供も入場料は無料でございます。	general,attraction
+1893	6	USER	それは嬉しいですね。知りたいことは以上です。ありがとうございました。	general,attraction
+1893	7	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction

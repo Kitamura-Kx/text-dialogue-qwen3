@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+397	0	USER	名古屋旅行の際に当日泊まる宿泊施設を探しています。何かおすすめはありますか？	general,hotel,weather
+397	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,weather
+397	2	USER	Wi-Fiが無料で利用できるところで、予算は普通くらいを考えています。	general,hotel,weather
+397	3	SYSTEM	ではSakurAはいかがでしょうか。	general,hotel,weather
+397	4	USER	そちらでお願いします。住所とエリアを教えて頂けないでしょうか。	general,hotel,weather
+397	5	SYSTEM	住所は愛知県名古屋市中村区烏森町8丁目207でございます。エリアは中村区でございます。	general,hotel,weather
+397	6	USER	あと、チェックイン開始時間も教えてほしいです。	general,hotel,weather
+397	7	SYSTEM	チェックイン開始時刻は16:00でございます。	general,hotel,weather
+397	8	USER	ありがとうございます。当日の天気もチェックしておきたいのですが、名東区の4/28の天気は分かりますか？	general,hotel,weather
+397	9	SYSTEM	天気は晴、最低気温は4.7度で、最高気温は21.9度でございます。	general,hotel,weather
+397	10	USER	ありがとうございました。	general,hotel,weather

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4460	0	USER	札幌の旅行を考えています。飲食店を探しており、安めを希望しています。ジャンルは洋食・西洋料理です。いかがでしょうか	general,restaurant,taxi
+4460	1	SYSTEM	それでしたら、FAbULOUSはいかがでしょうか？中央区エリアにある、お値段がお安めなお店です。	general,restaurant,taxi
+4460	2	USER	ありがとうございます。そちらの電話番号を教えてください。また、駐車場はございますか	general,restaurant,taxi
+4460	3	SYSTEM	電話番号は、0112710310です。駐車場の有無につきましては、不明となっております。申し訳ありません。	general,restaurant,taxi
+4460	4	USER	ありがとうございます。人数は3人で、日付は10/25、時間は15:40で予約できますでしょうか	general,restaurant,taxi
+4460	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、26814です。	general,restaurant,taxi
+4460	6	USER	ありがとうございます。当日利用できるタクシーでジャンボタクシー可、キャッシュレス対応可能な会社はございますか	general,restaurant,taxi
+4460	7	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,restaurant,taxi
+4460	8	USER	かしこまりました。では、キャッシュレス対応はなくて構いませんが、いかがでしょうか	general,restaurant,taxi
+4460	9	SYSTEM	そういたしますと、つばめ自動車(株)はいかがでしょうか？	general,restaurant,taxi
+4460	10	USER	そちらでお願いします。電話番号を教えていただけますか	general,restaurant,taxi
+4460	11	SYSTEM	はい、電話番号は、0118112121でございます。	general,restaurant,taxi
+4460	12	USER	ありがとうございます。日付は10/25で、時間は14:30、出発地は先ほど見つけた飲食店で、目的地は鮨 大照というところで予約できますか	general,restaurant,taxi
+4460	13	SYSTEM	ありがとうございます。FAbULOUS発、鮨 大照着にて、ご予約完了いたしました。予約番号は、11974です。	general,restaurant,taxi
+4460	14	USER	かしこまりました。本日はありがとうございました。	general,restaurant,taxi
+4460	15	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,restaurant,taxi

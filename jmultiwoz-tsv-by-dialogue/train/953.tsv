@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+953	0	USER	東京に行こうと思っていて、飲食店を探しています。	general,restaurant,hotel
+953	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,hotel
+953	2	USER	駐車場を無料で利用でき、無料Wi-Fiがあるところがいいです。	general,restaurant,hotel
+953	3	SYSTEM	申し訳ございません。どちらの条件にも当てはまるところがございませんでした。いかがなさいますか。	general,restaurant,hotel
+953	4	USER	では、無料Wi-Fiがあればいいので、探していただけますでしょうか？	general,restaurant,hotel
+953	5	SYSTEM	では銀座 おうちはいかがでしょうか。	general,restaurant,hotel
+953	6	USER	そちらのジャンルは何になりますか？	general,restaurant,hotel
+953	7	SYSTEM	ジャンルは和食でございます。	general,restaurant,hotel
+953	8	USER	電話番号と定休日を教えてもらえますか？	general,restaurant,hotel
+953	9	SYSTEM	電話番号は0335736608で、定休日は土日祝となっております。	general,restaurant,hotel
+953	10	USER	ありがとうございます。当日泊まれるところも探していて、代々木公園駅近くのレストランが併設されているところはありますでしょうか？	general,restaurant,hotel
+953	11	SYSTEM	その条件ですとalmond hostel & cafeがございます。	general,restaurant,hotel
+953	12	USER	そこはWi-Fiを無料で利用できますでしょうか？	general,restaurant,hotel
+953	13	SYSTEM	はい。無料でお使いいただけます。	general,restaurant,hotel
+953	14	USER	では、そちらのチェックアウト終了時刻を教えてもらえますか？	general,restaurant,hotel
+953	15	SYSTEM	チェックアウト終了時刻は11:00でございます。	general,restaurant,hotel
+953	16	USER	ありがとうございます。料金情報と近辺駅からの所要時間も教えてもらえますでしょうか？	general,restaurant,hotel
+953	17	SYSTEM	値段帯は安めとなっておりますが、詳しい料金情報はわかりかねます。代々木公園駅からは徒歩で3分、代々木八幡駅から徒歩で3分でございます。	general,restaurant,hotel
+953	18	USER	ありがとうございます。そちらの予約をお願いします。１０月２９日から３泊で人数は３人です。	general,restaurant,hotel
+953	19	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は32991でございます。	general,restaurant,hotel
+953	20	USER	ありがとうございました。	general,restaurant,hotel
+953	21	SYSTEM	ほかにご用件はございますか。	general,restaurant,hotel
+953	22	USER	大丈夫です。ありがとうございました。	general,restaurant,hotel
+953	23	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel

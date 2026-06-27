@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3444	0	USER	福岡に行くのですが、買い物できる場所教えて下さい。	general,shopping
+3444	1	SYSTEM	かしこまりました。何か他に御希望はありますでしょうか？	general,shopping
+3444	2	USER	東区で駐車場が無料で、文具と雑貨が買いたいです。	general,shopping
+3444	3	SYSTEM	かしこまりました。それではドラッグストアモリ 香椎宮前店はいかがでしょうか？	general,shopping
+3444	4	USER	ありがとございます。行ってみます。失礼します。	general,shopping
+3444	5	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping

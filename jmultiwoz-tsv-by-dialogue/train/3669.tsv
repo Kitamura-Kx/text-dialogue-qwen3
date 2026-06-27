@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3669	0	USER	札幌での宿泊施設を探しています。	general,hotel,shopping,taxi
+3669	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,shopping,taxi
+3669	2	USER	レストランが併設されているところだと嬉しいです。	general,hotel,shopping,taxi
+3669	3	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,shopping,taxi
+3669	4	USER	では、レストランはなくてもいいです。	general,hotel,shopping,taxi
+3669	5	SYSTEM	かしこまりました。では、ネストホテル札幌駅前はいかがでしょうか？	general,hotel,shopping,taxi
+3669	6	USER	ありがとうございます。では、4/29に３名で２泊、予約していただけますか？	general,hotel,shopping,taxi
+3669	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、45896です。	general,hotel,shopping,taxi
+3669	8	USER	ありがとうございます。あと、当日買い物したいのですが、東区で駐車場が無料のところはありますか？	general,hotel,shopping,taxi
+3669	9	SYSTEM	申し訳ございません。条件に合う買い物の店舗は見つかりませんでした。	general,hotel,shopping,taxi
+3669	10	USER	では、地区はとくにこだわりません。	general,hotel,shopping,taxi
+3669	11	SYSTEM	であれば、札幌ばんけい峠のワイナリーなどはいかがでしょうか？	general,hotel,shopping,taxi
+3669	12	USER	いいですね。最寄り駅はどこですか？	general,hotel,shopping,taxi
+3669	13	SYSTEM	はい。最寄り駅は円山公園駅です。	general,hotel,shopping,taxi
+3669	14	USER	ありがとうございます。当日タクシーを使いたいのですが、キャッシュレス払いができるところはありますか？	general,hotel,shopping,taxi
+3669	15	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。いかがいたしましょうか。	general,hotel,shopping,taxi
+3669	16	USER	では、キャッシュレス払いはできなくても構いません。	general,hotel,shopping,taxi
+3669	17	SYSTEM	はい。であれば北陵交通(株)はいかがでしょうか？	general,hotel,shopping,taxi
+3669	18	USER	ありがとうございます。そちらはジャンボタクシーは使えますか？	general,hotel,shopping,taxi
+3669	19	SYSTEM	はい。対応しております。	general,hotel,shopping,taxi
+3669	20	USER	ありがとうございます。では、4/29の16:30で、ネストホテル札幌駅前から、札幌ばんけい峠のワイナリーまで予約をお願いできますか？	general,hotel,shopping,taxi
+3669	21	SYSTEM	かしこまりました。ご予約承りました。予約番号は、86123 です。	general,hotel,shopping,taxi
+3669	22	USER	ありがとうございます。以上です、お世話になりました。	general,hotel,shopping,taxi
+3669	23	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,taxi

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+820	0	USER	すみません、大阪へ旅行したいのですが。	general,shopping,hotel
+820	1	SYSTEM	大阪のご旅行ですね。本日はどんな情報をお探しでしょうか？	general,shopping,hotel
+820	2	USER	住之江区で買い物ができるところはありますか？無料の駐車場があるところがいいです。	general,shopping,hotel
+820	3	SYSTEM	かしこまりました。では、ダイエー マルナカ住之江店はいかがでしょうか？北加賀屋駅から徒歩で3分の場所にある、百貨店や総合スーパーです。	general,shopping,hotel
+820	4	USER	そちらの住所と定休日、あと電話番号を教えてもらえますか？	general,shopping,hotel
+820	5	SYSTEM	はい、住所は、大阪府大阪市住之江区西加賀屋1丁目2-34です。定休日はございません。電話番号は、0647025191でございます。	general,shopping,hotel
+820	6	USER	ありがとうございます。あとは、宿泊先を探していて。無料Wi-Fiが使える旅館はありますか？無料の駐車場があると理想的です。	general,shopping,hotel
+820	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,hotel
+820	8	USER	そうですか。では、有料の駐車場でもいいので他にありませんか？	general,shopping,hotel
+820	9	SYSTEM	ありがとうございます。そうしますと、かねよし旅館というところが1件ご案内可能です。いかがでしょうか？	general,shopping,hotel
+820	10	USER	では、そちらで決めたいと思います。住所はわかりますか？	general,shopping,hotel
+820	11	SYSTEM	住所は、大阪府大阪市中央区宗右衛門町3-12です。	general,shopping,hotel
+820	12	USER	ありがとうございます。電話番号もわかりますか？	general,shopping,hotel
+820	13	SYSTEM	電話番号は、0662116337です。	general,shopping,hotel
+820	14	USER	ありがとうございます。12/20に4名で3泊予約をお願いします。	general,shopping,hotel
+820	15	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、50340です。	general,shopping,hotel
+820	16	USER	ありがとうございます。	general,shopping,hotel
+820	17	SYSTEM	他にお調べすることはございますか？	general,shopping,hotel
+820	18	USER	特にありません。	general,shopping,hotel
+820	19	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,shopping,hotel

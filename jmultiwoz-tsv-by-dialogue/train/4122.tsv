@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4122	0	USER	東京で予算が普通くらいのイタリアン・フレンチを食べられるお店はありませんか、江戸川区がいいです	general,restaurant,hotel,weather
+4122	1	SYSTEM	Taverna e Pizzeria Saluteがございますがいかがでしょうか。	general,restaurant,hotel,weather
+4122	2	USER	wifiはありますか	general,restaurant,hotel,weather
+4122	3	SYSTEM	はい。無料で利用していただけます。	general,restaurant,hotel,weather
+4122	4	USER	ありがとうございます、では5月26日の13時50分で3人、予約お願いします	general,restaurant,hotel,weather
+4122	5	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,restaurant,hotel,weather
+4122	6	USER	2人ではどうでしょうか	general,restaurant,hotel,weather
+4122	7	SYSTEM	その人数ですと予約が可能でございました。予約番号は29261でございます。	general,restaurant,hotel,weather
+4122	8	USER	ありがとうございます、wifiが無料でつかえるレストランが併設された宿泊施設はありますか	general,restaurant,hotel,weather
+4122	9	SYSTEM	ではロイヤルパークホテルはいかがですか。	general,restaurant,hotel,weather
+4122	10	USER	電話番号を教えて下さい	general,restaurant,hotel,weather
+4122	11	SYSTEM	電話番号は0336671111でございます。	general,restaurant,hotel,weather
+4122	12	USER	ありがとうございます、5月26日の渋谷区の天気と最高気温を教えてください	general,restaurant,hotel,weather
+4122	13	SYSTEM	当日の天気は曇時々雨で、最高気温 21.2度でございます。	general,restaurant,hotel,weather
+4122	14	USER		general,restaurant,hotel,weather

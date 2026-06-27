@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3239	0	USER	大阪旅行をするつもりなので、泊まる所を探してください。	general,hotel
+3239	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel
+3239	2	USER	レストランつきの所が良いですね。予算は高めで検討しています。	general,hotel
+3239	3	SYSTEM	では、エリアでいうと中央区にある、9別邸 大阪谷町 MAISON DE 9はいかがでしょう？タイプは、簡易宿所となります。	general,hotel
+3239	4	USER	ありがとうございます。9別邸 大阪谷町 MAISON DE 9までは、最寄り駅からどの位かかりそうですか？	general,hotel
+3239	5	SYSTEM	はい、最寄りの谷町六丁目駅から徒歩で5分となります。	general,hotel
+3239	6	USER	ありがとうございます。	general,hotel
+3239	7	SYSTEM	他にご用件はございますか？	general,hotel
+3239	8	USER	いいえ、これだけです。ありがとうございます。	general,hotel
+3239	9	SYSTEM	ありがとうございました。	general,hotel

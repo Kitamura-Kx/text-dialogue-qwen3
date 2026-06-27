@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2936	0	USER	今度、福岡へ行く予定です。南区でWi-Fiが無料の宿泊施設を教えて下さい。	general,hotel,shopping,weather
+2936	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel,shopping,weather
+2936	2	USER	南区以外ではどうですか？	general,hotel,shopping,weather
+2936	3	SYSTEM	エリアでいうと博多区にある、THE LIVELY 博多福岡はいかがでしょう？タイプはシティホテルとなります。	general,hotel,shopping,weather
+2936	4	USER	ありがとうございます。そちらにはレストランはありますか？	general,hotel,shopping,weather
+2936	5	SYSTEM	はい、併設のレストランがございます。	general,hotel,shopping,weather
+2936	6	USER	分かりました。値段帯と電話番号も教えて下さい。	general,hotel,shopping,weather
+2936	7	SYSTEM	値段帯は安め、電話番号は05031382071となります。	general,hotel,shopping,weather
+2936	8	USER	ありがとうございます。同じ日に竹下駅近くの無料駐車場があるお店で買い物をしたいのですが、良い所はありますか？	general,hotel,shopping,weather
+2936	9	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel,shopping,weather
+2936	10	USER	それでは、南区ではどうですか？竹下駅以外で大丈夫です。	general,hotel,shopping,weather
+2936	11	SYSTEM	サンプルRIKIがございます。ジャンルは、文房具、雑貨、お土産、その他、となります。	general,hotel,shopping,weather
+2936	12	USER	ありがとうございます。そこの定休日と、電話番号を教えて下さい。	general,hotel,shopping,weather
+2936	13	SYSTEM	電話番号は0925670018となります。定休日はございません。	general,hotel,shopping,weather
+2936	14	USER	分かりました。もう１つ、7月5日の城南区の天気と最低気温を教えてください。	general,hotel,shopping,weather
+2936	15	SYSTEM	天気は曇のち雨、最低気温25.6度となります。	general,hotel,shopping,weather
+2936	16	USER	ありがとうございました。助かりました。それでは失礼します。	general,hotel,shopping,weather

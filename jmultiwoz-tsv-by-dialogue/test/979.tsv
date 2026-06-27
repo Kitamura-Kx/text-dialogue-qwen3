@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+979	0	USER	ちょっとよろしいでしょうか？	general,restaurant,taxi
+979	1	SYSTEM	はい、本日はどういったご用件でしょうか？	general,restaurant,taxi
+979	2	USER	ただいま横浜の旅行を計画していまして、夕食に金沢区あたりで居酒屋を探しています。	general,restaurant,taxi
+979	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,taxi
+979	4	USER	そうなんですね、では居酒屋以外だと何かありますでしょうか？	general,restaurant,taxi
+979	5	SYSTEM	はい、2件ございます。リューバンカフェというところは、いかがでしょうか？ジャンルは、ホテルレストラン, カフェ・スイーツとなっております。	general,restaurant,taxi
+979	6	USER	いいですね、ちなみに駐車場の有無と価格帯を教えていただけますか？	general,restaurant,taxi
+979	7	SYSTEM	駐車場は有料ですがご利用いただけます。価格帯は普通となっております。	general,restaurant,taxi
+979	8	USER	ありがとうございます、実は一緒に利用できるタクシーも探しています。ジャンボタクシーが利用できるタクシー会社はありますか？	general,restaurant,taxi
+979	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,taxi
+979	10	USER	それは仕方がないですね、ではジャンボタクシーでなくても良いので利用できるタクシー会社はありますか？	general,restaurant,taxi
+979	11	SYSTEM	はい。では、神奈川都市交通株式会社 金沢営業所はいかがでしょうか？	general,restaurant,taxi
+979	12	USER	そちらはキャッシュレス対応していますか？	general,restaurant,taxi
+979	13	SYSTEM	はい、対応しております。	general,restaurant,taxi
+979	14	USER	いいですね、ではタクシーの予約をお願いしてもよろしいでしょうか？	general,restaurant,taxi
+979	15	SYSTEM	はい。ご利用予定の日付と出発時刻、出発地、目的地をお願いできますでしょうか？	general,restaurant,taxi
+979	16	USER	6/26の12:50にリューバンカフェから福満園 マークイズみなとみらい店というところまでお願いしたいです。	general,restaurant,taxi
+979	17	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,restaurant,taxi
+979	18	USER	では、13:50だといかがでしょうか？	general,restaurant,taxi
+979	19	SYSTEM	ありがとうございます。予約が完了いたしました。予約番号は、66111です。	general,restaurant,taxi
+979	20	USER	ありがとうございます、本日は以上になります。	general,restaurant,taxi
+979	21	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant,taxi

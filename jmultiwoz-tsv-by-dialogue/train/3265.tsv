@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3265	0	USER	京都で文房具・雑貨の買い物ができるお店を探してください。	general,shopping,restaurant,taxi
+3265	1	SYSTEM	14件ほどみつかります。追加の希望条件はありますか	general,shopping,restaurant,taxi
+3265	2	USER	右京区にあるところで、無料駐車場付きが希望です。	general,shopping,restaurant,taxi
+3265	3	SYSTEM	その条件ならば伊藤常嵐山店一択です。	general,shopping,restaurant,taxi
+3265	4	USER	そこの住所をお聞きしても良いですか？	general,shopping,restaurant,taxi
+3265	5	SYSTEM	京都府京都市右京区嵯峨嵐山天龍寺造路町20番地38です。	general,shopping,restaurant,taxi
+3265	6	USER	ありがとうございます。あと下京区で食事ができるところも探したいです。無料駐車場付きのお店を紹介してください。	general,shopping,restaurant,taxi
+3265	7	SYSTEM	下京区に無料駐車場のある飲食店はありません。	general,shopping,restaurant,taxi
+3265	8	USER	ではお店の地域は気にしません。	general,shopping,restaurant,taxi
+3265	9	SYSTEM	下京区をはずすと６件ほどヒットします。	general,shopping,restaurant,taxi
+3265	10	USER	そうなんですね。その6件の中で、良さそうなお店を教えてください。	general,shopping,restaurant,taxi
+3265	11	SYSTEM	京都らしく、下鴨茶寮 本店をオススメします。	general,shopping,restaurant,taxi
+3265	12	USER	そこの電話番号をお願いします。	general,shopping,restaurant,taxi
+3265	13	SYSTEM	0757015185になります。	general,shopping,restaurant,taxi
+3265	14	USER	ありがとうございます。タクシー会社も探してほしいです。ジャンボタクシーに乗れて、キャッシュレスOKのところはありますか？	general,shopping,restaurant,taxi
+3265	15	SYSTEM	都タクシー株式会社をおすすめします	general,shopping,restaurant,taxi
+3265	16	USER	電話番号をお聞きしてもいいですか？	general,shopping,restaurant,taxi
+3265	17	SYSTEM	0756616611です	general,shopping,restaurant,taxi
+3265	18	USER	8月26日で予約もできますか？時間は12時10分発で、伊藤常嵐山店から、下鴨茶寮 本店まででお願いします。	general,shopping,restaurant,taxi
+3265	19	SYSTEM	その条件で予約成功しました。予約番号は76070です。	general,shopping,restaurant,taxi
+3265	20	USER	お手数おかけしました。ありがとうございました。	general,shopping,restaurant,taxi

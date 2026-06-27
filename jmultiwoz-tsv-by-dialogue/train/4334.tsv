@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4334	0	USER	横浜で泊まれるところを探してほしいです。駐車場が無料で使えて、レストランが付いているところが希望です。	general,hotel,weather
+4334	1	SYSTEM	かしこまりました。旅館 松島はいかがでしょうか。	general,hotel,weather
+4334	2	USER	出来れば、予算を安めに抑えたいのですが？	general,hotel,weather
+4334	3	SYSTEM	はい。旅館 松島の値段帯は安めとなっております。	general,hotel,weather
+4334	4	USER	そちらは何タイプの宿泊施設になりますか？	general,hotel,weather
+4334	5	SYSTEM	はい。タイプは旅館になります。	general,hotel,weather
+4334	6	USER	何か料金情報はありませんか？	general,hotel,weather
+4334	7	SYSTEM	申し訳ございません。値段帯が安めということ以外の料金情報はありません。	general,hotel,weather
+4334	8	USER	わかりました。では予約をお願いします。７月１０日から３泊で、４人でお願いします。	general,hotel,weather
+4334	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、12342 です。	general,hotel,weather
+4334	10	USER	ところで、７月１０日の南区の天気はどうですか？	general,hotel,weather
+4334	11	SYSTEM	はい。天気は曇時々雨です。	general,hotel,weather
+4334	12	USER	ありがとうございました。では、失礼します。	general,hotel,weather
+4334	13	SYSTEM	ご利用ありがとうございました。	general,hotel,weather

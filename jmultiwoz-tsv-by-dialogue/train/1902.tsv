@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1902	0	USER	京都へ行くんですが、南区の観光名所を探してもらえますか？	general,attraction,hotel,weather
+1902	1	SYSTEM	京都市障害者教養文化・体育会館は、いかがでしょうか？	general,attraction,hotel,weather
+1902	2	USER	ありがとうございます。そこの最寄り駅と定休日も教えてもらえますか。	general,attraction,hotel,weather
+1902	3	SYSTEM	最寄り駅は、竹田駅になります。定休日は、水曜と年末年始となります。	general,attraction,hotel,weather
+1902	4	USER	ありがとうございます。あと当日泊まるところもお願いします。	general,attraction,hotel,weather
+1902	5	SYSTEM	宿泊施設ですね。希望条件などは、ございますか？	general,attraction,hotel,weather
+1902	6	USER	Wi-Fiが無料で、レストランが併設されているところでお願いします。予算は高めのところが希望です。	general,attraction,hotel,weather
+1902	7	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,hotel,weather
+1902	8	USER	そうですか。じゃあレストランはなくてもいいです。	general,attraction,hotel,weather
+1902	9	SYSTEM	京都 高瀬川別邸は、いかがでしょうか？	general,attraction,hotel,weather
+1902	10	USER	そこのチェックイン開始時間は何時ですか？	general,attraction,hotel,weather
+1902	11	SYSTEM	チェックイン開始時間は、15時からとなっています。	general,attraction,hotel,weather
+1902	12	USER	じゃあそこにします。予約をお願いできますか。10/31から３泊で３名です。	general,attraction,hotel,weather
+1902	13	SYSTEM	予約が完了しました。　予約番号は、84992です。	general,attraction,hotel,weather
+1902	14	USER	ありがとうございます。宿泊当日の右京区の天気と最低気温はわかりますか？	general,attraction,hotel,weather
+1902	15	SYSTEM	10月31日当日の天気は、雨のち晴の予報です。	general,attraction,hotel,weather
+1902	16	USER	最低気温も教えてください。	general,attraction,hotel,weather
+1902	17	SYSTEM	最低気温は、17度です。	general,attraction,hotel,weather
+1902	18	USER	ありがとうございます。以上で結構です。	general,attraction,hotel,weather
+1902	19	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel,weather

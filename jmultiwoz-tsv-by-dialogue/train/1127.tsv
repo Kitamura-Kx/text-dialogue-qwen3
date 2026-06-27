@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1127	0	USER	名古屋へ旅行に行こうと想っています。当日買い物ができるところを探しています。最寄り駅が南荒子駅で駐車場は無料でジャンルは旅行用品です。	general,shopping
+1127	1	SYSTEM	申し訳ありません、この条件ではご案内できないのですが、いかが致しましょう？	general,shopping
+1127	2	USER	でしたら、最寄り駅が南荒子駅でなくても良いです。	general,shopping
+1127	3	SYSTEM	ありがとうございます。エリアでいうと中村区に、東急ハンズ名古屋店がございます。何か必要なご案内はございますか？	general,shopping
+1127	4	USER	そこが良さそうです。そこの営業時間と電話番号を教えてください。	general,shopping
+1127	5	SYSTEM	はい、営業時間は10時から20時、電話番号は、0525660109となります。他にご案内できることはございますか？	general,shopping
+1127	6	USER	大丈夫です。ありがとうございました。	general,shopping
+1127	7	SYSTEM	ありがとうございました。	general,shopping

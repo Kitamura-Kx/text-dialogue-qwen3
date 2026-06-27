@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+396	0	USER	横浜旅行で行く観光名所を探して頂けないでしょうか。	general,attraction,hotel,taxi
+396	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,hotel,taxi
+396	2	USER	Wi-Fiが無料で、ジャンルは工場見学を希望します。	general,attraction,hotel,taxi
+396	3	SYSTEM	ではカップヌードルミュージアム 横浜はいかがですか。	general,attraction,hotel,taxi
+396	4	USER	楽しそうですね。そちらに伺いたいと思います。あと、宿泊施設も探して頂けないでしょうか。	general,attraction,hotel,taxi
+396	5	SYSTEM	かしこまりました。ご希望の条件をお聞かせ願います。	general,attraction,hotel,taxi
+396	6	USER	ビジネスホテルで予算は高めのところがいいです。レストランが併設されていると便利でありがたいです。	general,attraction,hotel,taxi
+396	7	SYSTEM	申し訳ございません。その条件に当てはまるところがございませんでした。いかがなさいますか。	general,attraction,hotel,taxi
+396	8	USER	予算は考慮しなくて大丈夫です。何かありそうでしょうか？	general,attraction,hotel,taxi
+396	9	SYSTEM	ではホテル・アルファーワン横浜関内はいかがでしょうか。	general,attraction,hotel,taxi
+396	10	USER	そちらにしたいと思います。最寄り駅を教えてください。あと、駐車場ってありますか？	general,attraction,hotel,taxi
+396	11	SYSTEM	最寄り駅は関内駅でございます。駐車場は有料で利用いただけます。	general,attraction,hotel,taxi
+396	12	USER	情報ありがとうございます。あと、タクシー予約もお願いできますでしょうか。	general,attraction,hotel,taxi
+396	13	SYSTEM	かしこまりました。ご希望のタクシー会社はございますか。	general,attraction,hotel,taxi
+396	14	USER	ジャンボタクシーを利用できる会社がいいです。	general,attraction,hotel,taxi
+396	15	SYSTEM	もうしわけございません。ジャンボタクシー利用可能なタクシー会社がありませんでした。いかがなさいますか。	general,attraction,hotel,taxi
+396	16	USER	でしたら、ジャンボタクシー利用はできなくてもかまいません。	general,attraction,hotel,taxi
+396	17	SYSTEM	ではアサヒタクシー株式会社がございます。	general,attraction,hotel,taxi
+396	18	USER	そちらでお願いしたいのですが、電話番号ってわかりますでしょうか。	general,attraction,hotel,taxi
+396	19	SYSTEM	0120411190でございます。	general,attraction,hotel,taxi
+396	20	USER	予約もお願いできますか？9/21の12:30で、カップヌードルミュージアム 横浜を出発し、ホテル・アルファーワン横浜関内を目的地とするルートでお願いしたいのですが。	general,attraction,hotel,taxi
+396	21	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は99635でございます。	general,attraction,hotel,taxi
+396	22	USER	ありがとうございました。	general,attraction,hotel,taxi

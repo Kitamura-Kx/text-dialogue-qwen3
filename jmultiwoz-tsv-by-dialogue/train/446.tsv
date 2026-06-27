@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+446	0	USER	大阪の天王寺区で食事ができる場所を探しています。	general,restaurant
+446	1	SYSTEM	ご利用ありがとうございます。2件候補がございますが、ほかに条件など、ございますか？	general,restaurant
+446	2	USER	焼肉とかホルモン料理のお店がいいですね。予算は普通くらいのところだと嬉しいです。	general,restaurant
+446	3	SYSTEM	では、鶴橋ホルモン本舗はいかがでしょうか？	general,restaurant
+446	4	USER	いいですね。電話番号を教えてもらえますか？	general,restaurant
+446	5	SYSTEM	電話番号は、0667730055です。予約いたしますか？	general,restaurant
+446	6	USER	ありがとうございます。そちら定休日はありますか？	general,restaurant
+446	7	SYSTEM	定休日は無しとなっております。	general,restaurant
+446	8	USER	では、予約をお願いします。8/31、10:40に3名で。	general,restaurant
+446	9	SYSTEM	大変申し訳ございません。その条件では予約をおとりできませんでした。いかがいたしましょうか？	general,restaurant
+446	10	USER	時間を11:40に変更したら予約できますか？	general,restaurant
+446	11	SYSTEM	ありがとうございます。ご予約承りました。予約番号は、37134です。	general,restaurant
+446	12	USER	了解しました。ありがとうございました。	general,restaurant

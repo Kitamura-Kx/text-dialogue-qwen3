@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4077	0	USER	福岡への旅行を計画しています． 当日訪れる観光名所を探してください．駐車場を無料で利用できるところにしてください．Wi-Fiが無料で利用できるところがいいです。	general,attraction,restaurant,taxi
+4077	1	SYSTEM	住吉神社はいかがでしょうか。	general,attraction,restaurant,taxi
+4077	2	USER	ありがとうございます。あと、当日食事ができる飲食店を探してください．最寄り駅が千代県庁口駅のところにしてください．駐車場を無料で利用できるところにしてください．予算は安めが希望です．	general,attraction,restaurant,taxi
+4077	3	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction,restaurant,taxi
+4077	4	USER	でしたら最寄りはどこでもいいです。	general,attraction,restaurant,taxi
+4077	5	SYSTEM	資さんうどん 原店はいかがでしょうか。	general,attraction,restaurant,taxi
+4077	6	USER	ありがとうございます。あと当日利用できるタクシー会社を探してください．ジャンボタクシーを利用できるところがいいです。	general,attraction,restaurant,taxi
+4077	7	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction,restaurant,taxi
+4077	8	USER	でしたらジャンボはどちらでもいいです。	general,attraction,restaurant,taxi
+4077	9	SYSTEM	平和交通（株）はいかがでしょうか。	general,attraction,restaurant,taxi
+4077	10	USER	そちらはキャッシュレス対応でしょうか。また、そちらで日付は2/17．時間は13:30．出発地は先ほど見つけた観光施設で．目的地は先ほど見つけた飲食店で予約してほしいです。	general,attraction,restaurant,taxi
+4077	11	SYSTEM	はい、対応です。予約完了いたしました。予約番号は17220になります。	general,attraction,restaurant,taxi
+4077	12	USER	ありがとうございます。	general,attraction,restaurant,taxi

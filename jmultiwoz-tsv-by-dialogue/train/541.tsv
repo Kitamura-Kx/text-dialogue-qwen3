@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+541	0	USER	仙台への旅行を計画しているのですが、当日買い物ができる場所を探してください。	general,shopping,attraction
+541	1	SYSTEM	かしこまりました。53件ほどご案内可能ですが、なにかジャンルなど、ご希望はございませんか？	general,shopping,attraction
+541	2	USER	青葉区の商店街がよいです。	general,shopping,attraction
+541	3	SYSTEM	かしこまりました。そうしますと、2件ございます。ハピナ名掛丁商店街と、仙台朝市ですが、どちらか気になる方はございますか？	general,shopping,attraction
+541	4	USER	仙台朝市に行きたいと思います。住所を教えていただけますか。	general,shopping,attraction
+541	5	SYSTEM	かしこまりました。住所は、宮城県仙台市青葉区中央3丁目8-5 3F318号室 新仙台駅前ビルでございます。	general,shopping,attraction
+541	6	USER	ありがとうございます。当日観光名所にも行きたいのですが、若林区で、ジャンルは教室・ワークショップ・体験でありますか。	general,shopping,attraction
+541	7	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。いかが致しましょうか？	general,shopping,attraction
+541	8	USER	では、地区は特定しなくて結構です。	general,shopping,attraction
+541	9	SYSTEM	ありがとうございます。そういたしますと、仙台うみの杜水族館という場所はいかがでしょうか？エリアは、宮城野区となります。	general,shopping,attraction
+541	10	USER	よさそうですね。では、そちらの料金情報を教えてください。	general,shopping,attraction
+541	11	SYSTEM	かしこまりました。入館券は大人2,200円、シニア・中・高校生1,600円、小学生1,100円、幼児600円です。年間パスポートでしたら、大人4,400円、シニア・中・高校生3,200円、小学生2,200円、幼児1,200円となります。	general,shopping,attraction
+541	12	USER	情報ありがとうございました。	general,shopping,attraction

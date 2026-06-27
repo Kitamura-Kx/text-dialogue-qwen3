@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1534	0	USER	名古屋への旅行を考えているのですが、最寄り駅が大須観音駅で、駐車場を無料で利用できる買い物店はありますか？	general,shopping,restaurant,weather
+1534	1	SYSTEM	かしこまりました。でしたら、コメ兵 本館がございます。	general,shopping,restaurant,weather
+1534	2	USER	なるほど。その店のエリアはどこですか？	general,shopping,restaurant,weather
+1534	3	SYSTEM	エリアは中区でございます。	general,shopping,restaurant,weather
+1534	4	USER	わかりました。飲食店も探しているのですが、緑区でWi-Fiが無料で利用できて、値段が普通くらいの店はありますか？	general,shopping,restaurant,weather
+1534	5	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant,weather
+1534	6	USER	そうですか。であればWi-Fiはなくてもいいです。	general,shopping,restaurant,weather
+1534	7	SYSTEM	ではヴィレッジヴァンガードダイナー イオンモール大高店がございます。	general,shopping,restaurant,weather
+1534	8	USER	そこにします。電話番号を知りたいです。	general,shopping,restaurant,weather
+1534	9	SYSTEM	電話番号は0527465751でございます。	general,shopping,restaurant,weather
+1534	10	USER	わかりました。2人で6/4の12:10から予約をお願いできますか？	general,shopping,restaurant,weather
+1534	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は7145でございます。	general,shopping,restaurant,weather
+1534	12	USER	ありがとうございます。当日6/4の天白区の天気も教えてください。	general,shopping,restaurant,weather
+1534	13	SYSTEM	天気は曇でございます。	general,shopping,restaurant,weather
+1534	14	USER	わかりました。最高気温はわかりますか？	general,shopping,restaurant,weather
+1534	15	SYSTEM	最高気温は32.4度でございます。	general,shopping,restaurant,weather
+1534	16	USER	わかりました。ありがとうございます。	general,shopping,restaurant,weather
+1534	17	SYSTEM	ほかにご用件はございますか。	general,shopping,restaurant,weather
+1534	18	USER	いえ、もう大丈夫です。	general,shopping,restaurant,weather
+1534	19	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant,weather

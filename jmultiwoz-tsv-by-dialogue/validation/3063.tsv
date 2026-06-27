@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3063	0	USER	今度、仙台で美術館・博物館に行きたいと思います。無料の駐車場がある所はありますか？	general,attraction,shopping,weather
+3063	1	SYSTEM	宮城縣護国神社はいかがでしょうか。	general,attraction,shopping,weather
+3063	2	USER	ありがとうございます。ただ、Wi-Fiが無料の所が良いんですが、そちらはどうですか？	general,attraction,shopping,weather
+3063	3	SYSTEM	Wi-Fiが無料ですと、仙台市文学館がおすすめです。	general,attraction,shopping,weather
+3063	4	USER	そちらは、駐車場もWi-Fiも無料で間違いありませんか？そうでしたら、営業時間を教えてください。	general,attraction,shopping,weather
+3063	5	SYSTEM	はい、そうです。営業時間は09:00～17:00になります。	general,attraction,shopping,weather
+3063	6	USER	ありがとうございます。同じ日に青葉区で食料品の買いものをしたいのですが、無料駐車場があるお店を教えてください。	general,attraction,shopping,weather
+3063	7	SYSTEM	かしこまりました。お茶の井ヶ田 仙台中央本店はいかがでしょう。	general,attraction,shopping,weather
+3063	8	USER	行ってみます。こちらも営業時間を教えてもらえますか？	general,attraction,shopping,weather
+3063	9	SYSTEM	はい。営業時間は10:00～19:30です。	general,attraction,shopping,weather
+3063	10	USER	ありがとうございます。もう１つ、1月3日の宮城野区の最高気温と最低気温を教えてください。	general,attraction,shopping,weather
+3063	11	SYSTEM	かしこまりました。最高気温は4.2度、最低気温は-0.5度の予報です。	general,attraction,shopping,weather
+3063	12	USER	ありがとうございます。助かりました。それでは失礼します。	general,attraction,shopping,weather

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1300	0	USER	札幌へ行こうと思っています。駐車場が無料でアジア、エスニック料理が食べられる飲食店を探していただきたいです。	general,restaurant
+1300	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant
+1300	2	USER	ではジャンルを焼き肉、ホルモンに変更して探していただけますか？	general,restaurant
+1300	3	SYSTEM	札幌焼肉 赤いとうがらしは、いかがでしょうか？	general,restaurant
+1300	4	USER	そちらの営業時間、住所を教えていただけますでしょうか。	general,restaurant
+1300	5	SYSTEM	営業時間は、午後5時から午後11時までです。　住所は、北海道札幌市白石区栄通19丁目11-49 アカシアビル1階になります。	general,restaurant
+1300	6	USER	では、7月13日14時30分から3人で予約をお願いします。	general,restaurant
+1300	7	SYSTEM	予約出来ました。予約番号は、39062です。	general,restaurant
+1300	8	USER	わかりました。ありがとうございます。	general,restaurant
+1300	9	SYSTEM	他にご用件はございますか？	general,restaurant
+1300	10	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant

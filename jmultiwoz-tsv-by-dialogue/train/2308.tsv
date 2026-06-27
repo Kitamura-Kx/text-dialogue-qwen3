@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2308	0	USER	札幌の観光名所を教えてください。サンピアザ水族館って場所はありますか？	general,attraction,weather
+2308	1	SYSTEM	はい、サンピアザ水族館が1件見つかりました。	general,attraction,weather
+2308	2	USER	電話番号と住所もお願いできますか？	general,attraction,weather
+2308	3	SYSTEM	電話番号は、0118902455です。　住所は、北海道札幌市厚別区厚別中央2条5丁目7になります。	general,attraction,weather
+2308	4	USER	分かりました。豊平区の天気もお願いできますか？9/7の天気と最高気温を知りたいです。	general,attraction,weather
+2308	5	SYSTEM	当日の天気は、雨です。	general,attraction,weather
+2308	6	USER	最高気温はどうですか？	general,attraction,weather
+2308	7	SYSTEM	最高気温は、23度です。	general,attraction,weather
+2308	8	USER	ありがとうございます。	general,attraction,weather

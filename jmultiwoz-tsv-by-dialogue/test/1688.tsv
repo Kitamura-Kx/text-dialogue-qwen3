@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1688	0	USER	東京へ旅行に行きたく、飲食店を探しています。条件としては、江東区でジャンルは郷土料理がいいですね。あと、無料の駐車場が利用できれば嬉しいです。	general,restaurant,shopping
+1688	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,shopping
+1688	2	USER	では地区は考慮しないでもう一度探してほしいです。	general,restaurant,shopping
+1688	3	SYSTEM	では宮崎料理万作渋谷ヒカリエ店がございます。	general,restaurant,shopping
+1688	4	USER	そこの定休日、住所、最寄駅からの所要時間を教えてください。	general,restaurant,shopping
+1688	5	SYSTEM	定休日はございません。住所は東京都渋谷区渋谷2丁目21-1 ヒカリエ 6階で、渋谷駅から徒歩で3分でございます。	general,restaurant,shopping
+1688	6	USER	ありがとうございます。当日買い物をしたく、百貨店や総合スーパーを探しており、無料の駐車場が利用できるところでどこかありますか？	general,restaurant,shopping
+1688	7	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,shopping
+1688	8	USER	それでは、駐車場の有無は考慮しません。	general,restaurant,shopping
+1688	9	SYSTEM	ではコレド室町1がございます。	general,restaurant,shopping
+1688	10	USER	そこの最寄駅、エリア、定休日を知りたいです。	general,restaurant,shopping
+1688	11	SYSTEM	最寄り駅は三越前駅で、エリアは中央区でございます。定休日はございません。	general,restaurant,shopping
+1688	12	USER	ありがとうございます。以上です。	general,restaurant,shopping
+1688	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping

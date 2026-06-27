@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3303	0	USER	こんにちは。札幌に行くのですが、Wi-Fiが無料で使える、歴史的な散策エリアはありますか？	general,attraction
+3303	1	SYSTEM	札幌にWiFi無料の歴史的散策エリアはありません。	general,attraction
+3303	2	USER	ではジャンルは問わないので、観光名所を教えてください。	general,attraction
+3303	3	SYSTEM	札幌でWiFi無料の観光名所ならば、クラーク博士像、こちらがオススメです。	general,attraction
+3303	4	USER	ありがとうございます。そこの近辺の駅からの所要時間はわかりますか？	general,attraction
+3303	5	SYSTEM	福住駅からバスで10分、その他、札幌駅からバスで38分です。	general,attraction
+3303	6	USER	ありがとうございました。	general,attraction
+3303	7	SYSTEM	よい旅を	general,attraction

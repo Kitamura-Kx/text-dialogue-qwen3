@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+985	0	USER	横浜へ旅行に行きたく、駐車場とWi-Fiが無料で利用できる観光名所はありますか？	general,attraction
+985	1	SYSTEM	はい、2件ございます。たとえば、カップヌードルミュージアム 横浜はいかがでしょうか？	general,attraction
+985	2	USER	そこの子供の入場料を教えてください。	general,attraction
+985	3	SYSTEM	0円となっております。	general,attraction
+985	4	USER	ありがとうございます。こちらからは以上です。	general,attraction
+985	5	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,attraction

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1633	0	USER	札幌旅行を検討中なので、観光スポットを案内してもらえますか？	general,attraction,shopping,weather
+1633	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,shopping,weather
+1633	2	USER	ワークショップや体験ができるようなところに行きたいです。無料駐車場も完備しているところが良いですね。	general,attraction,shopping,weather
+1633	3	SYSTEM	では札幌オリンピックミュージアムはいかがでしょうか。	general,attraction,shopping,weather
+1633	4	USER	ありがとうございます。札幌オリンピックミュージアムの住所と、最寄り駅がどこかも知りたいです。	general,attraction,shopping,weather
+1633	5	SYSTEM	住所は北海道札幌市中央区宮の森1274で、最寄り駅は円山公園駅でございます。	general,attraction,shopping,weather
+1633	6	USER	分かりました。あとファッション関係のものを買い物に行きたいと考えています。ここも、駐車場が無料である所をお願いします。	general,attraction,shopping,weather
+1633	7	SYSTEM	では東急百貨店 さっぽろ店はいかがですか。	general,attraction,shopping,weather
+1633	8	USER	いいですね。東急百貨店 さっぽろ店のエリアはどちらになりますか？電話番号も教えてください。	general,attraction,shopping,weather
+1633	9	SYSTEM	エリアは中央区で、電話番号は0112122211でございます。	general,attraction,shopping,weather
+1633	10	USER	ありがとうございます。4/23に行く予定なのですが西区の天候について教えてください。この日の最高気温、最低気温はどのくらいでしょうか。	general,attraction,shopping,weather
+1633	11	SYSTEM	最低気温が2.4度で、最高気温は14.9度でございます。	general,attraction,shopping,weather
+1633	12	USER	ありがとうございます。	general,attraction,shopping,weather
+1633	13	SYSTEM	ほかにご用件はございますか。	general,attraction,shopping,weather
+1633	14	USER	これでお聞きしたいことは全てです、ありがとうございました。	general,attraction,shopping,weather
+1633	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,weather

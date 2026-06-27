@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4100	0	USER	那覇への旅行を計画しております。歴史的建造物が見れる観光名所を探してほしいです。また条件として無料のWi-Fi、駐車場が利用できるところでお願いします。	general,attraction
+4100	1	SYSTEM	お待たせ致しました。それでは国営沖縄記念公園がございます。	general,attraction
+4100	2	USER	そちらの住所と電話番号を教えてください。	general,attraction
+4100	3	SYSTEM	はい、住所は沖縄県那覇市首里金城町1丁目2でございまして、電話番号は0988862020です。	general,attraction
+4100	4	USER	ありがとうございます。問い合わせは以上です。	general,attraction
+4100	5	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction

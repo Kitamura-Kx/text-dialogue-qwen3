@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1695	0	USER	札幌へ旅行予定なのですが、厚別区で駐車場が無料な観光名所はありますか？	general,attraction,weather
+1695	1	SYSTEM	かしこまりました。では道立自然公園野幌森林公園はいかがでしょうか。	general,attraction,weather
+1695	2	USER	公園いいですね。住所を教えてください。	general,attraction,weather
+1695	3	SYSTEM	住所は北海道札幌市厚別区厚別町小野幌でございます。	general,attraction,weather
+1695	4	USER	わかりました。2/28の清田区の天候も調べてもらえます？	general,attraction,weather
+1695	5	SYSTEM	天気は晴、最低気温は-3.9度、最高気温 -2.5度でございます。	general,attraction,weather
+1695	6	USER	寒いですね。ありがとうございます。もう大丈夫です。	general,attraction,weather
+1695	7	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

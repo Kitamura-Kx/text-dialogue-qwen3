@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2945	0	USER	今度、横浜の西区で買い物をする予定です。無料駐車場がある所を教えてください。	general,shopping
+2945	1	SYSTEM	では、横浜タカシマヤはいかがでしょう？ジャンルは、百貨店や総合スーパーとなります。	general,shopping
+2945	2	USER	良さそうですね。近くの駅からどれくらいかかるか教えて下さい。	general,shopping
+2945	3	SYSTEM	はい、最寄りの横浜駅から徒歩で1分となります。	general,shopping
+2945	4	USER	近いですね。念のため、電話番号も教えて下さい。	general,shopping
+2945	5	SYSTEM	電話番号は0453115111となります。	general,shopping
+2945	6	USER	ありがとうございました。助かりました。それでは失礼します。	general,shopping

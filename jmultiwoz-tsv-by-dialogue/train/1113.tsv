@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1113	0	USER	福岡で中華料理が食べられるお店を探してください。値段は安めで、駐車場が無料で使えるところだと嬉しいです。	general,restaurant
+1113	1	SYSTEM	承知しました。エリアでいうと東区に、レストラン サラフルがございます。	general,restaurant
+1113	2	USER	そちらのお店にWi-Fiはありますか？	general,restaurant
+1113	3	SYSTEM	申し訳ありません、Wi-Fiの有無については不明です。	general,restaurant
+1113	4	USER	わかりました。どうもありがとうございました。	general,restaurant

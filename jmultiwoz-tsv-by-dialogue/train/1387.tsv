@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1387	0	USER	那覇へ旅行に行くのですが、当日訪れる観光名所を探してください	general,attraction,restaurant,taxi
+1387	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,restaurant,taxi
+1387	2	USER	最寄り駅が儀保駅で、地区は本庁でお願いします	general,attraction,restaurant,taxi
+1387	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,restaurant,taxi
+1387	4	USER	それでは最寄り駅が県庁前駅でも構いません。	general,attraction,restaurant,taxi
+1387	5	SYSTEM	ではパレットくもじはいかがでしょうか。	general,attraction,restaurant,taxi
+1387	6	USER	そこに行くので駐車場の有無と住所を教えてください	general,attraction,restaurant,taxi
+1387	7	SYSTEM	駐車場は有料ですがございます。住所は沖縄県那覇市久茂地1丁目1番1号でございます。	general,attraction,restaurant,taxi
+1387	8	USER	では次に当日食事ができる飲食店を探してください	general,attraction,restaurant,taxi
+1387	9	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,restaurant,taxi
+1387	10	USER	駐車場を無料で利用できるところで、予算は安めが希望です	general,attraction,restaurant,taxi
+1387	11	SYSTEM	ではカレーハウスCoCo壱番屋 那覇金城店がございます。	general,attraction,restaurant,taxi
+1387	12	USER	そこに行くので営業時間を教えてください	general,attraction,restaurant,taxi
+1387	13	SYSTEM	営業時間は11:00～23:00でございます。	general,attraction,restaurant,taxi
+1387	14	USER	そこの予約をお願いします	general,attraction,restaurant,taxi
+1387	15	SYSTEM	かしこまりました。では予約の詳細をお聞かせいただけますか。	general,attraction,restaurant,taxi
+1387	16	USER	人数は2人、日付は3/25、時間は15:50です	general,attraction,restaurant,taxi
+1387	17	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,attraction,restaurant,taxi
+1387	18	USER	では人数は1人でもいいです	general,attraction,restaurant,taxi
+1387	19	SYSTEM	その人数ですと予約が可能でございました。予約番号は84924でございます。	general,attraction,restaurant,taxi
+1387	20	USER	それではそちらでお願いします。あと当日利用できるタクシー会社を探してください。	general,attraction,restaurant,taxi
+1387	21	SYSTEM	沖縄第一交通株式会社がございます。こちらキャッシュレスにもジャンボタクシーにも対応しております。	general,attraction,restaurant,taxi
+1387	22	USER	ではそこの電話番号を教えてください	general,attraction,restaurant,taxi
+1387	23	SYSTEM	電話番号は0120780124でございます。	general,attraction,restaurant,taxi
+1387	24	USER	それではそこでタクシーの予約をお願いします。	general,attraction,restaurant,taxi
+1387	25	SYSTEM	かしこまりました。では予約の詳細をお聞かせいただけますか。	general,attraction,restaurant,taxi
+1387	26	USER	日付は3/25、時間は14:10、出発地はパレットくもじ、目的地はカレーハウスCoCo壱番屋 那覇金城店でお願いします。	general,attraction,restaurant,taxi
+1387	27	SYSTEM	はい。予約が完了いたしました。予約番号は8075でございます。	general,attraction,restaurant,taxi
+1387	28	USER	ありがとうございました。以上です。	general,attraction,restaurant,taxi
+1387	29	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,taxi

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+733	0	USER	那覇で駐車場が無料で使える食料品が買えるお店はありますか？	general,shopping,weather
+733	1	SYSTEM	はい、1件ございます。本庁エリアの、おきなわ屋 泡盛蔵 国際店というお店ですが、いかがでしょうか？	general,shopping,weather
+733	2	USER	ありがとうございます。そのお店の住所と電話番号を教えてもらえますか？	general,shopping,weather
+733	3	SYSTEM	住所は、沖縄県那覇市松尾2丁目8-5です。電話番号は、0988685252でございます。	general,shopping,weather
+733	4	USER	ありがとうございます。９月2日の真和志の最高気温と天気も教えてください。	general,shopping,weather
+733	5	SYSTEM	かしこまりました。当日の最高気温は、32.2度になる予想です。天気は、雨時々晴れの予報となっております。	general,shopping,weather
+733	6	USER	ありがとうございます。	general,shopping,weather
+733	7	SYSTEM	他にお調べすることはございますか？	general,shopping,weather
+733	8	USER	特にないです。ありがとうございました。	general,shopping,weather
+733	9	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,shopping,weather

@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+421	0	USER	大阪に旅行に行くので、当日泊まる宿泊施設を探してもらえますか？	general,hotel,attraction,weather
+421	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,attraction,weather
+421	2	USER	Wi-Fiが無料のところがうれしいです。	general,hotel,attraction,weather
+421	3	SYSTEM	ではホテルロイヤルクラシック大阪はいかがですか。	general,hotel,attraction,weather
+421	4	USER	そちらでお願いします。料金情報とチェックアウト終了時間を教えて頂けないでしょうか。	general,hotel,attraction,weather
+421	5	SYSTEM	値段帯は安めでございます。チェックアウト終了時刻は12:00でございます。	general,hotel,attraction,weather
+421	6	USER	エリアはどこになりますか？	general,hotel,attraction,weather
+421	7	SYSTEM	エリアは中央区でございます。	general,hotel,attraction,weather
+421	8	USER	ありがとうございます。ついでに観光名所も探してもらってもいいでしょうか？	general,hotel,attraction,weather
+421	9	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,attraction,weather
+421	10	USER	Wi-Fiが無料なところで、車で行くので駐車場無料だとありがたいのですが。	general,hotel,attraction,weather
+421	11	SYSTEM	鶴見緑地湯元 水春がございます。	general,hotel,attraction,weather
+421	12	USER	大人入場料っていくらですか？	general,hotel,attraction,weather
+421	13	SYSTEM	入場料は不明となっておりますが、詳しい料金情報といたしましては大人 (中学生以上)が平日だとご入浴 820円 、土日・祝でご入浴 920円 、平日の岩盤処で920円、土日・祝 では岩盤処 1,020円でございます。	general,hotel,attraction,weather
+421	14	USER	詳しくありがとうございます。電話番号と最寄り駅もお聞きしてもよろしいでしょうか。	general,hotel,attraction,weather
+421	15	SYSTEM	電話番号は0642571126でございます。最寄り駅は鶴見緑地駅でございます。	general,hotel,attraction,weather
+421	16	USER	ありがとうございます。8/10の淀川区の天気を知りたいです。	general,hotel,attraction,weather
+421	17	SYSTEM	天気は晴、最低気温は25.8度、最高気温 35.3度でございます。	general,hotel,attraction,weather
+421	18	USER	ありがとうございました。	general,hotel,attraction,weather

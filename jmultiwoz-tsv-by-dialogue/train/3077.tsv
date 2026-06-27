@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3077	0	USER	こんにちは。京都へ行くのですが、駐車場が無料で使える飲食店探してもらえますか？	general,restaurant,taxi
+3077	1	SYSTEM	かしこまりました。では、オールデイダイニング ラジョウはいかがでしょうか？	general,restaurant,taxi
+3077	2	USER	いいですね。エリアはどこになりますか？	general,restaurant,taxi
+3077	3	SYSTEM	はい。エリアは下京区になります。	general,restaurant,taxi
+3077	4	USER	ありがとうございます。あと、ジャンボタクシーが利用できるタクシー会社も探してもらえませんか？	general,restaurant,taxi
+3077	5	SYSTEM	かしこまりました。愛都交通株式会社はいかがでしょうか？	general,restaurant,taxi
+3077	6	USER	ありがとうございます。そこの電話番号はわかりますか？	general,restaurant,taxi
+3077	7	SYSTEM	はい。電話番号は0756460020です。	general,restaurant,taxi
+3077	8	USER	ありがとうございます。では、そのタクシー会社で、10/18の12:00、出発地はオールデイダイニング ラジョウ、目的地は天然温泉 花蛍の湯 ドーミーインPREMIUM京都駅前で、予約をお願いします。	general,restaurant,taxi
+3077	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、10410です。	general,restaurant,taxi
+3077	10	USER	ありがとうございます。	general,restaurant,taxi
+3077	11	SYSTEM	はい。こちらこそありがとうございました。	general,restaurant,taxi

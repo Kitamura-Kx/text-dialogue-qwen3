@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4257	0	USER	京都へ旅行したいと考えているのですが、観光名所を探しております。	general,attraction
+4257	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,attraction
+4257	2	USER	伏見区で、無料駐車場があるところが良いと考えております。	general,attraction
+4257	3	SYSTEM	そういたしますと、伏見稲荷大社はいかがでしょうか？稲荷駅から徒歩で1分の場所にあります。	general,attraction
+4257	4	USER	ありがとうございます。そこに行きたいと思います。最寄り駅は稲荷駅ということでよろしいでしょうか？	general,attraction
+4257	5	SYSTEM	はい、そうなります。また、伏見稲荷駅からも、歩いて5分ほどかかりますがアクセス可能です。	general,attraction
+4257	6	USER	ありがとうございます。お聞きしたい事は以上になります。丁寧にお教えいただきありがとうございました。	general,attraction
+4257	7	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,attraction

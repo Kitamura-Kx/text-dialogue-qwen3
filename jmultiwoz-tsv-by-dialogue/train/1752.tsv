@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1752	0	USER	札幌へ旅行するつもりなのですが、安めの旅館を探してもらえますか？駐車場が無料で利用できるところがいいです。	general,hotel,shopping,attraction
+1752	1	SYSTEM	札幌で安めの旅館、駐車場有といえば定山渓温泉 ぬくもりの宿 ふる川、この一択です。	general,hotel,shopping,attraction
+1752	2	USER	よさそうですね。最寄り駅を知りたいです。	general,hotel,shopping,attraction
+1752	3	SYSTEM	白石駅になります。	general,hotel,shopping,attraction
+1752	4	USER	わかりました。買い物できるところも探しているのですが、東区の百貨店や総合スーパーで、無料駐車場があるところはありませんか？	general,hotel,shopping,attraction
+1752	5	SYSTEM	全ての条件をみたす施設はなさそうです。	general,hotel,shopping,attraction
+1752	6	USER	わかりました。であれば百貨店や総合スーパーいがいでもかまいませんよ。	general,hotel,shopping,attraction
+1752	7	SYSTEM	東区で無料駐車場有ならば、トイザらス・ベビーザらス札幌店がおすすめです。	general,hotel,shopping,attraction
+1752	8	USER	わかりました。住所はわかります？	general,hotel,shopping,attraction
+1752	9	SYSTEM	北海道札幌市白石区北郷4条2丁目1-5になります。	general,hotel,shopping,attraction
+1752	10	USER	了解です。観光名所も教えてほしいのですが、駐車場とWi-Fiが無料で利用できるようなところはありますか？	general,hotel,shopping,attraction
+1752	11	SYSTEM	札幌で駐車場とWiFi無料の観光名所は４つほどありますが、クラーク博士像がとくにオススメです。	general,hotel,shopping,attraction
+1752	12	USER	そこよさそうですね。最寄り駅と住所を教えてください。あ、あとジャンルも知りたいです。	general,hotel,shopping,attraction
+1752	13	SYSTEM	福住駅が最寄りで、住所は北海道札幌市豊平区羊ヶ丘1、ジャンルは記念碑・像, 展望台・タワーですね。	general,hotel,shopping,attraction
+1752	14	USER	わかりました。ありがとうございます。	general,hotel,shopping,attraction
+1752	15	SYSTEM	他に希望はありますか？	general,hotel,shopping,attraction
+1752	16	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel,shopping,attraction
+1752	17	SYSTEM	お役に立てて光栄です	general,hotel,shopping,attraction

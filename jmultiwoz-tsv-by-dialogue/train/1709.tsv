@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1709	0	USER	東京へ旅行したいのですが、旅館でレストランが併設されている宿泊施設はありませんか？Wi-Fiが無料で利用できることが希望です。	general,hotel
+1709	1	SYSTEM	かしこまりました。ではONSEN RYOKAN 由縁 新宿はいかがでしょうか。	general,hotel
+1709	2	USER	そこにします。値段帯はどうですか？	general,hotel
+1709	3	SYSTEM	値段帯は安めでございます。	general,hotel
+1709	4	USER	わかりました。それでは9/16から2人で2泊の予約をよろしくお願いします。	general,hotel
+1709	5	SYSTEM	予約が完了いたしました。予約番号は80461でございます。	general,hotel
+1709	6	USER	ありがとうございました。もう大丈夫です。	general,hotel
+1709	7	SYSTEM	承知しました。ありがとうございました。	general,hotel

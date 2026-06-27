@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1816	0	USER	東京への旅行を計画中なのですが、江戸川区でWiFi無料の飲食店を教えて下さい。	general,restaurant
+1816	1	SYSTEM	かしこまりました。では、Taverna e Pizzeria Saluteはいかがでしょうか？	general,restaurant
+1816	2	USER	「Taverna e Pizzeria Salute」はどんなジャンルのお店ですか？	general,restaurant
+1816	3	SYSTEM	はい。ジャンルはイタリアン・フレンチになります。	general,restaurant
+1816	4	USER	わかりました、それでは「Taverna e Pizzeria Salute」に2/25の11:50から4名で予約をお願いします。	general,restaurant
+1816	5	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant
+1816	6	USER	3名で可能でしたら、3名で予約をお願いします。	general,restaurant
+1816	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、91783です。	general,restaurant
+1816	8	USER	助かりました他は大丈夫です、有難うございました。	general,restaurant
+1816	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

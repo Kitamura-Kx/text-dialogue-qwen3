@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1667	0	USER	横浜のビジネスホテルを探しているのですが、レストラン併設のところはありますか？	general,hotel,taxi,weather
+1667	1	SYSTEM	はい、１７件ほどございます。例えば、ベストウェスタン横浜というところがありますが、いかがでしょうか？	general,hotel,taxi,weather
+1667	2	USER	じゃあ、そこを予約したいです。5/14から３泊で４名です。	general,hotel,taxi,weather
+1667	3	SYSTEM	ご予約ありがとうございます。予約を完了いたしました。予約番号は、31859です。	general,hotel,taxi,weather
+1667	4	USER	ありがとうございます。あと、当日利用できるタクシー会社も探してください。キャッシュレス決済できるタクシーがいいです。	general,hotel,taxi,weather
+1667	5	SYSTEM	かしこまりました。では、国際自動車株式会社はいかがでしょうか？	general,hotel,taxi,weather
+1667	6	USER	そこはジャンボタクシーも対応されてますか？	general,hotel,taxi,weather
+1667	7	SYSTEM	はい、対応しております。	general,hotel,taxi,weather
+1667	8	USER	わかりました。電話番号をおしえてください。	general,hotel,taxi,weather
+1667	9	SYSTEM	電話番号は、0120385931でございます。	general,hotel,taxi,weather
+1667	10	USER	ありがとうございます。じゃあ予約もお願いします。5/14の15：00に牛たん うしすけ モザイクモール港北店というところからベストウェスタン横浜まで利用したいです。	general,hotel,taxi,weather
+1667	11	SYSTEM	申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,hotel,taxi,weather
+1667	12	USER	そうですか。じゃあ15：30だったら予約できますか？	general,hotel,taxi,weather
+1667	13	SYSTEM	ありがとうございます。１５時３０分にて、ご予約完了いたしました。予約番号は、73362です。	general,hotel,taxi,weather
+1667	14	USER	ありがとうございます。当日の緑区の天気と最高気温はわかりますか？	general,hotel,taxi,weather
+1667	15	SYSTEM	恐れ入ります。天気をお調べするお日にちを、もう一度お願いできますでしょうか？	general,hotel,taxi,weather
+1667	16	USER	すみません。5/14です。	general,hotel,taxi,weather
+1667	17	SYSTEM	ありがとうございます。５月１４日の天気は、曇り時々晴れの予報です。最高気温は19.6度になる予想となっております。	general,hotel,taxi,weather
+1667	18	USER	ありがとうございます。以上で大丈夫です。	general,hotel,taxi,weather
+1667	19	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,hotel,taxi,weather

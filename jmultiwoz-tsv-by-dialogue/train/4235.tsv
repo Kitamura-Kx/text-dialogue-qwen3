@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4235	0	USER	仙台旅行を計画しています。買い物できるところを探していますが、宮城野区に駐車場を無料で利用できるところはありますか？	general,shopping,hotel,taxi
+4235	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,hotel,taxi
+4235	2	USER	それでは、地区はどこでもいいです。	general,shopping,hotel,taxi
+4235	3	SYSTEM	ありがとうございます。では、エリアでいうと青葉区にある、錦ケ丘ヒルサイドモールはいかがでしょう？ジャンルは、ショッピングモールとなります。	general,shopping,hotel,taxi
+4235	4	USER	ありがとうございます。近くの駅からの所要時間と営業時間を教えてください。	general,shopping,hotel,taxi
+4235	5	SYSTEM	はい、営業時間は10時から19時、最寄りの愛子駅からタクシーで3分となります。	general,shopping,hotel,taxi
+4235	6	USER	ありがとうございます。宿泊施設も探していただきたいのですが、太白区で駐車場とWi-Fiが無料のところが希望です。	general,shopping,hotel,taxi
+4235	7	SYSTEM	では、奥州秋保温泉 蘭亭はいかがでしょう？タイプは、旅館となります。	general,shopping,hotel,taxi
+4235	8	USER	ありがとうございます。タクシー会社も探していただけますか。ジャンボタクシーがあるところがいいです。	general,shopping,hotel,taxi
+4235	9	SYSTEM	申し訳ありません、ジャンボタクシー対応のタクシー会社はございません。いかが致しましょう？	general,shopping,hotel,taxi
+4235	10	USER	それでは、ジャンボタクシーはなくても構いません。	general,shopping,hotel,taxi
+4235	11	SYSTEM	ありがとうございます。では、宮城タクシー（株）はいかがでしょう？キャッシュレスには対応しております。電話番号は、0222441181となります。	general,shopping,hotel,taxi
+4235	12	USER	ありがとうございます。では予約をお願いします。7/23、14:10で錦ケ丘ヒルサイドモールから奥州秋保温泉 蘭亭までです。	general,shopping,hotel,taxi
+4235	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、55732となります。	general,shopping,hotel,taxi
+4235	14	USER	お手数をおかけしました。	general,shopping,hotel,taxi

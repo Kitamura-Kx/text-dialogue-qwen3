@@ -1,0 +1,33 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2093	0	USER	横浜への旅行を検討しています。当日の行く観光名所を探しているのですが、お伺いしてもよろしいでしょうか？	general,attraction,hotel,restaurant
+2093	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction,hotel,restaurant
+2093	2	USER	はい、緑区の駐車場が無料で利用できる場所ってありますか？	general,attraction,hotel,restaurant
+2093	3	SYSTEM	かしこまりました。では、県立 四季の森公園はいかがでしょうか？	general,attraction,hotel,restaurant
+2093	4	USER	ありがとうございます。そちらの大人の入場料をお伺いしてもよろしいでしょうか？	general,attraction,hotel,restaurant
+2093	5	SYSTEM	はい。大人入場料は無料となっております。	general,attraction,hotel,restaurant
+2093	6	USER	ありがとうございます。当日の宿泊先も探しているのですが、ご案内をお願いしてもよろしいでしょうか？	general,attraction,hotel,restaurant
+2093	7	SYSTEM	はい。ご案内させていただきます。	general,attraction,hotel,restaurant
+2093	8	USER	ありがとうございます。レストランが併設されているホテルを探しているのですが。	general,attraction,hotel,restaurant
+2093	9	SYSTEM	かしこまりました。では、横浜みなとみらい 万葉倶楽部はいかがでしょうか？	general,attraction,hotel,restaurant
+2093	10	USER	ありがとうございます。追加で申し訳ないのですが、そちらは無料のWi-Fiと駐車場には対応していますでしょうか？	general,attraction,hotel,restaurant
+2093	11	SYSTEM	Wi-Fiは無料のものがございます。駐車場は有料ではありますが、ございます。	general,attraction,hotel,restaurant
+2093	12	USER	すみません。無料の駐車場も条件に加えて探して頂ければと思います。	general,attraction,hotel,restaurant
+2093	13	SYSTEM	かしこまりました。では、旅館 松島はいかがでしょうか？	general,attraction,hotel,restaurant
+2093	14	USER	助かります。そちらの施設の駅からの所要時間とエリアをお伺いしてもよろしいでしょうか？	general,attraction,hotel,restaurant
+2093	15	SYSTEM	蒔田駅から徒歩で3分です。エリアは南区になります。	general,attraction,hotel,restaurant
+2093	16	USER	ありがとうございます。このままここを予約したいのですが、大丈夫でしょうか？	general,attraction,hotel,restaurant
+2093	17	SYSTEM	はい。詳細な情報をお伺いしていいですか？	general,attraction,hotel,restaurant
+2093	18	USER	お願いします。1月1日で4泊。人数は4人になります。	general,attraction,hotel,restaurant
+2093	19	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,attraction,hotel,restaurant
+2093	20	USER	では、人数を3人に変更したいのですが、よろしいでしょうか？	general,attraction,hotel,restaurant
+2093	21	SYSTEM	かしこまりました。ご予約承りました。予約番号は、55590です。	general,attraction,hotel,restaurant
+2093	22	USER	ありがとうございます。最後に、当日利用できる飲食店も探しているのですが、よろしいでしょうか？	general,attraction,hotel,restaurant
+2093	23	SYSTEM	はい。ご案内させていただきます。	general,attraction,hotel,restaurant
+2093	24	USER	店名がパブリック ビアハウス ティキティキ 横浜店と言うらしいのですが、こちらのお店の営業時間はわかりますか？	general,attraction,hotel,restaurant
+2093	25	SYSTEM	はい。営業時間は16:00～23:00となっています。	general,attraction,hotel,restaurant
+2093	26	USER	ありがとうございます。このお店をこのまま予約したいのですが、大丈夫でしょうか？	general,attraction,hotel,restaurant
+2093	27	SYSTEM	はい。詳細な情報をお伺いしていいですか？	general,attraction,hotel,restaurant
+2093	28	USER	はい。1月1日の15時20分で、人数は3人でお願いしたいです。	general,attraction,hotel,restaurant
+2093	29	SYSTEM	かしこまりました。ご予約承りました。予約番号は、68087です。	general,attraction,hotel,restaurant
+2093	30	USER	ありがとうございます。これで当日は大丈夫そうです。ありがとうございました。	general,attraction,hotel,restaurant
+2093	31	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel,restaurant

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3846	0	USER	横浜での観光名所を探しています。駐車場とwifiが無料で使えるおすすめはありませんか？	general,attraction,taxi,weather
+3846	1	SYSTEM	横浜で駐車場とWiFiが無料の観光名所なら、三溪園、こちらをお勧めします。	general,attraction,taxi,weather
+3846	2	USER	そこは、定休日はありますか？	general,attraction,taxi,weather
+3846	3	SYSTEM	12/29～31までが定休日です。	general,attraction,taxi,weather
+3846	4	USER	当日、タクシーを使いたいのですが、キャッシュレス対応しているタクシー会社はありますか？	general,attraction,taxi,weather
+3846	5	SYSTEM	富士見交通株式会社、こちらはいかがでしょうか	general,attraction,taxi,weather
+3846	6	USER	出来ればジャンボタクシーを使いたいのですが、可能ですか？	general,attraction,taxi,weather
+3846	7	SYSTEM	ジャンボタクシーは非対応です。横浜ではキャッシュレスとジャンボタクシー両方に対応しているタクシー会社はありません。	general,attraction,taxi,weather
+3846	8	USER	わかりました。先程のタクシー会社の電話番号ってわかりますか？	general,attraction,taxi,weather
+3846	9	SYSTEM	0120411190です	general,attraction,taxi,weather
+3846	10	USER	では、予約をお願いします。１１月１０日の９時５０分で、三溪園発、みなとみらい東急スクエア着でお願いします。	general,attraction,taxi,weather
+3846	11	SYSTEM	予約成功しました。予約番号は9015です。	general,attraction,taxi,weather
+3846	12	USER	ところで、１１月１０日の鶴見区の天気情報はわかりますか・	general,attraction,taxi,weather
+3846	13	SYSTEM	11/10 横浜 鶴見区 の天気は晴、最低気温7.1度、最高気温14.3度です。	general,attraction,taxi,weather
+3846	14	USER	ありがとうございました。	general,attraction,taxi,weather

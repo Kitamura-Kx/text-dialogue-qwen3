@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+844	0	USER	横浜の観光名所を探したいのですが、川崎駅近くに記念碑や像はありますか？	general,attraction,restaurant
+844	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,restaurant
+844	2	USER	なければ記念碑などでなくても良いです。	general,attraction,restaurant
+844	3	SYSTEM	ありがとうございます。そういたしますと、2件ほどご案内可能です。たとえば、ヨコヤマ ユーランド鶴見というところはいかがでしょうか？	general,attraction,restaurant
+844	4	USER	楽しそうですね。そちらには駐車場がありますか？	general,attraction,restaurant
+844	5	SYSTEM	はい。無料駐車場をご利用いただけます。	general,attraction,restaurant
+844	6	USER	あと、近隣の駅からどれくらい時間がかかりますか？	general,attraction,restaurant
+844	7	SYSTEM	最寄りの川崎駅からバスで12分、鶴見駅からもバスで13分ほどかかります。	general,attraction,restaurant
+844	8	USER	わかりました。あと飲食店を探して欲しいのですが、安めのお店でWi-Fiが無料で使えるところが嬉しいです。	general,attraction,restaurant
+844	9	SYSTEM	かしこまりました。そうしますと、4件ほど候補がございます。たとえば、西区エリアに、世界のビール博物館 横浜店というお店がございますが、いかがでしょうか？	general,attraction,restaurant
+844	10	USER	いいですね。そちらのお店は、定休日がありますか？	general,attraction,restaurant
+844	11	SYSTEM	定休日は、不定休となっております。	general,attraction,restaurant
+844	12	USER	わかりました。ではそちらのお店の予約をお願いします。9/15の13時。３名でお願いします。	general,attraction,restaurant
+844	13	SYSTEM	申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,attraction,restaurant
+844	14	USER	では、２名ではいかがでしょうか？	general,attraction,restaurant
+844	15	SYSTEM	ありがとうございます。2名様でご予約が完了いたしました。予約番号は、65134です。	general,attraction,restaurant
+844	16	USER	ありがとうございます。今回お願いしたいことは以上です。	general,attraction,restaurant
+844	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,restaurant

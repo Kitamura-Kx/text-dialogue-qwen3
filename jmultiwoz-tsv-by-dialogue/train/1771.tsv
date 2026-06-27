@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1771	0	USER	こんにちは。横浜へ旅行しますので、宿泊施設を探しています。Wi-Fiが無料の所を調べていただけますか？	general,hotel,restaurant
+1771	1	SYSTEM	他にご希望はございますか？	general,hotel,restaurant
+1771	2	USER	特にありませんので、Wi-Fiが無料であれば大丈夫です。	general,hotel,restaurant
+1771	3	SYSTEM	では、エリアでいうと鶴見区にある、ホテルテトラ鶴見はいかがでしょう？タイプはビジネスホテルとなります。	general,hotel,restaurant
+1771	4	USER	ありがとうございます。そこにしたいと思います。チェックイン開始は何時ですか？	general,hotel,restaurant
+1771	5	SYSTEM	チェックイン開始時刻は15時となります。	general,hotel,restaurant
+1771	6	USER	ありがとうございます。そちらを予約お願いします。1/19から4泊で、4名です。	general,hotel,restaurant
+1771	7	SYSTEM	申し訳ありません。この条件では予約ができませんでした。いかが致しましょう？	general,hotel,restaurant
+1771	8	USER	そうなんですね。では3泊だと取れそうですか？	general,hotel,restaurant
+1771	9	SYSTEM	予約が可能になりまして、ご予約番号は、36286となります。	general,hotel,restaurant
+1771	10	USER	ありがとうございます。それと、飲食店も探していて、予算高めでいいので、駐車場が無料のところを探していただけますか？	general,hotel,restaurant
+1771	11	SYSTEM	エリアでいうと青葉区に1件、うなぎ料理 しま村 青葉台店がございます。ジャンルは、寿司、魚料理、和食、となります。	general,hotel,restaurant
+1771	12	USER	よさそうですね、料金情報はありますでしょうか？	general,hotel,restaurant
+1771	13	SYSTEM	料金情報としては、鰻釜(竹)が4180円、お重(竹)が3630円、となります。	general,hotel,restaurant
+1771	14	USER	ありがとうございます。そこへ行ってみます。お調べいただいてありがとうございました。	general,hotel,restaurant
+1771	15	SYSTEM	ありがとうございました。	general,hotel,restaurant

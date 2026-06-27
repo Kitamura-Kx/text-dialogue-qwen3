@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+768	0	USER	横浜へ行こうと思っています。西区にあってWiFiが無料で利用できる観光名所を探していただきたいです。	general,attraction,weather
+768	1	SYSTEM	かしこまりました。3件ほどご案内可能です。例えば、日本丸メモリアルパークという場所はいかがでしょうか？	general,attraction,weather
+768	2	USER	そちらの近辺の駅からの所要時間とジャンルを教えていただけますでしょうか。	general,attraction,weather
+768	3	SYSTEM	最寄りの桜木町駅から徒歩で5分、みなとみらい駅から徒歩で5分、馬車道駅から徒歩で5分の距離にございます。ジャンルは、美術館・博物館, アートギャラリー、となっております。	general,attraction,weather
+768	4	USER	わかりました。ありがとうございます。	general,attraction,weather
+768	5	SYSTEM	他にお調べすることはございますか？	general,attraction,weather
+768	6	USER	11月20日旭区の天候を調べていただきたいです。	general,attraction,weather
+768	7	SYSTEM	かしこまりました。当日の天気は、雨時々晴れの予報です。最高気温は16.3度で、最低気温は7.9度の予想となっております。	general,attraction,weather
+768	8	USER	申し訳ありません。12月20日でもう一度調べていただきたいです。	general,attraction,weather
+768	9	SYSTEM	かしこまりました。12/20の旭区の天気は、晴れのち曇りの予報です。最高気温は10度、最低気温は7.5度の見込みでございます。	general,attraction,weather
+768	10	USER	わかりました。ありがとうございます。	general,attraction,weather
+768	11	SYSTEM	ほかにお手伝いできることはございませんか？	general,attraction,weather
+768	12	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,weather
+768	13	SYSTEM	では、またのご利用をお待ちしております。	general,attraction,weather

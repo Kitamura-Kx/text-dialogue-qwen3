@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4157	0	USER	こんにちは！福岡旅行を計画しているんですが、ジャンボタクシーを使えるタクシー会社はありますか？	general,taxi
+4157	1	SYSTEM	はい、（株）第一交通はいかがでしょう？キャッシュレスにも対応しております。電話番号は0924816400となります。	general,taxi
+4157	2	USER	ありがとうございます。そこで予約をお願いしたいです。10月14日の13時30分に、Hotel Mei Fukuoka Tenjinを出発してニクゼン 大名店までお願いします。	general,taxi
+4157	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、68707となります。	general,taxi
+4157	4	USER	ありがとうございます！	general,taxi

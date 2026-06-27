@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1133	0	USER	京都へ旅行に行く予定です。左京区で飲食店を教えて下さい、料金は普通でお願いします。	general,restaurant,attraction,taxi
+1133	1	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,restaurant,attraction,taxi
+1133	2	USER	それでは、予算は高めでお願いします。	general,restaurant,attraction,taxi
+1133	3	SYSTEM	ありがとうございます。下鴨茶寮 本店、貴船 喜らくの2件ございます。何かご案内致しましょうか？	general,restaurant,attraction,taxi
+1133	4	USER	下鴨茶本店の駐車場の有無、最寄駅からの所要時間をお願いします。	general,restaurant,attraction,taxi
+1133	5	SYSTEM	はい、駐車場は無料でご利用いただけます。最寄りの今出川駅からはタクシーで5分となります。他にご案内できることはございますか？	general,restaurant,attraction,taxi
+1133	6	USER	それでは予約をお願いします。6/24の13:40から4名でお願いします	general,restaurant,attraction,taxi
+1133	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、37615となります。他にご用件はございますか？	general,restaurant,attraction,taxi
+1133	8	USER	伏見区で観光もしたいのですが、駐車場とWi-Fiが無料で利用できる観光名所はありますか？	general,restaurant,attraction,taxi
+1133	9	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,restaurant,attraction,taxi
+1133	10	USER	それではWi-Fiは無くても良いです	general,restaurant,attraction,taxi
+1133	11	SYSTEM	ありがとうございます。では、1件、伏見稲荷大社がございます。何かご案内致しましょうか？	general,restaurant,attraction,taxi
+1133	12	USER	最寄駅からの所要時間も教えてもらえますか	general,restaurant,attraction,taxi
+1133	13	SYSTEM	はい、最寄りの稲荷駅から徒歩で1分となります。他に必要なご案内はございますか？	general,restaurant,attraction,taxi
+1133	14	USER	当日はジャンボタクシーも利用したいのですが、キャッシュレス対応の会社はありますか？	general,restaurant,attraction,taxi
+1133	15	SYSTEM	申し訳ありません。その条件のタクシー会社はございません。いかが致しましょう？	general,restaurant,attraction,taxi
+1133	16	USER	それでは、キャッシュレスはこだわりません。	general,restaurant,attraction,taxi
+1133	17	SYSTEM	ありがとうございます。では、比叡タクシー株式会社はいかがでしょう？電話番号は、0755010050となります。	general,restaurant,attraction,taxi
+1133	18	USER	わかりました、予約もお願いします。6/24の15:00に「下鴨茶本店」から「伏見稲荷大社」までお願いします。	general,restaurant,attraction,taxi
+1133	19	SYSTEM	承知しました。予約が完了し、ご予約番号は、33395となります。他にご用件はございますか？	general,restaurant,attraction,taxi
+1133	20	USER	いえ大丈夫です、有難うございました。	general,restaurant,attraction,taxi
+1133	21	SYSTEM	ありがとうございました。	general,restaurant,attraction,taxi

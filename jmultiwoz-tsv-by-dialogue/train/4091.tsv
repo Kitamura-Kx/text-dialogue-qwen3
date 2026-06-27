@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4091	0	USER	東京への旅行を計画中で、港区にある観光名所を探しています。無料Wi-fi付きがいいです。	general,attraction,shopping,restaurant
+4091	1	SYSTEM	東京港区に無料WiFiのある観光名所はなさそうです。	general,attraction,shopping,restaurant
+4091	2	USER	分かりました。では、Wi-fiは無くても構いません。	general,attraction,shopping,restaurant
+4091	3	SYSTEM	港区の観光名所といえばいくつかありますが、定番といえば、東京タワー、こちらでしょう。	general,attraction,shopping,restaurant
+4091	4	USER	そこにしようと思います。定休日と営業時間、電話番号を教えてください。	general,attraction,shopping,restaurant
+4091	5	SYSTEM	定休日はなし、朝９時から夜１１時までの営業、電話番号は0334335111です。	general,attraction,shopping,restaurant
+4091	6	USER	ありがとうございます。当日新宿御苑駅で買い物ができる場所を探しています。無料駐車場付きがいいです。	general,attraction,shopping,restaurant
+4091	7	SYSTEM	新宿御苑駅で無料駐車場のある買い物スポットはなさそうです。	general,attraction,shopping,restaurant
+4091	8	USER	分かりました。では、最寄り駅はどこでも構いません。	general,attraction,shopping,restaurant
+4091	9	SYSTEM	東京で無料駐車場のある買い物スポットはいくつかありますが、アクアシティお台場、こちらをお勧めします。	general,attraction,shopping,restaurant
+4091	10	USER	そこにしようと思います。住所と電話番号、ジャンルを教えてください。	general,attraction,shopping,restaurant
+4091	11	SYSTEM	東京都港区台場1丁目7-1、電話は0335994700、ジャンルはショッピングモールになります。	general,attraction,shopping,restaurant
+4091	12	USER	ありがとうございます。当日目黒区にある飲食店を探しています。無料Wi-fi付きがいいです。	general,attraction,shopping,restaurant
+4091	13	SYSTEM	目黒区で無料WiFiのある飲食店といえば、みんちや by Salir、こちらになります。	general,attraction,shopping,restaurant
+4091	14	USER	そこにしようと思います。住所と定休日、最寄駅からの所要時間を教えてください。	general,attraction,shopping,restaurant
+4091	15	SYSTEM	東京都目黒区自由が丘２丁目14-19 1階、定休日はなし、自由が丘駅から徒歩で3分になります。	general,attraction,shopping,restaurant
+4091	16	USER	ありがとうございます。10/11の13:50に2名で予約して欲しいのですが、可能でしょうか。	general,attraction,shopping,restaurant
+4091	17	SYSTEM	予約成功しました。予約番号は48763です。	general,attraction,shopping,restaurant
+4091	18	USER	助かりました。ありがとうございました。	general,attraction,shopping,restaurant

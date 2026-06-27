@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1120	0	USER	京都の観光名所を教えてください。五条駅の近くだと助かります。	general,attraction
+1120	1	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しますか？	general,attraction
+1120	2	USER	そうですか。では、京都駅の近くだったらありますか？	general,attraction
+1120	3	SYSTEM	はい、エリアでいうと南区にある、龍谷大学響都ホール校友会館はいかがでしょう？ジャンルは、コンサート、ショー、となります。	general,attraction
+1120	4	USER	ありがとうございます。では、龍谷大学響都ホール校友会館の大人の入場料と料金情報を教えて欲しいです。	general,attraction
+1120	5	SYSTEM	承知しました。大人入場料は不明となっており、料金情報としては、企画により異なる、となっております。	general,attraction
+1120	6	USER	なるほど、参考にします。ありがとうございました。では、失礼します。	general,attraction

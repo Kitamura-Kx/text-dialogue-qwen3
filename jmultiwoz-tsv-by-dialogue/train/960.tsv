@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+960	0	USER	福岡で旅行を考えてるんですけど、西区の観光名所を教えてください。最寄り駅は福大前駅がいいです。	general,attraction,hotel
+960	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,hotel
+960	2	USER	仕方ないですね。最寄り駅にはこだわらないので、西区の観光名所を調べてください。	general,attraction,hotel
+960	3	SYSTEM	では小戸公園はいかがでしょうか。	general,attraction,hotel
+960	4	USER	いいですね。そちらの住所と大人の入場料、営業時間も教えて頂けますか？	general,attraction,hotel
+960	5	SYSTEM	住所は福岡県福岡市西区小戸2丁目6-1でございます。大人の入場料は無料で、営業時間が00:00～00:00でございます。	general,attraction,hotel
+960	6	USER	分かりました。ついでにホテルも探して欲しいんですが。千代県庁口駅近くで、普通ぐらいの料金のホテルはありますか？	general,attraction,hotel
+960	7	SYSTEM	申し訳ございません。その条件ですと案内できるところがございませんでした。	general,attraction,hotel
+960	8	USER	そうですか。では料金にはこだわらないので、千代県庁口駅近くのホテルを探してください。	general,attraction,hotel
+960	9	SYSTEM	ではTRIP POD CHIYO Aがございます。	general,attraction,hotel
+960	10	USER	ありがとうございます。住所と電話番号も教えてください。	general,attraction,hotel
+960	11	SYSTEM	住所は福岡県福岡市博多区千代1丁目23-47で、電話番号は05031886990でございます。	general,attraction,hotel
+960	12	USER	分かりました。ありがとうございます。	general,attraction,hotel

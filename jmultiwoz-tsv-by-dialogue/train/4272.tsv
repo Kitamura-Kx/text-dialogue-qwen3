@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4272	0	USER	名古屋に行くので、買い物ができるところを探しています。中区で探してください。	general,shopping
+4272	1	SYSTEM	承知しました。他にご希望はございますか？	general,shopping
+4272	2	USER	そうですね、無料の駐車場があって、最寄り駅が大須観音駅の所が良いです。	general,shopping
+4272	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping
+4272	4	USER	じゃあ、駐車場はなくていいです。	general,shopping
+4272	5	SYSTEM	では、大須商店街はいかがでしょう？ジャンルは、商店街となります。	general,shopping
+4272	6	USER	そこに行ってみたいと思います。駅からのアクセスと、営業時間を教えてください。	general,shopping
+4272	7	SYSTEM	はい、最寄りの大須観音駅から徒歩で2分となります。営業時間は店舗により異なります。	general,shopping
+4272	8	USER	わかりました。ありがとうございます。	general,shopping
+4272	9	SYSTEM	ありがとうございました。	general,shopping

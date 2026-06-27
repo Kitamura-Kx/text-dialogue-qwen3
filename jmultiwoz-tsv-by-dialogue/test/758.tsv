@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+758	0	USER	名古屋への旅行を考えていて、当日タクシーを利用予定なのですが、タクシー会社を探してもらえますか？	general,taxi
+758	1	SYSTEM	かしこまりました。20件ほどご案内可能です。キャッシュレス対応など、ご希望の条件はございませんか？	general,taxi
+758	2	USER	はい。ジャンボタクシーを利用できて、キャッシュレス対応のところでお願いします。	general,taxi
+758	3	SYSTEM	かしこまりました。では、楠交通は如何でしょうか？	general,taxi
+758	4	USER	そこにします。電話番号を教えてください。	general,taxi
+758	5	SYSTEM	電話番号は、0522412233でございます。	general,taxi
+758	6	USER	ありがとうございます。予約もお願いできますか？	general,taxi
+758	7	SYSTEM	はい、かしこまりました。ご利用予定の日付と出発時刻、出発地、目的地はお決まりでしょうか？	general,taxi
+758	8	USER	はい。6月8日の9時40分で、ミッドランドスクエアから第二富士ホテル名古屋までおねがいします。	general,taxi
+758	9	SYSTEM	予約を完了いたしました。ご予約番号は、3176です。	general,taxi
+758	10	USER	ありがとうございます。	general,taxi
+758	11	SYSTEM	ほかに、なにかお調べすることはございませんか？	general,taxi
+758	12	USER	はい、大丈夫です。	general,taxi
+758	13	SYSTEM	承知しました。では、またのご利用をお待ちしております。	general,taxi

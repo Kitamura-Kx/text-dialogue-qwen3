@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1453	0	USER	東京へ旅行に行くんですが、買い物ができるところを探してください。	general,shopping,restaurant,weather
+1453	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant,weather
+1453	2	USER	世田谷区で、無料駐車場のところでお願いします。	general,shopping,restaurant,weather
+1453	3	SYSTEM	では二子玉川 蔦屋家電がございます。	general,shopping,restaurant,weather
+1453	4	USER	ありがとうございます。ジャンルは分かりますか？	general,shopping,restaurant,weather
+1453	5	SYSTEM	家電・電化製品, 書籍でございます。	general,shopping,restaurant,weather
+1453	6	USER	なるほどです！飲食店も探してほしいです！	general,shopping,restaurant,weather
+1453	7	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant,weather
+1453	8	USER	予算は普通で、駐車場が無料のところでお願いします！	general,shopping,restaurant,weather
+1453	9	SYSTEM	では醍醐 お台場店はいかがでしょうか。	general,shopping,restaurant,weather
+1453	10	USER	いいですね！定休日はありますか？	general,shopping,restaurant,weather
+1453	11	SYSTEM	定休日はございません。	general,shopping,restaurant,weather
+1453	12	USER	ではそちらで予約をお願いします。12/6の11時に4人で行きたいです！	general,shopping,restaurant,weather
+1453	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は85135でございます。	general,shopping,restaurant,weather
+1453	14	USER	ありがとうございます。あと、12/6の北区の天気を教えてください。	general,shopping,restaurant,weather
+1453	15	SYSTEM	天気は曇時々晴でございます。	general,shopping,restaurant,weather
+1453	16	USER	最低気温は分かりますか？	general,shopping,restaurant,weather
+1453	17	SYSTEM	最低気温は1.2度となっております。	general,shopping,restaurant,weather
+1453	18	USER	ありがとうございます。助かりました！	general,shopping,restaurant,weather
+1453	19	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant,weather

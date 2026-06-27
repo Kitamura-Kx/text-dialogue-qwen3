@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+279	0	USER	名古屋へ旅行へいくため、飲食店を探しています。	general,restaurant,hotel,taxi
+279	1	SYSTEM	名古屋の飲食店ですね。なにかご希望の条件などは、ございますか？	general,restaurant,hotel,taxi
+279	2	USER	最寄り駅が栄駅になるエリアがいいのですが、どこかいいお店はありますか？	general,restaurant,hotel,taxi
+279	3	SYSTEM	そうしますと、金沢まいもん寿司 梅鉢亭というお店はいかがでしょうか？栄駅から徒歩で3分の距離にございます。	general,restaurant,hotel,taxi
+279	4	USER	そこにしようと思うので、電話番号と住所を教えてください。	general,restaurant,hotel,taxi
+279	5	SYSTEM	電話番号は、0522596757です。住所は、愛知県名古屋市中区栄3丁目6-1 ラシック8Fとなります。	general,restaurant,hotel,taxi
+279	6	USER	ありがとうございます。あと宿泊施設も探してもらえますか？	general,restaurant,hotel,taxi
+279	7	SYSTEM	かしこまりました。名古屋では100件ほど宿泊施設をご案内可能です。	general,restaurant,hotel,taxi
+279	8	USER	駐車場が無料で利用できて、Wi-Fiも無料で使えるところがいいのですが、どこかいいところはありますか？	general,restaurant,hotel,taxi
+279	9	SYSTEM	では、アイリス愛知は、いかがでしょうか？お値段はお安めのシティホテルとなっております。	general,restaurant,hotel,taxi
+279	10	USER	そこにしようと思うので、電話番号を教えてください。	general,restaurant,hotel,taxi
+279	11	SYSTEM	電話番号は、0522233751でございます。	general,restaurant,hotel,taxi
+279	12	USER	1/2から4泊で、３名での予約もお願いできますか？	general,restaurant,hotel,taxi
+279	13	SYSTEM	かしこまりました。予約番号84360で、承りました。	general,restaurant,hotel,taxi
+279	14	USER	ありがとうございます。あとキャッシュレス払い対応のジャンボタクシーを利用できるタクシー会社も探してもらえますか？	general,restaurant,hotel,taxi
+279	15	SYSTEM	かしこまりました。帝産キャブ名古屋はいかがでしょうか？	general,restaurant,hotel,taxi
+279	16	USER	そこにしようと思います。電話番号を教えてください。	general,restaurant,hotel,taxi
+279	17	SYSTEM	電話番号は、0529141115でございます。	general,restaurant,hotel,taxi
+279	18	USER	1/2の15:20に金沢まいもん寿司 梅鉢亭からアイリス愛知まで予約をお願いします。	general,restaurant,hotel,taxi
+279	19	SYSTEM	予約完了いたしました。ご予約番号は、45235です。	general,restaurant,hotel,taxi
+279	20	USER	ありがとうございます。	general,restaurant,hotel,taxi
+279	21	SYSTEM	ほかにお手伝いできることはありますか？	general,restaurant,hotel,taxi
+279	22	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant,hotel,taxi
+279	23	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,restaurant,hotel,taxi

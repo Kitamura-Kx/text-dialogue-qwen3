@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3046	0	USER	横浜に行くのですが、レストランが併設されている宿泊施設を探しています。	general,hotel
+3046	1	SYSTEM	他に条件はございますか	general,hotel
+3046	2	USER	Wi-Fiが無料で普通の予算の所がいいのですが、ありませんか？	general,hotel
+3046	3	SYSTEM	申し訳ございません。調べなおしましたところ、横浜みなとみらい 万葉倶楽部が条件を満たしておりました。いかがいたしましょうか。	general,hotel
+3046	4	USER	そこのエリアはどこになりますか？	general,hotel
+3046	5	SYSTEM	はい。エリアは中区です。	general,hotel
+3046	6	USER	近辺の駅からの所要時間も知りたいです。	general,hotel
+3046	7	SYSTEM	はい。みなとみらい駅から徒歩で5分となります。	general,hotel
+3046	8	USER	助かりました。	general,hotel
+3046	9	SYSTEM	いえいえ。他にご用件はございませんか？	general,hotel
+3046	10	USER	特にないです。ありがとうございました。	general,hotel
+3046	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

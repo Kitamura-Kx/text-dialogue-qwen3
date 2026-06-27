@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3467	0	USER	福岡に旅行に行こうと思っているのですが、いい観光名所はありますか。	general,attraction,taxi,weather
+3467	1	SYSTEM	かしこまりました。その条件ですと48件ほど該当名所がありますが、何かご希望などありますか？	general,attraction,taxi,weather
+3467	2	USER	最寄り駅は竹下駅でお願いしたいです。	general,attraction,taxi,weather
+3467	3	SYSTEM	かしこまりました。福太郎本社(めんたい工場)はいかがでしょうか？	general,attraction,taxi,weather
+3467	4	USER	そこにします。駅からの所要時間と住所を教えてください。	general,attraction,taxi,weather
+3467	5	SYSTEM	ありがとうございます。竹下駅から徒歩で8分、住所は福岡県福岡市南区五十川1丁目1-1でございます。	general,attraction,taxi,weather
+3467	6	USER	ありがとうございます。当日はキャッシュレス払いのできるタクシーを利用したいです。	general,attraction,taxi,weather
+3467	7	SYSTEM	かしこまりました。それではラッキー自動車（株）はいかがでしょうか？	general,attraction,taxi,weather
+3467	8	USER	そこで予約します。日付は6月30日で時間は14:30です。福太郎本社からアメニティホテルin博多でお願いします。	general,attraction,taxi,weather
+3467	9	SYSTEM	ありがとうございます。お待たせいたしました。それでは予約番号38797でお取りさせていただきました。	general,attraction,taxi,weather
+3467	10	USER	ありがとうございます。当日の中央区の天気と最低気温はどれくらいでしょうか。	general,attraction,taxi,weather
+3467	11	SYSTEM	はい、6月30日の中央区の天気は雨時々曇、最低気温は20度の予報でございます。	general,attraction,taxi,weather
+3467	12	USER	ありがとうございます。これでもう大丈夫です。	general,attraction,taxi,weather
+3467	13	SYSTEM	ありがとうございます。またお待ちしております。	general,attraction,taxi,weather

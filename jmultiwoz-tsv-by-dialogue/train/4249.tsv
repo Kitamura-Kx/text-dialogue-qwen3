@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4249	0	USER	名古屋への旅行を計画しているのですが、中村区で買い物ができる場所を探しています。	general,shopping
+4249	1	SYSTEM	かしこまりました。13件候補がございますが、ほかにご希望の条件はございませんか？	general,shopping
+4249	2	USER	無料駐車場があるスーパーマーケットが良いと考えています。	general,shopping
+4249	3	SYSTEM	そういたしますと、サンエース 亀島店というお店がご案内可能です。亀島駅から徒歩で7分のお店となります。	general,shopping
+4249	4	USER	ありがとうございます。そこに行きたいと思います。お聞きしたい事は以上になります、ありがとうございました。	general,shopping
+4249	5	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

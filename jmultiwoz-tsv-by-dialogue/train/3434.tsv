@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3434	0	USER	今度横浜に行くのですが、買い物ができるところを探しています。	general,shopping,taxi
+3434	1	SYSTEM	ありがとうございます。50件ほど該当致しますが、ご希望などはありますか？	general,shopping,taxi
+3434	2	USER	西区で、駐車場が無料のところはありますか？	general,shopping,taxi
+3434	3	SYSTEM	かしこまりました。それでは横浜タカシマヤはいかがでしょうか？	general,shopping,taxi
+3434	4	USER	ありがとうございます、そこに行ってみます。あと、当日タクシーを使いたいのですが、キャッシュレス払いができて、ジャンボタクシーが利用できるところはありますか？	general,shopping,taxi
+3434	5	SYSTEM	かしこまりました。それではスタジアム交通株式会社はいかがでしょうか？	general,shopping,taxi
+3434	6	USER	ありがとうございます。では、8/19の12:50で、きじま 新横浜店から、横浜タカシマヤまで、予約をお願いできますでしょうか。	general,shopping,taxi
+3434	7	SYSTEM	お待たせ致しました。予約番号23959でお取りさせていただきました。	general,shopping,taxi
+3434	8	USER	ありがとうございます。以上です。	general,shopping,taxi
+3434	9	SYSTEM	ありがとうございます。またお待ちしております。	general,shopping,taxi

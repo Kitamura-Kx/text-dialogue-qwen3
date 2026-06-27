@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4656	0	USER	東京へでかけます。江東区でWIFIが無料で利用できる飲食店を探していますがよいお店はないでしょうか。	general,restaurant
+4656	1	SYSTEM	はい、そうしますと、1件ご案内可能です。すしざんまい 亀戸店という、寿司・魚料理ジャンルのお店ですが、いかがでしょうか？	general,restaurant
+4656	2	USER	ありがとうございます。そちらで結構です。営業時間と駐車場がありなしを教えていただけますか。	general,restaurant
+4656	3	SYSTEM	営業時間は、11:00～23:00です。駐車場につきましては、不明となっております。申し訳ありません。	general,restaurant
+4656	4	USER	ありがとうございました。こちらで結構です。お問合せは以上です。	general,restaurant
+4656	5	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

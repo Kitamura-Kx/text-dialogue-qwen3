@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+600	0	USER	大阪の浪速区で問われる宿泊施設を探しています。	general,hotel,restaurant,taxi
+600	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,restaurant,taxi
+600	2	USER	レストランが併設されているところに泊まりたいです！	general,hotel,restaurant,taxi
+600	3	SYSTEM	ありがとうございます。該当は1件、グリッズプレミアムホテル大阪なんば、となります。何かご案内致しましょうか？	general,hotel,restaurant,taxi
+600	4	USER	値段帯はどうですか？	general,hotel,restaurant,taxi
+600	5	SYSTEM	はい、値段帯は安め、となります。他にご案内できることはございますか？	general,hotel,restaurant,taxi
+600	6	USER	ありがとうございます。では予算が普通の飲食店も探して欲しいです！	general,hotel,restaurant,taxi
+600	7	SYSTEM	承知しました。予算の他にご希望はございますか？	general,hotel,restaurant,taxi
+600	8	USER	駐車場とWi-Fiが無料のところでお願いします！	general,hotel,restaurant,taxi
+600	9	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しましょう？	general,hotel,restaurant,taxi
+600	10	USER	ではWi-Fiが無料のところで探してください。	general,hotel,restaurant,taxi
+600	11	SYSTEM	ありがとうございます。では、オペレッタ52 福島店はいかがでしょう？何かご案内致しましょうか？	general,hotel,restaurant,taxi
+600	12	USER	エリアはどこになりますか？	general,hotel,restaurant,taxi
+600	13	SYSTEM	はい、エリアは福島区となります。他にご案内できることはございますか？	general,hotel,restaurant,taxi
+600	14	USER	ではジャンボタクシーを利用できるタクシー会社を調べてほしいです。	general,hotel,restaurant,taxi
+600	15	SYSTEM	承知しました。では、近鉄タクシー株式会社はいかがでしょう？キャッシュレスにも対応しております。電話番号は0570069001となります。	general,hotel,restaurant,taxi
+600	16	USER	キャッシュレス払い対応嬉しいです！予約もいいですかね？グリッズプレミアムホテル大阪なんばから、オペレッタ52 福島店まで乗りたいんですが。	general,hotel,restaurant,taxi
+600	17	SYSTEM	承知しました。恐れ入りますが、出発の日時を教えていただけますか？	general,hotel,restaurant,taxi
+600	18	USER	7/19の11:40に出発でお願いします！	general,hotel,restaurant,taxi
+600	19	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、89647となります。他にご案内できることはございますか？	general,hotel,restaurant,taxi
+600	20	USER	これで大丈夫です。ありがとうございました。	general,hotel,restaurant,taxi
+600	21	SYSTEM	ありがとうございました。	general,hotel,restaurant,taxi

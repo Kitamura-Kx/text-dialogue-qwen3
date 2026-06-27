@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1141	0	USER	那覇へ旅行に行きたいのですが、当日の天候はどうなっておりますか？	general,weather,taxi
+1141	1	SYSTEM	かしこまりました。では、ご希望のエリアと日付を教えていただけますか。	general,weather,taxi
+1141	2	USER	希望の地区は真和志です。日付は12/3でお願いします。	general,weather,taxi
+1141	3	SYSTEM	天気は晴のち曇、最低気温が13.6度、最高気温が18.3度となっております。	general,weather,taxi
+1141	4	USER	ありがとうございます。当日タクシーを使いたいと思っています。ジャンボタクシーが利用でるところはありますか？	general,weather,taxi
+1141	5	SYSTEM	はい。ございます。丸二タクシーはいかがですか。	general,weather,taxi
+1141	6	USER	そこはキャッシュレス対応されていますか？	general,weather,taxi
+1141	7	SYSTEM	キャッシュレスにも対応しております。	general,weather,taxi
+1141	8	USER	それではそちらで予約を取りたいです。	general,weather,taxi
+1141	9	SYSTEM	かしこまりました。ではご予約の詳細を教えていただけますか。	general,weather,taxi
+1141	10	USER	日付は12/3、時間は12時で。出発はやっぱりステーキ 国際通りがじゅまる店というところで那覇ウエスト・インまでお願いしたいです。	general,weather,taxi
+1141	11	SYSTEM	はい。予約が完了いたしました。予約番号は89790でございます。	general,weather,taxi
+1141	12	USER	ありがとうございます。	general,weather,taxi
+1141	13	SYSTEM	ほかにご用件はございますか。	general,weather,taxi
+1141	14	USER	特にございません。ありがとうございました。	general,weather,taxi
+1141	15	SYSTEM	承知しました。ありがとうございました。	general,weather,taxi

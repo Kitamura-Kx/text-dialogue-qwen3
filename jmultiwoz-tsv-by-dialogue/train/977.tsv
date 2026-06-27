@@ -1,0 +1,39 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+977	0	USER	あの、すいません。	general,restaurant,hotel,taxi
+977	1	SYSTEM	はい。ご利用ありがとうございます。本日はどういったご用件でしょうか？	general,restaurant,hotel,taxi
+977	2	USER	現在札幌への旅行を計画しています。	general,restaurant,hotel,taxi
+977	3	SYSTEM	札幌のご旅行ですね。どういった情報をお探しでしょうか？	general,restaurant,hotel,taxi
+977	4	USER	旅行当日に食事ができるところを探しています。	general,restaurant,hotel,taxi
+977	5	SYSTEM	札幌のお食事処ですね。お食事のジャンルやエリアなど、何かご希望はございますか？	general,restaurant,hotel,taxi
+977	6	USER	まずは中央区あたりで探しています。	general,restaurant,hotel,taxi
+977	7	SYSTEM	かしこまりました。そうしますと、66件ほどご案内可能です。特に他にご希望がないようでしたら、すし宮川という、寿司・魚料理のお店はいかがでしょうか？	general,restaurant,hotel,taxi
+977	8	USER	お寿司いいですね！そこは駐車場はありますか？	general,restaurant,hotel,taxi
+977	9	SYSTEM	はい、有料ですが、ございます。	general,restaurant,hotel,taxi
+977	10	USER	節約のため無料で駐車場が利用できる飲食店はありますか？	general,restaurant,hotel,taxi
+977	11	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,hotel,taxi
+977	12	USER	分かりました、では西区だといかがでしょうか？	general,restaurant,hotel,taxi
+977	13	SYSTEM	ありがとうございます。そうしますと、ピカンティ 札幌琴似店というお店が1件ご案内可能です。ジャンルとしては、カレー, 郷土料理なのですが、いかがでしょうか？	general,restaurant,hotel,taxi
+977	14	USER	いいですね、ちなみに住所はどちらになりますか？	general,restaurant,hotel,taxi
+977	15	SYSTEM	住所は、北海道札幌市西区琴似2条1丁目1-5 JR琴似駅高架下でございます。	general,restaurant,hotel,taxi
+977	16	USER	分かりました、ではそこを予約してもよろしいでしょうか？	general,restaurant,hotel,taxi
+977	17	SYSTEM	はい、ご予約ありがとうございます。ご利用予定の日付と時刻、人数はお決まりでしょうか？	general,restaurant,hotel,taxi
+977	18	USER	7/14の13時から4名でお願いします。	general,restaurant,hotel,taxi
+977	19	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,restaurant,hotel,taxi
+977	20	USER	なるほど、では3名だといかがでしょうか？	general,restaurant,hotel,taxi
+977	21	SYSTEM	ありがとうございます。3名様にて、ご予約完了いたしました。予約番号は、14535です。	general,restaurant,hotel,taxi
+977	22	USER	ありがとうございます。次に泊まるところを探しています。	general,restaurant,hotel,taxi
+977	23	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,restaurant,hotel,taxi
+977	24	USER	ビジネスホテルで無料の駐車場があるところはありますか？	general,restaurant,hotel,taxi
+977	25	SYSTEM	そうしますと、ホテルルートイン札幌白石はいかがでしょうか？	general,restaurant,hotel,taxi
+977	26	USER	ありがとうございます、ではそこを予約したいと思います。あとは当日利用できるタクシーを探しています。	general,restaurant,hotel,taxi
+977	27	SYSTEM	ではまずご予約を承ります。ご宿泊予定の人数と日付、ご宿泊日数はお決まりでしょうか？	general,restaurant,hotel,taxi
+977	28	USER	ありがとうございます、日付は7/14で1泊、3名の予約でお願いします。	general,restaurant,hotel,taxi
+977	29	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、9246です。	general,restaurant,hotel,taxi
+977	30	USER	ありがとうございます。タクシーですが、ジャンボタクシーでキャッシュレス払いが可能なタクシー会社はありますか？	general,restaurant,hotel,taxi
+977	31	SYSTEM	はい、ございます。恊和交通(株)というところですが、いかがでしょうか？なお、お電話番号は、0118751211となります。	general,restaurant,hotel,taxi
+977	32	USER	ありがとうございます、ではそこでタクシーを予約させてください。	general,restaurant,hotel,taxi
+977	33	SYSTEM	かしこまりました。ご利用予定の日付と出発時刻、出発地、目的地をお願いできますでしょうか？	general,restaurant,hotel,taxi
+977	34	USER	7/14の14:40にピカンティ 札幌琴似店からホテルルートイン札幌白石までお願いします。	general,restaurant,hotel,taxi
+977	35	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、61397です。	general,restaurant,hotel,taxi
+977	36	USER	承知しました、質問は以上です。ご対応ありがとうございました。	general,restaurant,hotel,taxi
+977	37	SYSTEM	承知しました。もし他にご質問がないようでしたら、これで失礼いたします。本日はご利用ありがとうございました。	general,restaurant,hotel,taxi

@@ -1,0 +1,36 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1190	0	USER	東京へ旅行したいのですが、どこか泊まれるところを探しています。	general,hotel,shopping,restaurant
+1190	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,shopping,restaurant
+1190	2	USER	シティホテルで、三越駅前近辺であるといいのですが、どうでしょう？	general,hotel,shopping,restaurant
+1190	3	SYSTEM	三越前駅でよろしいですか？	general,hotel,shopping,restaurant
+1190	4	USER	はい。	general,hotel,shopping,restaurant
+1190	5	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しましょう？	general,hotel,shopping,restaurant
+1190	6	USER	そうですか。では、他の駅で構いませんので、どこかシティホテルをお願いします。	general,hotel,shopping,restaurant
+1190	7	SYSTEM	ありがとうございます。では、エリアでいうと新宿区にある、KIMPTON SHINJUKU TOKYOはいかがでしょう？	general,hotel,shopping,restaurant
+1190	8	USER	そちらはwifiは使えますか？	general,hotel,shopping,restaurant
+1190	9	SYSTEM	はい、無料でご利用いただけます。	general,hotel,shopping,restaurant
+1190	10	USER	わかりました。それと、当日新宿区で買い物をしたいと思っています。いい本屋さんはありませんか？	general,hotel,shopping,restaurant
+1190	11	SYSTEM	はい、では、STORY STORYはいかがでしょう？	general,hotel,shopping,restaurant
+1190	12	USER	そちらのお店は、無料で駐車場を使うことはできますか？	general,hotel,shopping,restaurant
+1190	13	SYSTEM	はい、無料でご利用いただけます。	general,hotel,shopping,restaurant
+1190	14	USER	では、そちらのお店の住所を教えて下さい。	general,hotel,shopping,restaurant
+1190	15	SYSTEM	はい、住所は東京都新宿区西新宿1丁目1-3　小田急百貨店新宿店 本館10階となります。	general,hotel,shopping,restaurant
+1190	16	USER	近くの駅からの所要時間はわかりますか？	general,hotel,shopping,restaurant
+1190	17	SYSTEM	はい、最寄りの新宿駅から徒歩で1分となります。	general,hotel,shopping,restaurant
+1190	18	USER	わかりました。当日食事ができるところも探していただいていいですか？イタリアン・フレンチがいいのいですが？	general,hotel,shopping,restaurant
+1190	19	SYSTEM	他にご希望はございますか？	general,hotel,shopping,restaurant
+1190	20	USER	wifiが無料で使えるところでお願いします。予算的には普通がいいです。	general,hotel,shopping,restaurant
+1190	21	SYSTEM	では、エリアでいうと江戸川区にある、Taverna e Pizzeria Saluteはいかがでしょう？	general,hotel,shopping,restaurant
+1190	22	USER	そちらは駐車場はありますか？	general,hotel,shopping,restaurant
+1190	23	SYSTEM	申し訳ありません。駐車場の有無は不明です。	general,hotel,shopping,restaurant
+1190	24	USER	最寄りの駅は何駅になりますか？	general,hotel,shopping,restaurant
+1190	25	SYSTEM	最寄りの葛西駅から徒歩で1分となります。	general,hotel,shopping,restaurant
+1190	26	USER	わかりました。では、３人で予約をしてください。	general,hotel,shopping,restaurant
+1190	27	SYSTEM	日時を教えていただけますか？	general,hotel,shopping,restaurant
+1190	28	USER	はい。１１月１７日の１６時５０分でお願いします。	general,hotel,shopping,restaurant
+1190	29	SYSTEM	予約が完了し、ご予約番号は、56247となります。	general,hotel,shopping,restaurant
+1190	30	USER	すみません。１１月１８日に変更して下さい。	general,hotel,shopping,restaurant
+1190	31	SYSTEM	申し訳ありません、その条件では予約ができません。いかが致しますか？	general,hotel,shopping,restaurant
+1190	32	USER	時間を１７時４０分では、どうでしょう？	general,hotel,shopping,restaurant
+1190	33	SYSTEM	予約可能になりました。ご予約番号は、95054となります。	general,hotel,shopping,restaurant
+1190	34	USER	ありがとうございました。では失礼します。	general,hotel,shopping,restaurant

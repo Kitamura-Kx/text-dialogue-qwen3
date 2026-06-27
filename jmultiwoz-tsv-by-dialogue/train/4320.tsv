@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4320	0	USER	那覇に旅行するのでWi-Fiが無料でお高めの飲食店を探してください	general,restaurant
+4320	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant
+4320	2	USER	では、Wi-Fiなくてもいいです	general,restaurant
+4320	3	SYSTEM	かしこまりました。それではおもろダイニング 山葵はいかがでしょうか？	general,restaurant
+4320	4	USER	電話番号と料金情報を教えてください	general,restaurant
+4320	5	SYSTEM	電話番号は分かりません。料金情報は大とろが1320円、やんばる鶏ももが858円でございます。	general,restaurant
+4320	6	USER	了解です。どうもありがとうございました	general,restaurant
+4320	7	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

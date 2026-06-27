@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2205	0	USER	こんにちは、東京旅行を計画しているんです。	general,attraction,shopping,weather
+2205	1	SYSTEM	はい、どちらに行きたいですか。	general,attraction,shopping,weather
+2205	2	USER	東京の新豊洲駅周辺で観光をしたいんです。駐車場代とWi-Fiが無料なスポットはありますか？	general,attraction,shopping,weather
+2205	3	SYSTEM	新豊洲駅周辺で駐車場代とWi-Fiが無料な観光スポットはなさそうです。	general,attraction,shopping,weather
+2205	4	USER	そうですか。じゃあ、駐車場に関する条件は外しても構わないです。	general,attraction,shopping,weather
+2205	5	SYSTEM	新豊洲駅周辺でWi-Fiが無料といえば、teamLab Planets TOKYOがオススメです。	general,attraction,shopping,weather
+2205	6	USER	こちらって何時から何時まで営業していますか？あと住所もわかれば教えてもらえると助かります。	general,attraction,shopping,weather
+2205	7	SYSTEM	朝９時から夜８時までの営業で、住所は東京都江東区豊洲6丁目1-16になります。	general,attraction,shopping,weather
+2205	8	USER	わかりました！あと旅行中、六本木駅周辺でお買い物がしたいんですよ。どこかいいお店ありませんか？	general,attraction,shopping,weather
+2205	9	SYSTEM	六本木駅周辺のお買い物スポットはなさそうです。	general,attraction,shopping,weather
+2205	10	USER	ないですか。じゃあ、最寄り駅はどこでも大丈夫です。	general,attraction,shopping,weather
+2205	11	SYSTEM	東京で買い物スポットは５０件ヒットします。ジャンルやエリア等、ご希望の条件はありますか？	general,attraction,shopping,weather
+2205	12	USER	他に条件はないので、よさげなお店を紹介してもらえると助かります。	general,attraction,shopping,weather
+2205	13	SYSTEM	それではグラスファクトリー 創吉をオススメします。	general,attraction,shopping,weather
+2205	14	USER	グラスファクトリー 創吉さんですか、行ってみますね。最後になんですが、5/14の杉並区の最高気温ってわかりますか？	general,attraction,shopping,weather
+2205	15	SYSTEM	5/14 東京 杉並区 の最高気温は26度です。	general,attraction,shopping,weather
+2205	16	USER	わかりました。今日は色々とお調べ下さってありがとうございました！	general,attraction,shopping,weather

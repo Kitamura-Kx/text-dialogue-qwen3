@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4175	0	USER	那覇の首里崎山公園の料金とエリアを知りたいです。	general,attraction,taxi
+4175	1	SYSTEM	エリアは、首里です。　料金は無料となっています。	general,attraction,taxi
+4175	2	USER	ありがとうございます。タクシーの予約をしたいのですが、ジャンボタクシーがある会社でお願いしたいです。	general,attraction,taxi
+4175	3	SYSTEM	では、那覇第一交通はいかがですか？	general,attraction,taxi
+4175	4	USER	11月7日の14時40分からで予約できますか？琉球醤油屋 国際通り1号店から首里崎山公園まででお願いします。	general,attraction,taxi
+4175	5	SYSTEM	予約出来ました。予約番号は、42801です。	general,attraction,taxi
+4175	6	USER	ありがとうございます。タクシー会社の電話番号も教えてください。	general,attraction,taxi
+4175	7	SYSTEM	電話番号は、0988537801です。	general,attraction,taxi
+4175	8	USER	ありがとうございました。	general,attraction,taxi
+4175	9	SYSTEM	他にご用件はありますか？	general,attraction,taxi
+4175	10	USER	ないです。	general,attraction,taxi
+4175	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi

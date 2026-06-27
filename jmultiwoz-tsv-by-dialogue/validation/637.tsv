@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+637	0	USER	福岡へ旅行に行こうと思っています。無料でWi-Fiが使える宿泊施設を教えてください。	general,hotel
+637	1	SYSTEM	かしこまりました。95件該当がございますが、他にご希望の条件などはございませんか？	general,hotel
+637	2	USER	地区は早良区が希望です。	general,hotel
+637	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel
+637	4	USER	では、地区はどこでも良いです。	general,hotel
+637	5	SYSTEM	ありがとうございます。そうしますと、スカイハートホテル博多という、博多区のビジネスホテルは如何でしょうか？	general,hotel
+637	6	USER	底が良さそうですね。ここのタイプとチェックアウト終了時刻を教えてください。	general,hotel
+637	7	SYSTEM	タイプは、ビジネスホテルとなっております。チェックアウトの終了は、11時までです。	general,hotel
+637	8	USER	分かりました。ありがとうございました。	general,hotel
+637	9	SYSTEM	他に、お調べすることはございますか？	general,hotel
+637	10	USER	はい、大丈夫です。ありがとうございました。	general,hotel
+637	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

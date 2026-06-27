@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1730	0	USER	仙台へ旅行に行くんですが、買い物ができるところを探してほしいです！	general,shopping
+1730	1	SYSTEM	希望条件などは、ありますか？	general,shopping
+1730	2	USER	食料品を買いたいです！	general,shopping
+1730	3	SYSTEM	それでしたら、お茶の井ヶ田 仙台中央本店はいかがですか？	general,shopping
+1730	4	USER	いいですね！定休日はありますか？	general,shopping
+1730	5	SYSTEM	定休日は、ありません。	general,shopping
+1730	6	USER	わかりました！ありがとうございました。	general,shopping
+1730	7	SYSTEM	他にご用件はありますか？	general,shopping
+1730	8	USER	これで大丈夫です。	general,shopping
+1730	9	SYSTEM	承知致しました。　ありがとうございました。	general,shopping

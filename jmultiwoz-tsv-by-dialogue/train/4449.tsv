@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4449	0	USER	福岡に旅行に行こうと思っていて、当日はジャンボタクシーを利用したいです。	general,taxi
+4449	1	SYSTEM	かしこまりました。では、（株）第一交通はいかがでしょうか？	general,taxi
+4449	2	USER	ありがとうございます。その会社の電話番号とキャッシュレス対応について教えてください。	general,taxi
+4449	3	SYSTEM	電話番号は0924816400でございます。キャッシュレスにも対応しております。	general,taxi
+4449	4	USER	ありがとうございます。では10/17の13:40にOYO 山本旅館 福岡 博多から住吉館で予約をお願いします。	general,taxi
+4449	5	SYSTEM	お待たせ致しました。予約番号64258でお取りさせていただきました。	general,taxi
+4449	6	USER	ありがとうございます。これで大丈夫です。	general,taxi
+4449	7	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi

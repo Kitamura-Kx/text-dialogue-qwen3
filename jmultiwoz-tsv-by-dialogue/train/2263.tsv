@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2263	0	USER	福岡旅行に行くので、当日食事ができる飲食店を探していただけますか？	general,restaurant,taxi,weather
+2263	1	SYSTEM	はい、福岡の飲食店ですね。ご希望の条件をお聞かせください。	general,restaurant,taxi,weather
+2263	2	USER	予算は普通くらいでWi-Fiが無料で使えるとうれしいです。	general,restaurant,taxi,weather
+2263	3	SYSTEM	予算普通でWiFi無料ならば、古民家居酒屋こまちがオススメです。	general,restaurant,taxi,weather
+2263	4	USER	ではそちらに行きたいと思います。当日利用できるタクシー会社も教えていただけますか？キャッシュレス払い可能で、ジャンボタクシーに対応している会社はありますか？	general,restaurant,taxi,weather
+2263	5	SYSTEM	福岡でキャッシュレス、ジャンボタクシー対応している会社はいくつかありますが、日新交通（株）をオススメします。	general,restaurant,taxi,weather
+2263	6	USER	ではそちらを利用したいと思います。電話番号も頂けますか？	general,restaurant,taxi,weather
+2263	7	SYSTEM	0120152452になります。	general,restaurant,taxi,weather
+2263	8	USER	そちらで予約もお願いできますでしょうか。9/16の09:50出発で、出発地は古民家居酒屋こまち、目的地は牛もつ鍋 川端を希望しています。	general,restaurant,taxi,weather
+2263	9	SYSTEM	9/16の09:50、古民家居酒屋こまちから牛もつ鍋 川端まで、予約成功しました。予約番号は98753です。	general,restaurant,taxi,weather
+2263	10	USER	ありがとうございます。当日の天気も気になるので、9/16の早良区の天候を教えていただけますか？	general,restaurant,taxi,weather
+2263	11	SYSTEM	9/16 福岡 早良区 の天気は曇、最低気温２４度、最高気温は３０．８度です	general,restaurant,taxi,weather
+2263	12	USER	ありがとうございました。	general,restaurant,taxi,weather

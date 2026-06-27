@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+750	0	USER	那覇への旅行を考えていて、タクシーを利用する予定なのですが、ジャンボタクシーがあるところを調べてください。	general,taxi,weather
+750	1	SYSTEM	かしこまりました。では、沖縄交通は如何でしょうか？	general,taxi,weather
+750	2	USER	そこにします。8月15日の12時から予約をお願いしていいですか？	general,taxi,weather
+750	3	SYSTEM	かしこまりました。ご利用予定の出発地と目的地はお決まりでしょうか？	general,taxi,weather
+750	4	USER	はい。沖縄県立図書館からコジマ×ビックカメラ那覇店までおねがいします。	general,taxi,weather
+750	5	SYSTEM	ありがとうございます。予約が完了いたしました。ご予約番号は、5779です。	general,taxi,weather
+750	6	USER	ありがとうございます。小禄の8月15日の天気も教えてください。	general,taxi,weather
+750	7	SYSTEM	かしこまりました。当日のお天気は、雨時々晴れの予報となっております。	general,taxi,weather
+750	8	USER	ありがとうございます。もう大丈夫です。	general,taxi,weather
+750	9	SYSTEM	承知いたしました。他にお調べすることがなければ、これで失礼いたします。本日はご利用ありがとうございました。	general,taxi,weather

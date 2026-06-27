@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1804	0	USER	福岡への旅行を考えているので、観光スポットを案内お願いします。	general,attraction,hotel
+1804	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,hotel
+1804	2	USER	西戸崎駅あたりで探して欲しいのですが、駐車場、Wi-Fiどちらも無料の観光スポットはないでしょうか？	general,attraction,hotel
+1804	3	SYSTEM	申し訳ありません。この条件ではご案内できません。いかが致しましょう？	general,attraction,hotel
+1804	4	USER	そうですか。それでは西戸崎駅あたりではなくても良いので、もう一度探してください。	general,attraction,hotel
+1804	5	SYSTEM	エリアでいうと西区にある、マリノアシティ福岡はいかがでしょう？ジャンルは、その他、となります。	general,attraction,hotel
+1804	6	USER	マリノアシティ福岡は最寄り駅からどれくらい時間がかかりそうですか？営業時間も教えてください。	general,attraction,hotel
+1804	7	SYSTEM	営業時間は店舗により異なる、とのことです。最寄りの姪浜駅からバスで15分となります。	general,attraction,hotel
+1804	8	USER	分かりました。あと泊まる所も探しています。無料の駐車場とWiFi利用ができる所を案内して下さい。	general,attraction,hotel
+1804	9	SYSTEM	エリアでいうと博多区にある、HOTEL AZ 福岡金の隈店はいかがでしょう？タイプはビジネスホテルとなります。	general,attraction,hotel
+1804	10	USER	ありがとうございます。	general,attraction,hotel
+1804	11	SYSTEM	他にご用件はございますか？	general,attraction,hotel
+1804	12	USER	いいえ、ありがとうございました。	general,attraction,hotel
+1804	13	SYSTEM	ありがとうございました。	general,attraction,hotel

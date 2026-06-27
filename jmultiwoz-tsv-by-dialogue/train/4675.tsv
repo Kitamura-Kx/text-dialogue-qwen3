@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4675	0	USER	仙台で買い物できるところはありますか	general,shopping
+4675	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping
+4675	2	USER	駐車場が無料で宮城野区がいいです	general,shopping
+4675	3	SYSTEM	では、三井アウトレットパーク 仙台港はいかがでしょう？ジャンルは、アウトレットモールとなります。	general,shopping
+4675	4	USER	ジャンルはコンビニがいいのですが	general,shopping
+4675	5	SYSTEM	では、セブンイレブン 仙台新港店はいかがでしょう？	general,shopping
+4675	6	USER	ではそちらの電話番号と住所を知りたいのですが	general,shopping
+4675	7	SYSTEM	はい、電話番号は0222592661、住所は宮城県仙台市宮城野区中野三丁目4番地1となります。	general,shopping
+4675	8	USER	かしこまりました以上で終わります	general,shopping

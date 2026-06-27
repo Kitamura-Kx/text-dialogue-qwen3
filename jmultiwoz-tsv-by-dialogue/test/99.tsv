@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+99	0	USER	こんばんは。 旅行で京都に行きたいのですが、案内をお願いできますか？	general,shopping
+99	1	SYSTEM	はい。お問い合わせありがとうございます。京都のどういった情報をお探しでしょうか？	general,shopping
+99	2	USER	買い物ができるところを探しておりまして、食料品が売っている所で、どこか良い所はありますか？	general,shopping
+99	3	SYSTEM	京都の食料品を扱っているお店ですね。14件見つかりましたが、他にご希望の条件などはございますか？	general,shopping
+99	4	USER	はい、それでは、駐車場が無料で利用できるところでお願いします。	general,shopping
+99	5	SYSTEM	かしこまりました。無料駐車場がご利用いただけるのは、鶴屋𠮷信 本店、Malebranche 北山本店、ココカラファイン アバンティ店の3店舗となっております。	general,shopping
+99	6	USER	そうなんですね。それでは、鶴屋𠮷信 本店に行ってみようかと思います。お店の電話番号はわかりますでしょうか？	general,shopping
+99	7	SYSTEM	はい、鶴屋𠮷信 本店の電話番号ですね。読み上げますが、よろしいでしょうか？	general,shopping
+99	8	USER	はい、お願いいたします。	general,shopping
+99	9	SYSTEM	はい。電話番号、0754410105、でございます。	general,shopping
+99	10	USER	ありがとうございます。承知いたしました。	general,shopping
+99	11	SYSTEM	他に、ご不明な点などはございますでしょうか？	general,shopping
+99	12	USER	いえ、あとは大丈夫です。お調べいただき、ありがとうございました。	general,shopping
+99	13	SYSTEM	こちらこそ、本日はお問い合わせいただき、誠にありがとうございました。また何かございましたら、お気軽にご連絡くださいませ。	general,shopping
+99	14	USER	はい、よろしくお願いします。 それでは、失礼いたします。	general,shopping
+99	15	SYSTEM	はい。失礼いたします。	general,shopping

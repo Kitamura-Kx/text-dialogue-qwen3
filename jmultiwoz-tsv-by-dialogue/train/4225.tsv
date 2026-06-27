@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4225	0	USER	京都へ旅行に行く予定で、観光名所を探しています。北区で、駐車場を無料で利用できるところはありますか？	general,attraction,restaurant
+4225	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,attraction,restaurant
+4225	2	USER	では、有料の駐車場でも構いません。	general,attraction,restaurant
+4225	3	SYSTEM	ありがとうございます。そうしますと、大宮交通公園というところが、1件ご案内可能です。いかがでしょうか？	general,attraction,restaurant
+4225	4	USER	大宮交通公園は、どのようなジャンルになるのでしょうか？	general,attraction,restaurant
+4225	5	SYSTEM	自然・公園, 桜となっております。	general,attraction,restaurant
+4225	6	USER	そうなんですね。Wi-Fiはありますか？	general,attraction,restaurant
+4225	7	SYSTEM	申し訳ありません。WiFiのご提供は不明となっております。	general,attraction,restaurant
+4225	8	USER	わかりました。Wi-Fiが無料で使える飲食店はありませんか？	general,attraction,restaurant
+4225	9	SYSTEM	はい、3店舗ございます。例えば、いっかくじゅう 四条新町店という、お好み焼き・たこ焼きのお店はいかがでしょうか？	general,attraction,restaurant
+4225	10	USER	料金設定は普通で、駐車場が無料のところがいいのですが、このお店はどうでしょうか？	general,attraction,restaurant
+4225	11	SYSTEM	こちらのお店は料金はお安めで、駐車場は併設しておりません。ご希望の条件でお探ししましたところ、ご案内できるところがありませんでした。いかがいたしましょうか？	general,attraction,restaurant
+4225	12	USER	では、駐車場なしでも構いません。	general,attraction,restaurant
+4225	13	SYSTEM	ありがとうございます。そういたしますと、中京区エリアにある、フィゲラス 烏丸店というお店が1件ご案内可能です。いかがでしょうか？	general,attraction,restaurant
+4225	14	USER	そこにします。電話番号と近くの駅からのアクセスを教えてください。	general,attraction,restaurant
+4225	15	SYSTEM	ありがとうございます。電話番号は、05054848209です。アクセスは、最寄りの烏丸駅から徒歩で2分、四条駅からも徒歩で5分の距離にございます。	general,attraction,restaurant
+4225	16	USER	わかりました。ありがとうございます。	general,attraction,restaurant
+4225	17	SYSTEM	ほかにお手伝いできることはありますか？	general,attraction,restaurant
+4225	18	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,restaurant
+4225	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,restaurant

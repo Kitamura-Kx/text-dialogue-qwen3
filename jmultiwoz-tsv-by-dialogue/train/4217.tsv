@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4217	0	USER	京都へ旅行に行くのですが、買い物ができるところを探しています。下京区でお土産のお店はないですか？	general,shopping
+4217	1	SYSTEM	はい、5件ご案内可能です。たとえば、京扇堂というお店はいかがでしょうか？	general,shopping
+4217	2	USER	駐車場が無料の所が良いのですが、そこのお店はどうですか？	general,shopping
+4217	3	SYSTEM	こちらのお店も無料駐車場がご利用いただけます。他にもお調べしましょうか？	general,shopping
+4217	4	USER	いえ、こちらのお店へ行ってみようと思います。住所を教えてください。	general,shopping
+4217	5	SYSTEM	ありがとうございます。住所は、京都府京都市下京区東洞院通正面上ル筒金町46です。	general,shopping
+4217	6	USER	わかりました。ありがとうございます。	general,shopping
+4217	7	SYSTEM	他にお手伝いすることはございませんか？	general,shopping
+4217	8	USER	もう大丈夫です。ありがとうございました。	general,shopping
+4217	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

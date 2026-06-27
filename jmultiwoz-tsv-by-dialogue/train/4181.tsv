@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4181	0	USER	大阪旅行に行こうと思っているのですが、本屋さんを探しています。駐車場が無料のところはありますか？	general,shopping,taxi
+4181	1	SYSTEM	大阪の書籍店は1件あります、MARUZEN&ジュンク堂書店 梅田店はいかがでしょうか？	general,shopping,taxi
+4181	2	USER	良さそうですね。住所とエリアを教えてください。	general,shopping,taxi
+4181	3	SYSTEM	住所は、大阪府大阪市北区茶屋町7-20チャスカ茶屋町地下1階～7階で　エリアは、北区になります。	general,shopping,taxi
+4181	4	USER	ありがとうございます。タクシーも使いたいので予約したいです。ジャンボタクシーとキャッシュレス払いが使えるところでお願いします。	general,shopping,taxi
+4181	5	SYSTEM	では、相互タクシー株式会社はいかがでしょうか？	general,shopping,taxi
+4181	6	USER	そこにします。5月1日の14時30分で予約してください。MARUZEN&ジュンク堂書店 梅田店からアパヴィラホテル〈淀屋橋〉まででお願いします。	general,shopping,taxi
+4181	7	SYSTEM	予約出来ました。予約番号は、53438です。	general,shopping,taxi
+4181	8	USER	ありがとうございました。後は大丈夫です。	general,shopping,taxi
+4181	9	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

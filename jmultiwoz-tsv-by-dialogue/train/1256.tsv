@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1256	0	USER	こんにちは。大阪へ旅行しようと思いますが、買い物ができるところを探しています。	general,shopping
+1256	1	SYSTEM	大阪のお買物施設ですね。何かご希望の条件などございませんか？	general,shopping
+1256	2	USER	出来れば港区で、駐車場が無料で利用できる百貨店や総合スーパーがいいのですけど、ありますでしょうか？	general,shopping
+1256	3	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,shopping
+1256	4	USER	そうですか。では港区以外でしたらどこかいいところがありますか？	general,shopping
+1256	5	SYSTEM	ありがとうございます。そうしますと、5件ご案内可能です。たとえば、中央区エリアの大阪タカシマヤというところは、いかがでしょうか？	general,shopping
+1256	6	USER	ありがとうございます。そこへ行ってみたいので、近辺の駅からの所要時間と、念のため電話番号も教えていただけますか？	general,shopping
+1256	7	SYSTEM	はい、かしこまりました。最寄りのなんば駅から徒歩で1分、大阪難波駅からも徒歩で1分の距離となります。電話番号は、0666311101でございます。	general,shopping
+1256	8	USER	ありがとうございました、とても助かりました。	general,shopping
+1256	9	SYSTEM	他になにかお調べすることはございますか？	general,shopping
+1256	10	USER	今日は充分です。ありがとうございました。	general,shopping
+1256	11	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,shopping

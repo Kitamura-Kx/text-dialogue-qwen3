@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+703	0	USER	福岡の城南区で、駐車場無料の飲食店はありますか？	general,restaurant,weather
+703	1	SYSTEM	はい、まいどおおきに食堂城南堤食堂がございます。何かご案内致しましょうか？	general,restaurant,weather
+703	2	USER	ありがとうございます。そちらのお店の、住所と定休日を教えてください。	general,restaurant,weather
+703	3	SYSTEM	はい、住所は福岡県福岡市城南区堤1丁目9-5、定休日は12月31日、1月1日、1月2日となっております。	general,restaurant,weather
+703	4	USER	ありがとうございます。あと、Wi-Fiはありますか？	general,restaurant,weather
+703	5	SYSTEM	申し訳ありません。Wi-Fiの有無については不明となっております。	general,restaurant,weather
+703	6	USER	わかりました。あと、6/6 西区の最低気温はわかりますか？	general,restaurant,weather
+703	7	SYSTEM	はい、天気は晴時々曇、最低気温25.2度、最高気温32.7度 となります。他にご案内できることはございますか？	general,restaurant,weather
+703	8	USER	けっこう暑いですね！知りたいことは以上です。ありがとうございました。	general,restaurant,weather
+703	9	SYSTEM	ありがとうございました。	general,restaurant,weather

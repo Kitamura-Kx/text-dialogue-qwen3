@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4213	0	USER	横浜で買い物が出来るところを探してください。駐車場が無料で使えれば、後は問いません。	general,shopping,restaurant,weather
+4213	1	SYSTEM	では、元町商店街はいかがですか？	general,shopping,restaurant,weather
+4213	2	USER	そこは定休日はありますか？	general,shopping,restaurant,weather
+4213	3	SYSTEM	定休日は、店舗により異なるとなっています。	general,shopping,restaurant,weather
+4213	4	USER	最寄り駅はどこでしょう？	general,shopping,restaurant,weather
+4213	5	SYSTEM	最寄り駅は、元町・中華街駅となっています。	general,shopping,restaurant,weather
+4213	6	USER	あと、食事ができるところも探してほしいです。駐車場が無料で使えるところがいいです。	general,shopping,restaurant,weather
+4213	7	SYSTEM	では、三和楼はいかがですか？	general,shopping,restaurant,weather
+4213	8	USER	そちらのお店の予算はどうですか？可能であれば高めの予算のお店で考えています。	general,shopping,restaurant,weather
+4213	9	SYSTEM	こちらのお店の値段帯は普通となっています。　どうされますか？	general,shopping,restaurant,weather
+4213	10	USER	三和楼は、何エリアのお店になりますか？	general,shopping,restaurant,weather
+4213	11	SYSTEM	エリアは、中区になります。	general,shopping,restaurant,weather
+4213	12	USER	わかりました。ではこちらのお店で予約をお願いします。４月８日の１５時で、２人でお願いします。	general,shopping,restaurant,weather
+4213	13	SYSTEM	予約が完了しました。　予約番号は、56422です。	general,shopping,restaurant,weather
+4213	14	USER	４月８日の青葉区の天気情報、わかりますか？	general,shopping,restaurant,weather
+4213	15	SYSTEM	その日の天気は、晴です。	general,shopping,restaurant,weather
+4213	16	USER	最低気温と最高気温はどうでしょう？	general,shopping,restaurant,weather
+4213	17	SYSTEM	最低気温は11.6度、最高気温は、15.4度です。	general,shopping,restaurant,weather
+4213	18	USER	わかりました。ありがとうございました。失礼します。	general,shopping,restaurant,weather

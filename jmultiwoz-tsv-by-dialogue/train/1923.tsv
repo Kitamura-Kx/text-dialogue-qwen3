@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1923	0	USER	那覇の本庁でおすすめの観光名所はありますか。	general,attraction
+1923	1	SYSTEM	はい、29件ほどご案内可能です。例えば、スターシアターズという映画館はいかがでしょうか？	general,attraction
+1923	2	USER	駐車場は無料のところですか？	general,attraction
+1923	3	SYSTEM	申し訳ありません。こちらの施設の駐車場有無は、不明となっております。駐車場のある場所でお探ししましょうか？	general,attraction
+1923	4	USER	そうですね。無料駐車場があるところが助かります。	general,attraction
+1923	5	SYSTEM	では、波上宮はいかがでしょうか？	general,attraction
+1923	6	USER	子供入場料，ジャンルはどうなっていますか？	general,attraction
+1923	7	SYSTEM	お子様の入場料は0円です。大人も0円で無料でございます。ジャンルとしては、神社・寺院・教会・モニュメントなど, 自然・公園, 散策エリアとなっております。	general,attraction
+1923	8	USER	ではそこに行ってみます。ありがとうございました。質問は以上です。	general,attraction
+1923	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

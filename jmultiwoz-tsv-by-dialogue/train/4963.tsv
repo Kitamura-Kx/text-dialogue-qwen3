@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4963	0	USER	横浜へ旅行予定なのですが、予算が普通のレストランが併設している宿泊施設はありませんか？あと、Wi-Fiが無料で利用できるところがいいです。	general,hotel
+4963	1	SYSTEM	お待たせ致しました。その条件でしたら、横浜みなとみらい 万葉倶楽部がございます。	general,hotel
+4963	2	USER	そこにします。タイプってわかります？	general,hotel
+4963	3	SYSTEM	はい、タイプはリゾートホテルでございます。	general,hotel
+4963	4	USER	ありがとうございます。もう大丈夫です。	general,hotel
+4963	5	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

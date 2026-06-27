@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4370	0	USER	京都への旅行を考えていて、北大路駅が最寄りの買い物ができるところを探していただきたいです。	general,shopping,restaurant,weather
+4370	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,restaurant,weather
+4370	2	USER	それでは最寄り駅が洛西口駅であればどこかありますか？	general,shopping,restaurant,weather
+4370	3	SYSTEM	はい、洛西タカシマヤというところが1件ご案内できます、いかがでしょうか？	general,shopping,restaurant,weather
+4370	4	USER	そこでお願いします。ジャンルとエリアを教えていただけますか？	general,shopping,restaurant,weather
+4370	5	SYSTEM	はい、ジャンルは、百貨店や総合スーパーです。エリアは西京区にございます。	general,shopping,restaurant,weather
+4370	6	USER	ありがとうございます。烏丸御池駅が最寄り駅になる当日食事ができる飲食店も探していただけますか？予算は高めがいいです。	general,shopping,restaurant,weather
+4370	7	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,shopping,restaurant,weather
+4370	8	USER	予算の希望を考えなければ、ありそうですか？	general,shopping,restaurant,weather
+4370	9	SYSTEM	ありがとうございます。そういたしますと、例えばブロシェットという、洋食・西洋料理ジャンルのお店がございますが、いかがでしょうか？	general,shopping,restaurant,weather
+4370	10	USER	ありがとうございます。そこにします。住所を教えていただけますか？あと、駐車場はありますか？	general,shopping,restaurant,weather
+4370	11	SYSTEM	住所は、京都府京都市中京区東洞院通御池下ル笹屋町438-4 シカタアブニールビルディング1Fです。駐車場は、申し訳ありません、こちらは併設しておりません。	general,shopping,restaurant,weather
+4370	12	USER	わかりました。そこの予約をお願いします。1/19の13時30分から4人で予約をお願いします。	general,shopping,restaurant,weather
+4370	13	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,shopping,restaurant,weather
+4370	14	USER	そうですか。では、人数を3人に変更して予約していただけますか？	general,shopping,restaurant,weather
+4370	15	SYSTEM	ありがとうございます。3名様にて、ご予約完了いたしました。予約番号は、63938です。	general,shopping,restaurant,weather
+4370	16	USER	ありがとうございます。最後に、下京区の1/19の天気と最低気温を教えていただけますか？	general,shopping,restaurant,weather
+4370	17	SYSTEM	かしこまりました。当日の天気は、曇時々晴の予想です。最低気温は、5.5度まで下がる見込みです。	general,shopping,restaurant,weather
+4370	18	USER	ありがとうございます。	general,shopping,restaurant,weather
+4370	19	SYSTEM	ほかに何かお調べすることはございませんか？	general,shopping,restaurant,weather
+4370	20	USER	はい、大丈夫です。ありがとうございました。	general,shopping,restaurant,weather
+4370	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,restaurant,weather

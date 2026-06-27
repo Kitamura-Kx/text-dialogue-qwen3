@@ -1,0 +1,28 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3887	0	USER	京都への旅行を計画しています。上京区で駐車場が無料で利用できる観光名所はありますか？	general,attraction,hotel
+3887	1	SYSTEM	はい、1件ご案内できます。北野天満宮というところですが、いかがでしょうか？	general,attraction,hotel
+3887	2	USER	そこはwi-hiは無料で利用できますか？	general,attraction,hotel
+3887	3	SYSTEM	申し訳ありません。こちらは、WiFiのご提供が不明となっております。	general,attraction,hotel
+3887	4	USER	wihiがなくてもいいので、他にはありますか？	general,attraction,hotel
+3887	5	SYSTEM	申し訳ありません。WiFiのご希望条件がない状態で、駐車場無料の上京区の観光名所は、北野天満宮の1ヶ所のみご案内可能となります。	general,attraction,hotel
+3887	6	USER	分かりました。そこの住所は分かりますか？	general,attraction,hotel
+3887	7	SYSTEM	住所は、京都府京都市上京区馬喰町でございます。	general,attraction,hotel
+3887	8	USER	ありがとうございます。	general,attraction,hotel
+3887	9	SYSTEM	他にお調べすることはございませんか？	general,attraction,hotel
+3887	10	USER	駐車場が無料で利用できる宿泊施設はありますか？	general,attraction,hotel
+3887	11	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,attraction,hotel
+3887	12	USER	では、駐車場がなくてもいいです。	general,attraction,hotel
+3887	13	SYSTEM	ありがとうございます。そうしますと、93件候補がございます。他にご希望条件がないようでしたら、旅館 松亀というところはいかがでしょうか？	general,attraction,hotel
+3887	14	USER	wihiが使えてレストランがある所がいいです。	general,attraction,hotel
+3887	15	SYSTEM	Wi-Fiは無料をご希望ということでよろしいでしょうか？	general,attraction,hotel
+3887	16	USER	はい。	general,attraction,hotel
+3887	17	SYSTEM	かしこまりました。では、ホテル飯田という旅館はいかがでしょうか？下京区にあるお安めの旅館です。	general,attraction,hotel
+3887	18	USER	そこの電話番号はわかりますか？	general,attraction,hotel
+3887	19	SYSTEM	はい。0753413256でございます。	general,attraction,hotel
+3887	20	USER	11月18日に３人で３泊予約したいです。	general,attraction,hotel
+3887	21	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、96387です。	general,attraction,hotel
+3887	22	USER	ありがとうございました。	general,attraction,hotel
+3887	23	SYSTEM	他にお知りになりたいことはございませんか？	general,attraction,hotel
+3887	24	USER	いえ、これで大丈夫です。	general,attraction,hotel
+3887	25	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,hotel
+3887	26	USER		general,attraction,hotel

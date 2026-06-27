@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4561	0	USER	京都へ旅行するのですがWIFIが無料で左京区の観光名所を探しています。	general,attraction,restaurant
+4561	1	SYSTEM	それでしたら、国立京都国際会館はいかがですか？	general,attraction,restaurant
+4561	2	USER	ありがとうございます。そこには駐車場はありますか？	general,attraction,restaurant
+4561	3	SYSTEM	駐車場は、有料駐車場があります。	general,attraction,restaurant
+4561	4	USER	当日、普通の値段で食べられる飲食店を探しています。駐車場がないと困ります。	general,attraction,restaurant
+4561	5	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,restaurant
+4561	6	USER	なるほど！それなら駐車場はなくても大丈夫です。電話番号と住所を教えて下さい。	general,attraction,restaurant
+4561	7	SYSTEM	ではおくどはん 御幸町は、いかがですか？　電話番号は0752510051です。住所は、　京都府京都市中京区御幸町通三条上ル丸屋町318-3になります。	general,attraction,restaurant
+4561	8	USER	はい！そこでいいです。恐れ入りますが予約して頂けますか？2人で11/13、12:30で空いてますか？	general,attraction,restaurant
+4561	9	SYSTEM	予約出来ました。予約番号は、69727です。	general,attraction,restaurant
+4561	10	USER	以上です。ありがとうございました。	general,attraction,restaurant
+4561	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant

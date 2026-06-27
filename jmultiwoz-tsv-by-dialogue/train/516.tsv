@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+516	0	USER	名古屋へ旅行に行きたいと思っています。	general,shopping,weather
+516	1	SYSTEM	名古屋のご旅行ですね。どういった情報をお探しでしょうか？	general,shopping,weather
+516	2	USER	最寄り駅が徳重駅で買い物ができるところが良いです。ジャンルは家電です。	general,shopping,weather
+516	3	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,shopping,weather
+516	4	USER	では、最寄り駅は諦めます。	general,shopping,weather
+516	5	SYSTEM	かしこまりました。そうしますと、コメ兵 本館というお店はいかがでしょうか？	general,shopping,weather
+516	6	USER	そうですね。そちらにします。	general,shopping,weather
+516	7	SYSTEM	ありがとうございます。コメ兵 本館について、何かお知りになりたい情報はございますか？	general,shopping,weather
+516	8	USER	コメ兵の近くの駅からの所要時間、定休日、電話番号を教えてください。	general,shopping,weather
+516	9	SYSTEM	はい。最寄りの大須観音駅から徒歩で5分、上前津駅から徒歩で5分の距離にございます。定休日は不定休となっております。電話番号は、0522420088です。	general,shopping,weather
+516	10	USER	分かりました。ありがとうございます。	general,shopping,weather
+516	11	SYSTEM	他にお調べすることは何かございますか？	general,shopping,weather
+516	12	USER	当日の天候も知りたいのすが、日付は12/11で地区は東区です。	general,shopping,weather
+516	13	SYSTEM	12/11の東区の天気は、晴れ時々曇りの予報です。最低気温は5.2度、最高気温は7.4度の予想となっております。	general,shopping,weather
+516	14	USER	分かりました。ありがとうございます。	general,shopping,weather
+516	15	SYSTEM	他にご用件はございますか？	general,shopping,weather
+516	16	USER	大丈夫です。ありがとうございました。	general,shopping,weather
+516	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,weather

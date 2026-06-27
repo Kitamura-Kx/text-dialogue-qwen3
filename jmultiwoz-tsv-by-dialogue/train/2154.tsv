@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2154	0	USER	こんにちは。那覇へ旅行に行きますので、飲食店を探しています。奥武山公園駅の近くで、駐車場無料のところはありますか？焼肉だとうれしいです。	general,restaurant
+2154	1	SYSTEM	かしこまりました。それでは、焼肉工房 團はいかがでしょうか？	general,restaurant
+2154	2	USER	ありがとうございます。そこにします。定休日をお願いします。	general,restaurant
+2154	3	SYSTEM	ありがとうございます。定休日は火曜日です。	general,restaurant
+2154	4	USER	ありがとうございます。あと、そこはWi-Fiはありますか？	general,restaurant
+2154	5	SYSTEM	申し訳ございません。Wi-Fiの有無は分かりません。	general,restaurant
+2154	6	USER	そうなんですね、大丈夫です。予約をお願いします。2/14の11:00で2名でとれますか？	general,restaurant
+2154	7	SYSTEM	申し訳ございません。その条件ですと予約が出来ませんでした。	general,restaurant
+2154	8	USER	そうですか。1名だったらいけますか？	general,restaurant
+2154	9	SYSTEM	はい、1名でしたら大丈夫でした。予約番号45811でございます。	general,restaurant
+2154	10	USER	どうもありがとうございました。助かりました。	general,restaurant
+2154	11	SYSTEM	ありがとうございました。他にお手伝いできることはございますか？	general,restaurant
+2154	12	USER	いえ、大丈夫です。どうもありがとうございました。	general,restaurant
+2154	13	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

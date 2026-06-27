@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3895	0	USER	那覇への旅行を考えているのですが、本庁地区で当日訪れる観光名所を探してください。	general,attraction,taxi
+3895	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,attraction,taxi
+3895	2	USER	Wi-Fiが無料で使えるところがよいです。	general,attraction,taxi
+3895	3	SYSTEM	申し訳ございません。Wi-Fiが無料で利用できるところがございませんでした。いかがなさいますか。	general,attraction,taxi
+3895	4	USER	わかりました。では、Wi-Fiは気にしないでください。	general,attraction,taxi
+3895	5	SYSTEM	では沖縄郵政資料センターはいかがでしょうか。	general,attraction,taxi
+3895	6	USER	ありがとうございます。行ってみたいと思います。営業時間と最寄り駅を教えていただけますか。	general,attraction,taxi
+3895	7	SYSTEM	はい営業時間が10:00～16:00で、最寄り駅は壷川駅でございます。	general,attraction,taxi
+3895	8	USER	ありがとうございます。当日はジャンボタクシーを利用したいのですが、キャッシュレス払いができるタクシー会社はありますでしょうか。	general,attraction,taxi
+3895	9	SYSTEM	はい。丸星交通がございます。こちら電話番号は0988685831でございます。	general,attraction,taxi
+3895	10	USER	では、12月20日の12時30分、沖縄郵政資料センターから首里城への予約をお願いします。	general,attraction,taxi
+3895	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は59696でございます。	general,attraction,taxi
+3895	12	USER	お世話になりました。	general,attraction,taxi

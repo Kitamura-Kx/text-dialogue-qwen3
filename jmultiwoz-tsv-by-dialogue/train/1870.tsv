@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1870	0	USER	京都に行くので飲食店を探して欲しいのですが、駐車場を無料で利用できる居酒屋さんはありますか？	general,restaurant,shopping,attraction
+1870	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,shopping,attraction
+1870	2	USER	そうしましたら、ジャンルは居酒屋でなくてもかまいません。	general,restaurant,shopping,attraction
+1870	3	SYSTEM	かしこまりました。では、牛々亭はいかがでしょうか？	general,restaurant,shopping,attraction
+1870	4	USER	牛々亭に、Wi-Fiはありますか？	general,restaurant,shopping,attraction
+1870	5	SYSTEM	申し訳ございません。Wi-Fiの有無は不明となっております。	general,restaurant,shopping,attraction
+1870	6	USER	わかりました。では、牛々亭を４名で予約していただけますか？日時は、8/30 14:30です。	general,restaurant,shopping,attraction
+1870	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、71515です。	general,restaurant,shopping,attraction
+1870	8	USER	次に、買い物できる場所を右京区で探して欲しいです。できればお土産屋さんに行きたいです。	general,restaurant,shopping,attraction
+1870	9	SYSTEM	かしこまりました。では、道の駅 ウッディー京北はいかがでしょうか？	general,restaurant,shopping,attraction
+1870	10	USER	道の駅、いいですね！営業時間はわかりますか？	general,restaurant,shopping,attraction
+1870	11	SYSTEM	はい。営業時間は09:00～18:00になります。	general,restaurant,shopping,attraction
+1870	12	USER	ありがとうございます。最後に、観光名所についても聞きたいです。円町駅の近くに、Wi-Fi無料の観光名所はありますか？	general,restaurant,shopping,attraction
+1870	13	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,restaurant,shopping,attraction
+1870	14	USER	そうですか。では、Wi-Fiについては、なくてもかまいません。	general,restaurant,shopping,attraction
+1870	15	SYSTEM	かしこまりました。では、古典の日記念 京都市平安京創生館はいかがでしょうか？	general,restaurant,shopping,attraction
+1870	16	USER	そこのジャンルは何でしょうか？あと、駐車場があるかどうかと、住所も知りたいです。	general,restaurant,shopping,attraction
+1870	17	SYSTEM	はい。ジャンルは美術館・博物館, 伝統芸能, 伝統文化体験です。駐車場は有料ですがあります。住所は京都府京都市中京区丸太町通七本松西入京都市生涯学習総合センター(京都アスニー)１階、でございます。	general,restaurant,shopping,attraction
+1870	18	USER	わかりました。色々ありがとうございました。今日のお願いは以上です。	general,restaurant,shopping,attraction
+1870	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,attraction

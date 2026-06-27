@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1699	0	USER	大阪へ旅行予定です。北区で最寄り駅が大江橋駅の飲食店を調べてください。駐車場を無料で利用できるところがいいです。	general,restaurant,shopping
+1699	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,restaurant,shopping
+1699	2	USER	そうですか。なら駐車場はなくてもいいです。	general,restaurant,shopping
+1699	3	SYSTEM	ではリストランテ ドゥエ フィオーリはいかがでしょうか。	general,restaurant,shopping
+1699	4	USER	よさそうですね。定休日と料金情報を教えてください。	general,restaurant,shopping
+1699	5	SYSTEM	定休日は日曜日、料金情報はランチコースが6050円、ディナーコースが14300円でございます。	general,restaurant,shopping
+1699	6	USER	わかりました。5/31の15:00で、4人で予約お願いします。	general,restaurant,shopping
+1699	7	SYSTEM	予約が完了いたしました。予約番号は91851でございます。	general,restaurant,shopping
+1699	8	USER	ありがとうございます。此花区で買い物できるところも探してもらっていいですか？駐車場を無料で利用できるところを希望します。	general,restaurant,shopping
+1699	9	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,restaurant,shopping
+1699	10	USER	わかりました。では此花区以外でお願いします。	general,restaurant,shopping
+1699	11	SYSTEM	ではあべのキューズモールはいかがでしょうか。	general,restaurant,shopping
+1699	12	USER	そこにします。営業時間と電話番号を調べてください。	general,restaurant,shopping
+1699	13	SYSTEM	営業時間は10:00～21:00で、電話番号は0665567000でございます。	general,restaurant,shopping
+1699	14	USER	ありがとうございます。もう大丈夫です。	general,restaurant,shopping
+1699	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping

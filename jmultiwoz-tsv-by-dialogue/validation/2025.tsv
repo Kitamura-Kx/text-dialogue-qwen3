@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2025	0	USER	名古屋にある無料で駐車場が利用できるスーパーマーケットを教えてもらえますか？	general,shopping,attraction
+2025	1	SYSTEM	エリアでいうと天白区にある、サンエース 原駅前店はいかがでしょう？	general,shopping,attraction
+2025	2	USER	ありがとうございます。そちらの定休日を教えてもらえますか？	general,shopping,attraction
+2025	3	SYSTEM	定休日は日曜日となります。	general,shopping,attraction
+2025	4	USER	ありがとうございます。あと当日行ける観光名所も探しています。駐車場が無料のところが嬉しいです。	general,shopping,attraction
+2025	5	SYSTEM	他にご希望はございますか？	general,shopping,attraction
+2025	6	USER	特にないです。	general,shopping,attraction
+2025	7	SYSTEM	エリアでいうと天白区にある、塩竈神社はいかがでしょう？ジャンルは、神社、寺院、教会、モニュメントなど、となります。	general,shopping,attraction
+2025	8	USER	ありがとうございます。営業時間と電話番号を教えてもらえますか？	general,shopping,attraction
+2025	9	SYSTEM	営業時間は9時から15時、電話番号は0528311633となります。	general,shopping,attraction
+2025	10	USER	ちなみにWi-Fiはありますでしょうか？	general,shopping,attraction
+2025	11	SYSTEM	申し訳ありません。Wi-Fiの有無は不明です。	general,shopping,attraction
+2025	12	USER	ありがとうございます。	general,shopping,attraction
+2025	13	SYSTEM	他にご用件はございますか？	general,shopping,attraction
+2025	14	USER	大丈夫です。ありがとうございました。	general,shopping,attraction
+2025	15	SYSTEM	ありがとうございました。	general,shopping,attraction

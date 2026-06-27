@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4550	0	USER	横浜に旅行に行く予定です。観光名所でWI-FIが無料の場所はありますか？	general,attraction,restaurant
+4550	1	SYSTEM	それでしたら、日本丸メモリアルパークはいかがですか？	general,attraction,restaurant
+4550	2	USER	はい、そこは駐車場も無料ですか？ごめんなさい温泉の方がいいかな。	general,attraction,restaurant
+4550	3	SYSTEM	申し訳ありません、駐車場は無しとなっています。　温泉で検索しなおしますか？	general,attraction,restaurant
+4550	4	USER	はい、温泉で駐車場無料でしたら無料WIFIがなくてもそれでも大丈夫です。	general,attraction,restaurant
+4550	5	SYSTEM	では、横濱スパヒルズ 竜泉寺の湯はいかがですか？	general,attraction,restaurant
+4550	6	USER	はい、そこにします。そこの営業時間とエリアを教えて下さい。	general,attraction,restaurant
+4550	7	SYSTEM	営業時間は、0時から深夜1時、6時から深夜0時までとなっています。　エリアは、旭区です。	general,attraction,restaurant
+4550	8	USER	ありがとうございました。以上です。	general,attraction,restaurant
+4550	9	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant
+4550	10	USER	あ！当日食事ができるレストランも教えて下さい。和食で安い方がいいです。	general,attraction,restaurant
+4550	11	SYSTEM	それでしたら、焼鳥倶楽部はいかがですか？	general,attraction,restaurant
+4550	12	USER	いいですね！エリアはどこですか？それとWIFIは使えますか？	general,attraction,restaurant
+4550	13	SYSTEM	エリアは、港北区です。Wi-Fi利用につきましては、不明となっています。	general,attraction,restaurant
+4550	14	USER	ありがとうございます。大丈夫です。予約は可能ですか？６月１０日１３時１０分４人です。	general,attraction,restaurant
+4550	15	SYSTEM	予約出来ました。予約番号は、65555 です。	general,attraction,restaurant
+4550	16	USER	以上です。ありがとうございました。	general,attraction,restaurant
+4550	17	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant

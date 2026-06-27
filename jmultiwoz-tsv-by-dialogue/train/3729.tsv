@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3729	0	USER	こんにちは。仙台に行くのですが、Wi-Fiと駐車場が無料で使える、飲食店はありますか？	general,restaurant,shopping,taxi
+3729	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,restaurant,shopping,taxi
+3729	2	USER	ではWi-Fiはなくても大丈夫です。	general,restaurant,shopping,taxi
+3729	3	SYSTEM	蔵元 創夢里江はいかがですか？	general,restaurant,shopping,taxi
+3729	4	USER	いいですね。ではそのお店で、人数は3人、日付は12/12、時間は14:30で、予約をお願いします。	general,restaurant,shopping,taxi
+3729	5	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant,shopping,taxi
+3729	6	USER	では時間を15:10に変更に変更したら予約できそうですか？	general,restaurant,shopping,taxi
+3729	7	SYSTEM	予約が完了しました。　予約番号は、10064です。	general,restaurant,shopping,taxi
+3729	8	USER	ありがとうございます。駐車場が無料で使える、買い物スポットはないですか？	general,restaurant,shopping,taxi
+3729	9	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,restaurant,shopping,taxi
+3729	10	USER	では駐車場はなくても大丈夫です。	general,restaurant,shopping,taxi
+3729	11	SYSTEM	天然石ハンドメイドアクセサリー FUKANEはいかがですか？	general,restaurant,shopping,taxi
+3729	12	USER	いいですね。そこのジャンルと定休日はわかりますか？	general,restaurant,shopping,taxi
+3729	13	SYSTEM	ジャンルは、ファッションで定休日は、不定休となっています。	general,restaurant,shopping,taxi
+3729	14	USER	ありがとうございます。あと、ジャンボタクシーが利用できて、キャッシュレス払いが可能な、タクシー会社も探してもらえますか？	general,restaurant,shopping,taxi
+3729	15	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,restaurant,shopping,taxi
+3729	16	USER	ではジャンボタクシーは利用できなくても大丈夫です。	general,restaurant,shopping,taxi
+3729	17	SYSTEM	それでしたら、（株）泉交通はいかがですか？	general,restaurant,shopping,taxi
+3729	18	USER	ありがとうございます。そこの電話番号はわかりますか？	general,restaurant,shopping,taxi
+3729	19	SYSTEM	電話番号は、0223795656です。	general,restaurant,shopping,taxi
+3729	20	USER	ありがとうございます。ではそのタクシー会社で、12/12の15:40、出発地は蔵元 創夢里江、目的地は天然石ハンドメイドアクセサリー FUKANEで、予約をお願いします。	general,restaurant,shopping,taxi
+3729	21	SYSTEM	予約が完了しました。　予約番号は、47810になります。	general,restaurant,shopping,taxi
+3729	22	USER	ありがとうございます。	general,restaurant,shopping,taxi
+3729	23	SYSTEM	他にご用件はございますか？	general,restaurant,shopping,taxi
+3729	24	USER	いえ、大丈夫です。ありがとうございました。	general,restaurant,shopping,taxi
+3729	25	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,taxi

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+250	0	USER	京都に旅行に行こうと計画しているのですが、美味しいごはんを食べられるお店はありますか？	general,restaurant
+250	1	SYSTEM	京都のお食事処ですね。ジャンルなど、ご希望はございますか？	general,restaurant
+250	2	USER	祇園四条駅の近くのホテルのレストランで食事がしたいと考えています。できれば駐車場が無料で利用できると嬉しいです。	general,restaurant
+250	3	SYSTEM	申し訳ございません。祇園四条駅近くのホテルレストランで、無料駐車場を完備している施設はございませんでした。	general,restaurant
+250	4	USER	そうですか。それでしたら、場所はどのあたりでも構いません。	general,restaurant
+250	5	SYSTEM	では、オールデイダイニング ラジョウはいかがでしょうか？京都駅から徒歩で2分の場所にございます。	general,restaurant
+250	6	USER	こちらのお店はどのあたりのエリアにあるのでしょうか？	general,restaurant
+250	7	SYSTEM	下京区エリアにございます。	general,restaurant
+250	8	USER	ではこちらでお願いします。素敵なお店をご紹介下さりありがとうございました。	general,restaurant

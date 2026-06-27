@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3843	0	USER	福岡の旅行を計画しています。安めの予算で収まる和食のお店でおすすめはありますか？	general,restaurant,taxi
+3843	1	SYSTEM	福岡で安めの和食といえば、よかたい 総本店、こちらをおすすめします。	general,restaurant,taxi
+3843	2	USER	そのお店って、駐車場を無料で使うことはできますか？	general,restaurant,taxi
+3843	3	SYSTEM	駐車場はありません	general,restaurant,taxi
+3843	4	USER	そうですか。では、予算の事は言いませんので、駐車場が無料で使える和食のお店を教えてください。	general,restaurant,taxi
+3843	5	SYSTEM	福岡で駐車場無料の和食はいくつかありますが、旬や みなくち、こちらをおすすめします。	general,restaurant,taxi
+3843	6	USER	そのお店は、最寄り駅からどのぐらい時間かかりますか？	general,restaurant,taxi
+3843	7	SYSTEM	姪浜駅から徒歩で8分です。	general,restaurant,taxi
+3843	8	USER	そのお店の場所って何エリアっていうところにあるんですか？	general,restaurant,taxi
+3843	9	SYSTEM	西区です。	general,restaurant,taxi
+3843	10	USER	わかりました。あと、当日タクシーを使いたいと思ってます。ジャンボタクシーが使えてキャッシュレス対応しているところはありますか？	general,restaurant,taxi
+3843	11	SYSTEM	（株）第一交通をおすすめします。	general,restaurant,taxi
+3843	12	USER	電話番号ってわかりますか？	general,restaurant,taxi
+3843	13	SYSTEM	0924816400です。	general,restaurant,taxi
+3843	14	USER	では、予約をお願いします。８月１３日の１１時で、GARDEN TERRACE FUKUOKA HOTEL&RESORTS発、旬や みなくち着でお願いします。	general,restaurant,taxi
+3843	15	SYSTEM	予約成功しました。予約番号は73808です。	general,restaurant,taxi
+3843	16	USER	ありがとうございました。	general,restaurant,taxi

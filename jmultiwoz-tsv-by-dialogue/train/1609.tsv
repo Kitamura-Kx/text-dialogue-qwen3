@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1609	0	USER	那覇で本庁地区で買い物ができるところを探しています。最寄り駅が美栄橋駅だと嬉しいのですが。	general,shopping,attraction,taxi
+1609	1	SYSTEM	フレッシュプラザユニオン前島店は、いかがでしょうか？	general,shopping,attraction,taxi
+1609	2	USER	よさそうですね。そちら、駐車場は無料で使えますか？	general,shopping,attraction,taxi
+1609	3	SYSTEM	はい、無料駐車場があります。	general,shopping,attraction,taxi
+1609	4	USER	買い物のほかに、観光もしたいのですが、旭橋駅近くで、駐車場が無料利用できるところはどこかありますか？	general,shopping,attraction,taxi
+1609	5	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,attraction,taxi
+1609	6	USER	そうですか。では、最寄り駅は問わないので、駐車場が無料で使える観光名所を教えてください。	general,shopping,attraction,taxi
+1609	7	SYSTEM	沖縄県立博物館・美術館、こちらはいかがでしょうか？	general,shopping,attraction,taxi
+1609	8	USER	いいですね。電話番号を教えてもらえますか？	general,shopping,attraction,taxi
+1609	9	SYSTEM	電話番号は、0989418200です。	general,shopping,attraction,taxi
+1609	10	USER	ありがとうございます。当日タクシーを利用したいです。キャッシュレスとジャンボタクシーに対応しているタクシー会社を探してもらえますか？	general,shopping,attraction,taxi
+1609	11	SYSTEM	沖縄交通は、いかがでしょうか？	general,shopping,attraction,taxi
+1609	12	USER	沖縄交通ですね。電話番号はわかりますか？	general,shopping,attraction,taxi
+1609	13	SYSTEM	電話番号は、0120170978です。	general,shopping,attraction,taxi
+1609	14	USER	予約をしようと思います。10/27の11:40にフレッシュプラザユニオン前島店から沖縄県立博物館・美術館でお願いできますか？	general,shopping,attraction,taxi
+1609	15	SYSTEM	予約出来ました。予約番号は、7301です。	general,shopping,attraction,taxi
+1609	16	USER	わかりました。ありがとうございました。	general,shopping,attraction,taxi

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1611	0	USER	名古屋の瑞穂区で飲食ができるところを探してください。予算は普通で。	general,restaurant,weather
+1611	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,weather
+1611	2	USER	そうですか。では、地区を中区に変更したらどうでしょうか？	general,restaurant,weather
+1611	3	SYSTEM	魚河岸酒場 FUKU浜金 金山店は、いかがですか？	general,restaurant,weather
+1611	4	USER	よさそうですね。近辺の駅からの所要時間を教えてもらえますか？	general,restaurant,weather
+1611	5	SYSTEM	近辺の駅からの所要時間は、金山駅から徒歩で1分です。	general,restaurant,weather
+1611	6	USER	わかりました。料金情報もわかれば教えてください。	general,restaurant,weather
+1611	7	SYSTEM	申し訳ありません。料金情報は、不明になっております。	general,restaurant,weather
+1611	8	USER	なるほど。予約をお願いできますか？7/15の13:00から2名でお願いしたいです。	general,restaurant,weather
+1611	9	SYSTEM	予約出来ました。予約番号は、40070です。	general,restaurant,weather
+1611	10	USER	ありがとうございます。あと、当日7/15の北区の気温を教えてください。	general,restaurant,weather
+1611	11	SYSTEM	その日の天気は、晴時々曇です。	general,restaurant,weather
+1611	12	USER	晴時々曇ですね。気温もわかれば教えてください。	general,restaurant,weather
+1611	13	SYSTEM	最高気温は、28.3度で最低気温は、27.1度になっております。	general,restaurant,weather
+1611	14	USER	わかりました！どうもありがとうございました。	general,restaurant,weather

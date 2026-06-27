@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1822	0	USER	横浜への旅行を考えているのですが、白楽駅近くで駐車場無料の観光名所はありますか？	general,attraction
+1822	1	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction
+1822	2	USER	それでは、白楽駅以外でも良いです。	general,attraction
+1822	3	SYSTEM	かしこまりました。では、横浜ブリキのおもちゃ博物館はいかがでしょうか？	general,attraction
+1822	4	USER	「横浜ブリキのおもちゃ博物館」は最寄駅からどれくらいの時間がかかりますか？	general,attraction
+1822	5	SYSTEM	はい。最寄り駅の元町・中華街駅から徒歩で5分になります。	general,attraction
+1822	6	USER	わかりましたあとは大丈夫です、有難うございました。	general,attraction
+1822	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

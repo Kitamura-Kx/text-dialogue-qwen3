@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+945	0	USER	こんにちは。今度横浜に行くのですが、当日買い物ができるところを探しています。	general,shopping,attraction,weather
+945	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,attraction,weather
+945	2	USER	最寄り駅が元町・中華街駅の百貨店や総合スーパーがいいです。	general,shopping,attraction,weather
+945	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,attraction,weather
+945	4	USER	では、最寄り駅はこだわりません。	general,shopping,attraction,weather
+945	5	SYSTEM	では横浜タカシマヤはいかがでしょうか。	general,shopping,attraction,weather
+945	6	USER	ありがとうございます。そちらの営業時間と電話番号を教えていただけますか？	general,shopping,attraction,weather
+945	7	SYSTEM	営業時間は10:00～20:00でございます。電話番号は0453115111でございます。	general,shopping,attraction,weather
+945	8	USER	ありがとうございます。あと、当日観光できるところも知りたいです。	general,shopping,attraction,weather
+945	9	SYSTEM	かしこまりました。何かご希望の条件はございますか。	general,shopping,attraction,weather
+945	10	USER	Wi-Fiが無料で利用できる、牧場はありますか？	general,shopping,attraction,weather
+945	11	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping,attraction,weather
+945	12	USER	では、ジャンルは牧場でなくてもいいです。	general,shopping,attraction,weather
+945	13	SYSTEM	ではカップヌードルミュージアム 横浜はいかがでしょうか。	general,shopping,attraction,weather
+945	14	USER	ありがとうございます。そちらはどのエリアになりますか？	general,shopping,attraction,weather
+945	15	SYSTEM	エリアは中区でございます。	general,shopping,attraction,weather
+945	16	USER	ありがとうございます。あと最後に、11/14当日の金沢区の天気を知りたいのですが。	general,shopping,attraction,weather
+945	17	SYSTEM	天気は曇でございます。	general,shopping,attraction,weather
+945	18	USER	分かりました。以上です、ありがとうございました。	general,shopping,attraction,weather
+945	19	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction,weather

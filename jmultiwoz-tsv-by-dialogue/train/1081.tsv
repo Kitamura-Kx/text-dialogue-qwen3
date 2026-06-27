@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1081	0	USER	京都への旅行を計画しているのですが	general,restaurant,attraction
+1081	1	SYSTEM	はい。お問合せありがとうございます。	general,restaurant,attraction
+1081	2	USER	当日食事ができる飲食店を探してください．ジャンルはお好み焼き・たこ焼きでお願いします。	general,restaurant,attraction
+1081	3	SYSTEM	京ちゃばな 南新町店はいかがでしょうか	general,restaurant,attraction
+1081	4	USER	いいですね。そちらのエリア，電話番号を教えて欲しいです。	general,restaurant,attraction
+1081	5	SYSTEM	エリアは下京区で電話番号は0753520192です。	general,restaurant,attraction
+1081	6	USER	ありがとうございました。あと、当日訪れる観光名所を探してください．地区は東山区でWi-Fiが無料で利用でき駐車場を無料で利用できるところにしてください。	general,restaurant,attraction
+1081	7	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,restaurant,attraction
+1081	8	USER	でしたらWi-Fiの有無は考慮しなくていいです。	general,restaurant,attraction
+1081	9	SYSTEM	安井金比羅宮はいかがでしょうか	general,restaurant,attraction
+1081	10	USER	いいですね。そちらの近辺の駅からの所要時間，料金情報をおしえてください。	general,restaurant,attraction
+1081	11	SYSTEM	近辺の駅からの所要時間は京都駅からバスで19分 祇園四条駅から徒歩で10分 河原町駅から徒歩で15分、料金情報は無料です。	general,restaurant,attraction
+1081	12	USER	ありがとうございました。	general,restaurant,attraction

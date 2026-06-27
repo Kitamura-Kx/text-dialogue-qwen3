@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4206	0	USER	名古屋で買い物が出来るところを探しています。文房具・雑貨ジャンルで駐車場を無料で使えるお店はありますか？	general,shopping
+4206	1	SYSTEM	かしこまりました。それではポケモンセンターナゴヤはいかがでしょうか？	general,shopping
+4206	2	USER	そちらの住所を教えてください。	general,shopping
+4206	3	SYSTEM	はい、住所は愛知県名古屋市中区栄3丁目16-1 松坂屋 名古屋店 本館 5Fでございます。	general,shopping
+4206	4	USER	ありがとうございました。	general,shopping

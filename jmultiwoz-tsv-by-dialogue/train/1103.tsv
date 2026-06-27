@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1103	0	USER	大阪への旅行を計画しているのですが。	general,attraction
+1103	1	SYSTEM	はい。お問合せありがとうございます。	general,attraction
+1103	2	USER	当日訪れる観光名所を探してください．駐車場とWi-Fiが無料で利用できるところがいいです。	general,attraction
+1103	3	SYSTEM	鶴見緑地湯元 水春はどうでしょう。	general,attraction
+1103	4	USER	いいですね。エリアも教えていただけますか。	general,attraction
+1103	5	SYSTEM	鶴見区です。	general,attraction
+1103	6	USER	ありがとうございました。	general,attraction

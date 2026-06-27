@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1322	0	USER	こんにちは、沖縄の那覇への旅行を検討しています。	general,shopping
+1322	1	SYSTEM	こんにちは。沖縄ですね。何かご希望があれば言ってください。	general,shopping
+1322	2	USER	はい、当日は本庁のあたりで買い物をしたいと思っているんです。	general,shopping
+1322	3	SYSTEM	どういったものをお探しですか。	general,shopping
+1322	4	USER	何を買うかは決まっていないのですが、駐車場代が無料のお店を案内して欲しいです。	general,shopping
+1322	5	SYSTEM	のうれんプラザはいかがですか。こちらはショッピングモールになります。	general,shopping
+1322	6	USER	ありがとうございます。のうれんプラザの定休日や営業時間を確認したいです。	general,shopping
+1322	7	SYSTEM	はい。営業時間は09:00～17:30で定休日は店舗により異なります。	general,shopping
+1322	8	USER	分かりました。あと、電話番号も教えてもらえますか？	general,shopping
+1322	9	SYSTEM	電話番号は0988347818です。	general,shopping
+1322	10	USER	ありがとうございました。	general,shopping

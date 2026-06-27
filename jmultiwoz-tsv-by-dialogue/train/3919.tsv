@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3919	0	USER	仙台への旅行を計画中で、青葉区内にあるシティホテルを探しています。無料駐車場付きがいいです。	general,hotel,weather
+3919	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel,weather
+3919	2	USER	分かりました。では、シティホテルでなくても構いません。	general,hotel,weather
+3919	3	SYSTEM	ありがとうございます。そういたしますと、湯の原ホテルという旅館はいかがでしょうか？	general,hotel,weather
+3919	4	USER	そこにしようと思います。チェックアウト終了時刻を教えてください。	general,hotel,weather
+3919	5	SYSTEM	チェックアウトは、10時までとなっております。	general,hotel,weather
+3919	6	USER	ありがとうございます。2/27の太白区の最低気温を教えてください。	general,hotel,weather
+3919	7	SYSTEM	かしこまりました。当日の最低気温は4.9度の予想となっております。	general,hotel,weather
+3919	8	USER	助かります。ありがとうございます。	general,hotel,weather
+3919	9	SYSTEM	他にご用件はございませんか？	general,hotel,weather
+3919	10	USER	いえ、大丈夫です。ありがとうございました。	general,hotel,weather
+3919	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,weather

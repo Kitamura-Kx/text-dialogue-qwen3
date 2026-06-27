@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1946	0	USER	東京への旅行を計画中なのですが、渋谷区で駐車場無料のスポーツ用品が買える店舗はありますか？	general,shopping
+1946	1	SYSTEM	申し訳ございません。その条件に該当する店舗が見つかりませんでした。	general,shopping
+1946	2	USER	それでは、スポーツ用品でなくても構いません	general,shopping
+1946	3	SYSTEM	かしこまりました。それではラフォーレ原宿はいかがでしょうか？	general,shopping
+1946	4	USER	是非利用したいと思います、他は大丈夫です有難うございました。	general,shopping
+1946	5	SYSTEM	かしこまりました。ありがとうございました。	general,shopping

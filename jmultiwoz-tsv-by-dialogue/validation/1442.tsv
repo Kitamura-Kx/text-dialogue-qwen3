@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1442	0	USER	大阪への旅行を検討しています。	general,shopping,hotel
+1442	1	SYSTEM	どのようなお店や施設をお探しですか？	general,shopping,hotel
+1442	2	USER	その時に食品が買えるお店に行きたいんです。駐車場は無料で使える所がよいですね。	general,shopping,hotel
+1442	3	SYSTEM	それでしたら、ムーミンスタンド天王寺ミオ店は、いかがですか？	general,shopping,hotel
+1442	4	USER	ありがとうございます、ムーミンスタンド天王寺ミオ店の最寄り駅はどちらでしょうか？電話番号と定休日も教えてください。	general,shopping,hotel
+1442	5	SYSTEM	最寄り駅は、天王寺駅です。　電話番号は、0643056326です。　定休日は、不定休となっております。	general,shopping,hotel
+1442	6	USER	分かりました。あと、泊まる所も探しているんです。	general,shopping,hotel
+1442	7	SYSTEM	大阪マリオット都ホテルは、いかがですか？	general,shopping,hotel
+1442	8	USER	そうですね、此花区で安い宿はありませんか？Wi-Fiも無料で利用できるほうが良いです。	general,shopping,hotel
+1442	9	SYSTEM	それでしたら、ザ シンギュラリホテル & スカイスパ アット ユニバーサル・スタジオ・ジャパンは、いかがですか？	general,shopping,hotel
+1442	10	USER	ありがとうございます。ザ シンギュラリホテル & スカイスパ アット ユニバーサル・スタジオ・ジャパンの住所も知りたいです。	general,shopping,hotel
+1442	11	SYSTEM	住所は、大阪府大阪市此花区島屋6丁目2-25です。	general,shopping,hotel
+1442	12	USER	ありがとうございます。	general,shopping,hotel
+1442	13	SYSTEM	他にご用件はありますか？	general,shopping,hotel
+1442	14	USER	以上です、お世話になりました。	general,shopping,hotel
+1442	15	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,hotel

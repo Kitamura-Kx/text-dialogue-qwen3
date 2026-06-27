@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4037	0	USER	那覇で泊まるところを探しています。壺川駅が最寄りでWi-Fi無料、レストラン併設のところはありますか？	general,hotel,taxi
+4037	1	SYSTEM	はい、エリアでいうと本庁にある、沖縄ハーバービューホテルはいかがでしょう？タイプは、シティホテルとなります。	general,hotel,taxi
+4037	2	USER	ありがとうございます。そちらの住所はどこになりますか？	general,hotel,taxi
+4037	3	SYSTEM	はい、住所は、沖縄県那覇市泉崎2丁目46となります。	general,hotel,taxi
+4037	4	USER	ありがとうございます。予約したいのでお願いします。4名で3/31から4泊です。	general,hotel,taxi
+4037	5	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,hotel,taxi
+4037	6	USER	それでは3泊でお願いします。	general,hotel,taxi
+4037	7	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、5270となります。	general,hotel,taxi
+4037	8	USER	予約ありがとうございます。キャッシュレス払いできるタクシー会社も探していますが、どこかありますか？	general,hotel,taxi
+4037	9	SYSTEM	はい、では、鏡原第一交通はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0988537801となります。	general,hotel,taxi
+4037	10	USER	ありがとうございます。では予約をお願いします。3/31の9:30で、沖縄ハーバービューホテルからリーガロイヤルグラン沖縄までです。	general,hotel,taxi
+4037	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、24760となります。	general,hotel,taxi
+4037	12	USER	ありがとうございました。	general,hotel,taxi

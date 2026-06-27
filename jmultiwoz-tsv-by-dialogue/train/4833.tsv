@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4833	0	USER	仙台へ旅行するので、青葉区で駐車場とWi-Fiが無料で使える飲食店を探してください。	general,restaurant,taxi,weather
+4833	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,taxi,weather
+4833	2	USER	そうですか。Wi-Fiはなくてもいいのでいいところありませんか？	general,restaurant,taxi,weather
+4833	3	SYSTEM	それでしたら、味の牛たん喜助 定禅寺店がおすすめですよ。	general,restaurant,taxi,weather
+4833	4	USER	では、そちらで3人予約できますか。時間は10/29の14:40です。	general,restaurant,taxi,weather
+4833	5	SYSTEM	予約出来ました。予約番号は、80784 です。　他にご用件はございますか？	general,restaurant,taxi,weather
+4833	6	USER	はい。キャッシュレス払いができるジャンボタクシーを利用したいです。いいところありますか？	general,restaurant,taxi,weather
+4833	7	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。　どうされますか？	general,restaurant,taxi,weather
+4833	8	USER	それでしたらキャッシュレス払いできなくてもいいです。	general,restaurant,taxi,weather
+4833	9	SYSTEM	こちらの　稲荷タクシー（有）はいかがですか？	general,restaurant,taxi,weather
+4833	10	USER	そこにします。電話番号はわかります？	general,restaurant,taxi,weather
+4833	11	SYSTEM	電話番号は、0222411121です。	general,restaurant,taxi,weather
+4833	12	USER	では予約をお願いします。10/29の13:30に、かに政宗 泉店から味の牛たん喜助 定禅寺店までです。	general,restaurant,taxi,weather
+4833	13	SYSTEM	無事、予約が完了しました。　予約番号は、11437です。	general,restaurant,taxi,weather
+4833	14	USER	ありがとうございます。最後に、青葉区の10/29の最高気温と最低気温を教えてください。	general,restaurant,taxi,weather
+4833	15	SYSTEM	その日の最高気温は、15.2度で最低気温は、13.7度となっています。	general,restaurant,taxi,weather
+4833	16	USER	わかりました。ありがとうございました。	general,restaurant,taxi,weather
+4833	17	SYSTEM	他にご用件はございますか？	general,restaurant,taxi,weather
+4833	18	USER	いえ、ありがとうございました。	general,restaurant,taxi,weather
+4833	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi,weather

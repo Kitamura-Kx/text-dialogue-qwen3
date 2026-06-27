@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3968	0	USER	那覇への旅行を計画していて、当日の飲食店を探しています。駐車場無料で最寄り駅が市立病院前駅のところが希望です。	general,restaurant
+3968	1	SYSTEM	申し訳ありません。その条件では、お探しすることが出来ませんでした。	general,restaurant
+3968	2	USER	そうですか。では、最寄り駅は美栄橋駅でも良いです。	general,restaurant
+3968	3	SYSTEM	かしこまりました。それではしゃぶしゃぶ 焼肉 杏はいかがでしょうか？	general,restaurant
+3968	4	USER	ありがとうございます。そこのジャンルと近辺の駅からの所要時間は分かりますか？	general,restaurant
+3968	5	SYSTEM	はい、ジャンルは焼肉・ホルモン, 和食でして、美栄橋駅から徒歩で8分でございます。	general,restaurant
+3968	6	USER	ありがとうございます。では予約をお願いしたいのですが、1/24の15：00から、２人で予約をお願い出来ますか？	general,restaurant
+3968	7	SYSTEM	申し訳ありません。その条件では、予約することが出来ませんでした。	general,restaurant
+3968	8	USER	では、１人での予約にします。	general,restaurant
+3968	9	SYSTEM	お待たせ致しました。予約番号77214でお取りさせていただきました。	general,restaurant
+3968	10	USER	ありがとうございました。	general,restaurant
+3968	11	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

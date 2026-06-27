@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1947	0	USER	名古屋への旅行を計画中なのですが、いくつかお願いします。まずは、文房具や雑貨を買いたいのですが駐車場が無料の店舗を教えて下さい。	general,shopping,weather
+1947	1	SYSTEM	かしこまりました。それでは東急ハンズ名古屋店はいかがでしょうか？	general,shopping,weather
+1947	2	USER	「東急ハンズ名古屋店」の住所はわかりますか？	general,shopping,weather
+1947	3	SYSTEM	はい、住所は愛知県名古屋市中村区名駅1丁目1-4　ジェイアール名古屋タカシマヤ内 5F～11Fでございます。	general,shopping,weather
+1947	4	USER	わかりました有難うございます。緑区の当日9/7の最低気温も教えて下さい。	general,shopping,weather
+1947	5	SYSTEM	はい、緑区の当日の最低気温は19.3度の予報です。	general,shopping,weather
+1947	6	USER	ほかは大丈夫です有難うございました。	general,shopping,weather
+1947	7	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,weather

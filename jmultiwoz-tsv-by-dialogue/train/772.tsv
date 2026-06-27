@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+772	0	USER	那覇へ行こうと思っています。本庁にあって最寄り駅がおもろまち駅の予算が休めな飲食店を探していただきたいです。	general,restaurant,shopping,weather
+772	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping,weather
+772	2	USER	では最寄り駅を美栄橋駅に変更して探していただけますか？	general,restaurant,shopping,weather
+772	3	SYSTEM	ありがとうございます。そういたしますと、どん亭 牧志店という、和食, うどん・そば, カレーのお店はいかがでしょうか？	general,restaurant,shopping,weather
+772	4	USER	そちらの営業時間と電話番号を教えていただけますでしょうか。	general,restaurant,shopping,weather
+772	5	SYSTEM	かしこまりました。営業時間は0:00～0:00となっておりますので、24時間ですね。電話番号は、0988631242です。	general,restaurant,shopping,weather
+772	6	USER	わかりました。ありがとうございます。	general,restaurant,shopping,weather
+772	7	SYSTEM	他にお調べすることはございますか？	general,restaurant,shopping,weather
+772	8	USER	首里にあって駐車場が無料なお店を探していただきたいです。	general,restaurant,shopping,weather
+772	9	SYSTEM	恐れ入ります。ご案内可能なお店は、飲食店のほか、お買物施設がございますが、どちらをお探ししましょうか？	general,restaurant,shopping,weather
+772	10	USER	お買い物施設で探していただけますか？	general,restaurant,shopping,weather
+772	11	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping,weather
+772	12	USER	では地区は考慮せず駐車場が無料なお買い物施設を探していただけますか？	general,restaurant,shopping,weather
+772	13	SYSTEM	かしこまりました。では、デパートリウボウという、本庁エリアにある百貨店や総合スーパーはいかがでしょうか？	general,restaurant,shopping,weather
+772	14	USER	そちらの住所と営業時間、定休日を教えていただけますでしょうか。	general,restaurant,shopping,weather
+772	15	SYSTEM	住所は、沖縄県那覇市久茂地1丁目1-1です。定休日は、店舗により異なる、となっております。	general,restaurant,shopping,weather
+772	16	USER	営業時間も教えていただけますでしょうか。	general,restaurant,shopping,weather
+772	17	SYSTEM	大変失礼いたしました。営業時間は、10:00～20:00でございます。	general,restaurant,shopping,weather
+772	18	USER	わかりました。ありがとうございます。	general,restaurant,shopping,weather
+772	19	SYSTEM	他にお調べすることはございますか？	general,restaurant,shopping,weather
+772	20	USER	11月19日首里の天候を調べていただきたいです。	general,restaurant,shopping,weather
+772	21	SYSTEM	かしこまりました。当日の天気は、晴のち雨の予報です。最高気温は30.3度、最低気温は22.1度の予想となっております。	general,restaurant,shopping,weather
+772	22	USER	わかりました。ありがとうございます。	general,restaurant,shopping,weather
+772	23	SYSTEM	ほかに何かお手伝いできることはございませんか？	general,restaurant,shopping,weather
+772	24	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant,shopping,weather

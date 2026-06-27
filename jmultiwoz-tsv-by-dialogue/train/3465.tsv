@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3465	0	USER	横浜へ旅行に行くのですが、買い物ができるところを探してください。	general,shopping,attraction,taxi
+3465	1	SYSTEM	かしこまりました。50件ほど該当しましたので、御条件をお願いいたします。	general,shopping,attraction,taxi
+3465	2	USER	医薬品・化粧品が買えるお店で、西区のお店がいいです。無料駐車場があるところでお願いします。	general,shopping,attraction,taxi
+3465	3	SYSTEM	かしこまりました。それではCosme Kitchen ルミネ横浜はいかがでしょうか？	general,shopping,attraction,taxi
+3465	4	USER	電話番号教えていただけますか？	general,shopping,attraction,taxi
+3465	5	SYSTEM	はい、0456202646でございます。	general,shopping,attraction,taxi
+3465	6	USER	ありがとうございます。あとその日に横濱スパヒルズ 竜泉寺の湯という観光地を訪れるのですが、情報教えていただきたいことがあります。	general,shopping,attraction,taxi
+3465	7	SYSTEM	かしこまりました。何をお調べでしょうか？	general,shopping,attraction,taxi
+3465	8	USER	エリアと最寄り駅と電話番号を教えて欲しいです。	general,shopping,attraction,taxi
+3465	9	SYSTEM	はい、エリアは旭区でして、最寄り駅は西谷駅、電話番号は0454595268でございます。	general,shopping,attraction,taxi
+3465	10	USER	ありがとうございます。最後にタクシー会社を探してください。	general,shopping,attraction,taxi
+3465	11	SYSTEM	かしこまりました。何か条件はございますか？	general,shopping,attraction,taxi
+3465	12	USER	キャッシュレス払いとジャンボタクシー、両方利用できるところにしてください。	general,shopping,attraction,taxi
+3465	13	SYSTEM	かしこまりました。それではスタジアム交通株式会社はいかがでしょうか？	general,shopping,attraction,taxi
+3465	14	USER	そちらで予約をお願いします。2/4の14:40乗車です。Cosme Kitchen ルミネ横浜出発で、横濱スパヒルズ 竜泉寺の湯が到着地です。	general,shopping,attraction,taxi
+3465	15	SYSTEM	お待たせ致しました。それでは予約番号12871でお取りさせていただきました。	general,shopping,attraction,taxi
+3465	16	USER	ありがとうございます。以上になります。	general,shopping,attraction,taxi
+3465	17	SYSTEM	かしこまりました。またお待ちしております。	general,shopping,attraction,taxi

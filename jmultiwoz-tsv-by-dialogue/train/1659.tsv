@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1659	0	USER	名古屋へ旅行に行きたいのですが、港区の観光名所で駐車場が無料の場所はありますか？	general,attraction,restaurant,weather
+1659	1	SYSTEM	はい、とだがわこどもランドはいかがでしょう？ジャンルは、エンタメ、アミューズメント、テーマパークとなります。	general,attraction,restaurant,weather
+1659	2	USER	楽しそうですね。そちらの定休日はわかりますか？	general,attraction,restaurant,weather
+1659	3	SYSTEM	はい、定休日は、月曜日と年末年始となります。	general,attraction,restaurant,weather
+1659	4	USER	Wi-Fiが無料で利用できる飲食店も探してもらえますか？予算は普通でお願いします。	general,attraction,restaurant,weather
+1659	5	SYSTEM	では、エリアでいうと中区にある、ゆめや 金山店はいかがでしょう？ジャンルは、焼肉、ホルモン、居酒屋、鍋、となります。	general,attraction,restaurant,weather
+1659	6	USER	そちらでお願いします。定休日はわかりますか？	general,attraction,restaurant,weather
+1659	7	SYSTEM	はい、定休日は月曜日となります。	general,attraction,restaurant,weather
+1659	8	USER	そちらのお店を、9/14の16:00から2名で予約をお願いしたいのですが。	general,attraction,restaurant,weather
+1659	9	SYSTEM	申し訳ありません、その条件では予約ができませんでした。いかが致しましょう？	general,attraction,restaurant,weather
+1659	10	USER	それなら予約人数が1名ではどうですか？	general,attraction,restaurant,weather
+1659	11	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、31997となります。他にご用件はございますか？	general,attraction,restaurant,weather
+1659	12	USER	はい、9/14の名東区のお天気が知りたいのですが。	general,attraction,restaurant,weather
+1659	13	SYSTEM	はい、天気は曇、最低気温19.3度、最高気温28.4度となります。他にご案内できることはございますか？	general,attraction,restaurant,weather
+1659	14	USER	いいえ、十分です。ありがとうございました。	general,attraction,restaurant,weather
+1659	15	SYSTEM	ありがとうございました。	general,attraction,restaurant,weather

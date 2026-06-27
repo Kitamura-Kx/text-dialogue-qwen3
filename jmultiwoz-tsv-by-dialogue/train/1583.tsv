@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1583	0	USER	大阪への旅行を計画しているのですが、阿倍野区で当日食事ができる飲食店を探しています。どこかオススメはありますか？	general,restaurant,attraction,weather
+1583	1	SYSTEM	では、赤から あべのハルカスダイニング店はいかがでしょうか？	general,restaurant,attraction,weather
+1583	2	USER	ちなみに住所はどちらになりますか？	general,restaurant,attraction,weather
+1583	3	SYSTEM	大阪府大阪市阿倍野区阿倍野筋1丁目1-43 あべのハルカスダイニング 14Ｆです。	general,restaurant,attraction,weather
+1583	4	USER	場所もいいですね、では4人で8/19の9:40に予約をお願いしてもよろしいでしょうか？	general,restaurant,attraction,weather
+1583	5	SYSTEM	ご予約完了いたしました。予約番号は、23571です。	general,restaurant,attraction,weather
+1583	6	USER	ありがとうございます。あとは観光場所を探しています。本町駅周辺で駐車場が無料の観光名所はありますか？	general,restaurant,attraction,weather
+1583	7	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,attraction,weather
+1583	8	USER	本町駅以外だといかがでしょうか？その代わりWi-Fiが無料で利用できるところが良いです。	general,restaurant,attraction,weather
+1583	9	SYSTEM	では、鶴見緑地湯元 水春はいかがでしょうか？	general,restaurant,attraction,weather
+1583	10	USER	無料の駐車場もあればそこに行ってみたいと思います。ちなみに、定休日はありますか？	general,restaurant,attraction,weather
+1583	11	SYSTEM	定休日はございません。	general,restaurant,attraction,weather
+1583	12	USER	ありがとうございます。ちなみに、8/19の天王寺区で天気予報はどうなっているでしょうか？	general,restaurant,attraction,weather
+1583	13	SYSTEM	当日の天気は晴れ、最低気温は28.7度、最高気温は38.7度の予報となっております。	general,restaurant,attraction,weather
+1583	14	USER	ありがとうございます、これで旅行の計画を立ててみます！	general,restaurant,attraction,weather
+1583	15	SYSTEM	他になにかお調べすることはございますか？	general,restaurant,attraction,weather
+1583	16	USER	いいえ、あとは大丈夫です。	general,restaurant,attraction,weather
+1583	17	SYSTEM	では、本日はご利用ありがとうございました。	general,restaurant,attraction,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1909	0	USER	こんにちは。名古屋へ旅行するので、観光名所を探しています。港区で駐車場無料の場所はありますか？	general,attraction
+1909	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction
+1909	2	USER	そうですか。そうしたら港区じゃなくてもいいので、どこかオススメがあれば教えてもらえますか？	general,attraction
+1909	3	SYSTEM	では若宮八幡社はいかがでしょうか。	general,attraction
+1909	4	USER	ありがとうございます。そちらのジャンルと、近辺の駅からの所要時間と料金情報を教えてもらえると助かります。	general,attraction
+1909	5	SYSTEM	ジャンルは神社・寺院・教会・モニュメントなどでございます。大須観音駅から徒歩で7分、矢場町駅から徒歩で5分で、料金情報は無料となっております。	general,attraction
+1909	6	USER	ありがとうございます。ぜひそこへ行こうと思います。	general,attraction
+1909	7	SYSTEM	ほかにご用件はございますか。	general,attraction
+1909	8	USER	大丈夫です。どうもありがとうございました。	general,attraction
+1909	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

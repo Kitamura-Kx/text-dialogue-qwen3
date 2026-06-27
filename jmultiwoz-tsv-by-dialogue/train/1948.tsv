@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1948	0	USER	名古屋への旅行を計画中なのですが、いくつかお願いします。まずは、ヤマザキマザック美術館という観光名所はありますか？	general,attraction,taxi
+1948	1	SYSTEM	はい、そちらはジャンルで言うと、美術館・博物館, アートギャラリーとしての観光名所でございます。	general,attraction,taxi
+1948	2	USER	そうですか、ヤマザキマザック美術館の料金情報を知りたいのですが、わかりますか？	general,attraction,taxi
+1948	3	SYSTEM	はい、料金情報ですと、所蔵作品展は一般1,000円、団体（10名以上）800円、小中高生500円、小学生未満無料、音声ガイド無料 、そして企画展は企画展により異なるとなっております。	general,attraction,taxi
+1948	4	USER	当日はジャンボタクシーを利用したいのですが対応出来る会社はありますか？	general,attraction,taxi
+1948	5	SYSTEM	はい、瑞穂タクシーさんなどがジャンボタクシーに対応しております。	general,attraction,taxi
+1948	6	USER	キャッシュレスは対応していますか？	general,attraction,taxi
+1948	7	SYSTEM	はい、キャッシュレスにも対応しております。	general,attraction,taxi
+1948	8	USER	「瑞穂タクシー」でタクシーの予約をお願いします。9/28の13:00に「ヤマザキマザック美術館」から「ミッドランドスクエア 屋外展望台 スカイプロムナード」までお願いします。	general,attraction,taxi
+1948	9	SYSTEM	お待たせ致しました。予約番号10951でご予約取らせていただきました。	general,attraction,taxi
+1948	10	USER	助かりました、ありがとうございました。	general,attraction,taxi
+1948	11	SYSTEM	ありがとうございます。他に御用件はございますか？	general,attraction,taxi
+1948	12	USER	いえ大丈夫です。	general,attraction,taxi
+1948	13	SYSTEM	かしこまりました。またお待ちしております。	general,attraction,taxi

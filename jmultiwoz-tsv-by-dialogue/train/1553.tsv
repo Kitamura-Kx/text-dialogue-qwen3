@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1553	0	USER	大阪旅行で利用できるタクシー会社を教えて頂けると助かります。	general,taxi
+1553	1	SYSTEM	かしこまりました。では東京・日本交通株式会社はいかがですか。	general,taxi
+1553	2	USER	キャッシュレス払い可能でしょうか。	general,taxi
+1553	3	SYSTEM	はい。キャッシュレスにもジャンボタクシーにも対応しております。	general,taxi
+1553	4	USER	ありがとうございます。そちらを利用したいのですが、電話番号を教えて頂けないでしょうか。	general,taxi
+1553	5	SYSTEM	電話番号は0666493171でございます。	general,taxi
+1553	6	USER	では、予約もお願いできますか。9/26の13:00で、出発地はリストランテ ドゥエ フィオーリ、目的地はスーパーホテル 地下鉄谷町四丁目6号口でお願いします。	general,taxi
+1553	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,taxi
+1553	8	USER	時間を13:30にしたら予約できますか？	general,taxi
+1553	9	SYSTEM	その時間ですと予約が可能でございました。予約番号は74751でございます。	general,taxi
+1553	10	USER	ありがとうございました。	general,taxi

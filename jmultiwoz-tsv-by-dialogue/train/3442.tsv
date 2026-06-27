@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3442	0	USER	東京へ行くのですが、品川区で観光名所教えて下さい。Wi-Fiが無料で使えるところお願いします。	general,attraction,taxi
+3442	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction,taxi
+3442	2	USER	Wi-Fiなくてもいいです。	general,attraction,taxi
+3442	3	SYSTEM	かしこまりました。それぞれしながわ水族館はいかがでしょうか？	general,attraction,taxi
+3442	4	USER	そこに行こうと思います。ジャンボタクシーが利用出来て、キャッシュレスのタクシー教えて下さい。	general,attraction,taxi
+3442	5	SYSTEM	かしこまりました。それぞれ東京エムケイはいかがでしょうか？	general,attraction,taxi
+3442	6	USER	電話番号教えてもらえますか？	general,attraction,taxi
+3442	7	SYSTEM	はい、電話番号は0355475551でございます。	general,attraction,taxi
+3442	8	USER	では、8/21の10：40で月島もんじゃ こぼれや 本店からしながわ水族館まで、予約お願いします。	general,attraction,taxi
+3442	9	SYSTEM	お待たせいたしました。それでは予約番号72914でお取りさせていただきました。	general,attraction,taxi
+3442	10	USER	ありがとうございます。失礼します。	general,attraction,taxi
+3442	11	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,taxi

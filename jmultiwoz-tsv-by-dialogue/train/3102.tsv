@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3102	0	USER	京都の下京区で高めに食事ができるお店を探しています。	general,restaurant,taxi
+3102	1	SYSTEM	承知しました。では、すし岩はいかがでしょう？ジャンルは、寿司、魚料理となります。	general,restaurant,taxi
+3102	2	USER	そこにします！営業時間を教えてください。	general,restaurant,taxi
+3102	3	SYSTEM	営業時間は12時から14時と、17時から22時となります。	general,restaurant,taxi
+3102	4	USER	ありがとうございます。その日にタクシーで帝産京都自動車株式会社を利用しようと思うのですがこの会社はキャッシュレス対応なのでしょうか？	general,restaurant,taxi
+3102	5	SYSTEM	はい、キャッシュレス、ジャンボタクシーともに対応しております。電話番号は、0756611881となります。	general,restaurant,taxi
+3102	6	USER	ありがとうございます。この会社のタクシーを9/10の15：00に予約したいです。	general,restaurant,taxi
+3102	7	SYSTEM	承知しました。お手数ですが、出発地と目的地を教えていただけますでしょうか？	general,restaurant,taxi
+3102	8	USER	出発はさきほどのすし岩でPAPABUBBLE 大丸京都店まで行きたいです。	general,restaurant,taxi
+3102	9	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、21159となります。他にご用件はございますか？	general,restaurant,taxi
+3102	10	USER	ありがとうございます。これで大丈夫です。	general,restaurant,taxi
+3102	11	SYSTEM	ありがとうございました。	general,restaurant,taxi

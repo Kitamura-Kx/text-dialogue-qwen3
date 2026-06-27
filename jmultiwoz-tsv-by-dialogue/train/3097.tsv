@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3097	0	USER	名古屋への旅行を検討しています．駐車場が無料で使えるカレー屋さんはありますか．	general,restaurant,attraction
+3097	1	SYSTEM	はい、西区エリアに１件ございます。ビストロコバという少しお高めのお店ですが、いかがでしょうか？	general,restaurant,attraction
+3097	2	USER	そこにしようと思います．営業時間と電話番号をお聞きしても良いですか．	general,restaurant,attraction
+3097	3	SYSTEM	かしこまりました。営業時間は、昼が11:30～14:30, 夜が18:00～23:00です。電話番号は、0525513178です。	general,restaurant,attraction
+3097	4	USER	ありがとうございます．では予約もお願いします．人数は3人で10月28日の13:00からでお願いします．	general,restaurant,attraction
+3097	5	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、26331です。	general,restaurant,attraction
+3097	6	USER	それと，ささしまライブ駅が最寄りで駐車場が無料のテーマパークはありますか．	general,restaurant,attraction
+3097	7	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,restaurant,attraction
+3097	8	USER	では，最寄り駅はどこでも良いです．	general,restaurant,attraction
+3097	9	SYSTEM	それでしたら、ディノアドベンチャー名古屋はいかがでしょうか？最寄り駅は左京山駅となります。	general,restaurant,attraction
+3097	10	USER	ありがとうございます．そちらの料金情報とエリアをお聞きしたいです．	general,restaurant,attraction
+3097	11	SYSTEM	かしこまりました。料金は、当日の一般券の場合、大人800円、中学生以下600円です。エリアは緑区にございます。	general,restaurant,attraction
+3097	12	USER	承知しました．ありがとうございました．	general,restaurant,attraction
+3097	13	SYSTEM	他にお調べすることはございませんか？	general,restaurant,attraction
+3097	14	USER	はい，大丈夫です．	general,restaurant,attraction
+3097	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,attraction

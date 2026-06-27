@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1849	0	USER	札幌に旅行するんですが、手稲区で観光名所はありませんか？	general,attraction,taxi
+1849	1	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction,taxi
+1849	2	USER	では、地区はこだわりせん。どこか紹介してください。	general,attraction,taxi
+1849	3	SYSTEM	かしこまりました。では、白い恋人パークはいかがでしょうか？	general,attraction,taxi
+1849	4	USER	ああ、あの有名なお菓子の施設ですね。楽しそうです。えっと昭和交通(株)っていうタクシー会社について調べられますか？電話番号と、ジャンボタクシーの対応を知りたいんですけど。	general,attraction,taxi
+1849	5	SYSTEM	はい。電話番号で0117811525です。ジャンボタクシーは非対応になります。	general,attraction,taxi
+1849	6	USER	そうですか。8月9日、11時に予約したいんですが。タイガーカレー北24条本店から白い恋人パークまでです。	general,attraction,taxi
+1849	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、44651です。	general,attraction,taxi
+1849	8	USER	うまく取れてよかったです。助かりました。お世話になりました。	general,attraction,taxi

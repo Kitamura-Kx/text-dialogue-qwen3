@@ -1,0 +1,4 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2186	0	USER	大阪へ行く予定があるのですが、当日買い物をしたいと思っています。最寄り駅が大阪港駅のお店はありますか。	general,shopping
+2186	1	SYSTEM	はい、その条件でしたら、7BRIDGE 天保山マーケットプレース店がございます。	general,shopping
+2186	2	USER	そこに行ってみます。ありがとうございました。	general,shopping

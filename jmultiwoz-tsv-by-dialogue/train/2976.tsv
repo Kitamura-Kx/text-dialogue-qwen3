@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2976	0	USER	名古屋へ旅行に行くので、最寄り駅が志賀本通駅で駐車場が無料で利用できる飲食店を探してもらえますか？	general,restaurant,hotel
+2976	1	SYSTEM	その条件ですと、魚鉄、こちら一択です。	general,restaurant,hotel
+2976	2	USER	わかりました。電話番号と営業時間とWi-Fiの有無を教えてください	general,restaurant,hotel
+2976	3	SYSTEM	0529111211、昼が11時半から２時半まで、夜が5時から１０時半まで、Wifiは不明です。	general,restaurant,hotel
+2976	4	USER	了解です！あと安めの旅館も探してください	general,restaurant,hotel
+2976	5	SYSTEM	名古屋で安めの旅館は6件ありますが、旅館 広船、こちらをオススメします。	general,restaurant,hotel
+2976	6	USER	料金情報と電話番号と近辺の駅からの所要時間を教えて貰えますか？	general,restaurant,hotel
+2976	7	SYSTEM	価格帯は安めですが料金詳細は不明、0526612185、築地口駅から徒歩で5分です。	general,restaurant,hotel
+2976	8	USER	わかりました。8/30から二泊で3名で予約をお願いします	general,restaurant,hotel
+2976	9	SYSTEM	その条件だと予約に失敗してしまいました。	general,restaurant,hotel
+2976	10	USER	では一泊にするとどうでしょうか？	general,restaurant,hotel
+2976	11	SYSTEM	予約成功しました。予約番号は19524です。	general,restaurant,hotel
+2976	12	USER	了解です！ありがとうございました	general,restaurant,hotel
+2976	13	SYSTEM	よい旅を	general,restaurant,hotel

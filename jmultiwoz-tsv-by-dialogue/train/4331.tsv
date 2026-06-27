@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4331	0	USER	東京で、ジャンボタクシーが使えるタクシー会社はありますか？	general,taxi
+4331	1	SYSTEM	それでしたら、キャピタルオートがおすすめです。	general,taxi
+4331	2	USER	そちらはキャッシュレス対応はしていますか？	general,taxi
+4331	3	SYSTEM	はい、対応しております。	general,taxi
+4331	4	USER	電話番号を教えてください。	general,taxi
+4331	5	SYSTEM	はい。電話番号は0357552151です。	general,taxi
+4331	6	USER	では予約をお願いします。１０月３１日の１４時４０分で、和食と和酒 磯じまん発、吟味焼肉 じゃんか道玄坂着でお願いします。	general,taxi
+4331	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、51569です。	general,taxi
+4331	8	USER	ありがとうございました。では失礼します。	general,taxi
+4331	9	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,taxi

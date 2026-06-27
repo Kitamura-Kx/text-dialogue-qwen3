@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3566	0	USER	今度、札幌へ行って、北海道大学総合博物館を観光する予定ですが、どのエリアになるか分かりますか？	general,attraction,shopping,weather
+3566	1	SYSTEM	エリアは北区でございます。	general,attraction,shopping,weather
+3566	2	USER	Wi-Fiは利用できますか？	general,attraction,shopping,weather
+3566	3	SYSTEM	はい。無料で利用いただけます。	general,attraction,shopping,weather
+3566	4	USER	ありがとうございます。それから、清田区で買い物できるお店を教えて下さい。	general,attraction,shopping,weather
+3566	5	SYSTEM	ではTSUTAYA 美しが丘はいかがですか。	general,attraction,shopping,weather
+3566	6	USER	良さそうですね。営業時間と近くの駅からどれくらいかかるかを教えて下さい。	general,attraction,shopping,weather
+3566	7	SYSTEM	営業時間は09:00～00:00で、上野幌駅からタクシーで14分でございます。	general,attraction,shopping,weather
+3566	8	USER	ありがとうございます。もう１つ、手稲区の9月16日の天気と最高気温を教えて下さい。	general,attraction,shopping,weather
+3566	9	SYSTEM	天気は曇のち晴、最高気温が26.6度でございます。	general,attraction,shopping,weather
+3566	10	USER	ありがとうございます。助かりました。それでは失礼します。	general,attraction,shopping,weather

@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4557	0	USER	東京へ旅行するのですが駐車場とWIFIが無料の観光名所は千代田区にありますか？	general,attraction
+4557	1	SYSTEM	1件みつかりました。東京ミッドタウン日比谷はいかがですか？	general,attraction
+4557	2	USER	いいですね。最寄駅からの所要時間はどれくらいですか？	general,attraction
+4557	3	SYSTEM	所要時間は、日比谷駅から徒歩で0分となっています。	general,attraction
+4557	4	USER	助かりました！以上です。ありがとうございました。	general,attraction
+4557	5	SYSTEM	承知しました。ありがとうございました。	general,attraction

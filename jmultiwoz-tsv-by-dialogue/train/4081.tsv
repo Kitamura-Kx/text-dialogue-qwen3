@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4081	0	USER	大阪への旅行を計画しています． 当日泊まる宿泊施設を探してください．Wi-Fiが無料で利用できてレストランが併設されているところがいいです。	general,hotel
+4081	1	SYSTEM	イビススタイルズ大阪難波はいかがでしょうか。	general,hotel
+4081	2	USER	そちらのエリア，料金情報を教えていただけますか。	general,hotel
+4081	3	SYSTEM	エリアは中央区で値段帯は安めです。	general,hotel
+4081	4	USER	ありがとうございます。	general,hotel

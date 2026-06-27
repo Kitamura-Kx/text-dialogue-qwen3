@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3231	0	USER	横浜へ旅行をするので、その時に食事ができるお店を探してもらえますか？	general,restaurant
+3231	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,restaurant
+3231	2	USER	はい、中華料理を食べたいです。横浜駅あたりで良いお店はありますか？	general,restaurant
+3231	3	SYSTEM	かしこまりました。では、京華樓 鶴屋町CRANE店はいかがでしょうか？	general,restaurant
+3231	4	USER	良いですね。京華樓 鶴屋町CRANE店はどんな値段帯のお店なのでしょうか？お店の料金情報も知りたいです。	general,restaurant
+3231	5	SYSTEM	はい。値段帯は安めとなっております。詳しい料金情報に関しては不明です。申し訳ございません。	general,restaurant
+3231	6	USER	分かりました。ありがとうございます。	general,restaurant
+3231	7	SYSTEM	はい。ほかに何かおしらべすることはございませんか？	general,restaurant
+3231	8	USER	これで全てです、ありがとうございました。	general,restaurant
+3231	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

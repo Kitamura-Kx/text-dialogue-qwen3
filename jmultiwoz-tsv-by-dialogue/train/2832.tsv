@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2832	0	USER	大阪へ行くのですが、ジャンボタクシーを利用できるタクシー会社を探しています。	general,taxi
+2832	1	SYSTEM	申し訳ございません。大阪では、ジャンボタクシー対応の会社でご案内できるところがございませんでした。	general,taxi
+2832	2	USER	ジャンボタクシーは対応していなくてもいいです。	general,taxi
+2832	3	SYSTEM	ありがとうございます。では、商都交通株式会社はいかがでしょうか？	general,taxi
+2832	4	USER	キャッシュレス対応はしているのですか？	general,taxi
+2832	5	SYSTEM	はい、対応しております。	general,taxi
+2832	6	USER	電話番号を教えてください。	general,taxi
+2832	7	SYSTEM	電話番号は、0662626868でございます。	general,taxi
+2832	8	USER	1/7の09:30にBEEHIVE HOSTEL OSAKAから素材の力と和の心 乾坤一擲まで予約をお願いしたいです。	general,taxi
+2832	9	SYSTEM	ご予約ありがとうございます。予約番号35417にて、お取りしました。	general,taxi
+2832	10	USER	ありがとうございました。	general,taxi
+2832	11	SYSTEM	他にご用件はございませんか？	general,taxi
+2832	12	USER	ないです。	general,taxi
+2832	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

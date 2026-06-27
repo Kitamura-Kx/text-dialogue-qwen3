@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4196	0	USER	札幌に行く予定なのですが、駐車場が無料で利用できる、商店街をおしえてください。	general,shopping,taxi
+4196	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。　どうされますか？	general,shopping,taxi
+4196	2	USER	洋服が買い物できる場所はありますか？	general,shopping,taxi
+4196	3	SYSTEM	それでしたら、東急百貨店 さっぽろ店　こちらがよろしいかと思います。	general,shopping,taxi
+4196	4	USER	ありがとうございます。ジャンボタクシーも使いたいのですが、ありますか？	general,shopping,taxi
+4196	5	SYSTEM	ジャンボタクシーですね、では、恊和交通(株)はいかがでしょうか？	general,shopping,taxi
+4196	6	USER	電話番号おしえてください。それと、キャッシュレス対応してますか？	general,shopping,taxi
+4196	7	SYSTEM	電話番号は、0118751211です。　はい、こちらは、キャッシュレス対応もしております。	general,shopping,taxi
+4196	8	USER	では、予約をお願いします。日にちは、2月2日の13時50分で、札幌オリンピックミュージアムから、東急百貨店までお願いします。	general,shopping,taxi
+4196	9	SYSTEM	予約が完了しました。　予約番号は、98966になります。	general,shopping,taxi
+4196	10	USER	ありがとうございます。では、失礼します。	general,shopping,taxi
+4196	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

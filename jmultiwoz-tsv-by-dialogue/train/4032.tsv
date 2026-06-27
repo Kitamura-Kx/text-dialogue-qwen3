@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4032	0	USER	札幌旅行を計画していますが、豊平区で買い物できるところを探しています。駐車場無料のところ希望ですが、どこかありますか？	general,shopping,hotel,taxi
+4032	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,hotel,taxi
+4032	2	USER	それでは、駐車場は有料でも構いません。どこかありますか？	general,shopping,hotel,taxi
+4032	3	SYSTEM	駐車場の条件を有料に変更しても、ご案内ができません。駐車場の条件そのものを希望なしに変更致しますか？	general,shopping,hotel,taxi
+4032	4	USER	ごめんなさい。駐車場はなくてもいいです。	general,shopping,hotel,taxi
+4032	5	SYSTEM	ありがとうございます。では、もりもと ミュンヘン大橋店はいかがでしょう？ジャンルは、食料品、お土産となります。	general,shopping,hotel,taxi
+4032	6	USER	ありがとうございます。駅からの所要時間はどれくらいになりますか。	general,shopping,hotel,taxi
+4032	7	SYSTEM	はい、最寄りの澄川駅から徒歩で15分となります。	general,shopping,hotel,taxi
+4032	8	USER	ありがとうございます。リゾートホテルに泊まりたいのですが、探していただけますか。	general,shopping,hotel,taxi
+4032	9	SYSTEM	承知しました。エリアでいうと南区にある、定山渓ビューホテルはいかがでしょう？	general,shopping,hotel,taxi
+4032	10	USER	いいですね。ありがとうございます。あと、タクシーも探していただけますか。ジャンボタクシーがあるところがいいです。	general,shopping,hotel,taxi
+4032	11	SYSTEM	申し訳ありません、ジャンボタクシー対応のタクシー会社はございません。いかが致しましょう？	general,shopping,hotel,taxi
+4032	12	USER	そうですか。それではジャンボタクシーはなくても構いません。	general,shopping,hotel,taxi
+4032	13	SYSTEM	ありがとうございます。では、鈴蘭交通(株)はいかがでしょう？キャッシュレスには対応しております。電話番号は、0116676000となります。	general,shopping,hotel,taxi
+4032	14	USER	ありがとうございます。予約をお願いします。日付は6/29，時間は13:20で、もりもと ミュンヘン大橋店から定山渓ビューホテルまででお願いします。	general,shopping,hotel,taxi
+4032	15	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,shopping,hotel,taxi
+4032	16	USER	そうしましたら、時間を14:10にしていただけますか。	general,shopping,hotel,taxi
+4032	17	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、78760となります。	general,shopping,hotel,taxi
+4032	18	USER	ありがとうございました。	general,shopping,hotel,taxi

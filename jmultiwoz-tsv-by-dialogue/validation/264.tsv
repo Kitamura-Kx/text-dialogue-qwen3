@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+264	0	USER	福岡に行くんですが、中央区で駐車場無料で買い物できるところはありませんか？	general,shopping,restaurant,taxi
+264	1	SYSTEM	はい。では福岡三越はいかがでしょうか。	general,shopping,restaurant,taxi
+264	2	USER	いいですね。定休日ってありますか？	general,shopping,restaurant,taxi
+264	3	SYSTEM	定休日は不定休となっております。	general,shopping,restaurant,taxi
+264	4	USER	開いてるのを祈りますよ。ホテルレストランの適当なところも教えてもらえまえんかね？やっぱり駐車場無料のところをお願いします。	general,shopping,restaurant,taxi
+264	5	SYSTEM	レストラン サラフルはいかがですか。	general,shopping,restaurant,taxi
+264	6	USER	いい感じです。もう一つタクシー会社もお願いしていいですか？ジャンボタクシーが使えてキャッシュレス払いが可能な会社をお願いしたいんですけど。	general,shopping,restaurant,taxi
+264	7	SYSTEM	申し訳ございません。どちらも対応しているタクシー会社がございません。	general,shopping,restaurant,taxi
+264	8	USER	じゃあ、ジャンボタクシーはなしでいいです。	general,shopping,restaurant,taxi
+264	9	SYSTEM	では親和交通（株）がございます。	general,shopping,restaurant,taxi
+264	10	USER	電話番号もお願いします。	general,shopping,restaurant,taxi
+264	11	SYSTEM	電話番号は0924738811でございます。	general,shopping,restaurant,taxi
+264	12	USER	予約もできますか？9月1日、福岡三越を11時に出て、レストラン サラフルまでなんですけど。	general,shopping,restaurant,taxi
+264	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は24437でございます。	general,shopping,restaurant,taxi
+264	14	USER	いろいろ面倒をお願いしてすみませんでした。お世話になりました。	general,shopping,restaurant,taxi

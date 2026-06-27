@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+364	0	USER	お願いします。横浜への旅行を計画しています。当日使えるタクシー会社を探しています。	general,taxi
+364	1	SYSTEM	ご利用ありがとうございます。横浜のタクシー会社は、20件ほどご案内可能です。ジャンボタクシーのご利用予定などは、ございますか？	general,taxi
+364	2	USER	北斗タクシー株式会社というタクシー会社はありますか？	general,taxi
+364	3	SYSTEM	はい、ございます。予約なさいますか？	general,taxi
+364	4	USER	そちらのタクシー会社もジャンボタクシー対応ですか？	general,taxi
+364	5	SYSTEM	はい、対応しております。	general,taxi
+364	6	USER	電話番号はいくつでしょう？	general,taxi
+364	7	SYSTEM	電話番号は、0456238884でございます。	general,taxi
+364	8	USER	では、予約をお願いします。７月２６日も１３時４０分、フレンチバルレ・サンス発、キリンビール横浜工場着でお願いします。	general,taxi
+364	9	SYSTEM	かしこまりました。ご予約番号97223にて、承りました。	general,taxi
+364	10	USER	ありがとうございました。では失礼します。	general,taxi
+364	11	SYSTEM	本日はご利用ありがとうございました。	general,taxi

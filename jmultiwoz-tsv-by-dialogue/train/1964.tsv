@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1964	0	USER	こんにちは。今、京都へ旅行に行こうと思っているのですが、宿泊施設を探していただけますか？	general,hotel,attraction,weather
+1964	1	SYSTEM	ありがとうございます。京都の宿泊施設ですが、101件ほどございまして、何か条件はございますでしょうか？	general,hotel,attraction,weather
+1964	2	USER	えっと、予算は普通のところでお願いしたいのですが、あと、WiFiと駐車場が無料で使える所が良いです。	general,hotel,attraction,weather
+1964	3	SYSTEM	かしこまりました。それではなごみ宿 都和はいかがでしょうか？	general,hotel,attraction,weather
+1964	4	USER	ありがとうございます。では、そちらの案内をお願いします。電話番号と、住所を教えてください。	general,hotel,attraction,weather
+1964	5	SYSTEM	はい、電話番号は0753715421でして、住所は京都府京都市下京区東中筋通七条上る文覚町395でございます。	general,hotel,attraction,weather
+1964	6	USER	ありがとうございます。あと、近辺の駅からの所要時間もお願いできますでしょうか。	general,hotel,attraction,weather
+1964	7	SYSTEM	はい、京都駅から徒歩で8分となっております。	general,hotel,attraction,weather
+1964	8	USER	そうなんですね。では、そちらを予約したいと思います。5月10日から３泊で、人数は３人なのですが、よろしくお願いします。	general,hotel,attraction,weather
+1964	9	SYSTEM	ありがとうございます。予約番号は89463でご予約致しました。	general,hotel,attraction,weather
+1964	10	USER	手配、ありがとうございます。あと、観光名所についてもご案内いただけますか？	general,hotel,attraction,weather
+1964	11	SYSTEM	かしこまりました。それでは京都タワーはいかがでしょうか？	general,hotel,attraction,weather
+1964	12	USER	そちらも良いのですが、すみません、上京区にある、神社・寺院・教会・モニュメントなどで、駐車場を無料で利用できるところでお願いしたいです。	general,hotel,attraction,weather
+1964	13	SYSTEM	かしこまりました。それでは北野天満宮がございます。	general,hotel,attraction,weather
+1964	14	USER	ありがとうございます。そちらの電話番号を伺ってもよろしいですか？	general,hotel,attraction,weather
+1964	15	SYSTEM	はい、電話番号は0754610005でございます。	general,hotel,attraction,weather
+1964	16	USER	かしこまりました。あと、５月10日の西京区の天候についても、お調べいただけますか？	general,hotel,attraction,weather
+1964	17	SYSTEM	はい、当日の西京区のお天気は曇のち雨の予報となっております。	general,hotel,attraction,weather
+1964	18	USER	そうなんですね。最高気温もわかりますか？	general,hotel,attraction,weather
+1964	19	SYSTEM	はい、最高気温は22.3度となっております。	general,hotel,attraction,weather
+1964	20	USER	ありがとうございます。色々お調べいただき助かりました。	general,hotel,attraction,weather
+1964	21	SYSTEM	ありがとうございました。	general,hotel,attraction,weather

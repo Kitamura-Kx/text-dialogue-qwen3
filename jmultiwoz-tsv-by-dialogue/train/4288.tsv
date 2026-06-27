@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4288	0	USER	名古屋へ行ったときに泊まるところを探しています。	general,hotel,restaurant
+4288	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,restaurant
+4288	2	USER	はい。瑞穂区にある旅館で、駐車場が無料のところはありませんか？	general,hotel,restaurant
+4288	3	SYSTEM	では魚鍵旅館はいかがですか。	general,hotel,restaurant
+4288	4	USER	いいですね、そこにします。住所と、チェックイン開始時刻を教えてください。	general,hotel,restaurant
+4288	5	SYSTEM	住所は愛知県名古屋市瑞穂区船原町2丁目8でございます。チェックイン開始時刻 は16:00でございます。	general,hotel,restaurant
+4288	6	USER	ありがとうございます。では予約したいのですが、5月20日から4泊、人数は3人でお願いできますか？	general,hotel,restaurant
+4288	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,restaurant
+4288	8	USER	人数は2人ではどうでしょうか？	general,hotel,restaurant
+4288	9	SYSTEM	その人数ですと予約が可能でございました。予約番号は64200でございます。	general,hotel,restaurant
+4288	10	USER	ありがとうございます。当日食事ができるところも探してほしいです。最寄り駅が国際センター駅で、無料駐車場があるところがいいのですが。	general,hotel,restaurant
+4288	11	SYSTEM	ではビストロコバがございます。	general,hotel,restaurant
+4288	12	USER	そこに行きたいと思います。エリアと、料金情報を教えてください。	general,hotel,restaurant
+4288	13	SYSTEM	エリアは西区で、料金情報としましては、ビーフカツレツが2500円,子牛のカツレツが2700円となっております。	general,hotel,restaurant
+4288	14	USER	ありがとうございます。5月20日の13時20分に、4人で予約をお願いします。	general,hotel,restaurant
+4288	15	SYSTEM	かしこまりました。予約番号は89889でございます。	general,hotel,restaurant
+4288	16	USER	予約ありがとうございました。	general,hotel,restaurant
+4288	17	SYSTEM	ほかにご用件はございませんか。	general,hotel,restaurant
+4288	18	USER	いえ、大丈夫です。ありがとうございます。	general,hotel,restaurant
+4288	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant

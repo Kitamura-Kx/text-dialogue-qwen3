@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3560	0	USER	札幌への旅行を計画しています。 当日食事ができる飲食店を探してください。	general,restaurant,shopping,weather
+3560	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,shopping,weather
+3560	2	USER	Wi-Fiが無料で利用できるところにしてください。ジャンルはホテルレストラン、予算は普通が希望です。	general,restaurant,shopping,weather
+3560	3	SYSTEM	ではHOKKAIDO CUISINE KAMUYはいかがでしょうか。	general,restaurant,shopping,weather
+3560	4	USER	そのお店の料金情報，駐車場の有無を教えてください。	general,restaurant,shopping,weather
+3560	5	SYSTEM	料金情報はDéjeuner Aが7000円、Déjeuner Bが15000円、Dîner Aが8500円となっております。駐車場はございません。	general,restaurant,shopping,weather
+3560	6	USER	当日買い物ができるところを探してください。地区は中央区、ジャンルはショッピングモールです。	general,restaurant,shopping,weather
+3560	7	SYSTEM	ではマルヤマクラスはいかがですか。	general,restaurant,shopping,weather
+3560	8	USER	そのお店の駐車場の有無，定休日，近辺の駅からの所要時間を教えてください。	general,restaurant,shopping,weather
+3560	9	SYSTEM	無料の駐車場がございます。定休日は無し、円山公園駅から徒歩で1分となっております。	general,restaurant,shopping,weather
+3560	10	USER	当日の天候を調べてください。地区は西区、日付は1/23です。	general,restaurant,shopping,weather
+3560	11	SYSTEM	天気は晴時々曇、最低気温が-5.2度で最高気温が-0.2度でございます。	general,restaurant,shopping,weather
+3560	12	USER	解決しました。ありがとうございました。	general,restaurant,shopping,weather
+3560	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,weather

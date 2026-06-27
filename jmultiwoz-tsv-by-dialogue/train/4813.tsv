@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4813	0	USER	横浜へ旅行に行くので、飲食店を探して欲しいです。	general,restaurant,attraction,weather
+4813	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,restaurant,attraction,weather
+4813	2	USER	中区の駐車場無料のお店が良いです。	general,restaurant,attraction,weather
+4813	3	SYSTEM	中区で駐車場無料の飲食店は２つありますが、横浜らしく、三和楼、こちらをお勧めします。	general,restaurant,attraction,weather
+4813	4	USER	そちらのお店は近辺駅からどれくらいかかりますか？	general,restaurant,attraction,weather
+4813	5	SYSTEM	元町・中華街駅から徒歩で3分、その他、石川町駅から徒歩で10分です。	general,restaurant,attraction,weather
+4813	6	USER	あと営業時間を教えてください。	general,restaurant,attraction,weather
+4813	7	SYSTEM	１１：３０から、夜９時半までです。	general,restaurant,attraction,weather
+4813	8	USER	ありがとうございます。次に観光できるところを探してください。	general,restaurant,attraction,weather
+4813	9	SYSTEM	はい、ご希望の条件をおきかせください。	general,restaurant,attraction,weather
+4813	10	USER	緑区で駐車場が無料で使えるところがいいです。	general,restaurant,attraction,weather
+4813	11	SYSTEM	緑区で駐車場無料の観光スポットといえば、県立 四季の森公園、こちらになります。	general,restaurant,attraction,weather
+4813	12	USER	そこはジャンルでいうと何になりますか？	general,restaurant,attraction,weather
+4813	13	SYSTEM	自然・公園です。	general,restaurant,attraction,weather
+4813	14	USER	ありがとうございます。最後に5/3の戸塚区の天候を教えてください。	general,restaurant,attraction,weather
+4813	15	SYSTEM	5/3 横浜 戸塚区 の天気は雨時々曇、最低気温19度、最高気温27.7度です。	general,restaurant,attraction,weather
+4813	16	USER	ありがとうございます。以上になります。	general,restaurant,attraction,weather
+4813	17	SYSTEM	よい旅を	general,restaurant,attraction,weather

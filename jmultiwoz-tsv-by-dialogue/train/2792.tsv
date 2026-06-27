@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2792	0	USER	那覇への旅行を検討しています。当日宿泊できるシティホテルを探しているのですが、色々お伺いしてもよろしいでしょうか？	general,hotel
+2792	1	SYSTEM	承知しました。他にご希望はございますか？	general,hotel
+2792	2	USER	はい。小禄地区で、駐車場を無料で利用出来る施設を探しているのですが。	general,hotel
+2792	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel
+2792	4	USER	そうですね。でしたら、エリアは考慮しませんので、それ以外の条件で該当する施設はありますかね？	general,hotel
+2792	5	SYSTEM	はい、エリアでいうと本庁に、パシフィックホテル沖縄がございます。	general,hotel
+2792	6	USER	では、そこで検討してみたいです。この施設の料金情報を教えて貰えますか？	general,hotel
+2792	7	SYSTEM	申し訳ありません、ご案内可能な料金情報はございません。	general,hotel
+2792	8	USER	そうですか。では、この施設のWi-Fiの有無を教えて頂けますか？	general,hotel
+2792	9	SYSTEM	はい、Wi-Fiは無料でご利用いただけます。	general,hotel
+2792	10	USER	ありがとうございます。もう少し検討してみます。ご対応ありがとうございますした。	general,hotel
+2792	11	SYSTEM	ありがとうございました。	general,hotel

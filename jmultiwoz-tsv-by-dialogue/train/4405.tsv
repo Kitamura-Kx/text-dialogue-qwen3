@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4405	0	USER	横浜へ旅行するので、保土ケ谷区の買い物屋さんを探してください。	general,shopping
+4405	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping
+4405	2	USER	そうですか。南区でもいいです。	general,shopping
+4405	3	SYSTEM	かしこまりました。それでは弘明寺かんのん通り商店街はいかがでしょうか？	general,shopping
+4405	4	USER	そこにします。ジャンルと電話番号を教えてください。	general,shopping
+4405	5	SYSTEM	はい、ジャンルは商店街でして、電話番号は0457414959でございます。	general,shopping
+4405	6	USER	ありがとうございました。もう大丈夫です。	general,shopping
+4405	7	SYSTEM	ありませんでした。またお待ちしております。	general,shopping

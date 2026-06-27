@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1002	0	USER	東京への旅行を考えているのですが、江東区の観光名所を調べてください。	general,attraction,hotel,weather
+1002	1	SYSTEM	かしこまりました。ジャンルなど、ご希望はございませんか？	general,attraction,hotel,weather
+1002	2	USER	はい。無料駐車場があるところにしてください。	general,attraction,hotel,weather
+1002	3	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,attraction,hotel,weather
+1002	4	USER	そうですか。であれば、駐車場はなくてもいいです。	general,attraction,hotel,weather
+1002	5	SYSTEM	ありがとうございます。そういたしますと、5件ご案内可能です。そのうちの1つ、清澄庭園というところはいかがでしょうか？ジャンルは、庭園, 美術館・博物館, 自然・公園です。	general,attraction,hotel,weather
+1002	6	USER	そこにします。定休日はありますか？	general,attraction,hotel,weather
+1002	7	SYSTEM	年末年始が定休日となっております。	general,attraction,hotel,weather
+1002	8	USER	わかりました。シティホテルタイプの港区の宿泊施設はありますか？予算は普通くらいです。	general,attraction,hotel,weather
+1002	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,hotel,weather
+1002	10	USER	そうですか。であれば予算は指定しません。	general,attraction,hotel,weather
+1002	11	SYSTEM	ありがとうございます。それでは、ヴィラフォンテーヌ グランド東京汐留というところは、いかがでしょうか？お値段はお安めのシティホテルです。	general,attraction,hotel,weather
+1002	12	USER	そこにします。チェックアウト終了時刻と電話番号を教えてください。	general,attraction,hotel,weather
+1002	13	SYSTEM	チェックアウトは11時終了となっております。電話番号は、0335692111です。	general,attraction,hotel,weather
+1002	14	USER	わかりました。3人で3/29から2泊の予約をお願いしていいですか？	general,attraction,hotel,weather
+1002	15	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,attraction,hotel,weather
+1002	16	USER	わかりました。なら1泊に変更します。	general,attraction,hotel,weather
+1002	17	SYSTEM	ありがとうございます。1泊にて、ご予約完了いたしました。予約番号は、24787でございます。	general,attraction,hotel,weather
+1002	18	USER	ありがとうございます。あと、渋谷区の3/29の天気を教えてください。	general,attraction,hotel,weather
+1002	19	SYSTEM	かしこまりました。当日の天気は、晴れ時々雨の予報です。最低気温は2.9度ですが、最高気温は19.2度まで上がる予想です。	general,attraction,hotel,weather
+1002	20	USER	わかりました。ありがとうございます。	general,attraction,hotel,weather
+1002	21	SYSTEM	他になにかお調べすることはございますか？	general,attraction,hotel,weather
+1002	22	USER	いえ、大丈夫です。	general,attraction,hotel,weather
+1002	23	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,attraction,hotel,weather

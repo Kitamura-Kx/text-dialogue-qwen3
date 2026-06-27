@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1383	0	USER	那覇へ旅行に行くのですが、当日食事ができる飲食店を探しています。	general,restaurant,attraction,weather
+1383	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,attraction,weather
+1383	2	USER	ジャンルは和食で、Wi-Fiと駐車場が無料で使える場所がいいです	general,restaurant,attraction,weather
+1383	3	SYSTEM	ではしゃぶ葉 那覇おもろまち店はいかがですか。	general,restaurant,attraction,weather
+1383	4	USER	そちらに行くので、営業時間とエリアを教えてください	general,restaurant,attraction,weather
+1383	5	SYSTEM	営業時間は11:00～23:30でございます。エリアは本庁でございます。	general,restaurant,attraction,weather
+1383	6	USER	ありがとうございます。あと当日訪れる観光名所を探しています。	general,restaurant,attraction,weather
+1383	7	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,attraction,weather
+1383	8	USER	ジャンルは世界遺産で、Wi-Fiが無料で利用できるところにしてください	general,restaurant,attraction,weather
+1383	9	SYSTEM	では首里城がございます。	general,restaurant,attraction,weather
+1383	10	USER	ありがとうございます。あと当日の天候を知りたいです。	general,restaurant,attraction,weather
+1383	11	SYSTEM	かしこまりました。お知りになりたいエリアと日付を教えていただけますか。	general,restaurant,attraction,weather
+1383	12	USER	エリアは本庁、日付は10月7日で、最高気温を教えてください	general,restaurant,attraction,weather
+1383	13	SYSTEM	最高気温は24.9度でございます。	general,restaurant,attraction,weather
+1383	14	USER	ありがとうございました。以上です。	general,restaurant,attraction,weather
+1383	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,weather

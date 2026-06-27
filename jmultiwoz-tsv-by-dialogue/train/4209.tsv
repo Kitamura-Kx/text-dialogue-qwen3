@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4209	0	USER	横浜で食事が出来るところを探してください。wifiが無料で使える、安めのお店が希望です。	general,restaurant,shopping,weather
+4209	1	SYSTEM	では、焼肉カーニバルというお店はいかがですか？	general,restaurant,shopping,weather
+4209	2	USER	そのお店は最寄駅からどのぐらい時間がかかりますか？	general,restaurant,shopping,weather
+4209	3	SYSTEM	最寄り駅の馬車道駅から徒歩で1分です。	general,restaurant,shopping,weather
+4209	4	USER	ちなみに、エリアで言うと、どこになりますか？	general,restaurant,shopping,weather
+4209	5	SYSTEM	エリアは、中区になります。	general,restaurant,shopping,weather
+4209	6	USER	では、予約をお願いします。８月２２日の１４時４０分で、３人でお願いします。	general,restaurant,shopping,weather
+4209	7	SYSTEM	予約が完了しました。　予約番号は、62506です。	general,restaurant,shopping,weather
+4209	8	USER	当日、買い物もしたいと思っています。瀬谷区で文房具・雑貨ジャンルのお店ってありますか？	general,restaurant,shopping,weather
+4209	9	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,restaurant,shopping,weather
+4209	10	USER	わかりました。では、ジャンルは問いませんので、おすすめを教えてください。	general,restaurant,shopping,weather
+4209	11	SYSTEM	1件みつかりました。Augusta Milk Farm 相澤良牧場はいかがですか？	general,restaurant,shopping,weather
+4209	12	USER	よさそうです。そちらの最寄り駅はどこになりますか？	general,restaurant,shopping,weather
+4209	13	SYSTEM	最寄り駅は、いずみ野駅になります。	general,restaurant,shopping,weather
+4209	14	USER	ところで、８月２２日の南区の天気情報ってわかりますか？	general,restaurant,shopping,weather
+4209	15	SYSTEM	その日の天気は、曇のち晴です。	general,restaurant,shopping,weather
+4209	16	USER	最低気温はどのぐらいですか？	general,restaurant,shopping,weather
+4209	17	SYSTEM	最低気温は30度になっております。	general,restaurant,shopping,weather
+4209	18	USER	わかりました。ありがとうございました。	general,restaurant,shopping,weather
+4209	19	SYSTEM	他にご用件はありますか？	general,restaurant,shopping,weather
+4209	20	USER	いえ。これで失礼します。	general,restaurant,shopping,weather
+4209	21	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,weather

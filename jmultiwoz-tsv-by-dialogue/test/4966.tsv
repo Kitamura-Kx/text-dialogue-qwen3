@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4966	0	USER	名古屋へ旅行予定なのですが、港区の飲食店を調べてください。矢場町駅が最寄りで、無料駐車場があると嬉しいです。	general,restaurant
+4966	1	SYSTEM	申し訳ありません、その条件ではお探しすることが出来ませんでした。	general,restaurant
+4966	2	USER	そうですか。最寄り駅はどこでもいいです。	general,restaurant
+4966	3	SYSTEM	かしこまりました。それでは、ソーサリートはいかがでしょうか？	general,restaurant
+4966	4	USER	そこにします。料金情報と、近辺の駅からの所要時間を教えてください。	general,restaurant
+4966	5	SYSTEM	はい、料金情報は、シェフお任せコースが8800円,ステーキ・ディナーコースが6600円でございます。近辺の駅からですと、名古屋競馬場前駅から徒歩で10分、または荒子川公園駅から徒歩で10分でございます。	general,restaurant
+4966	6	USER	了解です。もう大丈夫です。	general,restaurant
+4966	7	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

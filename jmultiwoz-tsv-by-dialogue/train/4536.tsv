@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4536	0	USER	京都へ旅行に行く予定なのですがWI-FIが無料で使える観光名所はありますか？	general,attraction,taxi,weather
+4536	1	SYSTEM	京都にはWiFi無料の観光名所はなさそうです。	general,attraction,taxi,weather
+4536	2	USER	そうなんですね。それではWIFIは諦めます。おすすめのところはありますか？	general,attraction,taxi,weather
+4536	3	SYSTEM	それでは、京都らしく、伏見稲荷大社をお勧めします。	general,attraction,taxi,weather
+4536	4	USER	行ったことがないです！電話番号とか料金のことが知りたいです！	general,attraction,taxi,weather
+4536	5	SYSTEM	電話番号は0756417331、大人も子供も無料拝観自由です。	general,attraction,taxi,weather
+4536	6	USER	ありがとうございます。ジャンボタクシーを利用したいのですが。	general,attraction,taxi,weather
+4536	7	SYSTEM	はい、京都でジャンボタクシーなら、都タクシー株式会社をおすすめします。	general,attraction,taxi,weather
+4536	8	USER	そちらはキャッシュレス対応ですか？電話番号も教えて下さい。	general,attraction,taxi,weather
+4536	9	SYSTEM	はい、キャッシュレスに対応しています。電話は、0756616611です。	general,attraction,taxi,weather
+4536	10	USER	ありがとうございます。それではそこを予約して頂けますか？12/29の12:30です．伏見稲荷大社から、ひさごというところまでです。	general,attraction,taxi,weather
+4536	11	SYSTEM	予約成功しました。予約番号は8036です。	general,attraction,taxi,weather
+4536	12	USER	ありがとうございます。西京区の12/29の天気が気になります。	general,attraction,taxi,weather
+4536	13	SYSTEM	12/29 京都 西京区 の天気は晴、最低気温0.6度、最高気温12.9度です。	general,attraction,taxi,weather
+4536	14	USER	大変助かりました！ありがとうございました。	general,attraction,taxi,weather

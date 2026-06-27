@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4396	0	USER	今度仙台へ行くんですが、教室・ワークショップ・体験ができて、駐車場無料でWi-Fiも無料で利用できる観光名所を探してもらえますか？	general,attraction,shopping,taxi
+4396	1	SYSTEM	かしこまりました。では、仙台市文学館はいかがでしょうか。	general,attraction,shopping,taxi
+4396	2	USER	ありがとうございます。ではそこの近辺の駅からの所要時間と料金情報も教えてください。	general,attraction,shopping,taxi
+4396	3	SYSTEM	仙台駅からバスで25分、泉中央駅からバスで20分、八乙女駅からバスで9分となっております。料金情報は一般が460円、高校生が230円、小、中学生が110円でございます。	general,attraction,shopping,taxi
+4396	4	USER	ありがとうございます。あと、青葉区で駐車場無料の食料品の買えるお店を探してもらえますか？	general,attraction,shopping,taxi
+4396	5	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,shopping,taxi
+4396	6	USER	そうですか。では、地区にはこだわらず探してください。	general,attraction,shopping,taxi
+4396	7	SYSTEM	ではシベールの杜 南中山店がございます。	general,attraction,shopping,taxi
+4396	8	USER	ありがとうございます。じゃあそこの最寄り駅と住所も教えてもらえますか？	general,attraction,shopping,taxi
+4396	9	SYSTEM	最寄り駅は仙台駅で、住所が宮城県仙台市泉区南中山5丁目5-47でございます。	general,attraction,shopping,taxi
+4396	10	USER	ありがとうございます。あとキャッシュレス払いが利用できるタクシー会社を探してもらえますか？	general,attraction,shopping,taxi
+4396	11	SYSTEM	はい。仙南タクシー（株）がございます。こちらジャンボタクシーにも対応しております。	general,attraction,shopping,taxi
+4396	12	USER	ありがとうございます。では予約をお願いできますか？9/29の15：30に台市文学館を出発して、シベールの杜 南中山店まで利用したいです。	general,attraction,shopping,taxi
+4396	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は53448でございます。	general,attraction,shopping,taxi
+4396	14	USER	ありがとうございました。以上で結構です。	general,attraction,shopping,taxi
+4396	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,taxi

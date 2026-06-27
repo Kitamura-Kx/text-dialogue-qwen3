@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3585	0	USER	大阪に行こうと思ってて、東成区で、駐車場とWi-Fiが無料で使える観光名所はないですか？	general,attraction
+3585	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction
+3585	2	USER	では地区は東成区じゃなくても大丈夫です。	general,attraction
+3585	3	SYSTEM	では鶴見緑地湯元 水春がございます。	general,attraction
+3585	4	USER	いいですね。そこのジャンルと営業時間も知りたいです。	general,attraction
+3585	5	SYSTEM	ジャンルが銭湯・スパ, 温泉で、営業時間は00:00～02:00, 06:00～00:00となっております。	general,attraction
+3585	6	USER	ありがとうございます。	general,attraction
+3585	7	SYSTEM	ほかにご用件はございませんか。	general,attraction
+3585	8	USER	いえ、大丈夫です。ありがとうございました。	general,attraction
+3585	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

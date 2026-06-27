@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4845	0	USER	8/4に札幌へ行くので気温を教えてください。北区でお願いします。	general,weather,taxi
+4845	1	SYSTEM	最高気温は、28.7度で最低気温は21.1度です。	general,weather,taxi
+4845	2	USER	ありがとうございます。あとその日に乗るジャンボタクシーも探してほしいです。	general,weather,taxi
+4845	3	SYSTEM	ライラック交通(株)はいかがですか？	general,weather,taxi
+4845	4	USER	そこにします。電話番号を教えてください。	general,weather,taxi
+4845	5	SYSTEM	電話番号は、0117535821になります。	general,weather,taxi
+4845	6	USER	ありがとうございます。そのタクシーを8/4の10：40にピカンティ 札幌琴似店から札幌エクセルホテル東急まで予約したいです。	general,weather,taxi
+4845	7	SYSTEM	予約出来ました。予約番号は、72686です。	general,weather,taxi
+4845	8	USER	ありがとうございました。	general,weather,taxi
+4845	9	SYSTEM	他にご用件はありますか？	general,weather,taxi
+4845	10	USER	大丈夫です。	general,weather,taxi
+4845	11	SYSTEM	承知しました。ありがとうございました。	general,weather,taxi

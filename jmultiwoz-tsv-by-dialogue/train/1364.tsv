@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1364	0	USER	横浜へ旅行に行くので、宿泊施設を探してください	general,hotel
+1364	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,hotel
+1364	2	USER	エリアの指定はないです。宿のタイプはリゾートホテルで、Wi-Fiが無料で利用できるところにしてください。	general,hotel
+1364	3	SYSTEM	そうしますと、ザ・カハラ・ホテル&リゾート 横浜というところはいかがでしょうか？西区エリアにある、お値段帯がお高めのリゾートホテルです。	general,hotel
+1364	4	USER	そちらは駐車場はありますか？	general,hotel
+1364	5	SYSTEM	はい、有料ですが、ご利用いただけます。	general,hotel
+1364	6	USER	ではそのホテルを予約してください。人数は2人、日付は1/20、宿泊日数は2泊です。	general,hotel
+1364	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、25915です。	general,hotel
+1364	8	USER	ありがとうございます。これで以上です。	general,hotel
+1364	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

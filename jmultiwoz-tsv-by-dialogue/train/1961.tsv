@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1961	0	USER	名古屋への旅行を考えています。当日利用できるジャンボタクシーがあるタクシー会社を教えてください。	general,taxi
+1961	1	SYSTEM	それでは、瑞穂タクシーさんはいかがでしょうか？	general,taxi
+1961	2	USER	そちらが良さそうですね。そこはキャッシュレス対応でしょうか。あと電話番号も教えてください。	general,taxi
+1961	3	SYSTEM	はい、キャッシュレスにも対応しております。電話番号は0523311680でございます。	general,taxi
+1961	4	USER	そこに予約をしたいので当日10/30の10:30に出発地は賀屋 名古屋店で目的地はホテル いろはに予約お願いします。	general,taxi
+1961	5	SYSTEM	お待たせいたしました。予約番号98648で完了しました。	general,taxi
+1961	6	USER	分かりました。ありがとうございます。	general,taxi
+1961	7	SYSTEM	ありがとうございます。他にご用件はありますか？	general,taxi
+1961	8	USER	大丈夫です。ありがとうございました。	general,taxi
+1961	9	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi

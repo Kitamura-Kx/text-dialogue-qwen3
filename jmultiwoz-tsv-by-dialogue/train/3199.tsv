@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3199	0	USER	那覇への旅行を計画中で、おきなわ屋 泡盛蔵 国際店で買い物をしたいと考えています。エリア、電話番号と最寄り駅を教えていただきたいです。	general,shopping,hotel
+3199	1	SYSTEM	はい。エリアは本庁で、電話番号は0988685252になります。また、最寄り駅は牧志駅です。	general,shopping,hotel
+3199	2	USER	ありがとうございます。当日レストランと無料Wi-fi付きの簡易宿所を探しているのですが、ありますか？	general,shopping,hotel
+3199	3	SYSTEM	はい。グランドキャビンホテル那覇小禄はいかがでしょうか？	general,shopping,hotel
+3199	4	USER	そこにしようと思います。料金情報とチェックアウト終了時刻を教えていただきたいです。	general,shopping,hotel
+3199	5	SYSTEM	はい。料金情報は、値段帯が安めという情報しかございません。また、チェックアウト終了時刻は午前10:00となっております。	general,shopping,hotel
+3199	6	USER	ありがとうございます。6/17に2名で4泊予約して欲しいのですが、可能でしょうか。	general,shopping,hotel
+3199	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,shopping,hotel
+3199	8	USER	では、3泊に変更をお願いします。	general,shopping,hotel
+3199	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、6631です。	general,shopping,hotel
+3199	10	USER	助かります。ありがとうございます。	general,shopping,hotel
+3199	11	SYSTEM	こちらこそご利用ありがとうございました。	general,shopping,hotel
+3199	12	USER	では、失礼します。	general,shopping,hotel

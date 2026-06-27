@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1913	0	USER	京都へ旅行いたいので、宿泊施設を探しています。Wi-Fiと駐車場無料の所がいいのですが、最寄駅を出町柳駅で探していただけますか？	general,hotel,shopping,restaurant
+1913	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,hotel,shopping,restaurant
+1913	2	USER	そうなんですね。では出町柳駅じゃなくていいので、お願いします。	general,hotel,shopping,restaurant
+1913	3	SYSTEM	では旅館 寿々喜荘はいかがでしょうか。	general,hotel,shopping,restaurant
+1913	4	USER	ありがとうございます。そちらの料金情報と住所を教えていただけますか？	general,hotel,shopping,restaurant
+1913	5	SYSTEM	値段帯は安めでございますが、詳しい料金情報はわかりかねます。住所は京都府京都市伏見区成町８１３－１でございます。	general,hotel,shopping,restaurant
+1913	6	USER	そうですか、ありがとうございます。お手数ですが予約もお願いします。7/16から4泊で、2名です。	general,hotel,shopping,restaurant
+1913	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。	general,hotel,shopping,restaurant
+1913	8	USER	では3泊に変更してお願いできますか？	general,hotel,shopping,restaurant
+1913	9	SYSTEM	予約が完了いたしました。予約番号は60615でございます。	general,hotel,shopping,restaurant
+1913	10	USER	ありがとうございます。買物もしたいのですけど、お土産を買える場所で、駐車場無料の所はありますか？	general,hotel,shopping,restaurant
+1913	11	SYSTEM	かしこまりました。では道の駅 ウッディー京北はいかがでしょうか。	general,hotel,shopping,restaurant
+1913	12	USER	そこはどのエリアでしょうか？近辺の駅からの所用時間も知りたいです。	general,hotel,shopping,restaurant
+1913	13	SYSTEM	エリアは右京区で、円町駅からタクシーで40分でございます。	general,hotel,shopping,restaurant
+1913	14	USER	ありがとうございます。飲食店も探していて、予算休めで駐車場無料の所を探していただけますか？	general,hotel,shopping,restaurant
+1913	15	SYSTEM	かしこまりました。では海雲亭 洛西店はいかがでしょうか。	general,hotel,shopping,restaurant
+1913	16	USER	そちらの料金情報を教えてもらえます？	general,hotel,shopping,restaurant
+1913	17	SYSTEM	ほんわかランチが1980円、極上プレミアムコースが4500円、スタンダードコースが2980円でございます。	general,hotel,shopping,restaurant
+1913	18	USER	なるほど。では予約もお願いいたします。7/16の14:30で、4名です。	general,hotel,shopping,restaurant
+1913	19	SYSTEM	予約が完了いたしました。予約番号は4054でございます。	general,hotel,shopping,restaurant
+1913	20	USER	色々とありがとうございました。助かりました。	general,hotel,shopping,restaurant
+1913	21	SYSTEM	ほかにご用件はございますか。	general,hotel,shopping,restaurant
+1913	22	USER	いえ、大丈夫です。どうもありがとうございました。	general,hotel,shopping,restaurant
+1913	23	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,restaurant

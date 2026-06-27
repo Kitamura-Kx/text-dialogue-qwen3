@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1240	0	USER	京都に旅行を検討しています。当日利用する飲食店を探しているのですが、お伺いしてもよろしいですか？	general,restaurant,weather
+1240	1	SYSTEM	かしこまりました。お食事のジャンルやエリアなど、何かご希望はございますか？	general,restaurant,weather
+1240	2	USER	はい。特にジャンル等はないのですが、駐車場が無料で利用できる場所を探しています。	general,restaurant,weather
+1240	3	SYSTEM	承知いたしました。では、ルルソンキボアというイタリアン・フレンチのお店はいかがでしょうか？	general,restaurant,weather
+1240	4	USER	良さそうですね。ちなみに、そのお店の近辺の駅からの所要時間とかってわかりますか？	general,restaurant,weather
+1240	5	SYSTEM	はい。北山駅から徒歩で8分ほどの距離にございます。	general,restaurant,weather
+1240	6	USER	助かります。ついでにこのまま予約をお願い出来ますか？	general,restaurant,weather
+1240	7	SYSTEM	はい、承ります。ご利用予定の日付と時刻、人数はお決まりでしょうか？	general,restaurant,weather
+1240	8	USER	はい。日付は12月3日の10時50分。人数は3人でお願いしたいのですが。	general,restaurant,weather
+1240	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、37252です。	general,restaurant,weather
+1240	10	USER	ありががとうございます。当日の天候もお伺いしても大丈夫ですか？	general,restaurant,weather
+1240	11	SYSTEM	はい、お調べするお日にちと、京都のどのあたりかエリアをお伺いできますでしょうか？	general,restaurant,weather
+1240	12	USER	はい。12月3日の北区をお願いします。	general,restaurant,weather
+1240	13	SYSTEM	かしこまりました。当日の天気は晴のち雨の予報です。最低気温は5.5度、最高気温は12.9度の予想となっております。	general,restaurant,weather
+1240	14	USER	ありがとうございます。これで当日は大丈夫そうです。ありがとうございました。	general,restaurant,weather
+1240	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,weather

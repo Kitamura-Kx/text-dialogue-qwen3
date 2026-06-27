@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1344	0	USER	京都へ行こうと思っています。駐車場が無料で利用できる買い物施設を探していただきたいです。	general,shopping,taxi,weather
+1344	1	SYSTEM	鶴屋𠮷信 本店は、いかがでしょうか？	general,shopping,taxi,weather
+1344	2	USER	そちらの近辺の駅からの所要時間、定休日を教えていただけますでしょうか。	general,shopping,taxi,weather
+1344	3	SYSTEM	近辺の駅からの所要時間は、今出川駅から徒歩で10分です。　定休日は、水曜と1/1です。	general,shopping,taxi,weather
+1344	4	USER	わかりました。ありがとうございます。	general,shopping,taxi,weather
+1344	5	SYSTEM	他にご用件はございますか？	general,shopping,taxi,weather
+1344	6	USER	ジャンボタクシーを利用できるタクシー会社を探していただきたいです。	general,shopping,taxi,weather
+1344	7	SYSTEM	洛東タクシー株式会社は、いかがでしょうか？	general,shopping,taxi,weather
+1344	8	USER	そちらの電話番号を教えていただけますでしょうか。	general,shopping,taxi,weather
+1344	9	SYSTEM	電話番号は、0755931112です。	general,shopping,taxi,weather
+1344	10	USER	では、6月20日14時40分鶴屋𠮷信 本店から京都市東部文化会館まで予約をお願いします。	general,shopping,taxi,weather
+1344	11	SYSTEM	予約出来ました。予約番号は、67919です。	general,shopping,taxi,weather
+1344	12	USER	わかりました。ありがとうございます。	general,shopping,taxi,weather
+1344	13	SYSTEM	他にご用件はございますか？	general,shopping,taxi,weather
+1344	14	USER	6月20日北区の天候を調べていただきたいです。	general,shopping,taxi,weather
+1344	15	SYSTEM	天気は、雨時々晴です。	general,shopping,taxi,weather
+1344	16	USER	わかりました。ありがとうございます。	general,shopping,taxi,weather
+1344	17	SYSTEM	他にご用件はありますか？	general,shopping,taxi,weather
+1344	18	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping,taxi,weather

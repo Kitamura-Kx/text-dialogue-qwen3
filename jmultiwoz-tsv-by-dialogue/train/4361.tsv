@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4361	0	USER	名古屋へ旅行に行く予定です。真宗大谷派名古屋別院(東別院)を訪れる予定でいます。	general,attraction,shopping
+4361	1	SYSTEM	良いところですね！何かお調べ致しますか？	general,attraction,shopping
+4361	2	USER	では、最寄り駅と営業時間、大人の入場料を教えてください。	general,attraction,shopping
+4361	3	SYSTEM	はい、最寄り駅は東別院駅でして、営業時間は6時から16時30分です。また、大人の入場料は0円でございます。	general,attraction,shopping
+4361	4	USER	ありがとうございます。次に、当日買い物にも行きたいと思っています。家電・電化製品の買い物ができ、駐車場が無料のお店はありますか？	general,attraction,shopping
+4361	5	SYSTEM	お待たせ致しました。その条件でしたら、ヨドバシカメラ マルチメディア名古屋松坂屋店がおすすめでございます。	general,attraction,shopping
+4361	6	USER	よいですね。では、そちらの電話番号と近辺の駅からの所要時間を教えてください。	general,attraction,shopping
+4361	7	SYSTEM	はい、電話番号は0522651010でして、近辺の駅からですと、矢場町駅から徒歩で1分又は、栄駅から徒歩で5分でございます。	general,attraction,shopping
+4361	8	USER	詳しく教えて下さり、ありがとうございました。	general,attraction,shopping

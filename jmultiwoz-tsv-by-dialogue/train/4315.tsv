@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4315	0	USER	横浜へ旅行にいくので戸塚区でワークショップや体験できる観光名所がしりたいです	general,attraction,shopping,weather
+4315	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,attraction,shopping,weather
+4315	2	USER	では地区はどこでもいいです	general,attraction,shopping,weather
+4315	3	SYSTEM	かしこまりました。それでは日本郵船 氷川丸 (NYK HIKAWAMARU)がございます。	general,attraction,shopping,weather
+4315	4	USER	料金情報と大人の入場料がしりたいです	general,attraction,shopping,weather
+4315	5	SYSTEM	はい、料金情報ですと、単館券は一般300円、65歳以上のシニア200円、中高生が100円でして、日本郵船歴史博物館とのセット券は一般500円、シニア300円、中高生300円でございます。ですので、大人の入場料は300円になりますね。	general,attraction,shopping,weather
+4315	6	USER	了解です。詳しくありがとうございます。あと神奈川区で駐車場が無料で買い物できるお店はありますか？	general,attraction,shopping,weather
+4315	7	SYSTEM	お待たせ致しました。その条件でしたら六角橋商店街がございます。	general,attraction,shopping,weather
+4315	8	USER	定休日と営業時間を教えてください	general,attraction,shopping,weather
+4315	9	SYSTEM	はい、定休日と営業時間それぞれが店舗により異なるとのことです。	general,attraction,shopping,weather
+4315	10	USER	了解です。あと5/16の港北区の最高気温を知りたいです	general,attraction,shopping,weather
+4315	11	SYSTEM	お待たせ致しました。当日の港北区の最高気温は22度の予報でございます。	general,attraction,shopping,weather
+4315	12	USER	了解です。ありがとうございました	general,attraction,shopping,weather
+4315	13	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,shopping,weather

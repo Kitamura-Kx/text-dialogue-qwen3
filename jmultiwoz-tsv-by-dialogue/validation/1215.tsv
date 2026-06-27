@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1215	0	USER	名古屋への旅行を計画しています。	general,restaurant,weather,taxi
+1215	1	SYSTEM	はい。お問合せありがとうございます。	general,restaurant,weather,taxi
+1215	2	USER	当日食事ができる飲食店を探してください．店名が焼き鳥 きんざん 今池店というところです．	general,restaurant,weather,taxi
+1215	3	SYSTEM	はい。お調べしました。	general,restaurant,weather,taxi
+1215	4	USER	そこの住所，料金情報，定休日を教えて欲しいです。	general,restaurant,weather,taxi
+1215	5	SYSTEM	住所が愛知県名古屋市千種区今池5丁目12-7で料金情報 は不明、定休日は年末年始です。	general,restaurant,weather,taxi
+1215	6	USER	ありがとうございます。あと緑区の6/12の天気もおしえてほしいです。	general,restaurant,weather,taxi
+1215	7	SYSTEM	天気は曇のち晴です。	general,restaurant,weather,taxi
+1215	8	USER	最高気温はいくつでしょうか？	general,restaurant,weather,taxi
+1215	9	SYSTEM	最高気温は31.5度です。	general,restaurant,weather,taxi
+1215	10	USER	ありがとうございます。あと、ジャンボタクシーが利用できるタクシー会社も教えて欲しいです。	general,restaurant,weather,taxi
+1215	11	SYSTEM	鯱第一交通はいかがでしょうか。	general,restaurant,weather,taxi
+1215	12	USER	そちらの電話番号とキャッシュレス対応しているかも教えていただけますか。	general,restaurant,weather,taxi
+1215	13	SYSTEM	キャッシュレス対応は不明で、　電話番号は0529123456です。	general,restaurant,weather,taxi
+1215	14	USER	ありがとうございます。あと、そちらで日付は6/12、時間は13:50、出発地は先ほど見つけた飲食店でｍ目的地はゆめや 金山店というところで予約してほしいです。	general,restaurant,weather,taxi
+1215	15	SYSTEM	予約しました。予約番号は59185です。	general,restaurant,weather,taxi
+1215	16	USER	ありがとうございます。	general,restaurant,weather,taxi
+1215	17	SYSTEM	こちらこそありがとうございます。	general,restaurant,weather,taxi
+1215	18	USER		general,restaurant,weather,taxi

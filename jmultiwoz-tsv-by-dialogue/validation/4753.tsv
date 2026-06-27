@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4753	0	USER	東京へ旅行予定なのですが、Calbee+東京駅店のあるエリアとかってわかりますか？	general,shopping,weather,taxi
+4753	1	SYSTEM	はい、エリアは千代田区となります。	general,shopping,weather,taxi
+4753	2	USER	わかりました。あと、足立区の5/13の最高気温ってわかります？	general,shopping,weather,taxi
+4753	3	SYSTEM	はい、最高気温22度となります。	general,shopping,weather,taxi
+4753	4	USER	了解です。あと、キャッシュレス対応のタクシー会社はありませんか？	general,shopping,weather,taxi
+4753	5	SYSTEM	はい、キャピタルオートはいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0357552151となります。	general,shopping,weather,taxi
+4753	6	USER	そこにします。5/13の13:30に、THE AOYAMA GRAND HOTELを出発して、Calbee+東京駅店までお願いできますか？	general,shopping,weather,taxi
+4753	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、75923となります。	general,shopping,weather,taxi
+4753	8	USER	いろいろありがとうございました。	general,shopping,weather,taxi
+4753	9	SYSTEM	ありがとうございました。	general,shopping,weather,taxi

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4612	0	USER	東京への旅行を計画しています． 当日買い物ができるところを探してください．地区は港区です．駐車場を無料で利用できるところにしてください．	general,shopping,hotel,weather
+4612	1	SYSTEM	アクアシティお台場はいかがでしょうか。	general,shopping,hotel,weather
+4612	2	USER	そちらの営業時間，ジャンルを教えていただけますか。	general,shopping,hotel,weather
+4612	3	SYSTEM	営業時間は11:00～21:00、ジャンルはショッピングモールです。	general,shopping,hotel,weather
+4612	4	USER	ありがとうございます。あと、当日泊まる宿泊施設を探してください．予算は普通が希望です．	general,shopping,hotel,weather
+4612	5	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,hotel,weather
+4612	6	USER	でしたら予算はなんでもいいです。	general,shopping,hotel,weather
+4612	7	SYSTEM	dots. tokyoはいかがでしょうか。	general,shopping,hotel,weather
+4612	8	USER	そちらのタイプを教えていただけますか。	general,shopping,hotel,weather
+4612	9	SYSTEM	タイプはその他です。	general,shopping,hotel,weather
+4612	10	USER	ありがとうございます。あと、7/31の目黒区の最低気温と天気を教えていただけますか。	general,shopping,hotel,weather
+4612	11	SYSTEM	天気は雨時々曇 最低気温は24.5度です。	general,shopping,hotel,weather
+4612	12	USER		general,shopping,hotel,weather

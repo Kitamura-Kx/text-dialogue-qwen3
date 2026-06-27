@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3403	0	USER	大阪へ旅行に行くので、宿泊施設を探しています。レストランが併設されていて、Wi-Fiが無料で利用できるところはありませんか？	general,hotel,attraction
+3403	1	SYSTEM	承知しました。いま頂いた条件ですと、ホテルプラザオーサカ含む62件該当いたします。いかがいたしますか？	general,hotel,attraction
+3403	2	USER	そうですね、ではホテルプラザオーサカの値段帯と、チェックアウト終了時刻、エリアを教えてもらえますか？	general,hotel,attraction
+3403	3	SYSTEM	はい。価格帯は安めです。チェックアウト終了は午前11時。エリアは淀川区になっております。	general,hotel,attraction
+3403	4	USER	では、そこのホテルを予約します。4月26日から2泊で、人数は2人です。	general,hotel,attraction
+3403	5	SYSTEM	承知しました。4月26日から2名様2泊ですね。ご予約番号は97226でございます。	general,hotel,attraction
+3403	6	USER	ありがとうございます。次に観光名所を探してもらいたいのですが、歴史的建造物で、無料Wi-Fiが使える所はありませんか？	general,hotel,attraction
+3403	7	SYSTEM	四天王寺と大阪城天守閣の2件が該当致しました。いかがでしょうか？	general,hotel,attraction
+3403	8	USER	四天王寺にします。そこのエリアと営業時間、駐車場があるか知りたいです。	general,hotel,attraction
+3403	9	SYSTEM	はい。エリアは天王寺区です。営業時間は0時から0時の記載がございます。駐車場は有料ですがございます。	general,hotel,attraction
+3403	10	USER	わかりました。ありがとうございます。	general,hotel,attraction
+3403	11	SYSTEM	ほかに何かお手伝いできることはございませんか？	general,hotel,attraction
+3403	12	USER	もう、大丈夫です。ありがとうございました。	general,hotel,attraction
+3403	13	SYSTEM	ありがとうございました。	general,hotel,attraction

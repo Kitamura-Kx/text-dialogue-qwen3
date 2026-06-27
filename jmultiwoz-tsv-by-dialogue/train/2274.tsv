@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2274	0	USER	横浜へ行くのですが、鶴見区でWi-Fi無料でレストラン併設の宿泊施設はありますか？	general,hotel
+2274	1	SYSTEM	全てを満たす施設はなさそうです。	general,hotel
+2274	2	USER	そうですか。じゃあほかの地区でも大丈夫です。	general,hotel
+2274	3	SYSTEM	横浜でWiFi無料かつレストラン併設の宿泊施設は４５件あります。追加の希望条件はありますか？	general,hotel
+2274	4	USER	ありません。	general,hotel
+2274	5	SYSTEM	では、横浜 マンダリンホテルをお勧めします。	general,hotel
+2274	6	USER	ありがとうございます。そこは最寄り駅はどこになりますか？	general,hotel
+2274	7	SYSTEM	日ノ出町駅になります。	general,hotel
+2274	8	USER	そうなんですね。ではそこの料金情報と値段帯も教えてもらえますか	general,hotel
+2274	9	SYSTEM	値段帯は安めですが、料金情報詳細は持ち合わせていません。	general,hotel
+2274	10	USER	わりました。参考にします。ありがとうございました。	general,hotel
+2274	11	SYSTEM	他に希望はありますか？	general,hotel
+2274	12	USER	いえ、以上です。	general,hotel
+2274	13	SYSTEM	よい旅を。	general,hotel

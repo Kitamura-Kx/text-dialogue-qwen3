@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2126	0	USER	福岡へ行こうと思っています。早良区にあって駐車場とWiFiが無料で利用できる観光名所を探していただきたいです。	general,attraction
+2126	1	SYSTEM	かしこまりました。その条件ですと、福岡市博物館はいかがでしょうか？	general,attraction
+2126	2	USER	そちらの料金情報、定休日を教えていただけますでしょうか。	general,attraction
+2126	3	SYSTEM	はい、料金情報は一般が200円、高大生が150円となっております。定休日は月曜日と年末年始でございます。	general,attraction
+2126	4	USER	わかりました。ありがとうございます。	general,attraction
+2126	5	SYSTEM	ありがとうございます。その他に御用件はございますか？	general,attraction
+2126	6	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction

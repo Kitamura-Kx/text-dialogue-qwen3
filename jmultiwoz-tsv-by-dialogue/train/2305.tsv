@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2305	0	USER	札幌で飲食店を探しています。手稲区で、安めのお店はありますか？	general,restaurant
+2305	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant
+2305	2	USER	そうですか、、、なら、地区の条件を除いてください。	general,restaurant
+2305	3	SYSTEM	蔵元直営 吉翔は、いかがでしょうか？	general,restaurant
+2305	4	USER	いいですね。ちなみに、駐車場はありますか？	general,restaurant
+2305	5	SYSTEM	申し訳ありません、駐車場は、不明となっております。	general,restaurant
+2305	6	USER	分かりました。では7/7の9:30で予約をお願いします。人数は4人です。	general,restaurant
+2305	7	SYSTEM	予約が完了しました。　予約番号は、38191になります。	general,restaurant
+2305	8	USER	ありがとうございます！問い合わせは以上です。	general,restaurant

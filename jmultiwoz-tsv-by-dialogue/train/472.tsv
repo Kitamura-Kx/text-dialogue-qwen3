@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+472	0	USER	福岡でレストランが併設された宿泊施設を探してもらえますか？	general,hotel
+472	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel
+472	2	USER	予算は安めでお願いしたいです。あとは駐車場が無料で使えるところだといいですね。	general,hotel
+472	3	SYSTEM	ではThe358 SORAはいかがでしょうか。	general,hotel
+472	4	USER	そちら、最寄り駅はどちらになりますか？	general,hotel
+472	5	SYSTEM	最寄り駅は雁ノ巣駅でございます。	general,hotel
+472	6	USER	料金情報がわかれば教えてください。	general,hotel
+472	7	SYSTEM	Wi-Fi、駐車場共に無料でございます。値段帯は安め、その他詳細についてはわかりかねます。	general,hotel
+472	8	USER	わかりました。予約をお願いしたいのですが。	general,hotel
+472	9	SYSTEM	かしこまりました。では詳細を教えていただけますか。	general,hotel
+472	10	USER	3/7から3泊でお願いします。人数は2人です。	general,hotel
+472	11	SYSTEM	はい。予約が完了いたしました。予約番号は12147でございます。	general,hotel
+472	12	USER	はい、ありがとうございました。	general,hotel

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2841	0	USER	こんにちは。東京旅行を計画してて、観光名所を探しています。Wi-Fiが無料で利用できて、最寄り駅が六本木駅のところがいいです。	general,attraction
+2841	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction
+2841	2	USER	じゃあWi-Fiはなくても大丈夫です。	general,attraction
+2841	3	SYSTEM	エリアでいうと港区に、六本木ヒルズがございます。ジャンルは、展望台、タワー、美術館、博物館、自然、公園、映画館、その他、となります。	general,attraction
+2841	4	USER	ありがとうございます。六本木ヒルズの電話番号、近辺の駅からの所要時間もわかるようであれば教えてください。	general,attraction
+2841	5	SYSTEM	はい、電話番号は0364066000、最寄りの六本木駅から徒歩で0分となります。	general,attraction
+2841	6	USER	ありがとうございます。	general,attraction
+2841	7	SYSTEM	他にご用件はございますか？	general,attraction
+2841	8	USER	いえ、案内ありがとうございました。	general,attraction
+2841	9	SYSTEM	ありがとうございました。	general,attraction

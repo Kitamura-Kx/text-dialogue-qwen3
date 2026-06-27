@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2130	0	USER	東京旅行の際に当日訪れる観光名所のおすすめはありますか？	general,attraction,hotel
+2130	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction,hotel
+2130	2	USER	最寄り駅が銀座駅の場所を希望します。	general,attraction,hotel
+2130	3	SYSTEM	かしこまりました。では、コニカミノルタプラネタリア TOKYOはいかがでしょうか？	general,attraction,hotel
+2130	4	USER	ではそちらに伺いたいと思います。料金情報と子供入場料を教えていただけますでしょうか。	general,attraction,hotel
+2130	5	SYSTEM	はい。料金情報としましては、◎大人（中学生以上）：1,600円◎こども（4歳以上）：1,000円、となります。子供入場料は1000円です。	general,attraction,hotel
+2130	6	USER	ありがとうございます。当日泊まる宿泊施設も調べて頂けますか？レストランが併設されているシティホテルを希望します。また、Wi-Fiが無料で利用できるとうれしいです。	general,attraction,hotel
+2130	7	SYSTEM	かしこまりました。では、帝国ホテル東京はいかがでしょうか？	general,attraction,hotel
+2130	8	USER	そちらにしたいと思います。ありがとうございました。	general,attraction,hotel

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+835	0	USER	こんにちは。東京のホテルを探して頂きたいのですが。無料でWifiが使えるホテルがいいです。	general,hotel
+835	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,hotel
+835	2	USER	他は特にありません。	general,hotel
+835	3	SYSTEM	では八重洲ターミナルホテルはいかがでしょうか。	general,hotel
+835	4	USER	そちらでお願いします。宿泊料金はどれぐらいですか？	general,hotel
+835	5	SYSTEM	値段帯は安めでございます。	general,hotel
+835	6	USER	分かりました。今は予約は結構です。	general,hotel

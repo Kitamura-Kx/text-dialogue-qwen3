@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3126	0	USER	札幌へ旅行するので、清田区でWi-Fiが無料で利用できる宿泊施設を知りたいです	general,hotel
+3126	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel
+3126	2	USER	厚別区にしたらどうですか？	general,hotel
+3126	3	SYSTEM	ありがとうございます。そうしますと、2件ご案内可能です。例えば、ホテルエミシア札幌というところが、新さっぽろ駅から徒歩で1分の場所にございますが、いかがでしょうか？	general,hotel
+3126	4	USER	大丈夫です。教えてくださりありがとうございました	general,hotel
+3126	5	SYSTEM	他にお調べすることはございませんか？	general,hotel
+3126	6	USER	大丈夫です。ありがとうございました	general,hotel
+3126	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

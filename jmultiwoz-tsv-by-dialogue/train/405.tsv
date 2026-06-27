@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+405	0	USER	那覇へ行こうと思っています。Wi-Fiが無料で利用できる観光名所を探していただきたいです。	general,attraction
+405	1	SYSTEM	承知しました。エリアやジャンルなどのご希望はございますか？	general,attraction
+405	2	USER	特に希望はないです。	general,attraction
+405	3	SYSTEM	それでは、識名園はいかがでしょう？ジャンルは庭園、歴史的建造物、世界遺産となります。	general,attraction
+405	4	USER	そちらに行ってみようと思います。営業時間を教えていただけますか？	general,attraction
+405	5	SYSTEM	はい、営業時間は9時から18時となります。定休日は水曜日です。	general,attraction
+405	6	USER	わかりました。ありがとうございます。	general,attraction
+405	7	SYSTEM	他にご用件はございますか？	general,attraction
+405	8	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction

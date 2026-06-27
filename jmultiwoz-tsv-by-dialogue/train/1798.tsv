@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1798	0	USER	横浜への旅行を計画していて、観光名所を探しています。	general,attraction,weather
+1798	1	SYSTEM	ご利用ありがとうございます。ジャンルやエリアなど、何かご希望はございますか？	general,attraction,weather
+1798	2	USER	戸塚区の、Wi-Fiが無料のところはありますか？	general,attraction,weather
+1798	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,weather
+1798	4	USER	それでは金沢区ではどうでしょうか？	general,attraction,weather
+1798	5	SYSTEM	ありがとうございます。では、横浜・八景島シーパラダイスは如何でしょうか？	general,attraction,weather
+1798	6	USER	大人の入場料はいくらですか？	general,attraction,weather
+1798	7	SYSTEM	5500円となります。	general,attraction,weather
+1798	8	USER	ありがとうございます。	general,attraction,weather
+1798	9	SYSTEM	他になにかお調べすることはございますか？	general,attraction,weather
+1798	10	USER	8/14の都筑区の最高気温と天気も知りたいです。	general,attraction,weather
+1798	11	SYSTEM	かしこまりました。当日の最高気温は36.2度の予想となっております。天気は曇時々晴の予報です。	general,attraction,weather
+1798	12	USER	ありがとうございます。	general,attraction,weather
+1798	13	SYSTEM	他になにかお調べすることはございますか？	general,attraction,weather
+1798	14	USER	もう大丈夫です。ありがとうございました。	general,attraction,weather
+1798	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,weather

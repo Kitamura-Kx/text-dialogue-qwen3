@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4713	0	USER	福岡へ旅行予定なのですが、西区で飲食店はありますか？	general,restaurant,taxi
+4713	1	SYSTEM	申し訳ございません。ございません。	general,restaurant,taxi
+4713	2	USER	そうですか。じゃあ中央区でもいいです。	general,restaurant,taxi
+4713	3	SYSTEM	福新楼 はんやかどのくーた 釜めしビクトリアなどはいかがですか？	general,restaurant,taxi
+4713	4	USER	福新楼にします。最寄り駅と近辺の駅からの所要時間を教えてください。	general,restaurant,taxi
+4713	5	SYSTEM	最寄り駅は西鉄福岡(天神)駅、西鉄福岡(天神)駅から徒歩で5分です。	general,restaurant,taxi
+4713	6	USER	了解です。あと、ジャンボタクシーの利用も考えていて、キャッシュレス払いできるところがあれば教えてください。	general,restaurant,taxi
+4713	7	SYSTEM	日新交通（株） （株）第一交通などはいかがですか？	general,restaurant,taxi
+4713	8	USER	日新交通（株）にします。電話番号を教えてください。	general,restaurant,taxi
+4713	9	SYSTEM	0120152452です。	general,restaurant,taxi
+4713	10	USER	了解です。7/24の10:50に照 博多口店から福新楼までの予約をお願いします。	general,restaurant,taxi
+4713	11	SYSTEM	申し訳ございません。予約できませんでした。	general,restaurant,taxi
+4713	12	USER	それなら、時間を11:30に変更します。	general,restaurant,taxi
+4713	13	SYSTEM	かしこまりました。予約完了しております。予約番号は４７２０５です。	general,restaurant,taxi
+4713	14	USER	ありがとうございました。	general,restaurant,taxi
+4713	15	SYSTEM	ありがとうございました。	general,restaurant,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+97	0	USER	こんにちは。大阪旅行の案内をお願いしたいのですが。	general,restaurant,shopping
+97	1	SYSTEM	こんにちは、ご利用ありがとうございます。大阪のどういったことをお調べしましょうか？	general,restaurant,shopping
+97	2	USER	当日に食事をする飲食店を探しているのですが、店名がにし家 グランフロント大阪店というところを探すことはできますか？	general,restaurant,shopping
+97	3	SYSTEM	かしこまりました。にし家 グランフロント大阪店ですね。大阪に1件ございます。	general,restaurant,shopping
+97	4	USER	ありがとうございます。 それでは、そのお店について、最寄り駅と料金情報、駐車場があるかどうかについて、お調べいただけますか？	general,restaurant,shopping
+97	5	SYSTEM	はい。まず最寄り駅ですが、大阪駅でして、徒歩1分の距離にございます。料金は、名物 肉つけが1078円、すき焼き御膳は1650円などでご提供しております。最後に駐車場についてですが、こちらでは把握できておらず、有無についてご案内差し上げることができません。	general,restaurant,shopping
+97	6	USER	そうなんですね。わかりました。お調べいただき、ありがとうございます。 では、あと、あみだ池大黒 本店というところで買い物をしようと思っているのですが、こちらについてもお調べいただけますでしょうか？	general,restaurant,shopping
+97	7	SYSTEM	はい、かしこまりました。あみだ池大黒 本店は、大阪に1店舗ございます。	general,restaurant,shopping
+97	8	USER	それでは、そちらのお店の住所と、駐車場があるかどうかについて伺ってもよろしいですか？	general,restaurant,shopping
+97	9	SYSTEM	かしこまりました。こちらの住所は、大阪府大阪市西区北堀江3丁目11-26です。駐車場は、こちらも有無が不明となっております。申し訳ございません。	general,restaurant,shopping
+97	10	USER	そうなんですね。わかりました。 では、近辺の駅からの所要時間を確認してもよろしいでしょうか。	general,restaurant,shopping
+97	11	SYSTEM	はい、かしこまりました。西長堀駅から歩いて1分でアクセスできます。	general,restaurant,shopping
+97	12	USER	ありがとうございます。ご案内いただき、とても助かりました。	general,restaurant,shopping
+97	13	SYSTEM	とんでもございません。お役に立てて光栄です。他に、お手伝いすることは何かございませんか？	general,restaurant,shopping
+97	14	USER	いえ、あとは大丈夫です。ありがとうございました！ また機会がありましたら、よろしくお願いします。	general,restaurant,shopping
+97	15	SYSTEM	こちらこそ、どうぞよろしくお願いいたします。それでは、本日のご案内は以上となります。ありがとうございました。	general,restaurant,shopping

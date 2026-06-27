@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1836	0	USER	那覇へ旅行するのですが、おもろまち駅近くに宿泊施設はありますか？できれば地区は本庁が良いです。	general,hotel,taxi,weather
+1836	1	SYSTEM	お待たせいたしました。その条件でしたらスーパーホテル那覇・新都心はいかがでしょうか？	general,hotel,taxi,weather
+1836	2	USER	ありがとうございます。そちらはビジネスホテルでしょうか？できればビジネスタイプが良いです。	general,hotel,taxi,weather
+1836	3	SYSTEM	タイプはビジネスホテルでございます。	general,hotel,taxi,weather
+1836	4	USER	ありがとうございます。チェックインスタート時刻と、価格帯を教えてください。	general,hotel,taxi,weather
+1836	5	SYSTEM	チェックインスタート時刻が15時、価格帯は安めでございます。	general,hotel,taxi,weather
+1836	6	USER	ありがとうございます。次にタクシーを予約したいのですが、キャッシュレスに対応しているところを探してもらえますか？	general,hotel,taxi,weather
+1836	7	SYSTEM	かしこまりました。キャッシュレス決済に対応しているタクシー会社ですと那覇第一交通さんがございます。	general,hotel,taxi,weather
+1836	8	USER	ありがとうございます。その会社の電話番号を教えてください。あと、ジャンボタクシー対応かどうかも知りたいです。	general,hotel,taxi,weather
+1836	9	SYSTEM	はい、電話番号は0988537801、ジャンボタクシーもご利用いただけます。	general,hotel,taxi,weather
+1836	10	USER	では予約をお願いします。8/10 12:30に、先ほどのスーパーホテル那覇・新都心を出発。目的地は、末廣ブルースです。	general,hotel,taxi,weather
+1836	11	SYSTEM	お待たせいたしました。ご予約番号5566で予約させていただきました。	general,hotel,taxi,weather
+1836	12	USER	ありがとうございます。最後に、8/10 本庁の最低気温を教えてください。	general,hotel,taxi,weather
+1836	13	SYSTEM	最低気温は22.9度となっております。	general,hotel,taxi,weather
+1836	14	USER	今日は以上です。ありがとうございました。	general,hotel,taxi,weather
+1836	15	SYSTEM	ありがとうございました。	general,hotel,taxi,weather

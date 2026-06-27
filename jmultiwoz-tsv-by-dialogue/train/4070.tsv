@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4070	0	USER	横浜への旅行を計画しています． 当日泊まる宿泊施設を探してください．駐車場を無料で利用できるところにしてください．Wi-Fiが無料で利用できるところにしてください．予算は安めが希望です	general,hotel,shopping,attraction
+4070	1	SYSTEM	旅館 松島はいかがでしょうか。	general,hotel,shopping,attraction
+4070	2	USER	そちらのエリア，近辺の駅からの所要時間を教えていただけますか。	general,hotel,shopping,attraction
+4070	3	SYSTEM	エリアは南区で近辺の駅からの所要時間は蒔田駅から徒歩で3分です。	general,hotel,shopping,attraction
+4070	4	USER	そちらで人数は2人．日付は4/7で．宿泊日数は3泊で予約してほしいです。	general,hotel,shopping,attraction
+4070	5	SYSTEM	予約完了いたしました。予約番号は16205になります。	general,hotel,shopping,attraction
+4070	6	USER	ありがとうございます。あと、当日買い物ができるところを探してください．地区は西区です．ジャンルはおもちゃです．最寄り駅が黄金町駅のところがいいです。	general,hotel,shopping,attraction
+4070	7	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,hotel,shopping,attraction
+4070	8	USER	でしたら最寄りはどこでもいいです。	general,hotel,shopping,attraction
+4070	9	SYSTEM	ポケモンセンターヨコハマはいかがでしょうか。	general,hotel,shopping,attraction
+4070	10	USER	そちらの営業時間は？	general,hotel,shopping,attraction
+4070	11	SYSTEM	営業時間は10:30～20:30です。	general,hotel,shopping,attraction
+4070	12	USER	ありがとうございます。あと当日訪れる観光名所を探してください．地区は中区です．駐車場を無料で利用できるところにしてください．Wi-Fiが無料で利用できるところにしてください．	general,hotel,shopping,attraction
+4070	13	SYSTEM	三溪園はいかがでしょうか。	general,hotel,shopping,attraction
+4070	14	USER	そちらの定休日，大人入場料を教えていただけますか。	general,hotel,shopping,attraction
+4070	15	SYSTEM	定休日は12/29, 12/30, 12/31で大人入場料は700です	general,hotel,shopping,attraction
+4070	16	USER	ありがとうございます。	general,hotel,shopping,attraction

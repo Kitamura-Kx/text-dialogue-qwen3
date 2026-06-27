@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1194	0	USER	大阪への旅行を計画しています。大阪に動物園ってありますか？	general,attraction
+1194	1	SYSTEM	はい、エリアでいうと港区に、天保山アニパがございます。	general,attraction
+1194	2	USER	そちらはwifiは無料で使えますか？	general,attraction
+1194	3	SYSTEM	はい、無料でご利用いただけます。	general,attraction
+1194	4	USER	わかりました。大人入場料はいくらですか？	general,attraction
+1194	5	SYSTEM	大人入場料は660となります。	general,attraction
+1194	6	USER	電話番号を教えて下さい。	general,attraction
+1194	7	SYSTEM	電話番号は0665765700となります。ご用件は、一度にご案内することも可能ですよ。	general,attraction
+1194	8	USER	わかりました。ありがとうございます。今回はこれで失礼します。	general,attraction

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3633	0	USER	札幌へ旅行しようと思っています。Wi-Fiが無料の宿泊施設を探しています。	general,hotel,taxi
+3633	1	SYSTEM	札幌にはWiFiの無料の宿が９４件あります。他に希望の条件はありますか？	general,hotel,taxi
+3633	2	USER	できれば白石区のビジネスホテルを希望しています。	general,hotel,taxi
+3633	3	SYSTEM	白石区のビジネスホテル、WiFi無料ならば、ホテルルートイン札幌白石、こちら一択です。	general,hotel,taxi
+3633	4	USER	お値段はどのくらいですか？	general,hotel,taxi
+3633	5	SYSTEM	値段帯は安めになっています。料金詳細までは不明ですね。	general,hotel,taxi
+3633	6	USER	なるほど。近辺の駅からの所要時間を教えてください。	general,hotel,taxi
+3633	7	SYSTEM	白石駅から徒歩で20分です。	general,hotel,taxi
+3633	8	USER	わかりました。当日ジャンボタクシーが使えるタクシー会社はありますか？	general,hotel,taxi
+3633	9	SYSTEM	ジャンボ対応ならば、北陵交通(株)をお勧めします。	general,hotel,taxi
+3633	10	USER	では、予約をお願いします。先ほど調べてもらったホテルから13時に出発したいです。	general,hotel,taxi
+3633	11	SYSTEM	日付と目的地をお願いします。	general,hotel,taxi
+3633	12	USER	11月9日で、目的地はVILLA KOSHIDO KOTONIです。	general,hotel,taxi
+3633	13	SYSTEM	予約に成功しました。予約番号は18513です。	general,hotel,taxi
+3633	14	USER	ありがとうございました。	general,hotel,taxi
+3633	15	SYSTEM	よい旅を	general,hotel,taxi

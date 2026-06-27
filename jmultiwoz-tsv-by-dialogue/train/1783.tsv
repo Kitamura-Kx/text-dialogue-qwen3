@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1783	0	USER	こんにちは。今度横浜へ行く予定です。保土ヶ谷区で、予算お安めのWi-Fiが無料の飲食店はありそうですか？	general,restaurant,shopping,taxi
+1783	1	SYSTEM	申し訳ありません。この条件ではご紹介可能な飲食店がございません。いかが致しましょう？	general,restaurant,shopping,taxi
+1783	2	USER	そうなんですね、じゃあ保土ヶ谷でなくてもいいので、お願いします。	general,restaurant,shopping,taxi
+1783	3	SYSTEM	エリアでいうと西区になってしまいますが、ウラ横 焼肉センターはいかがでしょう？ジャンルは、焼肉、ホルモン、となります。	general,restaurant,shopping,taxi
+1783	4	USER	ありがとうございます。そこへ行ってみます。定休日を教えてください。	general,restaurant,shopping,taxi
+1783	5	SYSTEM	定休日はございません。	general,restaurant,shopping,taxi
+1783	6	USER	ありがとうございます。それと、買い物もしたいのですが、都筑区で駐車場無料のところはありますか？	general,restaurant,shopping,taxi
+1783	7	SYSTEM	ららぽーと横浜はいかがでしょう？ジャンルは、ショッピングモールとなります。	general,restaurant,shopping,taxi
+1783	8	USER	ありがとうございます。あと、当日タクシーを使いたいので、ジャンボタクシーが使えて、キャッシュレス払いができるタクシー会社を探していただけますか？	general,restaurant,shopping,taxi
+1783	9	SYSTEM	申し訳ありません、ご紹介可能なタクシー会社がございません。いかが致しましょう？	general,restaurant,shopping,taxi
+1783	10	USER	そうですか、ではキャッシュレス払いができなくても大丈夫です。	general,restaurant,shopping,taxi
+1783	11	SYSTEM	瀬谷交通有限会社はいかがでしょう？電話番号は、0453601144となります。	general,restaurant,shopping,taxi
+1783	12	USER	ありがとうございます。そちらで予約をお願いします。7/12の11:10で、先ほど見つけていただいたウラ横 焼肉センターから、ららぽーと横浜までです。	general,restaurant,shopping,taxi
+1783	13	SYSTEM	予約が完了し、ご予約番号は、24162となります。	general,restaurant,shopping,taxi
+1783	14	USER	ありがとうございました。色々助かりました。	general,restaurant,shopping,taxi
+1783	15	SYSTEM	ありがとうございました。	general,restaurant,shopping,taxi

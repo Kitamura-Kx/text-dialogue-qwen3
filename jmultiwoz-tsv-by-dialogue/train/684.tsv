@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+684	0	USER	福岡へ行こうと思っています。最寄り駅が姪浜駅の買い物ができるところを探していただきたいです。	general,shopping
+684	1	SYSTEM	承知しました。ベビーザらス マリノアシティ福岡店、アカチャンホンポ 福岡マリナタウン店の2件ございます。何をご案内致しましょう？	general,shopping
+684	2	USER	ベビーザらス マリノアシティ福岡店について詳しく教えていただけますでしょうか。	general,shopping
+684	3	SYSTEM	承知しました。ジャンルはおもちゃ、エリアは西区、住所は福岡県福岡市西区小戸2丁目12-30マリノアシティ福岡マリナサイド棟1階、電話番号は0928927676、最寄りの姪浜駅からバスで15分となります。営業時間は10時から20時、定休日はございません。駐車場は無料でご利用いただけます。	general,shopping
+684	4	USER	わかりました。ありがとうございます。	general,shopping
+684	5	SYSTEM	他にご用件はございますか？	general,shopping
+684	6	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping

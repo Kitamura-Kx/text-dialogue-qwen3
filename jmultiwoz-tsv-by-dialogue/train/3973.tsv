@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3973	0	USER	京都に行こうと思っています。	general,taxi
+3973	1	SYSTEM	はい。お知りになりたい情報がございますか。	general,taxi
+3973	2	USER	タクシー会社を探しています。	general,taxi
+3973	3	SYSTEM	はい。ではエムケイ株式会社はいかがでしょうか。こちらキャッシュレスにも、ジャンボタクシーにも対応しております。	general,taxi
+3973	4	USER	では、そこの電話番号も教えてください。	general,taxi
+3973	5	SYSTEM	電話番号は0757784141でございます。	general,taxi
+3973	6	USER	予約もお願いします。	general,taxi
+3973	7	SYSTEM	予約の詳細をお聞かせいただけますか。	general,taxi
+3973	8	USER	12月8日の１３：４０にリーガロイヤルホテル京都から祇園 京料理 花咲までです。	general,taxi
+3973	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は36553でございます。	general,taxi
+3973	10	USER	ありがとうございます。	general,taxi
+3973	11	SYSTEM	ほかにご用件はございませんか。	general,taxi
+3973	12	USER	もう大丈夫です。	general,taxi
+3973	13	SYSTEM	承知しました。ありがとうございました。	general,taxi

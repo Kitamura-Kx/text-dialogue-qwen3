@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+901	0	USER	札幌へ旅行予定なのですが、駐車場を無料で利用できる飲食店はありますか？	general,restaurant
+901	1	SYSTEM	J.S. PANCAKE CAFE 札幌ステラプレイス店は、いかがでしょうか？	general,restaurant
+901	2	USER	そこにします。営業時間とエリア、あと値段帯について教えてください。	general,restaurant
+901	3	SYSTEM	営業時間は、午前10時から午後9時までです。　値段帯は、普通です。	general,restaurant
+901	4	USER	わかりました。そちらの飲食店のエリアについても教えてほしいです。	general,restaurant
+901	5	SYSTEM	エリアは、中央区になります。	general,restaurant
+901	6	USER	わかりました。2人で1月19日の11時30分の予約をとるのをお願いできますか？	general,restaurant
+901	7	SYSTEM	申し訳ありません、その条件では予約出来ませんでした。	general,restaurant
+901	8	USER	わかりました。では人数を1人に変更します。	general,restaurant
+901	9	SYSTEM	予約出来ました。予約番号は、64752です。	general,restaurant
+901	10	USER	ありがとうございます。	general,restaurant
+901	11	SYSTEM	他にご用件はございますか？	general,restaurant
+901	12	USER	いえ、大丈夫です。	general,restaurant
+901	13	SYSTEM	承知致しました。　ありがとうございました。	general,restaurant

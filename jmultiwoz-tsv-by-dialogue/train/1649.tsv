@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1649	0	USER	こんにちは。横浜へ旅行予定なので、宿泊施設を探しています。レストランがあって、駐車場無料の所はありますか？	general,hotel,weather,taxi
+1649	1	SYSTEM	かしこまりました。では、旅館 松島はいかがでしょうか。	general,hotel,weather,taxi
+1649	2	USER	いいですね。では予約お願いします。4/21から2泊で3名です。	general,hotel,weather,taxi
+1649	3	SYSTEM	はい。予約が完了いたしました。予約番号は26644でございます。	general,hotel,weather,taxi
+1649	4	USER	ありがとうございます。それと、当日4/21の栄区の最低気温，最高気温を教えてもらえますか？	general,hotel,weather,taxi
+1649	5	SYSTEM	最低気温は11.8度、最高気温は19.1度でございます。	general,hotel,weather,taxi
+1649	6	USER	色々お願いしていますが、タクシー会社も探しています。ジャンボタクシーが使えて、キャッシュレス払いの対応ができるところはありますか？	general,hotel,weather,taxi
+1649	7	SYSTEM	申し訳ございません。どちらにも対応している会社がございませんでした。	general,hotel,weather,taxi
+1649	8	USER	そうなんですね。でしたらジャンボタクシーが使えなくても大丈夫なので、キャッシュレス払い対応のところをお願いします。	general,hotel,weather,taxi
+1649	9	SYSTEM	それでは横浜北交通株式会社がございます。	general,hotel,weather,taxi
+1649	10	USER	ありがとうございます。そちらの電話番号もお願いします。	general,hotel,weather,taxi
+1649	11	SYSTEM	電話番号は0120915502でございます。	general,hotel,weather,taxi
+1649	12	USER	ありがとうございます。それでは、予約もお願いします。4/21の09:40乗車で、童具店・横浜から、さっき教えてもらった旅館 松島までです。	general,hotel,weather,taxi
+1649	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は88957でございます。	general,hotel,weather,taxi
+1649	14	USER	色々助けていただいてありがとうございました。	general,hotel,weather,taxi
+1649	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather,taxi

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3197	0	USER	東京への旅行を計画中で、無料駐車場付きのスーパーマーケットを探しています。	general,shopping,weather
+3197	1	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,shopping,weather
+3197	2	USER	分かりました。では家電・電化製品が購入できれば、お店のジャンルは問いません。	general,shopping,weather
+3197	3	SYSTEM	かしこまりました。では、二子玉川 蔦屋家電はいかがでしょうか？	general,shopping,weather
+3197	4	USER	そこにしようと思います。電話番号はわかりますか？	general,shopping,weather
+3197	5	SYSTEM	はい。0354918550です。	general,shopping,weather
+3197	6	USER	ありがとうございます。6/12の江戸川区の天候を知りたいのですが、わかりますか？	general,shopping,weather
+3197	7	SYSTEM	かしこまりました。6/12の江戸川区の天気予報は曇のち晴となっております。最低気温は19.7度、最高気温は28.9度になる予報です。	general,shopping,weather
+3197	8	USER	助かりました。ありがとうございます。	general,shopping,weather
+3197	9	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,shopping,weather
+3197	10	USER	それでは、失礼します。	general,shopping,weather

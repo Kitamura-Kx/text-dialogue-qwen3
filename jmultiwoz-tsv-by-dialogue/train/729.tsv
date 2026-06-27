@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+729	0	USER	福岡に行くんですが、和食のお店でどこかいいところありますか？	general,restaurant
+729	1	SYSTEM	はい、ございます。たとえば、あめり軒という中央区のお店はいかがでしょうか？	general,restaurant
+729	2	USER	そのお店には無料Wi-Fiがあって、普通予算で食べれますでしょうか？	general,restaurant
+729	3	SYSTEM	はい、無料WiFiをご利用いただけます。お値段帯も普通となっております。無料WiFi完備のお店で他もお調べしましょうか？	general,restaurant
+729	4	USER	大丈夫です。その店舗の最寄り駅はどこになりますか？	general,restaurant
+729	5	SYSTEM	最寄り駅は薬院駅です。薬院駅から徒歩4分の距離にございます。	general,restaurant
+729	6	USER	料金の情報として普通の予算で食べれる以外で何かあったりしますか？	general,restaurant
+729	7	SYSTEM	はい。詳しい料金情報としまして、大盛無料！小盛り半額！イタリアンチャーハン880円、 牛タンシチュー770円、 お好み焼き　豚玉・えび玉・いか玉790円となっております。	general,restaurant
+729	8	USER	詳しくありがとうございます。	general,restaurant
+729	9	SYSTEM	ご予約もなさいますか？	general,restaurant
+729	10	USER	予約は大丈夫です。	general,restaurant
+729	11	SYSTEM	では、他になにかお調べすることはございませんか？	general,restaurant
+729	12	USER	大丈夫です。ありがとうございました。	general,restaurant
+729	13	SYSTEM	承知しました。本日はありがとうございました。では、またのご利用をお待ちしております。	general,restaurant

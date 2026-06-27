@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3913	0	USER	仙台への旅行を計画中で、宮城野区にあるアウトレットモールを探しています。	general,shopping,restaurant,taxi
+3913	1	SYSTEM	では、三井アウトレットパーク 仙台港はいかがでしょう？	general,shopping,restaurant,taxi
+3913	2	USER	そこにしようと思います。電話番号を教えてください。	general,shopping,restaurant,taxi
+3913	3	SYSTEM	はい、電話番号は、0223558800となります。	general,shopping,restaurant,taxi
+3913	4	USER	ありがとうございます。当日無料駐車場付きの飲食店を利用したいのですが、ありますか？	general,shopping,restaurant,taxi
+3913	5	SYSTEM	では、エリアでいうと青葉区にある、かつどんのかつどん家はいかがでしょう？ジャンルは、和食となります。	general,shopping,restaurant,taxi
+3913	6	USER	そこにしようと思います。7/26の17:30に2名で予約して欲しいのですが可能でしょうか。	general,shopping,restaurant,taxi
+3913	7	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,shopping,restaurant,taxi
+3913	8	USER	分かりました。では時間を18:30に変更してください	general,shopping,restaurant,taxi
+3913	9	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、84613となります。	general,shopping,restaurant,taxi
+3913	10	USER	ありがとうございます。当日ジャンボタクシーを利用したいのですが、ありますか？	general,shopping,restaurant,taxi
+3913	11	SYSTEM	はい、では、仙南タクシー（株）はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0570021070となります。	general,shopping,restaurant,taxi
+3913	12	USER	ありがとうございます。7/26の15:50に三井アウトレットパーク 仙台港からかつどんのかつどん家まで予約して欲しいのですが、可能でしょうか。	general,shopping,restaurant,taxi
+3913	13	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,shopping,restaurant,taxi
+3913	14	USER	分かりました。では、時間を16:50に変更してください	general,shopping,restaurant,taxi
+3913	15	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、2370となります。	general,shopping,restaurant,taxi
+3913	16	USER	助かります。ありがとうございました。	general,shopping,restaurant,taxi
+3913	17	SYSTEM	ありがとうございました。	general,shopping,restaurant,taxi

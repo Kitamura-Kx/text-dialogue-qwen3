@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3692	0	USER	名古屋へ旅行に行こうと思っています。当日訪れる観光名所を探しています。ジャンルはアウトドアです。	general,attraction,weather,taxi
+3692	1	SYSTEM	かしこまりました。では、農業文化園・戸田川緑地はいかがでしょうか？	general,attraction,weather,taxi
+3692	2	USER	そこが良さそうですね。あと当日2/23の港区の最低気温を教えてください。	general,attraction,weather,taxi
+3692	3	SYSTEM	はい。最低気温は5.9度になる見込みです。	general,attraction,weather,taxi
+3692	4	USER	あと当日利用できるタクシー会社を探しています。キャッシュレス払いができるところが希望です。	general,attraction,weather,taxi
+3692	5	SYSTEM	はい。それでしたら、楠交通がおすすめです。	general,attraction,weather,taxi
+3692	6	USER	そこはジャンボタクシーに対応してますでしょうか？あとそこの電話番号も教えてください。	general,attraction,weather,taxi
+3692	7	SYSTEM	はい、対応しております。電話番号は0522412233です。	general,attraction,weather,taxi
+3692	8	USER	ではそこに予約したいので日付は2/23時間は15:00です．出発地はのりぃ野ダイニングで目的地は農業文化園・戸田川緑地でお願いします。	general,attraction,weather,taxi
+3692	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、31648です。	general,attraction,weather,taxi
+3692	10	USER	分かりました。ありがとうございます。	general,attraction,weather,taxi
+3692	11	SYSTEM	他にご用件はございませんか？	general,attraction,weather,taxi
+3692	12	USER	はい、大丈夫です。	general,attraction,weather,taxi
+3692	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather,taxi

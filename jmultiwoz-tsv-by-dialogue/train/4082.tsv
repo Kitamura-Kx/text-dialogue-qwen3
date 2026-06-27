@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4082	0	USER	仙台への旅行を計画しています． 当日泊まる宿泊施設を探してください．レストランが併設されているところにしてください．Wi-Fiが無料で利用できるところにしてください．予算は安めが希望です	general,hotel,shopping
+4082	1	SYSTEM	オレンジ・イン仙台東はいかがでしょうか。	general,hotel,shopping
+4082	2	USER	そちらの料金情報とタイプを教えていただけますか。	general,hotel,shopping
+4082	3	SYSTEM	タイプはビジネスホテルで値段帯は安めです。	general,hotel,shopping
+4082	4	USER	ありがとうございます。あと当日買い物ができるところを探してください．地区は太白区です．駐車場を無料で利用できるところがいいです。	general,hotel,shopping
+4082	5	SYSTEM	ララガーデン長町はいかがでしょうか。	general,hotel,shopping
+4082	6	USER	そちらの電話番号，ジャンル，近辺の駅からの所要時間を教えていただけますか。	general,hotel,shopping
+4082	7	SYSTEM	電話番号は0223997700でジャンルはショッピングモール、近辺の駅からの所要時間は長町駅から徒歩で9分です。	general,hotel,shopping
+4082	8	USER	ありがとうございます。	general,hotel,shopping

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4372	0	USER	横浜へ旅行したいのですが、当日に利用できるタクシー会社を探していただきたいです。キャッシュレス払いに対応していて、ジャンボタクシーが利用できるところがいいです。	general,taxi
+4372	1	SYSTEM	そうしますと、京浜ハイヤー株式会社はいかがでしょうか？	general,taxi
+4372	2	USER	そこでお願いします。電話番号を教えていただけますか？	general,taxi
+4372	3	SYSTEM	電話番号は、0457411896です。	general,taxi
+4372	4	USER	ありがとうございます。予約もお願いしたいのですが、9/13の13時40分で出発地は横浜大飯店で目的地は秀味園です。	general,taxi
+4372	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、49323です。	general,taxi
+4372	6	USER	ありがとうございます。	general,taxi
+4372	7	SYSTEM	他にお手伝いすることはございませんか？	general,taxi
+4372	8	USER	いえ、大丈夫です。ありがとうございました。	general,taxi
+4372	9	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,taxi

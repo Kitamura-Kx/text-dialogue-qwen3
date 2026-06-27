@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+454	0	USER	札幌に行こうと思っているんですが、安めの飲食店を調べてください。	general,restaurant,weather,taxi
+454	1	SYSTEM	かしこまりました。お値段がお安めという以外で、ご希望の条件は他にございませんか？	general,restaurant,weather,taxi
+454	2	USER	そうですね。食事のジャンルとしては和食で、Wi-Fiが無料でできるところがいいです。	general,restaurant,weather,taxi
+454	3	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,restaurant,weather,taxi
+454	4	USER	ではジャンルはカフェ・スイーツでも大丈夫です。	general,restaurant,weather,taxi
+454	5	SYSTEM	ありがとうございます。そうしますと、1件ご案内可能です。洋食カフェ イタリアン YS↑O2というお店ですが、いかがでしょうか？	general,restaurant,weather,taxi
+454	6	USER	そこにします。6月16日に予定しているのですが、北区の天候を知りたいです。	general,restaurant,weather,taxi
+454	7	SYSTEM	6月16日の北区の天気は、雨のち曇りの予報です。最低気温は10.6度、最高気温は27.1度になる見込みです。	general,restaurant,weather,taxi
+454	8	USER	ありがとうございます。その日に利用できるタクシー会社はありますか？キャッシュレス払いができて、ジャンボタクシーを利用できるところがいいです。	general,restaurant,weather,taxi
+454	9	SYSTEM	では、ダイコク交通(株)はいかがでしょうか？キャシュレスとジャンボタクシーのどちらにも対応しております。	general,restaurant,weather,taxi
+454	10	USER	そこにします。電話番号を教えてもらってもいいですか？	general,restaurant,weather,taxi
+454	11	SYSTEM	電話番号は、0117416000です。ご予約はいたしますか？	general,restaurant,weather,taxi
+454	12	USER	はい。6/16の13:40で予約したいです。	general,restaurant,weather,taxi
+454	13	SYSTEM	かしこまりました。出発地と目的地もお願いできますでしょうか？	general,restaurant,weather,taxi
+454	14	USER	出発地は先ほどの飲食店で、目的地はアカチャンホンポ アリオ札幌店です。	general,restaurant,weather,taxi
+454	15	SYSTEM	大変申し訳ございません。ご希望の条件では予約をおとりできませんでした。いかがいたしましょうか？	general,restaurant,weather,taxi
+454	16	USER	はい。では時間を14:10に変更した場合だとどうですか？	general,restaurant,weather,taxi
+454	17	SYSTEM	ありがとうございます。予約完了いたしました。ご予約番号は、44791です。	general,restaurant,weather,taxi
+454	18	USER	了解いたしました。ありがとうございます。	general,restaurant,weather,taxi
+454	19	SYSTEM	ほかにお手伝いできることはありますか？	general,restaurant,weather,taxi
+454	20	USER	大丈夫です。ありがとうございました。	general,restaurant,weather,taxi
+454	21	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant,weather,taxi

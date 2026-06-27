@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1974	0	USER	こんにちは！福岡へ旅行を考えているんですけど、案内をお願いできますか？	general,hotel,taxi,weather
+1974	1	SYSTEM	はい。何か知りたいことはございますか？	general,hotel,taxi,weather
+1974	2	USER	えっと、駐車場と、WiFiが無料で利用できるところが良いです。あと、レストランが併設されている所でお願いしたいです。	general,hotel,taxi,weather
+1974	3	SYSTEM	かしこまりました。何に関するご案内を希望でしょうか？	general,hotel,taxi,weather
+1974	4	USER	すみません、宿泊施設を探しております。お伝えするのを忘れておりました。	general,hotel,taxi,weather
+1974	5	SYSTEM	かしこまりました。では、The358 UMIはいかがでしょうか？値段帯は安めとなっております。	general,hotel,taxi,weather
+1974	6	USER	ありがとうございます！そちらは、チェックアウト終了時刻は何時になりますか？	general,hotel,taxi,weather
+1974	7	SYSTEM	はい。チェックアウト終了時刻は10:00になります。	general,hotel,taxi,weather
+1974	8	USER	承知いたしました。では、そちらを予約したいのですが、７月31日から３泊、４人で泊る予約をお願いいたします。	general,hotel,taxi,weather
+1974	9	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel,taxi,weather
+1974	10	USER	そうでしたか。では、人数を３人でお願いします。	general,hotel,taxi,weather
+1974	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、18865です。	general,hotel,taxi,weather
+1974	12	USER	ありがとうございます！あと、タクシー会社も探しているんですが、ジャンボタクシーとキャッシュレス払いができるところ、どこか良い所はありますか？	general,hotel,taxi,weather
+1974	13	SYSTEM	かしこまりました。では、福岡交通（株）はいかがでしょうか？電話番号は0570081234になります。	general,hotel,taxi,weather
+1974	14	USER	ありがとうございます！では、そちらも予約をお願いします。７月３１日の１１時に、The358 UMIから、ザ・ルイガンズ. スパ&リゾートまででお願いします。	general,hotel,taxi,weather
+1974	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、7583です。	general,hotel,taxi,weather
+1974	16	USER	ありがとうございます！あと、７月３１日の西区の天候も調べていただけますか？	general,hotel,taxi,weather
+1974	17	SYSTEM	かしこまりました。7/31の西区の天気予報は雨のち晴となっております。最低気温は26.7度、最高気温は27度になる予報です。	general,hotel,taxi,weather
+1974	18	USER	色々お調べいただき、ありがとうございます！あとはもう、大丈夫です。本日はありがとうございました。	general,hotel,taxi,weather
+1974	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi,weather

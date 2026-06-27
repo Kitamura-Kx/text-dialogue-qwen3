@@ -1,0 +1,30 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3800	0	USER	名古屋への観光旅行を計画しています。	general,attraction,taxi,weather
+3800	1	SYSTEM	名古屋のご旅行ですね。本日はどんなご案内をいたしましょうか？	general,attraction,taxi,weather
+3800	2	USER	何か体験できる教室を探しています。駐車場は無料がいいです。	general,attraction,taxi,weather
+3800	3	SYSTEM	かしこまりました。では、名古屋市東谷山フルーツパークというところは如何でしょうか？	general,attraction,taxi,weather
+3800	4	USER	東区にありますか？	general,attraction,taxi,weather
+3800	5	SYSTEM	申し訳ありません。こちらは、守山区エリアの施設となります。東区ですと、候補が見つかりませんでした。	general,attraction,taxi,weather
+3800	6	USER	駐車場はなくてもいいです。	general,attraction,taxi,weather
+3800	7	SYSTEM	"かしこまりました。では、NHK名古屋 放送体験スタジオ“わくわく""はいかがでしょうか？"	general,attraction,taxi,weather
+3800	8	USER	そこの住所と最寄駅を教えて下さい。	general,attraction,taxi,weather
+3800	9	SYSTEM	はい。住所は、愛知県名古屋市東区東桜1丁目13-3 NHK名古屋放送センタービル1階です。最寄り駅は、栄駅となります。徒歩3分でアクセス出来ます。	general,attraction,taxi,weather
+3800	10	USER	そこに行こうと思います。ありがとうございました。	general,attraction,taxi,weather
+3800	11	SYSTEM	他にお調べすることはございますか？	general,attraction,taxi,weather
+3800	12	USER	当日、ジャンボタクシーを利用出来るところはありますか？キャッシュレス払いが出来るところがいいです。	general,attraction,taxi,weather
+3800	13	SYSTEM	はい、ございます。名古屋エムケイはいかがでしょうか？	general,attraction,taxi,weather
+3800	14	USER	そこに予約したいです。3月20日で時間は10時30分です。	general,attraction,taxi,weather
+3800	15	SYSTEM	ありがとうございます。お時間は朝の10時半でよろしかったでしょうか？あと、出発地と目的地もお願い致します。	general,attraction,taxi,weather
+3800	16	USER	出発地は先ほど見つけた観光施設から目的地はコメ兵本館でお願いします。	general,attraction,taxi,weather
+3800	17	SYSTEM	かしこまりました。ご希望の条件にて、ご予約完了いたしました。予約番号は、65280です。	general,attraction,taxi,weather
+3800	18	USER	どうもありがとうございました。	general,attraction,taxi,weather
+3800	19	SYSTEM	他にお手伝いすることはございませんか？	general,attraction,taxi,weather
+3800	20	USER	当日の天候なのですが、3月20日の港区はどうなっていますか？	general,attraction,taxi,weather
+3800	21	SYSTEM	はい、当日の天気は、曇時々晴の予報です。最低気温は3.7度、最高気温は12.9度の予想となっております。	general,attraction,taxi,weather
+3800	22	USER	最低気温は分かりますか？	general,attraction,taxi,weather
+3800	23	SYSTEM	最低気温は、3.7度まで下がる見込みでございます。	general,attraction,taxi,weather
+3800	24	USER	分かりました。どうもありがとうございました。	general,attraction,taxi,weather
+3800	25	SYSTEM	他にお手伝いすることはございませんか？	general,attraction,taxi,weather
+3800	26	USER	いえ、これで大丈夫です。	general,attraction,taxi,weather
+3800	27	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,attraction,taxi,weather
+3800	28	USER		general,attraction,taxi,weather

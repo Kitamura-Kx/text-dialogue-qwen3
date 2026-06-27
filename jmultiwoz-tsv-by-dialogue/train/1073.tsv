@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1073	0	USER	福岡への旅行を計画しているのですが。	general,attraction
+1073	1	SYSTEM	はい。なにかご要望はございますか。	general,attraction
+1073	2	USER	観光名所を探してください。地区は南区で最寄り駅が海ノ中道駅のところがいいです。	general,attraction
+1073	3	SYSTEM	そちらの条件にあう観光地はございません。	general,attraction
+1073	4	USER	でしたら最寄駅はどこでもいいです。	general,attraction
+1073	5	SYSTEM	福太郎本社(めんたい工場)はいかがでしょうか。	general,attraction
+1073	6	USER	そちらのジャンル，近辺の駅からの所要時間，駐車場の有無についておしえてほしいです。	general,attraction
+1073	7	SYSTEM	ジャンルは工場見学で近辺の駅からの所要時間は竹下駅から徒歩で8分、駐車場の有無は有り(無料)になっています。	general,attraction
+1073	8	USER	ありがとうございました。	general,attraction

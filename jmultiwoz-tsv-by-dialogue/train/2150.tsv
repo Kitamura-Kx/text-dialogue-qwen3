@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2150	0	USER	こんにちは。京都へ行きますので、駐車場無料の観光名所を教えていただけますか？	general,attraction,weather
+2150	1	SYSTEM	かしこまりました。それでは北野天満宮はいかがでしょうか？	general,attraction,weather
+2150	2	USER	いいですね、そこへ行きます。子供入場料と、そこのエリアと住所をお願いします。	general,attraction,weather
+2150	3	SYSTEM	子供の入場料は無料でございます。エリアは上京区でして、住所は京都府京都市上京区馬喰町でございます。	general,attraction,weather
+2150	4	USER	ありがとうございます。あとすみません、下京区の9/26の最高気温を調べていただけますか？	general,attraction,weather
+2150	5	SYSTEM	かしこまりました。当日の最低気温は25.1度の予報です。	general,attraction,weather
+2150	6	USER	あ、最高気温もお願いします。	general,attraction,weather
+2150	7	SYSTEM	大変失礼いたしました。最高気温は28.7度の予報です。	general,attraction,weather
+2150	8	USER	いえいえ、大丈夫です。調べていただいてありがとうございございました。	general,attraction,weather
+2150	9	SYSTEM	他に何かお手伝いできることはございますか？	general,attraction,weather
+2150	10	USER	いえ、今日はこれで充分です。ありがとうございました。	general,attraction,weather
+2150	11	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,weather

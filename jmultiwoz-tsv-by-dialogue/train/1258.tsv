@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1258	0	USER	こんにちは。今度大阪へ行く予定なので、宿泊施設を探しています。	general,hotel
+1258	1	SYSTEM	では、お手伝いさせていただきます。エリアなど、何かご希望はございますか？	general,hotel
+1258	2	USER	エリアは特に希望はありませんが、レストランが併設されているリゾートホテルが希望です。あとwi-fiが無料だと尚いいのですが、どこかよいところがありますか？	general,hotel
+1258	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel
+1258	4	USER	そうですか。でしたらレストランが無くてもよいので、wi-fi無料のリゾートホテルを探していただけますか？	general,hotel
+1258	5	SYSTEM	かしこまりました。そういたしますと、スパワールド 世界の大温泉というところが、1件ございますが、いかがでしょうか？	general,hotel
+1258	6	USER	なんだか楽しそうですね。そこにしようと思いますが、駐車場はありますか？	general,hotel
+1258	7	SYSTEM	はい。有料となりますが、駐車場をご利用いただけます。	general,hotel
+1258	8	USER	ありがとうございます。すみませんが、チェックイン開始時刻とチェックアウト終了時刻を教えていただけますか？	general,hotel
+1258	9	SYSTEM	チェックインは15時開始、チェックアウト終了は10時までとなっております。	general,hotel
+1258	10	USER	ありがとうございます。予約はまだ不要です。	general,hotel
+1258	11	SYSTEM	承知いたしました。他になにかお調べすることはございますか？	general,hotel
+1258	12	USER	いえ、他には今はありません。どうもありがとうございました。	general,hotel
+1258	13	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,hotel

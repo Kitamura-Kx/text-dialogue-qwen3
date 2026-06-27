@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3811	0	USER	福岡に旅行に行くので飲食店を探しています。南区で大橋駅付近にあるお店を教えてください。	general,restaurant
+3811	1	SYSTEM	かしこまりました。それでは古民家居酒屋こまちはいかがでしょうか？	general,restaurant
+3811	2	USER	予算は普通がいいのですが、そこのお店はどうですか？	general,restaurant
+3811	3	SYSTEM	はい、値段帯は普通でございます。	general,restaurant
+3811	4	USER	このお店はどんなジャンルでしょうか？	general,restaurant
+3811	5	SYSTEM	ジャンルは居酒屋, 鍋でございます。	general,restaurant
+3811	6	USER	料金情報と定休日を教えてください。	general,restaurant
+3811	7	SYSTEM	料金は、こまち宴会コースが3850円,特選馬刺コースが4400円、完全お任せプレミアムコースが5280円でございます。定休日は火曜日です。	general,restaurant
+3811	8	USER	そこに行きたいと思います。2月28日の13:40に2人で予約お願いします。	general,restaurant
+3811	9	SYSTEM	お待たせ致しました。予約番号49990でお取りさせていただきました。	general,restaurant
+3811	10	USER	ありがとうございました。	general,restaurant
+3811	11	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+48	0	USER	すいません。仙台に旅行に行こうかどうしようか、考えてるんですけども。	general,shopping,hotel,weather
+48	1	SYSTEM	かしこまりました。どのようなことをお知りになりたいですか。	general,shopping,hotel,weather
+48	2	USER	中野栄駅の近くで、ショッピングできる場所ってありますか？	general,shopping,hotel,weather
+48	3	SYSTEM	umimorishop ミュージアムショップなどいかがでしょうか。	general,shopping,hotel,weather
+48	4	USER	興味あります。どの地域にあるお店なんでしょうか？	general,shopping,hotel,weather
+48	5	SYSTEM	エリアは宮城野区でございます。	general,shopping,hotel,weather
+48	6	USER	なるほど、なるほど。それとあと、泊る場所も検討中でして、ラドン温泉・岩盤浴 旅館天龍閣というところは、ありますかね？	general,shopping,hotel,weather
+48	7	SYSTEM	はい。ございます。	general,shopping,hotel,weather
+48	8	USER	それじゃ、そこのチェックインが始まる時間も分かったりしますか？	general,shopping,hotel,weather
+48	9	SYSTEM	チェックイン開始時刻は15:00となっております。	general,shopping,hotel,weather
+48	10	USER	うんうん。あと聞きにくいんだけど、料金ってどんな感じなのかな？高かったりする？	general,shopping,hotel,weather
+48	11	SYSTEM	値段帯は普通となっております。	general,shopping,hotel,weather
+48	12	USER	普通、普通ね。それって具体的に、いくらとか教えてもらえたりしますかね？	general,shopping,hotel,weather
+48	13	SYSTEM	申し訳ございませんが具体的な金額はわかりかねます。	general,shopping,hotel,weather
+48	14	USER	まあ普通ってことだから、そこで予約しようかな。3人で泊まりたいんだけど。	general,shopping,hotel,weather
+48	15	SYSTEM	かしこまりました。ご希望の日時を教えていただけますか。	general,shopping,hotel,weather
+48	16	USER	10月18日で3泊の予定です。時間も予約時に必要なの？	general,shopping,hotel,weather
+48	17	SYSTEM	日付だけで問題ございません。予約が取れました。予約番号は30301でございます。	general,shopping,hotel,weather
+48	18	USER	ああ、良かった。あと、まだ聞きたいことがあって。	general,shopping,hotel,weather
+48	19	SYSTEM	どのようなことでしょうか。	general,shopping,hotel,weather
+48	20	USER	当日、どんな天気になりそうかなと思ってね。泉区で10月18日なんだけども。	general,shopping,hotel,weather
+48	21	SYSTEM	天気は曇時々晴、最低気温は14.9、最高気温は22.7でございます。	general,shopping,hotel,weather
+48	22	USER	丁寧に教えてくれてありがとう。知りたかったことは、以上です。	general,shopping,hotel,weather
+48	23	SYSTEM	承知いたしました。ありがとうございました。	general,shopping,hotel,weather

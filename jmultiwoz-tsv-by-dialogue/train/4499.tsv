@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4499	0	USER	大阪への旅行を計画していて、旅行当日の飲食店を探しています。最寄り駅が北加賀屋駅の居酒屋で予算が高めのところがいいのですが、おすすめはありますか？	general,restaurant,shopping
+4499	1	SYSTEM	申し訳ございません。最寄り駅が北加賀屋駅の居酒屋で予算が高めのところが、見つかりません。	general,restaurant,shopping
+4499	2	USER	そうですか。では、最寄り駅は考慮しません。	general,restaurant,shopping
+4499	3	SYSTEM	承知しました。ぬる燗佐藤 大坂は如何でしょう。大阪駅から徒歩で5分の所にあります。	general,restaurant,shopping
+4499	4	USER	ありがとうございます。そこにしようと思います。近辺の駅からの所要時間と営業時間を教えて貰えますか？	general,restaurant,shopping
+4499	5	SYSTEM	営業時間は11:00～14:00, 17:00～23:00となっております。近辺の駅からの所要時間は、大阪駅から徒歩で5分になります。	general,restaurant,shopping
+4499	6	USER	ありがとうございます。旅行当日に買い物が出来るところも探しています。駐車場無料でおすすめのところはありますか？	general,restaurant,shopping
+4499	7	SYSTEM	承知しました。三井アウトレットパーク 大阪鶴見は如何でしょう。	general,restaurant,shopping
+4499	8	USER	ありがとうございます。そこにしようと思います。近辺の駅からの所要時間，電話番号は分かりますか？	general,restaurant,shopping
+4499	9	SYSTEM	はい、近辺の駅からの所要時間は門真南駅から徒歩で5分、門真市駅からバスで7分になります。電話番号は0669153939です。	general,restaurant,shopping
+4499	10	USER	色々と教えて頂きありがとうございました。助かりました。	general,restaurant,shopping
+4499	11	SYSTEM	ありがとうございます。	general,restaurant,shopping

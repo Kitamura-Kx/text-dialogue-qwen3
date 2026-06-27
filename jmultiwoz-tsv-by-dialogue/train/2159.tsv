@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2159	0	USER	こんにちは。今度名古屋へ旅行するので、天気を知りたいです。1/20の北区の最低気温と天気を教えてください。	general,weather,taxi
+2159	1	SYSTEM	お待たせ致しました。当日の北区の最低気温は7.5度、天気は晴時々曇の予報です。	general,weather,taxi
+2159	2	USER	ありがとうございます。行ったらタクシーを使いたいので、キャッシュレス払いができるタクシー会社を探していただけますか？	general,weather,taxi
+2159	3	SYSTEM	お待たせ致しました。それでは瑞穂タクシーさんはいかがでしょうか？	general,weather,taxi
+2159	4	USER	ありがとうございます。電話番号をお願いします。	general,weather,taxi
+2159	5	SYSTEM	電話番号は0523311680でございます。	general,weather,taxi
+2159	6	USER	予約もお願いできます？	general,weather,taxi
+2159	7	SYSTEM	かしこまりました。ご予定をお伺いいたします。	general,weather,taxi
+2159	8	USER	ありがとうございます。1/20の10:30で、御園座から、赤身にくがとう 名古屋店という所へいきます。	general,weather,taxi
+2159	9	SYSTEM	申し訳ございません。ご予約出来ませんでした。	general,weather,taxi
+2159	10	USER	でしたら11:30ではどうでしょうか？	general,weather,taxi
+2159	11	SYSTEM	お待たせ致しました。予約番号2353でお取りさせていただきました。	general,weather,taxi
+2159	12	USER	どうもありがとうございました。助かりました。	general,weather,taxi
+2159	13	SYSTEM	ありがとうございます。その他に御用件はございますか？	general,weather,taxi
+2159	14	USER	大丈夫です、どうもありがとうございました。	general,weather,taxi
+2159	15	SYSTEM	またお待ちしております。	general,weather,taxi

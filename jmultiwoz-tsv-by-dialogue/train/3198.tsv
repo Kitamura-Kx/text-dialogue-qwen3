@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3198	0	USER	福岡への旅行を計画中で、買い物ができる場所を探しています。	general,shopping,hotel,weather
+3198	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,shopping,hotel,weather
+3198	2	USER	はい、早良区にあって、無料駐車場付きのお店が良いです。	general,shopping,hotel,weather
+3198	3	SYSTEM	かしこまりました。では、ワッキー主基の里はいかがでしょうか？	general,shopping,hotel,weather
+3198	4	USER	そこにしようと思います。最寄り駅と、そこからの所要時間は分かりますか？	general,shopping,hotel,weather
+3198	5	SYSTEM	はい。最寄り駅の西新駅からバスで36分になります。	general,shopping,hotel,weather
+3198	6	USER	ありがとうございます。当日博多駅の宿泊施設を探しているのですが、ありますか？無料Wi-fiとレストラン付きが良いです。	general,shopping,hotel,weather
+3198	7	SYSTEM	かしこまりました。では、THE ROYAL PARK FUKUOKAはいかがでしょうか？	general,shopping,hotel,weather
+3198	8	USER	そこにしようと思います。エリアとチェックイン開始時刻、チェックアウト終了時刻は分かりますか？	general,shopping,hotel,weather
+3198	9	SYSTEM	はい。エリアは博多区になります。また、チェックイン開始時刻は15:00、チェックアウト終了時刻は午前11:00です。	general,shopping,hotel,weather
+3198	10	USER	ありがとうございます。1/25に3名で3泊予約して欲しいのですが、可能でしょうか。	general,shopping,hotel,weather
+3198	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、58986です。	general,shopping,hotel,weather
+3198	12	USER	ありがとうございます。1/25の博多区の天候を教えていただきたいです。	general,shopping,hotel,weather
+3198	13	SYSTEM	かしこまりました。1/25の博多区の天気予報は曇となっております。最低気温は1.9度、最高気温は11.4度になる予報です。	general,shopping,hotel,weather
+3198	14	USER	非常に助かります。ありがとうございます。	general,shopping,hotel,weather
+3198	15	SYSTEM	ほかにお調べすることはありますか？	general,shopping,hotel,weather
+3198	16	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,hotel,weather
+3198	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,weather
+3198	18	USER	では、失礼します。	general,shopping,hotel,weather

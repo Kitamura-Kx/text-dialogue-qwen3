@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2753	0	USER	那覇への旅行を計画しています。市立病院前駅近辺で観光名所を探してほしいです。また無料の駐車場を利用できるところがいいです。	general,attraction
+2753	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction
+2753	2	USER	それでは最寄駅は特に指定しません。	general,attraction
+2753	3	SYSTEM	ありがとうございます。では、エリアでいうと小禄にある、那覇空港はいかがでしょう？ジャンルはその他、となります。	general,attraction
+2753	4	USER	ありがとうございます。そちらは定休日や子供の入場料などはありますか？	general,attraction
+2753	5	SYSTEM	はい、子供入場料は必要なく、無料でご利用いただけます。定休日はございません。	general,attraction
+2753	6	USER	ありがとうございます。こちらからは以上です。	general,attraction
+2753	7	SYSTEM	ありがとうございました。	general,attraction

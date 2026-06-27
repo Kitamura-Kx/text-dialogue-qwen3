@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2811	0	USER	仙台の薬師堂駅近くでWi-Fiが無料で安く泊まれる所を探しています。	general,hotel
+2811	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel
+2811	2	USER	では、最寄り駅は薬師堂駅じゃなくても大丈夫です。	general,hotel
+2811	3	SYSTEM	ありがとうございます。では、ホテルグリーンマークはいかがでしょうか？最寄り駅は、仙台駅で、徒歩5分でアクセスできます。	general,hotel
+2811	4	USER	このホテルのタイプは何でしょうか？	general,hotel
+2811	5	SYSTEM	ビジネスホテルとなります。	general,hotel
+2811	6	USER	わかりました。レストランと駐車場はありますか？	general,hotel
+2811	7	SYSTEM	申し訳ありません。レストランは併設しておりません。駐車場は、有料ですがご利用いただけます。	general,hotel
+2811	8	USER	わかりました。ありがとうございました。	general,hotel
+2811	9	SYSTEM	ほかに何かお調べすることはございませんか？	general,hotel
+2811	10	USER	大丈夫です。	general,hotel
+2811	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

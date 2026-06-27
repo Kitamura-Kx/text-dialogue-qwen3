@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1720	0	USER	京都へ行こうと思っています。ジャンボタクシーが利用できるタクシー会社を探していただたきたいです。	general,taxi
+1720	1	SYSTEM	残念ながら京都にはジャンボタクシーがなさそうです	general,taxi
+1720	2	USER	ではジャンボタクシーは考慮せずタクシー会社を探していただけますか？	general,taxi
+1720	3	SYSTEM	３件みつかりました。なにか追加の希望はありますか？	general,taxi
+1720	4	USER	いいえ、その他の希望はありません。	general,taxi
+1720	5	SYSTEM	それでは、比叡山観光タクシー株式会社をお勧めします	general,taxi
+1720	6	USER	そちらの電話番号を教えていただけますでしょうか。	general,taxi
+1720	7	SYSTEM	0757221701になります。	general,taxi
+1720	8	USER	では、7月14日9時30分京焼肉 新 先斗町店から画箋堂まで予約をお願いします。	general,taxi
+1720	9	SYSTEM	あいにくその条件では予約できなさそうです。	general,taxi
+1720	10	USER	では時間を10時30分に変更して予約をお願いします。	general,taxi
+1720	11	SYSTEM	7月14日10時30分京焼肉 新 先斗町店から画箋堂まで、予約成功しました。予約番号は65215です。	general,taxi
+1720	12	USER	わかりました。ありがとうございます。	general,taxi
+1720	13	SYSTEM	他にご希望はありますか？	general,taxi
+1720	14	USER	いいえ、大丈夫です。ありがとうございました。	general,taxi

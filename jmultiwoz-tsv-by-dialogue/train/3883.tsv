@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3883	0	USER	札幌への観光旅行を計画しています。美術館か博物館で駐車場を無料で利用できる場所はありますか？	general,attraction
+3883	1	SYSTEM	はい、4件ご案内できます。たとえば、モエレ沼公園というところはいかがでしょうか？	general,attraction
+3883	2	USER	そこは美術館か博物館ですか？	general,attraction
+3883	3	SYSTEM	はい、ジャンルとしましては、美術館・博物館, 散策エリア, 神社・寺院・教会・モニュメントなど, 自然・公園, 記念碑・像となっております。	general,attraction
+3883	4	USER	分かりました。そこの営業時間と大人の入場料を教えて下さい。	general,attraction
+3883	5	SYSTEM	営業時間は、朝7:00から夜22:00です。大人も子どもも入場料は無料でございます。	general,attraction
+3883	6	USER	分かりました。そこに行こうと思います。	general,attraction
+3883	7	SYSTEM	ありがとうございます。他にお調べすることはございませんか？	general,attraction
+3883	8	USER	いえ、これで大丈夫です。	general,attraction
+3883	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction
+3883	10	USER		general,attraction

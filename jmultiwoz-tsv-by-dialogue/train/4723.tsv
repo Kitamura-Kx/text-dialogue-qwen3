@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4723	0	USER	札幌へ旅行予定なので、焼肉・ホルモンで高めの飲食店を探してください。駐車場が無料のところがいいです。	general,restaurant,weather
+4723	1	SYSTEM	申し訳ございません。ありません。	general,restaurant,weather
+4723	2	USER	そうですか。じゃあ、値段は高めじゃなくてもいいです。	general,restaurant,weather
+4723	3	SYSTEM	吾照里 札幌エスタ店 札幌焼肉 赤いとうがらしがご紹介できます。	general,restaurant,weather
+4723	4	USER	吾照里 札幌エスタ店にします。定休日と営業時間、あと料金情報が知りたいです。	general,restaurant,weather
+4723	5	SYSTEM	定休日はありません。営業時間は11:00～22:00、料金情報は不明です。	general,restaurant,weather
+4723	6	USER	ありがとうございます。あと、3/13の北区の最高気温も教えてください。	general,restaurant,weather
+4723	7	SYSTEM	3度です。	general,restaurant,weather
+4723	8	USER	寒いですね。ありがとうございました。	general,restaurant,weather

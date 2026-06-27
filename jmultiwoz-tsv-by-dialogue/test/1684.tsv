@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1684	0	USER	大阪へ旅行を計画しており、宿泊施設を探してます。条件として、無料のWi-Fiが利用でき、レストランが併設されているところ、あとは無料の駐車場が利用できれば嬉しいです。	general,hotel,attraction,weather
+1684	1	SYSTEM	かしこまりました。ではビジネス旅館 励明園はいかがでしょうか。	general,hotel,attraction,weather
+1684	2	USER	そこの住所、料金情報を教えてください。	general,hotel,attraction,weather
+1684	3	SYSTEM	住所は大阪府大阪市港区築港4丁目2-10でございます。値段帯は安めとなっておりますが、詳しい料金情報については不明でございます。	general,hotel,attraction,weather
+1684	4	USER	ありがとうございます。それでは予約をお願いします。人数は3名、日付は5/9で2泊希望です。	general,hotel,attraction,weather
+1684	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は2696でございます。	general,hotel,attraction,weather
+1684	6	USER	次に鶴見区で無料のWi-Fiが利用できる観光名所はありますか？	general,hotel,attraction,weather
+1684	7	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,attraction,weather
+1684	8	USER	それでは、浪速区でいかがですか？	general,hotel,attraction,weather
+1684	9	SYSTEM	ではなんばパークスはいかがでしょうか。	general,hotel,attraction,weather
+1684	10	USER	そこの定休日、大人、子供それぞれの入場料を教えてください。	general,hotel,attraction,weather
+1684	11	SYSTEM	定休日はございません。入場料は大人、子供共に無料でございます。	general,hotel,attraction,weather
+1684	12	USER	ありがとうございます。最後に天候を調べていただきたく、5/9の旭区はいかがですか？	general,hotel,attraction,weather
+1684	13	SYSTEM	天気は晴時々曇、最低気温が21.6度で最高気温が23.7度でございます。	general,hotel,attraction,weather
+1684	14	USER	ありがとうございます。これで以上です。	general,hotel,attraction,weather
+1684	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction,weather

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1257	0	USER	こんにちは。横浜へ旅行したいのですが、港南区で買い物ができるショッピングモールを教えていただけますか？	general,shopping,taxi
+1257	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,taxi
+1257	2	USER	そうですか。横浜駅の近くでもないでしょうか？	general,shopping,taxi
+1257	3	SYSTEM	はい、申し訳ございません。	general,shopping,taxi
+1257	4	USER	そうしましたら、西区ではいかがでしょうか？どこかありますか？	general,shopping,taxi
+1257	5	SYSTEM	ありがとうございます。そういたしますと、2件ご案内可能です。横浜ビブレと、HAMABOWL EASというところですが、どちらかご興味ございませんか？	general,shopping,taxi
+1257	6	USER	ありがとうございます。HAMABOWL EASというところへ行ってみたいです。住所と営業時間を教えていただけますか？	general,shopping,taxi
+1257	7	SYSTEM	はい。HAMABOWL EASの住所は、神奈川県横浜市西区北幸2丁目2-1です。営業時間は、10:00～23:30でございます。	general,shopping,taxi
+1257	8	USER	ありがとうございます。あと、当日タクシーを使いたいのですが、キャッシュレス払いができるタクシー会社を教えていただけますか？	general,shopping,taxi
+1257	9	SYSTEM	申し訳ございません。横浜でキャッシュレスに対応しているタクシー会社は、ご案内できるところがございませんでした。	general,shopping,taxi
+1257	10	USER	そうなんですね、では普通のタクシー会社を教えてください。	general,shopping,taxi
+1257	11	SYSTEM	ありがとうございます。では、株式会社富士タクシーはいかがでしょうか？	general,shopping,taxi
+1257	12	USER	ありがとうございます。そちらのタクシーは予約ができますか？	general,shopping,taxi
+1257	13	SYSTEM	はい、可能です。ご予約なさいますか？	general,shopping,taxi
+1257	14	USER	お願いします。4/27の12:30で、横浜港シンボルタワーから乗車して、先ほどのHAMABOWL EASへ行きたいです。念のためそのタクシー会社の電話番号もお願いします。	general,shopping,taxi
+1257	15	SYSTEM	かしこまりました。ご予約番号85837にて、承りました。株式会社富士タクシーの電話番号は、0457552211でございます。	general,shopping,taxi
+1257	16	USER	ありがとうございます、大変助かりました。	general,shopping,taxi
+1257	17	SYSTEM	ほかにお手伝いできることはございませんか？	general,shopping,taxi
+1257	18	USER	はい、大丈夫です。ありがとうございました。	general,shopping,taxi
+1257	19	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,shopping,taxi

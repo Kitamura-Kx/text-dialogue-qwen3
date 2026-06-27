@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4427	0	USER	札幌へ行くので、最寄り駅が麻生駅のWi-Fiが無料で使える観光名所を探してください。	general,attraction
+4427	1	SYSTEM	承知しました。エリアでいうと北区にある、シャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートはいかがでしょう？ジャンルは、銭湯、スパ、スポーツ、フィットネス、温泉、となります。	general,attraction
+4427	2	USER	そこにします。近辺の駅からの所要時間を教えてください。	general,attraction
+4427	3	SYSTEM	はい、最寄りの麻生駅からタクシーで20分となります。	general,attraction
+4427	4	USER	ありがとうございました。	general,attraction
+4427	5	SYSTEM	ありがとうございました。	general,attraction

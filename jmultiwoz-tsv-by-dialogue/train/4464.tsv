@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4464	0	USER	大阪への旅行を計画しています。 当日食事ができる飲食店を探してください。Wi-Fiが無料で利用できるところで、ジャンルはラーメン・つけ麺です。お願いします。	general,restaurant,weather
+4464	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,restaurant,weather
+4464	2	USER	では、ジャンルは考慮しません。	general,restaurant,weather
+4464	3	SYSTEM	そうしますと、神楽という中央区のお店はいかがでしょうか？ジャンルは、和食, 寿司・魚料理, 居酒屋となっております。	general,restaurant,weather
+4464	4	USER	ありがとうございます。住所を教えてください	general,restaurant,weather
+4464	5	SYSTEM	住所は、大阪府大阪市中央区東心斎橋1丁目13-3 マンション馬やど1Fです。	general,restaurant,weather
+4464	6	USER	ありがとうございます。そちらのお店を予約してください。人数は3人です。日付は10/25で、時間は14:00でお願いします。	general,restaurant,weather
+4464	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、8973です。	general,restaurant,weather
+4464	8	USER	ありがとうございます。当日の天候を調べてください。地区は住之江区です。日付は10/25です。 最低気温をお伺いできますか。	general,restaurant,weather
+4464	9	SYSTEM	かしこまりました。当日の最低気温は、18.2度の予想となっております。	general,restaurant,weather
+4464	10	USER	かしこまりました。本日はありがとうございました。	general,restaurant,weather
+4464	11	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,restaurant,weather

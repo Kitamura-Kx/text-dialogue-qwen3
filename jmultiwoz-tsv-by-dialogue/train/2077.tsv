@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2077	0	USER	東京へ観光に行きます。Wi-Fiが無料で使えるアリーナやスタジアムのようなところがあれば教えてください。	general,attraction,restaurant,shopping
+2077	1	SYSTEM	かしこまりました。それでは代々木公園はいかがでしょうか？	general,attraction,restaurant,shopping
+2077	2	USER	そちら、最寄り駅はどこになりますか？	general,attraction,restaurant,shopping
+2077	3	SYSTEM	はい。最寄り駅は原宿駅でございます。	general,attraction,restaurant,shopping
+2077	4	USER	大人の入場料金はいくらでしょうか？	general,attraction,restaurant,shopping
+2077	5	SYSTEM	無料でございます。	general,attraction,restaurant,shopping
+2077	6	USER	わかりました。当日港区で食事がしたいです。神泉駅近くでどこか良いところはありますか？	general,attraction,restaurant,shopping
+2077	7	SYSTEM	申し訳ございません。その条件ではご案内出来る飲食を探すことが出来ませんでした。	general,attraction,restaurant,shopping
+2077	8	USER	うですか。では、最寄り駅はどこでもいいです。港区の飲食店を教えてもらえますか？	general,attraction,restaurant,shopping
+2077	9	SYSTEM	かしこまりました。それではバルバッコア 六本木ヒルズ店はいかがでしょうか？	general,attraction,restaurant,shopping
+2077	10	USER	そちらには駐車場はありますか？	general,attraction,restaurant,shopping
+2077	11	SYSTEM	はい、有料ですが、駐車場はございます。	general,attraction,restaurant,shopping
+2077	12	USER	料金の情報がわかれば教えてください。	general,attraction,restaurant,shopping
+2077	13	SYSTEM	申し訳ございません。駐車場は無料でした。また、料金の詳細ですが、シュラスコが6600円、カイピリーニャが990円、ピッカーニャ（イチボ）ステーキランチが2700円でございます。	general,attraction,restaurant,shopping
+2077	14	USER	わかりました。では、6/24の14:00にそちらを予約したいです。人数は3人で。	general,attraction,restaurant,shopping
+2077	15	SYSTEM	かしこまりました。予約番号4993でお取りさせていただきました。	general,attraction,restaurant,shopping
+2077	16	USER	ありがとうございます。新宿区で買い物ができるところも探してもらえますか？駐車場が無料で使えるところだと嬉しいです。	general,attraction,restaurant,shopping
+2077	17	SYSTEM	それでは、ルミネ新宿はいかがでしょうか？	general,attraction,restaurant,shopping
+2077	18	USER	いいですね。近辺の駅からの所要時間はわかりますか？	general,attraction,restaurant,shopping
+2077	19	SYSTEM	はい、新宿駅から徒歩で1分でございます。	general,attraction,restaurant,shopping
+2077	20	USER	わかりました。どうもありがとうございます。	general,attraction,restaurant,shopping

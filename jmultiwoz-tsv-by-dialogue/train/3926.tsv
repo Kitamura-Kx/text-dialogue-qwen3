@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3926	0	USER	こんにちは、今京都への旅行を計画していまして当日訪れる観光名所を探しています。	general,attraction
+3926	1	SYSTEM	ご希望のジャンルなどございますか。	general,attraction
+3926	2	USER	有名な庭園を探してまして、せっかくならWi-Fiが無料で使えるところに行きたいです。	general,attraction
+3926	3	SYSTEM	申し訳ありません。庭園でWi-Fiが無料で使えるところは、検索結果にございません。	general,attraction
+3926	4	USER	承知しました、では庭園以外でWi-Fiが無料で使えるところはありますか？	general,attraction
+3926	5	SYSTEM	１件御座います。国立京都国際会館になります。	general,attraction
+3926	6	USER	ありがとうございます、ではそちらに行ってみたいと思います。ちなみに、そちらの子供入場料はいくらでしょうか？	general,attraction
+3926	7	SYSTEM	大変申し訳ございません。不明です。	general,attraction
+3926	8	USER	分かりました、本日はご案内ありがとうございました。これで失礼します。	general,attraction
+3926	9	SYSTEM	ありがとうございます。	general,attraction
+3926	10	USER		general,attraction

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3688	0	USER	京都に旅行に行こうと思っています。当日買い物ができるところを教えてください。駐車場は無料で地区は左京区でジャンルはスポーツが希望です。	general,shopping,taxi
+3688	1	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,shopping,taxi
+3688	2	USER	すみません。地区は右京区でした。	general,shopping,taxi
+3688	3	SYSTEM	右京区でも条件に合う店舗は見つかりませんでした。どうされますか？	general,shopping,taxi
+3688	4	USER	でしたら、ジャンルはお土産に変更します。	general,shopping,taxi
+3688	5	SYSTEM	かしこまりました。では、伊藤常嵐山店はいかがでしょうか？	general,shopping,taxi
+3688	6	USER	そこが良さそうですね。そこの最寄り駅と近辺の駅からの所要時間を教えてください。	general,shopping,taxi
+3688	7	SYSTEM	はい。最寄り駅は嵐山駅です。また、嵐山駅から徒歩で1分でございます。	general,shopping,taxi
+3688	8	USER	あと当日は洛東タクシー株式会社を利用する予定です。ここがキャッシュレスに対応しているか教えてください。	general,shopping,taxi
+3688	9	SYSTEM	はい。お調べしたところ対応しておりました。	general,shopping,taxi
+3688	10	USER	このタクシー会社に予約したいので日付は10/1時間は13:50で出発地はアパホテル〈京都駅北〉で目的地は伊藤常嵐山店でお願いします。	general,shopping,taxi
+3688	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、99181です。	general,shopping,taxi
+3688	12	USER	分かりました。ありがとうございます。	general,shopping,taxi
+3688	13	SYSTEM	はい。他にご用件はございませんか？	general,shopping,taxi
+3688	14	USER	はい、大丈夫です。	general,shopping,taxi
+3688	15	SYSTEM	かしこまりました。ありがとうございました。	general,shopping,taxi

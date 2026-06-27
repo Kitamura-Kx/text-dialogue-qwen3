@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2952	0	USER	名古屋への旅行を計画しています。 御園座という観光名所があると聞いたのですが。	general,attraction,restaurant
+2952	1	SYSTEM	はい、エリアでいうと中区にございます。ジャンルは、伝統芸能、コンサート、ショーとなります。	general,attraction,restaurant
+2952	2	USER	Wi-Fiの有無はどうですか？	general,attraction,restaurant
+2952	3	SYSTEM	申し訳ありません、Wi-Fiの有無は不明です。	general,attraction,restaurant
+2952	4	USER	当日、いけす酒場 ぴち天 名駅中店という飲食店で食事をしたいのですが、定休日がわかりますか。	general,attraction,restaurant
+2952	5	SYSTEM	はい、定休日は日曜日となります。	general,attraction,restaurant
+2952	6	USER	お店の予約をお願いします。人数は2人、日付は7/5、時間は16:10希望です。	general,attraction,restaurant
+2952	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、13260となります。	general,attraction,restaurant
+2952	8	USER	解決しました。ありがとうございました。	general,attraction,restaurant

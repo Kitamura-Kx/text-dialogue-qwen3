@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4004	0	USER	大阪へ旅行予定です。ジャンボタクシーを利用したいのですが、キャッシュレス払いできるようなところありますか？	general,taxi
+4004	1	SYSTEM	お待たせ致しました。それでは株式会社未来都はいかがでしょうか？	general,taxi
+4004	2	USER	いいですね。電話番号教えてください。	general,taxi
+4004	3	SYSTEM	はい、電話番号は0669060088でございます。	general,taxi
+4004	4	USER	なるほど。予約もお願いします。11/17の14:50で、ヴィアインあべの天王寺からお好み たまちゃん ルクア大阪店までです。	general,taxi
+4004	5	SYSTEM	お待たせ致しました。予約番号59929でお取りさせていただきました。	general,taxi
+4004	6	USER	ありがとうございます。もう大丈夫です。	general,taxi
+4004	7	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi

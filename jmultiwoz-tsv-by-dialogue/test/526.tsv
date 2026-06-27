@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+526	0	USER	大阪へ旅行予定なのですが、買い物できるところを探してくれますか？	general,shopping,hotel,attraction
+526	1	SYSTEM	かしこまりました。エリアなど、ご希望の条件はございますか？	general,shopping,hotel,attraction
+526	2	USER	はい。スポーツ系で、駐車場が無料で利用できるところ希望です。あと、最寄り駅が梅田駅のところにしてください。	general,shopping,hotel,attraction
+526	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,hotel,attraction
+526	4	USER	わかりました。ではスポーツではなくて、なんでも大丈夫です。	general,shopping,hotel,attraction
+526	5	SYSTEM	ありがとうございます。1件候補がございました。MARUZEN&ジュンク堂書店 梅田店という書籍のお店はいかがでしょうか？	general,shopping,hotel,attraction
+526	6	USER	そこにします。電話番号を教えてもらっていいですか？	general,shopping,hotel,attraction
+526	7	SYSTEM	電話番号は、0662927383でございます。	general,shopping,hotel,attraction
+526	8	USER	ありがとうございます。当日泊まる施設も探しているのですが、レストランが併設されていて、Wi-Fiが無料で利用できるところはありますか？	general,shopping,hotel,attraction
+526	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できる宿泊施設が見つかりませんでした。	general,shopping,hotel,attraction
+526	10	USER	そうですか。ならレストランはなくてもいいです。	general,shopping,hotel,attraction
+526	11	SYSTEM	ありがとうございます。では、レックスインなんばというお安めのビジネスホテルはいかがでしょうか？	general,shopping,hotel,attraction
+526	12	USER	そこにします。エリアを教えてもらっていいですか？	general,shopping,hotel,attraction
+526	13	SYSTEM	はい。エリアは中央区でございます。	general,shopping,hotel,attraction
+526	14	USER	わかりました。2人で2月8日から2泊の予約をお願いします。	general,shopping,hotel,attraction
+526	15	SYSTEM	かしこまりました。予約が完了いたしました。ご予約番号は、1512です。	general,shopping,hotel,attraction
+526	16	USER	ありがとうございます。観光名所も探しているのですが、城でWi-Fiが無料で利用できるところはありますか？	general,shopping,hotel,attraction
+526	17	SYSTEM	はい、1件ございます。大阪城天守閣という場所ですが、いかがでしょうか？	general,shopping,hotel,attraction
+526	18	USER	そこにしようと思います。定休日はありますか？	general,shopping,hotel,attraction
+526	19	SYSTEM	はい。定休日は年末年始となっております。	general,shopping,hotel,attraction
+526	20	USER	わかりました。ありがとうございます。	general,shopping,hotel,attraction
+526	21	SYSTEM	ほかにお調べすることはございますか？	general,shopping,hotel,attraction
+526	22	USER	もう大丈夫です。	general,shopping,hotel,attraction
+526	23	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,hotel,attraction

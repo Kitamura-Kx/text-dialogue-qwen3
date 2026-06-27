@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4765	0	USER	名古屋への旅行を計画していて、当日の観光名所を探しています。駐車場無料、Wi-Fi無料、ジャンルは散策エリアが良いです。	general,attraction
+4765	1	SYSTEM	承知しました。大高緑地はいかがでしょうか？	general,attraction
+4765	2	USER	ありがとうございます。そこにしようと思います。大高緑地の住所、エリア、子供入場料について教えて貰えますか？	general,attraction
+4765	3	SYSTEM	住所は愛知県名古屋市緑区大高町字高山1-1です。エリアは緑区です。子供入場料は不明です。	general,attraction
+4765	4	USER	ありがとうございました。	general,attraction
+4765	5	SYSTEM	他にご用件はありますか？	general,attraction
+4765	6	USER	いえ、他にはありません。ありがとうございました。	general,attraction
+4765	7	SYSTEM	ありがとうございました。またのご利用お待ちしております。	general,attraction

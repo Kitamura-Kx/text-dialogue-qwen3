@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+621	0	USER	札幌へ旅行予定なのですが、駐車場を無料で利用できる観光名所を教えてください。	general,attraction,restaurant,taxi
+621	1	SYSTEM	承知しました。他にご希望はございますか？	general,attraction,restaurant,taxi
+621	2	USER	いえ、特に大丈夫です。	general,attraction,restaurant,taxi
+621	3	SYSTEM	では、クラーク博士像はいかがでしょう？何かご案内致しましょうか？	general,attraction,restaurant,taxi
+621	4	USER	そこにします。電話番号はわかりますか？	general,attraction,restaurant,taxi
+621	5	SYSTEM	はい、電話番号は0118513080となります。他にご案内できることはございますか？	general,attraction,restaurant,taxi
+621	6	USER	わかりました。値段が普通の飲食店も探していて、東区でWi-Fiが無料で利用できるところを教えてほしいです。	general,attraction,restaurant,taxi
+621	7	SYSTEM	承知しました。では、CAFE VOIZはいかがでしょう？何かご案内致しましょうか？	general,attraction,restaurant,taxi
+621	8	USER	そこにします。営業時間を知りたいです。	general,attraction,restaurant,taxi
+621	9	SYSTEM	はい、営業時間は11時から17時となります。他にご案内できることはございますか？	general,attraction,restaurant,taxi
+621	10	USER	了解です。当日タクシー利用を考えているのですが、北都交通(株)という名前のタクシー会社はありますか？	general,attraction,restaurant,taxi
+621	11	SYSTEM	はい、キャッシュレス、ジャンボタクシーともに対応されております。電話番号は、0112904181となります。予約されますか？	general,attraction,restaurant,taxi
+621	12	USER	はい。9月26日の14時10分で、クラーク博士像からCAFE VOIZまでの道のりをお願いできますか？	general,attraction,restaurant,taxi
+621	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、5146となります。他にご用件はございますか？	general,attraction,restaurant,taxi
+621	14	USER	ありがとうございます。もう大丈夫です。	general,attraction,restaurant,taxi
+621	15	SYSTEM	ありがとうございます。	general,attraction,restaurant,taxi

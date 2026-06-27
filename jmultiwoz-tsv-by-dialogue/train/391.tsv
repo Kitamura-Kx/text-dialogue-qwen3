@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+391	0	USER	京都に行こうと思っています。中京区で買い物ができるところを探しています。ジャンルはファッションです。	general,shopping,weather
+391	1	SYSTEM	承知しました。この条件では、モンベル 京都店がございます。電話番号は0752234568となります。	general,shopping,weather
+391	2	USER	営業時間は何時からでしょうか？	general,shopping,weather
+391	3	SYSTEM	はい、営業時間は11時から20時となります。	general,shopping,weather
+391	4	USER	わかりました。そこに行ってみようと思います。	general,shopping,weather
+391	5	SYSTEM	他にご用件はございますか？	general,shopping,weather
+391	6	USER	3月22日の状況区の天気はどうなっていますか？	general,shopping,weather
+391	7	SYSTEM	申し訳ありません。状況区という区はございません。他の区でお調べしましょうか？	general,shopping,weather
+391	8	USER	すみません。上京区でした。もう一度調べていただけますか？	general,shopping,weather
+391	9	SYSTEM	はい、ありがとうございます。天気は晴時々雨、最低気温2.5度、最高気温14.4度となります。	general,shopping,weather
+391	10	USER	わかりました。ありがとうございました。	general,shopping,weather
+391	11	SYSTEM	他にご用件はございますか？	general,shopping,weather

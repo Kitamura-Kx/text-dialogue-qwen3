@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3008	0	USER	札幌への旅行を計画しています。 当日食事ができる飲食店を探してほしいです。	general,restaurant,weather
+3008	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,restaurant,weather
+3008	2	USER	地区は白石区、ジャンルは居酒屋、予算は普通が希望です。	general,restaurant,weather
+3008	3	SYSTEM	白石区に値段帯普通の居酒屋はヒットしませんでした。	general,restaurant,weather
+3008	4	USER	そうですか。ではジャンルは考えないようにします。	general,restaurant,weather
+3008	5	SYSTEM	白石区で値段普通の飲食店は、札幌焼肉 赤いとうがらし、こちらになります。	general,restaurant,weather
+3008	6	USER	いいですね。料金情報，営業時間，定休日を教えてほしいです。	general,restaurant,weather
+3008	7	SYSTEM	定休日は月と火、営業時間は夕方５時から夜１１時まで、料金情報ですが、上塩牛ロース2070円、厚切り塩牛タン1320円、韓国風石焼めしが3人から4人前で1980円、こんな感じです。	general,restaurant,weather
+3008	8	USER	予約をお願いします。人数は2人、日付は9/7、時間は10:40希望です。	general,restaurant,weather
+3008	9	SYSTEM	予約成功しました。予約番号は75170です。	general,restaurant,weather
+3008	10	USER	あと、天気を調べてください。日付は9/7、地区は白石区です。	general,restaurant,weather
+3008	11	SYSTEM	9/7 札幌 白石区 の天気は雨のち晴、最低気温19.6度、最高気温22.6度です。	general,restaurant,weather
+3008	12	USER	解決しました。ありがとうございました。	general,restaurant,weather

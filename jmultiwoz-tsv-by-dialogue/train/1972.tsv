@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1972	0	USER	東京へ行こうと思っています。駐車場が無料で利用できて予算が普通の飲食店を探していただきたいです。	general,restaurant,taxi
+1972	1	SYSTEM	それならば醍醐 お台場店をお勧めします。	general,restaurant,taxi
+1972	2	USER	そちらの料金情報を教えていただけますでしょうか。	general,restaurant,taxi
+1972	3	SYSTEM	食べ放題コース:4980円、一頭喰いコース:7000円、飲み放題2時間:1500円などがあります。	general,restaurant,taxi
+1972	4	USER	では、8月14日11時から4人で予約をお願いします。	general,restaurant,taxi
+1972	5	SYSTEM	予約しました。予約番号は31628です。	general,restaurant,taxi
+1972	6	USER	わかりました。ありがとうございます。	general,restaurant,taxi
+1972	7	SYSTEM	他にご希望はありますか？	general,restaurant,taxi
+1972	8	USER	東京エムケイというタクシー会社がジャンボタクシー、キャッシュレス対応かどうか調べていただきたいです。	general,restaurant,taxi
+1972	9	SYSTEM	ジャンボタクシー、キャッシュレスともに対応しています。	general,restaurant,taxi
+1972	10	USER	では、8月14日9時30分醍醐 お台場店から原価ビストロBAN! 代々木西口まで予約をお願いします。	general,restaurant,taxi
+1972	11	SYSTEM	予約に失敗してしまいました。	general,restaurant,taxi
+1972	12	USER	では時間を10時10分に変更して予約をお願いします。	general,restaurant,taxi
+1972	13	SYSTEM	予約成功しました。予約番号は45261です。	general,restaurant,taxi
+1972	14	USER	わかりました。ありがとうございます。	general,restaurant,taxi
+1972	15	SYSTEM	他にご希望はありますか？	general,restaurant,taxi
+1972	16	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant,taxi

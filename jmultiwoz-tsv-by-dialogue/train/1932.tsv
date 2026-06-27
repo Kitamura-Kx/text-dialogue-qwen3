@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1932	0	USER	大阪に無料駐車場のある宿泊施設はありますか。予算は普通で考えています。	general,hotel
+1932	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel
+1932	2	USER	では駐車場のことは考えなければ見つかりますか。	general,hotel
+1932	3	SYSTEM	ありがとうございます。1件ご案内可能です。大阪マリオット都ホテルという阿倍野区エリアにあるリゾートホテルですが、いかがでしょうか？	general,hotel
+1932	4	USER	そこにします。Wi-Fiの有無，近辺の駅からの所要時間も教えてください。	general,hotel
+1932	5	SYSTEM	WiFiは無料でご利用いただけます。駅からの距離は、天王寺駅から徒歩で2分、大阪阿部野橋駅から徒歩で1分となります。	general,hotel
+1932	6	USER	ありがとうございます。質問は以上です。	general,hotel
+1932	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

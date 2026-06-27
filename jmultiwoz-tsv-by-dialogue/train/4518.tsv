@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4518	0	USER	旅行で仙台に行きたいんですけど、その時に利用する飲食店を探してもらえますか？	general,restaurant
+4518	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+4518	2	USER	泉区で、駐車場が無料のところはありますか？	general,restaurant
+4518	3	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,restaurant
+4518	4	USER	じゃあ泉区以外でも大丈夫です。	general,restaurant
+4518	5	SYSTEM	では、えばーぐりーんはいかがですか。	general,restaurant
+4518	6	USER	そちらはジャンルは何になりますか？	general,restaurant
+4518	7	SYSTEM	こちらジャンルはイタリアン・フレンチ, その他, 居酒屋でございます。	general,restaurant
+4518	8	USER	いいですね、そこにします。Wi-Fiはありますか？	general,restaurant
+4518	9	SYSTEM	Wi-Fiはございません。	general,restaurant
+4518	10	USER	わかりました。ありがとうございます。	general,restaurant
+4518	11	SYSTEM	ほかにご用件はございませんか。	general,restaurant
+4518	12	USER	他にはありません、ありがとうございました。	general,restaurant
+4518	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+455	0	USER	横浜旅行を企画しているのですが、宿泊施設はありますか？	general,hotel,taxi
+455	1	SYSTEM	はい、81件ほどご案内可能です。エリアなど、なにかご希望の条件はございますでしょうか？	general,hotel,taxi
+455	2	USER	Wi-Fiが無料で利用できて、レストランが併設されているところがいいです。	general,hotel,taxi
+455	3	SYSTEM	そういたしますと、ホテルフィールという、お安めのシティホテルはいかがでしょうか？	general,hotel,taxi
+455	4	USER	そちらにします。当日ジャンボタクシーを利用できて、キャッシュレス払いができるタクシー会社を探しているのですが、ありますか？	general,hotel,taxi
+455	5	SYSTEM	はい、ございます。京浜ハイヤー株式会社はいかがでしょうか？	general,hotel,taxi
+455	6	USER	そこにします。電話番号を教えてください。	general,hotel,taxi
+455	7	SYSTEM	電話番号は、0457411896でございます。予約をおとりしましょうか？	general,hotel,taxi
+455	8	USER	おねがいします。日付は3/11で、時間は11:30がいいです。	general,hotel,taxi
+455	9	SYSTEM	かしこまりました。出発地と目的地はお決まりですか？	general,hotel,taxi
+455	10	USER	出発地はLaline 横浜ジョイナス店で、目的地は先ほど見つけてもらった宿泊所です。	general,hotel,taxi
+455	11	SYSTEM	大変申し訳ございません。その条件では予約をおとりできませんでした。いかがいたしましょうか？	general,hotel,taxi
+455	12	USER	了解しました。では時間を12：30に変更します。	general,hotel,taxi
+455	13	SYSTEM	ありがとうございます。3/11、12：30にLaline 横浜ジョイナス店発、ホテルフィール着で予約を完了いたしました。予約番号は、16715です。	general,hotel,taxi
+455	14	USER	了解です。ありがとうございます！	general,hotel,taxi
+455	15	SYSTEM	ほかには、何かお調べすることはございませんか？	general,hotel,taxi
+455	16	USER	はい、大丈夫です。ありがとうございました。	general,hotel,taxi
+455	17	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,hotel,taxi

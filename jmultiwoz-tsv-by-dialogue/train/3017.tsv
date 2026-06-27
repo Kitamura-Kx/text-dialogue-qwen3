@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3017	0	USER	那覇へ行くのですが、リゾートホテルをさがしてもらえますか。予算は普通くらいで、レストランが併設されているところがいいです。	general,hotel,restaurant,shopping
+3017	1	SYSTEM	かしこまりました。では、ザ・ナハテラスはいかがでしょうか？	general,hotel,restaurant,shopping
+3017	2	USER	そこは、どのエリアになりますか。あと駐車場はありますか。	general,hotel,restaurant,shopping
+3017	3	SYSTEM	はい。エリアは本庁です。駐車場は有料のものがございます。	general,hotel,restaurant,shopping
+3017	4	USER	ありがとうございます。あと、駐車場無料でWi-Fiも無料で利用できる、予算高めのレストランに行きたいのですがありますか？	general,hotel,restaurant,shopping
+3017	5	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,hotel,restaurant,shopping
+3017	6	USER	そうですか。じゃあ、Wi-Fiにはこだわならいことにします。	general,hotel,restaurant,shopping
+3017	7	SYSTEM	かしこまりました。では、おもろダイニング 山葵はいかがでしょうか？	general,hotel,restaurant,shopping
+3017	8	USER	ありがとうございます。そこの定休日と料金情報をおしえてください。	general,hotel,restaurant,shopping
+3017	9	SYSTEM	かしこまりました。定休日はありません。料金情報ですが、例えば大とろが1320円、やんばる鶏ももが858円となっております。	general,hotel,restaurant,shopping
+3017	10	USER	良さそうですね。ではそこの予約をお願いします。12/14の11:50で２名です。	general,hotel,restaurant,shopping
+3017	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、91703です。	general,hotel,restaurant,shopping
+3017	12	USER	ありがとうございます。それから、首里で無料駐車場がある買い物ができるところも探してください。	general,hotel,restaurant,shopping
+3017	13	SYSTEM	申し訳ございません。条件に合う買い物の店舗は見つかりませんでした。	general,hotel,restaurant,shopping
+3017	14	USER	では、エリアはどこでも大丈夫です。	general,hotel,restaurant,shopping
+3017	15	SYSTEM	かしこまりました。では、サンエー那覇メインプレイスはいかがでしょうか？	general,hotel,restaurant,shopping
+3017	16	USER	そこはどういったジャンルのお店ですか？	general,hotel,restaurant,shopping
+3017	17	SYSTEM	はい。ジャンルはショッピングモールです。	general,hotel,restaurant,shopping
+3017	18	USER	そうですか。じゃあ、そのお店の近辺の駅からの所要時間と定休日も教えてください。	general,hotel,restaurant,shopping
+3017	19	SYSTEM	かしこまりました。おもろまち駅から徒歩で5分で、定休日はありません。	general,hotel,restaurant,shopping
+3017	20	USER	ありがとうございました。以上で結構です。	general,hotel,restaurant,shopping
+3017	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,shopping

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+743	0	USER	福岡の東区で、無料駐車場のある観光名所を探しています。	general,attraction,restaurant
+743	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,restaurant
+743	2	USER	では、駐車場はなくても構わないです。	general,attraction,restaurant
+743	3	SYSTEM	ありがとうございます。そういたしますと、志賀島というところはいかがでしょうか？ジャンルは、ビーチ, リゾート・保養地となっております。	general,attraction,restaurant
+743	4	USER	ありがとうございます。そちらの住所と最寄り駅を教えてもらえますか？	general,attraction,restaurant
+743	5	SYSTEM	住所は、福岡県福岡市東区志賀島です。最寄りは西戸崎駅で、駅からバスで26分ほどの距離にございます。	general,attraction,restaurant
+743	6	USER	ありがとうございます。あと、早良区で食事を考えています。普通予算で無料駐車場のあるお店はありますか？	general,attraction,restaurant
+743	7	SYSTEM	はい、2件ほどご案内できます。たとえば、THE BEACHというお店はいかがでしょうか？	general,attraction,restaurant
+743	8	USER	そちらの料金情報は詳しくわかりますでしょうか？	general,attraction,restaurant
+743	9	SYSTEM	はい。タコライス850円、NYチキンオーバーライス950円、 激旨カルボナーラ1100円といったものがございます。	general,attraction,restaurant
+743	10	USER	ありがとうございます。営業時間も教えてもらえますか？	general,attraction,restaurant
+743	11	SYSTEM	営業時間は、11:00～22:00でございます。	general,attraction,restaurant
+743	12	USER	ありがとうございます。	general,attraction,restaurant
+743	13	SYSTEM	他にお調べすることはございますか？	general,attraction,restaurant
+743	14	USER	大丈夫です。ありがとうございました。	general,attraction,restaurant
+743	15	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,attraction,restaurant

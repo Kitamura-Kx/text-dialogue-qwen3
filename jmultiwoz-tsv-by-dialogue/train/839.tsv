@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+839	0	USER	札幌に旅行をするのですが、買い物ができる場所を知りたいです。	general,shopping
+839	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,shopping
+839	2	USER	ファッションショップに行きたいです。	general,shopping
+839	3	SYSTEM	そういたしますと、3件ほどご案内可能です。たとえば、SUUという中央区エリアにあるお店はいかがでしょうか？	general,shopping
+839	4	USER	そちらのお店は、駐車場が無料で使えますか？	general,shopping
+839	5	SYSTEM	申し訳ありません。こちらのお店は駐車場が不明となっております。駐車場無料のお店をお探ししましょうか？	general,shopping
+839	6	USER	はい、お願いいたします。	general,shopping
+839	7	SYSTEM	かしこまりました。では、東急百貨店 さっぽろ店はいかがでしょうか？	general,shopping
+839	8	USER	駐車場が無料であれば、そちらで良いです。定休日と電話番号を教えてください。	general,shopping
+839	9	SYSTEM	かしこまりました。こちらのお店は、定休日はございません。電話番号は、0112122211です。	general,shopping
+839	10	USER	ありがとうございました。以上で大丈夫です。	general,shopping
+839	11	SYSTEM	他にお調べすることはございませんか？	general,shopping
+839	12	USER	はい、結構です。ありがとうございました。	general,shopping
+839	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

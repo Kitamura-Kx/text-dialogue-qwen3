@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4228	0	USER	福岡で当日食事をするところを探しているのですがいいところはありませんか	general,restaurant
+4228	1	SYSTEM	福岡ですね。飲食店が108件見つかりました。他に条件等ありましたらお願いします。	general,restaurant
+4228	2	USER	駐車場が無料で地区は東区がいいんですが、	general,restaurant
+4228	3	SYSTEM	レストラン サラフルというお店はいかがでしょうか。	general,restaurant
+4228	4	USER	なるほどレストランのジャンルはなんですか	general,restaurant
+4228	5	SYSTEM	はい。ジャンルは洋食・西洋料理, 和食, 中華料理, ホテルレストランとなっています。	general,restaurant
+4228	6	USER	ではそのお店の電話番号を教えて貰えますか	general,restaurant
+4228	7	SYSTEM	はい。電話番号は0926417741です。	general,restaurant
+4228	8	USER	かしこまりました。では予約をしたいのですが、３月１３日１５時から二人で予約できますか	general,restaurant
+4228	9	SYSTEM	承知しました。予約番号は5349でお取りしました。	general,restaurant
+4228	10	USER	かしこまりました。以上で質問は終わりです。ありがとうございました	general,restaurant

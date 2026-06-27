@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4397	0	USER	今度名古屋へ行くんですが、中区で駐車場無料の買い物施設を探してもらえますか？最寄り駅は矢場町駅が希望です。	general,shopping
+4397	1	SYSTEM	ではポケモンセンターナゴヤはいかがでしょうか。	general,shopping
+4397	2	USER	ありがとうございます。じゃあ、そこの住所と近辺の駅からの所要時間を教えてください。	general,shopping
+4397	3	SYSTEM	住所は愛知県名古屋市中区栄3丁目16-1 松坂屋 名古屋店 本館 5Fでございます。矢場町駅から徒歩で1分、栄駅から徒歩で5分、栄町駅から徒歩で8分となっております。	general,shopping
+4397	4	USER	ありがとうございました。以上で結構です。	general,shopping
+4397	5	SYSTEM	承知しました。ありがとうございました。	general,shopping
+4397	6	USER		general,shopping

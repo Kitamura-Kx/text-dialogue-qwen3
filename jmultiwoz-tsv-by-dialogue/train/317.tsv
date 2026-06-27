@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+317	0	USER	札幌に旅行したいのですが、駐車場代が不要でショッピングできるところってありますか？	general,shopping
+317	1	SYSTEM	はい、ジャンルやエリアのご希望はございますか？	general,shopping
+317	2	USER	駐車場代が無料であれば、その他は特にありません。	general,shopping
+317	3	SYSTEM	それでは、コーチャンフォー新川通り店はいかがでしょう？ジャンルは書籍,、文房具、雑貨,、食料品となっており、エリアでいうと北区にございます。	general,shopping
+317	4	USER	お調べ頂きありがとうございます。こちらのお店って定休日はどうなっていますか？	general,shopping
+317	5	SYSTEM	定休日はございません。	general,shopping
+317	6	USER	わかりました。ご対応して下さりありがとうございました。	general,shopping

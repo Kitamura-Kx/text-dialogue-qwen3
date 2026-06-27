@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2127	0	USER	福岡へ行こうと思っています。駐車場が無料で利用できるファッション系のお店を探していただきたいです。	general,shopping,restaurant,taxi
+2127	1	SYSTEM	かしこまりました。それではベイサイドプレイス博多はいかがでしょうか？	general,shopping,restaurant,taxi
+2127	2	USER	そちらの電話番号、定休日を教えていただけますでしょうか。	general,shopping,restaurant,taxi
+2127	3	SYSTEM	電話番号は0922817701、定休日はございません。	general,shopping,restaurant,taxi
+2127	4	USER	わかりました。ありがとうございます。	general,shopping,restaurant,taxi
+2127	5	SYSTEM	その他に何かご用件はございますか？	general,shopping,restaurant,taxi
+2127	6	USER	中央区にある飲食店を探していただきたいです。	general,shopping,restaurant,taxi
+2127	7	SYSTEM	その条件ですと、53件ほど飲食店が見つかりました。何か拘りはございますか？	general,shopping,restaurant,taxi
+2127	8	USER	特に他の希望はありません。	general,shopping,restaurant,taxi
+2127	9	SYSTEM	かしこまりました。それでは博多水炊きさもんじはいかがでしょうか？	general,shopping,restaurant,taxi
+2127	10	USER	そちらの住所を教えていただけますでしょうか。	general,shopping,restaurant,taxi
+2127	11	SYSTEM	はい、住所は福岡県福岡市中央区天神3丁目4番28号 天神ブロードウェイビル1Fでございます。	general,shopping,restaurant,taxi
+2127	12	USER	では、5月6日16時40分から3人で予約をお願いします。	general,shopping,restaurant,taxi
+2127	13	SYSTEM	ありがとうございます。予約番号16357でお取りさせていただきました。	general,shopping,restaurant,taxi
+2127	14	USER	わかりました。ありがとうございます。	general,shopping,restaurant,taxi
+2127	15	SYSTEM	その他に御用件はございますか？	general,shopping,restaurant,taxi
+2127	16	USER	ジャンボタクシーが利用できてキャッシュレス払いができるタクシー会社を探していただきたいです。	general,shopping,restaurant,taxi
+2127	17	SYSTEM	かしこまりました。それでは福岡交通（株）はいかがでしょうか？	general,shopping,restaurant,taxi
+2127	18	USER	そちらの電話番号を教えていただけますでしょうか。	general,shopping,restaurant,taxi
+2127	19	SYSTEM	はい、電話番号は0570081234でございます。	general,shopping,restaurant,taxi
+2127	20	USER	では、5月6日15時20分ベイサイドプレイス博多から博多水炊きさもんじまで予約をお願いします。	general,shopping,restaurant,taxi
+2127	21	SYSTEM	かしこまりました。予約番号3866でお取りさせていただきました。	general,shopping,restaurant,taxi
+2127	22	USER	わかりました。ありがとうございます。	general,shopping,restaurant,taxi
+2127	23	SYSTEM	ありがとうございます。	general,shopping,restaurant,taxi
+2127	24	USER	ありがとうございました。	general,shopping,restaurant,taxi

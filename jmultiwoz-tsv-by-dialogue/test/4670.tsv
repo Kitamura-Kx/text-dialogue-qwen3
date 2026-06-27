@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4670	0	USER	名古屋の池下駅近くで買い物ができるお店を探しています。	general,shopping,hotel
+4670	1	SYSTEM	かしこまりました。では、こみかるはうす 池下駅店がございます。	general,shopping,hotel
+4670	2	USER	エリアと住所はどこになりますか？あと電話番号も教えてください。	general,shopping,hotel
+4670	3	SYSTEM	エリアは千種区で、住所が愛知県名古屋市千種区覚王山通8丁目70番地1号　サンクレア池下東棟1階でございます。電話番号は0527536696でございます。	general,shopping,hotel
+4670	4	USER	ありがとうございます。あとWi-Fiが無料のシティホテルも探してほしいです。	general,shopping,hotel
+4670	5	SYSTEM	ではラグナスイート名古屋はいかがですか。	general,shopping,hotel
+4670	6	USER	エリアと住所はどこになりますか？	general,shopping,hotel
+4670	7	SYSTEM	エリアは中区、住所は愛知県名古屋市中区錦3丁目12-13でございます。	general,shopping,hotel
+4670	8	USER	わかりました。そのホテルを8/19に2人で4泊予約したいです。	general,shopping,hotel
+4670	9	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,shopping,hotel
+4670	10	USER	では3泊でお願いします。	general,shopping,hotel
+4670	11	SYSTEM	３泊ですと予約が可能でございました。予約番号は82468でございます。	general,shopping,hotel
+4670	12	USER	ありがとうございました。	general,shopping,hotel
+4670	13	SYSTEM	本日はありがとうございました。	general,shopping,hotel

@@ -1,0 +1,28 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4139	0	USER	那覇へ旅行に行きたいです。真和志でコンビニはありますか？	general,shopping,hotel,attraction
+4139	1	SYSTEM	はい、ファミリーマート さいおんスクエア店があります。	general,shopping,hotel,attraction
+4139	2	USER	駐車場は無料で利用できますか？	general,shopping,hotel,attraction
+4139	3	SYSTEM	申し訳ありません、駐車場については、不明となっています。	general,shopping,hotel,attraction
+4139	4	USER	そのお店の定休日はありますか？	general,shopping,hotel,attraction
+4139	5	SYSTEM	定休日は、ありません。	general,shopping,hotel,attraction
+4139	6	USER	近辺の駅からの所要時間が知りたいです。	general,shopping,hotel,attraction
+4139	7	SYSTEM	所要時間は、牧志駅から徒歩で2分です。	general,shopping,hotel,attraction
+4139	8	USER	ありがとうございます。	general,shopping,hotel,attraction
+4139	9	SYSTEM	他にご用件はありますか？	general,shopping,hotel,attraction
+4139	10	USER	wifiが無料で利用できる宿泊施設を探しています。	general,shopping,hotel,attraction
+4139	11	SYSTEM	JR九州ホテル ブラッサム那覇は、いかがですか？	general,shopping,hotel,attraction
+4139	12	USER	料金情報はどうなっていますか？	general,shopping,hotel,attraction
+4139	13	SYSTEM	申し訳ありません、料金情報の記載はございません。	general,shopping,hotel,attraction
+4139	14	USER	では、そこで予約したいです。6月5日で３人で4泊予約出来ますか？	general,shopping,hotel,attraction
+4139	15	SYSTEM	予約出来ました。予約番号は、35026になります。	general,shopping,hotel,attraction
+4139	16	USER	当日wifiが無料で利用出来る映画館はありますか？	general,shopping,hotel,attraction
+4139	17	SYSTEM	映画館ですね、パレットくもじはいかがですか？	general,shopping,hotel,attraction
+4139	18	USER	駐車場は無料ですか？	general,shopping,hotel,attraction
+4139	19	SYSTEM	駐車場については、有料駐車場となっています。	general,shopping,hotel,attraction
+4139	20	USER	分かりました。その映画館の住所と電話番号が知りたいです。	general,shopping,hotel,attraction
+4139	21	SYSTEM	住所は、沖縄県那覇市久茂地1丁目1番1号、電話番号は、0988671171です。	general,shopping,hotel,attraction
+4139	22	USER	営業時間はどうなっていますか？	general,shopping,hotel,attraction
+4139	23	SYSTEM	営業時間は、施設によって異なると記載されています。	general,shopping,hotel,attraction
+4139	24	USER	分かりました。ありがとうございます。これで大丈夫です。	general,shopping,hotel,attraction
+4139	25	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,attraction
+4139	26	USER		general,shopping,hotel,attraction

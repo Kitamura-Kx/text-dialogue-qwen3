@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3998	0	USER	仙台へ旅行予定なのですが、HMV仙台 E BeanSという店について調べてもらえます？エリアと定休日、あと駐車場があるか知りたいです。	general,shopping,weather
+3998	1	SYSTEM	かしこまりました。エリアは青葉区、定休日は無し、駐車場は有料でご利用いただけます。	general,shopping,weather
+3998	2	USER	了解です。11/15に行く予定なのですが、その日の宮城野区の天気ってわかります？	general,shopping,weather
+3998	3	SYSTEM	はい、当日の天気は曇のち晴の予報でございます。	general,shopping,weather
+3998	4	USER	なるほど。聞きたいことはそれだけです。ありがとうございました。	general,shopping,weather
+3998	5	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,weather

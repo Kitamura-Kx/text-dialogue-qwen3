@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+667	0	USER	名古屋への旅行を計画していて、当日の宿泊施設を探しています。中区で駐車場が無料のところがいいです。	general,hotel,restaurant,weather
+667	1	SYSTEM	承知しました。では、ホテル キヨシ名古屋はいかがでしょう？タイプはビジネスホテル、エリアは中区、値段帯は安めで、最寄りの東別院駅から徒歩で1分となります。Wi-Fiも無料でご利用いただけます。	general,hotel,restaurant,weather
+667	2	USER	ありがとうございます。飲食店も探しているのですが、駐車場が無料で郷土料理が食べれるところが良いです。	general,hotel,restaurant,weather
+667	3	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,hotel,restaurant,weather
+667	4	USER	では、寿司・魚料理にしたいと思います。	general,hotel,restaurant,weather
+667	5	SYSTEM	ありがとうございます。魚鉄、うなぎの新甫の2件がございます。	general,hotel,restaurant,weather
+667	6	USER	魚鉄にしたいと思います。営業時間を教えて貰えますか？	general,hotel,restaurant,weather
+667	7	SYSTEM	はい、営業時間は11時30分から14時30分と、17時から22時30分となります。	general,hotel,restaurant,weather
+667	8	USER	ありがとうございます。当日の天候も知りたいのですが、千種区の3月10日の天気を教えて貰えますか？	general,hotel,restaurant,weather
+667	9	SYSTEM	はい、天気は雨時々曇、最低気温6.6度、最高気温11.9度となります。	general,hotel,restaurant,weather
+667	10	USER	ありがとうございます。	general,hotel,restaurant,weather
+667	11	SYSTEM	他にご用件はございますか？	general,hotel,restaurant,weather
+667	12	USER	他にはありません。ありがとうございました。	general,hotel,restaurant,weather

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3857	0	USER	札幌へ旅行を計画しており、豊平区でカフェ・スイーツが楽しめるお店を探してほしいです。無料の駐車場が利用できるところがいいです。	general,restaurant,weather
+3857	1	SYSTEM	1件みつかりました、トリコローレはいかがでしょうか？	general,restaurant,weather
+3857	2	USER	そちらの電話番号、定休日を教えてください。	general,restaurant,weather
+3857	3	SYSTEM	電話番号は、0118518565です。　定休日は、月曜日です。	general,restaurant,weather
+3857	4	USER	ありがとうございます。次に10/26の南区の天候を調べてほしいです。最高気温、最低気温も教えてください。	general,restaurant,weather
+3857	5	SYSTEM	天気は、雨時々曇で最高気温は18.2度、最低気温は13.3度の予報となっています。	general,restaurant,weather
+3857	6	USER	承知しました。こちらからは以上です。	general,restaurant,weather
+3857	7	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather

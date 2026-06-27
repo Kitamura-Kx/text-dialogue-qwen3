@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4537	0	USER	東京への旅行を考えているのですが仲御徒町駅でWi-Fiが無料で利用できる観光名所ってありますか？	general,attraction,hotel,taxi
+4537	1	SYSTEM	仲御徒町でWiFi無料の観光名所はなさそうです。	general,attraction,hotel,taxi
+4537	2	USER	それでは最寄りはどちらでも大丈夫です。	general,attraction,hotel,taxi
+4537	3	SYSTEM	東京でWiFi無料の観光名所はいくつかありますが、teamLab Planets TOKYO、こちらをお勧めします。	general,attraction,hotel,taxi
+4537	4	USER	ありがとうございます。ちなみに住所を教えて下さい。	general,attraction,hotel,taxi
+4537	5	SYSTEM	東京都江東区豊洲6丁目1-16です。	general,attraction,hotel,taxi
+4537	6	USER	ありがとうございます。簡易宿所ですね。例えばベッドハウスや山小屋やカプセルホテルなどに泊まりたいのですが。	general,attraction,hotel,taxi
+4537	7	SYSTEM	東京で簡易宿所といえばいくつかありますが、墨田長屋をおすすめします。	general,attraction,hotel,taxi
+4537	8	USER	ちなみに料金はどれくらいですか？	general,attraction,hotel,taxi
+4537	9	SYSTEM	値段帯はやすめですが、料金詳細までは不明です。	general,attraction,hotel,taxi
+4537	10	USER	ありがとうございます。そこにします。４人で予約できますか？10/21です。3泊です。	general,attraction,hotel,taxi
+4537	11	SYSTEM	予約成功しました。予約番号は21311です。	general,attraction,hotel,taxi
+4537	12	USER	ありがとうございます。ジャンボタクシーも利用したいのですがキャッシュレス対応の会社はありますか？	general,attraction,hotel,taxi
+4537	13	SYSTEM	東京でキャッシュレスとジャンボタクシー両方対応しているところはいくつかありますが、大和交通保谷、こちらをおすすめします。	general,attraction,hotel,taxi
+4537	14	USER	ありがとうございます。それではそこを予約して頂けますか？10/21です．時間は16:40です．teamLab Planets TOKYOから出発して目的地は墨田長屋です。	general,attraction,hotel,taxi
+4537	15	SYSTEM	予約成功しました。予約番号は72324です。	general,attraction,hotel,taxi
+4537	16	USER	すごく助かりました！ありがとうございました。	general,attraction,hotel,taxi

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3942	0	USER	那覇への旅行を計画していまして。	general,restaurant
+3942	1	SYSTEM	かしこまりました。それでは御条件お伺いいたします。	general,restaurant
+3942	2	USER	カレーの飲食店を探しています。Wi-Fiは無料で利用できると嬉しいです。	general,restaurant
+3942	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant
+3942	4	USER	ではカレーでなくても大丈夫です。	general,restaurant
+3942	5	SYSTEM	かしこまりました。それではしゃぶしゃぶ 焼肉 杏はいかがでしょうか？	general,restaurant
+3942	6	USER	いいですね。どこのエリアですか？住所もわかりますか？	general,restaurant
+3942	7	SYSTEM	はい、エリアは本庁でして、住所は沖縄県那覇市松山2丁目10-6 waterビル 1Fでございます。	general,restaurant
+3942	8	USER	ありがとうございます。予約もお願いしたいです。	general,restaurant
+3942	9	SYSTEM	はい、日程等お伺いいたします。	general,restaurant
+3942	10	USER	6月13日の12時に２人でお願いします。	general,restaurant
+3942	11	SYSTEM	申し訳ありません。その条件では予約することが出来ませんでした。	general,restaurant
+3942	12	USER	そうですか。では、人数は１人でお願いします。	general,restaurant
+3942	13	SYSTEM	お待たせ致しました。予約番号81064でお取りさせていただきました。	general,restaurant
+3942	14	USER	ありがとうございます！	general,restaurant
+3942	15	SYSTEM	その他にご用件はございますか？	general,restaurant
+3942	16	USER	いえ、もう結構です。ありがとうございました。	general,restaurant
+3942	17	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

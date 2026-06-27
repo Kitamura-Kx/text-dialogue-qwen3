@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1379	0	USER	横浜へ旅行を計画しております。緑区で無料のWi-Fiが利用できる観光名所はありますか？	general,attraction
+1379	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction
+1379	2	USER	であれば、Wi-Fiの件はなしで再度探してほしいです。	general,attraction
+1379	3	SYSTEM	県立 四季の森公園は、いかがですか？	general,attraction
+1379	4	USER	そこは公園なので営業時間、定休日、料金などは特にないですよね？なんかあったりしますか？	general,attraction
+1379	5	SYSTEM	営業時間は、00:00～00:00と記載されています。　定休日は、なし。　料金は無料となっています。	general,attraction
+1379	6	USER	ありがとうございました。	general,attraction
+1379	7	SYSTEM	他にご用件はありますか？	general,attraction
+1379	8	USER	大丈夫です。	general,attraction
+1379	9	SYSTEM	承知致しました。　ありがとうございました。	general,attraction

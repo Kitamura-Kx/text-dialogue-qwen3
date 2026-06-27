@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3289	0	USER	東京の原宿駅近くで、工場見学ができる観光名所はありますか？	general,attraction
+3289	1	SYSTEM	原宿駅近くに工場見学できる観光名所はなさそうです。	general,attraction
+3289	2	USER	それでしたら、工場見学でなくて構わないので、どこか観光名所はありますか？	general,attraction
+3289	3	SYSTEM	原宿で観光名所といえば、代々木公園、こちら一択です。	general,attraction
+3289	4	USER	そちらの電話番号を教えてください。	general,attraction
+3289	5	SYSTEM	0334696081です。	general,attraction
+3289	6	USER	ありがとうございました。	general,attraction
+3289	7	SYSTEM	よい旅を	general,attraction

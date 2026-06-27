@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1270	0	USER	那覇の宿泊施設を探していまして。レストラン併設で、無料の駐車場とWifiがあるところを探してください。	general,hotel,restaurant
+1270	1	SYSTEM	かしこまりました。HOTEL MARUKIというビジネスホテルはいかがでしょうか？	general,hotel,restaurant
+1270	2	USER	最寄り駅はどちらになりますか？	general,hotel,restaurant
+1270	3	SYSTEM	県庁前駅となります。徒歩1分でアクセスできます。	general,hotel,restaurant
+1270	4	USER	いいですね。では、予約もお願いします。８/２３から４泊、２人でお願いできますか？	general,hotel,restaurant
+1270	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は、69077です。	general,hotel,restaurant
+1270	6	USER	ありがとうございます。ついでに飲食店についても聞いていいですか？本庁地区で、安めに食べられる場所がいいです。あと、駐車場も無料であるといいですね。	general,hotel,restaurant
+1270	7	SYSTEM	では、十割そば 山楽はいかがでしょうか？最寄りが牧志駅の、ジャンルはうどん・そばのお店となります。	general,hotel,restaurant
+1270	8	USER	いいですね。ありがとうございます！	general,hotel,restaurant

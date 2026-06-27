@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1655	0	USER	東京への旅行を計画しているのですが、5/14の渋谷区のお天気はわかりますか？	general,weather,taxi
+1655	1	SYSTEM	はい、天気は曇のち晴、最低気温14.9度、最高気温19.7度となります。	general,weather,taxi
+1655	2	USER	ありがとうございます。当日タクシー移動をしたいのですが、ジャンボタクシーが使えるタクシー会社はありますか？	general,weather,taxi
+1655	3	SYSTEM	はい、葵交通株式会社はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0570550555となります。	general,weather,taxi
+1655	4	USER	そこでお願いします。5/14の10:30にエビスビール記念館からファーストキャビン愛宕山までお願いしたいのですが、予約をお願いできますか？	general,weather,taxi
+1655	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、8628となります。他にご案内できることはございますか？	general,weather,taxi
+1655	6	USER	いいえ、大丈夫です。ありがとうございました。	general,weather,taxi
+1655	7	SYSTEM	ありがとうございました。	general,weather,taxi

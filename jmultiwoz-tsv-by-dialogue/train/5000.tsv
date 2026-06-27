@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+5000	0	USER	こんにちは、横浜観光でタクシーを利用したいです。キャッシュレス払いができて、ジャンボタクシーがある会社はありますか？	general,taxi
+5000	1	SYSTEM	京浜ハイヤー株式会社など、5件見つかりました。	general,taxi
+5000	2	USER	京浜ハイヤー株式会社の電話番号は何番ですか？	general,taxi
+5000	3	SYSTEM	電話番号は0457411896です。	general,taxi
+5000	4	USER	ありがとうございます。ではそちらを予約したいです。10/26で、時間は11:00、少人数貸切×隠れ家ダイニング WOODBELL(ウッドベル)関内までお迎えに来てほしいです。目的地は牡蠣と魚 海宝 みなとみらい店です。	general,taxi
+5000	5	SYSTEM	予約が完了しました。予約番号は77831です。	general,taxi
+5000	6	USER	ありがとうございました。	general,taxi
+5000	7	SYSTEM	他に何かお調べすることはございますか？	general,taxi
+5000	8	USER	もうこれで結構です。	general,taxi

@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2067	0	USER	東京、千代田区の観光名所を探してください。駐車場とWi-Fiが無料で使えるところがいいです。	general,attraction,shopping,restaurant
+2067	1	SYSTEM	申し訳ありません。そちらの条件ですと、該当する千代田区の観光名所は見つけることが出来ませんでした。	general,attraction,shopping,restaurant
+2067	2	USER	そうですか。では、駐車場は有料でも構わないので、もう一度探してもらえますか？	general,attraction,shopping,restaurant
+2067	3	SYSTEM	かしこまりました。それでは東京ミッドタウン日比谷はいかがでしょうか？こちらは駐車場は有料になります。	general,attraction,shopping,restaurant
+2067	4	USER	よさそうですね！子どもの入場料金はいくらかわかりますか？	general,attraction,shopping,restaurant
+2067	5	SYSTEM	子供の入場料金は無料でございます。	general,attraction,shopping,restaurant
+2067	6	USER	わかりました。当日買い物もしたいのですが、台東区でどこか買い物ができるところはありますか？	general,attraction,shopping,restaurant
+2067	7	SYSTEM	申し訳ありません。台東区でお買い物が出来るスポットを見つけることが出来ませんでした。	general,attraction,shopping,restaurant
+2067	8	USER	なるほど。では板橋区だったらどうでしょうか？	general,attraction,shopping,restaurant
+2067	9	SYSTEM	板橋区でしたらイオン板橋ショッピングセンターはいかがでしょうか。	general,attraction,shopping,restaurant
+2067	10	USER	いいですね。近辺の駅からの所要時間と駐車場の有無がわかれば教えてください。	general,attraction,shopping,restaurant
+2067	11	SYSTEM	こちらは東武練馬駅から徒歩で2分となっております。駐車場は無料でご利用いただけます。	general,attraction,shopping,restaurant
+2067	12	USER	ありがとうございます。当日飲食ができるお店も探してください。予算は普通くらいのところが希望です。	general,attraction,shopping,restaurant
+2067	13	SYSTEM	申し訳ありません。値段帯安めか高めでしたらお探しすることができますが、普通のお店を探すことが出来ませんでした。	general,attraction,shopping,restaurant
+2067	14	USER	わかりました。では、予算は高めのお店を探してもらってもいいですか？	general,attraction,shopping,restaurant
+2067	15	SYSTEM	かしこまりました。それでは原宿焼肉 KINTANはいかがでしょうか？	general,attraction,shopping,restaurant
+2067	16	USER	近辺の駅からの所要時間が知りたいです。あと、お店の営業時間も聞いていいですか？	general,attraction,shopping,restaurant
+2067	17	SYSTEM	はい。こちらは原宿駅から徒歩で3分、明治神宮前駅から徒歩で1分となっております。営業時間は11時から15時半と17時から23時までとなっております。	general,attraction,shopping,restaurant
+2067	18	USER	わかりました。ちなみにそちらのお店、Wi-Fiはありますか？	general,attraction,shopping,restaurant
+2067	19	SYSTEM	申し訳ありません。Wi-Fiの有無は分かりません。	general,attraction,shopping,restaurant
+2067	20	USER	わかりました。では、予約をお願いします。	general,attraction,shopping,restaurant
+2067	21	SYSTEM	かしこまりました。何名様で何日の何時からご希望でしょうか？	general,attraction,shopping,restaurant
+2067	22	USER	人数は3人、日時は7/20の15:20でお願いします。	general,attraction,shopping,restaurant
+2067	23	SYSTEM	お待たせいたしました。予約番号78802で承りました。	general,attraction,shopping,restaurant
+2067	24	USER	ありがとうございます。助かりました。	general,attraction,shopping,restaurant

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4501	0	USER	横浜へ旅行に行くので、鶴見区で駐車場が無料な観光名所を探してください。	general,attraction,weather,taxi
+4501	1	SYSTEM	横浜鶴見区には、駐車場無料の観光名所は６件ありますが、キリンビール 横浜工場をお勧めします。	general,attraction,weather,taxi
+4501	2	USER	ビールいいですね。大人入場料と電話番号を教えてください。	general,attraction,weather,taxi
+4501	3	SYSTEM	入場は無料、電話番号は0455038250です。	general,attraction,weather,taxi
+4501	4	USER	わかりました。あと、2/13の青葉区の天候を教えてください。	general,attraction,weather,taxi
+4501	5	SYSTEM	2/13 横浜 青葉区 の天気は晴、最低気温1.5度、最高気温16.7度です。	general,attraction,weather,taxi
+4501	6	USER	わかりました。あと、キャッシュレス払いができるタクシー会社も探してください。	general,attraction,weather,taxi
+4501	7	SYSTEM	はい、それならば国際自動車株式会社をお勧めします。	general,attraction,weather,taxi
+4501	8	USER	そこにします。電話番号とジャンボタクシーが使えるか聞いてください。	general,attraction,weather,taxi
+4501	9	SYSTEM	ジャンボタクシーも対応しています。電話番号は、0120385931です	general,attraction,weather,taxi
+4501	10	USER	あと、2/13の11:30にキリンビール 横浜工場から三陸ワイン食堂 LE ALEまでの道を予約をお願いします。	general,attraction,weather,taxi
+4501	11	SYSTEM	予約成功しました。予約番号は32586です。	general,attraction,weather,taxi
+4501	12	USER	ありがとうございました。	general,attraction,weather,taxi
+4501	13	SYSTEM	ビールとワインをお楽しみください。	general,attraction,weather,taxi

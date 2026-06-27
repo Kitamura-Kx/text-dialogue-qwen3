@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+195	0	USER	大阪旅行を計画しているのですが、タクシー会社を探してもらえませんか？	general,taxi
+195	1	SYSTEM	かしこまりました。大阪では21件のタクシー会社をご案内できますが、なにかご希望の条件など、ございますか？	general,taxi
+195	2	USER	条件としては、キャッシュレス払いが可能な会社をお願いしたいです。	general,taxi
+195	3	SYSTEM	では、榮交通株式会社は如何でしょうか？	general,taxi
+195	4	USER	榮交通株式会社さんはジャンボタクシーに対応していますか？	general,taxi
+195	5	SYSTEM	はい、対応しております。	general,taxi
+195	6	USER	そうですか。では、こちらの会社で予約をお願いします。	general,taxi
+195	7	SYSTEM	かしこまりました。ご利用の日時と、出発地、目的地をお願いできますか？	general,taxi
+195	8	USER	10/4、15:00にトリッペリア モツーダ 大阪マルビル店を出発して串揚げ 春夏秋冬までお願いできますか？	general,taxi
+195	9	SYSTEM	予約完了いたしました。ご予約番号は、81731ですので、お手元にお控えくださいませ。	general,taxi
+195	10	USER	わかりました！今日はありがとうございました。	general,taxi

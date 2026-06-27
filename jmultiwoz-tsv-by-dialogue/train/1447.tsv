@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1447	0	USER	京都へ旅行に行くんですが、宿泊施設を探していただけますか？	general,hotel
+1447	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel
+1447	2	USER	南区で駐車場無料のところがいいです！	general,hotel
+1447	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,hotel
+1447	4	USER	では地区は無視して大丈夫です。	general,hotel
+1447	5	SYSTEM	ではアパヴィラホテル〈京都駅前〉はいかがでしょうか。	general,hotel
+1447	6	USER	そちらの宿のタイプと、料金情報について教えてください。	general,hotel
+1447	7	SYSTEM	タイプはビジネスホテルでございます。値段帯は安めとなっておりますが、詳しい料金情報はわかりかねます。	general,hotel
+1447	8	USER	ありがとうございます。ちなみに近辺の駅からの所要時間も分かりますか？	general,hotel
+1447	9	SYSTEM	京都駅から徒歩で1分でございます。	general,hotel
+1447	10	USER	なるほどです！詳しくありがとうございます。	general,hotel
+1447	11	SYSTEM	ほかにご用件はございますか。	general,hotel
+1447	12	USER	これで大丈夫です。ありがとうございました。	general,hotel
+1447	13	SYSTEM	承知しました。ありがとうございました。	general,hotel

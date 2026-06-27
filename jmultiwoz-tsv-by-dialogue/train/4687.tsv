@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4687	0	USER	大阪へ旅行するので、中央区でスポーツ用品が買える店を教えてください。あと、駐車場が無料なところがいいです。	general,shopping,attraction
+4687	1	SYSTEM	大阪中央区には、駐車場無料のスポーツ用品店はなさそうです。	general,shopping,attraction
+4687	2	USER	そうですか。では、スポーツ用品以外でも大丈夫です。	general,shopping,attraction
+4687	3	SYSTEM	大阪中央区には、駐車場無料の買い物施設は３件ありますが、なんばCITYをお勧めします。	general,shopping,attraction
+4687	4	USER	そこにします。住所と営業時間と近辺の駅からの所要時間を調べてもらえます？	general,shopping,attraction
+4687	5	SYSTEM	住所は大阪府大阪市中央区難波5丁目1-60、営業時間は11:00～21:00、難波駅から徒歩で1分です。	general,shopping,attraction
+4687	6	USER	わかりました。Wi-Fiと駐車場が無料利用できる観光名所も探してほしいです。	general,shopping,attraction
+4687	7	SYSTEM	大阪でWiFiと駐車場無料の観光名所は、鶴見緑地湯元 水春です。	general,shopping,attraction
+4687	8	USER	よさそうですね。定休日はわかります？	general,shopping,attraction
+4687	9	SYSTEM	定休日はありません。	general,shopping,attraction
+4687	10	USER	ありがとうございます。	general,shopping,attraction

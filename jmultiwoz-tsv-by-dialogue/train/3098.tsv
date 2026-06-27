@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3098	0	USER	東京へ旅行に行く予定です．WiFiが無料で使える北区の観光名所を教えてください．	general,attraction,weather
+3098	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,attraction,weather
+3098	2	USER	それでは北区以外の場所で大丈夫です．	general,attraction,weather
+3098	3	SYSTEM	ありがとうございます。では、森美術館という港区エリアにある、美術館・博物館ジャンルの施設はご興味ございませんか？	general,attraction,weather
+3098	4	USER	素敵ですね．そこは駐車場はありますか．また，定休日はありますか．	general,attraction,weather
+3098	5	SYSTEM	駐車場は、有料ですが、ご利用いただけます。定休日はございません。	general,attraction,weather
+3098	6	USER	ありがとうございます．ちなみに3/20の台東区の最高気温は何度ですか．	general,attraction,weather
+3098	7	SYSTEM	15.3度の予報が出ております。	general,attraction,weather
+3098	8	USER	承知しました．ありがとうございます．	general,attraction,weather
+3098	9	SYSTEM	他にお調べすることはございませんか？	general,attraction,weather
+3098	10	USER	はい，大丈夫です．	general,attraction,weather
+3098	11	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,attraction,weather

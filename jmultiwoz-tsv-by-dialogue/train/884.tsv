@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+884	0	USER	こんにちは！今度、東京に行きたいので、案内をお願いできますか？	general,restaurant,shopping,weather
+884	1	SYSTEM	ご希望の条件などはございますか？	general,restaurant,shopping,weather
+884	2	USER	お寿司とか魚料理が食べられる飲食店を探してるんですけど、WiFiが使えるところで、どこか良い所ありますか？	general,restaurant,shopping,weather
+884	3	SYSTEM	銀座 魚ばかは、いかがでしょうか？	general,restaurant,shopping,weather
+884	4	USER	ありがとうございます！そこの住所も教えてもらえますか？	general,restaurant,shopping,weather
+884	5	SYSTEM	住所は、東京都中央区銀座2丁目2-19 藤間ビルB1F　です。	general,restaurant,shopping,weather
+884	6	USER	わかりました。あと、当日に買い物するお店も探してまして、KITTE丸の内というお店のことってわかりますか？	general,restaurant,shopping,weather
+884	7	SYSTEM	東京にKITTE丸の内が、1件あります。	general,restaurant,shopping,weather
+884	8	USER	良かったです！じゃぁ、電話番号を教えてください。	general,restaurant,shopping,weather
+884	9	SYSTEM	電話番号は、0332162811です。	general,restaurant,shopping,weather
+884	10	USER	ありがとうございます！あと、最後に9月24日の豊島区の天気、最高気温について教えてください。	general,restaurant,shopping,weather
+884	11	SYSTEM	その日の天気は、雨のち曇となっています。	general,restaurant,shopping,weather
+884	12	USER	最高気温はどのくらいでしょうか。	general,restaurant,shopping,weather
+884	13	SYSTEM	最高気温は、30.1度です。	general,restaurant,shopping,weather
+884	14	USER	ありがとうございます！色々、お調べいただき助かりました。	general,restaurant,shopping,weather
+884	15	SYSTEM	他にご用件はございますか？	general,restaurant,shopping,weather
+884	16	USER	いえ、あとは大丈夫です！本日はありがとうございました！	general,restaurant,shopping,weather
+884	17	SYSTEM	承知致しました。　ありがとうございました。	general,restaurant,shopping,weather

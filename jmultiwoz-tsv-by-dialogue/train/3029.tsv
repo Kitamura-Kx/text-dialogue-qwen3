@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3029	0	USER	那覇へ行くんですが、本庁エリアのおもろまち駅が最寄りの飲食店を探してください。	general,restaurant,attraction
+3029	1	SYSTEM	かしこまりました。では、KO菜YA 新都心店はいかがでしょうか？	general,restaurant,attraction
+3029	2	USER	ありがとうございます。そこの営業時間は何時ですか？	general,restaurant,attraction
+3029	3	SYSTEM	はい。営業時間は11:00～00:00となっております。	general,restaurant,attraction
+3029	4	USER	ありがとうございます。ではそこの予約をお願いできますか？7/13の11：30で２名です。	general,restaurant,attraction
+3029	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、64028です。	general,restaurant,attraction
+3029	6	USER	ありがとうございます。あと、壺川駅付近で駐車場が無料の観光名所はありますか？	general,restaurant,attraction
+3029	7	SYSTEM	かしこまりました。では、奥武山公園はいかがでしょうか？	general,restaurant,attraction
+3029	8	USER	ありがとうございます。そこの住所とWi-Fiがあるかどうかも教えてほしいんですが。	general,restaurant,attraction
+3029	9	SYSTEM	はい。住所は沖縄県那覇市奥武山町44-1です。Wi-Fiは無しとなっております。	general,restaurant,attraction
+3029	10	USER	わかりました。ありがとうございます。以上で結構です。	general,restaurant,attraction
+3029	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction

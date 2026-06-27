@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3078	0	USER	こんにちは。名古屋へ行くのですが、緑区の観光名所を探しています。	general,attraction,weather
+3078	1	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction,weather
+3078	2	USER	では地区はこだわりません。	general,attraction,weather
+3078	3	SYSTEM	であれば、刀剣コレクション 名古屋・丸の内はどうですか？	general,attraction,weather
+3078	4	USER	えっ、気になります。そこの営業時間とWi-Fiの有無、料金情報はわかりますか？	general,attraction,weather
+3078	5	SYSTEM	はい。営業時間は09:30～17:30で、Wi-Fiは不明となっております。料金情報は、無料です。	general,attraction,weather
+3078	6	USER	ありがとうございます。あと、12/7の中区の天候を調べてもらえますか？	general,attraction,weather
+3078	7	SYSTEM	かしこまりました。12/7の中区の天気予報は晴となっております。最低気温は5.5度、最高気温は12.3度になる予報です。	general,attraction,weather
+3078	8	USER	ありがとうございます。	general,attraction,weather
+3078	9	SYSTEM	はい。ご利用ありがとうございました。	general,attraction,weather

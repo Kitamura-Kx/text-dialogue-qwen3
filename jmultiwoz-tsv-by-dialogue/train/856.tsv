@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+856	0	USER	仙台に旅行するのですが、キャッシュレス払いができるタクシー会社はありますか？	general,taxi
+856	1	SYSTEM	はい、15件ほどご案内可能です。たとえば、平和交通（株）でしたら、ジャンボタクシーもご利用いただけますよ。	general,taxi
+856	2	USER	平和交通（株）の電話番号を教えてください。	general,taxi
+856	3	SYSTEM	かしこまりました。電話番号は、0570086000でございます。	general,taxi
+856	4	USER	12/1 10:40に、出発地　ビジネス旅館 オタマヤ、目的地はホテル グリーンシティで予約してもらえますか？	general,taxi
+856	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、28158です。	general,taxi
+856	6	USER	今回お願いしたいことは以上です。ありがとうございました。	general,taxi
+856	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

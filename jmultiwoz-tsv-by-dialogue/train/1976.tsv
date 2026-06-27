@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1976	0	USER	こんばんは！今度、旅行で東京に行くのですが、買い物できるところの案内をお願いします。	general,shopping,taxi
+1976	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,shopping,taxi
+1976	2	USER	駐車場が無料で使えて、最寄り駅が東武練馬駅のところでお願いします！	general,shopping,taxi
+1976	3	SYSTEM	かしこまりました。では、イオン板橋ショッピングセンターはいかがでしょうか？	general,shopping,taxi
+1976	4	USER	ありがとうございます！では、そちらで検討します。それで、タクシー会社も探しているのですが、ジャンボタクシーとキャッシュレス払いができるところって、どこかありますか？	general,shopping,taxi
+1976	5	SYSTEM	ございますよ。トーショー交通はいかがでしょうか？	general,shopping,taxi
+1976	6	USER	ありがとうございます！そちらの電話番号を伺っても宜しいですか？	general,shopping,taxi
+1976	7	SYSTEM	はい。電話番号は0423441111でございます。	general,shopping,taxi
+1976	8	USER	かしこまりました！では、そちらのタクシーを予約してください。2月17日の11時40分に、出発地はみんちや by Sali、目的地は先ほどのイオン板橋ショッピングセンターでお願いします。	general,shopping,taxi
+1976	9	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,shopping,taxi
+1976	10	USER	そうでしたか。では、時間を12時20分に変更でお願いします！	general,shopping,taxi
+1976	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、13339です。	general,shopping,taxi
+1976	12	USER	ありがとうございます！書き留めました。	general,shopping,taxi
+1976	13	SYSTEM	他にご用件はありますか？	general,shopping,taxi
+1976	14	USER	いえ、あとは大丈夫です。本日はありがとうございました！	general,shopping,taxi
+1976	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1234	0	USER	東京への旅行を計画しています。観光名所についてお伺いしたいのですが、よろしいでしょうか？	general,attraction,shopping,hotel
+1234	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction,shopping,hotel
+1234	2	USER	増上寺と言う名前の場所なのですが、そこについて知りたいです。	general,attraction,shopping,hotel
+1234	3	SYSTEM	増上寺ですね。港区エリアに1件該当がございます。どういった情報をご案内いたしましょうか？	general,attraction,shopping,hotel
+1234	4	USER	その場所の電話番号を知りたいです。	general,attraction,shopping,hotel
+1234	5	SYSTEM	かしこまりました。電話番号は、0334321431でございます。	general,attraction,shopping,hotel
+1234	6	USER	ありがとうございます。当日買い物もしたいのですが、このまま質問を続けても大丈夫でしょうか？	general,attraction,shopping,hotel
+1234	7	SYSTEM	はい、東京のお買い物のお店ですね。エリアなど、何かご希望はございませんか？	general,attraction,shopping,hotel
+1234	8	USER	はい。墨田区で駐車場が無料で利用できる場所を探しているのですが、ありますか？	general,attraction,shopping,hotel
+1234	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,shopping,hotel
+1234	10	USER	そうですか、でしたら、墨田区ではなくても大丈夫ですので、駐車場が無料で利用できる場所はありませんか？	general,attraction,shopping,hotel
+1234	11	SYSTEM	はい、15件ほどご案内可能です。たとえば、STORY STORYというお店はいかがでしょうか？新宿区にある、書籍, 文房具・雑貨, その他のお店でございます。	general,attraction,shopping,hotel
+1234	12	USER	ありがとうございます。そのお店で検討してみます。最後に、当日泊まるホテルについてもお伺いしたいのですが、よろしいでしょうか？	general,attraction,shopping,hotel
+1234	13	SYSTEM	はい、承ります。ご希望の条件は何かございますか？	general,attraction,shopping,hotel
+1234	14	USER	はい。シティホテルを探しています。予算は普通を希望しているのですが、ありますか？	general,attraction,shopping,hotel
+1234	15	SYSTEM	はい、7件ほどご案内可能です。たとえば、千代田区エリアにある帝国ホテル東京というところは、いかがでしょうか？	general,attraction,shopping,hotel
+1234	16	USER	7件もありますか。出来ればレストランが併設されているとありがたいのですが、該当はありますか？	general,attraction,shopping,hotel
+1234	17	SYSTEM	はい、レストラン併設の場合も7つの場所をご案内可能です。帝国ホテル東京も併設しておりますよ。	general,attraction,shopping,hotel
+1234	18	USER	では、帝国ホテル東京に泊まりたいと思います。このまま予約をお願いしたいのですが、大丈夫ですか？	general,attraction,shopping,hotel
+1234	19	SYSTEM	かしこまりました。ご宿泊予定の人数と日付、ご宿泊日数はお決まりでしょうか？	general,attraction,shopping,hotel
+1234	20	USER	はい。人数は2人で、日付は8月10日。3泊でお願いします。	general,attraction,shopping,hotel
+1234	21	SYSTEM	ご予約ありがとうございます。予約完了いたしました。予約番号は、3818でございます。	general,attraction,shopping,hotel
+1234	22	USER	ごめんなさい。このホテルの最寄り駅も教えて貰えますか？	general,attraction,shopping,hotel
+1234	23	SYSTEM	かしこまりました。最寄りは日比谷駅です。日比谷駅から徒歩で3分でアクセス可能です。その他の駅からの行き方もございますが、ご案内いたしましょうか？	general,attraction,shopping,hotel
+1234	24	USER	いえ、大丈夫です。これで当日は楽しめそうです。ご案内、ありがとうございました。	general,attraction,shopping,hotel
+1234	25	SYSTEM	承知いたしました。他にご質問がないようでしたら、これで失礼します。本日はご利用ありがとうございました。	general,attraction,shopping,hotel

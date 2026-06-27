@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3351	0	USER	那覇への旅行を計画中で、安めの宿泊施設を探しています。	general,hotel,restaurant
+3351	1	SYSTEM	100件ヒットしました。ほかの条件はございますか？	general,hotel,restaurant
+3351	2	USER	レストランが併設されている施設が良いです。	general,hotel,restaurant
+3351	3	SYSTEM	ご指定の条件だと、58件ご紹介できます。	general,hotel,restaurant
+3351	4	USER	ありがとうございます。どこでも結構ですので、よさそうなところを5件ほど教えていただきたいです。	general,hotel,restaurant
+3351	5	SYSTEM	ホテル コレクティブ ロコイン沖縄 ネストホテル那覇 ハイアット リージェンシー 那覇 沖縄 エナジックホテル山市　がございます。	general,hotel,restaurant
+3351	6	USER	ネストホテル那覇にしようと思います。電話番号は分かりますか？	general,hotel,restaurant
+3351	7	SYSTEM	0988681118です。	general,hotel,restaurant
+3351	8	USER	ありがとうございます。当日無料Wi-fi、無料駐車場付きの飲食店を探しているのですが、良さそうなお店はありますか？	general,hotel,restaurant
+3351	9	SYSTEM	ワイン食堂トランク イタリアゴハン 小禄店 ステーキハウス88 国際通り店、などはいかがですか？	general,hotel,restaurant
+3351	10	USER	ステーキハウス88 国際通り店にしようと思います。おおよその価格帯を教えてください。	general,hotel,restaurant
+3351	11	SYSTEM	メニュー一例ですが、テンダーロインステーキ200g:2750円、特上リブロースステーキ230g:3278円などがございます。	general,hotel,restaurant
+3351	12	USER	ありがとうございます。非常に助かります	general,hotel,restaurant
+3351	13	SYSTEM	こちらこそ、ありがとうございます。	general,hotel,restaurant
+3351	14	USER	それでは、失礼します。	general,hotel,restaurant

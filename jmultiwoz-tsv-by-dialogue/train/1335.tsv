@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1335	0	USER	仙台への旅行を計画しています．	general,attraction,taxi
+1335	1	SYSTEM	はい。お問合せありがとうございます。	general,attraction,taxi
+1335	2	USER	当日訪れる観光名所を探してください．駐車場を無料で利用できるところで地区は太白区がいいです。	general,attraction,taxi
+1335	3	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction,taxi
+1335	4	USER	でしたら、駐車場はどちらでもいいです。	general,attraction,taxi
+1335	5	SYSTEM	Xebio Arena Sendaiはいかがでしょう。	general,attraction,taxi
+1335	6	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してください．ジャンボタクシーとキャッシュレス払いが使えるところがいいです。	general,attraction,taxi
+1335	7	SYSTEM	（有）振興タクシーはいかがでしょうか。	general,attraction,taxi
+1335	8	USER	いいですね。そちらの電話番号を教えてください。	general,attraction,taxi
+1335	9	SYSTEM	電話番号は0222841411になります。	general,attraction,taxi
+1335	10	USER	ありがとうございます。そちらで日付は11/17で時間は11:30、出発地は瑞鳳殿 涅槃門というところで目的地は先ほど見つけた観光施設で予約お願いします。	general,attraction,taxi
+1335	11	SYSTEM	予約しました。予約番号は95363になります。	general,attraction,taxi
+1335	12	USER	ありがとうございます。	general,attraction,taxi

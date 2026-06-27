@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3531	0	USER	東京でジャンボタクシーが利用できるタクシー会社を探しています。	general,taxi
+3531	1	SYSTEM	かしこまりました。小田急交通南多摩がございます。こちらジャンボタクシーにも対応しております。	general,taxi
+3531	2	USER	キャッシュレス対応はしていますか？	general,taxi
+3531	3	SYSTEM	はい。キャッシュレスにも対応しております。	general,taxi
+3531	4	USER	電話番号を教えてください。	general,taxi
+3531	5	SYSTEM	電話番号は0354847171でございます。	general,taxi
+3531	6	USER	9/15、13:30に日本科学未来館から炭火ホルモン焼のネバーランド 戸越本店まで予約をお願いしたいです。	general,taxi
+3531	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は36394でございます。	general,taxi
+3531	8	USER	わかりました。ありがとうございます。	general,taxi
+3531	9	SYSTEM	ほかにご用件はございませんか。	general,taxi
+3531	10	USER	特にありません。	general,taxi
+3531	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

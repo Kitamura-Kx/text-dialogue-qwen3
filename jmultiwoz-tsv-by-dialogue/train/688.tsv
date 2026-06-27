@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+688	0	USER	仙台へ行こうと思っています。最寄り駅が荒井駅で駐車場が無料で利用できる買い物施設を探していただきたいです。	general,shopping,hotel,attraction
+688	1	SYSTEM	承知しました。鐘崎 かまぼこの国 笹かま館がございます。何をご案内致しましょう？	general,shopping,hotel,attraction
+688	2	USER	そちらの電話番号と定休日を教えていただけますでしょうか。	general,shopping,hotel,attraction
+688	3	SYSTEM	はい、電話番号は0222315141、定休日はございません。	general,shopping,hotel,attraction
+688	4	USER	わかりました。ありがとうございます。	general,shopping,hotel,attraction
+688	5	SYSTEM	他にご用件はございますか？	general,shopping,hotel,attraction
+688	6	USER	予算が普通のリゾートホテルを探していただきたいです。	general,shopping,hotel,attraction
+688	7	SYSTEM	承知しました。ホテルニュー水戸屋 アネックス、ホテルニュー水戸屋の2件がございます。何をご案内致しましょう？	general,shopping,hotel,attraction
+688	8	USER	ホテルニュー水戸屋 アネックスのWiFiの有無、近辺の駅からの所要時間、エリアについて教えていただけますでしょうか。	general,shopping,hotel,attraction
+688	9	SYSTEM	はい、エリアは太白区、最寄りの仙台駅からバスで30分となります。Wi-Fiはございません。	general,shopping,hotel,attraction
+688	10	USER	わかりました。ありがとうございます。	general,shopping,hotel,attraction
+688	11	SYSTEM	他にご用件はございますか？	general,shopping,hotel,attraction
+688	12	USER	青葉区にあってWiFiと駐車場が無料な観光名所を探していただきたいです。	general,shopping,hotel,attraction
+688	13	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,shopping,hotel,attraction
+688	14	USER	地区を宮城野区に変更してもう一度探していただけますでしょうか。	general,shopping,hotel,attraction
+688	15	SYSTEM	承知しました。仙台うみの杜水族館がございます。何をご案内致しましょう？	general,shopping,hotel,attraction
+688	16	USER	そちらの近辺の駅からの所要時間を教えていただけますでしょうか。	general,shopping,hotel,attraction
+688	17	SYSTEM	はい、最寄りの中野栄駅から徒歩で15分、または、バスで10分となります。	general,shopping,hotel,attraction
+688	18	USER	わかりました。ありがとうございます。	general,shopping,hotel,attraction
+688	19	SYSTEM	他にご用件はございますか？	general,shopping,hotel,attraction
+688	20	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping,hotel,attraction

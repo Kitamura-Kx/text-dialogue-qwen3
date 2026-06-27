@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1746	0	USER	福岡でタクシーを探しています。（株）第一交通という会社はありますか？	general,taxi
+1746	1	SYSTEM	はい、（株）第一交通あります。	general,taxi
+1746	2	USER	そちらの会社はジャンボタクシーを運営されてますか？あと、キャッシュレス対応可否と電話番号も知りたいです。	general,taxi
+1746	3	SYSTEM	ジャンボ、キャッシュレスともに対応しています。電話番号は0924816400になります。	general,taxi
+1746	4	USER	では予約をお願いします。3/3の14:30の乗車です。アメニティホテルin博多からベイサイドプレイス博多までの利用です。	general,taxi
+1746	5	SYSTEM	3/3の14:30、アメニティホテルin博多からベイサイドプレイス博多まで、予約完了しました。予約番号は66824です。	general,taxi
+1746	6	USER	ありがとうございます！	general,taxi

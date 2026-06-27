@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1308	0	USER	こんにちは。京都への旅行を計画中で、タクシー会社を探しています。	general,taxi
+1308	1	SYSTEM	京都のご旅行ですね。ご案内できるタクシー会社は20件ほどございますが、ジャンボタクシーやキャッシュレスのご利用予定はございますか？	general,taxi
+1308	2	USER	そうですね、キャッシュレス払いができて、ジャンボタクシーだとうれしいです。	general,taxi
+1308	3	SYSTEM	そういたしますと、帝産京都自動車株式会社はいかがでしょうか？どちらにも対応してございます。	general,taxi
+1308	4	USER	それはありがたいです。そちらの電話番号を教えていただけますか？	general,taxi
+1308	5	SYSTEM	電話番号は、0756611881です。	general,taxi
+1308	6	USER	ありがとうございます。予約もお願いしたいのですが、いいですか？	general,taxi
+1308	7	SYSTEM	はい、承ります。ご利用予定の日付と出発時刻、出発地、目的地はお決まりでしょうか？	general,taxi
+1308	8	USER	8/7で、09:50にステーキ花郷 祇園店から乗車、目的地は京都水族館です。	general,taxi
+1308	9	SYSTEM	大変申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,taxi
+1308	10	USER	それでは10:20乗車だとどうでしょうか？	general,taxi
+1308	11	SYSTEM	ありがとうございます。10時20分発でご予約承りました。予約番号は、66672です。	general,taxi
+1308	12	USER	ありがとうございます。助かりました。	general,taxi
+1308	13	SYSTEM	ほかにお手伝いできることはございませんか？	general,taxi
+1308	14	USER	大丈夫です。ありがとうございました。	general,taxi
+1308	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

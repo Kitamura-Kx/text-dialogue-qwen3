@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+457	0	USER	那覇の安里駅近くで宿泊施設を探してもらえますか？	general,hotel,restaurant,taxi
+457	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,restaurant,taxi
+457	2	USER	レストランが併設されているところがいいです。	general,hotel,restaurant,taxi
+457	3	SYSTEM	ではノボテル沖縄那覇はいかがですか。	general,hotel,restaurant,taxi
+457	4	USER	いいですね。料金情報を教えてもらえますか？	general,hotel,restaurant,taxi
+457	5	SYSTEM	値段帯は安めでございます。	general,hotel,restaurant,taxi
+457	6	USER	そうなのですね。個別のサービスや商品の具体的な料金などの情報はわかりますか？	general,hotel,restaurant,taxi
+457	7	SYSTEM	無料のWi-Fiと、無料の駐車場がございます。	general,hotel,restaurant,taxi
+457	8	USER	わかりました。当日食事ができる飲食店もさがしてほしいのですが。	general,hotel,restaurant,taxi
+457	9	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,restaurant,taxi
+457	10	USER	真和志地区で駐車場が無料で使えるところがいいです。予算は高めでお願いします。	general,hotel,restaurant,taxi
+457	11	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,hotel,restaurant,taxi
+457	12	USER	そうですか。では、予算の条件を外して、もう一度探してもらえますか？	general,hotel,restaurant,taxi
+457	13	SYSTEM	ではLE GOURMANDはいかがですか。	general,hotel,restaurant,taxi
+457	14	USER	よさそうですね。住所はわかりますか？	general,hotel,restaurant,taxi
+457	15	SYSTEM	住所は沖縄県那覇市長田2丁目23-4でございます。	general,hotel,restaurant,taxi
+457	16	USER	わかりました。当日タクシーを利用したいので、ジャンボタクシーが利用できるタクシー会社を教えてください。	general,hotel,restaurant,taxi
+457	17	SYSTEM	丸二タクシーがございます。	general,hotel,restaurant,taxi
+457	18	USER	そちらはキャッシュレス決済には対応していますか？	general,hotel,restaurant,taxi
+457	19	SYSTEM	キャッシュレスにも対応しております。	general,hotel,restaurant,taxi
+457	20	USER	では、5/6の16:30に予約をお願いします。	general,hotel,restaurant,taxi
+457	21	SYSTEM	では出発地と目的地を教えていただけますか。	general,hotel,restaurant,taxi
+457	22	USER	出発地はノボテル沖縄那覇、目的地はLE GOURMANDでお願いします。	general,hotel,restaurant,taxi
+457	23	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は3500でございます。	general,hotel,restaurant,taxi
+457	24	USER	ありがとうございました。助かりました。	general,hotel,restaurant,taxi

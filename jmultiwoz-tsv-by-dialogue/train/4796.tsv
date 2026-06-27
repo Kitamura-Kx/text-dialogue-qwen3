@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4796	0	USER	仙台へ旅行に行く予定なのですが、若林区でカレーが食べれるところはありますか？	general,restaurant,attraction,hotel
+4796	1	SYSTEM	若林区にはカレーの飲食店は３件ありますが、伊達の牛たん本舗 東インター店をお勧めします。	general,restaurant,attraction,hotel
+4796	2	USER	おいしそうですね。そちらの住所と近辺の駅からの所要時間、あと駐車場があるか教えてください。	general,restaurant,attraction,hotel
+4796	3	SYSTEM	住所は宮城県仙台市若林区六丁の目北町14-85、駐車場は不明です。荒井駅から徒歩で14分の他、六丁の目駅からタクシーで4分です。	general,restaurant,attraction,hotel
+4796	4	USER	そうですか。では2人で6/16の15:00から予約してくれます？	general,restaurant,attraction,hotel
+4796	5	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,restaurant,attraction,hotel
+4796	6	USER	そうですか。では時間を16:00に変更します。	general,restaurant,attraction,hotel
+4796	7	SYSTEM	予約成功しました。予約番号は86362です。	general,restaurant,attraction,hotel
+4796	8	USER	ありがとうございます。あと、宮城野区のWi-Fiが無料で利用できる観光名所とかありませんか？	general,restaurant,attraction,hotel
+4796	9	SYSTEM	宮城野区にはWiFi無料の観光名所は２件ありますが、仙台うみの杜水族館をお勧めします。	general,restaurant,attraction,hotel
+4796	10	USER	そこにします。電話番号と営業時間、あと料金情報はわかりますか？	general,restaurant,attraction,hotel
+4796	11	SYSTEM	電話は0223552222、営業時間は10:00～17:00、入館券は大人2,200円、シニアや中高校生1,600円、小学生1,100円、幼児600円です。なお年間パスポートだと、大人4,400円、シニアや中高校生3,200円、小学生2,200円、幼児1,200円になるようです。	general,restaurant,attraction,hotel
+4796	12	USER	そうですか。あと、普通の値段位の宿泊施設を教えてください。駐車場が無料で使えて、レストランがあるところがいいです。	general,restaurant,attraction,hotel
+4796	13	SYSTEM	仙台には、普通の値段で駐車場無料、レストラン併設の宿泊施設はなさそうです。	general,restaurant,attraction,hotel
+4796	14	USER	そうですか。では、値段は普通くらいじゃなくてもいいです。	general,restaurant,attraction,hotel
+4796	15	SYSTEM	仙台には、レストラン併設で駐車場無料の宿泊施設は１４件ありますが、キャッスルイン仙台をお勧めします。	general,restaurant,attraction,hotel
+4796	16	USER	そちらの住所を教えてくれますか？	general,restaurant,attraction,hotel
+4796	17	SYSTEM	宮城県仙台市宮城野区福室字田中前1番53-1です。	general,restaurant,attraction,hotel
+4796	18	USER	ありがとうございました。	general,restaurant,attraction,hotel

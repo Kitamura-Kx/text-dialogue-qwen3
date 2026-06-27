@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+535	0	USER	東京に行こうと思っているのですが、泊るところを探しています。	general,hotel,weather
+535	1	SYSTEM	東京の宿泊施設ですね。エリアなど、ご希望の条件はございますか？	general,hotel,weather
+535	2	USER	エリアは特にありませんが、駐車場とWifiが無料で利用できるところがいいです。	general,hotel,weather
+535	3	SYSTEM	かしこまりました。そうしますと、2件ご案内可能です。たとえば、帝国ホテル東京というシティホテルはいかがでしょうか？	general,hotel,weather
+535	4	USER	ありがとうございます。では、今回は帝国ホテル東京でお願いします。住所を教えていただけますか？	general,hotel,weather
+535	5	SYSTEM	住所は、東京都千代田区内幸町1丁目1-1でございます。	general,hotel,weather
+535	6	USER	ありがとうございます。当日の天気を知りたいのですが、6月23日の千代田区の最低気温と最高気温を教えてください。	general,hotel,weather
+535	7	SYSTEM	かしこまりました。最低気温は21.1度、最高気温は32.1度になる予想です。ちなみに天気は、雨時々晴れの予報となっております。	general,hotel,weather
+535	8	USER	ありがとうございました。	general,hotel,weather
+535	9	SYSTEM	他にお調べすることはございますか？	general,hotel,weather
+535	10	USER	いえ、大丈夫です。	general,hotel,weather

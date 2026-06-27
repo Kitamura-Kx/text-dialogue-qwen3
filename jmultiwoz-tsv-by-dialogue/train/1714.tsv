@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1714	0	USER	京都へ旅行予定なのですが、ビジネスホテルのいい宿泊施設はありませんか？	general,hotel
+1714	1	SYSTEM	かしこまりました。では天然温泉 蓮花の湯 御宿 野乃京都七条はいかがでしょうか。	general,hotel
+1714	2	USER	なるほど。でもWi-Fiが無料で使えて、レストランが併設されているところがいいんです。	general,hotel
+1714	3	SYSTEM	こちらはWi-Fiが無料で、レストランが併設されております。	general,hotel
+1714	4	USER	ではそこにします。駐車場はありますか？あと、エリアと値段帯を教えてください。	general,hotel
+1714	5	SYSTEM	有料の駐車場がございます。エリアは下京区、値段帯は安めでございます。	general,hotel
+1714	6	USER	わかりました。3/30から3泊を2人で予約お願いします。	general,hotel
+1714	7	SYSTEM	予約が完了いたしました。予約番号は59768でございます。	general,hotel
+1714	8	USER	ありがとうございます。もう大丈夫です。	general,hotel
+1714	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

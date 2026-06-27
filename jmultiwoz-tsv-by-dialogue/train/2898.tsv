@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2898	0	USER	今度、京都で買い物をしたいのですが、駐車場が無料のショッピングモールを教えて下さい。	general,shopping,taxi
+2898	1	SYSTEM	京都で駐車場無料のショッピングモールといえば、道の駅 ウッディー京北、こちら一択です。	general,shopping,taxi
+2898	2	USER	分かりました。そちらの営業時間と最寄り駅を教えて下さい。	general,shopping,taxi
+2898	3	SYSTEM	朝９時から夕方６時までの営業、最寄りは円町ですね。	general,shopping,taxi
+2898	4	USER	ありがとうございます。当日キャッシュレス払いでタクシーを利用したいので、紹介してください。	general,shopping,taxi
+2898	5	SYSTEM	はい、高速タクシー株式会社をおすすめします。	general,shopping,taxi
+2898	6	USER	ありがとうございます。それでは、8月3日の午後3時に道の駅 ウッディー京北からホテル飯田まで予約をお願いします。	general,shopping,taxi
+2898	7	SYSTEM	予約しました。予約番号は39895です。	general,shopping,taxi
+2898	8	USER	ありがとうございました。助かりました。それでは失礼します。	general,shopping,taxi

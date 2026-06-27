@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2914	0	USER	今度、名古屋の千種区で文房具や雑貨の買い物をしたいのですが、良いお店はありますか？	general,shopping
+2914	1	SYSTEM	千種区で文具雑貨といえば、こみかるはうす 池下駅店、こちらおすすめです。	general,shopping
+2914	2	USER	すみません、そちらは名古屋駅近くですか？	general,shopping
+2914	3	SYSTEM	最寄りは池下駅ですね。	general,shopping
+2914	4	USER	それでは、千種区でなくても良いので、名古屋駅近くの文房具や雑貨のお店を教えてください。	general,shopping
+2914	5	SYSTEM	名古屋駅近くで文具雑貨といえば、東急ハンズ名古屋店、こちらになります。	general,shopping
+2914	6	USER	ありがとうございます。住所を教えてください。	general,shopping
+2914	7	SYSTEM	愛知県名古屋市中村区名駅1丁目1-4　ジェイアール名古屋タカシマヤ内 5F～11Fです。	general,shopping
+2914	8	USER	助かりました。それでは失礼します。	general,shopping

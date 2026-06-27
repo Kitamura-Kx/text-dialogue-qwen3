@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4380	0	USER	横浜を旅行した際の観光名所を探していただきたいです。根岸駅が最寄り駅で、Wi-Fiが無料で利用できるところでお願いします。	general,attraction,shopping,taxi
+4380	1	SYSTEM	それでしたら、三溪園というところはいかがでしょうか？	general,attraction,shopping,taxi
+4380	2	USER	ありがとうございます。そこにします。あと、港北区で買い物ができる場所も探していただきたいです。駐車場を無料で利用できるところがいいです。	general,attraction,shopping,taxi
+4380	3	SYSTEM	そうしますと、トレッサ横浜というショッピングモールはいかがでしょうか？	general,attraction,shopping,taxi
+4380	4	USER	ありがとうございます。そこにします。最後に当日利用できるタクシー会社を探していただきたいです。キャッシュレス払いに対応しているところでお願いします。	general,attraction,shopping,taxi
+4380	5	SYSTEM	はい、では、富士見交通株式会社はいかがでしょうか？	general,attraction,shopping,taxi
+4380	6	USER	ありがとうございます。そこにします。電話番号を教えていただけますか？	general,attraction,shopping,taxi
+4380	7	SYSTEM	電話番号は、0120411190です。	general,attraction,shopping,taxi
+4380	8	USER	ありがとうございます。予約もお願いしたいのですが、3/1の16:10で出発地は先ほど見つけていただいた観光施設で、目的地は先ほど見つけていただいた買い物店舗でお願いします。	general,attraction,shopping,taxi
+4380	9	SYSTEM	かしこまりました。三溪園発、トレッサ横浜着にて、ご予約完了いたしました。予約番号は、81123です。	general,attraction,shopping,taxi
+4380	10	USER	ありがとうございます。	general,attraction,shopping,taxi
+4380	11	SYSTEM	他にお手伝いすることはございませんか？	general,attraction,shopping,taxi
+4380	12	USER	はい、大丈夫です。ありがとうございました。	general,attraction,shopping,taxi
+4380	13	SYSTEM	承知いたしました。お役に立てて何よりです。また何かございましたら、お気軽にお問い合わせください。	general,attraction,shopping,taxi

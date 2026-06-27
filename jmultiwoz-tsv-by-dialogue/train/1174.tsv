@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1174	0	USER	大阪に行くんですが、キャッシュレス決済ができるタクシー会社を探してもらえますか？	general,taxi
+1174	1	SYSTEM	大変申し訳ございません。大阪ではキャッシュレス決済ができるタクシー会社でご案内できるところが、ございませんでした。	general,taxi
+1174	2	USER	そうですか。じゃあキャッシュレス払いでなくてもいいです。	general,taxi
+1174	3	SYSTEM	ありがとうございます。では、堀江タクシー株式会社はいかがでしょうか？こちらのキャッシュレス対応は、不明となっております。	general,taxi
+1174	4	USER	そうですか。そこはジャンボタクシーの対応はありますか？	general,taxi
+1174	5	SYSTEM	はい、対応しております。	general,taxi
+1174	6	USER	"わかりました。じゃあそこを予約したいです。11/19の10：40で、THE FLAVOR DESIGN® FLAGSHIP STORE ""OSAKA""というところを出発して、レッドルーフイン&スイーツ大阪 難波・日本橋まで行きたいです。"	general,taxi
+1174	7	SYSTEM	かしこまりました。ご予約ありがとうございます。予約番号25855にて、予約が完了いたしました。	general,taxi
+1174	8	USER	ありがとうございます。以上で結構です。	general,taxi
+1174	9	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,taxi

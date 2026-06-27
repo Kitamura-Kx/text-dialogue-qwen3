@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+782	0	USER	横浜へ行こうと思っています。保土ケ谷区にあって駐車場が無料で利用できる観光名所を探していただきたいです。	general,attraction,restaurant,weather
+782	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,restaurant,weather
+782	2	USER	では駐車場が有料でも構わないだととどうでしょうか？	general,attraction,restaurant,weather
+782	3	SYSTEM	ありがとうございます。そうしますと、保土ヶ谷公園という場所が、1件ご案内可能です。	general,attraction,restaurant,weather
+782	4	USER	そちらの最寄り駅はどちらになりますでしょうか？	general,attraction,restaurant,weather
+782	5	SYSTEM	最寄りは星川駅ですが、徒歩ですと15分、バスでは7分ほどかかります。	general,attraction,restaurant,weather
+782	6	USER	わかりました。ありがとうございます。	general,attraction,restaurant,weather
+782	7	SYSTEM	他にお調べすることはございますか？	general,attraction,restaurant,weather
+782	8	USER	神奈川区にあって予算が安めな飲食店を探していただきたいです。	general,attraction,restaurant,weather
+782	9	SYSTEM	かしこまりました。3件ほど候補がございまして、たとえば京華樓 鶴屋町CRANE店という、中華料理のお店はご興味ございませんか？	general,attraction,restaurant,weather
+782	10	USER	そちらのWiFiの有無、電話番号を教えていただけますでしょうか。	general,attraction,restaurant,weather
+782	11	SYSTEM	申し訳ありません。こちらのお店のWiFiの有無は、不明となっております。電話番号は、0455346801です。	general,attraction,restaurant,weather
+782	12	USER	では、5月5日16時20分から2名で予約をお願いします。	general,attraction,restaurant,weather
+782	13	SYSTEM	申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,attraction,restaurant,weather
+782	14	USER	では時間を17時10分に変更して予約をお願いします。	general,attraction,restaurant,weather
+782	15	SYSTEM	ありがとうございます。17:10にて、ご予約を完了いたしました。予約番号は、72214です。	general,attraction,restaurant,weather
+782	16	USER	わかりました。ありがとうございます。	general,attraction,restaurant,weather
+782	17	SYSTEM	他にお調べすることはございますか？	general,attraction,restaurant,weather
+782	18	USER	5月5日瀬谷区の天候を調べていただきたいです。	general,attraction,restaurant,weather
+782	19	SYSTEM	かしこまりました。当日の天気は雨の予報となっております。最低気温は19.4度、最高気温は28度まで上がる予想です。	general,attraction,restaurant,weather
+782	20	USER	わかりました。ありがとうございます。	general,attraction,restaurant,weather
+782	21	SYSTEM	他になにか、お知りになりたい情報はございますか？	general,attraction,restaurant,weather
+782	22	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,restaurant,weather

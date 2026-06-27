@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4678	0	USER	仙台の若林区で駐車場が無料の観光名所はありますか	general,attraction
+4678	1	SYSTEM	はい、仙台市 七郷児童館はいかがでしょう？ジャンルは、その他となります。	general,attraction
+4678	2	USER	その場所の名称はなんですか	general,attraction
+4678	3	SYSTEM	仙台市 七郷児童館です。	general,attraction
+4678	4	USER	かしこまりました以上で終わります	general,attraction

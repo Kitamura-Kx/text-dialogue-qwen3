@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4974	0	USER	こんにちは、札幌への旅行を計画しています。駐車場が無料で、当日食事できる飲食店はありますか？	general,restaurant,shopping,taxi
+4974	1	SYSTEM	承知しました。ふしみグリエはいかがでしょうか？	general,restaurant,shopping,taxi
+4974	2	USER	ふしみグリエに行きたいです。住所も教えてくれますか？	general,restaurant,shopping,taxi
+4974	3	SYSTEM	住所は北海道札幌市中央区伏見2丁目3-3です。	general,restaurant,shopping,taxi
+4974	4	USER	ありがとうございます。買い物できるお店も調べてもらいたいです。最寄り駅が東区役所前駅でおすすめの店はありますか？	general,restaurant,shopping,taxi
+4974	5	SYSTEM	承知しました。CREAM TEAはいかがでしょうか？	general,restaurant,shopping,taxi
+4974	6	USER	CREAM TEAに駐車場はありますか？	general,restaurant,shopping,taxi
+4974	7	SYSTEM	駐車場の有無は不明となります。	general,restaurant,shopping,taxi
+4974	8	USER	大丈夫です、そちらのお店に伺います。それから、ジャンボタクシーが使えて、キャッシュレス払いもできるタクシー会社を探してもらえませんか？	general,restaurant,shopping,taxi
+4974	9	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,restaurant,shopping,taxi
+4974	10	USER	そうですか、ではジャンボタクシーは考慮せずに、キャッシュレス払いできるタクシー会社を探してください。	general,restaurant,shopping,taxi
+4974	11	SYSTEM	承知しました。平岸ハイヤー(株)はいかがでしょうか？	general,restaurant,shopping,taxi
+4974	12	USER	平岸ハイヤー(株)にお願いしたいですが、電話番号も念のために教えてくれますか？	general,restaurant,shopping,taxi
+4974	13	SYSTEM	電話番号は0118318111です。	general,restaurant,shopping,taxi
+4974	14	USER	では、予約も今お願いします。7月14日の14時10分に、ふしみグリエからCREAM TEAまで行ってもらいたいです。	general,restaurant,shopping,taxi
+4974	15	SYSTEM	予約が完了しました。予約番号は10934です。	general,restaurant,shopping,taxi
+4974	16	USER	スムーズに予約できて良かったです。ありがとうございます。	general,restaurant,shopping,taxi

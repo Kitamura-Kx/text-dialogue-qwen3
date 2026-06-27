@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3960	0	USER	旅行で那覇に行くので、買い物がしたいと思っています。本庁でおもちゃを売っているお店はありませんか？	general,shopping
+3960	1	SYSTEM	はい、２件ご案内可能です。たとえば、トイザらス・ベビーザらス 那覇新都心店はいかがでしょうか？	general,shopping
+3960	2	USER	駐車場が無料のところがいいのですが。	general,shopping
+3960	3	SYSTEM	はい、こちらは無料駐車場完備でございます。もう１件は、コジマ×ビックカメラ那覇店というところもございますが、いかがでしょうか？	general,shopping
+3960	4	USER	最初に案内してもらったトイザらス・ベビーザらス 那覇新都心店にします。最寄り駅からのアクセスと、電話番号を教えてください。	general,shopping
+3960	5	SYSTEM	かしこまりました。そちらのお店は、最寄りの、おもろまち駅から徒歩で10分でアクセスできます。電話番号は、0988655566です。	general,shopping
+3960	6	USER	わかりました。ありがとうございます。	general,shopping
+3960	7	SYSTEM	他にお調べすることはございませんか？	general,shopping
+3960	8	USER	いえ、大丈夫です。ありがとうございました。	general,shopping
+3960	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

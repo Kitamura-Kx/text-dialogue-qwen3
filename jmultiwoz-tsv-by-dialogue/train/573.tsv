@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+573	0	USER	こんばんは。今度、仙台に行こうと思っているので、観光名所をご案内いただけますか？	general,attraction,taxi
+573	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,taxi
+573	2	USER	希望としては、美術館や博物館でお願いします。あと、駐車場とWiFiが、無料で利用できるところでお願いします。	general,attraction,taxi
+573	3	SYSTEM	ありがとうございます。では、仙台市文学館はいかがでしょう？ジャンルは美術館、博物館、アートギャラリー、教室、ワークショップ、体験となっております。エリアは青葉区で、最寄りの八乙女駅からバスで9分となります。	general,attraction,taxi
+573	4	USER	良さそうな所ですね。ご案内、ありがとうございます。それでは、その日に利用するタクシー会社も探していただけますか？	general,attraction,taxi
+573	5	SYSTEM	承知しました。では、仙南タクシー（株）はいかがでしょう？キャッシュレス、ジャンボタクシーともに対応しております。電話番号は0570021070となります。	general,attraction,taxi
+573	6	USER	ジャンボタクシーも使えるんですね。それでは、そこを利用します。1月10日の13時40分に、出発地が秋保リゾート ホテルクレセントで、目的地が先ほどの仙台市文学館という形で予約をお願いできますか？	general,attraction,taxi
+573	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、63227となります。	general,attraction,taxi
+573	8	USER	ありがとうございます。当日が楽しみです。この度は、ご対応いただき、ありがとうございました。	general,attraction,taxi
+573	9	SYSTEM	ありがとうございました。	general,attraction,taxi

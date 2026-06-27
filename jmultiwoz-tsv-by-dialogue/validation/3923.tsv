@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3923	0	USER	那覇への旅行を計画中で、レストラン付きのリゾートホテルを探しています。	general,hotel,restaurant,shopping
+3923	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel,restaurant,shopping
+3923	2	USER	分かりました。では、リゾートホテルでなくても構いません。	general,hotel,restaurant,shopping
+3923	3	SYSTEM	ありがとうございます。そうしますと、ビジネスホテルですが、ソルヴィータホテル那覇はいかがでしょうか？	general,hotel,restaurant,shopping
+3923	4	USER	そこにしようと思います。住所を教えてください。	general,hotel,restaurant,shopping
+3923	5	SYSTEM	かしこまりました。住所は、沖縄県那覇市松山2丁目17-17です。	general,hotel,restaurant,shopping
+3923	6	USER	ありがとうございます。当日利用できる真和志地区の飲食店を探しています。予算は普通がいいです。	general,hotel,restaurant,shopping
+3923	7	SYSTEM	かしこまりました。9件ほどご案内できるのですが、他にご希望の条件がないようでしたら、えび専門酒場 えびす屋という寿司・魚料理ジャンルのお店はいかがでしょうか？	general,hotel,restaurant,shopping
+3923	8	USER	そこにしようと思います。最寄り駅を教えてください。	general,hotel,restaurant,shopping
+3923	9	SYSTEM	最寄りは、安里駅です。	general,hotel,restaurant,shopping
+3923	10	USER	ありがとうございます。当日本庁地区でファッション系の買い物をする予定です。無料駐車場付きのお店が良いのですが、ありますか？	general,hotel,restaurant,shopping
+3923	11	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,restaurant,shopping
+3923	12	USER	分かりました。では、ファッション系でなくても構いません。	general,hotel,restaurant,shopping
+3923	13	SYSTEM	かしこまりました。そうしますと、デパートリウボウという、百貨店や総合スーパーはいかがでしょうか？	general,hotel,restaurant,shopping
+3923	14	USER	そこにしようと思います。最寄り駅からの所要時間を教えてください。	general,hotel,restaurant,shopping
+3923	15	SYSTEM	はい、最寄りの県庁前駅から徒歩1分の距離にございます。	general,hotel,restaurant,shopping
+3923	16	USER	助かります。ありがとうございます。	general,hotel,restaurant,shopping
+3923	17	SYSTEM	他にお知りになりたい情報など、ございませんか？	general,hotel,restaurant,shopping
+3923	18	USER	いえ、大丈夫です。ありがとうございました。	general,hotel,restaurant,shopping
+3923	19	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,hotel,restaurant,shopping

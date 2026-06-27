@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4178	0	USER	那覇旅行に行こうと思っているのですが、小禄あたりで買い物ができるいいところはありますか？	general,shopping,weather,taxi
+4178	1	SYSTEM	お買い物ですね、それならLEO & JOEはいかがですか？	general,shopping,weather,taxi
+4178	2	USER	そのお店の定休日が知りたいです。	general,shopping,weather,taxi
+4178	3	SYSTEM	はい、定休日は、無しとなっています。	general,shopping,weather,taxi
+4178	4	USER	いいですね。ありがとうございます。当日の小禄の天候を知りたいのですが。	general,shopping,weather,taxi
+4178	5	SYSTEM	では、いつの天気をご希望ですか？	general,shopping,weather,taxi
+4178	6	USER	2月4日です。	general,shopping,weather,taxi
+4178	7	SYSTEM	その日の天気は、曇となっています。	general,shopping,weather,taxi
+4178	8	USER	最高気温は何度ですか？	general,shopping,weather,taxi
+4178	9	SYSTEM	最高気温は、21.9度です。	general,shopping,weather,taxi
+4178	10	USER	最低気温は何度ですか？	general,shopping,weather,taxi
+4178	11	SYSTEM	最低気温は、13.3度です。	general,shopping,weather,taxi
+4178	12	USER	ありがとうございます。タクシーの予約もお願いします。ジャンボタクシーがあって、キャッシュレス払いができるところはありますか？	general,shopping,weather,taxi
+4178	13	SYSTEM	それでしたら、沖縄交通が良いと思います。	general,shopping,weather,taxi
+4178	14	USER	電話番号が知りたいです。	general,shopping,weather,taxi
+4178	15	SYSTEM	電話番号は、0120170978になります。	general,shopping,weather,taxi
+4178	16	USER	では、2月4日の12時50分で予約してください。沖縄炉端 ゆうなみからLEO & JOEまででお願いします。	general,shopping,weather,taxi
+4178	17	SYSTEM	タクシーの予約が出来ました。予約番号は、25753になります。	general,shopping,weather,taxi
+4178	18	USER	ありがとうございました。	general,shopping,weather,taxi
+4178	19	SYSTEM	他にご用件はありますか？	general,shopping,weather,taxi
+4178	20	USER	大丈夫です。	general,shopping,weather,taxi
+4178	21	SYSTEM	承知いたしました。ありがとうございました。	general,shopping,weather,taxi

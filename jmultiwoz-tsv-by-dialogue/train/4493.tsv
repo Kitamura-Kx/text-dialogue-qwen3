@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4493	0	USER	那覇で食事が出来るところを探して下さい。予算は高めで構いません。出来れば小禄地区のお店がいいです。	general,restaurant,taxi
+4493	1	SYSTEM	申し訳ありません。小禄地区では該当飲食店をお探しすることが出来ませんでした。	general,restaurant,taxi
+4493	2	USER	そうですか。では地区はこだわりませんので、おすすめのお店を紹介してください。	general,restaurant,taxi
+4493	3	SYSTEM	かしこまりました。それでは、叙々苑 沖縄おもろまち店はいかがでしょうか？	general,restaurant,taxi
+4493	4	USER	当日はタクシーを利用したいと思っています。ジャンボタクシーが使えるキャッシュレス対応のところはありますか？	general,restaurant,taxi
+4493	5	SYSTEM	かしこまりました。それでは、沖縄第一交通株式会社はいかがでしょうか？	general,restaurant,taxi
+4493	6	USER	そちらの電話番号はわかりますか？	general,restaurant,taxi
+4493	7	SYSTEM	はい、電話番号は0120780124でございます。	general,restaurant,taxi
+4493	8	USER	では予約をお願いします。３月２４日の１０時５０分で、叙々苑 沖縄おもろまち店発、エナジックホテル山市着でお願いします。	general,restaurant,taxi
+4493	9	SYSTEM	お待たせ致しました。予約番号46216でお取りさせていただきました。	general,restaurant,taxi
+4493	10	USER	ありがとうございました。	general,restaurant,taxi

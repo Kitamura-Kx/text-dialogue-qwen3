@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2959	0	USER	今度仙台へ行くんですが、無料駐車場があって自動車や自転車が買えるお店を探してもらえますか？荒井駅付近が希望です。	general,shopping,taxi
+2959	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,taxi
+2959	2	USER	そうですか。じゃあジャンル問わず探してもらえますか。	general,shopping,taxi
+2959	3	SYSTEM	ありがとうございます。エリアでいうと若林区に、鐘崎 かまぼこの国 笹かま館がございます。ジャンルは、お土産、食料品となります。	general,shopping,taxi
+2959	4	USER	ありがとうございます。ではそこの住所も教えてください。	general,shopping,taxi
+2959	5	SYSTEM	はい、住所は宮城県仙台市若林区鶴代町6-65となります。	general,shopping,taxi
+2959	6	USER	ありがとうございます。あと、キャッシュレス払いができて、ジャンボタクシーが利用できるタクシー会社を探してもらえますか？	general,shopping,taxi
+2959	7	SYSTEM	申し訳ありません、条件に合うタクシー会社はございません。いかが致しましょう？	general,shopping,taxi
+2959	8	USER	そうですか。じゃあジャンボタクシーにはこだわらず探してください。	general,shopping,taxi
+2959	9	SYSTEM	では、（株）青葉タクシーはいかがでしょう？キャッシュレスには対応しております。電話番号は0222587879となります。	general,shopping,taxi
+2959	10	USER	ありがとうございます。では予約をお願いできますか？4/30の12：00に牛たん炭焼 利久 セルバテラス店を出発して、鐘崎 かまぼこの国 笹かま館まで利用したいです。	general,shopping,taxi
+2959	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、1878となります。	general,shopping,taxi
+2959	12	USER	ありがとうございました。以上で結構です。	general,shopping,taxi
+2959	13	SYSTEM	ありがとうございました。	general,shopping,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+225	0	USER	すみません、大阪への旅行を計画中のため、キャッシュレス払いができるタクシー会社を探しています。	general,taxi,weather
+225	1	SYSTEM	申し訳ございません。キャッシュレス対応の会社がございません。	general,taxi,weather
+225	2	USER	ではキャッシュレス払いはできなくてもいいので、タクシー会社を探していただけますか？	general,taxi,weather
+225	3	SYSTEM	かしこまりました。都島交通株式会社はいかがでしょうか。	general,taxi,weather
+225	4	USER	そこでお願いしようと思うので電話番号を教えてください。	general,taxi,weather
+225	5	SYSTEM	0669568811でございます。	general,taxi,weather
+225	6	USER	ありがとうございます。都島交通株式会社はジャンボタクシーはありますか？	general,taxi,weather
+225	7	SYSTEM	はい。対応しております。	general,taxi,weather
+225	8	USER	では、5/28 13:00に大阪第一ホテルからホテルシーガルてんぽーざん大阪まで予約をお願いします。	general,taxi,weather
+225	9	SYSTEM	かしこまりました。予約完了いたしました。予約番号は93399でございます。	general,taxi,weather
+225	10	USER	ありがとうございます。あと5/28の浪速区の天気を調べていただけますか？	general,taxi,weather
+225	11	SYSTEM	天気は晴時々曇でございます。	general,taxi,weather
+225	12	USER	ありがとうございます。	general,taxi,weather
+225	13	SYSTEM	ほかに用件はございませんか。	general,taxi,weather
+225	14	USER	いえ、もう大丈夫です。ありがとうございました。	general,taxi,weather
+225	15	SYSTEM	承知しました。ありがとうございました。	general,taxi,weather

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2065	0	USER	横浜で買い物できる場所を教えてください。センター北駅近くで、無料駐車場のある場所はありますか？	general,shopping,hotel,weather
+2065	1	SYSTEM	かしこまりました。では、モザイクモール港北はいかがでしょうか？	general,shopping,hotel,weather
+2065	2	USER	そちらのエリアはどこですか？あと、営業時間も教えてください。	general,shopping,hotel,weather
+2065	3	SYSTEM	エリアは都筑区です。また、営業時間は10:00～20:00になります。	general,shopping,hotel,weather
+2065	4	USER	わかりました。続いて、宿泊施設についてもお願いします。産業振興センター駅近くの、安めでWifiも無料の宿はありますか？	general,shopping,hotel,weather
+2065	5	SYSTEM	かしこまりました。では、横浜テクノタワーホテルはいかがでしょうか？	general,shopping,hotel,weather
+2065	6	USER	そちらにレストランは併設されてますか？あと、チェックインの時間も知りたいです。	general,shopping,hotel,weather
+2065	7	SYSTEM	はい。レストランはございます。チェックイン開始時刻は15:00です。	general,shopping,hotel,weather
+2065	8	USER	では予約をお願いします。8/2から3泊で、4人です。	general,shopping,hotel,weather
+2065	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、79188です。	general,shopping,hotel,weather
+2065	10	USER	ありがとうございます。最後に、当日の青葉区最高気温も教えてください。日付は8/2です。	general,shopping,hotel,weather
+2065	11	SYSTEM	かしこまりました。8/2の青葉区の天気予報は曇となっております。最低気温は22.7度、最高気温は33.5度になる予報です。	general,shopping,hotel,weather
+2065	12	USER	ありがとうございます。以上です。	general,shopping,hotel,weather

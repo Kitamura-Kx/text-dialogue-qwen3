@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2979	0	USER	名古屋へ旅行に行きます。普通の予算で食べられる飲食店を探してください	general,restaurant
+2979	1	SYSTEM	名古屋で予算普通の飲食店は４９件ヒットします。追加の希望条件はありますか。	general,restaurant
+2979	2	USER	ないです	general,restaurant
+2979	3	SYSTEM	ならば、名古屋らしく、ゆめや 金山店をおすすめします。	general,restaurant
+2979	4	USER	電話番号とエリアも教えてください	general,restaurant
+2979	5	SYSTEM	0526829494、エリアは中区です。	general,restaurant
+2979	6	USER	そしたら12/29の14：50に二名で予約をおねがいします	general,restaurant
+2979	7	SYSTEM	予約成功しました。予約番号は98500です。	general,restaurant
+2979	8	USER	ありがとうございました	general,restaurant
+2979	9	SYSTEM	よい旅を	general,restaurant

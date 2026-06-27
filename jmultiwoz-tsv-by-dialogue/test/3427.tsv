@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3427	0	USER	こんにちは。福岡に行くのですが、どこか観光できるところを探しています。	general,attraction
+3427	1	SYSTEM	かしこまりました。福岡の観光名所は48件ほどありますが、何かご希望ありますか？	general,attraction
+3427	2	USER	最寄り駅が薬院大通（動植物園口）駅で、Wi-Fiが無料で利用できるところがいいです。	general,attraction
+3427	3	SYSTEM	でしたら福岡市動植物園がございます。いかがでしょうか？	general,attraction
+3427	4	USER	いいですね、ありがとうございます。営業時間と、近くの駅からの所要時間を教えていただけますか？	general,attraction
+3427	5	SYSTEM	営業時間は9時から17時まででございます。近くの駅からは薬院駅から徒歩で20分、薬院大通（動植物園口）駅から徒歩で15分、薬院大通（動植物園口）駅からバスで6分、博多駅からバスで20分でございます。	general,attraction
+3427	6	USER	分かりました！以上です、ありがとうございました。	general,attraction
+3427	7	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction

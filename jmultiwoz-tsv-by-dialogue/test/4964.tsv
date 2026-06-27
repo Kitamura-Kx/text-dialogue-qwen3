@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4964	0	USER	仙台へ旅行予定なのです。和食が食べれる飲食店を探しているのですが、Wi-Fiが無料のようなところはありますか？	general,restaurant,attraction,shopping
+4964	1	SYSTEM	申し訳ありません、その条件ではお探しすることが出来ませんでした。	general,restaurant,attraction,shopping
+4964	2	USER	そうですか、じゃあジャンルは問いません。	general,restaurant,attraction,shopping
+4964	3	SYSTEM	かしこまりました。それでは酒飯場 ででででんはいかがでしょうか？	general,restaurant,attraction,shopping
+4964	4	USER	そこにします。最寄り駅と駐車場の有無を教えてください。	general,restaurant,attraction,shopping
+4964	5	SYSTEM	ありがとうございます。最寄り駅は五橋駅でして、駐車場は有料ですが、ございます。	general,restaurant,attraction,shopping
+4964	6	USER	そうですか。宮城野区の観光名所も探していて、Wi-Fiが無料で、駐車場も無料でつかえるようなところはありますか？	general,restaurant,attraction,shopping
+4964	7	SYSTEM	申し訳ありません、その条件ではお探しすることが出来ませんでした。	general,restaurant,attraction,shopping
+4964	8	USER	そうですか。Wi-Fiはなくてもいいです。	general,restaurant,attraction,shopping
+4964	9	SYSTEM	かしこまりました。それではキリンビール仙台工場がございます。	general,restaurant,attraction,shopping
+4964	10	USER	そこにします。住所と定休日、あと最寄り駅も教えてください。	general,restaurant,attraction,shopping
+4964	11	SYSTEM	ありがとうございます。住所は、宮城県仙台市宮城野区港2丁目2-1で、定休日は月曜日と年末年始でございます。最寄り駅は中野栄駅です。	general,restaurant,attraction,shopping
+4964	12	USER	そうですか。コンビニも探しているのですが、駐車場が無料のようなところってあります？	general,restaurant,attraction,shopping
+4964	13	SYSTEM	それでは、セブンイレブン仙台六丁の目駅前店はいかがでしょうか？	general,restaurant,attraction,shopping
+4964	14	USER	そこにします。電話番号とエリアを調べてください。	general,restaurant,attraction,shopping
+4964	15	SYSTEM	はい、電話番号は0223902620でして、エリアは若林区でございます。	general,restaurant,attraction,shopping
+4964	16	USER	了解です。いろいろありがとうございました。	general,restaurant,attraction,shopping
+4964	17	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,attraction,shopping

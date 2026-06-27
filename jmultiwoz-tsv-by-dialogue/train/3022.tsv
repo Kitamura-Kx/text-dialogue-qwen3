@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3022	0	USER	名古屋へ行くんですが、ジャンボタクシーが利用できるタクシー会社を探してもらえますか？キャッシュレス払いが希望です。	general,taxi
+3022	1	SYSTEM	かしこまりました。では、瑞穂タクシーはいかがでしょうか？	general,taxi
+3022	2	USER	ありがとうございます。そこの会社の電話番号を教えてください。	general,taxi
+3022	3	SYSTEM	はい。電話番号は0523311680です。	general,taxi
+3022	4	USER	ありがとうございます。ではそこのタクシー予約をお願いできますか？5/19の09:40に、リッチモンドホテル名古屋新幹線口を出発して、ビストロコバまで利用したいです。	general,taxi
+3022	5	SYSTEM	かしこまりました。午前9時40分でよろしかったですか？	general,taxi
+3022	6	USER	はい、そうです。	general,taxi
+3022	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,taxi
+3022	8	USER	そうですか。じゃあ、午前10：10ならどうですか？	general,taxi
+3022	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、75581です。	general,taxi
+3022	10	USER	ありがとうございました。以上で結構です。	general,taxi
+3022	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

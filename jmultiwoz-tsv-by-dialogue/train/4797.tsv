@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4797	0	USER	京都へ旅行する予定なのですが、Wi-Fiが無料な観光名所はありますか？	general,attraction
+4797	1	SYSTEM	京都でWiFi無料な観光名所なら、国立京都国際会館です。	general,attraction
+4797	2	USER	そちらの最寄り駅はわかります？	general,attraction
+4797	3	SYSTEM	国際会館駅です。	general,attraction
+4797	4	USER	ありがとうございました。	general,attraction

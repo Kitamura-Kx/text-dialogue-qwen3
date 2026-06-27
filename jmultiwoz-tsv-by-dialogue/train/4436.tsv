@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4436	0	USER	那覇へ旅行に行くのですが、真和志で無料駐車場が使える買い物屋はありますか？	general,shopping,hotel,weather
+4436	1	SYSTEM	はい、タウンプラザかねひで与儀公園市場がございます。ジャンルは、スーパーマーケットとなります。	general,shopping,hotel,weather
+4436	2	USER	そこにします。住所と営業時間を教えてください。	general,shopping,hotel,weather
+4436	3	SYSTEM	はい、住所は沖縄県那覇市寄宮1-8-45、営業時間は9時から0時となります。	general,shopping,hotel,weather
+4436	4	USER	わかりました。あと、普通の値段でWi-Fiが無料で使える宿泊施設を調べてもらえますか？	general,shopping,hotel,weather
+4436	5	SYSTEM	承知しました。では、エリアでいうと本庁にある、ザ・ナハテラスはいかがでしょう？タイプは、リゾートホテルとなります。	general,shopping,hotel,weather
+4436	6	USER	そこにします。最寄り駅はどこでしょうか。	general,shopping,hotel,weather
+4436	7	SYSTEM	最寄り駅は牧志駅となります。	general,shopping,hotel,weather
+4436	8	USER	ありがとうございます。あと、5/23の小禄の最低気温を教えてください。	general,shopping,hotel,weather
+4436	9	SYSTEM	はい、最低気温は18.3度となります。	general,shopping,hotel,weather
+4436	10	USER	いろいろ教えていただき、ありがとうございました。	general,shopping,hotel,weather
+4436	11	SYSTEM	ありがとうございました。	general,shopping,hotel,weather

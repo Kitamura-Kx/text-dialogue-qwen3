@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3983	0	USER	京都のビジネスホテルを探しています。	general,hotel,shopping,weather
+3983	1	SYSTEM	かしこまりました。では、OYO カルタホテル 京都祇園はいかがでしょうか。	general,hotel,shopping,weather
+3983	2	USER	Wi-Fiは無料ですか？	general,hotel,shopping,weather
+3983	3	SYSTEM	はい。無料でご利用いただけます。	general,hotel,shopping,weather
+3983	4	USER	最寄駅は丹波口駅ですか？	general,hotel,shopping,weather
+3983	5	SYSTEM	いえ。最寄駅が丹波口駅がご希望でしたら、東横INN京都五条大宮はいかがでしょうか。	general,hotel,shopping,weather
+3983	6	USER	そちらにします！値段帯と駅からの所要時間を教えてください。	general,hotel,shopping,weather
+3983	7	SYSTEM	値段帯は安めで、丹波口駅から徒歩で10分でございます。	general,hotel,shopping,weather
+3983	8	USER	あと、買い物ができるショッピングモールはありますか？	general,hotel,shopping,weather
+3983	9	SYSTEM	では道の駅 ウッディー京北はいかがでしょうか。	general,hotel,shopping,weather
+3983	10	USER	いいですね、駐車場はありますか？	general,hotel,shopping,weather
+3983	11	SYSTEM	はい。無料の駐車場がございます。	general,hotel,shopping,weather
+3983	12	USER	最寄駅はどこですか？	general,hotel,shopping,weather
+3983	13	SYSTEM	最寄り駅は円町駅でございます。	general,hotel,shopping,weather
+3983	14	USER	それから、中京区の1/6の最高気温を教えてください。	general,hotel,shopping,weather
+3983	15	SYSTEM	はい。当日の最高気温は8度でございます。	general,hotel,shopping,weather
+3983	16	USER	わかりました。ありがとうございます。	general,hotel,shopping,weather
+3983	17	SYSTEM	ほかにご用件はございませんか。	general,hotel,shopping,weather
+3983	18	USER	もう大丈夫です。	general,hotel,shopping,weather
+3983	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,weather

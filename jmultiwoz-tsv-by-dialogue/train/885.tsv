@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+885	0	USER	こんにちは！今度、仙台旅行を計画してるので、案内をお願いします。	general,shopping,weather
+885	1	SYSTEM	仙台のどんな事を知りたいですか？	general,shopping,weather
+885	2	USER	買い物ができるところを探しています。スポーツジャンルの所で、駐車場を無料で利用できるところをお願いします。	general,shopping,weather
+885	3	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,shopping,weather
+885	4	USER	そうですか。じゃぁ、駐車場は有料でも大丈夫です！	general,shopping,weather
+885	5	SYSTEM	カーサベガルタは、いかがでしょうか？	general,shopping,weather
+885	6	USER	ありがとうございます！そちらの営業時間はわかりますか？	general,shopping,weather
+885	7	SYSTEM	営業時間は、午前10時から午後9時までです。	general,shopping,weather
+885	8	USER	そうなんですね、わかりました！あと、５月23日の泉区の天気についても教えてください。	general,shopping,weather
+885	9	SYSTEM	その日の天気は、曇時々晴です。	general,shopping,weather
+885	10	USER	あと、最低気温もわかりますか？	general,shopping,weather
+885	11	SYSTEM	最低気温は、7.7度です。	general,shopping,weather
+885	12	USER	ありがとうございます！調べたいことは、あとはもう大丈夫です。色々とありがとうございました！	general,shopping,weather
+885	13	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,weather

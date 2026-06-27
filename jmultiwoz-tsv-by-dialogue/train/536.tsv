@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+536	0	USER	仙台に行こうと思っているのですが、当日食事ができるお店を探しています。	general,restaurant
+536	1	SYSTEM	仙台のお食事処ですね。100件以上、ご案内可能なので、エリアなど、何かご希望はございませんか？	general,restaurant
+536	2	USER	エリアは特に希望はありませんが、予算は安めが希望です。ジャンルはうどんそばです。	general,restaurant
+536	3	SYSTEM	そうしますと、4件ほど候補がございます。たとえば、そばの神田 東一屋 名掛丁店というお店はいかがでしょうか？	general,restaurant
+536	4	USER	駐車場が無料のところがよいのですが。	general,restaurant
+536	5	SYSTEM	かしこまりました。では、蕎麦酒房 夢の途酎 焔はいかがでしょうか？	general,restaurant
+536	6	USER	そちらにしたいと思います。ありがとうございました。	general,restaurant

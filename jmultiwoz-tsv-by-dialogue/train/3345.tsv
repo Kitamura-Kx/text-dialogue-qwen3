@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3345	0	USER	東京へ旅行したいと思っているのですが、駐車場を無料で利用できる飲食店を探しています。予算は高めだとありがたいです。	general,restaurant,hotel,taxi
+3345	1	SYSTEM	バルバッコア 六本木ヒルズ店は、いかがですか？	general,restaurant,hotel,taxi
+3345	2	USER	ありがとうございます。ではそこに行こうと思います。あと当日利用する宿泊施設を探しているのですが、駐車場とWiFiを無料で利用できるところはありますでしょうか。	general,restaurant,hotel,taxi
+3345	3	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,restaurant,hotel,taxi
+3345	4	USER	分かりました。では駐車場はなくてもかまいません。	general,restaurant,hotel,taxi
+3345	5	SYSTEM	MIMARU東京 銀座EASTは、いかがでしょうか？	general,restaurant,hotel,taxi
+3345	6	USER	なるほど、できればレストランが併設されていると良いと思っているのですがレストランはありますか？	general,restaurant,hotel,taxi
+3345	7	SYSTEM	では、THE GATE HOTEL TOKYO by HULICはいかがですか？	general,restaurant,hotel,taxi
+3345	8	USER	ありがとうございます。そこを利用したいと思います。最後にタクシー会社を探していただきたいのですが、ジャンボタクシーを利用できるところはありますか？	general,restaurant,hotel,taxi
+3345	9	SYSTEM	キャピタルオートは、いかがですか？	general,restaurant,hotel,taxi
+3345	10	USER	なるほど、ちなみにその会社はキャッシュレス対応はしていますか？	general,restaurant,hotel,taxi
+3345	11	SYSTEM	はい、キャッシュレス対応もしています。	general,restaurant,hotel,taxi
+3345	12	USER	ありがとうございます。ではそちらで予約をしたいのですが、3月3日の15:30にバルバッコア 六本木ヒルズ店からTHE GATE HOTEL TOKYO by HULICまで予約は可能でしょうか。	general,restaurant,hotel,taxi
+3345	13	SYSTEM	予約出来ました。予約番号は、31649になります。	general,restaurant,hotel,taxi
+3345	14	USER	何から何までサポートしていただきありがとうございます。お願いしたいことは以上になります。本当にありがとうございました。	general,restaurant,hotel,taxi
+3345	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel,taxi

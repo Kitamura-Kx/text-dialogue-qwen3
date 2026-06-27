@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+438	0	USER	札幌で買い物ができる商店街を探してほしいです。	general,shopping,weather
+438	1	SYSTEM	かしこまりました。狸小路商店街はいかがですか？	general,shopping,weather
+438	2	USER	白石区で駐車場が無料で使えるところがいいのですが、当てはまりますか？	general,shopping,weather
+438	3	SYSTEM	大変申し訳ございません。その条件では、該当する場所がありませんでした。	general,shopping,weather
+438	4	USER	そうですか。じゃあ、駐車場が無料ならエリアはどこでもいいです。	general,shopping,weather
+438	5	SYSTEM	ありがとうございます。そういたしますと、札幌市中央卸売市場 場外市場はいかがでしょうか？	general,shopping,weather
+438	6	USER	そこにします。電話番号と近辺の駅からの所要時間を教えてもらえますか？	general,shopping,weather
+438	7	SYSTEM	電話番号は0116217044です。最寄りの二十四軒駅から徒歩で7分、桑園駅からは徒歩で9分でアクセスできます。	general,shopping,weather
+438	8	USER	わかりました。あと、9/17の西区の最高気温がわかれば教えてください。	general,shopping,weather
+438	9	SYSTEM	かしこまりました。最高気温は24.2度の予想となっております。	general,shopping,weather
+438	10	USER	了解です。ありがとうございました。	general,shopping,weather

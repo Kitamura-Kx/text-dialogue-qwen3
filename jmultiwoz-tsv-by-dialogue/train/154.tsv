@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+154	0	USER	横浜の観光名所を教えてほしいんですけど、Wi-Fiが無料の所なんてありますか？	general,attraction
+154	1	SYSTEM	申し訳ございません。Wi-Fiが無料の観光名所はございません。	general,attraction
+154	2	USER	じゃあ、Wi-Fiは関係なしでいいので、横浜でおすすめの観光地を教えてください。	general,attraction
+154	3	SYSTEM	申し訳ございません。それでは、横浜大世界はいかがでしょう？エリアでいうと中区にございまして、ジャンルはテーマパークとなっております。入場料は必要なく、無料でご利用いただけます。	general,attraction
+154	4	USER	なんかでっかい感じがいいですね。無料なのもありがたいです。電話番号を教えてもらっていいですか？	general,attraction
+154	5	SYSTEM	承知致しました。電話番号は、0456815588となります。	general,attraction
+154	6	USER	いいところを教えてもらってよかったです。ありがとうございました。	general,attraction

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3270	0	USER	横浜へ旅行に行くのですが、ホテルを探してください。	general,hotel
+3270	1	SYSTEM	ご希望の条件などはありますか？	general,hotel
+3270	2	USER	リゾートホテルで、Wi-Fiが無料でできるところがいいんですが。	general,hotel
+3270	3	SYSTEM	ヨコハマ グランド インターコンチネンタル ホテルは、いかがですか？	general,hotel
+3270	4	USER	駐車場も無料で利用できますか？	general,hotel
+3270	5	SYSTEM	申し訳ありません、駐車場は有料となっています。	general,hotel
+3270	6	USER	そうですか。他に条件が合うところはないですか？	general,hotel
+3270	7	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,hotel
+3270	8	USER	では、宿のタイプはリゾートホテルでなくてもいいのですが、Wi-Fiと駐車場が無料のところを探してください。	general,hotel
+3270	9	SYSTEM	1件みつかりました。　旅館 松島は、いかがですか？	general,hotel
+3270	10	USER	その旅館の住所と電話番号を教えてください。	general,hotel
+3270	11	SYSTEM	住所は、神奈川県横浜市南区蒔田町863で、電話番号は、0457312720になります。	general,hotel
+3270	12	USER	そこを予約します。	general,hotel
+3270	13	SYSTEM	では、ご希望の日時、人数などお知らせください。	general,hotel
+3270	14	USER	11月8日から3泊、人数は4人です。	general,hotel
+3270	15	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,hotel
+3270	16	USER	人数3人では予約できますか？	general,hotel
+3270	17	SYSTEM	はい、予約出来ました。予約番号は、46944です。	general,hotel
+3270	18	USER	ありがとうございます。	general,hotel
+3270	19	SYSTEM	他にご用件はありますか？	general,hotel
+3270	20	USER	いえもう大丈夫です。ありがとうございました。	general,hotel
+3270	21	SYSTEM	承知致しました。ありがとうございました。	general,hotel

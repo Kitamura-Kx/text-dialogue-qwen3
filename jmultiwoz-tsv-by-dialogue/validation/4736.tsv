@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4736	0	USER	仙台でWi-Fiが無料で駐車場も無料の宿はありますか	general,hotel
+4736	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel
+4736	2	USER	では駐車場はなくても大丈夫です	general,hotel
+4736	3	SYSTEM	ありがとうございます。では、エリアでいうと青葉区にある、ホテル定禅寺はいかがでしょう？タイプは、ビジネスホテルとなります。	general,hotel
+4736	4	USER	ではそちらの料金帯を聞いてもよろしいですか	general,hotel
+4736	5	SYSTEM	はい、値段帯は、安めとなります。	general,hotel
+4736	6	USER	以上で終わります	general,hotel

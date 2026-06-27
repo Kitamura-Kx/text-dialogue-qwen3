@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+515	0	USER	那覇の本庁地区で宿泊施設を探してほしいです。	general,hotel,attraction
+515	1	SYSTEM	承知しました。8件ございます。他にご希望はございますか？	general,hotel,attraction
+515	2	USER	Wi-Fiが無料で使えて、予算が安めのところがいいです。	general,hotel,attraction
+515	3	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,hotel,attraction
+515	4	USER	そうですか。じゃあ、地区を真和志に変更したらどうでしょうか。	general,hotel,attraction
+515	5	SYSTEM	ありがとうございます。12件ございます。他にご希望はございますか？	general,hotel,attraction
+515	6	USER	そうですね、Wi-Fiと予算が希望通りなら、他は特にありません。	general,hotel,attraction
+515	7	SYSTEM	では、ホテルアザット那覇はいかがでしょう？最寄りの安里駅から徒歩で1分となります。タイプはビジネスホテルです。	general,hotel,attraction
+515	8	USER	よさそうですね。住所はわかりますか？	general,hotel,attraction
+515	9	SYSTEM	はい、住所は沖縄県那覇市安里2丁目8-8、電話番号は0988630888、チェックイン開始時刻は15時、チェックアウト終了時刻は10時となります。	general,hotel,attraction
+515	10	USER	わかりました。では、1/15から2泊、3名で予約をお願いできますか？	general,hotel,attraction
+515	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、52306となります。	general,hotel,attraction
+515	12	USER	ありがとうございます。観光名所にも行きたいのですが、無料Wi-Fiが使えるところはどこかありますか？	general,hotel,attraction
+515	13	SYSTEM	はい、ございます。他にご希望はございますか？	general,hotel,attraction
+515	14	USER	無料Wi-Fi以外は特に希望はありません。	general,hotel,attraction
+515	15	SYSTEM	では、体験工房 美ら風はいかがでしょう？ジャンルは教室、ワークショップ、体験となります。最寄りの美栄橋駅から徒歩で8分となります。	general,hotel,attraction
+515	16	USER	よさそうですね。営業時間と大人の入場料金はわかりますか？	general,hotel,attraction
+515	17	SYSTEM	はい、営業時間は10時から18時、大人入場料は1600円となります。	general,hotel,attraction
+515	18	USER	わかりました。いろいろありがとうございました。	general,hotel,attraction

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1433	0	USER	京都への旅行を計画しています．	general,shopping,taxi
+1433	1	SYSTEM	はい。お問合せありがとうございます。	general,shopping,taxi
+1433	2	USER	当日買い物ができるところを探してください．地区は南区で駐車場を無料で利用できるところがいいです。	general,shopping,taxi
+1433	3	SYSTEM	ココカラファイン アバンティ店はいかがでしょうか。	general,shopping,taxi
+1433	4	USER	いいですね。定休日はいつですか。	general,shopping,taxi
+1433	5	SYSTEM	定休日は無しです。	general,shopping,taxi
+1433	6	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してください．キャッシュレス払いできるところがいいです。	general,shopping,taxi
+1433	7	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,taxi
+1433	8	USER	でしたら、キャッシュレスはどちらでもいいです。	general,shopping,taxi
+1433	9	SYSTEM	彌榮自動車株式会社はいかがでしょうか。	general,shopping,taxi
+1433	10	USER	いいですね。そちらのジャンボタクシー対応，電話番号をおしえてほしいです。	general,shopping,taxi
+1433	11	SYSTEM	ジャンボタクシー対応は対応で電話番号は0758421212です。	general,shopping,taxi
+1433	12	USER	ありがとうございます。そちらで日付は3/25、時間は15:00、出発地は先ほど見つけた買い物店舗で目的地はフランソア喫茶室というところで予約してほしいです。	general,shopping,taxi
+1433	13	SYSTEM	予約完了いたしました。予約番号は1903になります。	general,shopping,taxi
+1433	14	USER	ありがとうございます。	general,shopping,taxi

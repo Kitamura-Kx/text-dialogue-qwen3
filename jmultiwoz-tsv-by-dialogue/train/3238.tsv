@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3238	0	USER	那覇へ旅行をするのですが、Wi－Fiが無料で使える観光地ってありますか？古島駅のあたりで探してください。	general,attraction,weather
+3238	1	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,attraction,weather
+3238	2	USER	それでしたら、古島駅あたりでなくてもいいので、Wi-Fi無料の所でお願いします。	general,attraction,weather
+3238	3	SYSTEM	ありがとうございます。では、エリアでいうと本庁にある、御菓子御殿国際通り松尾店はいかがでしょう？ジャンルは、工場見学、その他となります。	general,attraction,weather
+3238	4	USER	分かりました。御菓子御殿国際通り松尾店の料金情報を詳しく知りたいです。大人の入場料はいくらでしょうか？	general,attraction,weather
+3238	5	SYSTEM	大人入場料は必要なく、無料でご利用いただけます。	general,attraction,weather
+3238	6	USER	ありがとうございます。それ以外にも、料金情報があればお願いします。	general,attraction,weather
+3238	7	SYSTEM	料金情報は、無料、となっております。	general,attraction,weather
+3238	8	USER	分かりました。1/5に予定しているのですが、この日の小禄の最低気温はどの位か分かりますでしょうか？	general,attraction,weather
+3238	9	SYSTEM	はい、最低気温18.2度となります。他にご用件はございますか？	general,attraction,weather
+3238	10	USER	これで全てです、ありがとうございました。	general,attraction,weather
+3238	11	SYSTEM	ありがとうございました。	general,attraction,weather

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+321	0	USER	こんにちは。京都に旅行に行こうと思っています。お買い物できるところを一緒に探してもらえないでしょうか？	general,shopping,restaurant,weather
+321	1	SYSTEM	承知しました。ジャンルやエリアなどのご希望はございますか？	general,shopping,restaurant,weather
+321	2	USER	医薬品や化粧品を取り扱っていて、駐車場が無料で使えるお店でお願いをします。	general,shopping,restaurant,weather
+321	3	SYSTEM	はい、それでは、ココカラファイン アバンティ店がよろしいと思います。	general,shopping,restaurant,weather
+321	4	USER	こちらのお店の営業時間を教えて下さい。	general,shopping,restaurant,weather
+321	5	SYSTEM	承知しました。営業時間は10時から21時となっております。	general,shopping,restaurant,weather
+321	6	USER	わかりました。あとご飯を食べるところも探して頂きたいです。予算は普通くらいで、Wi-Fiと駐車場が無料で使えるお店だと有難いです。	general,shopping,restaurant,weather
+321	7	SYSTEM	申し訳ありません。その条件ですとご紹介ができません。いかが致しましょう？	general,shopping,restaurant,weather
+321	8	USER	そうですか。では駐車場が無料で使えるところでなくても構いません。	general,shopping,restaurant,weather
+321	9	SYSTEM	ありがとうございます。それでは、フィゲラス 烏丸店はいかがでしょう？ジャンルは、洋食、西洋料理、その他、となっております。	general,shopping,restaurant,weather
+321	10	USER	こちらのお店って定休日はありますか？	general,shopping,restaurant,weather
+321	11	SYSTEM	はい。月曜日が定休日となっております。	general,shopping,restaurant,weather
+321	12	USER	ありがとうございます。ちなみになのですが、2/23の右京区の天候はどんな感じでしょうか？	general,shopping,restaurant,weather
+321	13	SYSTEM	はい、天気は晴のち曇、最低気温1.1度、最高気温15.2度となります。	general,shopping,restaurant,weather
+321	14	USER	教えて下さりありがとうございます、とても助かりました！	general,shopping,restaurant,weather

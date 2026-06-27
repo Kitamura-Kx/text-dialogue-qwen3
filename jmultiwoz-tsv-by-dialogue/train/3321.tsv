@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3321	0	USER	名古屋の旅行の時に、大和絵美術館 森村記念館へ行きたいと考えています。	general,attraction,taxi
+3321	1	SYSTEM	はい、大和絵美術館 森村記念館ですね。	general,attraction,taxi
+3321	2	USER	はい。大和絵美術館 森村記念館の、大人の入場料はおいくらでしょうか？	general,attraction,taxi
+3321	3	SYSTEM	大人の入場料ですが、喫茶代込だと８００円、鑑賞のみだと４００円、またエコ切符等の割引サービスだと６００円のようです。	general,attraction,taxi
+3321	4	USER	ありがとうございます。旅行当日に使うタクシー会社も探してください。ジャンボタクシーとキャッシュレス決済、どちらも出来る会社でお願いします。	general,attraction,taxi
+3321	5	SYSTEM	はい、両方に対応しているところで、瑞穂タクシーをお勧めします。	general,attraction,taxi
+3321	6	USER	それでは瑞穂タクシーで予約を取ってほしいです。こちらの電話番号も教えて頂けますか？	general,attraction,taxi
+3321	7	SYSTEM	電話番号は0523311680になります。予約詳細情報をお願いします。	general,attraction,taxi
+3321	8	USER	6/3にKKRホテル名古屋(国家公務員共済組合連合会名古屋共済会館)から、大和絵美術館 森村記念館まででお願いします。出発時刻は14:30です。	general,attraction,taxi
+3321	9	SYSTEM	あいにくその条件だと予約に失敗してしまいました。少し時間をずらしていただけるとありがたいのですが。	general,attraction,taxi
+3321	10	USER	分かりました。それでは15:00でお願いできますか？	general,attraction,taxi
+3321	11	SYSTEM	15時で予約成功しました。予約番号は17049になります。	general,attraction,taxi
+3321	12	USER	ありがとうございます、お世話になりました。	general,attraction,taxi
+3321	13	SYSTEM	よい旅を	general,attraction,taxi

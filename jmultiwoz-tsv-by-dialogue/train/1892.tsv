@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1892	0	USER	横浜にキャッシュレス払いができるタクシー会社はありますか？	general,taxi
+1892	1	SYSTEM	はい、横浜のキャッシュレス決済が可能なタクシー会社ですと、富士見交通株式会社などがございます。	general,taxi
+1892	2	USER	その会社の電話番号はわかりますか？	general,taxi
+1892	3	SYSTEM	はい、電話番号は0120411190でございます。	general,taxi
+1892	4	USER	では、8/4 11:30にパステルイタリアーナ アピタ長津田店まで来て欲しいです。目的地は、こども自然公園で予約をお願いします。	general,taxi
+1892	5	SYSTEM	かしこまりました。予約番号6506でご予約させていただきました。	general,taxi
+1892	6	USER	今日お願いしたいことは以上です。ありがとうございました。	general,taxi
+1892	7	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi

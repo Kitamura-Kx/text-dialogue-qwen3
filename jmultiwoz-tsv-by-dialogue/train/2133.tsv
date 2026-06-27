@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2133	0	USER	名古屋での旅行の際に当日買い物できる場所を探しています。	general,shopping
+2133	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,shopping
+2133	2	USER	駐車場無料のショッピングモールは何かありそうでしょうか？	general,shopping
+2133	3	SYSTEM	かしこまりました。では、名古屋モゾ ワンダーシティはいかがでしょうか？	general,shopping
+2133	4	USER	そちらに行きたいと思います。住所と電話番号を教えていただけますでしょうか。	general,shopping
+2133	5	SYSTEM	はい。住所は愛知県名古屋市西区二方町40で、電話番号は0525051888になります。	general,shopping
+2133	6	USER	ありがとうございました。	general,shopping

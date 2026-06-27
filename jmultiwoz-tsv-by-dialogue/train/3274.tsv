@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3274	0	USER	札幌へ旅行に行くのですが、南区の観光名所を探してください。	general,attraction
+3274	1	SYSTEM	定山源泉公園は、いかがでしょうか？	general,attraction
+3274	2	USER	最寄り駅が発寒駅で、Wi-Fiが無料で使えるところがいいのですが。そこは条件に合いますか？	general,attraction
+3274	3	SYSTEM	申し訳ありません、こちらは条件に合いません。	general,attraction
+3274	4	USER	条件に合うところはないでしょうか？もしなければ発寒駅が最寄り駅でなくても構いません。	general,attraction
+3274	5	SYSTEM	発寒駅でなければ2件ありました。　アシリベツの滝はいかがでしょうか？	general,attraction
+3274	6	USER	アシリベツの滝の子供入場料はいくらでしょうか？	general,attraction
+3274	7	SYSTEM	入場料は、0となっています。	general,attraction
+3274	8	USER	わかりました。ありがとうございます。	general,attraction
+3274	9	SYSTEM	他にご用件はありますか？	general,attraction
+3274	10	USER	いえありません。ありがとうございました。	general,attraction
+3274	11	SYSTEM	承知致しました。ありがとうございました。	general,attraction

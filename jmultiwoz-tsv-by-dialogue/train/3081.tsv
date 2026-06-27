@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3081	0	USER	京都へ行こうと思っているのですが、最寄り駅が七条駅の宿泊施設を探しています。	general,hotel,attraction,taxi
+3081	1	SYSTEM	七条駅には宿泊施設が２件ありますが、京都らしい、京都 高瀬川別邸、こちらをお勧めします。	general,hotel,attraction,taxi
+3081	2	USER	Wi-Fiと駐車場は無料ですか？	general,hotel,attraction,taxi
+3081	3	SYSTEM	はい、WiFiと駐車場ともに無料です。	general,hotel,attraction,taxi
+3081	4	USER	ありがとうございます。駅からの所要時間はどのくらいですか？	general,hotel,attraction,taxi
+3081	5	SYSTEM	七条駅から徒歩で5分 、その他、京都駅から徒歩で9分	general,hotel,attraction,taxi
+3081	6	USER	料金情報をお願いできますか？	general,hotel,attraction,taxi
+3081	7	SYSTEM	値段帯は高めです。詳細の料金情報は不明です。	general,hotel,attraction,taxi
+3081	8	USER	そうですか。それと、テーマパークに行きたいのですが。北山駅が近いところで。	general,hotel,attraction,taxi
+3081	9	SYSTEM	北山にテーマパークはなさそうです。	general,hotel,attraction,taxi
+3081	10	USER	では、北山駅は気にしなくても大丈夫です。	general,hotel,attraction,taxi
+3081	11	SYSTEM	京都でテーマパークは２つありますが、東映太秦映画村、こちらをお勧めします。	general,hotel,attraction,taxi
+3081	12	USER	エリアはどちらになりますか？入場料も教えて下さい。	general,hotel,attraction,taxi
+3081	13	SYSTEM	右京区です。大人２４００円、中高生１４００円、３歳以上１２００円です。	general,hotel,attraction,taxi
+3081	14	USER	ありがとうございます。ジャンボタクシーを利用したいのですが、キャッスレスだと嬉しいです。	general,hotel,attraction,taxi
+3081	15	SYSTEM	両方に対応しているところで、高速タクシー株式会社をお勧めします。	general,hotel,attraction,taxi
+3081	16	USER	電話番号を教えて下さい。	general,hotel,attraction,taxi
+3081	17	SYSTEM	0756015588です。	general,hotel,attraction,taxi
+3081	18	USER	予約をお願いします。10/1の16：30で、京都 高瀬川別邸から東映太秦映画村までお願いします。	general,hotel,attraction,taxi
+3081	19	SYSTEM	予約成功しました。予約番号は35600です。	general,hotel,attraction,taxi
+3081	20	USER	ありがとうございました。では、失礼します。	general,hotel,attraction,taxi
+3081	21	SYSTEM	よい旅を	general,hotel,attraction,taxi

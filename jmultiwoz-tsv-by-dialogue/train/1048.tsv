@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1048	0	USER	今度、京都へ行くのでWi-Fiが無料で使える宿泊先を紹介してください。	general,hotel
+1048	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel
+1048	2	USER	ではWi-Fiが使えなくても大丈夫です。	general,hotel
+1048	3	SYSTEM	かしこまりました。そうしますと、2件ご案内可能です。たとえば、東本願寺前 山田屋旅館という下京区にある旅館はいかがでしょうか？	general,hotel
+1048	4	USER	そこにします。東本願寺前 山田屋旅館にはレストランはありますか？エリアも教えてください。	general,hotel
+1048	5	SYSTEM	申し訳ございません。こちらの施設はレストランは併設しておりません。エリアは、下京区でございます。	general,hotel
+1048	6	USER	分かりました。予約をお願いしたいです。1月2日から3泊、2名です。	general,hotel
+1048	7	SYSTEM	ありがとうございます。ご予約承りました。予約番号は、80672です。	general,hotel
+1048	8	USER	ありがとうございます。助かりました。失礼します。	general,hotel

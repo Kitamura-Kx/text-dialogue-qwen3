@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4429	0	USER	札幌へ旅行予定なのですが、駐車場を無料で使える買い物店舗はありませんか？	general,shopping,hotel,weather
+4429	1	SYSTEM	承知しました。他にご希望はございますか？	general,shopping,hotel,weather
+4429	2	USER	いえ、ありません。	general,shopping,hotel,weather
+4429	3	SYSTEM	では、エリアでいうと南区にある、ジェラート札幌果林樹はいかがでしょう？ジャンルは、食料品となります。	general,shopping,hotel,weather
+4429	4	USER	そこにします。あと、値段帯が普通くらいの宿泊施設も探しています。できれば駐車場が無料で使えて、レストランがあるところがいいのですが。	general,shopping,hotel,weather
+4429	5	SYSTEM	では、エリアでいうと南区にある、定山渓第一寶亭留 翠山亭はいかがでしょう？タイプは、その他となります。	general,shopping,hotel,weather
+4429	6	USER	そこにします。近辺の駅からの所要時間とチェックアウト終了時刻はわかります？	general,shopping,hotel,weather
+4429	7	SYSTEM	はい、チェックアウト終了時刻は11時、最寄りの真駒内駅からタクシーで27分となります。	general,shopping,hotel,weather
+4429	8	USER	わかりました。あと、豊平区の12/1の天気と最低気温を知りたいです。	general,shopping,hotel,weather
+4429	9	SYSTEM	承知しました。天気は晴時々曇、最低気温-7.5度となります。	general,shopping,hotel,weather
+4429	10	USER	ありがとうございました。	general,shopping,hotel,weather
+4429	11	SYSTEM	ありがとうございました。	general,shopping,hotel,weather

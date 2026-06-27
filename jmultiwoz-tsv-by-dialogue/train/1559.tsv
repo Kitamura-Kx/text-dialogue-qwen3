@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1559	0	USER	仙台に旅行をしたいのですが。	general,hotel,attraction
+1559	1	SYSTEM	仙台のご旅行ですね。本日はどのようなお手伝いをいたしましょうか？	general,hotel,attraction
+1559	2	USER	宿泊施設を探してほしいです。予算は高くて大丈夫です。	general,hotel,attraction
+1559	3	SYSTEM	かしこまりました。そうしますと、秋保温泉 茶寮宗園など、9件ほどご案内可能です。何か他にご希望はありませんか？	general,hotel,attraction
+1559	4	USER	ありがとうございます。レストランが併設されているところがよいです。	general,hotel,attraction
+1559	5	SYSTEM	では、ウェスティンホテル仙台はいかがでしょうか？青葉区エリアにあるリゾートホテルでございます。	general,hotel,attraction
+1559	6	USER	すみません、宮城野区ではありますか？	general,hotel,attraction
+1559	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,attraction
+1559	8	USER	では、太白区ではありますか？	general,hotel,attraction
+1559	9	SYSTEM	はい、2件ご案内可能です。例えば、秋保温泉 茶寮宗園というところは、いかがでしょうか？	general,hotel,attraction
+1559	10	USER	ありがとうございます。そちらの施設の最寄り駅からの所要時間と電話番号を教えていただけますか？	general,hotel,attraction
+1559	11	SYSTEM	かしこまりました。最寄りの仙台駅からタクシーで30分、またはバスで30分ほどかかります。電話番号は、0223982311です。	general,hotel,attraction
+1559	12	USER	ありがとうございます。	general,hotel,attraction
+1559	13	SYSTEM	他にお調べすることはございますか？	general,hotel,attraction
+1559	14	USER	では青葉区でおすすめの観光名所はありますか？	general,hotel,attraction
+1559	15	SYSTEM	25件ほどご案内できますが、AER展望テラスなどはご興味ございませんか？	general,hotel,attraction
+1559	16	USER	いいですね。そちらは無料Wi-Fiはありますか？	general,hotel,attraction
+1559	17	SYSTEM	申し訳ありません。こちらの施設はWiFiがございません。無料WiFiがある観光名所をご希望でしょうか？	general,hotel,attraction
+1559	18	USER	はい。できればお願いしたいです。	general,hotel,attraction
+1559	19	SYSTEM	では、エル・パーク仙台はいかがでしょうか？	general,hotel,attraction
+1559	20	USER	ありがとうございます。そちらはジャンルでいうとどのような施設ですか？	general,hotel,attraction
+1559	21	SYSTEM	ジャンルは、その他となっております	general,hotel,attraction
+1559	22	USER	駐車場はありますか？	general,hotel,attraction
+1559	23	SYSTEM	はい、有料ですが、ございます。	general,hotel,attraction
+1559	24	USER	分かりました。営業時間は何時から何時までですか？	general,hotel,attraction
+1559	25	SYSTEM	営業時間は、9:00～21:30となっております。	general,hotel,attraction
+1559	26	USER	ありがとうございます。	general,hotel,attraction
+1559	27	SYSTEM	ほかにお知りになりたい情報はございませんか？	general,hotel,attraction
+1559	28	USER	特にありません。ありがとうございました。	general,hotel,attraction
+1559	29	SYSTEM	承知しました。では本日はご利用ありがとうございました。	general,hotel,attraction

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4019	0	USER	名古屋へ旅行する際、文房具や雑貨をかえれるような店を探しています。あと、駐車場が無料のところにしてください。	general,shopping,hotel,weather
+4019	1	SYSTEM	名古屋で駐車場無料の文房具雑貨の店はいくつかありますが、今はやりのところで、ポケモンセンターナゴヤ、こちらをお勧めします。	general,shopping,hotel,weather
+4019	2	USER	いいですね。そちらの近辺の駅からの所要時間とエリアをおしえてください。	general,shopping,hotel,weather
+4019	3	SYSTEM	エリアは中区、矢場町駅から徒歩で1分、その他、栄駅から徒歩で5分、栄町駅から徒歩で8分です。	general,shopping,hotel,weather
+4019	4	USER	ありがとうございます。あと、中村区でレストランが併設されている宿泊施設はありませんか？	general,shopping,hotel,weather
+4019	5	SYSTEM	中村区でレストラン併設の宿泊施設はいくつかありますが、三井ガーデンホテル名古屋プレミア、こちらをお勧めします。	general,shopping,hotel,weather
+4019	6	USER	いいですね。料金情報と値段帯はわかります？	general,shopping,hotel,weather
+4019	7	SYSTEM	値段帯は安めですが、料金情報詳細は不明です。	general,shopping,hotel,weather
+4019	8	USER	わかりました。最後に、2/11の名東区の天気を教えてください。	general,shopping,hotel,weather
+4019	9	SYSTEM	2/11 名古屋 名東区 の天気は曇、最低気温3度、最高気温13.9度です。	general,shopping,hotel,weather
+4019	10	USER	いろいろありがとうございました。	general,shopping,hotel,weather
+4019	11	SYSTEM	よい旅を。	general,shopping,hotel,weather

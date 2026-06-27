@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4176	0	USER	大阪旅行に行きたいんですが、住吉大社には駐車場はありますか？	general,attraction,weather
+4176	1	SYSTEM	駐車場については、有料駐車場があります。	general,attraction,weather
+4176	2	USER	良かったです。エリアはどこになりますか？	general,attraction,weather
+4176	3	SYSTEM	エリアは、住吉区になります。	general,attraction,weather
+4176	4	USER	ありがとうございます。3月25日に行く予定なのですが、旭区の天気はどうですか？	general,attraction,weather
+4176	5	SYSTEM	その日の天気は、雨時々曇の予報です。	general,attraction,weather
+4176	6	USER	最高気温はどうですか？	general,attraction,weather
+4176	7	SYSTEM	最高気温は、17.3度です。	general,attraction,weather
+4176	8	USER	分かりました。ありがとうございます。	general,attraction,weather
+4176	9	SYSTEM	他にご用件はありますか？	general,attraction,weather
+4176	10	USER	大丈夫です。助かりました。	general,attraction,weather
+4176	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

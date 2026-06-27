@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1419	0	USER	東京への観光を予定しています。葛西臨海公園駅近辺でWiFiが無料の観光名所を教えて下さい。	general,attraction,weather
+1419	1	SYSTEM	では葛西臨海水族園がございますがいかがでしょうか。	general,attraction,weather
+1419	2	USER	葛西臨海水族園は駐車場はありますか？また大人子供の料金も知りたいです。	general,attraction,weather
+1419	3	SYSTEM	駐車場はございません。大人の入場料が700円で、子供は無料でございます。	general,attraction,weather
+1419	4	USER	わかりました、当日2/27の世田谷区の天気と最高気温を教えて下さい。	general,attraction,weather
+1419	5	SYSTEM	天気は晴、最高気温は11.2度でございます。	general,attraction,weather
+1419	6	USER	助かりました、有難うございました。	general,attraction,weather
+1419	7	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

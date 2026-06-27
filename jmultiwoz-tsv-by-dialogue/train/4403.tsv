@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4403	0	USER	大阪へ旅行に行くのですが、Wi-Fiが無料な飲食店を探してください。	general,restaurant
+4403	1	SYSTEM	かしこまりました。それではバルバッコア 心斎橋店はいかがでしょうか？	general,restaurant
+4403	2	USER	よさそうですね。値段帯を教えてください。	general,restaurant
+4403	3	SYSTEM	値段帯は高めでございます。	general,restaurant
+4403	4	USER	ありがとうございました。もう大丈夫です。	general,restaurant
+4403	5	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

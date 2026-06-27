@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+92	0	USER	こんばんは。 名古屋への旅行を計画しているのですが、案内をお願いできますか？	general,taxi,weather
+92	1	SYSTEM	こんばんは。名古屋へのご旅行ですね、かしこまりました。どういったご案内をさしあげましょうか？	general,taxi,weather
+92	2	USER	タクシー会社を探していただきたいのですが、ジャンボタクシーを利用できるところで、お願いしたいです。	general,taxi,weather
+92	3	SYSTEM	かしこまりました。名古屋でジャンボタクシーをご利用いただけるタクシー会社は、20社ほどございます。他にご希望の条件などはございますか？	general,taxi,weather
+92	4	USER	特にありません。	general,taxi,weather
+92	5	SYSTEM	では、伸和交通はいかがでしょうか？	general,taxi,weather
+92	6	USER	そうですね、それでは、伸和交通がキャッシュレス対応かどうか教えていただけますでしょうか？	general,taxi,weather
+92	7	SYSTEM	はい。伸和交通でしたら、キャッシュレス払いにも対応しております。	general,taxi,weather
+92	8	USER	そうなんですね。ありがとうございます。 では、そちらのタクシーの予約をお願いします。	general,taxi,weather
+92	9	SYSTEM	はい、ご予約承ります。ご利用予定の日付、出発時刻、出発地と目的地をお伺いしてもよろしいでしょうか？	general,taxi,weather
+92	10	USER	はい、わかりました。 日時は、4月18日の13時30分、ヨドバシカメラ マルチメディア名古屋松坂屋店から、ORPHEEというところまでで、予約をお願いします。	general,taxi,weather
+92	11	SYSTEM	ありがとうございます。4月18日13時30分にて、ご予約をお取りしました。予約番号は、92828です。	general,taxi,weather
+92	12	USER	お手配、ありがとうございます。 あと、4月18日の千種区の天候についても伺いたいのですが。	general,taxi,weather
+92	13	SYSTEM	はい、かしこまりました。千種区の4月18日のお天気は晴れ、最高気温19.7度の予報が出ております。	general,taxi,weather
+92	14	USER	そうなんですね。ありがとうございます。	general,taxi,weather
+92	15	SYSTEM	はい。この他にも何かお手伝いできることはございますでしょうか？	general,taxi,weather
+92	16	USER	いえ、もう大丈夫です。この度は、ありがとうございました。	general,taxi,weather
+92	17	SYSTEM	とんでもございません。こちらこそ、お問い合わせいただき、誠にありがとうございました。また何かございましたら、お気軽にご利用くださいませ。	general,taxi,weather

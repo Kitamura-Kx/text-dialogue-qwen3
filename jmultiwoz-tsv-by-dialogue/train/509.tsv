@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+509	0	USER	横浜の新杉田駅近くで飲食店を探してください。	general,restaurant,shopping
+509	1	SYSTEM	承知しました。やきとりの扇屋 新杉田駅前店がございます。ジャンルは居酒屋、エリアは磯子区、最寄りの新杉田駅から徒歩で2分となります。	general,restaurant,shopping
+509	2	USER	うーん、カレーがいいのですが、カレーのお店はありますか？予算は普通くらいで。	general,restaurant,shopping
+509	3	SYSTEM	申し訳ありません。新杉田駅近くでご紹介可能な飲食店は、やきとりの扇屋 新杉田駅前店のみとなります。	general,restaurant,shopping
+509	4	USER	そうですか。では、新杉田駅でなくていいので、カレーのお店を探してください。	general,restaurant,shopping
+509	5	SYSTEM	では、スープカレー KIFUKUはいかがでしょう？エリアは中区、値段帯は普通となります。	general,restaurant,shopping
+509	6	USER	いいですね。駐車場の有無と料金情報がわかれば教えてください。	general,restaurant,shopping
+509	7	SYSTEM	承知しました。申し訳ありませんが、駐車場とWi-Fiの有無については不明です。料金情報としては、チキンと鎌倉三浦16品目野菜のカレースープが1550円となっております。	general,restaurant,shopping
+509	8	USER	わかりました。では、3/14の11:50に4名で予約をお願いできますか？	general,restaurant,shopping
+509	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、4389となります。	general,restaurant,shopping
+509	10	USER	ありがとうございます。当日買い物もしたいので、南区で買い物ができるところを探してもらえますか？	general,restaurant,shopping
+509	11	SYSTEM	承知しました。弘明寺かんのん通り商店街とファミリーマート 阪東橋東口店の2件がございます。	general,restaurant,shopping
+509	12	USER	2件のうち駐車場が無料で利用できるところはありますか？	general,restaurant,shopping
+509	13	SYSTEM	はい、弘明寺かんのん通り商店街は駐車場が無料でご利用いただけます。	general,restaurant,shopping
+509	14	USER	わかりました。では、そちらの電話番号と住所を教えてください。	general,restaurant,shopping
+509	15	SYSTEM	はい、電話番号は0457414959、住所は神奈川県横浜市南区弘明寺町134となります。	general,restaurant,shopping
+509	16	USER	ちなみに定休日はありますか？	general,restaurant,shopping
+509	17	SYSTEM	定休日は店舗により異なる、とのことです。	general,restaurant,shopping
+509	18	USER	なるほど、わかりました。ありがとうございました。	general,restaurant,shopping

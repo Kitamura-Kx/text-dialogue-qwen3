@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4618	0	USER	那覇への旅行を計画しています． 当日泊まる宿泊施設を探してください．地区は本庁です．Wi-Fiが無料で利用できるところにしてください．	general,hotel
+4618	1	SYSTEM	COMMUNITY&SPA那覇セントラルホテルはいかがでしょうか。	general,hotel
+4618	2	USER	そちらの近辺の駅からの所要時間を教えていただけますか。	general,hotel
+4618	3	SYSTEM	近辺の駅からの所要時間は美栄橋駅から徒歩で5分です。	general,hotel
+4618	4	USER	ありがとうございます。	general,hotel

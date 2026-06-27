@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2782	0	USER	名古屋へ行くのですが観光名所を探しています。	general,attraction,restaurant
+2782	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,restaurant
+2782	2	USER	中川区で、Wi-Fiが無料のところがいいです。	general,attraction,restaurant
+2782	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,restaurant
+2782	4	USER	じゃ中川区でなくてもいいです。	general,attraction,restaurant
+2782	5	SYSTEM	では、エリアでいうと千種区にある、名古屋市東山動植物園はいかがでしょう？ジャンルは、動物園、植物園となります。	general,attraction,restaurant
+2782	6	USER	いいですね。近辺の駅からの所要時間と電話番号を教えてください。	general,attraction,restaurant
+2782	7	SYSTEM	はい、電話番号は0527822111、最寄りの東山公園駅から徒歩で3分、近辺の星ヶ丘駅から徒歩で7分となります。	general,attraction,restaurant
+2782	8	USER	あとカレーが食べれる飲食店を探しています。	general,attraction,restaurant
+2782	9	SYSTEM	では、エリアでいうと中区にある、ヨコイ 住吉本店はいかがでしょう？	general,attraction,restaurant
+2782	10	USER	駐車場が無料のところがいいのですが、そこはどうですか？	general,attraction,restaurant
+2782	11	SYSTEM	申し訳ありません、ヨコイ 住吉本店は適さないようです。代わりに、エリアでいうと西区にある、ビストロコバはいかがでしょう？駐車場は無料でご利用いただけます。	general,attraction,restaurant
+2782	12	USER	そこ、いいですね。営業時間を教えてください。	general,attraction,restaurant
+2782	13	SYSTEM	はい、営業時間は11時30分から14時30分と、18時から23時となります。	general,attraction,restaurant
+2782	14	USER	助かりました。ありがとうございました。	general,attraction,restaurant
+2782	15	SYSTEM	他にご用件はございますか？	general,attraction,restaurant
+2782	16	USER	特にないです。	general,attraction,restaurant
+2782	17	SYSTEM	ありがとうございました。	general,attraction,restaurant

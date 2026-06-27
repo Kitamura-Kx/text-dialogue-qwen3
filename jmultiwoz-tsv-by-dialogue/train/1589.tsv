@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1589	0	USER	札幌への旅行を計画していまして、どこか良い観光名所がないか探しています。	general,attraction
+1589	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,attraction
+1589	2	USER	新道東駅の近くで、神社・寺院・教会・モニュメントなどありますか？	general,attraction
+1589	3	SYSTEM	はい、1件ございます。モエレ沼公園というところになりますが、いかがでしょうか？	general,attraction
+1589	4	USER	見つかってよかったです、そちらの住所と大人入場料を教えていただけますか？	general,attraction
+1589	5	SYSTEM	住所は、北海道札幌市東区モエレ沼公園1-1です。大人入場料、子供入場料ともに0円で、無料となっております。	general,attraction
+1589	6	USER	素晴らしいですね、教えていただきありがとうございました。また何かありましたら連絡させていただきますね。	general,attraction
+1589	7	SYSTEM	こちらこそ、ご利用ありがとうございました。もしご質問がないようでしたら、これで失礼します。	general,attraction

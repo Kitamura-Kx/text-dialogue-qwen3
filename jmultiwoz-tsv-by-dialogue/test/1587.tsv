@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1587	0	USER	京都への旅行を計画しているのですが、東山区で予算が普通のお店を探しています。できれば鍋が食べたいのですが、条件に合うお店はありますでしょうか？	general,restaurant,weather
+1587	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,weather
+1587	2	USER	残念です、では鍋以外だとどこかありますか？	general,restaurant,weather
+1587	3	SYSTEM	はい、5件ほどご案内可能です。例えば、祇園ビストロ 丸橋という、洋食・西洋料理ジャンルのお店はいかがでしょうか？	general,restaurant,weather
+1587	4	USER	洋食いいですね、そこの最寄駅からの所要時間と駐車場の有無を聞いてもよろしいでしょうか？	general,restaurant,weather
+1587	5	SYSTEM	最寄りの祇園四条駅から徒歩で1分の場所にございます。駐車場の有無は、申し訳ありません、不明となっております。	general,restaurant,weather
+1587	6	USER	承知しました、あとは左京区の6/11当日の天気はどうなっていますか？	general,restaurant,weather
+1587	7	SYSTEM	当日の天気は、晴れの予報です。最低気温は19度、最高気温は25.3度の予想となっております。	general,restaurant,weather
+1587	8	USER	ありがとうございます、これで旅行の計画を立ててみます。ありがとうございました！	general,restaurant,weather
+1587	9	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,restaurant,weather

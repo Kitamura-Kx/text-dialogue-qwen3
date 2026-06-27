@@ -1,0 +1,39 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3060	0	USER	仙台への旅行を検討しています。当日宿泊できるシティホテルを探しているのですが、色々お伺いしてもよろしいでしょうか？	general,hotel,shopping,restaurant
+3060	1	SYSTEM	ご希望をどうぞ	general,hotel,shopping,restaurant
+3060	2	USER	はい。レストランが併設されていて、駐車場を無料で利用出来れば最高なのですが、該当はありますか？	general,hotel,shopping,restaurant
+3060	3	SYSTEM	仙台だとレストラン併設かつ駐車場無料の宿泊施設は２０件ほどありますね。	general,hotel,shopping,restaurant
+3060	4	USER	その中でシティホテルはありますか？	general,hotel,shopping,restaurant
+3060	5	SYSTEM	はい、シティホテルで駐車場無料、レストラン併設となると、ずばり、ホテル白萩、こちら一択になります。	general,hotel,shopping,restaurant
+3060	6	USER	そこで検討してみます。この施設の住所ってわかりますか？	general,hotel,shopping,restaurant
+3060	7	SYSTEM	宮城県仙台市青葉区錦町2丁目2-19です。	general,hotel,shopping,restaurant
+3060	8	USER	ありがとうございます。ついでに、最寄り駅とエリアも教えて下さい。	general,hotel,shopping,restaurant
+3060	9	SYSTEM	最寄り駅は仙台駅、青葉区になります。	general,hotel,shopping,restaurant
+3060	10	USER	ありがとうございます。このまま、このホテルを予約したいのですが、よろしいでしょうか？	general,hotel,shopping,restaurant
+3060	11	SYSTEM	はい、人数と日付、宿泊日数予定をお願いします。	general,hotel,shopping,restaurant
+3060	12	USER	はい。人数は4人で日付は3月7日、宿泊日数は4泊でお願いします。	general,hotel,shopping,restaurant
+3060	13	SYSTEM	この条件だと予約に失敗してしまいました。少し変更していただけると予約可能になるかもしれません。	general,hotel,shopping,restaurant
+3060	14	USER	そうですか。でしたら、泊数を3泊に変更してみたら大丈夫でしょうか？	general,hotel,shopping,restaurant
+3060	15	SYSTEM	ホテル白萩、3/7 4人3泊で予約成功しました。予約番号は82406です。	general,hotel,shopping,restaurant
+3060	16	USER	ありがとうございます。それと、当日、宮城野区で買い物が出来る施設を探しているのですが、お伺いしてもよろしいでしょうか？	general,hotel,shopping,restaurant
+3060	17	SYSTEM	はい、他にご希望はありますか？	general,hotel,shopping,restaurant
+3060	18	USER	そうですね、駐車場を無料で利用出来れば最高なのですが。	general,hotel,shopping,restaurant
+3060	19	SYSTEM	宮城野区で駐車場無料の買い物施設といえばいくつかありますが、JA仙台農産物直売所 たなばたけ 高砂店、こちらがオススメです。	general,hotel,shopping,restaurant
+3060	20	USER	そこが良さそうですね。この施設の営業時間を教えて頂けますか？	general,hotel,shopping,restaurant
+3060	21	SYSTEM	朝１０時から、夜１８時までです。	general,hotel,shopping,restaurant
+3060	22	USER	ありがとうございます。最後に、宮城野区で当日利用出来る飲食店も探して頂きたいのですが、よろしいでしょうか？	general,hotel,shopping,restaurant
+3060	23	SYSTEM	仙台宮城野区の飲食店は２７件ほどありますね、追加の希望はありますか	general,hotel,shopping,restaurant
+3060	24	USER	はい、予算が安めのお店を探して頂けますか？	general,hotel,shopping,restaurant
+3060	25	SYSTEM	いくつか候補があるのですが、仙台らしい料理を比較的安価に楽しめるといえば、梵天食堂 中野栄店、こちらがオススメです。	general,hotel,shopping,restaurant
+3060	26	USER	そこが良さそうですね。このお店の近辺の駅からの所要時間ってわかりますか？	general,hotel,shopping,restaurant
+3060	27	SYSTEM	中野栄駅から徒歩で2分です。	general,hotel,shopping,restaurant
+3060	28	USER	ありがとうございます。住所も聞いて良いですか？	general,hotel,shopping,restaurant
+3060	29	SYSTEM	宮城県仙台市宮城野区出花2丁目4-1になります。	general,hotel,shopping,restaurant
+3060	30	USER	あ、それと、このお店にWi-Fiってありますか？	general,hotel,shopping,restaurant
+3060	31	SYSTEM	WiFiは不明ですね。	general,hotel,shopping,restaurant
+3060	32	USER	そうですか。ありがとうございます。このお店を予約したいのですが、よろしいでしょうか？	general,hotel,shopping,restaurant
+3060	33	SYSTEM	人数と日付時刻をお願いします	general,hotel,shopping,restaurant
+3060	34	USER	はい、人数は3人で3月7日の14:50でお願いします。	general,hotel,shopping,restaurant
+3060	35	SYSTEM	3人で3月7日、14:50で予約しました。予約番号は17926です。	general,hotel,shopping,restaurant
+3060	36	USER	ありがとうございます。これで当日は大丈夫そうです。長々となってしまいましたが、ご対応、ありがとうございました。	general,hotel,shopping,restaurant
+3060	37	SYSTEM	よい旅を	general,hotel,shopping,restaurant

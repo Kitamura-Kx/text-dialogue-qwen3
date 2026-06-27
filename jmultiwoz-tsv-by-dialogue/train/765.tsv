@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+765	0	USER	大阪へ旅行予定なのですが、観光名所を調べてください。	general,attraction
+765	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction
+765	2	USER	ジャンルは展望台・タワーで、北区でWi-Fiが無料で利用できるところがいいです。	general,attraction
+765	3	SYSTEM	そうしますと、1件ご案内可能です。梅田スカイビル空中庭園展望台というところですが、いかがでしょうか？	general,attraction
+765	4	USER	そこにします。近辺の駅からの所要時間と住所、あと最寄り駅を教えてください。	general,attraction
+765	5	SYSTEM	かしこまりました。最寄り駅は大阪駅です。大阪駅から徒歩で7分、大阪梅田駅から徒歩で9分、梅田駅から徒歩で9分となっております。住所は、大阪府大阪市北区大淀中1丁目1-88 梅田スカイビルでございます。	general,attraction
+765	6	USER	わかりました。ありがとうございます。	general,attraction
+765	7	SYSTEM	他にお知りになりたい情報など、ございませんか？	general,attraction
+765	8	USER	いえ、大丈夫です。	general,attraction
+765	9	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,attraction

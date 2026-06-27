@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1220	0	USER	京都への旅行を計画しています．	general,hotel
+1220	1	SYSTEM	はい。お問合せありがとうございます。	general,hotel
+1220	2	USER	当日泊まる宿泊施設を探してください．予算は高めが希望で最寄り駅が東寺駅のところがいいです。	general,hotel
+1220	3	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,hotel
+1220	4	USER	でしたら最寄駅は考慮しなくていいです。	general,hotel
+1220	5	SYSTEM	KAGUYAはいかがでしょうか。	general,hotel
+1220	6	USER	いいですね。レストランの有無はどうでしょうか。	general,hotel
+1220	7	SYSTEM	レストランの有無は無しになっています。	general,hotel
+1220	8	USER	ありがとうございます。	general,hotel

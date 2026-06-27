@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2754	0	USER	京都へ旅行に行きたく、当日行く飲食店を探してほしいです。希望としては、中華料理で予算は安め希望です。あと無料のWi-Fiが利用できるところがいいです。	general,restaurant,hotel,attraction
+2754	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,hotel,attraction
+2754	2	USER	それではWi-Fiの有無は考慮しません。	general,restaurant,hotel,attraction
+2754	3	SYSTEM	ありがとうございます。では、エリアでいうと下京区にある、楽仙樓はいかがでしょう？	general,restaurant,hotel,attraction
+2754	4	USER	そちらの料金情報と最寄駅からの所要時間、あと電話番号も知りたいです。	general,restaurant,hotel,attraction
+2754	5	SYSTEM	はい、電話番号は0753514900、最寄りの四条駅から徒歩で1分となります。料金情報としては、5個入の水餃子が495円、和牛肉の柔らか煮が2970円、酢豚が1320円、となっております。	general,restaurant,hotel,attraction
+2754	6	USER	それでは予約をお願いします。人数は4名、日時は1/10で13:40でお願いします。	general,restaurant,hotel,attraction
+2754	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、30976となります。	general,restaurant,hotel,attraction
+2754	8	USER	ありがとうございます。次に宿泊施設を探してほしいです。エリアは南区、レストランが併設されているところでお願いします。	general,restaurant,hotel,attraction
+2754	9	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,hotel,attraction
+2754	10	USER	それではエリアは条件に入れません。	general,restaurant,hotel,attraction
+2754	11	SYSTEM	ありがとうございます。では、エリアでいうと下京区にある、湯の宿 松栄はいかがでしょう？タイプは旅館となります。	general,restaurant,hotel,attraction
+2754	12	USER	ありがとうございます。そちらの最寄駅からの所要時間を教えてください。	general,restaurant,hotel,attraction
+2754	13	SYSTEM	はい、最寄りの京都駅からタクシーで10分となります。	general,restaurant,hotel,attraction
+2754	14	USER	承知しました。最後に下京区で観光名所を探してほしいです。できれば無料の駐車場があるところを希望します。	general,restaurant,hotel,attraction
+2754	15	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,hotel,attraction
+2754	16	USER	それでは駐車場は考慮しません。	general,restaurant,hotel,attraction
+2754	17	SYSTEM	ありがとうございます。では、京都タワーはいかがでしょう？ジャンルは、展望台、タワー、となります。	general,restaurant,hotel,attraction
+2754	18	USER	そこの定休日と最寄駅からの所要時間を教えてください。	general,restaurant,hotel,attraction
+2754	19	SYSTEM	はい、最寄りの京都駅から徒歩で2分となります。定休日はございません。	general,restaurant,hotel,attraction
+2754	20	USER	ありがとうございます。こちらからは以上です。	general,restaurant,hotel,attraction
+2754	21	SYSTEM	ありがとうございました。	general,restaurant,hotel,attraction

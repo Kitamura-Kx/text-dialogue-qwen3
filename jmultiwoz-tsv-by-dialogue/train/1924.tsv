@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1924	0	USER	福岡で駐車場が無料の買い物できるところはありますか。	general,shopping,restaurant
+1924	1	SYSTEM	はい、28件ほどご案内可能です。例えば、博多リバレインというお店が博多区にございますが、いかがでしょうか？	general,shopping,restaurant
+1924	2	USER	西鉄福岡(天神)駅が最寄りのところが嬉しいのですが、どうでしょうか？	general,shopping,restaurant
+1924	3	SYSTEM	そういたしますと、天神地下街という商店街がご案内可能です。いかがでしょうか？	general,shopping,restaurant
+1924	4	USER	そこにします。駅からの所要時間とエリア、定休日が知りたいです。	general,shopping,restaurant
+1924	5	SYSTEM	西鉄福岡(天神)駅から徒歩で1分、天神駅から徒歩で1分、天神南駅から徒歩で1分の距離にございます。また1/1が、定休日となっております。	general,shopping,restaurant
+1924	6	USER	ありがとうございます。エリアで言うと何になりますか？	general,shopping,restaurant
+1924	7	SYSTEM	中央区エリアとなります。	general,shopping,restaurant
+1924	8	USER	ありがとうございます。ではその中央区でイタリアン・フレンチのお店はありますか？	general,shopping,restaurant
+1924	9	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,shopping,restaurant
+1924	10	USER	お好み焼き・たこ焼きだとどうでしょうか？	general,shopping,restaurant
+1924	11	SYSTEM	ほっこり家というお店が、1件ございます。	general,shopping,restaurant
+1924	12	USER	そこの住所が知りたいです。	general,shopping,restaurant
+1924	13	SYSTEM	福岡県福岡市中央区薬院1丁目14-18 信興ビル 1Fです。	general,shopping,restaurant
+1924	14	USER	予約できますか？	general,shopping,restaurant
+1924	15	SYSTEM	はい、承ります。ご利用予定の日付と時刻、人数をお願いできますでしょうか？	general,shopping,restaurant
+1924	16	USER	3/6の14:20に3人でお願いしたいです。	general,shopping,restaurant
+1924	17	SYSTEM	大変申し訳ございません。ご希望の内容では予約を入れることができませんでした。いかがいたしましょうか？	general,shopping,restaurant
+1924	18	USER	それなら2人で予約します。	general,shopping,restaurant
+1924	19	SYSTEM	ありがとうございます。2名様にてご予約完了いたしました。予約番号は、64925です。	general,shopping,restaurant
+1924	20	USER	ありがとうございます。質問は以上です。	general,shopping,restaurant
+1924	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,restaurant

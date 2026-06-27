@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1088	0	USER	こんにちは、仙台で泊まる所を探してもらえますか？	general,hotel
+1088	1	SYSTEM	佐藤屋旅館は、いかがでしょうか？	general,hotel
+1088	2	USER	佐藤屋旅館はどこでしたか、若林区でレストランのある宿泊先を探しています。	general,hotel
+1088	3	SYSTEM	エリアは、太白区になります。こちらは、レストランは併設されておりません。　レストラン併設で検索しなおしますか？	general,hotel
+1088	4	USER	はい。若林区でレストラン併設されている、ベッドハウスやカプセルホテルが良いです。	general,hotel
+1088	5	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,hotel
+1088	6	USER	それでは、どのタイプの宿でもいいので、若林区でレストラン併設されている所を案内してもらえますか？	general,hotel
+1088	7	SYSTEM	ANAホリデイ・イン仙台は、いかがでしょうか？	general,hotel
+1088	8	USER	ありがとうございます。ANAホリデイ・イン仙台は一泊いくら程度でしょうか？住所も教えてください。	general,hotel
+1088	9	SYSTEM	値段帯は、安めとなっています。詳しい料金情報は記載がありません。　住所は、宮城県仙台市若林区新寺1丁目4-1です。	general,hotel
+1088	10	USER	分かりました、それでは9/3から4泊で予約を取ってください。人数は2人です。	general,hotel
+1088	11	SYSTEM	予約出来ました。予約番号は、89634です。	general,hotel
+1088	12	USER	ありがとうございました。	general,hotel
+1088	13	SYSTEM	他にご用件はございますか？	general,hotel
+1088	14	USER	これだけで大丈夫です、お世話になりました。	general,hotel
+1088	15	SYSTEM	承知致しました。　ありがとうございました。	general,hotel

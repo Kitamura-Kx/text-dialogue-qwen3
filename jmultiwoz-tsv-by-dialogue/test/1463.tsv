@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1463	0	USER	大阪へ旅行に行くんですが、飲食店を探していただけますか？	general,restaurant,shopping,weather
+1463	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,shopping,weather
+1463	2	USER	最寄り駅が天神橋筋六丁目駅であれば大丈夫です！	general,restaurant,shopping,weather
+1463	3	SYSTEM	ではWA鶏BAR 天満店はいかがでしょうか。	general,restaurant,shopping,weather
+1463	4	USER	駐車場の有無と近辺の駅からの所要時間は分かりますか？	general,restaurant,shopping,weather
+1463	5	SYSTEM	駐車場はございません。天神橋筋六丁目駅から徒歩で2分、天満駅から徒歩で4分でございます。	general,restaurant,shopping,weather
+1463	6	USER	ありがとうございます。買い物ができるところも探してほしいです！駐車場無料のところでお願いします。	general,restaurant,shopping,weather
+1463	7	SYSTEM	ではアカチャンホンポ あべのイトーヨーカドー店はいかがでしょうか。	general,restaurant,shopping,weather
+1463	8	USER	いいですね。そちらの電話番号と営業時間を教えてください。	general,restaurant,shopping,weather
+1463	9	SYSTEM	電話番号は0666412520でございます。営業時間は10:00～21:00でございます。	general,restaurant,shopping,weather
+1463	10	USER	ありがとうございます。1/27の中央区の天気も教えてほしいです。	general,restaurant,shopping,weather
+1463	11	SYSTEM	天気が晴のち曇、最低気温が10.6度で最高気温が14.8度でございます。	general,restaurant,shopping,weather
+1463	12	USER	ありがとうございます。助かりました！	general,restaurant,shopping,weather
+1463	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,weather

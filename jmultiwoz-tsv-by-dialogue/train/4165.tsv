@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4165	0	USER	京都へ旅行に行こうと思っています。当日買い物ができるところを探しています。地区は北区で最寄駅は北山駅でジャンルは食料品が希望です。	general,shopping,taxi
+4165	1	SYSTEM	そうしましたら、Malebranche 北山本店というところが、1件ご案内可能です。いかがでしょうか？	general,shopping,taxi
+4165	2	USER	そこが良さそうですね。あと当日利用できるタクシー会社を探しています。ジャンボタクシーが利用できるところが良いです。	general,shopping,taxi
+4165	3	SYSTEM	では、京都相互タクシー株式会社はいかがでしょうか？こちらでしたら、キャッシュレスのお支払いも利用可能ですよ。	general,shopping,taxi
+4165	4	USER	そこの電話番号を教えてください。	general,shopping,taxi
+4165	5	SYSTEM	はい、電話番号は、0758623000です。	general,shopping,taxi
+4165	6	USER	そこのタクシー会社に予約したいので日付は10/13で時間は09:40出発地はMalebranche 北山本店で目的地はケンゾーエステイトワイナリー 祇園店でお願いします。	general,shopping,taxi
+4165	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、81530です。	general,shopping,taxi
+4165	8	USER	分かりました。」ありがとうございます。	general,shopping,taxi
+4165	9	SYSTEM	ほかに、お知りになりたい情報などございませんか？	general,shopping,taxi
+4165	10	USER	はい、大丈夫です。	general,shopping,taxi
+4165	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,shopping,taxi

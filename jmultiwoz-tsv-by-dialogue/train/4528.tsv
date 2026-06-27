@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4528	0	USER	東京への旅行を考えているんですけど、宿泊先を探してもらえますか？	general,hotel,restaurant
+4528	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,restaurant
+4528	2	USER	レストランが併設されているリゾートホテルでが良いです。予算の希望は普通でお願いします。	general,hotel,restaurant
+4528	3	SYSTEM	では東京マリオットホテルはいかがでしょうか。	general,hotel,restaurant
+4528	4	USER	そちらのエリアとチェックアウト終了時刻はわかりますか？	general,hotel,restaurant
+4528	5	SYSTEM	エリアは品川区で、チェックアウト終了時刻は１２:００でございます。	general,hotel,restaurant
+4528	6	USER	飲食店も探してもらえますか？	general,hotel,restaurant
+4528	7	SYSTEM	かしこまりました。ご希望の条件はございませんか。	general,hotel,restaurant
+4528	8	USER	そうですね、千代田区で駐車場は無料のところが良いです。予算は高めでお願いします。	general,hotel,restaurant
+4528	9	SYSTEM	ではブラッスリー ポール・ボキューズ 大丸東京がございます。	general,hotel,restaurant
+4528	10	USER	そこにします。1/17の14:10に3名で予約をお願いできますか？	general,hotel,restaurant
+4528	11	SYSTEM	はい。予約が完了いたしました。予約番号は59706でございます。	general,hotel,restaurant
+4528	12	USER	そちらのお店の定休日と営業時間、Wi-Fiの有無を教えてもらえますか？	general,hotel,restaurant
+4528	13	SYSTEM	定休日はございません。営業時間は11:00～23:00で、Wi-Fiの有無は不明でございます。	general,hotel,restaurant
+4528	14	USER	ありがとうございます。	general,hotel,restaurant
+4528	15	SYSTEM	ほかにご用件はございませんか。	general,hotel,restaurant
+4528	16	USER	他は大丈夫です、ありがとうございました。	general,hotel,restaurant
+4528	17	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant

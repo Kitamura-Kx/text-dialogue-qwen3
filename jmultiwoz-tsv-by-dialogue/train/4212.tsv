@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4212	0	USER	大阪旅行を計画しています。福島区で買い物が出来るところはありますか？	general,shopping,restaurant,weather
+4212	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,shopping,restaurant,weather
+4212	2	USER	そうですか。では、場所は問いませんので、駐車場が無料で使えるところでありませんか？	general,shopping,restaurant,weather
+4212	3	SYSTEM	それでは、もりのみやキューズモールBASEはいかがですか？	general,shopping,restaurant,weather
+4212	4	USER	そちらの電話番号はわかりますか？	general,shopping,restaurant,weather
+4212	5	SYSTEM	電話番号は、0669411090です。	general,shopping,restaurant,weather
+4212	6	USER	食事が出来るところも探してほしいです。郷土料理のお店で普通目の予算のところはありますか？	general,shopping,restaurant,weather
+4212	7	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,restaurant,weather
+4212	8	USER	そうですか。では郷土料理であれば他は問いませんので、おすすめを教えてください。	general,shopping,restaurant,weather
+4212	9	SYSTEM	1件みつかりました。心斎橋 今井屋本店はいかがですか？	general,shopping,restaurant,weather
+4212	10	USER	そちらの料金情報を頂けますか？	general,shopping,restaurant,weather
+4212	11	SYSTEM	料金情報は、今井屋特製比内地鶏　究極の水炊き鍋、秋田名物 比内地鶏のきりたんぽ鍋それぞれ3100円となっています。	general,shopping,restaurant,weather
+4212	12	USER	よさそうなので、予約をしてください。５月１１日の１４時１０分からで、２人でお願いします。	general,shopping,restaurant,weather
+4212	13	SYSTEM	予約が完了しました。　予約番号は、466です。	general,shopping,restaurant,weather
+4212	14	USER	ところで、淀川区の５月１１日のお天気ってわかりますか？	general,shopping,restaurant,weather
+4212	15	SYSTEM	天気は、曇時々晴の予報となっています。	general,shopping,restaurant,weather
+4212	16	USER	わかりました。ありがとうございました。では、失礼いたします。	general,shopping,restaurant,weather

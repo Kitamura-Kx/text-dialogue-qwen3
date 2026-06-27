@@ -1,0 +1,4 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2060	0	USER	那覇で観光名所を調べてください。駐車場とWifiを無料で利用できる銭湯・スパはありますか？	general,attraction
+2060	1	SYSTEM	かしこまりました。では、ゆんたくあしび温泉 りっかりっか湯はいかがでしょうか？	general,attraction
+2060	2	USER	ありがとうございます！そちらにします。	general,attraction

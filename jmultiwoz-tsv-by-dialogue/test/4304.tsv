@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4304	0	USER	大阪に旅行するのでジャンボタクシーが利用できるタクシー会社を見つけてほしいです	general,taxi
+4304	1	SYSTEM	お待たせ致しました。それでは株式会社未来都はいかがでしょうか？	general,taxi
+4304	2	USER	キャッシュレス対応していますか？	general,taxi
+4304	3	SYSTEM	はい、キャッシュレスにも対応しております。	general,taxi
+4304	4	USER	電話番号を教えてください	general,taxi
+4304	5	SYSTEM	はい、0669060088でございます。	general,taxi
+4304	6	USER	では9/23の12:40に鉄板工房 Panyo 道頓堀から牛歩まで予約をお願いします！	general,taxi
+4304	7	SYSTEM	お待たせ致しました。予約番号47666でお取りさせていただきました。	general,taxi
+4304	8	USER	了解です。ありがとうございました	general,taxi
+4304	9	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi

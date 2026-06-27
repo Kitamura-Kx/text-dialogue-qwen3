@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4412	0	USER	大阪へ旅行予定なのですが、安めでWi-Fiが無料で使える飲食店はありませんか？	general,restaurant,hotel,taxi
+4412	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant,hotel,taxi
+4412	2	USER	では普通くらいの値段でも大丈夫です。	general,restaurant,hotel,taxi
+4412	3	SYSTEM	お待たせ致しました。それでは沖縄ん家 てりとりーはいかがでしょうか？	general,restaurant,hotel,taxi
+4412	4	USER	沖縄料理ですか、いいですね。あと、安めでレストランが併設されている宿泊施設も探してもらえますか？	general,restaurant,hotel,taxi
+4412	5	SYSTEM	かしこまりました。それではホテルプラザオーサカはいかがでしょうか？	general,restaurant,hotel,taxi
+4412	6	USER	そこにします。3人で12/11から4泊の予約をとれますかね。	general,restaurant,hotel,taxi
+4412	7	SYSTEM	お待たせ致しました。予約番号6782でお取りさせていただきました。	general,restaurant,hotel,taxi
+4412	8	USER	ありがとうございます。あと、キャッシュレス払いができるタクシー会社も探してください。	general,restaurant,hotel,taxi
+4412	9	SYSTEM	かしこまりました。それでは日本タクシー株式会社はいかがでしょうか？	general,restaurant,hotel,taxi
+4412	10	USER	そちらはジャンボタクシーも使えますか？あと、電話番号を知りたいです。	general,restaurant,hotel,taxi
+4412	11	SYSTEM	はい、ジャンボタクシーにも対応しております。電話番号は0669285151でございます。	general,restaurant,hotel,taxi
+4412	12	USER	ありがとうございます。12/11の11:40から沖縄ん家 てりとりー出発して、目的地がホテルプラザオーサカで予約をお願いします。	general,restaurant,hotel,taxi
+4412	13	SYSTEM	お待たせ致しました。予約番号22281でお取りさせていただきました。	general,restaurant,hotel,taxi
+4412	14	USER	ありがとうございました。	general,restaurant,hotel,taxi
+4412	15	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,hotel,taxi

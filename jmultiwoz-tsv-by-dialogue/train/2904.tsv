@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2904	0	USER	今度、福岡の大濠公園駅の近くで食事をしたいのですが、良いお店ありますか？	general,restaurant
+2904	1	SYSTEM	大濠公園駅近くの飲食店といえば、七輪焼肉ふくの牛 大濠店、こちら一択です。	general,restaurant
+2904	2	USER	安めの所が良いんですが、大丈夫ですかね？	general,restaurant
+2904	3	SYSTEM	こちらの店は値段帯普通、大濠公園駅で安めでヒットするところはなさそうです。	general,restaurant
+2904	4	USER	そうですか。では、最初に教えて頂いた所で大丈夫です。そちらはどんなジャンルのお店ですか？料金情報も教えて下さい。	general,restaurant
+2904	5	SYSTEM	焼肉・ホルモンになります。ふくの牛コース4400円、ふくの牛コース3300円、伊万里牛上カルビ1400円、こんな感じですね。	general,restaurant
+2904	6	USER	Wi-Fiはありますか？	general,restaurant
+2904	7	SYSTEM	WiFiは不明です。	general,restaurant
+2904	8	USER	分かりました。助かりました。それでは失礼します。	general,restaurant

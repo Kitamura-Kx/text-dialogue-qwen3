@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2303	0	USER	札幌へ旅行に行きたく、宿泊施設を探しています。条件としてエリアは厚別区、レストランが併設されていて、無料のWi-Fiが利用できるところがいいです。	general,hotel
+2303	1	SYSTEM	そうしますと、ホテルエミシア札幌というシティホテルはいかがでしょうか？場所は、新札幌駅から徒歩で3分、新さっぽろ駅から徒歩で1分にございます。	general,hotel
+2303	2	USER	こちらのタイプとチェックイン開始時刻を教えてください。	general,hotel
+2303	3	SYSTEM	タイプはシティホテルです。チェックイン開始は１５時からとなっております。	general,hotel
+2303	4	USER	ありがとうございます。ご依頼は以上です。	general,hotel
+2303	5	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

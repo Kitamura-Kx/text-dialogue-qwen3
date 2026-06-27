@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4825	0	USER	大阪へ旅行に行くので、タクシー会社を探してください。	general,taxi
+4825	1	SYSTEM	はい。何か希望はありますか。	general,taxi
+4825	2	USER	ジャンボタクシー、キャッシュレス払いどちらも利用できるところにしてください。	general,taxi
+4825	3	SYSTEM	両方対応しているところで、株式会社国際興業大阪をおすすめします。	general,taxi
+4825	4	USER	株式会社国際興業大阪の電話番号を教えてください。	general,taxi
+4825	5	SYSTEM	0570035931です。	general,taxi
+4825	6	USER	それでは2/26の13:00乗車、出発地はラ・ジェント・ホテル大阪ベイ、目的地はアンピールホテル大阪で予約をお願いします。	general,taxi
+4825	7	SYSTEM	予約成功しました。予約番号は63982です。	general,taxi
+4825	8	USER	ありがとうございました。以上です。	general,taxi

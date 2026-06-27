@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+280	0	USER	東京への旅行を計画しており、目黒区で買い物したいと思っています。	general,shopping,weather
+280	1	SYSTEM	3件ほどございます。SHIRO 自由が丘店などは、いかがでしょうか？	general,shopping,weather
+280	2	USER	駐車場が無料で利用できて家電・電化製品を購入したいのですが、そこは該当しておりますか？	general,shopping,weather
+280	3	SYSTEM	申し訳ございません。その条件ですと、該当する施設がありませんでした。	general,shopping,weather
+280	4	USER	では世田谷区でもいいので、駐車場が無料で利用できて家電・電化製品を購入できるお店はありますか？	general,shopping,weather
+280	5	SYSTEM	1件ございました。二子玉川 蔦屋家電というお店はいかがでしょうか？	general,shopping,weather
+280	6	USER	そこにしようと思います。近辺の駅からの所要時間を教えてください。	general,shopping,weather
+280	7	SYSTEM	二子玉川駅から徒歩で4分でアクセスできます。	general,shopping,weather
+280	8	USER	ありがとうございます。あと3/30の豊島区の天気も調べてもらえますか？	general,shopping,weather
+280	9	SYSTEM	かしこまりました。3/30の豊島区の天気は、晴れのち曇りの予報です。	general,shopping,weather
+280	10	USER	ありがとうございます。	general,shopping,weather
+280	11	SYSTEM	他にご用件はございますか？	general,shopping,weather
+280	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,weather
+280	13	SYSTEM	ご利用ありがとうございました。	general,shopping,weather

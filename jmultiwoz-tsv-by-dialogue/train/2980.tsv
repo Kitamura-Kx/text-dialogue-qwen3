@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2980	0	USER	仙台へ旅行に行きます。休めでWi-Fiが無料で利用出来てレストランがついてる宿泊施設はありますかね？	general,hotel
+2980	1	SYSTEM	仙台で価格安め、WiFi無料、レストラン併設の宿泊施設は４５件ありますが、ホテルJALシティ仙台をおすすめします。	general,hotel
+2980	2	USER	エリアと最寄り駅を教えてください	general,hotel
+2980	3	SYSTEM	青葉区で、最寄りは仙台駅です。	general,hotel
+2980	4	USER	了解です！ありがとうございました	general,hotel
+2980	5	SYSTEM	よい旅を	general,hotel

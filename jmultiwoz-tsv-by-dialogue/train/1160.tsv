@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1160	0	USER	札幌に行くのですが、駐車場が無料である買い物できる場所はありますか？	general,shopping,taxi
+1160	1	SYSTEM	かしこまりました。では、サンピアザ・デュオはいかがですか。	general,shopping,taxi
+1160	2	USER	行ってみたいです。住所はわかりますか？	general,shopping,taxi
+1160	3	SYSTEM	住所は北海道札幌市厚別区厚別中央二条5丁目7でございます。	general,shopping,taxi
+1160	4	USER	ありがとうございます。タクシーも予約したいのですが、ジャンボタクシーを利用できるところはありますか？	general,shopping,taxi
+1160	5	SYSTEM	では北都交通(株)がございます。キャッシュレスにも対応しております。	general,shopping,taxi
+1160	6	USER	ありがとうございます。電話番号も教えて頂けますか？	general,shopping,taxi
+1160	7	SYSTEM	電話番号は0112904181でございます。	general,shopping,taxi
+1160	8	USER	1/4 12:50 に、サンピアザ・デュオから出発、目的地はteatro di massaで予約をお願いします。	general,shopping,taxi
+1160	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は97313でございます。	general,shopping,taxi
+1160	10	USER	今回のお願いは以上です。ありがとうございました。	general,shopping,taxi
+1160	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+435	0	USER	那覇へ行こうと思っています。WiFiと駐車場が無料で利用できて、最寄り駅がおもろまち駅の観光名所を探していただきたいです。	general,attraction,restaurant
+435	1	SYSTEM	かしこまりました。では沖縄県立博物館・美術館はいかがですか。	general,attraction,restaurant
+435	2	USER	そちらの電話番号、大人入場料、営業時間を教えていただけますでしょうか。	general,attraction,restaurant
+435	3	SYSTEM	電話番号は0989418200で、大人入場料は530円でございます。営業時間は09:00～20:00でございます。	general,attraction,restaurant
+435	4	USER	わかりました。ありがとうございます。	general,attraction,restaurant
+435	5	SYSTEM	ほかにご用件はございませんか。	general,attraction,restaurant
+435	6	USER	WiFiが無料で利用できてうどん・そばが食べられる飲食店を探していただきたいです。	general,attraction,restaurant
+435	7	SYSTEM	申し訳ございません。その条件に当てはまるところがございませんでした。いかがなさいますか。	general,attraction,restaurant
+435	8	USER	ではWiFiは考慮せずうどん・そばが食べられる飲食店を探していただけますか？	general,attraction,restaurant
+435	9	SYSTEM	では、どん亭 牧志店はいかがですか。	general,attraction,restaurant
+435	10	USER	そちらの定休日と、料金情報を教えていただけますでしょうか。	general,attraction,restaurant
+435	11	SYSTEM	定休日は不定休でございます。料金情報は例えば牛丼が390円、沖縄そばが580円、カレーライスが390円でございます。	general,attraction,restaurant
+435	12	USER	わかりました。ありがとうございます。	general,attraction,restaurant
+435	13	SYSTEM	ほかにご用件はございませんか。	general,attraction,restaurant
+435	14	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,restaurant
+435	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant

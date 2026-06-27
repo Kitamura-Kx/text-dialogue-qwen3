@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1061	0	USER	買い物をしに仙台まで行きたいと思っています。	general,shopping,taxi
+1061	1	SYSTEM	仙台でお買い物ですね。お店のジャンルやエリアなど、何かご希望はございますか？	general,shopping,taxi
+1061	2	USER	太白区で食品のお買い物に行きたいです。駐車場も無料の所が良いですね。	general,shopping,taxi
+1061	3	SYSTEM	食料品のジャンルのお店ですと、IKEA 仙台というところが1件ご案内可能です。いかがでしょうか？	general,shopping,taxi
+1061	4	USER	ありがとうございます。IKEA 仙台は最寄りの駅からだとどれくらいかかりますか？	general,shopping,taxi
+1061	5	SYSTEM	最寄りの長町駅から徒歩3分ほどかかります。	general,shopping,taxi
+1061	6	USER	ちなみに、定休日はいつでしょうか？	general,shopping,taxi
+1061	7	SYSTEM	こちらのお店は、定休日はございません。	general,shopping,taxi
+1061	8	USER	分かりました。当日タクシーもお願いしたいので、ジャンボタクシーのある会社を探してもらえますか？	general,shopping,taxi
+1061	9	SYSTEM	かしこまりました。では、平和交通（株）はいかがでしょうか？	general,shopping,taxi
+1061	10	USER	はい、12/13で予約もお願いしたいです。	general,shopping,taxi
+1061	11	SYSTEM	かしこまりました。ご利用予定の出発時刻、出発地、目的地はお決まりでしょうか？	general,shopping,taxi
+1061	12	USER	12:30にアルモントホテル仙台から乗車して、IKEA 仙台まででお願いします。	general,shopping,taxi
+1061	13	SYSTEM	かしこまりました。ご予約番号41599にて、承りました。	general,shopping,taxi
+1061	14	USER	ありがとうございます、平和交通（株）の電話番号も分かりますか？	general,shopping,taxi
+1061	15	SYSTEM	はい。電話番号は、0570086000でございます。	general,shopping,taxi
+1061	16	USER	ありがとうございます、お世話になりました。	general,shopping,taxi
+1061	17	SYSTEM	他にお調べすることはございますか？	general,shopping,taxi
+1061	18	USER	以上です、ありがとうございました。	general,shopping,taxi
+1061	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,taxi

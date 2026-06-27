@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3970	0	USER	大阪への旅行を計画していて、当日の飲食店を探しています。Wi-Fi無料で予算が高めのところが希望です。	general,restaurant
+3970	1	SYSTEM	かしこまりました。それでは、バルバッコア 心斎橋店はいかがでしょうか？	general,restaurant
+3970	2	USER	ありがとうございます。そこの営業時間、住所、ジャンルは分かりますか？	general,restaurant
+3970	3	SYSTEM	はい、営業時間は11時から16時と17時から22時で、住所は大阪府大阪市中央区心斎橋筋1丁目1-10 キュープラザ心斎橋 8F、ジャンルはイタリアン・フレンチ, 洋食・西洋料理でございます。	general,restaurant
+3970	4	USER	ありがとうございます。ではそこの予約をお願いしたいのですが、3/10の14：30から、4人で予約をお願い出来ますか？	general,restaurant
+3970	5	SYSTEM	申し訳ありません。その条件では、予約をすることが出来ませんでした。	general,restaurant
+3970	6	USER	では、3人での予約に変えます。	general,restaurant
+3970	7	SYSTEM	お待たせ致しました。予約番号66907でお取りさせていただきました。	general,restaurant
+3970	8	USER	ありがとうございました。	general,restaurant
+3970	9	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1277	0	USER	仙台に行きたいのですが、泊るところを探してください。駐車場は無料で、できるだけ安いところがいいです。	general,hotel,attraction,restaurant
+1277	1	SYSTEM	では、ホテルルートイン仙台東はいかがでしょうか？若林区エリアにある、ビジネスホテルとなります。	general,hotel,attraction,restaurant
+1277	2	USER	ありがとうございます。チェックインは何時からになりますか？	general,hotel,attraction,restaurant
+1277	3	SYSTEM	15時からとなります。	general,hotel,attraction,restaurant
+1277	4	USER	わかりました。観光もしたいのですが、駐車場無料のいいところはありますか？若林区で探してください。	general,hotel,attraction,restaurant
+1277	5	SYSTEM	では、南小泉交通公園はいかがでしょうか？最寄り駅は仙台駅ですが、仙台駅からバスで19分ほどの距離にございます。	general,hotel,attraction,restaurant
+1277	6	USER	ありがとうございます。エンタメ・アミューズメント関係で探してるのですが・・。先に言わなくてごめんなさい。	general,hotel,attraction,restaurant
+1277	7	SYSTEM	はい、そういたしますと、ご案内できる場所は先ほどお伝えした南小泉交通公園のみとなります。こちらのジャンルは、自然・公園, エンタメ・アミューズメントとなっております。	general,hotel,attraction,restaurant
+1277	8	USER	すみません、映画館とか考えていたので・・。この公園にはWi-Fiってありますか？	general,hotel,attraction,restaurant
+1277	9	SYSTEM	申し訳ございません。こちらには、WiFiはございません。	general,hotel,attraction,restaurant
+1277	10	USER	そうですよね・・。あとは宮城野区にあるラーメン・つけ麺が食べられるところを探していただきたいのですが。	general,hotel,attraction,restaurant
+1277	11	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,attraction,restaurant
+1277	12	USER	それでは太白区にはありませんか。	general,hotel,attraction,restaurant
+1277	13	SYSTEM	かしこまりました。では、丸源ラーメン 仙台長町南店はいかがでしょうか？	general,hotel,attraction,restaurant
+1277	14	USER	ありがとうございます。住所を教えていただけますか。	general,hotel,attraction,restaurant
+1277	15	SYSTEM	住所は、宮城県仙台市太白区大野田4丁目1-1となります。	general,hotel,attraction,restaurant
+1277	16	USER	わかりました。ありがとうございます。	general,hotel,attraction,restaurant
+1277	17	SYSTEM	他になにかお調べすることはございますか？	general,hotel,attraction,restaurant
+1277	18	USER	ないです。ありがとうございました！	general,hotel,attraction,restaurant
+1277	19	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,hotel,attraction,restaurant

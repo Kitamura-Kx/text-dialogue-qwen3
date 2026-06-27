@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1671	0	USER	横浜へ旅行予定なのですが、神社・寺院・教会・モニュメントなどの観光名所はありますか？駐車場を無料で利用できるところ希望です。	general,attraction,weather,taxi
+1671	1	SYSTEM	かしこまりました。では弘明寺はいかがでしょうか。	general,attraction,weather,taxi
+1671	2	USER	そこきになります。料金情報と近辺の駅からの所要時間を教えてください。	general,attraction,weather,taxi
+1671	3	SYSTEM	料金情報は無料でございます。弘明寺駅から徒歩で2分になります。	general,attraction,weather,taxi
+1671	4	USER	わかりました。あと、11/25の中区の天気予報を教えてくれますか？	general,attraction,weather,taxi
+1671	5	SYSTEM	11/25の中区の天気予報は晴、最低気温は13.3度、最高気温は19.6度でございます。	general,attraction,weather,taxi
+1671	6	USER	ありがとうございます。当日タクシー利用予定なのですが、富士見交通株式会社という名前のタクシー会社はありますか？	general,attraction,weather,taxi
+1671	7	SYSTEM	ございます。何かお知りになりたい情報はございますか。	general,attraction,weather,taxi
+1671	8	USER	はい。キャッシュレスが利用できるかどうかと、ジャンボタクシーがあるか調べてほしいです。	general,attraction,weather,taxi
+1671	9	SYSTEM	キャッシュレスは対応しております。ジャンボタクシーは非対応となっております。	general,attraction,weather,taxi
+1671	10	USER	わかりました。では、11/25の15:00で、弘明寺からオッティモ・シーフード・ガーデン 横浜店までのタクシー予約をお願いできますか？	general,attraction,weather,taxi
+1671	11	SYSTEM	申し訳ございません。その条件では予約ができませんでした。	general,attraction,weather,taxi
+1671	12	USER	わかりました。なら時間を15:30に変更します。	general,attraction,weather,taxi
+1671	13	SYSTEM	予約が完了いたしました。予約番号は45288でございます。	general,attraction,weather,taxi
+1671	14	USER	ありがとうございます。もう大丈夫です。	general,attraction,weather,taxi
+1671	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather,taxi

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1398	0	USER	仙台旅行を計画しているのですが、当日お食事をする場所を一緒に探して欲しいです。	general,restaurant
+1398	1	SYSTEM	やみつきホルモン 利久 仙台GIGSは、いかがですか？	general,restaurant
+1398	2	USER	すみません、実はお願いしたい条件があるんです。Wi-Fiと駐車場が無料で使えて、安めに食べられるようなお店でお願いできますか？	general,restaurant
+1398	3	SYSTEM	それでしたら、3件ありました。　珈琲館 仙台東口店は、いかがですか？	general,restaurant
+1398	4	USER	お手間お掛けします。珈琲館 仙台東口店さんが気になります。こちらはどのエリアにあるのですか？	general,restaurant
+1398	5	SYSTEM	エリアは、宮城野区になります。	general,restaurant
+1398	6	USER	宮城野区なのですね。ちなみに最寄り駅はどちらにあたるのでしょうか。	general,restaurant
+1398	7	SYSTEM	最寄り駅は、仙台駅です。	general,restaurant
+1398	8	USER	仙台駅ですか。こちらのお店の予約をお願いできますか？9/6、12:30に3名での利用を考えています。	general,restaurant
+1398	9	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant
+1398	10	USER	そうですか。時間は13:00にしても大丈夫ですが、どうでしょう？	general,restaurant
+1398	11	SYSTEM	予約が完了しました。　予約番号は、8781です。	general,restaurant
+1398	12	USER	8781ですね。ご対応ありがとうございました。	general,restaurant

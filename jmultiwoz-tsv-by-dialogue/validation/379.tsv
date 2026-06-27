@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+379	0	USER	今度京都に行くのですが、買い物ができるところを探しています。	general,shopping,weather,taxi
+379	1	SYSTEM	承知しました。他にご希望はございますか？	general,shopping,weather,taxi
+379	2	USER	上京区で。書籍が買えるところを探しています。駐車場が無料だと助かります。	general,shopping,weather,taxi
+379	3	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,shopping,weather,taxi
+379	4	USER	では、ジャンルは書籍でなくてもいいです。	general,shopping,weather,taxi
+379	5	SYSTEM	ありがとうございます。鶴屋𠮷信 本店、山田松香木店の2件ございます。何かご案内致しましょうか？	general,shopping,weather,taxi
+379	6	USER	ありがとうございます、鶴屋𠮷信 本店に行ってみます。あと、7/11の東山区の天気を知りたいです。	general,shopping,weather,taxi
+379	7	SYSTEM	承知しました。天気は雨のち晴、最低気温21.1度、最高気温29度となります。他にご用件はございますか？	general,shopping,weather,taxi
+379	8	USER	ありがとうございます。あと、タクシーを利用したいのですが、キャッシュレス払いができるところはありますか？	general,shopping,weather,taxi
+379	9	SYSTEM	はい、では、洛東タクシー株式会社はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は0755931112となります。	general,shopping,weather,taxi
+379	10	USER	ありがとうございます。では、7/11の13:50に鶴屋𠮷信 本店から、洛西タカシマヤまで予約をお願いします。	general,shopping,weather,taxi
+379	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、60043となります。他にご案内できることはございますか？	general,shopping,weather,taxi
+379	12	USER	ありがとうございます。以上です、お世話になりました。	general,shopping,weather,taxi
+379	13	SYSTEM	ありがとうございました。	general,shopping,weather,taxi

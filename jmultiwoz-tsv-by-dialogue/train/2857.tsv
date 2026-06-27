@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2857	0	USER	那覇への旅行を計画しているので、駐車場が無料で使えて、Wi-Fiが無料で利用できる宿泊施設を探してください。	general,hotel
+2857	1	SYSTEM	那覇ですと、8件みつかりました。パシフィックホテル沖縄はいかがですか？	general,hotel
+2857	2	USER	そこにしようと思うので、チェックアウト終了時刻と最寄り駅を調べてもらえますか？	general,hotel
+2857	3	SYSTEM	チェックアウト終了時間は、10時です。　最寄り駅は、旭橋駅になります。	general,hotel
+2857	4	USER	ありがとうございます。	general,hotel
+2857	5	SYSTEM	他にご用件はございますか？	general,hotel
+2857	6	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel

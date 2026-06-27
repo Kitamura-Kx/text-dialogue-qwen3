@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3658	0	USER	京都へ旅行に行こうとい思っています。当日はコンフォートホテル京都東寺に泊まる予定です。ここの料金情報とWi-Fiの有無とレストランの有無を教えてください。	general,hotel
+3658	1	SYSTEM	お待たせ致しました。こちらの施設は値段帯は安めですが、料金情報は分かりません。Wi-Fiが無料でご利用いただけます。レストランはございません。	general,hotel
+3658	2	USER	そこのホテルに予約をしたいので人数は4人で日付は12/1で宿泊日数は3泊でお願いします。	general,hotel
+3658	3	SYSTEM	申し訳ございません。その条件では予約することが出来ませんでした。	general,hotel
+3658	4	USER	でしたら、宿泊日数を2泊に変更します。	general,hotel
+3658	5	SYSTEM	お待たせ致しました。予約番号96225でお取りさせていただきました。	general,hotel
+3658	6	USER	分かりました。ありがとうございます。	general,hotel
+3658	7	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

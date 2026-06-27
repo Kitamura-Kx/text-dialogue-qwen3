@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+532	0	USER	大阪旅行を企画しているのですが、飲食店を探してくれますか？	general,restaurant
+532	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございませんか？	general,restaurant
+532	2	USER	最寄り駅が西梅田駅で、予算は高めがいいです。	general,restaurant
+532	3	SYSTEM	そうしますと、1件ご案内可能です。BLT STEAK OSAKAという洋食・西洋料理のお店はいかがでしょうか？	general,restaurant
+532	4	USER	そこにします。定休日とWi-Fiがあるかどうか知りたいです。あと、住所も教えてください。	general,restaurant
+532	5	SYSTEM	定休日はございません。WiFiの有無につきましては、不明となっております。住所は、大阪府大阪市北区梅田2丁目5-25 ハービスPLAZA 1Fです。	general,restaurant
+532	6	USER	わかりました。ありがとうございます。	general,restaurant
+532	7	SYSTEM	他にお手伝いできることはございませんか？	general,restaurant
+532	8	USER	はい。大丈夫です。	general,restaurant
+532	9	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,restaurant

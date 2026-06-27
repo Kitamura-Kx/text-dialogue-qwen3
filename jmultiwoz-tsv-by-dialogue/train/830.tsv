@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+830	0	USER	京都に旅行したいんですけど、現地の美味しいお店を調べてください。	general,restaurant,taxi
+830	1	SYSTEM	かしこまりました。９９件ございますが、ご希望の条件はございますか。	general,restaurant,taxi
+830	2	USER	場所は中京区で、駐車場を無料で利用できるところがいいです。	general,restaurant,taxi
+830	3	SYSTEM	申し訳ございません。その条件ですと案内できるところがございません。	general,restaurant,taxi
+830	4	USER	そうです、、、では中京区以外でも構わないので、無料で駐車できるレストランを探してください。	general,restaurant,taxi
+830	5	SYSTEM	ではオールデイダイニング ラジョウはいかがでしょうか。	general,restaurant,taxi
+830	6	USER	そちらでお願いします。そのお店にWifiはありますか？	general,restaurant,taxi
+830	7	SYSTEM	Wi-Fiの有無は不明でございます。	general,restaurant,taxi
+830	8	USER	お見せの定休日はいつですか？	general,restaurant,taxi
+830	9	SYSTEM	定休日は月曜日と火曜日でございます。	general,restaurant,taxi
+830	10	USER	では11/14、2名で、14:40の予約でお願いします。	general,restaurant,taxi
+830	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は50473でございます。	general,restaurant,taxi
+830	12	USER	ありがとうございます。続いてタクシーの予約もお願いできますか？	general,restaurant,taxi
+830	13	SYSTEM	かしこまりました。帝産京都自動車株式会社でよろしいでしょうか。	general,restaurant,taxi
+830	14	USER	キャッシュレス決済ができて、ジャンボータクシーが利用できる会社がいいのですが、どうですか？	general,restaurant,taxi
+830	15	SYSTEM	はい。どちらにも対応しております。	general,restaurant,taxi
+830	16	USER	それはよかったです。タクシー会社の電話番号も教えてください。	general,restaurant,taxi
+830	17	SYSTEM	電話番号で0756611881でございます。	general,restaurant,taxi
+830	18	USER	ありがとうございます。では11/14の13:30で予約をお願いします。出発はオールデイダイニング ラジョウで、京都オルゴール堂 嵐山店に行きたいです。	general,restaurant,taxi
+830	19	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は69106でございます。	general,restaurant,taxi
+830	20	USER	ありがとうございます！	general,restaurant,taxi

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3916	0	USER	福岡への旅行を計画中で、早良区の美術館・博物館を探しています。	general,attraction
+3916	1	SYSTEM	そうしましたら、福岡市博物館はいかがでしょうか？	general,attraction
+3916	2	USER	そこにしようと思います。料金情報と子供入場料を教えてください。	general,attraction
+3916	3	SYSTEM	料金は、一般200円、高校生と大学生が150円です。お子様の入場料は0円で無料でございます。	general,attraction
+3916	4	USER	助かります。ありがとうございました。	general,attraction
+3916	5	SYSTEM	他にお調べすることなど、ございませんか？	general,attraction
+3916	6	USER	いえ、大丈夫です。ありがとうございました。	general,attraction
+3916	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

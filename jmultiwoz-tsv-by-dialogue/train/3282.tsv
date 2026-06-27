@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3282	0	USER	札幌に行くのですが、無料Wi-Fiが利用できるキャンプができる観光名所を探してもらえますか？	general,attraction
+3282	1	SYSTEM	札幌にWiFi無料でできるキャンプはありません。	general,attraction
+3282	2	USER	無料Wi-Fiの条件を外すとありますでしょうか？	general,attraction
+3282	3	SYSTEM	札幌でキャンプといえば、さっぽろばんけいスキー場、こちらです。	general,attraction
+3282	4	USER	そちらの電話番号を教えてもらえますか？	general,attraction
+3282	5	SYSTEM	0116410071です。	general,attraction
+3282	6	USER	ありがとうございました。	general,attraction
+3282	7	SYSTEM	よい旅を	general,attraction

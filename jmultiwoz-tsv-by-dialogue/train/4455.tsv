@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4455	0	USER	こんにちは。京都への旅行を考えており、京都御苑に行きたいです。最寄り駅を教えてください	general,attraction
+4455	1	SYSTEM	京都御苑ですね。最寄り駅は、丸太町駅です。徒歩で5分の距離にございます。	general,attraction
+4455	2	USER	教えていただきありがとうございました。	general,attraction
+4455	3	SYSTEM	他にお知りになりたい情報など、ございませんか？	general,attraction
+4455	4	USER	問題ございません。ありがとうございます	general,attraction
+4455	5	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

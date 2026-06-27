@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3597	0	USER	こんにちは。大阪に行くのですが、駐車場が無料なコンビニはありますか？	general,shopping,weather
+3597	1	SYSTEM	かしこまりました。では大阪シティエアターミナルはいかがですか。	general,shopping,weather
+3597	2	USER	ありがとうございます。そこの住所と電話番号も教えてください。	general,shopping,weather
+3597	3	SYSTEM	住所は大阪府大阪市浪速区湊町1丁目4-1で、電話番号が0666353000でございます。	general,shopping,weather
+3597	4	USER	ありがとうございます。住之江区の1/26の天候を調べてもらえますか？	general,shopping,weather
+3597	5	SYSTEM	天気は晴時々曇、最低気温が1.2度で最高気温が7度でございます。	general,shopping,weather
+3597	6	USER	ありがとうございます。	general,shopping,weather
+3597	7	SYSTEM	ほかにご用件はございませんか。	general,shopping,weather
+3597	8	USER	いえ、大丈夫です。案内ありがとうございました。	general,shopping,weather
+3597	9	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

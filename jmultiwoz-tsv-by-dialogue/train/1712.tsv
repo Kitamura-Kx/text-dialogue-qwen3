@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1712	0	USER	京都へ旅行予定なのですがお土産を買える店はありますか？駐車場を無料で利用できるところがいいです。	general,shopping
+1712	1	SYSTEM	かしこまりました。では京扇堂はいかがでしょうか。	general,shopping
+1712	2	USER	そこにします。エリアを教えてください。	general,shopping
+1712	3	SYSTEM	エリアは下京区でございます。	general,shopping
+1712	4	USER	わかりました。もう大丈夫です。ありがとうございます。	general,shopping
+1712	5	SYSTEM	承知しました。ありがとうございました。	general,shopping

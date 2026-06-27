@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3305	0	USER	那覇へ行くのですが、Wi-Fiと駐車場が無料で使える、本庁の観光名所はありますか？	general,attraction,restaurant
+3305	1	SYSTEM	本庁でWiFiと駐車場無料の観光スポットはいくつかありますが、沖縄県立博物館・美術館、こちらをおすすめします。	general,attraction,restaurant
+3305	2	USER	いいですね。そこの近辺の駅からの所要時間と、料金情報を教えてください。	general,attraction,restaurant
+3305	3	SYSTEM	おもろまち駅から徒歩で10分、一般人530円、高大学生270円、県外小中生150円です。	general,attraction,restaurant
+3305	4	USER	ありがとうございます。駐車場が無料で使えて、予算が普通、地区が首里の、飲食店を探しています。	general,attraction,restaurant
+3305	5	SYSTEM	首里で普通価格帯、駐車場無料の飲食店は、りゅうそう茶屋、こちらになります。	general,attraction,restaurant
+3305	6	USER	そこに行ってみようかな。Wi-Fiの有無と、ジャンルも教えてください。	general,attraction,restaurant
+3305	7	SYSTEM	WiFiは不明、ジャンルは郷土料理, カフェ・スイーツになります。	general,attraction,restaurant
+3305	8	USER	ありがとうございます。ではそのお店で、人数は2人、日付は9/7、時間は10:30で、予約をお願いします。	general,attraction,restaurant
+3305	9	SYSTEM	予約成功しました。予約番号は44657です。	general,attraction,restaurant
+3305	10	USER	ありがとうございました。	general,attraction,restaurant
+3305	11	SYSTEM	よい旅を。	general,attraction,restaurant

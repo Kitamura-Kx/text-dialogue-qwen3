@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+787	0	USER	福岡で買い物ができるところを探しています。	general,shopping,attraction
+787	1	SYSTEM	福岡のお買い物施設ですね。エリアなど、ご希望の条件はございますか？	general,shopping,attraction
+787	2	USER	最寄り駅が九大学研都市駅で駐車場を無料で利用できるところが希望です。	general,shopping,attraction
+787	3	SYSTEM	かしこまりました。そうしますと、モーリーファンタジー 福岡伊都店というお店が1件ご案内可能です。いかがでしょうか？	general,shopping,attraction
+787	4	USER	エリアはどこになりますか？	general,shopping,attraction
+787	5	SYSTEM	エリアは、西区となっております。	general,shopping,attraction
+787	6	USER	そのほか、観光名所も探してほしいです。	general,shopping,attraction
+787	7	SYSTEM	かしこまりました。48件ほどご案内可能ですが、ジャンルなど、なにかご希望はございませんか？	general,shopping,attraction
+787	8	USER	名前が福岡国際会議場というところなのですが、ありますか。	general,shopping,attraction
+787	9	SYSTEM	はい、1件、博多区にございます。ジャンルは、コンサート・ショー, その他の施設となっております。	general,shopping,attraction
+787	10	USER	そこの大人入場料，住所を教えてもらえますか。	general,shopping,attraction
+787	11	SYSTEM	大人入場料は0円となっておりますが、詳しい料金としては、企画により異なる、と記載がございますので、ご注意ください。住所は、福岡県福岡市博多区石城町2-1です。	general,shopping,attraction
+787	12	USER	わかりました。どうもありがとうございました。	general,shopping,attraction

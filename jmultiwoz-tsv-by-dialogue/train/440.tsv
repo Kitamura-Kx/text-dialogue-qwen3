@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+440	0	USER	名古屋の平針駅近くで買い物ができるところを探してほしいです。	general,shopping,weather
+440	1	SYSTEM	ご利用ありがとうございます。申し訳ございません、その条件ですと、該当するお店がございませんでした。	general,shopping,weather
+440	2	USER	そうですか。では、最寄駅はどこでもかまいません。	general,shopping,weather
+440	3	SYSTEM	ありがとうございます。では、ミッドランドスクエアというショッピングモールはいかがでしょうか？	general,shopping,weather
+440	4	USER	いいですね。どのあたりのエリアになりますか？	general,shopping,weather
+440	5	SYSTEM	中村区エリアにございます。	general,shopping,weather
+440	6	USER	わかりました。住所も教えてもらえますか？	general,shopping,weather
+440	7	SYSTEM	住所は、愛知県名古屋市中村区名駅4丁目7-1でございます。	general,shopping,weather
+440	8	USER	あと、3/11の守山区の天気も知りたいのですが。	general,shopping,weather
+440	9	SYSTEM	かしこまりました。当日の天気は晴れの予報です。最低気温は7度、最高気温は13.6度の予報となっております。	general,shopping,weather
+440	10	USER	わかりました。どうもありがとうございました。	general,shopping,weather

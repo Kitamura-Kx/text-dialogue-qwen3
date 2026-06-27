@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1543	0	USER	東京で駐車場が無料で使える観光名所ってありますか？	general,attraction,hotel,taxi
+1543	1	SYSTEM	Caretta汐留は、いかがでしょうか？	general,attraction,hotel,taxi
+1543	2	USER	そちらはどういったジャンルの観光地ですか？料金情報もわかれば教えてください。	general,attraction,hotel,taxi
+1543	3	SYSTEM	ジャンルは、美術館・博物館, その他, コンサート・ショー, 展望台・タワーです。　料金情報ですが、大人子供関わらず無料となっています。	general,attraction,hotel,taxi
+1543	4	USER	なるほど。あと、宿泊施設も探してもらえますか？千代田区でレストラン併設のところがいいです。	general,attraction,hotel,taxi
+1543	5	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,hotel,taxi
+1543	6	USER	そうですか。では、レストランの有無は問わないので、千代田区でWi-Fiが無料利用できるところを探してもらえますか？	general,attraction,hotel,taxi
+1543	7	SYSTEM	ヴィアイン秋葉原は、いかがでしょうか？	general,attraction,hotel,taxi
+1543	8	USER	よさそうですね。そちらは駐車場はありますか？	general,attraction,hotel,taxi
+1543	9	SYSTEM	はい、駐車場は有料駐車場があります。	general,attraction,hotel,taxi
+1543	10	USER	わかりました。チェックアウト終了時刻がわかれば教えてください。	general,attraction,hotel,taxi
+1543	11	SYSTEM	チェックアウト終了時間は、10時となっています。	general,attraction,hotel,taxi
+1543	12	USER	では、予約をお願いします。9/2から3泊、人数は2人です。	general,attraction,hotel,taxi
+1543	13	SYSTEM	予約出来ました。予約番号は、59361になります。	general,attraction,hotel,taxi
+1543	14	USER	当日タクシーを使いたいのですが、トーショー交通というタクシー会社はありますか？	general,attraction,hotel,taxi
+1543	15	SYSTEM	はい、東京でトーショー交通は、1件見つかりました。	general,attraction,hotel,taxi
+1543	16	USER	そちらのタクシー会社はジャンボタクシーには対応していますか？	general,attraction,hotel,taxi
+1543	17	SYSTEM	はい、ジャンボタクシーも対応しております。	general,attraction,hotel,taxi
+1543	18	USER	わかりました。では9/2の12:10に予約をお願いします。	general,attraction,hotel,taxi
+1543	19	SYSTEM	出発地と目的地をお願いします。	general,attraction,hotel,taxi
+1543	20	USER	出発地はCaretta汐留、目的地はヴィアイン秋葉原でお願いします。	general,attraction,hotel,taxi
+1543	21	SYSTEM	予約出来ました。予約番号は、60900です。	general,attraction,hotel,taxi
+1543	22	USER	ありがとう。助かりました。	general,attraction,hotel,taxi

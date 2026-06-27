@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4681	0	USER	横浜へ旅行するのですが、ジャンボタクシーが使えてキャッシュレス払いができるようなところを教えてください。	general,taxi
+4681	1	SYSTEM	両方つかえるところで、国際自動車株式会社をおすすめします。	general,taxi
+4681	2	USER	そこにします。電話番号を教えてください。	general,taxi
+4681	3	SYSTEM	0120385931です。	general,taxi
+4681	4	USER	じゃあ予約をお願いします。12/6の11:00に女性専用ドミトリーHACO.(ハコ。)から焼鳥倶楽部までです。	general,taxi
+4681	5	SYSTEM	予約成功しました。予約番号は60954です。	general,taxi
+4681	6	USER	ありがとうございました。もう大丈夫です。	general,taxi

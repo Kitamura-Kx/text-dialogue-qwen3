@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2860	0	USER	京都への旅行を計画中のため、レストランが併設されていて駐車場とWi-Fiが無料で利用できる宿泊施設を探してほしいです。	general,hotel
+2860	1	SYSTEM	では、湯の宿 松栄はいかがですか？	general,hotel
+2860	2	USER	値段帯を教えてください。	general,hotel
+2860	3	SYSTEM	値段帯は、安めとなっています。	general,hotel
+2860	4	USER	ありがとうございます。チェックアウト終了時刻も調べてもらえますか？	general,hotel
+2860	5	SYSTEM	チェックアウト終了時間は、10時です。	general,hotel
+2860	6	USER	ありがとうございます。	general,hotel
+2860	7	SYSTEM	他にご用件はございますか？	general,hotel
+2860	8	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel

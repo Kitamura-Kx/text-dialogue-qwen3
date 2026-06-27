@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4021	0	USER	東京へ行くので、駐車場とWi-Fiが無料で使えるような飲食店を探してください。	general,restaurant,weather
+4021	1	SYSTEM	東京で駐車場とWiFiが無料の飲食店は、バルバッコア 六本木ヒルズ店、こちら一択です。	general,restaurant,weather
+4021	2	USER	いいですね。そこの定休日も教えてください。	general,restaurant,weather
+4021	3	SYSTEM	定休日はありません。	general,restaurant,weather
+4021	4	USER	わかりました。じゃあ、4人で1/3の09:30から予約とれますか？	general,restaurant,weather
+4021	5	SYSTEM	予約成功しました。予約番号は46246です。	general,restaurant,weather
+4021	6	USER	ありがとうございます。あと、品川区の1/3の天気を教えてください。	general,restaurant,weather
+4021	7	SYSTEM	1/3 東京 品川区 の天気は晴時々雨、最低気温4.8度、最高気温7.1度です。	general,restaurant,weather
+4021	8	USER	ありがとうございました。	general,restaurant,weather
+4021	9	SYSTEM	よい旅を。	general,restaurant,weather

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3247	0	USER	京都への旅行を検討しています。上京区で当日利用出来る飲食店を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,restaurant
+3247	1	SYSTEM	上京区の飲食店は２件ありますが、A4黒毛和牛熟成肉焼肉 Yakiniku221、こちらをとくにオススメします。	general,restaurant
+3247	2	USER	なるほど。出来れば、Wi-Fiが無料で利用出来るとありがたいのですが、その2件に該当はありそうですかね？	general,restaurant
+3247	3	SYSTEM	WiFi無料の飲食店は上京区にありませんね	general,restaurant
+3247	4	USER	そうですか。でしたら、その焼肉屋さんで検討してみようと思います。このお店の住所をお伺いしてもよろしいでしょうか？	general,restaurant
+3247	5	SYSTEM	京都府京都市上京区梶井町448-33です	general,restaurant
+3247	6	USER	ありがとうございます。もう少し検討してみようと思います。ご対応、ありがとうございました。	general,restaurant
+3247	7	SYSTEM	よい旅を	general,restaurant

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3024	0	USER	大阪へ行くんですが、沖縄ん家 てりとりーというお店で食事をしたいんです。そこの住所と値段帯を教えてもらえますか？	general,restaurant,shopping,taxi
+3024	1	SYSTEM	はい。住所は大阪府大阪市浪速区難波中1丁目14-22です。値段帯は普通となっております。	general,restaurant,shopping,taxi
+3024	2	USER	ありがとうございます。ではそこの予約をお願いできますか？6/2の13：30で３名です。	general,restaurant,shopping,taxi
+3024	3	SYSTEM	かしこまりました。ご予約承りました。予約番号は、47591です。	general,restaurant,shopping,taxi
+3024	4	USER	ありがとうございます。あと爬虫類カフェ ROCK STARというところで買い物もしたいのですが、住所と電話番号と営業時間はわかりますか？	general,restaurant,shopping,taxi
+3024	5	SYSTEM	はい。住所は大阪府大阪市浪速区難波中2丁目7-7 ナンバFKビルです。電話番号は0665869538になります。また、営業時間は11:00～22:00です。	general,restaurant,shopping,taxi
+3024	6	USER	ありがとうございます。あと、ジャンボタクシーが利用できるタクシー会社を探してもらえますか？キャッシュレス決済できるところがいいです。	general,restaurant,shopping,taxi
+3024	7	SYSTEM	かしこまりました。では、南タクシー株式会社はいかがでしょうか？	general,restaurant,shopping,taxi
+3024	8	USER	ありがとうございます。ではそこの予約をお願いできますか？6/2の15：10に沖縄ん家 てりとりーを出発して、爬虫類カフェ ROCK STARまで利用したいです。	general,restaurant,shopping,taxi
+3024	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、19640 です。	general,restaurant,shopping,taxi
+3024	10	USER	ありがとうございました。以上で結構です。	general,restaurant,shopping,taxi
+3024	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,taxi

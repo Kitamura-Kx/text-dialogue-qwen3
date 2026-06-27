@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+249	0	USER	仙台への旅行を計画中のため、駐車場が無料で利用できる飲食店を探しています。	general,restaurant,weather
+249	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,restaurant,weather
+249	2	USER	いえ、特にありません。	general,restaurant,weather
+249	3	SYSTEM	では牛たん炭焼 利久 tekuteながまち店はいかがでしょうか。	general,restaurant,weather
+249	4	USER	そこにしようと思います。電話番号を教えてください。	general,restaurant,weather
+249	5	SYSTEM	電話番号は0227487219でございます。	general,restaurant,weather
+249	6	USER	12/7の13:50に２名で予約をお願いできますか？	general,restaurant,weather
+249	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,restaurant,weather
+249	8	USER	では１名で予約をお願いできますか？	general,restaurant,weather
+249	9	SYSTEM	その条件ですと予約が完了いたしました。予約番号は76896でございます。	general,restaurant,weather
+249	10	USER	ありがとうございます。あと12/7の太白区の天候を調べてもらえますか？	general,restaurant,weather
+249	11	SYSTEM	天気は晴時々曇、最低気温は5.3度、最高気温が5.7度の見込みでございます。	general,restaurant,weather
+249	12	USER	ありがとうございます。	general,restaurant,weather
+249	13	SYSTEM	ほかにご用件はございませんか。	general,restaurant,weather
+249	14	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant,weather
+249	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather

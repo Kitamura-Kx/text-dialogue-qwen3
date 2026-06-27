@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2018	0	USER	京都の中京区の観光名所を探しています。	general,attraction
+2018	1	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction
+2018	2	USER	山科区だったらありますか？	general,attraction
+2018	3	SYSTEM	かしこまりました。では、京都市東部文化会館はいかがでしょうか？	general,attraction
+2018	4	USER	そちらのジャンルは何になりますか？	general,attraction
+2018	5	SYSTEM	はい。ジャンルはコンサート・ショーになります。	general,attraction
+2018	6	USER	ありがとうございます。電話番号も教えてもらえますか？	general,attraction
+2018	7	SYSTEM	はい。電話番号は0755021012でございます。	general,attraction
+2018	8	USER	ありがとうございました。	general,attraction
+2018	9	SYSTEM	他にご用件はありますか？	general,attraction
+2018	10	USER	大丈夫です。ありがとうございました。	general,attraction
+2018	11	SYSTEM	承知しました。ありがとうございました。	general,attraction

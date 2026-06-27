@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4129	0	USER	大阪に旅行に行こうと考えています、おすすめの旅館はありますか	general,hotel,attraction,taxi
+4129	1	SYSTEM	ではかねよし旅館はいかがですか。	general,hotel,attraction,taxi
+4129	2	USER	ありがとうございます、電話番号を教えてください	general,hotel,attraction,taxi
+4129	3	SYSTEM	電話番号は0662116337でございます。	general,hotel,attraction,taxi
+4129	4	USER	ありがとうございます、12月12日から3泊、2人で予約お願いします	general,hotel,attraction,taxi
+4129	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は92431でございます。	general,hotel,attraction,taxi
+4129	6	USER	ありがとうございます、駐車場が無料で利用できる観光名所でおすすめを教えてください	general,hotel,attraction,taxi
+4129	7	SYSTEM	難波神社はいかがですか。	general,hotel,attraction,taxi
+4129	8	USER	ありがとうございます、エリアと定休日を教えてください	general,hotel,attraction,taxi
+4129	9	SYSTEM	エリアは中央区で、定休日はございません。	general,hotel,attraction,taxi
+4129	10	USER	ありがとうございます、ジャンボタクシーを利用できるタクシー会社はありませんか	general,hotel,attraction,taxi
+4129	11	SYSTEM	はい。近鉄タクシー株式会社がございます。こちらキャッシュレスにも対応しております。	general,hotel,attraction,taxi
+4129	12	USER	電話番号を教えてください	general,hotel,attraction,taxi
+4129	13	SYSTEM	電話番号は0570069001でございます。	general,hotel,attraction,taxi
+4129	14	USER	かねよし旅館から難波神社まで12月12日の16時10分で予約をお願いします	general,hotel,attraction,taxi
+4129	15	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,attraction,taxi
+4129	16	USER	17時では可能ですか	general,hotel,attraction,taxi
+4129	17	SYSTEM	その時間ですと予約が可能でございました。予約番号は80261でございます。	general,hotel,attraction,taxi
+4129	18	USER		general,hotel,attraction,taxi

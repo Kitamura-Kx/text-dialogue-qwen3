@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4166	0	USER	東京へ旅行にいこいうと思っています。当日買い物ができるところを教えてくだだい。地区は足立区が希望です。	general,shopping,restaurant,taxi
+4166	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,shopping,restaurant,taxi
+4166	2	USER	でしたら、地区は千代田区にします。	general,shopping,restaurant,taxi
+4166	3	SYSTEM	ありがとうございます。そうしますと7件ご案内可能です。たとえば、KITTE丸の内というショッピングモールはいかがでしょうか？	general,shopping,restaurant,taxi
+4166	4	USER	そこが良さそうです。そこのジャンルと営業時間を教えてください。	general,shopping,restaurant,taxi
+4166	5	SYSTEM	はい、ジャンルは、ショッピングモールとなります。営業時間は、11:00～21:00でございます。	general,shopping,restaurant,taxi
+4166	6	USER	当日はSIAM BBQという飲食店で食事する予定です。そこのエリアを教えてください。	general,shopping,restaurant,taxi
+4166	7	SYSTEM	SIAM BBQですね。エリアは、千代田区にございます。	general,shopping,restaurant,taxi
+4166	8	USER	そこの予約したいので人数は３人で日付は8/25時間は15:40でお願いします。	general,shopping,restaurant,taxi
+4166	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、52664です。	general,shopping,restaurant,taxi
+4166	10	USER	あと当日利用できるタクシー会社を探しています。キャッシュレス対応でジャンボタクシーが利用できるところが希望です。	general,shopping,restaurant,taxi
+4166	11	SYSTEM	では、小金井交通はいかがでしょうか？	general,shopping,restaurant,taxi
+4166	12	USER	そこの電話番号を教えてください。	general,shopping,restaurant,taxi
+4166	13	SYSTEM	電話番号は、0423811482でございます。	general,shopping,restaurant,taxi
+4166	14	USER	そのタクシー会社に予約したいので日付は8/25で時間は14:30で出発地はKITTE丸の内で目的地はSIAM BBQでお願いします。	general,shopping,restaurant,taxi
+4166	15	SYSTEM	かしこまりました。ご予約完了しました。予約番号は、40999です。	general,shopping,restaurant,taxi
+4166	16	USER	分かりました。ありがとうございます。	general,shopping,restaurant,taxi
+4166	17	SYSTEM	こちらこそ、ありがとうございます。もし他にご質問がないようでしたら、これにて失礼いたします。本日はご利用ありがとうございました。	general,shopping,restaurant,taxi

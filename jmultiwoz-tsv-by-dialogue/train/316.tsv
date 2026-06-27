@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+316	0	USER	こんにちは。仙台に行きたいと考えているんです。どこか観光できるスポットを探してもらえないでしょうか？	general,attraction
+316	1	SYSTEM	承知しました。エリアやジャンルのご希望はございますか？	general,attraction
+316	2	USER	富沢駅付近だと助かります。	general,attraction
+316	3	SYSTEM	ありがとうございます。それでは、仙台市電保存館はいかがでしょう？ジャンルは、美術館、博物館となります。	general,attraction
+316	4	USER	仙台市電保存館って子供の入場料はいくらかかりますか？	general,attraction
+316	5	SYSTEM	大人も子供も入場料は必要ございません。	general,attraction
+316	6	USER	ありがとうございます。あと駐車場やWi-Fiが用意されているかどうか知りたいです。	general,attraction
+316	7	SYSTEM	Wi-Fiはご利用いただけません。駐車場は無料でご利用いただけます。	general,attraction
+316	8	USER	わかりました！今日はありがとうございました。	general,attraction

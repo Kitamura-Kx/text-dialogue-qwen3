@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2983	0	USER	札幌へ旅行に行くので、最寄り駅が北24条駅でレストランが併設されている宿泊施設を探してください！	general,hotel,weather
+2983	1	SYSTEM	北２４条でレストラン併設の宿泊施設といえば、札幌サンプラザ、こちら一択です。	general,hotel,weather
+2983	2	USER	値段帯と駐車場の有無はわかりますか？	general,hotel,weather
+2983	3	SYSTEM	値段帯は安め、駐車場は有料ですが、あります。	general,hotel,weather
+2983	4	USER	そしたら1/6に二名で四泊予約してください	general,hotel,weather
+2983	5	SYSTEM	予約成功しました。予約番号は93529です。	general,hotel,weather
+2983	6	USER	どうもです。あと東区の1/6の最高気温と最低気温が知りたいです	general,hotel,weather
+2983	7	SYSTEM	-4.5度です。寒いですよ。	general,hotel,weather
+2983	8	USER	ほんとですね。最高気温もいいですか？	general,hotel,weather
+2983	9	SYSTEM	最高気温も4.1度にしかなりません。	general,hotel,weather
+2983	10	USER	さすが札幌。ありがとうございました	general,hotel,weather
+2983	11	SYSTEM	よい旅を	general,hotel,weather

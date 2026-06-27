@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2942	0	USER	今度、福岡へ行くんです。福岡アジア美術館で買い物を予定しているんですが、どの辺りになりますか？	general,shopping
+2942	1	SYSTEM	エリアでいうと博多区にございます。ジャンルは、その他となります。	general,shopping
+2942	2	USER	ありがとうございます。営業時間と最寄り駅も教えて下さい。	general,shopping
+2942	3	SYSTEM	営業時間は9時30分から20時、最寄りの中洲川端駅から徒歩で1分となります。	general,shopping
+2942	4	USER	助かりました。それでは失礼します。	general,shopping

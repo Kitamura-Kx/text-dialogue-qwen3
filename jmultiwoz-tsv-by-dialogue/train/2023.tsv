@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2023	0	USER	那覇に行こうと思っています。無料駐車場と無料Wi-Fiが利用できる安めの宿泊施設を探しています。	general,hotel,taxi
+2023	1	SYSTEM	エリアでいうと本庁にある、旅の宿 らくちんはいかがでしょう？ジャンルはその他となります。	general,hotel,taxi
+2023	2	USER	ありがとうございます。料金情報を教えてもらえますか？	general,hotel,taxi
+2023	3	SYSTEM	申し訳ありません。ご案内可能な料金情報はございません。	general,hotel,taxi
+2023	4	USER	わかりました。そちらを２月１９日から２泊、人数３人で予約お願いできますか？	general,hotel,taxi
+2023	5	SYSTEM	予約が完了し、ご予約番号は、30970となります。他にご案内できることはございますか？	general,hotel,taxi
+2023	6	USER	当日、ジャンボタクシーが利用できる会社のタクシーを利用したいのですがどこかありますか？	general,hotel,taxi
+2023	7	SYSTEM	丸二タクシーはいかがでしょう？キャッシュレスにも対応しております。電話番号は、0988552140となります。	general,hotel,taxi
+2023	8	USER	ありがとうございます。２月１９日の10:40に那覇市歴史博物館から旅の宿 らくちんまで、そちらのタクシーを予約お願いします。	general,hotel,taxi
+2023	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、88846となります。他にご用件はございますか？	general,hotel,taxi
+2023	10	USER	大丈夫です。ありがとうございました。	general,hotel,taxi
+2023	11	SYSTEM	ありがとうございました。	general,hotel,taxi

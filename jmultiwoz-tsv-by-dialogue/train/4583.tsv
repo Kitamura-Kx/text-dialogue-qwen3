@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4583	0	USER	福岡への旅行を計画しています． 当日食事ができる飲食店を探してください．予算は高めが希望です．ジャンルはアジア・エスニック料理です．	general,restaurant,taxi
+4583	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,restaurant,taxi
+4583	2	USER	でしたらジャンルはどこでも。	general,restaurant,taxi
+4583	3	SYSTEM	TRATTORIA KIKUYAはいかがでしょうか。	general,restaurant,taxi
+4583	4	USER	そちらの定休日を教えていただけますか。あと、そちらで人数は2人です．日付は9/13です．時間は11:20で予約いただけますか。	general,restaurant,taxi
+4583	5	SYSTEM	定休日は無しです。すみません、そちらの条件で予約できませんでした。	general,restaurant,taxi
+4583	6	USER	でしたら時間を12:20にしていただけますか。	general,restaurant,taxi
+4583	7	SYSTEM	予約完了いたしました。予約番号は6108になります。	general,restaurant,taxi
+4583	8	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してください．キャッシュレス払いできるところにしてください．	general,restaurant,taxi
+4583	9	SYSTEM	（有）福運タクシーはいかがでしょうか。	general,restaurant,taxi
+4583	10	USER	そちらの電話番号をジャンボ対応か教えていただけますか。	general,restaurant,taxi
+4583	11	SYSTEM	ジャンボタクシー対応は対応で電話番号は0928710539になります。	general,restaurant,taxi
+4583	12	USER	ありがとうございます。そちらで日付は9/13です．時間は09:50です．出発地は先ほど見つけた飲食店です．目的地は英国昇龍というところで予約していただけますか	general,restaurant,taxi
+4583	13	SYSTEM	予約完了いたしました。予約番号は40482になります。	general,restaurant,taxi
+4583	14	USER		general,restaurant,taxi

@@ -1,0 +1,35 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+52	0	USER	すみません、札幌に旅行に行きたいんですが、ちょっとお伺いしても良いですか？	general,hotel,shopping
+52	1	SYSTEM	はい、どういったことでしょう？	general,hotel,shopping
+52	2	USER	南区で泊まる場所を探すのを手伝ってもらいたくて。	general,hotel,shopping
+52	3	SYSTEM	承知致しました。札幌の南区には、宿泊施設が5件ございます。	general,hotel,shopping
+52	4	USER	その中でwifiが無料で使えるところはありますか？	general,hotel,shopping
+52	5	SYSTEM	はい、5件とも無料でお使いいただけます。	general,hotel,shopping
+52	6	USER	そうなんですね。であれば、その中のどれでも構わないんですが、良さそうな宿はありますか？	general,hotel,shopping
+52	7	SYSTEM	ご予算のご希望はございますか？	general,hotel,shopping
+52	8	USER	特にないです。	general,hotel,shopping
+52	9	SYSTEM	では、定山渓 鶴雅リゾートスパ 森の謌はいかがでしょう？	general,hotel,shopping
+52	10	USER	そこにはレストランは入ってますか？	general,hotel,shopping
+52	11	SYSTEM	はい、ございます。	general,hotel,shopping
+52	12	USER	あと料金的にもちょっと不安なんですけど、どのくらいするところなんでしょう？	general,hotel,shopping
+52	13	SYSTEM	値段帯としては、普通、となっております。	general,hotel,shopping
+52	14	USER	それなら安心ですね。もう一つ、うかがいたいんですが、近くの駅からはどのくらいかかるところにありますか？	general,hotel,shopping
+52	15	SYSTEM	最寄りの札幌駅から、タクシーで27分となっております。	general,hotel,shopping
+52	16	USER	わかりました、そこにしようと思います。2名で泊まりたいんですが、予約してもらえますか？	general,hotel,shopping
+52	17	SYSTEM	承知致しました。日にち、宿泊日数はお決まりでしょうか？	general,hotel,shopping
+52	18	USER	はい。3泊の予定で、10月17日からでお願いします。	general,hotel,shopping
+52	19	SYSTEM	ご予約完了致しました。 予約番号は、53721　となります。	general,hotel,shopping
+52	20	USER	ありがとうございます。	general,hotel,shopping
+52	21	SYSTEM	他にご用件はございますか？	general,hotel,shopping
+52	22	USER	すみません、買い物するところも探してもらいたいんですが。	general,hotel,shopping
+52	23	SYSTEM	はい、ジャンルやエリアのご希望はございますか？	general,hotel,shopping
+52	24	USER	ジェラート札幌果林樹というところはありますか？	general,hotel,shopping
+52	25	SYSTEM	はい、南区にございます。	general,hotel,shopping
+52	26	USER	南区の具体的にどこでしょうか？	general,hotel,shopping
+52	27	SYSTEM	住所は、札幌市南区石山東5丁目8-26になっております。	general,hotel,shopping
+52	28	USER	そこは年末年始や祝日とかもやってるんでしょうか？	general,hotel,shopping
+52	29	SYSTEM	定休日は月曜日となっております。 申し訳ありませんが、年末年始や祝日については、こちらでは分かりかねます。	general,hotel,shopping
+52	30	USER	月曜が定休日なんですね。それだけ分かれば十分です。	general,hotel,shopping
+52	31	SYSTEM	ありがとうございます。 他にご用件はございますか？	general,hotel,shopping
+52	32	USER	もう大丈夫です。ありがとうございます。	general,hotel,shopping
+52	33	SYSTEM	承知致しました。 ありがとうございました。	general,hotel,shopping

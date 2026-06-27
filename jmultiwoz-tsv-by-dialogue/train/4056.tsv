@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4056	0	USER	名古屋への旅行を計画しています。 守山区で飲食店を探して欲しいです。	general,restaurant,shopping
+4056	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant,shopping
+4056	2	USER	それでは地区は考慮しないものとします。	general,restaurant,shopping
+4056	3	SYSTEM	かしこまりました。それではすしざんまい 名古屋錦店はいかがでしょうか？	general,restaurant,shopping
+4056	4	USER	そのお店の営業時間，値段帯を教えてください。	general,restaurant,shopping
+4056	5	SYSTEM	はい、営業時間は11時から翌6時まで、値段帯は普通でございます。	general,restaurant,shopping
+4056	6	USER	あと、当日は，覚王山アパートというところで買い物をする予定ですが、そのようなお店がありますか？	general,restaurant,shopping
+4056	7	SYSTEM	はい、ございます。	general,restaurant,shopping
+4056	8	USER	では、電話番号，最寄り駅，住所を教えてください。	general,restaurant,shopping
+4056	9	SYSTEM	はい、電話番号は0527528700、最寄り駅は覚王山駅、住所は愛知県名古屋市千種区山門町1丁目13でございます。	general,restaurant,shopping
+4056	10	USER	解決しました。ありがとうございました。	general,restaurant,shopping

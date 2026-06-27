@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3801	0	USER	京都への観光旅行を計画しています。祇園四条駅の近くで観光名所を探しています。	general,attraction,weather
+3801	1	SYSTEM	そういたしますと、3件ご案内できるところがございます。例えば、京都市円山公園音楽堂というところに興味はございませんか？	general,attraction,weather
+3801	2	USER	駐車場は無料ですか？	general,attraction,weather
+3801	3	SYSTEM	申し訳ありません。こちらは、駐車場は併設しておりません。駐車場無料の場所ですと、安井金比羅宮というところがご案内できます。	general,attraction,weather
+3801	4	USER	安井金比羅宮はどの辺りにありますか？	general,attraction,weather
+3801	5	SYSTEM	東山区エリアにございます。	general,attraction,weather
+3801	6	USER	そこに行こうと思います。ありがとうございました。	general,attraction,weather
+3801	7	SYSTEM	他にお調べすることはございませんか？	general,attraction,weather
+3801	8	USER	当日の天候を聞きたいのですが、10月12日の南区はどうなっていますか？	general,attraction,weather
+3801	9	SYSTEM	当日のお天気は、晴のち曇の予報です。最低気温は12.3度、最高気温は、22.8度まで上がる見込みです。	general,attraction,weather
+3801	10	USER	分かりました。どうもありがとうございました。	general,attraction,weather
+3801	11	SYSTEM	他にお手伝いすることはございませんか？	general,attraction,weather
+3801	12	USER	いえ、これで大丈夫です。	general,attraction,weather
+3801	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,weather
+3801	14	USER		general,attraction,weather

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1193	0	USER	那覇への旅行を計画しています。当日使えるタクシー会社はありますか？	general,taxi
+1193	1	SYSTEM	何かご希望はございますか？	general,taxi
+1193	2	USER	キャッシュレス対応しているところで、ジャンボタクシーが使える所が良いです。	general,taxi
+1193	3	SYSTEM	では、三和交通はいかがでしょう？電話番号は0120100084となります。	general,taxi
+1193	4	USER	では、予約をお願いします。７月６日の１３時３０分、女性専用ゲストハウス 宿や 潮水発、国営沖縄記念公園着でお願いします。	general,taxi
+1193	5	SYSTEM	予約が完了し、ご予約番号は、9968となります。	general,taxi
+1193	6	USER	ありがとうございました。では、失礼します。	general,taxi

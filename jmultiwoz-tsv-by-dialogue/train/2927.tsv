@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2927	0	USER	札幌に行くのですが、3/2の手稲区の天気と最低気温はどうなっていますか？	general,weather,taxi
+2927	1	SYSTEM	3/2 札幌 手稲区 の天気は晴、最低気温-2.9度、最高気温8度。まだまだ寒いですね。	general,weather,taxi
+2927	2	USER	あとキャッシュレス払いができるタクシーを探しています。	general,weather,taxi
+2927	3	SYSTEM	札幌でキャッシュレス対応のタクシー会社はいくつかありますが、北都ベリアールサービス(株)をおすすめします。	general,weather,taxi
+2927	4	USER	電話番号は何番になりますか？	general,weather,taxi
+2927	5	SYSTEM	0118202200です。	general,weather,taxi
+2927	6	USER	申し訳ないですが、3/2、14:50にアパホテル〈札幌〉から北のおばんざい しづるまで予約をお願いしたいです。	general,weather,taxi
+2927	7	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,weather,taxi
+2927	8	USER	15:40だとどうですか？	general,weather,taxi
+2927	9	SYSTEM	15:40だと予約成功しました。予約番号は16588です。	general,weather,taxi
+2927	10	USER	助かりました。	general,weather,taxi
+2927	11	SYSTEM	よい旅を	general,weather,taxi

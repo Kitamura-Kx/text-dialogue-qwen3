@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4268	0	USER	京都へ行こうと思っているのですが、中京区で飲食店を探してください。	general,restaurant,taxi
+4268	1	SYSTEM	では、あーぐうるはいかがでしょう？ジャンルは、郷土料理となります。	general,restaurant,taxi
+4268	2	USER	よさそうですね、ただ、無料Wi-Fiが使える所が良いです。	general,restaurant,taxi
+4268	3	SYSTEM	承知しました。では、スペインバル Ternuraはいかがでしょう？ジャンルは、その他となります。	general,restaurant,taxi
+4268	4	USER	そこにします。11月11日の16:20に、3人で予約をお願いします。	general,restaurant,taxi
+4268	5	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,restaurant,taxi
+4268	6	USER	では、時間を17:20に変更します。	general,restaurant,taxi
+4268	7	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、20311となります。	general,restaurant,taxi
+4268	8	USER	ありがとうございます。あと、ジャンボタクシーが利用できる、タクシー会社はありませんか？	general,restaurant,taxi
+4268	9	SYSTEM	では、都タクシー株式会社はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0756616611となります。	general,restaurant,taxi
+4268	10	USER	そこのタクシーにします。スペインバル Ternuraから下鴨神社まで予約をお願いします。	general,restaurant,taxi
+4268	11	SYSTEM	承知しました。ご出発の日時を教えていただけますか？	general,restaurant,taxi
+4268	12	USER	11月11日の15:00です。	general,restaurant,taxi
+4268	13	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、92372となります。	general,restaurant,taxi
+4268	14	USER	予約ありがとうございました。	general,restaurant,taxi
+4268	15	SYSTEM	他にご用件はございますか？	general,restaurant,taxi
+4268	16	USER	いえ、特にありません。ありがとうございます。	general,restaurant,taxi
+4268	17	SYSTEM	ありがとうございました。	general,restaurant,taxi

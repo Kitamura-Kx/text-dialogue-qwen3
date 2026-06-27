@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4981	0	USER	こんにちは。大阪で、キャッシュレス払いとジャンボタクシーに対応しているタクシー会社があれば教えてください。	general,taxi
+4981	1	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,taxi
+4981	2	USER	そうですか、キャッシュレス払いには対応していなくても構いません。	general,taxi
+4981	3	SYSTEM	承知しました。一番株式会社はいかがでしょうか？	general,taxi
+4981	4	USER	一番株式会社の電話番号は調べられますか？	general,taxi
+4981	5	SYSTEM	一番株式会社の電話番号は0667077171です。	general,taxi
+4981	6	USER	ありがとうございます。予約もお願いできますか？5月24日9時50分に、クインテッサホテル大阪ベイからD3 Hotelまでお願いします。	general,taxi
+4981	7	SYSTEM	予約が完了しました。予約番号は48355です。	general,taxi
+4981	8	USER	ありがとうございました。	general,taxi

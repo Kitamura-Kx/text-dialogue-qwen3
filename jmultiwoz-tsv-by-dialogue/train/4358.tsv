@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4358	0	USER	大阪へ行く予定なのですが、中央区にWi-Fiが無料で利用できる観光名所はありますか？	general,attraction
+4358	1	SYSTEM	お待たせ致しました。それでは大阪城天守閣はいかがしましょうか？	general,attraction
+4358	2	USER	よいですね。まだ行ったことがないです。そちらの大人の入場料金を教えてください。	general,attraction
+4358	3	SYSTEM	はい、大人の入場料は600円でございます。	general,attraction
+4358	4	USER	ありがとうございました。	general,attraction

@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2255	0	USER	仙台へ旅行に行くんですが、飲食店を探してください。	general,restaurant,attraction,weather
+2255	1	SYSTEM	はい、ご希望はありますか？	general,restaurant,attraction,weather
+2255	2	USER	和食を食べたいです！予算は安めだったらどこでもいいです。	general,restaurant,attraction,weather
+2255	3	SYSTEM	仙台には予算安めの和食の店はなさそうです。	general,restaurant,attraction,weather
+2255	4	USER	残念です。では予算は希望無しで、お勧めを教えてください。	general,restaurant,attraction,weather
+2255	5	SYSTEM	そうですね、色々ありますが、やはり仙台らしく、味の牛たん喜助 定禅寺店をおすすめします。	general,restaurant,attraction,weather
+2255	6	USER	牛タンいいですね！営業時間は分かりますか？	general,restaurant,attraction,weather
+2255	7	SYSTEM	昼１１時から、夜は１０時までです。	general,restaurant,attraction,weather
+2255	8	USER	電話番号と駐車場の有無についても教えてください。	general,restaurant,attraction,weather
+2255	9	SYSTEM	電話番号は0222662118、駐車場は無料です。	general,restaurant,attraction,weather
+2255	10	USER	ありがとうございます。予約もお願いします！2/4の14:40に2人で食べに行きたいです。	general,restaurant,attraction,weather
+2255	11	SYSTEM	その条件で予約しました。予約番号は62753です。	general,restaurant,attraction,weather
+2255	12	USER	ありがとうございます。若林区で観光名所も探していただけますか？	general,restaurant,attraction,weather
+2255	13	SYSTEM	若林区の観光名所といえば、南小泉交通公園をお勧めします。	general,restaurant,attraction,weather
+2255	14	USER	ありがとうございます。ただ、最寄り駅が中野栄駅が良かったんですが、そこはどうでしょう？	general,restaurant,attraction,weather
+2255	15	SYSTEM	若林区に、最寄り駅中野栄駅の観光名所はありません。	general,restaurant,attraction,weather
+2255	16	USER	そうなんですね。では地区の希望はなしで、最寄り駅の希望はそのままで探していただけますか？	general,restaurant,attraction,weather
+2255	17	SYSTEM	中野栄駅近くの観光名所ならば、なんといってもキリンビール仙台工場、ここはおススメですよ。	general,restaurant,attraction,weather
+2255	18	USER	楽しそうですね！ジャンルと営業時間は分かりますか？	general,restaurant,attraction,weather
+2255	19	SYSTEM	ジャンルは工場見学、営業時間は朝９時から夕方４時４０分までです。	general,restaurant,attraction,weather
+2255	20	USER	ありがとうございます。泉区の2/4の天気も調べていただけますか？最高気温が知りたいです。	general,restaurant,attraction,weather
+2255	21	SYSTEM	2/4 仙台 泉区 の最高気温は11度です。	general,restaurant,attraction,weather
+2255	22	USER	ありがとうございます。楽しんできますね！	general,restaurant,attraction,weather
+2255	23	SYSTEM	よい旅を。	general,restaurant,attraction,weather

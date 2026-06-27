@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+369	0	USER	こんにちは。大阪で買い物できるところを探しています。	general,shopping
+369	1	SYSTEM	承知しました。他にご希望はございますか？	general,shopping
+369	2	USER	此花区で、駐車場を無料で利用できるところがいいです。	general,shopping
+369	3	SYSTEM	ありがとうございます。1件、GoodBBQ舞洲 オーチャードグラスがございます。何をご案内致しましょう？	general,shopping
+369	4	USER	ありがとうございます。そちらの住所と電話番号をお願いできますか？	general,shopping
+369	5	SYSTEM	はい、住所は大阪府大阪市此花区北港緑地2丁目1-107、電話番号は0664601646となります。他にご案内できることはございますか？	general,shopping
+369	6	USER	これで大丈夫です！ありがとうございました。	general,shopping
+369	7	SYSTEM	ありがとうございました。	general,shopping

@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3264	0	USER	横浜の観光名所を探してください。	general,attraction,restaurant,taxi
+3264	1	SYSTEM	４９件ほどヒットします。追加の希望条件はありますか	general,attraction,restaurant,taxi
+3264	2	USER	はい。駐車場が無料のところで、最寄り駅は元町・中華街駅が希望です。ジャンルは美術館・博物館でお願いします。	general,attraction,restaurant,taxi
+3264	3	SYSTEM	その条件だとヒットしません。	general,attraction,restaurant,taxi
+3264	4	USER	では、最寄り駅はこだわりません。	general,attraction,restaurant,taxi
+3264	5	SYSTEM	駐車場無料の美術館博物館はいくつかありますが、横浜らしくカップヌードルミュージアム 横浜はいかがでしょうか	general,attraction,restaurant,taxi
+3264	6	USER	そこはWi-Fiは使えますか？	general,attraction,restaurant,taxi
+3264	7	SYSTEM	無料のがあります。	general,attraction,restaurant,taxi
+3264	8	USER	わかりました。あとですね、青葉区の近くの飲食店も探してください。最寄りは石川町駅で、駐車場も無料で使えるとありがたいです。	general,attraction,restaurant,taxi
+3264	9	SYSTEM	全てを満たす飲食店はなさそうです	general,attraction,restaurant,taxi
+3264	10	USER	でしたら、最寄り駅にはこだわらないことにします。	general,attraction,restaurant,taxi
+3264	11	SYSTEM	青葉区、駐車場無料でしたら、うなぎ料理 しま村 青葉台店、ここ一択です。	general,attraction,restaurant,taxi
+3264	12	USER	では、そこで3名で予約をお願いします。希望日は9月22日、夕方4時で予約できそうですか？	general,attraction,restaurant,taxi
+3264	13	SYSTEM	その条件で予約成功しました。予約番号は46748です。	general,attraction,restaurant,taxi
+3264	14	USER	ありがとうございます。最後にタクシーも探してほしいです。キャッシュレス決済とジャンボタクシーが使えるところでお願いします。	general,attraction,restaurant,taxi
+3264	15	SYSTEM	国際自動車株式会社をおすすめします。	general,attraction,restaurant,taxi
+3264	16	USER	わかりました。では、予約もとってもらえますか？カップヌードルミュージアム 横浜から、うなぎ料理 しま村 青葉台店で、9月22日14時40分出発でお願いします。	general,attraction,restaurant,taxi
+3264	17	SYSTEM	その条件で予約成功しました。予約番号は36347です。	general,attraction,restaurant,taxi
+3264	18	USER	ありがとうございます。今日のところは、以上です。お世話様でした。	general,attraction,restaurant,taxi

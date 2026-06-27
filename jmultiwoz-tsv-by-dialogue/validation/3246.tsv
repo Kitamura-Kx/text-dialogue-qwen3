@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3246	0	USER	福岡への旅行を検討しています。中央区で当日利用できる宿泊施設を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,hotel
+3246	1	SYSTEM	福岡市中央区の宿泊施設は２５件あります	general,hotel
+3246	2	USER	そうですか。でしたら、レストランが併設されていて、Wi-Fiが無料で利用できる施設って該当はありますかね？	general,hotel
+3246	3	SYSTEM	その条件ならば、アゴーラ福岡山の上ホテル&スパ、こちらをオススメします。	general,hotel
+3246	4	USER	そこで検討してみようと思います。このホテルのタイプを教えて頂けますか？	general,hotel
+3246	5	SYSTEM	リゾートホテルです。	general,hotel
+3246	6	USER	ありがとうございます。チェックイン開始時刻ってわかりますか？	general,hotel
+3246	7	SYSTEM	夕方５時からです	general,hotel
+3246	8	USER	ありがとうございます。もう少し検討してみたいと思います。ご対応、ありがとうございました。	general,hotel
+3246	9	SYSTEM	よい旅を	general,hotel

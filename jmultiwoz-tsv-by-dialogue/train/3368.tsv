@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3368	0	USER	大阪へ行きますので、中央区でカレーが食べれるお店教えて下さい。	general,restaurant,attraction
+3368	1	SYSTEM	かしこまりました。頂いた条件ですと、お野菜、どうぞ。という店舗ほか１件ございました。いかがでしょうか？	general,restaurant,attraction
+3368	2	USER	定休日はいつですか？	general,restaurant,attraction
+3368	3	SYSTEM	定休日はございません。	general,restaurant,attraction
+3368	4	USER	分かりました、3月6日の15時に2人で予約お願いします。	general,restaurant,attraction
+3368	5	SYSTEM	ご予約承りました。ご予約番号は、85926でございます。	general,restaurant,attraction
+3368	6	USER	それと、此花区で駐車場が無料な観光名所ありますか？	general,restaurant,attraction
+3368	7	SYSTEM	お調べしましたところ、該当がなしでございました。	general,restaurant,attraction
+3368	8	USER	そうですか。では此花区以外でお願いします。	general,restaurant,attraction
+3368	9	SYSTEM	申し訳ございません。はい、そうしますと大阪天満宮を含む３件該当がございます。	general,restaurant,attraction
+3368	10	USER	住所教えていただけますか？	general,restaurant,attraction
+3368	11	SYSTEM	はい。住所は、大阪府大阪市北区天神橋2丁目1-8でございます。	general,restaurant,attraction
+3368	12	USER	ジャンルは何になりますか？あと、近くの駅から、どのくらいですか？	general,restaurant,attraction
+3368	13	SYSTEM	ジャンルは歴史的な散策エリア, 神社・寺院・教会・モニュメントなどです。所要時間は、南森町駅から徒歩で4分 大阪天満宮駅から徒歩で4分となっております。	general,restaurant,attraction
+3368	14	USER	分かりました、ありがとうございました。	general,restaurant,attraction
+3368	15	SYSTEM	ありがとうございました。	general,restaurant,attraction

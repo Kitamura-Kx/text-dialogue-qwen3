@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+340	0	USER	こんにちは。横浜での観光名所を探しているのですが。	general,attraction,hotel,taxi
+340	1	SYSTEM	ご利用ありがとうございます。横浜の観光名所ですね。なにかご希望の条件など、ございますでしょうか？	general,attraction,hotel,taxi
+340	2	USER	旭区にある、旧跡がいいです。	general,attraction,hotel,taxi
+340	3	SYSTEM	大変申し訳ございません。その条件では、該当するものがありませんでした。	general,attraction,hotel,taxi
+340	4	USER	そうですか。では、旧跡じゃなくても構いません。	general,attraction,hotel,taxi
+340	5	SYSTEM	ありがとうございます。では、こども自然公園は如何でしょうか？	general,attraction,hotel,taxi
+340	6	USER	そこに行ってみようと思います。あと、当日の宿泊施設も探しています。レストランが併設されてるところがいいのですが。	general,attraction,hotel,taxi
+340	7	SYSTEM	そうしますと、候補が48件ほどございます。ほかに、エリアなど、ご希望の条件はございませんでしょうか？	general,attraction,hotel,taxi
+340	8	USER	駐車場が無料で利用できるところがいいです。もしできれば、宿タイプは簡易宿所がいいのですが。	general,attraction,hotel,taxi
+340	9	SYSTEM	申し訳ございません。その条件では候補が見つかりませんでした。	general,attraction,hotel,taxi
+340	10	USER	では、宿タイプは特にこだわりません。	general,attraction,hotel,taxi
+340	11	SYSTEM	ありがとうございます。では、旅館 松島という南区の旅館はいかがでしょうか？	general,attraction,hotel,taxi
+340	12	USER	そこにしてみようと思います。ありがとうございます。	general,attraction,hotel,taxi
+340	13	SYSTEM	ほかにお調べすることはございますか？	general,attraction,hotel,taxi
+340	14	USER	当日タクシーを利用したいのですが、アサヒタクシー株式会社という名前のところはありますか？	general,attraction,hotel,taxi
+340	15	SYSTEM	はい、1件該当がございます。ご予約でしょうか？	general,attraction,hotel,taxi
+340	16	USER	はい、ありがとうございます。そちらはキャッシュレス、ジャンボタクシーを対応していますか？	general,attraction,hotel,taxi
+340	17	SYSTEM	申し訳ありません。アサヒタクシー株式会社は、キャッシュレス、ジャンボタクシーともに非対応となっております。	general,attraction,hotel,taxi
+340	18	USER	わかりました。電話番号を教えてください。	general,attraction,hotel,taxi
+340	19	SYSTEM	はい。電話番号は、0120411190でございます。	general,attraction,hotel,taxi
+340	20	USER	ありがとうございます。予約をお願いしたいのですが、１１月１８日で１４時２０分にこども自然公園から旅館 松島までお願いできますか？	general,attraction,hotel,taxi
+340	21	SYSTEM	はい、ご予約ありがとうございます。予約番号96258にて、ご予約承りました。	general,attraction,hotel,taxi
+340	22	USER	ありがとうございました。お世話になりました。	general,attraction,hotel,taxi
+340	23	SYSTEM	他にご用件はございませんか？	general,attraction,hotel,taxi
+340	24	USER	はい、大丈夫です。	general,attraction,hotel,taxi
+340	25	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,hotel,taxi

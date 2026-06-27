@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4538	0	USER	札幌へ旅行に行く予定なのですがジャンボタクシーを利用したいです。	general,taxi
+4538	1	SYSTEM	はい、いくつかありますが、恊和交通(株)をおすすめします。	general,taxi
+4538	2	USER	キャッシュレス可能ですか？あと電話も教えて下さい。	general,taxi
+4538	3	SYSTEM	キャッシュレスに対応しています。電話は0118751211になります。	general,taxi
+4538	4	USER	ありがとうございます。それではそこを予約して頂けますか？1/25の10:40でラウンドワンスタジアム札幌北21条店からVILLA KOSHIDO ODORIまで乗りたいです。	general,taxi
+4538	5	SYSTEM	予約成功しました。予約番号は51888です。	general,taxi
+4538	6	USER	大変助かりました！ありがとうございました。	general,taxi

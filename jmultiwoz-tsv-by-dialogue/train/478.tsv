@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+478	0	USER	札幌への旅行を考えているのですが、観光名所はありますか？	general,attraction,weather
+478	1	SYSTEM	ご利用ありがとうございます。札幌では48件ほど、観光名所をご案内可能です。ジャンルなど、ご希望はございませんか？	general,attraction,weather
+478	2	USER	はい。ジャンルは動物園で、駐車場を無料で利用できて、Wi-Fiも無料で利用できるところがいいです。	general,attraction,weather
+478	3	SYSTEM	大変申し訳ございません。その条件では、該当するものがありませんでした。	general,attraction,weather
+478	4	USER	わかりました。ではジャンルはなんでも大丈夫です。	general,attraction,weather
+478	5	SYSTEM	ありがとうございます。では、さっぽろ羊ヶ丘展望台はいかがでしょうか？豊平区エリアにあり、ジャンルは自然・公園, 展望台・タワー, 牧場となっております。	general,attraction,weather
+478	6	USER	そこがいいです。料金情報をお聞きしたいです。	general,attraction,weather
+478	7	SYSTEM	かしこまりました。大人入場料は530円、小・中学生300円となっております。また、プランにより異なる場合がございます。	general,attraction,weather
+478	8	USER	わかりました。白石区の9/25の天候を知りたいです。	general,attraction,weather
+478	9	SYSTEM	はい。当日の天気は晴れの予報です。最低気温は15.7度、最高気温は、26度まで上がる予想です。	general,attraction,weather
+478	10	USER	ありがとうございます。	general,attraction,weather
+478	11	SYSTEM	他にお手伝いすることはございませんか？	general,attraction,weather
+478	12	USER	大丈夫です。ありがとうございました。	general,attraction,weather
+478	13	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,attraction,weather

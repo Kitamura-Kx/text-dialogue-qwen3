@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1172	0	USER	大阪へ旅行に行くんですが、食料品が買えるところを探してもらえますか？	general,shopping
+1172	1	SYSTEM	かしこまりました。19件ほど候補があるのですが、他にエリアなどご希望はございませんか？	general,shopping
+1172	2	USER	はい、どこでも大丈夫です。	general,shopping
+1172	3	SYSTEM	では、くらわんか餅の世界天満店はいかがでしょうか？ジャンルとしては、お土産, 食料品となっており、北区エリアにございます。	general,shopping
+1172	4	USER	良さそうですね。じゃあそこの電話番号を教えてもらえますか。	general,shopping
+1172	5	SYSTEM	電話番号は、09088260779でございます。	general,shopping
+1172	6	USER	ありがとうございます。以上で結構です。	general,shopping
+1172	7	SYSTEM	承知しました。本日はご利用ありがとうございました。また何かございましたら、いつでもお問い合わせください。	general,shopping

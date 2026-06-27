@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3050	0	USER	名古屋へ行くのですが、ジャンボタクシーが利用でき、キャッシュレス払い可能なタクシー会社を探しています。	general,taxi,weather
+3050	1	SYSTEM	かしこまりました。つばめタクシーグループはいかがでしょうか。	general,taxi,weather
+3050	2	USER	いいですね。星が丘テラスから真宗大谷派名古屋別院(東別院)まで予約をお願いしたいです。	general,taxi,weather
+3050	3	SYSTEM	はい。日時は決まっておりますか？	general,taxi,weather
+3050	4	USER	5/5の12:00でお願いします。	general,taxi,weather
+3050	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、40576です。	general,taxi,weather
+3050	6	USER	ありがとうございます。あと5/5、名東区の最低気温，と最高気温が知りたいです。	general,taxi,weather
+3050	7	SYSTEM	はい。最低気温は16.1度、最高気温は29.4度の予報です。	general,taxi,weather
+3050	8	USER	わかりました。ありがとうございました。	general,taxi,weather
+3050	9	SYSTEM	こちらこそご利用ありがとうございました。	general,taxi,weather

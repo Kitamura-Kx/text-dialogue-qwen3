@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3886	0	USER	仙台への旅行を計画しています。お好み焼きかたこ焼きが食べれてwi-hiが無料で利用できる飲食店はありますか？	general,restaurant
+3886	1	SYSTEM	はい、1件、楽亭というところがご案内できます。いかがでしょうか？	general,restaurant
+3886	2	USER	そこの営業時間が知りたいです。	general,restaurant
+3886	3	SYSTEM	営業時間は、夕方17:00から夜の23:00までとなっております。	general,restaurant
+3886	4	USER	12月4日の9時40分に３人で予約できますか？	general,restaurant
+3886	5	SYSTEM	ありがとうございます。念のため確認させてください。お時間は朝9時40分でよろしかったでしょうか？	general,restaurant
+3886	6	USER	朝の9時40分を希望しています。	general,restaurant
+3886	7	SYSTEM	かしこまりました。ただ申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,restaurant
+3886	8	USER	他に予約できるところはありますか？	general,restaurant
+3886	9	SYSTEM	申し訳ありません。仙台で お好み焼き・たこ焼きのお店で、Wi-Fi無料となりますと、楽亭のみのご案内となります。お時間や人数など、ずらすことは可能でしょうか？	general,restaurant
+3886	10	USER	10時10分ではありますか？	general,restaurant
+3886	11	SYSTEM	ありがとうございます。10時10分にて、ご予約完了いたしました。予約番号は、78435です。	general,restaurant
+3886	12	USER	ありがとうございました。	general,restaurant
+3886	13	SYSTEM	他にお調べすることはございませんか？	general,restaurant
+3886	14	USER	いえ、これで大丈夫です。	general,restaurant
+3886	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant
+3886	16	USER		general,restaurant

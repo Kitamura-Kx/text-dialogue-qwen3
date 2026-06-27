@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3581	0	USER	こんにちは。那覇に旅行に行こうと思ってて、駐車場が無料で、レストランが併設されているシティホテルはありますか？	general,hotel,weather
+3581	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,weather
+3581	2	USER	では駐車場はなくても大丈夫です。	general,hotel,weather
+3581	3	SYSTEM	ではダブルツリーbyヒルトン那覇はいかがでしょうか。	general,hotel,weather
+3581	4	USER	いいですね。料金情報と住所もわかりますか？	general,hotel,weather
+3581	5	SYSTEM	値段帯は安めとなっておりますが、詳しい料金情報についてはわかりかねます。住所は沖縄県那覇市東町3-15でございます。	general,hotel,weather
+3581	6	USER	ご丁寧にありがとうございます。では予約もお願いします。人数は3人で、日程は4/4、宿泊日数は2泊でお願いします。	general,hotel,weather
+3581	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,weather
+3581	8	USER	では人数を2人にしたら予約できそうですか？	general,hotel,weather
+3581	9	SYSTEM	その人数ですと予約が可能でございました。予約番号は96472でございます。	general,hotel,weather
+3581	10	USER	ありがとうございます。あと、真和志の4/4の天候も調べてもらえないでしょうか？	general,hotel,weather
+3581	11	SYSTEM	天気は曇のち晴、最低気温が16.7度で、最高気温が21.6度でございます。	general,hotel,weather
+3581	12	USER	ありがとうございます！	general,hotel,weather
+3581	13	SYSTEM	ほかにご用件はございませんか。	general,hotel,weather
+3581	14	USER	いえ、これで十分です。案内ありがとうございました。	general,hotel,weather
+3581	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3015	0	USER	名古屋への旅行を計画しています。 買い物ができるところを探して欲しいです。	general,shopping,restaurant,hotel
+3015	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,shopping,restaurant,hotel
+3015	2	USER	地区は天白区、駐車場を無料で利用できるところにしてください。	general,shopping,restaurant,hotel
+3015	3	SYSTEM	天白区で駐車場無料な買い物スポットは、サンエース 原駅前店、こちらになります。	general,shopping,restaurant,hotel
+3015	4	USER	そのお店の最寄り駅，近辺の駅からの所要時間を教えてください。	general,shopping,restaurant,hotel
+3015	5	SYSTEM	最寄りは原駅、原駅から徒歩で1分です。	general,shopping,restaurant,hotel
+3015	6	USER	次に飲食店を探してください。最寄り駅が星ヶ丘駅で駐車場を無料で利用できるところにしてください。	general,shopping,restaurant,hotel
+3015	7	SYSTEM	星ヶ丘で駐車場無料な飲食店はヒットしませんでした。	general,shopping,restaurant,hotel
+3015	8	USER	そうなんですね。では最寄り駅は考慮しないよう条件変更します。	general,shopping,restaurant,hotel
+3015	9	SYSTEM	名古屋で駐車場無料な飲食店はいくつかありますが、カツレツMATUMURA、こちらをお勧めします。	general,shopping,restaurant,hotel
+3015	10	USER	いいですね。では、そのお店の定休日，値段帯を教えてください。	general,shopping,restaurant,hotel
+3015	11	SYSTEM	定休日はありません、値段帯は高めになります。	general,shopping,restaurant,hotel
+3015	12	USER	続いて宿泊施設を探してください。予算は高め、駐車場とWi-Fiが無料で利用できるところにしてください。	general,shopping,restaurant,hotel
+3015	13	SYSTEM	名古屋で駐車場とWiFiが無料、予算高めな宿泊施設はなさそうです。	general,shopping,restaurant,hotel
+3015	14	USER	では予算は考慮しないものとします。	general,shopping,restaurant,hotel
+3015	15	SYSTEM	駐車場とWiFiが無料な宿泊施設はいくつかありますが、プリンセスガーデンホテル<名古屋栄>、こちらをお勧めします。	general,shopping,restaurant,hotel
+3015	16	USER	そのお店のエリアを教えてください。	general,shopping,restaurant,hotel
+3015	17	SYSTEM	中区になります。	general,shopping,restaurant,hotel
+3015	18	USER	では予約をお願いします。人数は4人、日付は5/21、宿泊日数は4泊希望です。	general,shopping,restaurant,hotel
+3015	19	SYSTEM	予約に成功しました。予約番号は85629です。	general,shopping,restaurant,hotel
+3015	20	USER	解決しました。ありがとうございました。	general,shopping,restaurant,hotel

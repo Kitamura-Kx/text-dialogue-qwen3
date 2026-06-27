@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4764	0	USER	東京への旅行を計画していて、当日の飲食店を探しています。Wi-Fi無料のところが希望です。	general,restaurant,taxi
+4764	1	SYSTEM	承知しました。新荘園 ムスブ田町店はいかがでしょうか？	general,restaurant,taxi
+4764	2	USER	ありがとうございます。そのお店にしようと思います。営業時間と最寄り駅は分かりますか？	general,restaurant,taxi
+4764	3	SYSTEM	営業時間は11:00～23:30です。最寄り駅は田町駅です。	general,restaurant,taxi
+4764	4	USER	ありがとうございます。そのお店を予約したいのですが、11/8の11：10から、２人で予約をお願い出来ますか？	general,restaurant,taxi
+4764	5	SYSTEM	予約が完了しました。予約番号は1692です。	general,restaurant,taxi
+4764	6	USER	ありがとうございます。当日のタクシー会社も探しています。ジャンボタクシーが利用できるところが良いです。	general,restaurant,taxi
+4764	7	SYSTEM	承知しました。トーショー交通はいかがでしょうか？	general,restaurant,taxi
+4764	8	USER	ありがとうございます。そのタクシーを予約したいのですが、11/8の09：40から、新荘園 ムスブ田町店からレンブラントキャビン新宿新大久保まで予約をお願い出来ますか？	general,restaurant,taxi
+4764	9	SYSTEM	予約が完了しました。予約番号は38809です。	general,restaurant,taxi
+4764	10	USER	ありがとうございました。	general,restaurant,taxi
+4764	11	SYSTEM	他にご用件はありますか？	general,restaurant,taxi
+4764	12	USER	いえ、他にはありません。ありがとうございました。	general,restaurant,taxi
+4764	13	SYSTEM	ありがとうございました。またのご利用お待ちしております。	general,restaurant,taxi

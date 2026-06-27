@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1762	0	USER	名古屋へ旅行に行くんですが、宿泊施設を探して欲しいです。	general,hotel,shopping
+1762	1	SYSTEM	希望条件などは、ございますか？	general,hotel,shopping
+1762	2	USER	簡易宿所（ベッドハウス・山小屋・カプセルホテル等）だったらどこでも大丈夫です。	general,hotel,shopping
+1762	3	SYSTEM	では、豪華カプセルホテル安心お宿プレミア名古屋栄店はいかがですか？	general,hotel,shopping
+1762	4	USER	ありがとうございます。Wi-Fiの有無と、近辺の駅からの所要時間は分かりますか？	general,hotel,shopping
+1762	5	SYSTEM	Wi-Fi利用につきましては、無料Wi-Fiのりようが可能です。近辺の駅からの所要時間は、栄駅から徒歩で3分になります。	general,hotel,shopping
+1762	6	USER	ありがとうございます。買い物が出来る所も探して欲しいです。最寄り駅が上前津駅でお願いします！	general,hotel,shopping
+1762	7	SYSTEM	山中羊羹舗は、いかがですか？	general,hotel,shopping
+1762	8	USER	いいですね。定休日と営業時間を教えてください。	general,hotel,shopping
+1762	9	SYSTEM	定休日は、木曜です。　営業時間は、午前10時から午後7時までです。	general,hotel,shopping
+1762	10	USER	ありがとうございます。	general,hotel,shopping
+1762	11	SYSTEM	他にご用件はありますか？	general,hotel,shopping
+1762	12	USER	これで大丈夫です。ありがとうございました。	general,hotel,shopping
+1762	13	SYSTEM	承知致しました。　ありがとうございました。	general,hotel,shopping

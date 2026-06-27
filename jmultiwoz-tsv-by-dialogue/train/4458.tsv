@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4458	0	USER	福岡の旅行を考えています。wifiが無料、最寄りが箱崎九大前駅、駐車場が無料の観光地はございますか	general,attraction
+4458	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,attraction
+4458	2	USER	そしたら最寄り駅は考慮しません。他の二つの条件でいかがでしょうか	general,attraction
+4458	3	SYSTEM	ありがとうございます。そういたしますと、福岡市博物館はいかがでしょうか？	general,attraction
+4458	4	USER	ありがとうございます。そちらの料金情報を教えてください	general,attraction
+4458	5	SYSTEM	かしこまりました。料金は、一般200円、高校生と大学生は150円となります。	general,attraction
+4458	6	USER	かしこまりました。本日はありがとうございました。	general,attraction
+4458	7	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,attraction

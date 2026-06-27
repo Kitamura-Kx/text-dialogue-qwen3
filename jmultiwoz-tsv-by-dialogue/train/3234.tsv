@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3234	0	USER	旅行で仙台へ行く予定なのですが、その時に買い物をするお店を探してもらえますか？	general,shopping,taxi
+3234	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,shopping,taxi
+3234	2	USER	はい、スポーツ用品を買いたいです。無料駐車場があるお店でお願いします。	general,shopping,taxi
+3234	3	SYSTEM	かしこまりました。では、スーパースポーツゼビオ 仙台泉中央店はいかがでしょうか？	general,shopping,taxi
+3234	4	USER	ありがとうございます。このお店の住所って分かりますか？	general,shopping,taxi
+3234	5	SYSTEM	はい。住所は宮城県仙台市泉区泉中央4-24-3です。	general,shopping,taxi
+3234	6	USER	ありがとうございます。当日は、キャッシュレス決済に対応しているタクシー会社も利用したいと思っています。	general,shopping,taxi
+3234	7	SYSTEM	かしこまりました。（株）帝産キャブ仙台はいかがでしょうか？	general,shopping,taxi
+3234	8	USER	はい、こちらの電話番号も教えてください。あと、タクシーの予約もお願いできますか？	general,shopping,taxi
+3234	9	SYSTEM	はい、可能ですよ。電話番号は0120117101です。	general,shopping,taxi
+3234	10	USER	それでは4/15の14:30に、スーパースポーツゼビオ 仙台泉中央店からの乗車予約をお願いします。行先は、蔵元 創夢里江です。	general,shopping,taxi
+3234	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、25625 です。	general,shopping,taxi
+3234	12	USER	ありがとうございます。	general,shopping,taxi
+3234	13	SYSTEM	いえいえ。ほかに何かご用件はありますか？	general,shopping,taxi
+3234	14	USER	これで全てです。ありがとうございました。	general,shopping,taxi
+3234	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

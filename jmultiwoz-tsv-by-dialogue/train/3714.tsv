@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3714	0	USER	すみません、大阪へ旅行を計画しているのですが。	general,hotel,taxi
+3714	1	SYSTEM	はい。何かお調べしましょうか？	general,hotel,taxi
+3714	2	USER	西成区で無料Wi-Fiが使える宿泊施設はありますか？簡易的なタイプの宿でお願いします。	general,hotel,taxi
+3714	3	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,taxi
+3714	4	USER	そうですか。ではWi-Fiはなくてもよいので他にありませんか？	general,hotel,taxi
+3714	5	SYSTEM	かしこまりました。では、ホテル東洋はいかがでしょうか？	general,hotel,taxi
+3714	6	USER	ありがとうございます。では、そちらで予約お願いします。7/31に4名で、2泊お願いしたいです。	general,hotel,taxi
+3714	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel,taxi
+3714	8	USER	そうですか。では、1泊ではできますか？	general,hotel,taxi
+3714	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、87447です。	general,hotel,taxi
+3714	10	USER	ありがとうございます。	general,hotel,taxi
+3714	11	SYSTEM	はい。他に用件はございませんか？	general,hotel,taxi
+3714	12	USER	では、キャッシュレス払いができるタクシー会社を探してください。	general,hotel,taxi
+3714	13	SYSTEM	かしこまりました。南タクシー株式会社はいかがでしょうか？	general,hotel,taxi
+3714	14	USER	そちらは、ジャンボタクシー対応可能ですか？	general,hotel,taxi
+3714	15	SYSTEM	はい。ご利用できますよ。	general,hotel,taxi
+3714	16	USER	そちらの電話番号はわかりますか？	general,hotel,taxi
+3714	17	SYSTEM	はい。電話番号は0667121331でございます。	general,hotel,taxi
+3714	18	USER	ありがとうございます。では、そちらで予約もお願いします。7/31の13：50にすしざんまい 道頓堀店を出発で、ホテル東洋までおねがいします。	general,hotel,taxi
+3714	19	SYSTEM	かしこまりました。ご予約承りました。予約番号は、72903です。	general,hotel,taxi
+3714	20	USER	ありがとうございます。	general,hotel,taxi
+3714	21	SYSTEM	はい。他にご用件はございませんか？	general,hotel,taxi
+3714	22	USER	特にありません。ありがとうございました。	general,hotel,taxi
+3714	23	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi

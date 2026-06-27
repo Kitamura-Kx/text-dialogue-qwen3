@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2079	0	USER	福岡の西区にある観光名所を教えてもらえますか？駐車場が無料で使えるところだと嬉しいです。	general,attraction,taxi
+2079	1	SYSTEM	かしこまりました。それではマリノアシティ福岡はいかがでしょうか？	general,attraction,taxi
+2079	2	USER	よさそうですね。当日利用できるタクシー会社も探してもらえますか？キャッシュレス決済とジャンボタクシーに対応しているところがいいです。	general,attraction,taxi
+2079	3	SYSTEM	かしこまりました。それではラッキー自動車（株）はいかがでしょうか？	general,attraction,taxi
+2079	4	USER	そこにします。電話番号も教えてもらえますか？	general,attraction,taxi
+2079	5	SYSTEM	はい。0925417755でございます。	general,attraction,taxi
+2079	6	USER	では、5/8の13:50に予約をお願いします。	general,attraction,taxi
+2079	7	SYSTEM	かしこまりました。出発地と目的地はどこになさいますか？	general,attraction,taxi
+2079	8	USER	出発地はマリノアシティ福岡、目的地はグランド ハイアット 福岡でお願いします。	general,attraction,taxi
+2079	9	SYSTEM	お待たせ致しました。それでは予約番号69947でお取りさせていただきました。	general,attraction,taxi
+2079	10	USER	わかりました。どうもありがとうございます。	general,attraction,taxi

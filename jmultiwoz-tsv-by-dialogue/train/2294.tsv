@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2294	0	USER	仙台の観光名所が知りたいのですが。	general,attraction,shopping,weather
+2294	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction,shopping,weather
+2294	2	USER	中野栄駅が最寄りの、駐車場とWi-Fiが無料のところはありますか？	general,attraction,shopping,weather
+2294	3	SYSTEM	仙台うみの杜水族館というところが、1件ご案内可能です。いかがでしょうか？	general,attraction,shopping,weather
+2294	4	USER	ではそちらの住所を教えてください。	general,attraction,shopping,weather
+2294	5	SYSTEM	かしこまりました。住所は、宮城県仙台市宮城野区中野4丁目6番地です。	general,attraction,shopping,weather
+2294	6	USER	ありがとうございます。	general,attraction,shopping,weather
+2294	7	SYSTEM	ほかに何かお調べしましょうか？	general,attraction,shopping,weather
+2294	8	USER	若林区で買い物ができるところはありますか？駐車場は無料のところでお願いします。	general,attraction,shopping,weather
+2294	9	SYSTEM	では、仙台場外市場 杜の市場という商店街はいかがでしょうか？	general,attraction,shopping,weather
+2294	10	USER	そちらは近辺の駅から、どれぐらいで着きますか？	general,attraction,shopping,weather
+2294	11	SYSTEM	卸町駅から徒歩で15分ほどでアクセスできます。	general,attraction,shopping,weather
+2294	12	USER	わかりました。	general,attraction,shopping,weather
+2294	13	SYSTEM	ほかにお知りになりたい情報はございませんか？	general,attraction,shopping,weather
+2294	14	USER	2月27日の太白区の天候が知りたいです。天気と最低気温をお願いします。	general,attraction,shopping,weather
+2294	15	SYSTEM	当日の天気は雨時々晴の予報です。最低気温は4.9度の予想となっております。	general,attraction,shopping,weather
+2294	16	USER	ありがとうございます。	general,attraction,shopping,weather
+2294	17	SYSTEM	ほかにお知りになりたい情報はございますか？	general,attraction,shopping,weather
+2294	18	USER	もう大丈夫です。ありがとうございました。	general,attraction,shopping,weather
+2294	19	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,attraction,shopping,weather

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3543	0	USER	横浜の観光名所を探してほしいです。	general,attraction
+3543	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction
+3543	2	USER	最寄り駅が洋光台駅のところにしてください．地区は磯子区です．	general,attraction
+3543	3	SYSTEM	でははまぎん こども宇宙科学館はいかがでしょうか。	general,attraction
+3543	4	USER	その観光名所のジャンル，近辺の駅からの所要時間が知りたいです。	general,attraction
+3543	5	SYSTEM	ジャンルは科学館、洋光台駅から徒歩で3分となっております。	general,attraction
+3543	6	USER	対応ありがとうございました。	general,attraction
+3543	7	SYSTEM	ありがとうございました。	general,attraction

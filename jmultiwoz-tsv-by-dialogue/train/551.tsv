@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+551	0	USER	名古屋に旅行を行く予定なのですが、買い物できるところを教えてください。	general,shopping,hotel
+551	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,hotel
+551	2	USER	はい。食料品が目当てで、駐車場を無料で利用できるところがいいです。	general,shopping,hotel
+551	3	SYSTEM	ではアイスランドマーケットはいかがでしょうか。	general,shopping,hotel
+551	4	USER	そこにします。定休日はわかりますか？	general,shopping,hotel
+551	5	SYSTEM	盆期間, 正月が定休日となっております。	general,shopping,hotel
+551	6	USER	わかりました。宿泊施設も探しているのですが、調べてくれますか？中川区です。	general,shopping,hotel
+551	7	SYSTEM	プチホテル ニューひふみがございますが、いかがでしょうか。	general,shopping,hotel
+551	8	USER	そこはレストランが併設されていますか？レストランが併設されているところがいいです。	general,shopping,hotel
+551	9	SYSTEM	はい。レストランも併設されております。	general,shopping,hotel
+551	10	USER	ではそこにします。そのホテルのタイプと電話番号を教えてください。	general,shopping,hotel
+551	11	SYSTEM	タイプはビジネスホテルで、電話番号は0523221239でございます。	general,shopping,hotel
+551	12	USER	ありがとうございます。	general,shopping,hotel
+551	13	SYSTEM	ほかにご用件はございませんか。	general,shopping,hotel
+551	14	USER	大丈夫です。ありがとうございました。	general,shopping,hotel
+551	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel

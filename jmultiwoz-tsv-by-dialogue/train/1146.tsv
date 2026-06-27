@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1146	0	USER	仙台へ旅行に行きたく、飲食店を探しています。	general,restaurant,weather
+1146	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,weather
+1146	2	USER	最寄駅は卸町駅で無料で駐車場を利用できるところがいいです。	general,restaurant,weather
+1146	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,restaurant,weather
+1146	4	USER	であれば、駐車場はなしで大丈夫です。	general,restaurant,weather
+1146	5	SYSTEM	ではお好み焼本舗 仙台卸町店はいかがですか。	general,restaurant,weather
+1146	6	USER	そこの最寄駅からの所要時間と住所を教えていただけますか。	general,restaurant,weather
+1146	7	SYSTEM	卸町駅から徒歩で1分でございます。住所は宮城県仙台市若林区卸町1丁目1-6でございます。	general,restaurant,weather
+1146	8	USER	ありがとうございます。ではそこを予約したいです。人数は2名、日時は11/13、09:40でお願いします。	general,restaurant,weather
+1146	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は35222でございます。	general,restaurant,weather
+1146	10	USER	ありがとうございます。あと当日11/13の若林区の天候を調べていただけますか。	general,restaurant,weather
+1146	11	SYSTEM	天気は晴時々曇、最低気温は9.5度で最高気温は16.1度となっております。	general,restaurant,weather
+1146	12	USER	ありがとうございます。	general,restaurant,weather
+1146	13	SYSTEM	ほかにご用件はございますか。	general,restaurant,weather
+1146	14	USER	大丈夫です。	general,restaurant,weather
+1146	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather

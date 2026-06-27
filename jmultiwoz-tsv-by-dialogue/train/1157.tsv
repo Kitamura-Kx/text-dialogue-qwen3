@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1157	0	USER	こんばんは！今、那覇旅行について考えてるので、ちょっとお調べいただけますか？	general,restaurant,attraction,shopping
+1157	1	SYSTEM	かしこまりました。お知りになりたい情報はございますか。	general,restaurant,attraction,shopping
+1157	2	USER	本庁地区にある、飲食店を探しています。予算は高めで考えてるんですけど、駐車場が無料で使える所で調べてもらえますか？	general,restaurant,attraction,shopping
+1157	3	SYSTEM	ではおもろダイニング 山葵はいかがでしょうか。	general,restaurant,attraction,shopping
+1157	4	USER	そこって、WiFiは使えますか？	general,restaurant,attraction,shopping
+1157	5	SYSTEM	Wi-Fiの有無は不明でございます。	general,restaurant,attraction,shopping
+1157	6	USER	そうなんですね。じゃぁ、あと、最寄り駅が儀保駅の、観光名所も探していただけますか？	general,restaurant,attraction,shopping
+1157	7	SYSTEM	かしこまりました。では虎瀬公園はいかがでしょうか。	general,restaurant,attraction,shopping
+1157	8	USER	そこは、駐車場があるかどうかって、わかりますか？	general,restaurant,attraction,shopping
+1157	9	SYSTEM	駐車場はございません。	general,restaurant,attraction,shopping
+1157	10	USER	そうなんですね。えっと、あと、真和志にある買い物ができるところも探してもらえますか？駐車場が無料で使えるところが良いです。	general,restaurant,attraction,shopping
+1157	11	SYSTEM	かしこまりました。ではタウンプラザかねひで与儀公園市場はいかがでしょうか。	general,restaurant,attraction,shopping
+1157	12	USER	ありがとうございます！メモしました。	general,restaurant,attraction,shopping
+1157	13	SYSTEM	ほかにご用件はございますか。	general,restaurant,attraction,shopping
+1157	14	USER	あとは大丈夫です。色々調べてもらって助かりました！ありがとうございました！	general,restaurant,attraction,shopping
+1157	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,shopping

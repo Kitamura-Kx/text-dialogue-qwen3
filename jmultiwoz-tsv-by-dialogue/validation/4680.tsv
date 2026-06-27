@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4680	0	USER	那覇市で最寄り駅が美栄橋駅で駐車場が無料のスーパーマーケットを探しているのですが	general,shopping,restaurant,taxi
+4680	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,restaurant,taxi
+4680	2	USER	では最寄り駅はどこでも大丈夫です	general,shopping,restaurant,taxi
+4680	3	SYSTEM	ありがとうございます。では、エリアでいうと真和志にある、タウンプラザかねひで与儀公園市場はいかがでしょう？	general,shopping,restaurant,taxi
+4680	4	USER	ではそちらの電話番号と営業時間を教えてください	general,shopping,restaurant,taxi
+4680	5	SYSTEM	はい、電話番号は0988323939、営業時間は9時から0時となります。	general,shopping,restaurant,taxi
+4680	6	USER	それでは当日のに行く飲食店も探しているのですがジャンルはイタリアン・フレンチで予算が高めが良いです	general,shopping,restaurant,taxi
+4680	7	SYSTEM	では、エリアでいうと本庁にある、鮨ダイニング かわしげ　はいかがでしょう？	general,shopping,restaurant,taxi
+4680	8	USER	そちらの営業時間を聞いてもよろしいでしょうか	general,shopping,restaurant,taxi
+4680	9	SYSTEM	はい、営業時間は17時30分から0時となります。	general,shopping,restaurant,taxi
+4680	10	USER	ではそちらで予約をしたいのですがよろしいですか	general,shopping,restaurant,taxi
+4680	11	SYSTEM	承知しました。人数と日時を教えていただけますか？	general,shopping,restaurant,taxi
+4680	12	USER	5/14、14時40分で四人でお願いします	general,shopping,restaurant,taxi
+4680	13	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,shopping,restaurant,taxi
+4680	14	USER	では３人でお願いします	general,shopping,restaurant,taxi
+4680	15	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、35821となります。	general,shopping,restaurant,taxi
+4680	16	USER	では当日ジャンボタクシーを利用したいのですがキャッスレスに対応しているところがいいのですが	general,shopping,restaurant,taxi
+4680	17	SYSTEM	承知しました。では、三和交通はいかがでしょう？電話番号は、0120100084となります。	general,shopping,restaurant,taxi
+4680	18	USER	では5/14の13:10に予約したいです。出発地点は与儀公園市場で目的地は鮨ダイニング かわしげで予約お願いします	general,shopping,restaurant,taxi
+4680	19	SYSTEM	承知しました。予約が完了し、ご予約番号は、61861となります。	general,shopping,restaurant,taxi
+4680	20	USER	かしこまりました以上で終わります	general,shopping,restaurant,taxi

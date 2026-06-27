@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2158	0	USER	こんにちは。京都へ行くことになったので、飲食店を探しています。アジア・エスニック料理でお安めの所はありますか？	general,restaurant,shopping,weather
+2158	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant,shopping,weather
+2158	2	USER	そうですか、では予算は考えなくて大丈夫ですので、探していただけますか？	general,restaurant,shopping,weather
+2158	3	SYSTEM	かしこまりました。それではサムギョプサル専門店ベジテジや 四条木屋町店はいかがでしょうか？	general,restaurant,shopping,weather
+2158	4	USER	そこにします、ありがとうございます。電話番号と料金を教えてください。	general,restaurant,shopping,weather
+2158	5	SYSTEM	電話番号は05052699229でございます。料金は【名物】センサムギョプサルが803円、【必食！】骨つきテジカルビが1078円、【名物】生キムチが440円でございます。	general,restaurant,shopping,weather
+2158	6	USER	ありがとうございます。近辺の駅からは所要時間どれくらいですか？	general,restaurant,shopping,weather
+2158	7	SYSTEM	はい、河原町駅から徒歩で1分、又は祇園四条駅から徒歩で1分でございます。	general,restaurant,shopping,weather
+2158	8	USER	ありがとうございます。買物もしたいのですけど、円町駅が最寄の駐車場無料のところってありますか？	general,restaurant,shopping,weather
+2158	9	SYSTEM	道の駅 ウッディー京北がお買い物ができます。	general,restaurant,shopping,weather
+2158	10	USER	ありがとうございます。そこの住所もお願いします。	general,restaurant,shopping,weather
+2158	11	SYSTEM	かしこまりました。住所は京都府京都市右京区京北周山町上寺田1-1でございます。	general,restaurant,shopping,weather
+2158	12	USER	ありがとうございます。それと、8/23の北区のお天気と最高気温をお願いします。	general,restaurant,shopping,weather
+2158	13	SYSTEM	かしこまりました。当日の北区のお天気は曇のち雨、最高気温は32.7度の予報でございます。	general,restaurant,shopping,weather
+2158	14	USER	暑そうですね。どうもありがとうございました。助かりました。	general,restaurant,shopping,weather
+2158	15	SYSTEM	ありがとうございます。その他に御用件はございますか？	general,restaurant,shopping,weather
+2158	16	USER	いいえ、大丈夫です。どうもありがとうございました。	general,restaurant,shopping,weather
+2158	17	SYSTEM	またお待ちしております。	general,restaurant,shopping,weather

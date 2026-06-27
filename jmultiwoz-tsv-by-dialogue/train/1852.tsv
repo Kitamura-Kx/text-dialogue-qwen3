@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1852	0	USER	東京でアジアのエスニック料理店を紹介してほしいんですけど。予算安めでお願いします。	general,restaurant,attraction,taxi
+1852	1	SYSTEM	かしこまりました。では、ディップパレス 四谷四丁目店はいかがでしょうか？	general,restaurant,attraction,taxi
+1852	2	USER	いい感じですね。そこのお店ってWi-Fiはありますか？	general,restaurant,attraction,taxi
+1852	3	SYSTEM	Wi-Fiの有無は不明となっております。Wi-Fiがあるところを探しなおしましょうか？	general,restaurant,attraction,taxi
+1852	4	USER	いやあ、そこまでは結構です。それとは別に駐車場無料の観光名所を教えてもらえませんか？	general,restaurant,attraction,taxi
+1852	5	SYSTEM	かしこまりました。では、根津神社はいかがでしょうか？	general,restaurant,attraction,taxi
+1852	6	USER	いいですね。神社大好きです。そこて大人は入場料がかかりますか？	general,restaurant,attraction,taxi
+1852	7	SYSTEM	いえ、大人も子供も入場料は無料となっております。	general,restaurant,attraction,taxi
+1852	8	USER	それならなおいいですね。えっとジャンボタクシーが使えるタクシー会社を教えてもらっていいですか？	general,restaurant,attraction,taxi
+1852	9	SYSTEM	かしこまりました。では、銀星交通はいかがでしょうか？キャッシュレスにも対応しています。	general,restaurant,attraction,taxi
+1852	10	USER	そこがいいですね。電話番号を聞いてもいいですか？あと、このまま予約ってありですか？	general,restaurant,attraction,taxi
+1852	11	SYSTEM	はい。できますよ。電話番号は0425750458です。出発時刻と、出発地と目的地はお決まりでしょうか？	general,restaurant,attraction,taxi
+1852	12	USER	助かります。9月2日の14時なんですけど、ディップパレス 四谷四丁目店から根津神社まででお願いします。	general,restaurant,attraction,taxi
+1852	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、25686です。	general,restaurant,attraction,taxi
+1852	14	USER	何から何までありがとうございました。お手数をおかけしました。	general,restaurant,attraction,taxi

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4274	0	USER	京都に行くので、観光名所を探しています。東山区で無料駐車場のあるところはありませんか？	general,attraction,restaurant,hotel
+4274	1	SYSTEM	では、安井金比羅宮はいかがでしょう？ジャンルは、神社、寺院、教会、モニュメントなど、となります。	general,attraction,restaurant,hotel
+4274	2	USER	そこにします。大人入場料と、Wi-Fiがあるかどうか教えてください。	general,attraction,restaurant,hotel
+4274	3	SYSTEM	大人入場料は必要なく、無料でご利用いただけます。申し訳ありません、Wi-Fiの有無については不明です。	general,attraction,restaurant,hotel
+4274	4	USER	わかりました。当日に食事をする予定で、貝と白ワインのバル KAKIMARU 七条店という飲食店を探しているのですが。	general,attraction,restaurant,hotel
+4274	5	SYSTEM	はい、エリアでいうと下京区にあり、ジャンルは、洋食、西洋料理となります。何をご案内致しましょう？	general,attraction,restaurant,hotel
+4274	6	USER	近くの駅からの所要時間が知りたいです。	general,attraction,restaurant,hotel
+4274	7	SYSTEM	はい、最寄りの京都駅から徒歩で9分となります。	general,attraction,restaurant,hotel
+4274	8	USER	ありがとうございます。では、9月6日の14時20分に、3人で予約を入れてください。	general,attraction,restaurant,hotel
+4274	9	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,attraction,restaurant,hotel
+4274	10	USER	じゃあ、人数は2人に変更します。	general,attraction,restaurant,hotel
+4274	11	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、38939となります。	general,attraction,restaurant,hotel
+4274	12	USER	ありがとうございます。当日泊まる、紡 松原御幸町もみじ邸という宿泊施設を探しているのですが。	general,attraction,restaurant,hotel
+4274	13	SYSTEM	はい、エリアでいうと下京区にある、簡易宿所となります。何をご案内致しましょう？	general,attraction,restaurant,hotel
+4274	14	USER	最寄り駅からの所要時間を教えてください。	general,attraction,restaurant,hotel
+4274	15	SYSTEM	はい、最寄りの四条駅から徒歩で7分となります。	general,attraction,restaurant,hotel
+4274	16	USER	予約を入れてほしいのですが。9月6日から4泊、2人でお願いします。	general,attraction,restaurant,hotel
+4274	17	SYSTEM	承知しました。予約が完了し、ご予約番号は、13322となります。	general,attraction,restaurant,hotel
+4274	18	USER	ありがとうございました。	general,attraction,restaurant,hotel
+4274	19	SYSTEM	ありがとうございました。	general,attraction,restaurant,hotel

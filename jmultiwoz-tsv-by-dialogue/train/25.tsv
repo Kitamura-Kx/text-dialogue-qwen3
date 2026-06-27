@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+25	0	USER	京都に旅行するんですけど、駐車場が無料の買い物できるところって有りませんか？	general,shopping,restaurant,weather
+25	1	SYSTEM	ご利用ありがとうございます。京都でお買い物ですね。無料駐車場完備のお店は、大丸京都店をはじめ、11件ほどございます。	general,shopping,restaurant,weather
+25	2	USER	大丸って百貨店ですよね、そこでいいです。そこの住所を教えてください。	general,shopping,restaurant,weather
+25	3	SYSTEM	かしこまりました。大丸京都店の住所は、京都府京都市下京区四条通高倉西入立売西町79です。	general,shopping,restaurant,weather
+25	4	USER	ありがとうございました。えっと、食事する場所も探してるんですけど、epiceっていうお店ありますか？	general,shopping,restaurant,weather
+25	5	SYSTEM	はい、epiceですね。ございます。京都の上京区ですが、お間違えございませんか？	general,shopping,restaurant,weather
+25	6	USER	そこだと思います。近い駅からどのぐらい時間かかりますかね？　住所も知りたいんですけど。	general,shopping,restaurant,weather
+25	7	SYSTEM	近くの駅からですと、出町柳駅から徒歩で8分、今出川駅からは徒歩で11分ほどかかります。住所は、京都府京都市上京区寺町通り今出川下る真如堂前町105です。	general,shopping,restaurant,weather
+25	8	USER	1月13日の16時から、2人で予約できますか？	general,shopping,restaurant,weather
+25	9	SYSTEM	大変申し訳ございません。1月13日の16時から2名様ではご予約をお取りすることができませんでした。	general,shopping,restaurant,weather
+25	10	USER	ええ！　しょうがないなあ、じゃあ16時40分からにします。それでも無理ですか？	general,shopping,restaurant,weather
+25	11	SYSTEM	ありがとうございます。1月13日16時40分から2名様で、確かにご予約承りました。ご予約番号は、18285でございます。	general,shopping,restaurant,weather
+25	12	USER	ああ、よかった。さすがですね。同じ1月13日の上京区の天候なんかも分かります？	general,shopping,restaurant,weather
+25	13	SYSTEM	はい。お調べいたしましたところ、1月13日の上京区は曇りの予報となっております。	general,shopping,restaurant,weather
+25	14	USER	曇りかあ、寒いのかなあ？　最低気温も分かったりしますか？	general,shopping,restaurant,weather
+25	15	SYSTEM	はい、最低気温は2.7度です。最高気温も7.1度までしか上がらないようです。	general,shopping,restaurant,weather
+25	16	USER	いやあ、なんでも分かっちゃうんですね。たすかりました。	general,shopping,restaurant,weather
+25	17	SYSTEM	こちらこそ、ご利用ありがとうございました。他にご用件はございますか？	general,shopping,restaurant,weather
+25	18	USER	今日はこれで十分です。お世話になりました。	general,shopping,restaurant,weather

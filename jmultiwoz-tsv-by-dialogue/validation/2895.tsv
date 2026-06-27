@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2895	0	USER	どうもこんにちは。札幌に旅行したいんです。その時泊まる宿泊施設を探してもらえませんか？	general,hotel,shopping
+2895	1	SYSTEM	はい、ご希望の条件をどうぞ	general,hotel,shopping
+2895	2	USER	できれば、駐車場代が無料で、予算は安めにと考えています。	general,hotel,shopping
+2895	3	SYSTEM	予算安め駐車場無料だとヒットしませんね。	general,hotel,shopping
+2895	4	USER	そうですか。では、予算は普通くらいまで引き上げることにします。	general,hotel,shopping
+2895	5	SYSTEM	それならば、JRタワーホテル日航札幌、こちらをおすすめします。	general,hotel,shopping
+2895	6	USER	こちらの施設の電話番号ってわかりますか？	general,hotel,shopping
+2895	7	SYSTEM	0112512222です。	general,hotel,shopping
+2895	8	USER	ありがとうございます。こちらで予約をしてもらってもいいですか？	general,hotel,shopping
+2895	9	SYSTEM	はい、人数と日付、宿泊日数をお願いいたします。	general,hotel,shopping
+2895	10	USER	10月19日から4泊、4人で利用したいと考えています。	general,hotel,shopping
+2895	11	SYSTEM	その条件だと予約に失敗してしまいました。	general,hotel,shopping
+2895	12	USER	そうなのですね。では、利用人数は3人に変更します。	general,hotel,shopping
+2895	13	SYSTEM	10月19日から4泊、3人で予約しました。予約番号は48517です。	general,hotel,shopping
+2895	14	USER	ありがとうございます。とても助かります。あと、ショッピングできるところも一緒に探してもらいたいんです。	general,hotel,shopping
+2895	15	SYSTEM	はい、ご希望をお聞かせください。	general,hotel,shopping
+2895	16	USER	書籍が買えるところで、南郷７丁目駅の最寄りだととても助かります。	general,hotel,shopping
+2895	17	SYSTEM	南郷７丁目でジャンル書籍だとヒットしませんね	general,hotel,shopping
+2895	18	USER	そうですか。じゃあ、購入できるものはなんでもいいので、南郷７丁目付近で買い物ができるお店を探して下さい。	general,hotel,shopping
+2895	19	SYSTEM	南郷７丁目でしたら、どんぐり 本店、こちら一択ですね。	general,hotel,shopping
+2895	20	USER	お調べいただきありがとうございます。こちらの電話番号を教えてもらえませんか。	general,hotel,shopping
+2895	21	SYSTEM	0118650006です。	general,hotel,shopping
+2895	22	USER	助かります。こちらのお店は駐車場は併設していますか？	general,hotel,shopping
+2895	23	SYSTEM	無料駐車場があります。	general,hotel,shopping
+2895	24	USER	とても助かりました。これで聞きたいことは全て聞けました。今日はありがとうございました。	general,hotel,shopping

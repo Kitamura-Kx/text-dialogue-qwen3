@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2237	0	USER	京都の右京区で食事のできるところを探しているんですけど。	general,restaurant,attraction
+2237	1	SYSTEM	京都右京区だとヒットしませんね	general,restaurant,attraction
+2237	2	USER	じゃあ地区はどこでもいいです。	general,restaurant,attraction
+2237	3	SYSTEM	９９件ヒットします。追加の希望条件はありますか？	general,restaurant,attraction
+2237	4	USER	すご、いっぱいあるんですね。とても分からないので、おすすめを紹介してください。営業時間と電話番号も合わせてお願いします。	general,restaurant,attraction
+2237	5	SYSTEM	では京都らしい和食はいかがですか。懐石・宿 近又。営業時間は昼１２時から１時半、夜は５時半から７時半までです。電話番号は0752211039になります。	general,restaurant,attraction
+2237	6	USER	京都で和食、ベストですね。ありがとうございます。あと、何か教室とかワークショップとか体験型の観光がしたいんですけど。駐車場が無料のところはありませんか？	general,restaurant,attraction
+2237	7	SYSTEM	その条件だと桂坂野鳥遊園がオススメです。	general,restaurant,attraction
+2237	8	USER	楽しそうな感じですね。電話番号を教えてください。近くの駅からはどのぐらいかかりますか？あ、それからWi-Fiって使えますかね？	general,restaurant,attraction
+2237	9	SYSTEM	電話番号は0753324610、WiFiは不明、桂駅や桂川駅からバスで25分、京都駅からバスで50分になります。	general,restaurant,attraction
+2237	10	USER	分かりました。いろいろ助かりました。お世話になりました。	general,restaurant,attraction

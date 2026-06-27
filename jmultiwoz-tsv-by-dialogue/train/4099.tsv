@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4099	0	USER	名古屋へ旅行を計画しております。名古屋市農業センターdelaふぁーむという観光名所はありますか？	general,attraction,restaurant,weather
+4099	1	SYSTEM	お待たせ致しました。はい、ございます。	general,attraction,restaurant,weather
+4099	2	USER	そちらのエリアと定休日、またWi-Fiの有無を教えてください。	general,attraction,restaurant,weather
+4099	3	SYSTEM	かしこまりました。エリアは天白区、定休日は月曜日でして、Wi-Fiの有無は分かりません。	general,attraction,restaurant,weather
+4099	4	USER	ありがとうございます。次に鍋が食べられる飲食店を探してください。予算は高めでお願いします。	general,attraction,restaurant,weather
+4099	5	SYSTEM	申し訳ありません。予算高めですと、該当する鍋のお店はお探しすることが出来ませんでした。	general,attraction,restaurant,weather
+4099	6	USER	それではジャンルは問いません。	general,attraction,restaurant,weather
+4099	7	SYSTEM	かしこまりました。それでは王様のフレンチはいかがでしょうか？	general,attraction,restaurant,weather
+4099	8	USER	そちらのWi-Fiと駐車場の有無を教えてください。	general,attraction,restaurant,weather
+4099	9	SYSTEM	Wi-Fiの有無は分かりません。申し訳ありません。駐車場は無料でご利用いただけます。	general,attraction,restaurant,weather
+4099	10	USER	承知しました。最後に5/11の千種区の天候を調べてほしいです。最高気温も知りたいです。	general,attraction,restaurant,weather
+4099	11	SYSTEM	お待たせ致しました。当日の天気は曇、最高気温は23.9度の予報でございます。	general,attraction,restaurant,weather
+4099	12	USER	ありがとうございます。こちらからは以上です。	general,attraction,restaurant,weather
+4099	13	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,restaurant,weather

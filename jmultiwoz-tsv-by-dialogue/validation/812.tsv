@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+812	0	USER	東京へ旅行予定なのですが、和食を食べれる高めの飲食店はありますか？Wi-Fiが無料で利用できるところがいいです。	general,restaurant,hotel,taxi
+812	1	SYSTEM	そういたしますと、3件ご案内可能です。たとえば、銀座 魚ばか、というお店がございますが、いかがでしょうか？	general,restaurant,hotel,taxi
+812	2	USER	そこにします。最寄り駅と住所を教えてください。	general,restaurant,hotel,taxi
+812	3	SYSTEM	最寄りは銀座一丁目駅です。銀座一丁目駅からでしたら徒歩1分でアクセスできます。住所は、東京都中央区銀座2丁目2-19 藤間ビルB1Fです。	general,restaurant,hotel,taxi
+812	4	USER	わかりました。予約をしたいのですが、3人で8/9の時間は11:00でできますか？	general,restaurant,hotel,taxi
+812	5	SYSTEM	申し訳ございません。その条件ですと、予約をとることができませんでした。いかがいたしましょうか？	general,restaurant,hotel,taxi
+812	6	USER	そうですか。であれば人数を2人に変更します。	general,restaurant,hotel,taxi
+812	7	SYSTEM	ありがとうございます。2名様で予約を完了いたしました。ご予約番号は、6741です、	general,restaurant,hotel,taxi
+812	8	USER	ありがとうございます。シティホテルタイプの宿泊施設も探してほしいです。駐車場を無料で利用できるところがいいです。	general,restaurant,hotel,taxi
+812	9	SYSTEM	かしこまりました。その条件ですと、2件ご案内可能です。たとえば、千代田区エリアにある、帝国ホテル東京というところはいかがでしょうか？	general,restaurant,hotel,taxi
+812	10	USER	そこにします。Wi-Fiの有無と近辺の駅からの所要時間も教えてください。	general,restaurant,hotel,taxi
+812	11	SYSTEM	WiFiは無料のものがご利用いただけます。アクセスは、有楽町駅から徒歩で5分、新橋駅から徒歩で7分、東京駅からタクシーで5分、日比谷駅から徒歩で3分、内幸町駅から徒歩で3分といった行き方がございます。	general,restaurant,hotel,taxi
+812	12	USER	わかりました。人数は3人で日付は8/9の、宿泊日数は3泊で予約をお願いします。	general,restaurant,hotel,taxi
+812	13	SYSTEM	かしこまりました。ご予約番号72349にて、承りました。	general,restaurant,hotel,taxi
+812	14	USER	ありがとうございます。当日タクシーを使う予定なのですが、ジャンボタクシーを利用できるところはありますか？	general,restaurant,hotel,taxi
+812	15	SYSTEM	申し訳ございません。東京では、ジャンボタクシーをご利用いただける会社で、ご案内できるところがございませんでした。	general,restaurant,hotel,taxi
+812	16	USER	そうですか。ならジャンボタクシーがなくても大丈夫です。	general,restaurant,hotel,taxi
+812	17	SYSTEM	ありがとうございます。では、寿交通はいかがでしょうか？	general,restaurant,hotel,taxi
+812	18	USER	そこにします。キャッシュレス対応しているかと電話番号を教えてください。	general,restaurant,hotel,taxi
+812	19	SYSTEM	はい、キャッシュレスのお支払いに対応しております。電話番号は、0422325189です。	general,restaurant,hotel,taxi
+812	20	USER	わかりました。日付は8/9で時間は12:10の予約をしたいです。出発地は銀座 魚ばかから目的地は帝国ホテル東京です。	general,restaurant,hotel,taxi
+812	21	SYSTEM	ご予約ありがとうございます。予約番号53108にて、承りました。	general,restaurant,hotel,taxi
+812	22	USER	ありがとうございます。	general,restaurant,hotel,taxi
+812	23	SYSTEM	ほかにお調べすることはございますか？	general,restaurant,hotel,taxi
+812	24	USER	いえ、もう大丈夫です。	general,restaurant,hotel,taxi
+812	25	SYSTEM	承知いたしました。ご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,restaurant,hotel,taxi

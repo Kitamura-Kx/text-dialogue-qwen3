@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+908	0	USER	名古屋への旅行を計画しています．	general,hotel,weather
+908	1	SYSTEM	承知しました。どちらに行かれますか	general,hotel,weather
+908	2	USER	名古屋のリゾートホテルタイプの宿泊施設を探しています。できればWi-Fiが無料で利用できるところがいいです。	general,hotel,weather
+908	3	SYSTEM	それでしたら、GOLD STAY 名古屋 栄(ゴールドステイ)という施設はいかがでしょう。	general,hotel,weather
+908	4	USER	そちらでおねがいいたします。値段帯と電話番号を教えていただけますか。	general,hotel,weather
+908	5	SYSTEM	値段帯は高めで、電話番号は0522610010です。	general,hotel,weather
+908	6	USER	わかりました。そこを人数2人で．日付は6/30で．4泊泊まれるように予約していただきたいです。	general,hotel,weather
+908	7	SYSTEM	承知しました。予約いたしました。予約番号は31000です	general,hotel,weather
+908	8	USER	ありがとうございました。	general,hotel,weather
+908	9	SYSTEM	こちらこそありがとうございました	general,hotel,weather
+908	10	USER	すみません。当日の天気を知りたいです。	general,hotel,weather
+908	11	SYSTEM	6月30日でしょうか。名古屋のどちらのエリアでしょうか。	general,hotel,weather
+908	12	USER	はい。名古屋の守山区の天気と最高気温が知りたいです。	general,hotel,weather
+908	13	SYSTEM	天気は曇で、最高気温は28.2度です。	general,hotel,weather
+908	14	USER	わかりました。ありがとうございました。	general,hotel,weather
+908	15	SYSTEM	こちらこそありがとうございました。	general,hotel,weather

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4438	0	USER	仙台へ旅行予定なのですが、宮城野区で駐車場を無料で利用できる買い物屋はありますか？	general,shopping,hotel,weather
+4438	1	SYSTEM	はい、JA仙台農産物直売所 たなばたけ 高砂店はいかがでしょう？ジャンルは、スーパーマーケットとなります。	general,shopping,hotel,weather
+4438	2	USER	そこにします。電話番号を教えてください。	general,shopping,hotel,weather
+4438	3	SYSTEM	はい、電話番号は、0223887318となります。	general,shopping,hotel,weather
+4438	4	USER	わかりました。あと、普通の値段位でWi-Fiが無料で使える旅館があれば教えてほしいです。	general,shopping,hotel,weather
+4438	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,hotel,weather
+4438	6	USER	そうなんですね。ではWi-Fiはなくてもかまいません。	general,shopping,hotel,weather
+4438	7	SYSTEM	ありがとうございます。エリアでいうと太白区にある、旅館仙秋はいかがでしょう？	general,shopping,hotel,weather
+4438	8	USER	そこにします。駐車場はありますか？	general,shopping,hotel,weather
+4438	9	SYSTEM	はい、無料でご利用いただけます。	general,shopping,hotel,weather
+4438	10	USER	ではそこで4人、6/8から4泊の予約をお願いします。	general,shopping,hotel,weather
+4438	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、98886となります。	general,shopping,hotel,weather
+4438	12	USER	ありがとうございます。あと、6/8の泉区の最高気温はどれくらいでしょうか。	general,shopping,hotel,weather
+4438	13	SYSTEM	はい、最高気温は27度となります。	general,shopping,hotel,weather
+4438	14	USER	ありがとうございました。	general,shopping,hotel,weather
+4438	15	SYSTEM	ありがとうございました。	general,shopping,hotel,weather

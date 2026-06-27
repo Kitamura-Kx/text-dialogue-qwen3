@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3396	0	USER	仙台へ旅行に行く予定があり、タクシーを利用したいので探してもらえませんか？	general,taxi
+3396	1	SYSTEM	仙台のタクシー会社を検索致しました。仙台第一交通（株）を含む6件ございます。いかがいたしますか？	general,taxi
+3396	2	USER	ジャンボタクシーを利用できるところにしたいのですが。	general,taxi
+3396	3	SYSTEM	申し訳ございません、ジャンボタクシーは仙台のタクシー会社ですとすべて非対応でございます。	general,taxi
+3396	4	USER	では、先程案内してもらった仙台第一交通（株）にします。電話番号を教えてください。	general,taxi
+3396	5	SYSTEM	仙台第一交通（株）の電話番号は、0222361221でございます。	general,taxi
+3396	6	USER	ありがとうございます。9月3日に七北田公園から、ホテルグランバッハ仙台まで予約をお願いします。	general,taxi
+3396	7	SYSTEM	承知いたしました。出発は何時になさいますか？	general,taxi
+3396	8	USER	13:00にします。	general,taxi
+3396	9	SYSTEM	9月3日に七北田公園から、ホテルグランバッハ仙台まで１３時のご出発でご予約いたしました。予約番号は77871でございます。	general,taxi
+3396	10	USER	予約ありがとうございました。	general,taxi
+3396	11	SYSTEM	他のご用命ございますか？	general,taxi
+3396	12	USER	いえ、大丈夫です。ありがとうございます。	general,taxi
+3396	13	SYSTEM	ありがとうございました。	general,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1486	0	USER	名古屋への旅行を計画中なのですが、東区で駐車場無料の買い物ができる施設を教えて下さい。	general,shopping,hotel,taxi
+1486	1	SYSTEM	承知しました。では、ウエルシア名古屋代官町店はいかがでしょう？何かご案内致しましょうか？	general,shopping,hotel,taxi
+1486	2	USER	「ウエルシア名古屋代官町店」の営業時間を教えて下さい。	general,shopping,hotel,taxi
+1486	3	SYSTEM	はい、営業時間は0時から0時となります。他にご案内できることはございますか？	general,shopping,hotel,taxi
+1486	4	USER	ありがとうございます、WiFiが無料の宿泊施設はありますか？	general,shopping,hotel,taxi
+1486	5	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しましょう？	general,shopping,hotel,taxi
+1486	6	USER	わかりました、WiFiは考慮しません。	general,shopping,hotel,taxi
+1486	7	SYSTEM	申し訳ありません。他にご希望はございますか？	general,shopping,hotel,taxi
+1486	8	USER	いえ他には特に希望はありません。	general,shopping,hotel,taxi
+1486	9	SYSTEM	では、エリアでいうと中区にございます、ザ タワーホテル ナゴヤはいかがでしょう？何かご案内致しましょうか？	general,shopping,hotel,taxi
+1486	10	USER	ありがとうございます、利用しようと思います。当日はタクシーを利用したいのですがキャッシュレス対応可能なタクシー会社はありますか？	general,shopping,hotel,taxi
+1486	11	SYSTEM	はい、では、名古屋エムケイはいかがでしょう？ジャンボタクシーにも対応しております。電話番号は0529125908となります。ご予約はいかがされますか？	general,shopping,hotel,taxi
+1486	12	USER	それでは「名古屋エムケイ」で予約をお願いします。12/13の11:50に「ウエルシア名古屋代官町店」から「ザ タワーホテル ナゴヤ」までお願いします。	general,shopping,hotel,taxi
+1486	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、60241となります。他にご用件はございますか？	general,shopping,hotel,taxi
+1486	14	USER	いえ大丈夫です、助かりました。有難うございました。	general,shopping,hotel,taxi
+1486	15	SYSTEM	ありがとうございました。	general,shopping,hotel,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2273	0	USER	仙台へ旅行に行くので、青葉区で買い物ができるところを探してもらえますか？	general,shopping,taxi
+2273	1	SYSTEM	仙台青葉区の買い物施設は２６件あります。他に追加の希望条件はありますか？	general,shopping,taxi
+2273	2	USER	いえ、とくにはないです。	general,shopping,taxi
+2273	3	SYSTEM	ならば、天然石ハンドメイドアクセサリー FUKANEをお勧めします。	general,shopping,taxi
+2273	4	USER	ありがとうございます。あと、ジャンボタクシーのあるタクシー会社を探してもらえますか？	general,shopping,taxi
+2273	5	SYSTEM	仙台にジャンボタクシー対応の会社はありません。	general,shopping,taxi
+2273	6	USER	そうなんですか。じゃあジャンボタクシーでなくても大丈夫です。	general,shopping,taxi
+2273	7	SYSTEM	いくつかタクシー会社はありますが、永楽交通（株）をお勧めします。	general,shopping,taxi
+2273	8	USER	その会社はキャッシュレス対応可能でしょうか？	general,shopping,taxi
+2273	9	SYSTEM	はい、対応しています。	general,shopping,taxi
+2273	10	USER	わかりました。じゃあそこの電話番号も教えてください。	general,shopping,taxi
+2273	11	SYSTEM	0222484546になります。	general,shopping,taxi
+2273	12	USER	ありがとうございます。予約もお願いできますか。5/17の13：30でさっきさがしていただいたお店から琲館 仙台東口店というところまで行きたいです。	general,shopping,taxi
+2273	13	SYSTEM	5/17の13：30、天然石ハンドメイドアクセサリー FUKANEから、琲館 仙台東口店まで、予約成功しました。予約番号は61404です。	general,shopping,taxi
+2273	14	USER	ありがとうございます。以上で結構です。	general,shopping,taxi
+2273	15	SYSTEM	よい旅を	general,shopping,taxi

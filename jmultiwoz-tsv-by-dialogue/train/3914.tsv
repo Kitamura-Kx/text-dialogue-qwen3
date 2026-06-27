@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3914	0	USER	札幌への旅行を計画中で、円山別邸という飲食店を利用する予定です。料金情報と営業時間、電話番号を教えてください。	general,restaurant,hotel
+3914	1	SYSTEM	はい、電話番号は、0112155584、営業時間は11時から15時と、17時から23時となります。料金情報は、不明となります。	general,restaurant,hotel
+3914	2	USER	ありがとうございます。当日最寄り駅が中央区役所前停留所で、無料駐車場付きの宿泊施設を探しているのですが、ありますか？	general,restaurant,hotel
+3914	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,hotel
+3914	4	USER	分かりました。では、駐車場は無くても構いません。	general,restaurant,hotel
+3914	5	SYSTEM	ありがとうございます。エリアでいうと中央区にある、札幌プリンスホテルはいかがでしょう？タイプは、シティホテルとなります。	general,restaurant,hotel
+3914	6	USER	そこにしようと思います。レストランはありますか？	general,restaurant,hotel
+3914	7	SYSTEM	はい、ございます。	general,restaurant,hotel
+3914	8	USER	ありがとうございます。4/9に2名で3泊予約して欲しいのですが可能でしょうか	general,restaurant,hotel
+3914	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、63494となります。	general,restaurant,hotel
+3914	10	USER	助かります。ありがとうございました。	general,restaurant,hotel
+3914	11	SYSTEM	ありがとうございました。	general,restaurant,hotel

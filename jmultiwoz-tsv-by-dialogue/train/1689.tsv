@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1689	0	USER	京都へ旅行に行きたく、上京区で買い物ができるところを探してほしいです。できれば無料の駐車場があると嬉しいです。	general,shopping,taxi
+1689	1	SYSTEM	かしこまりました。では、山田松香木店はいかがですか。	general,shopping,taxi
+1689	2	USER	そこの電話番号を教えてください。	general,shopping,taxi
+1689	3	SYSTEM	電話番号は0754411123でございます。	general,shopping,taxi
+1689	4	USER	ありがとうございます。当日タクシーを利用したく、株式会社エコロ２１というタクシー会社はありますか？	general,shopping,taxi
+1689	5	SYSTEM	はい。ございます。	general,shopping,taxi
+1689	6	USER	そこの電話番号とジャンボタクシーはあるか知りたいです。	general,shopping,taxi
+1689	7	SYSTEM	電話番号は0758032228でございます。こちらジャンボタクシーにも対応しております。	general,shopping,taxi
+1689	8	USER	ありがとうございます。それでは予約をお願いします。日時は8/14、11:30で出発地は京都タワーから山田松香木店まででお願いします。	general,shopping,taxi
+1689	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は44482でございます。	general,shopping,taxi
+1689	10	USER	ありがとうございます。こちらからは以上です。	general,shopping,taxi
+1689	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

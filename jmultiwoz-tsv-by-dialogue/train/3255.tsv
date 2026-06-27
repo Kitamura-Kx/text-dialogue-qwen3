@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3255	0	USER	こんにちは。京都で泊まるところを探しています。高めの予算で、駐車場が無料のところはありますか？	general,hotel,shopping,attraction
+3255	1	SYSTEM	高め予算で駐車場無料といえば、ずばり、京都 高瀬川別邸になります。	general,hotel,shopping,attraction
+3255	2	USER	WiFiが無料だと助かるのですが。	general,hotel,shopping,attraction
+3255	3	SYSTEM	Wifiも無料です	general,hotel,shopping,attraction
+3255	4	USER	レストランはついてますか？	general,hotel,shopping,attraction
+3255	5	SYSTEM	あいにくレストランはついていません	general,hotel,shopping,attraction
+3255	6	USER	そうですか。チェックアウトは何時まででしょうか？	general,hotel,shopping,attraction
+3255	7	SYSTEM	10時チェックアウトです	general,hotel,shopping,attraction
+3255	8	USER	わかりました。あと買い物ができるところも探してもらえますか？中京区あたりで、無料駐車場付きのところが希望です。	general,hotel,shopping,attraction
+3255	9	SYSTEM	京都中京区に無料駐車場付きの買い物施設はありません	general,hotel,shopping,attraction
+3255	10	USER	では、駐車場は有料でも構いません。	general,hotel,shopping,attraction
+3255	11	SYSTEM	駐車場有料でよければ、京都錦市場商店街がオススメです。	general,hotel,shopping,attraction
+3255	12	USER	ではそこにします。そこの電話番号をお願いします。	general,hotel,shopping,attraction
+3255	13	SYSTEM	0752113882になります。	general,hotel,shopping,attraction
+3255	14	USER	わかりました。あと、山科区エリアで、観光名所もありますかね？庭園が見たいんですが。	general,hotel,shopping,attraction
+3255	15	SYSTEM	京都山科区には庭園はなさそうです	general,hotel,shopping,attraction
+3255	16	USER	それでは、庭園でなくてもいいです。	general,hotel,shopping,attraction
+3255	17	SYSTEM	京都山科区の公園、勧修寺観光農園をオススメします。	general,hotel,shopping,attraction
+3255	18	USER	そこだと、定休日はありますか？	general,hotel,shopping,attraction
+3255	19	SYSTEM	あれ、定休日の記載がないですね、申し訳ありませんが、ちょっとよくわかりません。	general,hotel,shopping,attraction
+3255	20	USER	構いません。あと営業時間も教えてください。	general,hotel,shopping,attraction
+3255	21	SYSTEM	季節により異なるようです。	general,hotel,shopping,attraction
+3255	22	USER	そうですか。では、今日はこの辺で失礼したいと思います。	general,hotel,shopping,attraction
+3255	23	SYSTEM	よい旅を	general,hotel,shopping,attraction
+3255	24	USER	はい、ありがとうございました。	general,hotel,shopping,attraction

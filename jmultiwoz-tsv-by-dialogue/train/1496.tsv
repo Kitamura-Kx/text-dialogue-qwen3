@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1496	0	USER	福岡でレストランを併設している宿泊施設はありますか？予算は高めです。	general,hotel,restaurant,taxi
+1496	1	SYSTEM	申し訳ありません。その条件ではご案内できないのですが、いかが致しましょう？	general,hotel,restaurant,taxi
+1496	2	USER	では予算の条件を除いてください。	general,hotel,restaurant,taxi
+1496	3	SYSTEM	他にご希望はございますか？	general,hotel,restaurant,taxi
+1496	4	USER	他は特にございません。	general,hotel,restaurant,taxi
+1496	5	SYSTEM	では、エリアが中央区にある、UNPLAN Fukuokaはいかがでしょう？	general,hotel,restaurant,taxi
+1496	6	USER	最寄り駅と住所も教えて頂けますか？	general,hotel,restaurant,taxi
+1496	7	SYSTEM	はい、住所は福岡県福岡市中央区大手門3丁目4-1、最寄りの大濠公園駅から徒歩で1分となります。	general,hotel,restaurant,taxi
+1496	8	USER	ありがとうございます。飲食店も聞いていいですか？東区で、駐車場無料のところでお願いします。	general,hotel,restaurant,taxi
+1496	9	SYSTEM	はい、では、照鮨はいかがでしょう？ジャンルは寿司、魚料理となります。	general,hotel,restaurant,taxi
+1496	10	USER	そちらで予約お願いします。11/27の16:50で、3人での利用です。	general,hotel,restaurant,taxi
+1496	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、3819となります。	general,hotel,restaurant,taxi
+1496	12	USER	最後にタクシー情報もお願いします。ジャンボタクシーに対応されているところがいいのですが。	general,hotel,restaurant,taxi
+1496	13	SYSTEM	ラッキー自動車（株）はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0925417755となります。	general,hotel,restaurant,taxi
+1496	14	USER	では予約をお願いします。11/27の15時で、UNPLAN Fukuokaから照鮨までの利用です。	general,hotel,restaurant,taxi
+1496	15	SYSTEM	承知しました。予約が完了し、ご予約番号は、72307となります。	general,hotel,restaurant,taxi
+1496	16	USER	ありがとうございます。	general,hotel,restaurant,taxi

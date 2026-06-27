@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2030	0	USER	名古屋に行くんですが、駐車場が無料のエンタメやアミューズメントの観光名所ありますか？	general,attraction
+2030	1	SYSTEM	エリアでいうと港区に1件のみ、とだがわこどもランドがございます。	general,attraction
+2030	2	USER	そこの料金情報を教えてください。	general,attraction
+2030	3	SYSTEM	料金情報としては、無料、一部有料の乗物遊具有り、となっております。	general,attraction
+2030	4	USER	教えていただきありがとうございました。	general,attraction
+2030	5	SYSTEM	他にご用件はございますか？	general,attraction
+2030	6	USER	大丈夫です。ありがとうございました。	general,attraction
+2030	7	SYSTEM	ありがとうございました。	general,attraction

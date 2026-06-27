@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1158	0	USER	こんばんは。今度、大阪へ旅行に行く予定なので、案内をお願いしたいです。	general,shopping
+1158	1	SYSTEM	かしこまりました。お知りになりたい情報はございますか。	general,shopping
+1158	2	USER	中央区にある、買い物ができるところって、どこか良い所はありますか？	general,shopping
+1158	3	SYSTEM	ご希望の条件はございますか。	general,shopping
+1158	4	USER	他には特にありません。	general,shopping
+1158	5	SYSTEM	では食品サンプル専門店 デザインポケット 大阪本店はいかがでしょうか。	general,shopping
+1158	6	USER	面白そうなお店ですが、そちらはどんなジャンルのお店になるんですか？	general,shopping
+1158	7	SYSTEM	ジャンルは文房具・雑貨, お土産, その他でございます。	general,shopping
+1158	8	USER	そうなんですね。ありがとうございます！あと、近辺の駅からの所要時間についても、ご案内いただけますか？	general,shopping
+1158	9	SYSTEM	近辺の駅からの所要時間は、なんば駅から徒歩で5分、難波駅から徒歩で3分でございます。	general,shopping
+1158	10	USER	ありがとうございます！	general,shopping
+1158	11	SYSTEM	ほかにご用件はございますか。	general,shopping
+1158	12	USER	あとは、もう大丈夫です。ご案内、ありがとうございました！	general,shopping
+1158	13	SYSTEM	承知しました。ありがとうございました。	general,shopping

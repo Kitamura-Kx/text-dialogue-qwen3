@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1847	0	USER	大阪でジャンボタクシーが使えるタクシー会社を紹介してほしいんですけど。	general,taxi
+1847	1	SYSTEM	かしこまりました。では、榮交通株式会社はいかがでしょうか？キャッシュレスにも対応しております。	general,taxi
+1847	2	USER	電話番号も教えてください。このまま予約もお願いできますか？	general,taxi
+1847	3	SYSTEM	はい。電話番号は0669624641になります。予約かしこまりました。出発時刻と、出発地と目的地はお決まりでしょうか？	general,taxi
+1847	4	USER	助かります。8月22日の11時30分、muse umekitaというところを出て、ホテルモントレ ル・フレール大阪までです。	general,taxi
+1847	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、59393です。	general,taxi
+1847	6	USER	いやあ、予約もできちゃうなんて便利ですね。ありがとうございました。	general,taxi

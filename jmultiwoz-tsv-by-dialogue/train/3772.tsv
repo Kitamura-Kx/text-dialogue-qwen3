@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3772	0	USER	仙台への旅行を計画しているのですが、買い物ができる場所を探してもらえますか？太白区で、駐車場が無料の場所が良いのですが。	general,shopping,attraction,restaurant
+3772	1	SYSTEM	承知しました。では、ララガーデン長町はいかがでしょう？ジャンルは、ショッピングモールとなります。	general,shopping,attraction,restaurant
+3772	2	USER	ありがとうございます。そちらの最寄り駅を教えてもらえますか？	general,shopping,attraction,restaurant
+3772	3	SYSTEM	はい、最寄りの長町駅から徒歩で9分となります。	general,shopping,attraction,restaurant
+3772	4	USER	青葉区で、Wi-Fiが無料で利用できる観光名所も探してもらえますか？	general,shopping,attraction,restaurant
+3772	5	SYSTEM	承知しました。では、エル・パーク仙台はいかがでしょう？ジャンルは、その他となります。	general,shopping,attraction,restaurant
+3772	6	USER	そちらにします。食事ができるお店はありますか？カフェ・スイーツで、Wi-Fiと駐車場が無料の場所を希望しているのですが。	general,shopping,attraction,restaurant
+3772	7	SYSTEM	では、エリアでいうと泉区にある、岳山珈琲はいかがでしょう？	general,shopping,attraction,restaurant
+3772	8	USER	そちらの定休日はわかりますか？	general,shopping,attraction,restaurant
+3772	9	SYSTEM	はい、定休日は、第１火曜日と第３火曜日、水曜日となります。	general,shopping,attraction,restaurant
+3772	10	USER	そちらを6/3の13:30から４名で予約をお願いできますか？	general,shopping,attraction,restaurant
+3772	11	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,shopping,attraction,restaurant
+3772	12	USER	じゃあ3名でお願いします。	general,shopping,attraction,restaurant
+3772	13	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、30345となります。	general,shopping,attraction,restaurant
+3772	14	USER	ありがとうございました。	general,shopping,attraction,restaurant
+3772	15	SYSTEM	ありがとうございました。	general,shopping,attraction,restaurant

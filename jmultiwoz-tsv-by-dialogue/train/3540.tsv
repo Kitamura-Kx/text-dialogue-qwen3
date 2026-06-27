@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3540	0	USER	東京へ旅行をするのですが、明治神宮前〈原宿〉駅の近くで買い物ができるところはありませんか？	general,shopping
+3540	1	SYSTEM	かしこまりました。では、ラフォーレ原宿はいかがでしょうか。	general,shopping
+3540	2	USER	駐車場が無料のところがいいのですが、ラフォーレ原宿はどうですか？	general,shopping
+3540	3	SYSTEM	はい。駐車場無料でございます。	general,shopping
+3540	4	USER	良かった。では営業時間と住所を教えてください。	general,shopping
+3540	5	SYSTEM	営業時間は11:00～20:00で、住所が東京都渋谷区神宮前1丁目11-6でございます。	general,shopping
+3540	6	USER	わかりました。ありがとうございました。	general,shopping
+3540	7	SYSTEM	本日はありがとうございました。	general,shopping

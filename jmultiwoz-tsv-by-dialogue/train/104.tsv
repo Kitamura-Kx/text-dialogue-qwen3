@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+104	0	USER	こんにちは！ 今度、福岡へ旅行に行く計画を立てているところでして、ご案内いただけますでしょうか。	general,attraction,hotel,taxi
+104	1	SYSTEM	承知致しました。どのようなことをご案内致しましょう？	general,attraction,hotel,taxi
+104	2	USER	まず、観光名所を探していただきたいのですが、東区にある、WiFiが無料で使えるところは、どこか良い所、ありますでしょうか？	general,attraction,hotel,taxi
+104	3	SYSTEM	申し訳ございません。その条件ですとご紹介可能なところがございません。	general,attraction,hotel,taxi
+104	4	USER	そうなんですね。それでは、中央区でしたら、ありますでしょうか？	general,attraction,hotel,taxi
+104	5	SYSTEM	ありがとうございます。 それでは、福岡市動植物園はいかがでしょう？	general,attraction,hotel,taxi
+104	6	USER	そういったところがあるんですね！ご案内、ありがとうございます。福岡市動植物園の電話番号は、わかりますでしょうか？	general,attraction,hotel,taxi
+104	7	SYSTEM	はい、電話番号は、0925311968となります。	general,attraction,hotel,taxi
+104	8	USER	ありがとうございます！ あと、当日に泊まる宿泊施設も探しているところなんですが、希望としては予算は普通で、WiFiが無料で使えるところでしたら、どこでも大丈夫です。	general,attraction,hotel,taxi
+104	9	SYSTEM	承知致しました。 それでは、WITH THE STYLE FUKUOKAはいかがでしょう？	general,attraction,hotel,taxi
+104	10	USER	そちらは、施設の名称ということで合っていますか？	general,attraction,hotel,taxi
+104	11	SYSTEM	はい、さようでございます。	general,attraction,hotel,taxi
+104	12	USER	かしこまりました！ それでは、そちらの施設の電話番号と、あと、レストランがあるかどうかを教えていただいてもよろしいですか？	general,attraction,hotel,taxi
+104	13	SYSTEM	はい、電話番号は、0924333900となります。 また、ホテル内にレストランがございます。	general,attraction,hotel,taxi
+104	14	USER	そうなんですね！ では、そちらに泊まろうかと思いますので、予約をお願いいたします。 人数は２人、日付は８月４日、宿泊日数は4泊でお願いいたします。	general,attraction,hotel,taxi
+104	15	SYSTEM	ありがとございます。 ご予約完了致しました。 予約番号は、14870　となります。	general,attraction,hotel,taxi
+104	16	USER	ありがとうございます。承知しました！ あと、もう一つあるんですが、ジャンボタクシーを利用できるタクシー会社についても、お調べいただいてもよろしいでしょうか？	general,attraction,hotel,taxi
+104	17	SYSTEM	はい、それでは、日新交通（株）はいかがでしょう？ ジャンボタクシー、キャッシュレスに対応しております。	general,attraction,hotel,taxi
+104	18	USER	ありましたか、良かったです！ それでは、そちらのタクシーの予約をお願いしたいのですが、依頼内容をお伝えしてもよろしいですか？	general,attraction,hotel,taxi
+104	19	SYSTEM	承知致しました。 日付、出発時刻、出発地、目的地をお願い致します。	general,attraction,hotel,taxi
+104	20	USER	はい、それでは、８月４日の１０時５０分に、福岡市動植物園から、WITH THE STYLE FUKUOKAまででお願いいたします。	general,attraction,hotel,taxi
+104	21	SYSTEM	申し訳ございません、その条件ではご予約できませんでした。 いかが致しましょう？	general,attraction,hotel,taxi
+104	22	USER	そうなんですね。それでは、時間を１１時２０分に変更でお願いできますか？	general,attraction,hotel,taxi
+104	23	SYSTEM	ありがとうございます。 ご予約完了致しました。 予約番号は、58650　となります。	general,attraction,hotel,taxi
+104	24	USER	承知いたしました！ 色々とご案内いただき、助かりました。	general,attraction,hotel,taxi
+104	25	SYSTEM	他にご用件はございますか？	general,attraction,hotel,taxi
+104	26	USER	いえ、あとは大丈夫です。この度は、ありがとうございました！また、よろしくお願いします。	general,attraction,hotel,taxi
+104	27	SYSTEM	承知致しました。 ありがとうございました。	general,attraction,hotel,taxi

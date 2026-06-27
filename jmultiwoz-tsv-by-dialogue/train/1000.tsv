@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1000	0	USER	那覇へ旅行予定なのですが、コンビニを調べてください。	general,shopping
+1000	1	SYSTEM	那覇のコンビニですね。そうしますと2店あるのですが、ローソン 那覇牧志公園前店と、ファミリーマート さいおんスクエア店のどちらをご案内いたしましょうか？	general,shopping
+1000	2	USER	ローソン 那覇牧志公園前店でおねがいします。電話番号を教えてください。	general,shopping
+1000	3	SYSTEM	かしこまりました。ローソン 那覇牧志公園前店の電話番号は、0988674355でございます。	general,shopping
+1000	4	USER	ありがとうございます。	general,shopping
+1000	5	SYSTEM	他になにかお調べすることはございますか？	general,shopping
+1000	6	USER	いえ、大丈夫です。	general,shopping
+1000	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

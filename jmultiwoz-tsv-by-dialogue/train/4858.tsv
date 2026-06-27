@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4858	0	USER	京都へ旅行しようと思っています。丸太町駅が最寄りの観光名所はありますか？できれば美術館とか博物館がいいです。	general,attraction,shopping,restaurant
+4858	1	SYSTEM	丸太町に美術館博物館はなさそうです。	general,attraction,shopping,restaurant
+4858	2	USER	最寄り駅にこだわらなければありますか？	general,attraction,shopping,restaurant
+4858	3	SYSTEM	はい、いくつかありますが、京都市京セラ美術館、こちらをお勧めします。	general,attraction,shopping,restaurant
+4858	4	USER	子供入場料はいくらですか？	general,attraction,shopping,restaurant
+4858	5	SYSTEM	企画により異なるようです。	general,attraction,shopping,restaurant
+4858	6	USER	そうですか。ところで、買い物ができるところも探しています。右京区で無料の駐車場があるとこはありますか？	general,attraction,shopping,restaurant
+4858	7	SYSTEM	右京区で無料駐車場のある買い物スポットならば、伊藤常嵐山店がオススメです。	general,attraction,shopping,restaurant
+4858	8	USER	定休日を教えてください。	general,attraction,shopping,restaurant
+4858	9	SYSTEM	定休日はありません。	general,attraction,shopping,restaurant
+4858	10	USER	それから、当日の飲食店で、予算が普通で、Wi-Fiが無料のところはありますか？	general,attraction,shopping,restaurant
+4858	11	SYSTEM	京都で値段帯普通、WiFi無料の飲食店といえば、フィゲラス 烏丸店、こちら一択です。	general,attraction,shopping,restaurant
+4858	12	USER	営業時間は？	general,attraction,shopping,restaurant
+4858	13	SYSTEM	夜５時から１１時までです。	general,attraction,shopping,restaurant
+4858	14	USER	住所も教えていただけますか？	general,attraction,shopping,restaurant
+4858	15	SYSTEM	京都府京都市中京区蛸薬師通烏丸東入ル一蓮社町300 バームビルB1です。	general,attraction,shopping,restaurant
+4858	16	USER	では、予約をお願いします。10月17日14時40分で2名で。	general,attraction,shopping,restaurant
+4858	17	SYSTEM	予約に成功しました。予約番号は28303です。	general,attraction,shopping,restaurant
+4858	18	USER	手配していただきありがとうございました。	general,attraction,shopping,restaurant
+4858	19	SYSTEM	よい旅を	general,attraction,shopping,restaurant

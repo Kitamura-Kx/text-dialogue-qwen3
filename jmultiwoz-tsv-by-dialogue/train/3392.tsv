@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3392	0	USER	大阪へ旅行に行くので、ファッション系の買い物ができるところを探してください。	general,shopping,restaurant,weather
+3392	1	SYSTEM	"承知致しました。大阪のファッションを取り扱うお買い物スポットは、THE FLAVOR DESIGN® FLAGSHIP STORE ""OSAKA""を含む6件ございます。"	general,shopping,restaurant,weather
+3392	2	USER	心斎橋駅の近くにあるところがいいです。	general,shopping,restaurant,weather
+3392	3	SYSTEM	心斎橋駅が最寄りの条件ですと、The British Bag心斎橋店のみ候補が出てきました。いかがでしょうか？	general,shopping,restaurant,weather
+3392	4	USER	そこにします。あと、イタリアン・フレンチの飲食店も探してください。	general,shopping,restaurant,weather
+3392	5	SYSTEM	承知いたしました。飲食店も心斎橋駅が最寄りの条件でお間違いないでしょうか？	general,shopping,restaurant,weather
+3392	6	USER	最寄り駅はどこでもいいです。	general,shopping,restaurant,weather
+3392	7	SYSTEM	かしこまりました。大阪のイタリアン・フレンチのジャンルの飲食店はケラケラ クランツという店舗を含む36件該当がございます。	general,shopping,restaurant,weather
+3392	8	USER	なるほど、価格帯は普通のところがいいですね。	general,shopping,restaurant,weather
+3392	9	SYSTEM	承知しました。価格帯を普通の条件にしたところ、大衆ビストロ 匠を含む13件に絞れました。いかがいたしますか？	general,shopping,restaurant,weather
+3392	10	USER	いいですね。ここお店の最寄り駅と定休日を教えてください。	general,shopping,restaurant,weather
+3392	11	SYSTEM	ありがとうございます。大衆ビストロ 匠の最寄り駅は、西中島南方駅で、定休日はございません。	general,shopping,restaurant,weather
+3392	12	USER	Wi-Fiはありますか？	general,shopping,restaurant,weather
+3392	13	SYSTEM	申し訳ございません、wiｰfiにつきましては、条件の記載が不明となっております。	general,shopping,restaurant,weather
+3392	14	USER	わかりました。5月28日の13:40に、2人で予約してください。	general,shopping,restaurant,weather
+3392	15	SYSTEM	申し訳ございません。ご指定の人数とお時間ではご予約が出来ませんでした。	general,shopping,restaurant,weather
+3392	16	USER	では、1人で予約できますか？	general,shopping,restaurant,weather
+3392	17	SYSTEM	1名様でご予約が出来ました。予約番号は32334でございます。	general,shopping,restaurant,weather
+3392	18	USER	ありがとうございます。あと、5月28日の西成区の天候を知りたいのですが。	general,shopping,restaurant,weather
+3392	19	SYSTEM	大阪、西成区の5月28日の天気は、曇のち晴でございます。	general,shopping,restaurant,weather
+3392	20	USER	最高気温も教えてください。	general,shopping,restaurant,weather
+3392	21	SYSTEM	最高気温は26.1度でございます。	general,shopping,restaurant,weather
+3392	22	USER	わかりました。ありがとうございます。	general,shopping,restaurant,weather
+3392	23	SYSTEM	他になにかご用命ございますか？	general,shopping,restaurant,weather
+3392	24	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,restaurant,weather
+3392	25	SYSTEM	ありがとうございました。	general,shopping,restaurant,weather

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3402	0	USER	京都へ旅行に行くので、宿泊施設を探してください。	general,hotel
+3402	1	SYSTEM	承知しました。京都の宿泊施設ですと100件以上該当がございます。条件などございましたらお聞かせください。	general,hotel
+3402	2	USER	無料Wi-Fiが使えて、レストランが併設されているところにしたいです。あと安めのところにしてください。	general,hotel
+3402	3	SYSTEM	条件に合う施設が京都山科 ホテル山楽ほか43件ございますが、いかがいたしますか？	general,hotel
+3402	4	USER	京都山科 ホテル山楽は、どのエリアにありますか？	general,hotel
+3402	5	SYSTEM	山科区というエリアでございます。	general,hotel
+3402	6	USER	山科区ですね。では7月6日から4泊、3人で予約をお願いします。	general,hotel
+3402	7	SYSTEM	7月6日から4泊、3名様でご予約が完了しました。予約番号は、64968でございます。	general,hotel
+3402	8	USER	予約、ありがとうございます。	general,hotel
+3402	9	SYSTEM	他にご用命ございますか？	general,hotel
+3402	10	USER	いえ、大丈夫です。ありがとうございました。	general,hotel
+3402	11	SYSTEM	ありがとうございました。	general,hotel

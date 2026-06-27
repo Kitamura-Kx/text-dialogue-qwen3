@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4028	0	USER	京都に行きたいのですが、どこかいいレストランはありますか？Wi-Fi無料のところがいいです。	general,restaurant,weather
+4028	1	SYSTEM	承知しました。では、エリアでいうと中京区にある、いっかくじゅう 四条新町店はいかがでしょう？ジャンルは、お好み焼き、たこ焼きとなります。	general,restaurant,weather
+4028	2	USER	ありがとうございます！できたら下京区で探していただけますか。	general,restaurant,weather
+4028	3	SYSTEM	申し訳ありません、下京区ではご案内ができません。いかが致しましょう？	general,restaurant,weather
+4028	4	USER	わかりました。いっかくじゅう 四条新町店は値段的にはお安いですか？	general,restaurant,weather
+4028	5	SYSTEM	はい、値段帯は安めとなります。	general,restaurant,weather
+4028	6	USER	ありがとうございます。そちらの住所を教えてもらえますか。	general,restaurant,weather
+4028	7	SYSTEM	はい、住所は、京都府京都市中京区新町通錦小路下る小結棚町435 ジェイ・プライド四条烏丸1Fとなります。	general,restaurant,weather
+4028	8	USER	ありがとうございます。8/12に行く予定ですが、東山区の天気はどうでしょうか？	general,restaurant,weather
+4028	9	SYSTEM	はい、天気は曇時々晴、最低気温22.6度、最高気温41.1度となります。	general,restaurant,weather
+4028	10	USER	ずいぶん暑いですね。ありがとうございました。	general,restaurant,weather

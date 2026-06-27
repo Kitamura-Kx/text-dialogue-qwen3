@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3484	0	USER	京都に行って買い物をしたいので調べてもらえますか？	general,shopping,restaurant,taxi
+3484	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant,taxi
+3484	2	USER	東山区で文房具と雑貨が買えるお店が希望です。	general,shopping,restaurant,taxi
+3484	3	SYSTEM	ではURAGNOはいかがでしょうか。	general,shopping,restaurant,taxi
+3484	4	USER	そこに行ってみます。最寄り駅はどこですか？	general,shopping,restaurant,taxi
+3484	5	SYSTEM	最寄り駅は七条駅でございます。	general,shopping,restaurant,taxi
+3484	6	USER	わかりました。あと飲食店も探してほしいんですが。	general,shopping,restaurant,taxi
+3484	7	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant,taxi
+3484	8	USER	予算は高めで駐車場を無料で利用できるところがいいです。	general,shopping,restaurant,taxi
+3484	9	SYSTEM	ではフランス料理 ボルドーはいかがでしょうか。	general,shopping,restaurant,taxi
+3484	10	USER	そこにしてみます。予約をおねがいできますか？	general,shopping,restaurant,taxi
+3484	11	SYSTEM	かしこまりました。では、ご予約の詳細をお聞かせいただけますか。	general,shopping,restaurant,taxi
+3484	12	USER	4人で7/10、時間は17:50です。	general,shopping,restaurant,taxi
+3484	13	SYSTEM	はい。予約が完了いたしました。予約番号は65104でございます。	general,shopping,restaurant,taxi
+3484	14	USER	ありがとうございます。あと、タクシー会社も探しているのですが聞いていいですか？	general,shopping,restaurant,taxi
+3484	15	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant,taxi
+3484	16	USER	ジャンボタクシーが使えてキャッシュレス払いできるところがいいです。	general,shopping,restaurant,taxi
+3484	17	SYSTEM	申し訳ございません。どちらにも対応している会社がございませんでした。	general,shopping,restaurant,taxi
+3484	18	USER	じゃあ、キャッシュレス払いは大丈夫です。	general,shopping,restaurant,taxi
+3484	19	SYSTEM	では加茂タクシー株式会社がございます。	general,shopping,restaurant,taxi
+3484	20	USER	そこを使います。電話番号を教えてください。	general,shopping,restaurant,taxi
+3484	21	SYSTEM	電話番号は0774436400でございます。	general,shopping,restaurant,taxi
+3484	22	USER	予約をお願いします	general,shopping,restaurant,taxi
+3484	23	SYSTEM	かしこまりました。ではご予約の詳細をお聞かせいただけますか。	general,shopping,restaurant,taxi
+3484	24	USER	7/10で時間は16:30。出発はURAGNOで到着はフランス料理 ボルドーで。	general,shopping,restaurant,taxi
+3484	25	SYSTEM	はい。予約が完了いたしました。予約番号は73305でございます。	general,shopping,restaurant,taxi
+3484	26	USER	ありがとうございました	general,shopping,restaurant,taxi
+3484	27	SYSTEM	ほかにご用件はございませんか。	general,shopping,restaurant,taxi
+3484	28	USER	ないです。たすかりました。ありがとう	general,shopping,restaurant,taxi
+3484	29	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant,taxi

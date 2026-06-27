@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3173	0	USER	横浜への旅行を計画していて、当日買い物が出来るところを探しています。駐車場が無料の南区のお店が希望です。	general,shopping
+3173	1	SYSTEM	かしこまりました。では、弘明寺かんのん通り商店街はいかがでしょうか？	general,shopping
+3173	2	USER	ありがとうございます。弘明寺かんのん通り商店街の最寄り駅と営業時間は分かりますか？	general,shopping
+3173	3	SYSTEM	はい。最寄りは弘明寺駅で、営業時間は店舗により異なるようです。	general,shopping
+3173	4	USER	ありがとうございました。	general,shopping
+3173	5	SYSTEM	もうご用件はお済みですか？	general,shopping
+3173	6	USER	はい、大丈夫です。ありがとうございました。	general,shopping
+3173	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

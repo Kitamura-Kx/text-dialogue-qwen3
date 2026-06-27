@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3400	0	USER	京都へ旅行に行きます。中京区で買い物ができるところはありませんか？	general,shopping
+3400	1	SYSTEM	中京区のお買い物スポットはモンベル 京都店とほか８件ございました。いかがいたしますか？	general,shopping
+3400	2	USER	なるほど、文房具や雑貨のお店ってないですか？	general,shopping
+3400	3	SYSTEM	香老舗 松栄堂という店舗ほか１件ございます。いかがでしょうか？	general,shopping
+3400	4	USER	ここに行きたいと思います。このお店の営業時間を教えてください。	general,shopping
+3400	5	SYSTEM	9:00から18:00までとなっております。	general,shopping
+3400	6	USER	わかりました。ありがとうございます。	general,shopping
+3400	7	SYSTEM	他のご用命ございますか？	general,shopping
+3400	8	USER	いえ、大丈夫です。ありがとうございました。	general,shopping
+3400	9	SYSTEM	ありがとうございました。	general,shopping

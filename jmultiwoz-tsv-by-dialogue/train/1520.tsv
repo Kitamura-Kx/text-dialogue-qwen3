@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1520	0	USER	大阪旅行での宿泊施設を探して頂けますか？	general,hotel,shopping,taxi
+1520	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,shopping,taxi
+1520	2	USER	港区で、駐車場とWi-Fiが無料で利用できるところはありますか？	general,hotel,shopping,taxi
+1520	3	SYSTEM	申し訳ありません。その条件ではご紹介できません。いかが致しましょう？	general,hotel,shopping,taxi
+1520	4	USER	では、駐車場はなくても大丈夫です。	general,hotel,shopping,taxi
+1520	5	SYSTEM	ありがとうございます。では、バンデホテル天保山はいかがでしょう？	general,hotel,shopping,taxi
+1520	6	USER	そちらでお願いします。電話番号も教えていただけますでしょうか。	general,hotel,shopping,taxi
+1520	7	SYSTEM	はい、電話番号は、0665771110となります。予約はいかがされますか？	general,hotel,shopping,taxi
+1520	8	USER	お願いします。2人で5/7から3泊を希望しているのですが、空いていますか？	general,hotel,shopping,taxi
+1520	9	SYSTEM	はい、予約可能でして、ご予約番号は、22530となります。他にご案内できることはございますか？	general,hotel,shopping,taxi
+1520	10	USER	ありがとうございます。当日食料品が買える場所も探して頂けないでしょうか。最寄り駅が北加賀屋駅で駐車場を無料で利用できるとうれしいです。	general,hotel,shopping,taxi
+1520	11	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しましょう？	general,hotel,shopping,taxi
+1520	12	USER	それでは、場所はこだわりません。	general,hotel,shopping,taxi
+1520	13	SYSTEM	ありがとうございます。エリアでいうと此花区にある、GoodBBQ舞洲 オーチャードグラスはいかがでしょう？	general,hotel,shopping,taxi
+1520	14	USER	ではそちらに伺いたいと思います。住所も教えていただけますでしょうか。	general,hotel,shopping,taxi
+1520	15	SYSTEM	はい、住所は大阪府大阪市此花区北港緑地2丁目1-107となります。他にご案内が必要なことはございますか？	general,hotel,shopping,taxi
+1520	16	USER	当日利用できるタクシー会社も教えて頂けると助かります。ジャンボタクシー対応のところがいいです。	general,hotel,shopping,taxi
+1520	17	SYSTEM	承知しました。株式会社未来都はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0669060088となります。	general,hotel,shopping,taxi
+1520	18	USER	ありがとうございます。そちらで予約をお願いします。5/7の15:50で、出発地はバンデホテル天保山、目的地はGoodBBQ舞洲 オーチャードグラスを希望しているのですが、空いていそうですか？	general,hotel,shopping,taxi
+1520	19	SYSTEM	はい、予約が完了し、ご予約番号は、66652となります。他にご用件はございますか？	general,hotel,shopping,taxi
+1520	20	USER	他は大丈夫です。ありがとうございました。	general,hotel,shopping,taxi

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3385	0	USER	仙台へ行くのですが、五橋駅の近くの飲食店を探しています。	general,restaurant,shopping,taxi
+3385	1	SYSTEM	お調べしましたところ、Zaytoonという店舗ともう1件該当いたしました。いかがでしょうか？	general,restaurant,shopping,taxi
+3385	2	USER	Zaytoonの住所と電話番号を教えてください。	general,restaurant,shopping,taxi
+3385	3	SYSTEM	かしこまりました。住所は、宮城県仙台市若林区五橋3丁目5-65 大志マンション 1Fです。電話番号は、0222215118でございます。	general,restaurant,shopping,taxi
+3385	4	USER	あと買い物ができるところを探しています。駐車場が無料のところがいいのですが	general,restaurant,shopping,taxi
+3385	5	SYSTEM	はい、その条件ですと、アニメイト仙台を含む30件該当致します。いかがいたしましょうか？	general,restaurant,shopping,taxi
+3385	6	USER	そこにします。あと、キャッシュレス払いできるタクシーも探しています。	general,restaurant,shopping,taxi
+3385	7	SYSTEM	かしこまりました。キャッシュレス対応の会社は、仙南タクシー（株）がございました。いかがいたしましょうか？	general,restaurant,shopping,taxi
+3385	8	USER	ジャンボタクシー対応しているのかと電話番号を教えてください。	general,restaurant,shopping,taxi
+3385	9	SYSTEM	ジャンボタクシーも対応可能でございます。電話番号は、0570021070でございます。	general,restaurant,shopping,taxi
+3385	10	USER	12/8の11:00にZaytoonからアニメイト仙台まで予約をお願いしたいです。	general,restaurant,shopping,taxi
+3385	11	SYSTEM	12/8の11:00にZaytoonからアニメイト仙台まで予約完了しました。予約番号は、98799でございます。	general,restaurant,shopping,taxi
+3385	12	USER	色々ありがとうございました。	general,restaurant,shopping,taxi
+3385	13	SYSTEM	ありがとうございました。	general,restaurant,shopping,taxi

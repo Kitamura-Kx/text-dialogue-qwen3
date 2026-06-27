@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+166	0	USER	京都に行こうと思っていまして、調べ物を手伝ってもらえますか？	general,shopping,weather
+166	1	SYSTEM	かしこまりました。どういったお手伝いをいたしましょうか？	general,shopping,weather
+166	2	USER	当日、買い物をしたいと考えています。上京区ら辺で、医薬品・化粧品を扱っているお店はありますか？	general,shopping,weather
+166	3	SYSTEM	北野白梅町駅から徒歩6分の場所に、エムハート薬局 千本通店というお店が1軒ございます。	general,shopping,weather
+166	4	USER	そこの電話番号って分かりますか？	general,shopping,weather
+166	5	SYSTEM	はい。電話番号は、0754171850になります。	general,shopping,weather
+166	6	USER	あとですね、天気も調べてもらいたくて。	general,shopping,weather
+166	7	SYSTEM	かしこまりました。京都のどの辺りの天候をお調べいたしましょうか？	general,shopping,weather
+166	8	USER	上京区でお願いします。	general,shopping,weather
+166	9	SYSTEM	京都の上京区ですね。お日にちも伺ってよろしいでしょうか？	general,shopping,weather
+166	10	USER	9月14日でお願いします。	general,shopping,weather
+166	11	SYSTEM	上京区の9月14日の天気予報は、晴れ、最高気温は25.6度の予想です。	general,shopping,weather
+166	12	USER	最低気温も知りたいです。	general,shopping,weather
+166	13	SYSTEM	かしこまりました。最低気温は、21.8度の予報となっております。	general,shopping,weather
+166	14	USER	なるほど、わかりました。	general,shopping,weather
+166	15	SYSTEM	何か他にお調べすることはございますか？	general,shopping,weather
+166	16	USER	いえ、もう特にないです。ありがとうございました。	general,shopping,weather
+166	17	SYSTEM	お役に立てて光栄です。またのご利用をお待ちしております。	general,shopping,weather

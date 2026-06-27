@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1391	0	USER	札幌へ旅行を計画中です。ファッション関係の買い物をしたいのですが、駐車場が無料の店舗を教えて下さい、エリアは厚別区でお願いします。	general,shopping,restaurant,taxi
+1391	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant,taxi
+1391	2	USER	エリアを厚別区ではなく「東区」ではありますか？	general,shopping,restaurant,taxi
+1391	3	SYSTEM	ございます。アカチャンホンポ アリオ札幌店はいかがでしょうか。	general,shopping,restaurant,taxi
+1391	4	USER	「アカチャンホンポ アリオ札幌店」の住所も教えて下さい。	general,shopping,restaurant,taxi
+1391	5	SYSTEM	住所は北海道札幌市東区北7条東9丁目2-20 アリオ札幌 2Fでございます。	general,shopping,restaurant,taxi
+1391	6	USER	駐車場が無料の飲食店も探しています。カフェ・スイーツのお店はありますか？	general,shopping,restaurant,taxi
+1391	7	SYSTEM	はい。ではパーラーエノキはいかがでしょうか。	general,shopping,restaurant,taxi
+1391	8	USER	パーラーエノキの電話番号と料金情報をお願いします。	general,shopping,restaurant,taxi
+1391	9	SYSTEM	電話番号は0112111031で、料金情報は不明でございます。	general,shopping,restaurant,taxi
+1391	10	USER	わかりました、それと鈴蘭交通(株)というタクシー会社はありますか？	general,shopping,restaurant,taxi
+1391	11	SYSTEM	ございます。お知りになりたい情報はございますか。	general,shopping,restaurant,taxi
+1391	12	USER	電話番号と、キャッシュレス対応可能か教えて下さい。	general,shopping,restaurant,taxi
+1391	13	SYSTEM	電話番号は0116676000で、キャッシュレスは対応しております。	general,shopping,restaurant,taxi
+1391	14	USER	それではタクシーの予約をお願いします。6/28の14:40に「アカチャンホンポ アリオ札幌店」から「パーラーエノキ」までお願いします。	general,shopping,restaurant,taxi
+1391	15	SYSTEM	予約が完了いたしました。予約番号は95113でございます。	general,shopping,restaurant,taxi
+1391	16	USER	わかりました、有難うございました。	general,shopping,restaurant,taxi
+1391	17	SYSTEM	ほかにご用件はございますか。	general,shopping,restaurant,taxi
+1391	18	USER	大丈夫です。	general,shopping,restaurant,taxi
+1391	19	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant,taxi

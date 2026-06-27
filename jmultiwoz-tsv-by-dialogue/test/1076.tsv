@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1076	0	USER	那覇への旅行を計画しているのですが。	general,shopping
+1076	1	SYSTEM	はい。お問合せありがとうございます。	general,shopping
+1076	2	USER	当日買い物ができるところを探してください．名前がBOONOONOONOOS 国際通り店というところです．	general,shopping
+1076	3	SYSTEM	はい。こちらで検索いたしました。	general,shopping
+1076	4	USER	そちらの最寄り駅，営業時間，エリアについて教えてください。	general,shopping
+1076	5	SYSTEM	最寄り駅 県庁前駅	general,shopping
+1076	6	USER	ありがとうございます。あともおねがいします。	general,shopping
+1076	7	SYSTEM	失礼しました。営業時間は10:00～21:00でエリアは本庁になっています。	general,shopping
+1076	8	USER	ありがとうございました。	general,shopping

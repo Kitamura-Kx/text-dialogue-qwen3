@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3948	0	USER	京都旅行に行く予定で。	general,attraction,weather
+3948	1	SYSTEM	かしこまりました。何かお調べ致しますか？	general,attraction,weather
+3948	2	USER	河原町駅が最寄りの観光名所ってありますか？駐車場が無料の。	general,attraction,weather
+3948	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction,weather
+3948	4	USER	そしたら、最寄り駅はどこでも大丈夫です。	general,attraction,weather
+3948	5	SYSTEM	かしこまりました。それでは北野天満宮はいかがでしょうか？	general,attraction,weather
+3948	6	USER	いいですね。料金情報はわかりますか？	general,attraction,weather
+3948	7	SYSTEM	はい、料金情報は企画により異なるとのことです。	general,attraction,weather
+3948	8	USER	なるほど。	general,attraction,weather
+3948	9	SYSTEM	はい、他にお調べすることはありますか？	general,attraction,weather
+3948	10	USER	下京区の1月29日の天気と最高気温を教えてください。	general,attraction,weather
+3948	11	SYSTEM	お待たせ致しました。当日の下京区の天気は曇のち晴、最高気温は8.7度の予報でございます。	general,attraction,weather
+3948	12	USER	わかりました。	general,attraction,weather
+3948	13	SYSTEM	その他にご用件はございますか？	general,attraction,weather
+3948	14	USER	もう大丈夫です。ありがとうございました。	general,attraction,weather
+3948	15	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,weather

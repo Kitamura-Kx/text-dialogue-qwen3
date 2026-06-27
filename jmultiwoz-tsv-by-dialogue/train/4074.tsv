@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4074	0	USER	岡への旅行を計画しています． 当日買い物ができるところを探してください．駐車場を無料で利用できるところにしてください．地区は東区で	general,shopping,attraction
+4074	1	SYSTEM	トイザらス福岡香椎店はいかがでしょうか。	general,shopping,attraction
+4074	2	USER	そちらの最寄り駅，住所，電話番号を教えていただけますか。	general,shopping,attraction
+4074	3	SYSTEM	最寄り駅は香椎駅、住所は福岡県福岡市東区香椎浜3丁目12-1イオンモール香椎浜2階で電話番号は0926736311です。	general,shopping,attraction
+4074	4	USER	ありがとうございます。あと、当日は香椎宮という観光名所を訪れる予定なのですが、そちらの定休日を教えて欲しいです。	general,shopping,attraction
+4074	5	SYSTEM	定休日は不明です。	general,shopping,attraction
+4074	6	USER	ありがとうございます。	general,shopping,attraction
+4074	7	SYSTEM	いえいえ。こちらこそありがとうございました。	general,shopping,attraction

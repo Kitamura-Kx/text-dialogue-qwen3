@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1827	0	USER	横浜への旅行を計画中なのですが、旭区でWiFi無料の観光名称はありますか？	general,attraction,restaurant,weather
+1827	1	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction,restaurant,weather
+1827	2	USER	それでは、WiFiは無くても構いません。	general,attraction,restaurant,weather
+1827	3	SYSTEM	かしこまりました。では、ズーラシアはいかがでしょうか？ジャンルは動物園になります。	general,attraction,restaurant,weather
+1827	4	USER	「ズーラシア」の料金情報、営業時間、最寄駅からの所要時間を教えて下さい。	general,attraction,restaurant,weather
+1827	5	SYSTEM	はい。料金情報は、大人入場料が800円で、子供入場料が200円です。営業時間は09:30～16:30になります。最寄り駅である鶴ヶ峰駅からの所要時間はバスで15分でございます。	general,attraction,restaurant,weather
+1827	6	USER	わかりました、WiFiが無料の飲食店も教えて下さい。希望のジャンルはイタリアン・フレンチでお願いします。	general,attraction,restaurant,weather
+1827	7	SYSTEM	かしこまりました。CONA 横浜鶴屋町店であればWi-Fiが無料でご利用いただけますが、いかがでしょうか？	general,attraction,restaurant,weather
+1827	8	USER	ありがとうございます、それでは「CONA 横浜鶴屋町店」の最寄り駅と料金情報を教えて下さい。	general,attraction,restaurant,weather
+1827	9	SYSTEM	はい。最寄り駅は横浜駅です。料金情報としては、★ボリューム満点★ローストビーフ付　CONAコース2.5時間飲み放題付き（全8品）:3500円、★プレミアム★CONA名物馬肉ユッケ＆生ハム盛り合わせ付き3H飲み放題全8品:4000円、とあります。予約されますか？	general,attraction,restaurant,weather
+1827	10	USER	予約は大丈夫です、最寄駅からの所要時間もお願いします。	general,attraction,restaurant,weather
+1827	11	SYSTEM	はい。最寄り駅の横浜駅から徒歩で5分となります。	general,attraction,restaurant,weather
+1827	12	USER	それでは、旭区の当日2/13の最高気温を教えて下さい。	general,attraction,restaurant,weather
+1827	13	SYSTEM	かしこまりました。2/13の旭区の最高気温は12.3度になる予報です。	general,attraction,restaurant,weather
+1827	14	USER	ありがとうございました、他は大丈夫です。	general,attraction,restaurant,weather
+1827	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,weather

@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1269	0	USER	仙台で飲食店を探しています。地区は若林区、予算は普通がいいですが。あと、駐車場無料のところがいいです。	general,restaurant,hotel,shopping
+1269	1	SYSTEM	かしこまりました。そうしますと、4件ご案内可能です。例えば、とっとめしや、というところは如何でしょうか？	general,restaurant,hotel,shopping
+1269	2	USER	そちらの営業時間と電話番号も教えて頂けませんか？	general,restaurant,hotel,shopping
+1269	3	SYSTEM	営業時間は、11:00～15:30です。電話番号は、0223494341でございます。	general,restaurant,hotel,shopping
+1269	4	USER	いいですね。では3/4の9:30で予約をお願いします。2名での利用です。	general,restaurant,hotel,shopping
+1269	5	SYSTEM	申し訳ございません。その条件では予約をとることができませんでした。いかがいたしましょうか？	general,restaurant,hotel,shopping
+1269	6	USER	なら、人数を1人に変更してください。	general,restaurant,hotel,shopping
+1269	7	SYSTEM	ありがとうございます。1名様で予約を承りました。予約番号は、17094です。	general,restaurant,hotel,shopping
+1269	8	USER	ありがとうございます。ついでに、宿泊施設もお願いできますか？レストラン併設の、料金は普通ぐらいのところがいいです。	general,restaurant,hotel,shopping
+1269	9	SYSTEM	では、秋保温泉 篝火の湯 緑水亭という、太白区の旅館はいかがでしょうか？	general,restaurant,hotel,shopping
+1269	10	USER	ちなみに、無料のWifiはありますか？	general,restaurant,hotel,shopping
+1269	11	SYSTEM	はい、ございます。	general,restaurant,hotel,shopping
+1269	12	USER	よかったです。あと、そちらの最終チェックアウト時間は何時ですか？	general,restaurant,hotel,shopping
+1269	13	SYSTEM	チェックアウト終了は10時までとなっております。	general,restaurant,hotel,shopping
+1269	14	USER	では予約もお願いします。3/4から4泊で、3人の宿泊をお願いします。	general,restaurant,hotel,shopping
+1269	15	SYSTEM	申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,restaurant,hotel,shopping
+1269	16	USER	では人数は2人に変更してください。	general,restaurant,hotel,shopping
+1269	17	SYSTEM	ありがとうございます。2名様でご予約承りました。予約番号は、89126でございます。	general,restaurant,hotel,shopping
+1269	18	USER	ありがとうございます。あと、買い物スポットの情報も欲しいんですけど。無料で駐車場が利用できるところはありますか？ジャンルはおもちゃです。	general,restaurant,hotel,shopping
+1269	19	SYSTEM	では、アニメイト仙台はいかがでしょうか？	general,restaurant,hotel,shopping
+1269	20	USER	いいですね。あと最寄り駅と、そちらからの所要時間も知りたいです。	general,restaurant,hotel,shopping
+1269	21	SYSTEM	最寄りは仙台駅です。仙台駅から徒歩2分でアクセスできます。	general,restaurant,hotel,shopping
+1269	22	USER	分かりました。ありがとうございます。	general,restaurant,hotel,shopping

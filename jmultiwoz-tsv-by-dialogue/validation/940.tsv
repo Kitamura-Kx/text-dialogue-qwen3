@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+940	0	USER	大阪に旅行に行く計画を立てています。	general,shopping,weather
+940	1	SYSTEM	大阪旅行では、どんな事を知りたいですか？	general,shopping,weather
+940	2	USER	買い物できる場所が知りたいんです。駐車場が無料で使えるコンビニについて探してもらえないでしょうか。	general,shopping,weather
+940	3	SYSTEM	大阪シティエアターミナルは、いかがでしょうか？	general,shopping,weather
+940	4	USER	こちらのお店は最寄り駅からアクセスするのに、どれくらいかかりますか？	general,shopping,weather
+940	5	SYSTEM	最寄り駅の難波駅から徒歩で1分になります。	general,shopping,weather
+940	6	USER	わかりました。あと、7/22の西成区の天候が気になります。	general,shopping,weather
+940	7	SYSTEM	西成区の天気は、雨時々曇です。	general,shopping,weather
+940	8	USER	そうなのですね！ちなみに、最高気温と最低気温はわかりますか？	general,shopping,weather
+940	9	SYSTEM	最高気温は、30.7度で最低気温は、26.4度になっています。	general,shopping,weather
+940	10	USER	わかりました。たくさんお調べして下さりありがとうございました。	general,shopping,weather

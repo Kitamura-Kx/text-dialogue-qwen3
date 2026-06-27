@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1488	0	USER	福岡で宿泊施設を探してまして。宿泊料が普通ぐらいのシティホテルはありますか？	general,hotel,shopping,taxi
+1488	1	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しますか？	general,hotel,shopping,taxi
+1488	2	USER	では、宿のタイプをリゾートホテルに変えてください。	general,hotel,shopping,taxi
+1488	3	SYSTEM	ありがとうございます。エリアでいうと博多区にある、WITH THE STYLE FUKUOKAはいかがでしょう？	general,hotel,shopping,taxi
+1488	4	USER	いいですね。ついでに買い物スポットもお聞きしていいですか？無料駐車場があるところを探してます。	general,hotel,shopping,taxi
+1488	5	SYSTEM	申し訳ありません。その条件ではご紹介できないのですが、いかが致しましょう？	general,hotel,shopping,taxi
+1488	6	USER	そうですか、、、なら、有料でもいいので、駐車場があるところを探してください。	general,hotel,shopping,taxi
+1488	7	SYSTEM	申し訳ありません、ありがとうございます。エリアでいうと博多区にある、紀伊國屋書店 福岡本店はいかがでしょう？	general,hotel,shopping,taxi
+1488	8	USER	最寄り駅はどちらになりますか？	general,hotel,shopping,taxi
+1488	9	SYSTEM	はい、最寄りの博多駅から徒歩で1分となります。	general,hotel,shopping,taxi
+1488	10	USER	最後にタクシー会社の情報もお願いできますか？キャッシュレスとジャンボタクシーに対応している会社がいいのですが。	general,hotel,shopping,taxi
+1488	11	SYSTEM	承知しました。（株）第一交通はいかがでしょう？電話番号は、0924816400となります。	general,hotel,shopping,taxi
+1488	12	USER	そちらでお願いします。4/15の16:20で予約できますか？出発はWITH THE STYLE FUKUOKAで、紀伊國屋書店 福岡本店までお願いしたいです。	general,hotel,shopping,taxi
+1488	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、6901となります。他にご用件はございますか？	general,hotel,shopping,taxi
+1488	14	USER	以上です。ありがとうございました！	general,hotel,shopping,taxi

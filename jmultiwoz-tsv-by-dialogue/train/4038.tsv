@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4038	0	USER	札幌への旅行を計画しています。 当日泊まる宿泊施設を探してほしいです。	general,hotel,restaurant,weather
+4038	1	SYSTEM	かしこまりました。札幌ですと99件ほどございますが、何かご希望はありますか？	general,hotel,restaurant,weather
+4038	2	USER	宿のタイプはビジネスホテル、Wi-Fi、駐車場を無料で利用できるところにしてください。	general,hotel,restaurant,weather
+4038	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel,restaurant,weather
+4038	4	USER	それでは宿のタイプは考えないようにします。それだとどうですか？	general,hotel,restaurant,weather
+4038	5	SYSTEM	その条件でしたら、定山渓ビューホテルはいかがでしょうか？	general,hotel,restaurant,weather
+4038	6	USER	その施設のチェックイン開始時刻，住所を教えてください。	general,hotel,restaurant,weather
+4038	7	SYSTEM	はい、チェックイン開始時刻は14時、住所は北海道札幌市南区定山渓温泉東2丁目でございます。	general,hotel,restaurant,weather
+4038	8	USER	それでは予約をお願いします。人数は3人、日付は12/13、宿泊日数は4泊希望です。	general,hotel,restaurant,weather
+4038	9	SYSTEM	申し訳ありません。その条件では予約が出来ませんでした。	general,hotel,restaurant,weather
+4038	10	USER	では、人数を2に変更します。	general,hotel,restaurant,weather
+4038	11	SYSTEM	お待たせ致しました。予約番号92631でお取りさせていただきました。	general,hotel,restaurant,weather
+4038	12	USER	続いて、当日食事ができる飲食店を探してください。予算は安めが希望です。	general,hotel,restaurant,weather
+4038	13	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel,restaurant,weather
+4038	14	USER	では、予算の希望は除外してください。	general,hotel,restaurant,weather
+4038	15	SYSTEM	かしこまりました。それではしゃぶしゃぶ温野菜 北24条店はいかがでしょうか？	general,hotel,restaurant,weather
+4038	16	USER	いいですね。では、Wi-Fiの有無，電話番号，近辺の駅からの所要時間が知りたいです。	general,hotel,restaurant,weather
+4038	17	SYSTEM	Wi-Fiの有無は分かりません。電話番号は0117000831、近辺の駅からは北24条駅から徒歩で1分でございます。	general,hotel,restaurant,weather
+4038	18	USER	予約をお願いします。人数は4人、日付は12/13、時間は16:30です。	general,hotel,restaurant,weather
+4038	19	SYSTEM	お待たせ致しました。予約番号60675でお取りさせていただきました。	general,hotel,restaurant,weather
+4038	20	USER	あと、12/13の天気を調べてください。地区は厚別区です。	general,hotel,restaurant,weather
+4038	21	SYSTEM	かしこまりました。当日の天気は曇時々晴の予報です。	general,hotel,restaurant,weather
+4038	22	USER	最高気温はわかりますか？	general,hotel,restaurant,weather
+4038	23	SYSTEM	はい、最高気温は4.1度でございます。	general,hotel,restaurant,weather
+4038	24	USER	解決しました。ありがとうございました。	general,hotel,restaurant,weather

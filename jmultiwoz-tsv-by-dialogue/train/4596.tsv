@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4596	0	USER	那覇への旅行を計画しています． 当日泊まる宿泊施設を探してください．駐車場を無料で利用できるところにしてください．レストランが併設されているところにしてください．Wi-Fiが無料で利用できるところにしてください．	general,hotel,restaurant,taxi
+4596	1	SYSTEM	HOTEL MARUKIはいかがでしょうか。	general,hotel,restaurant,taxi
+4596	2	USER	ありがとうございます。あと、当日食事ができる飲食店を探してください．Wi-Fiが無料で利用できるところにしてください．地区は小禄です．予算は普通が希望です．	general,hotel,restaurant,taxi
+4596	3	SYSTEM	ワイン食堂トランク イタリアゴハン 小禄店はいかがでしょうか。	general,hotel,restaurant,taxi
+4596	4	USER	そちらのジャンルはなんでしょうか。	general,hotel,restaurant,taxi
+4596	5	SYSTEM	ジャンルはイタリアン・フレンチです。	general,hotel,restaurant,taxi
+4596	6	USER	ありがとうございます。あと、当日は那覇第一交通というタクシー会社のタクシーを利用する予定です．そちらのキャッシュレス対応，ジャンボタクシー対応，電話番号を教えていただけますか。	general,hotel,restaurant,taxi
+4596	7	SYSTEM	キャッシュレス、ジャンボタクシーはともに対応です。電話番号 0988537801です。	general,hotel,restaurant,taxi
+4596	8	USER	ありがとうございます。あとそちらで日付は4/1です．時間は14:50です．出発地は先ほど見つけた宿泊所です．目的地は先ほど見つけた飲食店で予約お願いします。	general,hotel,restaurant,taxi
+4596	9	SYSTEM	予約完了いたしました。予約番号は70439になります。	general,hotel,restaurant,taxi
+4596	10	USER		general,hotel,restaurant,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4704	0	USER	札幌旅行の時に利用する飲食店を探してもらえますか？	general,restaurant,weather,taxi
+4704	1	SYSTEM	はい。何か希望はありますか？	general,restaurant,weather,taxi
+4704	2	USER	そうですね、最寄り駅が札幌駅のイタリアン・フレンチが良いです。	general,restaurant,weather,taxi
+4704	3	SYSTEM	かしこまりました。では、札幌モダンレストラン えりも亭はいかがですか？	general,restaurant,weather,taxi
+4704	4	USER	いいですね、そちらにしようと思います。1/17の厚別区の天気も教えてもらえますか？	general,restaurant,weather,taxi
+4704	5	SYSTEM	かしこまりました。天気は曇の予報です。	general,restaurant,weather,taxi
+4704	6	USER	ありがとうございます。ジャンボタクシーが使えるキャッシュレス払いが可能なタクシー会社はありますか？	general,restaurant,weather,taxi
+4704	7	SYSTEM	はい。北広島第一交通(株)はいかがですか？	general,restaurant,weather,taxi
+4704	8	USER	そちらの電話番号はわかりますか？	general,restaurant,weather,taxi
+4704	9	SYSTEM	はい。電話番号は0118115151です。	general,restaurant,weather,taxi
+4704	10	USER	じゃあタクシーの予約もお願いします。	general,restaurant,weather,taxi
+4704	11	SYSTEM	はい。予約情報を教えてください。	general,restaurant,weather,taxi
+4704	12	USER	1/17の13:50に、さっぽろテレビ塔から札幌モダンレストラン えりも亭までお願いできますか？	general,restaurant,weather,taxi
+4704	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、38839です。	general,restaurant,weather,taxi
+4704	14	USER	ありがとうございました。	general,restaurant,weather,taxi
+4704	15	SYSTEM	ありがとうございました。	general,restaurant,weather,taxi

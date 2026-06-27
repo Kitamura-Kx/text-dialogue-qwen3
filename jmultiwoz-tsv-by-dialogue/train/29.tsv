@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+29	0	USER	名古屋に行くんですけど、お土産の買い物ができる場所を探しています。駐車場が無料のところを紹介してください。	general,shopping
+29	1	SYSTEM	お問い合わせ、ありがとうございます。名古屋のお土産が買えるお店ですね。無料駐車場完備の場所となりますと、アイスランドマーケットとポケモンセンターナゴヤの2店がございます。	general,shopping
+29	2	USER	ポケモンセンター！　そこですねえ！　定休日とかあるんですか？　あと、エリアはどの辺ですか？	general,shopping
+29	3	SYSTEM	ポケモンセンターナゴヤがありますのは、名古屋の中区になります。定休日はございません。	general,shopping
+29	4	USER	ありがとうございました。よくわかりました。	general,shopping
+29	5	SYSTEM	お役に立てて幸いです。ほかにも何か、お手伝いできることはございますでしょうか？	general,shopping
+29	6	USER	今日は大丈夫です。お世話になりました。	general,shopping

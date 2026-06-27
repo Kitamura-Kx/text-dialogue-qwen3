@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4630	0	USER	大阪に旅行を計画しています。本町駅の近くで、食料品の買い物ができるお店はありますか？駐車場無料でお願いします。	general,shopping,weather,taxi
+4630	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,weather,taxi
+4630	2	USER	では、駐車場は考慮せずに同じ条件で探していただけますか？	general,shopping,weather,taxi
+4630	3	SYSTEM	では千鳥屋宗家 大阪本店がございます。	general,shopping,weather,taxi
+4630	4	USER	ありがとうございます。鶴見区というところなんですが、6月18日の天気はわかりますか？	general,shopping,weather,taxi
+4630	5	SYSTEM	当日の天気は曇でございます。	general,shopping,weather,taxi
+4630	6	USER	最低気温はどれくらいですか？	general,shopping,weather,taxi
+4630	7	SYSTEM	最低気温は22度でございます。	general,shopping,weather,taxi
+4630	8	USER	ありがとうございます。キャッシュレス払いできて、ジャンボタクシーを利用できるタクシー会社を探していただけますか？	general,shopping,weather,taxi
+4630	9	SYSTEM	日本タクシー株式会社がございます。	general,shopping,weather,taxi
+4630	10	USER	ではその会社にしたいですが、念のために電話番号も教えてください。	general,shopping,weather,taxi
+4630	11	SYSTEM	電話番号は0669285151でございます。	general,shopping,weather,taxi
+4630	12	USER	では、予約も今お願いします。6月18日14時00分に、千鳥屋宗家 大阪本店を出発してニュー松坂 難波御堂筋店を目的地にするルートでお願いします。	general,shopping,weather,taxi
+4630	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は76850でございます。	general,shopping,weather,taxi
+4630	14	USER	助かりました。ありがとうございます。	general,shopping,weather,taxi

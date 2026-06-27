@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3391	0	USER	札幌へ旅行に行く予定ですが、買い物ができるところを探してください。	general,shopping
+3391	1	SYSTEM	札幌でのお買い物スポットは、50件候補がございます。何か他にご希望ございますか？	general,shopping
+3391	2	USER	最寄り駅がバスセンター前駅で、無料の駐車場が利用できるところがいいです。	general,shopping
+3391	3	SYSTEM	札幌の最寄り駅がバスセンター前、無料の駐車場がある店舗は、玉翠園のみでございます。	general,shopping
+3391	4	USER	玉翠園ですね。ありがとうございました。	general,shopping
+3391	5	SYSTEM	はい、ありがとうございます。他になにかご用命ございますか？	general,shopping
+3391	6	USER	いえ、大丈夫です。ありがとうございます。	general,shopping
+3391	7	SYSTEM	ありがとうございました。	general,shopping

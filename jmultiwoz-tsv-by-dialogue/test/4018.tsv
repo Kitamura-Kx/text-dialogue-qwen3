@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4018	0	USER	横浜に旅行するので、Wi-Fiが無料な観光名所を調べてください。	general,attraction,taxi,weather
+4018	1	SYSTEM	横浜でWiFi無料な観光名所はいくつかありますが、カップヌードルミュージアム 横浜、こちらになります。	general,attraction,taxi,weather
+4018	2	USER	いいですね。また、ジャンボタクシーを使いたいと思っているのですが、キャッシュレス払いができるようなところはありませんか？	general,attraction,taxi,weather
+4018	3	SYSTEM	ジャンボタクシーとキャッシュレス両方対応しているところでは、国際自動車株式会社、こちらがオススメです。	general,attraction,taxi,weather
+4018	4	USER	そちらの電話番号を教えて下さい。	general,attraction,taxi,weather
+4018	5	SYSTEM	0120385931です。	general,attraction,taxi,weather
+4018	6	USER	じゃあ、7/10の14:50から横浜みなとみらい 万葉倶楽部を出発してカップヌードルミュージアム 横浜までの予約をお願いします。	general,attraction,taxi,weather
+4018	7	SYSTEM	予約成功しました。予約番号は87809です。	general,attraction,taxi,weather
+4018	8	USER	ありがとうございます。最後に、都筑区の7/10の天気予報を教えてください。	general,attraction,taxi,weather
+4018	9	SYSTEM	7/10 横浜 都筑区 の天気は晴時々曇、最低気温18.9度、最高気温30.8度です。	general,attraction,taxi,weather
+4018	10	USER	いろいろありがとうございました。	general,attraction,taxi,weather
+4018	11	SYSTEM	よい旅を	general,attraction,taxi,weather

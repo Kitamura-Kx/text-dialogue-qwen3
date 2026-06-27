@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2810	0	USER	東京の世田谷区で駐車場が無料で買い物できる場所はありますか？	general,shopping
+2810	1	SYSTEM	はい、ございます。二子玉川 蔦屋家電という、家電・電化製品, 書籍のジャンルのお店ですが、いかがでしょうか？	general,shopping
+2810	2	USER	行ってみたいです。営業時間を教えてください。	general,shopping
+2810	3	SYSTEM	営業時間は、9:30～21:00です。	general,shopping
+2810	4	USER	わかりました。ありがとうございました。	general,shopping
+2810	5	SYSTEM	ほかに何かお調べすることはございませんか？	general,shopping
+2810	6	USER	ないです。ありがとうございました。	general,shopping
+2810	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

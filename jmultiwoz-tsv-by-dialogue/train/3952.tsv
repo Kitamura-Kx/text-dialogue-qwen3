@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3952	0	USER	旅行で那覇に行くのですが、本庁で観光名所を探してください。	general,attraction
+3952	1	SYSTEM	かしこまりました。他にはなにか、ご希望の条件はございませんか？	general,attraction
+3952	2	USER	Wi-Fiが無料でつかえる、アートギャラリーに行きたいですね。	general,attraction
+3952	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction
+3952	4	USER	では、アートギャラリーでなくてもいいです。	general,attraction
+3952	5	SYSTEM	ありがとうございます。そうしますと、８件候補がございます。たとえば、パレットくもじというところは、いかがでしょうか？	general,attraction
+3952	6	USER	そこの定休日と子供入場料を教えてください。	general,attraction
+3952	7	SYSTEM	定休日は、施設により異なるとなっております。入場料につきましては、お子様も大人も無料です。	general,attraction
+3952	8	USER	そうですか、ありがとうございます。	general,attraction
+3952	9	SYSTEM	他にお知りになりたい情報はございませんか？	general,attraction
+3952	10	USER	いえ、ありがとうございました。	general,attraction
+3952	11	SYSTEM	承知いたしました。こちらこそ、ありがとうございます。では、またのご利用をお待ちしております。	general,attraction

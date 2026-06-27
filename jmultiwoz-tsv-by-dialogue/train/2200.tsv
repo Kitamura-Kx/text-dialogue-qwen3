@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2200	0	USER	札幌旅行を計画しています。東区で駐車場代がいらない、お買い物ができるお店を教えてもらえませんか？	general,shopping,restaurant
+2200	1	SYSTEM	東区で駐車場無料のお買い物スポットならば、アリオ札幌がオススメです。	general,shopping,restaurant
+2200	2	USER	ありがとうございます。こちらのお店ってどんな物が売っているんですか？	general,shopping,restaurant
+2200	3	SYSTEM	百貨店や総合スーパーですね。文字通り色々、何でも売ってますよ。	general,shopping,restaurant
+2200	4	USER	そうですか！便利そうですね。あと、ロープウェイ入口停留所で洋食・西洋料理が食べられるところも探しているんです。できれば、駐車場代が不要だと嬉しいです。	general,shopping,restaurant
+2200	5	SYSTEM	ロープウェイ入口停留所で洋食・西洋料理、駐車場無料といえば、ふじみグリエがオススメです。	general,shopping,restaurant
+2200	6	USER	ふじみグリエさんの料金に関する情報はわかりますか？	general,shopping,restaurant
+2200	7	SYSTEM	白老和牛100%使用包み焼きステーキバーグ、2000円が人気のようです。	general,shopping,restaurant
+2200	8	USER	おいしそうですね。あと、ふじみグリエさんの住所も教えてもらえないですか？	general,shopping,restaurant
+2200	9	SYSTEM	北海道札幌市中央区伏見2丁目3-3です。	general,shopping,restaurant
+2200	10	USER	わかりました。今日はご丁寧にご対応して下さってありがとうございました。	general,shopping,restaurant

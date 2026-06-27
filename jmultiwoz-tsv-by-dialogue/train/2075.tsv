@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2075	0	USER	東京で食事ができるところを探してください。予算は高めでWi-Fiが無料で使えるところがいいです。	general,restaurant,attraction
+2075	1	SYSTEM	かしこまりました。それでは、銀座 魚ばかはいかがでしょうか？	general,restaurant,attraction
+2075	2	USER	エリアはどのあたりになりますか？近辺の駅からの所要時間も教えてほしいです。	general,restaurant,attraction
+2075	3	SYSTEM	エリアは中央区でございます。近辺の駅からですと、銀座一丁目駅から徒歩で1分、銀座駅から徒歩で3分、有楽町駅から徒歩で2分でございます。	general,restaurant,attraction
+2075	4	USER	わかりました。では、1/11の13:30に2名で予約をお願いできますか？	general,restaurant,attraction
+2075	5	SYSTEM	かしこまりました。予約番号10885でお取りさせていただきました。	general,restaurant,attraction
+2075	6	USER	ありがとうございます。当日回れる観光名所も教えてもらえますか？都市の景観が見れるところで、駐車場が無料だと嬉しいです。	general,restaurant,attraction
+2075	7	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant,attraction
+2075	8	USER	そうですか。ではジャンルは問いません。駐車場が無料で使える東京の観光名所を教えてください。	general,restaurant,attraction
+2075	9	SYSTEM	かしこまりました。それでは豪徳寺はいかがでしょうか？	general,restaurant,attraction
+2075	10	USER	よさそうですね。最寄り駅はどこになりますか？	general,restaurant,attraction
+2075	11	SYSTEM	宮の坂駅でございます。	general,restaurant,attraction
+2075	12	USER	わかりました。教えてくれてありがとうございました。	general,restaurant,attraction

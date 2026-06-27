@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4395	0	USER	今度那覇の沖縄ミリカジ 国際通り店へ行くんですが、そこの電話番号はわかりますか？	general,shopping,taxi,weather
+4395	1	SYSTEM	かしこまりました。電話番号は0989430979でございます。	general,shopping,taxi,weather
+4395	2	USER	ありがとうございます。あとキャッシュレス決済が利用できるタクシー会社を探してもらえますか？	general,shopping,taxi,weather
+4395	3	SYSTEM	では沖縄交通がございます。こちらジャンボタクシーにも対応しております。	general,shopping,taxi,weather
+4395	4	USER	ありがとうございます。そこの電話番号も教えてください。	general,shopping,taxi,weather
+4395	5	SYSTEM	電話番号は0120170978でございます。	general,shopping,taxi,weather
+4395	6	USER	ありがとうございます。では予約をお願いできますか？3/2の14：40にホテルサン沖縄を出発して、沖縄ミリカジ 国際通り店まで利用したいです。	general,shopping,taxi,weather
+4395	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は29701でございます。	general,shopping,taxi,weather
+4395	8	USER	ありがとうございます。あと、真和志の3/2の天気と最高気温も教えてください。	general,shopping,taxi,weather
+4395	9	SYSTEM	当日の天気は晴のち雨、最高気温は23.2度でございます。	general,shopping,taxi,weather
+4395	10	USER	ありがとうございます。以上で結構です。	general,shopping,taxi,weather
+4395	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi,weather

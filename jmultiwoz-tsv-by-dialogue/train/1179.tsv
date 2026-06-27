@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1179	0	USER	仙台への旅行を考えているのですが、駐車場を無料で使える橋の観光名所はありますか？	general,attraction,taxi,weather
+1179	1	SYSTEM	はい、エリアでいうと太白区にございます、秋保大滝はいかがでしょう？何かご案内致しましょうか？	general,attraction,taxi,weather
+1179	2	USER	いいですね。当日タクシーを利用予定なのですが、キャッシュレス払いができて、ジャンボタクシーを利用できるところはありますか？	general,attraction,taxi,weather
+1179	3	SYSTEM	はい、仙台タクシーグループはいかがでしょう？どちらも対応しております。電話番号は0570061616となります。予約はされますか？	general,attraction,taxi,weather
+1179	4	USER	はい。8/27の13:50で秋保大滝からアインズ&トルペ 仙台駅前店まで予約をお願いします。	general,attraction,taxi,weather
+1179	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、33361となります。ほかにご案内できることはございますか？	general,attraction,taxi,weather
+1179	6	USER	ありがとうございます。そうですね、宮城野区の8/27の天気を知りたいです。	general,attraction,taxi,weather
+1179	7	SYSTEM	はい、天気は曇、最低気温24.1度、最高気温30.2度となります。他にご用件はございますか？	general,attraction,taxi,weather
+1179	8	USER	もう大丈夫です。ありがとうございました。	general,attraction,taxi,weather
+1179	9	SYSTEM	ありがとうございました。	general,attraction,taxi,weather

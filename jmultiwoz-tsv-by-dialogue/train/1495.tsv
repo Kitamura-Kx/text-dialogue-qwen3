@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1495	0	USER	仙台に無料駐車場のある宿はありますか？予算は高めです。	general,hotel,shopping,taxi
+1495	1	SYSTEM	はい、エリアが太白区にある、たびの邸宅 秋保山荘はいかがでしょう？	general,hotel,shopping,taxi
+1495	2	USER	その宿にレストランはありますか？	general,hotel,shopping,taxi
+1495	3	SYSTEM	申し訳ありません。併設のレストランはございません。レストランが併設されている施設を探しましょうか？	general,hotel,shopping,taxi
+1495	4	USER	分かりました。大丈夫です。続いて、青葉区にある買い物スポットを探してるんですけど。ジャンルは文房具・雑貨で、無料駐車場があるといいのですが。	general,hotel,shopping,taxi
+1495	5	SYSTEM	はい、アニメイト仙台はいかがでしょう？	general,hotel,shopping,taxi
+1495	6	USER	最寄り駅と、そこからの所要時間も知りたいです。	general,hotel,shopping,taxi
+1495	7	SYSTEM	はい、最寄りの仙台駅から徒歩で2分となります。	general,hotel,shopping,taxi
+1495	8	USER	分かりました。最後に、タクシー情報もお願いします。キャッシュレス対応の会社はありますか？	general,hotel,shopping,taxi
+1495	9	SYSTEM	仙都タクシー（株）はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0120023742となります。	general,hotel,shopping,taxi
+1495	10	USER	そちらでお願いします。2/11の13:20、たびの邸宅 秋保山荘からアニメイト仙台まで予約をお願いします。	general,hotel,shopping,taxi
+1495	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、36175となります。	general,hotel,shopping,taxi
+1495	12	USER	ありがとうございます！	general,hotel,shopping,taxi

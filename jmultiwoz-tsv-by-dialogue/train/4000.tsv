@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4000	0	USER	仙台へ旅行して買い物したいのですが、太白区でスポーツ用品を買える店はありますか？駐車場は無料のところがいいです。	general,shopping,weather
+4000	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,shopping,weather
+4000	2	USER	そうですか。ではスポーツ用品は取り扱ってなくても、なんでも大丈夫です。	general,shopping,weather
+4000	3	SYSTEM	かしこまりました。それではララガーデン長町がございます。	general,shopping,weather
+4000	4	USER	そこにしようかな。近辺の駅からの所要時間と定休日ってわかります？	general,shopping,weather
+4000	5	SYSTEM	ありがとうございます。長町駅から徒歩で9分でございまして、定休日は無しです。	general,shopping,weather
+4000	6	USER	そうなんですね。11/7の泉区の最高気温と天気も知りたいので教えてください。	general,shopping,weather
+4000	7	SYSTEM	かしこまりました。当日の天気は晴のち曇、最高気温は12.4度でございます。	general,shopping,weather
+4000	8	USER	ありがとうございます。これで大丈夫です。	general,shopping,weather
+4000	9	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,weather

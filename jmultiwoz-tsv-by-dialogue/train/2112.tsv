@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2112	0	USER	こんにちは。仙台へ旅行予定なので、宿泊施設を探しています。ビジネスホテルで、富沢駅が最寄だといいんですけど。	general,hotel,restaurant,taxi
+2112	1	SYSTEM	かしこまりました。では、コーラスホテル仙台富沢はいかがでしょうか？	general,hotel,restaurant,taxi
+2112	2	USER	ありがとうございます。そこの値段帯はどんな感じですか？	general,hotel,restaurant,taxi
+2112	3	SYSTEM	はい。値段帯は安めとなっております。	general,hotel,restaurant,taxi
+2112	4	USER	そうなんですね。そこにします。あと、飲食店も探していて、駐車場無料の所で、最寄り駅が宮城野通駅のとこってありますか？	general,hotel,restaurant,taxi
+2112	5	SYSTEM	かしこまりました。では、力寿司はいかがでしょうか？ジャンルは寿司・魚料理, 和食です。	general,hotel,restaurant,taxi
+2112	6	USER	助かります、そこにします。予約もお願いできますか？10/20の15:00で4名です。	general,hotel,restaurant,taxi
+2112	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、38923です。	general,hotel,restaurant,taxi
+2112	8	USER	当日、タクシーも利用したくで、キャッシュレス払いができるところを探していただけますか？	general,hotel,restaurant,taxi
+2112	9	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,hotel,restaurant,taxi
+2112	10	USER	そうですか。ではキャッシュレス払いができなくてもいいので、タクシー会社をお願いします。	general,hotel,restaurant,taxi
+2112	11	SYSTEM	かしこまりました。では、稲荷タクシー（有）はいかがでしょうか？ジャンボタクシーに対応しています。	general,hotel,restaurant,taxi
+2112	12	USER	そうなんですね、ありがとうございます。ではそこで予約お願いします。10/20の13:10で、コーラスホテル仙台富沢から力寿司までです。	general,hotel,restaurant,taxi
+2112	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、59346です。	general,hotel,restaurant,taxi
+2112	14	USER	ありがとうございます。すみませんが、そこの電話番号もお願いします。	general,hotel,restaurant,taxi
+2112	15	SYSTEM	はい。電話番号は0222411121です。	general,hotel,restaurant,taxi
+2112	16	USER	どうもありがとうございました。助かりました。	general,hotel,restaurant,taxi
+2112	17	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,taxi

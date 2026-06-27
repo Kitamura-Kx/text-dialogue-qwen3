@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3715	0	USER	横浜へ旅行したいのですが。	general,restaurant
+3715	1	SYSTEM	はい。何かお手伝いできることはありますか？	general,restaurant
+3715	2	USER	食事ができる飲食店を探してくだしい。カフェやスイーツが希望です。	general,restaurant
+3715	3	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant
+3715	4	USER	そうですか。では、飲食店であればジャンルは問わないので、ありますか？	general,restaurant
+3715	5	SYSTEM	かしこまりました。では、リストランテ ウミリアはいかがでしょうか？	general,restaurant
+3715	6	USER	そちらは定休日はありますか？あと、Wi-Fiは使えますか？	general,restaurant
+3715	7	SYSTEM	はい。定休日は毎週水曜日と、第一、第三火曜日です。Wi-Fiはありません。	general,restaurant
+3715	8	USER	わかりました。では、そちらで予約をお願いします。4/1に3名で、14:00にお願いします。	general,restaurant
+3715	9	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant
+3715	10	USER	そうですか。では、15:00ではできますか？	general,restaurant
+3715	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、81615です。	general,restaurant
+3715	12	USER	ありがとうございます。	general,restaurant
+3715	13	SYSTEM	はい。他に用件はございませんか？	general,restaurant
+3715	14	USER	特にありません。ありがとうございました。	general,restaurant
+3715	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant

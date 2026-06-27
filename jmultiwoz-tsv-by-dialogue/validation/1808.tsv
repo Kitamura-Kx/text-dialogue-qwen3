@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1808	0	USER	福岡へ旅行に行く予定をしています。	general,shopping,hotel,attraction
+1808	1	SYSTEM	何かご希望はございますか？	general,shopping,hotel,attraction
+1808	2	USER	西区で買い物ができる所はありますか？	general,shopping,hotel,attraction
+1808	3	SYSTEM	はい、ベビーザらス マリノアシティ福岡店はいかがでしょう？ジャンルは、おもちゃ、となります。	general,shopping,hotel,attraction
+1808	4	USER	そちらにします。ベビーザらス マリノアシティ福岡店の定休日はいつでしょうか？最寄り駅からもどれくらいかかるか分かりますか？	general,shopping,hotel,attraction
+1808	5	SYSTEM	定休日はございません。最寄りの姪浜駅からはバスで15分となります。	general,shopping,hotel,attraction
+1808	6	USER	それと、安めの宿泊先も探して欲しいです。無料Wi-Fiつきでお願いします。	general,shopping,hotel,attraction
+1808	7	SYSTEM	他にご希望はございますか？	general,shopping,hotel,attraction
+1808	8	USER	この条件でお願いします。	general,shopping,hotel,attraction
+1808	9	SYSTEM	エリアでいうと博多区にある、SYA HOTEL-祇園はいかがでしょう？タイプはその他となります。	general,shopping,hotel,attraction
+1808	10	USER	ありがとうございます。SYA HOTEL-祇園にはレストランはついていますか？電話番号も教えてください。	general,shopping,hotel,attraction
+1808	11	SYSTEM	電話番号は0922920126となります。申し訳ありませんが、併設のレストランはございません。	general,shopping,hotel,attraction
+1808	12	USER	分かりました。それと城南区で観光スポットも探しています。	general,shopping,hotel,attraction
+1808	13	SYSTEM	申し訳ありません。城南区には観光名所がございません。いかが致しましょう？	general,shopping,hotel,attraction
+1808	14	USER	それでは、地区は関係なく探してもらえますか？	general,shopping,hotel,attraction
+1808	15	SYSTEM	エリアでいうと博多区にある、アサヒビール博多工場はいかがでしょう？ジャンルは、工場見学となります。	general,shopping,hotel,attraction
+1808	16	USER	そちらにします。アサヒビール博多工場の住所と、料金の情報もいただけますか？	general,shopping,hotel,attraction
+1808	17	SYSTEM	住所は福岡県福岡市博多区竹下3丁目1-1、料金情報は、無料、となります。	general,shopping,hotel,attraction
+1808	18	USER	ありがとうございます。	general,shopping,hotel,attraction
+1808	19	SYSTEM	他にご用件はございますか？	general,shopping,hotel,attraction
+1808	20	USER	これで全てです、ありがとうございました。	general,shopping,hotel,attraction
+1808	21	SYSTEM	ありがとうございました。	general,shopping,hotel,attraction

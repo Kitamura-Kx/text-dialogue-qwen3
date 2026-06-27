@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2073	0	USER	札幌で買い物がしたいです。百貨店や総合スーパーのようなところで、駐車場が無料で使えるところを探してください。	general,shopping,weather
+2073	1	SYSTEM	かしこまりました。それではイオン札幌元町ショッピングセンターはいかがでしょうか？	general,shopping,weather
+2073	2	USER	そちらの営業時間はわかりますか？	general,shopping,weather
+2073	3	SYSTEM	はい、午前9時から午後9時までとなっております。	general,shopping,weather
+2073	4	USER	そこに行こうかと思います。当日の天気はわかりますか？1/2の厚別区の天気が知りたいのですが。	general,shopping,weather
+2073	5	SYSTEM	当日の厚別区の天気は晴時々曇の予報となっております。	general,shopping,weather
+2073	6	USER	気温もわかれば教えてください。	general,shopping,weather
+2073	7	SYSTEM	最高気温が3.6度、最低気温が-8.2度となっております。	general,shopping,weather
+2073	8	USER	助かりました。どうもありがとう。	general,shopping,weather

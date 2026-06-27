@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1925	0	USER	大阪に無料駐車場のある宿泊施設はありますか。	general,hotel,attraction,weather
+1925	1	SYSTEM	はい、2件ご案内可能です。アスティルホテル十三プレシャスと、ビジネス旅館 励明園ですが、いかがでしょうか？	general,hotel,attraction,weather
+1925	2	USER	ではアスティルホテル十三プレシャスの住所を教えてください。	general,hotel,attraction,weather
+1925	3	SYSTEM	アスティルホテル十三プレシャスの住所は、大阪府大阪市淀川区十三本町1丁目10-13です。	general,hotel,attraction,weather
+1925	4	USER	予約はできますか。	general,hotel,attraction,weather
+1925	5	SYSTEM	はい、承ります。ご宿泊予定の人数と日付、ご宿泊日数はお決まりでしょうか？	general,hotel,attraction,weather
+1925	6	USER	2名で11/25から4泊したいです。	general,hotel,attraction,weather
+1925	7	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、76076です。	general,hotel,attraction,weather
+1925	8	USER	ありがとうございます。鶴見緑地駅近くのWi-Fiが無料の観光名所はありますか。	general,hotel,attraction,weather
+1925	9	SYSTEM	はい、2件ご案内可能です。例えば、咲くやこの花館という植物園は、いかがでしょうか？	general,hotel,attraction,weather
+1925	10	USER	そこにします。住所はわかりますか	general,hotel,attraction,weather
+1925	11	SYSTEM	はい、大阪府大阪市鶴見区緑地公園2丁目163番でございます。	general,hotel,attraction,weather
+1925	12	USER	では11/25当日の北区の天気は分かりますか。	general,hotel,attraction,weather
+1925	13	SYSTEM	当日の天気は、曇のち晴の予報です。最低気温は12.9度、最高気温は17.9度の予想となっております。	general,hotel,attraction,weather
+1925	14	USER	ありがとうございます。質問は以上です。	general,hotel,attraction,weather
+1925	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction,weather

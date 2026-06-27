@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1644	0	USER	こんにちは。福岡へ行くので、買い物ができるところを探しています。自転車や自動車を売っているところで、駐車場が無料だとうれしいです。	general,shopping,attraction
+1644	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,attraction
+1644	2	USER	でしたらジャンルは問わず、駐車場が無料の所でお願いします	general,shopping,attraction
+1644	3	SYSTEM	ではホームセンター グッデイ 西福岡店いかがでしょうか。	general,shopping,attraction
+1644	4	USER	ありがとうございます。そこへ行ってみますので、営業時間と近辺の駅からの所要時間を教えてもらえますか？	general,shopping,attraction
+1644	5	SYSTEM	営業時間は8:00～20:00、橋本駅から徒歩で13分でございます。	general,shopping,attraction
+1644	6	USER	ありがとうございます。それと、観光名所も探しているのですけど、早良区で駐車場無料の所はどこかあります？	general,shopping,attraction
+1644	7	SYSTEM	かしこまりました。申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,attraction
+1644	8	USER	でしたら、駐車場がなくてもいいので、早良区で探していただけますでしょうか？	general,shopping,attraction
+1644	9	SYSTEM	では福岡タワーはいかがでしょうか。	general,shopping,attraction
+1644	10	USER	そこへ行ってみます。近辺の駅からの所用時間を教えてもらえますか？	general,shopping,attraction
+1644	11	SYSTEM	博多駅からバスで25分、西新駅から徒歩で20分、天神駅からバスで15分でございます。	general,shopping,attraction
+1644	12	USER	便利そうですね。今日はどうもありがとうございました。助かりました。	general,shopping,attraction
+1644	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction

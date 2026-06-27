@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2865	0	USER	横浜に行くんですが、青葉区で食事できるところを教えてください。	general,restaurant
+2865	1	SYSTEM	フレンチバル レ・サンスは、いかがですか？	general,restaurant
+2865	2	USER	おしゃれっぽくていいですね。値段帯を教えてください。あと最寄り駅を知りたいんですけど。	general,restaurant
+2865	3	SYSTEM	はい、値段帯は、普通となっています。	general,restaurant
+2865	4	USER	最寄り駅は？	general,restaurant
+2865	5	SYSTEM	最寄り駅は、たまプラーザ駅になります。	general,restaurant
+2865	6	USER	よく分かりました。お世話になりました。	general,restaurant

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3584	0	USER	こんにちは。横浜に旅行しようと思っているのですが、駐車場が無料で使える、最寄り駅が弘明寺駅の観光名所はありますか？	general,attraction,weather
+3584	1	SYSTEM	はい。弘明寺がございます。	general,attraction,weather
+3584	2	USER	そちらの定休日はわかりますか？	general,attraction,weather
+3584	3	SYSTEM	定休日は無しでございます。	general,attraction,weather
+3584	4	USER	ありがとうございます。神奈川区の11/21の天候も調べてもらえませんか？	general,attraction,weather
+3584	5	SYSTEM	天気は曇のち晴、最低気温が10.5度で最高気温が20.2度でございます。	general,attraction,weather
+3584	6	USER	ありがとうございます。	general,attraction,weather
+3584	7	SYSTEM	ほかにご用件はございませんか。	general,attraction,weather
+3584	8	USER	いえ、大丈夫です。案内ありがとうございました。	general,attraction,weather
+3584	9	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1630	0	USER	横浜へ行く予定をしています。	general,shopping,weather
+1630	1	SYSTEM	かしこまりました。お知りになりたい情報はございますか。	general,shopping,weather
+1630	2	USER	大倉山駅のあたりでショッピングを楽しみたいと思っていますが、よいお店はありませんか？	general,shopping,weather
+1630	3	SYSTEM	ではIKEA港北がございます。	general,shopping,weather
+1630	4	USER	ありがとうございます。IKEA港北の住所の案内もお願いします。	general,shopping,weather
+1630	5	SYSTEM	住所は神奈川県横浜市都筑区折本町201-1でございます。	general,shopping,weather
+1630	6	USER	6/6に行く予定なのですが鶴見区の天気が気になります。この日の最高気温はどのくらいでしょうか？	general,shopping,weather
+1630	7	SYSTEM	最高気温は29.1度でございます。	general,shopping,weather
+1630	8	USER	ありがとうございます。	general,shopping,weather
+1630	9	SYSTEM	ほかにご用件はございますか。	general,shopping,weather
+1630	10	USER	いいえ、これで結構です。	general,shopping,weather
+1630	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

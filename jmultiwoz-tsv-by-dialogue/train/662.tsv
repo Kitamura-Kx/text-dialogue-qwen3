@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+662	0	USER	お尋ねします。大阪旅行で買い物を計画しています。良いところはありますか。	general,shopping,hotel
+662	1	SYSTEM	はい、48件ほどご案内可能です。ジャンルやエリアなど、何かご希望はございますか？	general,shopping,hotel
+662	2	USER	地区は住之江区で、ジャンルはファッションを考えています。	general,shopping,hotel
+662	3	SYSTEM	そうしますと、おかいもの処椿庵というお店が1件、ご案内できます。住吉大社駅から徒歩3分のお店ですが、いかがでしょうか？	general,shopping,hotel
+662	4	USER	いいですね。定休日，店舗名を教えてください。	general,shopping,hotel
+662	5	SYSTEM	定休日は、不定休となっております。店舗名は、おかいもの処椿庵、でございます。	general,shopping,hotel
+662	6	USER	続けて宿泊施設を探してほしいのですが。	general,shopping,hotel
+662	7	SYSTEM	はい、かしこまりました。ご希望の条件などはございますか？	general,shopping,hotel
+662	8	USER	予算は高め、Wi-Fi無料で考えています。	general,shopping,hotel
+662	9	SYSTEM	それでしたら、ヴィラ デ くらす、というところはいかがでしょうか？	general,shopping,hotel
+662	10	USER	その施設のタイプ，住所を教えてほしいです。	general,shopping,hotel
+662	11	SYSTEM	タイプは、その他となっております。住所は、大阪府大阪市福島区大開1丁目4-12です。	general,shopping,hotel
+662	12	USER	助かりました。ありがとうございました。	general,shopping,hotel

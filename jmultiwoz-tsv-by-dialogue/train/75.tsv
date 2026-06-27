@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+75	0	USER	失礼します。東京に行こうと思うんですが、少し相談してもいいですか？	general,hotel,taxi
+75	1	SYSTEM	かしこまりました。東京ですね。	general,hotel,taxi
+75	2	USER	当日泊まる場所として、予算的に少し高いところが良いかなと思っていて、探すことはできますか？	general,hotel,taxi
+75	3	SYSTEM	値段帯が高めの宿泊施設が８件ございますが、ほかに条件はございますか。	general,hotel,taxi
+75	4	USER	そうですね、まず駐車場が無料で使えて、ついでにwifiも無料だと嬉しいですね。	general,hotel,taxi
+75	5	SYSTEM	ではThe Okura Tokyoはいかがでしょうか。	general,hotel,taxi
+75	6	USER	The Okura Tokyoというところですね。ありがとうございます。	general,hotel,taxi
+75	7	SYSTEM	ほかにご用件はございますか。	general,hotel,taxi
+75	8	USER	あの、タクシーも探してもらえたりできますか？	general,hotel,taxi
+75	9	SYSTEM	はい。ご希望の条件はございますか。	general,hotel,taxi
+75	10	USER	ジャンボタクシーが希望です。支払いはキャッシュレスで。	general,hotel,taxi
+75	11	SYSTEM	葵交通株式会社はいかがでしょうか。	general,hotel,taxi
+75	12	USER	そこにします。電話番号を教えてもらっても？	general,hotel,taxi
+75	13	SYSTEM	電話番号は0570550555でございます。	general,hotel,taxi
+75	14	USER	予約もお願いしたです。12月20日で朝の11時にいいですか？	general,hotel,taxi
+75	15	SYSTEM	かしこまりました。出発地と目的地を教えていただけますか。	general,hotel,taxi
+75	16	USER	先ほどのThe Okura Tokyoから乗って、旅館浅草指月まで乗せてもらいたいです。	general,hotel,taxi
+75	17	SYSTEM	予約が完了いたしました。予約番号は67043でございます。	general,hotel,taxi
+75	18	USER	すいません、お手数おかけしました。	general,hotel,taxi
+75	19	SYSTEM	ほかにご用件はございますか。	general,hotel,taxi
+75	20	USER	いやもう充分です。これで失礼します。	general,hotel,taxi
+75	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi

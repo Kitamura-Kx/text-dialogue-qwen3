@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4948	0	USER	福岡旅行についての相談です。中央区で、レストランが併設されている宿泊施設を紹介してもらえますか？	general,hotel,restaurant,weather
+4948	1	SYSTEM	8件ご紹介できます。KKRホテル博多(国家公務員共済組合連合会福岡共済会館) アゴーラ福岡山の上ホテル&スパ アークホテルロイヤル福岡天神などはいかがですか？	general,hotel,restaurant,weather
+4948	2	USER	アゴーラ福岡山の上ホテル&スパにします。どういうタイプの施設ですか？それと、住所も教えてください。	general,hotel,restaurant,weather
+4948	3	SYSTEM	リゾートホテルタイプになります。住所は福岡県福岡市中央区輝国1丁目1-33です。	general,hotel,restaurant,weather
+4948	4	USER	いいですね。博多区で、駐車場を無料で利用できる飲食店も探してください。	general,hotel,restaurant,weather
+4948	5	SYSTEM	Bistro Matsushima リタの農園 レカイエ オイスターバー JR博多シティ店 円坐・長屋 加賀屋 博多店の5件をご紹介できます。	general,hotel,restaurant,weather
+4948	6	USER	Bistro Matsushimaに興味があります。ジャンルと最寄り駅はわかりますか？	general,hotel,restaurant,weather
+4948	7	SYSTEM	ジャンルはイタリアン・フレンチ, 洋食・西洋料理です。最寄り駅は雑餉隈駅です。	general,hotel,restaurant,weather
+4948	8	USER	この場で予約までしてもらえますか？人数は3人で、10月17日の13時40分が希望です。	general,hotel,restaurant,weather
+4948	9	SYSTEM	申し訳ございません。ご指定の条件では予約できませんでした。	general,hotel,restaurant,weather
+4948	10	USER	14時20分でも予約できませんか？人数と日付はそのままでお願いします。	general,hotel,restaurant,weather
+4948	11	SYSTEM	予約可能でした。予約完了しております。予約番号は43534です。	general,hotel,restaurant,weather
+4948	12	USER	ついでに天気も調べてもらいたいんです。東区で、10月17日の天気はどうなりそうですか？最高気温も教えてくれると助かります。	general,hotel,restaurant,weather
+4948	13	SYSTEM	曇のち雨です。最高気温は21.7度です。	general,hotel,restaurant,weather
+4948	14	USER	そうですか、でも予約はできて良かったです。ご対応ありがとうございました。	general,hotel,restaurant,weather

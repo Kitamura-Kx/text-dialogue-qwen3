@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+378	0	USER	横浜でタクシーを利用したいのですが、ジャンボタクシーが利用できるところはありますか？	general,taxi
+378	1	SYSTEM	申し訳ありません、ジャンボタクシー対応のタクシー会社はございません。いかが致しましょう？	general,taxi
+378	2	USER	では、ジャンボタクシー対応はこだわりません。	general,taxi
+378	3	SYSTEM	申し訳ありません。では、平和交通株式会社 新子安営業所はいかがでしょう？キャッシュレスには対応しております。電話番号は0456638181となります。	general,taxi
+378	4	USER	ありがとうございます。では、予約をお願いしたいのですが、12/18の14:30で、象の鼻テラスから、スーパーホテル横浜・関内までお願いします。	general,taxi
+378	5	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,taxi
+378	6	USER	では、時間を15:20にしてください。	general,taxi
+378	7	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、35240となります。他にご案内できることはございますか？	general,taxi
+378	8	USER	他は大丈夫です。ありがとうござました。	general,taxi
+378	9	SYSTEM	ありがとうございました。	general,taxi

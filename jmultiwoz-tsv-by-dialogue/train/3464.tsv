@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3464	0	USER	横浜へ旅行に行くので、泊まるところを探して欲しいです。	general,hotel,restaurant
+3464	1	SYSTEM	かしこまりました。81件ほど該当しますが、何かご条件はありますか？	general,hotel,restaurant
+3464	2	USER	レストランが併設されていることと無料駐車場があるのが条件です。あと金沢区の宿泊施設だと助かるのですが。	general,hotel,restaurant
+3464	3	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,hotel,restaurant
+3464	4	USER	では金沢区でなくても構いません。レストランと無料駐車場は必要です。	general,hotel,restaurant
+3464	5	SYSTEM	かしこまりました。それではホテル パセラの森 横浜関内はいかがでしょうか？	general,hotel,restaurant
+3464	6	USER	そちらの料金情報はどのようになっていますか？	general,hotel,restaurant
+3464	7	SYSTEM	申し訳ございません。値段帯は安めですが、料金情報は分かりません。	general,hotel,restaurant
+3464	8	USER	わかりました。それでは予約をお願いします。7/13から2泊、2人です。	general,hotel,restaurant
+3464	9	SYSTEM	お待たせ致しました。予約番号21331でお取りさせていただきました。	general,hotel,restaurant
+3464	10	USER	ありがとうございます。あと食事ができるお店を探して欲しいです。	general,hotel,restaurant
+3464	11	SYSTEM	かしこまりました。119件ほどありますので、御条件を伺います。	general,hotel,restaurant
+3464	12	USER	お鍋が食べたいです。無料駐車場があれば助かるのですが。	general,hotel,restaurant
+3464	13	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,hotel,restaurant
+3464	14	USER	では駐車場がないお店でも構いません。	general,hotel,restaurant
+3464	15	SYSTEM	かしこまりました。それではさかえや 横浜みなとみらい本店はいかがでしょうか？	general,hotel,restaurant
+3464	16	USER	そちらの住所と定休日を教えてください。	general,hotel,restaurant
+3464	17	SYSTEM	はい、こちらの住所は神奈川県横浜市みなとみらい2丁目3-8 みなとみらい東急スクエア3-3Fでして、不定休とのことです。	general,hotel,restaurant
+3464	18	USER	あとWi-Fiは使えますか？	general,hotel,restaurant
+3464	19	SYSTEM	申し訳ございません。Wi-Fiの有無は分かりません。	general,hotel,restaurant
+3464	20	USER	わかりました。ありがとうございました。以上です。	general,hotel,restaurant
+3464	21	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,restaurant

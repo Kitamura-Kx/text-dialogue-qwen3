@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+270	0	USER	福岡の宿を探しているんですが、レストランが併設されていて、高めの予算で泊まれるところを教えてください。	general,hotel,taxi,weather
+270	1	SYSTEM	かしこまりました。グランド ハイアット 福岡がございますがいかがでしょうか。	general,hotel,taxi,weather
+270	2	USER	最寄り駅はどこになりますか？	general,hotel,taxi,weather
+270	3	SYSTEM	最寄り駅は博多駅となっております。	general,hotel,taxi,weather
+270	4	USER	ではその宿の予約をお願いします。4月21日から4人で3泊したいんですが、取れますか？	general,hotel,taxi,weather
+270	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は38735でございます。	general,hotel,taxi,weather
+270	6	USER	タクシーもお願いしたいんですが、ジャンボタクシーが使える会社はありますか？	general,hotel,taxi,weather
+270	7	SYSTEM	はい。福岡西鉄タクシー（株）がございます。	general,hotel,taxi,weather
+270	8	USER	ではそこで予約をお願いします。4月21日ですが、一斗五合を9時40分に出発して、グランド ハイアット 福岡までお願いできますか？	general,hotel,taxi,weather
+270	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は56092でございます。	general,hotel,taxi,weather
+270	10	USER	同じ21日の天候も知りたいんですが、南区はどんな感じになりそうですか？	general,hotel,taxi,weather
+270	11	SYSTEM	天気は曇のち晴、最低気温は7.5度、最高気温は15.3度となっております。	general,hotel,taxi,weather
+270	12	USER	福岡って案外寒いんですね。ありがとうございました。お世話になりました。	general,hotel,taxi,weather

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3379	0	USER	横浜に行くのですが宿泊施設を探しています。	general,hotel
+3379	1	SYSTEM	横浜の宿泊施設でお調べしましたところ、79件該当がございます。ご希望の条件などございますか？	general,hotel
+3379	2	USER	駐車場が無料で安めの所がいいです。	general,hotel
+3379	3	SYSTEM	申し訳ございません。頂いた条件ですと、該当なしでございました。	general,hotel
+3379	4	USER	では駐車場はなくてもいいです。	general,hotel
+3379	5	SYSTEM	そうしますと、上大岡SKホテルほか75件該当がございます。いかがいたしましょうか？	general,hotel
+3379	6	USER	そちらのエリアはどこになりますか？レストランはありますか？	general,hotel
+3379	7	SYSTEM	エリアは港南区でございます。レストランは無しでございます。	general,hotel
+3379	8	USER	そこにします。電話番号を教えてください。	general,hotel
+3379	9	SYSTEM	承知いたしました。電話番号は、0457418808でございます。	general,hotel
+3379	10	USER	3/21から4泊で2人で予約をお願いしたいです。	general,hotel
+3379	11	SYSTEM	3/21から4泊で2名様、ご予約完了致しました。予約番号は、41404でございます。	general,hotel
+3379	12	USER	ありがとうございます。	general,hotel
+3379	13	SYSTEM	ありがとうございました。	general,hotel

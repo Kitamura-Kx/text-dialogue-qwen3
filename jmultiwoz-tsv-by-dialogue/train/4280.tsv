@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4280	0	USER	旅行で京都に行きます。高めの宿泊施設を探してもらえますか？	general,hotel
+4280	1	SYSTEM	かしこまりました。ではKAGUYAはいかがでしょうか。	general,hotel
+4280	2	USER	無料駐車場のあるところがいいのですが、そこはありますか？	general,hotel
+4280	3	SYSTEM	こちら無料の駐車場はございません。京都 高瀬川別邸であれば無料の駐車場がございますが、いかがですか。	general,hotel
+4280	4	USER	じゃあ、そこにします。そこの宿泊施設にはレストランはありますか？	general,hotel
+4280	5	SYSTEM	レストランは併設されておりません。	general,hotel
+4280	6	USER	そうなんですね。最寄り駅を教えてください。	general,hotel
+4280	7	SYSTEM	最寄り駅は七条駅でございます。	general,hotel
+4280	8	USER	では、1月20日から2泊、4人で予約してください。	general,hotel
+4280	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は45680でございます。	general,hotel
+4280	10	USER	どうもありがとうございました。	general,hotel
+4280	11	SYSTEM	ほかにご用件はございませんか。	general,hotel
+4280	12	USER	いえ、特にありません。ありがとうございます	general,hotel
+4280	13	SYSTEM	承知しました。ありがとうございました。	general,hotel

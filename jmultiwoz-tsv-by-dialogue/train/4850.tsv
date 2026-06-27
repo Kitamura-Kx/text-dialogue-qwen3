@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4850	0	USER	那覇へ旅行しようと思っています。Wi-Fiが無料の観光名所を教えてください。	general,attraction,taxi
+4850	1	SYSTEM	那覇でWiFi無料の観光名所は１６種類ありますが、沖縄らしく、首里城、こちらをオススメします。	general,attraction,taxi
+4850	2	USER	そこは駐車場は無料ですか？	general,attraction,taxi
+4850	3	SYSTEM	いえ、有料になります。	general,attraction,taxi
+4850	4	USER	できれば無料のところを希望します。	general,attraction,taxi
+4850	5	SYSTEM	駐車場とWiFi無料の観光名所は７件、この中ならば、首里殿内 首里金城町石畳道をオススメします。	general,attraction,taxi
+4850	6	USER	そちらはどのようなジャンルの観光名所でしょうか？	general,attraction,taxi
+4850	7	SYSTEM	美術館・博物館になります。	general,attraction,taxi
+4850	8	USER	定休日はありますか	general,attraction,taxi
+4850	9	SYSTEM	定休日はありません。	general,attraction,taxi
+4850	10	USER	ありがとうございます。それから、当日、ジャンボタクシーが利用できるタクシー会社も探しています。キャッシュレス払いもできるところはありますか？	general,attraction,taxi
+4850	11	SYSTEM	丸星交通ならジャンボタクシーもキャッシュレスも対応しています。	general,attraction,taxi
+4850	12	USER	では、予約をお願いしたいです。	general,attraction,taxi
+4850	13	SYSTEM	はい、日付時刻、出発地と目的地をおねがいします。	general,attraction,taxi
+4850	14	USER	1月6日9時50分に先ほど教えていただいた美術館からエナジックホテル山市までお願いします。	general,attraction,taxi
+4850	15	SYSTEM	予約成功しました。予約番号は85561です。	general,attraction,taxi
+4850	16	USER	ありがとうございます。念のために電話番号も教えてください。	general,attraction,taxi
+4850	17	SYSTEM	0988685831です。	general,attraction,taxi
+4850	18	USER	どうもありがとうございました。	general,attraction,taxi
+4850	19	SYSTEM	よい旅を	general,attraction,taxi
+4850	20	USER		general,attraction,taxi

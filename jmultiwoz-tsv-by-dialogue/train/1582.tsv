@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1582	0	USER	横浜への旅行を計画しているのですが、青葉区で駐車場が無料の和食料理屋はありますでしょうか？	general,restaurant,hotel,weather
+1582	1	SYSTEM	はい、1件ご案内可能です。うなぎ料理 しま村 青葉台店というお店ですが、いかがでしょうか？	general,restaurant,hotel,weather
+1582	2	USER	うなぎ料理いいですね、参考までに料金情報を教えていただけますか？	general,restaurant,hotel,weather
+1582	3	SYSTEM	ジャンルは、寿司・魚料理, 和食となっております。料金は、鰻釜(竹):4180円、お重(竹):3630円というものがございます。	general,restaurant,hotel,weather
+1582	4	USER	参考になりました、では3人で12/17の9:30に予約できますでしょうか？	general,restaurant,hotel,weather
+1582	5	SYSTEM	ご予約完了いたしました。予約番号は、44182です。	general,restaurant,hotel,weather
+1582	6	USER	ありがとうございます。あと港南区で泊まれるところを探しています。駐車場が無料だと嬉しいのですが、条件に合う宿泊施設はありますか？	general,restaurant,hotel,weather
+1582	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,restaurant,hotel,weather
+1582	8	USER	しょうがないですね、有料でもいいので駐車場があれば大丈夫です。	general,restaurant,hotel,weather
+1582	9	SYSTEM	では、上大岡SKホテルはいかがでしょうか？	general,restaurant,hotel,weather
+1582	10	USER	場所を確認したいので、住所と最寄り駅を教えていただけますか？	general,restaurant,hotel,weather
+1582	11	SYSTEM	住所は、神奈川県横浜市港南区最戸1丁目18-18です。最寄り駅は、上大岡駅でございます。	general,restaurant,hotel,weather
+1582	12	USER	承知しました、こちらでもう少し調べてみます。ちなみに、12/17当日の旭区は天気いかがでしょうか？	general,restaurant,hotel,weather
+1582	13	SYSTEM	当日の天気は、曇時々晴、最低気温は6.6度、最高気温は15.6度の予報となっております。	general,restaurant,hotel,weather
+1582	14	USER	ありがとうございます、大変参考になりました。本日は以上となります。	general,restaurant,hotel,weather
+1582	15	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant,hotel,weather

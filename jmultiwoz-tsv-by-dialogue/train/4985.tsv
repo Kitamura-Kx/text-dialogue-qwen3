@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4985	0	USER	こんにちは、仙台に旅行したいと考えています。Wi-Fiが無料の、当日食事できる飲食店を調べていただけますか？	general,restaurant,attraction,weather
+4985	1	SYSTEM	承知しました。黒毛和牛一頭切り 伊達哉はいかがでしょうか？	general,restaurant,attraction,weather
+4985	2	USER	そのお店にします。料金情報も教えてくれますか？	general,restaurant,attraction,weather
+4985	3	SYSTEM	承知しました。伊達の極上カルビ仙台牛独自ブランド｢伊達の黒｣というメニューは3060円です。	general,restaurant,attraction,weather
+4985	4	USER	おいしそうですね。当日は観光名所にも行きたいのですが、ジャンルは桜で、駐車場が無料のところを教えてください。	general,restaurant,attraction,weather
+4985	5	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,restaurant,attraction,weather
+4985	6	USER	そうですか、駐車場の有無は考慮しなくても大丈夫です。	general,restaurant,attraction,weather
+4985	7	SYSTEM	承知しました。榴岡公園はいかがでしょうか？	general,restaurant,attraction,weather
+4985	8	USER	ありがとうございます。エリアと営業時間、住所も教えてくれますか？	general,restaurant,attraction,weather
+4985	9	SYSTEM	エリアは宮城野区です。営業時間は00:00～00:00です。住所は宮城県仙台市宮城野区五輪1丁目です。	general,restaurant,attraction,weather
+4985	10	USER	それから、天気も調べてもらえますか。地区は若林区で、2月6日です。最低気温もわかれば助かります。	general,restaurant,attraction,weather
+4985	11	SYSTEM	2月6日の若林区の天気は曇時々晴です。最低気温は0.8度です。	general,restaurant,attraction,weather
+4985	12	USER	わかりました。ありがとうございます。	general,restaurant,attraction,weather

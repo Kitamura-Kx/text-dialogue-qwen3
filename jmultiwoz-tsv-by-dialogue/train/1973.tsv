@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1973	0	USER	東京へ行こうと思っています。豊島区にあって駐車場が無料で利用できてレストランが併設されている宿泊施設を探していただきたいです。	general,hotel
+1973	1	SYSTEM	その条件ではヒットしませんでした。	general,hotel
+1973	2	USER	では地区は考慮せず同条件で探していただけますか？	general,hotel
+1973	3	SYSTEM	帝国ホテル東京をお勧めします。	general,hotel
+1973	4	USER	そちらの値段帯を教えていただけますでしょうか。	general,hotel
+1973	5	SYSTEM	普通になります。	general,hotel
+1973	6	USER	わかりました。ありがとうございます。	general,hotel
+1973	7	SYSTEM	他にご希望はありますか？	general,hotel
+1973	8	USER	いいえ、大丈夫です。ありがとうございました。	general,hotel

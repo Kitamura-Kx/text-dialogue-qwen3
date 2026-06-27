@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1003	0	USER	横浜へ旅行予定なのですが、高めの飲食店を調べてください。	general,restaurant
+1003	1	SYSTEM	かしこまりました。お食事のジャンルやエリアなど、何かご希望はございますか？	general,restaurant
+1003	2	USER	いえ、特にありません。	general,restaurant
+1003	3	SYSTEM	では、金香楼という中華料理のお店はいかがでしょうか？最寄り駅は関内駅で、元町・中華街駅や石川町駅からもアクセス可能です。	general,restaurant
+1003	4	USER	そこいいですね。定休日と電話番号を教えてください。	general,restaurant
+1003	5	SYSTEM	こちらのお店は、定休日はございません。電話番号は、0456805568です。よろしければ、ご予約も承ることができますよ。	general,restaurant
+1003	6	USER	いえ、大丈夫です。ありがとうございます。	general,restaurant
+1003	7	SYSTEM	承知いたしました。他になにかお調べすることはございますか？	general,restaurant
+1003	8	USER	もう十分です。ありがとうございました。	general,restaurant
+1003	9	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,restaurant

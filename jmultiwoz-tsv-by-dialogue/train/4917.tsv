@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4917	0	USER	那覇に旅行に行こうと思っています。本庁でおもちゃが買えるお店を探してください。駐車場が無料で利用できるところでお願いします。	general,shopping,weather,taxi
+4917	1	SYSTEM	かしこまりました。では、トイザらス・ベビーザらス 那覇新都心店はいかがでしょうか。	general,shopping,weather,taxi
+4917	2	USER	ありがとうございます。あと、首里の4/15の最低気温と最高気温を教えてください。	general,shopping,weather,taxi
+4917	3	SYSTEM	当日の最低気温が20.5度で、最高気温が21.3度でございます。	general,shopping,weather,taxi
+4917	4	USER	ありがとうございます。当日はジャンボタクシーを利用したいです。キャッシュレス払いのできる会社を探してください。	general,shopping,weather,taxi
+4917	5	SYSTEM	では三和交通がございます。	general,shopping,weather,taxi
+4917	6	USER	その会社の電話番号を教えてください。	general,shopping,weather,taxi
+4917	7	SYSTEM	電話番号は0120100084でございます。	general,shopping,weather,taxi
+4917	8	USER	ありがとうございます。では4/15の11:00にトイザらス・ベビーザらス 那覇新都心店から栄町天ぷらマーケット がじまるで予約をお願いします。	general,shopping,weather,taxi
+4917	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は17949でございます。	general,shopping,weather,taxi
+4917	10	USER	ありがとうございます。これで大丈夫です。	general,shopping,weather,taxi
+4917	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather,taxi

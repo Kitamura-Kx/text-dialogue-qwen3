@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2293	0	USER	那覇への旅行を計画しています。	general,restaurant,shopping
+2293	1	SYSTEM	那覇のご旅行ですね。どういった情報をお探しでしょうか？	general,restaurant,shopping
+2293	2	USER	飲食店を探しています。駐車場とWi-Fiが無料で利用できると嬉しいです。予算は安めでお願いします。	general,restaurant,shopping
+2293	3	SYSTEM	では、しゃぶ葉 那覇おもろまち店はいかがでしょうか？本庁エリアにある、和食ジャンルのお店です。	general,restaurant,shopping
+2293	4	USER	そちらの営業時間も知りたいです。	general,restaurant,shopping
+2293	5	SYSTEM	営業時間は、11:00～23:30です。	general,restaurant,shopping
+2293	6	USER	予約もお願いできますか？9月27日の10:40に３人です。	general,restaurant,shopping
+2293	7	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、610でございます。	general,restaurant,shopping
+2293	8	USER	ありがとうございます。	general,restaurant,shopping
+2293	9	SYSTEM	他になにかお調べすることはございますか？	general,restaurant,shopping
+2293	10	USER	山田宝石というお店の定休日はわかりますか？	general,restaurant,shopping
+2293	11	SYSTEM	本庁エリアの山田宝石というお店ですね。定休日は、1/1, 1/2, 1/3, 5/5, 11/2, 旧盆となっております。	general,restaurant,shopping
+2293	12	USER	ありがとうございます。住所もお願いします。	general,restaurant,shopping
+2293	13	SYSTEM	住所は、沖縄県那覇市久茂地3丁目29-69です。	general,restaurant,shopping
+2293	14	USER	わかりました。	general,restaurant,shopping
+2293	15	SYSTEM	ほかにお知りになりたい情報はございますか？	general,restaurant,shopping
+2293	16	USER	ありません。	general,restaurant,shopping
+2293	17	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant,shopping

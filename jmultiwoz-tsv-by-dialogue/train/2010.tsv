@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2010	0	USER	東京の千代田区で、レストランがあって、無料で駐車場が利用できる宿泊施設を探しています。	general,hotel,shopping
+2010	1	SYSTEM	かしこまりました。では、帝国ホテル東京はいかがでしょうか？	general,hotel,shopping
+2010	2	USER	そちらの料金情報を教えてもらえますか？	general,hotel,shopping
+2010	3	SYSTEM	はい。値段帯は普通となっております。	general,hotel,shopping
+2010	4	USER	ありがとうございます。千代田区で旅行用品が買えるところも教えてもらえますか？	general,hotel,shopping
+2010	5	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,hotel,shopping
+2010	6	USER	でしたら、旅行用品でなくていいので、千代田区で買い物できるところどこかありますか？駐車場が無料だと嬉しいです。	general,hotel,shopping
+2010	7	SYSTEM	かしこまりました。では、大丸東京店はいかがでしょうか？ジャンルは百貨店や総合スーパーになります。	general,hotel,shopping
+2010	8	USER	ありがとうございます。そのお店の定休日を教えて下さい。	general,hotel,shopping
+2010	9	SYSTEM	はい。定休日は1/1です。	general,hotel,shopping
+2010	10	USER	ありがとうございました。	general,hotel,shopping
+2010	11	SYSTEM	他にご用件はありますか？	general,hotel,shopping
+2010	12	USER	大丈夫です。ありがとうございました。	general,hotel,shopping
+2010	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping

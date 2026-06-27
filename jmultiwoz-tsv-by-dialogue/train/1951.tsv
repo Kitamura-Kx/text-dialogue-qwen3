@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1951	0	USER	北海道旅行を計画しています。札幌で買物をしたいのですが、東区でいいお店はありますか？	general,shopping,taxi,weather
+1951	1	SYSTEM	申し訳ございません。その条件ではお店をお探しすることは出来ませんでした。	general,shopping,taxi,weather
+1951	2	USER	東区以外ではどこかいいお店ありますか？	general,shopping,taxi,weather
+1951	3	SYSTEM	六花亭 札幌本店はいかがでしょうか？	general,shopping,taxi,weather
+1951	4	USER	ありがとうございます。そちらで決めたいとおもいます。	general,shopping,taxi,weather
+1951	5	SYSTEM	ありがとうございます。	general,shopping,taxi,weather
+1951	6	USER	当日はタクシーでの移動を考えています。キャッシュレス対応のタクシー会社をご紹介いただけますか？	general,shopping,taxi,weather
+1951	7	SYSTEM	かしこまりました。寿ハイヤー(株)さんはいかがでしょうか？	general,shopping,taxi,weather
+1951	8	USER	その会社はジャンボタクシー対応されてますか？	general,shopping,taxi,weather
+1951	9	SYSTEM	いえ、ジャンボタクシーは対応しておりません。	general,shopping,taxi,weather
+1951	10	USER	寿ハイヤー(株)の電話番号を教えていただけますか？	general,shopping,taxi,weather
+1951	11	SYSTEM	はい、0115726000でございます。	general,shopping,taxi,weather
+1951	12	USER	ありがとうございます。寿ハイヤー(株)の予約を取っていただけますでしょうか。4月25日の14:30で、場所は六花亭 札幌本店から定山渓温泉 ぬくもりの宿 ふる川まででお願いします。	general,shopping,taxi,weather
+1951	13	SYSTEM	申し訳ございません。その条件ではご予約が出来ませんでした。	general,shopping,taxi,weather
+1951	14	USER	時間を変えて、15:00なら予約取れますでしょうか？	general,shopping,taxi,weather
+1951	15	SYSTEM	はい！15時でしたら予約出来ました。予約番号は73992でございます。	general,shopping,taxi,weather
+1951	16	USER	助かります。	general,shopping,taxi,weather
+1951	17	SYSTEM	恐縮です。その他に何かご用件はございますか？	general,shopping,taxi,weather
+1951	18	USER	4月25日当日の清田区の天気予報はどうなってるかわかりますか？	general,shopping,taxi,weather
+1951	19	SYSTEM	はい、お天気は晴のち曇、最高気温は8.5度、最低気温は4.8度となっております。	general,shopping,taxi,weather
+1951	20	USER	詳しい情報ありがとうございます。楽しい旅行ができそうです。	general,shopping,taxi,weather

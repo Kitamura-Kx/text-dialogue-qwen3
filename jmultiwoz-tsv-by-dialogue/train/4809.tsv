@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4809	0	USER	京都へ旅行に行くので、最寄り駅が北野白梅町駅の、駐車場が無料な宿泊施設を探してもらえますか？	general,hotel,weather
+4809	1	SYSTEM	京都北野白梅町駅には、駐車場が無料の宿泊施設はなさそうです。	general,hotel,weather
+4809	2	USER	そうですか。あと、旅館が希望なのですが、最寄り駅がどこでもいいとすれば、どこかいいところありませんか？	general,hotel,weather
+4809	3	SYSTEM	京都には、駐車場無料の旅館は４件ありますが、旅館 寿々喜荘をお勧めします。	general,hotel,weather
+4809	4	USER	そこにします。電話番号とレストランの有無を教えてもらえますか？	general,hotel,weather
+4809	5	SYSTEM	電話番号は0756116622、レストランは併設していません。	general,hotel,weather
+4809	6	USER	わかりました。じゃあ、4人で2/18から4泊の予約をお願いします。	general,hotel,weather
+4809	7	SYSTEM	予約成功しました。予約番号は79712です。	general,hotel,weather
+4809	8	USER	ありがとうございます。あと、右京区の2/18の天気も教えてください。	general,hotel,weather
+4809	9	SYSTEM	2/18 京都 右京区 の天気は晴のち曇、最低気温5.2度、最高気温12.5度です。	general,hotel,weather
+4809	10	USER	ありがとうございました。	general,hotel,weather

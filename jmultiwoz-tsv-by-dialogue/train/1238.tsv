@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1238	0	USER	名古屋への旅行を検討しています。当日買い物が出来る場所を探しているのですが、お伺いしてもよろしいでしょうか？	general,shopping,attraction,weather
+1238	1	SYSTEM	はい、承ります。ご希望の条件は何かございますか？	general,shopping,attraction,weather
+1238	2	USER	はい。北区で、最寄り駅が覚王山駅ですとありがたいのですが。	general,shopping,attraction,weather
+1238	3	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,shopping,attraction,weather
+1238	4	USER	そうですか。でしたら、最寄り駅が覚王山駅の買い物が出来る場所はありますか？	general,shopping,attraction,weather
+1238	5	SYSTEM	北区エリア以外でもお探ししますと、千種区エリアにある覚王山アパートというところが1件ご案内可能です。いかがでしょうか？	general,shopping,attraction,weather
+1238	6	USER	そちらを検討したいです。そこの施設のジャンルはどのようなものになるでしょうか？	general,shopping,attraction,weather
+1238	7	SYSTEM	ジャンルは、文房具・雑貨, ファッション, その他となっております。	general,shopping,attraction,weather
+1238	8	USER	ありがとうございます。それとは別に、当日行く観光名所も探しているのですが、よろしいでしょうか？	general,shopping,attraction,weather
+1238	9	SYSTEM	名古屋の観光名所ですね。ジャンルやエリアなど、何かご希望はございますか？	general,shopping,attraction,weather
+1238	10	USER	はい。Wi-Fiが無料で利用できる場所を探しています。	general,shopping,attraction,weather
+1238	11	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,shopping,attraction,weather
+1238	12	USER	そうですか、でしたらWi-Fiは大丈夫ですので、どこかおすすめの観光名所はありますか？	general,shopping,attraction,weather
+1238	13	SYSTEM	ありがとうございます。では、旧豊田佐助邸というところは、ご興味ございませんか？ジャンルとしては、建築物となっております。	general,shopping,attraction,weather
+1238	14	USER	そちらがよさそうですね。エリアと最寄り駅をお伺いしてもよろしいですか？	general,shopping,attraction,weather
+1238	15	SYSTEM	東区エリアにございます。最寄り駅は、高岳駅ですが、駅から徒歩ですと15分ほどかかります。	general,shopping,attraction,weather
+1238	16	USER	ありがとうございます。最後に、当日の天候もお伺いしたいのですが、よろしいでしょうか？	general,shopping,attraction,weather
+1238	17	SYSTEM	はい、かしこまりました。お調べするお日にちとエリアをお願いできますか？	general,shopping,attraction,weather
+1238	18	USER	はい。日付は4月1日で、エリアは昭和区になります。	general,shopping,attraction,weather
+1238	19	SYSTEM	かしこまりました。当日の天気は曇の予報が出ております。最低気温は9.6度、最高気温は16.4度となっております。	general,shopping,attraction,weather
+1238	20	USER	ありがとうございます。これで当日は大丈夫そうです。ありがとうございました。	general,shopping,attraction,weather
+1238	21	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,shopping,attraction,weather

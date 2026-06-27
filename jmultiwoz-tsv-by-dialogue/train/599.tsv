@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+599	0	USER	那覇の観光名所を探しています！教えていただけますか？	general,attraction,hotel,restaurant
+599	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,hotel,restaurant
+599	2	USER	地区は真和志で、Wi-Fiが無料のところがいいです！	general,attraction,hotel,restaurant
+599	3	SYSTEM	ありがとうございます。該当は1件、識名園がございます。何かご案内致しましょうか？	general,attraction,hotel,restaurant
+599	4	USER	ジャンルって何になりますか？	general,attraction,hotel,restaurant
+599	5	SYSTEM	はい、ジャンルは、庭園、歴史的建造物、世界遺産、となります。他にご案内できることはございますか？	general,attraction,hotel,restaurant
+599	6	USER	ありがとうございます。本庁地区で泊まれる宿泊施設を探しています。	general,attraction,hotel,restaurant
+599	7	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,hotel,restaurant
+599	8	USER	駐車場無料のところがいいです！	general,attraction,hotel,restaurant
+599	9	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,attraction,hotel,restaurant
+599	10	USER	では駐車場の有無は気にしなくても大丈夫です。	general,attraction,hotel,restaurant
+599	11	SYSTEM	申し訳ありません、ありがとうございます。他のご希望はございませんか？	general,attraction,hotel,restaurant
+599	12	USER	はい！	general,attraction,hotel,restaurant
+599	13	SYSTEM	では、ホテルリゾネックス那覇はいかがでしょう？どのようなご案内を致しましょう？	general,attraction,hotel,restaurant
+599	14	USER	住所と値段帯について教えてください。	general,attraction,hotel,restaurant
+599	15	SYSTEM	はい、住所は沖縄県那覇市前島3丁目11-1、値段帯は安め、となります。他にご案内できることはございますか？	general,attraction,hotel,restaurant
+599	16	USER	ではそちらで予約をお願いします！1/31から4泊で3人で泊まりたいです。	general,attraction,hotel,restaurant
+599	17	SYSTEM	承知しました。予約が完了し、ご予約番号は、98349となります。他にご用件はございますか？	general,attraction,hotel,restaurant
+599	18	USER	飲食店も探していただけますでしょうか？Wi-Fiと駐車場が無料の所がいいです！	general,attraction,hotel,restaurant
+599	19	SYSTEM	承知しました。では、しゃぶ葉 那覇おもろまち店はいかがでしょう？ご案内できることはございますか？	general,attraction,hotel,restaurant
+599	20	USER	いいですね！営業時間と定休日について教えてください。	general,attraction,hotel,restaurant
+599	21	SYSTEM	はい、営業時間は11時から23時30分となります。定休日はございません。他にご案内が必要なことはございませんか？	general,attraction,hotel,restaurant
+599	22	USER	では1/31の17:20に予約をお願いします！3人で行きたいです。	general,attraction,hotel,restaurant
+599	23	SYSTEM	承知しました。予約は完了し、ご予約番号は、16796となります。他にご用件はございますか？	general,attraction,hotel,restaurant
+599	24	USER	もう大丈夫です。色々とありがとうございました！	general,attraction,hotel,restaurant
+599	25	SYSTEM	ありがとうございました。	general,attraction,hotel,restaurant

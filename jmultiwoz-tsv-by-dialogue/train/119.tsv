@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+119	0	USER	こんにちは。 今、横浜への旅行を考えていまして、案内をお願いしたいのですが。	general,shopping,taxi
+119	1	SYSTEM	かしこまりました。お知りになりたい情報がございますか。	general,shopping,taxi
+119	2	USER	はい。ららぽーと横浜という名前の買い物ができるところを探していただけますか？	general,shopping,taxi
+119	3	SYSTEM	はい。ございます。	general,shopping,taxi
+119	4	USER	そうしましたら、駐車場の有無について、ご案内いただけますでしょうか？	general,shopping,taxi
+119	5	SYSTEM	無料の駐車場がございます。	general,shopping,taxi
+119	6	USER	そうなんですね。わかりました。 あと、当日利用するタクシーについても探していただきたいのですが、よろしいですか？	general,shopping,taxi
+119	7	SYSTEM	条件はございますか。	general,shopping,taxi
+119	8	USER	ジャンボタクシーが利用できて、キャッシュレス払いができるところでお願いします。	general,shopping,taxi
+119	9	SYSTEM	株式会社グリーンキャブでよろしいでしょうか。	general,shopping,taxi
+119	10	USER	では、株式会社グリーンキャブの方のご案内をお願いします。 電話番号を教えていただけますか？	general,shopping,taxi
+119	11	SYSTEM	電話番号は0456638181でございます。	general,shopping,taxi
+119	12	USER	ありがとうございます。 予約もお願いしたいのですが、5月27日の11時に、松葉寿しを出発地として、ららぽーと横浜まででお願いしたいです。	general,shopping,taxi
+119	13	SYSTEM	はい。予約が完了いたしました。予約番号は99743でございます。	general,shopping,taxi
+119	14	USER	お手配、ありがとうございます。	general,shopping,taxi
+119	15	SYSTEM	ほかにご用件はございませんか。	general,shopping,taxi
+119	16	USER	はい、あとは大丈夫です。この度は、どうもありがとうございました。	general,shopping,taxi
+119	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

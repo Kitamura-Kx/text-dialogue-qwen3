@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4013	0	USER	東京へ旅行予定なのですが、最寄り駅が東池袋駅の観光名所はありますか？	general,attraction,weather
+4013	1	SYSTEM	東池袋の観光名所といえば、サンシャイン水族館、こちらになります。	general,attraction,weather
+4013	2	USER	なるほど。営業時間と大人入場料、あと住所を教えてもらえますか？	general,attraction,weather
+4013	3	SYSTEM	営業時間は朝１０時から夕方６時まで、住所は東京都豊島区東池袋3丁目3-1、大人は２４００円です。	general,attraction,weather
+4013	4	USER	わかりました。あと、2/26の港区の天気って調べてもらえます？	general,attraction,weather
+4013	5	SYSTEM	2/26 東京 港区 の天気は晴時々曇、最低気温1.7度、最高気温15.3度です。	general,attraction,weather
+4013	6	USER	わかりました。ありがとうございます。	general,attraction,weather
+4013	7	SYSTEM	よい旅を	general,attraction,weather

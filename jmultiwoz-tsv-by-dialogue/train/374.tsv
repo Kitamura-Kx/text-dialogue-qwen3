@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+374	0	USER	福岡での飲食店を探しています。	general,restaurant,hotel
+374	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant,hotel
+374	2	USER	城南区で、駐車場が無料のところはありますか？	general,restaurant,hotel
+374	3	SYSTEM	はい、1件、まいどおおきに食堂城南堤食堂がございます。何をご案内致しましょう？	general,restaurant,hotel
+374	4	USER	ありがとうございます。最寄り駅を教えてください。	general,restaurant,hotel
+374	5	SYSTEM	承知しました。最寄り駅は福大前駅、駅からの所要時間は徒歩で25分となります。他にご案内できることはございますか？	general,restaurant,hotel
+374	6	USER	では、10/11の10:50で３名予約をお願いします。	general,restaurant,hotel
+374	7	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,restaurant,hotel
+374	8	USER	では、時間を11:20だといかがでしょうか？	general,restaurant,hotel
+374	9	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、78662となります。他にご用件はございますか？	general,restaurant,hotel
+374	10	USER	ありがとうございます。当日宿泊するところも探しています。レストランが併設されているところで、予算が安めのところはありますか？駐車場が無料だと助かります。	general,restaurant,hotel
+374	11	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,restaurant,hotel
+374	12	USER	では予算はこだわりません。	general,restaurant,hotel
+374	13	SYSTEM	ありがとうございます。WITH THE STYLE FUKUOKA、GARDEN TERRACE FUKUOKA HOTEL&RESORTSの2件ございます。何をご案内致しましょう？	general,restaurant,hotel
+374	14	USER	WITH THE STYLE FUKUOKAの住所を教えてください。	general,restaurant,hotel
+374	15	SYSTEM	はい、住所は福岡県福岡市博多区博多駅南1丁目9-18となります。他にご案内できることはございますか？	general,restaurant,hotel
+374	16	USER	ありがとうございます。では、10/11に４名で３泊予約をお願いします。	general,restaurant,hotel
+374	17	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,restaurant,hotel
+374	18	USER	では、人数を３名にしてください。	general,restaurant,hotel
+374	19	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、53589となります。他にご用件はございますか？	general,restaurant,hotel
+374	20	USER	ありがとうございます。以上です、お世話になりました。	general,restaurant,hotel
+374	21	SYSTEM	ありがとうございました。	general,restaurant,hotel

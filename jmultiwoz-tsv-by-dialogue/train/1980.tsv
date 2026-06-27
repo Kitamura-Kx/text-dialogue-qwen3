@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1980	0	USER	那覇で和食を食べれるお店を探しています。	general,restaurant,shopping
+1980	1	SYSTEM	かしこまりました。そうしますと、23件ほどご案内可能です。他に、なにかご希望はございませんか？	general,restaurant,shopping
+1980	2	USER	駐輪場とWi-Fiが無料のお店が良いです。	general,restaurant,shopping
+1980	3	SYSTEM	恐れ入ります。申し訳ありません。当方では駐輪場の有無につきましてお調べしてご案内することができないのですが、いかが致しましょうか。	general,restaurant,shopping
+1980	4	USER	すみません。駐輪場ではなく駐車場でした。	general,restaurant,shopping
+1980	5	SYSTEM	ありがとうございます。そうしますと、3件ご案内可能です。例えば、しゃぶしゃぶ 焼肉 杏というお店にご興味ございませんか？	general,restaurant,shopping
+1980	6	USER	興味あります！行ってみます！	general,restaurant,shopping
+1980	7	SYSTEM	ありがとうございます。なにかお知りになりたい情報はございませんか？	general,restaurant,shopping
+1980	8	USER	その日に小禄でお土産を買える店を探しています。駐車場が無料のお店が良いです。	general,restaurant,shopping
+1980	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping
+1980	10	USER	では、お土産じゃなくても大丈夫なので買い物できる店はありますか？	general,restaurant,shopping
+1980	11	SYSTEM	ありがとうございます。そうしますと、LEO & JOEという、ジャンルが医薬品・化粧品のお店がございますが、いかがでしょうか？	general,restaurant,shopping
+1980	12	USER	そこにします。電話番号を教えてください。	general,restaurant,shopping
+1980	13	SYSTEM	かしこまりました。電話番号は、0988581268でございます。	general,restaurant,shopping
+1980	14	USER	ありがとうございました。	general,restaurant,shopping
+1980	15	SYSTEM	他にお調べすることはございますか？	general,restaurant,shopping
+1980	16	USER	いいえ大丈夫です。	general,restaurant,shopping
+1980	17	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant,shopping

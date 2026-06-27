@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3401	0	USER	旅行で横浜へ行く予定です。お土産が買えるところを探してください。	general,shopping
+3401	1	SYSTEM	ポケモンセンターヨコハマほか２件のお土産ショップがございます。	general,shopping
+3401	2	USER	青葉区にあるお店にしたいのですが。	general,shopping
+3401	3	SYSTEM	横浜、青葉区でのお土産店舗は該当がございませんでした。申し訳ございません。	general,shopping
+3401	4	USER	そうでしたか。では、先程案内してもらったポケモンセンターヨコハマの住所と、営業時間を教えてください。	general,shopping
+3401	5	SYSTEM	承知しました。住所は、神奈川県横浜市西区高島2丁目19-12 マルイシティ横浜 8Fです。営業時間は、10:30から20:30でございます。	general,shopping
+3401	6	USER	わかりました。ありがとうございます。	general,shopping
+3401	7	SYSTEM	他にお手伝いできることはございますか？	general,shopping
+3401	8	USER	いえ、大丈夫です。ありがとうございました。	general,shopping
+3401	9	SYSTEM	ありがとうございました。	general,shopping

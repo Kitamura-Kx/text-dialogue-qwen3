@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4697	0	USER	那覇へ旅行に行くのですが、医薬品や化粧品が買えて、駐車場が無料で使えるような店はないですか？	general,shopping
+4697	1	SYSTEM	那覇で駐車場無料の医薬品化粧品店ならば、LEO & JOEをお勧めします。	general,shopping
+4697	2	USER	そちらの店舗の住所と最寄り駅を教えてください。	general,shopping
+4697	3	SYSTEM	住所は沖縄県那覇市小禄４４３−１、奥武山公園駅から徒歩で2分です。	general,shopping
+4697	4	USER	ありがとうございました。	general,shopping

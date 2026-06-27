@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4297	0	USER	東京へ行くので、観光名所を探しています。美術館や博物館がいいのですが。	general,attraction,taxi
+4297	1	SYSTEM	かしこまりました。では国立科学博物館はいかがですか。	general,attraction,taxi
+4297	2	USER	なるほど、最寄り駅が汐留駅で、無料の駐車場があるところってないですか？	general,attraction,taxi
+4297	3	SYSTEM	それでしたら、Caretta汐留がございます。	general,attraction,taxi
+4297	4	USER	そこに行きたいと思います。住所とWi-Fiの有無を知りたいのですが。	general,attraction,taxi
+4297	5	SYSTEM	住所は東京都港区東新橋1丁目8-2で、Wi-Fiの有無は不明でございます。	general,attraction,taxi
+4297	6	USER	わかりました。あと、ジャンボタクシーとキャッシュレスに対応しているタクシー会社はないですか？	general,attraction,taxi
+4297	7	SYSTEM	はい。キャピタルオートがございます。こちら電話番号は0357552151でございます。	general,attraction,taxi
+4297	8	USER	ではそこのタクシーを予約します。3月8日にヴィアイン秋葉原から、Caretta汐留までお願いします。時間は9時40分にしてください。	general,attraction,taxi
+4297	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は29314でございます。	general,attraction,taxi
+4297	10	USER	予約ありがとうございます。	general,attraction,taxi
+4297	11	SYSTEM	ほかにご用件はございませんか。	general,attraction,taxi
+4297	12	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,taxi
+4297	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi

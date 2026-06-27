@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2239	0	USER	東京の観光名所を探してるんですけど、大田区で、荻窪駅の近くにいいところはありませんか？	general,attraction,shopping
+2239	1	SYSTEM	大田区で荻窪駅と検索してもヒットしません。	general,attraction,shopping
+2239	2	USER	あれ？じゃあ地区は考えなくていいです。	general,attraction,shopping
+2239	3	SYSTEM	荻窪駅近くの観光名所といえば、大田黒公園です。	general,attraction,shopping
+2239	4	USER	そこの営業時間って分かりますか？	general,attraction,shopping
+2239	5	SYSTEM	朝９時から夕方５時までです。	general,attraction,shopping
+2239	6	USER	夜はないんですね、わかりました。あとショッピングモールを探してほしいんですけど。	general,attraction,shopping
+2239	7	SYSTEM	はい、ご希望の条件をお聞かせください。	general,attraction,shopping
+2239	8	USER	特に希望はないんで、いい所を教えてください。最寄りの駅も聞いときたいんですけど。	general,attraction,shopping
+2239	9	SYSTEM	それでは東京交通会館をお勧めします。最寄りは有楽町駅です。	general,attraction,shopping
+2239	10	USER	ありがとうございました。助かりました。	general,attraction,shopping

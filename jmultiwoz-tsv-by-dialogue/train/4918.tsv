@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4918	0	USER	福岡に旅行しようと思うので、ホテルを探しています	general,hotel,attraction
+4918	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,hotel,attraction
+4918	2	USER	西区で、Wi-Fiが無料の場所をお願いします	general,hotel,attraction
+4918	3	SYSTEM	そういたしますと、GARDEN TERRACE FUKUOKA HOTEL&RESORTSというリゾートホテルが、1件ご案内可能です。いかがでしょうか？	general,hotel,attraction
+4918	4	USER	そこにはレストランはありますか？	general,hotel,attraction
+4918	5	SYSTEM	はい、併設しております。	general,hotel,attraction
+4918	6	USER	では、そこにします。住所を教えてもらえますか？	general,hotel,attraction
+4918	7	SYSTEM	ありがとうございます。住所は、福岡県福岡市西区小戸2丁目3-55です。	general,hotel,attraction
+4918	8	USER	では、3人で3月6日から二泊で予約をお願いします	general,hotel,attraction
+4918	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、13241です。	general,hotel,attraction
+4918	10	USER	ありがとうございます。その近くの観光名所も案内してもらえますか？	general,hotel,attraction
+4918	11	SYSTEM	かしこまりました。エリアなどで、ご希望はございますか？	general,hotel,attraction
+4918	12	USER	エリアはないですが、公園など自然がある場所が良いです	general,hotel,attraction
+4918	13	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel,attraction
+4918	14	USER	では、水族館はありませんか？	general,hotel,attraction
+4918	15	SYSTEM	はい、１件ご案内可能です。マリンワールド 海の中道という、東区の観光名所ですが、いかがでしょうか？	general,hotel,attraction
+4918	16	USER	いいですね。そこに駐車場はありますか？	general,hotel,attraction
+4918	17	SYSTEM	はい、有料ですが、駐車場をご利用いただけます。	general,hotel,attraction
+4918	18	USER	なるほど。では、ありがとうございました	general,hotel,attraction
+4918	19	SYSTEM	他にお調べすることはございませんか？	general,hotel,attraction
+4918	20	USER	大丈夫です	general,hotel,attraction
+4918	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction

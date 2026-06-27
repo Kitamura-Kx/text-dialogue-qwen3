@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2238	0	USER	大阪に行くんですが、駐車場とWi-Fiが両方ただの観光名所ってありますか？	general,attraction,weather
+2238	1	SYSTEM	大阪で駐車場とWiFi無料の観光名所といえば、鶴見緑地湯元 水春です。	general,attraction,weather
+2238	2	USER	そこはエリア的にはどこになりますか？あと電話番号を教えてほしいんですけど。	general,attraction,weather
+2238	3	SYSTEM	エリアは鶴見区、電話番号は0642571126になります。	general,attraction,weather
+2238	4	USER	ありがとうございます。4月1日の大正区の天候はどんな具合ですか？	general,attraction,weather
+2238	5	SYSTEM	4/1 大阪 大正区 の天気は晴のち曇、最低気温10.7度、最高気温16.5度です	general,attraction,weather
+2238	6	USER	おもったより寒い感じですね。ありがとうございました。	general,attraction,weather

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1585	0	USER	質問してもよろしいでしょうか？	general,restaurant,shopping,taxi
+1585	1	SYSTEM	はい、どういったご用件でしょうか？	general,restaurant,shopping,taxi
+1585	2	USER	今度仙台への旅行を計画してまして、オススメの飲食店を教えていただけないでしょうか？	general,restaurant,shopping,taxi
+1585	3	SYSTEM	かしこまりました。100件以上、お店をご案内可能ですが、お食事のジャンルやエリアなど、何かご希望はございますか？	general,restaurant,shopping,taxi
+1585	4	USER	場所は宮城野区でWi-Fiが無料で使えて安めのところが希望です。	general,restaurant,shopping,taxi
+1585	5	SYSTEM	そういたしますと、珈琲館 仙台東口店という、ジャンルがカフェ・スイーツのお店はいかがでしょうか？	general,restaurant,shopping,taxi
+1585	6	USER	良いですね、その店の住所はどちらになりますか？	general,restaurant,shopping,taxi
+1585	7	SYSTEM	宮城県仙台市宮城野区榴岡2丁目1-25 BiVi仙台 1Fでございます。	general,restaurant,shopping,taxi
+1585	8	USER	場所も良さそうです、今度そちらに伺ってみます。あと、買い物できるところを若林区で探しているのですが、無料の駐車場があるお店はありますか？	general,restaurant,shopping,taxi
+1585	9	SYSTEM	はい、4件ご案内可能です。たとえば、鐘崎 かまぼこの国 笹かま館というお土産, 食料品のお店はいかがでしょうか？	general,restaurant,shopping,taxi
+1585	10	USER	笹かま大好きです！そこの最寄り駅と定休日があれば教えてもらえますか？	general,restaurant,shopping,taxi
+1585	11	SYSTEM	最寄り駅は、荒井駅ですが、荒井駅からバスで11分ほどかかります。定休日はございません。	general,restaurant,shopping,taxi
+1585	12	USER	少し遠いですね、では当日タクシーで移動しようと思います。ジャンボタクシーが利用できるタクシー会社をご存じでしょうか？	general,restaurant,shopping,taxi
+1585	13	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping,taxi
+1585	14	USER	分かりました、ではジャンボタクシーでなくて良いのでどこかありますか？	general,restaurant,shopping,taxi
+1585	15	SYSTEM	そうしますと、永楽交通（株）はいかがでしょうか？こちらでしたら、キャッシュレスでお支払いいただくことができます。	general,restaurant,shopping,taxi
+1585	16	USER	いいですね、ちなみにそちらの電話番号はいくつでしょうか？	general,restaurant,shopping,taxi
+1585	17	SYSTEM	0222484546でございます。	general,restaurant,shopping,taxi
+1585	18	USER	では、12/7の11:20に珈琲館 仙台東口店から鐘崎 かまぼこの国 笹かま館まで予約をお願いできますか？	general,restaurant,shopping,taxi
+1585	19	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、54576でございます。	general,restaurant,shopping,taxi
+1585	20	USER	ありがとうございました、要件は以上になります。	general,restaurant,shopping,taxi
+1585	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,shopping,taxi

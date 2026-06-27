@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1090	0	USER	こんにちは、沖縄の那覇への旅行を予定しています。	general,shopping,hotel,weather
+1090	1	SYSTEM	希望条件などは、ございますか？	general,shopping,hotel,weather
+1090	2	USER	本庁のあたりで、旅行アイテムのお買い物をしたいと思っています。	general,shopping,hotel,weather
+1090	3	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,shopping,hotel,weather
+1090	4	USER	それでは、文具や雑貨が買えるお店はないですか？	general,shopping,hotel,weather
+1090	5	SYSTEM	鍵石 牧志店は、いかがでしょうか？	general,shopping,hotel,weather
+1090	6	USER	鍵石 牧志店の営業時間と定休日は分かりますか？お店の電話番号もお願いします。	general,shopping,hotel,weather
+1090	7	SYSTEM	営業時間は、午前9時から午後10時30分までとなっています。　定休日は、無しです。　電話番号は、0988660496です。	general,shopping,hotel,weather
+1090	8	USER	ありがとうございます。あと泊まる所も探してもらえますか？	general,shopping,hotel,weather
+1090	9	SYSTEM	グランドキャビンホテル那覇小禄は、いかがでしょうか？	general,shopping,hotel,weather
+1090	10	USER	首里のあたりで、おもろまち駅近くのホテルはありませんか？	general,shopping,hotel,weather
+1090	11	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,shopping,hotel,weather
+1090	12	USER	分かりました。それではグランドキャビンホテル那覇小禄のチェックインは何時から可能か教えてください。	general,shopping,hotel,weather
+1090	13	SYSTEM	チェックイン開始時間は、15時となっています。	general,shopping,hotel,weather
+1090	14	USER	ありがとうございます。あと、12/11の真和志の天気はどうでしょうか？	general,shopping,hotel,weather
+1090	15	SYSTEM	その日の天気は、曇となっています。	general,shopping,hotel,weather
+1090	16	USER	最低気温はどのくらいですか？	general,shopping,hotel,weather
+1090	17	SYSTEM	最低気温は、14.2度です。	general,shopping,hotel,weather
+1090	18	USER	ありがとうございました。	general,shopping,hotel,weather
+1090	19	SYSTEM	他にご用件はございますか？	general,shopping,hotel,weather
+1090	20	USER	他にはありません。	general,shopping,hotel,weather
+1090	21	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,hotel,weather

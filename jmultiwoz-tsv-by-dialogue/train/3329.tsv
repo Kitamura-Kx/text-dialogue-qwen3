@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3329	0	USER	仙台への旅行を計画中で、観光名所を探しています。	general,attraction,weather
+3329	1	SYSTEM	仙台の観光名所ですと、50件該当がございます。条件などございますか？	general,attraction,weather
+3329	2	USER	はい、無料駐車場付きで、最寄り駅は中野栄駅がいいです。	general,attraction,weather
+3329	3	SYSTEM	かしこまりました。仙台うみの杜水族館とキリンビール仙台工場の２件、ご案内可能でございます。いかがいたしましょうか？	general,attraction,weather
+3329	4	USER	キリンビール仙台工場にしようと思います。Wi-fiはありますか？	general,attraction,weather
+3329	5	SYSTEM	承知いたしました。wi-fiは無しとなっております。	general,attraction,weather
+3329	6	USER	ありがとうございます。4/13の太白区の最低気温を教えてください。	general,attraction,weather
+3329	7	SYSTEM	はい、最低気温は3.9度でございます。	general,attraction,weather
+3329	8	USER	助かります。ありがとうございます。	general,attraction,weather
+3329	9	SYSTEM	ありがとうございました。	general,attraction,weather
+3329	10	USER	では、失礼します。	general,attraction,weather

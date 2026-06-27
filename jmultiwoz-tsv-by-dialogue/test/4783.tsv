@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4783	0	USER	名古屋の観光名所を調べてください。駐車場とWi-Fiを無料で使え、ジャンルは自然・公園です。	general,attraction,weather
+4783	1	SYSTEM	かしこまりました。では、大高緑地はいかがでしょうか？	general,attraction,weather
+4783	2	USER	はい。料金はいくらですか。	general,attraction,weather
+4783	3	SYSTEM	はい。料金情報としましては、利用料金が必要な施設あり。詳細は、ホームページでご確認ください。となっております。	general,attraction,weather
+4783	4	USER	分かりました。千種区の天候を調べてください。日付は9/13です。	general,attraction,weather
+4783	5	SYSTEM	かしこまりました。天気予報は曇時々晴となっております。最低気温は20.4度、最高気温は33.4度になる予報です。	general,attraction,weather
+4783	6	USER	ありがとうございます。	general,attraction,weather
+4783	7	SYSTEM	はい。他にご用件はございませんか？	general,attraction,weather
+4783	8	USER	大丈夫です。	general,attraction,weather
+4783	9	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather
+4783	10	USER	ありがとうございました。	general,attraction,weather

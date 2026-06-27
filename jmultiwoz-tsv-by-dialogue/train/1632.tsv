@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1632	0	USER	横浜で食事をしたいと思っているので、お店を探してもらえますか？	general,restaurant
+1632	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+1632	2	USER	はい、駐車場無料のお店でお願いします。	general,restaurant
+1632	3	SYSTEM	ではカフェ・ド・ラペはいかがですか。	general,restaurant
+1632	4	USER	カフェ・ド・ラペはどんなジャンルの飲食店でしょうか？近くの駅からかかる時間も教えてください。	general,restaurant
+1632	5	SYSTEM	ジャンルはカフェ・スイーツ, イタリアン・フレンチ, その他でございます。日本大通り駅から徒歩で3分、関内駅から徒歩で10分となっております。	general,restaurant
+1632	6	USER	それではそこにしますね。予約をお願いできますか？	general,restaurant
+1632	7	SYSTEM	かしこまりました。では予約の詳細をお聞かせいただけますか。	general,restaurant
+1632	8	USER	11/8に13:40で予約をお願いします。人数は3人です。	general,restaurant
+1632	9	SYSTEM	はい。予約が完了いたしました。予約番号は6916でございます。	general,restaurant
+1632	10	USER	ありがとうございます。	general,restaurant
+1632	11	SYSTEM	ほかにご用件はございますか。	general,restaurant
+1632	12	USER	いいえ、ありがとうございました。	general,restaurant
+1632	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant

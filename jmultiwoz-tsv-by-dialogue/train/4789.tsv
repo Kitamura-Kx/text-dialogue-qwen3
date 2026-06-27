@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4789	0	USER	札幌の観光名所を調べてください。最寄り駅が麻生駅で、Wi-Fiが無料で利用できるところにしてください。	general,attraction,restaurant,taxi
+4789	1	SYSTEM	かしこまりました。では、シャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートはいかがでしょうか？	general,attraction,restaurant,taxi
+4789	2	USER	そこの料金情報、子供入場料を教えてください。	general,attraction,restaurant,taxi
+4789	3	SYSTEM	はい。料金情報は施設、時期により異なるみたいで、子供入場料も不明となっております。申し訳ございません。	general,attraction,restaurant,taxi
+4789	4	USER	分かりました。また。当日に利用できる飲食店を探してください。Wi-Fiと駐車場が無料で使えるところでお願いします。	general,attraction,restaurant,taxi
+4789	5	SYSTEM	かしこまりました。パーラーエノキというところがおすすめです。	general,attraction,restaurant,taxi
+4789	6	USER	そこの予約をお願いします。人数は2人です。日付は8/17で、時間は18:00です。	general,attraction,restaurant,taxi
+4789	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、22228です。	general,attraction,restaurant,taxi
+4789	8	USER	ありがとうございます。また、当日のタクシー会社を調べてほしいです。ジャンボタクシーが利用でき、キャッシュレス払いできるところでお願いします。	general,attraction,restaurant,taxi
+4789	9	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,attraction,restaurant,taxi
+4789	10	USER	分かりました。では、ジャンボタクシーは利用しなくて大丈夫です。	general,attraction,restaurant,taxi
+4789	11	SYSTEM	では、日北交通(株)はいかがですか？	general,attraction,restaurant,taxi
+4789	12	USER	そこの予約お願いします。日付は8/17で、時間は16:30です。出発地はシャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートで、目的地はパーラーエノキです。	general,attraction,restaurant,taxi
+4789	13	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,attraction,restaurant,taxi
+4789	14	USER	では時間を17:20に変更します。	general,attraction,restaurant,taxi
+4789	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、32574です。	general,attraction,restaurant,taxi
+4789	16	USER	ありがとうございました。	general,attraction,restaurant,taxi
+4789	17	SYSTEM	こちらこそ利用ありがとうございました。	general,attraction,restaurant,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4456	0	USER	こんにちは。札幌への旅行を考えています。タクシー会社を探しているのですが、キャッシュレス対応可能な会社はありますか？	general,taxi
+4456	1	SYSTEM	はい、ございます。では、暁交通(株)はいかがでしょうか？	general,taxi
+4456	2	USER	ありがとうございます。そちらはジャンボタクシー可能でしょうか	general,taxi
+4456	3	SYSTEM	はい、ご利用いただけます。	general,taxi
+4456	4	USER	ありがとうございます。2/24 9:40-にノースサファリ札幌出発、Tマークシティホテル札幌大通で予約したいのですがいかがでしょうか	general,taxi
+4456	5	SYSTEM	かしこまりました。念のため、確認させてください。お時間は午前の9時40分でよろしかったでしょうか？	general,taxi
+4456	6	USER	はい午前で間違いございません	general,taxi
+4456	7	SYSTEM	ありがとうございます。ただ大変申し訳ございません。ご希望の条件では予約できませんでした。お時間など、ご調整いただくことは可能でしょうか？	general,taxi
+4456	8	USER	はい、それでは午前の10:40はいかがでしょうか	general,taxi
+4456	9	SYSTEM	ありがとうございます。10:40出発にて、ご予約完了いたしました。予約番号は、23080です。	general,taxi
+4456	10	USER	ありがとうございます。暁交通(株)の電話番号お伺いしてもよろしいでしょうか	general,taxi
+4456	11	SYSTEM	はい、電話番号は、0117712632でございます。	general,taxi
+4456	12	USER	ありがとうございます。	general,taxi
+4456	13	SYSTEM	他にお手伝いすることはございませんか？	general,taxi
+4456	14	USER	問題ございません。ありがとうございました。	general,taxi
+4456	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

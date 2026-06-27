@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4494	0	USER	横浜でジャンボタクシーを使えるタクシー会社はありますか？	general,taxi
+4494	1	SYSTEM	はい、でしたら北斗タクシー株式会社がございます。	general,taxi
+4494	2	USER	そちらではキャッシュレスは対応していますか？	general,taxi
+4494	3	SYSTEM	申し訳ありません。キャッシュレスの対応に関しては分かりません。	general,taxi
+4494	4	USER	他のタクシー会社でじゃんぼたくしーとキャッシュレス対応しているところはありますか？	general,taxi
+4494	5	SYSTEM	横浜ですと、双方に対応しているタクシー会社がお探しすることが出来ませんでした。	general,taxi
+4494	6	USER	わかりました。北斗タクシー株式会社の電話番号はわかりますか・	general,taxi
+4494	7	SYSTEM	はい、電話番号は0456238884でございます。	general,taxi
+4494	8	USER	では、予約をお願いします。１２月３０日の１２時３０分。ホテルアソシア新横浜発、こども自然公園着でお願いします。	general,taxi
+4494	9	SYSTEM	お待たせ致しました。予約番号48420でお取りさせていただきました。	general,taxi
+4494	10	USER	ありがとうございました。	general,taxi

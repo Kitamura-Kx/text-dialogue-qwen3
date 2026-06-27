@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+846	0	USER	大阪の観光名所で、駐車場が無料のところはありますか？	general,attraction,taxi
+846	1	SYSTEM	はい、3件ほどございます。たとえば、難波神社はいかがでしょうか？	general,attraction,taxi
+846	2	USER	その神社の電話番号と料金情報を教えてください。	general,attraction,taxi
+846	3	SYSTEM	電話番号は、0662518000です。料金につきましては、無料となっておりまして、大人もお子様も入場料0円でございます	general,attraction,taxi
+846	4	USER	ありがとうございます。次にジャンボタクシーが利用できるタクシー会社を探したいです。	general,attraction,taxi
+846	5	SYSTEM	かしこまりました。一番株式会社というところがございますが、いかがでしょうか？	general,attraction,taxi
+846	6	USER	そちらのタクシーは、キャッシュレス対応ですか？	general,attraction,taxi
+846	7	SYSTEM	申し訳ございません。一番株式会社はキャッシュレス対応が不明となっております。キャッシュレスに対応している会社をお探ししましょうか？	general,attraction,taxi
+846	8	USER	はい、お願いします。	general,attraction,taxi
+846	9	SYSTEM	かしこまりました。では、株式会社フットはいかがでしょうか？	general,attraction,taxi
+846	10	USER	そちらの会社の電話番号はわかりますか？	general,attraction,taxi
+846	11	SYSTEM	電話番号は、0665751700です。ご予約もなさいますか？	general,attraction,taxi
+846	12	USER	はい、予約をお願いします。7/2 9:50　出発地は、ぐりこ・や 通天閣 スマイルストア店で、目的地は難波神社でお願いします。	general,attraction,taxi
+846	13	SYSTEM	かしこまりました。予約を完了いたしました。ご予約番号は、66612でございます。	general,attraction,taxi
+846	14	USER	今回お願いしたいことは以上です。ありがとうございました。	general,attraction,taxi
+846	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,taxi

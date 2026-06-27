@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2288	0	USER	東京の観光名所を１件教えて下さい。できれば駐車場が無料で使えるところがいいです。	general,attraction
+2288	1	SYSTEM	申し訳ありません。その条件ではご案内できないのですが、いかが致しましょう？	general,attraction
+2288	2	USER	わかりました。では駐車場の有無は問いませんので、おすすめのところを１件、料金情報と併せて教えて下さい。	general,attraction
+2288	3	SYSTEM	では、コニカミノルタプラネタリア TOKYOはいかがでしょう？料金情報として、中学生以上の大人入場料は1600円、4歳以上の子供入場料は100円となります。	general,attraction
+2288	4	USER	わかりました。ありがとうございました。	general,attraction

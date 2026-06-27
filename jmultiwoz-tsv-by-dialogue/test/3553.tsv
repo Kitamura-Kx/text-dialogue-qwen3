@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3553	0	USER	横浜への旅行を計画しています。 観光名所を探してください。	general,attraction,restaurant,hotel
+3553	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,restaurant,hotel
+3553	2	USER	駐車場を無料で利用できるところにしてください。あと、Wi-Fiが無料で利用できるところにしてください。ジャンルはアートギャラリーが希望です。	general,attraction,restaurant,hotel
+3553	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,restaurant,hotel
+3553	4	USER	では、Wi-Fiの有無は考慮しないものとします。	general,attraction,restaurant,hotel
+3553	5	SYSTEM	では放送ライブラリーがございます。	general,attraction,restaurant,hotel
+3553	6	USER	エリアを教えてください。	general,attraction,restaurant,hotel
+3553	7	SYSTEM	エリアは中区でございます。	general,attraction,restaurant,hotel
+3553	8	USER	続いて飲食店を探してください。地区は栄区、最寄り駅が鳥浜駅のところにしてください。	general,attraction,restaurant,hotel
+3553	9	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,attraction,restaurant,hotel
+3553	10	USER	では最寄り駅は考慮しないようにしてください。	general,attraction,restaurant,hotel
+3553	11	SYSTEM	ではタイ料理トムヤムくんはいかがでしょうか。	general,attraction,restaurant,hotel
+3553	12	USER	いいですね。料金情報，営業時間，ジャンルを教えてください。	general,attraction,restaurant,hotel
+3553	13	SYSTEM	２H飲み放題付の3500円コースがございます。絶品トムヤムクンやタイ焼きそば、炒め物など全７品で3500円となっております。	general,attraction,restaurant,hotel
+3553	14	USER	すみません。料金情報，営業時間，ジャンルで回答をお願いしたいのですが。	general,attraction,restaurant,hotel
+3553	15	SYSTEM	失礼いたしました。営業時間は11:30～15:00, 17:30～20:00で、ジャンルはアジア・エスニック料理, 居酒屋でございます。	general,attraction,restaurant,hotel
+3553	16	USER	料金情報は「２H飲み放題付の3500円コース」になりますか。	general,attraction,restaurant,hotel
+3553	17	SYSTEM	さようでございます。２H飲み放題付の3500円コースがございます。絶品トムヤムクンやタイ焼きそば、炒め物など全７品で3500円との説明でございます。	general,attraction,restaurant,hotel
+3553	18	USER	では予約をお願いします。人数は4人、日付は10/3、時間は16:20です。	general,attraction,restaurant,hotel
+3553	19	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は79934でございます。	general,attraction,restaurant,hotel
+3553	20	USER	あと、当日泊まる宿泊施設を探してほしいです。駐車場無料、レストランが併設されているところで、Wi-Fiが無料で利用できるところにしてください。	general,attraction,restaurant,hotel
+3553	21	SYSTEM	では、ホテル パセラの森 横浜関内はいかがでしょうか。	general,attraction,restaurant,hotel
+3553	22	USER	いいですね。予約をお願いします。人数は4人、日付は10/3、宿泊日数は4泊でお願いします。	general,attraction,restaurant,hotel
+3553	23	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は68990でございます。	general,attraction,restaurant,hotel
+3553	24	USER	解決しました。ありがとうございました。	general,attraction,restaurant,hotel
+3553	25	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,hotel

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2307	0	USER	札幌で宿泊施設を探しています。安めの料金で泊まれる場所はありますか？	general,hotel
+2307	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,hotel
+2307	2	USER	では、予算の条件を除いてください。	general,hotel
+2307	3	SYSTEM	では、定山渓 鶴雅リゾートスパ 森の謌はいかがでしょうか？	general,hotel
+2307	4	USER	そちらにレストランは併設されていますか？また、近所の駅から所要時間も知りたいです。	general,hotel
+2307	5	SYSTEM	はい、レストランも併設されております。　近辺の駅からの所要時間は、札幌駅からタクシーで27分になります。	general,hotel
+2307	6	USER	分かりました。ありがとうございます！	general,hotel

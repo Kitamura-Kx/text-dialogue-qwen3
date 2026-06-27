@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4814	0	USER	福岡へ旅行に行くので、宿泊施設を探してください。	general,hotel
+4814	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,hotel
+4814	2	USER	中央区で駐車場無料のところを調べてください。	general,hotel
+4814	3	SYSTEM	中央区で駐車場無料の宿泊施設はいくつかありますが、H HOTEL、こちらをお勧めします。	general,hotel
+4814	4	USER	そちらはどんなタイプの宿泊施設ですか？	general,hotel
+4814	5	SYSTEM	タイプその他となっています。	general,hotel
+4814	6	USER	わかりました。これで以上です。ありがとうございます。	general,hotel
+4814	7	SYSTEM	よい旅を。	general,hotel

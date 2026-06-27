@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3880	0	USER	京都へ行くんですが、予算安めのホテルレストランで無料駐車場があるところを探してもらえますか？	general,restaurant,taxi
+3880	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant,taxi
+3880	2	USER	そうですか。じゃあ予算にはこだわらないことにします。	general,restaurant,taxi
+3880	3	SYSTEM	かしこまりました。では、オールデイダイニング ラジョウがございます。	general,restaurant,taxi
+3880	4	USER	ありがとうございます。ではそこの住所も教えてください。	general,restaurant,taxi
+3880	5	SYSTEM	はい、住所は京都府京都市下京区東塩小路町680 京都センチュリーホテル2Fでございます。	general,restaurant,taxi
+3880	6	USER	ありがとうございます。では予約をお願いできますか？2/8の12：40に２名です。	general,restaurant,taxi
+3880	7	SYSTEM	申し訳ありません。その条件は予約が出来ませんでした。	general,restaurant,taxi
+3880	8	USER	じゃあ１名に変更してもらえますか。	general,restaurant,taxi
+3880	9	SYSTEM	お待たせ致しました。予約番号98248でお取りさせていただきました。	general,restaurant,taxi
+3880	10	USER	ありがとうございます。あと、ジャンボタクシーが利用できるタクシー会社を探してもらえますか？	general,restaurant,taxi
+3880	11	SYSTEM	かしこまりました。それでは都タクシー株式会社はいかがでしょうか？	general,restaurant,taxi
+3880	12	USER	ありがとうございます。そこの会社の電話番号とキャッシュレス対応の有無も教えてください。	general,restaurant,taxi
+3880	13	SYSTEM	はい、電話番号は0756616611でございます。キャッシュレスにも対応しております。	general,restaurant,taxi
+3880	14	USER	ありがとうございます。では予約をお願いできますか？2/8の11：00にTUNE STAY KYOTOを出発して、オールデイダイニング ラジョウまで利用したいです。	general,restaurant,taxi
+3880	15	SYSTEM	お待たせ致しました。予約番号22290でお取りさせていただきました。	general,restaurant,taxi
+3880	16	USER	ありがとうございました。以上で結構です。	general,restaurant,taxi
+3880	17	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,taxi

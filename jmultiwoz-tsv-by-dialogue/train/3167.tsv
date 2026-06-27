@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3167	0	USER	名古屋で医薬品や化粧品を買えるところを探しています。	general,shopping,attraction,taxi
+3167	1	SYSTEM	かしこまりました。では、エコライフショップマジックマーマはいかがでしょうか？	general,shopping,attraction,taxi
+3167	2	USER	そちらは駐車場が無料で利用可能でしょうか？	general,shopping,attraction,taxi
+3167	3	SYSTEM	はい。無料駐車場がございます。	general,shopping,attraction,taxi
+3167	4	USER	ありがとうございます。そちらの電話番号と営業時間を教えてもらえますか？	general,shopping,attraction,taxi
+3167	5	SYSTEM	はい。電話番号は0525649777で、営業時間は11:00～17:00になります。	general,shopping,attraction,taxi
+3167	6	USER	ありがとうございます。あと、中村区で無料駐車場のある観光名所も探してもらえますか？	general,shopping,attraction,taxi
+3167	7	SYSTEM	かしこまりました。ミッドランドスクエア 屋外展望台 スカイプロムナードはいかがでしょうか？	general,shopping,attraction,taxi
+3167	8	USER	そちらの料金の情報と、子供の入場料を教えてもらえますか？	general,shopping,attraction,taxi
+3167	9	SYSTEM	はい。料金は18歳以上の大人の通常券が750円、65歳以上のシルバーと、中高生の通常券は500円。小学生は土日祝は無料で、それ以外は300円になります。なお、一日券ですと、それぞれプラス300円の値段で、その日限り何度でも再入場可能になれます。子供入場料は300円です。	general,shopping,attraction,taxi
+3167	10	USER	詳しくありがとうございます。当日利用できるタクシー会社も探していて、ジャンボタクシーが利用できるところありますでしょうか？	general,shopping,attraction,taxi
+3167	11	SYSTEM	かしこまりました。つばめタクシーグループがおすすめです。	general,shopping,attraction,taxi
+3167	12	USER	電話番号と、キャッシュレスに対応しているかも教えてもらえますか？	general,shopping,attraction,taxi
+3167	13	SYSTEM	はい。電話番号は0522031212です。キャッシュレスにも対応しております。	general,shopping,attraction,taxi
+3167	14	USER	ありがとうございます。そちらのタクシー会社で、３月１９日の１６時にエコライフショップマジックマーマからミッドランドスクエア 屋外展望台 スカイプロムナードまで予約お願いします。	general,shopping,attraction,taxi
+3167	15	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,shopping,attraction,taxi
+3167	16	USER	時間を１６時５０分に変更したらとれますか？	general,shopping,attraction,taxi
+3167	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、5252です。	general,shopping,attraction,taxi
+3167	18	USER	ありがとうございます。	general,shopping,attraction,taxi
+3167	19	SYSTEM	ほかにお調べすることはありますか？	general,shopping,attraction,taxi
+3167	20	USER	大丈夫です。ありがとうございました。	general,shopping,attraction,taxi

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2137	0	USER	京都に旅行に行く計画を立てたいのですが、タクシー会社を探してもらえないでしょうか。ジャンボタクシーが利用できるところだと嬉しいです。	general,taxi
+2137	1	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,taxi
+2137	2	USER	そうですか。ではジャンボタクシーは使えなくても大丈夫です。	general,taxi
+2137	3	SYSTEM	かしこまりました。では、ユニオン株式会社はいかがでしょうか？	general,taxi
+2137	4	USER	ユニオン株式会社さんの電話はわかりますか？あとキャッシュレス払いに対応しているのかどうかも知りたいです。	general,taxi
+2137	5	SYSTEM	はい。電話番号は0756721872です。キャッシュレスが使えるかどうかは不明となっております。	general,taxi
+2137	6	USER	わかりました。それではこちらの会社で予約を取ってもらってもいいですか？	general,taxi
+2137	7	SYSTEM	かしこまりました。出発時刻と、出発地と目的地はお決まりでしょうか？	general,taxi
+2137	8	USER	1/21の09:50、いづうから十石舟までの乗車予定です。	general,taxi
+2137	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、17363です。	general,taxi
+2137	10	USER	お手配ありがとうございます。とても助かりました。	general,taxi

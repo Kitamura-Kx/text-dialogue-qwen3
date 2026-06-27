@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3896	0	USER	東京への旅行を計画しているのですが、新宿高野 本店というお店で買い物をする予定です。近辺の駅からの所要時間を教えていただけますか。	general,shopping,attraction
+3896	1	SYSTEM	かしこまりました。そちらの店舗は新宿駅から徒歩で1分、新宿三丁目駅から徒歩で5分、新宿西口駅から徒歩で5分でございます。	general,shopping,attraction
+3896	2	USER	ありがとうございます。その後は観光名所に行きたいのですが、コンサート・ショーをしている場所を教えてください。	general,shopping,attraction
+3896	3	SYSTEM	では代々木公園はいかがでしょうか。	general,shopping,attraction
+3896	4	USER	そちらは駐車場は無料でしょうか。	general,shopping,attraction
+3896	5	SYSTEM	こちら駐車場は有料でございます。	general,shopping,attraction
+3896	6	USER	無料のところを探していただけますか。	general,shopping,attraction
+3896	7	SYSTEM	かしこまりました。ではCaretta汐留は駐車場が無料でございます。	general,shopping,attraction
+3896	8	USER	ありがとうございます！　では、そちらの住所をお知らせください。	general,shopping,attraction
+3896	9	SYSTEM	住所は東京都港区東新橋1丁目8-2でございます。	general,shopping,attraction
+3896	10	USER	ありがとうございました。	general,shopping,attraction

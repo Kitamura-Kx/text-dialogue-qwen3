@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2996	0	USER	仙台への旅行を計画しています。 買い物ができるところを探して欲しいです。	general,shopping,taxi
+2996	1	SYSTEM	ご希望の条件をおきかせください。	general,shopping,taxi
+2996	2	USER	駐車場を無料で利用できるところで、最寄り駅が北仙台駅、ジャンルは書籍希望です。	general,shopping,taxi
+2996	3	SYSTEM	北仙台駅で駐車場無料の書籍といえば、絵本と木のおもちゃ 横田や、こちら一択です。	general,shopping,taxi
+2996	4	USER	では、そのお店の定休日を教えてください。	general,shopping,taxi
+2996	5	SYSTEM	水曜定休です。	general,shopping,taxi
+2996	6	USER	続いてタクシー会社を探して欲しいです。ジャンボタクシーを利用できるところにしてください。	general,shopping,taxi
+2996	7	SYSTEM	いくつかありますが、（有）光泉タクシーをお勧めします。	general,shopping,taxi
+2996	8	USER	そちらのキャッシュレス対応を教えてほしいです。	general,shopping,taxi
+2996	9	SYSTEM	キャッシュレスにも対応しています。	general,shopping,taxi
+2996	10	USER	では予約をしてください。日付は5/23、時間は12:50、出発地は絵本と木のおもちゃ 横田や、目的地は天然石ハンドメイドアクセサリー FUKANEというところです。	general,shopping,taxi
+2996	11	SYSTEM	その条件だと予約に失敗してしまいました。	general,shopping,taxi
+2996	12	USER	では、時間を13:50に変更したらどうでしょうか。	general,shopping,taxi
+2996	13	SYSTEM	13:50なら予約できました。予約番号は2035です。	general,shopping,taxi
+2996	14	USER	解決しました。ありがとうございました。	general,shopping,taxi

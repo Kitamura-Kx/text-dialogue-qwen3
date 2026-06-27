@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2228	0	USER	すみません、横浜へ旅行したいのですが。	general,hotel
+2228	1	SYSTEM	かしこまりました。横浜ですね。何をお調べ致しますか？	general,hotel
+2228	2	USER	宿泊施設を探しています。無料Wi-Fiが使えてレストランが併設されているところをお願いします。あと、無料の駐車場があると嬉しいです。	general,hotel
+2228	3	SYSTEM	申し訳ございません。その条件では宿泊施設をお探しすることが出来ませんでした。	general,hotel
+2228	4	USER	そうですか。では、駐車場はなくてもいいので、他にありませんか？	general,hotel
+2228	5	SYSTEM	かしこまりました。それでは、横浜桜木町ワシントンホテルはいかがでしょうか？	general,hotel
+2228	6	USER	そちらの料金を教えてください。	general,hotel
+2228	7	SYSTEM	値段帯は安めでございます。詳細料金については分かりません。申し訳ございません。	general,hotel
+2228	8	USER	ほかに料金が詳しくわかるホテルはありますか？	general,hotel
+2228	9	SYSTEM	申し訳ございません。宿泊施設の料金の詳細はこちらではお調べすることが出来ません。	general,hotel
+2228	10	USER	わかりました。大丈夫です。検討してみます。ありがとうございました。	general,hotel
+2228	11	SYSTEM	お役に立てず申し訳ありません。その他にお手伝いできることはございますか？	general,hotel
+2228	12	USER	特にありません。ありがとうございました。	general,hotel
+2228	13	SYSTEM	かしこまりました。ありがとうございました。	general,hotel

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+393	0	USER	福岡への旅行を計画しているのですが、当日買い物できる場所でなにかおすすめはありますか？	general,shopping
+393	1	SYSTEM	かしこまりました。何かご希望の条件はございますか。	general,shopping
+393	2	USER	東区で、駐車場無料のところがいいです。	general,shopping
+393	3	SYSTEM	ではきっずゆうえんち&アミューズメント ぐるぐる屋箱崎店はいかがでしょうか。	general,shopping
+393	4	USER	いいですね。どんなジャンルのお店ですか？	general,shopping
+393	5	SYSTEM	ジャンルはその他となっております。	general,shopping
+393	6	USER	ありがとうございます。行ってみたいと思います。	general,shopping

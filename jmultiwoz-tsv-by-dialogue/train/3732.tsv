@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3732	0	USER	東京へ旅行しようと思っているのですが駐車場が無料で台東区で買い物ができるところを探しています。	general,shopping
+3732	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping
+3732	2	USER	有料の駐車場でもよいです。	general,shopping
+3732	3	SYSTEM	では、2k540 AKI-OKA ARTISANはいかがでしょう？ジャンルは、文房具、雑貨、ファッション、その他、となります。	general,shopping
+3732	4	USER	ありがとうございます。定休日はいつですか？	general,shopping
+3732	5	SYSTEM	はい、定休日は水曜日となります。	general,shopping
+3732	6	USER	助かりました！ありがとうございました。	general,shopping
+3732	7	SYSTEM	ありがとうございました。	general,shopping

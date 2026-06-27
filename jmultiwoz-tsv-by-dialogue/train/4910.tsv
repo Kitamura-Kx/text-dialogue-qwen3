@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4910	0	USER	札幌に旅行しようと思っています。清田区でWi-Fiが無料で使える観光名所はありますか。	general,attraction,restaurant
+4910	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,restaurant
+4910	2	USER	ではWi-Fiはなくても大丈夫です。	general,attraction,restaurant
+4910	3	SYSTEM	では平岡公園がございます。	general,attraction,restaurant
+4910	4	USER	ありがとうございます。住所と電話番号の情報を教えてください。あと駐車場があるかも知りたいです。	general,attraction,restaurant
+4910	5	SYSTEM	住所は北海道札幌市清田区平岡公園2丁目1番地1号で、電話番号は0118817924でございます。駐車場は無料でご利用いただけます。	general,attraction,restaurant
+4910	6	USER	ありがとうございます。あと、駐車場を無料で使える飲食店を探してほしいです。	general,attraction,restaurant
+4910	7	SYSTEM	はい。では蕎麦切り 春のすけはいかがでしょうか。	general,attraction,restaurant
+4910	8	USER	ありがとうございます。そのお店の住所と駅からの時間と料金情報について教えてください。	general,attraction,restaurant
+4910	9	SYSTEM	住所は北海道札幌市東区北7条東3丁目15-72で、札幌駅から徒歩で10分でございます。料金情報としましては、もりが850円、揚げナスぶっかけが1150円、かけが850円となっております。	general,attraction,restaurant
+4910	10	USER	ありがとうございます。そこを予約します。4/20の16:30に2人でお願いします。	general,attraction,restaurant
+4910	11	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,attraction,restaurant
+4910	12	USER	時間を17:00に変更するとどうでしょうか。	general,attraction,restaurant
+4910	13	SYSTEM	その時間ですと予約が可能でございました。予約番号は43737でございます。	general,attraction,restaurant
+4910	14	USER	ありがとうございます。これで大丈夫です。	general,attraction,restaurant
+4910	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant

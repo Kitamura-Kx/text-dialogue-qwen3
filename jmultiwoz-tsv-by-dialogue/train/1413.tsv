@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1413	0	USER	札幌への旅行を計画しています．	general,shopping,taxi,weather
+1413	1	SYSTEM	はいお問合せありがとうございます。	general,shopping,taxi,weather
+1413	2	USER	当日買い物ができるところを探してください．駐車場を無料で利用で地区は南区がいいです。	general,shopping,taxi,weather
+1413	3	SYSTEM	ジェラート札幌果林樹はいかがでしょうか。	general,shopping,taxi,weather
+1413	4	USER	そちらの最寄駅はどこですか。	general,shopping,taxi,weather
+1413	5	SYSTEM	最寄り駅は真駒内駅です。	general,shopping,taxi,weather
+1413	6	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してください．キャッシュレス払いとジャンボタクシーを利用できるところがいいです。	general,shopping,taxi,weather
+1413	7	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,taxi,weather
+1413	8	USER	でしたらキャッシュレスはどちらでもいいです。	general,shopping,taxi,weather
+1413	9	SYSTEM	朝日交通(株)はいかがでしょうか。	general,shopping,taxi,weather
+1413	10	USER	そちらの電話番号を教えてください。	general,shopping,taxi,weather
+1413	11	SYSTEM	電話番号は0120176644です。	general,shopping,taxi,weather
+1413	12	USER	ありがとうございます。そちらで日付は7/11．時間は11:00．出発地は赤れんがテラスというところで．目的地は先ほど見つけた買い物店舗で予約してほしいです。	general,shopping,taxi,weather
+1413	13	SYSTEM	予約完了いたしました。予約番号は91028になります。	general,shopping,taxi,weather
+1413	14	USER	ありがとうございます。あと7/11の南区の天気も知りたいです。	general,shopping,taxi,weather
+1413	15	SYSTEM	天気は晴時々雨です。	general,shopping,taxi,weather
+1413	16	USER	ありがとうございます。最低気温，最高気温もしりたいです。	general,shopping,taxi,weather
+1413	17	SYSTEM	最低気温は16.1度で 最高気温は29度になります	general,shopping,taxi,weather
+1413	18	USER	ありがとうございます。	general,shopping,taxi,weather

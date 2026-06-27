@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+5002	0	USER	大阪へ旅行の予定です。無料でWi-Fiを利用できる観光名所を探しています。	general,attraction,taxi,weather
+5002	1	SYSTEM	申し訳ございません。無料でWi-Fiを利用できる場所はありませんでした。	general,attraction,taxi,weather
+5002	2	USER	そうですか。では、Wi-Fi有料ではどこかありますか？	general,attraction,taxi,weather
+5002	3	SYSTEM	はい。空庭温泉 OSAKA BAY TOWERが見つかりました。	general,attraction,taxi,weather
+5002	4	USER	ありがとうございました！そちらの営業時間を教えていただけますか？	general,attraction,taxi,weather
+5002	5	SYSTEM	はい。11時から21時となっております。	general,attraction,taxi,weather
+5002	6	USER	ありがとうございます。あと、当日利用できるタクシーを探しています。キャッシュレス・ジャンボタクシーの利用可能な会社がいいです。	general,attraction,taxi,weather
+5002	7	SYSTEM	承知しました。近畿タクシー株式会社はいかがでしょうか。	general,attraction,taxi,weather
+5002	8	USER	ありがとうございます。ではその会社の電話番号を教えてください。	general,attraction,taxi,weather
+5002	9	SYSTEM	はい。電話番号は0570069001となります。	general,attraction,taxi,weather
+5002	10	USER	ありがとうございます！6/24の14:30で予約をお願いします。オリエンタルホテル　ユニバーサル・シティを出発して、空庭温泉 OSAKA BAY TOWERへ向かいます。	general,attraction,taxi,weather
+5002	11	SYSTEM	申し訳ございません。その時間ですと予約が取れませんでした。	general,attraction,taxi,weather
+5002	12	USER	そうでしたか。では15:00ではいかがでしょうか？	general,attraction,taxi,weather
+5002	13	SYSTEM	承知しました。予約が取れました。予約番号は9847です。	general,attraction,taxi,weather
+5002	14	USER	ありがとうございます！最後に、6/24の港区の最高気温と最低気温を伺いたいのですが。	general,attraction,taxi,weather
+5002	15	SYSTEM	はい。最高気温が29.2度で最低気温は20.6度です。	general,attraction,taxi,weather
+5002	16	USER	ありがとうございました。大変お世話になりました！	general,attraction,taxi,weather

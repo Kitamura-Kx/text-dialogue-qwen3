@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+354	0	USER	こんにちは。那覇の飲食店を探しているのですが。	general,restaurant,hotel
+354	1	SYSTEM	那覇のお食事処ですね。ご案内できる場所が100件以上あるのですが、ジャンルなど、ご希望はございますか？	general,restaurant,hotel
+354	2	USER	本庁で、駐車場を無料で利用できるところはありますか？	general,restaurant,hotel
+354	3	SYSTEM	はい、19件ほどございます。例えば、楚辺というお店はどうでしょうか？	general,restaurant,hotel
+354	4	USER	ありがとうございます。住所と近くの駅からの所要時間は分かりますか？	general,restaurant,hotel
+354	5	SYSTEM	はい。住所は、沖縄県那覇市楚辺2-37-40です。最寄りの壺川駅からは徒歩で14分ほどかかります。	general,restaurant,hotel
+354	6	USER	ありがとうございます。そちらにWi-Fiがあるかどうか、わかりますか？	general,restaurant,hotel
+354	7	SYSTEM	申し訳ございません。こちらのお店はWiFiの有無が不明となっております。	general,restaurant,hotel
+354	8	USER	分かりました。あと、当日の宿泊施設を探していますが、Wi-Fiが無料で、レストランが併設されているところはありますか？	general,restaurant,hotel
+354	9	SYSTEM	はい、57件ほど候補がございます。本町エリアのホテルサン沖縄というシティホテルは、いかがでしょうか？	general,restaurant,hotel
+354	10	USER	そちらの値段帯はどんな感じですか？	general,restaurant,hotel
+354	11	SYSTEM	お安めとなっております。	general,restaurant,hotel
+354	12	USER	では、5/20に４名で２泊、予約をお願いできますか？	general,restaurant,hotel
+354	13	SYSTEM	かしこまりました。ご指定の条件で、予約を完了いたしました。ご予約番号は、84732です。	general,restaurant,hotel
+354	14	USER	ありがとうございます。以上になります、お世話になりました。	general,restaurant,hotel
+354	15	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,restaurant,hotel

@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1871	0	USER	京都に旅行するのですが、ジャンボタクシー対応のタクシー会社はありますか？	general,taxi
+1871	1	SYSTEM	かしこまりました。では、都タクシー株式会社はいかがでしょうか？	general,taxi
+1871	2	USER	では、都タクシー株式会社で予約をお願いします。日時は、5/28 10:30 で、出発地は京のSAKESORAで、目的地は よし川 です。	general,taxi
+1871	3	SYSTEM	かしこまりました。ご予約承りました。予約番号は、57801です。	general,taxi
+1871	4	USER	今回お願いしたいことは、以上です。ありがとうございました。	general,taxi
+1871	5	SYSTEM	承知しました。ありがとうございました。	general,taxi

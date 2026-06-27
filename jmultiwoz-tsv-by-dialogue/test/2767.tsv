@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2767	0	USER	東京への旅行を計画しております。そこでファッション類の買い物ができてかつ、無料の駐車場が利用できるところはありますか？	general,shopping,restaurant,taxi
+2767	1	SYSTEM	はい、エリアでいうと渋谷区に、ラフォーレ原宿がございます。	general,shopping,restaurant,taxi
+2767	2	USER	そちらの営業時間を教えてください。	general,shopping,restaurant,taxi
+2767	3	SYSTEM	営業時間は11時から20時となります。	general,shopping,restaurant,taxi
+2767	4	USER	ありがとうございます。次に焼肉・ホルモンが食べれる飲食店を探しています。できれば無料の駐車場が利用できるところがいいです。	general,shopping,restaurant,taxi
+2767	5	SYSTEM	はい、エリアでいうと港区に、醍醐 お台場店がございます。	general,shopping,restaurant,taxi
+2767	6	USER	そちらの定休日はいつになりますか？	general,shopping,restaurant,taxi
+2767	7	SYSTEM	定休日はございません。	general,shopping,restaurant,taxi
+2767	8	USER	それでは予約をお願いします。人数は4名、日時は6/17、14:20でお願いします。	general,shopping,restaurant,taxi
+2767	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、52081となります。	general,shopping,restaurant,taxi
+2767	10	USER	ありがとうございます。最後に当日タクシーを利用したく、キャッシュレス払いが可能な所はありますか？	general,shopping,restaurant,taxi
+2767	11	SYSTEM	はい、銀星交通はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0425750458となります。	general,shopping,restaurant,taxi
+2767	12	USER	ありがとうございます。それでは予約をお願いします。日時は6/17、12:50で出発地はラフォーレ原宿から醍醐 お台場店まででお願いします。	general,shopping,restaurant,taxi
+2767	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、50420となります。	general,shopping,restaurant,taxi
+2767	14	USER	ありがとうございます。こちらからは以上です。	general,shopping,restaurant,taxi
+2767	15	SYSTEM	ありがとうございました。	general,shopping,restaurant,taxi

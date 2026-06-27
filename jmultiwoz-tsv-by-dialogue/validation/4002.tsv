@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4002	0	USER	横浜へ行きたいのですが、鶴見区のWi-Fiが無料な飲食店とか調べれますか？	general,restaurant,shopping
+4002	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant,shopping
+4002	2	USER	そうなんですね。なら、地区はどこでもいいです。	general,restaurant,shopping
+4002	3	SYSTEM	かしこまりました。それではすしざんまい 横浜西口店はいかがでしょうか？	general,restaurant,shopping
+4002	4	USER	いいですね。ジャンルと近辺の駅からの所要時間ってわかりますか？	general,restaurant,shopping
+4002	5	SYSTEM	ジャンルは寿司・魚料理に該当しまして、横浜駅から徒歩で2分でございます。	general,restaurant,shopping
+4002	6	USER	わかりました。4人で6/17の12:40からの予約をお願いできます？	general,restaurant,shopping
+4002	7	SYSTEM	お待たせ致しました。予約番号25151でお取りさせていただきました。	general,restaurant,shopping
+4002	8	USER	ありがとうございます。駐車場を無料利用できるスーパーマーケットも探してほしいです。	general,restaurant,shopping
+4002	9	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant,shopping
+4002	10	USER	そうですか。じゃあファッション系の店でもいいです。	general,restaurant,shopping
+4002	11	SYSTEM	かしこまりました。それではコストコ金沢シーサイド倉庫はいかがでしょうか？	general,restaurant,shopping
+4002	12	USER	いいですね。最寄り駅と定休日もわかります？	general,restaurant,shopping
+4002	13	SYSTEM	最寄り駅は並木中央駅、定休日は1月1日でございます。	general,restaurant,shopping
+4002	14	USER	ありがとうございます。もう大丈夫です。	general,restaurant,shopping
+4002	15	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,shopping

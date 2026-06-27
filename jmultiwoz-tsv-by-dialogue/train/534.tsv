@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+534	0	USER	福岡への旅行を考えているのですが、寿司・魚料理が食べれる飲食店を教えてください。	general,restaurant,attraction,taxi
+534	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,restaurant,attraction,taxi
+534	2	USER	わかりました。ではジャンルはカフェ・スイーツに変更します。	general,restaurant,attraction,taxi
+534	3	SYSTEM	ありがとうございます。そうしますと、5件ほどご案内可能です。たとえば、町家かふぇ かまくら、というお店はいかがでしょうか？	general,restaurant,attraction,taxi
+534	4	USER	そちらで予約したいです。1月26日の11時から4人でお願いします。	general,restaurant,attraction,taxi
+534	5	SYSTEM	ありがとうございます。予約が完了いたしました。ご予約番号は、58504です。	general,restaurant,attraction,taxi
+534	6	USER	ありがとうございます。当日いける観光名所も探しているのですが、ありますか？	general,restaurant,attraction,taxi
+534	7	SYSTEM	福岡の観光名所ですね。48件ほどご案内可能です。ジャンルやエリアなど、何かご希望はございませんか？	general,restaurant,attraction,taxi
+534	8	USER	東区の科学館で、駐車場を無料で利用できるところがいいです。	general,restaurant,attraction,taxi
+534	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,attraction,taxi
+534	10	USER	わかりました。じゃあジャンルは科学館じゃなくてもいいです。	general,restaurant,attraction,taxi
+534	11	SYSTEM	では、博多の食と文化の博物館ハクハクはいかがでしょうか？ジャンルは、工場見学となっております。	general,restaurant,attraction,taxi
+534	12	USER	それにします。当日タクシーの利用を考えているのですが、福岡昭和タクシー（株）という名前のタクシー会社はありますか？	general,restaurant,attraction,taxi
+534	13	SYSTEM	はい、1件該当するところが見つかりました。電話番号0120408860となっておりますが、お間違い無いでしょうか？	general,restaurant,attraction,taxi
+534	14	USER	わかりました。ジャンボタクシーがあるかどうか知りたいです。	general,restaurant,attraction,taxi
+534	15	SYSTEM	はい、ございます。	general,restaurant,attraction,taxi
+534	16	USER	では予約をお願いしたいです。1月26日の12時30分で、町家かふぇから博多の食と文化の博物館ハクハクまででお願いします。	general,restaurant,attraction,taxi
+534	17	SYSTEM	ご予約ありがとうございます。予約番号54759にて、予約完了いたしました。	general,restaurant,attraction,taxi
+534	18	USER	ありがとうございます。	general,restaurant,attraction,taxi
+534	19	SYSTEM	他にお手伝いできることはございませんか？	general,restaurant,attraction,taxi
+534	20	USER	はい、大丈夫です。	general,restaurant,attraction,taxi
+534	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,attraction,taxi

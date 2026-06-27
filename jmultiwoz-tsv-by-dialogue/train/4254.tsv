@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4254	0	USER	東京への旅行を考えているのですが、当日見て回れる観光名所を探しております。	general,attraction,taxi
+4254	1	SYSTEM	かしこまりました。50件ほど候補がございますが、なにかご希望の条件はございませんか？	general,attraction,taxi
+4254	2	USER	最寄り駅が新豊洲駅で、無料WiFiが利用できる場所だとありがたいです。	general,attraction,taxi
+4254	3	SYSTEM	そういたしますと、teamLab Planets TOKYOというところが、1件ご案内可能です。いかがでしょうか？	general,attraction,taxi
+4254	4	USER	ありがとうございます。そこに行きたいと思います。どのエリアかお聞きしてもよろしいですか？	general,attraction,taxi
+4254	5	SYSTEM	はい。こちらは、江東区エリアにございます。	general,attraction,taxi
+4254	6	USER	ありがとうございます。あと、当日利用するタクシー会社を探しているのですが、キャッシュレス対応でジャンボタクシーがあるところはありますか？	general,attraction,taxi
+4254	7	SYSTEM	はい、ご案内できます。たとえば、京王自動車 多摩北というところはいかがでしょうか？	general,attraction,taxi
+4254	8	USER	ありがとうございます。そこを利用したいと思います。では、7月30日の14:00に帝国ホテル東京からteamLab Planets TOKYOまでで予約は可能でしょうか？	general,attraction,taxi
+4254	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、1174でございます。	general,attraction,taxi
+4254	10	USER	ありがとうございます。お聞きしたい事は以上になります。丁寧にサポートしていただきありがとうございました。	general,attraction,taxi
+4254	11	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,attraction,taxi

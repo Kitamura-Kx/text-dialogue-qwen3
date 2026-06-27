@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1077	0	USER	那覇への旅行を計画しているのですが。	general,shopping,attraction,taxi
+1077	1	SYSTEM	はい。お問合せありがとうございます。	general,shopping,attraction,taxi
+1077	2	USER	当日買い物ができるところを探してください．最寄り駅がおもろまち駅で駐車場を無料で利用でジャンルはおもちゃ希望します。	general,shopping,attraction,taxi
+1077	3	SYSTEM	トイザらス・ベビーザらス 那覇新都心店はいかがでしょうか。	general,shopping,attraction,taxi
+1077	4	USER	いいですね。そちらの近辺の駅からの所要時間をおしえてください。	general,shopping,attraction,taxi
+1077	5	SYSTEM	近辺の駅からの所要時間はおもろまち駅から徒歩で10分になっています。	general,shopping,attraction,taxi
+1077	6	USER	ありがとうございました。あと当日訪れる観光名所を探してください．ジャンルはプラネタリウムで最寄り駅がゆいレール首里駅のところがいいです。	general,shopping,attraction,taxi
+1077	7	SYSTEM	そちらに合う条件のお店がありませんでした。	general,shopping,attraction,taxi
+1077	8	USER	でしたら最寄り駅はどこでもいいです。	general,shopping,attraction,taxi
+1077	9	SYSTEM	那覇市牧志駅前ほしぞら公民館はいかがでしょうか。	general,shopping,attraction,taxi
+1077	10	USER	いいですね。あとジャンボタクシーが使えるタクシー会社さがしてほしいです。	general,shopping,attraction,taxi
+1077	11	SYSTEM	大栄交通はいかがでしょうか。	general,shopping,attraction,taxi
+1077	12	USER	いいですね。そちらの電話番号とキャッシュレス対応を教えて欲しいです。	general,shopping,attraction,taxi
+1077	13	SYSTEM	電話番号は0989465005でキャッシュレス対応かは不明です。	general,shopping,attraction,taxi
+1077	14	USER	ありがとうございます　そちらで日付は4/10で時間は12:30、出発地は先ほど見つけた買い物店舗で、目的地は先ほど見つけた観光施設で予約してほしいです。	general,shopping,attraction,taxi
+1077	15	SYSTEM	予約成功しました。予約番号は30906になっています。	general,shopping,attraction,taxi
+1077	16	USER		general,shopping,attraction,taxi

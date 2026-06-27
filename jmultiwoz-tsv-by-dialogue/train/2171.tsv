@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2171	0	USER	仙台旅行で当日訪れる観光名所を探して頂けますか？	general,attraction,restaurant
+2171	1	SYSTEM	かしこまりました。その条件ですと、50件ほど該当名所がございますが、何かご希望ありますか？	general,attraction,restaurant
+2171	2	USER	最寄り駅が中野栄駅で、駐車場を無料で利用できる場所はありますか？	general,attraction,restaurant
+2171	3	SYSTEM	かしこまりました。それではキリンビール仙台工場はいかがでしょうか？	general,attraction,restaurant
+2171	4	USER	ではそちらでお願いします。大人入場料、住所、また料金情報について教えて頂けないでしょうか。	general,attraction,restaurant
+2171	5	SYSTEM	ありがとうございます。大人入場料は500円、住所は宮城県仙台市宮城野区港2丁目2-1、料金情報は入館無料（20歳以上1名様500円税込）となっております。	general,attraction,restaurant
+2171	6	USER	ありがとうございます。当日食事ができる飲食店も探して頂けないでしょうか。Wi-Fiが無料で利用できる居酒屋で泉区周辺だとうれしいです。	general,attraction,restaurant
+2171	7	SYSTEM	かしこまりました。その条件ですと、たんや善治郎 タピオ店がございます。	general,attraction,restaurant
+2171	8	USER	ではそちらに伺いたいと思います。営業時間も教えて頂けないでしょうか。	general,attraction,restaurant
+2171	9	SYSTEM	ありがとうございます。営業時間は11時から22時まででございます。	general,attraction,restaurant
+2171	10	USER	ありがとうございます。2人で4/3の11:00から予約したいのですが可能でしょうか。	general,attraction,restaurant
+2171	11	SYSTEM	かしこまりました。予約番号96522でお取りさせていただきました。	general,attraction,restaurant
+2171	12	USER	ありがとうございました。	general,attraction,restaurant

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2965	0	USER	今度東京へ行くんですが、渋谷区で予算は普通くらいの飲食店を探してもらえますか？	general,restaurant,shopping,hotel
+2965	1	SYSTEM	承知しました。熊本牧場直営 木本商店はいかがでしょう？ジャンルは、居酒屋、郷土料理となります。	general,restaurant,shopping,hotel
+2965	2	USER	和食のお店も探してもらえますか？	general,restaurant,shopping,hotel
+2965	3	SYSTEM	申し訳ありません、和食の条件を追加すると、ご案内可能な飲食店がございません。いかが致しましょう？	general,restaurant,shopping,hotel
+2965	4	USER	そうですか。じゃあ予算にはこだわらないことにします。	general,restaurant,shopping,hotel
+2965	5	SYSTEM	ありがとうございます。では、BISTRO BINGOはいかがでしょう？	general,restaurant,shopping,hotel
+2965	6	USER	ありがとうございます。では、そこの定休日と電話番号と営業時間もおしえてもらえますか。	general,restaurant,shopping,hotel
+2965	7	SYSTEM	はい、電話番号は0367127830、営業時間は11時30分から15時と、17時から20時となります。定休日はございません。	general,restaurant,shopping,hotel
+2965	8	USER	ありがとうございます。ではそこの予約をお願いできますか？2/13の9：30で３名です。	general,restaurant,shopping,hotel
+2965	9	SYSTEM	申し訳ありません、念のための確認ですが、午前9時30分でよろしいでしょうか？	general,restaurant,shopping,hotel
+2965	10	USER	はい、午前です。	general,restaurant,shopping,hotel
+2965	11	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、39212となります。	general,restaurant,shopping,hotel
+2965	12	USER	ありがとうございます。あと、お土産が買えるお店も探してもらえますか	general,restaurant,shopping,hotel
+2965	13	SYSTEM	承知しました。エリアでいうと中央区にある、わしたショップ銀座店はいかがでしょう？	general,restaurant,shopping,hotel
+2965	14	USER	ありがとうございます。それから、レストランが併設されていて、予算高めの簡易宿所はありますか？	general,restaurant,shopping,hotel
+2965	15	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,shopping,hotel
+2965	16	USER	そうですか。では、予算にはこだわらず探してください。	general,restaurant,shopping,hotel
+2965	17	SYSTEM	ありがとうございます。エリアでいうと新宿区にある、UNPLAN Kagurazakaはいかがでしょう？	general,restaurant,shopping,hotel
+2965	18	USER	ありがとうございます。ではそこの住所と最寄り駅も教えてください。	general,restaurant,shopping,hotel
+2965	19	SYSTEM	はい、住所は東京都新宿区天神町23-1、最寄りの神楽坂駅から徒歩で3分となります。	general,restaurant,shopping,hotel
+2965	20	USER	ありがとうございました。以上で結構です。	general,restaurant,shopping,hotel
+2965	21	SYSTEM	ありがとうございました。	general,restaurant,shopping,hotel

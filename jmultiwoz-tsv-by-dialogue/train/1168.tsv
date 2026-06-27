@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1168	0	USER	仙台で買い物をしたいのですが、宮城野区で駐車場が無料のお店はありますか？	general,shopping
+1168	1	SYSTEM	かしこまりました。ではumimorishop ミュージアムショップはいかがですか。	general,shopping
+1168	2	USER	よさそうですね。定休日はありますか？	general,shopping
+1168	3	SYSTEM	定休日はございません。	general,shopping
+1168	4	USER	ありがとうございます。聞きたいのは以上です。	general,shopping
+1168	5	SYSTEM	承知しました。ありがとうございました。	general,shopping

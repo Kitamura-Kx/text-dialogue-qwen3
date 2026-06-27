@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1873	0	USER	すみません、今度旅行で東京に行くんですけど、ちょっと調べてもらいたいことがありまして。お願いできますか？	general,hotel,restaurant,weather
+1873	1	SYSTEM	はい。なんでしょうか？	general,hotel,restaurant,weather
+1873	2	USER	最寄り駅が中目黒駅になるような宿泊施設を探してもらいたいです。あ、WiFiと駐車場が無料で使える所で希望します。	general,hotel,restaurant,weather
+1873	3	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel,restaurant,weather
+1873	4	USER	ありませんでしたか。じゃぁ、最寄り駅はどこでも良いので、もう一度調べてもらえますか？	general,hotel,restaurant,weather
+1873	5	SYSTEM	かしこまりました。では、帝国ホテル東京はいかがでしょうか？	general,hotel,restaurant,weather
+1873	6	USER	そちらのホテルは、どんなタイプのホテルですか？	general,hotel,restaurant,weather
+1873	7	SYSTEM	はい。タイプはシティホテルになります。	general,hotel,restaurant,weather
+1873	8	USER	そうなんですね。住所ってわかりますか？	general,hotel,restaurant,weather
+1873	9	SYSTEM	はい。住所は東京都千代田区内幸町1丁目1-1でございます。	general,hotel,restaurant,weather
+1873	10	USER	わかりました、ありがとうございます。あとですね、飲食店も探してまして。こちらも、駐車場とWiFiが無料で使える所を希望します。	general,hotel,restaurant,weather
+1873	11	SYSTEM	かしこまりました。では、バルバッコア 六本木ヒルズ店はいかがでしょうか？	general,hotel,restaurant,weather
+1873	12	USER	そのお店は、どこのエリアにありますか？	general,hotel,restaurant,weather
+1873	13	SYSTEM	はい。エリアは港区になります。	general,hotel,restaurant,weather
+1873	14	USER	そうなんですね。じゃぁ、そこを予約してもらおうかな。１０月１０日の１４時４０分に３人でお願いできますか？	general,hotel,restaurant,weather
+1873	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、22276です。	general,hotel,restaurant,weather
+1873	16	USER	ありがとうございます。あと、当日１０月１０日の天候も教えてほしいんですけど、地区は板橋区でお願いします。	general,hotel,restaurant,weather
+1873	17	SYSTEM	かしこまりました。10/10の板橋区の天気予報は曇となっております。最低気温は13度、最高気温は22.6度になる予報です。	general,hotel,restaurant,weather
+1873	18	USER	そうなんですね。わかりました。	general,hotel,restaurant,weather
+1873	19	SYSTEM	他にご用件はありますか？	general,hotel,restaurant,weather
+1873	20	USER	あとはもう大丈夫です。色々お調べいただき、ありがとうございました。	general,hotel,restaurant,weather
+1873	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,weather

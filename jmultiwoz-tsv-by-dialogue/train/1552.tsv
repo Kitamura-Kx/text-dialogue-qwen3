@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1552	0	USER	大阪へ旅行する際に食事ができる飲食店を教えていただけますでしょうか。	general,restaurant,shopping
+1552	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,shopping
+1552	2	USER	中華料理でWi-Fiが無料で利用できる場所だとうれしいです。	general,restaurant,shopping
+1552	3	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,restaurant,shopping
+1552	4	USER	でしたら、Wi-Fiはなくても大丈夫です。	general,restaurant,shopping
+1552	5	SYSTEM	では中国料理 春蘭門はいかがですか。	general,restaurant,shopping
+1552	6	USER	そちらに行きたいと思います。エリアと駐車場の有無を教えて頂けないでしょうか。	general,restaurant,shopping
+1552	7	SYSTEM	エリアは北区、駐車場は有料ですがございます。	general,restaurant,shopping
+1552	8	USER	ありがとうございます。人数は3人で7/30の09:30から予約はできますか？	general,restaurant,shopping
+1552	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は29150でございます。	general,restaurant,shopping
+1552	10	USER	ありがとうございます。当日買い物ができるところもついでに教えて頂けると助かります。	general,restaurant,shopping
+1552	11	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,shopping
+1552	12	USER	駐車場が無料の商店街はありますか？	general,restaurant,shopping
+1552	13	SYSTEM	では大阪木津卸売市場がございます。	general,restaurant,shopping
+1552	14	USER	そちらに行きたいのですが、住所も教えてください。	general,restaurant,shopping
+1552	15	SYSTEM	住所は大阪府大阪市浪速区敷津東2丁目2-8でございます。	general,restaurant,shopping
+1552	16	USER	ありがとうございました。	general,restaurant,shopping

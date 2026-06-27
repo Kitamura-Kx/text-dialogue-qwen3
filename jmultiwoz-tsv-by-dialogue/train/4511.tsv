@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4511	0	USER	福岡まで旅行に行きたいと思っているのですが、駐車場が無料で利用できる観光名所はありますか？	general,attraction,hotel,weather
+4511	1	SYSTEM	かしこまりました。では福太郎本社(めんたい工場)はいかがでしょうか。	general,attraction,hotel,weather
+4511	2	USER	そちらの住所と最寄り駅を教えて下さい。	general,attraction,hotel,weather
+4511	3	SYSTEM	はい。住所は福岡県福岡市南区五十川1丁目1-1で、最寄り駅が竹下駅でございます。	general,attraction,hotel,weather
+4511	4	USER	あと、レストランが併設されている宿泊施設も探してもらえますか？予算は普通でお願いします。	general,attraction,hotel,weather
+4511	5	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,attraction,hotel,weather
+4511	6	USER	じゃあ予算は問いません。	general,attraction,hotel,weather
+4511	7	SYSTEM	では予算は安めになりますが、ダイワロイネットホテル博多祇園はいかがでしょうか。	general,attraction,hotel,weather
+4511	8	USER	いいですね、そちらにします。電話番号を教えてもらえますか？	general,attraction,hotel,weather
+4511	9	SYSTEM	はい。電話番号は0922813600でございます。	general,attraction,hotel,weather
+4511	10	USER	3/13の城南区の最低気温も教えてもらえますか？	general,attraction,hotel,weather
+4511	11	SYSTEM	かしこまりました。その日の最低気温は13.2度でございます。	general,attraction,hotel,weather
+4511	12	USER	ありがとうございます。	general,attraction,hotel,weather
+4511	13	SYSTEM	ほかにご用件はございませんか。	general,attraction,hotel,weather
+4511	14	USER	他にはありません、ありがとうございました。	general,attraction,hotel,weather
+4511	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel,weather

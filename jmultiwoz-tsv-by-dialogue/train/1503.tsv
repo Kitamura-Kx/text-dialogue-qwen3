@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1503	0	USER	名古屋の千種区で宿泊施設を探しています。予算は高めです。	general,hotel
+1503	1	SYSTEM	申し訳ありません。その条件ではご案内できません。いかが致しましょう？	general,hotel
+1503	2	USER	地区の条件を除いて、再検索お願いします。	general,hotel
+1503	3	SYSTEM	では、エリアでいうと中区にある、スタンザベルデ名古屋はいかがでしょう？タイプはその他となります。	general,hotel
+1503	4	USER	電話番号も教えていただけますか？	general,hotel
+1503	5	SYSTEM	はい、電話番号は、08049502416となります。	general,hotel
+1503	6	USER	では予約もお願いします。8/1から4泊で、3人で利用します。	general,hotel
+1503	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、80367となります。	general,hotel
+1503	8	USER	ありがとうございます。助かりました！	general,hotel

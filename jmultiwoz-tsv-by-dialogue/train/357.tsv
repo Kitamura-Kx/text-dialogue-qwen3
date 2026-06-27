@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+357	0	USER	お願いします。東京への旅行を計画しています。どこかおすすめの観光名所はありませんか？	general,attraction
+357	1	SYSTEM	50ヶ所ほどご案内可能ですが、エリアやジャンルなど、ご希望はございませんか？	general,attraction
+357	2	USER	木場駅周辺で、wifiが無料で使えるところでお願いします。	general,attraction
+357	3	SYSTEM	かしこまりました。そうしますと、東京都現代美術館 / MUSEUM OF CONTEMPORARY ART TOKYO (MOT)、という場所はいかがでしょうか？	general,attraction
+357	4	USER	美術館ですね。そちらの住所はわかりますか？	general,attraction
+357	5	SYSTEM	住所は、東京都江東区三好4丁目1-1でございます。	general,attraction
+357	6	USER	わかりました。ありがとうございます。失礼します。	general,attraction
+357	7	SYSTEM	本日はご利用ありがとうございました。	general,attraction

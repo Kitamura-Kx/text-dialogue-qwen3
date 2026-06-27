@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3153	0	USER	横浜への旅行を計画していて、当日の宿泊施設を探しています。Wi-Fi無料でレストランが併設されているところが良いです。	general,hotel,weather,taxi
+3153	1	SYSTEM	かしこまりました。そうしますと、46件ほどご案内可能です。例えば、横浜東急REIホテルというところがございますが、いかがでしょうか？	general,hotel,weather,taxi
+3153	2	USER	ありがとうございます。横浜東急REIホテルしようと思います。旅行当日の天候も知りたいです。12/25、都筑区の天気と最高気温は分かりますか？	general,hotel,weather,taxi
+3153	3	SYSTEM	はい、当日の天気は晴れ、最高気温は7.8度の予想となっております。	general,hotel,weather,taxi
+3153	4	USER	ありがとうございます。当日のタクシー会社も探してもらえますか？ジャンボタクシーが使えるところが良いのですが。	general,hotel,weather,taxi
+3153	5	SYSTEM	かしこまりました。では、スタジアム交通株式会社はいかがでしょうか？こちらでしたら、キャッシュレスのお支払いにも対応しておりますよ。	general,hotel,weather,taxi
+3153	6	USER	ありがとうございます。そこのタクシーの予約は出来ますか？12/25の9：40から、横浜東急REIホテルから横浜大飯店までお願いしたいです。	general,hotel,weather,taxi
+3153	7	SYSTEM	はい、かしこまりました。恐れ入ります、お時間は朝の9：40でよろしかったでしょうか？	general,hotel,weather,taxi
+3153	8	USER	はい、朝の9：40でお願いします。	general,hotel,weather,taxi
+3153	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、47579でございます。	general,hotel,weather,taxi
+3153	10	USER	ありがとうございました。	general,hotel,weather,taxi
+3153	11	SYSTEM	ほかに、お知りになりたい情報などございませんか？	general,hotel,weather,taxi
+3153	12	USER	いえ、他にはありません。ありがとうございました。	general,hotel,weather,taxi
+3153	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,weather,taxi

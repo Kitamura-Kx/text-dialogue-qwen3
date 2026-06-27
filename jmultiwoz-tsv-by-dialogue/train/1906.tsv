@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1906	0	USER	こんにちは。東京へ旅行しますので港区で戸越駅近辺の食料品を買える場所を探しています。	general,shopping
+1906	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping
+1906	2	USER	そうですか。それでしたら、戸越駅でなくてもいいですので、港区でお願いします。	general,shopping
+1906	3	SYSTEM	ではあきた美彩館はいかがでしょうか。	general,shopping
+1906	4	USER	ありがとうございます。そこへ行きますので、近辺の駅からの所用時間を教えてもらえますか？	general,shopping
+1906	5	SYSTEM	品川駅から徒歩で3分でございます。	general,shopping
+1906	6	USER	どうもありがとうございました。知りたいことは全部聞けました。	general,shopping
+1906	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

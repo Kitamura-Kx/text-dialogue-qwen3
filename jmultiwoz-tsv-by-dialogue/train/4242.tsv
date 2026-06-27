@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4242	0	USER	京都旅行を計画しています。丸太町駅から行ける、駐車場無料の観光名所はありますか？	general,attraction,restaurant,taxi
+4242	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,restaurant,taxi
+4242	2	USER	それでは最寄り駅の条件は外してください。	general,attraction,restaurant,taxi
+4242	3	SYSTEM	ありがとうございます。では、エリアでいうと山科区にある、勧修寺観光農園はいかがでしょう？ジャンルは、自然、公園となります。	general,attraction,restaurant,taxi
+4242	4	USER	ありがとうございます。他に飲食店を探していただきたいのですが、駐車場とWi-Fiが無料のところはありますか。	general,attraction,restaurant,taxi
+4242	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,restaurant,taxi
+4242	6	USER	それではWi-Fiはなくても構いません。	general,attraction,restaurant,taxi
+4242	7	SYSTEM	ありがとうございます。では、エリアでいうと西京区にある、海雲亭 洛西店はいかがでしょう？ジャンルは、焼肉、ホルモンとなります。	general,attraction,restaurant,taxi
+4242	8	USER	こちらの定休日はいつですか？	general,attraction,restaurant,taxi
+4242	9	SYSTEM	定休日はございません。	general,attraction,restaurant,taxi
+4242	10	USER	では予約をお願いします。5/3に4名なのですが、13:30から予約できますか。	general,attraction,restaurant,taxi
+4242	11	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,attraction,restaurant,taxi
+4242	12	USER	それでは時間を14:10に変更してください。	general,attraction,restaurant,taxi
+4242	13	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、97829となります。	general,attraction,restaurant,taxi
+4242	14	USER	タクシーも探していただきたいのですが、キャッシュレス対応のところはありますか。	general,attraction,restaurant,taxi
+4242	15	SYSTEM	はい、では、愛都交通株式会社はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0756460020となります。	general,attraction,restaurant,taxi
+4242	16	USER	ありがとうございます。予約をお願いします。5/3の12:00に、勧修寺観光農園から海雲亭 洛西店まででお願いします。	general,attraction,restaurant,taxi
+4242	17	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,attraction,restaurant,taxi
+4242	18	USER	それでは時間を12:50に変更してください。	general,attraction,restaurant,taxi
+4242	19	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、89736となります。	general,attraction,restaurant,taxi
+4242	20	USER	ご対応ありがとうございました。	general,attraction,restaurant,taxi

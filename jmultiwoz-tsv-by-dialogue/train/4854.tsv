@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4854	0	USER	仙台に旅行したいのですが、青葉区の観光名所でWi-Fiが無料のところはありますか？	general,attraction,taxi
+4854	1	SYSTEM	青葉区でWiFi無料の観光名所はいくつかありますが、仙台城跡をオススメします。	general,attraction,taxi
+4854	2	USER	ありがとうございます。当日ジャンボタクシーを利用したいのですが、予約できるところはありますか？	general,attraction,taxi
+4854	3	SYSTEM	仙台にはジャンボタクシー対応の会社はなさそうです。	general,attraction,taxi
+4854	4	USER	では、ジャンボタクシーでなくても良いので、タクシー会社を教えてください。	general,attraction,taxi
+4854	5	SYSTEM	（株）青葉タクシーをおすすめします。	general,attraction,taxi
+4854	6	USER	電話番号はわかりますか？	general,attraction,taxi
+4854	7	SYSTEM	0222587879です。	general,attraction,taxi
+4854	8	USER	では、予約をお願いします。12月3日で。	general,attraction,taxi
+4854	9	SYSTEM	時刻と出発地、目的地をお願いします	general,attraction,taxi
+4854	10	USER	14時40分にホテル グリーンウエルから仙台城跡までお願いします。	general,attraction,taxi
+4854	11	SYSTEM	予約成功しました。予約番号は37598です。	general,attraction,taxi
+4854	12	USER	ありがとうございました。	general,attraction,taxi
+4854	13	SYSTEM	よい旅を	general,attraction,taxi

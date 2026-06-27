@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1372	0	USER	仙台へ旅行に行くので、飲食店を探してください。	general,restaurant,attraction,weather
+1372	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,restaurant,attraction,weather
+1372	2	USER	Wi-Fiが無料で利用できるところなら、どちらでも大丈夫です。	general,restaurant,attraction,weather
+1372	3	SYSTEM	かしこまりました。そうしますと、19件ほどご案内可能です。例えば、伊達の牛たん本舗 本店という、ジャンルが郷土料理, 居酒屋, カレーのお店がございますが、いかがでしょうか？	general,restaurant,attraction,weather
+1372	4	USER	そちらの値段帯と駐車場の有無を教えてください。	general,restaurant,attraction,weather
+1372	5	SYSTEM	かしこまりました。こちらの値段は普通の設定のお店でございます。駐車場の有無は、申し訳ありませんが、不明となっております。	general,restaurant,attraction,weather
+1372	6	USER	わかりました。それではそのお店を予約してください。人数は2人で、9/27の12:50でお願いします。	general,restaurant,attraction,weather
+1372	7	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,restaurant,attraction,weather
+1372	8	USER	時間を13:50に変更して、予約がとれるならその時間で予約をとってください。	general,restaurant,attraction,weather
+1372	9	SYSTEM	ありがとうございます。13:50にて、ご予約完了いたしました。予約番号は、97089でございます。	general,restaurant,attraction,weather
+1372	10	USER	ありがとうございます。次に仙台市歴史民俗資料館というところのエリアを教えていただきたいです。	general,restaurant,attraction,weather
+1372	11	SYSTEM	かしこまりました。仙台市歴史民俗資料館のございますエリアは、宮城野区です。	general,restaurant,attraction,weather
+1372	12	USER	ありがとうございます。あと9/27の青葉区の天候を教えて欲しいです。	general,restaurant,attraction,weather
+1372	13	SYSTEM	かしこまりました。当日の天気は曇の予報です。最低気温は23.2度、最高気温は28.8度になる予想でございます。	general,restaurant,attraction,weather
+1372	14	USER	ありがとうございました。以上です。	general,restaurant,attraction,weather
+1372	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,attraction,weather

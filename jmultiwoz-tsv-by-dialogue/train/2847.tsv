@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2847	0	USER	京都に旅行に行こうと思っています。当日訪れる観光名所を探しています。ジャンルは水族館です。	general,attraction,restaurant,weather
+2847	1	SYSTEM	エリアでいうと下京区にある、京都水族館はいかがでしょう？	general,attraction,restaurant,weather
+2847	2	USER	そこが良さそうですね。そこの大人入場料を教えてください。	general,attraction,restaurant,weather
+2847	3	SYSTEM	はい、大人入場料は、1100円となります。	general,attraction,restaurant,weather
+2847	4	USER	あと当日食事ができる飲食店を探しています。無料でWi-Fiが利用できるところが良いです。	general,attraction,restaurant,weather
+2847	5	SYSTEM	エリアでいうと中京区にある、スペインバル Ternuraはいかがでしょう？ジャンルは、その他となります。	general,attraction,restaurant,weather
+2847	6	USER	そこが良さそうですね。そこの定休日と最寄り駅を教えてください。	general,attraction,restaurant,weather
+2847	7	SYSTEM	はい、定休日は第三水曜日、最寄りの河原町駅から徒歩で3分となります。	general,attraction,restaurant,weather
+2847	8	USER	あと当日7/17左京区の天候を教えてもらえますでしょうか。	general,attraction,restaurant,weather
+2847	9	SYSTEM	はい、天気は、雨時々曇、最低気温20.7度、最高気温29.3度となります。他にご用件はございますか？	general,attraction,restaurant,weather
+2847	10	USER	分かりました。ありがとうございます。	general,attraction,restaurant,weather
+2847	11	SYSTEM	ありがとうございました。	general,attraction,restaurant,weather

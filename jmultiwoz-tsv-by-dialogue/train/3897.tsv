@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3897	0	USER	横浜へ旅行に行く予定ですが、当日泊まるシティホテルを探してほしいです。	general,hotel,weather,taxi
+3897	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,hotel,weather,taxi
+3897	2	USER	レストランがあるところがよいです。	general,hotel,weather,taxi
+3897	3	SYSTEM	では横浜ロイヤルパークホテルはいかがでしょうか。	general,hotel,weather,taxi
+3897	4	USER	そちらは、Wi-Fi、駐車場はありますか。	general,hotel,weather,taxi
+3897	5	SYSTEM	はい。Wi-Fiは無料でご利用いただけます。駐車場は有料ですが、ございます。	general,hotel,weather,taxi
+3897	6	USER	ありがとうございます。では、12月7日から2泊、4名で予約をお願いします。	general,hotel,weather,taxi
+3897	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は80687でございます。	general,hotel,weather,taxi
+3897	8	USER	ありがとうございました。	general,hotel,weather,taxi
+3897	9	SYSTEM	ほかにご用件はございませんか。	general,hotel,weather,taxi
+3897	10	USER	当日の天気も教えていただきたいです。12月7日の中区の最高気温、最低気温をお願いします。	general,hotel,weather,taxi
+3897	11	SYSTEM	はい。当日の最低気温が7.8度で、最高気温が12.5度でございます。	general,hotel,weather,taxi
+3897	12	USER	ありがとうございます。当日はタクシーを利用したいのですが、キャッシュレス払いができるタクシー会社はありますか。	general,hotel,weather,taxi
+3897	13	SYSTEM	はい。日本サントスキャブ株式会社がございます。こちらジャンボタクシーにも対応しております。	general,hotel,weather,taxi
+3897	14	USER	いいですね。では、電話番号を教えてください。	general,hotel,weather,taxi
+3897	15	SYSTEM	電話番号は0120193117でございます。	general,hotel,weather,taxi
+3897	16	USER	予約もお願いしたいです。12月7日の12時40分、割烹蒲焼 横浜八十八 吉田町店から横浜ロイヤルパークホテルまでお願いします。	general,hotel,weather,taxi
+3897	17	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は14953でございます。	general,hotel,weather,taxi
+3897	18	USER	ありがとうございました。	general,hotel,weather,taxi

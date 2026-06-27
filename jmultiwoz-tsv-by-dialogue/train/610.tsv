@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+610	0	USER	大阪へ旅行に行くんですが、飲食店を探していただけますか？	general,restaurant
+610	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant
+610	2	USER	北区で寿司・魚料理が食べられるお店がいいです！	general,restaurant
+610	3	SYSTEM	ありがとうございます。喜多郎寿し 兎我野町店はいかがでしょう？何かご案内致しましょうか？	general,restaurant
+610	4	USER	はい！料金情報と駐車場の有無についても教えてください。	general,restaurant
+610	5	SYSTEM	承知しました。料金情報については、お造り盛り合わせが1500円となっております。申し訳ありませんが、駐車場の有無は不明です。他に何かご案内致しましょうか？	general,restaurant
+610	6	USER	ありがとうございます。予約をお願いしたいです。9/4の10:30で、4人で行きたいです。	general,restaurant
+610	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、29335となります。他に必要なご案内はございますか？	general,restaurant
+610	8	USER	これで大丈夫です。ありがとうございました。	general,restaurant
+610	9	SYSTEM	ありがとうございました。	general,restaurant

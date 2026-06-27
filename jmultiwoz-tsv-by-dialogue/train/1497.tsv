@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1497	0	USER	大阪でWifiを無料で使える飲食店はありますか？	general,restaurant
+1497	1	SYSTEM	はい、他にご希望はございますか？	general,restaurant
+1497	2	USER	他の条件はありません。	general,restaurant
+1497	3	SYSTEM	では、エリアが浪速区の、沖縄ん家 てりとりーはいかがでしょう？	general,restaurant
+1497	4	USER	最寄り駅と、詳細の料金情報もお願いできますか？	general,restaurant
+1497	5	SYSTEM	はい、最寄りのなんば駅から徒歩で3分となります。料金情報については不明、となっております。	general,restaurant
+1497	6	USER	分かりました。予約をお願いします。4/29の11:30で、2人です。	general,restaurant
+1497	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、61053となります。	general,restaurant
+1497	8	USER	ありがとうございます！	general,restaurant

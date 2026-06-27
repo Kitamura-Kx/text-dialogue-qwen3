@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4238	0	USER	札幌に行く予定ですが、食事できるところを探しています。豊平区で札幌駅から行ける、駐車場無料のところはありますか？	general,restaurant,shopping,weather
+4238	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,shopping,weather
+4238	2	USER	それでは、豊平区でなくても構いません。	general,restaurant,shopping,weather
+4238	3	SYSTEM	ありがとうございます。では、エリアでいうと中央区にある、銀座天一 札幌東急店はいかがでしょう？ジャンルは、和食となります。	general,restaurant,shopping,weather
+4238	4	USER	そちらの定休日と住所を教えていただけますか。	general,restaurant,shopping,weather
+4238	5	SYSTEM	はい、住所は、北海道札幌市中央区北4条西2丁目1東急百貨店札幌店10F、定休日はございません。	general,restaurant,shopping,weather
+4238	6	USER	駅からどれくらいかかりますか。	general,restaurant,shopping,weather
+4238	7	SYSTEM	最寄りの札幌駅から徒歩で3分となります。	general,restaurant,shopping,weather
+4238	8	USER	そちらのお店で予約をお願いします。2名で8/8の12:30です。	general,restaurant,shopping,weather
+4238	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、33となります。	general,restaurant,shopping,weather
+4238	10	USER	ありがとうございます。駐車場無料のショッピングモールも探していただけますか。	general,restaurant,shopping,weather
+4238	11	SYSTEM	承知しました。エリアでいうと厚別区にある、カテプリはいかがでしょう？	general,restaurant,shopping,weather
+4238	12	USER	そちらは駅からどれくらいかかりますか。あと電話番号も教えてください。	general,restaurant,shopping,weather
+4238	13	SYSTEM	はい、電話番号は、0118901111、最寄りの新さっぽろ駅から徒歩で1分となります。	general,restaurant,shopping,weather
+4238	14	USER	ありがとうございます。清田区の8/8の天気はどうでしょうか？	general,restaurant,shopping,weather
+4238	15	SYSTEM	はい、天気は曇のち晴、最低気温23.4度、最高気温29度となります。	general,restaurant,shopping,weather
+4238	16	USER	ありがとうございました。	general,restaurant,shopping,weather

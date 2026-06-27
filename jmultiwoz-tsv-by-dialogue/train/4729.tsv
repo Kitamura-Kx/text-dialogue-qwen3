@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4729	0	USER	仙台へ旅行予定です。駐車場無料の飲食店はありませんか？	general,restaurant,shopping
+4729	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,shopping
+4729	2	USER	そうですか。なら、駐車場はなくても大丈夫です。	general,restaurant,shopping
+4729	3	SYSTEM	それでは、地酒と土鍋飯 さんかというお店はいかがですか？	general,restaurant,shopping
+4729	4	USER	そこいいですね。電話番号と営業時間を教えてください。	general,restaurant,shopping
+4729	5	SYSTEM	電話番号は、0227070562です。　営業時間は、17時から深夜0時までです。	general,restaurant,shopping
+4729	6	USER	ありがとうございます。あと、太白区で駐車場を無料利用できる買い物施設はありますか？	general,restaurant,shopping
+4729	7	SYSTEM	それでしたら、ララガーデン長町はいかがですか？	general,restaurant,shopping
+4729	8	USER	よさげですね。そこの、最寄り駅と電話番号を知りたいです。	general,restaurant,shopping
+4729	9	SYSTEM	最寄り駅は、長町駅です。　電話番号は、0223997700になります。	general,restaurant,shopping
+4729	10	USER	ありがとうございます。以上で大丈夫です。	general,restaurant,shopping
+4729	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping

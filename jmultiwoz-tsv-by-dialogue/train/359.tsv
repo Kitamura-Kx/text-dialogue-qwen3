@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+359	0	USER	お願いします。札幌で買い物ができるところを探しています。二十四軒駅周辺で探しています。	general,shopping
+359	1	SYSTEM	二十四軒駅周辺ですと、札幌市中央卸売市場 場外市場はいかがでしょうか？	general,shopping
+359	2	USER	そちらは、中央区になりますか？	general,shopping
+359	3	SYSTEM	はい、中央区エリアにございます。住所は、北海道札幌市中央区北11条西21丁目1番7号214です。	general,shopping
+359	4	USER	駐車場が無料で使えるところがいいのですが、どうでしょう？	general,shopping
+359	5	SYSTEM	こちらの施設は、駐車場無料でご利用いただけます。現在のご希望条件ですと、ほかには候補がないのですが、いかがいたしましょうか？	general,shopping
+359	6	USER	了解しました。ちなみにそちらのジャンルは何になりますか？	general,shopping
+359	7	SYSTEM	商店街となっております。	general,shopping
+359	8	USER	わかりました。いろいろ教えていただいてありがとうございました。	general,shopping
+359	9	SYSTEM	他にお調べすることはございませんか？	general,shopping
+359	10	USER	はい。特にはありません。	general,shopping
+359	11	SYSTEM	かしこまりました。本日はご利用ありがとうございました。	general,shopping

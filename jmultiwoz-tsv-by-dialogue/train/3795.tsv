@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3795	0	USER	仙台への旅行を計画しているのですが、観光名所を探してもらえますか？	general,attraction,restaurant,weather
+3795	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction,restaurant,weather
+3795	2	USER	泉区で、駐車場が無料でWi-Fiが無料で利用できる場所が良いです。	general,attraction,restaurant,weather
+3795	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,attraction,restaurant,weather
+3795	4	USER	それなら、泉区でなくても大丈夫です。	general,attraction,restaurant,weather
+3795	5	SYSTEM	ありがとうございます。では、仙台市文学館はいかがでしょうか？こちらは、青葉区エリアの施設となります。	general,attraction,restaurant,weather
+3795	6	USER	いいですね、そちらの住所と子供入場料、近くの駅からの所要時間も教えてもらえますか？	general,attraction,restaurant,weather
+3795	7	SYSTEM	住所は、宮城県仙台市青葉区北根2-7-1です。お子様の入場料は、110円でして、大人の場合は460円となります。アクセスですが、最寄りの八乙女駅からバスで9分、他にも仙台駅からバスで25分などの行き方がございます。	general,attraction,restaurant,weather
+3795	8	USER	ありがとうございます。駐車場を無料で利用できる飲食店でも探してもらえますか？	general,attraction,restaurant,weather
+3795	9	SYSTEM	かしこまりました。66件ほどご案内できるのですが、他にご希望条件がなければ、ココス 仙台中野店はいかがでしょうか？	general,attraction,restaurant,weather
+3795	10	USER	でしたら、若林区で、Wi-Fiが無料の場所が良いのですがどうですか？	general,attraction,restaurant,weather
+3795	11	SYSTEM	はい、Chef's Tableというお店が1件ご案内可能です。最寄りは宮城野通駅となりますが、いかがでしょうか？	general,attraction,restaurant,weather
+3795	12	USER	いいですね。そちらの住所と電話番号、定休日はわかりますか？	general,attraction,restaurant,weather
+3795	13	SYSTEM	住所は、宮城県仙台市若林区新寺1丁目4-1 ANAホリデイ・イン仙台です。電話番号は、0222565130でございます。こちらは、定休日はございません。	general,attraction,restaurant,weather
+3795	14	USER	ありがとうございます。あと、1/23の泉区の最高気温を教えてもらえますか？	general,attraction,restaurant,weather
+3795	15	SYSTEM	はい、最高気温は2.6度の予報となっております。	general,attraction,restaurant,weather
+3795	16	USER	ありがとうございます。	general,attraction,restaurant,weather
+3795	17	SYSTEM	他にお調べすることはございませんか？	general,attraction,restaurant,weather
+3795	18	USER	はい、大丈夫です。ありがとうございました。	general,attraction,restaurant,weather
+3795	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,restaurant,weather

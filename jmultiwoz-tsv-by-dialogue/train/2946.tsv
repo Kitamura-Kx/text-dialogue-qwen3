@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2946	0	USER	那覇への旅行を計画しています。 当日泊まる宿泊施設を探してください。	general,hotel
+2946	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel
+2946	2	USER	駐車場を無料で利用できて、レストランが併設されているところにしてください。	general,hotel
+2946	3	SYSTEM	はい、では、エリアでいうと本庁にある、HOTEL MARUKIはいかがでしょう？タイプはビジネスホテルになります。	general,hotel
+2946	4	USER	いいですね。そこのチェックイン開始時刻，Wi-Fiの有無，値段帯を教えてください。	general,hotel
+2946	5	SYSTEM	チェックイン開始時刻は15時、値段帯は安めとなります。Wi-Fiは無料でご利用いただけます。	general,hotel
+2946	6	USER	解決しました。ありがとうございました。	general,hotel

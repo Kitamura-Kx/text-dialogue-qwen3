@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4214	0	USER	横浜のスーパーマーケットで買い物がしたいのですが、どこかありますか？	general,shopping
+4214	1	SYSTEM	はい、横浜のスーパーマーケットですね。　まいばすけっと 横浜山下町店はいかがですか？	general,shopping
+4214	2	USER	中区エリアで桜木町駅近辺のお店がいいのですが、そのお店はそうですか？	general,shopping
+4214	3	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping
+4214	4	USER	そうですか。では中区であれば構いませんので、スーパーマーケットを教えてください。	general,shopping
+4214	5	SYSTEM	では、まいばすけっと 横浜山下町店はいかがですか？	general,shopping
+4214	6	USER	先程からのお店は中区だったのですね。このお店に定休日はありますか？	general,shopping
+4214	7	SYSTEM	はい、定休日は、無しとなっています。	general,shopping
+4214	8	USER	最寄駅からはどのぐらい時間がかかりますか？	general,shopping
+4214	9	SYSTEM	最寄り駅の日本大通り駅から徒歩で5分となっています。	general,shopping
+4214	10	USER	ありがとうございました。では失礼します。	general,shopping

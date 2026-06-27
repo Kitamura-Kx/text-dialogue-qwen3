@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4877	0	USER	大阪へ旅行を考えているんですけど、生野区で買い物ができるところはありますか？	general,shopping,restaurant,hotel
+4877	1	SYSTEM	C&Cエンド 本店が1件見つかりました。	general,shopping,restaurant,hotel
+4877	2	USER	そちらは駐車場は無料で利用できますか？	general,shopping,restaurant,hotel
+4877	3	SYSTEM	駐車場の有無は、有り(無料)です。	general,shopping,restaurant,hotel
+4877	4	USER	じゃあそこに行こうと思います。ジャンルと電話番号はわかりますか？	general,shopping,restaurant,hotel
+4877	5	SYSTEM	ジャンルはスーパーマーケット、電話番号は0667583400です。	general,shopping,restaurant,hotel
+4877	6	USER	Wi-Fiが無料で、予算が高めが希望なんですけど、飲食店も探してもらえますか？	general,shopping,restaurant,hotel
+4877	7	SYSTEM	バルバッコア 心斎橋店など、2件見つかりました。	general,shopping,restaurant,hotel
+4877	8	USER	バルバッコア 心斎橋店の定休日はいつですか？	general,shopping,restaurant,hotel
+4877	9	SYSTEM	定休日は無しです。	general,shopping,restaurant,hotel
+4877	10	USER	わかりました。そこで1/13の午後12時50分に3名で予約を入れたいです。	general,shopping,restaurant,hotel
+4877	11	SYSTEM	申し訳ございません、予約に失敗しました。	general,shopping,restaurant,hotel
+4877	12	USER	じゃあ2名でお願いします。	general,shopping,restaurant,hotel
+4877	13	SYSTEM	予約が完了しました。予約番号は76750です。	general,shopping,restaurant,hotel
+4877	14	USER	宿泊施設も探してもらえますか？予算は普通がいいです。	general,shopping,restaurant,hotel
+4877	15	SYSTEM	大阪マリオット都ホテルで、1件見つかりました。	general,shopping,restaurant,hotel
+4877	16	USER	いいですね、そちらのWi-Fiの有無、タイプ、レストランの有無を教えて下さい。	general,shopping,restaurant,hotel
+4877	17	SYSTEM	Wi-Fiの有無は有り(無料)、タイプはリゾートホテル、レストランの有無は有りです。	general,shopping,restaurant,hotel
+4877	18	USER	ありがとうございました。	general,shopping,restaurant,hotel
+4877	19	SYSTEM	他に何かご希望はありますか？	general,shopping,restaurant,hotel
+4877	20	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping,restaurant,hotel
+4877	21	SYSTEM	かしこまりました。ご利用ありがとうございました。	general,shopping,restaurant,hotel

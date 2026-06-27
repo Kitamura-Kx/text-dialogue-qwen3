@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4987	0	USER	大阪に両行するつもりです。Wi-Fiと駐車場を両方とも無料で使える観光名所はありますか？	general,attraction,taxi,weather
+4987	1	SYSTEM	承知しました。鶴見緑地湯元 水春はいかがでしょうか？	general,attraction,taxi,weather
+4987	2	USER	そこにします。鶴見緑地湯元 水春のエリアと営業時間も教えてもらえますか？	general,attraction,taxi,weather
+4987	3	SYSTEM	エリアは鶴見区です。営業時間は00:00～02:00, 06:00～00:00です。	general,attraction,taxi,weather
+4987	4	USER	ありがとうございます。ジャンボタクシーにも乗りたいのですが、キャッシュレスにも対応しているタクシー会社はありますか？	general,attraction,taxi,weather
+4987	5	SYSTEM	株式会社未来都はいかがでしょうか？	general,attraction,taxi,weather
+4987	6	USER	そこで予約をお願いします。11月8日の10時30分に、キッズプラザ大阪から鶴見緑地湯元 水春までお願いします。	general,attraction,taxi,weather
+4987	7	SYSTEM	予約が完了しました。予約番号は18967です。	general,attraction,taxi,weather
+4987	8	USER	それから、11月8日の住吉区の天気はわかりますか？特に最高気温を知りたいです。	general,attraction,taxi,weather
+4987	9	SYSTEM	11月8日の住吉区の天気は雨時々曇です。最高気温は20度です。	general,attraction,taxi,weather
+4987	10	USER	ご対応ありがとうございます。	general,attraction,taxi,weather

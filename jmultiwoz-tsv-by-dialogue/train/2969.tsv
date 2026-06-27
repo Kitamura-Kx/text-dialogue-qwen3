@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2969	0	USER	今度横浜へ行くんですが、Wi-Fiが無料で予算が安めの宿泊施設を探してもらえますか？	general,hotel,weather,taxi
+2969	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel,weather,taxi
+2969	2	USER	そうですか。じゃあWi-Fiはなくてもいいです。	general,hotel,weather,taxi
+2969	3	SYSTEM	ありがとうございます。エリアでいうと港北区にある、新横浜フジビューホテル スパ&レジデンスはいかがでしょう？タイプはその他となります。	general,hotel,weather,taxi
+2969	4	USER	ありがとうございます。ではそこの料金情報も教えてもらえますか？	general,hotel,weather,taxi
+2969	5	SYSTEM	申し訳ありません、ご案内可能な料金情報はございません。	general,hotel,weather,taxi
+2969	6	USER	わかりました。あと、8/12の都筑区の最高気温はわかりますか？	general,hotel,weather,taxi
+2969	7	SYSTEM	はい、最高気温33.7度となります。	general,hotel,weather,taxi
+2969	8	USER	ありがとうございます。あと、キャッシュレス払いができて、ジャンボタクシーが利用できるタクシー会社を探してもらえますか？	general,hotel,weather,taxi
+2969	9	SYSTEM	はい、株式会社グリーンキャブはいかがでしょう？電話番号は0456638181となります。	general,hotel,weather,taxi
+2969	10	USER	ありがとうございます。では予約をお願いできますか？ 8/12の14：00に、新横浜フジビューホテル スパ&レジデンスを出発して、横浜DRAセブンまで利用したいです。	general,hotel,weather,taxi
+2969	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、4670となります。	general,hotel,weather,taxi
+2969	12	USER	ありがとうございました。以上で結構です。	general,hotel,weather,taxi
+2969	13	SYSTEM	ありがとうございました。	general,hotel,weather,taxi

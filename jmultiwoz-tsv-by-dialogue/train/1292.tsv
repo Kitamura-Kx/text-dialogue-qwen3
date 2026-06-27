@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1292	0	USER	那覇への旅行を計画しているのですが、小禄地区に観光名所はどこかありますか？	general,attraction,weather
+1292	1	SYSTEM	はい、3件ご案内可能です。例えば、パイナップルハウスはいかがでしょうか？	general,attraction,weather
+1292	2	USER	ありがとうございます。WiFiと駐車場が無料のところが良いと考えているのですがそのようなスポットはございますか？	general,attraction,weather
+1292	3	SYSTEM	では、那覇空港はいかがでしょうか？	general,attraction,weather
+1292	4	USER	ありがとうございます、ではそこに行きたいと思います。住所と定休日をお教えいただけますか？	general,attraction,weather
+1292	5	SYSTEM	住所は、沖縄県那覇市鏡水150です。定休日はございません。	general,attraction,weather
+1292	6	USER	ありがとうございます。あと当日の天気を知りたいのですが、11月9日の真和志地区の天気を教えていただけますか？	general,attraction,weather
+1292	7	SYSTEM	かしこまりました。当日の天気は、雨のち曇の予報です。最低気温は21.5度、最高気温は27.1度の予想となっております。	general,attraction,weather
+1292	8	USER	ありがとうございます。お聞きしたい事は以上になります。	general,attraction,weather
+1292	9	SYSTEM	承知いたしました。もし他にご質問がないようでしたら、これで失礼いたします。本日はご利用ありがとうございました。	general,attraction,weather
+1292	10	USER	丁寧なご対応ありがとうございました。	general,attraction,weather

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1791	0	USER	名古屋への旅行を考えていて、お聞きしたいことがあります。	general,taxi
+1791	1	SYSTEM	承知いたしました。どんな内容でしょうか？	general,taxi
+1791	2	USER	ジャンボタクシーを利用できる、タクシー会社はありますか？	general,taxi
+1791	3	SYSTEM	申し訳ございません。ジャンボタクシーを利用できる、タクシー会社は、名古屋では見つかりませんでした。	general,taxi
+1791	4	USER	では、ジャンボタクシーはなしでも大丈夫です。	general,taxi
+1791	5	SYSTEM	かしこまりました。では、三晃タクシーはいかがでしょうか？こちらでしたら、キャッシュレスのお支払いに対応してございますよ。	general,taxi
+1791	6	USER	ではそこの電話番号を教えてください。	general,taxi
+1791	7	SYSTEM	電話番号は、0528311975でございます。	general,taxi
+1791	8	USER	予約もお願いできますか？7/23の14:00にのりぃ野ダイニングから、ベッセルイン栄駅前まで利用したいです。	general,taxi
+1791	9	SYSTEM	かしこまりました。予約完了いたしました。予約番号は、64947でございます。	general,taxi
+1791	10	USER	ありがとうございます。	general,taxi
+1791	11	SYSTEM	ほかに、お知りになりたい情報などございませんか？	general,taxi
+1791	12	USER	いえ、もう大丈夫です。	general,taxi
+1791	13	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,taxi

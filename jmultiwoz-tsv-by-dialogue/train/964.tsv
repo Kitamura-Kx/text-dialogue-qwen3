@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+964	0	USER	那覇で買い物できる場所を探していまして。牧志駅近くにショッピングモールはありますか？	general,shopping,attraction,restaurant
+964	1	SYSTEM	かしこまりました。のうれんプラザがございます。	general,shopping,attraction,restaurant
+964	2	USER	ちなみに、そちらの駐車場は無料で利用できますか？	general,shopping,attraction,restaurant
+964	3	SYSTEM	無料の駐車場がございます。	general,shopping,attraction,restaurant
+964	4	USER	ばっちりですね。営業時間と定休日も教えてください。	general,shopping,attraction,restaurant
+964	5	SYSTEM	営業時間は09:00～17:30、定休日は店舗により異なるとのことでございます。	general,shopping,attraction,restaurant
+964	6	USER	そうなんですね。分かりました。続いて、観光名所も教えてください。無料のWifiと駐車場があるアリーナやスタジアムはありますか？	general,shopping,attraction,restaurant
+964	7	SYSTEM	申し訳ございません。その条件ですと案内できるところがございませんでした	general,shopping,attraction,restaurant
+964	8	USER	ではWifiの有無を条件から除いて調べてください。	general,shopping,attraction,restaurant
+964	9	SYSTEM	では沖縄セルラースタジアム那覇はいかがでしょうか。	general,shopping,attraction,restaurant
+964	10	USER	そちらは何エリアですか？住所と電話番号もあわせて教えてください。	general,shopping,attraction,restaurant
+964	11	SYSTEM	エリアは本庁でございます。	general,shopping,attraction,restaurant
+964	12	USER	住所と電話番号も教えてください。	general,shopping,attraction,restaurant
+964	13	SYSTEM	申し訳ございません。住所は沖縄県那覇市奥武山町42-1で電話番号は0988570889でございます。	general,shopping,attraction,restaurant
+964	14	USER	大丈夫です。最後に飲食店の情報もお願いできますか？普通ぐらいの予算で、和食レストランを探しています。	general,shopping,attraction,restaurant
+964	15	SYSTEM	魚屋直営食堂 魚まるはいかがでしょうか。	general,shopping,attraction,restaurant
+964	16	USER	そちらのお店は無料のWifiを使えますか？	general,shopping,attraction,restaurant
+964	17	SYSTEM	Wi-Fiの有無は不明でございます。	general,shopping,attraction,restaurant
+964	18	USER	そうですか、、、では和食以外のジャンルでもいいので、無料wifiがあるお店を探してください。	general,shopping,attraction,restaurant
+964	19	SYSTEM	では酒場KUMECHOはいかがでしょうか。	general,shopping,attraction,restaurant
+964	20	USER	ちなみに、そちらに駐車場はありますか？電話番号と定休日の情報もあれば教えてください。	general,shopping,attraction,restaurant
+964	21	SYSTEM	駐車場はございません。電話番号は05058455905でございます。定休日は不定休でございます。	general,shopping,attraction,restaurant
+964	22	USER	分かりました。知りたい情報は以上です。	general,shopping,attraction,restaurant

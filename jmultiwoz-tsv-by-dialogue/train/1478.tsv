@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1478	0	USER	東京へ旅行に行くので、食事ができる飲食店を探してください	general,restaurant
+1478	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+1478	2	USER	地区は板橋区で、Wi-Fiが無料で利用できるところにしてください。	general,restaurant
+1478	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant
+1478	4	USER	では地区の条件は外して構いません。	general,restaurant
+1478	5	SYSTEM	では土古里新宿NOWAビル店はいかがでしょうか。	general,restaurant
+1478	6	USER	そちらの料金情報と電話番号を教えてください	general,restaurant
+1478	7	SYSTEM	全9品の焼肉三昧コースが5000円、全11品の極み黒毛和牛コースが10000円、和牛上カルビセットが2150円となっております。	general,restaurant
+1478	8	USER	ありがとうございます。電話番号もお願いいたします。	general,restaurant
+1478	9	SYSTEM	失礼いたしました。電話番号は0353621151でございます。	general,restaurant
+1478	10	USER	ではそちらのお店で予約してください。人数は3人、日付は5/25、時間は12:00です。	general,restaurant
+1478	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は62494でございます。	general,restaurant
+1478	12	USER	ありがとうございました。以上です。	general,restaurant
+1478	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant

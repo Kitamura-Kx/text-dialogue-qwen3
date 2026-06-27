@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2164	0	USER	こんにちは。札幌へ旅行するのですが、Wi-Fiと駐車場が無料の観光名所ってありますか？	general,attraction,taxi
+2164	1	SYSTEM	申し訳ございません。その条件ですと、ご案内出来る観光名所を見つけることが出来ませんでした。	general,attraction,taxi
+2164	2	USER	そうですか。じゃあWi-Fiがなくても構わないので、お願いします	general,attraction,taxi
+2164	3	SYSTEM	かしこまりました。それでは、月寒公園はいかがでしょうか？	general,attraction,taxi
+2164	4	USER	ありがとうございます。当日タクシーを使いたいので、ジャンボタクシーが使えて、キャッシュレス払いができるタクシー会社をお願いします。	general,attraction,taxi
+2164	5	SYSTEM	かしこまりました。それでは、暁交通(株)はいかがでしょうか？	general,attraction,taxi
+2164	6	USER	ありがとうございます。そちらの電話番号もお願いします。	general,attraction,taxi
+2164	7	SYSTEM	電話番号は0117712632でございます。	general,attraction,taxi
+2164	8	USER	ありがとうございます。タクシー予約もお願いします。6/9の12:30乗車で北海道どさんこプラザから先ほど教えてもらった月寒公園までです。	general,attraction,taxi
+2164	9	SYSTEM	お待たせ致しました。ご予約番号38671でお取りさせていただきました。	general,attraction,taxi
+2164	10	USER	ありがとうございました。助かりました。以上です。	general,attraction,taxi
+2164	11	SYSTEM	かしこまりました。またお待ちしております。	general,attraction,taxi

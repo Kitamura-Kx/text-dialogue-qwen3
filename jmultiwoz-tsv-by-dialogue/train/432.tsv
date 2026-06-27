@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+432	0	USER	京都へ行こうと思っています。予算は普通でWiFiが無料で利用できる飲食店を探していただきたいです。	general,restaurant,shopping,taxi
+432	1	SYSTEM	かしこまりました。ではフィゲラス 烏丸店はいかがでしょうか。	general,restaurant,shopping,taxi
+432	2	USER	そのお店のジャンルは何でしょうか？	general,restaurant,shopping,taxi
+432	3	SYSTEM	ジャンルは洋食・西洋料理, その他でございます。	general,restaurant,shopping,taxi
+432	4	USER	わかりました。ありがとうございます。	general,restaurant,shopping,taxi
+432	5	SYSTEM	ほかにご用件はございますか。	general,restaurant,shopping,taxi
+432	6	USER	駐車場が無料で利用できて書籍が買えるお店を探していただきたいです。	general,restaurant,shopping,taxi
+432	7	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,restaurant,shopping,taxi
+432	8	USER	では、駐車場の有無は考慮せず書籍が買えるお店を探していただきたいです。	general,restaurant,shopping,taxi
+432	9	SYSTEM	ではえほん館はいかがですか。	general,restaurant,shopping,taxi
+432	10	USER	わかりました。ありがとうございます。	general,restaurant,shopping,taxi
+432	11	SYSTEM	ほかにご用件はございませんか。	general,restaurant,shopping,taxi
+432	12	USER	キャッシュレス払いに対応しているタクシー会社を探していただきたいです。	general,restaurant,shopping,taxi
+432	13	SYSTEM	かしこまりました。株式会社エコロ２１がございます。	general,restaurant,shopping,taxi
+432	14	USER	そちらはジャンボタクシー対応でしょうか？	general,restaurant,shopping,taxi
+432	15	SYSTEM	はい。ジャンボタクシーにも対応しております。	general,restaurant,shopping,taxi
+432	16	USER	では、6月4日13時10分にフィゲラス 烏丸店からえほん館まで予約をお願いします。	general,restaurant,shopping,taxi
+432	17	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は34380でございます。	general,restaurant,shopping,taxi
+432	18	USER	わかりました。ありがとうございます。	general,restaurant,shopping,taxi
+432	19	SYSTEM	ほかにご用件はございませんか。	general,restaurant,shopping,taxi
+432	20	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant,shopping,taxi

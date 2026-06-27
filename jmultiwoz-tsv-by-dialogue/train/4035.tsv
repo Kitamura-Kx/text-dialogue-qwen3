@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4035	0	USER	仙台に行く予定ですが、宮城野区の美術館・博物館に行きたいと思っています。どこかありますか？榴ヶ岡駅が最寄りのところでお願いします。	general,attraction,hotel,weather
+4035	1	SYSTEM	承知しました。では、榴岡公園はいかがでしょう？	general,attraction,hotel,weather
+4035	2	USER	ありがとうございます。駅からどれくらいですか？あと、電話番号も教えてください。	general,attraction,hotel,weather
+4035	3	SYSTEM	はい、電話番号は、022299－2361、最寄りの榴ヶ岡駅から徒歩で3分となります。	general,attraction,hotel,weather
+4035	4	USER	ありがとうございます。他に宿泊施設も探していただけますか。駐車場無料で、予算安め、レストラン併設のところが希望です。	general,attraction,hotel,weather
+4035	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,hotel,weather
+4035	6	USER	それでは、予算の条件は外して探してください。	general,attraction,hotel,weather
+4035	7	SYSTEM	ありがとうございます。では、エリアでいうと太白区にある、仙台 秋保温泉 ホテルきよ水はいかがでしょう？タイプは、リゾートホテルとなります。	general,attraction,hotel,weather
+4035	8	USER	ありがとうございます。こちらのチェックイン開始は何時からですか。	general,attraction,hotel,weather
+4035	9	SYSTEM	はい、チェックイン開始時刻は15時となります。	general,attraction,hotel,weather
+4035	10	USER	ありがとうございます。それでは予約していただけますか。5/5から3泊，2名でお願いします。	general,attraction,hotel,weather
+4035	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、94709となります。	general,attraction,hotel,weather
+4035	12	USER	ありがとうございます。5/5の太白区の天気はどうですか？	general,attraction,hotel,weather
+4035	13	SYSTEM	はい、天気は曇、最低気温16.1度、最高気温18.9度となります。	general,attraction,hotel,weather
+4035	14	USER	ありがとうございました。	general,attraction,hotel,weather

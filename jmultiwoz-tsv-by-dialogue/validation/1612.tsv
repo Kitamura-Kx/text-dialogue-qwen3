@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1612	0	USER	京都の観光名所を探してください。駐車場とWi-Fiがタダで使えるところがいいです。	general,attraction
+1612	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction
+1612	2	USER	だったら、駐車場は有料でもいいです。もう一度探してもらえますか？	general,attraction
+1612	3	SYSTEM	では、1件だけあります、国立京都国際会館はいかがですか？	general,attraction
+1612	4	USER	いいですね。大人入場料はいくらになりますか？	general,attraction
+1612	5	SYSTEM	申し訳ありません。入場料については不明になっております。	general,attraction
+1612	6	USER	わかりました。どうもありがとうございました。	general,attraction

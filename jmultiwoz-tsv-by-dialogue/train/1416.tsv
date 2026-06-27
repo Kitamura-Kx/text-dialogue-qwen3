@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1416	0	USER	東京への旅行を計画しています．	general,attraction
+1416	1	SYSTEM	お問合せありがとうございます。	general,attraction
+1416	2	USER	当日訪れる観光名所を探してください．Wi-Fiが無料で利用できるところにしてください．ジャンルは工業地域がいいです。	general,attraction
+1416	3	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction
+1416	4	USER	でしたら、ジャンルをエンタメ・アミューズメントにしてください。	general,attraction
+1416	5	SYSTEM	teamLab Planets TOKYOはいかがでしょうか。	general,attraction
+1416	6	USER	いいですね。そちらの電話番号，料金情報，駐車場の有無を教えてください。	general,attraction
+1416	7	SYSTEM	電話番号は不明で料金情報は◎大人18歳以上：3,200円◎大学生・専門学生：2,500円◎中学生・高校生：2,000円◎小人4～12歳：300円◎3歳以下：無料◎シニア65歳以上：2,400円◎障がい者手帳をお持ちの方：1,600円で、駐車場の有無は有り(有料)になります。	general,attraction
+1416	8	USER	ありがとうございます。	general,attraction

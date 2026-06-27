@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+278	0	USER	名古屋に旅行に行くので、観光名所を探しているのですが何かありますか？	general,attraction
+278	1	SYSTEM	ご利用ありがとうございます。名古屋にはご案内できる観光名所が50件ございます。ジャンルなどで、ご希望はございますか？	general,attraction
+278	2	USER	車があるので駐車場を無料で利用できるところがいいです。	general,attraction
+278	3	SYSTEM	かしこまりました。そうしますと、山田天満宮でしたら、無料駐車場がついております。	general,attraction
+278	4	USER	ではそちらでお願いします。エリアはどこですか？	general,attraction
+278	5	SYSTEM	名古屋の北区エリアにございます。	general,attraction
+278	6	USER	ありがとうございます。定休日と料金情報も教えて頂けないでしょうか。	general,attraction
+278	7	SYSTEM	定休日はございません。また、大人子供ともに入場料などはかからず、無料となっております。	general,attraction
+278	8	USER	ありがとうございました。	general,attraction

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4625	0	USER	こんにちは。大阪で、温泉がある観光名所を探しています。駐車場とWi-Fiが無料の施設があれば教えてください。	general,attraction,restaurant,hotel
+4625	1	SYSTEM	かしこまりました。では、鶴見緑地湯元 水春はいかがですか。	general,attraction,restaurant,hotel
+4625	2	USER	いいですね、すぐに見つかって良かったです。正確な住所と定休日を教えてくれますか？	general,attraction,restaurant,hotel
+4625	3	SYSTEM	住所は大阪府大阪市鶴見区緑地公園1-37で、定休日はございません。	general,attraction,restaurant,hotel
+4625	4	USER	ありがとうございます。旅行したら飲食店にも行きたいんですよね。やっぱり、お好み焼き・たこ焼きのお店に行きたいと思っています。予算は普通でお願いします。	general,attraction,restaurant,hotel
+4625	5	SYSTEM	では、お好み たまちゃん ルクア大阪店はいかがでしょうか。	general,attraction,restaurant,hotel
+4625	6	USER	いい名前ですね。近辺の駅からの所要時間はわかりますか？	general,attraction,restaurant,hotel
+4625	7	SYSTEM	大阪駅から徒歩で1分でございます。	general,attraction,restaurant,hotel
+4625	8	USER	近くて助かります。宿泊施設も探しているんですが、レストランが併設されているところがあるかどうかわかりますか？	general,attraction,restaurant,hotel
+4625	9	SYSTEM	グリッズプレミアムホテル大阪なんばがございますが、いかがでしょうか。	general,attraction,restaurant,hotel
+4625	10	USER	そちらにしたいんですが、電話番号と、Wi-Fiがあるかどうかも調べられますか？	general,attraction,restaurant,hotel
+4625	11	SYSTEM	電話番号は0666415801で、無料のWi-Fiがございます。	general,attraction,restaurant,hotel
+4625	12	USER	ありがとうございます。助かりました。	general,attraction,restaurant,hotel

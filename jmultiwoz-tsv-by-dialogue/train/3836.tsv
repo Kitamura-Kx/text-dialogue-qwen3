@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3836	0	USER	9/23に福岡を訪れる予定なのですが、当日の城南区の天気予報はどうなってますか？	general,weather,taxi
+3836	1	SYSTEM	その日の天気は、曇のち晴です。	general,weather,taxi
+3836	2	USER	予想気温はわかりますか？	general,weather,taxi
+3836	3	SYSTEM	最高気温は、30.6度で最低気温は17.4度となっています。	general,weather,taxi
+3836	4	USER	ありがとうございます。当日のタクシーの予約をお願いしたいのですが、ジャンボタクシーとキャッシュレス払いの両方に対応しているタクシー会社はありますか？	general,weather,taxi
+3836	5	SYSTEM	では、福岡西鉄タクシー（株）はどうでしょうか？	general,weather,taxi
+3836	6	USER	では福岡西鉄タクシー（株）で予約をお願いできますでしょうか。9/23の15:00で、エスペリアホテル博多からHEARTSカプセルホテル&スパ博多まで移動の予定です。	general,weather,taxi
+3836	7	SYSTEM	予約出来ました。予約番号は、25273です。	general,weather,taxi
+3836	8	USER	ありがとうございます。タクシー会社の電話番号もお教えいただけますか？	general,weather,taxi
+3836	9	SYSTEM	電話番号は、0570010531です。	general,weather,taxi
+3836	10	USER	助かりました。	general,weather,taxi
+3836	11	SYSTEM	他にご用件はありますか？	general,weather,taxi
+3836	12	USER	いえ、これで十分です。ありがとうございました。	general,weather,taxi

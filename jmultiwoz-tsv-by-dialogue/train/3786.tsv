@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3786	0	USER	大阪へ旅行を計画していますが、観光名所を探してもらえますか？	general,attraction,hotel
+3786	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction,hotel
+3786	2	USER	鶴見区で、Wi-Fiが無料で利用できるところが良いです。	general,attraction,hotel
+3786	3	SYSTEM	そうしますと、咲くやこの花館という、植物園はいかがでしょうか？	general,attraction,hotel
+3786	4	USER	そちらの定休日を教えて下さい。	general,attraction,hotel
+3786	5	SYSTEM	月曜日と年末年始がお休みとなっております。	general,attraction,hotel
+3786	6	USER	宿泊施設も探してもらえますか？	general,attraction,hotel
+3786	7	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,attraction,hotel
+3786	8	USER	住之江区で、レストランが併設されていて、Wi-Fiが無料で利用できるところが希望です。	general,attraction,hotel
+3786	9	SYSTEM	そうしますと、クインテッサホテル大阪ベイというリゾートホテルはいかがでしょうか？	general,attraction,hotel
+3786	10	USER	そちらの値段帯と、タイプと住所を教えてもらえますか？	general,attraction,hotel
+3786	11	SYSTEM	お値段帯は、お安めとなっております。タイプはリゾートホテルで、住所は、大阪府大阪市住之江区南港北1丁目13 番65号でございます。	general,attraction,hotel
+3786	12	USER	そちらを3/29から2泊、2名で予約をお願いします。	general,attraction,hotel
+3786	13	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,attraction,hotel
+3786	14	USER	1泊ではどうですか？	general,attraction,hotel
+3786	15	SYSTEM	ありがとうございます。1泊にて、ご予約完了いたしました。予約番号は、38882です。	general,attraction,hotel
+3786	16	USER	ありがとうございます。	general,attraction,hotel
+3786	17	SYSTEM	他にお手伝いすることはございませんか？	general,attraction,hotel
+3786	18	USER	はい、ありがとうございました。	general,attraction,hotel
+3786	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,hotel

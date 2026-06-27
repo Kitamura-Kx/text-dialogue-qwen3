@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3179	0	USER	横浜への旅行を計画していて、当日買い物が出来るところを探しています。駐車場無料の百貨店や総合スーパーが希望です。	general,shopping,weather
+3179	1	SYSTEM	かしこまりました。では、新横浜プリンスペペはいかがでしょうか？	general,shopping,weather
+3179	2	USER	ありがとうございます。そこにしようと思います。当日の天気も知りたいです。2/8，緑区の最低気温は分かりますか？	general,shopping,weather
+3179	3	SYSTEM	かしこまりました。2/8の緑区の天気予報は晴時々曇となっております。最低気温は0.5度、最高気温は10.4度になる予報です。	general,shopping,weather
+3179	4	USER	ありがとうございました。	general,shopping,weather
+3179	5	SYSTEM	こちらこそありがとうございました。	general,shopping,weather

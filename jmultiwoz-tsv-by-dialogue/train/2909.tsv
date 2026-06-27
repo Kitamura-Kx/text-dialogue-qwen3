@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2909	0	USER	今度、那覇へ旅行しようと思っています。赤嶺駅の近くで食事をしたいのですが、無料駐車場があるお店を教えてください。	general,restaurant,attraction
+2909	1	SYSTEM	赤嶺駅で無料駐車場のある飲食店はなさそうです。	general,restaurant,attraction
+2909	2	USER	赤嶺駅以外だったらありますか？	general,restaurant,attraction
+2909	3	SYSTEM	29件ほどヒットしますね。	general,restaurant,attraction
+2909	4	USER	おすすめをお願いします。	general,restaurant,attraction
+2909	5	SYSTEM	それならば沖縄らしく、ステーキハウス88 国際通り店、こちらオススメです。	general,restaurant,attraction
+2909	6	USER	ありがとうございます。そちらはどんなジャンルのお店ですか？料金情報も教えて下さい。	general,restaurant,attraction
+2909	7	SYSTEM	洋食・西洋料理です。テンダーロインステーキ200g、2750円、特上リブロースステーキ230g、3278円、こんな感じですね。	general,restaurant,attraction
+2909	8	USER	良さそうですね。もう１つ、無料Wi-Fiがある、牧志駅近くの観光名所を教えて下さい。	general,restaurant,attraction
+2909	9	SYSTEM	牧志駅で無料WiFi有の観光名所はいくつかありますが、那覇市伝統工芸館、こちらをオススメします。	general,restaurant,attraction
+2909	10	USER	ありがとうございます。そこは近くの駅からどれくらいかかりますか？	general,restaurant,attraction
+2909	11	SYSTEM	牧志駅から徒歩で5分、その他、美栄橋駅から徒歩で6分ですね。	general,restaurant,attraction
+2909	12	USER	ありがとうございました。助かりました。それでは失礼します。	general,restaurant,attraction

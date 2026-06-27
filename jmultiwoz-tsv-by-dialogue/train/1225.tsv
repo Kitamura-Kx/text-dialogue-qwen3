@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1225	0	USER	仙台への旅行の際に泊まるビジネスホテルを探しています。	general,hotel,weather
+1225	1	SYSTEM	ご希望の条件は何かございますか？	general,hotel,weather
+1225	2	USER	宮城野区のホテルで、レストラン併設している所がいいですね。	general,hotel,weather
+1225	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,weather
+1225	4	USER	そうなんですね。それではビジネスホテルではなくシティホテルに変えて探してもらえますか？	general,hotel,weather
+1225	5	SYSTEM	かしこまりました。では、仙台ガーデンパレスはいかがでしょうか？	general,hotel,weather
+1225	6	USER	ありがとうございます。仙台ガーデンパレスには駐車場も完備していますか？	general,hotel,weather
+1225	7	SYSTEM	はい。有料ですが、ご利用いただけます。	general,hotel,weather
+1225	8	USER	分かりました。2/8なのですが青葉区の天気は分かりますか。最低気温も教えてください。	general,hotel,weather
+1225	9	SYSTEM	当日の天気は、曇の予報です。最低気温は、2.3度の予想となっております。	general,hotel,weather
+1225	10	USER	分かりました、ありがとうございます。	general,hotel,weather
+1225	11	SYSTEM	他にお調べすることはございますか？	general,hotel,weather
+1225	12	USER	いいえ、今日はありがとうございました。	general,hotel,weather
+1225	13	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,hotel,weather

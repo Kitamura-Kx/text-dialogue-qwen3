@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1121	0	USER	横浜に旅行に行こうと思っています。当日訪れる観光名所でWi-Fiと駐車場が無料のところを教えてください。	general,attraction,restaurant
+1121	1	SYSTEM	承知しました。エリアでいうと中区にある、カップヌードルミュージアム 横浜はいかがでしょう？	general,attraction,restaurant
+1121	2	USER	そこが良さそうですね。そこの定休日と料金情報を教えてください。	general,attraction,restaurant
+1121	3	SYSTEM	はい、定休日はございません。料金情報としては、大学生以上の大人入館料500円、高校生以下の入場料は無料、となります。	general,attraction,restaurant
+1121	4	USER	あと当日飲食ができる飲食店を探しています。最寄り駅が本郷台駅で予算は安めのところを教えてください。	general,attraction,restaurant
+1121	5	SYSTEM	承知しました。エリアでいうと栄区に、タイ料理トムヤムくんがございます。	general,attraction,restaurant
+1121	6	USER	そこが良さそうですね。そこの電話番号と営業時間を教えてください。	general,attraction,restaurant
+1121	7	SYSTEM	はい、電話番号は0454107941、営業時間は11時30分から15時と、17時30分から20時となります。	general,attraction,restaurant
+1121	8	USER	そこのお店に３人分予約したいのですが日付は12/18で時間は13:40で予約をお願いします。	general,attraction,restaurant
+1121	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、3623となります。	general,attraction,restaurant
+1121	10	USER	分かりました。ありがとうございます。	general,attraction,restaurant
+1121	11	SYSTEM	ありがとうございました。	general,attraction,restaurant

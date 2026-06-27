@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3037	0	USER	大阪に旅行するので、当日泊まる宿泊施設を探して頂けますか。	general,hotel,weather,taxi
+3037	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,hotel,weather,taxi
+3037	2	USER	予算は普通くらいのところがいいです。	general,hotel,weather,taxi
+3037	3	SYSTEM	大阪で予算普通の宿泊施設といえば、大阪マリオット都ホテル、こちらになります。	general,hotel,weather,taxi
+3037	4	USER	ではそちらにします。住所と最寄り駅を教えていただけますでしょうか。	general,hotel,weather,taxi
+3037	5	SYSTEM	住所は大阪府大阪市阿倍野区阿倍野筋1丁目1-43、最寄りは大阪阿部野橋駅です。	general,hotel,weather,taxi
+3037	6	USER	ありがとうございます。10/27の大正区の天気についても教えてください。	general,hotel,weather,taxi
+3037	7	SYSTEM	10/27 大阪 大正区 の天気は雨のち曇、最低気温14.8度、最高気温21.9度です。	general,hotel,weather,taxi
+3037	8	USER	ありがとうございます。当日利用できるタクシー会社も教えていただけますでしょうか。キャッシュレス払いできる、かつジャンボタクシーを利用できる会社はありますか。	general,hotel,weather,taxi
+3037	9	SYSTEM	大阪だとキャッシュレスとジャンボタクシー両方対応しているところはなさそうです。	general,hotel,weather,taxi
+3037	10	USER	でしたらキャッシュレス払いできなくても大丈夫です。	general,hotel,weather,taxi
+3037	11	SYSTEM	それならば、堀江タクシー株式会社をおすすめします。	general,hotel,weather,taxi
+3037	12	USER	そちらを利用します。電話番号も教えていただけますでしょうか。	general,hotel,weather,taxi
+3037	13	SYSTEM	0665318829です。	general,hotel,weather,taxi
+3037	14	USER	10/27の13:40から予約できますか？出発地は大阪マリオット都ホテル、目的地はすしざんまい 道頓堀店でお願いします。	general,hotel,weather,taxi
+3037	15	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,hotel,weather,taxi
+3037	16	USER	時間を14:20に変更したら予約できますか？	general,hotel,weather,taxi
+3037	17	SYSTEM	14:20なら予約できました。予約番号は10998です。	general,hotel,weather,taxi
+3037	18	USER	ありがとうございました。	general,hotel,weather,taxi

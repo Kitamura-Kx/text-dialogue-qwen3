@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3745	0	USER	那覇へ旅行するのですが駐車場が無料で利用できて最寄り駅が古島駅、地区が首里の観光名所を教えて下さい。	general,attraction
+3745	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction
+3745	2	USER	それでは最寄りはどこでもいいです。	general,attraction
+3745	3	SYSTEM	ありがとうございます。では、首里殿内 首里金城町石畳道はいかがでしょう？ジャンルは、美術館、博物館となります。	general,attraction
+3745	4	USER	ありがとうございます。近辺の駅からの所要時間を教えて下さい。	general,attraction
+3745	5	SYSTEM	はい、最寄りの首里駅から徒歩で20分となります。	general,attraction
+3745	6	USER	大変助かりました！以上です。どうもありがとうございました。	general,attraction
+3745	7	SYSTEM	ありがとうございました。	general,attraction

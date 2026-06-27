@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4066	0	USER	名古屋への旅行を計画しています． 当日買い物ができるところを探してください．地区は瑞穂区でジャンルは自動車・自転車で。	general,shopping,attraction,restaurant
+4066	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,attraction,restaurant
+4066	2	USER	でしたら地区はどこでもいいです。	general,shopping,attraction,restaurant
+4066	3	SYSTEM	ヨドバシカメラ マルチメディア名古屋松坂屋店はいかがでしょうか。	general,shopping,attraction,restaurant
+4066	4	USER	そちらの住所をおしえてください。	general,shopping,attraction,restaurant
+4066	5	SYSTEM	住所は愛知県名古屋市中区栄3丁目16-1です。	general,shopping,attraction,restaurant
+4066	6	USER	ありがとうございます。あと、当日訪れる観光名所を探してください．Wi-Fiが無料で利用できるところにしてください．ジャンルは散策エリアで。	general,shopping,attraction,restaurant
+4066	7	SYSTEM	大高緑地はいかがでしょうか。	general,shopping,attraction,restaurant
+4066	8	USER	そちらの大人入場料を教えていただけますか。	general,shopping,attraction,restaurant
+4066	9	SYSTEM	大人入場料は不明です。	general,shopping,attraction,restaurant
+4066	10	USER	ありがとうございます。あと当日食事ができる飲食店を探してください．予算は普通が希望です．Wi-Fiが無料で利用できるところがいいです。	general,shopping,attraction,restaurant
+4066	11	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,attraction,restaurant
+4066	12	USER	でしたらWi-Fiはどちらでもいいです。	general,shopping,attraction,restaurant
+4066	13	SYSTEM	広小路キッチンマツヤはいかがでしょうか。	general,shopping,attraction,restaurant
+4066	14	USER	そちらの，近辺の駅からの所要時間を教えていただけますか。	general,shopping,attraction,restaurant
+4066	15	SYSTEM	近辺の駅からの所要時間は伏見駅から徒歩で1分です。	general,shopping,attraction,restaurant
+4066	16	USER		general,shopping,attraction,restaurant

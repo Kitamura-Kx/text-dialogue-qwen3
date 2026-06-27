@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+476	0	USER	東京でジャンボタクシーが使えるタクシー会社を教えてほしいです。	general,taxi
+476	1	SYSTEM	申し訳ございません。東京でジャンボタクシー対応の会社がございませんでした。いかがなさいますか。	general,taxi
+476	2	USER	そうですか。では、ジャンボタクシーは使えなくてもいいので、もう一度探してもらってもいいですか？	general,taxi
+476	3	SYSTEM	ビゲストがキャッシュレスには対応しております。	general,taxi
+476	4	USER	なるほど。そちらの電話番号を教えてもらえますか？	general,taxi
+476	5	SYSTEM	電話番号は0334201385でございます。	general,taxi
+476	6	USER	わかりました。10/11の9:50に予約をお願いできますか？	general,taxi
+476	7	SYSTEM	かしこまりました。では出発地と目的地を教えていただけますか。	general,taxi
+476	8	USER	出発地はOMO5東京大塚 by 星野リゾート、目的地はTHE AOYAMA GRAND HOTELです。	general,taxi
+476	9	SYSTEM	はい。予約が完了いたしました。予約番号は81167でございます。	general,taxi
+476	10	USER	ありがとうございます。助かりました。	general,taxi

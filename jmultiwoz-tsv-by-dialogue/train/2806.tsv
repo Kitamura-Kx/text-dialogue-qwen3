@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2806	0	USER	札幌で旅行するのでキャッシュレスが利用できるジャンボタクシーを探してほしいです。	general,taxi
+2806	1	SYSTEM	かしこまりました。では、ダイコク交通(株)はいかがでしょうか？	general,taxi
+2806	2	USER	そこにします。5/31に予約したいです。	general,taxi
+2806	3	SYSTEM	ありがとうございます。ご利用予定の出発時刻、出発地、目的地もお願いできますでしょうか？	general,taxi
+2806	4	USER	15時に札幌市こども人形劇場 こぐま座から活カニの花咲へお願いします。	general,taxi
+2806	5	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,taxi
+2806	6	USER	では15：50ではどうでしょうか？	general,taxi
+2806	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は38732です。	general,taxi
+2806	8	USER	ありがとうございます。	general,taxi
+2806	9	SYSTEM	他にお調べすることはございますか？	general,taxi
+2806	10	USER	大丈夫です。ありがとうございました。	general,taxi
+2806	11	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,taxi

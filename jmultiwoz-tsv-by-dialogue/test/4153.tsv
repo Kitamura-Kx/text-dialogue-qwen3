@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4153	0	USER	こんにちは。京都旅行を計画中なんですが、当日に食事できるお好み焼き・たこ焼きの店はありますか？予算は普通でお願いします。	general,restaurant,attraction,hotel
+4153	1	SYSTEM	エリアでいうと中京区に、とんちんかんがございます。	general,restaurant,attraction,hotel
+4153	2	USER	そこに行きたいです。電話番号も教えてください。	general,restaurant,attraction,hotel
+4153	3	SYSTEM	電話番号は0752112326となります。	general,restaurant,attraction,hotel
+4153	4	USER	それでは、観光名所についても教えてくれますか？下京区で、駐車場が無料のところでお願いします。	general,restaurant,attraction,hotel
+4153	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,attraction,hotel
+4153	6	USER	では、駐車場は有料でもいいので、下京区の観光名所を教えてください。	general,restaurant,attraction,hotel
+4153	7	SYSTEM	では、いのちの森はいかがでしょう？ジャンルは、自然、公園となります。	general,restaurant,attraction,hotel
+4153	8	USER	そこに行きたいですが、料金情報と営業時間はわかりますか？	general,restaurant,attraction,hotel
+4153	9	SYSTEM	営業時間は9時から17時、料金情報は、小学生以上200円となります。	general,restaurant,attraction,hotel
+4153	10	USER	ありがとうございます。当日泊まれる宿泊施設も探していますが、駐車場が無料でレストランが併設されているところはありますか？	general,restaurant,attraction,hotel
+4153	11	SYSTEM	エリアでいうと下京区にある、なごみ宿 都和はいかがでしょう？タイプは旅館となります。	general,restaurant,attraction,hotel
+4153	12	USER	料金はどれくらいですか？	general,restaurant,attraction,hotel
+4153	13	SYSTEM	申し訳ありません、ご案内可能な料金情報はございません。	general,restaurant,attraction,hotel
+4153	14	USER	そうですか、わかりました。ありがとうございます。	general,restaurant,attraction,hotel

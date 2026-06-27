@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3035	0	USER	横浜へ旅行するので泊まるための宿泊施設を探して頂けますか。	general,hotel
+3035	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,hotel
+3035	2	USER	駐車場を無料で利用できて、予算は安めだとうれしいです。	general,hotel
+3035	3	SYSTEM	横浜で駐車場無料の安めな宿泊施設は２つあります。旅館 松島、こちらをおすすめします	general,hotel
+3035	4	USER	ではそちらにします。エリア、Wi-Fiの有無、電話番号についてそれぞれ教えてください。	general,hotel
+3035	5	SYSTEM	エリアは南区、WiFiは無料、電話は0457312720です。	general,hotel
+3035	6	USER	ありがとうございました。	general,hotel

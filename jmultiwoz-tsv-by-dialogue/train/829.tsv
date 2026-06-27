@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+829	0	USER	こんにちは。横浜への旅行を考えているのですが、タクシー会社を調べて頂けますか？	general,taxi
+829	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,taxi
+829	2	USER	キャッシュレス決済ができる会社がいいです。	general,taxi
+829	3	SYSTEM	申し訳ございません。キャッシュレスに対応している会社がございませんでした。	general,taxi
+829	4	USER	それは仕方ないですね。キャッシュレス以外の決済でも構いません。	general,taxi
+829	5	SYSTEM	では日本交通横浜株式会社がございます。	general,taxi
+829	6	USER	タクシー会社の電話番後を教えてください。	general,taxi
+829	7	SYSTEM	電話番号は0443556511でございます。	general,taxi
+829	8	USER	ありがとうございます。予約日時は4/12の14：40でお願いします。出発はダンゼロ、到着はリゾートカプセル桜木町でお願いします。	general,taxi
+829	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は14467でございます。	general,taxi
+829	10	USER	ありがとうございます！お問い合わせ内容は異常です！	general,taxi

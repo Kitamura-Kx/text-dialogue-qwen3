@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4294	0	USER	名古屋へ旅行に行くので、観光名所を探しています。西区で、駐車場が無料で使えるところはないですか？	general,attraction
+4294	1	SYSTEM	かしこまりました。ではトヨタ産業技術記念館がございます。	general,attraction
+4294	2	USER	そこに行きたいと思います。子供入場料はいくらでしょうか？	general,attraction
+4294	3	SYSTEM	子供の入場料は200円でございます。	general,attraction
+4294	4	USER	わかりました。ありがとうございます。	general,attraction
+4294	5	SYSTEM	ほかにご用件はございませんか。	general,attraction
+4294	6	USER	いえ、特にありません。ありがとうございました。	general,attraction
+4294	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

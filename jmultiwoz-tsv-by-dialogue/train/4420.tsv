@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4420	0	USER	札幌へ旅行予定なのですが、普通の値段位のシティホテルはありますか？あと、Wi-Fiを無料で使いたいです。	general,hotel,weather
+4420	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,hotel,weather
+4420	2	USER	そうですか。では、シティホテル以外でも構いません。	general,hotel,weather
+4420	3	SYSTEM	かしこまりました。それでは定山渓 鶴雅リゾートスパ 森の謌はいかがでしょうか？	general,hotel,weather
+4420	4	USER	そちらの住所を教えてください。	general,hotel,weather
+4420	5	SYSTEM	はい、北海道札幌市南区定山渓温泉東3丁目192番地でございます。	general,hotel,weather
+4420	6	USER	わかりました。予約もお願いします。3人で3/1から4泊です。	general,hotel,weather
+4420	7	SYSTEM	申し訳ございません。その条件では予約することが出来ませんでした。	general,hotel,weather
+4420	8	USER	であれば、人数を2人に変更します。	general,hotel,weather
+4420	9	SYSTEM	お待たせ致しました。予約番号41561でお取りさせていただきました。	general,hotel,weather
+4420	10	USER	ありがとうございます。あと、当日3/1の豊平区の最高気温と最低気温が気になります。	general,hotel,weather
+4420	11	SYSTEM	お待たせ致しました。当日の豊平区の最高気温は4.1度、最低気温は-3.9度の予報でございます。	general,hotel,weather
+4420	12	USER	ありがとうございました。もう大丈夫です。	general,hotel,weather
+4420	13	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,weather

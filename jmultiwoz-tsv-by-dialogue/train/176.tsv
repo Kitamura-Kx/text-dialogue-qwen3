@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+176	0	USER	京都への旅行を計画しているので、観光名所を探しています。	general,attraction,taxi
+176	1	SYSTEM	京都の観光名所ですね。なにかご希望の条件はございますか？	general,attraction,taxi
+176	2	USER	西京区で駐車場が無料で利用できるところがいいのですが、どこかいいところはありますか？	general,attraction,taxi
+176	3	SYSTEM	はい、桂坂野鳥遊園というところがございます。自然・公園, アウトドア, 教室・ワークショップ・体験といったジャンルになりますが、いかがでしょうか？	general,attraction,taxi
+176	4	USER	とても楽しそうでぜひ行ってみたいと思います。ジャンボタクシーが利用できるタクシー会社も探してもらえますか？	general,attraction,taxi
+176	5	SYSTEM	かしこまりました。京都でジャンボタクシーがご利用いただけるタクシー会社は、17件ほどご案内可能です。キャッシュレスなどのご希望はございますか？	general,attraction,taxi
+176	6	USER	特にそのほかの希望はありませんので、どこかおすすめをお願いします。	general,attraction,taxi
+176	7	SYSTEM	では、洛東タクシー株式会社はいかがでしょうか？	general,attraction,taxi
+176	8	USER	そこでお願いします。電話番号も教えてください。	general,attraction,taxi
+176	9	SYSTEM	電話番号は、0755931112です。	general,attraction,taxi
+176	10	USER	3/18　10:40に桂坂野鳥遊園からごはんやまでタクシーを利用したいので、予約をお願いします。	general,attraction,taxi
+176	11	SYSTEM	申し訳ございません。その条件ですと、予約できませんでした。いかがいたしましょう？	general,attraction,taxi
+176	12	USER	では11:20ではどうですか？	general,attraction,taxi
+176	13	SYSTEM	ありがとうございます。予約完了いたしました。予約番号は、94848です。	general,attraction,taxi
+176	14	USER	ありがとございます。	general,attraction,taxi
+176	15	SYSTEM	他にお探しの情報はございますか？	general,attraction,taxi
+176	16	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,taxi
+176	17	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,attraction,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3603	0	USER	仙台の荒井駅近くで駐車場が無料の観光名所はありますか？	general,attraction,hotel,weather
+3603	1	SYSTEM	では仙台市 七郷児童館はいかがでしょうか。	general,attraction,hotel,weather
+3603	2	USER	どのエリアにありますか？	general,attraction,hotel,weather
+3603	3	SYSTEM	エリアは若林区でございます。	general,attraction,hotel,weather
+3603	4	USER	大人の入場料はいくらになりますか？	general,attraction,hotel,weather
+3603	5	SYSTEM	大人入場料は０円でございます。	general,attraction,hotel,weather
+3603	6	USER	わかりました。あとWi-Fiが無料で値段は普通の宿泊施設を探してほしいです。	general,attraction,hotel,weather
+3603	7	SYSTEM	ではアパホテル<仙台勾当台公園>はいかがですか。	general,attraction,hotel,weather
+3603	8	USER	レストランはありますか？	general,attraction,hotel,weather
+3603	9	SYSTEM	レストランも併設されております。	general,attraction,hotel,weather
+3603	10	USER	良かったです。チェックアウトは何時までですか？	general,attraction,hotel,weather
+3603	11	SYSTEM	チェックアウト終了時刻は11:00でございます。	general,attraction,hotel,weather
+3603	12	USER	わかりました。最後に4/20の若林区の天気を教えてください。	general,attraction,hotel,weather
+3603	13	SYSTEM	当日の天気は雨のち曇でございます。	general,attraction,hotel,weather
+3603	14	USER	わかりました。ありがとうございました。	general,attraction,hotel,weather
+3603	15	SYSTEM	本日はありがとうございました。	general,attraction,hotel,weather

@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3217	0	USER	東京旅行で日本科学未来館に行きたいのですが、住所と駐車場の有無を教えてください	general,attraction
+3217	1	SYSTEM	かしこまりました。住所は東京都江東区青海2丁目3-6で、駐車場は有料のものがあります。	general,attraction
+3217	2	USER	ありがとうございます	general,attraction
+3217	3	SYSTEM	はい、他にご用件はございますか？	general,attraction
+3217	4	USER	ないです。ありがとうございました	general,attraction
+3217	5	SYSTEM	承知しました。ありがとうございました。	general,attraction

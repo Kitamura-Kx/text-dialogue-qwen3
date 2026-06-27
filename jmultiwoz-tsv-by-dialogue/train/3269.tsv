@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3269	0	USER	京都へ行くのですが、飲食店を探してもらえますか？	general,restaurant,weather
+3269	1	SYSTEM	京の四季 いろどりは、いかがですか？	general,restaurant,weather
+3269	2	USER	そこは無料で利用できる駐車場がありますか？	general,restaurant,weather
+3269	3	SYSTEM	申し訳ありません、駐車場は、無しとなっています。	general,restaurant,weather
+3269	4	USER	駐車場が無料で、料金が安めのお店はないでしょうか？	general,restaurant,weather
+3269	5	SYSTEM	では、海雲亭 洛西店はいかがでしょうか？	general,restaurant,weather
+3269	6	USER	なるほど。料金はいくらぐらいなんでしょうか？	general,restaurant,weather
+3269	7	SYSTEM	料金は、ほんわかランチ1980円、極上プレミアムコース　4500円、スタンダードコース2980円となっています。	general,restaurant,weather
+3269	8	USER	営業時間はどうなっていますか？	general,restaurant,weather
+3269	9	SYSTEM	営業時間は、11時30分から25時までとなっています。	general,restaurant,weather
+3269	10	USER	そうですか。あとWi-Fiがあるか知りたいんですが。	general,restaurant,weather
+3269	11	SYSTEM	申し訳ありません、Wi-Fiにつきましては、不明となっています。	general,restaurant,weather
+3269	12	USER	ありがとうございます。そちらのお店の予約をお願いします。	general,restaurant,weather
+3269	13	SYSTEM	では、ご希望の日時と人数をお知らせください。	general,restaurant,weather
+3269	14	USER	7月2日で4人、12：40でお願いします。	general,restaurant,weather
+3269	15	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant,weather
+3269	16	USER	では、時間を13：10に変更してください。	general,restaurant,weather
+3269	17	SYSTEM	予約出来ました。予約番号は、87022です。	general,restaurant,weather
+3269	18	USER	ありがとうございます。	general,restaurant,weather
+3269	19	SYSTEM	他にご用件はありますか？	general,restaurant,weather
+3269	20	USER	そうですね。当日7月2日の天候が知りたいです。	general,restaurant,weather
+3269	21	SYSTEM	京都のどこのエリアの天気をご希望ですか？	general,restaurant,weather
+3269	22	USER	山科区です。	general,restaurant,weather
+3269	23	SYSTEM	その日の天気は、曇の予報です。	general,restaurant,weather
+3269	24	USER	最低気温は何度でしょうか？	general,restaurant,weather
+3269	25	SYSTEM	最低気温は21.7度です。	general,restaurant,weather
+3269	26	USER	わかりました。ありがとうございます。	general,restaurant,weather
+3269	27	SYSTEM	他にご用件はありますか？	general,restaurant,weather
+3269	28	USER	いえ、大丈夫です。ありがとうございました。	general,restaurant,weather
+3269	29	SYSTEM	承知致しました。ありがとうございました。	general,restaurant,weather

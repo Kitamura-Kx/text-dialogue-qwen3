@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3290	0	USER	東京の江東区で、無料Wi-Fiが利用できる観光名所を探しています。	general,attraction
+3290	1	SYSTEM	江東区で無料WiFiのある観光名所はいくつかありますが、teamLab Planets TOKYO、こちらをお勧めします。	general,attraction
+3290	2	USER	そこの、子供の入場料と近くの駅からどのくらいかかるか、あと、定休日も教えて下さい。	general,attraction
+3290	3	SYSTEM	定休日はありません。新豊洲駅から徒歩で1分、その他豊洲駅から徒歩で10分、市場前駅から徒歩で5分になります。子供料金ですが、３歳以下は無料、小学生３００円、中高生は２０００円、大学生や専門学校生は２５００円となります。	general,attraction
+3290	4	USER	たくさん調べていただき、ありがとうございました。	general,attraction
+3290	5	SYSTEM	よい旅を	general,attraction

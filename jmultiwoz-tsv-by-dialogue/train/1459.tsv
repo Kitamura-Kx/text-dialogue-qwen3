@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1459	0	USER	京都へ旅行に行くんですが、買い物ができるところを探してください。	general,shopping
+1459	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping
+1459	2	USER	ショッピングモールに行きたいです！最寄り駅が今出川駅で、駐車場が無料のところでお願いします。	general,shopping
+1459	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping
+1459	4	USER	ではショッピングモールでなくても大丈夫です。	general,shopping
+1459	5	SYSTEM	では鶴屋𠮷信 本店はいかがでしょうか。	general,shopping
+1459	6	USER	エリアと店休日は分かりますか？	general,shopping
+1459	7	SYSTEM	エリアは上京区でございます。定休日は水曜日と１月１日でございます。	general,shopping
+1459	8	USER	ではそちらに行ってみます！ありがとうございました。	general,shopping
+1459	9	SYSTEM	承知しました。ありがとうございました。	general,shopping

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+84	0	USER	こんにちは。旅行の案内をお願いしたいのですが。	general,taxi,weather
+84	1	SYSTEM	こんにちは。ご旅行のご案内ですね。どういったことをお調べいたしましょうか？	general,taxi,weather
+84	2	USER	福岡に行こうと思っているのですが、当日利用できるタクシー会社を探していただけますか？ ジャンボタクシーが使えるところでお願いしたいです。	general,taxi,weather
+84	3	SYSTEM	かしこまりました。福岡でジャンボタクシーが使えるタクシー会社は20社ほどございます。他にご希望の条件などはありませんか？	general,taxi,weather
+84	4	USER	特にありません。	general,taxi,weather
+84	5	SYSTEM	では、ラッキー自動車（株）は、いかがでしょうか？	general,taxi,weather
+84	6	USER	わかりました。それでは、そちらのタクシー会社を利用しようと思います。予約を頼んでも大丈夫ですか？	general,taxi,weather
+84	7	SYSTEM	ありがとうございます。ご予約の日にちと出発時刻、出発地、目的地はお決まりでしょうか？	general,taxi,weather
+84	8	USER	はい、7月5日、14時でお願いしたいです。 出発地はTHE LIVELY 博多福岡、目的地はげすとはうす中今で予約をお願いします。	general,taxi,weather
+84	9	SYSTEM	かしこまりました。7月5日14時、THE LIVELY 博多福岡発、げすとはうす中今着でご予約承りました。予約番号をお伝えしてもよろしいですか？	general,taxi,weather
+84	10	USER	お願いします。	general,taxi,weather
+84	11	SYSTEM	ありがとうございます。ご予約番号は、1070となります。お手元にお控えくださいませ。	general,taxi,weather
+84	12	USER	ありがとうございます！しっかり控えました。 あと、当日の天候も調べていただきたいのですが、可能ですか？	general,taxi,weather
+84	13	SYSTEM	はい、お調べいたします。福岡のどちらのエリアの天候をご案内いたしましょうか？	general,taxi,weather
+84	14	USER	7月5日の西区の天候について教えてください。	general,taxi,weather
+84	15	SYSTEM	ありがとうございます。7月5日の福岡、西区の天気は曇りの予報です。最高気温は30.7度まで上がる予想です。	general,taxi,weather
+84	16	USER	そうなんですね。ありがとうございます！ ちなみに、最低気温はいくつになりますか？	general,taxi,weather
+84	17	SYSTEM	はい。最低気温のほうは、27.7度の予報となっております。	general,taxi,weather
+84	18	USER	ありがとうございます。ご案内いただき、助かりました。	general,taxi,weather
+84	19	SYSTEM	こちらこそ、お役に立てて光栄です。ほかにも何か、お手伝いできることはありませんでしょうか？	general,taxi,weather
+84	20	USER	いえ、大丈夫です。本日はありがとうございました！	general,taxi,weather
+84	21	SYSTEM	こちらこそ、本日はご利用いただき、誠にありがとうございました。また何かございましたら、お気軽にお問い合わせくださいませ。	general,taxi,weather

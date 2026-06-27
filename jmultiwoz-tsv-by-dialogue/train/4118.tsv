@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4118	0	USER	福岡で駐車場とwifiが無料でつかえる焼肉やホルモンのお店はありますか	general,restaurant
+4118	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,restaurant
+4118	2	USER	ではwifi以外の条件に当てはまるお店はありますか	general,restaurant
+4118	3	SYSTEM	では焼肉 曺苑がございます。	general,restaurant
+4118	4	USER	どのエリアですか	general,restaurant
+4118	5	SYSTEM	エリアは東区でございます。	general,restaurant
+4118	6	USER		general,restaurant

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2272	0	USER	東京へ旅行に行くのですが、Wi-Fiが無料で利用できて、レストラン併設の宿泊施設はありますか？	general,hotel
+2272	1	SYSTEM	WiFi無料でレストラン併設の宿泊施設は東京には１８件あります	general,hotel
+2272	2	USER	安めのところもありますか？	general,hotel
+2272	3	SYSTEM	値段が安めの条件を追加すると、残念ながら１件もヒットしません。	general,hotel
+2272	4	USER	そうですか。じゃあWi-Fiはなくてもいいです。	general,hotel
+2272	5	SYSTEM	値段が安めでレストラン併設となれば、ビジネスホテル山百合、これ一択です。	general,hotel
+2272	6	USER	そうなんですね。そこはチェックアウト終了時刻は何時ですか？	general,hotel
+2272	7	SYSTEM	朝１０時になります。	general,hotel
+2272	8	USER	わかりました。じゃあそこにしようと思うので、予約をお願いします。3/26から３泊で２名です。	general,hotel
+2272	9	SYSTEM	その条件だと予約に失敗してしまいました。	general,hotel
+2272	10	USER	わかりました。じゃあ２名に変更してもらえますか？	general,hotel
+2272	11	SYSTEM	元々２名で予約しようとしました。	general,hotel
+2272	12	USER	あ、まちがえました。２泊に変更でお願いします。	general,hotel
+2272	13	SYSTEM	２泊なら予約できました。予約番号は15556です。	general,hotel
+2272	14	USER	ありがとうございました。以上で結構です。	general,hotel
+2272	15	SYSTEM	良い旅を	general,hotel

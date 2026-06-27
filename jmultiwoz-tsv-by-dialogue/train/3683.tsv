@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3683	0	USER	こんにちは。今度名古屋に行くのですが、どこか観光できるところを探しています。	general,attraction,restaurant,shopping
+3683	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction,restaurant,shopping
+3683	2	USER	ジャンルは自然・公園で、最寄り駅が今池駅のところだと嬉しいです。	general,attraction,restaurant,shopping
+3683	3	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction,restaurant,shopping
+3683	4	USER	では、最寄り駅は特にこだわりません。	general,attraction,restaurant,shopping
+3683	5	SYSTEM	かしこまりました。では、荒子川公園はいかがでしょうか？	general,attraction,restaurant,shopping
+3683	6	USER	いいですね、そこに行ってみます。定休日と、近くの駅からの所要時間は分かりますか？	general,attraction,restaurant,shopping
+3683	7	SYSTEM	はい。定休日はありません。また、荒子川公園駅から徒歩で3分となっております。	general,attraction,restaurant,shopping
+3683	8	USER	ありがとうございます。当日の飲食店も探しています。中村区で、鍋が食べられるところはありますか？	general,attraction,restaurant,shopping
+3683	9	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,attraction,restaurant,shopping
+3683	10	USER	では、食事のジャンルは特にこだわりません。	general,attraction,restaurant,shopping
+3683	11	SYSTEM	かしこまりました。では、加賀屋 名古屋店はいかがでしょうか？	general,attraction,restaurant,shopping
+3683	12	USER	いいですね、そこに行ってみます。住所と最寄り駅が知りたいです。	general,attraction,restaurant,shopping
+3683	13	SYSTEM	はい。住所は愛知県名古屋市中村区名駅1丁目1-4 JRセントラルタワーズ 13階です。また、最寄り駅は名古屋駅になります。	general,attraction,restaurant,shopping
+3683	14	USER	分かりました。では、2/14の12:50で、４名予約をお願いできますでしょうか？	general,attraction,restaurant,shopping
+3683	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、30790 です。	general,attraction,restaurant,shopping
+3683	16	USER	ありがとうございます。最後に一点、当日買い物をしたいのですが、最寄り駅が矢場町駅のところで、おもちゃが買えるところはありますか？駐車場が無料だと助かります。	general,attraction,restaurant,shopping
+3683	17	SYSTEM	かしこまりました。では、ポケモンセンターナゴヤはいかがでしょうか？	general,attraction,restaurant,shopping
+3683	18	USER	そこに行ってみます。エリアと、近くの駅からの所要時間を教えていただけますか？	general,attraction,restaurant,shopping
+3683	19	SYSTEM	はい。エリアは中区です。また、矢場町駅から徒歩で1分、栄駅から徒歩で5分です。あと、栄町駅から徒歩で8分となっております。	general,attraction,restaurant,shopping
+3683	20	USER	分かりました。沢山ありがとうございました。以上です。	general,attraction,restaurant,shopping
+3683	21	SYSTEM	承知しました。こちらこそありがとうございました。	general,attraction,restaurant,shopping

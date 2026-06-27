@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1052	0	USER	今度、京都へ行く予定ですが、東山区で観光名所を探しています。いい所はありますか？	general,attraction
+1052	1	SYSTEM	そうしますと3件ご案内可能です。他にご希望条件がないようでしたら、安井金比羅宮はいかがでしょうか？	general,attraction
+1052	2	USER	できれば、美術館・博物館がいいのですが、どうですか？	general,attraction
+1052	3	SYSTEM	大変申し訳ございません。美術館・博物館ですと、ご案内できるところが見つかりませんでした。	general,attraction
+1052	4	USER	分かりました。それでは、東山区以外で美術館・博物館を教えてください。	general,attraction
+1052	5	SYSTEM	かしこまりました。では、古典の日記念 京都市平安京創生館はいかがでしょうか？エリアは、中京区となります。	general,attraction
+1052	6	USER	そこにします。大人の入場料を教えて下さい。それとWi-Fiはありますか？	general,attraction
+1052	7	SYSTEM	大人もお子様も入場料は0円で、無料でございます。WiFiの有無に関しましては、不明となっております。申し訳ありません。	general,attraction
+1052	8	USER	大丈夫です。最後に古典の日記念 京都市平安京創生館は近くの駅からどれくらいかかりますか？	general,attraction
+1052	9	SYSTEM	最寄りの円町駅から徒歩で10分、そのほか、円町駅からバスで5分、二条駅からバスで8分、大宮駅からバスで10分、京都駅からバスで20分といった行き方がございます。	general,attraction
+1052	10	USER	色々行き方があるのですね。参考にします。ありがとうございました。失礼します。	general,attraction

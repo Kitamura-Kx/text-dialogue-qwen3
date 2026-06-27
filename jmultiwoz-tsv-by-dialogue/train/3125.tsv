@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3125	0	USER	仙台に旅行へ行くので安めのビジネスホテルでレストランが併設されているところを探してほしいです	general,hotel,weather
+3125	1	SYSTEM	かしこまりました。他にご希望の条件などないようでしたら、キャッスルイン仙台はいかがでしょうか？	general,hotel,weather
+3125	2	USER	OKです。11/7に二名で二泊予約してもらえますか？	general,hotel,weather
+3125	3	SYSTEM	かしこまりました。予約番号、11720にて、ご予約完了いたしました。	general,hotel,weather
+3125	4	USER	ありがとうございます。あと11/7の太白区の天気を教えてください	general,hotel,weather
+3125	5	SYSTEM	かしこまりました。当日の天気は、曇の予報です。最低気温は2.7度、最高気温は11度の予想となっております。	general,hotel,weather
+3125	6	USER	了解です。ありがとうございました！	general,hotel,weather
+3125	7	SYSTEM	ほかに何かお調べすることはございませんか？	general,hotel,weather
+3125	8	USER	大丈夫です。ありがとうございました	general,hotel,weather
+3125	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,weather

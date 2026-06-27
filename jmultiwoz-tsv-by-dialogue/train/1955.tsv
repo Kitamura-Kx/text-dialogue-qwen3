@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1955	0	USER	福岡に旅行に行こうと思っています。当日食事ができる飲食店を教えてください。	general,restaurant,weather
+1955	1	SYSTEM	かしこまりました。福岡ですと108件ほどございますが、何か拘りなどありますでしょうか？	general,restaurant,weather
+1955	2	USER	無料で駐車場が利用できて、予算は普通Wi-Fiが無料で使えるところが良いです。	general,restaurant,weather
+1955	3	SYSTEM	かしこまりました。それではレカイエ オイスターバー JR博多シティ店はいかがでしょうか？	general,restaurant,weather
+1955	4	USER	そこが良さそうです。そこのジャンルと定休日を教えてください。	general,restaurant,weather
+1955	5	SYSTEM	こちらはジャンルは寿司・魚料理、定休日はございません。	general,restaurant,weather
+1955	6	USER	あと当日8/9の中央区の最高気温と最低気温を教えてください。	general,restaurant,weather
+1955	7	SYSTEM	はい、当日は最高気温が30.1度、最低気温が24.7度の予報となっております。	general,restaurant,weather
+1955	8	USER	分かりました。ありがとうございます。	general,restaurant,weather
+1955	9	SYSTEM	他に何かご用件はございますか？	general,restaurant,weather
+1955	10	USER	大丈夫です。ありがとうございました。	general,restaurant,weather
+1955	11	SYSTEM	かしこまりました。ありがとうございました。	general,restaurant,weather

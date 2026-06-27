@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4856	0	USER	大阪へ旅行したいのですが、ジャンルがコンサートとかショーで観光名所があれば教えてください。駐車場が無料のところがいいです。	general,attraction,taxi
+4856	1	SYSTEM	大阪で駐車場無料のコンサート・ショー施設はありません。	general,attraction,taxi
+4856	2	USER	では、そのジャンルはなしでいいので、観光名所で駐車場無料のところを教えてください。	general,attraction,taxi
+4856	3	SYSTEM	大阪で駐車場無料の観光名所は３箇所あります。オススメは、大阪天満宮、こちらになります。	general,attraction,taxi
+4856	4	USER	では、当日タクシーを利用したいです。ジャンボタクシーを利用できるタクシー会社はありますか？	general,attraction,taxi
+4856	5	SYSTEM	はい、株式会社未来都をおすすめします。	general,attraction,taxi
+4856	6	USER	電話番号を教えてください。	general,attraction,taxi
+4856	7	SYSTEM	0669060088です。	general,attraction,taxi
+4856	8	USER	10月5日の10時４０に予約をお願いします。	general,attraction,taxi
+4856	9	SYSTEM	出発地と目的地をお願いします。	general,attraction,taxi
+4856	10	USER	大阪天満宮から焼肉マル 北新地店までです。	general,attraction,taxi
+4856	11	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,attraction,taxi
+4856	12	USER	では、時間を11時40分に変更してもらえますか？	general,attraction,taxi
+4856	13	SYSTEM	それなら予約成功しました。予約番号は31445です。	general,attraction,taxi
+4856	14	USER	よかった、ありがとうございました。	general,attraction,taxi
+4856	15	SYSTEM	よい旅を	general,attraction,taxi

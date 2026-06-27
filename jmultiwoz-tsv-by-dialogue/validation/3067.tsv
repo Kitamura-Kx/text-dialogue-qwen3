@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3067	0	USER	今度、福岡へ行くので、泊まる所を探しています。無料Wi-Fiがある旅館を教えてください。	general,hotel,restaurant,shopping
+3067	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,restaurant,shopping
+3067	2	USER	そうですか。では、旅館以外でしたらありますか？	general,hotel,restaurant,shopping
+3067	3	SYSTEM	かしこまりました。では、グランド ハイアット 福岡はいかがでしょうか？	general,hotel,restaurant,shopping
+3067	4	USER	良さそうですね。そこの電話番号を教えて下さい。	general,hotel,restaurant,shopping
+3067	5	SYSTEM	はい。電話番号は0922821234です。	general,hotel,restaurant,shopping
+3067	6	USER	ありがとうございます。最寄り駅と、料金情報も教えて下さい。	general,hotel,restaurant,shopping
+3067	7	SYSTEM	はい。最寄り駅は博多駅です。また、料金情報としては、値段が高めという情報しかございません。申し訳ありません。	general,hotel,restaurant,shopping
+3067	8	USER	いえ、大丈夫です。予約をお願いします。5月23日から4泊、2名でお願いします。	general,hotel,restaurant,shopping
+3067	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、57927です。	general,hotel,restaurant,shopping
+3067	10	USER	ありがとうございます。同じ日に居酒屋で食事を考えています。無料Wi-Fiがあるお店を教えて下さい。	general,hotel,restaurant,shopping
+3067	11	SYSTEM	かしこまりました。では、古民家居酒屋こまちはいかがでしょうか？	general,hotel,restaurant,shopping
+3067	12	USER	行ってみたいです。電話番号を教えて下さい。	general,hotel,restaurant,shopping
+3067	13	SYSTEM	はい。電話番号は0927103101です。	general,hotel,restaurant,shopping
+3067	14	USER	営業時間と最寄り駅も教えて下さい。	general,hotel,restaurant,shopping
+3067	15	SYSTEM	はい。営業時間は17:00～23:00で、最寄り駅は大橋駅になります。	general,hotel,restaurant,shopping
+3067	16	USER	ありがとうございます。それでは、5月23日の15時から3名で予約をお願いします。	general,hotel,restaurant,shopping
+3067	17	SYSTEM	3名でしたら、予約はとれませんでした。いかがいたしましょうか。	general,hotel,restaurant,shopping
+3067	18	USER	それでは、3名で15時50分に変更してみて下さい。	general,hotel,restaurant,shopping
+3067	19	SYSTEM	かしこまりました。ご予約承りました。予約番号は、48361です。	general,hotel,restaurant,shopping
+3067	20	USER	ありがとうございました。今度は、香椎神宮駅近くで医薬品・化粧品の買いものをしたいのですが、どこかありますか？	general,hotel,restaurant,shopping
+3067	21	SYSTEM	かしこまりました。では、ドラッグストアモリ 香椎宮前店はいかがでしょうか？	general,hotel,restaurant,shopping
+3067	22	USER	無料駐車場がある所がいいんですが、そちらはどうですか？	general,hotel,restaurant,shopping
+3067	23	SYSTEM	はい、ございますよ。	general,hotel,restaurant,shopping
+3067	24	USER	良かったです。ありがとうございました。助かりました。それでは失礼します。	general,hotel,restaurant,shopping

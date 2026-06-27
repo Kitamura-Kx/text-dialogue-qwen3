@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+685	0	USER	福岡へ行こうと思っています。予算が普通の洋食か西洋料理が食べられる飲食店を探していただきたいです。	general,restaurant,hotel
+685	1	SYSTEM	承知しました。では、今泉バル コミーダベビーダはいかがでしょう？エリアは中央区、最寄りの西鉄福岡（天神）駅から徒歩で3分となります。Wi-Fiが無料でご利用いただけます。	general,restaurant,hotel
+685	2	USER	そちらの料金について教えていただけますでしょうか。	general,restaurant,hotel
+685	3	SYSTEM	はい、一例として、スペアリブのグリルが850円、ブイヤベースが1680円、パエリアが1680円となります。	general,restaurant,hotel
+685	4	USER	では、10月25日11時30分から3人で予約をお願いします。	general,restaurant,hotel
+685	5	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,restaurant,hotel
+685	6	USER	時間を12時10分に変更して予約をお願いします。	general,restaurant,hotel
+685	7	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、56535となります。	general,restaurant,hotel
+685	8	USER	わかりました。ありがとうございます。	general,restaurant,hotel
+685	9	SYSTEM	他にご用件はございますか？	general,restaurant,hotel
+685	10	USER	レストランが併設されている宿泊施設を探していただきたいです。	general,restaurant,hotel
+685	11	SYSTEM	承知しました。他にご希望はございますか？	general,restaurant,hotel
+685	12	USER	いいえ、特に希望はありません。	general,restaurant,hotel
+685	13	SYSTEM	では、エスペリアホテル博多はいかがでしょう？タイプはビジネスホテル、エリアは博多区、値段帯は安め、最寄りの博多駅から徒歩で4分となります。Wi-Fiは無料でご利用いただけます。駐車場はございますが、有料となります。チェックイン開始時刻は15時、チェックアウト終了時刻は11時です。住所は福岡県福岡市博多区博多駅前2丁目11-4、電話番号は福岡県福岡市博多区博多駅前2丁目11-4となります。	general,restaurant,hotel
+685	14	USER	では、10月25日から4泊4人で予約をお願いします。	general,restaurant,hotel
+685	15	SYSTEM	承知しました。予約が完了し、ご予約番号は、84610となります。	general,restaurant,hotel
+685	16	USER	わかりました。ありがとうございます。	general,restaurant,hotel
+685	17	SYSTEM	他にご用件はございますか？	general,restaurant,hotel
+685	18	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant,hotel

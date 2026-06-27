@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3522	0	USER	大阪への旅行を考えていて、今宿泊施設を探しています。	general,hotel
+3522	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel
+3522	2	USER	ユニバーサルシティ駅の近くでレストランが併設されているところがいいです。	general,hotel
+3522	3	SYSTEM	ではホテルユニバーサルポートはいかがでしょうか。	general,hotel
+3522	4	USER	いいですね。値段帯を教えてください。	general,hotel
+3522	5	SYSTEM	値段帯は安めでございます。	general,hotel
+3522	6	USER	では6/10、3泊で2人なんですが、予約お願いします。	general,hotel
+3522	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は79729でございます。	general,hotel
+3522	8	USER	ありがとうございます。	general,hotel
+3522	9	SYSTEM	ほかにご用件はございませんか。	general,hotel
+3522	10	USER	特にありません。	general,hotel
+3522	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

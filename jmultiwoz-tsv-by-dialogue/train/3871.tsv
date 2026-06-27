@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3871	0	USER	福岡へ行くのですが、南福岡駅が最寄りの宿泊施設を探してもらえますか。無料駐車場のあるところが希望です。	general,hotel,shopping,taxi
+3871	1	SYSTEM	かしこまりました。その条件でしたら、HOTEL AZ 福岡金の隈店がございます。	general,hotel,shopping,taxi
+3871	2	USER	そちらは城南区エリアでしょうか？	general,hotel,shopping,taxi
+3871	3	SYSTEM	エリアは博多区でございます。	general,hotel,shopping,taxi
+3871	4	USER	城南区にはありませんか？	general,hotel,shopping,taxi
+3871	5	SYSTEM	申し訳ございません。城南区にはございません。	general,hotel,shopping,taxi
+3871	6	USER	わかりました。では、HOTEL AZ 福岡金の隈店の値段帯と電話番号をおしえてもらえますか。	general,hotel,shopping,taxi
+3871	7	SYSTEM	値段帯は安め、電話番号は0925133301でございます。	general,hotel,shopping,taxi
+3871	8	USER	ありがとうございます。ありがとうございます。ではそこの予約をお願いできますか？10/13から３泊で３名です。	general,hotel,shopping,taxi
+3871	9	SYSTEM	申し訳ございません。その条件ですと予約が出来ませんでした。	general,hotel,shopping,taxi
+3871	10	USER	そうですか。では２名に変更してください。	general,hotel,shopping,taxi
+3871	11	SYSTEM	お待たせ致しました。それでは予約番号50971でお取りさせていただきました。	general,hotel,shopping,taxi
+3871	12	USER	ありがとうございます。あと、無料駐車場があってファッション系の買い物ができる施設を探してもらえますか？	general,hotel,shopping,taxi
+3871	13	SYSTEM	お待たせ致しました。それでは、ヨドバシ博多はいかがでしょうか？	general,hotel,shopping,taxi
+3871	14	USER	ありがとうございます。ではそこの電話番号と近辺の駅からの所要時間も教えてください。	general,hotel,shopping,taxi
+3871	15	SYSTEM	電話番号は0924711010です。近辺の駅からは、博多駅から徒歩で1分でございます。	general,hotel,shopping,taxi
+3871	16	USER	ありがとうございます。それから、キャッシュレス払いが利用できるタクシー会社を探してもらえますか？	general,hotel,shopping,taxi
+3871	17	SYSTEM	承知いたしました。それでは（有）福運タクシーがございます。	general,hotel,shopping,taxi
+3871	18	USER	ありがとうございます。ではそこの予約をお願いできますか？10/13の15：50に、HOTEL AZ 福岡金の隈店を出発してヨドバシ博多まで利用したいです。	general,hotel,shopping,taxi
+3871	19	SYSTEM	お待たせ致しました。予約番号83856でお取りさせていただきました。	general,hotel,shopping,taxi
+3871	20	USER	ありがとうございました。以上で結構です。	general,hotel,shopping,taxi
+3871	21	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,shopping,taxi

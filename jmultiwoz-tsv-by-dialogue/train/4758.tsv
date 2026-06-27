@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4758	0	USER	横浜へ旅行予定です。観光名所を探してもらえますか？Wi-Fiと駐車場が無料のところがいいです。	general,attraction,hotel,weather
+4758	1	SYSTEM	承知しました。エリアでいうと中区にある、カップヌードルミュージアム 横浜はいかがでしょう？ジャンルは、美術館、博物館、工場見学となります。	general,attraction,hotel,weather
+4758	2	USER	そこにします。電話番号を教えてください。	general,attraction,hotel,weather
+4758	3	SYSTEM	はい、電話番号は0453450825となります。	general,attraction,hotel,weather
+4758	4	USER	了解です。あと安めの宿泊施設を調べてほしいです。レストランがあって、無料駐車場が使えるとうれしいのですが。	general,attraction,hotel,weather
+4758	5	SYSTEM	承知しました。エリアでいうと南区にある、旅館 松島はいかがでしょう？タイプは旅館となります。	general,attraction,hotel,weather
+4758	6	USER	そこにします。料金情報と最寄り駅を教えてください。	general,attraction,hotel,weather
+4758	7	SYSTEM	はい、最寄りの蒔田駅から徒歩で3分となります。申し訳ありません、ご案内可能な料金情報はございません。	general,attraction,hotel,weather
+4758	8	USER	了解です。では、3人で7/23から4泊の予約をお願いできますか？	general,attraction,hotel,weather
+4758	9	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,attraction,hotel,weather
+4758	10	USER	そうですか。なら、人数を2人にしてください。	general,attraction,hotel,weather
+4758	11	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、69613となります。	general,attraction,hotel,weather
+4758	12	USER	ありがとうございます。あと、港南区の7/23の天気ってわかります？	general,attraction,hotel,weather
+4758	13	SYSTEM	はい、天気は雨時々曇、最低気温18.2度、最高気温26.7度となります。	general,attraction,hotel,weather
+4758	14	USER	わかりました。いろいろとありがとうございます。	general,attraction,hotel,weather
+4758	15	SYSTEM	ありがとうございました。	general,attraction,hotel,weather

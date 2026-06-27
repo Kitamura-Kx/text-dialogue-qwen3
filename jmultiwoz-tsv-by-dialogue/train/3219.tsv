@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3219	0	USER	大阪に旅行に行くので駐車場を無料で利用できる飲食店を探してほしいのですが	general,restaurant
+3219	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant
+3219	2	USER	じゃあ、駐車場はなくてもいいです	general,restaurant
+3219	3	SYSTEM	かしこまりました。では、げん家 福ろうじ店はいかがですか？	general,restaurant
+3219	4	USER	住所と営業時間を教えて貰えますか？	general,restaurant
+3219	5	SYSTEM	はい、住所は大阪府大阪市福島区福島7丁目11-51北49 2F 福ろうじ商店街で、営業時間は16:00～21:00となっております。	general,restaurant
+3219	6	USER	了解です、ありがとうございます	general,restaurant
+3219	7	SYSTEM	他にご用件はございますか？	general,restaurant
+3219	8	USER	ないです。ありがとうございました	general,restaurant
+3219	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

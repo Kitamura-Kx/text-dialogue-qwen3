@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+555	0	USER	札幌への旅行を考えているのですが、買い物できるところを調べてください。	general,shopping,hotel,weather
+555	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,hotel,weather
+555	2	USER	東区の食料品店で、駐車場を無料で利用できるところがいいです。	general,shopping,hotel,weather
+555	3	SYSTEM	その条件ですと、トイザらス・ベビーザらス札幌店はいかがでしょうか。	general,shopping,hotel,weather
+555	4	USER	そこでいいです。住所を教えてくれますか？	general,shopping,hotel,weather
+555	5	SYSTEM	住所は北海道札幌市東区北7条東9丁目2-20 アリオ札幌 2Fでございます。	general,shopping,hotel,weather
+555	6	USER	わかりました。宿泊施設も探してまして、旅館でレストランが併設されているところを教えてください。	general,shopping,hotel,weather
+555	7	SYSTEM	では定山渓温泉 ぬくもりの宿 ふる川はいかがですか。	general,shopping,hotel,weather
+555	8	USER	そちらでお願いします。電話番号と駐車場の有無を教えてくれますか？あと、チェックイン開始時刻も知りたいです。	general,shopping,hotel,weather
+555	9	SYSTEM	電話番号は0115982345でございます。駐車場は無料でご利用いただけます。チェックイン開始時刻は15:00でございます。	general,shopping,hotel,weather
+555	10	USER	わかりました。8月10日から二人で4泊で予約したいです。	general,shopping,hotel,weather
+555	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は90380でございます。	general,shopping,hotel,weather
+555	12	USER	ありがとうございます。当日8月10日の南区の天気を知りたいです。	general,shopping,hotel,weather
+555	13	SYSTEM	天気は曇、最低気温が14.8度で最高気温が25.7度でございます。	general,shopping,hotel,weather
+555	14	USER	わかりました。ありがとうございます。	general,shopping,hotel,weather
+555	15	SYSTEM	ほかにご用件はございませんか。	general,shopping,hotel,weather
+555	16	USER	大丈夫です。ありがとうございました。	general,shopping,hotel,weather
+555	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,weather

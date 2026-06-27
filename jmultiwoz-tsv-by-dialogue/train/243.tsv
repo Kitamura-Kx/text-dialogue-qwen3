@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+243	0	USER	札幌のクラーク博士像へ行きたいと思っているので、営業時間を調べていただけますか？	general,attraction,weather
+243	1	SYSTEM	かしこまりました。営業時間は09:00～17:00となっております。	general,attraction,weather
+243	2	USER	Wi-Fiの有無はわかりますか？	general,attraction,weather
+243	3	SYSTEM	無料のWi-Fiがございます。	general,attraction,weather
+243	4	USER	ありがとうございます。あと3/13の清田区の天気を調べていただけますか？	general,attraction,weather
+243	5	SYSTEM	天気は曇時々晴でございます。	general,attraction,weather
+243	6	USER	ありがとうございます。	general,attraction,weather
+243	7	SYSTEM	ほかにご用件はございますか。	general,attraction,weather
+243	8	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,weather
+243	9	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

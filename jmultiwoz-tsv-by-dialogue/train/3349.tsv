@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3349	0	USER	名古屋への旅行を計画中で、飲食店を探しています。	general,restaurant,hotel
+3349	1	SYSTEM	97件ご紹介できます。	general,restaurant,hotel
+3349	2	USER	ありがとうございます。予算は高すぎず普通で、無料の駐車場が利用できるお店が良いです。	general,restaurant,hotel
+3349	3	SYSTEM	すみません。ご紹介できるお店がございません。	general,restaurant,hotel
+3349	4	USER	分かりました。それでは、有料駐車場でも構いません。	general,restaurant,hotel
+3349	5	SYSTEM	6件ご紹介できます。金沢まいもん寿司 梅鉢亭、ヒモノ照ラス 名古屋PARCO店、しゃぶしゃぶ 山笑ふ 名古屋ラシック店、ルバーブ 大名古屋ビルヂング店 広小路キッチンマツヤ、ヴィレッジヴァンガードダイナー イオンモール大高店です。	general,restaurant,hotel
+3349	6	USER	金沢まいもん寿司 梅鉢亭にしようと思います。ジャンルと営業時間を教えてください。	general,restaurant,hotel
+3349	7	SYSTEM	ジャンルは寿司・魚料理, 和食, 居酒屋、営業時間は11:00～22:00です。	general,restaurant,hotel
+3349	8	USER	ありがとうございます。当日予算が普通の宿泊施設を利用したいのですが。	general,restaurant,hotel
+3349	9	SYSTEM	6件の宿泊施設をご紹介できます。Show和の宿つちや、 SAMURAI HOUSE、 SakurA、 HOTEL 和紡、 レゴランド・ジャパン・ホテル、 菊の屋 はなれ、です。	general,restaurant,hotel
+3349	10	USER	ありがとうございます。無料駐車場があり、レストランが併設されている施設はありますか？	general,restaurant,hotel
+3349	11	SYSTEM	すみません。ございません。	general,restaurant,hotel
+3349	12	USER	分かりました。では、駐車場は無くても構いません。	general,restaurant,hotel
+3349	13	SYSTEM	レゴランド・ジャパン・ホテルがございます	general,restaurant,hotel
+3349	14	USER	ありがとうございます。電話番号は分かりますか？	general,restaurant,hotel
+3349	15	SYSTEM	05058400505です。	general,restaurant,hotel
+3349	16	USER	助かりました。ありがとうございます。	general,restaurant,hotel
+3349	17	SYSTEM	とんでもないです。	general,restaurant,hotel
+3349	18	USER	ありがとうございました。それでは、失礼します。	general,restaurant,hotel

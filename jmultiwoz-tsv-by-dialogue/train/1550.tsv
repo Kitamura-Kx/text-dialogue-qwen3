@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1550	0	USER	東京の簡易宿所を探してください。レストランが併設されているところを希望します。	general,hotel,shopping
+1550	1	SYSTEM	それでしたら、MyCUBE by MYSTAYS浅草蔵前はいかがでしょうか？	general,hotel,shopping
+1550	2	USER	近辺の駅からの所要時間はわかりますか？	general,hotel,shopping
+1550	3	SYSTEM	近辺の駅からの所要時間は、蔵前駅から徒歩で1分、浅草駅から徒歩で15分となっております。	general,hotel,shopping
+1550	4	USER	いいですね。ちなみにチェックアウト終了時刻は何時でしょうか？	general,hotel,shopping
+1550	5	SYSTEM	チェックアウト終了時間は、10時となっております。	general,hotel,shopping
+1550	6	USER	わかりました。当日買い物もしたいのですが、港区で食料品が買えるところってどこかありますか？	general,hotel,shopping
+1550	7	SYSTEM	奈良まほろば館は、いかがですか？	general,hotel,shopping
+1550	8	USER	よさそう。では、そちらの電話番号を教えてもらえますか？	general,hotel,shopping
+1550	9	SYSTEM	電話番号は、0362639656です。	general,hotel,shopping
+1550	10	USER	わかりました！いろいろ教えてくれてありがとう。	general,hotel,shopping

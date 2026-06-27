@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1620	0	USER	名古屋に旅行に行く計画をしているので、宿泊先を案内してもらえますか。	general,hotel,weather
+1620	1	SYSTEM	承知しました。豪華カプセルホテル安心お宿プレミア名古屋栄店はいかがでしょうか？	general,hotel,weather
+1620	2	USER	無料の駐車場つきで、中村区で探して欲しいのですが、豪華カプセルホテル安心お宿プレミア名古屋栄店はどうでしょうか。	general,hotel,weather
+1620	3	SYSTEM	豪華カプセルホテル安心お宿プレミア名古屋栄店は有料の駐車場となり、愛知県名古屋市中区のホテルとなります。	general,hotel,weather
+1620	4	USER	すいません、それでは中村区で探し直していただけませんか。	general,hotel,weather
+1620	5	SYSTEM	承知しました。SAMURAI HOUSEはいかがでしょうか？	general,hotel,weather
+1620	6	USER	ありがとうございます。こちらは駐車場は無料ですよね？SAMURAI HOUSEは何時からチェックインできるかも知りたいです。	general,hotel,weather
+1620	7	SYSTEM	駐車場は無料となります。チェックインは15:00より可能となります。	general,hotel,weather
+1620	8	USER	分かりました、ではこのホテルで予約をお願いできますか。	general,hotel,weather
+1620	9	SYSTEM	承知しました。ご希望の日時、人数、宿泊数をお願いします。	general,hotel,weather
+1620	10	USER	はい、6/17から3泊でお願いします。人数は2人です。	general,hotel,weather
+1620	11	SYSTEM	予約が完了しました。予約番号は50073です。	general,hotel,weather
+1620	12	USER	ありがとうございます。それと、6/17の港区の天候も気になります。最低気温、最高気温は何度くらいの予報でしょうか？	general,hotel,weather
+1620	13	SYSTEM	６/17の港区の天候は雨となり、最低気温は18.1度最高気温は25.1度となります。	general,hotel,weather
+1620	14	USER	そうなんですね、分かりました。	general,hotel,weather
+1620	15	SYSTEM	他にご用件はありますか？	general,hotel,weather
+1620	16	USER	いいえ、これで全てです。ありがとうございます。	general,hotel,weather
+1620	17	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

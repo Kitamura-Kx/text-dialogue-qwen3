@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4737	0	USER	名古屋でWi-Fiが無料で利用できる飲食店を探しているのですが	general,restaurant
+4737	1	SYSTEM	承知しました。では、エリアでいうと中区にある、すしざんまい 名古屋錦店はいかがでしょう？ジャンルは、寿司、魚料理、和食となります。	general,restaurant
+4737	2	USER	ではそちらから付近の駅からの所有時間と最寄り駅を聞きたいのですが	general,restaurant
+4737	3	SYSTEM	はい、最寄りの栄駅から徒歩で3分となります。	general,restaurant
+4737	4	USER	以上で終わります	general,restaurant

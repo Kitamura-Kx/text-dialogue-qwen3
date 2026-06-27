@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+288	0	USER	こんにちは！仙台旅行に行きたいと考えているんです。	general,taxi
+288	1	SYSTEM	かしこまりました。何かお知りになりたい情報がございますか。	general,taxi
+288	2	USER	仙台で使うタクシーを探しています。できればキャッシュレス払いができて、ジャンボタクシーが利用できる会社だと嬉しいのですが。	general,taxi
+288	3	SYSTEM	はい。仙台タクシーグループがございます。	general,taxi
+288	4	USER	仙台タクシーグループさんの電話番号ってわかりますか？	general,taxi
+288	5	SYSTEM	電話番号は0570061616でございます。	general,taxi
+288	6	USER	ありがとうございます！ではこちらの会社で予約をお願いします。	general,taxi
+288	7	SYSTEM	かしこまりました。ではご希望の日時と出発地、目的地を教えていただけますか。	general,taxi
+288	8	USER	11/3の13:40、HMV仙台 E BeanSから桂花苑までお願いします。	general,taxi
+288	9	SYSTEM	申し訳ございません。その条件ですと予約ができませんでした。いかがなさいますか。	general,taxi
+288	10	USER	時間を14:20に変更したら、予約は取れそうですか？	general,taxi
+288	11	SYSTEM	その時間ですと予約可能でございます。予約番号は45602でございます。	general,taxi
+288	12	USER	ご予約して下さりありがとうございました。	general,taxi

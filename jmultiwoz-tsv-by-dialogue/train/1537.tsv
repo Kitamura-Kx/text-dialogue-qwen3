@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1537	0	USER	名古屋への旅行を考えているのですが、最寄りが名古屋駅でレストランが併設されている宿泊施設を調べてください。	general,hotel
+1537	1	SYSTEM	では名古屋栄 紀州鉄道グループはいかがですか。	general,hotel
+1537	2	USER	そこにします。タイプと値段帯を知りたいです。あと駐車場があるかどうかも教えてください。	general,hotel
+1537	3	SYSTEM	タイプはビジネスホテルで、値段帯は安めでございます。駐車場は有料ですがございます。	general,hotel
+1537	4	USER	わかりました。3人で6/11から4泊で予約をお願いします。	general,hotel
+1537	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は41916でございます。	general,hotel
+1537	6	USER	ありがとうございます！	general,hotel
+1537	7	SYSTEM	ほかにご用件はございますか。	general,hotel
+1537	8	USER	いえ、もう大丈夫です。	general,hotel
+1537	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

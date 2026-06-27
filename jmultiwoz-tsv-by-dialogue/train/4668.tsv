@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4668	0	USER	那覇の小禄で駐車場が無料で買い物ができるお店を探しています。	general,shopping
+4668	1	SYSTEM	かしこまりました。ではLEO & JOEはいかがでしょうか。	general,shopping
+4668	2	USER	電話番号を教えてください。	general,shopping
+4668	3	SYSTEM	電話番号は0988581268でございます。	general,shopping
+4668	4	USER	ありがとうございます。営業時間も聞いて良いですか？	general,shopping
+4668	5	SYSTEM	営業時間は10:00～18:00でございます。	general,shopping
+4668	6	USER	わかりました。ありがとうございました。	general,shopping
+4668	7	SYSTEM	ありがとうございました。	general,shopping

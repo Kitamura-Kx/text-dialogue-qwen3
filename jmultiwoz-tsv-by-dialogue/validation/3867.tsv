@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3867	0	USER	福岡で買い物しようと思っています。六本松駅近くで燃料系の買いものができるお店を教えて下さい。	general,shopping,hotel
+3867	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,hotel
+3867	2	USER	そうですか。では、燃料系は気にしません。	general,shopping,hotel
+3867	3	SYSTEM	では六本松421がございます。	general,shopping,hotel
+3867	4	USER	住所と営業時間を教えてください。	general,shopping,hotel
+3867	5	SYSTEM	住所が福岡県福岡市中央区六本松4丁目2-1で、営業時間は店舗により異なるとのことでございます。	general,shopping,hotel
+3867	6	USER	なるほど、近くの駅からどれくらいかかりますか？	general,shopping,hotel
+3867	7	SYSTEM	六本松駅から徒歩で1分でございます。	general,shopping,hotel
+3867	8	USER	駅から近いんですね。その日に泊まる所も紹介してください。駐車場とWi-Fiが無料で使える所が良いです。	general,shopping,hotel
+3867	9	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping,hotel
+3867	10	USER	では、無料駐車場は諦めます。有料でも大丈夫です。	general,shopping,hotel
+3867	11	SYSTEM	ではHOTEL LA FORESTAはいかがでしょうか。	general,shopping,hotel
+3867	12	USER	そこは近くの駅からどれくらいかかりますか？	general,shopping,hotel
+3867	13	SYSTEM	博多駅から徒歩で2分、福岡空港駅からタクシーで15分でございます。	general,shopping,hotel
+3867	14	USER	それでは、12月10日から2泊、4名で予約をお願いします。	general,shopping,hotel
+3867	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は4714でございます。	general,shopping,hotel
+3867	16	USER	ありがとうございます。それでは失礼します。	general,shopping,hotel

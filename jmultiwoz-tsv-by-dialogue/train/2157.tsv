@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2157	0	USER	こんにちは。今度福岡へ行くんですけど、駐車場無料で、寿司や魚料理のお店に行きたいです。	general,restaurant
+2157	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant
+2157	2	USER	そうなんですね。では駐車場がなくてもいいので、お願いできますか？	general,restaurant
+2157	3	SYSTEM	かしこまりました。それでは海鮮食堂 すいかはいかがでしょうか？	general,restaurant
+2157	4	USER	そこにします。そこはどのエリアですか？	general,restaurant
+2157	5	SYSTEM	エリアは中央区でございます。	general,restaurant
+2157	6	USER	Wi-Fiはあります？	general,restaurant
+2157	7	SYSTEM	申し訳ございません。Wi-Fiはご利用出来ません。	general,restaurant
+2157	8	USER	ありがとうございます。大丈夫です。予約お願いできますか？	general,restaurant
+2157	9	SYSTEM	かしこまりました。日程等お伺いいたします。	general,restaurant
+2157	10	USER	1/10の11:50で、3名です。	general,restaurant
+2157	11	SYSTEM	お待たせ致しました。予約番号94354でお取りさせていただきました。	general,restaurant
+2157	12	USER	どうもありがとうございました。これで大丈夫です。	general,restaurant
+2157	13	SYSTEM	ありがとうございます。またお待ちしております。	general,restaurant

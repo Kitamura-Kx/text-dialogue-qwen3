@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+699	0	USER	大阪で、レストラン併設の宿泊施設を探して欲しいです。Wi-Fiと駐車場が無料だと嬉しいです。	general,hotel,weather
+699	1	SYSTEM	承知しました。エリアでいうと港区にございます、ビジネス旅館 励明園はいかがでしょう？何かご案内致しましょうか？	general,hotel,weather
+699	2	USER	そちらの旅館の電話番号と料金情報を教えてもらえますか？	general,hotel,weather
+699	3	SYSTEM	はい、電話番号は、0665711746となります。料金情報としては、値段帯は安め、Wi-Fiと駐車場は無料でご利用いただける、ということしか情報がございません。他にご案内できることはございますか？	general,hotel,weather
+699	4	USER	ありがとうございます。もう一点、天候を聞きたいです。5/4 西区のお天気と、最高気温を教えてください。	general,hotel,weather
+699	5	SYSTEM	承知しました。天気は晴のち曇、最高気温27.8度となります。他にご用件はございますか？	general,hotel,weather
+699	6	USER	知りたいことは以上です。ありがとうございました。	general,hotel,weather
+699	7	SYSTEM	ありがとうございました。	general,hotel,weather

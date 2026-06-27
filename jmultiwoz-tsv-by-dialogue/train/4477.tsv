@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4477	0	USER	那覇に旅行を計画しているのですが、最寄りがおもろまち駅で買い物できるお店はありますか。駐車場は無料のところでお願いします。	general,shopping,weather
+4477	1	SYSTEM	かしこまりました。そういたしますと、３件ご案内可能です。たとえば、サンエー那覇メインプレイスという、ショッピングモールはいかがでしょうか？	general,shopping,weather
+4477	2	USER	ありがとうございます。そのお店の駅からの所要時間はどのくらいですか。	general,shopping,weather
+4477	3	SYSTEM	おもろまち駅から徒歩で5分ほどかかります。	general,shopping,weather
+4477	4	USER	ありがとうございます。あと、小禄の9/11の最高気温と最低気温は何度になりますか。	general,shopping,weather
+4477	5	SYSTEM	当日の最高気温は、27度、最低気温は21.7度の予想となっております。	general,shopping,weather
+4477	6	USER	ありがとうございます。これで大丈夫です。	general,shopping,weather
+4477	7	SYSTEM	承知いたしました。本日はご利用いただき、ありがとうございました。	general,shopping,weather

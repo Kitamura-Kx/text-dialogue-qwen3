@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1504	0	USER	京都の山科区で、無料駐車場のある観光名所を教えてください。	general,attraction
+1504	1	SYSTEM	申し訳ありません。その条件ではご紹介できないのですが、いかが致しましょう？	general,attraction
+1504	2	USER	では、駐車場の条件を除いていただけますか？	general,attraction
+1504	3	SYSTEM	承知しました。京都市東部文化会館がございます。ジャンルは、コンサート、ショー、となります。	general,attraction
+1504	4	USER	定休日も教えてください。	general,attraction
+1504	5	SYSTEM	はい、定休日は火曜日と年末年始になります。	general,attraction
+1504	6	USER	ありがとうございます。以上です！	general,attraction

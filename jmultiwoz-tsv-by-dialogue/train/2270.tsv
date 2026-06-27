@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2270	0	USER	名古屋へ旅行するので、当日買い物できるお店を探していただけますか？	general,shopping
+2270	1	SYSTEM	はい、ご希望の条件をお聞かせください。	general,shopping
+2270	2	USER	中区で駐車場無料のお店でお願いします。	general,shopping
+2270	3	SYSTEM	中区で駐車場無料といえばいくつかありますが、名古屋栄三越はいかがでしょうか？	general,shopping
+2270	4	USER	そちらに行きたいと思います。電話番号と住所、あと定休日を教えていただけますか？	general,shopping
+2270	5	SYSTEM	電話は0522521111、住所は愛知県名古屋市中区栄3丁目5-1、定休日は店舗によりまちまちですね。	general,shopping
+2270	6	USER	ありがとうございました。	general,shopping

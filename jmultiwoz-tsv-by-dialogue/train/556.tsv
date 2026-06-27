@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+556	0	USER	福岡への旅行を考えているのですが、宿泊施設を調べてください。	general,hotel,shopping,weather
+556	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,shopping,weather
+556	2	USER	はい。Wi-Fiを無料で利用できて、駐車場も無料なところがいいです。あと、予算は安めが希望です。	general,hotel,shopping,weather
+556	3	SYSTEM	ではHOTEL AZ 福岡金の隈店はいかがでしょうか。	general,hotel,shopping,weather
+556	4	USER	そこでいいです。近辺の駅からの所要時間を教えてくれますか？	general,hotel,shopping,weather
+556	5	SYSTEM	南福岡駅からタクシーで10分、福岡空港駅からタクシーで15分、雑餉隈駅からタクシーで10分でございます。	general,hotel,shopping,weather
+556	6	USER	ありがとうございます。買い物できるところも探しているのですが、博多区で駐車場を無料で利用できるところはありますか？	general,hotel,shopping,weather
+556	7	SYSTEM	KITTE博多がございます。	general,hotel,shopping,weather
+556	8	USER	そこにします。定休日はいつですか？	general,hotel,shopping,weather
+556	9	SYSTEM	定休日はございません。	general,hotel,shopping,weather
+556	10	USER	わかりました。博多区の1月19日の天候を教えてください。	general,hotel,shopping,weather
+556	11	SYSTEM	天気は晴のち雨、最低気温が5.1度で最高気温が9.4度でございます。	general,hotel,shopping,weather
+556	12	USER	了解です。ありがとうございます。	general,hotel,shopping,weather
+556	13	SYSTEM	ほかにご用件はございませんか。	general,hotel,shopping,weather
+556	14	USER	はい、大丈夫です。	general,hotel,shopping,weather
+556	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,weather

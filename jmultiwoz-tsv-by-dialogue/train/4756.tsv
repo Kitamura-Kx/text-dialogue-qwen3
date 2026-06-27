@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4756	0	USER	京都へ旅行予定なのですが、ジャンボタクシーを使えるところはありますか？キャッシュレス払いがしたいです。	general,taxi
+4756	1	SYSTEM	では、エムケイ株式会社はいかがでしょう？電話番号は、0757784141となります。	general,taxi
+4756	2	USER	ではそこで、3/23の14:40から予約お願いします。変なホテル京都八条口駅前からベッセルホテルカンパーナ京都五条までです。	general,taxi
+4756	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、74999となります。	general,taxi
+4756	4	USER	ありがとうございます。	general,taxi
+4756	5	SYSTEM	ありがとうございました。	general,taxi

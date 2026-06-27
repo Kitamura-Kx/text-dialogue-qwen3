@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+498	0	USER	那覇へ行こうと思っています。予算は普通でWiFiが無料で利用できる飲食店を探していただけますか？	general,restaurant,taxi
+498	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,taxi
+498	2	USER	ではWiFiは考慮せず予算が普通な飲食店を探していただけますか？	general,restaurant,taxi
+498	3	SYSTEM	では田原屋はいかがでしょうか。	general,restaurant,taxi
+498	4	USER	そちらの営業時間と定休日を教えていただけますでしょうか。	general,restaurant,taxi
+498	5	SYSTEM	営業時間は11:00～19:00でございます。定休日は日曜日でございます。	general,restaurant,taxi
+498	6	USER	わかりました。ありがとうございます。	general,restaurant,taxi
+498	7	SYSTEM	ほかにご用件はございませんか。	general,restaurant,taxi
+498	8	USER	丸星交通がキャッシュレス、ジャンボタクシーに対応しているかどうかと電話番号を調べていただきたいです。	general,restaurant,taxi
+498	9	SYSTEM	はい。どちらにも対応しております。電話番号は0988685831でございます。	general,restaurant,taxi
+498	10	USER	では、6月5日10時田原屋から三丁目そばまで予約をお願いします。	general,restaurant,taxi
+498	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は53652でございます。	general,restaurant,taxi
+498	12	USER	わかりました。ありがとうございます。	general,restaurant,taxi
+498	13	SYSTEM	ほかにご用件はございませんか。	general,restaurant,taxi
+498	14	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant,taxi
+498	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

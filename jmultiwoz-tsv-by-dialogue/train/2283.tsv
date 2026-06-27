@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2283	0	USER	横浜で、レストランの付いている宿泊施設を探しています。wifiが無料で使えるところがいいのですが。	general,hotel,restaurant,attraction
+2283	1	SYSTEM	承知しました。他にご希望はございますか？	general,hotel,restaurant,attraction
+2283	2	USER	特にありません。	general,hotel,restaurant,attraction
+2283	3	SYSTEM	では、エリアでいうと中区にある、ホテルフィールはいかがでしょう？	general,hotel,restaurant,attraction
+2283	4	USER	そちらの料金情報と、ホテルのタイプを教えて下さい。	general,hotel,restaurant,attraction
+2283	5	SYSTEM	ホテルのタイプはシティホテルとなります。申し訳ありませんが、料金情報については、こちらではご案内ができません。	general,hotel,restaurant,attraction
+2283	6	USER	わかりました。ところで、戸塚区の飲食店を探していただきたいです。予算は安めでお願いします。	general,hotel,restaurant,attraction
+2283	7	SYSTEM	はい、福てんかつ トツカーナモール店がございます。	general,hotel,restaurant,attraction
+2283	8	USER	そちらのお店の営業時間はわかりますか？	general,hotel,restaurant,attraction
+2283	9	SYSTEM	はい、営業時間は11時から23時30分となります。	general,hotel,restaurant,attraction
+2283	10	USER	では、５月９日の１５時５０分に４人で予約をお願いします。	general,hotel,restaurant,attraction
+2283	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、2678となります。	general,hotel,restaurant,attraction
+2283	12	USER	当日利用できるアウトドア系の観光名所はありますか？	general,hotel,restaurant,attraction
+2283	13	SYSTEM	エリアでいうと金沢区に、海の公園がございます。	general,hotel,restaurant,attraction
+2283	14	USER	そちらではwifiは使えますか？	general,hotel,restaurant,attraction
+2283	15	SYSTEM	申し訳ありません。Wi-Fiの有無については不明です。	general,hotel,restaurant,attraction
+2283	16	USER	わかりました。そちらの住所と定休日を教えて下さい。	general,hotel,restaurant,attraction
+2283	17	SYSTEM	はい、住所は神奈川県横浜市金沢区海の公園10番、定休日はございません。	general,hotel,restaurant,attraction
+2283	18	USER	わかりました。失礼します。	general,hotel,restaurant,attraction

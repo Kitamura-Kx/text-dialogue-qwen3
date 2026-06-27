@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4566	0	USER	仙台へ旅行するのですがジャンボタクシーを利用したいのでタクシー会社を紹介して下さい。	general,taxi
+4566	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,taxi
+4566	2	USER	そうなんですね。それでは普通のタクシーはありますか？	general,taxi
+4566	3	SYSTEM	では、（株）けやき交通はいかがですか？	general,taxi
+4566	4	USER	電話番号を教えて下さい。	general,taxi
+4566	5	SYSTEM	電話番号は、0120408814になります。	general,taxi
+4566	6	USER	ありがとうございます。それでは予約して頂けますか？12/25の11:40で出発地はホテル グリーンパレス、目的地はスマイルホテル仙台国分町です。	general,taxi
+4566	7	SYSTEM	予約が完了しました。　予約番号は、25606です。	general,taxi
+4566	8	USER	助かりました！以上です。ありがとうございました。	general,taxi
+4566	9	SYSTEM	承知しました。ありがとうございました。	general,taxi

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3044	0	USER	名古屋へ行くのですが、飲食店を探しています。	general,restaurant
+3044	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,restaurant
+3044	2	USER	予算は高めのところがいいです。	general,restaurant
+3044	3	SYSTEM	であれば、ビストリア ギャッツビーなんていかがでしょうか。	general,restaurant
+3044	4	USER	いいですね。近辺の駅からの所要時間と定休日が知りたいです。	general,restaurant
+3044	5	SYSTEM	はい。名古屋駅から徒歩で3分と、国際センター駅から徒歩で4分でございます。また、定休日は月曜日です。	general,restaurant
+3044	6	USER	料金情報に関しても教えてもらえませんか？	general,restaurant
+3044	7	SYSTEM	はい。料金情報としては、Pastaランチコースが1815円、BIS-TRIAディナーコースが7260円とのことです。	general,restaurant
+3044	8	USER	ありがとうございます。	general,restaurant
+3044	9	SYSTEM	他にご用件はございませんか？	general,restaurant
+3044	10	USER	特にないです。	general,restaurant
+3044	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant

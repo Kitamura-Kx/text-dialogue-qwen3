@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4989	0	USER	東京旅行に行きたいと思っています。観光名所で、Wi-Fiを無料で利用できる科学館はありますか？	general,attraction,restaurant
+4989	1	SYSTEM	承知しました。国立科学博物館はいかがでしょうか？	general,attraction,restaurant
+4989	2	USER	国立科学博物館は、近辺の駅からの所要時間とエリアはわかりますか？	general,attraction,restaurant
+4989	3	SYSTEM	国立科学博物館は上野駅から徒歩で5分、京成上野駅から徒歩で10分です。エリアは港区です。	general,attraction,restaurant
+4989	4	USER	ありがとうございます。次に、安めの飲食店を中野区で探してもらえますか？	general,attraction,restaurant
+4989	5	SYSTEM	承知しました。恵比寿らぁ麺屋 つなぎ(繋) 中野店はいかがでしょうか？	general,attraction,restaurant
+4989	6	USER	そこに行きます。Wi-Fiがあるかどうかはわかりますか？	general,attraction,restaurant
+4989	7	SYSTEM	Wi-Fiの有無は不明です。	general,attraction,restaurant
+4989	8	USER	大丈夫です。人数4人で、1月12日の16時10分に予約できますか。	general,attraction,restaurant
+4989	9	SYSTEM	予約が完了しました。予約番号は59442です。	general,attraction,restaurant
+4989	10	USER	お手数おかけしました。ありがとうございます。	general,attraction,restaurant

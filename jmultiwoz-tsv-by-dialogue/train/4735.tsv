@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4735	0	USER	仙台の最寄り駅が六丁の目駅で買い物できるところを探しているのですが	general,shopping,hotel,taxi
+4735	1	SYSTEM	では、エリアでいうと若林区にある、ローソン 仙台荒井西店はいかがでしょう？ジャンルは、コンビニとなります。	general,shopping,hotel,taxi
+4735	2	USER	ではそちらの営業時間を教えてください	general,shopping,hotel,taxi
+4735	3	SYSTEM	はい、営業時間は、0時から0時となります。	general,shopping,hotel,taxi
+4735	4	USER	かしこまりました。では当日青葉区の駐車場が無料でWi-Fiも無料の宿はありますか	general,shopping,hotel,taxi
+4735	5	SYSTEM	では、ホテル白萩はいかがでしょう？タイプは、シティホテルとなります。	general,shopping,hotel,taxi
+4735	6	USER	ではそちらの料金はいくらですか。またホテル内にレストランはついていますか	general,shopping,hotel,taxi
+4735	7	SYSTEM	併設のレストランはございます。料金については、値段帯は安め、ということ以外、ご案内可能な料金情報はございません。	general,shopping,hotel,taxi
+4735	8	USER	では４人で6/14に三泊の予約を取りたいのですが	general,shopping,hotel,taxi
+4735	9	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,shopping,hotel,taxi
+4735	10	USER	では人数を３人に変更でお願いします	general,shopping,hotel,taxi
+4735	11	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、47908となります。	general,shopping,hotel,taxi
+4735	12	USER	当日ジャンボタクシーを利用したいのですがキャッスレスが使えるところがいいです	general,shopping,hotel,taxi
+4735	13	SYSTEM	承知しました。では、平和交通（株）はいかがでしょう？電話番号は、0570086000となります。	general,shopping,hotel,taxi
+4735	14	USER	では６月１４日の１７時から予約できますか	general,shopping,hotel,taxi
+4735	15	SYSTEM	出発地と目的地を教えていただけますか？	general,shopping,hotel,taxi
+4735	16	USER	ローソン 仙台荒井西店からホテル白萩でお願いします	general,shopping,hotel,taxi
+4735	17	SYSTEM	承知しました。予約が完了し、ご予約番号は、41884となります。	general,shopping,hotel,taxi
+4735	18	USER	かしこまりました以上で終わります	general,shopping,hotel,taxi

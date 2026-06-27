@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3596	0	USER	こんにちは。那覇に行くのですが、Wi-Fiと駐車場が無料で使えて、レストランが併設されている宿泊施設はありますか？	general,hotel,weather
+3596	1	SYSTEM	かしこまりました。ではHOTEL MARUKIはいかがでしょうか。	general,hotel,weather
+3596	2	USER	いいですね。そのホテルの、チェックイン開始時刻と電話番号を教えてください。	general,hotel,weather
+3596	3	SYSTEM	チェックイン開始時刻は15:00で、電話番号は0988626135でございます。	general,hotel,weather
+3596	4	USER	ありがとうございます。では、人数は4人、日付は5/13、宿泊日数は4泊で、予約をお願いします。	general,hotel,weather
+3596	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は16751でございます。	general,hotel,weather
+3596	6	USER	ありがとうございます。あと、首里の5/13の天候を教えてください。	general,hotel,weather
+3596	7	SYSTEM	天気は曇のち雨、最低気温が19.6度で最高気温が32.2度でございます。	general,hotel,weather
+3596	8	USER	ありがとうございます。	general,hotel,weather
+3596	9	SYSTEM	ほかにご用件はございませんか。	general,hotel,weather
+3596	10	USER	いえ、十分です。ありがとうございました。	general,hotel,weather
+3596	11	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

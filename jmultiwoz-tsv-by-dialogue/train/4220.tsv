@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4220	0	USER	那覇へ旅行に行くので、タクシーを利用したいと思っています。キャッシュレスに払いに対応しているところを教えてください。	general,taxi
+4220	1	SYSTEM	はい、那覇第一交通というところなど、7件ご案内可能です。ジャンボタクシーのご利用予定はございますか？	general,taxi
+4220	2	USER	いえ、特にないです。那覇第一交通の電話番号を教えてください。	general,taxi
+4220	3	SYSTEM	電話番号は、0988537801でございます。	general,taxi
+4220	4	USER	4月7日の9:40に予約できますか？	general,taxi
+4220	5	SYSTEM	かしこまりました。お時間は朝の9時40分でよろしかったでしょうか？あと、ご利用予定の出発地、目的地はお決まりでしょうか？	general,taxi
+4220	6	USER	はい、朝の9時40分です。お肉とチーズのてだこ亭から、POCO CAFE OKINAWAまでお願いします。	general,taxi
+4220	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、88821です。	general,taxi
+4220	8	USER	ありがとうございます。	general,taxi
+4220	9	SYSTEM	他にお手伝いすることはございませんか？	general,taxi
+4220	10	USER	いえ、大丈夫です。ありがとうございます。	general,taxi
+4220	11	SYSTEM	承知いたしました。こちらこそ、本日はご利用ありがとうございました。	general,taxi

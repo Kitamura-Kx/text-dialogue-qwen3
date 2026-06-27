@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+384	0	USER	今度横浜に行きますが、宿泊施設はありますか？	general,hotel,restaurant,taxi
+384	1	SYSTEM	はい、どのようなご希望がございますか？	general,hotel,restaurant,taxi
+384	2	USER	Wi-Fiと駐車場が無料のところで、予算は普通のところがいいです。	general,hotel,restaurant,taxi
+384	3	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しましょう？	general,hotel,restaurant,taxi
+384	4	USER	では、予算を安めに変更できますか？	general,hotel,restaurant,taxi
+384	5	SYSTEM	はい、ありがとうございます。ホテル パセラの森 横浜関内、旅館 松島の2件がございます。何かご案内致しましょうか？	general,hotel,restaurant,taxi
+384	6	USER	旅館 松島に行ってみます。あと、当日の飲食店を探していますが、Dining Bar KISAKUという名前のお店はありますか？	general,hotel,restaurant,taxi
+384	7	SYSTEM	はい、エリアでいうと鶴見区にございます。どのようなご案内を致しましょう？	general,hotel,restaurant,taxi
+384	8	USER	住所と、近くの駅からの所要時間、あと定休日を知りたいです。	general,hotel,restaurant,taxi
+384	9	SYSTEM	承知しました。住所は神奈川県横浜市鶴見区矢向5丁目14-3、最寄りの矢向駅からは徒歩で3分、定休日は不定休となっております。他にご案内できることはございますか？	general,hotel,restaurant,taxi
+384	10	USER	ありがとうございます。では、12/19の17：50に４名で予約をお願いできますか？	general,hotel,restaurant,taxi
+384	11	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,hotel,restaurant,taxi
+384	12	USER	では、人数を３名に変更してください。	general,hotel,restaurant,taxi
+384	13	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、39745となります。他にご用件はございますか？	general,hotel,restaurant,taxi
+384	14	USER	ありがとうございます。当日タクシーを利用したいのですが、キャッシュレス払いができるところはありますか？	general,hotel,restaurant,taxi
+384	15	SYSTEM	はい、では、スタジアム交通株式会社はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は0120776081となります。	general,hotel,restaurant,taxi
+384	16	USER	ありがとうございます。では、12/19の16:00で、旅館 松島から、Dining Bar KISAKUまで予約をお願いできますか？	general,hotel,restaurant,taxi
+384	17	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,hotel,restaurant,taxi
+384	18	USER	では、時間を17:00に変更してください。	general,hotel,restaurant,taxi
+384	19	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、43528となります。他にご案内できることはございますか？	general,hotel,restaurant,taxi
+384	20	USER	ありがとうございます。以上です、お世話になりました。	general,hotel,restaurant,taxi
+384	21	SYSTEM	ありがとうございました。	general,hotel,restaurant,taxi

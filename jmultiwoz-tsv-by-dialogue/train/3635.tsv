@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3635	0	USER	横浜への旅行を計画しています。最寄り駅が元町・中華街で買い物ができるところはありますか？	general,shopping
+3635	1	SYSTEM	元町中華街で買い物といえば、元町商店街、こちらがオススメです。	general,shopping
+3635	2	USER	そこのエリアはどのあたりですか？	general,shopping
+3635	3	SYSTEM	中区ですね。	general,shopping
+3635	4	USER	定休日はありますか？	general,shopping
+3635	5	SYSTEM	店舗により異なるようです。	general,shopping
+3635	6	USER	なるほど。ありがとうございました。	general,shopping
+3635	7	SYSTEM	よい旅を。	general,shopping

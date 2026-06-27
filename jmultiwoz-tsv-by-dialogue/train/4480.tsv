@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4480	0	USER	横浜に旅行に行く予定なのですが、旭区で観光できる名所はありますか。	general,attraction,taxi
+4480	1	SYSTEM	はい、３件ほどご案内可能です。たとえば、ズーラシアという動物園はいかがでしょうか？	general,attraction,taxi
+4480	2	USER	ありがとうございます。その動物園の電話番号を教えてください。	general,attraction,taxi
+4480	3	SYSTEM	かしこまりました。電話番号は、0459591000です。	general,attraction,taxi
+4480	4	USER	ありがとうございます。あとジャンボタクシーが利用できる会社を探してほしいです。	general,attraction,taxi
+4480	5	SYSTEM	申し訳ありません。横浜にはジャンボタクシーに対応している会社でご案内できるところが、見つかりませんでした。いかがいたしましょう？	general,attraction,taxi
+4480	6	USER	でしたらジャンボタクシーでないタクシーでも大丈夫です。	general,attraction,taxi
+4480	7	SYSTEM	ありがとうございます。では、横浜北交通株式会社はいかがでしょうか？こちらでしたら、キャッシュレスのお支払いも可能ですよ。	general,attraction,taxi
+4480	8	USER	ありがとうございます。その会社の電話番号をお聞きしてもいいですか。	general,attraction,taxi
+4480	9	SYSTEM	かしこまりました。電話番号は、0120915502です。	general,attraction,taxi
+4480	10	USER	ありがとうございます。そこで予約をお願いします。5/15の午後1時40分に福てんかつ トツカーナモール店からズーラシアです。	general,attraction,taxi
+4480	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、34935です。	general,attraction,taxi
+4480	12	USER	ありがとうございます。これで大丈夫です。	general,attraction,taxi
+4480	13	SYSTEM	承知いたしました。本日はご利用いただき、ありがとうございました。	general,attraction,taxi

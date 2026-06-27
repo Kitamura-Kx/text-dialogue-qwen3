@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4030	0	USER	福岡に行きますが、最寄り駅が博多の、Wi-Fiが無料で使えるホテルはありますか？	general,hotel,weather
+4030	1	SYSTEM	申し訳ありません、ホテルというのは、宿泊施設という意味でしょうか？タイプという意味でしたら、3種類からご指定いただけますか？	general,hotel,weather
+4030	2	USER	ごめんなさい。宿泊施設で構いません。	general,hotel,weather
+4030	3	SYSTEM	ありがとうございます。では、エリアでいうと博多区にある、エスペリアホテル博多はいかがでしょう？タイプは、ビジネスホテルとなります。	general,hotel,weather
+4030	4	USER	ありがとうございます。そちらのホテルの住所とチェックアウト終了時刻を教えていただけますか。	general,hotel,weather
+4030	5	SYSTEM	はい、住所は、福岡県福岡市博多区博多駅前2丁目11-4、チェックアウト終了時刻は11時となります。	general,hotel,weather
+4030	6	USER	ありがとうございます。そちらのホテルの予約をお願いします。8/20に人数2名で3泊でお願いします。	general,hotel,weather
+4030	7	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,hotel,weather
+4030	8	USER	そうですか。そうしましたら、2泊で予約はできますか？	general,hotel,weather
+4030	9	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、11588となります。	general,hotel,weather
+4030	10	USER	よかったです。ありがとうございます。8/20の早良区の天気を教えていただけますか。	general,hotel,weather
+4030	11	SYSTEM	はい、天気は晴のち曇、最低気温25.3度、最高気温30.5度となります。	general,hotel,weather
+4030	12	USER		general,hotel,weather

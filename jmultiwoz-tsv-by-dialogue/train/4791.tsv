@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4791	0	USER	仙台へ旅行予定なのですが、旅館で無料Wi-Fiがあるようなところがあるか探してください。	general,hotel,weather
+4791	1	SYSTEM	仙台で無料WiFiのある旅館はなさそうです。	general,hotel,weather
+4791	2	USER	そうですか。なら、旅館じゃなくても大丈夫です。	general,hotel,weather
+4791	3	SYSTEM	仙台で無料WiFiのある宿泊施設はいくつかありますが、仙台 秋保温泉 ホテルきよ水をお勧めします。	general,hotel,weather
+4791	4	USER	ではそこにします。仙台 秋保温泉 ホテルきよ水があるエリアと電話番号を教えてください。	general,hotel,weather
+4791	5	SYSTEM	太白区、0223972555になります。	general,hotel,weather
+4791	6	USER	ありがとうございます。あと青葉区の9/2の天気はわかりますか？	general,hotel,weather
+4791	7	SYSTEM	9/2 仙台 青葉区 の天気は曇時々晴、最低気温21.2度、最高気温27.7度です。	general,hotel,weather
+4791	8	USER	ありがとうございました。	general,hotel,weather

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4093	0	USER	那覇への旅行を計画中で、観光名所を探しています。	general,attraction
+4093	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,attraction
+4093	2	USER	首里地区にあってジャンルはキャンプ、無料駐車場付きがいいです。	general,attraction
+4093	3	SYSTEM	首里でキャンプ、無料駐車場つき、全てをみたす観光名所はなさそうです。	general,attraction
+4093	4	USER	分かりました。では、世界遺産に変更してください	general,attraction
+4093	5	SYSTEM	首里で駐車場無料な世界遺産ならば、国営沖縄記念公園、こちらになります。	general,attraction
+4093	6	USER	そこにしようと思います。住所を教えてください。	general,attraction
+4093	7	SYSTEM	沖縄県那覇市首里金城町1丁目2です。	general,attraction
+4093	8	USER	助かります。ありがとうございました。	general,attraction

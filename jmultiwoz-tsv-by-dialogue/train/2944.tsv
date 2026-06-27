@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2944	0	USER	今度、那覇のリゾートホテルに泊まりたいんですが、Wi-Fiが無料の宿泊施設を教えて下さい。	general,hotel,taxi
+2944	1	SYSTEM	エリアでいうと本庁にある、HOTEL SANSUI NAHAはいかがでしょう？	general,hotel,taxi
+2944	2	USER	ごめんなさい、レストランがあるといいんですが、どうですか？	general,hotel,taxi
+2944	3	SYSTEM	はい、併設のレストランがございます。	general,hotel,taxi
+2944	4	USER	良かったです。値段帯を教えてください。	general,hotel,taxi
+2944	5	SYSTEM	値段帯は安めとなります。	general,hotel,taxi
+2944	6	USER	それでは、6月17日から2泊で3名の予約をお願いします。	general,hotel,taxi
+2944	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、56524となります。	general,hotel,taxi
+2944	8	USER	ありがとうございます。当日タクシーを利用するので、キャッシュレス払いができるタクシー会社を教えてください。	general,hotel,taxi
+2944	9	SYSTEM	丸星交通はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は0988685831となります。	general,hotel,taxi
+2944	10	USER	それでは、6月17日の午前10時40分にHOTEL SANSUI NAHAから、Calbee+沖縄国際通り店まで予約をお願いします。	general,hotel,taxi
+2944	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、26437となります。	general,hotel,taxi
+2944	12	USER	ありがとうございました。助かりました。それでは失礼します。	general,hotel,taxi

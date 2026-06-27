@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4786	0	USER	那覇の観光名所を探してください。最寄り駅が安里駅のところがいいです。	general,attraction,hotel,restaurant
+4786	1	SYSTEM	かしこまりました。では、沖縄自由時間那覇店はいかがでしょうか？	general,attraction,hotel,restaurant
+4786	2	USER	はい。そこの駐車場の有無、電話番号、住所を教えてください。	general,attraction,hotel,restaurant
+4786	3	SYSTEM	はい。駐車場は無料のものがございます。また、電話番号は0989432853です。住所は沖縄県那覇市三原1丁目31-21になります。	general,attraction,hotel,restaurant
+4786	4	USER	分かりました。また当日泊まる宿泊施設を探してください。Wi-Fiが無料で利用できるところで、地区は小禄です。また宿のタイプは簡易宿所（ベッドハウス・山小屋・カプセルホテル等）です。	general,attraction,hotel,restaurant
+4786	5	SYSTEM	かしこまりました。グランドキャビンホテル那覇小禄はどうでしょうか。	general,attraction,hotel,restaurant
+4786	6	USER	はい。そこの近辺の駅からの所要時間、レストランの有無、最寄り駅を教えてください。	general,attraction,hotel,restaurant
+4786	7	SYSTEM	はい。最寄り駅の赤嶺駅から徒歩で3分です。また、レストランもあります。	general,attraction,hotel,restaurant
+4786	8	USER	ありがとうございます。予約をお願いします。人数は3人で、日付は8/27です。宿泊日数は4泊です。	general,attraction,hotel,restaurant
+4786	9	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,attraction,hotel,restaurant
+4786	10	USER	では、宿泊日数を3泊に変更してください。	general,attraction,hotel,restaurant
+4786	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、40702です。	general,attraction,hotel,restaurant
+4786	12	USER	ありがとうございます。また、当日利用できる飲食店を探してください。地区は本庁で、駐車場を無料で利用できるところでお願いします。	general,attraction,hotel,restaurant
+4786	13	SYSTEM	それでしたら、牛角 おもろまち駅前店がおおススメです。	general,attraction,hotel,restaurant
+4786	14	USER	分かりました。そこの最寄り駅、営業時間を教えてください。	general,attraction,hotel,restaurant
+4786	15	SYSTEM	はい。最寄り駅はおもろまち駅で、営業時間は16:00～23:00になります。	general,attraction,hotel,restaurant
+4786	16	USER	そこの予約をお願いします。人数は2人です。日付は8/27です。時間は14:20です。	general,attraction,hotel,restaurant
+4786	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、58192です。	general,attraction,hotel,restaurant
+4786	18	USER	ありがとうございました。	general,attraction,hotel,restaurant
+4786	19	SYSTEM	こちらこそご利用ありがとうございました。	general,attraction,hotel,restaurant

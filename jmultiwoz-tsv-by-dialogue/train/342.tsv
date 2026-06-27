@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+342	0	USER	京都のレストランを探しています。	general,restaurant
+342	1	SYSTEM	ご利用ありがとうございます。なにかご希望のジャンルやエリアなどは、ございませんか？	general,restaurant
+342	2	USER	高めの予算のところがいいですが、なければ特にこだわりません。	general,restaurant
+342	3	SYSTEM	申し訳ありません。予算が高めのお食事処はご案内できるところが見つかりませんでした。ご予算にこだわりがない場合は、菊水という洋食・西洋料理のお店はいかがでしょうか？	general,restaurant
+342	4	USER	そこにしてみようと思います。営業時間と駐車場があるかどうかわかりますか？	general,restaurant
+342	5	SYSTEM	営業時間は10:00～22:00です。駐車場は有料となりますが、ご利用いただけます。	general,restaurant
+342	6	USER	では、９月２４日で１１時から２名で予約できますか？	general,restaurant
+342	7	SYSTEM	はい、ご予約承りました。予約番号は、12848です。	general,restaurant
+342	8	USER	ありがとうございました。	general,restaurant
+342	9	SYSTEM	他にご用件など、ございませんか？	general,restaurant
+342	10	USER	はい、大丈夫です。	general,restaurant
+342	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

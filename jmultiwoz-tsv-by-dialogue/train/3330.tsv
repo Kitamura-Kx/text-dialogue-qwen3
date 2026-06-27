@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3330	0	USER	那覇への旅行を計画中で、飲食店を探しています。	general,restaurant,shopping,hotel
+3330	1	SYSTEM	お調べしましたところ、１００件以上の検索結果がでております。ご希望などございますか？	general,restaurant,shopping,hotel
+3330	2	USER	はい、無料の駐車場とWi-fi付きで、予算は普通が良いです。	general,restaurant,shopping,hotel
+3330	3	SYSTEM	申し訳ございません、条件にあてはまるものがございませんでした。いかがいたしましょうか？	general,restaurant,shopping,hotel
+3330	4	USER	分かりました。では、駐車場は無くても構いません。	general,restaurant,shopping,hotel
+3330	5	SYSTEM	かしこまりました。そうしますと、C&C BREAKFAST OKINAWAほか２件のご紹介可能でございます。いかがでしょうか？	general,restaurant,shopping,hotel
+3330	6	USER	C&C BREAKFAST OKINAWAにしようと思います。ジャンルと住所を教えてください。	general,restaurant,shopping,hotel
+3330	7	SYSTEM	かしこまりました。ジャンルはカフェ・スイーツです。住所は沖縄県那覇市松尾2丁目9-6 タカミネビル 1Fでございます。	general,restaurant,shopping,hotel
+3330	8	USER	ありがとうございます。10/29の13:20に3名で予約して欲しいのですが、可能でしょうか	general,restaurant,shopping,hotel
+3330	9	SYSTEM	10/29の13:20に3名様でご予約が完了しました。予約番号は45198でございます。	general,restaurant,shopping,hotel
+3330	10	USER	可能でしたか。ありがとうございます。当日買い物ができる無料駐車場付きのスーパーマーケットを探しているのですが、ありますか？	general,restaurant,shopping,hotel
+3330	11	SYSTEM	はい、そちらの条件ですとフレッシュプラザユニオン前島店ほか１件ございます。いかがでしょうか？	general,restaurant,shopping,hotel
+3330	12	USER	フレッシュプラザユニオン前島店にしようと思います。住所と営業時間を教えてください。	general,restaurant,shopping,hotel
+3330	13	SYSTEM	かしこまりました。住所は、沖縄県那覇市前島２丁目６−１です。営業時間は、00:00～00:00となっております。	general,restaurant,shopping,hotel
+3330	14	USER	ありがとうございます。当日利用できる無料駐車場付きの宿泊施設を探しています。予算は普通が良いです	general,restaurant,shopping,hotel
+3330	15	SYSTEM	承知いたしました。ご希望の条件ですと、さくらや国際通りという施設がご案内可能でございます。いかがでしょうか？	general,restaurant,shopping,hotel
+3330	16	USER	そこにしようと思います。最寄り駅とそこからの所要時間、Wi-fiの有無を教えてください。	general,restaurant,shopping,hotel
+3330	17	SYSTEM	かしこまりました。最寄り駅は、県庁前駅です。アクセスは県庁前駅から徒歩で7分のところにございます。wi-fiは無料でご利用いただけます。	general,restaurant,shopping,hotel
+3330	18	USER	助かりました。ありがとうございます。	general,restaurant,shopping,hotel
+3330	19	SYSTEM	ありがとうございました。	general,restaurant,shopping,hotel
+3330	20	USER	では、失礼します。	general,restaurant,shopping,hotel

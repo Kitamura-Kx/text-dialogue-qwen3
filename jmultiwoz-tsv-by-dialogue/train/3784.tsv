@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3784	0	USER	名古屋への旅行を考えています。東区で駐車場が無料のショッピングモールを教えてもらえますか？	general,shopping,attraction
+3784	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,shopping,attraction
+3784	2	USER	では、駐車場はなくても大丈夫です。	general,shopping,attraction
+3784	3	SYSTEM	そういたしますと、オアシス21というところが、１件ご案内可能です。いかがでしょうか？	general,shopping,attraction
+3784	4	USER	営業時間と定休日、電話番号を教えてもらえますか？	general,shopping,attraction
+3784	5	SYSTEM	営業時間は、10:00～21:00です。定休日はございません。電話番号は、0529621011でございます。	general,shopping,attraction
+3784	6	USER	ありがとうございます。緑区で駐車場無料の観光名所を探してもらえますか？	general,shopping,attraction
+3784	7	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,attraction
+3784	8	USER	では、守山区ではどうですか？	general,shopping,attraction
+3784	9	SYSTEM	ありがとうございます。そうしますと、３件ご案内可能です。たとえば、名古屋市東谷山フルーツパークというところがございますが、いかがでしょうか？	general,shopping,attraction
+3784	10	USER	そこにしたいと思います。定休日と大人の入場料を教えて下さい。	general,shopping,attraction
+3784	11	SYSTEM	定休日は、月曜日と年末年始です。大人もお子様も入場料は無料となっております。	general,shopping,attraction
+3784	12	USER	いいですね。ありがとうございます。	general,shopping,attraction
+3784	13	SYSTEM	他にお調べすることはございませんか？	general,shopping,attraction
+3784	14	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping,attraction
+3784	15	SYSTEM	こちらこそ、ありがとうございます。では、またのご利用をお待ちしております。	general,shopping,attraction

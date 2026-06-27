@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1763	0	USER	那覇へ旅行に行くんですが、買い物ができるところを探してほしいです！	general,shopping,taxi,weather
+1763	1	SYSTEM	希望条件などは、ありますか？	general,shopping,taxi,weather
+1763	2	USER	地区は小禄で、駐車場無料のところでお願いします！	general,shopping,taxi,weather
+1763	3	SYSTEM	LEO & JOEは、いかがですか？	general,shopping,taxi,weather
+1763	4	USER	いいですね！タクシー会社も探していただけますか？ジャンボタクシーを利用したいのと、キャッシュレス払いができるところでお願いします！	general,shopping,taxi,weather
+1763	5	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,taxi,weather
+1763	6	USER	では、キャッシュレス払いじゃなくても大丈夫です。	general,shopping,taxi,weather
+1763	7	SYSTEM	大栄交通は、いかがですか？	general,shopping,taxi,weather
+1763	8	USER	ありがとうございます。電話番号は分かりますか？	general,shopping,taxi,weather
+1763	9	SYSTEM	電話番号は、0989465005です。	general,shopping,taxi,weather
+1763	10	USER	助かります。予約もお願いします！LEO & JOEを出発して、たびの邸宅 沖縄那覇までお願いします。	general,shopping,taxi,weather
+1763	11	SYSTEM	日時は、どうされますか？	general,shopping,taxi,weather
+1763	12	USER	9/13の10:40出発でお願いします！	general,shopping,taxi,weather
+1763	13	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,shopping,taxi,weather
+1763	14	USER	では11:30だとどうでしょう？	general,shopping,taxi,weather
+1763	15	SYSTEM	予約が完了しました。　予約番号は、91249です。	general,shopping,taxi,weather
+1763	16	USER	ありがとうございます。最後に、本庁の9/13の天気を教えてください。	general,shopping,taxi,weather
+1763	17	SYSTEM	天気は、雨時々曇です。	general,shopping,taxi,weather
+1763	18	USER	助かりました！色々とありがとうございました。	general,shopping,taxi,weather
+1763	19	SYSTEM	他にご用件はありますか？	general,shopping,taxi,weather
+1763	20	USER	これで大丈夫です。ありがとうございました。	general,shopping,taxi,weather
+1763	21	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,taxi,weather

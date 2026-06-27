@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2224	0	USER	京都へ旅行に行くので、宿泊施設を探してください。	general,hotel,taxi
+2224	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,taxi
+2224	2	USER	レストランが併設されており、Wi-Fiと駐車場を無料で利用できるところにしてください。	general,hotel,taxi
+2224	3	SYSTEM	エリアでいうと下京区にある、緑風荘はいかがでしょう？タイプは旅館となります。	general,hotel,taxi
+2224	4	USER	そちらの近辺の駅からの所要時間と住所を教えてください。	general,hotel,taxi
+2224	5	SYSTEM	住所は京都府京都市下京区西洞院六条上ル金屋町４９０、最寄りの京都駅からタクシーで5分、近辺の五条駅から徒歩で5分となります。	general,hotel,taxi
+2224	6	USER	あとジャンボタクシーを利用できるタクシー会社を探してください。	general,hotel,taxi
+2224	7	SYSTEM	帝産京都自動車株式会社はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0756611881となります。	general,hotel,taxi
+2224	8	USER	ではそちらでタクシーを予約してください。日付は5/28、時間は11:50、出発地は緑風荘、目的地はスペインバル Ternuraです。	general,hotel,taxi
+2224	9	SYSTEM	予約が完了し、ご予約番号は、64409となります。	general,hotel,taxi
+2224	10	USER	ありがとうございます。以上になります。	general,hotel,taxi
+2224	11	SYSTEM	ありがとうございました。	general,hotel,taxi

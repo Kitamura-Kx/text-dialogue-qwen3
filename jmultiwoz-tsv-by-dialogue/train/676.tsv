@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+676	0	USER	東京へ旅行予定なのですが、観光名所を調べてくれますか？	general,attraction,weather
+676	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,weather
+676	2	USER	アートギャラリーで、Wi-Fiが無料で使えるところ希望です。	general,attraction,weather
+676	3	SYSTEM	では表参道ヒルズはいかがでしょうか。	general,attraction,weather
+676	4	USER	そこにします。大人入場料金と最寄り駅を教えてくれますか？	general,attraction,weather
+676	5	SYSTEM	大人入場料は不明でございます。最寄り駅は表参道駅でございます。	general,attraction,weather
+676	6	USER	わかりました。当日9月12日の中央区の天候を教えてください。	general,attraction,weather
+676	7	SYSTEM	天気は雨時々晴、最低気温が23.6度で最高気温が29.3度でございます。	general,attraction,weather
+676	8	USER	ありがとうございます。	general,attraction,weather
+676	9	SYSTEM	ほかにご用件はございませんか。	general,attraction,weather
+676	10	USER	はい、大丈夫です。	general,attraction,weather
+676	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

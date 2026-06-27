@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4161	0	USER	仙台に旅行に行こうと思っています。当日買い物ができるところを探しています。地区は青葉区でジャンルは書籍で駐車場は無料が希望です。	general,shopping,attraction
+4161	1	SYSTEM	かしこまりました。では、絵本と木のおもちゃ 横田やはいかがでしょうか？	general,shopping,attraction
+4161	2	USER	そこが良さそうですね。そこの定休日を教えてください。	general,shopping,attraction
+4161	3	SYSTEM	定休日は、水曜日です。	general,shopping,attraction
+4161	4	USER	あと当日訪れる観光名所を探しています。駐車場が無料でWi-Fiが無料のところで地区は青葉区が希望です。	general,shopping,attraction
+4161	5	SYSTEM	そういたしましたら、仙台市文学館の1件のみ、ご案内可能です。いかがでしょうか？	general,shopping,attraction
+4161	6	USER	そこが良さそうです。そこの子供入場料を教えてください。	general,shopping,attraction
+4161	7	SYSTEM	お子様の入場料は、110円です。	general,shopping,attraction
+4161	8	USER	分かりました。ありがとうございます。	general,shopping,attraction
+4161	9	SYSTEM	他にお調べすることなど、ございませんか？	general,shopping,attraction
+4161	10	USER	はい、大丈夫です。	general,shopping,attraction
+4161	11	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,shopping,attraction

@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+450	0	USER	札幌への旅行の際に、食事ができる飲食店を探してもらえますか？	general,restaurant,attraction,taxi
+450	1	SYSTEM	承知しました。ジャンルなどのご希望はございますか？	general,restaurant,attraction,taxi
+450	2	USER	ジャンルの希望はないですが、予算は普通くらいでお願いします。あと、駐車場を無料で利用できるとありがたいです。	general,restaurant,attraction,taxi
+450	3	SYSTEM	ありがとうございます。では、蕎麦切り 春のすけはいかがでしょう？ジャンルはうどん、そば、和食となります。	general,restaurant,attraction,taxi
+450	4	USER	そちらに行きたいと思います。営業時間と定休日を教えて頂けないでしょうか。	general,restaurant,attraction,taxi
+450	5	SYSTEM	はい、営業時間は11時30分から14時30分と、18時から22時、定休日は月曜日と日曜日になります。	general,restaurant,attraction,taxi
+450	6	USER	ありがとうございます。観光名所もおすすめを教えてください。	general,restaurant,attraction,taxi
+450	7	SYSTEM	承知しました。エリアなどのご希望はございますか？	general,restaurant,attraction,taxi
+450	8	USER	エリアの希望はないですが、スポーツ・フィットネス系のお店でお願いします。あとWi-Fiと駐車場を無料で利用できるところがいいです。	general,restaurant,attraction,taxi
+450	9	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,restaurant,attraction,taxi
+450	10	USER	有料の駐車場で大丈夫です。どこかありそうでしょうか？	general,restaurant,attraction,taxi
+450	11	SYSTEM	ありがとうございます。札幌ドームがございます。エリアは豊平区となります。	general,restaurant,attraction,taxi
+450	12	USER	ありがとうございます。当日利用できるタクシー会社も探してもらえますか？	general,restaurant,attraction,taxi
+450	13	SYSTEM	承知しました。それでは、ダイコク交通(株)はいかがでしょう？キャッシュレス、ジャンボタクシーともに対応しております。電話番号は、0117416000となります。	general,restaurant,attraction,taxi
+450	14	USER	そちらでお願いします。予約もお願いできますか？10/8の10:50で、蕎麦切り 春のすけ出発、札幌ドームが目的地で予約したいです。	general,restaurant,attraction,taxi
+450	15	SYSTEM	承知しました。予約が完了し、ご予約番号は、91107となります。	general,restaurant,attraction,taxi
+450	16	USER	ありがとうございました。	general,restaurant,attraction,taxi

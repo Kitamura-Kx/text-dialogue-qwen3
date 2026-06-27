@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2880	0	USER	東京へ旅行に行こうと思っています。当日食事ができる飲食店を探しています。予算は高めで最寄駅は代官山駅を希望します。	general,restaurant,shopping,weather
+2880	1	SYSTEM	代官山で高めの飲食店はなさそうです。	general,restaurant,shopping,weather
+2880	2	USER	でしたら、最寄り駅は代官山でなくても良いです。	general,restaurant,shopping,weather
+2880	3	SYSTEM	東京で予算高めの飲食店は４９件ヒットします。	general,restaurant,shopping,weather
+2880	4	USER	条件に合うお店でしたらどこでも良いです。	general,restaurant,shopping,weather
+2880	5	SYSTEM	では、鮨 水月、こちらをおすすめします。	general,restaurant,shopping,weather
+2880	6	USER	そこの料金情報と住所を教えてもらえますでしょうか。	general,restaurant,shopping,weather
+2880	7	SYSTEM	住所は東京都港区西麻布3丁目1-20 DEAR西麻布 8Fです。飲み放題付お任せ握りプラン11000円、飲み放題付特上お任せ握りプラン16500円、記念日プラン豪華贅沢食器の彩り13200円、こんな感じです。	general,restaurant,shopping,weather
+2880	8	USER	あと当日買い物ができるところを探しています。地区は港区でジャンルはお土産です。	general,restaurant,shopping,weather
+2880	9	SYSTEM	港区でお土産といえば、せとうち旬彩館、こちら一択です。	general,restaurant,shopping,weather
+2880	10	USER	そこの電話番号と近辺の駅からの所要時間を教えてください。	general,restaurant,shopping,weather
+2880	11	SYSTEM	電話は0335747792、新橋駅から徒歩で1分、汐留駅から徒歩で5分です。	general,restaurant,shopping,weather
+2880	12	USER	あと当日7/17の中野区の天気を教えてください。	general,restaurant,shopping,weather
+2880	13	SYSTEM	7/17 東京 中野区 の天気は晴のち曇、最低気温 は25.5度、最高気温は27.2度です。	general,restaurant,shopping,weather
+2880	14	USER	分かりました。ありがとうございます。	general,restaurant,shopping,weather
+2880	15	SYSTEM	よい旅を	general,restaurant,shopping,weather

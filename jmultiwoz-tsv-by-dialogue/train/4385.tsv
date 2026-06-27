@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4385	0	USER	仙台に旅行した際に泊まれる宿泊施設を探していただきたいです。若林区でWi-Fiが無料で利用できるところをお願いします。	general,hotel,shopping,weather
+4385	1	SYSTEM	そうしますと、ホテル シーラックパル仙台というところはいかがでしょうか？	general,hotel,shopping,weather
+4385	2	USER	ありがとうございます。そこにします。レストランはありますか？	general,hotel,shopping,weather
+4385	3	SYSTEM	申し訳ありません、こちらはレストランは併設しておりません。	general,hotel,shopping,weather
+4385	4	USER	わかりました。予約をお願いしたいのですが、人数は3人で、4/22から4泊でお願いします。	general,hotel,shopping,weather
+4385	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、54104です。	general,hotel,shopping,weather
+4385	6	USER	ありがとうございます。あと、当日に買い物ができるアウトレットモールを探していただきたいです。若林区で駐車場を無料で利用できるところでお願いします。	general,hotel,shopping,weather
+4385	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,shopping,weather
+4385	8	USER	では地区はどこでも構いません。それであればありますか？	general,hotel,shopping,weather
+4385	9	SYSTEM	ありがとうございます。そういたしますと、仙台泉プレミアム・アウトレットというところはいかがでしょうか？エリアは、泉区になります。	general,hotel,shopping,weather
+4385	10	USER	ありがとうございます。そこにします。定休日と最寄り駅を教えていただけますか？	general,hotel,shopping,weather
+4385	11	SYSTEM	定休日は、1/1と二月の第三木曜日です。最寄りは、泉中央駅ですが、バスで23分ほどかかります。	general,hotel,shopping,weather
+4385	12	USER	ありがとうございます。最後に4/22の青葉区の最低気温を教えていただけますか？	general,hotel,shopping,weather
+4385	13	SYSTEM	はい、当日の最低気温は5.7度まで下がる見込みです。	general,hotel,shopping,weather
+4385	14	USER	ありがとうございます。	general,hotel,shopping,weather
+4385	15	SYSTEM	他にお知りになりたい情報など、ございませんか？	general,hotel,shopping,weather
+4385	16	USER	はい、大丈夫です。ありがとうございました。	general,hotel,shopping,weather
+4385	17	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,hotel,shopping,weather

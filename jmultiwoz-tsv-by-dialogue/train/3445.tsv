@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3445	0	USER	福岡へ行こうと思うのですが、駐車場が無料な観光名所教えて下さい。	general,attraction,hotel,shopping
+3445	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction,hotel,shopping
+3445	2	USER	それでは、駐車場の有り無しは気にしません。	general,attraction,hotel,shopping
+3445	3	SYSTEM	かしこまりました。それでは福岡 PayPayドームはいかがでしょうか？	general,attraction,hotel,shopping
+3445	4	USER	そこは、どいいったジャンルの所ですか？	general,attraction,hotel,shopping
+3445	5	SYSTEM	はい、ジャンルはアリーナ・スタジアム, スポーツ・フィットネスでございます。	general,attraction,hotel,shopping
+3445	6	USER	行ってみます。博多区でWi-Fi無料な宿泊施設を探しています。	general,attraction,hotel,shopping
+3445	7	SYSTEM	かしこまりました。それではキャナルシティ・福岡ワシントンホテルはいかがでしょうか？	general,attraction,hotel,shopping
+3445	8	USER	料金情報お願いできますか？	general,attraction,hotel,shopping
+3445	9	SYSTEM	値段帯は安めでございます。詳細な料金情報はございません。	general,attraction,hotel,shopping
+3445	10	USER	そうですか。最寄りの駅と、近辺駅からの所要時間、料金を教えて下さい	general,attraction,hotel,shopping
+3445	11	SYSTEM	はい、最寄り駅は博多駅、近辺の駅からは、博多駅から徒歩で10分 中洲川端駅から徒歩で10分でございます。料金は申し訳ありません。分かりません。	general,attraction,hotel,shopping
+3445	12	USER	ありがとうがざいます。2/10から2人で2泊の予約お願いします。	general,attraction,hotel,shopping
+3445	13	SYSTEM	申し訳ありません。その条件では予約が出来ませんでした。	general,attraction,hotel,shopping
+3445	14	USER	では、一人にして下さい。	general,attraction,hotel,shopping
+3445	15	SYSTEM	かしこまりました。それでは予約番号75617でお取りさせていただきました。	general,attraction,hotel,shopping
+3445	16	USER	ありがとうございます。当日、博多区で買い物したいのですが、ショッピングモールありますか？	general,attraction,hotel,shopping
+3445	17	SYSTEM	はい、それではKITTE博多はいかがでしょうか？	general,attraction,hotel,shopping
+3445	18	USER	行ってみます。近辺駅からの所要時間はどのくらいですか？	general,attraction,hotel,shopping
+3445	19	SYSTEM	ありがとうございます。博多駅から徒歩で1分でございます。	general,attraction,hotel,shopping
+3445	20	USER	ありがとうございます。失礼します。	general,attraction,hotel,shopping
+3445	21	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,hotel,shopping

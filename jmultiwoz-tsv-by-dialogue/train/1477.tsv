@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1477	0	USER	福岡へ旅行に行くので、当日利用できるタクシー会社を探してください	general,taxi
+1477	1	SYSTEM	かしこまりました。では日新交通（株）がございます。こちらキャッシュレスにもジャンボタクシーにも対応しております。	general,taxi
+1477	2	USER	ではそちらで予約をお願いします。日付は4/8、時間は12:40、出発地はダイワロイネットホテル博多祇園、目的地はSalvatore Cuomo 市場 博多です。	general,taxi
+1477	3	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は38402でございます。	general,taxi
+1477	4	USER	ありがとうございます。以上です。	general,taxi
+1477	5	SYSTEM	承知しました。ありがとうございました。	general,taxi

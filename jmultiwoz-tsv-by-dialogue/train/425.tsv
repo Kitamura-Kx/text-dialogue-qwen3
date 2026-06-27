@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+425	0	USER	札幌旅行で食事ができる飲食店は何かありますか？	general,restaurant
+425	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+425	2	USER	厚別区で予算は安めだとうれしいです。	general,restaurant
+425	3	SYSTEM	申し訳ございません。その条件ですと案内できるところがございませんでした。	general,restaurant
+425	4	USER	豊平区だと何かありそうでしょうか。	general,restaurant
+425	5	SYSTEM	トリコローレがございます。	general,restaurant
+425	6	USER	そちらに行きたいと思います。住所を教えて頂けないでしょうか。	general,restaurant
+425	7	SYSTEM	住所は北海道札幌市豊平区月寒東3条16丁目5-21でございます。	general,restaurant
+425	8	USER	ありがとうございました。	general,restaurant

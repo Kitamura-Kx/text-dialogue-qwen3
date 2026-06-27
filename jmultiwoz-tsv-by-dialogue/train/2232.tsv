@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2232	0	USER	名古屋でレストラン付きのビジネスホテルなんてありますかね？	general,hotel,restaurant
+2232	1	SYSTEM	名古屋にレストラン付きのビジネスホテルは２９件あります。追加の希望条件はありますか？	general,hotel,restaurant
+2232	2	USER	特にないので、どこかよさげな所を教えてください、電話番号もお願いします。	general,hotel,restaurant
+2232	3	SYSTEM	それではダイワロイネットホテル名古屋駅前をお勧めします。電話番号は0525413955です。	general,hotel,restaurant
+2232	4	USER	そのホテル、分かる範囲でいいので料金の情報はありますか？あとチェックアウトが何時までなのかも教えてください。	general,hotel,restaurant
+2232	5	SYSTEM	チェックアウトは１１時まで、値段帯は安めですが、料金の詳細情報は持ち合わせていません。	general,hotel,restaurant
+2232	6	USER	わかりました。えーと、新栄町駅の近くでカフェやスイーツのお店ってありますかね。駐車場が無料の所をお願いしたんですけど。	general,hotel,restaurant
+2232	7	SYSTEM	全ての条件を兼ね備える店はなさそうです。	general,hotel,restaurant
+2232	8	USER	じゃあ、ジャンルは何でもいいです。紹介してください。	general,hotel,restaurant
+2232	9	SYSTEM	新栄町で駐車場無料となると、ビストロ バッカス、一択ですね。	general,hotel,restaurant
+2232	10	USER	そこはエリア的にはどこになりますか？	general,hotel,restaurant
+2232	11	SYSTEM	中区ですね	general,hotel,restaurant
+2232	12	USER	ありがとうございました。よくわかりました。	general,hotel,restaurant

@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4807	0	USER	京都へ観光に行くのですが、西京区で駐車場を無料で利用できて、教室、ワークショップ、体験ができる観光名所があるか調べてください。	general,attraction
+4807	1	SYSTEM	西京区で駐車場を無料で利用できて、教室、ワークショップ、体験ができる観光名所は、桂坂野鳥遊園になります。	general,attraction
+4807	2	USER	いいですね。そちらの大人入場料ってわかりますか？	general,attraction
+4807	3	SYSTEM	大人も子供も無料です。	general,attraction
+4807	4	USER	無料なんですね。ありがとうございました。	general,attraction

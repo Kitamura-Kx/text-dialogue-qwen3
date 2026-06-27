@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1431	0	USER	東京に旅行するのですが、レストランが併設されていて、駐車場無料の宿泊施設はありませんか？	general,hotel
+1431	1	SYSTEM	かしこまりました。では、The Okura Tokyoはいかがでしょうか。	general,hotel
+1431	2	USER	The Okura Tokyoのチェックアウトは、いつ終了ですか？	general,hotel
+1431	3	SYSTEM	チェックアウト終了時刻は12:00でございます。	general,hotel
+1431	4	USER	わかりました。では、予約をお願いします。7/3から２泊で、人数は３名です。	general,hotel
+1431	5	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel
+1431	6	USER	そうなんですね。では、宿泊日数は１泊でもかまいません。	general,hotel
+1431	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は8013でございます。	general,hotel
+1431	8	USER	今回お願いしたいことは以上です。ありがとうございました。	general,hotel
+1431	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

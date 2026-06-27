@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+798	0	USER	仙台で観光名所を探しています。作並駅で無料駐車できるところはありますか？	general,attraction,weather
+798	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。いかが致しましょうか？	general,attraction,weather
+798	2	USER	では最寄り駅の条件を除いて、再度検索していただけませんか？	general,attraction,weather
+798	3	SYSTEM	ありがとうございます。そうしますと、31件ほどご案内可能です。例えば、磊々峡というところは、如何でしょうか？	general,attraction,weather
+798	4	USER	そちらでお願いします。営業時間と、料金の詳細情報も知りたいです！	general,attraction,weather
+798	5	SYSTEM	営業時間は、0:00～0:00ですので、24時間ですね。料金は無料となっております。	general,attraction,weather
+798	6	USER	丁度いいですね。ありがとうございます。続いて、旅行先の天気も教えてください。宮城野区の12/30の最低気温は何度ですか？	general,attraction,weather
+798	7	SYSTEM	3.5度の予想となっております。	general,attraction,weather
+798	8	USER	寒そう、、、ありがとうございました！	general,attraction,weather

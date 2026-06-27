@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3350	0	USER	札幌への旅行を計画中で、札幌駅周辺の飲食店を探しています。	general,restaurant,taxi
+3350	1	SYSTEM	8件見つかりました。どのようなお店をお探しですか。	general,restaurant,taxi
+3350	2	USER	無料Wi-fiが利用できて、予算が普通のお店を探しています。	general,restaurant,taxi
+3350	3	SYSTEM	申し訳ございません。該当がございません。	general,restaurant,taxi
+3350	4	USER	分かりました。では、Wi-fiは無くても構いません。	general,restaurant,taxi
+3350	5	SYSTEM	エノテカドォーロ -札幌- 港町のモンキチ 吾照里 札幌エスタ店 蕎麦切り 春のすけ 銀座天一 札幌東急店 マザーリーフ さっぽろ東急店の6件がご紹介できます。	general,restaurant,taxi
+3350	6	USER	ありがとうございます。港町のモンキチにしようと思います。どういったジャンルのお店ですか？	general,restaurant,taxi
+3350	7	SYSTEM	ジャンルとしましては、居酒屋, 和食, 寿司・魚料理です。	general,restaurant,taxi
+3350	8	USER	ありがとうございます。当日キャッシュレス払いできるタクシー会社を探しているのですが、ありますか？	general,restaurant,taxi
+3350	9	SYSTEM	12件ございます。ほかの条件はございますか？	general,restaurant,taxi
+3350	10	USER	9/2の10:40に、串鳥 手稲駅前から港町のモンキチまで移動できる会社を探しています。	general,restaurant,taxi
+3350	11	SYSTEM	かしこまりました。こちらで予約いたしましょうか？	general,restaurant,taxi
+3350	12	USER	はい、よろしくお願いします。念のため、タクシー会社名も教えていただきたいです。	general,restaurant,taxi
+3350	13	SYSTEM	日北交通(株)でご予約させていただきました。予約番号は48378です	general,restaurant,taxi
+3350	14	USER	非常に助かります。ありがとうございます。	general,restaurant,taxi
+3350	15	SYSTEM	とんでもないです。	general,restaurant,taxi
+3350	16	USER	ありがとうございました。それでは、失礼します。	general,restaurant,taxi

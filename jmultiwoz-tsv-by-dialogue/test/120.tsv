@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+120	0	USER	こんにちは！ 大阪に旅行しようと思っているのですが、お尋ねしたいことがいくつかあるので、よろしくお願いします。	general,hotel,shopping,weather
+120	1	SYSTEM	大阪ですね。かしこまりました。	general,hotel,shopping,weather
+120	2	USER	まず、アズガーデン日本橋という宿泊施設について、お調べいただけますか？	general,hotel,shopping,weather
+120	3	SYSTEM	はい。ございました。何をお調べいたしましょうか。	general,hotel,shopping,weather
+120	4	USER	レストランがあるかどうかはわかりますか？	general,hotel,shopping,weather
+120	5	SYSTEM	レストランは無しとなっております。	general,hotel,shopping,weather
+120	6	USER	そうなんですね。では、あと、住所と近辺の駅からの所要時間 についても、伺ってもよろしいですか？	general,hotel,shopping,weather
+120	7	SYSTEM	住所は大阪府大阪市中央区宗右衛門町1-6でございます。駅からの所要時間は日本橋駅から徒歩で3分、近鉄日本橋駅から徒歩で3分となっております。	general,hotel,shopping,weather
+120	8	USER	左様でございますか。ありがとうございます。 あとは、当日に買い物ができるところを探していただきたいのですが、阿倍野区にあるところで、どこか良い所はございますでしょうか？	general,hotel,shopping,weather
+120	9	SYSTEM	４件ございますが、ほかにご希望はございますか。	general,hotel,shopping,weather
+120	10	USER	そうしましたら、駐車場が無料で利用できるところでお願いします。	general,hotel,shopping,weather
+120	11	SYSTEM	ではあべのキューズモールはいかがでしょうか。	general,hotel,shopping,weather
+120	12	USER	わかりました。あべのキューズモールですね。 そちらについて、近辺の駅からの所要時間はわかりますか？	general,hotel,shopping,weather
+120	13	SYSTEM	天王寺駅から徒歩で2分、阿倍野駅から徒歩で1分、天王寺駅から徒歩で3分、大阪阿部野橋駅から徒歩で3分、天王寺駅前駅から徒歩で2分となっております。	general,hotel,shopping,weather
+120	14	USER	色々お調べいただき、ありがとうございます。 あとは、電話番号もお願いできますでしょうか。	general,hotel,shopping,weather
+120	15	SYSTEM	0665567000でございます。	general,hotel,shopping,weather
+120	16	USER	承知いたしました。ありがとうございます。 では、あと、10月27日の北区の天候についても、お調べいただけますでしょうか？	general,hotel,shopping,weather
+120	17	SYSTEM	天気は雨、最低気温は13.4度、最高気温は25.9度となっております。	general,hotel,shopping,weather
+120	18	USER	左様でございますか。承知いたしました。	general,hotel,shopping,weather
+120	19	SYSTEM	ほかにご用件はございませんか。	general,hotel,shopping,weather
+120	20	USER	はい、あとは結構です。本日は、ご対応いただいて、とても助かりました。ありがとうございました。	general,hotel,shopping,weather
+120	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,weather

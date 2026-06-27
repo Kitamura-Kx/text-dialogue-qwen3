@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1529	0	USER	横浜への旅行で当日食事ができる飲食店を教えて頂けないでしょうか。	general,restaurant
+1529	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+1529	2	USER	中区周辺で予算は高めのところがいいのですが。	general,restaurant
+1529	3	SYSTEM	では馬車道 鮨 恵しんはいかがでしょうか。	general,restaurant
+1529	4	USER	そちらに行きたいと思います。最寄り駅と近辺の駅からの所要時間を教えてください。	general,restaurant
+1529	5	SYSTEM	最寄り駅は馬車道駅で、徒歩で2分、関内駅からは徒歩で3分でございます。	general,restaurant
+1529	6	USER	ありがとうございました。	general,restaurant

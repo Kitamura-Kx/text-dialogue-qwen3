@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2247	0	USER	東京へ旅行に行くので、観光できるところを探してください。	general,attraction,taxi
+2247	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction,taxi
+2247	2	USER	ジャンルは絶景で、地区は江東区、最寄り駅が飯田橋駅のところにしてください。	general,attraction,taxi
+2247	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,taxi
+2247	4	USER	それでは最寄り駅の条件を外してください。	general,attraction,taxi
+2247	5	SYSTEM	かしこまりました。そうしますと、teamLab Planets TOKYOというところが1件ご案内可能です。いかがでしょうか？	general,attraction,taxi
+2247	6	USER	そちらにします。あとジャンボタクシーを利用できるタクシー会社を探してください。	general,attraction,taxi
+2247	7	SYSTEM	承知いたしました。では、銀星交通というところはいかがでしょうか？	general,attraction,taxi
+2247	8	USER	そちらの電話番号とキャッシュレス対応について教えてください。	general,attraction,taxi
+2247	9	SYSTEM	電話番号は、0425750458です。キャッシュレスのお支払いにも対応しております。	general,attraction,taxi
+2247	10	USER	ではそちらでタクシーを予約してください。日付は5/30、時間は10:30、出発地はアパホテル〈巣鴨駅前〉、目的地はteamLab Planets TOKYOです。	general,attraction,taxi
+2247	11	SYSTEM	ご予約ありがとうございます。予約完了いたしました。予約番号は、60654でございます。	general,attraction,taxi
+2247	12	USER	ありがとうございました。これで以上です。	general,attraction,taxi
+2247	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,taxi

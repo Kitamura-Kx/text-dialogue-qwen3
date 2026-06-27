@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4251	0	USER	京都へ旅行しようと思っているのですが、無料駐車場のある観光名所を探しています。	general,attraction,hotel,taxi
+4251	1	SYSTEM	かしこまりました。6件ご案内可能ですが、他になにかご希望の条件はございませんか？	general,attraction,hotel,taxi
+4251	2	USER	神社・寺院・教会・モニュメントなどがいいと考えております。	general,attraction,hotel,taxi
+4251	3	SYSTEM	そうしますと、北野天満宮はいかがでしょうか？上京区にあって、北野白梅町駅から徒歩で5分でアクセスできます。	general,attraction,hotel,taxi
+4251	4	USER	ありがとうございます。そこに行きたいと思います。営業時間をお聞きしてもいいですか？	general,attraction,hotel,taxi
+4251	5	SYSTEM	はい、営業時間は、朝5:00から夕方18:00までとなっております。	general,attraction,hotel,taxi
+4251	6	USER	ありがとうございます。あと宿泊施設を探しているのですが、無料駐車場があるビジネスホテルはどこかあるでしょうか。	general,attraction,hotel,taxi
+4251	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,attraction,hotel,taxi
+4251	8	USER	分かりました。ではビジネスホテルではなくてもかまいません。	general,attraction,hotel,taxi
+4251	9	SYSTEM	ありがとうございます。そうしますと6件ご案内可能です。たとえば、京都 高瀬川別邸は、いかがでしょうか？	general,attraction,hotel,taxi
+4251	10	USER	素敵そうな場所ですね。そこを利用したいと思います。最後にタクシー会社を探していただきたいのですが、ジャンボタクシーを利用できる会社はありますか？	general,attraction,hotel,taxi
+4251	11	SYSTEM	はい、ございます。高速タクシー株式会社はいかがでしょうか？	general,attraction,hotel,taxi
+4251	12	USER	ありがとうございます。そこを利用したいと思います。電話番号を教えていただいてもよろしいですか？	general,attraction,hotel,taxi
+4251	13	SYSTEM	はい、電話番号は、0756015588でございます。	general,attraction,hotel,taxi
+4251	14	USER	ありがとうございます。ちなみにですが、キャッシュレス対応はしていますでしょうか。	general,attraction,hotel,taxi
+4251	15	SYSTEM	はい、対応しております。	general,attraction,hotel,taxi
+4251	16	USER	分かりました。ありがとうございます。では当日の予約をお願いしたいのですが、9月8日の14:30に北野天満宮から京都 高瀬川別邸までで予約は可能でしょうか。	general,attraction,hotel,taxi
+4251	17	SYSTEM	大変申し訳ございません。ご希望の条件では予約できませんでした。お時間など、ご調整いただくことは可能でしょうか？	general,attraction,hotel,taxi
+4251	18	USER	分かりました。では時間を15:30に変更でお願いできますでしょうか。	general,attraction,hotel,taxi
+4251	19	SYSTEM	ありがとうございます。15:30発にて、ご予約完了いたしました。予約番号は、10324です。	general,attraction,hotel,taxi
+4251	20	USER	ありがとうございます。お願いしたいことは以上になります。何から何までサポートしていただき本当にありがとうございました。	general,attraction,hotel,taxi
+4251	21	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,attraction,hotel,taxi

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1935	0	USER	大阪へ行こうと思っています。駐車場が無料で利用できる観光名所を探していただきたいです。	general,attraction
+1935	1	SYSTEM	大阪だと駐車場無料の観光名所はなさそうです。	general,attraction
+1935	2	USER	では駐車場の有無は考慮せず探していただけますか？	general,attraction
+1935	3	SYSTEM	４８件ヒットします。他に追加の希望はありますか？	general,attraction
+1935	4	USER	特に希望はないです。	general,attraction
+1935	5	SYSTEM	では道頓堀 コナモンミュージアムをお勧めします。	general,attraction
+1935	6	USER	そちらのWiFiの有無、子供入場料について教えていただけますでしょうか。	general,attraction
+1935	7	SYSTEM	Wifiについては不明ですが、子供も大人も入場無料です。	general,attraction
+1935	8	USER	わかりました。ありがとうございます。	general,attraction
+1935	9	SYSTEM	他にご希望はありますか？	general,attraction
+1935	10	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction

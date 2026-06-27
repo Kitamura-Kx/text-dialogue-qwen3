@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+655	0	USER	すみません。東京に行きたいのですが、当日食事ができる飲食店を探してほしいです。	general,restaurant,hotel,weather
+655	1	SYSTEM	かしこまりました。ご希望の条件などはございますか？	general,restaurant,hotel,weather
+655	2	USER	Wi-Fiが無料で利用できるところにしてください。駐車場を無料で利用できるところで、予算は高めが希望です。	general,restaurant,hotel,weather
+655	3	SYSTEM	かしこまりました。そうしますと、バルバッコア 六本木ヒルズ店というお店を1件ご案内可能です。いかがでしょうか？	general,restaurant,hotel,weather
+655	4	USER	予約をお願いします。人数は4人、日付は7/16、時間は12:50希望です。	general,restaurant,hotel,weather
+655	5	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。予約番号は、19074です。	general,restaurant,hotel,weather
+655	6	USER	そこのお店のジャンルは何ですか？	general,restaurant,hotel,weather
+655	7	SYSTEM	ジャンルは、洋食・西洋料理, 居酒屋となっております。	general,restaurant,hotel,weather
+655	8	USER	続いて宿泊施設を探してほしいです。条件は、最寄駅が大手町駅、地区は北区希望です。	general,restaurant,hotel,weather
+655	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できる宿泊施設が見つかりませんでした。	general,restaurant,hotel,weather
+655	10	USER	そうなんですね。では最寄駅は考えないことにするとありますか？	general,restaurant,hotel,weather
+655	11	SYSTEM	ありがとうございます。TOKYO CITY VIEW HOTEL TABATA-STATIONというお安めのビジネスホテルが1件ございます。いかがでしょうか？	general,restaurant,hotel,weather
+655	12	USER	そこの住所，電話番号，チェックイン開始時刻が知りたいです。	general,restaurant,hotel,weather
+655	13	SYSTEM	住所は東京都北区田端1丁目24-22、電話番号は、0338274881です。チェックインは15時からとなっております。	general,restaurant,hotel,weather
+655	14	USER	7/16を考えていますが、当日の杉並区の天候を教えてください。	general,restaurant,hotel,weather
+655	15	SYSTEM	かしこまりました。当日の天気は、雨時々曇りの予報です。最低気温は18.8度、最高気温は28.3度の予想です。	general,restaurant,hotel,weather
+655	16	USER	ありがとうございます。	general,restaurant,hotel,weather
+655	17	SYSTEM	ほかにお調べすることはございますか？	general,restaurant,hotel,weather
+655	18	USER	大丈夫です。助かりました。	general,restaurant,hotel,weather
+655	19	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant,hotel,weather

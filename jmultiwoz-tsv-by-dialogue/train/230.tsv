@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+230	0	USER	名古屋への旅行を計画しており、観光名所を探しています。	general,attraction
+230	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction
+230	2	USER	刀剣コレクション 名古屋・丸の内というところがいいなと思っているのですが、駐車場の有無を調べてもらえますか？	general,attraction
+230	3	SYSTEM	駐車場は有料ですがございます。	general,attraction
+230	4	USER	ありがとうございます。あと子供入場料と大人入場料も調べてもらえますか？	general,attraction
+230	5	SYSTEM	どちらも無料でございます。	general,attraction
+230	6	USER	ありがとうございます。	general,attraction
+230	7	SYSTEM	ほかにご用件はございますか。	general,attraction
+230	8	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction
+230	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4686	0	USER	京都へ旅行に行くので、普通の値段位でいい飲食店はないですか？	general,restaurant,hotel,shopping
+4686	1	SYSTEM	京都には、予算普通の飲食店は３４件ありますが、京の四季 いろどりをお勧めします。	general,restaurant,hotel,shopping
+4686	2	USER	その店のジャンルと最寄り駅はわかりますか？	general,restaurant,hotel,shopping
+4686	3	SYSTEM	ジャンルは和食、最寄りは京都駅、京都駅から徒歩で5分です。	general,restaurant,hotel,shopping
+4686	4	USER	ありがとうございます。駐車場を無料で利用できるビジネスホテルも探してください。	general,restaurant,hotel,shopping
+4686	5	SYSTEM	京都には、駐車場無料のビジネスホテルは２件ありますが、アパヴィラホテル〈京都駅前〉をお勧めします。	general,restaurant,hotel,shopping
+4686	6	USER	そこの近辺の駅からの所要時間とWi-Fiの有無を教えてください。	general,restaurant,hotel,shopping
+4686	7	SYSTEM	京都駅から徒歩で1分、WiFiは無料です。	general,restaurant,hotel,shopping
+4686	8	USER	それなら、2人で2/28から2泊予約したいです。	general,restaurant,hotel,shopping
+4686	9	SYSTEM	予約成功しました。予約番号は99039です。	general,restaurant,hotel,shopping
+4686	10	USER	ありがとうございます。あと、最寄り駅が嵐山駅で駐車場を無料利用できる買い物屋さんを教えてください。	general,restaurant,hotel,shopping
+4686	11	SYSTEM	京都嵐山で駐車場無料の買い物施設は、伊藤常嵐山店です。	general,restaurant,hotel,shopping
+4686	12	USER	そこにしようかな。住所とエリアを教えてください。	general,restaurant,hotel,shopping
+4686	13	SYSTEM	エリアは右京区。京都府京都市右京区嵯峨嵐山天龍寺造路町20番地38。	general,restaurant,hotel,shopping
+4686	14	USER	わかりました。ありがとうございます。	general,restaurant,hotel,shopping

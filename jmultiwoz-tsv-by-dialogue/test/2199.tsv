@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2199	0	USER	福岡で買い物スポットを探してください。ジャンルはスポーツで、無料駐車場のあるスポットがいいです。	general,shopping,restaurant,weather
+2199	1	SYSTEM	その条件ならばアビスパ福岡 オフィシャルショップ一択です。	general,shopping,restaurant,weather
+2199	2	USER	最寄り駅と、そこからの所要時間はどうなりますか？あと、定休日も知りたいです。	general,shopping,restaurant,weather
+2199	3	SYSTEM	博多駅から徒歩で1分、水曜日が定休日で、あと年末年始も休みですね。	general,shopping,restaurant,weather
+2199	4	USER	分かりました。続いて、飲食店も探してまして。南区で無料Wifiがあるお店を教えてください。	general,shopping,restaurant,weather
+2199	5	SYSTEM	南区に無料Wifiがある飲食店は残念ながらなさそうです。	general,shopping,restaurant,weather
+2199	6	USER	では、Wifiの条件を除いてください。	general,shopping,restaurant,weather
+2199	7	SYSTEM	それならば能古の旬をお勧めします。	general,shopping,restaurant,weather
+2199	8	USER	そちらのジャンルはなんですか？あと、最寄り駅も教えてください。	general,shopping,restaurant,weather
+2199	9	SYSTEM	ジャンルは寿司・魚料理, 和食、高宮駅からバスで21分になります。	general,shopping,restaurant,weather
+2199	10	USER	では予約をお願いします。10/20、11時からで、3人で利用する予定です。	general,shopping,restaurant,weather
+2199	11	SYSTEM	その条件だと予約に失敗してしまいました。何か条件を変更できそうでしょうか。	general,shopping,restaurant,weather
+2199	12	USER	では人数を2人に変更してください。	general,shopping,restaurant,weather
+2199	13	SYSTEM	10/20、11時から、２人で予約成功しました。予約番号は6136です。	general,shopping,restaurant,weather
+2199	14	USER	ありがとうございます。最後に、10/20の最高気温と天気を教えてください。地区は東区です。	general,shopping,restaurant,weather
+2199	15	SYSTEM	10/20、福岡東区の天気は曇時々晴、最高気温は23.8度です。	general,shopping,restaurant,weather
+2199	16	USER	問い合わせは以上です。ありがとうございます！	general,shopping,restaurant,weather

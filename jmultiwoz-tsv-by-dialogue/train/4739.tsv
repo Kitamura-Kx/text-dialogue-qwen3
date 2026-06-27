@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4739	0	USER	札幌へ旅行予定なのですが、北区で駐車場を無料利用できる買い物施設はありませんか？	general,shopping
+4739	1	SYSTEM	承知しました。では、パセオはいかがでしょう？ジャンルは、ショッピングモールとなります。	general,shopping
+4739	2	USER	そこにします。最寄り駅はどこですか？	general,shopping
+4739	3	SYSTEM	はい、最寄りの札幌駅から徒歩で1分となります。	general,shopping
+4739	4	USER	わかりました。ありがとうございました。	general,shopping
+4739	5	SYSTEM	ありがとうございました。	general,shopping

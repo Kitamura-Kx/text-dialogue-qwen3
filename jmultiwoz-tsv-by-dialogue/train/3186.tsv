@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3186	0	USER	那覇への旅行を計画中で、観光名所を探しています。	general,attraction,restaurant,taxi
+3186	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,attraction,restaurant,taxi
+3186	2	USER	はい。無料駐車場のある世界遺産を探しています。	general,attraction,restaurant,taxi
+3186	3	SYSTEM	かしこまりました。では、国営沖縄記念公園はいかがでしょうか？	general,attraction,restaurant,taxi
+3186	4	USER	そこにしようと思います。当日利用できる飲食店を探しているのですが、ありますか？	general,attraction,restaurant,taxi
+3186	5	SYSTEM	ございますよ。やっぱりステーキ 久茂地店はどうですか？	general,attraction,restaurant,taxi
+3186	6	USER	ありがとうございます。無料Wi-fiと駐車場があって、予算は高すぎず普通が良いのですが、マッチしていますか？	general,attraction,restaurant,taxi
+3186	7	SYSTEM	かしこまりました。では、ワイン食堂トランク イタリアゴハン 小禄店はいかがでしょうか？	general,attraction,restaurant,taxi
+3186	8	USER	そこにしようと思います。8/31の16:00に2名で予約して頂いてもよろしいでしょうか？	general,attraction,restaurant,taxi
+3186	9	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,attraction,restaurant,taxi
+3186	10	USER	分かりました。では、人数は1名で構いません。	general,attraction,restaurant,taxi
+3186	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、53507です。	general,attraction,restaurant,taxi
+3186	12	USER	ありがとうございます。当日キャッシュレス払いの可能なジャンボタクシーを探しているのですが、ありますか？	general,attraction,restaurant,taxi
+3186	13	SYSTEM	かしこまりました。鏡原第一交通はいかがでしょうか？	general,attraction,restaurant,taxi
+3186	14	USER	ありがとうございます。そこにしようと思います。電話番号はわかりますか？	general,attraction,restaurant,taxi
+3186	15	SYSTEM	はい。電話番号は0988537801です。	general,attraction,restaurant,taxi
+3186	16	USER	ありがとうございます。8/31の14:00に、国営沖縄記念公園からワイン食堂トランク イタリアゴハン 小禄店まで予約して欲しいのですが、可能でしょうか？	general,attraction,restaurant,taxi
+3186	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、47979です。	general,attraction,restaurant,taxi
+3186	18	USER	助かりました。ありがとうございます。	general,attraction,restaurant,taxi
+3186	19	SYSTEM	ほかにお調べすることはありますか？	general,attraction,restaurant,taxi
+3186	20	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,restaurant,taxi
+3186	21	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,taxi

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4912	0	USER	那覇に旅行に行こうと思っています。現地ではタクシーを利用したいのでキャッシュレス払いのできる会社を探してください。	general,taxi
+4912	1	SYSTEM	かしこまりました。三和交通がございます。こちらキャッシュレスにも対応しております。	general,taxi
+4912	2	USER	ありがとうございます。その会社の電話番号とジャンボタクシー対応について教えてください。	general,taxi
+4912	3	SYSTEM	電話番号は0120100084でございます。ジャンボタクシーにも対応しております。	general,taxi
+4912	4	USER	ありがとうございます。6/17の11:50にブラックハーレムからGRGホテル那覇で予約をお願いします。	general,taxi
+4912	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は52168でございます。	general,taxi
+4912	6	USER	ありがとうございます。これで大丈夫です。	general,taxi
+4912	7	SYSTEM	承知しました。ありがとうございました。	general,taxi

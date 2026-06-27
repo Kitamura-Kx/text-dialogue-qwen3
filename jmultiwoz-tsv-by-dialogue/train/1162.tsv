@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1162	0	USER	福岡でタクシーを利用したいのですが、キャッシュレス対応のところはありますか？	general,taxi
+1162	1	SYSTEM	かしこまりました。では日新交通（株）がございます。こちらジャンボタクシーも対応しております。	general,taxi
+1162	2	USER	そちらの会社の電話番号を教えてください。	general,taxi
+1162	3	SYSTEM	電話番号は0120152452でございます。	general,taxi
+1162	4	USER	ありがとうございます。では、予約をお願いします。10/25  10時に、出発地は百道中央公園。目的地は牛すじ葱丸でお願いします。	general,taxi
+1162	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は57438でございます。	general,taxi
+1162	6	USER	今日は以上です。ありがとうございました。	general,taxi
+1162	7	SYSTEM	承知しました。ありがとうございました。	general,taxi

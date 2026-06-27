@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4891	0	USER	仙台への旅行を計画中のため、宮城野区で駐車場が無料で利用できてWi-Fiも無料で使える観光名所を探してほしいです。	general,attraction,weather
+4891	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction,weather
+4891	2	USER	ではWi-Fiはなくてもいいので、宮城野区で駐車場が無料で利用できる観光名所でどこかいいところはありますか？	general,attraction,weather
+4891	3	SYSTEM	それではキリンビール仙台工場がございます。	general,attraction,weather
+4891	4	USER	住所と近辺の駅からの所要時間を教えてください。	general,attraction,weather
+4891	5	SYSTEM	はい、住所は宮城県仙台市宮城野区港2丁目2-1でございまして、多賀城駅からバスで15分、多賀城駅からタクシーで15分、中野栄駅からタクシーで10分でございます。	general,attraction,weather
+4891	6	USER	あと子供入場料も調べてもらえますか？	general,attraction,weather
+4891	7	SYSTEM	子供入場料は無料でございます。	general,attraction,weather
+4891	8	USER	ありがとうございます。あと2/20の青葉区の最高気温と最低気温を調べてもらえますか？	general,attraction,weather
+4891	9	SYSTEM	はい、当日の青葉区の最高気温は11.1度、最低気温は-0.1度の予報でございます。	general,attraction,weather
+4891	10	USER	ありがとうございます。	general,attraction,weather
+4891	11	SYSTEM	その他にご用件はございますか？	general,attraction,weather
+4891	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,weather

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1857	0	USER	名古屋に行くのですが、名古屋駅の近くに観光名所はありますか？	general,attraction
+1857	1	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction
+1857	2	USER	では、名古屋駅の近くでなくても良いので、できればWi-Fiと駐車場が無料の場所が良いです。	general,attraction
+1857	3	SYSTEM	かしこまりました。では、大高緑地はいかがでしょうか？	general,attraction
+1857	4	USER	いいですね！そこの電話番号はわかりますか？	general,attraction
+1857	5	SYSTEM	はい。電話番号は0526222281でございます。	general,attraction
+1857	6	USER	今知りたいことは以上です。ありがとうございました。	general,attraction
+1857	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

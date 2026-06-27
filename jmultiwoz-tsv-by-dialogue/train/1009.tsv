@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1009	0	USER	横浜で安めに洋食・西洋料理の食事ができる店を探しています。	general,restaurant
+1009	1	SYSTEM	承知しました。では、世界のビール博物館 横浜店はいかがでしょう？何をご案内致しましょう？	general,restaurant
+1009	2	USER	Wi-Fiは無料で使えますか？	general,restaurant
+1009	3	SYSTEM	はい、無料でご利用いただけます。	general,restaurant
+1009	4	USER	良かったです。どのエリアにある店ですか？	general,restaurant
+1009	5	SYSTEM	エリアは西区となります。	general,restaurant
+1009	6	USER	わかりました。駐車場はありますか？駅からかかる時間も教えてください。	general,restaurant
+1009	7	SYSTEM	駐車場はございますが、有料となります。最寄りのみなとみらい駅から徒歩で2分です。	general,restaurant
+1009	8	USER	わかりました。この店を1/21に予約したいです。	general,restaurant
+1009	9	SYSTEM	承知しました。人数とお時間を教えていただけますか？	general,restaurant
+1009	10	USER	14：30に2人でお願いします。	general,restaurant
+1009	11	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、5669となります。	general,restaurant
+1009	12	USER	ありがとうございました。	general,restaurant
+1009	13	SYSTEM	他にご用件はございますか？	general,restaurant
+1009	14	USER	大丈夫です。	general,restaurant
+1009	15	SYSTEM	ありがとうございました。	general,restaurant

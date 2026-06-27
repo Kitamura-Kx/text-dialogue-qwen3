@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1014	0	USER	那覇でキャッシュレス払いができてジャンボタクシーがあるタクシー会社を探してます。	general,taxi
+1014	1	SYSTEM	承知しました。では、丸星交通はいかがでしょう？電話番号は、0988685831となります。	general,taxi
+1014	2	USER	ありがとうございます。そちらのタクシーを2/28の12：00に予約したいです。	general,taxi
+1014	3	SYSTEM	承知しました。恐れ入りますが、出発地と目的地を教えていただけますか？	general,taxi
+1014	4	USER	リーガロイヤルグラン沖縄からジャンピング シーサーに行きたいです。	general,taxi
+1014	5	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、10194となります。他にご用件はございますか？	general,taxi
+1014	6	USER	大丈夫です。ありがとうございました。	general,taxi
+1014	7	SYSTEM	ありがとうございました。	general,taxi

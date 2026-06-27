@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2284	0	USER	京都への旅行を計画しています。伏見区でコンサートやショーが見られる観光名所はありますか？	general,attraction,restaurant
+2284	1	SYSTEM	はい、京都市呉竹文化センターがございます。	general,attraction,restaurant
+2284	2	USER	そちらの住所と、最寄り駅からの所要時間を教えて下さい。	general,attraction,restaurant
+2284	3	SYSTEM	はい、住所は京都府京都市伏見区京町南7丁目35-1、最寄りの丹波橋駅から徒歩で1分となります。	general,attraction,restaurant
+2284	4	USER	わかりました。それと、左京区で駐車場が無料で使える飲食店を教えて下さい。	general,attraction,restaurant
+2284	5	SYSTEM	では、稲穂食堂はいかがでしょう？	general,attraction,restaurant
+2284	6	USER	そちらの住所を教えて下さい。	general,attraction,restaurant
+2284	7	SYSTEM	はい、住所は京都府京都市左京区高野玉岡町33-4 Nature bldg 2Fとなります。	general,attraction,restaurant
+2284	8	USER	わかりました、。ありがとうございました。	general,attraction,restaurant

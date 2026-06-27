@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4860	0	USER	大阪に旅行に行く予定なのですが、予算が安めの宿泊施設に泊まりたいと思っています。駐車場が無料で利用できるのとレストランが併設されているのが希望です。	general,hotel,attraction,taxi
+4860	1	SYSTEM	承知しました。では、エリアでいうと港区にある、ビジネス旅館 励明園はいかがでしょう？タイプは、旅館となります。	general,hotel,attraction,taxi
+4860	2	USER	ありがとうございます。その旅館のチェックイン開始時間はいつになりますか。	general,hotel,attraction,taxi
+4860	3	SYSTEM	はい、チェックイン開始時刻は14時となります。	general,hotel,attraction,taxi
+4860	4	USER	分かりました。ありがとうございます。あと、天王寺区の銭湯やスパが利用できる観光名所に行きたいです。	general,hotel,attraction,taxi
+4860	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel,attraction,taxi
+4860	6	USER	でしたら銭湯やスパでない観光名所でかまいません。	general,hotel,attraction,taxi
+4860	7	SYSTEM	ありがとうございます。では、三光神社はいかがでしょう？ジャンルは、神社、寺院、教会、モニュメントなど、歴史的建造物、となります。	general,hotel,attraction,taxi
+4860	8	USER	ありがとうございます。そこの料金情報について教えてください。	general,hotel,attraction,taxi
+4860	9	SYSTEM	はい、料金情報は、無料、となります。	general,hotel,attraction,taxi
+4860	10	USER	ありがとうございます。あと、キャッシュレス払いのできるタクシーを利用したいです。	general,hotel,attraction,taxi
+4860	11	SYSTEM	では、株式会社未来都はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0669060088となります。	general,hotel,attraction,taxi
+4860	12	USER	ありがとうございます。そこに6/30のお昼の12:20にビジネス旅館 励明園から三光神社で予約をお願いします。	general,hotel,attraction,taxi
+4860	13	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,hotel,attraction,taxi
+4860	14	USER	すみません、では時間を午後の1時に変更します。	general,hotel,attraction,taxi
+4860	15	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、75458となります。	general,hotel,attraction,taxi
+4860	16	USER	ありがとうございます。これで大丈夫です。	general,hotel,attraction,taxi
+4860	17	SYSTEM	ありがとうございました。	general,hotel,attraction,taxi

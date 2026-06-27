@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3130	0	USER	那覇へ旅行するので牧志駅の近くで駐車場が無料で利用出来て、医薬品や化粧品を買い物できる場所を教えてください。	general,shopping,taxi
+3130	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,taxi
+3130	2	USER	そしたら駐車場の有無は考慮しなくてOKです	general,shopping,taxi
+3130	3	SYSTEM	かしこまりました。では、塩屋 平和通り店というところはいかがでしょうか？牧志駅から徒歩で10分のお店でございます。	general,shopping,taxi
+3130	4	USER	住所は分かりますか？	general,shopping,taxi
+3130	5	SYSTEM	はい、沖縄県那覇市牧志3丁目2-59でございます。	general,shopping,taxi
+3130	6	USER	わかりました。あとキャッシュレス払いできるタクシー会社を探してもらえますか？	general,shopping,taxi
+3130	7	SYSTEM	申し訳ございません。那覇ではキャッシュレス払いに対応しているところで、ご案内できる会社がありませんでした。いかがいたしましょう？	general,shopping,taxi
+3130	8	USER	そしたらキャッシュレス払いは考慮しなくてOKです	general,shopping,taxi
+3130	9	SYSTEM	ありがとうございます。では、沖東交通グループはいかがでしょうか？こちらでしたら、ジャンボタクシーがご利用いただけますよ。	general,shopping,taxi
+3130	10	USER	そうします！では9/13の11:30に塩屋 平和通り店からHOTEL SANSUI NAHAで予約をお願いします	general,shopping,taxi
+3130	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、58228です。	general,shopping,taxi
+3130	12	USER	いろいろありがとうございました！たすかりました	general,shopping,taxi
+3130	13	SYSTEM	こちらこそ、ありがとうございます。他にお調べすることがないようでしたら、これにて失礼いたします。本日はご利用いただけました。	general,shopping,taxi

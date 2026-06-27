@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2108	0	USER	今度、東京の渋谷区の駒込駅あたりで観光したいのですが、お勧めはありますか？	general,attraction,hotel
+2108	1	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction,hotel
+2108	2	USER	では、駅は気にしません。	general,attraction,hotel
+2108	3	SYSTEM	かしこまりました。では、表参道ヒルズはいかがでしょうか？	general,attraction,hotel
+2108	4	USER	行ってみたいです。定休日と営業時間を教えてください。	general,attraction,hotel
+2108	5	SYSTEM	定休日はありません。営業時間は11:00～21:00です。	general,attraction,hotel
+2108	6	USER	料金情報も教えてもらえますか？	general,attraction,hotel
+2108	7	SYSTEM	料金情報は、店舗・施設により異なるとなっております。	general,attraction,hotel
+2108	8	USER	なるほど、分かりました。当日、普通の予算で泊まれる簡易宿所を紹介してください。	general,attraction,hotel
+2108	9	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,attraction,hotel
+2108	10	USER	そうですか。予算は気にしませんので、レストランがある所を探してもらえますか？	general,attraction,hotel
+2108	11	SYSTEM	かしこまりました。では、CITANはいかがでしょうか？値段帯は安めとなっております。	general,attraction,hotel
+2108	12	USER	料金情報も分かりますか？	general,attraction,hotel
+2108	13	SYSTEM	料金情報は、値段帯が安めという以外わかりません。申し訳ありません。	general,attraction,hotel
+2108	14	USER	分かりました。ありがとうございました。失礼します。	general,attraction,hotel

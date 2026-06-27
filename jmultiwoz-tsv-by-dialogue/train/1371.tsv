@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1371	0	USER	仙台へ旅行に行くので、宿泊施設を探してください。	general,hotel,weather
+1371	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございませんか？	general,hotel,weather
+1371	2	USER	最寄り駅が六丁の目駅のところで、地区は泉区を希望します。	general,hotel,weather
+1371	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,weather
+1371	4	USER	では最寄り駅の条件は外して構いません。	general,hotel,weather
+1371	5	SYSTEM	ありがとうございます。そうしますと、3件候補がございます。たとえば、ビジネス旅館 さとやというお値段お安めの旅館は、いかがでしょうか？	general,hotel,weather
+1371	6	USER	そちらの料金情報、値段帯、住所を教えてください。	general,hotel,weather
+1371	7	SYSTEM	料金情報と値段帯についてなのですが、お安めであるということと、WiFiと駐車場が無料ということ以外、詳しい情報が手元になく、ご案内できません。申し訳ありません。住所は、宮城県仙台市泉区松森後沢8-5でございます。	general,hotel,weather
+1371	8	USER	料金情報について、何か個別のサービスやお部屋の具体的な料金はわかりませんか？	general,hotel,weather
+1371	9	SYSTEM	はい、誠に申し訳ございません。サービスにつきましても、レストランも併設してございませんし、もしよろしければ、お電話番号をお伝えしますので、直接お問い合わせいただけますと幸いです。	general,hotel,weather
+1371	10	USER	わかりました。それではビジネス旅館 さとやで予約してください。人数は2人、日付は12/8、宿泊日数は2泊です。	general,hotel,weather
+1371	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、20280です。	general,hotel,weather
+1371	12	USER	ありがとうございます。あと12/8の太白区の天候を教えてください。	general,hotel,weather
+1371	13	SYSTEM	かしこまりました。当日の天気は曇時々雪の予報です。最低気温は0度、最高気温は8.5度の予想となっております。	general,hotel,weather
+1371	14	USER	ありがとうございます。以上です。	general,hotel,weather
+1371	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,weather

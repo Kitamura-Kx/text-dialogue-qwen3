@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4386	0	USER	大阪へ旅行した際に泊まれる中ふ頭駅が最寄りの宿泊施設を探していただきたいです。	general,hotel,attraction,weather
+4386	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel,attraction,weather
+4386	2	USER	では、最寄り駅が谷町四丁目駅であれば、ありますか？	general,hotel,attraction,weather
+4386	3	SYSTEM	ありがとうございます。そうしますと、2件ご案内可能です。たとえば、スーパーホテル 地下鉄谷町四丁目6号口というビジネスホテルはいかがでしょうか？	general,hotel,attraction,weather
+4386	4	USER	ありがとうございます。そこにします。予約をお願いしたいのですが、人数は3人で、3/28から4泊でお願いします。	general,hotel,attraction,weather
+4386	5	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょう？	general,hotel,attraction,weather
+4386	6	USER	人数を二人に変更したら取れそうですか？	general,hotel,attraction,weather
+4386	7	SYSTEM	ありがとうございます。2名様にて、ご予約完了いたしました。予約番号は、20445です。	general,hotel,attraction,weather
+4386	8	USER	ありがとうございます。あと、当日に訪れることのできる銭湯・スパの観光名所を探していただきたいです。最寄り駅が本町駅で駐車場を無料で利用できるところでお願いします。	general,hotel,attraction,weather
+4386	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,attraction,weather
+4386	10	USER	最寄り駅はどこでもいいので、それであれば見つかりますか？	general,hotel,attraction,weather
+4386	11	SYSTEM	ありがとうございます。そうしますと、鶴見緑地湯元 水春というところが、1件ご案内可能です。いかがでしょうか？	general,hotel,attraction,weather
+4386	12	USER	ありがとうございます。そこにします。住所と定休日、料金情報を教えていただけますか？	general,hotel,attraction,weather
+4386	13	SYSTEM	住所は、大阪府大阪市鶴見区緑地公園1-37です。定休日はございません。料金は、たとえば、中学生上の大人の平日ご入浴が820円、土日祝日のご入浴でしたら、920円となっております。	general,hotel,attraction,weather
+4386	14	USER	ありがとうございます。最後に3/28の都島区の最高気温を教えてください。	general,hotel,attraction,weather
+4386	15	SYSTEM	かしこまりました。当日の最高気温は、15.6度の予想となっております。	general,hotel,attraction,weather
+4386	16	USER	ありがとうございます。	general,hotel,attraction,weather
+4386	17	SYSTEM	他にお調べすることはございませんか？	general,hotel,attraction,weather
+4386	18	USER	はい、大丈夫です。ありがとうございました。	general,hotel,attraction,weather
+4386	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction,weather

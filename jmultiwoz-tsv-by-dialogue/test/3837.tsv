@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3837	0	USER	札幌旅行で買い物をしたいのですが、厚別区の百貨店か総合スーパーでいいところありますか？無料駐車場のあるところでお願いします。	general,shopping,attraction,taxi
+3837	1	SYSTEM	イオン新さっぽろ店は、いかがですか？	general,shopping,attraction,taxi
+3837	2	USER	ありがとうございます。そちらの最寄り駅と駅からの所要時間はどれくらいですか？	general,shopping,attraction,taxi
+3837	3	SYSTEM	最寄り駅は、新さっぽろ駅です。　所要時間は、新さっぽろ駅から徒歩で1分となっています。	general,shopping,attraction,taxi
+3837	4	USER	ありがとうございます。お店の電話番号をお教えいただけますか？	general,shopping,attraction,taxi
+3837	5	SYSTEM	はい、電話番号は、0118925121です。	general,shopping,attraction,taxi
+3837	6	USER	ありがとうございます。他に観光もしたいのですが、無料駐車場と無料WiFiがある観光名所はどこかりますか？	general,shopping,attraction,taxi
+3837	7	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,attraction,taxi
+3837	8	USER	そうですか。無料WiFiはなくてもいいので、無料駐車場がある観光名所はありますか？	general,shopping,attraction,taxi
+3837	9	SYSTEM	でしたら、札幌もいわ山ロープウェイはいかがですか？	general,shopping,attraction,taxi
+3837	10	USER	いいですね。最寄り駅からの所要時間はどれくらいでしょうか？	general,shopping,attraction,taxi
+3837	11	SYSTEM	所要時間は、ロープウェイ入口停留所からバスで15分となっています。	general,shopping,attraction,taxi
+3837	12	USER	当日はタクシーでの移動を考えています。キャッシュレス決済対応のタクシー会社はありますか？	general,shopping,attraction,taxi
+3837	13	SYSTEM	では、北都ベリアールサービス(株)はいかがですか？	general,shopping,attraction,taxi
+3837	14	USER	そちらで予約お願いできますか。8/21の11:50に、イオン新さっぽろ店から札幌もいわ山ロープウェイへの移動で使います。	general,shopping,attraction,taxi
+3837	15	SYSTEM	予約出来ました。予約番号は、86693です。	general,shopping,attraction,taxi
+3837	16	USER	ありがとうございます。	general,shopping,attraction,taxi
+3837	17	SYSTEM	他にご用件はありますか？	general,shopping,attraction,taxi
+3837	18	USER	だいじょうぶです。ありがとうございました。	general,shopping,attraction,taxi

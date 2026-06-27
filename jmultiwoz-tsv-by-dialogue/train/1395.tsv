@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1395	0	USER	京都旅行を計画しているのですが、買い物ができる場所を教えてもらえないでしょうか？できれば北区にあって、駐車場がタダで利用できるところを希望します。	general,shopping,taxi
+1395	1	SYSTEM	Malebranche 北山本店は、いかがでしょうか？	general,shopping,taxi
+1395	2	USER	Malebranche 北山本店さんはどこにありますか？	general,shopping,taxi
+1395	3	SYSTEM	住所は、京都府京都市北区北山通植物園北山門前になります。	general,shopping,taxi
+1395	4	USER	わかりました！あと、旅行中にタクシーに乗りたいんです。キャッシュレス払いができて、ジャンボタクシーも使えるところはありますか？	general,shopping,taxi
+1395	5	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,taxi
+1395	6	USER	そうですか。では、キャッシュレス払いはできない会社でも大丈夫です。	general,shopping,taxi
+1395	7	SYSTEM	比叡タクシー株式会社は、いかがですか？	general,shopping,taxi
+1395	8	USER	比叡タクシー株式会社の電話番号が知りたいです。	general,shopping,taxi
+1395	9	SYSTEM	電話番号は、0755010050です。	general,shopping,taxi
+1395	10	USER	ありがとうございます。ではこちらの会社で手配をしてもらえますか。	general,shopping,taxi
+1395	11	SYSTEM	予約希望の日時と出発地と目的地をおねがいします。	general,shopping,taxi
+1395	12	USER	7/8の11:00にPizza Cafe TakemuRaを出発してMalebranche 北山本店まで乗りたいです。	general,shopping,taxi
+1395	13	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,shopping,taxi
+1395	14	USER	そうですか。では時間を11:40にすると予約できますか？	general,shopping,taxi
+1395	15	SYSTEM	予約が完了しました。　予約番号は、511です。	general,shopping,taxi
+1395	16	USER	511ですね。ご予約して下さりありがとうございました。	general,shopping,taxi

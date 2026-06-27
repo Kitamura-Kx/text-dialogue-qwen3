@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1218	0	USER	札幌への旅行を計画しています。	general,attraction
+1218	1	SYSTEM	はい。お問合せありがとうございます。	general,attraction
+1218	2	USER	当日訪れる観光名所を探してください．駐車場を無料で利用できるところで最寄り駅が豊水すすきの駅のところ希望です。	general,attraction
+1218	3	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction
+1218	4	USER	でしたら最寄りはどこでもいいです。	general,attraction
+1218	5	SYSTEM	札幌もいわ山ロープウェイはいかがでしょうか。	general,attraction
+1218	6	USER	そこにします。エリア，定休日も教えていただけますか。	general,attraction
+1218	7	SYSTEM	エリアは中央区で定休日は無しになっています。	general,attraction
+1218	8	USER	ありがとうございます。	general,attraction

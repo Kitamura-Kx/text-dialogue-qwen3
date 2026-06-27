@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3787	0	USER	京都への旅行を考えています。中京区で駐車場が無料の飲食店を探してもらえますか？	general,restaurant
+3787	1	SYSTEM	かしこまりました。そうしますと、牛々亭という、焼肉・ホルモンのお店が1件ご案内可能です。	general,restaurant
+3787	2	USER	そちらの営業時間と電話番号、ジャンルを教えてもらえますか？	general,restaurant
+3787	3	SYSTEM	営業時間は、昼が12:00～14:00, 夜が17:00～25:00です。電話番号は、0753260298でございます。ジャンルは、焼肉・ホルモンとなっております。	general,restaurant
+3787	4	USER	ありがとうございます。	general,restaurant
+3787	5	SYSTEM	他にお知りになりたい情報はございませんか？	general,restaurant
+3787	6	USER	はい、大丈夫です。ありがとうございました。	general,restaurant
+3787	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

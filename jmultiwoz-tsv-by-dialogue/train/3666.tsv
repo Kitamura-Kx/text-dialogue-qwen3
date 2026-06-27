@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3666	0	USER	こんにちは。那覇への旅行計画中なんですけど、首里で買い物ができる商店街ってありますか？	general,shopping,weather
+3666	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,weather
+3666	2	USER	そうですか。では場所はどこでもいいので、商店街を探していただけますか？	general,shopping,weather
+3666	3	SYSTEM	では、那覇国際通り商店街はいかがですか？	general,shopping,weather
+3666	4	USER	そちらは駐車場はありますか？	general,shopping,weather
+3666	5	SYSTEM	駐車場は、有料駐車場になります。	general,shopping,weather
+3666	6	USER	ありがとうございます。定休日はどうでしょうか？	general,shopping,weather
+3666	7	SYSTEM	定休日は、店舗により異なるとなっています。	general,shopping,weather
+3666	8	USER	そうなんですね、ありがとうございます。それと、当日の天気も確認したいんですけど、9/25の小禄の天気と最低気温を教えてもらえますか？	general,shopping,weather
+3666	9	SYSTEM	天気は曇時々晴で、最低気温は24.2度の予報です。	general,shopping,weather
+3666	10	USER	ありがとうございました。お尋ねしたいことは以上です。	general,shopping,weather
+3666	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

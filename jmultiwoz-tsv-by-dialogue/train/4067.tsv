@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4067	0	USER	大阪への旅行を計画しています． 当日買い物ができるところを探してください．地区は西成区です．ジャンルはスーパーマーケットで。	general,shopping,restaurant
+4067	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,restaurant
+4067	2	USER	でしたら地区はどこでもいいです。	general,shopping,restaurant
+4067	3	SYSTEM	C&Cエンド 本店はいかがでしょうか。	general,shopping,restaurant
+4067	4	USER	そちらの電話番号，近辺の駅からの所要時間，定休日を教えていただけますか。	general,shopping,restaurant
+4067	5	SYSTEM	電話番号は0667583400、近辺の駅からの所要時間は南巽駅から徒歩で15分、定休日は無しです。	general,shopping,restaurant
+4067	6	USER	ありがとうございます。あと当日食事ができる飲食店を探してください．Wi-Fiが無料で利用できるところにしてください．	general,shopping,restaurant
+4067	7	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,restaurant
+4067	8	USER	でしたらWi-Fiはどちらでも。	general,shopping,restaurant
+4067	9	SYSTEM	ロウリーズ・ザ・プライムリブ 大阪はいかがでしょうか。	general,shopping,restaurant
+4067	10	USER	そちらのジャンルを教えていただけますか。	general,shopping,restaurant
+4067	11	SYSTEM	洋食・西洋料理です。	general,shopping,restaurant
+4067	12	USER	そちらで人数は3人．日付は12/24．時間は12:50で予約してほしいです。	general,shopping,restaurant
+4067	13	SYSTEM	そちらの条件で予約できませんでした。	general,shopping,restaurant
+4067	14	USER	でしたら人数を2にしていただけますか。	general,shopping,restaurant
+4067	15	SYSTEM	予約完了いたしました。予約番号は87157になります。	general,shopping,restaurant
+4067	16	USER		general,shopping,restaurant

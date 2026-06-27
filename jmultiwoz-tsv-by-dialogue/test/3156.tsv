@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3156	0	USER	札幌への旅行を計画しています。当日の飲食店を探しているのですが、Wi-Fi無料、駐車場も無料で予算は普通の所はありますか？	general,restaurant
+3156	1	SYSTEM	はい、3件ご案内可能です。たとえば、中央区エリアにある、パーラーエノキというお店はいかがでしょうか？	general,restaurant
+3156	2	USER	ありがとうございます。パーラーエノキのジャンルは何になりますか？	general,restaurant
+3156	3	SYSTEM	ジャンルは、カフェ・スイーツとなっております。	general,restaurant
+3156	4	USER	パーラーエノキにしようと思います。4/8の午前10：50から2人で予約をお願い出来ますか？	general,restaurant
+3156	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、56213です。	general,restaurant
+3156	6	USER	ありがとうございました。	general,restaurant
+3156	7	SYSTEM	他にお調べすることはございませんか？	general,restaurant
+3156	8	USER	いえ、他にはありません。ありがとうございました。	general,restaurant
+3156	9	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant

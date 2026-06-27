@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2787	0	USER	仙台へ行くのですが、飲食店を探しています。	general,restaurant
+2787	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant
+2787	2	USER	最寄り駅が勾当台公園駅で駐車場が無料のところがいいです。	general,restaurant
+2787	3	SYSTEM	エリアでいうと青葉区に、味の牛たん喜助 定禅寺店がございます。ジャンルは、郷土料理、和食となります。	general,restaurant
+2787	4	USER	価格的には安めのところなのでしょうか？	general,restaurant
+2787	5	SYSTEM	値段帯は普通となります。最寄り駅、駐車場のほかに、値段帯の条件を加えるとご紹介可能な飲食店がございません。いかが致しましょう？	general,restaurant
+2787	6	USER	そこでいいです。近辺の駅からの所要時間を教えてもらえませんか？	general,restaurant
+2787	7	SYSTEM	はい、最寄りの勾当台公園駅から徒歩で5分となります。	general,restaurant
+2787	8	USER	ありがとうございます。	general,restaurant
+2787	9	SYSTEM	他にご用件はございますか？	general,restaurant
+2787	10	USER	特にありません。	general,restaurant
+2787	11	SYSTEM	ありがとうございました。	general,restaurant

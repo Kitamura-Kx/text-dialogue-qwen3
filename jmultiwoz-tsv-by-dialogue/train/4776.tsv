@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4776	0	USER	名古屋で買い物できるところを探してください。ジャンルは百貨店や総合スーパーでお願いします。	general,shopping,weather
+4776	1	SYSTEM	はい。それだとジェイアール名古屋タカシマヤはいかがでしょうか。	general,shopping,weather
+4776	2	USER	はい。そのお店の住所、最寄り駅、定休日を調べてください。	general,shopping,weather
+4776	3	SYSTEM	住所は愛知県名古屋市中村区名駅1丁目1-4で最寄り駅は名古屋駅になります。定休日ですが、不定休です。	general,shopping,weather
+4776	4	USER	ありがとうございます。また、1/15の天候を調べてください。地区は天白区です。	general,shopping,weather
+4776	5	SYSTEM	かしこまりました。1/15の天白区の天気予報は曇となっております。最低気温は0.5度、最高気温は14.5度になる予報です。	general,shopping,weather
+4776	6	USER	ありがとうございます。	general,shopping,weather
+4776	7	SYSTEM	はい。他にお調べすることはございませんか？	general,shopping,weather
+4776	8	USER	大丈夫です。	general,shopping,weather
+4776	9	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather
+4776	10	USER	ありがとうございました。	general,shopping,weather

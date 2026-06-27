@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+209	0	USER	札幌旅行の際に利用するスイーツなどが食べられるカフェを探しています。	general,restaurant
+209	1	SYSTEM	かしこまりました。ではJ.S. PANCAKE CAFE 札幌ステラプレイス店はいかがですか。	general,restaurant
+209	2	USER	すみません。できれば安めのお店でお願いしたいんです。	general,restaurant
+209	3	SYSTEM	申し訳ございません。値段帯が安めのカフェはございませんでした。	general,restaurant
+209	4	USER	そうなんですか。じゃあや予算は無視で大丈夫です。	general,restaurant
+209	5	SYSTEM	かしこまりました。では予算以外でのご希望はございませんか。	general,restaurant
+209	6	USER	はい。予算以外の希望は特にありません！	general,restaurant
+209	7	SYSTEM	では、先ほどのJ.S. PANCAKE CAFE 札幌ステラプレイス店がおすすめでございます。	general,restaurant
+209	8	USER	こちらのお店気になります。こちらはだいたい、どのエリアにあるのでしょうか？	general,restaurant
+209	9	SYSTEM	エリアは中央区でございます。	general,restaurant
+209	10	USER	わかりました。お店の電話番号と住所が知りたいです。	general,restaurant
+209	11	SYSTEM	電話番号は0112095121で、住所は北海道札幌市中央区北五条西2丁目 札幌ステラプレイス イースト3Fでございます。	general,restaurant
+209	12	USER	ありがとうございます！	general,restaurant

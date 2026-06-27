@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4419	0	USER	札幌へ旅行に行くのですが、駐車場を無料で利用できる、スポーツやフィットネスはありますか？	general,attraction,taxi
+4419	1	SYSTEM	お待たせ致しました。それでは月寒公園はいかがでしょうか？	general,attraction,taxi
+4419	2	USER	いいですね。Wi-Fiはありますか？あと、最寄駅はどこでしょう。	general,attraction,taxi
+4419	3	SYSTEM	申し訳ございません。Wi-Fiの有無についてはか分かりません。最寄り駅は美園駅でございます。	general,attraction,taxi
+4419	4	USER	そうですか。あと、キャッシュレス払いできて、ジャンボタクシーを利用できるところも調べてほしいです。	general,attraction,taxi
+4419	5	SYSTEM	かしこまりました。それでは暁交通(株)はいかがでしょうか？	general,attraction,taxi
+4419	6	USER	そこにします。12/2の09:50に、札幌プリンスホテルから月寒公園までの予約をお願いします。	general,attraction,taxi
+4419	7	SYSTEM	申し訳ございません。その条件では予約することが出来ませんでした。	general,attraction,taxi
+4419	8	USER	なら時間を10:20に変更します。	general,attraction,taxi
+4419	9	SYSTEM	お待たせ致しました。それでは予約番号22441でお取りさせていただきました。	general,attraction,taxi
+4419	10	USER	ありがとうございました。もう大丈夫です。	general,attraction,taxi
+4419	11	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,taxi

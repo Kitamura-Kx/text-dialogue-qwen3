@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+447	0	USER	京都の下京区で飲食店を探してください。	general,restaurant
+447	1	SYSTEM	かしこまりました。26件候補がございますが、なにかご希望の条件はありますでしょうか？	general,restaurant
+447	2	USER	駐車場が無料で使えるところがいいです。	general,restaurant
+447	3	SYSTEM	では、加賀屋 京都店はいかがでしょうか？下京区エリアにある和食のお店です。	general,restaurant
+447	4	USER	よさそうですね。そちらのお店の値段帯を教えてもらえますか？	general,restaurant
+447	5	SYSTEM	お値段は、お高めの設定となっております。	general,restaurant
+447	6	USER	では、11/8の11:00に4名で予約をお願いします。	general,restaurant
+447	7	SYSTEM	ご予約ありがとうございます。予約番号46800にて、承りました。	general,restaurant
+447	8	USER	助かりました。ありがとうございました。	general,restaurant

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3780	0	USER	那覇への旅行を計画しているのですが、レストランが併設されている宿泊施設を教えて頂けますか？	general,hotel,taxi
+3780	1	SYSTEM	かしこまりました。５９件ほど候補があるのですが、エリアなど、何かご希望はございますか？	general,hotel,taxi
+3780	2	USER	Wi-Fiが無料で利用できる場所が良いです。	general,hotel,taxi
+3780	3	SYSTEM	では、ホテルロコアナハはいかがでしょうか？本庁エリアにあるお安めのビジネスホテルとなっております。	general,hotel,taxi
+3780	4	USER	いいですね、そちらでお願いします。2/16に、3名で2泊したいと思っています。予約をお願いできますか？	general,hotel,taxi
+3780	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、40615です。	general,hotel,taxi
+3780	6	USER	当日、タクシーを利用したいのですが、キャッシュレス払いが可能なジャンボタクシーはありますか？	general,hotel,taxi
+3780	7	SYSTEM	はい、丸星交通はいかがでしょうか？	general,hotel,taxi
+3780	8	USER	電話番号はわかりますか？	general,hotel,taxi
+3780	9	SYSTEM	電話番号は、0988685831でございます。	general,hotel,taxi
+3780	10	USER	ではそちらで、2/16の午後3時で予約をお願いします。ホテルロコアナハからステーキハウス88 国際通り店までお願いします。	general,hotel,taxi
+3780	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、31464でございます。	general,hotel,taxi
+3780	12	USER	ありがとうございます。	general,hotel,taxi
+3780	13	SYSTEM	他にお手伝いすることはございませんか？	general,hotel,taxi
+3780	14	USER	はい、大丈夫です。ありがとうございました。	general,hotel,taxi
+3780	15	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,hotel,taxi

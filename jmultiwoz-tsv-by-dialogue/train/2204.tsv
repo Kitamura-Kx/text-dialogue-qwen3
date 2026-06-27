@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2204	0	USER	京都に旅行に行きたいんですが、泊まるところを探してもらえませんか？	general,hotel,weather
+2204	1	SYSTEM	はい、ご希望条件をお願いいたします。	general,hotel,weather
+2204	2	USER	駐車所とWi-Fiの利用料金がかからない所でお願いします。	general,hotel,weather
+2204	3	SYSTEM	京都でWiFi駐車場無料の宿泊所は８件あります。他に希望条件はありますか？	general,hotel,weather
+2204	4	USER	他に条件はないので、オススメでお願いします。	general,hotel,weather
+2204	5	SYSTEM	それならばアパヴィラホテル〈京都駅前〉をおすすめします。	general,hotel,weather
+2204	6	USER	アパヴィラホテル〈京都駅前〉の住所を教えてもらえませんか？	general,hotel,weather
+2204	7	SYSTEM	京都府京都市下京区東洞院通七条下ル塩小路町５３３です。	general,hotel,weather
+2204	8	USER	わかりました。アパヴィラホテル〈京都駅前〉で予約を取ってもらえますか？	general,hotel,weather
+2204	9	SYSTEM	はい、いつ、何人で、何泊予定ですか？	general,hotel,weather
+2204	10	USER	12月12日から2泊、利用人数は4名でお願いします。	general,hotel,weather
+2204	11	SYSTEM	12月12日から2泊、利用人数４名だと予約できないですね。条件を変更していただけると幸いです。	general,hotel,weather
+2204	12	USER	そうですか。では宿泊日数は1泊に減らすことにするとどうでしょうか？	general,hotel,weather
+2204	13	SYSTEM	4名1泊で予約成功しました。予約番号は25020です。	general,hotel,weather
+2204	14	USER	ありがとうございます、助かります。ちなみになのですが、左京区の12/12の天気と最低気温はわかりますか？	general,hotel,weather
+2204	15	SYSTEM	12/12 京都 左京区 の天気は曇時々晴、最低気温は4.6度です。	general,hotel,weather
+2204	16	USER	わかりました。本日はご対応して下さってありがとうございました。	general,hotel,weather

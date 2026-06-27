@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4186	0	USER	福岡旅行で泊まるホテルを探しています。予算が普通くらいで、駐車場が無料のところはありますか？	general,hotel,shopping,weather
+4186	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,hotel,shopping,weather
+4186	2	USER	では、駐車場は有料でもいいです。	general,hotel,shopping,weather
+4186	3	SYSTEM	では、AMISTAD HOTEL FUKUOKAはいかがでしょうか？	general,hotel,shopping,weather
+4186	4	USER	そこの料金情報と電話番号を教えてください。	general,hotel,shopping,weather
+4186	5	SYSTEM	詳しい料金情報の記載はありません。電話番号は、0922922431です。	general,hotel,shopping,weather
+4186	6	USER	分かりました。そこの予約もお願いします。5月28日から2泊で3人分お願いします。	general,hotel,shopping,weather
+4186	7	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。　どうされますか？	general,hotel,shopping,weather
+4186	8	USER	じゃあ人数は2人でお願いします。	general,hotel,shopping,weather
+4186	9	SYSTEM	2名様で予約出来ました。予約番号は、74468です。	general,hotel,shopping,weather
+4186	10	USER	ありがとうございます。姪浜駅が最寄りの買い物ができるところも探していただけますか？	general,hotel,shopping,weather
+4186	11	SYSTEM	では、ベビーザらス マリノアシティ福岡店はいかがでしょうか？	general,hotel,shopping,weather
+4186	12	USER	そこの住所と営業時間、定休日はどうなってますか？	general,hotel,shopping,weather
+4186	13	SYSTEM	住所は、福岡県福岡市西区小戸2丁目12-30マリノアシティ福岡マリナサイド棟1階です。　定休日は、無しになっています。	general,hotel,shopping,weather
+4186	14	USER	営業時間はどうですか？	general,hotel,shopping,weather
+4186	15	SYSTEM	営業時間は、午前10時から午後8時までとなっています。	general,hotel,shopping,weather
+4186	16	USER	ありがとうございます。その日の南区の天気も知りたいです。最高気温もお願いします。	general,hotel,shopping,weather
+4186	17	SYSTEM	知りたい日付はいつがご希望ですか？	general,hotel,shopping,weather
+4186	18	USER	5月28日でお願いします。	general,hotel,shopping,weather
+4186	19	SYSTEM	はい、その日の天気は、曇のち晴で最高気温は、26.1度の予報となっています。	general,hotel,shopping,weather
+4186	20	USER	ありがとうございます。後は大丈夫です。	general,hotel,shopping,weather
+4186	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,weather

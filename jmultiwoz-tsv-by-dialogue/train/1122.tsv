@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1122	0	USER	福岡に旅行に行こうと思っています。当日泊まる宿泊施設で地区は博多区で無料でWi-Fiが利用できるところを教えてください。	general,hotel,shopping,taxi
+1122	1	SYSTEM	承知しました。他にご希望はございますか？	general,hotel,shopping,taxi
+1122	2	USER	宿泊施設の名称と住所とレストランの有無を教えてください。	general,hotel,shopping,taxi
+1122	3	SYSTEM	では、THE LIVELY 博多福岡はいかがでしょう？住所は福岡県福岡市博多区中洲5丁目2-18、併設のレストランがございます。	general,hotel,shopping,taxi
+1122	4	USER	そちらが良さそうですね。	general,hotel,shopping,taxi
+1122	5	SYSTEM	予約されますか？	general,hotel,shopping,taxi
+1122	6	USER	予約は結構です。当日買い物ができるところを探しているのですが、駐車場が無料でジャンルはファッションのお店を探してください。	general,hotel,shopping,taxi
+1122	7	SYSTEM	承知しました。エリアでいうと博多区にある、アビスパ福岡 オフィシャルショップはいかがでしょう？	general,hotel,shopping,taxi
+1122	8	USER	そちらが良さそうですね。	general,hotel,shopping,taxi
+1122	9	SYSTEM	何かご案内することはございますか？	general,hotel,shopping,taxi
+1122	10	USER	当日ジャンボタクシーを利用したいのでタクシー会社を探してください。	general,hotel,shopping,taxi
+1122	11	SYSTEM	申し訳ありません、ジャンボタクシー対応のタクシー会社はございません。いかが致しましょう？	general,hotel,shopping,taxi
+1122	12	USER	では、ジャンボタクシーはなくても良いです。	general,hotel,shopping,taxi
+1122	13	SYSTEM	では、平和交通（株）はいかがでしょう？キャッシュレスには対応しております。電話番号は0924114422となります。予約されますか？	general,hotel,shopping,taxi
+1122	14	USER	そこが良さそうです。そこを7/10の11:10に出発地はTHE LIVELY 博多福岡で目的地はアビスパ福岡 オフィシャルショップで予約をお願いします。	general,hotel,shopping,taxi
+1122	15	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかがされますか？	general,hotel,shopping,taxi
+1122	16	USER	でしたら、時間は12:10に変更します。	general,hotel,shopping,taxi
+1122	17	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、5109となります。他にご用件はございますか？	general,hotel,shopping,taxi
+1122	18	USER	大丈夫です。ありがとうございました。	general,hotel,shopping,taxi
+1122	19	SYSTEM	ありがとうございました。	general,hotel,shopping,taxi

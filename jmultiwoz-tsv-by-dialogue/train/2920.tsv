@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2920	0	USER	京都に行くのですが、駐車場が無料で使える飲食店を教えてください。	general,restaurant
+2920	1	SYSTEM	京都で駐車場無料の飲食店はいくつかありますが、下鴨茶寮 本店、こちらをお勧めします。	general,restaurant
+2920	2	USER	ありがとうございます。そこのジャンル、近辺の駅からの所要時間、エリアはわかりますか？	general,restaurant
+2920	3	SYSTEM	ジャンルは和食、エリアは左京区、今出川駅からタクシーで5分のほか、京都駅からタクシーで20分です。	general,restaurant
+2920	4	USER	ありがとうございます。ではそのお店で、人数は3人、日付は2/15、時間は13:40で、予約をお願いします。	general,restaurant
+2920	5	SYSTEM	予約成功しました。予約番号は30448です。	general,restaurant
+2920	6	USER	ありがとうございました。	general,restaurant
+2920	7	SYSTEM	よい旅を	general,restaurant

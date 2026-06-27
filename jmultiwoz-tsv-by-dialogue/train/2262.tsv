@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2262	0	USER	札幌旅行で定山渓神社に行きたいのですが案内頂けますか？	general,attraction,shopping,weather
+2262	1	SYSTEM	北海道札幌市南区定山渓温泉東3丁目にあります。アクセスは真駒内駅からバスで50分、あるいは真駒内駅からタクシーで23分です。札幌駅からタクシーで40分を選ばれる方も多いです。	general,attraction,shopping,weather
+2262	2	USER	ありがとうございます。料金情報も教えていただけますか？	general,attraction,shopping,weather
+2262	3	SYSTEM	大人も子供も入場無料です。	general,attraction,shopping,weather
+2262	4	USER	ありがとうございます。書籍を買えるお店も教えてください。	general,attraction,shopping,weather
+2262	5	SYSTEM	札幌で書籍の買える店はいくつかありますが、ろばのこをオススメします。	general,attraction,shopping,weather
+2262	6	USER	北区で駐車場を無料で利用できる場所を希望しているのですが、そちらは該当していますか？	general,attraction,shopping,weather
+2262	7	SYSTEM	なるほど、北区で駐車場無料の書籍を買える店ならば、コーチャンフォー新川通り店、こちら一択です。	general,attraction,shopping,weather
+2262	8	USER	ありがとうございます。最寄り駅と電話番号の情報もいただけますでしょうか。	general,attraction,shopping,weather
+2262	9	SYSTEM	最寄りは北24条駅、電話番号は0117694000になります。	general,attraction,shopping,weather
+2262	10	USER	ありがとうございます。当日の天候も教えていただけますか？豊平区で7/3の天気っていかがでしょうか？	general,attraction,shopping,weather
+2262	11	SYSTEM	7/3 札幌 豊平区 の天気は曇時々晴です。	general,attraction,shopping,weather
+2262	12	USER	最低気温も教えていただけますか？	general,attraction,shopping,weather
+2262	13	SYSTEM	18.9度です。	general,attraction,shopping,weather
+2262	14	USER	ありがとうございました。	general,attraction,shopping,weather

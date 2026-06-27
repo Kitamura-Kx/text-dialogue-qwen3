@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+984	0	USER	仙台へ旅行に行きたく、飲食店を探しています。ジャンルは焼肉・ホルモン系で予算は高め希望です。あと無料でWi-Fiが利用できるところが嬉しいです。	general,restaurant,weather,taxi
+984	1	SYSTEM	では、黒毛和牛一頭切り 伊達哉はいかがでしょうか？	general,restaurant,weather,taxi
+984	2	USER	そこの料金情報が知りたいです。	general,restaurant,weather,taxi
+984	3	SYSTEM	伊達の極上カルビ＊仙台牛独自ブランド｢伊達の黒｣＊：3060円となっております。	general,restaurant,weather,taxi
+984	4	USER	ありがとうございます。それでは予約をお願いします。人数は4名、日時は6/22、11:40でお願いします。	general,restaurant,weather,taxi
+984	5	SYSTEM	ご予約完了いたしました。予約番号は、11199です。	general,restaurant,weather,taxi
+984	6	USER	ありがとうございます。次に6/22の青葉区の天候を調べてほしいです。	general,restaurant,weather,taxi
+984	7	SYSTEM	当日の天気は、曇時々晴の予報です。最低気温は22.2度、最高気温は30.4度の予想となっております。	general,restaurant,weather,taxi
+984	8	USER	承知致しました。最後に当日タクシーを利用したいのでキャッシュレス払い可能なタクシー会社を探してください。	general,restaurant,weather,taxi
+984	9	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,restaurant,weather,taxi
+984	10	USER	であれば、キャッシュレスの有無はなしでお願いします。	general,restaurant,weather,taxi
+984	11	SYSTEM	では、仙台第一交通（株）はいかがでしょうか？	general,restaurant,weather,taxi
+984	12	USER	そちらの電話番号とジャンボタクシーは対応しているか確認お願いします。	general,restaurant,weather,taxi
+984	13	SYSTEM	電話番号は、0222361221です。ジャンボタクシーには対応しておりません。申し訳ありません。	general,restaurant,weather,taxi
+984	14	USER	承知致しました。それでは予約をお願いします。日時は6/22、10:00で出発地は黒毛和牛一頭切り 伊達哉から三井ガーデンホテル仙台まででお願いします。	general,restaurant,weather,taxi
+984	15	SYSTEM	ご予約完了いたしました。予約番号は、22716です。	general,restaurant,weather,taxi
+984	16	USER	ありがとうございます。こちらは以上です。	general,restaurant,weather,taxi
+984	17	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant,weather,taxi

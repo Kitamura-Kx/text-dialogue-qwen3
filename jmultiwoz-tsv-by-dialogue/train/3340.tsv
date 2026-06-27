@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3340	0	USER	札幌へ旅行しようと思っているのですが、見て回れる観光名所を探しています。南区で、無料駐車場があるとありがたいです。	general,attraction,hotel,restaurant
+3340	1	SYSTEM	では、札幌市豊平川さけ科学館はいかがですか？	general,attraction,hotel,restaurant
+3340	2	USER	ありがとうございます。ではそこに行こうと思います。営業時間と子供入場料をお聞きしてもよろしいですか？	general,attraction,hotel,restaurant
+3340	3	SYSTEM	営業時間は、9時15分から16時45分です。　入場料は、無料となっています。	general,attraction,hotel,restaurant
+3340	4	USER	ありがとうございます。あと近辺の駅からの所要時間もお聞きしたいです。	general,attraction,hotel,restaurant
+3340	5	SYSTEM	所要時間は、真駒内駅から徒歩で25分となっています。	general,attraction,hotel,restaurant
+3340	6	USER	ありがとうございます。もう一点、当日泊まる宿泊施設を探しているのですが南区でWifiと駐車場を無料で使える所はありますか？	general,attraction,hotel,restaurant
+3340	7	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,hotel,restaurant
+3340	8	USER	分かりました。では地区の条件はなしで大丈夫です。	general,attraction,hotel,restaurant
+3340	9	SYSTEM	では、JRタワーホテル日航札幌はいかがでしょうか？	general,attraction,hotel,restaurant
+3340	10	USER	ではそこに泊まろうと思います。住所をお聞きしてもよろしいですか？	general,attraction,hotel,restaurant
+3340	11	SYSTEM	住所は、北海道札幌市中央区北5条西2丁目5番地になります。	general,attraction,hotel,restaurant
+3340	12	USER	ありがとうございます。当日の予約をしたいのですが、4月6日に4人で2泊の条件で予約は可能でしょうか。	general,attraction,hotel,restaurant
+3340	13	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,attraction,hotel,restaurant
+3340	14	USER	分かりました。では人数を3人に変更した場合予約は可能でしょうか。	general,attraction,hotel,restaurant
+3340	15	SYSTEM	予約出来ました。予約番号は、24319 です。	general,attraction,hotel,restaurant
+3340	16	USER	ありがとうございます。最後に当日食事をする飲食店を探していただきたいのですが、駐車場が無料のところはどこかありますでしょうか。	general,attraction,hotel,restaurant
+3340	17	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,hotel,restaurant
+3340	18	USER	分かりました。では駐車場はなくてもかまいません。	general,attraction,hotel,restaurant
+3340	19	SYSTEM	炭焼き成吉思汗 やまかは、いかがですか？	general,attraction,hotel,restaurant
+3340	20	USER	ありがとうございます。ではそこに行きたいと思います。そのお店の料金情報と値段帯をお教えいただけますか？	general,attraction,hotel,restaurant
+3340	21	SYSTEM	値段等は、普通で料金情報は、生ラム700円、盛り合わせ1300円、キムチ400円となっています。	general,attraction,hotel,restaurant
+3340	22	USER	詳しくお教えいただきありがとうございます。では4月6日の16:50に2人で予約は可能でしょうか。	general,attraction,hotel,restaurant
+3340	23	SYSTEM	予約出来ました。予約番号は、26896です。	general,attraction,hotel,restaurant
+3340	24	USER	何から何までサポートしていただき本当にありがとうございます。お聞きしたい事は以上になります。ありがとうございました。	general,attraction,hotel,restaurant
+3340	25	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel,restaurant

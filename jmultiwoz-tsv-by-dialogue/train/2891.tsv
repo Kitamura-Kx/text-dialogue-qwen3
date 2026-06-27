@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2891	0	USER	名古屋へ旅行に行くんですが、飲食店を探して欲しいです。	general,restaurant,attraction
+2891	1	SYSTEM	はい、ご希望の条件をおきかせください	general,restaurant,attraction
+2891	2	USER	Wi-Fiが無料で利用できるカレー屋さんはありますか？	general,restaurant,attraction
+2891	3	SYSTEM	名古屋にはWiFi無料のカレーはありません。	general,restaurant,attraction
+2891	4	USER	ではカレーじゃなくても大丈夫です。	general,restaurant,attraction
+2891	5	SYSTEM	名古屋でWiFi無料の店は３店舗ありますが、ゆめや 金山店、こちらをお勧めします。	general,restaurant,attraction
+2891	6	USER	いいですね。定休日と電話番号を教えてください。	general,restaurant,attraction
+2891	7	SYSTEM	電話は0526829494、定休日は月曜日になります。	general,restaurant,attraction
+2891	8	USER	料金情報についても教えてほしいです。	general,restaurant,attraction
+2891	9	SYSTEM	全12種類のタンが食べ放題で4000円、こちらが看板メニューのようです。	general,restaurant,attraction
+2891	10	USER	いいですね！予約をお願いします！9/14の10:40に4人で行きたいです。	general,restaurant,attraction
+2891	11	SYSTEM	予約成功しました。予約番号は25182です。	general,restaurant,attraction
+2891	12	USER	ありがとうございます。港区で観光名所も探して欲しいです。駐車場無料のところはありますかね？	general,restaurant,attraction
+2891	13	SYSTEM	失礼しました、名古屋港区、駐車場無料の観光名所はヒットしなさそうです。	general,restaurant,attraction
+2891	14	USER	では地区はどこでも大丈夫です。どこかいいところありませんかね？	general,restaurant,attraction
+2891	15	SYSTEM	名古屋で駐車場無料の観光名所はいくつかありますが、名古屋らしいオススメとしましては、トヨタ産業技術記念館、こちらをオススメします。	general,restaurant,attraction
+2891	16	USER	いいですね。住所と最寄り駅は分かりますか？	general,restaurant,attraction
+2891	17	SYSTEM	住所は愛知県名古屋市西区則武新町4丁目1-35、最寄り駅は栄生駅になります。	general,restaurant,attraction
+2891	18	USER	ありがとうございます。楽しんできます！	general,restaurant,attraction
+2891	19	SYSTEM	よい旅を。	general,restaurant,attraction

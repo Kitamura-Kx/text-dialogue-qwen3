@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+248	0	USER	東京への旅行を計画しており、世田谷区の観光名所を探しています。	general,attraction,weather
+248	1	SYSTEM	では、豪徳寺はいかがですか。	general,attraction,weather
+248	2	USER	駐車場が無料で利用できる神社・寺院・教会・モニュメントなどでお願いしたいのですが、豪徳寺もこれにあてはまりますか？	general,attraction,weather
+248	3	SYSTEM	はい。その条件にすべてあてはまります。	general,attraction,weather
+248	4	USER	では豪徳寺に行こうと思うので、住所を教えてください。	general,attraction,weather
+248	5	SYSTEM	住所は東京都世田谷区豪徳寺2丁目24-7でございます。	general,attraction,weather
+248	6	USER	ありがとうございます。あと8/21の新宿区の天気も調べてもらえますか？	general,attraction,weather
+248	7	SYSTEM	天気は曇のち晴、最低気温は21.7度、最高気温 29.4度となっております。	general,attraction,weather
+248	8	USER	ありがとうございます。	general,attraction,weather
+248	9	SYSTEM	ほかにご用件はございませんか。	general,attraction,weather
+248	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,weather
+248	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4824	0	USER	福岡へ旅行に行くので、観光できるところを探してください。	general,attraction,restaurant,weather
+4824	1	SYSTEM	はい、福岡の観光名所ですね。	general,attraction,restaurant,weather
+4824	2	USER	最寄り駅が天神駅のところがいいです。駐車場とWi-Fiが無料で利用できるところがいいのですが。	general,attraction,restaurant,weather
+4824	3	SYSTEM	福岡天神駅には、駐車場とWiFi無料の観光名所はなさそうです	general,attraction,restaurant,weather
+4824	4	USER	ではWi-Fiは使えなくてもいいです。	general,attraction,restaurant,weather
+4824	5	SYSTEM	WiFiをはずせば、はかた伝統工芸館、こちらになります。	general,attraction,restaurant,weather
+4824	6	USER	そちらの営業時間と電話番号を教えてください。	general,attraction,restaurant,weather
+4824	7	SYSTEM	営業時間は09:30～17:30、電話は0924095450です。	general,attraction,restaurant,weather
+4824	8	USER	ありがとうございます。次に食事ができるお店を探してください。	general,attraction,restaurant,weather
+4824	9	SYSTEM	はい。ご希望の条件をおきかせください。	general,attraction,restaurant,weather
+4824	10	USER	南区の無料駐車場があるところがいいです。予算は普通であるといいのですが。	general,attraction,restaurant,weather
+4824	11	SYSTEM	福岡南区には、予算普通で駐車場無料の飲食店はなさそうです。	general,attraction,restaurant,weather
+4824	12	USER	では予算の条件は外して構いません。	general,attraction,restaurant,weather
+4824	13	SYSTEM	それならば、札幌かに本家 福岡那の川店、こちらをおすすめします。	general,attraction,restaurant,weather
+4824	14	USER	ありがとうございます。最後に中央区の2/18の天気を調べてください。	general,attraction,restaurant,weather
+4824	15	SYSTEM	2/18 福岡 中央区 の天気は晴のち曇、最低気温6.3度、最高気温14.4度です。	general,attraction,restaurant,weather
+4824	16	USER	ありがとうございました。以上です。	general,attraction,restaurant,weather

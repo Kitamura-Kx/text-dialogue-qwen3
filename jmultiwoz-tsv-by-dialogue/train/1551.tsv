@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1551	0	USER	仙台旅行で当日泊まる宿泊施設を探して頂けますか？	general,hotel,restaurant
+1551	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,restaurant
+1551	2	USER	青葉区周辺でレストランが併設されているとありがたいです。	general,hotel,restaurant
+1551	3	SYSTEM	ではスマイルホテル仙台国分町はいかがでしょうか。	general,hotel,restaurant
+1551	4	USER	そちらにしようと思います。チェックアウト終了時刻、料金情報、あと近辺の駅からの所要時間を教えて頂けると助かります。	general,hotel,restaurant
+1551	5	SYSTEM	チェックアウト終了時刻は11:00でございます。値段帯は安めでございますが、詳しい料金情報はわかりかねます。広瀬通駅から徒歩で3分、勾当台公園駅から徒歩で3分、仙台駅から徒歩で10分、青葉通一番町駅から徒歩で15分となっております。	general,hotel,restaurant
+1551	6	USER	ありがとうございます。当日食事ができる飲食店も教えていただけますでしょうか。	general,hotel,restaurant
+1551	7	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,restaurant
+1551	8	USER	太白区でWi-Fiが無料で利用できる居酒屋はありますか？	general,hotel,restaurant
+1551	9	SYSTEM	では目利きの銀次 長町南駅前店はいかがでしょうか。	general,hotel,restaurant
+1551	10	USER	そちらに伺いたいと思います。駐車場の有無と近辺の駅からの所要時間、あと定休日があれば教えてください。	general,hotel,restaurant
+1551	11	SYSTEM	駐車場はございません。長町南駅から徒歩で1分、定休日はございません。	general,hotel,restaurant
+1551	12	USER	ありがとうございます。4人で、2/4の13:10に伺いたいのですが予約可能でしょうか。	general,hotel,restaurant
+1551	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は60127でございます。	general,hotel,restaurant
+1551	14	USER	ありがとうございました。	general,hotel,restaurant

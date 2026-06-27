@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4371	0	USER	大阪に旅行に行こうと考えています。そこで食料品の買い物ができるところを探していただいたいです。駐車場が無料で使えるところがいいです。	general,shopping,taxi
+4371	1	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,shopping,taxi
+4371	2	USER	ではジャンルはなんでも構いません。それであればありますか？	general,shopping,taxi
+4371	3	SYSTEM	はい、14件ご案内可能です。たとえば、大阪タカシマヤは、いかがでしょうか？	general,shopping,taxi
+4371	4	USER	そこにします。住所を教えていただけますか？	general,shopping,taxi
+4371	5	SYSTEM	大阪府大阪市中央区難波5丁目1-5です。	general,shopping,taxi
+4371	6	USER	ありがとうございます。あと、キャッシュレス払いに対応していてジャンボタクシーを利用できるタクシー会社を探していただけますか？	general,shopping,taxi
+4371	7	SYSTEM	それでしたら、株式会社フットはいかがでしょうか？	general,shopping,taxi
+4371	8	USER	そこにします。そこの電話番号を教えていただけますか？	general,shopping,taxi
+4371	9	SYSTEM	電話番号は、0665751700でございます。	general,shopping,taxi
+4371	10	USER	ありがとうございます。予約をしていただきたくて、2/22の12時30分で、出発地は大阪第一ホテルで、目的地は先ほど見つけていただいた買い物店舗でお願いします。	general,shopping,taxi
+4371	11	SYSTEM	ありがとうございます。大阪タカシマヤ着にて、ご予約完了いたしました。予約番号は、46996です。	general,shopping,taxi
+4371	12	USER	ありがとうございます。	general,shopping,taxi
+4371	13	SYSTEM	他にお調べすることはございませんか？	general,shopping,taxi
+4371	14	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,taxi
+4371	15	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,shopping,taxi

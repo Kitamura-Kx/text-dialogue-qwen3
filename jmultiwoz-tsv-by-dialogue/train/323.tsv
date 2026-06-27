@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+323	0	USER	大阪に旅行しようと計画しています。Wi-Fiと駐車場がタダで使える観光名所とかありますか	general,attraction,hotel,shopping
+323	1	SYSTEM	はい、それでは、鶴見緑地湯元 水春がよろしいかと思います。ジャンルは、銭湯、スパ、温泉です。	general,attraction,hotel,shopping
+323	2	USER	こちら、気になります。子どもの入場料はいくらですか？	general,attraction,hotel,shopping
+323	3	SYSTEM	はい、小学生の平日ご入浴は410円、土日、祝日のご入浴は460円、平日岩盤処は610円、土日、祝日の岩盤処は710円となります。小学生未満の幼児は、平日ご入浴210円、土日、祝日ご入浴260円です。岩盤処は小学生以上からとなります。	general,attraction,hotel,shopping
+323	4	USER	ありがとうございます。こちらの電話番号を教えてもらえますか？	general,attraction,hotel,shopping
+323	5	SYSTEM	はい、電話番号は0642571126、住所は大阪市鶴見区緑地公園1-37となります。	general,attraction,hotel,shopping
+323	6	USER	わかりました。あと、泊まる場所も探したいのですが。	general,attraction,hotel,shopping
+323	7	SYSTEM	承知しました。エリアなどのご希望はございますか？	general,attraction,hotel,shopping
+323	8	USER	Wi-Fiが無料で使えて、予算が安めの簡易宿所でお願いします。	general,attraction,hotel,shopping
+323	9	SYSTEM	ありがとうございます。それでは、ウィークリー翔ホテルなんば、はいかがでしょう？エリアでいうと中央区にございます。	general,attraction,hotel,shopping
+323	10	USER	こちらのホテルはチェックインは何時からできますか	general,attraction,hotel,shopping
+323	11	SYSTEM	はい、チェックイン開始時刻は15時、チェックアウト終了時刻は10時となります。	general,attraction,hotel,shopping
+323	12	USER	ありがとうございます。こちらのホテルで予約をお願いします。7/24から4泊、2名で利用したいです。	general,attraction,hotel,shopping
+323	13	SYSTEM	申し訳ありません。この条件では予約できませんでした。いかが致しましょう？	general,attraction,hotel,shopping
+323	14	USER	そうですか。では利用人数は1名で予約を取り直してもらえないでしょうか？	general,attraction,hotel,shopping
+323	15	SYSTEM	ありがとうございます。予約が完了しました。ご予約番号は、74358となります。	general,attraction,hotel,shopping
+323	16	USER	助かります。大阪のショッピングモールで買い物をしたいと考えています。駐車場代がかからないところはありますか？	general,attraction,hotel,shopping
+323	17	SYSTEM	はい、それでは、もりのみやキューズモールBASEはいかがでしょう？	general,attraction,hotel,shopping
+323	18	USER	こちらのモールは、最寄り駅からアクセスするのに、どれくらい時間がかかりますか？	general,attraction,hotel,shopping
+323	19	SYSTEM	はい、最寄りの森ノ宮駅から徒歩で1分となります。	general,attraction,hotel,shopping
+323	20	USER	わかりました。本日はご丁寧にご対応して下さりありがとうございました。	general,attraction,hotel,shopping

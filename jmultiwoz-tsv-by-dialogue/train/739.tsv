@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+739	0	USER	名古屋の東枇杷島駅近くで、無料駐車場のある買い物できるお店を探しています。	general,shopping
+739	1	SYSTEM	そうしますと、ベビーザらス 名西店という、おもちゃを扱っているお店がございますが、いかがでしょうか？	general,shopping
+739	2	USER	そこの定休日を教えてもらえますか？	general,shopping
+739	3	SYSTEM	こちらのお店は、定休日はございません。	general,shopping
+739	4	USER	ありがとうございます。	general,shopping
+739	5	SYSTEM	他にお調べすることはございますか？	general,shopping
+739	6	USER	大丈夫です。ありがとうございました。	general,shopping
+739	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

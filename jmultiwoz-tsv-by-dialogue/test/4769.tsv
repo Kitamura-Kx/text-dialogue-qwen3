@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4769	0	USER	名古屋への旅行を計画していて、当日の観光名所を探しています。Wi-Fiと駐車場が無料の、自然・公園のところが良いです。	general,attraction
+4769	1	SYSTEM	申し訳ありません。その条件はありませんでした。	general,attraction
+4769	2	USER	そうですか。では、Wi-Fiは有っても無くても良いです。	general,attraction
+4769	3	SYSTEM	承知しました。荒子川公園はいかがでしょうか？	general,attraction
+4769	4	USER	ありがとうございます。そこにしようと思います。荒子川公園の料金情報は分かりますか？	general,attraction
+4769	5	SYSTEM	料金情報は無料です。	general,attraction
+4769	6	USER	ありがとうございました。	general,attraction
+4769	7	SYSTEM	他にご用件はありますか？	general,attraction
+4769	8	USER	いえ、他にはありません。ありがとうございました。	general,attraction
+4769	9	SYSTEM	ありがとうございました。又のご利用をお待ちしています	general,attraction

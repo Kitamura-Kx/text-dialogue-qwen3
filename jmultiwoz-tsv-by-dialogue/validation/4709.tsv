@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4709	0	USER	福岡の観光名所を探しています。駐車場が無料のところを教えていただけますか	general,attraction,taxi
+4709	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,taxi
+4709	2	USER	それでは駐車場は有料でもよいので観光名所を教えていただけますか。	general,attraction,taxi
+4709	3	SYSTEM	かしこまりました。そうしますと、たとえば、福岡市動植物園はいかがでしょうか？中央区エリアにある、植物園, 自然・公園, 動物園となります。	general,attraction,taxi
+4709	4	USER	ありがとうございます。ジャンルは植物園, 自然・公園, 動物園でよろしいでしょうか。また料金も教えていただけますか。	general,attraction,taxi
+4709	5	SYSTEM	はい、ジャンルはおっしゃるとおりです。料金は、大人600円、高校生300円、中学生以下は無料でございます。	general,attraction,taxi
+4709	6	USER	ありがとうございます。当日の移動で、タクシーを探しています。キャッシュレス払い可能で、ジャンボタクシー利用ができるタクシー会社を教えていただけますか。	general,attraction,taxi
+4709	7	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,taxi
+4709	8	USER	それではキャッシュレス払いのできる通常のタクシーでお願いしたいと思います。電話番号と会社名を合わせて教えていただけますか。	general,attraction,taxi
+4709	9	SYSTEM	かしこまりました。では、日本交通産業（株）はいかがでしょうか？電話番号は、0925886377でございます。	general,attraction,taxi
+4709	10	USER	ありがとうございます。それでは、予約をお願いしたいと思います。12/14の10:30です。出発地は旧福岡県公会堂 貴賓館から、目的地は福岡市動植物園までお願いいたします。	general,attraction,taxi
+4709	11	SYSTEM	かしこまりました。念のためお伺いしますが、お時間は午後ではなく、午前の10時半でよろしかったでしょうか？	general,attraction,taxi
+4709	12	USER	大変失礼いたしました。午前中でお願いいたします。	general,attraction,taxi
+4709	13	SYSTEM	かしこまりました。ありがとうございます。ご予約番号81144にて、お取りしました。	general,attraction,taxi
+4709	14	USER	丁寧にありがとうございました。お問い合わせは以上で終わりです。ありがとうございました。	general,attraction,taxi
+4709	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,taxi

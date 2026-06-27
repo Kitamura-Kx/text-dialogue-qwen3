@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3868	0	USER	今度、大阪へ行きます。中央区で普通の予算で食事ができる店を教えて下さい。	general,restaurant,hotel,weather
+3868	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,restaurant,hotel,weather
+3868	2	USER	無料Wi-Fiがある所がいいです。	general,restaurant,hotel,weather
+3868	3	SYSTEM	ではtresはいかがでしょうか。	general,restaurant,hotel,weather
+3868	4	USER	良さそうですね。定休日を教えて下さい。	general,restaurant,hotel,weather
+3868	5	SYSTEM	定休日は無しでございます。	general,restaurant,hotel,weather
+3868	6	USER	分かりました。当日宿泊する旅館を紹介してください。レストランがある所が良いです。	general,restaurant,hotel,weather
+3868	7	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,hotel,weather
+3868	8	USER	レストランは無くても大丈夫ですので、安めの予算の所を教えて下さい。	general,restaurant,hotel,weather
+3868	9	SYSTEM	ではかねよし旅館がございます。	general,restaurant,hotel,weather
+3868	10	USER	ありがとうございます。料金情報とエリアを教えて下さい。	general,restaurant,hotel,weather
+3868	11	SYSTEM	値段帯は安めでございますが、料金情報の詳細についてはわかりかねます。エリアは中央区でございます。	general,restaurant,hotel,weather
+3868	12	USER	ありがとうございます。最後に8月18日の大正区の最高気温と天気を教えて下さい。	general,restaurant,hotel,weather
+3868	13	SYSTEM	天気は晴のち曇で、最高気温は37.7度でございます。	general,restaurant,hotel,weather
+3868	14	USER	ありがとうございました。助かりました。それでは失礼します。	general,restaurant,hotel,weather

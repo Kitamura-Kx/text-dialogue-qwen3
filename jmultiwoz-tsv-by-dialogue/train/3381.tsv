@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3381	0	USER	京都へ行こうと思っているのですが、宿泊施設を探しています。	general,hotel
+3381	1	SYSTEM	お調べしましたところ、東横INN京都五条大宮を含む101件該当がございます。いかがいたしましょうか？	general,hotel
+3381	2	USER	Wi-Fiが無料で使えて、無料駐車場があるところがいいです。	general,hotel
+3381	3	SYSTEM	条件を追加しますと、緑風荘を含む８件ございます。いかがでしょうか？	general,hotel
+3381	4	USER	緑風荘はどういうタイプの宿泊施設ですか？	general,hotel
+3381	5	SYSTEM	こちらは旅館タイプの施設でございます。	general,hotel
+3381	6	USER	ありがとうございます。わかりました。	general,hotel
+3381	7	SYSTEM	ありがとうございました。	general,hotel

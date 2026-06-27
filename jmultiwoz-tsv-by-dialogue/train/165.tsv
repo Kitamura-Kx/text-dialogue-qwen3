@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+165	0	USER	恐れ入ります。名古屋に行って、買い物をしたいのですが、色々教えてもらえますか？	general,shopping,attraction
+165	1	SYSTEM	かしこまりました。名古屋でお買い物ができる施設は50軒ほどございます。ご希望の条件などはありますでしょうか？	general,shopping,attraction
+165	2	USER	守山区のお店を探してもらってもいいですか？	general,shopping,attraction
+165	3	SYSTEM	守山区のお店ですね。そういたしますと、1件、草叢BOOKS 新守山店がございます。	general,shopping,attraction
+165	4	USER	そこの電話番号を教えてください。	general,shopping,attraction
+165	5	SYSTEM	電話番号は、052791 5152です。	general,shopping,attraction
+165	6	USER	あとですね、観光できるところも探していて、昭和区にある銭湯・スパで、駐車料金がかからないところってありますか？	general,shopping,attraction
+165	7	SYSTEM	大変申し訳ございません。ご希望の条件すべてを満たす施設は、見つけることができませんでした。	general,shopping,attraction
+165	8	USER	じゃあ、銭湯・スパ以外のところでも構いません。それならありそうですか？	general,shopping,attraction
+165	9	SYSTEM	ありがとうございます。昭和美術館(公益財団法人後藤報恩会)と桑山美術館(公益財団法人桑山清山会)の2件が見つかりました。	general,shopping,attraction
+165	10	USER	桑山美術館(公益財団法人桑山清山会)で検討してみたいと思います。一番近い駅は、どこになりますかね？	general,shopping,attraction
+165	11	SYSTEM	桑山美術館(公益財団法人桑山清山会)の最寄り駅は、川名駅となります。川名駅から徒歩8分でアクセスできます。	general,shopping,attraction
+165	12	USER	大人は入場料がいくらぐらいかかるんでしょうか？	general,shopping,attraction
+165	13	SYSTEM	大人入場料は500円です。20名様以上の団体でしたら、大人400円で入場できます。	general,shopping,attraction
+165	14	USER	そうなんですね。あと、WiFiは使える場所なんですか？	general,shopping,attraction
+165	15	SYSTEM	誠に申し訳ございません。こちらの施設のWiFiの状況につきましては、手元にご案内できる情報がございませんでした。	general,shopping,attraction
+165	16	USER	それならいいです。今日はいろいろありがとうございました。	general,shopping,attraction
+165	17	SYSTEM	他になにかお手伝い出来ることはございますか？	general,shopping,attraction
+165	18	USER	もう大丈夫です。失礼します。	general,shopping,attraction

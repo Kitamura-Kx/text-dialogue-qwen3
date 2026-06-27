@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2884	0	USER	札幌へ旅行に行くんですが、宿泊施設を探して欲しいです。	general,hotel,restaurant,taxi
+2884	1	SYSTEM	はい、ご希望の条件をおきかせください	general,hotel,restaurant,taxi
+2884	2	USER	白石区で安めのところでお願いします！	general,hotel,restaurant,taxi
+2884	3	SYSTEM	白石区で安めといえば、ホテルルートイン札幌白石、こちら一択です。	general,hotel,restaurant,taxi
+2884	4	USER	ありがとうございます。そこは駐車場ありますか？	general,hotel,restaurant,taxi
+2884	5	SYSTEM	無料駐車場があります。	general,hotel,restaurant,taxi
+2884	6	USER	いいですね。和食を食べられる飲食店も探していただけますか？	general,hotel,restaurant,taxi
+2884	7	SYSTEM	札幌の和食といえば、４４件ヒットします。追加の希望条件はありますか。	general,hotel,restaurant,taxi
+2884	8	USER	特にはないです！	general,hotel,restaurant,taxi
+2884	9	SYSTEM	では、札幌らしく、にほんいち水産直営 居酒屋あらた 本店、こちらをお勧めします。	general,hotel,restaurant,taxi
+2884	10	USER	良さそうですね。駐車場の有無と値段帯についても教えてください。	general,hotel,restaurant,taxi
+2884	11	SYSTEM	駐車場はありません。活〆「本たらばかに足」 特大1本焼き2178円、羅臼産きんき焼き550円、このあたりが人気のようです。	general,hotel,restaurant,taxi
+2884	12	USER	ありがとうございます。あと、タクシー会社も探していただけますか？	general,hotel,restaurant,taxi
+2884	13	SYSTEM	はい、北都ベリアールサービス(株)をおすすめします。	general,hotel,restaurant,taxi
+2884	14	USER	ジャンボタクシーを利用したいのと、キャッシュレス払いができるところが良かったんですが、どうですか？	general,hotel,restaurant,taxi
+2884	15	SYSTEM	ジャンボタクシー、キャッシュレス、どちらも対応しています。	general,hotel,restaurant,taxi
+2884	16	USER	いいですね。電話番号を教えてください。	general,hotel,restaurant,taxi
+2884	17	SYSTEM	0118202200です。	general,hotel,restaurant,taxi
+2884	18	USER	予約もいいですか？4/19の10:50でお願いします！ホテルルートイン札幌白石からにほんいち水産直営 居酒屋あらた 本店まで乗りたいです。	general,hotel,restaurant,taxi
+2884	19	SYSTEM	予約に失敗してしまいました。少し時間をずらしていただけるとありがたいのですが。	general,hotel,restaurant,taxi
+2884	20	USER	11:40だとどうでしょう？	general,hotel,restaurant,taxi
+2884	21	SYSTEM	予約成功しました。予約番号は34543です。	general,hotel,restaurant,taxi
+2884	22	USER	大変助かりました！楽しんできます！	general,hotel,restaurant,taxi
+2884	23	SYSTEM	よい旅を	general,hotel,restaurant,taxi

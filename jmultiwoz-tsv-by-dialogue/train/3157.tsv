@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3157	0	USER	東京への旅行を計画しているのですが、駐車場が無料で利用できる簡易宿所を探してもらえますか？	general,hotel,taxi,weather
+3157	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,hotel,taxi,weather
+3157	2	USER	では駐車場はなくても大丈夫なので、簡易宿所でどこかいいところはありますか？	general,hotel,taxi,weather
+3157	3	SYSTEM	BOOK AND BED TOKYO SHINJYUKUは、いかがですか？	general,hotel,taxi,weather
+3157	4	USER	そこはレストランはありますか？	general,hotel,taxi,weather
+3157	5	SYSTEM	はい、レストランは有りとなっています。	general,hotel,taxi,weather
+3157	6	USER	そこでお願いしようと思います。1/28から３泊で２人で予約をお願いできますか？	general,hotel,taxi,weather
+3157	7	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,hotel,taxi,weather
+3157	8	USER	では１人で予約をお願いします。	general,hotel,taxi,weather
+3157	9	SYSTEM	予約出来ました。予約番号は、42766です。	general,hotel,taxi,weather
+3157	10	USER	ありがとうございます。あとジャンボタクシーが利用できるタクシー会社も探してもらえますか？	general,hotel,taxi,weather
+3157	11	SYSTEM	では、銀星交通はいかがですか？	general,hotel,taxi,weather
+3157	12	USER	そこでお願いしようと思うので、電話番号を教えてください。	general,hotel,taxi,weather
+3157	13	SYSTEM	電話番号は、0425750458です。	general,hotel,taxi,weather
+3157	14	USER	ありがとうございます。1/28の11:50にTaverna e Pizzeria SaluteからBOOK AND BED TOKYO SHINJYUKUまで予約をお願いできますか？	general,hotel,taxi,weather
+3157	15	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,hotel,taxi,weather
+3157	16	USER	では12:20ではどうですか？	general,hotel,taxi,weather
+3157	17	SYSTEM	予約出来ました。予約番号は、36332です。	general,hotel,taxi,weather
+3157	18	USER	ありがとうございます。	general,hotel,taxi,weather
+3157	19	SYSTEM	他にご用件はありますか？	general,hotel,taxi,weather
+3157	20	USER	すみません、あと1/28の目黒区の最高気温と最低気温を調べてもらえますか？	general,hotel,taxi,weather
+3157	21	SYSTEM	最高気温は、14.8度で最低気温は、マイナス0.6度となっています。	general,hotel,taxi,weather
+3157	22	USER	ありがとうございます。	general,hotel,taxi,weather
+3157	23	SYSTEM	他にご用件はございますか？	general,hotel,taxi,weather
+3157	24	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel,taxi,weather

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3178	0	USER	大阪への旅行を計画していて、当日の観光名所を探しています。駐車場無料、Wi-Fi無料のところが希望です。	general,attraction,shopping,restaurant
+3178	1	SYSTEM	かしこまりました。では、鶴見緑地湯元 水春はいかがでしょうか？	general,attraction,shopping,restaurant
+3178	2	USER	ありがとうございます。見緑地湯元 水春の料金情報，子供入場料は分かりますか？	general,attraction,shopping,restaurant
+3178	3	SYSTEM	はい。子供入場料は不明ですが、大人 (中学生以上)は平日820円、土日・祝 ご入浴で920円などがございます。	general,attraction,shopping,restaurant
+3178	4	USER	ありがとうございます。当日買い物が出来るところも探しています。福島区で駐車場無料のところが良いです。	general,attraction,shopping,restaurant
+3178	5	SYSTEM	はい。申し訳ございません。条件に合う店舗は見つかりませんでした。	general,attraction,shopping,restaurant
+3178	6	USER	では、地区はどこでも良いです。	general,attraction,shopping,restaurant
+3178	7	SYSTEM	かしこまりました。では、MARUZEN&ジュンク堂書店 梅田店はいかがでしょうか？	general,attraction,shopping,restaurant
+3178	8	USER	ありがとうございます。そこの最寄り駅は分かりますか？	general,attraction,shopping,restaurant
+3178	9	SYSTEM	はい。最寄りは梅田駅です。	general,attraction,shopping,restaurant
+3178	10	USER	ありがとうございます。当日の飲食店も探しています。北区で予算が安めのところが良いです。	general,attraction,shopping,restaurant
+3178	11	SYSTEM	かしこまりました。では、素材の力と和の心 乾坤一擲はいかがでしょうか？	general,attraction,shopping,restaurant
+3178	12	USER	ありがとうございます。素材の力と和の心 乾坤一擲の営業時間、住所は分かりますか？	general,attraction,shopping,restaurant
+3178	13	SYSTEM	はい。営業時間は11:30～14:30と17:00～23:00で、住所は大阪府大阪市北区曾根崎新地2丁目1-13 曽根崎澤田ビル 2Fです。	general,attraction,shopping,restaurant
+3178	14	USER	ありがとうございます。そこの予約をお願いしたいのですが、1/13の午後15：50から、2人で予約をお願い出来ますか？	general,attraction,shopping,restaurant
+3178	15	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,attraction,shopping,restaurant
+3178	16	USER	では、1人での予約にします。	general,attraction,shopping,restaurant
+3178	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、79361です。	general,attraction,shopping,restaurant
+3178	18	USER	ありがとうございました。	general,attraction,shopping,restaurant
+3178	19	SYSTEM	もう大丈夫ですか？	general,attraction,shopping,restaurant
+3178	20	USER	はい、大丈夫です。ありがとうございました。	general,attraction,shopping,restaurant
+3178	21	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,restaurant

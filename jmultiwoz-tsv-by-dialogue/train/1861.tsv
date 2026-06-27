@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1861	0	USER	今、京都に旅行しようかなと思っています。駐車場無料のお買い物ができるところはありますか？	general,shopping,attraction,taxi
+1861	1	SYSTEM	11件見つかりました。例えば、香老舗 松栄堂はいかがでしょうか？	general,shopping,attraction,taxi
+1861	2	USER	あって良かったです。そちらのお店は、どこのエリアにありますか？	general,shopping,attraction,taxi
+1861	3	SYSTEM	はい。エリアは中京区になります。	general,shopping,attraction,taxi
+1861	4	USER	ありがとうございます。あと観光名所にも行きたいのですが、駐車場とWi-Fi無料のところはありますか？	general,shopping,attraction,taxi
+1861	5	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,shopping,attraction,taxi
+1861	6	USER	では、駐車場はなくてもかまいません。	general,shopping,attraction,taxi
+1861	7	SYSTEM	かしこまりました。では、国立京都国際会館はいかがでしょうか？	general,shopping,attraction,taxi
+1861	8	USER	いいですね！そこの営業時間と、子どもの入場料を教えてください。	general,shopping,attraction,taxi
+1861	9	SYSTEM	はい。営業時間は09:00～22:00でございます。子供の入場料は不明となっております。申し訳ございません。	general,shopping,attraction,taxi
+1861	10	USER	わかりました。あと、タクシーを予約したいです。キャッシュレスとジャンボタクシーに対応しているところはありますか？	general,shopping,attraction,taxi
+1861	11	SYSTEM	かしこまりました。では、エムケイ株式会社はいかがでしょうか？	general,shopping,attraction,taxi
+1861	12	USER	そちらでタクシーを予約してもらえますか？ 7/5 12:10 に、香老舗 松栄堂を出発、目的地は 国立京都国際会館 です。	general,shopping,attraction,taxi
+1861	13	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,shopping,attraction,taxi
+1861	14	USER	では、時間を 13:10 に変更したらどうでしょうか。	general,shopping,attraction,taxi
+1861	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、97569です。	general,shopping,attraction,taxi
+1861	16	USER	お手数おかけしました。今回お願いしたいことは以上です。ありがとうございました。	general,shopping,attraction,taxi
+1861	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction,taxi

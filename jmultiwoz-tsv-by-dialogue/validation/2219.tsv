@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2219	0	USER	名古屋へ旅行に行くので、観光できるところを探してください。	general,attraction,restaurant,weather
+2219	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,restaurant,weather
+2219	2	USER	駐車場とWi-Fiが無料で利用できるところにしてください。	general,attraction,restaurant,weather
+2219	3	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,attraction,restaurant,weather
+2219	4	USER	ではWi-Fiの条件は外して構いません。	general,attraction,restaurant,weather
+2219	5	SYSTEM	エリアでいうと天白区にある、名古屋市農業センターdelaふぁーむはいかがでしょう？ジャンルは教室、ワークショップ、体験、牧場、となります。	general,attraction,restaurant,weather
+2219	6	USER	そちらの電話番号を教えて下さい。	general,attraction,restaurant,weather
+2219	7	SYSTEM	電話番号は、0528015221となります。	general,attraction,restaurant,weather
+2219	8	USER	次に最寄り駅が車道駅の飲食店を探してください。	general,attraction,restaurant,weather
+2219	9	SYSTEM	エリアでいうと東区に1件、アリアナレストランがございます。ジャンルは、カレー、アジア、エスニック料理、となります。	general,attraction,restaurant,weather
+2219	10	USER	ありがとうございます。あと6/23の守山区の天候を教えて下さい。	general,attraction,restaurant,weather
+2219	11	SYSTEM	はい、天気は晴のち曇、最低気温21.7度、最高気温26度となります。他にご用件はございますか？	general,attraction,restaurant,weather
+2219	12	USER	これで以上です。ありがとうございました。	general,attraction,restaurant,weather
+2219	13	SYSTEM	ありがとうございました。	general,attraction,restaurant,weather

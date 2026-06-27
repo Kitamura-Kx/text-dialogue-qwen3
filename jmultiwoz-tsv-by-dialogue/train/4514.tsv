@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4514	0	USER	旅行で大阪に行く時に訪れる観光名所を探してもらえますか？	general,attraction,hotel
+4514	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,hotel
+4514	2	USER	はい、東住吉区で、ジャンルはコンサート・ショーが希望です。	general,attraction,hotel
+4514	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,hotel
+4514	4	USER	それなら東住吉区でなくても大丈夫です。	general,attraction,hotel
+4514	5	SYSTEM	でしたら、大阪四季劇場がございます。	general,attraction,hotel
+4514	6	USER	いいですね、そこの料金情報と駐車場の有無を教えてもらえますか？	general,attraction,hotel
+4514	7	SYSTEM	料金情報は公演により異なるとのことでございます。駐車場はございません。	general,attraction,hotel
+4514	8	USER	わかりました。レストランが併設されている宿泊施設も探してもらえますか？	general,attraction,hotel
+4514	9	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,attraction,hotel
+4514	10	USER	Wi-Fiと駐車場が無料のところが良いです。	general,attraction,hotel
+4514	11	SYSTEM	ではビジネス旅館 励明園がございます。	general,attraction,hotel
+4514	12	USER	そちらの近辺の駅からの所要時間はわかりますか？	general,attraction,hotel
+4514	13	SYSTEM	大阪港駅から徒歩で3分でございます。	general,attraction,hotel
+4514	14	USER	9/18から4名で2泊したいのですが、予約をお願いできますか？	general,attraction,hotel
+4514	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は40622でございます。	general,attraction,hotel
+4514	16	USER	ありがとうございます。	general,attraction,hotel
+4514	17	SYSTEM	ほかにご用件はございませんか。	general,attraction,hotel
+4514	18	USER	はい、大丈夫です。ありがとうございました。	general,attraction,hotel
+4514	19	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2020	0	USER	仙台の若林区にコンビニはありますでしょうか？	general,shopping,attraction,taxi
+2020	1	SYSTEM	はい、ローソン 仙台荒井西店がございます。	general,shopping,attraction,taxi
+2020	2	USER	そちらは無料で駐車場が利用できますか？	general,shopping,attraction,taxi
+2020	3	SYSTEM	はい、無料でご利用いただけます。	general,shopping,attraction,taxi
+2020	4	USER	定休日を教えて下さい。	general,shopping,attraction,taxi
+2020	5	SYSTEM	定休日はございません。	general,shopping,attraction,taxi
+2020	6	USER	ありがとうございます。当日行ける観光名所も探してもらいたいのですが。	general,shopping,attraction,taxi
+2020	7	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,attraction,taxi
+2020	8	USER	無料Wi-Fiが利用できるところがいいです。	general,shopping,attraction,taxi
+2020	9	SYSTEM	エリアでいうと青葉区にある、仙台駅はいかがでしょう？ジャンルはその他、となります。	general,shopping,attraction,taxi
+2020	10	USER	そちらの住所と定休日を教えてもらえますか？	general,shopping,attraction,taxi
+2020	11	SYSTEM	住所は宮城県仙台市青葉区中央1丁目10-10、定休日はございません。	general,shopping,attraction,taxi
+2020	12	USER	ありがとうございます。当日タクシーを利用したいのですが、ジャンボタクシーが利用できる会社はありますか？	general,shopping,attraction,taxi
+2020	13	SYSTEM	はい、仙台タクシーグループはいかがでしょう？キャッシュレスにも対応しております。電話番号は、0570061616となります。	general,shopping,attraction,taxi
+2020	14	USER	詳しくありがとうございます。そちらで予約お願いできますか？	general,shopping,attraction,taxi
+2020	15	SYSTEM	承知しました。出発日時と出発地、目的地を教えていただけますか？	general,shopping,attraction,taxi
+2020	16	USER	８月１７日の13:40に、ローソン 仙台荒井西店から仙台駅までお願いします。	general,shopping,attraction,taxi
+2020	17	SYSTEM	申し訳ありません。この条件では予約できませんでした。いかが致しましょう？	general,shopping,attraction,taxi
+2020	18	USER	時間を１４時半にしたらできますか？	general,shopping,attraction,taxi
+2020	19	SYSTEM	予約が可能になりまして、ご予約番号は、86183となります。他にご用件はございますか？	general,shopping,attraction,taxi
+2020	20	USER	大丈夫です。ありがとうございました。	general,shopping,attraction,taxi
+2020	21	SYSTEM	ありがとうございました。	general,shopping,attraction,taxi

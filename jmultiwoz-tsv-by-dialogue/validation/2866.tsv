@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2866	0	USER	東京に行くんですが、キャッシュレス払いできるタクシー会社ってありますか？	general,taxi
+2866	1	SYSTEM	高鉄交通は、いかがでしょうか？	general,taxi
+2866	2	USER	そこでいいです。電話番号を教えてください。	general,taxi
+2866	3	SYSTEM	電話番号は、0120617212です。	general,taxi
+2866	4	USER	8月4日の予約をしたいんですが、13時半にビジネスホテル山百合を出て、ANAインターコンチネンタルホテル東京まで取れますか？	general,taxi
+2866	5	SYSTEM	予約出来ました。予約番号は、51826です。	general,taxi
+2866	6	USER	ありがとうございました。お手数をおかけしました。	general,taxi

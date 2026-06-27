@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2968	0	USER	今度京都へ行くんですが、上京区で無料駐車場がある観光名所はありますか？	general,attraction,shopping
+2968	1	SYSTEM	はい、北野天満宮がございます。ジャンルは、神社、寺院、教会、モニュメントなど、となります。	general,attraction,shopping
+2968	2	USER	ありがとうございます。ではそこの料金情報と電話番号も教えてもらえますか？	general,attraction,shopping
+2968	3	SYSTEM	電話番号は0754610005となります。料金情報は、企画により異なる、となります。	general,attraction,shopping
+2968	4	USER	ありがとうございます。あと、医薬品や化粧品が買えるお店で、駐車場無料のところも探してもらえますか？	general,attraction,shopping
+2968	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,shopping
+2968	6	USER	そうですか、じゃあおもちゃジャンルのお店ならどうですか？	general,attraction,shopping
+2968	7	SYSTEM	ありがとうございます。エリアでいうと北区に、トーイハウス童がございます。	general,attraction,shopping
+2968	8	USER	ありがとうございます。そこの住所も教えてもらえますか？	general,attraction,shopping
+2968	9	SYSTEM	はい、住所は京都府京都市北区上賀茂中大路町4-5となります。	general,attraction,shopping
+2968	10	USER	ありがとうございました。以上で結構です。	general,attraction,shopping
+2968	11	SYSTEM	ありがとうございました。	general,attraction,shopping

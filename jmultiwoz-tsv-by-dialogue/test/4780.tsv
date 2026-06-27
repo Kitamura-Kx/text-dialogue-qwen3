@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4780	0	USER	大阪で買い物できるところを調べてください。ジャンルは書籍で、駐車場を無料で使いたいです。	general,shopping,hotel,taxi
+4780	1	SYSTEM	はい。MARUZEN&ジュンク堂書店 梅田店がございます。	general,shopping,hotel,taxi
+4780	2	USER	ありがとうございます。また当日泊まる宿も探しています。タイプはシティホテルで、最寄り駅が大阪上本町駅で探してくれませんか。	general,shopping,hotel,taxi
+4780	3	SYSTEM	かしこまりました。では、シェラトン都ホテル大阪はいかがでしょうか？	general,shopping,hotel,taxi
+4780	4	USER	分かりました。チェックアウト終了時刻と料金情報を教えてください。	general,shopping,hotel,taxi
+4780	5	SYSTEM	はい。チェックアウト終了時刻は12:00です。また、料金情報としては記載されていないためわかりません。申し訳ございません。	general,shopping,hotel,taxi
+4780	6	USER	ありがとうございます。	general,shopping,hotel,taxi
+4780	7	SYSTEM	はい。他に何かご用件はございませんか？	general,shopping,hotel,taxi
+4780	8	USER	当日に利用できるタクシーを探してください。キャッシュレスできるところでお願いします。	general,shopping,hotel,taxi
+4780	9	SYSTEM	はい。株式会社国際興業大阪はいかがでしょうか。ジャンボタクシーにも対応しております。	general,shopping,hotel,taxi
+4780	10	USER	わかりました。電話番号を教えてください。	general,shopping,hotel,taxi
+4780	11	SYSTEM	はい。電話番号は0570035931です。	general,shopping,hotel,taxi
+4780	12	USER	予約お願いします。日付は7/20で、時間は16:10です。出発地はMARUZEN&ジュンク堂書店 梅田店で、目的地はシェラトン都ホテル大阪でお願いします。	general,shopping,hotel,taxi
+4780	13	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,shopping,hotel,taxi
+4780	14	USER	では、時間を17:10にしてください。	general,shopping,hotel,taxi
+4780	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、65900です。	general,shopping,hotel,taxi
+4780	16	USER	ありがとうございます。	general,shopping,hotel,taxi
+4780	17	SYSTEM	はい。こちらこそご利用ありがとうございました。	general,shopping,hotel,taxi

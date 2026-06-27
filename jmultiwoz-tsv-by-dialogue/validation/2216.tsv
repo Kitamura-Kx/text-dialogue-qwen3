@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2216	0	USER	名古屋へ旅行に行くので、観光できるところを探してください。	general,attraction,taxi
+2216	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,taxi
+2216	2	USER	地区は中区で、Wi-Fiが無料で利用できるところにしてください。	general,attraction,taxi
+2216	3	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,attraction,taxi
+2216	4	USER	ではWi-Fiの条件は外して構いません。	general,attraction,taxi
+2216	5	SYSTEM	万松寺はいかがでしょう？ジャンルは、神社、寺院、教会、モニュメントなど、となります。	general,attraction,taxi
+2216	6	USER	そちらの近辺駅からの所要時間を教えてください。	general,attraction,taxi
+2216	7	SYSTEM	最寄りの上前津駅から徒歩で3分となります。	general,attraction,taxi
+2216	8	USER	では次にタクシー会社を探してください。キャッシュレス払いできるところだと助かります。	general,attraction,taxi
+2216	9	SYSTEM	申し訳ありません。キャッシュレス対応のタクシー会社はございません。いかが致しましょう？	general,attraction,taxi
+2216	10	USER	ではキャッシュレス払いができないところでも構いません。	general,attraction,taxi
+2216	11	SYSTEM	第五フジタクシーはいかがでしょう？ジャンボタクシーには対応しております。電話番号は、0525232211となります。	general,attraction,taxi
+2216	12	USER	ではそちらでタクシーを予約してください。日付は4/7、時間は14:30、出発地はFORZA ホテルフォルツァ名古屋栄、目的地は万松寺です。	general,attraction,taxi
+2216	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、68958となります。他にご用件はございますか？	general,attraction,taxi
+2216	14	USER	いえ、これで全部です。ありがとうございました。	general,attraction,taxi
+2216	15	SYSTEM	ありがとうございました。	general,attraction,taxi

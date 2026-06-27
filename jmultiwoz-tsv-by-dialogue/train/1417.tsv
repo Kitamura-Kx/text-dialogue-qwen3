@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1417	0	USER	仙台への旅行を計画しています．	general,restaurant
+1417	1	SYSTEM	お問合せありがとうございます。	general,restaurant
+1417	2	USER	当日食事ができる飲食店を探してください．地区は泉区で予算は安めが希望です．	general,restaurant
+1417	3	SYSTEM	丸源ラーメン 仙台泉店はいかがでしょうか。	general,restaurant
+1417	4	USER	いいですね。そちらのWi-Fiの有無，電話番号をおしえてください。	general,restaurant
+1417	5	SYSTEM	Wi-Fiの有無は無しで電話番号は0227222017になります。	general,restaurant
+1417	6	USER	ありがとうございます。そちらで人数は3人、日付は8/28で時間は09:30で予約して欲しいです。	general,restaurant
+1417	7	SYSTEM	予約完了いたしました。予約番号は18435になります。	general,restaurant
+1417	8	USER	ありがとうございます。	general,restaurant

@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3276	0	USER	横浜の西区で買い物できるところを探しています。綱島駅近くでありますか？	general,shopping,weather,taxi
+3276	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,shopping,weather,taxi
+3276	2	USER	それでは、綱島駅の近くでなくてもいいです。	general,shopping,weather,taxi
+3276	3	SYSTEM	では、クイーンズスクエア横浜はいかがでしょうか？	general,shopping,weather,taxi
+3276	4	USER	近くの駅からクイーンズスクエア横浜までの所要時間を教えてください。	general,shopping,weather,taxi
+3276	5	SYSTEM	所要時間は、みなとみらい駅から徒歩で0分です。	general,shopping,weather,taxi
+3276	6	USER	ありがとうございます。	general,shopping,weather,taxi
+3276	7	SYSTEM	他にご用件はありますか？	general,shopping,weather,taxi
+3276	8	USER	当日12月1日の、保土ケ谷区の天気を知りたいのですが。	general,shopping,weather,taxi
+3276	9	SYSTEM	天気は、晴のち曇です。	general,shopping,weather,taxi
+3276	10	USER	最低気温は？	general,shopping,weather,taxi
+3276	11	SYSTEM	最低気温は8.4度です。	general,shopping,weather,taxi
+3276	12	USER	わかりました。	general,shopping,weather,taxi
+3276	13	SYSTEM	他にご用件はありますか？	general,shopping,weather,taxi
+3276	14	USER	アイ株式会社というタクシー会社を利用しようと思っていますが、キャッシュレス対応していますか？	general,shopping,weather,taxi
+3276	15	SYSTEM	申し訳ありません、アイ株式会社はキャッシュレス決済は、不明となっています。	general,shopping,weather,taxi
+3276	16	USER	そこのタクシー会社の電話番号を教えてください。	general,shopping,weather,taxi
+3276	17	SYSTEM	電話番号は、0457118668です。	general,shopping,weather,taxi
+3276	18	USER	12月1日の10：40にタクシーの予約をお願いできますか？	general,shopping,weather,taxi
+3276	19	SYSTEM	出発地と目的地はどうされますか？	general,shopping,weather,taxi
+3276	20	USER	出発地は串亭 横浜みなとみらいで、目的地はクイーンズスクエア横浜です。	general,shopping,weather,taxi
+3276	21	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,shopping,weather,taxi
+3276	22	USER	それでは11：30に変更します。	general,shopping,weather,taxi
+3276	23	SYSTEM	予約出来ました。予約番号は、76709です。	general,shopping,weather,taxi
+3276	24	USER	ありがとうございます。	general,shopping,weather,taxi
+3276	25	SYSTEM	他にご用件はありますか？	general,shopping,weather,taxi
+3276	26	USER	もう大丈夫です。ありがとうございました。	general,shopping,weather,taxi
+3276	27	SYSTEM	承知致しました。ありがとうございました。	general,shopping,weather,taxi

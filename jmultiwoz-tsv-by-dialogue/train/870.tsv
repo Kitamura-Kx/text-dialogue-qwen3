@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+870	0	USER	名古屋へ旅行に行くのですが鳴海駅周辺に無料駐車場がある観光名所はありますか？	general,attraction,shopping,restaurant
+870	1	SYSTEM	はい、1件ございます。氷上姉子神社というところですが、いかがでしょうか？	general,attraction,shopping,restaurant
+870	2	USER	最寄り駅からの所要時間はどれくらいになりますか？それと定休日があれば教えて下さい	general,attraction,shopping,restaurant
+870	3	SYSTEM	最寄りの鳴海駅からタクシーで10分の距離にございます。ほかに、大高駅から徒歩で20分、名和駅から徒歩で25分という行き方もございます。定休日は特にございません。	general,attraction,shopping,restaurant
+870	4	USER	買い物もしたいのですが「セントラルパーク」という施設はありますか？	general,attraction,shopping,restaurant
+870	5	SYSTEM	はい、中区エリアに1件ございました。どういった情報をお求めでしょうか？	general,attraction,shopping,restaurant
+870	6	USER	名称、定休日、駐車場の有無、最寄駅からの所要時間を知りたいです	general,attraction,shopping,restaurant
+870	7	SYSTEM	かしこまりました。店舗の名前は、セントラルパークです。定休日は、元旦, 2月の一日間, 8月の一日間となっております。駐車場は無料のものがご利用いただけます。最寄りの久屋大通駅からは徒歩で1分、栄町駅からも徒歩1分、栄駅から徒歩で2分でアクセスできます。	general,attraction,shopping,restaurant
+870	8	USER	ありがとうございます、無料Wi-Fiが利用できる飲食店を探しているのですが	general,attraction,shopping,restaurant
+870	9	SYSTEM	はい、そういたしますと、3件ご案内可能です。たとえば、ゆめや 金山店という焼肉・ホルモン, 居酒屋, 鍋のお店はご興味ございますか？	general,attraction,shopping,restaurant
+870	10	USER	焼き肉やホルモンが良いです、予算は普通のお店でお願いします	general,attraction,shopping,restaurant
+870	11	SYSTEM	そうしますと、ゆめや 金山店ともう1件、とり焼肉 もう壱鳥というお店がございます。	general,attraction,shopping,restaurant
+870	12	USER	ゆめや 金山店の料金はいくら位でしょうか？	general,attraction,shopping,restaurant
+870	13	SYSTEM	値段設定は普通でして、詳しい料金としましては、ゆめやの食べ放題が超お得っ！☆:4000円,タン食べ放題】全12種類のタンがお手頃価格で食べ放題☆ミ:4000円、となっております。	general,attraction,shopping,restaurant
+870	14	USER	ありがとうございます、それでは予約をお願いします。10月17日17:00から4名です	general,attraction,shopping,restaurant
+870	15	SYSTEM	大変申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,attraction,shopping,restaurant
+870	16	USER	3名ではどうでしょうか？	general,attraction,shopping,restaurant
+870	17	SYSTEM	ありがとうございます。ご予約がおとりできました。予約番号は、83567です。	general,attraction,shopping,restaurant
+870	18	USER	有難うございました、質問は以上です	general,attraction,shopping,restaurant
+870	19	SYSTEM	承知いたしました。では本日はご利用ありがとうございました。	general,attraction,shopping,restaurant

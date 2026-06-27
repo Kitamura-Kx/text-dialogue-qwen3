@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3272	0	USER	京都へ行くのですが、買い物ができるところを探してください。	general,shopping,attraction
+3272	1	SYSTEM	舞扇堂 きよみず店はいかがですか？	general,shopping,attraction
+3272	2	USER	すみません、こちらは何のお店ですか？	general,shopping,attraction
+3272	3	SYSTEM	お店のジャンルは、お土産, 文房具・雑貨になります。	general,shopping,attraction
+3272	4	USER	スーパーマーケットで、駐車場が無料で利用できるお店がいいのですが。	general,shopping,attraction
+3272	5	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,shopping,attraction
+3272	6	USER	では、スーパーマーケットでなくても構いません。駐車場が無料のところはないですか？	general,shopping,attraction
+3272	7	SYSTEM	道の駅 ウッディー京北は、いかがですか？	general,shopping,attraction
+3272	8	USER	近くの駅からの所要時間を教えてください。	general,shopping,attraction
+3272	9	SYSTEM	近辺の駅からの所要時間は、円町駅からタクシーで40分となっています。	general,shopping,attraction
+3272	10	USER	ありがとうございます。観光名所も探しているのですが、左京区で駐車場が無料のところはないですか？	general,shopping,attraction
+3272	11	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,shopping,attraction
+3272	12	USER	じゃあ、無料の駐車場はなくていいです。	general,shopping,attraction
+3272	13	SYSTEM	では、鞍馬寺はいかがですか？	general,shopping,attraction
+3272	14	USER	鞍馬寺はWi-Fiがありますか？	general,shopping,attraction
+3272	15	SYSTEM	申し訳ありません、Wi-Fiについては不明となっています。	general,shopping,attraction
+3272	16	USER	ありがとうございます。	general,shopping,attraction
+3272	17	SYSTEM	他にご用件はありますか？	general,shopping,attraction
+3272	18	USER	大丈夫です。ありがとうございました。	general,shopping,attraction
+3272	19	SYSTEM	承知致しました。ありがとうございました。	general,shopping,attraction

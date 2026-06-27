@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1782	0	USER	こんにちは。今度福岡へ旅行予定で、観光名所を探しています。銭湯・スパで、Wi-Fiが無料のところはありますか？	general,attraction
+1782	1	SYSTEM	エリアでいうと東区に1件、ザ・ルイガンズ. スパ&リゾートがございます。	general,attraction
+1782	2	USER	ありがとうございます。そちらの料金情報をお願いできますか？	general,attraction
+1782	3	SYSTEM	料金情報については、メニューにより異なる、となっております。	general,attraction
+1782	4	USER	そうなんですね、ありがとうございます。それと、近辺の駅からの所要時間がどれくらいかと、駐車場があるかどうかも確認いただけますか？	general,attraction
+1782	5	SYSTEM	駐車場は、有料ですがご利用いただけます。最寄りの海ノ中道駅から徒歩で6分となります。	general,attraction
+1782	6	USER	どうもありがとうございました。お尋ねしたいのは以上です。	general,attraction
+1782	7	SYSTEM	ありがとうございました。	general,attraction

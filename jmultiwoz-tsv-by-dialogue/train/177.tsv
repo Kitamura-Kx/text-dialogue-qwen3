@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+177	0	USER	京都への旅行を計画中なのですが、予算は普通で無料でWi-Fiが利用できる飲食店を探してください。	general,restaurant,shopping,weather
+177	1	SYSTEM	申し訳ございません。ご希望の条件に該当する飲食店は、見つけることができませんでした。	general,restaurant,shopping,weather
+177	2	USER	ではWi-Fiはなくてもいいので、予算が普通の飲食店を探してください。	general,restaurant,shopping,weather
+177	3	SYSTEM	ありがとうございます。33件ほどご案内できます。居酒屋の、おいちょというお店はいかがでしょうか？	general,restaurant,shopping,weather
+177	4	USER	いいですね、おいちょのあるエリアと最寄りで気を教えてください。	general,restaurant,shopping,weather
+177	5	SYSTEM	エリアは下京区、最寄りの駅は河原町駅で徒歩5分ほどでアクセスできます。	general,restaurant,shopping,weather
+177	6	USER	2/9 9:40に４人で予約もお願いできますか？	general,restaurant,shopping,weather
+177	7	SYSTEM	かしこまりました。ご予約番号94336で、予約完了いたしました。	general,restaurant,shopping,weather
+177	8	USER	あと買い物もしたいのですが、おもちゃを買えるお店を教えてください。	general,restaurant,shopping,weather
+177	9	SYSTEM	かしこまりました。では、ポケモンセンターキョウトは如何でしょうか？	general,restaurant,shopping,weather
+177	10	USER	ありがとうございます。そこにしようと思うので、電話番号を教えてください。	general,restaurant,shopping,weather
+177	11	SYSTEM	電話番号は、0753530250です。	general,restaurant,shopping,weather
+177	12	USER	ありがとうございます。あと2/9の西京区の天気と最低気温を調べてもらえますか？	general,restaurant,shopping,weather
+177	13	SYSTEM	2月9日、西京区の天気は曇のち晴れ、最低気温は6度の予報です。	general,restaurant,shopping,weather
+177	14	USER	ありがとうございます。	general,restaurant,shopping,weather
+177	15	SYSTEM	ほかにお調べすることはございますか？	general,restaurant,shopping,weather
+177	16	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant,shopping,weather
+177	17	SYSTEM	承知いたしました。ご利用ありがとうございました。	general,restaurant,shopping,weather

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3369	0	USER	大阪へ行くのですが、駐車場が無料で、文房具が買えるお店教えて下さい。	general,shopping,restaurant
+3369	1	SYSTEM	かしこまりました。お調べしましたところ、アカチャンホンポ あべのイトーヨーカドー店が該当いたしました。いかがでしょうか？	general,shopping,restaurant
+3369	2	USER	近くの駅からどのくらいですか？	general,shopping,restaurant
+3369	3	SYSTEM	天王寺駅から徒歩で2分でございます。	general,shopping,restaurant
+3369	4	USER	エリアはどこでしょう？	general,shopping,restaurant
+3369	5	SYSTEM	阿倍野区エリアでございます。	general,shopping,restaurant
+3369	6	USER	営業時間教えて下さい。	general,shopping,restaurant
+3369	7	SYSTEM	10:00から21:00となっております。	general,shopping,restaurant
+3369	8	USER	安めなお店で、お好み焼きが食べれる所ありますか？	general,shopping,restaurant
+3369	9	SYSTEM	頂いた条件ですと、大阪で該当はございませんでした。	general,shopping,restaurant
+3369	10	USER	それでは、予算は気にしません。	general,shopping,restaurant
+3369	11	SYSTEM	かしこまりました。お好み たまちゃん ルクア大阪店を含む３件ございました。いかがでしょうか？	general,shopping,restaurant
+3369	12	USER	行ってみます。定休日はいつですか？	general,shopping,restaurant
+3369	13	SYSTEM	承知いたしました。定休日はございません。	general,shopping,restaurant
+3369	14	USER	分かりました、ありがとうございました。	general,shopping,restaurant
+3369	15	SYSTEM	ありがとうございました。	general,shopping,restaurant

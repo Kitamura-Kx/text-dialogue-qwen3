@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1096	0	USER	今度札幌に行こうと思うのですが、観光名所を探してます。	general,attraction
+1096	1	SYSTEM	札幌の観光名所ですね。ジャンルやエリアなど、何かご希望はございますか？	general,attraction
+1096	2	USER	ジャンヌは伝統文化体験を希望してます。	general,attraction
+1096	3	SYSTEM	そうしますと、札幌市アイヌ文化交流センター サッポロピリカコタンという場所はいかがでしょうか？南区エリアにある観光名所となります。	general,attraction
+1096	4	USER	そこには無料Wi-Fiはありますか？無料Wi-Fi希望です。	general,attraction
+1096	5	SYSTEM	申し訳ありません。こちらはWiFiの有無は不明となっております。無料WiFiのある場所をお探ししましたが、候補が見つかりませんでした。いかが致しましょうか？	general,attraction
+1096	6	USER	すみません。ではジャンヌはなんでもいいです。	general,attraction
+1096	7	SYSTEM	そうしますと、候補が9件ありまして、例えば、北海道大学総合博物館というところはご興味ございませんか？	general,attraction
+1096	8	USER	いいですね。そこは駐車場はありますか？	general,attraction
+1096	9	SYSTEM	申し訳ありません。駐車場はございません。	general,attraction
+1096	10	USER	それでもいいです。住所と大人の入場料を教えてください。	general,attraction
+1096	11	SYSTEM	住所は北海道札幌市北区北10条西8丁目です。入場料は、大人もお子様も0円で無料でございます。	general,attraction
+1096	12	USER	ありがとうございます。とても助かりました。	general,attraction
+1096	13	SYSTEM	他にお調べすることはございませんか？	general,attraction
+1096	14	USER	特にないです。ありがとうございました。	general,attraction
+1096	15	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,attraction

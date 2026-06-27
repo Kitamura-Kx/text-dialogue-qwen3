@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1281	0	USER	大阪に観光に行く予定です。動物園でWi-Fi無料のところはありますか？	general,attraction,restaurant
+1281	1	SYSTEM	はい、1件ご案内可能です。天保山アニパというところですが、いかがでしょうか？	general,attraction,restaurant
+1281	2	USER	ありがとうございます。そこは定休日はいつですか？	general,attraction,restaurant
+1281	3	SYSTEM	定休日は、火, 水, 木曜日となっております。	general,attraction,restaurant
+1281	4	USER	わかりました。入場料を教えてください。	general,attraction,restaurant
+1281	5	SYSTEM	大人入場料は660円、お子様の入場料は330円でございます。	general,attraction,restaurant
+1281	6	USER	ありがとうございます。他に食事できるところを探したいのですが、西区で鍋が食べられるところはありますか？なるべく安めでお願いします。	general,attraction,restaurant
+1281	7	SYSTEM	では、うどん居酒屋 江戸堀はいかがでしょうか？ジャンルとしては、うどん・そば, 居酒屋, 鍋となっており、西区エリアにあるお店です。	general,attraction,restaurant
+1281	8	USER	わかりました。電話番号を教えてください。	general,attraction,restaurant
+1281	9	SYSTEM	電話番号は、0661474477です。	general,attraction,restaurant
+1281	10	USER	ありがとうございました。以上です。	general,attraction,restaurant

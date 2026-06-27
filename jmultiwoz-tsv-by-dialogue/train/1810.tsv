@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1810	0	USER	大阪への旅行を計画中なのですが、天満橋駅近くでWiFiが無料のシティホテルを教えて下さい。	general,hotel,weather
+1810	1	SYSTEM	かしこまりました。では、大阪キャッスルホテルはいかがでしょうか？	general,hotel,weather
+1810	2	USER	大阪キャッスルホテルの料金情報はありますか？	general,hotel,weather
+1810	3	SYSTEM	はい。値段帯は安めとなっております。	general,hotel,weather
+1810	4	USER	それでは「大阪キャッスルホテル」で宿泊予約をお願いします。1/15から3泊、4人での利用です。	general,hotel,weather
+1810	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、61898です。	general,hotel,weather
+1810	6	USER	当日1/15の淀川区の天気と最低気温も教えて下さい。	general,hotel,weather
+1810	7	SYSTEM	かしこまりました。1/15の淀川区の天気予報は雨時々曇となっております。最低気温は5.2度になる予報です。	general,hotel,weather
+1810	8	USER	助かりました、ありがとうございました。	general,hotel,weather
+1810	9	SYSTEM	他にご用件はありますか？	general,hotel,weather
+1810	10	USER	いえ大丈夫です	general,hotel,weather
+1810	11	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

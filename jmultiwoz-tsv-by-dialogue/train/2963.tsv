@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2963	0	USER	今度福岡へ行くんですが、九大学研都市駅の近くで無料駐車場がある買い物施設を探してもらえますか？	general,shopping,taxi
+2963	1	SYSTEM	はい、エリアでいうと西区に、モーリーファンタジー 福岡伊都店がございます。ジャンルは、その他となります。	general,shopping,taxi
+2963	2	USER	ありがとうございます。ではそこの住所と定休日も教えてください。	general,shopping,taxi
+2963	3	SYSTEM	はい、住所は福岡県福岡市西区北原1丁目2-1 イオン福岡伊都店3階、定休日はございません。	general,shopping,taxi
+2963	4	USER	ありがとうございます。あと、ジャンボタクシーが利用できるタクシー会社を探してもらえますか？	general,shopping,taxi
+2963	5	SYSTEM	承知しました。福岡西鉄タクシー（株）はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0570010531となります。	general,shopping,taxi
+2963	6	USER	ありがとうございます。では予約をお願いできますか？ 10/17の10：50にTHE BEACHを出発して、モーリーファンタジー 福岡伊都店まで利用したいです。	general,shopping,taxi
+2963	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、27029 となります。	general,shopping,taxi
+2963	8	USER	ありがとうございました。以上で結構です。	general,shopping,taxi
+2963	9	SYSTEM	ありがとうございました。	general,shopping,taxi

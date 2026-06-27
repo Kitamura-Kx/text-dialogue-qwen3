@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+633	0	USER	こんにちは。仙台の観光名所を知りたいのですが。	general,attraction
+633	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction
+633	2	USER	宮城野区で、最寄り駅が富沢駅のところがいいです。	general,attraction
+633	3	SYSTEM	申し訳ございません。その条件ですと案内できるところがございません。いかがなさいますか。	general,attraction
+633	4	USER	では、最寄り駅は特にこだわりません。	general,attraction
+633	5	SYSTEM	では仙台市歴史民俗資料館はいかがですか。	general,attraction
+633	6	USER	そちらはどんなジャンルになりますか？	general,attraction
+633	7	SYSTEM	ジャンルは教室・ワークショップ・体験, 美術館・博物館でございます。	general,attraction
+633	8	USER	そこに行ってみます。以上です、ありがとうございました。	general,attraction
+633	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

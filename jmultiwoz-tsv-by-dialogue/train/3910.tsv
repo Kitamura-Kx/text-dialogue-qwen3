@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3910	0	USER	仙台への旅行を計画中で、（株）けやき交通を利用する予定です。電話番号を教えてください。	general,taxi
+3910	1	SYSTEM	承知しました。電話番号は、0120408814となります。	general,taxi
+3910	2	USER	ありがとうございます。5/3の10:40に東横INN仙台駅西口中央からスポーツデポ 仙台泉店まで予約して欲しいのですが、可能でしょうか	general,taxi
+3910	3	SYSTEM	はい、予約が完了し、ご予約番号は、79354となります。	general,taxi
+3910	4	USER	助かります。ありがとうございました。	general,taxi
+3910	5	SYSTEM	ありがとうございました。	general,taxi

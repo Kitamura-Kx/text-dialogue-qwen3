@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4898	0	USER	大阪への旅行を計画中のため、郷土料理が食べれる引照点を探しています。予算が普通で最寄り駅がなんば駅のところがいいのですが、どこかいいところはありますか？	general,restaurant
+4898	1	SYSTEM	お待たせ致しました。その条件でしたら、沖縄ん家 てりとりーがございます。	general,restaurant
+4898	2	USER	そこはWi-Fiはありますか？	general,restaurant
+4898	3	SYSTEM	はい、Wi-Fiは無料でご利用いただけます。	general,restaurant
+4898	4	USER	ではそこで3/24　14:50に４名で予約をお願いします。	general,restaurant
+4898	5	SYSTEM	申し訳ありません。その条件では予約することが出来ませんでした。	general,restaurant
+4898	6	USER	では３名に変更してください。	general,restaurant
+4898	7	SYSTEM	お待たせ致しました。予約番号12278でお取りさせていただきました。	general,restaurant
+4898	8	USER	ありがとうございます。	general,restaurant
+4898	9	SYSTEM	その他にご用件はございますか？	general,restaurant
+4898	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant

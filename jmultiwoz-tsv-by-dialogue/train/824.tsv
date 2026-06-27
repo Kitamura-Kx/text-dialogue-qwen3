@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+824	0	USER	名古屋の旅行を計画しているんですが。	general,restaurant,attraction
+824	1	SYSTEM	名古屋のご旅行ですね。本日はどんなご案内をいたしましょうか？	general,restaurant,attraction
+824	2	USER	飲食店を探しています。予算は普通くらいがいいです。	general,restaurant,attraction
+824	3	SYSTEM	そうしますと、しゃなりしゃなり、という居酒屋, 和食, 鍋ジャンルのお店はいかがでしょうか？	general,restaurant,attraction
+824	4	USER	そちらの最寄り駅とエリアはどこになりますか？	general,restaurant,attraction
+824	5	SYSTEM	最寄り駅は伏見駅です。エリアは中区となります。	general,restaurant,attraction
+824	6	USER	そうですか。では、そちらに行ってみようと思います。お店を予約してもらえますか？2/4で11:00に2名なんですが。	general,restaurant,attraction
+824	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、14852です。	general,restaurant,attraction
+824	8	USER	ありがとうございました。	general,restaurant,attraction
+824	9	SYSTEM	他にお調べすることはございませんか？	general,restaurant,attraction
+824	10	USER	では、無料でWi-Fiが使える観光名所を探してください。無料の駐車場があるといいのですが。	general,restaurant,attraction
+824	11	SYSTEM	では、トヨタ産業技術記念館はいかがでしょうか？	general,restaurant,attraction
+824	12	USER	そちらは最寄り駅からの所要時間はどのくらいですか？あと、どのエリアになりますか？	general,restaurant,attraction
+824	13	SYSTEM	栄生駅から徒歩で3分、名古屋駅からタクシーで5分です。また、こちらは西区エリアにございます。	general,restaurant,attraction
+824	14	USER	わかりました。そちらへ行ってみようと思います。	general,restaurant,attraction
+824	15	SYSTEM	ありがとうございます。他にお調べすることはございますか？	general,restaurant,attraction
+824	16	USER	特にありません。ありがとうございました。	general,restaurant,attraction
+824	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,attraction

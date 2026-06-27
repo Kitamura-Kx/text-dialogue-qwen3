@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2286	0	USER	札幌の水族館に行きたいのですが、どこかありますか？	general,attraction,shopping,taxi
+2286	1	SYSTEM	エリアでいうと厚別区に、サンピアザ水族館がございます。	general,attraction,shopping,taxi
+2286	2	USER	そちらはwifiを無料で使えますか？	general,attraction,shopping,taxi
+2286	3	SYSTEM	申し訳ありません、Wi-Fiの有無は不明となっております。	general,attraction,shopping,taxi
+2286	4	USER	わかりました。ところで、お土産が買えるところを探しています。中央区で駐車場が無料で使えるところはありませんか？	general,attraction,shopping,taxi
+2286	5	SYSTEM	はい、ポケモンセンターサッポロがございます。	general,attraction,shopping,taxi
+2286	6	USER	当日、ジャンボタクシーが使えるタクシー会社はありますか？	general,attraction,shopping,taxi
+2286	7	SYSTEM	では、恊和交通(株)はいかがでしょう？キャッシュレスにも対応しております。電話番号は0118751211となります。	general,attraction,shopping,taxi
+2286	8	USER	では、予約をお願いします。４月２３日の１６時４０分、サンピアザ水族館発、ポケモンセンターサッポロ着でお願いします。	general,attraction,shopping,taxi
+2286	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、79482となります	general,attraction,shopping,taxi
+2286	10	USER	ありがとうございました。では失礼いたします。	general,attraction,shopping,taxi

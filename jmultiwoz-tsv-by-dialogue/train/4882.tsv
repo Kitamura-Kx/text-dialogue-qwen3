@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4882	0	USER	仙台への旅行を計画中のため、泉区でWi-Fiが無料で使える観光名所を探してほしいです。	general,attraction
+4882	1	SYSTEM	承知しました。ユアテックスタジアム仙台はいかがでしょうか？	general,attraction
+4882	2	USER	そこにしようと思います。料金情報を教えてください。	general,attraction
+4882	3	SYSTEM	料金情報は無料です。	general,attraction
+4882	4	USER	ありがとうございます。	general,attraction
+4882	5	SYSTEM	他にご用件はありますか？	general,attraction
+4882	6	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction

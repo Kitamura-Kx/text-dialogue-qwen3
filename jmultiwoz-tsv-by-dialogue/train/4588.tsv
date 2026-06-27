@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4588	0	USER	札幌への旅行を計画しています． 当日買い物ができるところを探してください．駐車場を無料で利用できるところにしてください．地区は豊平区で	general,shopping,restaurant,hotel
+4588	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,restaurant,hotel
+4588	2	USER	でしたら地区はどこでも、	general,shopping,restaurant,hotel
+4588	3	SYSTEM	マルヤマクラスは　い	general,shopping,restaurant,hotel
+4588	4	USER	あ、そちら店舗名でしょうか。でしたら，営業時間，定休日を教えていただけますか。	general,shopping,restaurant,hotel
+4588	5	SYSTEM	失礼しました。　店舗名です。営業時間は10:00～20:00で定休日 無しです。	general,shopping,restaurant,hotel
+4588	6	USER	ありがとうございます。あと、当日食事ができる飲食店を探してください．予算は高めが希望です．最寄り駅が学園前駅のところにしてください．	general,shopping,restaurant,hotel
+4588	7	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,restaurant,hotel
+4588	8	USER	でしたら最寄りはどこでも。	general,shopping,restaurant,hotel
+4588	9	SYSTEM	うなぎ 仲じまはいかがでしょうか。	general,shopping,restaurant,hotel
+4588	10	USER	そちらの近辺の駅からの所要時間，駐車場の有無，電話番号を教えていただけますか。	general,shopping,restaurant,hotel
+4588	11	SYSTEM	近辺の駅からの所要時間は中島公園駅から徒歩で2分、駐車場の有無は有り(有料)、電話番号は0115123533です。	general,shopping,restaurant,hotel
+4588	12	USER	ありがとうございます。そちらで人数は3人です．日付は8/13です．時間は13:30で予約いただけますか。	general,shopping,restaurant,hotel
+4588	13	SYSTEM	予約完了いたしました。予約番号は35122になります。	general,shopping,restaurant,hotel
+4588	14	USER	ありがとうございます。あと、当日泊まる宿泊施設を探してください．レストランが併設されているところにしてください．最寄り駅がバスセンター前駅のところにしてください．Wi-Fiが無料で利用できるところで	general,shopping,restaurant,hotel
+4588	15	SYSTEM	ホテルクラビーサッポロはいかがでしょうか。	general,shopping,restaurant,hotel
+4588	16	USER	そちらのエリア，駐車場の有無，電話番号を教えていただけますか。	general,shopping,restaurant,hotel
+4588	17	SYSTEM	エリアは中央区、駐車場の有無は有り(有料)で電話番号 0112421111です。	general,shopping,restaurant,hotel
+4588	18	USER	ありがとうございます。そちらで人数は4人です．日付は8/13です．宿泊日数は3泊で予約おねがいします。	general,shopping,restaurant,hotel
+4588	19	SYSTEM	そちらでは予約できませんでした。	general,shopping,restaurant,hotel
+4588	20	USER	でしたら2泊でおねがいします。	general,shopping,restaurant,hotel
+4588	21	SYSTEM	予約完了いたしました。予約番号は91233になります。	general,shopping,restaurant,hotel
+4588	22	USER		general,shopping,restaurant,hotel

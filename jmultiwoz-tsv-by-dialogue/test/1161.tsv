@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1161	0	USER	札幌に旅行するのですが、買い物をしたいです。駐車場が無料の所はありますか？	general,shopping,taxi
+1161	1	SYSTEM	ではアリオ札幌はいかがですか。	general,shopping,taxi
+1161	2	USER	お土産ショップが良いのですが、そちらでもお土産は買えますか？	general,shopping,taxi
+1161	3	SYSTEM	お土産ショップでしたら、ポケモンセンターサッポロはいかがですか。	general,shopping,taxi
+1161	4	USER	いいですね！エリアと電話番号を教えてください。	general,shopping,taxi
+1161	5	SYSTEM	エリアは中央区、電話番号は0112323212でございます。	general,shopping,taxi
+1161	6	USER	ありがとうございます。タクシーの予約も考えていますが、キャッシュレス払いができるところがよいです。	general,shopping,taxi
+1161	7	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping,taxi
+1161	8	USER	では、キャッシュレスでなくても良いです。	general,shopping,taxi
+1161	9	SYSTEM	ではつばめ自動車(株)がございます。	general,shopping,taxi
+1161	10	USER	そちらは、ジャンボタクシーに対応していますか？	general,shopping,taxi
+1161	11	SYSTEM	はい。対応しております。	general,shopping,taxi
+1161	12	USER	ではそちらでタクシーの予約をお願いします。9/25 14:40に、アパホテルまで来てください。目的地は、ポケモンセンターサッポロです。	general,shopping,taxi
+1161	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は99762でございます。	general,shopping,taxi
+1161	14	USER	今日お願いすることは以上です。ありがとうございました。	general,shopping,taxi
+1161	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

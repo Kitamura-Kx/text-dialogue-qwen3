@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4145	0	USER	こんにちは。東京の本所吾妻橋駅近くで泊まれるところを探しています。	general,hotel,restaurant,taxi
+4145	1	SYSTEM	エリアでいうと墨田区に、つるや旅館がございます。タイプは旅館となります。	general,hotel,restaurant,taxi
+4145	2	USER	駐車場が無料じゃないと困るんですが、ありますか？	general,hotel,restaurant,taxi
+4145	3	SYSTEM	はい、無料でご利用いただけます。	general,hotel,restaurant,taxi
+4145	4	USER	ではそこにしたいです。レストランは施設内にありますか？なくても大丈夫です。	general,hotel,restaurant,taxi
+4145	5	SYSTEM	申し訳ありません、併設のレストランはございません。	general,hotel,restaurant,taxi
+4145	6	USER	そうですか、では、当日食事できる店も探したいです。ちょっと高めで、無料Wi-Fiが使えるところにしてください。	general,hotel,restaurant,taxi
+4145	7	SYSTEM	では、エリアでいうと中央区にある、銀座 おうちはいかがでしょう？ジャンルは、和食となります。	general,hotel,restaurant,taxi
+4145	8	USER	そこにします。料金はどれくらいですか？あと、駐車場があるかどうかも確認だけさせてください。	general,hotel,restaurant,taxi
+4145	9	SYSTEM	値段帯は高めとなります。料金情報としては、松茸の土瓶蒸しが2420円、大山地鶏の香草焼きが1500円、出し巻きが1000円となります。駐車場のご用意はございません。	general,hotel,restaurant,taxi
+4145	10	USER	ありがとうございます。じゃあ、キャッシュレスが使えるジャンボタクシーも予約したいです。	general,hotel,restaurant,taxi
+4145	11	SYSTEM	承知しました。大和交通保谷はいかがでしょう？どちらも対応しております。電話番号は0335635151となります。	general,hotel,restaurant,taxi
+4145	12	USER	そこで予約します。11月14日の正午12時ちょうどから、つるや旅館から銀座 おうちでお願いします。予約番号も教えてください。	general,hotel,restaurant,taxi
+4145	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、85862となります。	general,hotel,restaurant,taxi
+4145	14	USER	ありがとうございました。	general,hotel,restaurant,taxi

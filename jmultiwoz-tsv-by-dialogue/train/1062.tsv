@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1062	0	USER	泊まりで東京へ旅行に行こうと考えています。	general,hotel,shopping,weather
+1062	1	SYSTEM	東京へのご旅行ですね。本日はどういった情報をお探しでしょうか？	general,hotel,shopping,weather
+1062	2	USER	レストランが併設している旅館に泊まりたいと思っています。駐車場は無料で利用できるところが良いですね。	general,hotel,shopping,weather
+1062	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できる宿泊施設が見つかりませんでした。	general,hotel,shopping,weather
+1062	4	USER	そうですか、それでは駐車場がなくても構いませんので探してもらえますか？	general,hotel,shopping,weather
+1062	5	SYSTEM	かしこまりました。そういたしますと、5件ほどご案内可能です。例えば、千代田区エリアにある、星のや東京という旅館はいかがでしょうか？	general,hotel,shopping,weather
+1062	6	USER	星のや東京の宿泊料の価格帯はおいくらでしょうか。最寄り駅からの時間もどの程度かかるか知りたいです。	general,hotel,shopping,weather
+1062	7	SYSTEM	値段帯は、お高めとなっております。最寄りの東京駅からは徒歩10分ほどかかります。	general,hotel,shopping,weather
+1062	8	USER	電話番号も教えてもらえますか。	general,hotel,shopping,weather
+1062	9	SYSTEM	かしこまりました。電話番号は、0570073066でございます。	general,hotel,shopping,weather
+1062	10	USER	ありがとうございます。当日は世田谷区で買い物をしたいと思っていますが、駐車場無料のお店はありますか？	general,hotel,shopping,weather
+1062	11	SYSTEM	はい、1件ございます。二子玉川 蔦屋家電というお店ですが、いかがでしょうか？	general,hotel,shopping,weather
+1062	12	USER	ちなみに、二子玉川 蔦屋家電は、どういったジャンルのお店ですか？	general,hotel,shopping,weather
+1062	13	SYSTEM	ジャンルは、家電・電化製品, 書籍、となっております。	general,hotel,shopping,weather
+1062	14	USER	1/10に行く予定をしていますが、その日の杉並区の最低気温、最高気温は分かりますか？	general,hotel,shopping,weather
+1062	15	SYSTEM	はい、当日の最低気温は3.5度、最高気温は9.5度になる予想です。	general,hotel,shopping,weather
+1062	16	USER	ありがとうございます。	general,hotel,shopping,weather
+1062	17	SYSTEM	他にお調べすることはございますか？	general,hotel,shopping,weather
+1062	18	USER	これだけです、今日はありがとうございました。	general,hotel,shopping,weather
+1062	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,shopping,weather

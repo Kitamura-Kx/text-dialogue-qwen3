@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3378	0	USER	福岡で買い物ができるところを探しています。	general,shopping,restaurant,weather
+3378	1	SYSTEM	お調べしましたところ、39件該当がございます。ご希望の条件などございますか？	general,shopping,restaurant,weather
+3378	2	USER	ファッション系のところが見たいです。あと駐車場が無料の所が良いです。	general,shopping,restaurant,weather
+3378	3	SYSTEM	申し訳ございません。２つ条件を追加しましたところ該当が無くなってしまいました。いかがいたしましょうか？	general,shopping,restaurant,weather
+3378	4	USER	じゃ、ショッピングモールだとどうですか？	general,shopping,restaurant,weather
+3378	5	SYSTEM	ショッピングモールに変更しましたところ、MARK IS 福岡ももちを含む4件該当がございます。	general,shopping,restaurant,weather
+3378	6	USER	MARK IS 福岡ももちにします。最寄り駅と住所を教えてください。	general,shopping,restaurant,weather
+3378	7	SYSTEM	MARK IS 福岡ももちの最寄り駅は、唐人町駅でございます。住所は、福岡県福岡市中央区地行浜2丁目2-1です。	general,shopping,restaurant,weather
+3378	8	USER	あと西鉄福岡（天神）駅の近くで食事ができるところを探しています。	general,shopping,restaurant,weather
+3378	9	SYSTEM	はい、お調べしましたところ、ゆずの小町 天神大名店を含む３件ございます。いかがいたしましょうか？	general,shopping,restaurant,weather
+3378	10	USER	Wi-Fiが無料で使えるところはありませんか？	general,shopping,restaurant,weather
+3378	11	SYSTEM	1件該当がございます。今泉バル コミーダベビーダという店舗です。いかがでしょうか？	general,shopping,restaurant,weather
+3378	12	USER	いいですね。定休日を教えてください。	general,shopping,restaurant,weather
+3378	13	SYSTEM	定休日は火曜日でございます。	general,shopping,restaurant,weather
+3378	14	USER	8/26、15:50に2人で予約してもらえませんか？	general,shopping,restaurant,weather
+3378	15	SYSTEM	8/26、15:50に2名様でご予約が完了しました。予約番号は、82968でございます。	general,shopping,restaurant,weather
+3378	16	USER	ありがとうございます。あと8/26の中央区の最低気温が知りたいです。	general,shopping,restaurant,weather
+3378	17	SYSTEM	福岡、中央区の8月26日の最低気温は24.2度となっております。	general,shopping,restaurant,weather
+3378	18	USER	ありがとうございます。	general,shopping,restaurant,weather
+3378	19	SYSTEM	ありがとうございました。	general,shopping,restaurant,weather

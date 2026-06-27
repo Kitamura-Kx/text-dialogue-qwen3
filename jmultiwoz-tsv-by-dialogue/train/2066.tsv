@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2066	0	USER	大阪の中央区で、買い物できる場所ってありますか？ジャンルはお土産です。	general,shopping,taxi
+2066	1	SYSTEM	かしこまりました。では、長崎堂 心斎橋本店はいかがでしょうか？	general,shopping,taxi
+2066	2	USER	いいですね。そちらにします。続いて、タクシーも教えてください。キャッシュレス対応の業者さんはありますか？	general,shopping,taxi
+2066	3	SYSTEM	かしこまりました。では、近鉄タクシー株式会社はいかがでしょうか？	general,shopping,taxi
+2066	4	USER	そちらで予約をお願いします。6/14の14:40で、ほっかほっか亭酉島店から長崎堂 心斎橋本店までの利用です。	general,shopping,taxi
+2066	5	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,shopping,taxi
+2066	6	USER	時間を15:40に変更願えますか？	general,shopping,taxi
+2066	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、37025です。	general,shopping,taxi
+2066	8	USER	ありがとうございました！	general,shopping,taxi

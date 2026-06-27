@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3627	0	USER	東京に旅行に行って、ファッションの買い物をしたいと思っています。駐車場は無料で利用したいです。	general,shopping,attraction,weather
+3627	1	SYSTEM	お調べしましたところ、ラフォーレ原宿のみご案内可能でございます。いかがでしょうか？	general,shopping,attraction,weather
+3627	2	USER	そのお店の最寄り駅はどこになりますか。	general,shopping,attraction,weather
+3627	3	SYSTEM	明治神宮前〈原宿〉駅でございます。	general,shopping,attraction,weather
+3627	4	USER	ありがとうございます。他に、葛西臨海水族園に行きたいので、住所と最寄り駅を教えてほしいです。	general,shopping,attraction,weather
+3627	5	SYSTEM	かしこまりました。住所は、東京都江戸川区臨海町6丁目2-3です。最寄り駅は葛西臨海公園駅でございます。	general,shopping,attraction,weather
+3627	6	USER	ありがとうございます。あと、4/26の目黒区の最低気温と天気を教えてください。	general,shopping,attraction,weather
+3627	7	SYSTEM	かしこまりました。最低気温は5.3度、お天気は晴れでございます。	general,shopping,attraction,weather
+3627	8	USER	ありがとうございます。これで大丈夫です。	general,shopping,attraction,weather
+3627	9	SYSTEM	ありがとうございました。	general,shopping,attraction,weather

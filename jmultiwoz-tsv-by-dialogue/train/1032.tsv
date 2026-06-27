@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1032	0	USER	大阪への旅行を計画しているのですが、買い物ができて駐車場が無料のところはありますか？	general,shopping,hotel
+1032	1	SYSTEM	三井アウトレットパーク 大阪鶴見は、いかがでしょうか？	general,shopping,hotel
+1032	2	USER	そこにします。住所とエリアを教えてください。	general,shopping,hotel
+1032	3	SYSTEM	住所は、大阪府大阪市鶴見区茨田大宮2丁目7-70です。　エリアは、鶴見区になります。	general,shopping,hotel
+1032	4	USER	わかりました。宿泊施設も探しているのですが、値段は高めでレストランが併設されていて、Wi-Fiが無料なところを調べてください。	general,shopping,hotel
+1032	5	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,shopping,hotel
+1032	6	USER	そうですか。ならWi-Fiはなくてもいいです。	general,shopping,hotel
+1032	7	SYSTEM	簡易宿所（ベッドハウス・山小屋・カプセルホテル等）が、あります。	general,shopping,hotel
+1032	8	USER	そこにします。電話番号を教えてください。	general,shopping,hotel
+1032	9	SYSTEM	電話番号は、0665326100です。	general,shopping,hotel
+1032	10	USER	わかりました。2人で10月2日から2泊の予約をできますか？	general,shopping,hotel
+1032	11	SYSTEM	予約出来ました。予約番号は、77559です。	general,shopping,hotel
+1032	12	USER	ありがとうございます。	general,shopping,hotel
+1032	13	SYSTEM	他にご用件はございますか？	general,shopping,hotel
+1032	14	USER	いえ、大丈夫です。	general,shopping,hotel
+1032	15	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,hotel

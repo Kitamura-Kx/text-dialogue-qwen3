@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3781	0	USER	名古屋旅行を考えているのですが、Wi-Fiが無料で利用できる飲食店を探してもらえますか？	general,restaurant,weather
+3781	1	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,restaurant,weather
+3781	2	USER	じゃあ、Wi-Fiはなくても大丈夫です。	general,restaurant,weather
+3781	3	SYSTEM	ありがとうございます。そうしますと、たとえば四川火鍋楼という、中華料理, 鍋, 居酒屋ジャンルのお店はいかがでしょうか？	general,restaurant,weather
+3781	4	USER	そこにします。4/27の午後2:00から2人で予約をお願いできますか？	general,restaurant,weather
+3781	5	SYSTEM	はい、ありがとうございます。ご予約完了いたしました。予約番号は、96835です。	general,restaurant,weather
+3781	6	USER	ありがとうございます。四川火鍋楼の住所も教えていただけますか？	general,restaurant,weather
+3781	7	SYSTEM	かしこまりました。住所は、愛知県名古屋市中区栄4丁目5-5 セントラル栄ビル 4Fです。	general,restaurant,weather
+3781	8	USER	ありがとうございます。4/27の中区の最低気温と最高気温はわかりますか？	general,restaurant,weather
+3781	9	SYSTEM	はい。最低気温は4.5度、最高気温は22.4度の予想です。尚、天気は、曇りの予報が出ております。	general,restaurant,weather
+3781	10	USER	わかりました。ありがとうございます。	general,restaurant,weather
+3781	11	SYSTEM	他にお調べすることはございませんか？	general,restaurant,weather
+3781	12	USER	はい、大丈夫です。ありがとうございました。	general,restaurant,weather
+3781	13	SYSTEM	こちらこそ、ありがとうございます。では、またのご利用をお待ちしております。	general,restaurant,weather

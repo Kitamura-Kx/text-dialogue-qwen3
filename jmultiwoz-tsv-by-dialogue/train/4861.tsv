@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4861	0	USER	名古屋に旅行に行こうと思うので、Wi-Fiと駐車場が無料で利用できる観光名所を探しています。	general,attraction,hotel
+4861	1	SYSTEM	承知しました。では、エリアでいうと緑区にある、大高緑地はいかがでしょう？ジャンルは、散策エリア、自然、公園となります。	general,attraction,hotel
+4861	2	USER	そこの最寄り駅はどこになりますか。	general,attraction,hotel
+4861	3	SYSTEM	最寄り駅は左京山駅となります。	general,attraction,hotel
+4861	4	USER	ありがとうございます。あと、最寄りが上前津駅でWi-Fiが無料で利用できる宿泊施設を利用したいです。レストランが併設されているのが希望です。	general,attraction,hotel
+4861	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,hotel
+4861	6	USER	ではレストランはなくても大丈夫です。	general,attraction,hotel
+4861	7	SYSTEM	ありがとうございます。では、エリアでいうと中区にある、トリップ&スリープホステルはいかがでしょう？タイプは、簡易宿所となります。	general,attraction,hotel
+4861	8	USER	ありがとうございます。6/7に3人で3泊の予約をお願いします。	general,attraction,hotel
+4861	9	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,attraction,hotel
+4861	10	USER	でしたら人数を2人に変更でお願いします。	general,attraction,hotel
+4861	11	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、29804となります。	general,attraction,hotel
+4861	12	USER	ありがとうございます。これで大丈夫です。	general,attraction,hotel
+4861	13	SYSTEM	ありがとうございました。	general,attraction,hotel

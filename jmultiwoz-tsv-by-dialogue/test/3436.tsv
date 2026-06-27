@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3436	0	USER	こんにちは。今度横浜に行くのですが、どこか買い物ができるところを探しています。	general,shopping
+3436	1	SYSTEM	ありがとうございます。50件ほど該当店舗がありますが、何か条件はありますか？	general,shopping
+3436	2	USER	金沢区で、駐車場が無料の、食料品が買えるところがいいです。	general,shopping
+3436	3	SYSTEM	それでは、コストコ金沢シーサイド倉庫はいかがでしょうか？	general,shopping
+3436	4	USER	いいですね。そちらの電話番号と住所を教えていただけますか？	general,shopping
+3436	5	SYSTEM	電話番号は不明です。住所は神奈川県横浜市金沢区幸浦2丁目6でございます。	general,shopping
+3436	6	USER	分かりました。以上です、ありがとうございました！	general,shopping
+3436	7	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping

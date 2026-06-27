@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4552	0	USER	大阪へ旅行するのですが自然のあるところとか公園で駐車場無料の観光地を探しています。	general,attraction,restaurant,weather
+4552	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,restaurant,weather
+4552	2	USER	それではジャンルは問いません。どうですか？	general,attraction,restaurant,weather
+4552	3	SYSTEM	それでしたら、大阪天満宮はいかがですか？	general,attraction,restaurant,weather
+4552	4	USER	いいですね。そこの最寄駅からの所要時間と電話番号、大人の入場料金を教えて下さい。	general,attraction,restaurant,weather
+4552	5	SYSTEM	はい、所要時間は、南森町駅から徒歩で4分で電話番号は、0663530025になります。　大人の入場料金は、無しです。	general,attraction,restaurant,weather
+4552	6	USER	ありがとうございます。それとすしか魚料理で北区にいい店はありますか？	general,attraction,restaurant,weather
+4552	7	SYSTEM	では、銀平 北新地店はいかがですか？	general,attraction,restaurant,weather
+4552	8	USER	最寄り駅はどちらですか？	general,attraction,restaurant,weather
+4552	9	SYSTEM	最寄り駅は、北新地駅です。	general,attraction,restaurant,weather
+4552	10	USER	４月16日の福島の天候が知りたいなあ。最高気温とか天気とか。	general,attraction,restaurant,weather
+4552	11	SYSTEM	その日の天気は、晴のち曇で最高気温は、22度です。	general,attraction,restaurant,weather
+4552	12	USER	助かりました！以上です。ありがとうございました。	general,attraction,restaurant,weather
+4552	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,weather

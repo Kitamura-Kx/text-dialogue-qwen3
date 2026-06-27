@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+827	0	USER	札幌へ行くのですが。	general,weather,taxi
+827	1	SYSTEM	かしこまりました。何についてご案内いたしましょうか？	general,weather,taxi
+827	2	USER	11/25の中央区の最低気温を天気はわかりますか？	general,weather,taxi
+827	3	SYSTEM	はい、当日の天気は、雪のち晴の予報です。最低気温は2.5度、最高気温は、5度の予想です。	general,weather,taxi
+827	4	USER	わかりました。ありがとうございます。	general,weather,taxi
+827	5	SYSTEM	他にお調べすることはございますか？	general,weather,taxi
+827	6	USER	ジャンボタクシーが利用できるタクシー会社はありますか？	general,weather,taxi
+827	7	SYSTEM	はい、ございます。朝日交通(株)というところはいかがでしょうか？	general,weather,taxi
+827	8	USER	ありがとうございます。電話番号を教えてもらえますか？あとそちらは、キャッシュレス決済対応ですか？	general,weather,taxi
+827	9	SYSTEM	電話番号は、0120176644です。申し訳ありません。キャッシュレスの対応は、不明となっております。	general,weather,taxi
+827	10	USER	わかりました。そちらのタクシー会社、予約できますか？	general,weather,taxi
+827	11	SYSTEM	はい、承ります。ご利用予定の日付と出発時刻、出発地、目的地はお決まりでしょうか？	general,weather,taxi
+827	12	USER	はい。11/25、9:30に菊池珈琲 本店を出発で北海しゃぶしゃぶ すすきの本店までお願いします。	general,weather,taxi
+827	13	SYSTEM	大変申し訳ございません。ご希望の内容では予約を入れることができませんでした。いかがいたしましょうか？	general,weather,taxi
+827	14	USER	そうですか。では、10:10ではできますか？	general,weather,taxi
+827	15	SYSTEM	ありがとうございます。10:10出発にて、ご予約完了いたしました。予約番号は、2593です。	general,weather,taxi
+827	16	USER	ありがとうございます。	general,weather,taxi
+827	17	SYSTEM	ほかに何かお手伝いすることはございませんか？	general,weather,taxi
+827	18	USER	特にないです。ありがとうございました。	general,weather,taxi
+827	19	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,weather,taxi

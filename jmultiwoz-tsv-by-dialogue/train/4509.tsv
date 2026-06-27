@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4509	0	USER	大阪へ旅行するので、最寄り駅が東梅田駅で食料品を買えるところを調べてほしいです。駐車場が無料だと嬉しいのですが。	general,shopping,attraction,weather
+4509	1	SYSTEM	大阪東梅田駅には、駐車場無料の食料品店はなさそうです。	general,shopping,attraction,weather
+4509	2	USER	そうですか。では駐車場はなくても大丈夫です。	general,shopping,attraction,weather
+4509	3	SYSTEM	それならば、新潟をこめ、こちらをお勧めします。	general,shopping,attraction,weather
+4509	4	USER	いいですね。住所と営業時間も教えてください。	general,shopping,attraction,weather
+4509	5	SYSTEM	住所は大阪府大阪市北区小松原町梅田地下街4-1号ホワイティうめだイーストモール扇町内、営業時間は10:00～20:00です。	general,shopping,attraction,weather
+4509	6	USER	わかりました。あと、最寄り駅が難波駅の、駐車場を無料で利用できる観光名所を探してください。	general,shopping,attraction,weather
+4509	7	SYSTEM	大阪難波駅で駐車場無料の観光名所はありません。	general,shopping,attraction,weather
+4509	8	USER	そうですか。では難波駅近くじゃなくても大丈夫です。	general,shopping,attraction,weather
+4509	9	SYSTEM	大阪で駐車場無料の観光名所はいくつかありますが、大阪天満宮をお勧めします。	general,shopping,attraction,weather
+4509	10	USER	いいですね。ジャンルは何ですか？	general,shopping,attraction,weather
+4509	11	SYSTEM	歴史的な散策エリア, 神社・寺院・教会・モニュメントなどになります。	general,shopping,attraction,weather
+4509	12	USER	わかりました。9/6の港区の天候も知りたいです。	general,shopping,attraction,weather
+4509	13	SYSTEM	9/6 大阪 港区 の天気は雨時々曇、最低気温24.6度、最高気温27.3度です。	general,shopping,attraction,weather
+4509	14	USER	ありがとうございました。	general,shopping,attraction,weather
+4509	15	SYSTEM	よい旅を。	general,shopping,attraction,weather

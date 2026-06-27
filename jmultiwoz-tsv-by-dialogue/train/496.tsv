@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+496	0	USER	福岡へ行こうと思っています。博多区にあってWiFiが無料で利用できる宿泊施設を探していただきたいです。	general,hotel
+496	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel
+496	2	USER	では早良区でWiFiが無料で利用できる宿泊施設を探していただけますか？	general,hotel
+496	3	SYSTEM	ではシーサイドホテルツインズももちはいかがでしょうか。	general,hotel
+496	4	USER	そちらのチェックアウト終了時刻と住所を教えていただけますでしょうか。	general,hotel
+496	5	SYSTEM	チェックアウト終了時刻は10:00でございます。住所は福岡県福岡市早良区百道浜1丁目7-4でございます。	general,hotel
+496	6	USER	わかりました。ありがとうございます。	general,hotel
+496	7	SYSTEM	ほかにご用件はございませんか。	general,hotel
+496	8	USER	いいえ、大丈夫です。ありがとうございました。	general,hotel

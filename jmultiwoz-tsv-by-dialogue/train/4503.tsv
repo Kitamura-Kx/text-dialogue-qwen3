@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4503	0	USER	横浜へ旅行に行くのですが、Wi-Fiが無料で使えて、レストランのある宿泊施設がないか探してください。	general,hotel,weather
+4503	1	SYSTEM	横浜には、WiFi無料でレストラン併設の宿泊施設はなさそうです。	general,hotel,weather
+4503	2	USER	そうですか。なら、レストランはなくてもいいです。	general,hotel,weather
+4503	3	SYSTEM	それならば、JR東日本ホテルメッツ 横浜鶴見をお勧めします。	general,hotel,weather
+4503	4	USER	そちらの宿泊施設のタイプと最寄り駅を教えてください。	general,hotel,weather
+4503	5	SYSTEM	タイプはビジネスホテル、最寄りは鶴見駅です。	general,hotel,weather
+4503	6	USER	ありがとうございます。では、2人で10/29から2泊の予約をお願いします。	general,hotel,weather
+4503	7	SYSTEM	予約成功しました。予約番号は41262です。	general,hotel,weather
+4503	8	USER	ありがとうございます。あと、当日10/29の栄区の天気を教えてください。	general,hotel,weather
+4503	9	SYSTEM	10/29 横浜 栄区 の天気は曇のち雨、最低気温11.6度、最高気温25.7度です。	general,hotel,weather
+4503	10	USER	ありがとうございました。	general,hotel,weather
+4503	11	SYSTEM	よい旅を。	general,hotel,weather

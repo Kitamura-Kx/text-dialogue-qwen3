@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1301	0	USER	大阪へ行こうと思っています。予算が安めな飲食店を探していただきたいです。	general,restaurant
+1301	1	SYSTEM	ビストロ ブルーキッチン&ボトルズは、いかがですか？	general,restaurant
+1301	2	USER	そちらの住所、Wi-Fiの有無、ジャンルを教えていただけますでしょうか。	general,restaurant
+1301	3	SYSTEM	住所は、大阪府大阪市中央区北浜東1-15 ビル・リバーセンター B1Fです。　ジャンルは、イタリアン・フレンチ, 居酒屋です。　Wi-Fi利用につきましては、不明になっています。	general,restaurant
+1301	4	USER	では、4月28日10時50分から3人で予約をお願いします。	general,restaurant
+1301	5	SYSTEM	予約出来ました。予約番号は、59173です。	general,restaurant
+1301	6	USER	わかりました。ありがとうございます。	general,restaurant
+1301	7	SYSTEM	他にご用件はございますか？	general,restaurant
+1301	8	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4605	0	USER	福岡への旅行を計画しています． 当日泊まる宿泊施設を探してください．駐車場を無料で利用できるところにしてください．Wi-Fiが無料で利用できるところにしてください．最寄り駅が天神駅のところにしてください．	general,hotel,restaurant
+4605	1	SYSTEM	アゴーラ福岡山の上ホテル&スパはいかがでしょうか。	general,hotel,restaurant
+4605	2	USER	そちらの，電話番号，レストランの有無を教えていただけますか。	general,hotel,restaurant
+4605	3	SYSTEM	レストランの有無は有り 電話番号は0927712131です。	general,hotel,restaurant
+4605	4	USER	ありがとうございます。あと、当日食事ができる飲食店を探してください．駐車場を無料で利用できるところにしてください．Wi-Fiが無料で利用できるところにしてください．	general,hotel,restaurant
+4605	5	SYSTEM	レカイエ オイスターバー JR博多シティ店はいかがでしょうか。	general,hotel,restaurant
+4605	6	USER	そちらの住所、ジャンルを教えていただけますか。	general,hotel,restaurant
+4605	7	SYSTEM	住所は福岡県福岡市博多区博多駅中央街1-1 JR博多シティ 10F、ジャンルは寿司・魚料理です。	general,hotel,restaurant
+4605	8	USER	ありがとうございます。そちらで人数は4人です．日付は4/29です．時間は14:00で予約いただけますｋ。	general,hotel,restaurant
+4605	9	SYSTEM	すみません、予約できませんでした。	general,hotel,restaurant
+4605	10	USER	でしたら人数を3にしていただけますか。	general,hotel,restaurant
+4605	11	SYSTEM	予約完了いたしました。予約番号は57955になります。	general,hotel,restaurant
+4605	12	USER		general,hotel,restaurant

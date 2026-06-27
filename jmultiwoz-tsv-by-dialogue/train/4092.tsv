@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4092	0	USER	仙台への旅行を計画中で、青葉区にある宿泊施設を探しています。予算は普通で、無料Wi-fi付きがいいです。	general,hotel,taxi,weather
+4092	1	SYSTEM	青葉区、予算普通、無料WiFiのある宿泊施設はいくつかありますが、アパホテル<仙台勾当台公園>、こちらをお勧めします。	general,hotel,taxi,weather
+4092	2	USER	そこにしようと思います。レストランの有無はわかりますか？	general,hotel,taxi,weather
+4092	3	SYSTEM	はい、レストランは併設されています。	general,hotel,taxi,weather
+4092	4	USER	ありがとうございます。8/19に3名で2泊予約して欲しいのですが、可能でしょうか。	general,hotel,taxi,weather
+4092	5	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,hotel,taxi,weather
+4092	6	USER	分かりました。では、1泊に変更してください	general,hotel,taxi,weather
+4092	7	SYSTEM	１泊なら予約できました。予約番号は24994です。	general,hotel,taxi,weather
+4092	8	USER	ありがとうございます。当日利用可能なキャッシュレス払いできるジャンボタクシーを探しているのですが、ありますか？	general,hotel,taxi,weather
+4092	9	SYSTEM	仙台ではキャッシュレスとジャンボタクシー両方対応しているところはなさそうです。	general,hotel,taxi,weather
+4092	10	USER	分かりました。では、ジャンボタクシーでなくても結構です。	general,hotel,taxi,weather
+4092	11	SYSTEM	仙台でキャッシュレス対応のタクシー会社はいくつかありますが、宮城タクシー（株）、こちらをお勧めします。	general,hotel,taxi,weather
+4092	12	USER	そこにしようと思います。8/19の11:30にアパホテル<仙台勾当台公園>から岳山珈琲まで予約して欲しいのですが、可能でしょうか。	general,hotel,taxi,weather
+4092	13	SYSTEM	予約成功しました。予約番号は15577です。	general,hotel,taxi,weather
+4092	14	USER	ありがとうございます。8/19の泉区の最低気温と最高気温を教えてください。	general,hotel,taxi,weather
+4092	15	SYSTEM	8/19 仙台 泉区 の天気は曇、最低気温25度、最高気温28.6度です。	general,hotel,taxi,weather
+4092	16	USER	助かりました。ありがとうございました。	general,hotel,taxi,weather

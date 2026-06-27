@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2784	0	USER	横浜へ行くので宿泊施設を探しています。	general,hotel
+2784	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel
+2784	2	USER	旅館で駐車場が無料のところがいいです。	general,hotel
+2784	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel
+2784	4	USER	では駐車場の有無は問いません。	general,hotel
+2784	5	SYSTEM	ありがとうございます。エリアでいうと金沢区にある、旅館 皆楽園はいかがでしょう？	general,hotel
+2784	6	USER	いいですね。Wi-Fiはありますか？	general,hotel
+2784	7	SYSTEM	はい、無料でご利用いただけます。	general,hotel
+2784	8	USER	6/24、2泊、4人で予約をお願いしたいです。	general,hotel
+2784	9	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,hotel
+2784	10	USER	一泊だとどうですか？	general,hotel
+2784	11	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、34733となります。他にご案内できることはございますか？	general,hotel
+2784	12	USER	助かりました。ありがとうございました。	general,hotel
+2784	13	SYSTEM	ありがとうございました。	general,hotel

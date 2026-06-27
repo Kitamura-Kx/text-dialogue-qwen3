@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+842	0	USER	札幌にある、宿泊施設で駐車場を無料で使えるところはありますか？	general,hotel,restaurant,weather
+842	1	SYSTEM	はい、6件ほどご案内可能です。例えば、中央区にあるJRタワーホテル日航札幌というシティホテルは、いかがでしょうか？	general,hotel,restaurant,weather
+842	2	USER	そのシティホテルは、無料wifiが使えて、レストランが併設されていますか？	general,hotel,restaurant,weather
+842	3	SYSTEM	JRタワーホテル日航札幌は、無料wifiがご利用いただけて、レストランも併設しております。ご案内できる場所が全部で6件ございますが、いかが致しましょうか？	general,hotel,restaurant,weather
+842	4	USER	JRタワーホテル日航札幌のチェックアウト終了時間と価格帯を教えてください。	general,hotel,restaurant,weather
+842	5	SYSTEM	チェックアウトは11時までとなっております。価格帯は普通のシティホテルでございます。	general,hotel,restaurant,weather
+842	6	USER	わかりました。では次に飲食店を探したいのですが、無料でWiFiが使えて高めのお店はありますか？	general,hotel,restaurant,weather
+842	7	SYSTEM	はい、2件ほど候補がございます。ノーザンテラスダイナーという中央区のお店はいかがでしょうか？	general,hotel,restaurant,weather
+842	8	USER	そちらのお店の料金について教えてください。	general,hotel,restaurant,weather
+842	9	SYSTEM	かしこまりました。朝食ですと、洋食・和食バイキング大人3000円 、ウィークリーランチ1800円、ディナーは北海道美味探訪 - 和牛WAGYU -120gが8500円といったものがございます。	general,hotel,restaurant,weather
+842	10	USER	では、そちらのお店の予約をお願いします。6/24 12:30に２名でお願いします。	general,hotel,restaurant,weather
+842	11	SYSTEM	ご予約ありがとうございます。予約を完了いたしました。ご予約番号は、70874です。	general,hotel,restaurant,weather
+842	12	USER	ありがとうございます。次に天気を調べたいのですが、6/24 白石区の最高気温を教えてください。	general,hotel,restaurant,weather
+842	13	SYSTEM	かしこまりました。当日の最高気温は21.3度の予想です。	general,hotel,restaurant,weather
+842	14	USER	お願いしたいことは以上です。ありがとうございました。	general,hotel,restaurant,weather

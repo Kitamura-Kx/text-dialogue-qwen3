@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+966	0	USER	福岡のタクシー会社を探しています。ジャンボタクシー対応ができるところを調べてください。	general,taxi
+966	1	SYSTEM	かしこまりました。では（有）福運タクシーはいかがでしょうか。	general,taxi
+966	2	USER	そちらはキャッシュレスにも対応してますか？	general,taxi
+966	3	SYSTEM	はい。キャッシュレスにも対応しております。	general,taxi
+966	4	USER	よかったです。では電話番号も教えてください。	general,taxi
+966	5	SYSTEM	電話番号は0928710539でございます。	general,taxi
+966	6	USER	では8/24の13:50で予約お願いできますか？ザ・レジデンシャルスイート・福岡からKOKO HOTEL 福岡天神までお願いします。	general,taxi
+966	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は4458でございます。	general,taxi
+966	8	USER	ありがとうございます！	general,taxi

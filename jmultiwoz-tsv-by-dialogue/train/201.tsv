@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+201	0	USER	名古屋の天白区で食事できるところを探してほしいんですけど。名古屋駅が最寄りの店を教えてください。	general,restaurant,hotel,taxi
+201	1	SYSTEM	申し訳ございません。その条件ですと案内できるところがございませんでした。いかがなさいますか。	general,restaurant,hotel,taxi
+201	2	USER	じゃあ、最寄り駅は気にしないでいいです。どうですか？	general,restaurant,hotel,taxi
+201	3	SYSTEM	ではオーガニック食堂 Engiがございます。	general,restaurant,hotel,taxi
+201	4	USER	そこにします。宿も探してもらっていいですか？中区で予算は普通のところを、名古屋駅が最寄りだといいんですけど。	general,restaurant,hotel,taxi
+201	5	SYSTEM	申し訳ございません。その条件ですと案内できるところがございません。いかがいたしますか。	general,restaurant,hotel,taxi
+201	6	USER	じゃあ地区は問いません。見つかるといいんですけど。	general,restaurant,hotel,taxi
+201	7	SYSTEM	最寄り駅が名古屋駅ですとSAMURAI HOUSEがございます。	general,restaurant,hotel,taxi
+201	8	USER	そこのチェックイン開始って何時ですか？	general,restaurant,hotel,taxi
+201	9	SYSTEM	15:00でございます。	general,restaurant,hotel,taxi
+201	10	USER	最後にタクシー会社を調べてもらっていいですか？ジャンボタクシーが使えるところはありますか？	general,restaurant,hotel,taxi
+201	11	SYSTEM	もうしわけございません。ジャンボタクシー対応で案内できるところがございませんでした。	general,restaurant,hotel,taxi
+201	12	USER	じゃあジャンボは使えなくてもいいです。どこかいい会社はありませんか？	general,restaurant,hotel,taxi
+201	13	SYSTEM	名鉄名古屋タクシーがございます。	general,restaurant,hotel,taxi
+201	14	USER	電話番号を教えてください。そこはキャッシュレスって使えます？	general,restaurant,hotel,taxi
+201	15	SYSTEM	電話番号は0570085255でございます。キャッシュレスには対応しております。	general,restaurant,hotel,taxi
+201	16	USER	11月6日、オーガニック食堂 Engiを13時10分に出て、SAMURAI HOUSEまでの予約をお願いしたいんですけど。	general,restaurant,hotel,taxi
+201	17	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は60683でございます。	general,restaurant,hotel,taxi
+201	18	USER	何から何までお世話になりました。ありがとうございました。	general,restaurant,hotel,taxi

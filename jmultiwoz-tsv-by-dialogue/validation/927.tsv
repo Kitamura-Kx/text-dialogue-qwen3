@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+927	0	USER	札幌への旅行を計画しているのですが。	general,shopping
+927	1	SYSTEM	はい、何かご要望はありますか。	general,shopping
+927	2	USER	買い物ができる商店街をさがしています。	general,shopping
+927	3	SYSTEM	すみません、ご希望似合う場所がありません。	general,shopping
+927	4	USER	でしたらジャンルはなんでもいいです。	general,shopping
+927	5	SYSTEM	でしたら北海道どさんこプラザはいかがでしょうか。	general,shopping
+927	6	USER	いいですね。そちらの定休日，電話番号を教えて欲しいです。	general,shopping
+927	7	SYSTEM	定休日は無しで、電話番号は0112135053になります。	general,shopping
+927	8	USER	ありがとうございました。	general,shopping

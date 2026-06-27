@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2312	0	USER	大阪の観光名所で、Wi-Fiが無料で利用できるところはありますか？	general,attraction,taxi
+2312	1	SYSTEM	はい、19件ほど、ご案内可能です。たとえば、海遊館というところはいかがでしょうか？	general,attraction,taxi
+2312	2	USER	海遊館は駐車場は無料ですか？	general,attraction,taxi
+2312	3	SYSTEM	申し訳ありません。こちらは有料となっております。無料駐車場のある場所でお調べいたしましょうか？	general,attraction,taxi
+2312	4	USER	お願いします。	general,attraction,taxi
+2312	5	SYSTEM	そういたしますと、鶴見緑地湯元 水春というところが1件ご案内可能です。ジャンルとしては、銭湯・スパ, 温泉となりますが、いかがでしょうか？	general,attraction,taxi
+2312	6	USER	いいですね。住所を教えていただけますか？	general,attraction,taxi
+2312	7	SYSTEM	住所は、大阪府大阪市鶴見区緑地公園1-37でございます。	general,attraction,taxi
+2312	8	USER	わかりました。タクシーで行きたいのですが、ジャンボタクシーを利用できるタクシー会社はありますか？	general,attraction,taxi
+2312	9	SYSTEM	はい、16件ほどご案内可能です。例えば、都島交通株式会社というところがありますが、いかがでしょうか？	general,attraction,taxi
+2312	10	USER	では、その会社で2月12日に予約をお願いします。	general,attraction,taxi
+2312	11	SYSTEM	かしこまりました。ご利用予定の出発時刻、出発地、目的地をお願いできますでしょうか？	general,attraction,taxi
+2312	12	USER	からくさホテルグランデ新大阪タワーからさきほど教えていただいたスパに行きたいです。時間は１４：３０です。	general,attraction,taxi
+2312	13	SYSTEM	ありがとうございます。からくさホテルグランデ新大阪タワー発、鶴見緑地湯元 水春着にて、ご予約完了いたしました。予約番号は、79426です。	general,attraction,taxi
+2312	14	USER	ありがとうございます。	general,attraction,taxi
+2312	15	SYSTEM	ほかにお手伝いできることはございませんか？	general,attraction,taxi

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3181	0	USER	横浜への旅行を計画していて、当日の観光名所を探しています。Wi-Fi無料の散策エリアが希望です。	general,attraction,taxi
+3181	1	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction,taxi
+3181	2	USER	では、水族館にしたいと思います。	general,attraction,taxi
+3181	3	SYSTEM	かしこまりました。では、横浜・八景島シーパラダイスはいかがでしょうか？	general,attraction,taxi
+3181	4	USER	ありがとうございます。そこの大人入場料，子供入場料は分かりますか？	general,attraction,taxi
+3181	5	SYSTEM	はい。大人入場料は5500円、子供は3900円です。	general,attraction,taxi
+3181	6	USER	ありがとうございます。当日のタクシー会社も探しています。キャッシュレス払い対応があるところがいいです。	general,attraction,taxi
+3181	7	SYSTEM	かしこまりました。株式会社グリーンキャブはどうですか？	general,attraction,taxi
+3181	8	USER	ありがとうございます。そこはジャンボタクシーはありますか？	general,attraction,taxi
+3181	9	SYSTEM	はい。利用可能です。	general,attraction,taxi
+3181	10	USER	ありがとうございます。そこの予約をお願いしたいのですが、5/29の午前9：30から、横浜赤レンガ倉庫から横浜・八景島シーパラダイスまでお願い出来ますか？	general,attraction,taxi
+3181	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、29404です。	general,attraction,taxi
+3181	12	USER	ありがとうございました。	general,attraction,taxi
+3181	13	SYSTEM	こちらこそありがとうございました。	general,attraction,taxi

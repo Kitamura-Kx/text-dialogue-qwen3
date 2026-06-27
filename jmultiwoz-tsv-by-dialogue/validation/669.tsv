@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+669	0	USER	京都への旅行を考えているのですが、当日買い物が出来るところを探しています。駐車場が無料のところが良いです。	general,shopping,restaurant
+669	1	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,shopping,restaurant
+669	2	USER	では駐車場の有無は考慮しません。	general,shopping,restaurant
+669	3	SYSTEM	では、PAPABUBBLE 大丸京都店はいかがでしょう？ジャンルはお土産、食料品、エリアは下京区、最寄りの烏丸駅から徒歩で1分となります。営業時間は10時から20時、定休日はございません。	general,shopping,restaurant
+669	4	USER	ありがとうございます。当日の飲食店も探しています。Wi-Fiが無料で使えて、駐車場も無料のところがいいのですが。	general,shopping,restaurant
+669	5	SYSTEM	申し訳ありません、その条件ではご紹介ができません。いかが致しましょう？	general,shopping,restaurant
+669	6	USER	では、駐車場の有無は気にしません。	general,shopping,restaurant
+669	7	SYSTEM	いっかくじゅう 四条新町店、フィゲラス 烏丸店、スペインバル Ternuraの3件ございます。いかがされますか？	general,shopping,restaurant
+669	8	USER	スペインバル Ternura にしようと思います。値段帯と営業時間を教えてもらえますか？	general,shopping,restaurant
+669	9	SYSTEM	はい、値段帯は安め、営業時間は12時から0時となります。	general,shopping,restaurant
+669	10	USER	ありがとうございます。８月20日の16：20から3人で予約をしたいのですが、お願いできますか？	general,shopping,restaurant
+669	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、1275となります。	general,shopping,restaurant
+669	12	USER	ありがとうございます。	general,shopping,restaurant
+669	13	SYSTEM	他にご用件はございますか？	general,shopping,restaurant
+669	14	USER	いえ、ほかにありません。ありがとうございました。	general,shopping,restaurant

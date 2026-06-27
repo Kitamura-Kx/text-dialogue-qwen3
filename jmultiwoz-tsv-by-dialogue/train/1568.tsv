@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1568	0	USER	福岡へ行く予定をしているのですが、その時に食事をとるお店を探しています。	general,restaurant
+1568	1	SYSTEM	希望条件などは、ありますか？	general,restaurant
+1568	2	USER	駐車場が無料のお店が良いですね。洋食や西洋料理を食べたいと思っています。	general,restaurant
+1568	3	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant
+1568	4	USER	そうですか、寿司や魚料理のお店ではどうでしょうか？	general,restaurant
+1568	5	SYSTEM	それでしたら、加賀屋 博多店はいかがでしょうか？	general,restaurant
+1568	6	USER	それでは、そこにします。加賀屋 博多店の住所もお願いします。Wi-Fiがあるかも教えてください。	general,restaurant
+1568	7	SYSTEM	住所は、福岡県福岡市博多区博多駅中央街1-1 JR博多シティ 9Fです。　Wi-Fi利用につきましては、不明になっております。	general,restaurant
+1568	8	USER	分かりました、ありがとうございます。	general,restaurant
+1568	9	SYSTEM	他にご用件はありますか？	general,restaurant
+1568	10	USER	これで全てです。ありがとうございました。	general,restaurant
+1568	11	SYSTEM	承知致しました。　ありがとうございました。	general,restaurant

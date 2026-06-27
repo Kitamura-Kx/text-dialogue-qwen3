@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3497	0	USER	札幌への旅行を考えていて、今飲食店を探しています。	general,restaurant,weather,taxi
+3497	1	SYSTEM	かしこまりました。その条件でしたら、102件ほどからご紹介できますが、何かこだわりなどはございますか？	general,restaurant,weather,taxi
+3497	2	USER	鍋料理がいいですね。高めのところが良いです。	general,restaurant,weather,taxi
+3497	3	SYSTEM	かしこまりました。それでは北海しゃぶしゃぶ すすきの本店はいかがでしょうか？	general,restaurant,weather,taxi
+3497	4	USER	駐車場はありますか？	general,restaurant,weather,taxi
+3497	5	SYSTEM	申し訳ございません。駐車場はありません。	general,restaurant,weather,taxi
+3497	6	USER	それでもいいです。8/6の11:50、4人でお願いしたいです。	general,restaurant,weather,taxi
+3497	7	SYSTEM	お待たせ致しました。予約番号80457でお取りさせていただきました。	general,restaurant,weather,taxi
+3497	8	USER	ちなみに8/6の北区の最高気温はどうなっていますか？	general,restaurant,weather,taxi
+3497	9	SYSTEM	お待たせ致しました。当日の最高気温は23.5度の予報でございます。	general,restaurant,weather,taxi
+3497	10	USER	あとキャッシュレス払いができて、ジャンボタクシーを利用できるタクシー会社を探しています。	general,restaurant,weather,taxi
+3497	11	SYSTEM	それでは、暁交通(株)はいかがでしょうか？	general,restaurant,weather,taxi
+3497	12	USER	電話番号は何番になりますか？	general,restaurant,weather,taxi
+3497	13	SYSTEM	電話番号は0117712632でございます。	general,restaurant,weather,taxi
+3497	14	USER	8/6の10:40に札幌市中央卸売市場 場外市場から北海しゃぶしゃぶ すすきの本店まで予約をお願いしたいです。	general,restaurant,weather,taxi
+3497	15	SYSTEM	お待たせ致しました。予約番号86264でお取りさせていただきました。	general,restaurant,weather,taxi
+3497	16	USER	ありがとうございました。	general,restaurant,weather,taxi
+3497	17	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,weather,taxi

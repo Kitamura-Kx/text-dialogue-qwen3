@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4642	0	USER	旅行で横浜に行くつもりなんですけど、その時に行く飲食店を探してもらえますか？	general,restaurant,weather
+4642	1	SYSTEM	かしこまりました。では、串焼勝治はいかがでしょうか？	general,restaurant,weather
+4642	2	USER	いいですね、でも出来ればイタリアン・フレンチで神奈川区の飲食店が良いです。予算は高めが希望です。	general,restaurant,weather
+4642	3	SYSTEM	その条件ですと熟成和牛ステーキグリルド エイジング・ビーフ 横浜店がございます。	general,restaurant,weather
+4642	4	USER	ありがとうございます、そこにしようと思います。料金情報と近辺の駅からの所要時間はわかりますか？	general,restaurant,weather
+4642	5	SYSTEM	はい。料金情報は不明です。また、横浜駅から徒歩で3分となります。	general,restaurant,weather
+4642	6	USER	そこの予約をお願いします。10/12の14:00に2名で予約をして下さい。	general,restaurant,weather
+4642	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,weather
+4642	8	USER	14:30ではどうですか？	general,restaurant,weather
+4642	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、41894です。	general,restaurant,weather
+4642	10	USER	ありがとうございました。	general,restaurant,weather
+4642	11	SYSTEM	ありがとうございました。	general,restaurant,weather
+4642	12	USER	10/12の保土ケ谷区の天気と最高気温はわかりますか？	general,restaurant,weather
+4642	13	SYSTEM	はい。天気は曇時々晴。最高気温は18.9度です。	general,restaurant,weather
+4642	14	USER	わかりました、ありがとうございます。	general,restaurant,weather
+4642	15	SYSTEM	はい。ありがとうございました。	general,restaurant,weather

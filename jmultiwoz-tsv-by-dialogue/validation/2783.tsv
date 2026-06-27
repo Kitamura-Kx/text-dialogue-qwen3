@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2783	0	USER	名古屋へ旅行するため観光名所を探しています。	general,attraction,shopping,weather
+2783	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,shopping,weather
+2783	2	USER	駐車場が無料のところがいいです。	general,attraction,shopping,weather
+2783	3	SYSTEM	申し訳ありません、駐車場が無料の観光名所はございません。いかが致しましょう？	general,attraction,shopping,weather
+2783	4	USER	じゃ駐車場の有無はかまいません。	general,attraction,shopping,weather
+2783	5	SYSTEM	では、エリアでいうと中区にある、御園座はいかがでしょう？ジャンルは、伝統芸能、コンサート、ショーとなります。	general,attraction,shopping,weather
+2783	6	USER	いいですね。近辺の駅からの所要時間はどうなりますか？	general,attraction,shopping,weather
+2783	7	SYSTEM	はい、最寄りの伏見駅から徒歩で2分となります。他にご案内可能な近辺の駅はございません。	general,attraction,shopping,weather
+2783	8	USER	定休日と料金情報についても教えてもらえますか？	general,attraction,shopping,weather
+2783	9	SYSTEM	はい、定休日は年末年始となります。料金情報としては、公演により異なる、とのことです。	general,attraction,shopping,weather
+2783	10	USER	そうですか。あと池下駅の近くで買い物ができるところを探しています。	general,attraction,shopping,weather
+2783	11	SYSTEM	はい、エリアでいうと千種区に、こみかるはうす 池下駅店がございます。ジャンルは、書籍、文房具、雑貨、おもちゃ、となります。	general,attraction,shopping,weather
+2783	12	USER	いいですね。住所と定休日を教えてください。	general,attraction,shopping,weather
+2783	13	SYSTEM	はい、住所は愛知県名古屋市千種区覚王山通8丁目70番地1号　サンクレア池下東棟1階、定休日はございません。	general,attraction,shopping,weather
+2783	14	USER	あと5/18の名東区の天気と最高気温が知りたいです。	general,attraction,shopping,weather
+2783	15	SYSTEM	はい、天気は晴時々曇、最高気温28度となります。他にご用件はございますか？	general,attraction,shopping,weather
+2783	16	USER	特にないです。	general,attraction,shopping,weather
+2783	17	SYSTEM	ありがとうございました。	general,attraction,shopping,weather

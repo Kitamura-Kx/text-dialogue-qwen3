@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2830	0	USER	東京へ行くのですが、ビジネスホテルを探しています。	general,hotel,attraction,restaurant
+2830	1	SYSTEM	そうしますと、30件ほどご案内可能です。エリアなど、何かご希望はございますか？	general,hotel,attraction,restaurant
+2830	2	USER	Wi-Fiが無料で利用でき安めのところがいいです。	general,hotel,attraction,restaurant
+2830	3	SYSTEM	そうしましたら、hotel neorougeという台東区エリアのビジネスホテルはいかがでしょうか？	general,hotel,attraction,restaurant
+2830	4	USER	住所と料金情報が知りたいです。	general,hotel,attraction,restaurant
+2830	5	SYSTEM	住所は、東京都台東区千束4丁目23-4です。料金につきましては、お値段がお安めということと、WiFiが無料でご利用いただける以外、詳しい情報が手元になくご案内できかねます。申し訳ございません。	general,hotel,attraction,restaurant
+2830	6	USER	わかりました。では4/16から4泊、3人で予約お願いします。	general,hotel,attraction,restaurant
+2830	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は49196です。	general,hotel,attraction,restaurant
+2830	8	USER	あとですね、江戸川区で駐車場が無料な観光名所を探しています。	general,hotel,attraction,restaurant
+2830	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel,attraction,restaurant
+2830	10	USER	では駐車場の件は考慮しません。	general,hotel,attraction,restaurant
+2830	11	SYSTEM	それでしたら、葛西臨海水族園というところが1件ご案内可能です。いかがでしょうか？	general,hotel,attraction,restaurant
+2830	12	USER	料金情報を教えてください。	general,hotel,attraction,restaurant
+2830	13	SYSTEM	かしこまりました。一般700円、中学生250円、小学生以下は無料です。都内在住、在学の中学生でしたら、無料になります。また、65歳以上は350円です。	general,hotel,attraction,restaurant
+2830	14	USER	わかりました。	general,hotel,attraction,restaurant
+2830	15	SYSTEM	他にお調べすることはございませんか？	general,hotel,attraction,restaurant
+2830	16	USER	特にありません。	general,hotel,attraction,restaurant
+2830	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction,restaurant
+2830	18	USER	あと、Wi-Fiが無料で使える飲食店を探しています。	general,hotel,attraction,restaurant
+2830	19	SYSTEM	そうしましたら、16件ご案内可能です。例えば、銀座 魚ばか、などがございますが、いかがでしょうか？	general,hotel,attraction,restaurant
+2830	20	USER	銀座 魚ばかの値段帯はどうなりますか？	general,hotel,attraction,restaurant
+2830	21	SYSTEM	こちらは、お高めの設定となっております。	general,hotel,attraction,restaurant
+2830	22	USER	住所と最寄り駅を教えてください。	general,hotel,attraction,restaurant
+2830	23	SYSTEM	住所は、東京都中央区銀座2丁目2-19 藤間ビルB1Fです。最寄りは銀座一丁目駅で、徒歩1分の距離にございます。	general,hotel,attraction,restaurant
+2830	24	USER	助かりました。ありがとうございます。	general,hotel,attraction,restaurant
+2830	25	SYSTEM	他にお手伝いすることはございませんか？	general,hotel,attraction,restaurant
+2830	26	USER	特にないです。	general,hotel,attraction,restaurant
+2830	27	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction,restaurant

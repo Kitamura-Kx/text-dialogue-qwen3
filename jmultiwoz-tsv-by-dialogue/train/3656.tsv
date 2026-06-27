@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3656	0	USER	東京へ旅行に行こうと思っています。当日訪れる観光名所を探しています。地区は杉並区が希望です。	general,attraction,taxi
+3656	1	SYSTEM	かしこまりました。それでは大田黒公園はいかがでしょうか？	general,attraction,taxi
+3656	2	USER	そこが良さそうです。あと当日利用できるタクシー会社を探しています。キャッシュレス対応でジャンボタクシーが利用できるところが良いです。	general,attraction,taxi
+3656	3	SYSTEM	お待たせ致しました。それではトーショー交通はいかがでしょうか？	general,attraction,taxi
+3656	4	USER	そこの電話番号を教えてください。	general,attraction,taxi
+3656	5	SYSTEM	はい、0423441111でございます。	general,attraction,taxi
+3656	6	USER	そこのタクシー会社に予約したいので日付は12/10です．時間は14:40で出発地は築地ビジネスホテルバンで目的地は大田黒公園でお願いします。	general,attraction,taxi
+3656	7	SYSTEM	お待たせ致しました。予約番号88584でお取りさせていただきました。	general,attraction,taxi
+3656	8	USER	分かりました。ありがとうございます。	general,attraction,taxi
+3656	9	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,taxi

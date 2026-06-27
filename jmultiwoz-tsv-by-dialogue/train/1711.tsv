@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1711	0	USER	仙台へ旅行したいのですが、シティホテルで安めの宿泊施設はありませんか？	general,hotel,restaurant,shopping
+1711	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,hotel,restaurant,shopping
+1711	2	USER	わかりました。じゃあ休めじゃなくても大丈夫です。	general,hotel,restaurant,shopping
+1711	3	SYSTEM	ではホテルメトロポリタン仙台はいかがでしょうか。	general,hotel,restaurant,shopping
+1711	4	USER	すいません安めじゃなくても、でした。そこの住所と最寄り駅をおしえてください。	general,hotel,restaurant,shopping
+1711	5	SYSTEM	住所は宮城県仙台市青葉区中央1丁目1-1で、最寄り駅は仙台駅でございます。	general,hotel,restaurant,shopping
+1711	6	USER	わかりました。電話番号も知りたいです。	general,hotel,restaurant,shopping
+1711	7	SYSTEM	電話番号は0222682525でございます。	general,hotel,restaurant,shopping
+1711	8	USER	ありがとうございます。飲食店も探しているのですが、宮城野区で値段が高めの店はありますか？	general,hotel,restaurant,shopping
+1711	9	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,hotel,restaurant,shopping
+1711	10	USER	わかりました。値段が高くなくても大丈夫です。	general,hotel,restaurant,shopping
+1711	11	SYSTEM	では、うまい鮨勘 仙台東口支店はいかがでしょうか。	general,hotel,restaurant,shopping
+1711	12	USER	そこにします。定休日を教えてください。あと、予約もしたいです。	general,hotel,restaurant,shopping
+1711	13	SYSTEM	定休日は無しでございます。では予約の詳細をお聞かせいただけますか。	general,hotel,restaurant,shopping
+1711	14	USER	はい。1/18の14時に2人での予約はできますか？	general,hotel,restaurant,shopping
+1711	15	SYSTEM	予約が完了いたしました。予約番号は93534でございます。	general,hotel,restaurant,shopping
+1711	16	USER	ありがとうございます。文房具・雑貨を宮城野区で買い物できるところも探してください。無料駐車場があるところがいいです。	general,hotel,restaurant,shopping
+1711	17	SYSTEM	かしこまりました。申し訳ございません。その条件では案内できるところがございませんでした。	general,hotel,restaurant,shopping
+1711	18	USER	そうですか。青葉区にある店でもいいです。	general,hotel,restaurant,shopping
+1711	19	SYSTEM	ではアニメイト仙台はいかがでしょうか。	general,hotel,restaurant,shopping
+1711	20	USER	いいですね。最寄駅と定休日を教えてください。あと、近辺の駅からの所要時間もできれば知りたいです。	general,hotel,restaurant,shopping
+1711	21	SYSTEM	最寄り駅は仙台駅で、仙台駅から徒歩で2分でございます。	general,hotel,restaurant,shopping
+1711	22	USER	わかりました。定休日はわかりますか？	general,hotel,restaurant,shopping
+1711	23	SYSTEM	失礼いたしました。定休日は無しでございます。	general,hotel,restaurant,shopping
+1711	24	USER	わかりました。ありがとうございます。もう大丈夫です。	general,hotel,restaurant,shopping
+1711	25	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,shopping

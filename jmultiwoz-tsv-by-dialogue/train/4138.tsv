@@ -1,0 +1,28 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4138	0	USER	大坂に旅行に行きたいです。駐車場が無料で利用できる観光名所を探しています。	general,attraction,restaurant,taxi
+4138	1	SYSTEM	では、鶴見緑地湯元 水春はいかがでしょうか？	general,attraction,restaurant,taxi
+4138	2	USER	そこの定休日と料金はどうなっていますか？	general,attraction,restaurant,taxi
+4138	3	SYSTEM	定休日は、無しです。　料金は、大人平日入浴料820円となっています。	general,attraction,restaurant,taxi
+4138	4	USER	分かりました。	general,attraction,restaurant,taxi
+4138	5	SYSTEM	他にご用件はありますか？	general,attraction,restaurant,taxi
+4138	6	USER	飲食店を探しています。ジャンルは鍋でwifiが無料で利用できる所はありますか？	general,attraction,restaurant,taxi
+4138	7	SYSTEM	それでしたら、炭火焼dining おかげ家 梅田店はどうでしょうか？	general,attraction,restaurant,taxi
+4138	8	USER	駐車場はありますか？	general,attraction,restaurant,taxi
+4138	9	SYSTEM	申し訳ありません、駐車場については、無しとなっています。	general,attraction,restaurant,taxi
+4138	10	USER	エリアはどこになりますか？	general,attraction,restaurant,taxi
+4138	11	SYSTEM	エリアは、北区です。	general,attraction,restaurant,taxi
+4138	12	USER	3月1日の13時30分で2人で予約したいです。	general,attraction,restaurant,taxi
+4138	13	SYSTEM	予約が完了しました。　予約番号は、92507です。	general,attraction,restaurant,taxi
+4138	14	USER	ありがとうございます。	general,attraction,restaurant,taxi
+4138	15	SYSTEM	他にご用件はありますか？	general,attraction,restaurant,taxi
+4138	16	USER	当日キャッシュレス払いできるタクシー会社を探しています。	general,attraction,restaurant,taxi
+4138	17	SYSTEM	榮交通株式会社は、どうですか？	general,attraction,restaurant,taxi
+4138	18	USER	電話番号が知りたいです。	general,attraction,restaurant,taxi
+4138	19	SYSTEM	電話番号は、0669624641です。	general,attraction,restaurant,taxi
+4138	20	USER	3月1日の12時00分で予約したいです。出発地は先ほどの観光施設から、目的地は先ほどの飲食店になります。	general,attraction,restaurant,taxi
+4138	21	SYSTEM	では、鶴見緑地湯元 水春から炭火焼dining おかげ家 梅田店までで、よろしいかったですか？	general,attraction,restaurant,taxi
+4138	22	USER	それでお願いします。	general,attraction,restaurant,taxi
+4138	23	SYSTEM	予約が完了しました。　予約番号は、18609です。	general,attraction,restaurant,taxi
+4138	24	USER	ありがとうございます。これで大丈夫です。	general,attraction,restaurant,taxi
+4138	25	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,taxi
+4138	26	USER		general,attraction,restaurant,taxi

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4619	0	USER	那覇への旅行を計画しています． 当日泊まる宿泊施設を探してください．駐車場を無料で利用できるところにしてください．レストランが併設されているところにしてください．予算は安めが希望です．	general,hotel,attraction,shopping
+4619	1	SYSTEM	パシフィックホテル沖縄はいかがでしょうか。	general,hotel,attraction,shopping
+4619	2	USER	そちらの住所を教えていただけますか。	general,hotel,attraction,shopping
+4619	3	SYSTEM	住所 沖縄県那覇市西3丁目6-1です。	general,hotel,attraction,shopping
+4619	4	USER	ありがとうございます。あと、当日訪れる観光名所を探してください．Wi-Fiが無料で利用できるところにしてください．地区は首里です．	general,hotel,attraction,shopping
+4619	5	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,hotel,attraction,shopping
+4619	6	USER	でしたら地区はどこでもいいです	general,hotel,attraction,shopping
+4619	7	SYSTEM	桜坂劇場はいかがでしょうか。	general,hotel,attraction,shopping
+4619	8	USER	ありがとうございます。あと、当日買い物ができるところを探してください．地区は本庁です．最寄り駅が美栄橋駅のところにしてください．駐車場を無料で利用できるところにしてください．	general,hotel,attraction,shopping
+4619	9	SYSTEM	フレッシュプラザユニオン前島店はいかがでしょうか。	general,hotel,attraction,shopping
+4619	10	USER	そちらの，住所，近辺の駅からの所要時間，営業時間を教えていただけますか。	general,hotel,attraction,shopping
+4619	11	SYSTEM	住所は沖縄県那覇市前島２丁目６−１、 近辺の駅からの所要時間は美栄橋駅から徒歩で2分、営業時間は00:00～00:00です。	general,hotel,attraction,shopping
+4619	12	USER	ありがとうございます。	general,hotel,attraction,shopping

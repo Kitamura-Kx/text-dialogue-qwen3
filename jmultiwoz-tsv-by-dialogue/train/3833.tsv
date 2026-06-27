@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3833	0	USER	札幌を訪れる予定なのですが、南区で無料駐車場がある観光名所はありますか？	general,attraction,hotel,weather
+3833	1	SYSTEM	定山源泉公園は、いかがですか？	general,attraction,hotel,weather
+3833	2	USER	いいですね。入場料はおいくらでしょうか？子どもがいるので、子どもの入場料もお教えください。	general,attraction,hotel,weather
+3833	3	SYSTEM	入場料は、どちらも無料となっています。	general,attraction,hotel,weather
+3833	4	USER	ありがとうございます。Wi-Fiは用意されてますか？	general,attraction,hotel,weather
+3833	5	SYSTEM	申し訳ありません。　Wi-Fi有無のにつきましては、不明となっています。	general,attraction,hotel,weather
+3833	6	USER	了解です。ちなみに電車で行く場合の最寄り駅はどちらになりますか？	general,attraction,hotel,weather
+3833	7	SYSTEM	最寄り駅は、真駒内駅です。	general,attraction,hotel,weather
+3833	8	USER	ありがとうございます。あと、その日に泊まる宿を探していただきたいのですが、ロープウェイ入口停留所付近でレストランありの宿でお願いします。	general,attraction,hotel,weather
+3833	9	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,hotel,weather
+3833	10	USER	では場所にはこだわらず、無料駐車場とレストランがある宿でいいところありますでしょうか？	general,attraction,hotel,weather
+3833	11	SYSTEM	では、定山渓万世閣ホテルミリオーネはいかがでしょうか？	general,attraction,hotel,weather
+3833	12	USER	ではそちらにしたいと思います。定山渓万世閣ホテルミリオーネのあるエリアはどちらになりますか？	general,attraction,hotel,weather
+3833	13	SYSTEM	エリアは、南区です。	general,attraction,hotel,weather
+3833	14	USER	ありがとうございます。12/19を予定しています。その日の白石区の天気予報はどうなってますか？	general,attraction,hotel,weather
+3833	15	SYSTEM	その日の天気は、雪時々曇です。	general,attraction,hotel,weather
+3833	16	USER	ありがとうございます。旅行楽しみです。	general,attraction,hotel,weather
+3833	17	SYSTEM	他にご用件はありますか？	general,attraction,hotel,weather

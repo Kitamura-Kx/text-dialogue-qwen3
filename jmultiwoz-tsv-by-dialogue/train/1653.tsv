@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1653	0	USER	仙台への旅行中に泊まれる場所を探してほしいのですが、レストランが併設されている場所はありますか？	general,hotel,shopping,taxi
+1653	1	SYSTEM	はい、他にご希望はございますか？	general,hotel,shopping,taxi
+1653	2	USER	駐車場が無料の場所が希望です。予算は高めでも大丈夫です。	general,hotel,shopping,taxi
+1653	3	SYSTEM	では、エリアでいうと太白区にある、秋保温泉 茶寮宗園はいかがでしょう？ジャンルは旅館となります。	general,hotel,shopping,taxi
+1653	4	USER	ありがとうございます。お買い物もしたいのですが、カーサベガルタというところはありますか？	general,hotel,shopping,taxi
+1653	5	SYSTEM	はい、エリアでいうと青葉区にございます。ジャンルはスポーツとなります。	general,hotel,shopping,taxi
+1653	6	USER	そちらの最寄り駅と、定休日はわかりますか？	general,hotel,shopping,taxi
+1653	7	SYSTEM	はい、最寄りの仙台駅から徒歩で1分となります。定休日は、不定休となっております。	general,hotel,shopping,taxi
+1653	8	USER	ありがとうございます。キャッシュレス払いのできるタクシー会社を探してもらえますか？	general,hotel,shopping,taxi
+1653	9	SYSTEM	はい、では、仙台中央タクシー（株）はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0570057818となります。	general,hotel,shopping,taxi
+1653	10	USER	そちらでお願いします。6/3の13:30に、秋保温泉 茶寮宗園からカーサベガルタで予約をお願いできますか？	general,hotel,shopping,taxi
+1653	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、84911となります。他にご用件はございますか？	general,hotel,shopping,taxi
+1653	12	USER	いいえ、ほかにはありません。ありがとうございました。	general,hotel,shopping,taxi
+1653	13	SYSTEM	ありがとうございました。	general,hotel,shopping,taxi

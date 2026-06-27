@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4124	0	USER	名古屋で駐車場が無料で利用できる科学館はありますか	general,attraction,hotel,taxi
+4124	1	SYSTEM	トヨタ産業技術記念館がございます。	general,attraction,hotel,taxi
+4124	2	USER	エリアを教えてください	general,attraction,hotel,taxi
+4124	3	SYSTEM	エリアは西区でございます。	general,attraction,hotel,taxi
+4124	4	USER	ありがとうございます、では駐車場が無料で利用できてレストランが併設されている宿泊施設はありますか	general,attraction,hotel,taxi
+4124	5	SYSTEM	はい。ホテル いろははいかがでしょうか。	general,attraction,hotel,taxi
+4124	6	USER	あありがとうございます、6月29日から3泊で4人の予約をお願いします	general,attraction,hotel,taxi
+4124	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は52120でございます。	general,attraction,hotel,taxi
+4124	8	USER	当日は第五フジタクシーという会社を利用したいのですがこの会社はキャッシュレスとジャンボタクシーに対応していますか	general,attraction,hotel,taxi
+4124	9	SYSTEM	キャッシュレス対応は不明でございます。ジャンボタクシーには対応しております。	general,attraction,hotel,taxi
+4124	10	USER	ありがとうございます、では6月29日の12時にホテル いろはからトヨタ産業技術記念館までの予約をお願いします	general,attraction,hotel,taxi
+4124	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は91359でございます。	general,attraction,hotel,taxi
+4124	12	USER		general,attraction,hotel,taxi

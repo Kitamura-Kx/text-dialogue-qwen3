@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2813	0	USER	仙台へ旅行を計画しています。宮城野区で買い物ができる所はありますか？	general,shopping,restaurant
+2813	1	SYSTEM	はい、6件ご案内できます。たとえば、三井アウトレットパーク 仙台港というところはいかがでしょうか？	general,shopping,restaurant
+2813	2	USER	そちらは、どういうジャンルの施設ですか？また定休日も教えてほしいです。	general,shopping,restaurant
+2813	3	SYSTEM	ジャンルは、アウトレットモールでございます。定休日は不定休となっております。	general,shopping,restaurant
+2813	4	USER	ありがとうございます。最後に当日食事ができる飲食店を探しています。エリアは太白区で予算は普通を希望します。できれば無料の駐車場が利用できるところがいいです。	general,shopping,restaurant
+2813	5	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,restaurant
+2813	6	USER	それではエリアを宮城野区に変更していただけますか？	general,shopping,restaurant
+2813	7	SYSTEM	ありがとうございます。そうしますと、7件見つかりました。たとえば、力寿司というお店はいかがでしょうか？	general,shopping,restaurant
+2813	8	USER	そちらの最寄駅を教えてください。	general,shopping,restaurant
+2813	9	SYSTEM	宮城野通駅が最寄りとなっております。	general,shopping,restaurant
+2813	10	USER	承知しました。それでは予約をお願いします。人数は2名、日時は6/22、11:30でお願いします。	general,shopping,restaurant
+2813	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、50516です。	general,shopping,restaurant
+2813	12	USER	ありがとうございます。こちらからは以上です。	general,shopping,restaurant
+2813	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,restaurant

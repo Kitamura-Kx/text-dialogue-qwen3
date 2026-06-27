@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2061	0	USER	大阪の観光名所を教えてください。無料Wifiがあるスポットはどこですか？	general,attraction,restaurant,taxi
+2061	1	SYSTEM	かしこまりました。では、スパワールド世界の大温泉はいかがでしょうか？	general,attraction,restaurant,taxi
+2061	2	USER	そちらにします。続いて、飲食店も聞きたいんですが。中央区で無料Wifiがあるお店はありますか？	general,attraction,restaurant,taxi
+2061	3	SYSTEM	かしこまりました。では、焼肉工房 花ごよみはいかがでしょうか？	general,attraction,restaurant,taxi
+2061	4	USER	そちらで予約をお願いします。4/8の13時からで、2人での利用です。	general,attraction,restaurant,taxi
+2061	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、85018です。	general,attraction,restaurant,taxi
+2061	6	USER	ありがとうございます。最後にタクシーについても教えてください。大阪に堀江タクシー株式会社ってありますか？	general,attraction,restaurant,taxi
+2061	7	SYSTEM	はい、ございますよ。何かお調べしましょうか？	general,attraction,restaurant,taxi
+2061	8	USER	そちらはジャンボタクシー対応はされてますか？	general,attraction,restaurant,taxi
+2061	9	SYSTEM	はい。対応しております。	general,attraction,restaurant,taxi
+2061	10	USER	では予約もお願いします。4/8の11:20で、スパワールド世界の大温泉から焼肉工房 花ごよみまでの利用です。	general,attraction,restaurant,taxi
+2061	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、88321です。	general,attraction,restaurant,taxi
+2061	12	USER	ありがとうございます。問い合わせは以上です。	general,attraction,restaurant,taxi

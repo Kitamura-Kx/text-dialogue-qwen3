@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3974	0	USER	名古屋旅行を考えています。	general,restaurant
+3974	1	SYSTEM	お知りになりたい情報がございますか。	general,restaurant
+3974	2	USER	千種区の飲食店を探しています。	general,restaurant
+3974	3	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,restaurant
+3974	4	USER	ありません。	general,restaurant
+3974	5	SYSTEM	ではtrentotto.はいかがですか。	general,restaurant
+3974	6	USER	どんなジャンルのお店ですか？	general,restaurant
+3974	7	SYSTEM	ジャンルは洋食・西洋料理, イタリアン・フレンチでございます。	general,restaurant
+3974	8	USER	Wi-Fiはありますか？	general,restaurant
+3974	9	SYSTEM	Wi-Fiの有無は不明でございます。	general,restaurant
+3974	10	USER	わかりました、ありがとうございます。	general,restaurant
+3974	11	SYSTEM	ほかにご用件はございませんか。	general,restaurant
+3974	12	USER	はい。	general,restaurant
+3974	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant

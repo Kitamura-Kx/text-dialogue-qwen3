@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+574	0	USER	こんばんは！今度仙台に行こうと思ってるんですけど、宮城野区にある宿泊施設を探してもらえますか？	general,hotel
+574	1	SYSTEM	承知しました。他にご希望はございますか？	general,hotel
+574	2	USER	WiFiが無料で使える所が良いです。他には、特にありません！	general,hotel
+574	3	SYSTEM	ありがとうございます。では、仙台ガーデンパレスはいかがでしょう？タイプはシティホテル、値段帯は安め、最寄りの宮城野通駅から徒歩で1分となります。	general,hotel
+574	4	USER	ありがとうございます！じゃぁそこで検討します！住所とチェックアウト終了時刻についても、教えてもらえますか？	general,hotel
+574	5	SYSTEM	はい、住所は宮城県仙台市宮城野区榴岡4丁目1-5、チェックアウト終了時刻は10時となります。	general,hotel
+574	6	USER	ありがとうございます。これだけお調べいただければ、あとは大丈夫です。今回はありがとうございました！	general,hotel
+574	7	SYSTEM	ありがとうございました。	general,hotel

@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4080	0	USER	札幌への旅行を計画しています． 当日訪れる観光名所を探してください．地区は豊平区です．Wi-Fiが無料で利用できるところにしてください．駐車場を無料で利用できるところがいいです。	general,attraction
+4080	1	SYSTEM	クラーク博士像はいかがでしょうか。	general,attraction
+4080	2	USER	そちらの電話番号，営業時間，料金情報を教えていただけますか。	general,attraction
+4080	3	SYSTEM	営業時間は09:00～17:00、 電話番号は0118513080、料金情報は大人 530円小・中学生300円、プランにより異なるです。	general,attraction
+4080	4	USER	ありがとうございます。	general,attraction

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3470	0	USER	大阪に旅行に行こうと思っています。宿泊施設を探しているのですが、西成区で予算普通のレストランが併設されているところはありますか。	general,hotel,weather
+3470	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel,weather
+3470	2	USER	では、地区は西成区でなくても大丈夫です。	general,hotel,weather
+3470	3	SYSTEM	かしこまりました。それぞれ大阪マリオット都ホテルがございます。	general,hotel,weather
+3470	4	USER	そのホテルのタイプはなんでしょうか。	general,hotel,weather
+3470	5	SYSTEM	タイプは、リゾートホテルでございます。	general,hotel,weather
+3470	6	USER	ありがとうございます。駐車場の有無と料金情報についても教えてください。	general,hotel,weather
+3470	7	SYSTEM	はい、駐車場は有料でございます。値段帯は普通ですが、料金情報はございません。	general,hotel,weather
+3470	8	USER	ありがとうございます。あと、9月27日の阿倍野区の最高気温は何度になりますか。	general,hotel,weather
+3470	9	SYSTEM	はい、当日の最高気温は31.4度の予報でございます。	general,hotel,weather
+3470	10	USER	ありがとうございます。全て解決しました。これで大丈夫です。	general,hotel,weather
+3470	11	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,weather

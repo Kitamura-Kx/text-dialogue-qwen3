@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+442	0	USER	横浜に行こうと思っています。11/22の神奈川区の気温はわかりますか？	general,weather,taxi
+442	1	SYSTEM	ご利用ありがとうございます。神奈川区の当日の天気は、雨のち晴れの予報です。最低気温は9.8度、最高気温は20.8度の予想です。	general,weather,taxi
+442	2	USER	なるほど。当日タクシーを使いたいので、キャッシュレス決済可能なタクシー会社を教えてください。	general,weather,taxi
+442	3	SYSTEM	大変申し訳ございません。横浜にはキャッシュレスに対応しているタクシー会社で、ご案内できるところがありませんでした。	general,weather,taxi
+442	4	USER	そうですか。では、キャッシュレスに対応していないところでも構いません。	general,weather,taxi
+442	5	SYSTEM	ありがとうございます。そういたしますと、東都東タクシー株式会社はいかがでしょうか？	general,weather,taxi
+442	6	USER	そちらはジャンボタクシーには対応していますか？	general,weather,taxi
+442	7	SYSTEM	申し訳ございません。こちらの会社はジャンボタクシーには対応しておりません。ジャンボタクシーに対応している会社をお探しいたしますか？	general,weather,taxi
+442	8	USER	いいえ、大丈夫です。東都東タクシー株式会社でタクシーの予約をお願いします。	general,weather,taxi
+442	9	SYSTEM	かしこまりました。ご利用予定の日付と出発時刻、出発地、目的地はお決まりでしょうか？	general,weather,taxi
+442	10	USER	11/22、時間は12:40でお願いします。出発地は横浜ベイサイドマリーナで、目的地はミクニ ヨコハマです。	general,weather,taxi
+442	11	SYSTEM	かしこまりました。予約完了いたしました。ご予約番号は、63672です。	general,weather,taxi
+442	12	USER	わかりました。ありがとうございました。	general,weather,taxi

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2113	0	USER	こんにちは。那覇へ行きますので、タクシー会社を探しています。キャッシュレス払いができるところはありますか？	general,taxi
+2113	1	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,taxi
+2113	2	USER	そうなんですね。じゃあキャッシュレス払いができなくてもいいですので、お願いします。	general,taxi
+2113	3	SYSTEM	かしこまりました。では、大栄交通はいかがでしょうか？	general,taxi
+2113	4	USER	ありがとうございます。そこの電話番号と、あとジャンボタクシーが使えるかどうかも教えてもらえますか？	general,taxi
+2113	5	SYSTEM	ジャンボタクシーにも対応しております。電話番号は0989465005です。	general,taxi
+2113	6	USER	そうですか、では予約お願いします。9/13の09:50乗車で、SuiSavon -首里石鹸- 国際通り牧志ギャラリーショップからAmeku Terraceというところです。	general,taxi
+2113	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、49690です。	general,taxi
+2113	8	USER	ありがとうございます。助かりました。	general,taxi
+2113	9	SYSTEM	他にご用件はありますか？	general,taxi
+2113	10	USER	いえ、大丈夫です。どうもありがとうございました。	general,taxi
+2113	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

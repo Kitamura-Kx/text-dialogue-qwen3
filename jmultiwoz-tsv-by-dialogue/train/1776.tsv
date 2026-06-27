@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1776	0	USER	こんにちは。横浜へ旅行しますので、飲食店を探しています。予算は普通で、寿司・魚料理の良いところはありますか？	general,restaurant
+1776	1	SYSTEM	エリアでいうと港北区にある、きじま 新横浜店はいかがでしょう？	general,restaurant
+1776	2	USER	よさそうですね。そちらは駐車場はありますか？	general,restaurant
+1776	3	SYSTEM	有料ですがご利用いただけます。	general,restaurant
+1776	4	USER	ありがとうございます。電話番号も教えてもらえますか？	general,restaurant
+1776	5	SYSTEM	電話番号は、0454700828となります。	general,restaurant
+1776	6	USER	では4/25で予約をお願いしたいです。4名で14:50でお願いできますか？	general,restaurant
+1776	7	SYSTEM	予約が完了し、ご予約番号は、20873となります。	general,restaurant
+1776	8	USER	助かりました。どうもありがとうございました。	general,restaurant
+1776	9	SYSTEM	ありがとうございました。	general,restaurant

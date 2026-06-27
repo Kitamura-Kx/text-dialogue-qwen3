@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4943	0	USER	こんにちは。京都に旅行する計画を立てていますが、ジャンルはエンタメ・アミューズメントで、山科区の観光名所はありますか？	general,attraction,weather,taxi
+4943	1	SYSTEM	すみません、対象がございません。	general,attraction,weather,taxi
+4943	2	USER	山科区ならば、ジャンルは他でもいいです。	general,attraction,weather,taxi
+4943	3	SYSTEM	京都市東部文化会館 勧修寺観光農園の2件をご紹介できます。	general,attraction,weather,taxi
+4943	4	USER	京都市東部文化会館がいいですね。Wi-Fiの有無はわかりますか？	general,attraction,weather,taxi
+4943	5	SYSTEM	申し訳ございません。わかりかねます。	general,attraction,weather,taxi
+4943	6	USER	いえいえ、構いません。では、9月24日の下京区の天気、特に最低気温を教えてくれると助かります。	general,attraction,weather,taxi
+4943	7	SYSTEM	晴のち雨で、最低気温は24.4度です。	general,attraction,weather,taxi
+4943	8	USER	ありがとうございます。ジャンボタクシーを利用できるタクシー会社も探してくれますか？	general,attraction,weather,taxi
+4943	9	SYSTEM	17件見つかりました。 帝産京都自動車株式会社 京都相互タクシー株式会社などご紹介できます。	general,attraction,weather,taxi
+4943	10	USER	帝産京都自動車株式会社ですが、キャッシュレスには対応していますか？	general,attraction,weather,taxi
+4943	11	SYSTEM	キャッシュレスにも対応しております。	general,attraction,weather,taxi
+4943	12	USER	では、予約をお願いします。9月24日13時50分に、京都市東部文化会館を出発して22PIECESまで行きたいです。	general,attraction,weather,taxi
+4943	13	SYSTEM	申し訳ございません。予約できませんでした。	general,attraction,weather,taxi
+4943	14	USER	そうですか、時間を14時40分に変更しても無理でしょうか？	general,attraction,weather,taxi
+4943	15	SYSTEM	予約可能でした。予約完了いたしました。予約番号は4202です。	general,attraction,weather,taxi
+4943	16	USER	予約できて良かったです。ありがとうございました。	general,attraction,weather,taxi

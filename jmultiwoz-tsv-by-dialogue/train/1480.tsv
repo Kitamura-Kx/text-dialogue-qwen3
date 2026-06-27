@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1480	0	USER	仙台へ旅行に行くので、食事ができる飲食店を探してください	general,restaurant,taxi
+1480	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,taxi
+1480	2	USER	予算は普通で、Wi-Fiと駐車場を無料で利用できるところにしてください。	general,restaurant,taxi
+1480	3	SYSTEM	ではRAMEN EXPRESS 博多一風堂 三井アウトレットパーク仙台港店はいかがですか。	general,restaurant,taxi
+1480	4	USER	そちらの定休日と電話番号を教えてください	general,restaurant,taxi
+1480	5	SYSTEM	定休日はございません。電話番号は0227817370でございます。	general,restaurant,taxi
+1480	6	USER	続いて、タクシー会社を探してください	general,restaurant,taxi
+1480	7	SYSTEM	かしこまりました。では仙台タクシーグループはいかがですか。	general,restaurant,taxi
+1480	8	USER	キャッシュレス払いとジャンボタクシーが利用できるところがいいのですが。	general,restaurant,taxi
+1480	9	SYSTEM	はい。どちらにも対応しております。	general,restaurant,taxi
+1480	10	USER	ではそちらでタクシーを予約してください。日付は12/30、時間は13:40、出発地はRAMEN EXPRESS 博多一風堂 三井アウトレットパーク仙台港店、目的地はGlamping Spa Sendai 杜 〜KOMOREBI〜です。	general,restaurant,taxi
+1480	11	SYSTEM	申し訳ございません。その条件では予約ができませんでした。	general,restaurant,taxi
+1480	12	USER	では時間を14:40に変更してください	general,restaurant,taxi
+1480	13	SYSTEM	その時間ですと予約が可能でございました。予約番号は48487でございます。	general,restaurant,taxi
+1480	14	USER	ありがとうございました。以上です。	general,restaurant,taxi
+1480	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2984	0	USER	東京に旅行に行くので駐車場が無料で利用できてファッションの買い物ができるお店を教えてください。	general,shopping,attraction,weather
+2984	1	SYSTEM	東京で駐車場無料のファッションスポットといえば、ラフォーレ原宿です。	general,shopping,attraction,weather
+2984	2	USER	最寄駅と近辺の駅からの所要時間もおしえてもらえますか	general,shopping,attraction,weather
+2984	3	SYSTEM	最寄りは明治神宮前〈原宿〉駅、明治神宮前〈原宿〉駅から徒歩で1分。その他、原宿駅から徒歩で5分、表参道駅から徒歩で7分です。	general,shopping,attraction,weather
+2984	4	USER	分かりました。あと駐車場が無料で利用できる観光名所はありますか？	general,shopping,attraction,weather
+2984	5	SYSTEM	東京には駐車場無料の観光名所はなさそうです。	general,shopping,attraction,weather
+2984	6	USER	じゃあ駐車場の有無は考慮しなくてOKです	general,shopping,attraction,weather
+2984	7	SYSTEM	東京の観光スポットは45件あります。追加の希望条件はありますか。	general,shopping,attraction,weather
+2984	8	USER	特にないです	general,shopping,attraction,weather
+2984	9	SYSTEM	では、ラフォーレからほど遠くない、表参道ヒルズをオススメします。	general,shopping,attraction,weather
+2984	10	USER	ありがとうございます。住所とWi-Fiの有無と子どもの入場料を教えてください！	general,shopping,attraction,weather
+2984	11	SYSTEM	東京都渋谷区神宮前4丁目12-10、WiFiは無料。入場料は店舗施設により異なるようです。	general,shopping,attraction,weather
+2984	12	USER	分かりました。最後に1/17の港区の最低気温を教えてください！	general,shopping,attraction,weather
+2984	13	SYSTEM	その日の最低気温は5.7度です。	general,shopping,attraction,weather
+2984	14	USER	了解です。いろいろとありがとうございました	general,shopping,attraction,weather
+2984	15	SYSTEM	よい旅を	general,shopping,attraction,weather

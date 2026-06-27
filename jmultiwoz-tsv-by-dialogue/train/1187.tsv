@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1187	0	USER	東京へ旅行予定なのですが、安めの飲食店を調べてください。Wi-Fiが無料なところがいいです。	general,restaurant,weather
+1187	1	SYSTEM	承知しました。エリアでいうと品川区にございます、土風炉 大井町店はいかがでしょう？何かご案内致しましょうか？	general,restaurant,weather
+1187	2	USER	そこにします。住所を教えてくれますか？	general,restaurant,weather
+1187	3	SYSTEM	はい、住所は東京都品川区東大井5丁目2-13 大井町大井ビル1・2階となります。他にご案内できることはございますか？	general,restaurant,weather
+1187	4	USER	わかりました。予約をしたいです。3人で3/27の9:50からでお願いします。	general,restaurant,weather
+1187	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、88952となります。他にご用件はございますか？	general,restaurant,weather
+1187	6	USER	ありがとうございます。当日3/27の台東区の天候を教えてください。	general,restaurant,weather
+1187	7	SYSTEM	はい、天気は曇のち晴、最低気温6.3度、最高気温20.5度となります。他にご案内が必要なことはございますか？	general,restaurant,weather
+1187	8	USER	わかりました。もう大丈夫です。	general,restaurant,weather
+1187	9	SYSTEM	ありがとうございました。	general,restaurant,weather

@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3908	0	USER	大阪への旅行を計画中で、無料の駐車場付きの観光名所を探しています。	general,attraction
+3908	1	SYSTEM	では、エリアでいうと中央区にある、難波神社はいかがでしょう？ジャンルは、神社、寺院、教会、モニュメントなどとなります。	general,attraction
+3908	2	USER	そこにしようと思います。料金情報と子供入場料を教えてください。	general,attraction
+3908	3	SYSTEM	はい、料金情報、子供入場料ともに、無料となります。	general,attraction
+3908	4	USER	助かります。ありがとうございました。	general,attraction
+3908	5	SYSTEM	ありがとうございました。	general,attraction

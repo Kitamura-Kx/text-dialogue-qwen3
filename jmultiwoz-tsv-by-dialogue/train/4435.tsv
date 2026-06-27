@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4435	0	USER	仙台へ旅行予定なのですが、太白区で郷土料理を食べれる高めの飲食店はありますか？	general,restaurant,hotel,shopping
+4435	1	SYSTEM	はい、旧伊達伯爵邸 鍾景閣はいかがでしょう？	general,restaurant,hotel,shopping
+4435	2	USER	いいですね。定休日と最寄り駅を教えてください。	general,restaurant,hotel,shopping
+4435	3	SYSTEM	はい、定休日は不定休、最寄りの仙台駅からタクシーで24分となります。	general,restaurant,hotel,shopping
+4435	4	USER	ではそこで予約してください。3人で10/11の09:40からです。	general,restaurant,hotel,shopping
+4435	5	SYSTEM	申し訳ありません、念のための確認ですが、午前9時40分でよろしいでしょうか？	general,restaurant,hotel,shopping
+4435	6	USER	はい。午前9時40分でお願いします。	general,restaurant,hotel,shopping
+4435	7	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、66382となります。	general,restaurant,hotel,shopping
+4435	8	USER	ありがとうございます。あと、レストランがあって無料駐車場がある宿泊施設を探してください。	general,restaurant,hotel,shopping
+4435	9	SYSTEM	承知しました。では、エリアでいうと太白区にある、奥州秋保温泉 蘭亭はいかがでしょう？タイプは、旅館となります。	general,restaurant,hotel,shopping
+4435	10	USER	そこにします。近辺の駅からの所要時間と住所と値段帯を教えてください。	general,restaurant,hotel,shopping
+4435	11	SYSTEM	はい、住所は宮城県仙台市太白区秋保町湯元木戸保7-1、値段帯は安め、最寄りの愛子駅からタクシーで15分となります。	general,restaurant,hotel,shopping
+4435	12	USER	わかりました。あと、無料駐車場があるスーパーマーケットも探してほしいです。	general,restaurant,hotel,shopping
+4435	13	SYSTEM	承知しました。では、エリアでいうと宮城野区にある、JA仙台農産物直売所 たなばたけ 高砂店はいかがでしょう？	general,restaurant,hotel,shopping
+4435	14	USER	そこにします。定休日と営業時間はわかりますか。	general,restaurant,hotel,shopping
+4435	15	SYSTEM	はい、定休日は水曜日と年末年始、営業時間は10時から18時となります。	general,restaurant,hotel,shopping
+4435	16	USER	わかりました。ありがとうございます。	general,restaurant,hotel,shopping
+4435	17	SYSTEM	ありがとうございました。	general,restaurant,hotel,shopping

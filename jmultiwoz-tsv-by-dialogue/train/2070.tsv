@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2070	0	USER	那覇で食事ができるところを探してもらえますか？駐車場もWi-Fiもタダで使えることがいいです。	general,restaurant,taxi,weather
+2070	1	SYSTEM	かしこまりました。それではステーキハウス88 国際通り店はいかがでしょうか？	general,restaurant,taxi,weather
+2070	2	USER	よさそう！最寄り駅と、近辺の駅からの所要時間はわかりますか？	general,restaurant,taxi,weather
+2070	3	SYSTEM	ありがとうございます！最寄り駅は牧志駅でございまして、近辺の駅からですと牧志駅から徒歩で4分、美栄橋駅から徒歩で4分、県庁前駅から徒歩で10分となっております。	general,restaurant,taxi,weather
+2070	4	USER	わかりました。当日タクシーを利用したいので、タクシー会社を探してください。ジャンボタクシーが使えるところがいいです。	general,restaurant,taxi,weather
+2070	5	SYSTEM	かしこまりました。それでは三和交通さんはいかがでしょうか？ジャンボタクシーがご利用いただけます。	general,restaurant,taxi,weather
+2070	6	USER	ちなみにそちらのタクシー会社はキャッシュレス決済に対応していますか？	general,restaurant,taxi,weather
+2070	7	SYSTEM	はい、キャッシュレスにも対応しております。	general,restaurant,taxi,weather
+2070	8	USER	わかりました。タクシー会社の電話番号を教えてもらえますか？	general,restaurant,taxi,weather
+2070	9	SYSTEM	はい、電話番号は0120100084でございます。	general,restaurant,taxi,weather
+2070	10	USER	ありがとう。では6/7の10:50に予約をお願いします。出発地はステーキハウス88 国際通り店、目的地はスマイルホテル沖縄那覇で。	general,restaurant,taxi,weather
+2070	11	SYSTEM	申し訳ありません。ご予約出来ませんでした。	general,restaurant,taxi,weather
+2070	12	USER	そうですか。時間を11:40に変更したらどうでしょうか。	general,restaurant,taxi,weather
+2070	13	SYSTEM	お待たせいたしました。11時40分でしたらご予約出来ました。予約番号は41076でございます。	general,restaurant,taxi,weather
+2070	14	USER	助かります。あと、当日6/7の本庁地区の天候も教えてください。	general,restaurant,taxi,weather
+2070	15	SYSTEM	はい、当日の本庁は曇の予報となっております。	general,restaurant,taxi,weather
+2070	16	USER	曇りですね。気温はわかりますか？	general,restaurant,taxi,weather
+2070	17	SYSTEM	はい、最低気温は28度、最高気温が32.9度となっております。	general,restaurant,taxi,weather
+2070	18	USER	わかりました。いろいろ教えてくれてありがとうございました！	general,restaurant,taxi,weather

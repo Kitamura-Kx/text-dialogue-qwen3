@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4039	0	USER	名古屋への旅行を計画しています。 当日訪れる観光名所を探してください。	general,attraction
+4039	1	SYSTEM	かしこまりました。名古屋の名所ですと、50件ほどありますが、なにかこだわりなどありますか？	general,attraction
+4039	2	USER	駐車場を無料で利用できるところにしてください。最寄り駅が八事駅、地区は西区が希望です。	general,attraction
+4039	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction
+4039	4	USER	それでは、最寄り駅は考慮しないものとします。	general,attraction
+4039	5	SYSTEM	かしこまりました。その条件でしたら、トヨタ産業技術記念館がございます。	general,attraction
+4039	6	USER	そこがいいです。名称，料金情報，定休日を教えてください。	general,attraction
+4039	7	SYSTEM	名称は、トヨタ産業技術記念館、料金情報は大人は500円、65歳以上の場合300円、中高生は300円、小学生は200円でございます。また、定休日は月曜日の年末年始でございます。	general,attraction
+4039	8	USER	解決しました。ありがとうございました。	general,attraction

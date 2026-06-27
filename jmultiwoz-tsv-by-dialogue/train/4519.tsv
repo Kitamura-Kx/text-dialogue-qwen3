@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4519	0	USER	福岡へ旅行に行きたいんですけど、Wi-Fiが無料で利用できる観光名所はありませんか？	general,attraction,shopping,weather
+4519	1	SYSTEM	かしこまりました。では、福岡市博物館はいかがでしょうか。	general,attraction,shopping,weather
+4519	2	USER	そちらは近辺の駅から所要時間はどれぐらいかかりますか？	general,attraction,shopping,weather
+4519	3	SYSTEM	はい。こちら西新駅から徒歩で15分、藤崎駅からバスで10分、博多駅からバスで25分、天神駅からバスで20分となっております。	general,attraction,shopping,weather
+4519	4	USER	ありがとうございます。六本松駅が最寄り駅の、駐車場が無料で利用できる買い物ができる場所も探してもらえますか？	general,attraction,shopping,weather
+4519	5	SYSTEM	では六本松421がございます。	general,attraction,shopping,weather
+4519	6	USER	そちらのエリアと、電話番号と定休日を教えて下さい。	general,attraction,shopping,weather
+4519	7	SYSTEM	エリアは中央区で、電話番号は0927912246でございます。定休日は店舗により異なるとのことでございます。	general,attraction,shopping,weather
+4519	8	USER	ありがとうございます。1/16の中央区の最高気温も調べてもらえますか？	general,attraction,shopping,weather
+4519	9	SYSTEM	かしこまりました。その日の最高気温は16.5度の予想でございます。	general,attraction,shopping,weather
+4519	10	USER	ありがとうございます。	general,attraction,shopping,weather
+4519	11	SYSTEM	ほかにご用件はございませんか。	general,attraction,shopping,weather
+4519	12	USER	はい、大丈夫です。ありがとうございました。	general,attraction,shopping,weather
+4519	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,weather

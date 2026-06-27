@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+87	0	USER	こんばんは。 名古屋へ旅行するのに、案内をお願いしたいのですが。	general,shopping
+87	1	SYSTEM	こんばんは。名古屋へのご旅行ですね。かしこまりました。	general,shopping
+87	2	USER	当日に買い物ができるところを探していまして、ヨドバシカメラ マルチメディア名古屋松坂屋店についての情報を教えていただけますか？	general,shopping
+87	3	SYSTEM	名古屋のヨドバシカメラ マルチメディア名古屋松坂屋店ですね。中区に1件該当の店舗がございますが、どういった情報をお伝えいたしましょう？	general,shopping
+87	4	USER	それでは、エリアと住所、定休日の３つについて教えていただけますか？	general,shopping
+87	5	SYSTEM	はい、かしこまりました。まずエリアですが、名古屋の中区にございます。住所は、愛知県名古屋市中区栄3丁目16-1です。またこちらの店舗は、定休日は特にございません。	general,shopping
+87	6	USER	ありがとうございます。	general,shopping
+87	7	SYSTEM	他に、ご不明な点などございますか？	general,shopping
+87	8	USER	他は特にありません。この度は、ご案内いただき、ありがとうございました。	general,shopping
+87	9	SYSTEM	こちらこそ、ご利用いただき、誠にありがとうございました。それでは失礼いたします。	general,shopping

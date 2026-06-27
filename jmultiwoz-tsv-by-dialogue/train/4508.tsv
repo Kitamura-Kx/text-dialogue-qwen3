@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4508	0	USER	名古屋へ旅行に行くのですが、港区の飲食店で駐車場無料なところはありますか？	general,restaurant,hotel,taxi
+4508	1	SYSTEM	名古屋港区で駐車場無料の飲食店といえば、ソーサリートです。	general,restaurant,hotel,taxi
+4508	2	USER	そちらはWi-Fiも使えますか？	general,restaurant,hotel,taxi
+4508	3	SYSTEM	WiFiは不明です。	general,restaurant,hotel,taxi
+4508	4	USER	わかりました。あと、天白区でレストランがある宿泊施設を探してください。できればWi-Fiが無料で使えるところがいいです。	general,restaurant,hotel,taxi
+4508	5	SYSTEM	名古屋天白区には、レストラン併設でWiFi無料の宿泊施設はなさそうです。	general,restaurant,hotel,taxi
+4508	6	USER	そうですか。なら、天白区以外でも探してください。	general,restaurant,hotel,taxi
+4508	7	SYSTEM	名古屋でレストラン併設、WiFi無料の宿泊施設は４８件ありますが、ザ ロイヤルパーク キャンバス 名古屋です。	general,restaurant,hotel,taxi
+4508	8	USER	そちらのチェックアウト終了時刻と値段帯も教えてください。	general,restaurant,hotel,taxi
+4508	9	SYSTEM	チェックアウト終了時刻は11:00、値段帯は安めです。	general,restaurant,hotel,taxi
+4508	10	USER	わかりました。あと、当日ジャンボタクシーの利用を考えているのですが、いいところありませんか？	general,restaurant,hotel,taxi
+4508	11	SYSTEM	名古屋にはジャンボタクシー対応の会社はなさそうです。	general,restaurant,hotel,taxi
+4508	12	USER	それならジャンボタクシーがなくてもいいです。	general,restaurant,hotel,taxi
+4508	13	SYSTEM	それならば、名鉄名古屋タクシーをお勧めします。	general,restaurant,hotel,taxi
+4508	14	USER	そこはキャッシュレスに対応していますか？	general,restaurant,hotel,taxi
+4508	15	SYSTEM	キャッシュレスも対応しています。	general,restaurant,hotel,taxi
+4508	16	USER	それなら、6/3で15:10に予約をお願いします。ソーサリートからザ ロイヤルパーク キャンバス 名古屋までです。	general,restaurant,hotel,taxi
+4508	17	SYSTEM	予約成功しました。予約番号は65766です。	general,restaurant,hotel,taxi
+4508	18	USER	ありがとうございました。	general,restaurant,hotel,taxi
+4508	19	SYSTEM	よい旅を。	general,restaurant,hotel,taxi

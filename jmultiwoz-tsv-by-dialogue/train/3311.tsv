@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3311	0	USER	京都へ旅行へ行く予定ですが、駐車場とWi-Fiが無料で使える宿泊施設を探してください。	general,hotel,restaurant,taxi
+3311	1	SYSTEM	京都で駐車場とWiFi無料の宿泊施設はいくつかありますが、リーガロイヤルホテル京都をおすすめします。	general,hotel,restaurant,taxi
+3311	2	USER	料金は安めのところにしたいのですが。	general,hotel,restaurant,taxi
+3311	3	SYSTEM	はい、こちら値段帯も安めです。	general,hotel,restaurant,taxi
+3311	4	USER	ではそこに予約します。8月25日から3泊、人数は4人でできますか？	general,hotel,restaurant,taxi
+3311	5	SYSTEM	その条件で予約に成功しました。予約番号は39364です。	general,hotel,restaurant,taxi
+3311	6	USER	ありがとうございます。当日食事ができる飲食店を探していますが、カレーのお店はないでしょうか？	general,hotel,restaurant,taxi
+3311	7	SYSTEM	京都でジャンルカレーの店はなさそうです	general,hotel,restaurant,taxi
+3311	8	USER	では、ジャンルはカフェかスイーツにします。	general,hotel,restaurant,taxi
+3311	9	SYSTEM	いくつか候補がありますが、MONO MONO CAFE、こちらがオススメです	general,hotel,restaurant,taxi
+3311	10	USER	そこの電話番号と、近くの駅からの所要時間を教えてください。	general,hotel,restaurant,taxi
+3311	11	SYSTEM	08046496946、烏丸駅から徒歩で1分、四条駅から徒歩で3分ってところです。	general,hotel,restaurant,taxi
+3311	12	USER	ありがとうございます。あと、キャッシュレスとジャンボタクシーが利用できるタクシー会社はありませんか？	general,hotel,restaurant,taxi
+3311	13	SYSTEM	京都相互タクシー株式会をお勧めします	general,hotel,restaurant,taxi
+3311	14	USER	電話番号も教えてください。	general,hotel,restaurant,taxi
+3311	15	SYSTEM	0758623000です	general,hotel,restaurant,taxi
+3311	16	USER	8月25日の15：00に予約できますか？	general,hotel,restaurant,taxi
+3311	17	SYSTEM	出発地と目的地をお願いします。	general,hotel,restaurant,taxi
+3311	18	USER	出発地はリーガロイヤルホテル京都、目的地はMONO MONO CAFEでお願いします。	general,hotel,restaurant,taxi
+3311	19	SYSTEM	予約成功しました。予約番号は11695です。	general,hotel,restaurant,taxi
+3311	20	USER	ありがとうございました。	general,hotel,restaurant,taxi
+3311	21	SYSTEM	よい旅を	general,hotel,restaurant,taxi

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1793	0	USER	札幌への旅行を考えています。	general,taxi
+1793	1	SYSTEM	ご利用ありがとうございます。本日はどんなお手伝いをいたしましょうか？	general,taxi
+1793	2	USER	キャッシュレス払いができ、ジャンボタクシーのあるタクシー会社を教えてください。	general,taxi
+1793	3	SYSTEM	かしこまりました。では、北広島第一交通(株)はいかがでしょうか？	general,taxi
+1793	4	USER	そこにします。電話番号も教えて下さい。	general,taxi
+1793	5	SYSTEM	電話番号は、0118115151でございます。	general,taxi
+1793	6	USER	12月15日の13時にジンギスカーンというところから、札幌パークホテルまで予約をお願いします。	general,taxi
+1793	7	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、18252です。	general,taxi
+1793	8	USER	ありがとうございます。	general,taxi
+1793	9	SYSTEM	ほかに何かお調べすることはございませんか？	general,taxi
+1793	10	USER	もう大丈夫です。	general,taxi
+1793	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

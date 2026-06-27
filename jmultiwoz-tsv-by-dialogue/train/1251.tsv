@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1251	0	USER	京都への旅行を検討しています。当日利用する飲食店を探しているのですが、お伺いしてもよろしいですか？	general,restaurant
+1251	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,restaurant
+1251	2	USER	予算が高め以外は特に指定は無いので、どこかおすすめはありますか？	general,restaurant
+1251	3	SYSTEM	そういたしますと、貴船 喜らくという和食のお店はいかがでしょうか？	general,restaurant
+1251	4	USER	そちらで検討してみたいです。このお店の住所を教えて頂けますか？	general,restaurant
+1251	5	SYSTEM	はい。住所は、京都府京都市左京区鞍馬貴船町47でございます。	general,restaurant
+1251	6	USER	ありがとうございます。このままこのお店を予約したいのですが、よろしいでしょうか？	general,restaurant
+1251	7	SYSTEM	はい、よろこんで承ります。ご利用予定の日付と時刻、人数をお願いできますでしょうか？	general,restaurant
+1251	8	USER	はい。日付は9月13日の14時50分。人数は3人でお願いします。	general,restaurant
+1251	9	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、69981です。	general,restaurant
+1251	10	USER	ありがとうございます。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,restaurant
+1251	11	SYSTEM	承知いたしました。ではまたのご利用をお待ちしております。	general,restaurant

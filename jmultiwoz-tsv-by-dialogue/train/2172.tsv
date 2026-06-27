@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2172	0	USER	札幌旅行の際に当日買い物できるお店を教えて頂けないでしょうか。	general,shopping
+2172	1	SYSTEM	かしこまりました。50件ほどございますが、何かご希望がありますか？	general,shopping
+2172	2	USER	東区で文房具・雑貨が買える場所はありますか？	general,shopping
+2172	3	SYSTEM	その条件ですと、アカチャンホンポ アリオ札幌店が該当致します。	general,shopping
+2172	4	USER	ではそちらに伺いたいと思います。定休日を教えて頂けないでしょうか。	general,shopping
+2172	5	SYSTEM	ありがとうございます。こちらは不定休となっております。	general,shopping
+2172	6	USER	ありがとうございました。	general,shopping

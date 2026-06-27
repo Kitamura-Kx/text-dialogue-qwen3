@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4752	0	USER	名古屋へ旅行予定なのですが、守山区の観光名所を調べてもらえますか？駐車場とWi-Fiが無料なところがいいのですが。	general,attraction
+4752	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction
+4752	2	USER	そうですか。ならWi-Fiが使えなくてもいいです。	general,attraction
+4752	3	SYSTEM	ありがとうございます。では、龍泉寺はいかがでしょう？ジャンルは、神社、寺院、教会、モニュメントなどとなります。	general,attraction
+4752	4	USER	そこにします。料金情報と最寄り駅、あと営業時間を教えてください。	general,attraction
+4752	5	SYSTEM	はい、営業時間は０時から０時、最寄りの小幡駅からバスで19分となります。料金情報としては、入場無料、宝物館は100円、となります。	general,attraction
+4752	6	USER	ありがとうございます。もう大丈夫です。	general,attraction
+4752	7	SYSTEM	ありがとうございました。	general,attraction

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+263	0	USER	京都で駐車場が無料の買い物ができるところを探しているんですが、山科区にいいところはありませんか？	general,shopping
+263	1	SYSTEM	申し訳ございません。ご希望の条件では案内できるところがございませんでした。いかがなさいますか。	general,shopping
+263	2	USER	じゃあエリアはどこでもいいので、おすすめをお願いします。	general,shopping
+263	3	SYSTEM	では、香老舗 松栄堂はいかがでしょうか。	general,shopping
+263	4	USER	いい感じですね。住所を知りたいです。あと、定休日ってありますか？	general,shopping
+263	5	SYSTEM	住所は京都府京都市中京区烏丸通二条上ル東側でございます。定休日は無しとなっております。	general,shopping
+263	6	USER	いい所を教えてもらい、ありがとうございました。	general,shopping

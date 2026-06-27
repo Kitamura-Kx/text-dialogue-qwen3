@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3049	0	USER	名古屋に行くのですが、観光名所を探しています。	general,attraction,taxi
+3049	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction,taxi
+3049	2	USER	Wi-Fiが無料で利用でき、駐車場が無料のところがいいです。	general,attraction,taxi
+3049	3	SYSTEM	かしこまりました。では、大高緑地はいかがでしょうか？	general,attraction,taxi
+3049	4	USER	いいですね。あとキャッシュレス払いができて、ジャンボタクシーを利用できるタクシー会社も探しています。	general,attraction,taxi
+3049	5	SYSTEM	そうですね。名鉄西部交通西部はいかがでしょうか。	general,attraction,taxi
+3049	6	USER	電話番号を教えてください。	general,attraction,taxi
+3049	7	SYSTEM	0568213295になります。	general,attraction,taxi
+3049	8	USER	申し訳ないですが1/18、09:50に大高緑地からスタンザベルデ名古屋まで予約をお願いしたいです。	general,attraction,taxi
+3049	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、31500です。	general,attraction,taxi
+3049	10	USER	ありがとうございます。	general,attraction,taxi
+3049	11	SYSTEM	いえ、こちらこそご利用ありがとうございました。	general,attraction,taxi

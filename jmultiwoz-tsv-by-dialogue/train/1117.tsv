@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1117	0	USER	福岡に旅行に行くので、レストランがある宿泊施設を教えてください。	general,hotel,weather
+1117	1	SYSTEM	承知しました。他にご希望はございますか？	general,hotel,weather
+1117	2	USER	予算が普通の所だと助かります。	general,hotel,weather
+1117	3	SYSTEM	では、エリアでいうと博多区にある、AMISTAD HOTEL FUKUOKAはいかがでしょう？	general,hotel,weather
+1117	4	USER	はい、そこがいいです。AMISTAD HOTEL FUKUOKAの最寄り駅を教えてください。	general,hotel,weather
+1117	5	SYSTEM	はい、最寄りの博多駅から徒歩で6分となります。	general,hotel,weather
+1117	6	USER	ありがとうございます。もう１つ、11月27日なんですが、南区辺りの最高気温が気になります。	general,hotel,weather
+1117	7	SYSTEM	はい、天気は雨のち晴、最高気温22度となります。	general,hotel,weather
+1117	8	USER	ありがとうございます。ちなみに、最低気温も分かりますか？	general,hotel,weather
+1117	9	SYSTEM	はい、最低気温10.8度となります。	general,hotel,weather
+1117	10	USER	ありがとうございました。助かりました。では、失礼します。	general,hotel,weather

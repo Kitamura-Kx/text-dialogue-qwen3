@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4684	0	USER	京都へ旅行するのですが、ジャンボタクシーが使えるようなところはありますか？	general,taxi
+4684	1	SYSTEM	京都には、ジャンボタクシー対応の会社はいくつかありますが、株式会社キャビックをお勧めします。	general,taxi
+4684	2	USER	そこにします。キャッシュレスは使えますか？あと、電話番号も教えてください。	general,taxi
+4684	3	SYSTEM	キャッシュレスも対応しています。電話番号は、0758642100です。	general,taxi
+4684	4	USER	ありがとうございます。11/20の12:40に予約をお願いします。京都市京北運動公園からCANDY SHOW TIME 京都祇園店までです。	general,taxi
+4684	5	SYSTEM	予約成功しました。予約番号は81534です。	general,taxi
+4684	6	USER	ありがとうございました。	general,taxi

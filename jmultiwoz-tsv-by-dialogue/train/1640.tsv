@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1640	0	USER	こんにちは。福岡へ旅行しますので、飲食店を探しています。	general,restaurant
+1640	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+1640	2	USER	そうですね、予算は普通がよいのですが、寿司や魚料理がいいです。	general,restaurant
+1640	3	SYSTEM	申し訳ございません。ご希望の条件では案内できるところがございませんでした。いかがなさいますか。	general,restaurant
+1640	4	USER	そうですか。では予算を高めにしてもいいので、寿司・魚料理で探していただけますか？	general,restaurant
+1640	5	SYSTEM	では照鮨はいかがでしょうか。	general,restaurant
+1640	6	USER	ありがとうございます。そこへ行きたいので、どのエリアにあるかと、お店の電話番号、あと駐車場があるかどうかも教えていただけますか？	general,restaurant
+1640	7	SYSTEM	エリアは東区、電話番号は0927191777で、無料の駐車場がございます。	general,restaurant
+1640	8	USER	ありがとうございました、助かりました。	general,restaurant
+1640	9	SYSTEM	ほかにご用件はございますか。	general,restaurant
+1640	10	USER	いえ、大丈夫です。どうもありがとうございました。	general,restaurant
+1640	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant

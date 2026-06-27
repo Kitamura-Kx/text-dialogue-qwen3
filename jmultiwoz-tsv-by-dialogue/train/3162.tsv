@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3162	0	USER	札幌への旅行を計画中のため、Wi-Fiが無料で利用できる観光名所を探してもらえますか？	general,attraction,shopping
+3162	1	SYSTEM	アシリベツの滝は、いかがですか？	general,attraction,shopping
+3162	2	USER	そこにしようと思います。エリアと住所を教えてください。	general,attraction,shopping
+3162	3	SYSTEM	エリアは、南区です。　住所は、北海道札幌市南区滝野247になります。	general,attraction,shopping
+3162	4	USER	ありがとうございます。あと中央区で駐車場が無料で利用できるジャンルがおもちゃのお店も探してもらえますか？	general,attraction,shopping
+3162	5	SYSTEM	ポケモンセンターサッポロはどうですか？	general,attraction,shopping
+3162	6	USER	ありがとうございます。住所と電話番号を教えてください。	general,attraction,shopping
+3162	7	SYSTEM	住所は、北海道札幌市中央区北5条西4丁目4-7 大丸札幌店 8Fで、電話番号は、0112323212です。	general,attraction,shopping
+3162	8	USER	ありがとうございます	general,attraction,shopping
+3162	9	SYSTEM	他にご用件はございますか？	general,attraction,shopping
+3162	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,shopping

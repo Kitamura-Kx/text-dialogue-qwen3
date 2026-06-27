@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4624	0	USER	すみません、大阪に旅行を計画している者です。鶴見区で、歴史的建造物がある観光名所がありますか？Wi-Fiが無料で使えるところにしてください。	general,attraction
+4624	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction
+4624	2	USER	では、ジャンルは考慮しなくて良いです。他の条件はそのままでお願いします。	general,attraction
+4624	3	SYSTEM	では咲くやこの花館はいかがですか。	general,attraction
+4624	4	USER	そちらにしたいと思います。営業時間はわかりますか？	general,attraction
+4624	5	SYSTEM	営業時間は10:00～17:00でございます。	general,attraction
+4624	6	USER	ご対応ありがとうございました。	general,attraction

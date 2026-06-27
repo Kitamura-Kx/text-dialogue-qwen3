@@ -1,0 +1,33 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1560	0	USER	すみません。名古屋へ行きたいのですが。	general,hotel,attraction,restaurant
+1560	1	SYSTEM	名古屋のご旅行ですね。本日はどのようなお手伝いをいたしましょうか？	general,hotel,attraction,restaurant
+1560	2	USER	アクセス・バイ・ロワジールホテル 名古屋という宿泊施設を探しています。	general,hotel,attraction,restaurant
+1560	3	SYSTEM	アクセス・バイ・ロワジールホテル 名古屋ですね。東区エリアに該当の施設がございます。どういった情報をお調べでしょうか？	general,hotel,attraction,restaurant
+1560	4	USER	宿泊の予約を希望していて。駐車場はありますか？	general,hotel,attraction,restaurant
+1560	5	SYSTEM	こちらの施設は、駐車場を併設しておりません。申し訳ありません。	general,hotel,attraction,restaurant
+1560	6	USER	わかりました。それでもかまいません。宿泊の予約をお願いします。	general,hotel,attraction,restaurant
+1560	7	SYSTEM	かしこまりました。ご宿泊予定の人数と日付、ご宿泊日数はお決まりでしょうか？	general,hotel,attraction,restaurant
+1560	8	USER	人数は2人です。日付は6/2で、2泊希望しています。	general,hotel,attraction,restaurant
+1560	9	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,hotel,attraction,restaurant
+1560	10	USER	では1泊では予約できますか？	general,hotel,attraction,restaurant
+1560	11	SYSTEM	ありがとうございます。1泊にて、ご予約完了いたしました。予約番号は、76414でございます。	general,hotel,attraction,restaurant
+1560	12	USER	ありがとうございます。	general,hotel,attraction,restaurant
+1560	13	SYSTEM	他にお調べすることはございますか？	general,hotel,attraction,restaurant
+1560	14	USER	では、無料Wi-Fiが使える観光名所はありますか？エリアは特に希望無いです。	general,hotel,attraction,restaurant
+1560	15	SYSTEM	そうしますと、6件ほどご案内可能です。例えば、名古屋市博物館というところはいかがでしょうか？	general,hotel,attraction,restaurant
+1560	16	USER	ありがとうございます。では、そちらにします。営業時間は何時から何時までですか？	general,hotel,attraction,restaurant
+1560	17	SYSTEM	9:30～17:00です。	general,hotel,attraction,restaurant
+1560	18	USER	ありがとうございます。	general,hotel,attraction,restaurant
+1560	19	SYSTEM	ほかにお知りになりたい情報はございますか？	general,hotel,attraction,restaurant
+1560	20	USER	では、左京山駅あたりでイタリアン・フレンチが食べれるレストランはありますか？できるだけ安めがいいです。	general,hotel,attraction,restaurant
+1560	21	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,hotel,attraction,restaurant
+1560	22	USER	そうですか。では、最寄り駅は左京山駅でなくてもよいので他にはありませんか？	general,hotel,attraction,restaurant
+1560	23	SYSTEM	そうしますと、2件ご案内可能です。たとえば、ヨコイ 住吉本店というお店が中区エリアにありますが、いかがでしょうか？	general,hotel,attraction,restaurant
+1560	24	USER	ありがとうございます。そちらはWi-Fiは使えますか？	general,hotel,attraction,restaurant
+1560	25	SYSTEM	申し訳ありません。こちらはWiFiの有無が不明となっております。	general,hotel,attraction,restaurant
+1560	26	USER	分かりました。営業時間を教えてください。	general,hotel,attraction,restaurant
+1560	27	SYSTEM	営業時間は、11:00～15:00と17:00～21:00の2部に分かれております。	general,hotel,attraction,restaurant
+1560	28	USER	わかりました。ありがとうございます。	general,hotel,attraction,restaurant
+1560	29	SYSTEM	他にお調べすることはございますか？	general,hotel,attraction,restaurant
+1560	30	USER	特にないです。ありがとうございました。	general,hotel,attraction,restaurant
+1560	31	SYSTEM	承知しました。こちらこそ、本日はご利用ありがとうございました。	general,hotel,attraction,restaurant

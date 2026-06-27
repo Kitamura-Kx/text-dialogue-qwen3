@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+836	0	USER	札幌で買い物できる商店街を探していまして。中央区にそういう場所ってありますか？	general,shopping
+836	1	SYSTEM	はい。札幌市中央卸売市場 場外市場がございますが、いかがでしょうか。	general,shopping
+836	2	USER	いいですね。ちなみに駐車場は無料ですか？	general,shopping
+836	3	SYSTEM	無料の駐車場がございます。	general,shopping
+836	4	USER	それは助かります。そちらの電話番号と最寄り駅からの所要時間も教えてください。	general,shopping
+836	5	SYSTEM	電話番号は0116217044でございます。二十四軒駅から徒歩で7分で桑園駅から徒歩で9分でございます。	general,shopping
+836	6	USER	ちなみに、定休日はありますか？	general,shopping
+836	7	SYSTEM	定休日はございません。	general,shopping
+836	8	USER	それはよかったでう。ありがとうございます！助かりました。	general,shopping

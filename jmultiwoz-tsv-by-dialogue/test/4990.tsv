@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4990	0	USER	名古屋に行きたいと考えています。Wi-Fiが無料の観光名所を調べてくれますか？	general,attraction
+4990	1	SYSTEM	承知しました。名古屋市東山動植物園はいかがでしょうか？	general,attraction
+4990	2	USER	そこに行くことにします。近辺の駅からの所要時間と、営業時間に、駐車場があるかどうかはわかりますか？	general,attraction
+4990	3	SYSTEM	名古屋市東山動植物園は東山公園駅から徒歩で3分、星ヶ丘駅から徒歩で7分です。営業時間は09:00～16:50です。駐車場は有料のものがあります。	general,attraction
+4990	4	USER	わかりました。ありがとうございます。	general,attraction

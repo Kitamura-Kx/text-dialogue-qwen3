@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4958	0	USER	京都へ旅行予定なのですが、医薬品・化粧品が買える最寄りが嵐山駅の店はありますか？	general,shopping,weather,taxi
+4958	1	SYSTEM	申し訳ありません、その条件ではお探しすることが出来ませんでした。	general,shopping,weather,taxi
+4958	2	USER	そうですか。では医薬品・化粧品に限定しません。	general,shopping,weather,taxi
+4958	3	SYSTEM	かしこまりました。それでは、京都オルゴール堂 嵐山店がございます。	general,shopping,weather,taxi
+4958	4	USER	なるほど、ちなみに7/7の下京区の最高気温と最低気温ってどうなっています？	general,shopping,weather,taxi
+4958	5	SYSTEM	お待たせ致しました。当日の下京区の最高気温は31.1度、最低気温は23.2度の予報でございます。	general,shopping,weather,taxi
+4958	6	USER	ありがとうございます。あと、当日ギオン自動車株式会社というところを利用したいのですが、ありますか？	general,shopping,weather,taxi
+4958	7	SYSTEM	はい、ございます。	general,shopping,weather,taxi
+4958	8	USER	では、そこの電話番号とキャッシュレスが使えるかの情報を教えてください。	general,shopping,weather,taxi
+4958	9	SYSTEM	かしこまりました。電話番号は0757216868、キャッシュレスへの対応は不明です。	general,shopping,weather,taxi
+4958	10	USER	なるほど。予約もお願いできますか？7/7の14:40に祇園新橋 中谷から京都オルゴール堂 嵐山店までなんですけど。	general,shopping,weather,taxi
+4958	11	SYSTEM	お待たせ致しました。予約番号64470でお取りさせていただきました。	general,shopping,weather,taxi
+4958	12	USER	了解です。もう大丈夫です、ありがとうございました。	general,shopping,weather,taxi
+4958	13	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,weather,taxi

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4293	0	USER	大阪へ旅行に行くので、泊まるところを探しています。天王寺区でレストランが併設されているところはないですか？予算は普通です。	general,hotel,taxi
+4293	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,taxi
+4293	2	USER	では、予算は安めのところで探せますか？	general,hotel,taxi
+4293	3	SYSTEM	では和空 下寺町がございます。	general,hotel,taxi
+4293	4	USER	そこの宿泊施設のタイプは？	general,hotel,taxi
+4293	5	SYSTEM	タイプは旅館でございます。	general,hotel,taxi
+4293	6	USER	わかりました。次に、キャッシュレス払いができるタクシー会社を探してください。	general,hotel,taxi
+4293	7	SYSTEM	申し訳ございません。キャッシュレスに対応している会社がございません。	general,hotel,taxi
+4293	8	USER	そうですか。ではキャッシュレスに対応していなくてもいいです。	general,hotel,taxi
+4293	9	SYSTEM	では関西空港リムジン株式会社がございます。こちらジャンボタクシーには対応しております。電話番号は0570072525でございます。	general,hotel,taxi
+4293	10	USER	ありがとうございます。2月22日の14時30分に予約を入れたいのですが。	general,hotel,taxi
+4293	11	SYSTEM	かしこまりました。予約の詳細をお聞かせいただけますか。	general,hotel,taxi
+4293	12	USER	出発地は串揚げ 春夏秋冬で、目的地は和空 下寺町です。	general,hotel,taxi
+4293	13	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,taxi
+4293	14	USER	じゃあ、15時30分ではどうですか？	general,hotel,taxi
+4293	15	SYSTEM	その時間ですと予約が可能でございました。予約番号は51024でございます。	general,hotel,taxi
+4293	16	USER	予約ありがとうございました。	general,hotel,taxi
+4293	17	SYSTEM	ほかにご用件はございませんか。	general,hotel,taxi
+4293	18	USER	いえ、大丈夫です。ありがとうございます。	general,hotel,taxi
+4293	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi

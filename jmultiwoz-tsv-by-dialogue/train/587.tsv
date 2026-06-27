@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+587	0	USER	こんにちは！横浜へ旅行に行きたいんですが、宿泊施設を調べてもらえますか？	general,hotel,weather,taxi
+587	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございませんか？	general,hotel,weather,taxi
+587	2	USER	レストランが併設されていて、駐車場が無料のところがいいです！	general,hotel,weather,taxi
+587	3	SYSTEM	そうしますと、2件ほどご案内可能です。たとえば、ホテル パセラの森 横浜関内はいかがでしょうか？	general,hotel,weather,taxi
+587	4	USER	いいですね！7/28の天候を調べてもらえますか？都筑区というところです。	general,hotel,weather,taxi
+587	5	SYSTEM	かしこまりました。7/28の都筑区の天気は雨の予報となっております。最低気温は20.6度、最高気温は27.7度となる予想です。	general,hotel,weather,taxi
+587	6	USER	ありがとうございます。ジャンボタクシーを利用したいんですが、キャッシュレス払いができるタクシー会社はありますかね？	general,hotel,weather,taxi
+587	7	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,hotel,weather,taxi
+587	8	USER	ではキャッシュレス払いはなくても大丈夫です。	general,hotel,weather,taxi
+587	9	SYSTEM	では、瀬谷交通有限会社はいかがでしょうか？電話番号は、0453601144です。	general,hotel,weather,taxi
+587	10	USER	そこで予約をお願いします。7/28の14:40にホテル パセラの森 横浜を出発して、Cosme Kitchen ルミネ横浜まで向かいたいです。	general,hotel,weather,taxi
+587	11	SYSTEM	ご予約ありがとうございます。予約完了いたしました。予約番号は、95585でございます。	general,hotel,weather,taxi
+587	12	USER	お手数おかけしました。ありがとうございます。	general,hotel,weather,taxi
+587	13	SYSTEM	ほかにお調べすることはございますか？	general,hotel,weather,taxi
+587	14	USER	大丈夫です。ありがとうございました。	general,hotel,weather,taxi
+587	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,weather,taxi

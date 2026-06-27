@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+935	0	USER	こんばんは、福岡に旅行に行きたいんです。泊まるところを探してもらいたいのですが、可能でしょうか？	general,hotel
+935	1	SYSTEM	EUROPEAN HOUSE REISEN　は、いかがでしょうか？	general,hotel
+935	2	USER	予算は高めでもいいので、Wi-Fiが無料で使えるところがいいのですが、こちらは該当するのでしょうか？	general,hotel
+935	3	SYSTEM	こちらのホテルは、予算は安めですが、無料でWi-Fi利用が可能になっています。	general,hotel
+935	4	USER	そうですか。それでは、申し訳ないのですが、Wi-Fiが無料で使える予算が高めの場所でお調べ頂けますか？	general,hotel
+935	5	SYSTEM	予算が高めですと、グランド ハイアット 福岡はいかがでしょうか？　無料でWi-Fi利用も可能です。	general,hotel
+935	6	USER	お調べ下さりありがとうございます。グランド ハイアット 福岡さんはどちらのエリアにあるのでしょうか	general,hotel
+935	7	SYSTEM	こちらのホテルのエリアは、博多区です。	general,hotel
+935	8	USER	わかりました。では、ご紹介下さったグランド ハイアット 福岡で予約をお願いします。6/4から4泊、3人で利用します。	general,hotel
+935	9	SYSTEM	予約が完了しました。　予約番号は、52646です。	general,hotel
+935	10	USER	わかりました。お手配して下さりありがとうございました！	general,hotel

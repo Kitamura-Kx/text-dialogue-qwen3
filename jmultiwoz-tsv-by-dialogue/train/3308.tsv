@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3308	0	USER	こんにちは。名古屋へ行くのですが、Wi-Fiと駐車場が無料で使えて、レストランが併設されている、宿泊施設はありますか？	general,hotel,shopping
+3308	1	SYSTEM	名古屋でWiFiと駐車場が無料、レストラン併設の宿泊施設はいくつかありますが、プチホテル ニューひふみをおすすめします。	general,hotel,shopping
+3308	2	USER	そこにします。エリアはどこになりますか？	general,hotel,shopping
+3308	3	SYSTEM	中川区です。	general,hotel,shopping
+3308	4	USER	ありがとうございます。ではそのホテルで、人数は2人、日付は6/19、宿泊日数は3泊で、予約をお願いします。	general,hotel,shopping
+3308	5	SYSTEM	予約成功しました。予約番号は72563です。	general,hotel,shopping
+3308	6	USER	ありがとうございます。当日はアスナル金山というところで買い物をするつもりなのですが、そこの最寄り駅と営業時間、電話番号はわかりますか？	general,hotel,shopping
+3308	7	SYSTEM	最寄りは金山駅、営業時間は朝１０時から夜の９時まで、電話番号は0523248577になります。	general,hotel,shopping
+3308	8	USER	ありがとうございました。	general,hotel,shopping
+3308	9	SYSTEM	よい旅を	general,hotel,shopping

@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1995	0	USER	京都への旅行を計画しているのですが。 当日食事ができる飲食店を探してください．予算は安めが希望で駐車場を無料で利用できるところがいいです。	general,restaurant
+1995	1	SYSTEM	海雲亭 洛西店はいかがでしょうか。	general,restaurant
+1995	2	USER	そちらのジャンルとエリアを教えていただけますか。	general,restaurant
+1995	3	SYSTEM	ジャンルは焼肉・ホルモンでエリアは西京区です。	general,restaurant
+1995	4	USER	ありがとうございます。	general,restaurant

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1130	0	USER	仙台への旅行を考えています。当日訪れる観光名所で駐車場が無料でジャンルは展望台・タワーのところを教えてください。	general,attraction,weather
+1130	1	SYSTEM	申し訳ありません。その条件ではご案内できないのですが、いかが致しましょう？	general,attraction,weather
+1130	2	USER	それでしたら、ジャンルは諦めます。	general,attraction,weather
+1130	3	SYSTEM	申し訳ありません。では、エリアでいうと若林区にある、南小泉交通公園はいかがでしょう？何か必要なご案内はございますか？	general,attraction,weather
+1130	4	USER	そこが良さそうですね。	general,attraction,weather
+1130	5	SYSTEM	他にご用件はございますか？	general,attraction,weather
+1130	6	USER	当日11/8の泉区の最高気温と天気を教えてください。	general,attraction,weather
+1130	7	SYSTEM	はい、天気は曇、最低気温5.7度、最高気温14度となります。他にご案内できることはございますか？	general,attraction,weather
+1130	8	USER	大丈夫です。ありがとうございました。	general,attraction,weather
+1130	9	SYSTEM	ありがとうございました。	general,attraction,weather

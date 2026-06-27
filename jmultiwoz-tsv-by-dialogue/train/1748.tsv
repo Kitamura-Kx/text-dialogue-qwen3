@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1748	0	USER	横浜に旅行に行こうと思っています。	general,attraction,taxi
+1748	1	SYSTEM	はい、横浜は人気ですよね	general,attraction,taxi
+1748	2	USER	科学館に観光で行きたいのですが、駐車場を無料で使えるようなところはありますか？	general,attraction,taxi
+1748	3	SYSTEM	それならば横浜ブリキのおもちゃ博物館がオススメです。	general,attraction,taxi
+1748	4	USER	こちらの施設って、子供の入場料はかかりますか？	general,attraction,taxi
+1748	5	SYSTEM	子供は入場料１００円、他障害者割引もあります。	general,attraction,taxi
+1748	6	USER	わかりました。あと、その他の料金に関する情報ってわかりますか？	general,attraction,taxi
+1748	7	SYSTEM	大人は２００円、子供は正確に言うと小中学生が１００円で、障害者手帳をお持ちの方は50円引き・同伴者も同様となっております。	general,attraction,taxi
+1748	8	USER	とても丁寧に教えて下さりありがとうございます。あと、横浜で金港交通株式会社 港南台営業所という会社のタクシーに乗りたいんです。	general,attraction,taxi
+1748	9	SYSTEM	はい、金港交通株式会社 港南台営業所ですね。いつ、何時くらいに、どこからどこまで手配しましょうか	general,attraction,taxi
+1748	10	USER	あ、予約の前に１つ確認をしたいのですが、こちらの会社ってキャッシュレス決済はできるんですかね？	general,attraction,taxi
+1748	11	SYSTEM	キャッシュレスは対応しているか不明ですね。	general,attraction,taxi
+1748	12	USER	なるほど、ありがとうございます。では改めてこちらの会社で予約をお願いします。7/4の12:30、焼肉キングコングを出発して横浜ブリキのおもちゃ博物館までお願いします。	general,attraction,taxi
+1748	13	SYSTEM	その時間だと予約できなさそうです。少し条件を変更していただけないでしょうか	general,attraction,taxi
+1748	14	USER	わかりました。じゃあ時間を13時10分に遅らせるとどうでしょうか？	general,attraction,taxi
+1748	15	SYSTEM	その時間なら予約できました。予約番号は62559です。	general,attraction,taxi
+1748	16	USER	手配して下さってありがとうございました。とても助かりました。	general,attraction,taxi

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4443	0	USER	那覇に旅行に行こうと思っています。最寄り駅がおもろまち駅で買い物ができるお店を探してください。駐車場が無料で利用できるところでお願いします。	general,shopping,hotel
+4443	1	SYSTEM	かしこまりました。それでしたら、トイザらス・ベビーザらス 那覇新都心店はいかがでしょうか？	general,shopping,hotel
+4443	2	USER	ありがとうございます。そのお店は駅からどのくらいかかりますか。	general,shopping,hotel
+4443	3	SYSTEM	おもろまち駅から徒歩で10分でございます。	general,shopping,hotel
+4443	4	USER	ありがとうございます。あと、宿泊施設を予約したいです。Wi-Fiが無料で利用できるのとレストランが併設されている場所でお願いします。	general,shopping,hotel
+4443	5	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping,hotel
+4443	6	USER	では、Wi-Fiはなくても大丈夫です。	general,shopping,hotel
+4443	7	SYSTEM	かしこまりました。それではダブルツリーbyヒルトン那覇はいかがでしょうか？	general,shopping,hotel
+4443	8	USER	ありがとうございます。そのホテルの電話番号と料金情報と駐車場があるかについて教えてください。	general,shopping,hotel
+4443	9	SYSTEM	はい。電話番号は0988620123、値段帯は安めですが、料金情報は分かりません。駐車場は有料ですがございます。	general,shopping,hotel
+4443	10	USER	ありがとうございます。それでは予約をお願いします。8/19に2人で3泊です。	general,shopping,hotel
+4443	11	SYSTEM	お待たせ致しました。予約番号34195でお取りさせていただきました。	general,shopping,hotel
+4443	12	USER	ありがとうございます。これで大丈夫です。	general,shopping,hotel
+4443	13	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,hotel

@@ -1,0 +1,33 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+96	0	USER	こんにちは！ 大阪旅行を考えているのですが、案内をお願いしてもよろしいですか？	general,shopping,attraction,hotel
+96	1	SYSTEM	こんにちは。大阪旅行のご案内ですね。何なりとお申し付けくださいませ。	general,shopping,attraction,hotel
+96	2	USER	それでは、当日に買い物ができるところの検索をお願いします！ 無料で駐車場が使えるショッピングモールは、どこか良い所はありますか？	general,shopping,attraction,hotel
+96	3	SYSTEM	大阪のショッピングモールで、無料駐車場をご利用いただけるお店は、4店舗ございます。店名を読み上げてもよろしいでしょうか？	general,shopping,attraction,hotel
+96	4	USER	わかりました。お願いします！	general,shopping,attraction,hotel
+96	5	SYSTEM	かしこまりました。ルクア大阪、天王寺MIO、もりのみやキューズモールBASE、あべのキューズモールの4店舗です。気になる場所はございましたか？	general,shopping,attraction,hotel
+96	6	USER	それでは、もりのみやキューズモールBASEの案内をお願いします。あ、こちらは店舗名で合っていますか？	general,shopping,attraction,hotel
+96	7	SYSTEM	はい、お間違えございません。中央区にある、もりのみやキューズモールBASEという名前のショッピングモールです。	general,shopping,attraction,hotel
+96	8	USER	なるほど！承知いたしました。 では、こちらの住所と電話番号についても教えていただけますか？	general,shopping,attraction,hotel
+96	9	SYSTEM	かしこまりました。まず住所ですが、大阪府大阪市中央区森ノ宮中央2丁目1-70にございます。電話番号は、0669411090です。	general,shopping,attraction,hotel
+96	10	USER	ありがとうございます！ あと、当日に行く観光名所についても探しているのですが、浪速区のWiFiが無料で利用できるところはありますか？	general,shopping,attraction,hotel
+96	11	SYSTEM	はい、3ヶ所ございます。なんばパークス、スパワールド世界の大温泉、通天閣です。	general,shopping,attraction,hotel
+96	12	USER	そうなんですね。それでは、スポーツ・フィットネスのジャンルで探していただけますか？	general,shopping,attraction,hotel
+96	13	SYSTEM	かしこまりました。スポーツ・フィットネスのジャンルに絞りますと、スパワールド世界の大温泉の1ヶ所になります。	general,shopping,attraction,hotel
+96	14	USER	わかりました。 それでは、そちらの観光地について伺いたいのですが、スパワールド世界の大温泉が名称ということでよろしいですか？	general,shopping,attraction,hotel
+96	15	SYSTEM	はい、左様でございます。スパワールド世界の大温泉について、他にも何か、お知りになりたいことはございますでしょうか？	general,shopping,attraction,hotel
+96	16	USER	はい、あとは最寄り駅と大人入場料についても、教えていただけますでしょうか。	general,shopping,attraction,hotel
+96	17	SYSTEM	かしこまりました。最寄り駅は動物園前駅で、歩いて1分の距離です。大人入場料は1500円です。	general,shopping,attraction,hotel
+96	18	USER	ありがとうございます！ あと、もう一つあるのですが、WiFiが無料で使える宿泊施設についてもお探しいただけますでしょうか？	general,shopping,attraction,hotel
+96	19	SYSTEM	宿泊施設でございますね。無料WiFiがご利用いただける施設は、90件以上がございますが、ほかにもご希望の条件等はありますでしょうか？	general,shopping,attraction,hotel
+96	20	USER	そうなんですね。他の希望は特にないのですが、どこかご紹介いただけますか？	general,shopping,attraction,hotel
+96	21	SYSTEM	はい、かしこまりました。そういたしましたら、ホテルザグランデ心斎橋なんば、というところはいかがでしょうか？	general,shopping,attraction,hotel
+96	22	USER	それでは、ホテルザグランデ心斎橋なんばのご案内をお願いします。住所はどちらになりますか？	general,shopping,attraction,hotel
+96	23	SYSTEM	はい、ホテルザグランデ心斎橋なんばの住所は、大阪府大阪市中央区東心斎橋1丁目6-28です。最寄りの駅は長堀橋駅で、歩いて4分の距離ですよ。	general,shopping,attraction,hotel
+96	24	USER	そうなんですね！色々お調べいただき、ありがとうございます。 では、そちらを予約したいのですが、10月7日に、3人で、3泊の予約をお願いできますでしょうか？	general,shopping,attraction,hotel
+96	25	SYSTEM	かしこまりました。3名様で10月7日より3泊、ホテルザグランデ心斎橋なんばにてご予約を承りました。予約番号を申し上げてよろしいですか？	general,shopping,attraction,hotel
+96	26	USER	はい！お願いします。	general,shopping,attraction,hotel
+96	27	SYSTEM	予約番号は、55455となります。よろしくお願いします。	general,shopping,attraction,hotel
+96	28	USER	ありがとうございます。書きとめました。	general,shopping,attraction,hotel
+96	29	SYSTEM	ありがとうございます。ほかには、ご不明な点やお調べすることなど、ございましたでしょうか？	general,shopping,attraction,hotel
+96	30	USER	大丈夫です！色々ご対応いただき、助かりました。ありがとうございました。	general,shopping,attraction,hotel
+96	31	SYSTEM	こちらこそ、ご予約いただき、誠にありがとうございました。また何かございましたら、お気軽にお問い合わせくださいませ。	general,shopping,attraction,hotel

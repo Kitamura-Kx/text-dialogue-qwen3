@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4319	0	USER	京都に旅行します！駐車場が無料で利用出来て、安めの焼肉とかホルモンのお店はありますか？	general,restaurant,hotel,shopping
+4319	1	SYSTEM	はい、でしたら海雲亭 洛西店がございます。	general,restaurant,hotel,shopping
+4319	2	USER	住所はどこですか？	general,restaurant,hotel,shopping
+4319	3	SYSTEM	京都府京都市西京区御陵谷町43-1でございます。	general,restaurant,hotel,shopping
+4319	4	USER	では2/7に二名で13:40で予約をお願いします	general,restaurant,hotel,shopping
+4319	5	SYSTEM	申し訳ございません。その条件では予約することが出来ませんでした。	general,restaurant,hotel,shopping
+4319	6	USER	1名だとどうでしょう？	general,restaurant,hotel,shopping
+4319	7	SYSTEM	お待たせ致しました。予約番号29105でお取りさせていただきました。	general,restaurant,hotel,shopping
+4319	8	USER	ありがとうございます。あと山科区で旅館を探しています	general,restaurant,hotel,shopping
+4319	9	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant,hotel,shopping
+4319	10	USER	では地区は考慮しなくてOKです	general,restaurant,hotel,shopping
+4319	11	SYSTEM	かしこまりました。それでは松本旅館はいかがでしょうか？	general,restaurant,hotel,shopping
+4319	12	USER	値段帯はわかりますか？	general,restaurant,hotel,shopping
+4319	13	SYSTEM	はい、安めでございます。	general,restaurant,hotel,shopping
+4319	14	USER	了解です。あとスポーツ用品のお店はありますか？	general,restaurant,hotel,shopping
+4319	15	SYSTEM	はい、モンベル 京都店はいかがでしょうか？	general,restaurant,hotel,shopping
+4319	16	USER	電話番号を教えてください	general,restaurant,hotel,shopping
+4319	17	SYSTEM	0752234568でございます。	general,restaurant,hotel,shopping
+4319	18	USER	了解です。いろいろとありがとうございました	general,restaurant,hotel,shopping
+4319	19	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,hotel,shopping

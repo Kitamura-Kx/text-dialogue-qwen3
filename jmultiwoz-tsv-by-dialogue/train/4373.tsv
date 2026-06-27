@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4373	0	USER	大阪へ旅行する際に、利用できる飲食店を探しています。Wi-Fiが無料で利用できるところで予算は安めがいいです。	general,restaurant
+4373	1	SYSTEM	そういたしますと、焼肉工房 花ごよみという、焼肉・ホルモンのお店はいかがでしょうか？	general,restaurant
+4373	2	USER	ありがとうございます。そこにします。電話番号を教えていただけますか？	general,restaurant
+4373	3	SYSTEM	はい、電話番号は、0662148941です。	general,restaurant
+4373	4	USER	ありがとうございます。予約もお願いします。1/24の9時30分から2人でお願いします。	general,restaurant
+4373	5	SYSTEM	かしこまりました。恐れ入ります、お時間は夜ではなく、朝の9時半でよろしかったでしょうか？	general,restaurant
+4373	6	USER	朝でお願いします。	general,restaurant
+4373	7	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,restaurant
+4373	8	USER	では10時20分であれば予約できますか？	general,restaurant
+4373	9	SYSTEM	ありがとうございます。10時20分にて、ご予約完了いたしました。予約番号は、20994です。	general,restaurant
+4373	10	USER	ありがとうございます。	general,restaurant
+4373	11	SYSTEM	他にお手伝いすることはございませんか？	general,restaurant
+4373	12	USER	はい、大丈夫です。ありがとうございました。	general,restaurant
+4373	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

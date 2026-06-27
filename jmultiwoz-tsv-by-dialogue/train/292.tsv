@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+292	0	USER	こんにちは。仙台に行く予定をしています。仙台でお買い物できる場所を教えてもらえませんか？	general,shopping
+292	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping
+292	2	USER	若林区で駐車場無料のお店でお願いします。	general,shopping
+292	3	SYSTEM	では鐘崎 かまぼこの国 笹かま館はいかがですか。	general,shopping
+292	4	USER	こちらは定休日はありますか？	general,shopping
+292	5	SYSTEM	定休日は無しでございます。	general,shopping
+292	6	USER	こちらのお店ってどういったお店なのですか？	general,shopping
+292	7	SYSTEM	ジャンルはお土産, 食料品となっております。	general,shopping
+292	8	USER	わかりました！お探ししてくださってありがとうございました！	general,shopping

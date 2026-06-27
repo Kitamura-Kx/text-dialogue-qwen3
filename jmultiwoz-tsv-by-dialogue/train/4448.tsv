@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4448	0	USER	大阪に旅行に行こうと思っています。アウトレットモールで買い物がしたいです。駐車場は無料のところでお願いします。	general,shopping,attraction
+4448	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping,attraction
+4448	2	USER	ではアウトレットモールではなくて、文房具や雑貨が買えるお店にしてはどうでしょうか。	general,shopping,attraction
+4448	3	SYSTEM	その条件でしたら、アカチャンホンポ あべのイトーヨーカドー店がございます。	general,shopping,attraction
+4448	4	USER	そのお店の住所を教えてください。	general,shopping,attraction
+4448	5	SYSTEM	大阪府大阪市阿倍野区阿倍野筋1丁目6-1でございます。	general,shopping,attraction
+4448	6	USER	ありがとうございます。あと、フェリーに乗りたいと思っています。駐車場は無料で利用できるところでお願いします。	general,shopping,attraction
+4448	7	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping,attraction
+4448	8	USER	すみません。ではフェリーをやめて、神社・寺院・教会・モニュメントなどの観光名所でお願いします。	general,shopping,attraction
+4448	9	SYSTEM	かしこまりました。では大阪天満宮がございます。	general,shopping,attraction
+4448	10	USER	営業時間を教えてください。	general,shopping,attraction
+4448	11	SYSTEM	はい、0時から0時までの24時間営業でございます。	general,shopping,attraction
+4448	12	USER	ありがとうございます。これで大丈夫です。	general,shopping,attraction
+4448	13	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,attraction

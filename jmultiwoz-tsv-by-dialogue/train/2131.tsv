@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2131	0	USER	大阪旅行で当日買い物できるお店を教えていただけますでしょうか。	general,shopping,taxi
+2131	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,shopping,taxi
+2131	2	USER	駐車場を無料で利用できるショッピングモールを探しています。	general,shopping,taxi
+2131	3	SYSTEM	かしこまりました。では、あべのキューズモールはいかがでしょうか？	general,shopping,taxi
+2131	4	USER	ではそちらに伺いたいと思います。近辺の駅からの所要時間と最寄り駅を教えていただけますでしょうか。	general,shopping,taxi
+2131	5	SYSTEM	はい。最寄り駅は阿倍野駅です。近辺の駅からの所要時間としましては、阿倍野駅から徒歩で1分、天王寺駅と天王寺駅前駅から徒歩で2分となります。また、大阪阿部野橋駅から徒歩で3分と記載があります。	general,shopping,taxi
+2131	6	USER	ありがとうございます。ついでに、ジャンボタクシーを利用できるタクシー会社も探して頂けないでしょうか。	general,shopping,taxi
+2131	7	SYSTEM	かしこまりました。では、南タクシー株式会社はいかがでしょうか？	general,shopping,taxi
+2131	8	USER	ではそちらでお願いします。電話番号も情報をいただけますでしょうか。	general,shopping,taxi
+2131	9	SYSTEM	はい。電話番号は0667121331になります。	general,shopping,taxi
+2131	10	USER	4/10の11:50から、出発地は造幣博物館、目的地はあべのキューズモールで予約をお願いしたいのですが、空いていますか？	general,shopping,taxi
+2131	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、20756です。	general,shopping,taxi
+2131	12	USER	ありがとうございました。	general,shopping,taxi

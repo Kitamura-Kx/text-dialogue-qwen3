@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1278	0	USER	那覇に行こうと思っているのですが、駐車場が無料のレストランはないですか。値段は普通くらいで。	general,restaurant,taxi,weather
+1278	1	SYSTEM	かしこまりました。では、しゃぶしゃぶ 焼肉 杏はいかがでしょうか？ジャンルは、焼肉・ホルモン, 和食となります。	general,restaurant,taxi,weather
+1278	2	USER	いいですね。最寄駅からどれくらいのところにありますか。	general,restaurant,taxi,weather
+1278	3	SYSTEM	最寄りの美栄橋駅から徒歩で8分ほどの場所にございます。	general,restaurant,taxi,weather
+1278	4	USER	ありがとうございます。3名で予約お願いします。日付は7/25時間は14:00です。	general,restaurant,taxi,weather
+1278	5	SYSTEM	ご予約ありがとうございます。予約番号80151にて、ご予約完了いたしました。	general,restaurant,taxi,weather
+1278	6	USER	ありがとうございます。あとタクシーを使いたいので、ジャンボタクシーがあるキャッシュレス支払いができるタクシー会社を探してください。	general,restaurant,taxi,weather
+1278	7	SYSTEM	かしこまりました。では、三和交通はいかがでしょうか？	general,restaurant,taxi,weather
+1278	8	USER	ありがとうございます。電話番号を教えてください。	general,restaurant,taxi,weather
+1278	9	SYSTEM	電話番号は、0120100084でございます。	general,restaurant,taxi,weather
+1278	10	USER	ありがとうございます。そうしたら予約をお願いします。7/25　12:40に沖縄ホテルコンチネンタルからしゃぶしゃぶ 焼肉 杏まで。	general,restaurant,taxi,weather
+1278	11	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。予約番号は26291です。	general,restaurant,taxi,weather
+1278	12	USER	ありがとうございます。7/25の小禄の天気はいいですかね？	general,restaurant,taxi,weather
+1278	13	SYSTEM	当日の天気は晴れの予報です。最低気温は24.2度、最高気温は、34.5度の予想となっております。	general,restaurant,taxi,weather
+1278	14	USER	暑そうですね。ありがとうございました。聞きたいことは以上です。	general,restaurant,taxi,weather
+1278	15	SYSTEM	承知いたしました。もし他にご質問がないようでしたら、これで失礼いたします。本日はご利用ありがとうございました。	general,restaurant,taxi,weather

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2002	0	USER	東京への旅行を計画しているのですが、 当日泊まる宿泊施設を探してください．予算は普通が希望でWi-Fiと駐車場を無料で利用できるところがいいです。	general,hotel
+2002	1	SYSTEM	帝国ホテル東京はいかがでしょうか。	general,hotel
+2002	2	USER	そちらの住所、電話番号を教えていただけますか。	general,hotel
+2002	3	SYSTEM	住所は東京都千代田区内幸町1丁目1-1で電話番号 0335041111になります。	general,hotel
+2002	4	USER	ありがとうございます。そちらで人数は4人、日付は3/10で宿泊日数は2泊で予約していただけますか。	general,hotel
+2002	5	SYSTEM	予約完了いたしました。予約番号は44860になります。	general,hotel
+2002	6	USER	ありがとうございます。	general,hotel

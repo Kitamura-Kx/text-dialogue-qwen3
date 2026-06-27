@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1997	0	USER	札幌への旅行を計画しています． 当日買い物ができるところを探してください．駐車場を無料で利用できるところがいいです。	general,shopping
+1997	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping
+1997	2	USER	でしたら駐車場はどちらでもいいです。	general,shopping
+1997	3	SYSTEM	六花亭 札幌本店はいかがでしょうか。	general,shopping
+1997	4	USER	そちらの営業時間がしりたいです。	general,shopping
+1997	5	SYSTEM	営業時間は10:00～17:30です。	general,shopping
+1997	6	USER	ありがとうございます。	general,shopping

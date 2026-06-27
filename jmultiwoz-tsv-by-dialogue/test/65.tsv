@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+65	0	USER	那覇に旅行に行くんですが、ホテルエアウェイというところが良かったと聞いたんですけど、分かりますか？	general,hotel,taxi
+65	1	SYSTEM	那覇のホテルエアウェイですね。1件該当がございました。どういった情報をお伝えいたしましょうか？	general,hotel,taxi
+65	2	USER	見つかりましたか、よかったです。チェックイン開始は何時でしょうか？	general,hotel,taxi
+65	3	SYSTEM	はい。チェックインの開始は、14時となっております。	general,hotel,taxi
+65	4	USER	けっこう早いんですね。えっと3月21日から4泊で予約できますか？　4人なんですけど。	general,hotel,taxi
+65	5	SYSTEM	3月21日から4泊、4名様で確認いたしましたが、予約をお取りできませんでした。誠に申し訳ございません。	general,hotel,taxi
+65	6	USER	ありゃあ、どうしよっかな？　3人だったら取れますか？	general,hotel,taxi
+65	7	SYSTEM	ありがとうございます。3名様で、3月21日から4泊のご予約が完了いたしました。予約番号をお伝えしてもよろしいですか？	general,hotel,taxi
+65	8	USER	お願いします。	general,hotel,taxi
+65	9	SYSTEM	はい。予約番号は、47284です。お手元にお控えくださいませ。	general,hotel,taxi
+65	10	USER	合わせてタクシーの手配もお願いしたいんですけど、キャッシュレス払いができてジャンボタクシーが使えるところを紹介してください。	general,hotel,taxi
+65	11	SYSTEM	かしこまりました。那覇には、キャッシュレスとジャンボタクシーの両方に対応しているタクシー会社は、7件ほどございます。	general,hotel,taxi
+65	12	USER	どこでもいいんで、その中から一つ会社名を教えてください。	general,hotel,taxi
+65	13	SYSTEM	では、沖縄第一交通株式会社は如何でしょうか？	general,hotel,taxi
+65	14	USER	それでいいです。3月21日の11時30分にホテルエアウェイを出て、第一牧志公設市場まで予約したいんですけど。	general,hotel,taxi
+65	15	SYSTEM	申し訳ございません。その日時で、ホテルエアウェイから第一牧志公設市場の場合、ご予約をお取りできませんでした。	general,hotel,taxi
+65	16	USER	じゃあ、出発時間を12時にします。それならどうですか？	general,hotel,taxi
+65	17	SYSTEM	ありがとうございます。3月21日の12時発、テルエアウェイから第一牧志公設市場でご予約を承りました。予約番号は、62917です。	general,hotel,taxi
+65	18	USER	助かりました。お世話様でした。	general,hotel,taxi
+65	19	SYSTEM	お役に立てて良かったです。他にはご不明な点やお調べすることはございませんか？	general,hotel,taxi
+65	20	USER	いえ、これで十分です。お世話様でした。	general,hotel,taxi

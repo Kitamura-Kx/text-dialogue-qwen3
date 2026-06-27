@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3824	0	USER	名古屋のとだがわこどもランドへ旅行をするのですが、そちらはWi-Fiは利用できますか？	general,attraction,shopping
+3824	1	SYSTEM	申し訳ありません、こちらの施設はWi-Fi利用につきましては、不明となっています。	general,attraction,shopping
+3824	2	USER	わかりました。アスナル金山で買い物をする予定なのですが、そちらの電話番号と最寄駅からの所要時間を調べてください。	general,attraction,shopping
+3824	3	SYSTEM	電話番号は、0523248577です。　所要時間は、金山駅から徒歩で1分となっています。	general,attraction,shopping
+3824	4	USER	わかりました。ありがとうございます。	general,attraction,shopping
+3824	5	SYSTEM	他にご用件はございますか？	general,attraction,shopping
+3824	6	USER	特にありません。ありがとうございました。	general,attraction,shopping
+3824	7	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping

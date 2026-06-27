@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1554	0	USER	仙台へ旅行を計画しているんですが。	general,restaurant,shopping
+1554	1	SYSTEM	仙台のご旅行ですね。本日はどのようなお手伝いをいたしましょうか？	general,restaurant,shopping
+1554	2	USER	当日に食事ができる飲食店を探していただきたいです。	general,restaurant,shopping
+1554	3	SYSTEM	かしこまりました。お食事のジャンルやエリアなど、何かご希望はございますか？	general,restaurant,shopping
+1554	4	USER	特にジャンルの希望はありません。ただ、予算は普通くらいでエリアは太白区がよいです。最寄りの駅が長町南駅でお願いします。	general,restaurant,shopping
+1554	5	SYSTEM	かしこまりました。そうしますと、2件ご案内可能です。例えば、目利きの銀次 長町南駅前店という、ジャンルが居酒屋, 寿司・魚料理のお店はいかがでしょうか？	general,restaurant,shopping
+1554	6	USER	はい。そこでお願いします。営業時間を教えてください。	general,restaurant,shopping
+1554	7	SYSTEM	営業時間は、11:00～25:00でございます。	general,restaurant,shopping
+1554	8	USER	あと、当日に書籍を買えるところもお願いします。宮城野区あたりが希望です。	general,restaurant,shopping
+1554	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping
+1554	10	USER	それでは、エリアは問わないので書籍が買えるところはありますか？	general,restaurant,shopping
+1554	11	SYSTEM	かしこまりました。そうしますと、7件ほど候補がございます。たとえば、くまざわ書店 アリオ仙台泉店というお店が泉区エリアにありますが、いかがでしょうか？	general,restaurant,shopping
+1554	12	USER	その中で無料の駐車場はありますか？	general,restaurant,shopping
+1554	13	SYSTEM	無料駐車場を併設している場所ですと、5件ご案内可能です。では、絵本と木のおもちゃ 横田や、というところはいかがでしょうか？	general,restaurant,shopping
+1554	14	USER	ではそこでお願いします。念のため近辺の駅からの所要時間も教えてください。	general,restaurant,shopping
+1554	15	SYSTEM	かしこまりました。北仙台駅からはタクシーで7分、北山駅からですと徒歩で9分です。	general,restaurant,shopping
+1554	16	USER		general,restaurant,shopping

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3441	0	USER	名古屋へ行くのですが、7/28の昭和区の、天気と最高気温教えて下さい。	general,weather,taxi
+3441	1	SYSTEM	はい、当日の天気は曇時々雨、最高気温は33.6度の予報です。	general,weather,taxi
+3441	2	USER	キャッシュレス払いできる、タクシー会社教えて下さい。	general,weather,taxi
+3441	3	SYSTEM	申し訳ありません。その条件ですとお探し出来るタクシー会社がございませんでした。	general,weather,taxi
+3441	4	USER	そうですか、ではキャッシュレス払いは大丈夫です。タクシー会社探して下さい。	general,weather,taxi
+3441	5	SYSTEM	かしこまりました。それでは鯱第一交通はいかがでしょうか？	general,weather,taxi
+3441	6	USER	電話番号教えて下さい。	general,weather,taxi
+3441	7	SYSTEM	電話番号は0529123456でございます。	general,weather,taxi
+3441	8	USER	7/28の11：50で柳橋中央市場から名古屋市蓬左文庫まで予約お願いします。	general,weather,taxi
+3441	9	SYSTEM	お待たせいたしました。それでは予約番号30894でお取りさせていただきました。	general,weather,taxi
+3441	10	USER	ありがとうございました。失礼します。	general,weather,taxi
+3441	11	SYSTEM	ありがとうございました。またお待ちしております。	general,weather,taxi

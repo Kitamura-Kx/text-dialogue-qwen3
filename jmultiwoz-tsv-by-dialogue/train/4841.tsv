@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4841	0	USER	福岡の中央区でコンビニを探しています。	general,shopping,taxi
+4841	1	SYSTEM	それでしたら、ファミリーマート福岡天神店はいかがですか？	general,shopping,taxi
+4841	2	USER	定休日がもしあったら定休日と、駅からどれくらい時間がかかるか教えてください。	general,shopping,taxi
+4841	3	SYSTEM	定休日は、無しです。所要時間は、天神駅から徒歩で4分です。	general,shopping,taxi
+4841	4	USER	ありがとうございます。あとキャッシュレス払いができるジャンボタクシーを探してほしいです。	general,shopping,taxi
+4841	5	SYSTEM	では、福岡交通（株）はいかがですか？	general,shopping,taxi
+4841	6	USER	そのタクシーを4/27の9：40に旧福岡県公会堂 貴賓館からさきほどのコンビニまで予約したいです。	general,shopping,taxi
+4841	7	SYSTEM	予約出来ました。予約番号は、2352です。	general,shopping,taxi
+4841	8	USER	ありがとうございました。	general,shopping,taxi
+4841	9	SYSTEM	他にご用件はありますか？	general,shopping,taxi
+4841	10	USER	大丈夫です。	general,shopping,taxi
+4841	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

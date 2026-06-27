@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+879	0	USER	札幌への旅行を計画していて、当日買い物が出来るところを探しています。駐車場が無料の商店街に行きたいのですが。	general,shopping,restaurant
+879	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,shopping,restaurant
+879	2	USER	では、商店街でなくても構いません。	general,shopping,restaurant
+879	3	SYSTEM	ありがとうございます。そういたしますと、32件ほどご案内可能です。たとえば、ジェラート札幌果林樹という食料品のお店はいかがでしょうか？	general,shopping,restaurant
+879	4	USER	ありがとうございます。そこにしようと思います。近辺の駅からの所要時間はどれくらいですか？	general,shopping,restaurant
+879	5	SYSTEM	最寄りの真駒内駅からは、バスで9分ほどかかります。	general,shopping,restaurant
+879	6	USER	ありがとうございます。当日の飲食店も探していまして、駐車場が無料で予算は普通のところがいいです。	general,shopping,restaurant
+879	7	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,shopping,restaurant
+879	8	USER	では、予算は考慮しません。	general,shopping,restaurant
+879	9	SYSTEM	ありがとうございます。そうしますと、そば処 叶庵というお店はいかがでしょうか？豊平区エリアにある、お値段がお安めのお店となっております。	general,shopping,restaurant
+879	10	USER	ありがとうございます。そば処 叶庵 の最寄り駅はどこになりますか？	general,shopping,restaurant
+879	11	SYSTEM	豊平公園駅です。豊平公園駅から徒歩1分の場所にございます。	general,shopping,restaurant
+879	12	USER	ありがとうございます。そこにしようと思います。9/14の12：20から4人で予約をお願い出来ますか？	general,shopping,restaurant
+879	13	SYSTEM	かしこまりました。ご予約番号79918にて、予約を承りました。	general,shopping,restaurant
+879	14	USER	ありがとうございました。	general,shopping,restaurant
+879	15	SYSTEM	ほかに何かお手伝いできることはございませんか？	general,shopping,restaurant
+879	16	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,restaurant

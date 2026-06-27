@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3649	0	USER	札幌へ旅行に行くので、買い物ができるところを探してください。	general,shopping
+3649	1	SYSTEM	かしこまりました。50件ほどからお探しできますが、こだわりなどはございますか？	general,shopping
+3649	2	USER	おもちゃが買えるところで、手稲区だといいのですが。	general,shopping
+3649	3	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping
+3649	4	USER	では手稲区以外の場所でも構いません。	general,shopping
+3649	5	SYSTEM	かしこまりました。それではポケモンセンターサッポロはいかがでしょうか？	general,shopping
+3649	6	USER	そちらの最寄り駅と近辺の駅からの所要時間を教えてください。	general,shopping
+3649	7	SYSTEM	はい、最寄り駅は札幌駅でして、札幌駅から徒歩1分でございます。	general,shopping
+3649	8	USER	ありがとうございます。以上になります。	general,shopping
+3649	9	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping

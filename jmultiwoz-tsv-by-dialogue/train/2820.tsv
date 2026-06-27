@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2820	0	USER	東京へ行くのですが、アジア・エスニック料理の飲食店を探しています。	general,restaurant
+2820	1	SYSTEM	そうしますと、5件ご案内可能です。たとえば、江東区エリアにあるDDSK サイゴン キッチンというところはいかがでしょうか？	general,restaurant
+2820	2	USER	駐車場が無料の所が良いです。	general,restaurant
+2820	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,restaurant
+2820	4	USER	じゃアジア・エスニック料理でなくてもいいです。	general,restaurant
+2820	5	SYSTEM	ありがとうございます。では、NAMIKI667という中央区エリアのお店はいかがでしょうか？ジャンルは、ホテルレストラン, 洋食・西洋料理, 居酒屋, カフェ・スイーツとなっております。	general,restaurant
+2820	6	USER	いいですね。営業時間を教えてください。	general,restaurant
+2820	7	SYSTEM	営業時間は、お昼が11:30～15:30, 夜が18:00～22:00となっております。	general,restaurant
+2820	8	USER	ありがとうございます。	general,restaurant
+2820	9	SYSTEM	他にお調べすることはございませんか？	general,restaurant
+2820	10	USER	特にないです。ありがとうございました。	general,restaurant
+2820	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

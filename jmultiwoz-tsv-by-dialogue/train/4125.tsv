@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4125	0	USER	名古屋で駐車場が無料で利用できる天白区にあるカフェ・スイーツのお店を教えてください	general,restaurant,attraction,weather
+4125	1	SYSTEM	かしこまりました。ではオーガニック食堂 Engiはいかがですか。	general,restaurant,attraction,weather
+4125	2	USER	ありがとうございます、営業時間と電話番号をおしえてください	general,restaurant,attraction,weather
+4125	3	SYSTEM	営業時間は11:00～15:00, 17:30～21:00で電話番号が0528539101でございます。	general,restaurant,attraction,weather
+4125	4	USER	では9月7日に14時50分から2人で予約お願いします	general,restaurant,attraction,weather
+4125	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は63082でございます。	general,restaurant,attraction,weather
+4125	6	USER	ありがとうございます、駐車場を無料で利用できる川名駅が最寄りの観光名所はありますか	general,restaurant,attraction,weather
+4125	7	SYSTEM	はい。桑山美術館(公益財団法人桑山清山会)がございます。	general,restaurant,attraction,weather
+4125	8	USER	子供の入場料はいくらですか	general,restaurant,attraction,weather
+4125	9	SYSTEM	子供の入場料は300円でございます。	general,restaurant,attraction,weather
+4125	10	USER	ありがとうございます、9月7日の東区の天気を教えてください	general,restaurant,attraction,weather
+4125	11	SYSTEM	当日の天気は晴でございます。	general,restaurant,attraction,weather
+4125	12	USER		general,restaurant,attraction,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+582	0	USER	こんにちは！仙台へ旅行に行くんですが、宿泊施設を探してください。	general,hotel
+582	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございませんか？	general,hotel
+582	2	USER	駐車場とWi-Fiが無料のところがいいです！	general,hotel
+582	3	SYSTEM	承知いたしました。では、旅館つかさという青葉区の旅館はいかがでしょうか？	general,hotel
+582	4	USER	青葉区ですね！レストランの有無は分かりますか？	general,hotel
+582	5	SYSTEM	申し訳ありません。こちらの施設は、レストランは併設していないようです。	general,hotel
+582	6	USER	わかりました！教えていただきありがとうございました！	general,hotel
+582	7	SYSTEM	ほかにお調べすることはございませんか？	general,hotel
+582	8	USER	はい！ありがとうございました。	general,hotel
+582	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

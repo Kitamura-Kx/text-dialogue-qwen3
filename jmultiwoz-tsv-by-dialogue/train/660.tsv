@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+660	0	USER	横浜への旅行を計画しています。当日食事ができる飲食店を探してほしいです。	general,restaurant,attraction,shopping
+660	1	SYSTEM	横浜のお食事処ですね。100件以上、候補があるのですが、ジャンルやエリアなど、何かご希望はございますか？	general,restaurant,attraction,shopping
+660	2	USER	最寄り駅が鶴見駅、駐車場を無料で利用できて、予算は安めが希望です。	general,restaurant,attraction,shopping
+660	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,attraction,shopping
+660	4	USER	では最寄駅は考えないことにしたらどうでしょうか。	general,restaurant,attraction,shopping
+660	5	SYSTEM	ありがとうございます。そうしますと、カフェ・ド・ラペというお店がございます。最寄り駅は日本大通り駅となります。	general,restaurant,attraction,shopping
+660	6	USER	では、そのお店に行くのに、最寄の日本大通り駅からの所要時間を教えてください。	general,restaurant,attraction,shopping
+660	7	SYSTEM	日本大通り駅からは徒歩で3分です。また、関内駅からも徒歩で10分でアクセス可能です。	general,restaurant,attraction,shopping
+660	8	USER	当日訪問する観光名所として、駐車場を無料で利用できて、ジャンルは工場見学で考えていますが、良いところがありますか？	general,restaurant,attraction,shopping
+660	9	SYSTEM	はい、2件ご案内可能です。カップヌードルミュージアム 横浜と、キリンビール 横浜工場がございますが、ご興味のある方はございますか？	general,restaurant,attraction,shopping
+660	10	USER	そうですね。キリンビール 横浜工場にします。定休日，最寄り駅を教えてください。	general,restaurant,attraction,shopping
+660	11	SYSTEM	定休日は月曜日となっております。最寄り駅は生麦駅で、徒歩10分ほどかかります。他の駅からの所要時間もご案内しましょうか？	general,restaurant,attraction,shopping
+660	12	USER	いえ。この情報で十分です。当日買い物が出来るところを教えてほしいです。	general,restaurant,attraction,shopping
+660	13	SYSTEM	かしこまりました。ご希望の条件などはございますか？	general,restaurant,attraction,shopping
+660	14	USER	駐車場を無料で利用できるところにしてください．地区は瀬谷区です．	general,restaurant,attraction,shopping
+660	15	SYSTEM	申し訳ございません。その条件では、ご案内可能なお店がありませんでした。	general,restaurant,attraction,shopping
+660	16	USER	そうなんですね。では地区を緑区にしたらどうですか？	general,restaurant,attraction,shopping
+660	17	SYSTEM	ありがとうございます。3件ほど候補がございます。その中の1つ、まいばすけっと 鴨居駅西店というスーパーマーケットはいかがでしょうか？	general,restaurant,attraction,shopping
+660	18	USER	そこの電話番号が知りたいです。	general,restaurant,attraction,shopping
+660	19	SYSTEM	電話番号は、0459313160でございます。	general,restaurant,attraction,shopping
+660	20	USER	ありがとうございます。	general,restaurant,attraction,shopping
+660	21	SYSTEM	他にお調べすることはございますか？	general,restaurant,attraction,shopping
+660	22	USER	大丈夫です。助かりました。	general,restaurant,attraction,shopping
+660	23	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant,attraction,shopping

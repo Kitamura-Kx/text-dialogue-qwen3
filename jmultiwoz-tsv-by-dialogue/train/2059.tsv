@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2059	0	USER	那覇でタクシーを利用したいんです。ジャンボタクシーを運営していて、キャッシュレスにも対応できるところはありますか？	general,taxi
+2059	1	SYSTEM	かしこまりました。では、沖縄第一交通株式会社はいかがでしょうか？	general,taxi
+2059	2	USER	電話番号もお願いできますか？	general,taxi
+2059	3	SYSTEM	はい。電話番号は0120780124です。	general,taxi
+2059	4	USER	予約もお願いします。7/26の9:30の利用ですが。魚屋直営食堂 魚まるから沖縄逸の彩 温泉リゾートホテルまで行きたいです。	general,taxi
+2059	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、74840です。	general,taxi
+2059	6	USER	ありがとうございます。	general,taxi

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1149	0	USER	京都へ旅行に行きたく、観光名所を探しています。	general,attraction,restaurant,hotel
+1149	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,restaurant,hotel
+1149	2	USER	丹波橋駅周辺でいいところありますか？	general,attraction,restaurant,hotel
+1149	3	SYSTEM	では京都市呉竹文化センターがございます。	general,attraction,restaurant,hotel
+1149	4	USER	そこの電話番号を教えてください。	general,attraction,restaurant,hotel
+1149	5	SYSTEM	電話番号は0756032463でございます。	general,attraction,restaurant,hotel
+1149	6	USER	ありがとうございます。次に飲食店も探しており、北野白梅町駅周辺で無料の駐車場が利用できる所はありますか？あと予算は安めを希望してます。	general,attraction,restaurant,hotel
+1149	7	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,restaurant,hotel
+1149	8	USER	ではエリアは限定しないです。	general,attraction,restaurant,hotel
+1149	9	SYSTEM	では海雲亭 洛西店がございます。	general,attraction,restaurant,hotel
+1149	10	USER	そこの飲食店のジャンルと営業時間、最寄駅からの所要時間を教えてください。	general,attraction,restaurant,hotel
+1149	11	SYSTEM	ジャンルは焼肉・ホルモンで営業時間が11:30～25:00でございます。最寄り駅の桂駅から徒歩で15分、京都駅からバスで30分でございます。	general,attraction,restaurant,hotel
+1149	12	USER	ありがとうございます。それでは予約をお願いしたいです。人数は2名、日時は7/12、15:40でお願いします。	general,attraction,restaurant,hotel
+1149	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は94640でございます。	general,attraction,restaurant,hotel
+1149	14	USER	ありがとうございます。あと最後に当日泊まる宿泊施設も探していただきたいです。無料で駐車場が利用でき、予算は高め希望です。	general,attraction,restaurant,hotel
+1149	15	SYSTEM	では京都 高瀬川別邸がございます。	general,attraction,restaurant,hotel
+1149	16	USER	そこのチェックイン開始時間と料金情報を教えてください。	general,attraction,restaurant,hotel
+1149	17	SYSTEM	チェックイン開始時刻が15:00でございます。詳しい料金情報に関してはわかりかねます。	general,attraction,restaurant,hotel
+1149	18	USER	承知しました。ありがとうございます。	general,attraction,restaurant,hotel
+1149	19	SYSTEM	ほかにご用件はございますか。	general,attraction,restaurant,hotel
+1149	20	USER	大丈夫です。	general,attraction,restaurant,hotel
+1149	21	SYSTEM	かしこまりました。ありがとうございました。	general,attraction,restaurant,hotel

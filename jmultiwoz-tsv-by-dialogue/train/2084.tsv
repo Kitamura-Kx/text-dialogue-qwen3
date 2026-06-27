@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2084	0	USER	福岡への旅行を計画しているのですが、当日行く観光名所を探しています。色々お伺いしてもよろしいでしょうか？	general,attraction,weather
+2084	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction,weather
+2084	2	USER	博多区で探しています。Wi-Fiが無料で利用できるところが良いです。	general,attraction,weather
+2084	3	SYSTEM	かしこまりました。では、キャナルシティ劇場はいかがでしょうか？	general,attraction,weather
+2084	4	USER	ちなみにそちらは、駐車場が無料で利用出来たりしますかね？	general,attraction,weather
+2084	5	SYSTEM	有料の駐車場でしたらございます。	general,attraction,weather
+2084	6	USER	助かります。そちらの入場料ってわかりますかね？	general,attraction,weather
+2084	7	SYSTEM	申し訳ありませんが、入場料は不明となっております。料金情報によりますと、公演により異なるみたいです。	general,attraction,weather
+2084	8	USER	わかりました。当日現地で確認してみます。旅行当日の天気も知りたいのですが、そちらもよろしいでしょうか？	general,attraction,weather
+2084	9	SYSTEM	はい。日付と場所の指定はございますか？	general,attraction,weather
+2084	10	USER	5月19日の城南区を知りたいのですが。	general,attraction,weather
+2084	11	SYSTEM	かしこまりました。5/19の城南区の天気予報は曇時々晴となっております。最低気温は21.8度、最高気温は27.5度になる予報です。	general,attraction,weather
+2084	12	USER	わかりました。これで当日は大丈夫そうです。ありがとうございました。	general,attraction,weather
+2084	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

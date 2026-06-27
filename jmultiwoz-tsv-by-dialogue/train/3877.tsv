@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3877	0	USER	京都へ行くんですが、エンタメとかアミューズメント系の観光名所でWi-Fiが無料のところを探してもらえますか？	general,attraction,hotel,shopping
+3877	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,attraction,hotel,shopping
+3877	2	USER	そうですか。ではジャンルにはこだわらずに探してください。	general,attraction,hotel,shopping
+3877	3	SYSTEM	かしこまりました。その条件でしたら、国立京都国際会館がございます。	general,attraction,hotel,shopping
+3877	4	USER	ありがとうございます。ではそこの住所と料金情報も教えてください。	general,attraction,hotel,shopping
+3877	5	SYSTEM	住所は、京都府京都市左京区岩倉大鷺町422、料金情報は企画により異なるとのことです。	general,attraction,hotel,shopping
+3877	6	USER	わかりました。あと、無料駐車場があってWi-Fiも無料の宿泊施設を探してもらえますか？	general,attraction,hotel,shopping
+3877	7	SYSTEM	かしこまりました。では、なごみ宿 都和はいかがでしょうか？	general,attraction,hotel,shopping
+3877	8	USER	そこはどのようなタイプの宿泊施設ですか？	general,attraction,hotel,shopping
+3877	9	SYSTEM	タイプは旅館でございます。	general,attraction,hotel,shopping
+3877	10	USER	わかりました。では、そこの住所と料金情報も教えてください。	general,attraction,hotel,shopping
+3877	11	SYSTEM	住所は京都府京都市下京区東中筋通七条上る文覚町395でございます。値段帯は普通ですが、料金情報は申し訳ありません。分かりません。	general,attraction,hotel,shopping
+3877	12	USER	ありがとうございます。あと、無料駐車場がある買い物施設も探してもらえますか？	general,attraction,hotel,shopping
+3877	13	SYSTEM	かしこまりました。では、道の駅 ウッディー京北はいかがでしょうか？	general,attraction,hotel,shopping
+3877	14	USER	ありがとうございます。ではそこの営業時間も教えてください。	general,attraction,hotel,shopping
+3877	15	SYSTEM	営業時間は、9時から18時まででございます。	general,attraction,hotel,shopping
+3877	16	USER	ありがとうございました。以上で結構です。	general,attraction,hotel,shopping
+3877	17	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,hotel,shopping

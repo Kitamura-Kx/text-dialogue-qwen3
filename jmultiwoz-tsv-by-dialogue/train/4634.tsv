@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4634	0	USER	大阪への旅行を計画しているんですけど、北区で買い物ができるところはありますか？	general,shopping,weather
+4634	1	SYSTEM	かしこまりました。では、くらわんか餅の世界天満店はいかがでしょうか。	general,shopping,weather
+4634	2	USER	いいと思います。そのお店はどういうジャンルですか？あと、駐車場の有無も教えていただきたいです。	general,shopping,weather
+4634	3	SYSTEM	ジャンルはお土産, 食料品でございます。駐車場はございません。	general,shopping,weather
+4634	4	USER	ありがとうございます。ところで、当日、3月20日の東成区の天候はどうなっていますか？	general,shopping,weather
+4634	5	SYSTEM	当日の天気は晴時々雨、最低気温が3.6度で最高気温が16.1度でございます。	general,shopping,weather
+4634	6	USER	寒そうですね。ありがとうございました。	general,shopping,weather

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4457	0	USER	那覇の旅行を考えており、リゾートホテルを希望しています。いかがでしょうか	general,hotel,taxi
+4457	1	SYSTEM	そうしますと、14件ご案内可能です。たとえば、本庁エリアにある、ホテルJALシティ那覇はいかがでしょうか？	general,hotel,taxi
+4457	2	USER	そちらでよろしくお願いいたします。ありがとうございます。ちなみに当日利用できるタクシーを探しているのですが、ジャンボタクシーを利用できる会社様はございますか	general,hotel,taxi
+4457	3	SYSTEM	はい、ご案内可能です。丸星交通はいかがでしょうか？	general,hotel,taxi
+4457	4	USER	ありがとうございます。そちらはキャッシュレス対応は可能でしょうか	general,hotel,taxi
+4457	5	SYSTEM	はい、対応しております。	general,hotel,taxi
+4457	6	USER	ありがとうございます。電話番号教えていただけますか	general,hotel,taxi
+4457	7	SYSTEM	電話番号は、0988685831です。	general,hotel,taxi
+4457	8	USER	ありがとうございます。12/13 午前11:50にルーラーズタコライス 真嘉比店を出発し、先ほど見つけていただいた宿泊所に行きたいのですが可能でしょうか	general,hotel,taxi
+4457	9	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょう？	general,hotel,taxi
+4457	10	USER	かしこまりました。では、12:30はいかがでしょうか	general,hotel,taxi
+4457	11	SYSTEM	ありがとうございます。12:30にルーラーズタコライス 真嘉比店発、ホテルJALシティ那覇着にて、ご予約完了いたしました。予約番号は、64670です。	general,hotel,taxi
+4457	12	USER	かしこまりました。本日はありがとうございました。	general,hotel,taxi
+4457	13	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,hotel,taxi

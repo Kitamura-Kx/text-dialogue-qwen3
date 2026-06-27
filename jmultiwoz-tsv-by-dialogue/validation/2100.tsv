@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2100	0	USER	那覇への旅行を検討しています。当日行く観光名所を探しているのですが、お伺いしてもよろしいでしょうか？	general,attraction,weather
+2100	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction,weather
+2100	2	USER	はい。本庁地区で、最寄り駅が壺川駅が良いのですが。	general,attraction,weather
+2100	3	SYSTEM	かしこまりました。では、奥武山公園はいかがでしょうか？	general,attraction,weather
+2100	4	USER	そちらの施設は、駐車場を無料で利用できますか？	general,attraction,weather
+2100	5	SYSTEM	はい。無料の駐車場がございます。	general,attraction,weather
+2100	6	USER	助かります。その施設の電話番号と定休日を教えて貰えますか？	general,attraction,weather
+2100	7	SYSTEM	はい。電話番号は0988582700です。定休日は無しとなっております。	general,attraction,weather
+2100	8	USER	ありがとうございます。最後に、当日の天候も知りたいのですが、よろしいでしょうか？	general,attraction,weather
+2100	9	SYSTEM	はい。はい。日付と場所の指定はございますか？	general,attraction,weather
+2100	10	USER	真和志地区の2月17日の天気を教えて下さい。	general,attraction,weather
+2100	11	SYSTEM	かしこまりました。2/17の真和志の天気予報は曇時々晴となっております。最低気温は12.5度、最高気温は18.6度になる予報です。	general,attraction,weather
+2100	12	USER	助かりました。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,attraction,weather
+2100	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

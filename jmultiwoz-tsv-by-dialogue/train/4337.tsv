@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4337	0	USER	仙台の若林区で食事が出来るとこを探してください。予算は高めで結構です。	general,restaurant,hotel
+4337	1	SYSTEM	かしこまりました。では、焼肉の店 てなむはいかがでしょうか？	general,restaurant,hotel
+4337	2	USER	そのお店の最寄り駅はどこでしょう？	general,restaurant,hotel
+4337	3	SYSTEM	はい。最寄り駅は愛宕橋駅です。	general,restaurant,hotel
+4337	4	USER	それと、泊まれるところも探してほしいのですが、wifiが無料で使える、レストランのついているところはありますか？	general,restaurant,hotel
+4337	5	SYSTEM	かしこまりました。では、ホテルプレミアムグリーンソブリンはいかがでしょうか？	general,restaurant,hotel
+4337	6	USER	そちらの料金情報、わかる範囲で教えてください。	general,restaurant,hotel
+4337	7	SYSTEM	はい。料金情報としては、値段帯が安めという情報しかわかりませんでした。	general,restaurant,hotel
+4337	8	USER	わかりました。では予約をお願いします。３月８日から４泊で、４人でお願いします。	general,restaurant,hotel
+4337	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、45508です。	general,restaurant,hotel
+4337	10	USER	ありがとうございました。では、失礼いたします。	general,restaurant,hotel
+4337	11	SYSTEM	こちらこそご利用ありがとうございました。	general,restaurant,hotel

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3822	0	USER	東京へ旅行を計画しているので、飲食店を探していただけますか？無料駐車場があって、渋谷区が希望です。	general,restaurant,taxi
+3822	1	SYSTEM	それでしたら、COTEAU.はいかがですか？	general,restaurant,taxi
+3822	2	USER	そちらで予約をお願いします。7/14の15:40に4名でお願いします。	general,restaurant,taxi
+3822	3	SYSTEM	予約が完了しました。　予約番号は、46840です。	general,restaurant,taxi
+3822	4	USER	ありがとうございます。	general,restaurant,taxi
+3822	5	SYSTEM	他にご用件はございますか？	general,restaurant,taxi
+3822	6	USER	はい。ジャンボタクシーが利用できるタクシー会社も探していただけますか？	general,restaurant,taxi
+3822	7	SYSTEM	では、トーショー交通はいかがですか？	general,restaurant,taxi
+3822	8	USER	そちらの電話番号はわかりますか？	general,restaurant,taxi
+3822	9	SYSTEM	電話番号は、0423441111です。	general,restaurant,taxi
+3822	10	USER	ありがとうございます。そちらで予約をお願いします。7/14の14:00にCOTEAU.を出発で、東京国立博物館までお願いします。	general,restaurant,taxi
+3822	11	SYSTEM	予約出来ました。予約番号は、94972になります。	general,restaurant,taxi
+3822	12	USER	ありがとうございます。	general,restaurant,taxi
+3822	13	SYSTEM	他にご用件はございますか？	general,restaurant,taxi
+3822	14	USER	特にありません。ありがとうございました。	general,restaurant,taxi
+3822	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

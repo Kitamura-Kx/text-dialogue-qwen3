@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4717	0	USER	東京へ行くのですが、食料品を買えるようなところはありますか？駐車場が無料だといいのですが。	general,shopping,attraction
+4717	1	SYSTEM	申し訳ございません。ございません。	general,shopping,attraction
+4717	2	USER	そうですか。じゃあ駐車場がなくてもいいです。	general,shopping,attraction
+4717	3	SYSTEM	せとうち旬彩館 たべものと日用品 WAO 上野桜木あたりはいかがですか？	general,shopping,attraction
+4717	4	USER	せとうち旬彩館にします。近辺の駅からの所要時間と住所を教えて下さい。	general,shopping,attraction
+4717	5	SYSTEM	新橋駅から徒歩で1分、 汐留駅から徒歩で5分です。住所は東京都港区新橋2丁目19-10 新橋マリンビル1・2F	general,shopping,attraction
+4717	6	USER	なるほど。あと、豊島区でいい観光名所はありませんか？Wi-Fiが無料なところ希望です。	general,shopping,attraction
+4717	7	SYSTEM	サンシャイン水族館はいかがですか？	general,shopping,attraction
+4717	8	USER	いいですね。大人入場料と、料金情報を教えてください。	general,shopping,attraction
+4717	9	SYSTEM	大人入場料は２４００円、料金情報は◎大人（高校生以上）：2,400円◎こども（小・中学生）：1,200円◎幼児（4才以上）：700円です。	general,shopping,attraction
+4717	10	USER	ありがとうございます。もう大丈夫です。	general,shopping,attraction
+4717	11	SYSTEM	ありがとうございます。	general,shopping,attraction

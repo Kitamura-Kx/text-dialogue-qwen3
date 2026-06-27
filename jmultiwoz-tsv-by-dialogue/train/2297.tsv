@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2297	0	USER	札幌へ旅行に行きたく、東区役所前駅近辺で飲食店を探しています。予算は普通希望です。	general,restaurant,weather,taxi
+2297	1	SYSTEM	では、本陣串や 札幌東区役所店はいかがでしょうか？	general,restaurant,weather,taxi
+2297	2	USER	ありがとうございます。それでは予約をお願いします。人数は4名、日時は5/13、11:00希望です。	general,restaurant,weather,taxi
+2297	3	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,restaurant,weather,taxi
+2297	4	USER	では、時間帯を12:00に変更でお願いします。	general,restaurant,weather,taxi
+2297	5	SYSTEM	ありがとうございます。12:00にてご予約完了いたしました。予約番号は、38547です。	general,restaurant,weather,taxi
+2297	6	USER	ありがとうございます。次に5/13の東区の天候を調べてほしいです。	general,restaurant,weather,taxi
+2297	7	SYSTEM	当日の天気は晴時々曇の予報です。最低気温は9度、最高気温は16.6度の予想となっております。	general,restaurant,weather,taxi
+2297	8	USER	承知致しました。最後に当日タクシーを利用したく、ジャンボタクシーが利用できる会社はありますか？	general,restaurant,weather,taxi
+2297	9	SYSTEM	はい、ございます。ライラック交通(株)はいかがでしょうか？	general,restaurant,weather,taxi
+2297	10	USER	ではそこで予約をお願いします。日時は5/13、9:30で出発地は定山渓 鶴雅リゾートスパ 森の謌から本陣串や 札幌東区役所店まででお願いします。	general,restaurant,weather,taxi
+2297	11	SYSTEM	ご予約完了いたしました。予約番号は、97634です。	general,restaurant,weather,taxi
+2297	12	USER	色々ご対応いただきありがとうございます。以上です。	general,restaurant,weather,taxi
+2297	13	SYSTEM	承知しました。では、またのご利用をお待ちしております。	general,restaurant,weather,taxi

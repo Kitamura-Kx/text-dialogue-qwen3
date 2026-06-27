@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4356	0	USER	東京への旅行を予定しているのですが、当日食事をするお店を探しています。焼肉・ホルモンのジャンルで予算が高めでお願いします。	general,restaurant,weather
+4356	1	SYSTEM	焼肉ホルモンいいですね！それではNIKUAZABU 六本木店はいかがしましょうか？	general,restaurant,weather
+4356	2	USER	そちらは、Wi-Fiは無料でしょうか。	general,restaurant,weather
+4356	3	SYSTEM	Wi-Fiに関しての有無は分かりません。申し訳ありません。	general,restaurant,weather
+4356	4	USER	いえいえ、では、Wi-Fiは気にしないでよいです。では、住所と最寄り駅を教えてください。	general,restaurant,weather
+4356	5	SYSTEM	はい、住所は東京都港区六本木4丁目10-7 2Fでございまして。最寄り駅は六本木駅でございます。	general,restaurant,weather
+4356	6	USER	ありがとうございます。では、12月7日の13時30分、2名で予約をお願いしたいです。	general,restaurant,weather
+4356	7	SYSTEM	お待たせ致しまたした。予約番号25118でお取りさせていただきました。	general,restaurant,weather
+4356	8	USER	ありがとうございました。東京へ行くのが楽しみになりました。	general,restaurant,weather
+4356	9	SYSTEM	ありがとうございます。その他に御用件はありますか？	general,restaurant,weather
+4356	10	USER	では、ついでに当日の12月7日の品川区の天気と気温を教えてください。	general,restaurant,weather
+4356	11	SYSTEM	お待たせ致しました。当日の品川区の天気は晴時々雨でして、最低気温は6.4度、最高気温が15.1度でございます。	general,restaurant,weather
+4356	12	USER	ありがとうございました！	general,restaurant,weather

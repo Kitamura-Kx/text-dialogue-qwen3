@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2300	0	USER	東京への旅行を計画しています。エリアは葛飾区で大塚駅周辺にどこか観光名所はありますか？	general,attraction
+2300	1	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,attraction
+2300	2	USER	であれば、大塚駅周辺でなくても大丈夫です。	general,attraction
+2300	3	SYSTEM	ありがとうございます。そうしますと、水元公園はいかがでしょうか？最寄り駅は金町駅となります。	general,attraction
+2300	4	USER	そちらは公園ですが、料金情報などは特にないですか？	general,attraction
+2300	5	SYSTEM	大人と子供入場料は0円で、無料ですが、一部有料施設ありとなっております。	general,attraction
+2300	6	USER	ありがとうございます。以上です。	general,attraction
+2300	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

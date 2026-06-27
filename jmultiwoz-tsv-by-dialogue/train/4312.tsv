@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4312	0	USER	福岡旅行でUNPLAN Fukuokaを利用する予定なのですが、チェックイン開始時刻や値段帯はわかりますか？	general,hotel,weather,taxi
+4312	1	SYSTEM	お待たせ致しました。チェックイン開始時刻は16時でして、値段帯は安めでございます。	general,hotel,weather,taxi
+4312	2	USER	ありがとうございます。あと6/23の南区の最高気温も知りたいです	general,hotel,weather,taxi
+4312	3	SYSTEM	はい、当日の南区の最高気温は34度の予報でございます。	general,hotel,weather,taxi
+4312	4	USER	わかりました。あとジャンボタクシーが使えるタクシー会社はありますか？	general,hotel,weather,taxi
+4312	5	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,hotel,weather,taxi
+4312	6	USER	ではジャンボタクシー利用できなくてもいいです	general,hotel,weather,taxi
+4312	7	SYSTEM	かしこまりました。それでは五十川タクシー（有）はいかがでしょうか？	general,hotel,weather,taxi
+4312	8	USER	電話番号とキャッシュレス対応をしているかどうかを教えてください	general,hotel,weather,taxi
+4312	9	SYSTEM	はい、電話番号は0925012525でして、キャッシュレスには対応しております。	general,hotel,weather,taxi
+4312	10	USER	では6/23の9:50にUNPLAN FukuokaからMKホテルズ 西中洲まで予約をお願いします	general,hotel,weather,taxi
+4312	11	SYSTEM	お待たせ致しました。予約番号46984でお取りさせていただきました。	general,hotel,weather,taxi
+4312	12	USER	ありがとうございました	general,hotel,weather,taxi
+4312	13	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,weather,taxi

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3240	0	USER	大阪で泊まる所を探しています。レストランが併設していて、Wi-Fi無料の所はありませんか？玉川駅近くを希望します。	general,hotel,shopping,taxi
+3240	1	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しましょう？	general,hotel,shopping,taxi
+3240	2	USER	そうですか。それでは、玉川駅近くではなく新今宮駅で探してください。	general,hotel,shopping,taxi
+3240	3	SYSTEM	ありがとうございます。では、エリアでいうと西成区にある、ホテル新今宮はいかがでしょう？タイプはビジネスホテルとなります。	general,hotel,shopping,taxi
+3240	4	USER	ホテル新今宮は、チェックアウトは何時までとなっていますか？予約も取りたいです。	general,hotel,shopping,taxi
+3240	5	SYSTEM	チェックアウト終了時刻は11時となります。予約のため、人数と日付、宿泊日数を教えていただけますか？	general,hotel,shopping,taxi
+3240	6	USER	はい。9/24から4泊で、人数は2人で予約をお願いします。	general,hotel,shopping,taxi
+3240	7	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,hotel,shopping,taxi
+3240	8	USER	それでは4泊ではなく、3泊では予約が取れそうでしょうか？	general,hotel,shopping,taxi
+3240	9	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、98763となります。	general,hotel,shopping,taxi
+3240	10	USER	ありがとうございます。あと、無料駐車場つきで買い物ができるお店を探してください。生野区で、宮ノ森駅のあたりでお願いします。	general,hotel,shopping,taxi
+3240	11	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しましょう？	general,hotel,shopping,taxi
+3240	12	USER	残念です。生野区なら最寄り駅はどこでも良いので、もう一度お願いできますか？	general,hotel,shopping,taxi
+3240	13	SYSTEM	ありがとうございます。では、C&Cエンド 本店はいかがでしょう？ジャンルは、スーパーマーケットとなります。	general,hotel,shopping,taxi
+3240	14	USER	良いですね。この日にタクシーも利用したいのですが、ジャンボタクシーが選べる会社はありますか？	general,hotel,shopping,taxi
+3240	15	SYSTEM	では、南タクシー株式会社はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0667121331となります。	general,hotel,shopping,taxi
+3240	16	USER	ありがとうございます、9/24で手配お願いしたいです。14:00にホテル新今宮から乗車して、行先はC&Cエンド 本店です。	general,hotel,shopping,taxi
+3240	17	SYSTEM	承知しました。予約が完了し、ご予約番号は、89647となります。	general,hotel,shopping,taxi
+3240	18	USER	ありがとうございます、これで以上です。	general,hotel,shopping,taxi
+3240	19	SYSTEM	ありがとうございました。	general,hotel,shopping,taxi

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2928	0	USER	福岡へ行くのですが、博多区で買い物できる所を探しています。	general,shopping,taxi
+2928	1	SYSTEM	博多区の買い物スポットは１８件あります。何か追加の希望条件はありますか。	general,shopping,taxi
+2928	2	USER	駐車場が無料のところがいいのですが	general,shopping,taxi
+2928	3	SYSTEM	それならば、今人気の、ポケモンセンターフクオカ、こちらをお勧めします。	general,shopping,taxi
+2928	4	USER	いいですね。住所を教えてください。	general,shopping,taxi
+2928	5	SYSTEM	福岡県福岡市博多区博多駅中央街1-1JR博多シティ8階(アミュプラザ博多内)です。	general,shopping,taxi
+2928	6	USER	あとジャンボタクシーを利用できるタクシー会社を探しています。	general,shopping,taxi
+2928	7	SYSTEM	はい、福岡でジャンボタクシー対応の会社はいくつかありますが、福岡交通（株）をお勧めします。	general,shopping,taxi
+2928	8	USER	そちらの電話番号は何番になりますか？	general,shopping,taxi
+2928	9	SYSTEM	0570081234です。	general,shopping,taxi
+2928	10	USER	では、9/27の13:30にニクゼン 大名店からポケモンセンターフクオカまで予約をお願いしたいです	general,shopping,taxi
+2928	11	SYSTEM	予約成功しました。予約番号は29679です。	general,shopping,taxi
+2928	12	USER	ありがとうございました。	general,shopping,taxi
+2928	13	SYSTEM	よい旅を	general,shopping,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3479	0	USER	仙台に旅行します。飲食店を探してほしいのですが	general,restaurant
+3479	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+3479	2	USER	泉区で最寄り駅が北山駅がいいです	general,restaurant
+3479	3	SYSTEM	では、とんかつ新宿さぼてん 中山イオン店はいかがでしょうか。	general,restaurant
+3479	4	USER	そこにします。住所を教えてください	general,restaurant
+3479	5	SYSTEM	住所は宮城県仙台市泉区南中山1丁目35-40 イオン 3Fでございます。	general,restaurant
+3479	6	USER	Wi-Fiはありますか？	general,restaurant
+3479	7	SYSTEM	Wi-Fiはございません。	general,restaurant
+3479	8	USER	わかりました。予約をお願いします	general,restaurant
+3479	9	SYSTEM	かしこまりました。ご予約の詳細をお聞かせいただけますか。	general,restaurant
+3479	10	USER	3人で、9/12です。時間は09：40です。	general,restaurant
+3479	11	SYSTEM	はい。予約が完了いたしました。予約番号は56763でございます。	general,restaurant
+3479	12	USER	助かりました、ありがとうございました	general,restaurant
+3479	13	SYSTEM	ほかにご用件はございませんか。	general,restaurant
+3479	14	USER	ないです。どうもでした。	general,restaurant
+3479	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant

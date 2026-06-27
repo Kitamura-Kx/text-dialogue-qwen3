@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4682	0	USER	京都へ旅行に行くので、医薬品・化粧品が買えるようなところありますか？駐車場を無料で使えるといいです。	general,shopping
+4682	1	SYSTEM	京都には、医薬品・化粧品で駐車場無料はなさそうです。	general,shopping
+4682	2	USER	そうですか。じゃあ、医薬品・化粧品じゃなくてもいいです。駐車場は無料であるところにしてください。	general,shopping
+4682	3	SYSTEM	京都には、駐車場無料の買い物施設は１０件ありますが、香老舗 松栄堂をお勧めします。	general,shopping
+4682	4	USER	そこにします。近辺の駅からの所要時間と住所を教えてください。	general,shopping
+4682	5	SYSTEM	住所は京都府京都市中京区烏丸通二条上ル東側、丸太町駅から徒歩で3分の他、烏丸御池駅から徒歩で5分です。	general,shopping
+4682	6	USER	ありがとうございました。	general,shopping

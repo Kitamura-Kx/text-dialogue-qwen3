@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1354	0	USER	京都への旅行を計画しています．	general,shopping,taxi
+1354	1	SYSTEM	お問合せありがとうございます。	general,shopping,taxi
+1354	2	USER	当日買い物ができるところを探してください．ジャンルは医薬品・化粧品で駐車場を無料で利用できるところにしてください．地区は南区がいいです。	general,shopping,taxi
+1354	3	SYSTEM	ココカラファイン アバンティ店はいかがでしょうか。	general,shopping,taxi
+1354	4	USER	そちらの住所と最寄駅を教えてください。	general,shopping,taxi
+1354	5	SYSTEM	住所は京都府京都市南区東九条西山王町31番地で最寄り駅 は京都駅です。	general,shopping,taxi
+1354	6	USER	ありがとうございます。キャッシュレス払いと．ジャンボタクシーを利用できるタクシーも教えて欲しいです。	general,shopping,taxi
+1354	7	SYSTEM	エムケイ株式会社はいかがでしょうか。	general,shopping,taxi
+1354	8	USER	そちらの電話番号も教えていただきたいです。	general,shopping,taxi
+1354	9	SYSTEM	電話番号は0757784141です。	general,shopping,taxi
+1354	10	USER	ありがとうございます。そこを日付は3/2で時間は09:30で出発地はA4黒毛和牛熟成肉焼肉 Yakiniku221というところで、目的地は先ほど見つけた買い物店舗で予約して欲しいです。	general,shopping,taxi
+1354	11	SYSTEM	予約完了いたしました。予約番号は44116になります。	general,shopping,taxi
+1354	12	USER	ありがとうございます。	general,shopping,taxi

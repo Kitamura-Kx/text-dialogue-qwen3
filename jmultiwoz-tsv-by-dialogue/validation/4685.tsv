@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4685	0	USER	横浜へ旅行を考えているのですが、レストランがあって無料で駐車場とWi-Fiが利用できる宿泊施設を探してもらえますか？	general,hotel,restaurant
+4685	1	SYSTEM	横浜には、レストラン併設で駐車場とWiFiが無料の宿泊施設は２件ありますが、旅館 松島をお勧めします。	general,hotel,restaurant
+4685	2	USER	そちらのタイプと近辺の駅からの所要時間はわかりますか？	general,hotel,restaurant
+4685	3	SYSTEM	タイプは旅館、蒔田駅から徒歩で3分です。	general,hotel,restaurant
+4685	4	USER	わかりました。あと、住所もわかりますか？	general,hotel,restaurant
+4685	5	SYSTEM	神奈川県横浜市南区蒔田町863です。	general,hotel,restaurant
+4685	6	USER	了解です。3人で8/4から4泊予約できますか？	general,hotel,restaurant
+4685	7	SYSTEM	予約成功しました。予約番号は12082です。	general,hotel,restaurant
+4685	8	USER	ありがとうございます。あと、ホテルレストランで安めの飲食店はあります？	general,hotel,restaurant
+4685	9	SYSTEM	横浜には、安めのホテルレストランはなさそうです。	general,hotel,restaurant
+4685	10	USER	そうですか。予算は普通でもいいです。	general,hotel,restaurant
+4685	11	SYSTEM	横浜には、予算普通のホテルレストランは２件ありますが、リューバンカフェをお勧めします。	general,hotel,restaurant
+4685	12	USER	そこにします。料金情報とWi-Fiの有無、あと近辺の駅からの所要時間を教えてください。	general,hotel,restaurant
+4685	13	SYSTEM	Wifiは不明、産業振興センター駅から徒歩で1分、特定日限定ディナーのオードブルブッフェ11月が3850円、こちらがオススメのようです。	general,hotel,restaurant
+4685	14	USER	ありがとうございます。2人で8/4の14:30の予約をお願いします。	general,hotel,restaurant
+4685	15	SYSTEM	予約成功しました。予約番号は23016です。	general,hotel,restaurant
+4685	16	USER	ありがとうごいざました。	general,hotel,restaurant

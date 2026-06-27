@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3513	0	USER	横浜への旅行を計画しているのですが、駐車場が無料で緑区で買い物できるところはありますか？	general,shopping,hotel
+3513	1	SYSTEM	かしこまりました。それではイオンフードスタイル 鴨居店はいかがでしょうか？	general,shopping,hotel
+3513	2	USER	住所は？	general,shopping,hotel
+3513	3	SYSTEM	住所は神奈川県横浜市緑区鴨居1丁目6-1でございます。	general,shopping,hotel
+3513	4	USER	近くの駅からの所要時間を教えてください。	general,shopping,hotel
+3513	5	SYSTEM	鴨居駅から徒歩で3分でございます。	general,shopping,hotel
+3513	6	USER	わかりました。レストランがある宿泊施設も探しています。	general,shopping,hotel
+3513	7	SYSTEM	かしこまりました。それでは旅館 松島はいかがでしょうか？	general,shopping,hotel
+3513	8	USER	すみません、できれば二俣川駅が最寄りで、駐車場が無料のところが良いのですが。。	general,shopping,hotel
+3513	9	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping,hotel
+3513	10	USER	でしたら最寄り駅はどこでもいいので、駐車場無料のところはありますか？	general,shopping,hotel
+3513	11	SYSTEM	はい、先ほど提示させていただいた旅館 松島でしたら駐車場無料でございます。	general,shopping,hotel
+3513	12	USER	ありがとうございます。エリアはどの辺ですか？	general,shopping,hotel
+3513	13	SYSTEM	南区でございます。	general,shopping,hotel
+3513	14	USER	住所とチェックアウトの時間も教えてください。	general,shopping,hotel
+3513	15	SYSTEM	住所は神奈川県横浜市南区蒔田町863、チェックアウト終了時刻は10時でございます。	general,shopping,hotel
+3513	16	USER	では、予約をお願いします。12月28日で2名です。	general,shopping,hotel
+3513	17	SYSTEM	何泊のご予定でしょうか？	general,shopping,hotel
+3513	18	USER	2泊です。	general,shopping,hotel
+3513	19	SYSTEM	申し訳ございません。その条件では予約することが出来ませんでした。	general,shopping,hotel
+3513	20	USER	では1名だとどうでしょうか？	general,shopping,hotel
+3513	21	SYSTEM	お待たせ致しました。予約番号43161でお取りさせていただきました。	general,shopping,hotel
+3513	22	USER	ありがとうございます。お手数をおかけしました。	general,shopping,hotel
+3513	23	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,hotel

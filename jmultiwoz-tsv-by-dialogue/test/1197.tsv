@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1197	0	USER	札幌への旅行を計画しています。wifiと駐車場が無料で使える旅館はありませんか？	general,hotel
+1197	1	SYSTEM	はい、エリアでいうと南区に、定山渓温泉 ぬくもりの宿 ふる川がございます。	general,hotel
+1197	2	USER	最寄り駅はどちらでしょう？あとい、レストランは付いていますか？	general,hotel
+1197	3	SYSTEM	はい、最寄りの札幌駅からタクシーで60分、レストランは併設されております。	general,hotel
+1197	4	USER	わかりました。ありがとうございました。	general,hotel

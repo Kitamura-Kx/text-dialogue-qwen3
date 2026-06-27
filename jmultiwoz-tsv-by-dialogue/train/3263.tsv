@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3263	0	USER	大阪で、焼肉・ホルモンが食べられるお店ってありますか？できれば、福島区あたりにある安めなところが希望です。	general,restaurant,shopping
+3263	1	SYSTEM	全てを満たす店はなさそうです	general,restaurant,shopping
+3263	2	USER	では、予算は普通でお願いします	general,restaurant,shopping
+3263	3	SYSTEM	その条件ならばやきにく宵緒 福島店がオススメです	general,restaurant,shopping
+3263	4	USER	そこの定休日とWiFiが使えるかも教えてください。	general,restaurant,shopping
+3263	5	SYSTEM	月曜と木曜が定休日ですね。WiFiは不明です。	general,restaurant,shopping
+3263	6	USER	わかりました。そこで予約してください。3名で1月22日12時30分でお願いします。	general,restaurant,shopping
+3263	7	SYSTEM	その条件で予約しました。予約番号は25470です。	general,restaurant,shopping
+3263	8	USER	ありがとうございます。あと、買い物できるお店も探しています。無料駐車場付きで良さそうなところはありますか？	general,restaurant,shopping
+3263	9	SYSTEM	いくつかありますが、大阪木津卸売市場はいかがでしょうか	general,restaurant,shopping
+3263	10	USER	良いですね。そこはどの辺にある、なんのジャンルのお店でしょうか？	general,restaurant,shopping
+3263	11	SYSTEM	浪速区にある商店街ですね。	general,restaurant,shopping
+3263	12	USER	近くの駅からどのくらいかかりますか？	general,restaurant,shopping
+3263	13	SYSTEM	大国町駅から徒歩で3分ですね。他今宮戎駅から徒歩で5分、難波駅からなばちょっとがんばって徒歩で15分ってところです。	general,restaurant,shopping
+3263	14	USER	ありがとうございます。念のためお聞きしますが、徒歩で5分の場合の駅名は、他今宮戎駅で合っていますでしょうか？	general,restaurant,shopping
+3263	15	SYSTEM	ほか、今宮戎駅です。今宮戎駅。	general,restaurant,shopping
+3263	16	USER	ありがとうございます。分かりました。	general,restaurant,shopping
+3263	17	SYSTEM	お役に立てて光栄です	general,restaurant,shopping

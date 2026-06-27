@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1293	0	USER	福岡への旅行を計画しているのですが、宿泊施設を探しています。	general,hotel,weather,taxi
+1293	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,hotel,weather,taxi
+1293	2	USER	予算は普通で、WiFiを無料で利用できるところが良いと考えております。	general,hotel,weather,taxi
+1293	3	SYSTEM	7件ほどご案内可能ですが、他にはなにか、ご希望の条件はございませんか？	general,hotel,weather,taxi
+1293	4	USER	大丈夫です、他には条件はありません。	general,hotel,weather,taxi
+1293	5	SYSTEM	では、博多の奥座敷 椎原温泉 割烹旅館みはる荘はいかがでしょうか？	general,hotel,weather,taxi
+1293	6	USER	ありがとうございます、そこに泊まりたいと思います。その旅館の住所を教えていただけますか？	general,hotel,weather,taxi
+1293	7	SYSTEM	かしこまりました。福岡県福岡市早良区大字椎原1203です。	general,hotel,weather,taxi
+1293	8	USER	ありがとうございます、あと当日の天候を知りたいのですが、12月17日の西区の天気はどのようになっていますか？	general,hotel,weather,taxi
+1293	9	SYSTEM	当日の天気は、曇の予報です。最低気温は4.8度、最高気温は15.9度の予想となっております。	general,hotel,weather,taxi
+1293	10	USER	ありがとうございます、あと一点、当日利用できるタクシー会社を探しているのですが、キャッシュレス払いができるジャンボタクシーはありますか？	general,hotel,weather,taxi
+1293	11	SYSTEM	はい。日新交通（株）はいかがでしょうか？	general,hotel,weather,taxi
+1293	12	USER	ありがとうございます、その会社の電話番号をお聞きしてもよろしいですか？	general,hotel,weather,taxi
+1293	13	SYSTEM	0120152452です。	general,hotel,weather,taxi
+1293	14	USER	ありがとうございます。では当日のタクシーを予約したいのですが、12月17日の12時40分に博多の奥座敷 椎原温泉 割烹旅館みはる荘から福岡空港までお願いできますでしょうか。	general,hotel,weather,taxi
+1293	15	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、14864です。	general,hotel,weather,taxi
+1293	16	USER	丁寧なご対応ありがとうございました。お聞きしたい事は以上になります。	general,hotel,weather,taxi
+1293	17	SYSTEM	承知いたしました。もし他にご質問がないようでしたら、これで失礼いたします。本日はご利用ありがとうございました。	general,hotel,weather,taxi

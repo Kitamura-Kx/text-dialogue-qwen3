@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2124	0	USER	こんにちは。今度那覇へ旅行するので、宿泊施設を探しています。シティホテルで、駐車場とWi-Fiが無料のところはどこかありますか？	general,hotel,restaurant
+2124	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,restaurant
+2124	2	USER	そうなんですね。じゃあ駐車場はなくてもいいです。	general,hotel,restaurant
+2124	3	SYSTEM	かしこまりました。では、ホテルロイヤルオリオンはいかがでしょうか？駐車場も有料のものでしたらあります。	general,hotel,restaurant
+2124	4	USER	そちらは近くの駅から所要時間はどれくらいですか？	general,hotel,restaurant
+2124	5	SYSTEM	はい。牧志駅から徒歩で3分となります。	general,hotel,restaurant
+2124	6	USER	ありがとうございます。そちらで予約お願いします。10/14から3泊で、2名です。	general,hotel,restaurant
+2124	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、12376です。	general,hotel,restaurant
+2124	8	USER	それと飲食店で、いしぐふー 港町店というところへ行きたいんですけど、そのお店のエリアと定休日を教えてもらえますか？	general,hotel,restaurant
+2124	9	SYSTEM	はい。いしぐふー 港町店のエリアは本庁になります。定休日は火曜日です。	general,hotel,restaurant
+2124	10	USER	ありがとうございます。そこへ行きたいので、予約お願いします。10/14の13:00で、3名です。	general,hotel,restaurant
+2124	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、82270です。	general,hotel,restaurant
+2124	12	USER	ありがとうございます。これで全部お願いできました。ありがとうございました。	general,hotel,restaurant
+2124	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant

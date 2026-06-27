@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+649	0	USER	福岡へ旅行に行くのに、おすすめの食事ができる飲食店はありますか？	general,restaurant,taxi
+649	1	SYSTEM	福岡のお食事処ですね。100件以上、ご案内できるのですが、ジャンルなどご希望はございますか？	general,restaurant,taxi
+649	2	USER	早良区周辺で、駐車場が無料のところを教えていただけますか？	general,restaurant,taxi
+649	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,restaurant,taxi
+649	4	USER	でしたら、場所はどこでも大丈夫です。	general,restaurant,taxi
+649	5	SYSTEM	ありがとうございます。では、旬や みなくち、というお店はいかがでしょうか？福岡の西区エリアにあるお店です。	general,restaurant,taxi
+649	6	USER	ではそちらでお願いします。3人で12/5の12:20からって予約可能でしょうか。	general,restaurant,taxi
+649	7	SYSTEM	はい、ご予約承りました。予約番号は、15939でございます。	general,restaurant,taxi
+649	8	USER	ありがとうございました。	general,restaurant,taxi
+649	9	SYSTEM	ほかにお調べすることはございませんか？	general,restaurant,taxi
+649	10	USER	飯倉タクシー（株）というタクシーを使用したいのですが、利用できますか？	general,restaurant,taxi
+649	11	SYSTEM	はい、福岡に1件、該当する会社がございます。予約をお取りしますか？	general,restaurant,taxi
+649	12	USER	お願いします。まず、ジャンボタクシーの対応有無をうかがってもよろしいでしょうか。	general,restaurant,taxi
+649	13	SYSTEM	申し訳ございません。こちらの会社は、ジャンボタクシーには非対応となっております。	general,restaurant,taxi
+649	14	USER	ありがとうございます。予約ですが、12/5の10:30で、出発地は童具店・福岡、目的地は旬や みなくちで可能でしょうか。	general,restaurant,taxi
+649	15	SYSTEM	はい、ご予約承りました。予約番号は、87185です。	general,restaurant,taxi
+649	16	USER	ありがとうございました。	general,restaurant,taxi

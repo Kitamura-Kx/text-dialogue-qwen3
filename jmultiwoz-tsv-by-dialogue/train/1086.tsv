@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1086	0	USER	こんにちは、京都へ行きたいと思っているのですが、良いお店はありますか？	general,restaurant,weather
+1086	1	SYSTEM	京都ですね。　希望条件などは、ございますか？	general,restaurant,weather
+1086	2	USER	駐車場代がかからない店舗で、場所は中京区で考えています。	general,restaurant,weather
+1086	3	SYSTEM	買物や宿泊施設などご希望はありますか？	general,restaurant,weather
+1086	4	USER	飲食店を探しています。	general,restaurant,weather
+1086	5	SYSTEM	飲食店ですね。　牛々亭は、いかがでしょうか？	general,restaurant,weather
+1086	6	USER	牛々亭は何料理のお店でしょうか？	general,restaurant,weather
+1086	7	SYSTEM	ジャンルによれば、焼肉・ホルモンとなっています。	general,restaurant,weather
+1086	8	USER	予算どの程度で食事ができるお店でしょうか？	general,restaurant,weather
+1086	9	SYSTEM	値段帯は、普通となっています。	general,restaurant,weather
+1086	10	USER	お店の電話番号は分かりますか？予約もお願いしたいです。	general,restaurant,weather
+1086	11	SYSTEM	電話番号は、0753260298です。　予約希望の日時と人数をお知らせ下さい。	general,restaurant,weather
+1086	12	USER	8/17の14時から、2人での予約をお願いできますか。	general,restaurant,weather
+1086	13	SYSTEM	予約出来ました。予約番号は、55656です。	general,restaurant,weather
+1086	14	USER	ありがとうございます。8/17の北区のお天気についても知りたいです。	general,restaurant,weather
+1086	15	SYSTEM	その日の天気は、晴時々曇の予報です。	general,restaurant,weather
+1086	16	USER	最低気温は何度か分かりますか？	general,restaurant,weather
+1086	17	SYSTEM	最低気温は、21.6度です。	general,restaurant,weather
+1086	18	USER	ありがとうございました。	general,restaurant,weather
+1086	19	SYSTEM	他にご用件はございますか？	general,restaurant,weather
+1086	20	USER	いいえ、ありません。お世話になりました。	general,restaurant,weather
+1086	21	SYSTEM	承知致しました。　ありがとうございました。	general,restaurant,weather

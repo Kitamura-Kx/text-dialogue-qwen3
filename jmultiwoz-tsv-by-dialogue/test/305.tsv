@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+305	0	USER	すみません。那覇の旅行を考えていまして。	general,attraction
+305	1	SYSTEM	はい、何がご希望でしょうか。	general,attraction
+305	2	USER	本庁の観光地ってありますかね？フリーWi-Fiが使えて、美栄橋駅の近くだと嬉しいです。	general,attraction
+305	3	SYSTEM	その条件ですと、歩のサーターアンダギーなどはいかがでしょう。	general,attraction
+305	4	USER	そこは、どういった場所になるんでしょうか？	general,attraction
+305	5	SYSTEM	ジャンルはその他になっています。	general,attraction
+305	6	USER	そうですか。大人の場合、入場料はかかるんですか？	general,attraction
+305	7	SYSTEM	大人入場料は無料になっています。	general,attraction
+305	8	USER	それはいいですね。立ち寄ってみたいと思います。	general,attraction
+305	9	SYSTEM	ぜひ、行っていただければとおもいます。	general,attraction
+305	10	USER	はい、今日はありがとうございました。失礼します。	general,attraction

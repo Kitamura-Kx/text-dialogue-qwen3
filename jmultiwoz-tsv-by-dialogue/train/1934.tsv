@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1934	0	USER	大阪へ行こうと思っています。浪速区にあってWiFiと駐車場が無料で利用できる観光名所を探していただきたいです。	general,attraction,hotel
+1934	1	SYSTEM	残念ながらすべてを満たす観光名所はなさそうです。	general,attraction,hotel
+1934	2	USER	では地区は考慮せず同条件で探していただけますか？	general,attraction,hotel
+1934	3	SYSTEM	大阪でWiFiと駐車場が無料で利用できる観光名所といえば、鶴見緑地湯元 水春になります。	general,attraction,hotel
+1934	4	USER	そちらの営業時間、ジャンルを教えていただけますでしょうか。	general,attraction,hotel
+1934	5	SYSTEM	営業時間は朝６時から夜中の２時まで、ジャンルは銭湯・スパ, 温泉になります。	general,attraction,hotel
+1934	6	USER	わかりました。ありがとうございます。	general,attraction,hotel
+1934	7	SYSTEM	他にご希望はありますか？	general,attraction,hotel
+1934	8	USER	予算は普通でレストランが併設されている宿泊施設を探していただきたいです。	general,attraction,hotel
+1934	9	SYSTEM	それならば大阪マリオット都ホテルがオススメです。	general,attraction,hotel
+1934	10	USER	そちらのチェックイン開始時刻を教えていただけますでしょうか。	general,attraction,hotel
+1934	11	SYSTEM	15:00になります。	general,attraction,hotel
+1934	12	USER	わかりました。ありがとうございます。	general,attraction,hotel
+1934	13	SYSTEM	お役に立てて光栄です。	general,attraction,hotel
+1934	14	USER	ありがとうございました。	general,attraction,hotel

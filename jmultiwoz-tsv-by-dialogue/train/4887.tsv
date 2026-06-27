@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4887	0	USER	エル・パーク仙台へ行きたいので、定休日を調べてもらえますか？	general,attraction,taxi,weather
+4887	1	SYSTEM	エル・パーク仙台の詳細を教えていただけますでしょうか。	general,attraction,taxi,weather
+4887	2	USER	エル・パーク仙台という観光名所です。そこの定休日が知りたいです。	general,attraction,taxi,weather
+4887	3	SYSTEM	承知しました。定休日は年末年始です。	general,attraction,taxi,weather
+4887	4	USER	ありがとうございます。あと仙台で、キャッシュレス払いができてジャンボタクシーが利用できるタクシー会社を探してほしいです。	general,attraction,taxi,weather
+4887	5	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,attraction,taxi,weather
+4887	6	USER	ではジャンボタクシーはなくてもいいので、キャッシュレス払い対応のタクシー会社でどこかいいところはありますか？	general,attraction,taxi,weather
+4887	7	SYSTEM	宮城タクシー（株）はいかがでしょうか？	general,attraction,taxi,weather
+4887	8	USER	そこでお願いしようと思います。8/18 10:30にエル・パーク仙台からときわ亭 国分町店まで予約をお願いします。	general,attraction,taxi,weather
+4887	9	SYSTEM	予約が完了しました。予約番号は97624です。	general,attraction,taxi,weather
+4887	10	USER	ありがとうございます。あと8/18の青葉区の天気と最低気温を調べてもらえますか？	general,attraction,taxi,weather
+4887	11	SYSTEM	承知しました。8/18の青葉区の天気は晴のち曇です。最低気温は23.9度です。	general,attraction,taxi,weather
+4887	12	USER	ありがとうございます。	general,attraction,taxi,weather
+4887	13	SYSTEM	他にご用件はありますか？	general,attraction,taxi,weather
+4887	14	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,taxi,weather

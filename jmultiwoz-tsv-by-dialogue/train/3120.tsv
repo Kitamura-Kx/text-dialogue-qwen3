@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3120	0	USER	仙台旅行に行くので宿泊施設を探しています。条件をあげていいですか？	general,hotel,shopping,attraction
+3120	1	SYSTEM	かしこまりました。どういったご希望がございますでしょうか？	general,hotel,shopping,attraction
+3120	2	USER	予算は高めでレストランが併設されていて最寄り駅が長町駅です。ありますかね？	general,hotel,shopping,attraction
+3120	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel,shopping,attraction
+3120	4	USER	じゃあ長町駅でなくてもOKです	general,hotel,shopping,attraction
+3120	5	SYSTEM	ありがとうございます。そういたしますと、秋保温泉 茶寮宗園という太白区の旅館はいかがでしょうか？	general,hotel,shopping,attraction
+3120	6	USER	料金情報と近辺の駅からの所要時間と電話番号を教えて貰っていいですか？	general,hotel,shopping,attraction
+3120	7	SYSTEM	かしこまりました。まず、料金につきましては、お値段がお高めでWiFiと駐車場が無料でご利用いただけるということ以外、詳しい料金情報が手元になく、ご案内できかねます。申し訳ございません。アクセスは、仙台駅からタクシーで30分、または仙台駅からバスで30分ほどかかります。電話番号は、0223982311です。	general,hotel,shopping,attraction
+3120	8	USER	分かりました！あと最寄り駅が岩切駅で、駐車場が無料で買い物できる場所を探しています	general,hotel,shopping,attraction
+3120	9	SYSTEM	そうしましたら、セブンイレブン 仙台鶴ヶ丘店はいかがでしょうか？	general,hotel,shopping,attraction
+3120	10	USER	営業時間と住所を教えてください	general,hotel,shopping,attraction
+3120	11	SYSTEM	営業時間は、0時から0時となっておりますので、24時間ですね。住所は、宮城県仙台市泉区松森字鼠堂1でございます。	general,hotel,shopping,attraction
+3120	12	USER	わかりました。あと最寄り駅が東照宮駅の観光名所はありますか？	general,hotel,shopping,attraction
+3120	13	SYSTEM	はい、1件ご案内できます。仙台東照宮 石鳥居というところですが、ご興味ございますか？	general,hotel,shopping,attraction
+3120	14	USER	はい。営業時間と大人の入場料とWi-Fiの有無の3つを教えてください	general,hotel,shopping,attraction
+3120	15	SYSTEM	かしこまりました。営業時間は0時から0時ですので、24時間ですね。入場料金は大人もお子様も0円で無料です。また、こちらは、WiFiのご提供はないようです。	general,hotel,shopping,attraction
+3120	16	USER	わかりました。いろいろと詳しくありがとうございました	general,hotel,shopping,attraction
+3120	17	SYSTEM	こちらこそ、ご利用ありがとうございました。他にご質問などないようでしたら、これで失礼いたします。	general,hotel,shopping,attraction
+3120	18	USER	はい、大丈夫です。ありがとうございました	general,hotel,shopping,attraction
+3120	19	SYSTEM	こちらこそ、ありがとうございます。またのご利用をお待ちしております。	general,hotel,shopping,attraction

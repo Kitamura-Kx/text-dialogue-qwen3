@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3958	0	USER	那覇へ旅行に行くので、観光名所を探しています。小禄で、最寄り駅が那覇空港駅のところはないでしょうか？	general,attraction,taxi
+3958	1	SYSTEM	はい、２件ご案内可能です。たとえば、パイナップルハウスというところはいかがでしょうか？ジャンルとしては、工場見学, 産業観光の施設となります。	general,attraction,taxi
+3958	2	USER	よさそうですね。あと、鏡原第一交通というタクシー会社はありますか？	general,attraction,taxi
+3958	3	SYSTEM	はい、ございます。どういった情報をご案内いたしましょうか？	general,attraction,taxi
+3958	4	USER	キャッシュレスと、ジャンボタクシーに対応していますか？	general,attraction,taxi
+3958	5	SYSTEM	はい、どちらにも対応しております。	general,attraction,taxi
+3958	6	USER	では、電話番号を教えてください。	general,attraction,taxi
+3958	7	SYSTEM	かしこまりました。電話番号は、0988537801でございます。	general,attraction,taxi
+3958	8	USER	そのタクシーを予約します。6月9日に、謝花きっぱん店からパイナップルハウスまで行きたいのでお願いします。	general,attraction,taxi
+3958	9	SYSTEM	ありがとうございます。ご利用予定の日の、出発時刻はお決まりでしょうか？	general,attraction,taxi
+3958	10	USER	時間は13:50です。	general,attraction,taxi
+3958	11	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、14507でございます。	general,attraction,taxi
+3958	12	USER	ありがとうございました。	general,attraction,taxi
+3958	13	SYSTEM	他にお調べすることはございませんか？	general,attraction,taxi
+3958	14	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,taxi
+3958	15	SYSTEM	こちらこそ、ありがとうございます。では、またのご利用をお待ちしております。	general,attraction,taxi

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1743	0	USER	こんにちは。京都で買い物できる場所を探しています。今出川駅近くで、無料駐車場のあるスポットはありますか？	general,shopping,weather
+1743	1	SYSTEM	今出川駅近くで無料駐車場の買い物スポットといえば、鶴屋𠮷信 本店一択です。	general,shopping,weather
+1743	2	USER	営業時間と電話番号、住所も教えて頂けますか？	general,shopping,weather
+1743	3	SYSTEM	09:00～18:00、電話は0754410105、住所は京都府京都市上京区今出川通堀川西入るになります。	general,shopping,weather
+1743	4	USER	ありがとうございます。続いて、天気も教えてください。1/18、東山区の最低気温と最高気温の予想は何度ですか？	general,shopping,weather
+1743	5	SYSTEM	1/18、東山区の最低気温は0.7度、最高気温は10.9度です。	general,shopping,weather
+1743	6	USER	ありがとうございます。助かりました！	general,shopping,weather

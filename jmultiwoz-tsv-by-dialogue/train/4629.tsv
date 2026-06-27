@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4629	0	USER	こんにちは。京都に旅行する予定ですが、祇園四条駅が最寄りで駐車場が無料の観光名所を教えていただけますか？	general,attraction
+4629	1	SYSTEM	かしこまりました。では、安井金比羅宮はいかがでしょうか。	general,attraction
+4629	2	USER	そちらに行きたいと思います。電話番号はわかりますか？	general,attraction
+4629	3	SYSTEM	電話番号は0755615127でございます。	general,attraction
+4629	4	USER	ありがとうございました。	general,attraction

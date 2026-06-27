@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1353	0	USER	札幌への旅行を計画しています．	general,attraction,weather
+1353	1	SYSTEM	はいお問合せありがとうございます。	general,attraction,weather
+1353	2	USER	当日訪れる観光名所を探してください．駐車場を無料で利用できるところがいいです。	general,attraction,weather
+1353	3	SYSTEM	札幌市水道記念館はいかがでしょうか。	general,attraction,weather
+1353	4	USER	いいですね。最寄り駅，料金情報をおしえてください。	general,attraction,weather
+1353	5	SYSTEM	最寄り駅はロープウエー入口停留所で料金情報は無料です。	general,attraction,weather
+1353	6	USER	ありがとうございます。あと白石区の9/3の天気も知りたいです。	general,attraction,weather
+1353	7	SYSTEM	天気は曇です。	general,attraction,weather
+1353	8	USER	最低気温も知りたいです。	general,attraction,weather
+1353	9	SYSTEM	最低気温は16.3度です。	general,attraction,weather
+1353	10	USER	ありがとうございます。	general,attraction,weather

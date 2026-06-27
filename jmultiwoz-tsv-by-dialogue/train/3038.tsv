@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3038	0	USER	那覇旅行で、泊まる宿泊施設を探していただけますでしょうか。	general,hotel,taxi
+3038	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,hotel,taxi
+3038	2	USER	真和志周辺で、レストランが併設されているリゾートホテルはありますか？	general,hotel,taxi
+3038	3	SYSTEM	真和志でレストラン併設のリゾートホテルは３件ありますが、ノボテル沖縄那覇をお勧めします。	general,hotel,taxi
+3038	4	USER	ではそちらにします。近辺の駅からの所要時間とチェックイン開始時刻について教えてください。	general,hotel,taxi
+3038	5	SYSTEM	安里駅から徒歩で20分、チェックインは１５時からになります。	general,hotel,taxi
+3038	6	USER	ありがとうございます。4人で5/31から3泊泊まりたいのですが、予約できますか？	general,hotel,taxi
+3038	7	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,hotel,taxi
+3038	8	USER	3人であれば予約できますか？	general,hotel,taxi
+3038	9	SYSTEM	３人なら予約できました。予約番号は40817です。	general,hotel,taxi
+3038	10	USER	ありがとうございます。キャッシュレス払いできるタクシー会社も教えていただけますでしょうか。	general,hotel,taxi
+3038	11	SYSTEM	那覇でキャッシュレス対応のタクシー会社はいくつかありますが、丸二タクシーをお勧めします。	general,hotel,taxi
+3038	12	USER	ではそちらを使いたいと思います。ジャンボタクシー対応可否と電話番号を教えてください。	general,hotel,taxi
+3038	13	SYSTEM	ジャンボ対応しています。電話は0988552140になります。	general,hotel,taxi
+3038	14	USER	ではそちらで予約をお願いできますでしょうか。5/31の13:30で、出発地はノボテル沖縄那覇、目的地はやっぱりステーキ 国際通りがじゅまる店でお願いします。	general,hotel,taxi
+3038	15	SYSTEM	予約成功しました。予約番号は55710です。	general,hotel,taxi
+3038	16	USER	ありがとうございました。	general,hotel,taxi

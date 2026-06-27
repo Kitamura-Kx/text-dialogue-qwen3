@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3261	0	USER	札幌でタクシーを使いたいんですが。キャッシュレスOKでジャンボタクシーに乗れるところってありますか？	general,taxi
+3261	1	SYSTEM	いくつかありますが、北都交通をオススメします。	general,taxi
+3261	2	USER	そこの電話番号を教えてください。	general,taxi
+3261	3	SYSTEM	0112904181です。	general,taxi
+3261	4	USER	ではそこで予約をお願いします。6月25日、10時半に札幌市民防災センターから、ノースサファリサッポロまでで、予約取れそうですか？	general,taxi
+3261	5	SYSTEM	その条件で予約成功しました。予約番号は759です。	general,taxi
+3261	6	USER	ありがとうございます。	general,taxi
+3261	7	SYSTEM	他に要件はありますか	general,taxi
+3261	8	USER	いえ、もう大丈夫です。ありがとうございました。	general,taxi

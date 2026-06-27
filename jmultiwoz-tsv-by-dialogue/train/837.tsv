@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+837	0	USER	仙台に旅行しようと思ってまして、、、7/31の最低気温を教えて頂けますか？場所は泉区です。	general,weather,taxi
+837	1	SYSTEM	かしこまりました。最低気温は16.5度でございます。	general,weather,taxi
+837	2	USER	分かりました。続いてタクシーの予約もお願いしたいですが。キャッシュレス決済できる会社を探してください。	general,weather,taxi
+837	3	SYSTEM	申し訳ございません。キャッシュレスに対応している会社はございませんでした。いかがなさいますか。	general,weather,taxi
+837	4	USER	それは残念ですが、、、仕方ないですね。キャッシュレス以外の決済手段でも構いません。	general,weather,taxi
+837	5	SYSTEM	稲荷タクシー（有）がございます。	general,weather,taxi
+837	6	USER	そちらでお願いします。予約は7/31、12:50でお願いします。出発は伝承千年の宿 佐勘、到着は榴岡公園に設定してください。	general,weather,taxi
+837	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,weather,taxi
+837	8	USER	そうですか。では時間は13:50に変更してください。	general,weather,taxi
+837	9	SYSTEM	その時間ですと予約が可能でございました。予約番号は61300でございます。	general,weather,taxi
+837	10	USER	ありがとうございます！	general,weather,taxi

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+319	0	USER	今、横浜旅行を考えているんです。いい観光名所はないですか？	general,attraction
+319	1	SYSTEM	エリアなど、何かご希望はございますか？	general,attraction
+319	2	USER	中区でWi-Fiが無料で使える所でお願いします。	general,attraction
+319	3	SYSTEM	申し訳ありません。その条件ですとご紹介ができません。いかが致しましょう？	general,attraction
+319	4	USER	では、Wi-Fiは無料で利用できなくても大丈夫です。	general,attraction
+319	5	SYSTEM	ありがとうございます。それでは、よこはまコスモワールドはいかがでしょう？	general,attraction
+319	6	USER	よこはまコスモワールドはどのあたりのエリアにあるんですか？	general,attraction
+319	7	SYSTEM	エリアでいうと中区になります。住所は横浜市中区新港2丁目8-1、電話番号は0456416591、近くのみなとみらい駅から徒歩で2分です。	general,attraction
+319	8	USER	わかりました。こちらの施設はどんなジャンルの施設なのでしょうか？	general,attraction
+319	9	SYSTEM	ジャンルはテーマパークとなります。	general,attraction
+319	10	USER	そうなのですね。助かりました、ありがとうございました！	general,attraction

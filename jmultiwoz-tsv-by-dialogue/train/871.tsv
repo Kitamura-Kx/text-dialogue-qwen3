@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+871	0	USER	那覇へ旅行に行くのですがWi-Fiが無料の宿泊施設はありますか？	general,hotel
+871	1	SYSTEM	はい、96件ほど、ご案内可能です。エリアなど、ご希望の条件はございませんか？	general,hotel
+871	2	USER	特にありません	general,hotel
+871	3	SYSTEM	承知いたしました。では、沖縄ハーバービューホテルという本庁エリアにあるシティホテルは、いかがでしょうか？	general,hotel
+871	4	USER	ちなみにそちらは駐車場はありますか？	general,hotel
+871	5	SYSTEM	はい、有料となりますが、ご利用いただけます。	general,hotel
+871	6	USER	ありがとうございます。それでは予約をお願いします、11月19日から2泊、4名でお願いします	general,hotel
+871	7	SYSTEM	申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,hotel
+871	8	USER	3名では可能でしょうか	general,hotel
+871	9	SYSTEM	ありがとうございます。予約が完了いたしました。ご予約番号は、63930です。	general,hotel
+871	10	USER	助かりました有難うございました	general,hotel
+871	11	SYSTEM	ほかに何かお調べすることはございませんか？	general,hotel
+871	12	USER	はい大丈夫です	general,hotel
+871	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1830	0	USER	福岡へ旅行に行くんですが、観光名所を探してほしいです！	general,attraction
+1830	1	SYSTEM	希望条件などは、ございますか？	general,attraction
+1830	2	USER	西区にある美術館・博物館でお願いします。Wi-Fiが無料のところがいいです！	general,attraction
+1830	3	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,attraction
+1830	4	USER	では、早良区だとどうでしょう？	general,attraction
+1830	5	SYSTEM	福岡市博物館は、いかがですか？	general,attraction
+1830	6	USER	いいですね！最寄り駅は分かりますか？	general,attraction
+1830	7	SYSTEM	最寄り駅は、藤崎駅になります。	general,attraction
+1830	8	USER	ありがとうございます。	general,attraction
+1830	9	SYSTEM	他にご用件はありますか？	general,attraction
+1830	10	USER	これで大丈夫です。助かりました！	general,attraction
+1830	11	SYSTEM	承知致しました。　ありがとうございました。	general,attraction

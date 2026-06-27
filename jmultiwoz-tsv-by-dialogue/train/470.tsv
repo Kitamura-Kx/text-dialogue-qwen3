@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+470	0	USER	大阪でキャッシュレス決済可能なタクシー会社を探してほしいです。	general,taxi
+470	1	SYSTEM	かしこまりました。株式会社国際興業大阪がございます。	general,taxi
+470	2	USER	そちらの会社はジャンボタクシーには対応していますか？	general,taxi
+470	3	SYSTEM	ジャンボタクシーにも対応しております。	general,taxi
+470	4	USER	では、予約をお願いします。7/8の14:30で。	general,taxi
+470	5	SYSTEM	かしこまりました。では詳細をお聞かせいただけますか。	general,taxi
+470	6	USER	出発地はシェラトン都ホテル大阪で、目的地は大阪府立中之島図書館でお願いしたいです。	general,taxi
+470	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は52158でございます。	general,taxi
+470	8	USER	はい、わかりました。ありがとうございます。	general,taxi

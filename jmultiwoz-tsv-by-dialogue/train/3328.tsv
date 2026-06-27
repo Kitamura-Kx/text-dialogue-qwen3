@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3328	0	USER	名古屋への旅行を計画中で、無料の駐車場とWi-fi付きの飲食店を探しています。	general,restaurant,hotel
+3328	1	SYSTEM	申し訳ございません、名古屋で無料駐車場、無料wi-fiの条件では該当ございませんでした。いかがいたしましょうか？	general,restaurant,hotel
+3328	2	USER	分かりました。では、駐車場は無くても構いません。	general,restaurant,hotel
+3328	3	SYSTEM	かしこまりました。そうしますと、とり焼肉 もう壱鳥とあと2件該当ございます。いかがいたしましょうか？	general,restaurant,hotel
+3328	4	USER	とり焼肉 もう壱鳥にしようと思います。エリアを教えてください。	general,restaurant,hotel
+3328	5	SYSTEM	承知いたしました。エリアは東区でございます。	general,restaurant,hotel
+3328	6	USER	ありがとうございます。2/18の12:30に3名で予約して欲しいのですが、可能でしょうか。	general,restaurant,hotel
+3328	7	SYSTEM	2/18の12:30に3名様で予約承りました。予約番号は10482でございます。	general,restaurant,hotel
+3328	8	USER	ありがとうございます。当日泊まるレストラン付きのシティホテルを探しているのですが、ありますか？	general,restaurant,hotel
+3328	9	SYSTEM	はい、そちらの条件ですとホテルトラスティ名古屋栄ほか１６件ご紹介可能でございます。いかがいたしましょうか？	general,restaurant,hotel
+3328	10	USER	ホテルトラスティ名古屋栄にしようと思います。料金情報と値段帯を教えてください。	general,restaurant,hotel
+3328	11	SYSTEM	かしこまりました。詳細な料金情報はございませんでした。価格帯は安め、となっております。	general,restaurant,hotel
+3328	12	USER	ありがとうございます。2/18に3名で3泊予約して欲しいのですが可能でしょうか	general,restaurant,hotel
+3328	13	SYSTEM	申し訳ございません、そちらの条件ではご予約がお取りできませんでした。ご変更などございますか？	general,restaurant,hotel
+3328	14	USER	分かりました。では、人数を2名に変更してください。	general,restaurant,hotel
+3328	15	SYSTEM	かしこまりました。それでは2月18日、2名様で3泊のご予約を完了しました。予約番号は16760でございます。	general,restaurant,hotel
+3328	16	USER	助かります。ありがとうございます。	general,restaurant,hotel
+3328	17	SYSTEM	ありがとうございました。	general,restaurant,hotel
+3328	18	USER	では、失礼します。	general,restaurant,hotel

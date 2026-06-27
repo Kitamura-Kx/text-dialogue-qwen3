@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1313	0	USER	こんにちは。横浜へ旅行するので、観光名所の野毛山動物園へ行きたいのですが、営業時間と、そこのエリアがどこか教えてもらえますか？	general,attraction,shopping,weather
+1313	1	SYSTEM	かしこまりました。野毛山動物園の営業時間は、9:30～16:30となります。エリアは西区にございます。	general,attraction,shopping,weather
+1313	2	USER	ありがとうございます。当日買い物もしたいのですが、金沢区で駐車場無料の施設はありますか？	general,attraction,shopping,weather
+1313	3	SYSTEM	はい、1件ございます。コストコ金沢シーサイド倉庫というお店ですが、いかがでしょうか？	general,attraction,shopping,weather
+1313	4	USER	ありがとうございます。行ってみます。8/27に行く予定ですが、当日の最低気温をお調べいただけますか？	general,attraction,shopping,weather
+1313	5	SYSTEM	かしこまりました。お調べするエリアをお伺いしてもよろしいでしょうか？	general,attraction,shopping,weather
+1313	6	USER	すみません、戸塚区でお願いします。	general,attraction,shopping,weather
+1313	7	SYSTEM	当日、戸塚区の最低気温は、30.2度の予想です。	general,attraction,shopping,weather
+1313	8	USER	ありがとうございます。助かりました。	general,attraction,shopping,weather
+1313	9	SYSTEM	他になにかお調べすることはございますか？	general,attraction,shopping,weather
+1313	10	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,shopping,weather
+1313	11	SYSTEM	こちらこそ、ありがとうございます。またのご利用をお待ちしております。	general,attraction,shopping,weather

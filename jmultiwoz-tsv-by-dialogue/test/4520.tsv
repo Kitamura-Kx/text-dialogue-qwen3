@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4520	0	USER	札幌への旅行を計画しているんですけど、その時に泊まるところを探してもらえますか？	general,hotel
+4520	1	SYSTEM	かしこまりました。１００件ございますが、ご希望の条件はございますか。	general,hotel
+4520	2	USER	そうですね、レストランが併設されていて駐車場が無料のところがいいです。	general,hotel
+4520	3	SYSTEM	ではJRタワーホテル日航札幌はいかがですか。	general,hotel
+4520	4	USER	そちらのタイプを教えてもらえますか？	general,hotel
+4520	5	SYSTEM	タイプはシティホテルとなっております。	general,hotel
+4520	6	USER	じゃあJRタワーホテル日航札幌で9/30から2泊、2名での宿泊予約をお願いできますか？	general,hotel
+4520	7	SYSTEM	かしこまりました。予約番号は73822でございます。	general,hotel
+4520	8	USER	ありがとうございます。	general,hotel
+4520	9	SYSTEM	ほかにご用件はございませんか。	general,hotel
+4520	10	USER	他にはありません、ありがとうございました。	general,hotel
+4520	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

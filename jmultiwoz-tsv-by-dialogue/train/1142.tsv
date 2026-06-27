@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1142	0	USER	那覇へ旅行に行きたいのですが、宿泊施設を探しています。	general,hotel
+1142	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel
+1142	2	USER	希望としては、レストランが併設されていて、また駐車場を無料で利用できるところがいいです。	general,hotel
+1142	3	SYSTEM	ではパシフィックホテル沖縄はいかがでしょうか。	general,hotel
+1142	4	USER	そこに行こうと思います。そのホテルの最寄駅からの所要時間を教えてください。	general,hotel
+1142	5	SYSTEM	旭橋駅から徒歩で15分でございます。	general,hotel
+1142	6	USER	ありがとうございます。では予約をさせていただきたいです。人数は2名、日付は1/10で2泊お願いします。	general,hotel
+1142	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel
+1142	8	USER	それでは宿泊日数を減らして1泊でしたらいかがでしょうか。	general,hotel
+1142	9	SYSTEM	1泊ですと予約が可能でございました。予約番号は88598でございます。	general,hotel
+1142	10	USER	ありがとうございます。	general,hotel
+1142	11	SYSTEM	ほかにご用件はございますか。	general,hotel
+1142	12	USER	特にございません。	general,hotel
+1142	13	SYSTEM	承知しました。ありがとうございました。	general,hotel

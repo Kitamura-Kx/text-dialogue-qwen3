@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+726	0	USER	仙台に行こうと思っているんですが、五橋駅近くで泊まれるところを探しています。	general,hotel,shopping
+726	1	SYSTEM	そうしますと、アパヴィラホテル<仙台駅五橋>という、お値段帯が普通のビジネスホテルはいかがでしょうか？	general,hotel,shopping
+726	2	USER	ありがとうございます。そちらのホテルにはレストランはありますでしょうか？	general,hotel,shopping
+726	3	SYSTEM	はい、ございます。	general,hotel,shopping
+726	4	USER	近くの駅からはどのくらいかかりますか？	general,hotel,shopping
+726	5	SYSTEM	最寄りの五橋駅から徒歩で2分、仙台駅からは徒歩で8分ほどかかります。	general,hotel,shopping
+726	6	USER	タイプでいうと何になるんでしょうか？	general,hotel,shopping
+726	7	SYSTEM	ビジネスホテルになります。	general,hotel,shopping
+726	8	USER	すみません。先ほども言っておられましたね。そちらの予約をお願いできますか？	general,hotel,shopping
+726	9	SYSTEM	かしこまりました。ご宿泊予定の人数と日付、ご宿泊日数はお決まりでしょうか？	general,hotel,shopping
+726	10	USER	５月１８日から４泊で、人数は３人でお願いします。	general,hotel,shopping
+726	11	SYSTEM	申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,hotel,shopping
+726	12	USER	３泊に変更したら予約可能でしょうか？	general,hotel,shopping
+726	13	SYSTEM	ありがとうございます。3泊のご宿泊にて、ご予約完了しました。予約番号は、11538です。	general,hotel,shopping
+726	14	USER	ありがとうございます。あと、当日宮城野区で文房具や雑貨の買い物をしたいんですが、どこかありますか？	general,hotel,shopping
+726	15	SYSTEM	はい、1件ございます。umimorishop ミュージアムショップというお店ですが、如何でしょうか？ジャンルは、お土産, 文房具・雑貨, その他、となります。	general,hotel,shopping
+726	16	USER	そちらは駐車場を無料で利用できますか？	general,hotel,shopping
+726	17	SYSTEM	はい、ご利用いただけます。	general,hotel,shopping
+726	18	USER	ありがとうございます。そこに行こうと思います。定休日を教えてもらえますか？	general,hotel,shopping
+726	19	SYSTEM	こちらのお店は、定休日はございません。	general,hotel,shopping
+726	20	USER	そうなんですね。近くの駅からはどのくらいかかりますか？	general,hotel,shopping
+726	21	SYSTEM	中野栄駅から徒歩で15分、中野栄駅からバスですと10分ほどとなります。	general,hotel,shopping
+726	22	USER	ありがとうございました。これで大丈夫です。	general,hotel,shopping
+726	23	SYSTEM	承知しました。他にお調べすることはございますか？	general,hotel,shopping
+726	24	USER	大丈夫です。ありがとうございました。	general,hotel,shopping
+726	25	SYSTEM	では、本日はご利用ありがとうございました。	general,hotel,shopping

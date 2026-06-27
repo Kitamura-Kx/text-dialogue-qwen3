@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3777	0	USER	名古屋への旅行を計画しているのですが、飲食店をさがしてもらえますか？予算は普通が良いです。	general,restaurant,weather,taxi
+3777	1	SYSTEM	承知しました。他にご希望はございますか？	general,restaurant,weather,taxi
+3777	2	USER	いいえ、ありません。	general,restaurant,weather,taxi
+3777	3	SYSTEM	では、エリアでいうと千種区にある、のりぃ野ダイニングはいかがでしょう？ジャンルは、洋食、西洋料理となります。	general,restaurant,weather,taxi
+3777	4	USER	ありがとうございます。千種区の3/6の最低気温を教えてもらえますか？	general,restaurant,weather,taxi
+3777	5	SYSTEM	はい、天気は曇、最低気温3.4度、最高気温16.2度となります。	general,restaurant,weather,taxi
+3777	6	USER	あと、キャッシュレス払いが可能で、ジャンボタクシーを利用できるタクシー会社を探してもらえますか？	general,restaurant,weather,taxi
+3777	7	SYSTEM	申し訳ありません、キャッシュレス、ジャンボタクシー対応のタクシー会社はございません。いかが致しましょう？	general,restaurant,weather,taxi
+3777	8	USER	じゃあキャッシュレス払いを条件から外して下さい。	general,restaurant,weather,taxi
+3777	9	SYSTEM	承知しました。では、丸八交通はいかがでしょう？電話番号は、0528026711となります。	general,restaurant,weather,taxi
+3777	10	USER	では3/6の朝10:50にのりぃ野ダイニングからまる八 大衆酒場 ちゃおまる。までタクシーを予約してもらえますか？	general,restaurant,weather,taxi
+3777	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、22267となります。	general,restaurant,weather,taxi
+3777	12	USER	ありがとうございました。	general,restaurant,weather,taxi
+3777	13	SYSTEM	ありがとうございました。	general,restaurant,weather,taxi

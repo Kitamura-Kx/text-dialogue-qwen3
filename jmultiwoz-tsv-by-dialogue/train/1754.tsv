@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1754	0	USER	京都の百貨店や総合スーパーの買い物店舗を探しているのですが、駐車場を無料で利用できるようなところはありますか？	general,shopping,attraction,weather
+1754	1	SYSTEM	京都で駐車場無料の百貨店といえば、大丸京都店です。	general,shopping,attraction,weather
+1754	2	USER	わかりました。最寄り駅と営業時間を知りたいです。	general,shopping,attraction,weather
+1754	3	SYSTEM	最寄り駅は烏丸駅、朝１０時から夕方８時までやっていますね。	general,shopping,attraction,weather
+1754	4	USER	わかりました。観光名所も探しているのですが、駐車場を無料で利用できて、キャンプできるような場所はありますか？	general,shopping,attraction,weather
+1754	5	SYSTEM	京都で駐車場を無料で利用できるキャンプはありません。	general,shopping,attraction,weather
+1754	6	USER	わかりました。なら、キャンプじゃなくてもいいです。	general,shopping,attraction,weather
+1754	7	SYSTEM	ジャンルにこだわらなければ駐車場無料は６件ありますが、アウトドアや自然系ならば桂坂野鳥遊園をお勧めします。	general,shopping,attraction,weather
+1754	8	USER	そこがいいです。住所を教えてください。	general,shopping,attraction,weather
+1754	9	SYSTEM	京都府京都市西京区御陵北大枝山町1-100です。	general,shopping,attraction,weather
+1754	10	USER	わかりました。8/25に行く予定なのですが、その日の伏見区の天気も教えてもらえますか？	general,shopping,attraction,weather
+1754	11	SYSTEM	8/25 京都 伏見区 の天気は晴時々雨です。	general,shopping,attraction,weather
+1754	12	USER	なるほど。最低気温もわかりますか？	general,shopping,attraction,weather
+1754	13	SYSTEM	21.7度ですね。	general,shopping,attraction,weather
+1754	14	USER	わかりました、ありがとうございます。ききたかったのはそれだけです！	general,shopping,attraction,weather
+1754	15	SYSTEM	お役に立てて光栄です	general,shopping,attraction,weather

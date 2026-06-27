@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3744	0	USER	仙台へ旅行しようと思っているのですが最寄り駅が富沢駅のリゾートホテルに泊まりたいです。	general,hotel,taxi
+3744	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel,taxi
+3744	2	USER	それでは宿のタイプにはこだわりません。	general,hotel,taxi
+3744	3	SYSTEM	ありがとうございます。では、エリアでいうと太白区にある、コーラスホテル仙台富沢はいかがでしょう？タイプは、ビジネスホテルとなります。	general,hotel,taxi
+3744	4	USER	ありがとうございます。あと電話番号を教えて下さい。そこを予約して頂けますか？人数は4人、日付は4/13で4泊です。	general,hotel,taxi
+3744	5	SYSTEM	はい、電話番号は、0226968656となります。予約が完了し、ご予約番号は、65885となります。	general,hotel,taxi
+3744	6	USER	ありがとうございます。あとジャンボタクシーを利用したいのですが。	general,hotel,taxi
+3744	7	SYSTEM	承知しました。では、平和交通（株）はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0570086000となります。	general,hotel,taxi
+3744	8	USER	完璧です。そこを予約して頂けますか？4/13で時間は10:00、出発地はコーラスホテル仙台富沢で目的地は酒飯場 ででででんです。	general,hotel,taxi
+3744	9	SYSTEM	申し訳ありません、念のための確認ですが、午前10時でよろしいでしょうか？	general,hotel,taxi
+3744	10	USER	失礼いたしました。午前です。	general,hotel,taxi
+3744	11	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、68114となります。	general,hotel,taxi
+3744	12	USER	大変助かりました！ありがとうございました。	general,hotel,taxi
+3744	13	SYSTEM	ありがとうございました。	general,hotel,taxi

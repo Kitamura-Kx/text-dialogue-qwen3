@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4058	0	USER	京都へ行く予定です。買い物ができるところはありますか？	general,shopping
+4058	1	SYSTEM	はい。京都でお調べしますと５０件該当しますが、ほかにご希望ございますか？	general,shopping
+4058	2	USER	はい。最寄駅が清水五条駅ではいかがですか？商店街がいいですね。	general,shopping
+4058	3	SYSTEM	申し訳ございません。駅と商店街で絞りますと、該当がございませんでした。	general,shopping
+4058	4	USER	では、商店街でなくても構いませんので、駐車場を無料で利用できる所はあるでしょうか？	general,shopping
+4058	5	SYSTEM	清水五条駅が最寄り駅で、無料駐車場ありですと、画箋堂という店舗のみ該当がございます。	general,shopping
+4058	6	USER	ありがとうございます！では、そのお店の電話番号と住所を教えていただけますか？	general,shopping
+4058	7	SYSTEM	かしこまりました。電話番号は、0753413288です。住所は、京都府京都市下京区河原町通五条上る西橋詰町752でございます。	general,shopping
+4058	8	USER	ありがとうございました！大変助かりました。	general,shopping
+4058	9	SYSTEM	他にご用命ございますか？	general,shopping
+4058	10	USER	いえ、大丈夫です。ありがとうございました。	general,shopping
+4058	11	SYSTEM	ありがとうございました。	general,shopping

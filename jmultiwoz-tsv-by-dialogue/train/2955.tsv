@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2955	0	USER	京都への旅行を計画しています。 当日食事ができる飲食店を探してください。	general,restaurant,attraction
+2955	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant,attraction
+2955	2	USER	Wi-Fiが無料で利用できるところで、予算は安めが希望です。	general,restaurant,attraction
+2955	3	SYSTEM	エリアでいうと中京区にある、いっかくじゅう 四条新町店はいかがでしょう？ジャンルは、お好み焼き、たこ焼きとなります。	general,restaurant,attraction
+2955	4	USER	なるほど。料金情報，定休日が知りたいです。	general,restaurant,attraction
+2955	5	SYSTEM	はい、定休日は不定休となります。申し訳ありません、料金情報は不明となっております。	general,restaurant,attraction
+2955	6	USER	続いて当日の観光名所を探してほしいです。地区は東山区、駐車場を無料で利用できるところにしてください。	general,restaurant,attraction
+2955	7	SYSTEM	安井金比羅宮はいかがでしょう？ジャンルは、神社、寺院、教会、モニュメントなど、となります。	general,restaurant,attraction
+2955	8	USER	解決しました。ありがとうございました。	general,restaurant,attraction

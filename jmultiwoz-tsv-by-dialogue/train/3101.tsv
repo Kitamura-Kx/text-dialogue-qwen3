@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3101	0	USER	福岡でWi-Fiが無料の飲食店を探しています。	general,restaurant,hotel,shopping
+3101	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,hotel,shopping
+3101	2	USER	ではWi-Fiはなくても大丈夫です。	general,restaurant,hotel,shopping
+3101	3	SYSTEM	ありがとうございます。では、エリアでいうと中央区にある、ほっこり家はいかがでしょう？ジャンルは、お好み焼き、たこ焼きとなります。	general,restaurant,hotel,shopping
+3101	4	USER	そのお店の電話番号と営業時間を教えてください。	general,restaurant,hotel,shopping
+3101	5	SYSTEM	はい、電話番号は、0927145550、営業時間は17時から0時となります。	general,restaurant,hotel,shopping
+3101	6	USER	わかりました。ありがとうございます。同じ日に泊まる姪浜駅近くの宿泊施設も探しています。	general,restaurant,hotel,shopping
+3101	7	SYSTEM	申し訳ありません、ご案内可能な宿泊施設がございません。いかがされますか？	general,restaurant,hotel,shopping
+3101	8	USER	博多駅だとありますか？レストランがついている所が良いです。	general,restaurant,hotel,shopping
+3101	9	SYSTEM	ありがとうございます。エリアでいうと中央区にある、CANDEO HOTELS 福岡天神はいかがでしょう？タイプはシティホテルとなります。	general,restaurant,hotel,shopping
+3101	10	USER	Wi-Fiはありますか？駅からはどれくらいの時間がかかりますか？	general,restaurant,hotel,shopping
+3101	11	SYSTEM	Wi-Fiは無料でご利用いただけます。最寄りの博多駅から徒歩で8分となります。	general,restaurant,hotel,shopping
+3101	12	USER	ありがとうございます。ここを2/15に3人で2泊予約したいです。	general,restaurant,hotel,shopping
+3101	13	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,restaurant,hotel,shopping
+3101	14	USER	2人だとどうですか？	general,restaurant,hotel,shopping
+3101	15	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、96944となります。他にご用件はございますか？	general,restaurant,hotel,shopping
+3101	16	USER	ありがとうございます。あと、西区で買い物もしたいです。お店はありますか？	general,restaurant,hotel,shopping
+3101	17	SYSTEM	では、ベビーザらス マリノアシティ福岡店はいかがでしょう？ジャンルは、おもちゃとなります。	general,restaurant,hotel,shopping
+3101	18	USER	そこにします。定休日と営業時間を教えてください。	general,restaurant,hotel,shopping
+3101	19	SYSTEM	営業時間は10時から20時、定休日はございません。	general,restaurant,hotel,shopping
+3101	20	USER	わかりました。電話番号も教えてください。	general,restaurant,hotel,shopping
+3101	21	SYSTEM	電話番号は、0928927676となります。	general,restaurant,hotel,shopping
+3101	22	USER	ありがとうございました。	general,restaurant,hotel,shopping
+3101	23	SYSTEM	他にご用件はございますか？	general,restaurant,hotel,shopping
+3101	24	USER	大丈夫です。	general,restaurant,hotel,shopping
+3101	25	SYSTEM	ありがとうございました。	general,restaurant,hotel,shopping

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+409	0	USER	福岡で買い物ができるところを探しています。	general,shopping
+409	1	SYSTEM	かしこまりました。エリアなど、なにかご希望の条件はございますか？	general,shopping
+409	2	USER	南区で渡辺通駅の近くがいいです。	general,shopping
+409	3	SYSTEM	申し訳ございません。ご希望の条件では、該当するものが見つかりませんでした。	general,shopping
+409	4	USER	渡辺通駅の近くじゃなくてもいいので、南区でどこかありますか？	general,shopping
+409	5	SYSTEM	かしこまりました。1件候補がございました。サンプルRIKIという文房具・雑貨, お土産, その他のお店はいかがでしょうか？	general,shopping
+409	6	USER	いいですね。住所と駐車場の有無を教えてください。	general,shopping
+409	7	SYSTEM	住所は、福岡県福岡市南区柏原4丁目20-30でございます。また、無料の駐車場を併設しております。	general,shopping
+409	8	USER	わかりました。そこに行ってみたいと思います。	general,shopping
+409	9	SYSTEM	ありがとうございます。ほかにお手伝いできることはありますか？	general,shopping
+409	10	USER	大丈夫です。ありがとうございました。	general,shopping

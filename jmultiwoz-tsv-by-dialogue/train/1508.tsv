@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1508	0	USER	こんにちは。仙台に行こうかと考えているのですが、若林区でWi-Fiが無料で使える和食の飲食店はありますか？	general,restaurant
+1508	1	SYSTEM	申し訳ありません。この条件ではご紹介できません。いかが致しましょう？	general,restaurant
+1508	2	USER	わかりました。では、Wi-Fiはなくても大丈夫なので、何かあれば教えてください。	general,restaurant
+1508	3	SYSTEM	はい、では、あんだんち食堂はいかがでしょう？	general,restaurant
+1508	4	USER	ありがとうございます。あんだんち食堂の、値段帯、駐車場の有無、近辺の駅からの所要時間ってわかりますか？	general,restaurant
+1508	5	SYSTEM	はい、値段帯は普通、最寄りの六丁の目駅から徒歩で18分、駐車場は無料でご利用いただけます。	general,restaurant
+1508	6	USER	ありがとうございます。	general,restaurant
+1508	7	SYSTEM	他にご用件はございますか？	general,restaurant
+1508	8	USER	いえ、大丈夫です。案内ありがとうございました。	general,restaurant
+1508	9	SYSTEM	ありがとうございました。	general,restaurant

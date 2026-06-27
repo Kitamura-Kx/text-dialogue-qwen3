@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3520	0	USER	大阪へ旅行しようと思っています。淀川区の駐車場無料のところで買い物がしたいです。	general,shopping,taxi,weather
+3520	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping,taxi,weather
+3520	2	USER	では、淀川区でなくていいので、どこかありますか？	general,shopping,taxi,weather
+3520	3	SYSTEM	かしこまりました。それではIKEA鶴浜ストアはいかがでしょうか？	general,shopping,taxi,weather
+3520	4	USER	電話番号はわかりますか？	general,shopping,taxi,weather
+3520	5	SYSTEM	0665562700でございます。	general,shopping,taxi,weather
+3520	6	USER	わかりました。それと、キャッシュレス払いができるタクシー会社で、ジャンボタクシーが利用できるタクシー会社はありますか？	general,shopping,taxi,weather
+3520	7	SYSTEM	かしこまりました。それでは株式会社未来都はいかがでしょうか？	general,shopping,taxi,weather
+3520	8	USER	では、予約をお願いします。9月1日13時に先ほど教えてもらったイケアから創作天ぷらと酒とワイン ぷらりんというところまでお願いします。	general,shopping,taxi,weather
+3520	9	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping,taxi,weather
+3520	10	USER	14時ではいかがですか？	general,shopping,taxi,weather
+3520	11	SYSTEM	お待たせ致しました。予約番号30414でお取りさせていただきました。	general,shopping,taxi,weather
+3520	12	USER	いろいろありがとうございました。	general,shopping,taxi,weather
+3520	13	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,taxi,weather
+3520	14	USER	すみません、もう1点質問ですが、9月1日の中央区の最低気温を教えてください。	general,shopping,taxi,weather
+3520	15	SYSTEM	お待たせ致しました。当日の中央区の最低気温は25.2度でございます。	general,shopping,taxi,weather
+3520	16	USER	わかりました。どうもありがとうございました。	general,shopping,taxi,weather
+3520	17	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,taxi,weather

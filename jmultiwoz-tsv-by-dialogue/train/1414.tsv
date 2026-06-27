@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1414	0	USER	大阪への旅行を計画しています	general,attraction,taxi,weather
+1414	1	SYSTEM	はいお問合せありがとうございます。	general,attraction,taxi,weather
+1414	2	USER	当日訪れる観光名所を探してください．駐車場を無料で利用で．地区は住之江区がいいです。	general,attraction,taxi,weather
+1414	3	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction,taxi,weather
+1414	4	USER	でしたら駐車場はどちらでもいいです。	general,attraction,taxi,weather
+1414	5	SYSTEM	インテックス大阪はいかがでしょうか。	general,attraction,taxi,weather
+1414	6	USER	営業時間とジャンルも教えていただけますか。	general,attraction,taxi,weather
+1414	7	SYSTEM	営業時間はイベントにより異なるで、ジャンルはコンサート・ショー, アリーナ・スタジアムです。	general,attraction,taxi,weather
+1414	8	USER	ありがとうございます。あとタクシー会社を探してください．キャッシュレス払いできるところがいいです。	general,attraction,taxi,weather
+1414	9	SYSTEM	商都交通株式会社はいかがでしょうか。	general,attraction,taxi,weather
+1414	10	USER	いいですね。ジャンボタクシー対応かと、電話番号を教えていただけますか。	general,attraction,taxi,weather
+1414	11	SYSTEM	ジャンボタクシー対応は非対応で電話番号は 0662626868です。	general,attraction,taxi,weather
+1414	12	USER	ありがとうございます。そちらで日付は4/11時間は11:00出発地はユニバーサル・スタジオ・ジャパン(USJ)というところで目的地は先ほど見つけた観光施設で予約して欲しいです。	general,attraction,taxi,weather
+1414	13	SYSTEM	予約完了いたしました。予約番号は71958になります。	general,attraction,taxi,weather
+1414	14	USER	ありがとうございます。あと阿倍野区の4/11のてんきもしりたいです。	general,attraction,taxi,weather
+1414	15	SYSTEM	天気は晴時々曇です。	general,attraction,taxi,weather
+1414	16	USER	最高気温はいくらですか。	general,attraction,taxi,weather
+1414	17	SYSTEM	最高気温は14.2度になります。	general,attraction,taxi,weather
+1414	18	USER	ありがとうございます。	general,attraction,taxi,weather

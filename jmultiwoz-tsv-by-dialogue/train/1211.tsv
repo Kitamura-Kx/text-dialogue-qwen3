@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1211	0	USER	福岡への旅行を計画しているのですが。	general,restaurant,hotel,weather
+1211	1	SYSTEM	はい。お問合せありがとうございます。	general,restaurant,hotel,weather
+1211	2	USER	当日食事ができる飲食店を探してください．駐車場を無料とWi-Fiが無料で利用できるところで予算は普通が希望です．	general,restaurant,hotel,weather
+1211	3	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,restaurant,hotel,weather
+1211	4	USER	でしたらWi-Fiはどちらでもいいです。	general,restaurant,hotel,weather
+1211	5	SYSTEM	旬や みなくちはいかがでしょうか。	general,restaurant,hotel,weather
+1211	6	USER	いいですね、そちらの住所，料金情報，近辺の駅からの所要時間を教えてください。	general,restaurant,hotel,weather
+1211	7	SYSTEM	住所は福岡県福岡市西区姪の浜3丁目11-8で、近辺の駅からの所要時間は姪浜駅から徒歩で8分。料金情報は本日の刺身:790円、馬刺し(赤身、タテガミ):1600円、明太子の藁焼:620円になります。	general,restaurant,hotel,weather
+1211	8	USER	ありがとうございます。そちらで人数は4人、日付は4/11時間は13:40で予約して欲しいです。	general,restaurant,hotel,weather
+1211	9	SYSTEM	すみません、そちらの条件で予約できませんでした。	general,restaurant,hotel,weather
+1211	10	USER	でしたら時間を14:20に変更してください。	general,restaurant,hotel,weather
+1211	11	SYSTEM	予約できました。予約番号は86540になります。	general,restaurant,hotel,weather
+1211	12	USER	ありがとうございました。あと．駐車場を無料で利用できる宿泊施設も探して欲しいです。	general,restaurant,hotel,weather
+1211	13	SYSTEM	LIBERATED HOTEL 春吉開地はいかがでしょうか。	general,restaurant,hotel,weather
+1211	14	USER	いいですね。タイプはどうなっていますか。	general,restaurant,hotel,weather
+1211	15	SYSTEM	その他になります。	general,restaurant,hotel,weather
+1211	16	USER	そちらで人数は2人、日付は4/11で宿泊日数は3泊で予約して欲しいです。	general,restaurant,hotel,weather
+1211	17	SYSTEM	予約できました。予約番号は7077になります。	general,restaurant,hotel,weather
+1211	18	USER	ありがとうございました。あと、4/11の中央区の天気も教えて欲しいです。	general,restaurant,hotel,weather
+1211	19	SYSTEM	晴時々雨になります。	general,restaurant,hotel,weather
+1211	20	USER	ありがとうございました。	general,restaurant,hotel,weather

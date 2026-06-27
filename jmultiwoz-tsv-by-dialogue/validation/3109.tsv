@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3109	0	USER	札幌でジャンルが文房具・雑貨で駐車場が無料のお店はありますか？	general,shopping
+3109	1	SYSTEM	はい、エリアでいうと豊平区にある、コーチャンフォーミュンヘン大橋店はいかがでしょう？	general,shopping
+3109	2	USER	そこにします！営業時間と駅からどれくらい時間がかかるか教えてください。	general,shopping
+3109	3	SYSTEM	はい、営業時間は9時から23時、最寄りの澄川駅から徒歩で13分となります。	general,shopping
+3109	4	USER	わかりました。ありがとうございました。	general,shopping
+3109	5	SYSTEM	他にご用件はございますか？	general,shopping
+3109	6	USER	大丈夫です。	general,shopping
+3109	7	SYSTEM	ありがとうございました。	general,shopping

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4317	0	USER	福岡に旅行するので中央区で無料でWi-Fiが利用できる観光名所を教えてください	general,attraction,shopping,weather
+4317	1	SYSTEM	お待たせ致しました。それでは福岡 PayPayドームはいかがでしょうか？	general,attraction,shopping,weather
+4317	2	USER	料金情報を教えてください	general,attraction,shopping,weather
+4317	3	SYSTEM	はい、料金情報は試合により異なるとのことです。	general,attraction,shopping,weather
+4317	4	USER	そうなんですね。あと西区で駐車場を無料で利用できるお店はありますか？買い物がしたいです	general,attraction,shopping,weather
+4317	5	SYSTEM	かしこまりました。それではホームセンター グッデイ 西福岡店はいかがでしょうか？	general,attraction,shopping,weather
+4317	6	USER	ホームセンターのジャンルは何になるのでしょうかね？	general,attraction,shopping,weather
+4317	7	SYSTEM	ジャンルはその他でございます。	general,attraction,shopping,weather
+4317	8	USER	なるほど。住所も教えて貰ってよいですか？	general,attraction,shopping,weather
+4317	9	SYSTEM	はい、住所は福岡県福岡市西区福重2丁目31番4号でございます。	general,attraction,shopping,weather
+4317	10	USER	あと城南区の7/18の最高気温と最低気温を知りたいです	general,attraction,shopping,weather
+4317	11	SYSTEM	はい、当日の城南区の最高気温は28.2度、最低気温は19度でございます。	general,attraction,shopping,weather
+4317	12	USER	教えて下さりありがとうございました	general,attraction,shopping,weather
+4317	13	SYSTEM	はい、ありがとうございました。またお待ちしております。	general,attraction,shopping,weather

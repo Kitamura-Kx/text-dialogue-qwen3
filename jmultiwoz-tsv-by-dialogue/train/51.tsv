@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+51	0	USER	どうも、恐れ入ります。横浜へ行く予定があるんですけど。	general,restaurant,shopping
+51	1	SYSTEM	横浜ですね。どのようなことをお知りになりたいですか。	general,restaurant,shopping
+51	2	USER	カフェ・スイーツのお店で食事したいなと考えていまして、探すのを手伝ってもらえますか？	general,restaurant,shopping
+51	3	SYSTEM	かしこまりました。何か条件はございますか。	general,restaurant,shopping
+51	4	USER	カフェ・スイーツのお店なら、どこでもいいですよ。どこかありますか？	general,restaurant,shopping
+51	5	SYSTEM	では、NICK STOCK 横浜ポルタ店はいかがでしょうか。	general,restaurant,shopping
+51	6	USER	そのお店は、定休日はあるんですか？	general,restaurant,shopping
+51	7	SYSTEM	定休日はございません。	general,restaurant,shopping
+51	8	USER	あと、料金も詳しく知りたいんですけど。	general,restaurant,shopping
+51	9	SYSTEM	例えばプレーンハンバーグ（オニオン醤油ソース付）は1298円、特製デミグラス目玉焼きハンバーグは￥1738円、チーズバーガーダブルは1628円となっております。	general,restaurant,shopping
+51	10	USER	美味しそうですね。いま、予約を入れてもいいですか？	general,restaurant,shopping
+51	11	SYSTEM	かしこまりました。ご希望の人数と日時を教えていただけますか。	general,restaurant,shopping
+51	12	USER	3名で、2月12日の12時半でお願いします。	general,restaurant,shopping
+51	13	SYSTEM	予約が完了いたしました。予約番号は30872でございます。	general,restaurant,shopping
+51	14	USER	了解です。ついでに買い物にも寄ろうかなと思ってまして、みなとみらい東急スクエアというお店はありますでしょうか？	general,restaurant,shopping
+51	15	SYSTEM	はい。ございます。	general,restaurant,shopping
+51	16	USER	車を停められる場所ってお店にあったりしますか？	general,restaurant,shopping
+51	17	SYSTEM	無料の駐車場がございます。	general,restaurant,shopping
+51	18	USER	もしかしたら電車で行くかもしれないので、最寄り駅も教えておいてもらえると助かります。	general,restaurant,shopping
+51	19	SYSTEM	最寄り駅は、みなとみらい駅でございます。	general,restaurant,shopping
+51	20	USER	はい、わかりました。いろいろ今日は助かりました。	general,restaurant,shopping
+51	21	SYSTEM	ほかにご用件はございませんか。	general,restaurant,shopping
+51	22	USER	大丈夫そうです。この辺で失礼しますね。	general,restaurant,shopping
+51	23	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping

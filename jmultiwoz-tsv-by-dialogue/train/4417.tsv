@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4417	0	USER	大阪へ旅行に行くので、最寄り駅が大阪港駅で駐車場を無料で利用できる買い物店舗を探してください。	general,shopping
+4417	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping
+4417	2	USER	そうですか。では、駐車場はなくても大丈夫です。	general,shopping
+4417	3	SYSTEM	かしこまりました。それでは7BRIDGE 天保山マーケットプレース店がございます。	general,shopping
+4417	4	USER	その店のエリアと近辺の駅からの所要時間とジャンルを教えてもらえますか？	general,shopping
+4417	5	SYSTEM	エリアは港区、近辺の駅からですと大阪港駅から徒歩で5分でございまして、ジャンルは文房具・雑貨, お土産に該当致します。	general,shopping
+4417	6	USER	わかりました。助かりました。	general,shopping
+4417	7	SYSTEM	その他にご用件はございますか？	general,shopping
+4417	8	USER	いえ、ないです。	general,shopping
+4417	9	SYSTEM	かしこまりました。またお待ちしております。	general,shopping

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4269	0	USER	東京へ旅行に行くので、買い物ができるところを探してもらえませんか？	general,shopping,weather
+4269	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,weather
+4269	2	USER	はい、無料駐車場が利用できる、商店街はないですか？	general,shopping,weather
+4269	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,weather
+4269	4	USER	では、百貨店か総合スーパーに変更します。	general,shopping,weather
+4269	5	SYSTEM	ありがとうございます。では、エリアでいうと新宿区にある、ルミネ新宿はいかがでしょう？	general,shopping,weather
+4269	6	USER	そこにします。そのお店の定休日と最寄り駅を教えてください。	general,shopping,weather
+4269	7	SYSTEM	はい、最寄りの新宿駅から徒歩で1分となります。定休日はございません。	general,shopping,weather
+4269	8	USER	わかりました。12月29日の文京区の天気も知りたいのですが。	general,shopping,weather
+4269	9	SYSTEM	はい、天気は曇時々晴、最低気温3.2度、最高気温11.4度となります。	general,shopping,weather
+4269	10	USER	わかりました。どうもありがとうございます。	general,shopping,weather
+4269	11	SYSTEM	ありがとうございました。	general,shopping,weather

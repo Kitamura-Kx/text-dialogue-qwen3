@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+429	0	USER	札幌へ行こうと思っています。東区で駐車場が無料で利用できる百貨店や総合スーパーを探していただきたいです。	general,shopping,restaurant
+429	1	SYSTEM	ではイオン札幌元町ショッピングセンターはいかがでしょうか。	general,shopping,restaurant
+429	2	USER	そのお店の営業時間を教えていただきたいです。	general,shopping,restaurant
+429	3	SYSTEM	営業時間は09:00～21:00でございます。	general,shopping,restaurant
+429	4	USER	わかりました。ありがとうございます。	general,shopping,restaurant
+429	5	SYSTEM	ほかにご用件はございませんか。	general,shopping,restaurant
+429	6	USER	中央区でWiFiが無料で利用できる飲食店を探していただきたいです。	general,shopping,restaurant
+429	7	SYSTEM	その条件ですとJ.S. PANCAKE CAFE 札幌ステラプレイス店はいかがでしょう。	general,shopping,restaurant
+429	8	USER	そちらは予算は安めでしょうか？	general,shopping,restaurant
+429	9	SYSTEM	値段帯は普通となっております。	general,shopping,restaurant
+429	10	USER	中央区でWiFiが無料かつ、予算が安めなところをもう一度探していただけますか？	general,shopping,restaurant
+429	11	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant
+429	12	USER	それではWiFiは考慮せず中央区で予算が安めなところを探していただけますか？	general,shopping,restaurant
+429	13	SYSTEM	ではかわむら出汁茶はいかがでしょうか。	general,shopping,restaurant
+429	14	USER	そちらの営業時間と住所を教えていただけますか？	general,shopping,restaurant
+429	15	SYSTEM	営業時間は18:00～00:00で、住所は北海道札幌市中央区南6条西3丁目6-33 AGS6.3ビルB1でございます。	general,shopping,restaurant
+429	16	USER	そのお店で11月4日の11：50分から4名で予約できますでしょうか？	general,shopping,restaurant
+429	17	SYSTEM	大変申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,shopping,restaurant
+429	18	USER	では12：30では予約できますか？	general,shopping,restaurant
+429	19	SYSTEM	その時間ですと予約が可能でございました。予約番号は53566でございます。	general,shopping,restaurant
+429	20	USER	わかりました。ありがとうございます。	general,shopping,restaurant
+429	21	SYSTEM	ほかにご用件はございませんか。	general,shopping,restaurant
+429	22	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping,restaurant

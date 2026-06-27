@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+895	0	USER	横浜へ旅行予定なのですが、宿泊施設を調べてください。高めのリゾートホテルがいいです。	general,hotel,restaurant,attraction
+895	1	SYSTEM	インターコンチネンタル横浜Pier8は、いかがでしょうか？	general,hotel,restaurant,attraction
+895	2	USER	そこにします。エリアを教えてください。	general,hotel,restaurant,attraction
+895	3	SYSTEM	はい、エリアは中区になります。	general,hotel,restaurant,attraction
+895	4	USER	わかりました。そこで予約したいのですが、2人で6月18日から3泊予約お願いします。	general,hotel,restaurant,attraction
+895	5	SYSTEM	予約出来ました。予約番号は、31205です。	general,hotel,restaurant,attraction
+895	6	USER	ありがとうございます。モーション・ブルー・ヨコハマという飲食店も探しているのですが、見つかりますか？	general,hotel,restaurant,attraction
+895	7	SYSTEM	モーション・ブルー・ヨコハマは、横浜市に見つかりました。	general,hotel,restaurant,attraction
+895	8	USER	わかりました。電話番号と駐車場があるかを教えてください。	general,hotel,restaurant,attraction
+895	9	SYSTEM	電話番号は、0452261933です。　駐車場は、有料駐車場があります。	general,hotel,restaurant,attraction
+895	10	USER	了解です。予約お願いできますか？2人で6月18日の11時20分からお願いします。	general,hotel,restaurant,attraction
+895	11	SYSTEM	予約出来ました。予約番号は、36988です。	general,hotel,restaurant,attraction
+895	12	USER	ありがとうございます。当日いける観光名所も探しているのですが、水族館はありますか？	general,hotel,restaurant,attraction
+895	13	SYSTEM	横浜・八景島シーパラダイスは、いかがでしょうか？	general,hotel,restaurant,attraction
+895	14	USER	そこにします。ありがとうございました。	general,hotel,restaurant,attraction
+895	15	SYSTEM	他にご用件はございますか？	general,hotel,restaurant,attraction
+895	16	USER	いえ、もう大丈夫です。	general,hotel,restaurant,attraction
+895	17	SYSTEM	承知致しました。　ありがとうございました。	general,hotel,restaurant,attraction

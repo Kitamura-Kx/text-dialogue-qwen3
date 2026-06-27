@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+817	0	USER	福岡へ旅行予定なのですが、西区で駐車場を無料で利用できる飲食店はありますか？	general,restaurant,weather
+817	1	SYSTEM	はい、2件ほどご案内できます。たとえば、旬や みなくち、というお店が西区エリアにございますが、いかがでしょうか？	general,restaurant,weather
+817	2	USER	そこにします。その店のジャンルを教えてください。	general,restaurant,weather
+817	3	SYSTEM	ジャンルは、和食, 寿司・魚料理, 居酒屋です。	general,restaurant,weather
+817	4	USER	わかりました。当日4/11の南区の天気も知りたいです。	general,restaurant,weather
+817	5	SYSTEM	かしこまりました。当日、南区の天気は晴れの予報です。最低気温や最高気温もお伝えしましょうか？	general,restaurant,weather
+817	6	USER	いえ、大丈夫です。ありがとうございます。	general,restaurant,weather
+817	7	SYSTEM	承知いたしました。ほかにお調べすることはございますか？	general,restaurant,weather
+817	8	USER	もうありません。ありがとうございました。	general,restaurant,weather
+817	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,weather

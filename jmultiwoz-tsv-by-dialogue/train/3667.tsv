@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3667	0	USER	今度大阪に行くのですが、どこか買い物ができるところはありますか？	general,shopping,taxi,weather
+3667	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,shopping,taxi,weather
+3667	2	USER	百貨店や総合で、駐車場を無料で利用できるところがいいです。	general,shopping,taxi,weather
+3667	3	SYSTEM	かしこまりました。では、大阪タカシマヤはいかがでしょうか？	general,shopping,taxi,weather
+3667	4	USER	そちらのエリアはどこになりますか？	general,shopping,taxi,weather
+3667	5	SYSTEM	はい。エリアは中央区です。	general,shopping,taxi,weather
+3667	6	USER	ありがとうございます。当日タクシーを利用したいのですが、キャッシュレス払いができて、ジャンボタクシーを利用できるところはありますか？	general,shopping,taxi,weather
+3667	7	SYSTEM	かしこまりました。では、相互タクシー株式会社はいかがでしょうか？	general,shopping,taxi,weather
+3667	8	USER	電話番号を教えていただけますか？	general,shopping,taxi,weather
+3667	9	SYSTEM	はい。電話番号は0669315489です。	general,shopping,taxi,weather
+3667	10	USER	ありがとうございます。では、12/24の12:30で、和空 下寺町から、大阪タカシマヤまで予約をお願いできますか？	general,shopping,taxi,weather
+3667	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、34664です。	general,shopping,taxi,weather
+3667	12	USER	ありがとうございます。あと、12/24当日の此花区のお天気が知りたいです。	general,shopping,taxi,weather
+3667	13	SYSTEM	かしこまりました。12/24の此花区の天気予報は晴となっております。最低気温は8.4度、最高気温は15.2度になる予報です。	general,shopping,taxi,weather
+3667	14	USER	分かりました。以上です、ありがとうございました！	general,shopping,taxi,weather
+3667	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi,weather

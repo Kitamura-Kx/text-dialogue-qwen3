@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3028	0	USER	東京へ行くんですが、新宿区で予算が普通くらいの飲食店を探してもらえますか？	general,restaurant
+3028	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant
+3028	2	USER	そうなんですね。では江戸川区でも探してもらえますか。	general,restaurant
+3028	3	SYSTEM	かしこまりました。では、Taverna e Pizzeria Saluteはいかがでしょうか？	general,restaurant
+3028	4	USER	ありがとうございます。そこの電話番号を教えてください。	general,restaurant
+3028	5	SYSTEM	はい。電話番号は0368084570です。	general,restaurant
+3028	6	USER	ありがとうございます。ではそこの予約をお願いできますか？9/4の14：40で４名です。	general,restaurant
+3028	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、94969です。	general,restaurant
+3028	8	USER	ありがとうございました。以上で結構です。	general,restaurant
+3028	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

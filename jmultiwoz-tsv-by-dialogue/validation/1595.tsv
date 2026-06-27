@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1595	0	USER	福岡へ旅行しようとおもっています。旅行当日の観光名所を教えて貰えますか？中央区でWi-Fi無料の植物園が良いのですが。	general,attraction,weather,taxi
+1595	1	SYSTEM	かしこまりました。そうしますと、福岡市動植物園は如何でしょうか？	general,attraction,weather,taxi
+1595	2	USER	ありがとうございます。旅行当日の天気も知りたいです。6/4の西区の最低、最高気温を教えていただけますか？	general,attraction,weather,taxi
+1595	3	SYSTEM	かしこまりました。当日の最低気温は25.4度、最高気温は28.2度の予想となっております。	general,attraction,weather,taxi
+1595	4	USER	ありがとうございます。タクシー会社も探していただきたいのですが、キャッシュレス払いができてジャンボタクシーを利用できるところが良いです。	general,attraction,weather,taxi
+1595	5	SYSTEM	かしこまりました。では、日新交通（株）はいかがでしょうか？	general,attraction,weather,taxi
+1595	6	USER	ありがとうございます。日新交通（株）の電話番号は分かりますか？	general,attraction,weather,taxi
+1595	7	SYSTEM	はい。電話番号は、0120152452でございます。	general,attraction,weather,taxi
+1595	8	USER	ありがとうございます。日新交通（株）の予約をしたいです。6/4の09：30から、福岡市動植物園からN.33 Hakata sta. Eastまで予約をお願い出来ますか？	general,attraction,weather,taxi
+1595	9	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、76324です。	general,attraction,weather,taxi
+1595	10	USER	ありがとうございます。	general,attraction,weather,taxi
+1595	11	SYSTEM	他にお調べすることはございませんか？	general,attraction,weather,taxi
+1595	12	USER	他は大丈夫です。ありがとうございました。	general,attraction,weather,taxi
+1595	13	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,attraction,weather,taxi

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4535	0	USER	那覇へ旅行するのですが真和志で駐車場が無料で買い物ができる場所を探しています。	general,shopping,hotel,taxi
+4535	1	SYSTEM	真和志で駐車場無料の買い物スポットといえば、タウンプラザかねひで与儀公園市場、こちらになります。	general,shopping,hotel,taxi
+4535	2	USER	営業時間と定休日はわかりますか？	general,shopping,hotel,taxi
+4535	3	SYSTEM	朝９時から夜中０時まで営業、定休日はありません。	general,shopping,hotel,taxi
+4535	4	USER	ありがとうございます。あとシティホテルを探しています。	general,shopping,hotel,taxi
+4535	5	SYSTEM	那覇のシティホテルといえばいくつかありますが、ホテルロイヤルオリオン、こちらをお勧めします。	general,shopping,hotel,taxi
+4535	6	USER	ありがとうございます。そこの料金情報と最寄駅はわかりますか？	general,shopping,hotel,taxi
+4535	7	SYSTEM	値段帯は安めですが、料金情報詳細までは不明です。最寄りは牧志駅になります。	general,shopping,hotel,taxi
+4535	8	USER	ありがとうございます。ジャンボタクシーを利用したいです。	general,shopping,hotel,taxi
+4535	9	SYSTEM	それならば、三和交通をおすすめします。	general,shopping,hotel,taxi
+4535	10	USER	キャッシュレス対応ですか？念のため電話番号を教えて下さい。	general,shopping,hotel,taxi
+4535	11	SYSTEM	キャッシュレスに対応しています。電話番号は0120100084です。	general,shopping,hotel,taxi
+4535	12	USER	8/4の16:00でタウンプラザかねひで与儀公園市場からホテルロイヤルオリオンまでです。	general,shopping,hotel,taxi
+4535	13	SYSTEM	予約成功しました。予約番号は35621です。	general,shopping,hotel,taxi
+4535	14	USER	大変助かりました！ありがとうございました。	general,shopping,hotel,taxi

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+115	0	USER	こんにちは！ 名古屋旅行を考えているので、案内をお願いしたいです。	general,shopping
+115	1	SYSTEM	名古屋ですね。かしこまりました。	general,shopping
+115	2	USER	えっと、当日に買い物ができるところを探しているんですけど、駐車場を無料で利用できるところで、どこかありますか？	general,shopping
+115	3	SYSTEM	２８件該当する施設がございますが、ほかに条件はございますか。	general,shopping
+115	4	USER	じゃぁ、ジャンルはその他で、どこか探してもらえますか？	general,shopping
+115	5	SYSTEM	では東急ハンズ名古屋店はいかがでしょうか。	general,shopping
+115	6	USER	良いですね！わかりました！ あ、東急ハンズ名古屋店の定休日は、わかりますか？	general,shopping
+115	7	SYSTEM	定休日は不定休となっております。	general,shopping
+115	8	USER	そうなんですね。 えっと、あと、住所も教えてもらって良いですか？	general,shopping
+115	9	SYSTEM	愛知県名古屋市中村区名駅1丁目1-4、ジェイアール名古屋タカシマヤ内 5F～11Fでございます。	general,shopping
+115	10	USER	ありがとうございます！とても助かりました！	general,shopping
+115	11	SYSTEM	ほかにご用件はございませんか。	general,shopping
+115	12	USER	はい！あとは大丈夫です！ありがとうございました！	general,shopping
+115	13	SYSTEM	承知しました。ありがとうございました。	general,shopping

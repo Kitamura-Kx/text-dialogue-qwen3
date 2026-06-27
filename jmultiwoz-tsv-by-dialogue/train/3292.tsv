@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3292	0	USER	福岡で無料Wi-Fiが利用できて、レストランが併設されている宿泊施設を探しています。	general,hotel,shopping,attraction
+3292	1	SYSTEM	福岡で無料WiFi付き、レストラン有の宿泊施設はいくつかありますが、9HOTEL HAKATA、こちらをお勧めします。	general,hotel,shopping,attraction
+3292	2	USER	そちらのチェックインの開始時刻とタイプを教えて下さい。	general,hotel,shopping,attraction
+3292	3	SYSTEM	チェックインは15時から、タイプはその他になってますね。	general,hotel,shopping,attraction
+3292	4	USER	ありがとうございます。５月１４日から３泊、３人でそちらを予約お願いできますか？	general,hotel,shopping,attraction
+3292	5	SYSTEM	予約に成功しました。予約番号は10489になります。	general,hotel,shopping,attraction
+3292	6	USER	ありがとうございます。当日買い物もしたいのですが、西区で駐車場が無料で利用できるところはありますか？	general,hotel,shopping,attraction
+3292	7	SYSTEM	西区駐車場無料といえば、いくつかありますが、モーリーファンタジー 福岡伊都店、こちらをお勧めします。	general,hotel,shopping,attraction
+3292	8	USER	そちらのお店のジャンルは何になりますか？	general,hotel,shopping,attraction
+3292	9	SYSTEM	ジャンルはその他になっていますね。	general,hotel,shopping,attraction
+3292	10	USER	ありがとうございます。無料駐車場のある観光名所も探していますが、どこかありますか？	general,hotel,shopping,attraction
+3292	11	SYSTEM	福岡では無料駐車場のある観光名所はなさそうです。正直私も意外でした。	general,hotel,shopping,attraction
+3292	12	USER	そうなんですね。有料駐車場だったらあるんでしょうか？	general,hotel,shopping,attraction
+3292	13	SYSTEM	駐車場有料だと２７件ヒットしますね。何か追加で希望はありますか。	general,hotel,shopping,attraction
+3292	14	USER	特にないので、おすすめお願いします。	general,hotel,shopping,attraction
+3292	15	SYSTEM	それでは、福岡タワー、こちらをオススメします。	general,hotel,shopping,attraction
+3292	16	USER	そちらの料金情報を教えてください。	general,hotel,shopping,attraction
+3292	17	SYSTEM	大人８００円、小中学生は５００円、幼児（４歳以上）２００円です。各種割引等詳細はHPをご確認くださいとのことです。	general,hotel,shopping,attraction
+3292	18	USER	ありがとうございました。	general,hotel,shopping,attraction
+3292	19	SYSTEM	よい旅を	general,hotel,shopping,attraction

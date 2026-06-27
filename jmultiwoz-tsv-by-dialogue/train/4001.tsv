@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4001	0	USER	京都へ旅行予定でして、レストランがあって、値段が普通くらいの宿泊施設を調べてもらえます？	general,hotel
+4001	1	SYSTEM	お待たせ致しました。その条件でしたら、Nazuna 京都 椿通がございます。	general,hotel
+4001	2	USER	いいですね。その宿泊施設のタイプってわかります？	general,hotel
+4001	3	SYSTEM	はい、タイプは旅館でございます。	general,hotel
+4001	4	USER	そうなんですね。わかりました。もう大丈夫です、ありがとうございました。	general,hotel
+4001	5	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

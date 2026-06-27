@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4078	0	USER	東京への旅行を計画しています． 当日は国立科学博物館という観光名所を訪れる予定ですが、そちらのエリアが知りたいです。	general,attraction,taxi
+4078	1	SYSTEM	エリアは港区です。	general,attraction,taxi
+4078	2	USER	ありがとうございます。あと当日利用できるタクシー会社を探してください．ジャンボタクシーとキャッシュレス払いできるところがいいです。	general,attraction,taxi
+4078	3	SYSTEM	大和交通保谷はいかがでしょうか。	general,attraction,taxi
+4078	4	USER	いいですね。そちらで日付は3/4．時間は10:00．出発地は代々木公園というところで．目的地は先ほど見つけた観光施設で予約してほしいです。	general,attraction,taxi
+4078	5	SYSTEM	予約完了いたしました。予約番号は44966になります。	general,attraction,taxi
+4078	6	USER	ありがとうございます。	general,attraction,taxi
+4078	7	SYSTEM	どういたしまして。	general,attraction,taxi

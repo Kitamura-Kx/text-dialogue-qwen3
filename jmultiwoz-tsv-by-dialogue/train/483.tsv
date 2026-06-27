@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+483	0	USER	旅行で東京に行くのですが駐車場が無料の施設はありますでしょうか	general,hotel,taxi
+483	1	SYSTEM	宿泊施設でございますか。	general,hotel,taxi
+483	2	USER	失礼しました、宿泊施設ですWi-Fiも無料なところが希望です	general,hotel,taxi
+483	3	SYSTEM	かしこまりました。その条件ですと９３件ございますが、ほかにご希望の条件はございませんか。	general,hotel,taxi
+483	4	USER	他はありませんお願いします	general,hotel,taxi
+483	5	SYSTEM	申し訳ございません。検索をまちがえてしまいました。Wi-Fi、駐車場共に無料の施設はございませんでした。いかがなさいますか。	general,hotel,taxi
+483	6	USER	それでは無料駐車場は無しでも大丈夫です	general,hotel,taxi
+483	7	SYSTEM	では、MIMARU東京 銀座EASTはいかがでしょうか。	general,hotel,taxi
+483	8	USER	有難うございます、料金と最寄駅からの所要時間を教えて頂けますか	general,hotel,taxi
+483	9	SYSTEM	値段帯は安めでございます。最寄り駅の新富町駅からは徒歩で1分でございます。	general,hotel,taxi
+483	10	USER	わかりましたそちらにしようと思います、有難うございました	general,hotel,taxi
+483	11	SYSTEM	ほかにご用件はございませんか。	general,hotel,taxi
+483	12	USER	ちなみに、当日タクシーを利用したいのですが、キャッシュレス払いに対応したタクシー会社はありますか？	general,hotel,taxi
+483	13	SYSTEM	はい。ございます。キャピタルオートはいかがでしょうか。	general,hotel,taxi
+483	14	USER	キャピタルオートさんはジャンボタクシーは対応してますか？	general,hotel,taxi
+483	15	SYSTEM	はい。ジャンボタクシーも対応しております。	general,hotel,taxi
+483	16	USER	それでは6/17　13:50に「SHUSHI SAKEいぶき 東京駅 TEKKO avenue店」から宿泊地の「MIMARU東京 銀座EAST」まで予約をお願いします	general,hotel,taxi
+483	17	SYSTEM	申し訳ございません。その条件ですと予約ができませんでした。いかがなさいますか。	general,hotel,taxi
+483	18	USER	同じ条件で14:40出発ではどうでしょうか？	general,hotel,taxi
+483	19	SYSTEM	その時間ですと予約が可能でございました。予約番号は4769でございます。	general,hotel,taxi
+483	20	USER	念のためタクシー会社の電話番号を教えてください	general,hotel,taxi
+483	21	SYSTEM	電話番号は0357552151でございます。	general,hotel,taxi
+483	22	USER	ありがとうございました	general,hotel,taxi
+483	23	SYSTEM	ほかのご用件はございませんか。	general,hotel,taxi
+483	24	USER	はい大丈夫です、ありがとうございました	general,hotel,taxi
+483	25	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi

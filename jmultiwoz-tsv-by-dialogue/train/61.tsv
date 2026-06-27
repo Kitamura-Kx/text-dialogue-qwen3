@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+61	0	USER	名古屋に行きたいんですけど、ちょっと聞きたいことがありまして。	general,restaurant
+61	1	SYSTEM	はい、どういったことでしょうか？	general,restaurant
+61	2	USER	うなぎの新甫というお店で食事をとりたくて。探してもらえますか？	general,restaurant
+61	3	SYSTEM	承知致しました。 千種区にございますね。	general,restaurant
+61	4	USER	お店が休みの日は分かりますか？	general,restaurant
+61	5	SYSTEM	はい、定休日は日曜日となっております。	general,restaurant
+61	6	USER	開店時間と閉店時間も分かりますか？	general,restaurant
+61	7	SYSTEM	営業時間は、11時から14時30分と、16時30分から20時30分、となっております。	general,restaurant
+61	8	USER	お昼もやってるんですね。では2名で昼11時40分の予約を取ってもらっていいですか？1月25日に行く予定です。	general,restaurant
+61	9	SYSTEM	承知致しました。 ご予約完了致しました。 予約番号は、88011　となります。	general,restaurant
+61	10	USER	予約取れて良かった。以上で大丈夫そうです。	general,restaurant
+61	11	SYSTEM	承知致しました。ありがとうございました。	general,restaurant

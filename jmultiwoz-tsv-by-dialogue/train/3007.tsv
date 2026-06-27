@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3007	0	USER	札幌への旅行を計画しています。 飲食店を探して欲しいです。	general,restaurant
+3007	1	SYSTEM	ご希望の条件をおきかせください。	general,restaurant
+3007	2	USER	ジャンルはラーメン・つけ麺、駐車場を無料で利用できるところにしてください。	general,restaurant
+3007	3	SYSTEM	札幌で駐車場無料のラーメン・つけ麺といえば、らーめん黒山がオススメです。	general,restaurant
+3007	4	USER	そのお店の定休日を教えてください。	general,restaurant
+3007	5	SYSTEM	定休日はありません。	general,restaurant
+3007	6	USER	解決しました。ありがとうございました。	general,restaurant

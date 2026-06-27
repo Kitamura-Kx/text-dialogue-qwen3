@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+568	0	USER	こんにちは。今、大阪旅行を企画しているのですが、観光名所の案内をお頼みしてもよろしいですか？	general,attraction,weather
+568	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,weather
+568	2	USER	動物園を探しています。そのほかの条件は特にありません。	general,attraction,weather
+568	3	SYSTEM	ありがとうございます。中之島公園、天保山アニパ、天王寺動物園の3件がございます。	general,attraction,weather
+568	4	USER	それでは、天王寺動物園に行こうかと思います。近辺の駅からの所要時間について、教えていただけますか？	general,attraction,weather
+568	5	SYSTEM	はい、最寄りの動物園前駅からは徒歩で4分、他に近辺の恵美須町駅から徒歩で6分、新今宮駅から徒歩で9分、天王寺駅から徒歩で10分、大阪阿部野橋駅から徒歩で10分、となります。	general,attraction,weather
+568	6	USER	ありがとうございます。あと、電話番号と定休日についても教えてください。	general,attraction,weather
+568	7	SYSTEM	はい、電話番号は0667718401、定休日は月曜日と年末年始になります。	general,attraction,weather
+568	8	USER	承知いたしました。ありがとうございます。あと、当日の天気についても伺いたいのですが、よろしいですか？	general,attraction,weather
+568	9	SYSTEM	はい、ご希望のエリアと日付を教えていただけますか？	general,attraction,weather
+568	10	USER	日付は9/23で、地区は生野区でお願いします。	general,attraction,weather
+568	11	SYSTEM	ありがとうございます。天気は曇のち晴、最低気温21.9度、最高気温33.9度となります。	general,attraction,weather
+568	12	USER	ありがとうございます。わかりました。あとは、大丈夫です。	general,attraction,weather
+568	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

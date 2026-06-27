@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+952	0	USER	名古屋に行こうと思っていて、ファッションのジャンルを買い物できるところを探しています。	general,shopping
+952	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,shopping
+952	2	USER	名東区でできるところがいいです。	general,shopping
+952	3	SYSTEM	ではアイスランドマーケットはいかがでしょうか。	general,shopping
+952	4	USER	ありがとうございます。そちらの住所，駐車場の有無，近辺の駅からの所要時間を教えてもらえますか？	general,shopping
+952	5	SYSTEM	住所は愛知県名古屋市名東区社が丘1丁目1605でございます。無料の駐車場をご利用いただけます。本郷駅から徒歩で4分でございます。	general,shopping
+952	6	USER	ありがとうございました。	general,shopping
+952	7	SYSTEM	ほかにご用件はございますか。	general,shopping
+952	8	USER	大丈夫です。ありがとうございました。	general,shopping
+952	9	SYSTEM	承知しました。ありがとうございました。	general,shopping

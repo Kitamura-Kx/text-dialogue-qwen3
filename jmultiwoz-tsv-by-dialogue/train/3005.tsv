@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3005	0	USER	大阪への旅行でタクシー会社を探しています。キャッシュレス払いできるところがありますか。	general,taxi
+3005	1	SYSTEM	いくつか候補がありますが、榮交通株式会社をお勧めします。	general,taxi
+3005	2	USER	そちらの会社のジャンボタクシー対応，電話番号を教えてください。	general,taxi
+3005	3	SYSTEM	0669624641です。	general,taxi
+3005	4	USER	ジャンボタクシー対応はどうでしょうか？	general,taxi
+3005	5	SYSTEM	ジャンボタクシーも対応しています。	general,taxi
+3005	6	USER	では予約をお願いします。日付は3/10、時間は12:30、出発地はユニゾイン新大阪、目的地はクロワッサンの店 大阪あべの橋店でお願いします。	general,taxi
+3005	7	SYSTEM	予約成功しました。予約番号は83790です。	general,taxi
+3005	8	USER	解決しました。ありがとうございました。	general,taxi

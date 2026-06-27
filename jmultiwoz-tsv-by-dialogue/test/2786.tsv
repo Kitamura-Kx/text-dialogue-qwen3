@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2786	0	USER	東京へ旅行へ行くのですが、買い物ができるところを探しています。	general,shopping
+2786	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping
+2786	2	USER	最寄り駅が大塚駅で駐車場が無料の所ってありますか？	general,shopping
+2786	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping
+2786	4	USER	では大塚駅の近くでなくてもいいです。	general,shopping
+2786	5	SYSTEM	ありがとうございます。エリアでいうと新宿区にある、ルミネ新宿はいかがでしょう？ジャンルは、百貨店や総合スーパーとなります。	general,shopping
+2786	6	USER	いいですね。近辺の駅からの所要時間と定休日を教えてください。	general,shopping
+2786	7	SYSTEM	はい、最寄りの新宿駅から徒歩で1分となります。定休日はございません。	general,shopping
+2786	8	USER	ありがとうございました。	general,shopping
+2786	9	SYSTEM	他にご用件はございますか？	general,shopping
+2786	10	USER	特にないです。	general,shopping
+2786	11	SYSTEM	ありがとうございました。	general,shopping

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1380	0	USER	大阪へ行きたく、伝統芸能が見れたり、体験できる観光名所はありますか？	general,attraction,restaurant,weather
+1380	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,restaurant,weather
+1380	2	USER	なるほど、であれば特にジャンル問わず観光名所を探してほしいです。	general,attraction,restaurant,weather
+1380	3	SYSTEM	あべのハルカス展望台｢ハルカス300｣は、いかがでしょうか？	general,attraction,restaurant,weather
+1380	4	USER	そこの最寄駅からの所要時間、大人の入場料を知りたいです。	general,attraction,restaurant,weather
+1380	5	SYSTEM	最寄り駅は、天王寺駅です。　料金ですが、大人（18歳以上） 1,500円になります。	general,attraction,restaurant,weather
+1380	6	USER	天王寺駅から大体どれくらい時間かかりますか？	general,attraction,restaurant,weather
+1380	7	SYSTEM	天王寺駅から徒歩で1分になります。	general,attraction,restaurant,weather
+1380	8	USER	ありがとうございます。次に無料のWi-Fiが利用できる飲食店を探してほしいです。	general,attraction,restaurant,weather
+1380	9	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,restaurant,weather
+1380	10	USER	それではWi-Fiの有無はなしで再度探していただけますか？	general,attraction,restaurant,weather
+1380	11	SYSTEM	ロウリーズ・ザ・プライムリブ 大阪は、いかがでしょうか？	general,attraction,restaurant,weather
+1380	12	USER	そこの定休日、エリア、営業時間を教えてください。	general,attraction,restaurant,weather
+1380	13	SYSTEM	定休日は、無しです。　エリアは、北区です。　営業時間は、11:30～15:00、17:00～23:00になります。	general,attraction,restaurant,weather
+1380	14	USER	ありがとうございます。それでは予約をお願いします。人数は2名、日時は5/31で16:30希望です。	general,attraction,restaurant,weather
+1380	15	SYSTEM	予約が完了しました。　予約番号は、90600です。	general,attraction,restaurant,weather
+1380	16	USER	最後に5/31の淀川区の天候を調べてほしいです。	general,attraction,restaurant,weather
+1380	17	SYSTEM	天気は、晴時々雨です。	general,attraction,restaurant,weather
+1380	18	USER	ありがとうございます。	general,attraction,restaurant,weather
+1380	19	SYSTEM	他にご用件はありますか？	general,attraction,restaurant,weather
+1380	20	USER	ないです。	general,attraction,restaurant,weather
+1380	21	SYSTEM	承知致しました。　ありがとうございました。	general,attraction,restaurant,weather

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+146	0	USER	福岡で宿を探しています。Wi-Fiが無料で使える所がいいんですけど、いい所ありませんか？	general,hotel,shopping
+146	1	SYSTEM	エリアや宿のタイプ、値段帯などのご希望はございますか？	general,hotel,shopping
+146	2	USER	Wi-Fiのこと以外は特に問いません。おすすめを教えてください。	general,hotel,shopping
+146	3	SYSTEM	承知致しました。それでは、THE BLOSSOM HAKATA Premierはいかがでしょう？タイプはシティホテル、値段帯は安め、エリアは博多区となります。最寄りの祇園駅から徒歩で6分となっております。	general,hotel,shopping
+146	4	USER	かっこいい感じですね。電話番号も教えてください。	general,hotel,shopping
+146	5	SYSTEM	ありがとうございます。電話番号は、0924318702、住所は福岡市博多区博多駅前二丁目8番12号となっております。	general,hotel,shopping
+146	6	USER	4人で予約できますか？3月23日から4泊です。	general,hotel,shopping
+146	7	SYSTEM	承知致しました。予約が完了致しました。ご予約番号は、68013となります。	general,hotel,shopping
+146	8	USER	買い物するところも探してほしいんですけど、MARK IS 福岡ももち、って所、分かりますか？	general,hotel,shopping
+146	9	SYSTEM	はい、エリアは中央区となります。住所は福岡市中央区地行浜2丁目2-1、電話番号は、0924071345、営業時間は10時から21時、定休日はございません。最寄りの唐人町駅から徒歩で10分となります。	general,hotel,shopping
+146	10	USER	すごい！とても詳しくわかりました。すっかりお願いしてしまってすみませんでした。助かりました。	general,hotel,shopping

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4908	0	USER	大阪に旅行に行こうと思っています。現地でジャンボタクシーを利用できる会社を探してほしいです。	general,taxi
+4908	1	SYSTEM	承知いたしました。では株式会社国際興業大阪はいかがでしょうか。	general,taxi
+4908	2	USER	ありがとうございます。電話番号とキャッシュレス対応をしているかどうかについて教えてください。	general,taxi
+4908	3	SYSTEM	電話番号は0570035931でございます。キャッシュレスにも対応しております。	general,taxi
+4908	4	USER	ありがとうございます。そこで予約したいと思います。1/26の12:00にWA鶏BAR 天満店からオペレッタ52 福島店でお願いします。	general,taxi
+4908	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は95116でございます。	general,taxi
+4908	6	USER	ありがとうございました。これで大丈夫です。	general,taxi
+4908	7	SYSTEM	承知しました。ありがとうございました。	general,taxi

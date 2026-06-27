@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1200	0	USER	仙台への旅行を検討しています。若林区で買い物が出来る所を探しているのですが、お伺いしてもよろしいでしょうか？	general,shopping,restaurant
+1200	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,shopping,restaurant
+1200	2	USER	そうですね。自動車・自転車の取り扱いのあるお店ってありますか？	general,shopping,restaurant
+1200	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping,restaurant
+1200	4	USER	でしたら、特に条件はありませんので、若林区で何かおすすめのお店はありますか？	general,shopping,restaurant
+1200	5	SYSTEM	では岡田の仙台長なす漬 卸町本店はいかがでしょうか。	general,shopping,restaurant
+1200	6	USER	良さそうですね。そちらの住所ってわかりますか？	general,shopping,restaurant
+1200	7	SYSTEM	住所は宮城県仙台市若林区卸町1丁目4-9でございます。	general,shopping,restaurant
+1200	8	USER	ありがとうございます。住所まで聞いておいて何ですが、近辺の駅からの所要時間も教えて貰えると助かります。	general,shopping,restaurant
+1200	9	SYSTEM	卸町駅から徒歩で5分でございます。	general,shopping,restaurant
+1200	10	USER	ありがとうございます。それと、当日食事が出来る飲食店も探しているのですが、このまま続けても大丈夫でしょうか？	general,shopping,restaurant
+1200	11	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant
+1200	12	USER	予算が安めで、Wi-Fiが無料で利用出来るお店ってありますかね？	general,shopping,restaurant
+1200	13	SYSTEM	では岳山珈琲はいかがですか。	general,shopping,restaurant
+1200	14	USER	そこを検討してみます。そのお店の営業時間と定休日とかってわかりますか？	general,shopping,restaurant
+1200	15	SYSTEM	営業時間は11:00～18:00でございます。定休日は第1火曜日, 第3火曜日, 水曜日となっております。	general,shopping,restaurant
+1200	16	USER	わかりました。解決しました。どうもありがとうございました。	general,shopping,restaurant
+1200	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant

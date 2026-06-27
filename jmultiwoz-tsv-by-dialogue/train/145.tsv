@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+145	0	USER	札幌に行くんですけど、北海道神宮というところを探してもらえますか？	general,attraction,shopping,taxi
+145	1	SYSTEM	承知致しました。住所は札幌市中央区宮ケ丘474、電話番号は、0116110261、エリアは中央区、最寄りの円山公園駅から徒歩で15分となっております。	general,attraction,shopping,taxi
+145	2	USER	けっこう歩きますね。料金情報も知りたいんですけど。あと、そこはWi-Fiって使えますか？	general,attraction,shopping,taxi
+145	3	SYSTEM	はい、入場料などは必要なく、無料でご利用いただけます。申し訳ございませんが、Wi-Fiの有無については不明です。	general,attraction,shopping,taxi
+145	4	USER	ありがとうございます。買い物をしたいんですけど、Kakitsubata Bakeryってお店、分かりますか？	general,attraction,shopping,taxi
+145	5	SYSTEM	はい、南区にございまして、住所は札幌市南区川沿4条3丁目4-15、電話番号は、0115737275、営業時間は9時から17時、月曜、火曜、水曜が定休日となっております。	general,attraction,shopping,taxi
+145	6	USER	そこはエリア的には南区ってことになりますか？	general,attraction,shopping,taxi
+145	7	SYSTEM	はい、さようでございます。	general,attraction,shopping,taxi
+145	8	USER	タクシー会社も探してもらっていいですか？ジャンボタクシーが使えてキャッシュレス払いできるところを教えてください。	general,attraction,shopping,taxi
+145	9	SYSTEM	承知致しました。北広島第一交通(株)はいかがでしょう？ジャンボタクシー、キャッシュレスともに対応しております。電話番号は、0118115151となります。	general,attraction,shopping,taxi
+145	10	USER	そこで10月1日に予約してほしいんですけど。16時半に北海道神宮を出てKakitsubata Bakeryまでです。	general,attraction,shopping,taxi
+145	11	SYSTEM	承知致しました。予約が完了致しました。ご予約番号は、15092となります。	general,attraction,shopping,taxi
+145	12	USER	ありがとうございました。助かりました。	general,attraction,shopping,taxi

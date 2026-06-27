@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1713	0	USER	名古屋へ旅行予定なのですが、名東区で無料駐車場のある買い物店舗はありませんか？	general,shopping,hotel,taxi
+1713	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,shopping,hotel,taxi
+1713	2	USER	そうですか。では名東区以外でも大丈夫です。	general,shopping,hotel,taxi
+1713	3	SYSTEM	ではゲンキー富船店はいかがでしょうか。	general,shopping,hotel,taxi
+1713	4	USER	よさそうですね。宿泊施設も探しているのですが、中川区のビジネスホテルでいいところはありませんか？レストランがあるところがいいです。	general,shopping,hotel,taxi
+1713	5	SYSTEM	かしこまりました。ではホテル いろは、はいかがでしょうか。	general,shopping,hotel,taxi
+1713	6	USER	そこにします。当日タクシーの利用を考えているのですが、ジャンボタクシーが使えるところはありますか？	general,shopping,hotel,taxi
+1713	7	SYSTEM	申し訳ございません。ジャンボタクシーの対応している会社がございませんでした。いかがなさいますか。	general,shopping,hotel,taxi
+1713	8	USER	わかりました。ジャンボタクシーはなくてもいいです。	general,shopping,hotel,taxi
+1713	9	SYSTEM	では名鉄交通第一はいかがでしょうか。	general,shopping,hotel,taxi
+1713	10	USER	そこにします。電話番号と、キャッシュレスが使えるかを教えてください。	general,shopping,hotel,taxi
+1713	11	SYSTEM	キャッシュレスは対応しております。電話番号は0570085255でございます。	general,shopping,hotel,taxi
+1713	12	USER	わかりました。12/5の11:30で予約をおねがいします。出発地はゲンキー富船店で目的地はホテル いろはです。	general,shopping,hotel,taxi
+1713	13	SYSTEM	申し訳ございません。その条件では予約ができませんでした。	general,shopping,hotel,taxi
+1713	14	USER	そうですか。では時間を12:20に変更でお願いします。	general,shopping,hotel,taxi
+1713	15	SYSTEM	予約が完了いたしました。予約番号は93700でございます。	general,shopping,hotel,taxi
+1713	16	USER	ありがとうございます。もう要件はありません。	general,shopping,hotel,taxi
+1713	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,taxi

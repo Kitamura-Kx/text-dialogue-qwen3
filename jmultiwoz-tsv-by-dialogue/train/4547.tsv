@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4547	0	USER	横浜へ旅行する予定なのですがCosme Kitchen ルミネ横浜で買い物します。定休日と営業時間を教えて下さい。あと駐車場はありますか？	general,shopping,hotel,weather
+4547	1	SYSTEM	定休日はなし、営業時間は10:00～21:00、駐車場は無料です。	general,shopping,hotel,weather
+4547	2	USER	ありがとうございます。普通の値段の西区の宿を探しています。レストランがあるところがいいです。	general,shopping,hotel,weather
+4547	3	SYSTEM	横浜西区に普通の値段のレストラン付き宿泊施設はありません。	general,shopping,hotel,weather
+4547	4	USER	それでは西区でなければありますか？	general,shopping,hotel,weather
+4547	5	SYSTEM	それならば、横浜みなとみらい 万葉倶楽部です。	general,shopping,hotel,weather
+4547	6	USER	よかった！それではそこを予約して頂けますか？3人です4/7から2泊です。	general,shopping,hotel,weather
+4547	7	SYSTEM	予約成功しました。予約番号は63359です。	general,shopping,hotel,weather
+4547	8	USER	ありがとうございます。南区の4/7の天気が気になります。	general,shopping,hotel,weather
+4547	9	SYSTEM	4/7 横浜 南区 の天気は曇のち晴、最低気温12.9度、最高気温14.2度です。	general,shopping,hotel,weather
+4547	10	USER	大変助かりました！ありがとうございました。	general,shopping,hotel,weather

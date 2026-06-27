@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4071	0	USER	京都への旅行を計画しています． 当日食事ができる飲食店を探してください．ジャンルはお好み焼き・たこ焼きで	general,restaurant,hotel
+4071	1	SYSTEM	いっかくじゅう 四条新町店はいかがでしょうか。	general,restaurant,hotel
+4071	2	USER	そちらの近辺の駅からの所要時間を教えていただけますか。	general,restaurant,hotel
+4071	3	SYSTEM	近辺の駅からの所要時間は四条駅から徒歩で6分です。	general,restaurant,hotel
+4071	4	USER	そちらで人数は2人．日付は3/21．時間は11:40で予約おねがいします。	general,restaurant,hotel
+4071	5	SYSTEM	すみません、そちらの条件で予約できませんでした。	general,restaurant,hotel
+4071	6	USER	でしたら人数は1でいいです。	general,restaurant,hotel
+4071	7	SYSTEM	予約完了いたしました。予約番号は33122になります。	general,restaurant,hotel
+4071	8	USER	ありがとうございます。あと、当日泊まる宿泊施設を探してください．宿のタイプはビジネスホテルです．予算は安めが希望です．	general,restaurant,hotel
+4071	9	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,restaurant,hotel
+4071	10	USER	でしたらタイプはなんでもいいです。	general,restaurant,hotel
+4071	11	SYSTEM	メルキュール京都ステーションはいかがでしょうか。	general,restaurant,hotel
+4071	12	USER	そちらの住所を教えていただけますか。	general,restaurant,hotel
+4071	13	SYSTEM	住所は京都府京都市下京区油小路町288になります。	general,restaurant,hotel
+4071	14	USER		general,restaurant,hotel

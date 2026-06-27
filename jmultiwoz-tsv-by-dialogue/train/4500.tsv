@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4500	0	USER	札幌へ旅行するので、清田区の最寄り駅が手稲駅で買い物できるところがあるか探してください。	general,shopping,restaurant
+4500	1	SYSTEM	札幌清田区、手稲駅だとヒットしませんね。	general,shopping,restaurant
+4500	2	USER	ざんねんです。じゃあ最寄り駅をどこでもいいとしたらどうですか？	general,shopping,restaurant
+4500	3	SYSTEM	清田区の買い物でしたらいくつかありますが、札幌らしいところで、地酒ノ酒屋 愉酒屋をお勧めします。	general,shopping,restaurant
+4500	4	USER	そこにしようかな。近辺の駅からの所要時間と営業時間が知りたいです。	general,shopping,restaurant
+4500	5	SYSTEM	福住駅からバスで19分、営業時間は10:00～19:00です。	general,shopping,restaurant
+4500	6	USER	わかりました。次に、Wi-Fiが無料で使えて、無料駐車場もある飲食店を探してください。	general,shopping,restaurant
+4500	7	SYSTEM	札幌には、WiFiと駐車場無料の飲食店はなさそうです。	general,shopping,restaurant
+4500	8	USER	わかりました。では、駐車場はなくても大丈夫です。	general,shopping,restaurant
+4500	9	SYSTEM	その条件ならいくつかありますが、蔵元直営 吉翔をお勧めします。	general,shopping,restaurant
+4500	10	USER	そこにします。最寄り駅と値段帯、あとわかれば料金情報も教えてほしいです。	general,shopping,restaurant
+4500	11	SYSTEM	最寄りは大通駅、値段帯は安め、料金情報は不明です。	general,shopping,restaurant
+4500	12	USER	わかりました。それではそちらのお店の予約をお願いします。2人で2/17の11:20です。	general,shopping,restaurant
+4500	13	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,shopping,restaurant
+4500	14	USER	そうですか。では人数を1人にして予約してもらえますか？	general,shopping,restaurant
+4500	15	SYSTEM	予約成功しました。予約番号は38388です。	general,shopping,restaurant
+4500	16	USER	ありがとうございました。	general,shopping,restaurant
+4500	17	SYSTEM	よい旅を。	general,shopping,restaurant

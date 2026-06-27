@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2972	0	USER	今度福岡へ行くんですが、無料駐車場があって、Wi-Fiも無料の飲食店はありますか？予算は安めのところが希望です。	general,restaurant,hotel,weather
+2972	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,hotel,weather
+2972	2	USER	では、予算はこだわらないことにします。	general,restaurant,hotel,weather
+2972	3	SYSTEM	ありがとうございます。エリアでいうと博多区に、レカイエ オイスターバー JR博多シティ店がございます。ジャンルは、寿司、魚料理となります。	general,restaurant,hotel,weather
+2972	4	USER	ありがとうございます。ではそこの営業時間も教えてください。	general,restaurant,hotel,weather
+2972	5	SYSTEM	はい、営業時間は11時から23時となります。	general,restaurant,hotel,weather
+2972	6	USER	ありがとうございます。ではそこの予約をお願いできますか？6/26の午前10：50で４名です。	general,restaurant,hotel,weather
+2972	7	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,restaurant,hotel,weather
+2972	8	USER	では午前11：40に変更します。	general,restaurant,hotel,weather
+2972	9	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、34414となります。	general,restaurant,hotel,weather
+2972	10	USER	ありがとうございます。あと、駐車場が無料のビジネスホテルを探してもらえますか？	general,restaurant,hotel,weather
+2972	11	SYSTEM	承知しました。エリアでいうと博多区に、HOTEL AZ 福岡金の隈店がございます。	general,restaurant,hotel,weather
+2972	12	USER	ありがとうございます。ではそこの近辺の駅からの所要時間とWi-Fiの有無と電話番号も教えてもらえますか？	general,restaurant,hotel,weather
+2972	13	SYSTEM	電話番号は0925133301、最寄りの南福岡駅からタクシーで10分となります。Wi-Fiは無料でご利用いただけます。	general,restaurant,hotel,weather
+2972	14	USER	ありがとうございます。ではそこの予約をお願いできますか？6/26から３泊で３名です。	general,restaurant,hotel,weather
+2972	15	SYSTEM	承知しました。予約が完了し、ご予約番号は、83453となります。	general,restaurant,hotel,weather
+2972	16	USER	ありがとうございます。あと、東区の6/26の天気も教えてもらえますか？	general,restaurant,hotel,weather
+2972	17	SYSTEM	はい、天気は晴時々曇となります。	general,restaurant,hotel,weather
+2972	18	USER	ありがとうございました。以上で結構です。	general,restaurant,hotel,weather
+2972	19	SYSTEM	ありがとうございました。	general,restaurant,hotel,weather

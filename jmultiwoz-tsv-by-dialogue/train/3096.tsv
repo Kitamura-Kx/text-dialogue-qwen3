@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3096	0	USER	仙台に行こうと思っているのですが，泉区で無料の駐車場がある文房具・雑貨屋さんはありますか．	general,shopping,weather,taxi
+3096	1	SYSTEM	はい、５件ございます。たとえば、丸善 仙台アエル店というお店ですが、いかがでしょうか？	general,shopping,weather,taxi
+3096	2	USER	良いですね．そちらは定休日がありますか．	general,shopping,weather,taxi
+3096	3	SYSTEM	こちらは、定休日はございません。	general,shopping,weather,taxi
+3096	4	USER	ありがとうございます．あと，2/11，青葉区の天気と最高気温を教えてください．	general,shopping,weather,taxi
+3096	5	SYSTEM	かしこまりました。当日の天気は、雨時々晴、最高気温は12.2度の予報となっております。	general,shopping,weather,taxi
+3096	6	USER	なるほど．追加で，キャッシュレス払い対応のタクシーを探しているのですが．	general,shopping,weather,taxi
+3096	7	SYSTEM	かしこまりました。では、（有）光泉タクシーはいかがでしょうか？	general,shopping,weather,taxi
+3096	8	USER	ありがとうございます．そちらの電話番号とジャンボタクシーへの対応を教えてください	general,shopping,weather,taxi
+3096	9	SYSTEM	はい。電話番号は、0223752525です。ジャンボタクシーもご利用いただけます。	general,shopping,weather,taxi
+3096	10	USER	それではそこを予約したいです．セブンイレブン仙台六丁の目駅前店から丸善 仙台アエル店までお願いします．日時は2/11，12:50です．	general,shopping,weather,taxi
+3096	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、15770です。	general,shopping,weather,taxi
+3096	12	USER	ありがとうございました．	general,shopping,weather,taxi

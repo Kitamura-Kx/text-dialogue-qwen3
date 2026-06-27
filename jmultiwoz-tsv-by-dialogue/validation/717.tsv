@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+717	0	USER	福岡への旅行を考えているのですが、リゾートホテルで無料Wi-Fiが使える宿泊施設を調べてください。	general,hotel,shopping,taxi
+717	1	SYSTEM	承知しました。では、THE LUIGANS Spa&Resortはいかがでしょう？何かご案内致しましょうか？	general,hotel,shopping,taxi
+717	2	USER	そこにします。料金情報を教えてください。	general,hotel,shopping,taxi
+717	3	SYSTEM	はい、値段帯は安め、Wi-Fiのご利用は無料、駐車場は有料、となります。他にご案内できることはございますか？	general,hotel,shopping,taxi
+717	4	USER	わかりました。家電・電化製品を扱っている買い物ができる店舗を教えてください。最寄り駅が地下鉄姪浜駅のところがいいです。	general,hotel,shopping,taxi
+717	5	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,hotel,shopping,taxi
+717	6	USER	そうですか。であれば最寄り駅が地下鉄姪浜駅でなくてもいいです。	general,hotel,shopping,taxi
+717	7	SYSTEM	ありがとうございます。では、ヨドバシ博多がございます。何かご案内致しましょうか？	general,hotel,shopping,taxi
+717	8	USER	そこにします。当日タクシーを利用したいのですが、ジャンボタクシーがあるところはありますか？	general,hotel,shopping,taxi
+717	9	SYSTEM	はい、では、福岡交通（株）はいかがでしょう？キャッシュレスにも対応しております。電話番号は0570081234となります。予約されますか？	general,hotel,shopping,taxi
+717	10	USER	はい。4月18日の15時20分で、THE LUIGANS Spa&Resortからヨドバシ博多までで予約お願いします。	general,hotel,shopping,taxi
+717	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、45742となります。他にご用件はございますか？	general,hotel,shopping,taxi
+717	12	USER	ありがとうございます。もう大丈夫です。	general,hotel,shopping,taxi
+717	13	SYSTEM	ありがとうございました。	general,hotel,shopping,taxi

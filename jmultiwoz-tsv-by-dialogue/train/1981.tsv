@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1981	0	USER	京都の梅小路京都西駅近くで泊まる場所を探しています。レストランがついている所が良いです。	general,hotel,attraction
+1981	1	SYSTEM	そういたしますと、河岸ホテルというところはいかがでしょうか？梅小路京都西駅から徒歩で5分、または、丹波口駅から徒歩で10分の場所にございます。	general,hotel,attraction
+1981	2	USER	近くて良いですね。10/25に2人で3泊予約したいです。	general,hotel,attraction
+1981	3	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、96720です。	general,hotel,attraction
+1981	4	USER	ありがとうございます。観光できる場所も探しています。	general,hotel,attraction
+1981	5	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,hotel,attraction
+1981	6	USER	駐車場が無料であるお店が良いです。それ以外は特に希望はないです。	general,hotel,attraction
+1981	7	SYSTEM	そういたしますと、安井金比羅宮をはじめ、6件ほどご案内可能です。	general,hotel,attraction
+1981	8	USER	安井金比羅宮気になります！住所とエリアを教えてください。	general,hotel,attraction
+1981	9	SYSTEM	かしこまりました。安井金比羅宮の住所は、京都府京都市東山区東大路松原上ル下弁天町70でございます。エリアは、東山区となります。	general,hotel,attraction
+1981	10	USER	ありがとうございます。	general,hotel,attraction
+1981	11	SYSTEM	他にお調べすることはございますか？	general,hotel,attraction
+1981	12	USER	大丈夫です。ありがとうございました。	general,hotel,attraction
+1981	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction

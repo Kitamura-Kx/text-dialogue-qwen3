@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2217	0	USER	那覇へ旅行に行くので、買い物ができるところを探してください。	general,shopping,attraction,hotel
+2217	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,attraction,hotel
+2217	2	USER	ジャンルはスーパーマーケットで、最寄り駅が美栄橋駅のところだと助かります。	general,shopping,attraction,hotel
+2217	3	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,shopping,attraction,hotel
+2217	4	USER	では最寄り駅の条件は外して構いません。	general,shopping,attraction,hotel
+2217	5	SYSTEM	エリアでいうと真和志に1件、タウンプラザかねひで与儀公園市場がございます。	general,shopping,attraction,hotel
+2217	6	USER	そちらの電話番号と近辺の駅からの所要時間を教えてください。	general,shopping,attraction,hotel
+2217	7	SYSTEM	電話番号は0988323939、最寄りの安里駅から徒歩で11分、近辺の牧志駅から徒歩で11分となります。	general,shopping,attraction,hotel
+2217	8	USER	次に観光ができる場所を探してください。	general,shopping,attraction,hotel
+2217	9	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,attraction,hotel
+2217	10	USER	ジャンルは銭湯・スパで、地区は本庁、Wi-Fiが無料で利用できるところにしてください。	general,shopping,attraction,hotel
+2217	11	SYSTEM	1件、ゆんたくあしび温泉 りっかりっか湯がございます。	general,shopping,attraction,hotel
+2217	12	USER	そちらの最寄り駅と住所を教えてください。	general,shopping,attraction,hotel
+2217	13	SYSTEM	住所は沖縄県那覇市牧志2丁目16-36、最寄りの牧志駅から徒歩で5分となります。	general,shopping,attraction,hotel
+2217	14	USER	ありがとうございます。あと最寄り駅が牧志駅の宿泊施設を探してください。	general,shopping,attraction,hotel
+2217	15	SYSTEM	エリアでいうと真和志にある、沖縄サンプラザホテルはいかがでしょう？タイプはビジネスホテルになります。	general,shopping,attraction,hotel
+2217	16	USER	そちらはレストランはありますか？	general,shopping,attraction,hotel
+2217	17	SYSTEM	申し訳ありません。併設のレストランはございません。	general,shopping,attraction,hotel
+2217	18	USER	ありがとうございます。以上になります。	general,shopping,attraction,hotel
+2217	19	SYSTEM	ありがとうございました。	general,shopping,attraction,hotel

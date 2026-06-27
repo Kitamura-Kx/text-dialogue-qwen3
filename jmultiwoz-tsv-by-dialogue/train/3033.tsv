@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3033	0	USER	横浜に旅行に行くので、当日買い物ができる場所を教えてください。	general,shopping,restaurant,attraction
+3033	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,shopping,restaurant,attraction
+3033	2	USER	最寄り駅が二俣川駅で自動車・自転車が買える場所はありますか？駐車場を無料で利用できる場所でお願いします。	general,shopping,restaurant,attraction
+3033	3	SYSTEM	二俣川で自動車自転車、駐車場無料、すべての条件をみたす店舗はなさそうです。	general,shopping,restaurant,attraction
+3033	4	USER	でしたら、場所は特にこだわりません。	general,shopping,restaurant,attraction
+3033	5	SYSTEM	横浜で自動車自転車、駐車場無料だと、ヤマダ電機 テックランド上山店、こちらになります。	general,shopping,restaurant,attraction
+3033	6	USER	そちらに行きたいと思います。エリアはどこになりますか。	general,shopping,restaurant,attraction
+3033	7	SYSTEM	緑区です。	general,shopping,restaurant,attraction
+3033	8	USER	ありがとうございます。当日イタリアン・フレンチのレストランに行きたいのですが、Wi-Fiが無料で利用できる場所はありますか。	general,shopping,restaurant,attraction
+3033	9	SYSTEM	横浜でイタリアンフレンチ、WiFi無料ならば、CONA 横浜鶴屋町店、こちらをオススメします。	general,shopping,restaurant,attraction
+3033	10	USER	ではそちらにします。エリアと住所の情報も頂けますか。	general,shopping,restaurant,attraction
+3033	11	SYSTEM	エリアは神奈川区、住所は、神奈川県横浜市神奈川区鶴屋町2丁目12-3 第三平楽ビル 1Fです。	general,shopping,restaurant,attraction
+3033	12	USER	ありがとうございます。人数は4人で7/28の14:00から利用したいのですが、可能ですか。	general,shopping,restaurant,attraction
+3033	13	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,shopping,restaurant,attraction
+3033	14	USER	時間を14:50に変更したら予約できますか？	general,shopping,restaurant,attraction
+3033	15	SYSTEM	14:50なら予約できました。予約番号は55304です。	general,shopping,restaurant,attraction
+3033	16	USER	ありがとうございます。瀬谷区周辺で観光名所があればそちらも教えてください。	general,shopping,restaurant,attraction
+3033	17	SYSTEM	瀬谷区には観光名所はなさそうです。	general,shopping,restaurant,attraction
+3033	18	USER	でしたら特に場所は問わないのでお勧めを教えてください。	general,shopping,restaurant,attraction
+3033	19	SYSTEM	横浜といえば、弘明寺、こちらをオススメします。	general,shopping,restaurant,attraction
+3033	20	USER	ではそちらに行きたいと思います。電話番号、近辺の駅からの所要時間、それと子供入場料を教えてください。	general,shopping,restaurant,attraction
+3033	21	SYSTEM	電話は0457111231、弘明寺駅から徒歩で2分、大人も子供も入場無料です。	general,shopping,restaurant,attraction
+3033	22	USER	ありがとうございました。	general,shopping,restaurant,attraction

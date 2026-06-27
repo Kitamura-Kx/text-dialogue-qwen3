@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4226	0	USER	今度大阪へ旅行に行きます。道頓堀 コナモンミュージアムという観光名所はありますか？	general,attraction,weather
+4226	1	SYSTEM	道頓堀 コナモンミュージアムですね。ございます。どのような情報をご案内いたしましょうか？	general,attraction,weather
+4226	2	USER	Wi-Fiの有無や、大人入場料、料金情報について知りたいです。	general,attraction,weather
+4226	3	SYSTEM	WiFiのご提供につきましては、不明となっております。申し訳ありません。大人入場料は、0円でして、お子様も含め、料金は無料でございます。	general,attraction,weather
+4226	4	USER	ありがとうございます。当日12月25日の住之江区の天候を調べてください。	general,attraction,weather
+4226	5	SYSTEM	かしこまりました。当日の天気は、雨のち曇の予報です。最低気温は5.4度、最高気温は9.9度の予想となっております。	general,attraction,weather
+4226	6	USER	わかりました。ありがとうございます。	general,attraction,weather
+4226	7	SYSTEM	他にお調べすることはございませんか？	general,attraction,weather
+4226	8	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,weather
+4226	9	SYSTEM	こちらこそ、ありがとうございます。では、またのご利用をお待ちしております。	general,attraction,weather

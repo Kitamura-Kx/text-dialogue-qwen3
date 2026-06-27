@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1546	0	USER	札幌でビジネスホテルを探してもらえますか？駐車場が無料で利用できると嬉しいのですが。	general,hotel
+1546	1	SYSTEM	ホテルルートイン札幌白石は、いかがですか？	general,hotel
+1546	2	USER	いいですね。最寄り駅はどちらになりますか？	general,hotel
+1546	3	SYSTEM	最寄り駅は、白石駅です。	general,hotel
+1546	4	USER	わかりました。ありがとう。	general,hotel

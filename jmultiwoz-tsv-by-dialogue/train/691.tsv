@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+691	0	USER	Wi-Fiが無料で使えて、レストランが併設されているホテルを、福岡で探してください。	general,hotel
+691	1	SYSTEM	申し訳ありません、ホテルとは、タイプを指していますか？それとも宿泊施設、ととらえてよろしいでしょうか？タイプでしたら、種類をご指定いただきたいのですが、いかがでしょう。	general,hotel
+691	2	USER	福岡の宿泊施設で探してください。宜しくお願いいたします。	general,hotel
+691	3	SYSTEM	承知しました。申し訳ありませんが、その条件ではご案内ができません。いかが致しましょう？	general,hotel
+691	4	USER	では、レストランなしの宿泊施設でも良いです。	general,hotel
+691	5	SYSTEM	ありがとうございます。エリアでいうと博多区にございます、N.33 Hakata sta. Eastはいかがでしょう？何かご案内致しましょうか？	general,hotel
+691	6	USER	そちらの施設の、チェックアウト終了時刻と住所を教えてください。	general,hotel
+691	7	SYSTEM	はい、住所は福岡県福岡市博多区博多駅東1丁目14-30、チェックアウト終了時刻は10時となります。他にご案内できることはございますか？	general,hotel
+691	8	USER	今回調べたかったことは以上です。ありがとうございました。	general,hotel
+691	9	SYSTEM	ありがとうございました。	general,hotel

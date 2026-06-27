@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+774	0	USER	札幌へ行こうと思っています。WiFiが無料で和食が食べられる飲食店を探していただきたいです。	general,restaurant,shopping,weather
+774	1	SYSTEM	かしこまりました。そうしますと、4つのお店をご案内可能です。たとえば、蔵元直営 吉翔という中央区のお店はいかがでしょうか？	general,restaurant,shopping,weather
+774	2	USER	そちらの料金、値段帯を教えていただけますでしょうか。	general,restaurant,shopping,weather
+774	3	SYSTEM	値段帯はお安めのお店です。詳しい料金情報につきましては、不明となっており、ご案内できず申し訳ございません。	general,restaurant,shopping,weather
+774	4	USER	では、7月23日9時50分から2人で予約をお願いします。	general,restaurant,shopping,weather
+774	5	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。予約番号は、5283です。	general,restaurant,shopping,weather
+774	6	USER	わかりました。ありがとうございます。	general,restaurant,shopping,weather
+774	7	SYSTEM	ほかにお手伝いできることはございませんか？	general,restaurant,shopping,weather
+774	8	USER	中央区にあって最寄り駅が円山公園駅で駐車場が無料の買い物ができる施設を教えていただきたいです。	general,restaurant,shopping,weather
+774	9	SYSTEM	かしこまりました。そういたしますと、マルヤマクラスという、ショッピングモールはいかがでしょうか？	general,restaurant,shopping,weather
+774	10	USER	わかりました。ありがとうございます。	general,restaurant,shopping,weather
+774	11	SYSTEM	他にお調べすることはございますか？	general,restaurant,shopping,weather
+774	12	USER	7月23日東区の天候を調べていただきたいです。	general,restaurant,shopping,weather
+774	13	SYSTEM	かしこまりました。当日の天気は、雨のち曇りの予報となっております。最高気温は29.4度まで上る見込みです。	general,restaurant,shopping,weather
+774	14	USER	最低気温を教えていただけますでしょうか。	general,restaurant,shopping,weather
+774	15	SYSTEM	はい。最低気温は、16.2度の予想となっております。	general,restaurant,shopping,weather
+774	16	USER	わかりました。ありがとうございます。	general,restaurant,shopping,weather
+774	17	SYSTEM	他になにか、ご用件はございませんか？	general,restaurant,shopping,weather
+774	18	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant,shopping,weather

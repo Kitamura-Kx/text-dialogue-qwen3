@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3587	0	USER	横浜への旅行を考えているのですが、10/27の天候を調べてもらえますか？地区は戸塚区です。	general,weather,taxi
+3587	1	SYSTEM	かしこまりました。天気は雨時々晴で、最低気温が17.9度、最高気温が20.3度となっております。	general,weather,taxi
+3587	2	USER	ありがとうございます。当日利用できるタクシー会社を探しています。ジャンボタクシーが利用できるところがいいです。	general,weather,taxi
+3587	3	SYSTEM	申し訳ございません。ジャンボタクシーに対応している会社がございません。いかがなさいますか。	general,weather,taxi
+3587	4	USER	ではジャンボタクシーは利用できなくても大丈夫です。	general,weather,taxi
+3587	5	SYSTEM	では飛鳥交通横浜株式会社がございます。こちらキャッシュレスには対応しております。	general,weather,taxi
+3587	6	USER	ありがとうございます。電話番号もわかりますか？	general,weather,taxi
+3587	7	SYSTEM	電話番号は0570075770でございます。	general,weather,taxi
+3587	8	USER	ありがとうございます。ではそのタクシー会社で、10/27の12:30、出発地はスパ・リブール ヨコハマ、目的地は本牧山頂公園で、予約をお願いします。	general,weather,taxi
+3587	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は58013でございます。	general,weather,taxi
+3587	10	USER	ありがとうございます。	general,weather,taxi
+3587	11	SYSTEM	ほかにご用件はございませんか。	general,weather,taxi
+3587	12	USER	いえ、大丈夫です。案内ありがとうございました。	general,weather,taxi
+3587	13	SYSTEM	承知しました。ありがとうございました。	general,weather,taxi

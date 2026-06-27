@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4889	0	USER	那覇への旅行を計画中のため、買い物をする際、最寄り駅が奥武山公園駅のところで駐車場が無料で利用できるお店を探してほしいです。	general,shopping,hotel,taxi
+4889	1	SYSTEM	かしこまりました。その条件でしたら、LEO & JOEがございます。	general,shopping,hotel,taxi
+4889	2	USER	ジャンルは何になりますか？	general,shopping,hotel,taxi
+4889	3	SYSTEM	医薬品・化粧品のお店でございます。	general,shopping,hotel,taxi
+4889	4	USER	ありがとうございます。あと、本庁で駐車場が無料で利用できる宿泊施設を探してほしいです。	general,shopping,hotel,taxi
+4889	5	SYSTEM	かしこまりました。それでは沖縄国際ユースホステルはいかがでしょうか？	general,shopping,hotel,taxi
+4889	6	USER	そこにしようと思います。チェックアウト終了時刻を教えてください。	general,shopping,hotel,taxi
+4889	7	SYSTEM	チェックアウト終了時刻は10時でございます。	general,shopping,hotel,taxi
+4889	8	USER	ではそこで6/10から２泊で４人で予約をお願いします。	general,shopping,hotel,taxi
+4889	9	SYSTEM	お待たせ致しました。予約番号22057でお取りさせていただきました。	general,shopping,hotel,taxi
+4889	10	USER	ありがとうございます。あとキャッシュレス払い対応のタクシー会社を探してほしいです。	general,shopping,hotel,taxi
+4889	11	SYSTEM	それでは、丸二タクシーはいかがでしょうか？	general,shopping,hotel,taxi
+4889	12	USER	そこはジャンボタクシーに対応していますか？	general,shopping,hotel,taxi
+4889	13	SYSTEM	はい、対応しております。	general,shopping,hotel,taxi
+4889	14	USER	そこでお願いしようと思います。6/10 13:30にLEO & JOEから沖縄国際ユースホステルまで予約をお願いします。	general,shopping,hotel,taxi
+4889	15	SYSTEM	お待たせ致しました。予約番号40386でお取りさせていただきました。	general,shopping,hotel,taxi
+4889	16	USER	ありがとうございます。	general,shopping,hotel,taxi
+4889	17	SYSTEM	その他にご用件はございますか？	general,shopping,hotel,taxi
+4889	18	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,hotel,taxi

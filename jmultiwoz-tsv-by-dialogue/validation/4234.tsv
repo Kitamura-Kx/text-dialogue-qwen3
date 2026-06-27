@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4234	0	USER	大阪に旅行に行きますが、住之江区で駐車場無料の、買い物ができるところを探していただけますか。	general,shopping,hotel
+4234	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,hotel
+4234	2	USER	それでは、駐車場はあってもなくてもいいです。	general,shopping,hotel
+4234	3	SYSTEM	ありがとうございます。では、うしや精肉店はいかがでしょう？ジャンルは、食料品となります。	general,shopping,hotel
+4234	4	USER	ありがとうございます。駅からどれくらいのところにありますか？	general,shopping,hotel
+4234	5	SYSTEM	はい、最寄りの住吉大社駅から徒歩で2分となります。	general,shopping,hotel
+4234	6	USER	ありがとうございます。宿泊施設も探していただけますか。扇町駅の近くでお願いします。	general,shopping,hotel
+4234	7	SYSTEM	承知しました。エリアでいうと北区にある、アンピールホテル大阪はいかがでしょう？タイプは、ビジネスホテルとなります。	general,shopping,hotel
+4234	8	USER	ありがとうございます。そちらの住所を教えてください。	general,shopping,hotel
+4234	9	SYSTEM	はい、住所は、大阪府大阪市北区神山町11-12となります。	general,shopping,hotel
+4234	10	USER	ありがとうございました。	general,shopping,hotel

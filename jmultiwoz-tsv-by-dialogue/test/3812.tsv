@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3812	0	USER	大阪へ旅行したいのですが。	general,shopping
+3812	1	SYSTEM	どのようなお店や施設をお探しですか？	general,shopping
+3812	2	USER	中央区の淀屋橋駅が最寄りで買い物ができて、無料駐車場があるところはありますか？	general,shopping
+3812	3	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping
+3812	4	USER	そうですか。では、最寄り駅はどこでも大丈夫なので、ほかによいところはありますか？	general,shopping
+3812	5	SYSTEM	では、なんばCITYはいかがですか？	general,shopping
+3812	6	USER	そちらの営業時間はわかりますか？	general,shopping
+3812	7	SYSTEM	はい、営業時間は、11時から21時までです。	general,shopping
+3812	8	USER	分かりました。ありがとうございます。	general,shopping
+3812	9	SYSTEM	他にご用件はありますか？	general,shopping
+3812	10	USER	特にありません。ありがとうございました。	general,shopping
+3812	11	SYSTEM	承知しました。ありがとうございました。	general,shopping

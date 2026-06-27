@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2989	0	USER	横浜に旅行するのですが、Wi-Fiが無料の観光名所はありますか？	general,attraction
+2989	1	SYSTEM	横浜にWiFi無料の観光名所はなさそうです。	general,attraction
+2989	2	USER	そうなんですね。じゃあ、Wi-Fiなくてもいいです	general,attraction
+2989	3	SYSTEM	横浜の観光名所は４１件ヒットしました。何か希望の条件はありますか？	general,attraction
+2989	4	USER	特にないです	general,attraction
+2989	5	SYSTEM	それならば、横浜といえばぜひ、弘明寺、こちらをお勧めします。	general,attraction
+2989	6	USER	住所を教えて貰えますか？	general,attraction
+2989	7	SYSTEM	神奈川県横浜市南区弘明寺町267番地です。	general,attraction
+2989	8	USER	わかりました！ありがとうございました	general,attraction
+2989	9	SYSTEM	よい旅を	general,attraction

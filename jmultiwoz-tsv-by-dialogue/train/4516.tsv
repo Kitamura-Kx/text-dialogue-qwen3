@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4516	0	USER	福岡への旅行を計画しているんですけど、その時に泊まるレストランが併設されている宿泊施設を探してもらえますか？	general,hotel,weather
+4516	1	SYSTEM	申し訳ございません。レストランが併設されている宿泊施設がございませんでした。いかがなさいますか。	general,hotel,weather
+4516	2	USER	それじゃ、レストランは併設されていなくても大丈夫です。	general,hotel,weather
+4516	3	SYSTEM	ではザ・ワンファイブヴィラ福岡はいかがでしょうか。	general,hotel,weather
+4516	4	USER	そちらのエリアと値段帯を教えて下さい。	general,hotel,weather
+4516	5	SYSTEM	エリアは中央区で、値段帯は安めとなっております。	general,hotel,weather
+4516	6	USER	わかりました。そちらを6/22から3泊、3名の予約をお願いできますか？	general,hotel,weather
+4516	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は12441でございます。	general,hotel,weather
+4516	8	USER	ありがとうございます。あと、6/22の西区の天気はわかりますか？	general,hotel,weather
+4516	9	SYSTEM	はい。当日の天気は晴のち曇となっております。	general,hotel,weather
+4516	10	USER	ありがとうございます。	general,hotel,weather
+4516	11	SYSTEM	ほかにご用件はございませんか。	general,hotel,weather
+4516	12	USER	他にはありません、ありがとうございました。	general,hotel,weather
+4516	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

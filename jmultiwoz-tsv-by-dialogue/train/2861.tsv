@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2861	0	USER	仙台への旅行を計画しているため、当日買い物をするのに、駐車場が無料で利用できるお店を探してもらえますか？	general,shopping,hotel
+2861	1	SYSTEM	では、仙台場外市場 杜の市場はいかがですか？	general,shopping,hotel
+2861	2	USER	ジャンルと電話番号を教えてください。	general,shopping,hotel
+2861	3	SYSTEM	ジャンルとしては、商店街になります。電話番号は、　0227625701です。	general,shopping,hotel
+2861	4	USER	ありがとうございます。あと予算は普通で、駐車場が無料で利用できる宿泊施設も探してもらえますか？	general,shopping,hotel
+2861	5	SYSTEM	ホテルニュー水戸屋 アネックスは、いかがですか＞	general,shopping,hotel
+2861	6	USER	そこにしようと思うので、住所を教えてください。	general,shopping,hotel
+2861	7	SYSTEM	住所は、宮城県仙台市太白区秋保町湯元薬師102です。	general,shopping,hotel
+2861	8	USER	10/22 から４泊で４人で予約もお願いできますか？	general,shopping,hotel
+2861	9	SYSTEM	予約出来ました。予約番号は、11942です。	general,shopping,hotel
+2861	10	USER	ありがとうございます。	general,shopping,hotel
+2861	11	SYSTEM	他にご用件はございますか？	general,shopping,hotel
+2861	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,hotel

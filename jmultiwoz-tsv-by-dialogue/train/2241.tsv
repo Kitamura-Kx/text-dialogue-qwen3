@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2241	0	USER	横浜へ旅行に行くので、買い物ができるところを探してください。	general,shopping,weather,taxi
+2241	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,shopping,weather,taxi
+2241	2	USER	最寄り駅が横浜駅で、駐車場を無料で利用できるところにしてください。	general,shopping,weather,taxi
+2241	3	SYSTEM	かしこまりました。では、横浜タカシマヤは如何でしょうか？ジャンルとしては、百貨店や総合スーパーのお店となります。	general,shopping,weather,taxi
+2241	4	USER	そちらの定休日とエリアを教えてください。	general,shopping,weather,taxi
+2241	5	SYSTEM	こちらは、定休日はございません。エリアは西区にございます。	general,shopping,weather,taxi
+2241	6	USER	ありがとうございます。次に緑区の12/27の天候を教えてください。	general,shopping,weather,taxi
+2241	7	SYSTEM	当日の天気は、曇時々晴の予報です。最低気温は1.6度、最高気温は12.8度の予想となっております。	general,shopping,weather,taxi
+2241	8	USER	ありがとうございます。あとジャンボタクシーが利用できるタクシー会社を調べてください。	general,shopping,weather,taxi
+2241	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,weather,taxi
+2241	10	USER	ではジャンボタクシーは利用できなくても構いません。	general,shopping,weather,taxi
+2241	11	SYSTEM	ありがとうございます。では、東宝タクシー株式会社はいかがでしょうか？	general,shopping,weather,taxi
+2241	12	USER	そちらにします。ちなみにキャッシュレス対応はしていますか？	general,shopping,weather,taxi
+2241	13	SYSTEM	申し訳ありません。こちらはキャッシュレスのお支払いにも非対応となっております。対応している会社でお探ししましょうか？	general,shopping,weather,taxi
+2241	14	USER	いえ、東宝タクシーで構いません。タクシーの予約をお願いします。日付は12/27、時間は14:50、出発地は横浜タカシマヤで、目的地は横浜なかや 大関本店です。	general,shopping,weather,taxi
+2241	15	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、69898です。	general,shopping,weather,taxi
+2241	16	USER	ありがとうございました。以上です。	general,shopping,weather,taxi
+2241	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,weather,taxi

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3818	0	USER	仙台へ旅行を計画しているのですが、飲食店を探しています。旭ヶ丘駅が最寄りで無料の駐車場があるカフェはないですか？	general,restaurant
+3818	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant
+3818	2	USER	そうですか。では、最寄り駅は旭ヶ丘駅でなくても大丈夫なので、ほかにはありますか？	general,restaurant
+3818	3	SYSTEM	それでしたら、プロント 仙台セルバテラス店はいかがですか？	general,restaurant
+3818	4	USER	そちらは、どのエリアにありますか？あと、最寄駅からの所要時間はどのくらいですか？	general,restaurant
+3818	5	SYSTEM	エリアは、泉区です。所要時間は、泉中央駅から徒歩で1分となっています。	general,restaurant
+3818	6	USER	わかりました。ありがとうございます。	general,restaurant
+3818	7	SYSTEM	他にご用件はありますか？	general,restaurant
+3818	8	USER	特にありません。ありがとうございました。	general,restaurant
+3818	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

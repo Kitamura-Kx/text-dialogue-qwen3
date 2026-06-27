@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3114	0	USER	福岡に旅行するので早良区にある観光名所を知りたいです。	general,attraction,weather
+3114	1	SYSTEM	かしこまりました。5件ほどご案内可能です。例えば、福岡市博物館はいかがでしょうか？	general,attraction,weather
+3114	2	USER	ではそこにしてみようと思います。Wi-Fiの有無と営業時間と近辺の駅からの所要時間を教えてください。	general,attraction,weather
+3114	3	SYSTEM	かしこまりました。こちら、WiFIは無料でご利用いただけます。営業時間は、9:30～17:30です。最寄りの藤崎駅からバスで10分でアクセスできるほか、西新駅から徒歩で15分でもアクセス可能です。	general,attraction,weather
+3114	4	USER	分かりました。あと、早良区の7/3の最低気温と最高気温を教えてください。	general,attraction,weather
+3114	5	SYSTEM	かしこまりました。当日の最低気温は19.6度、最高気温は29.5度の予想です。	general,attraction,weather
+3114	6	USER	わかりました！ありがとうございました	general,attraction,weather
+3114	7	SYSTEM	他になにか、お知りになりたい情報など、ございませんか？	general,attraction,weather
+3114	8	USER	大丈夫です。ありがとうございました！	general,attraction,weather
+3114	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,weather

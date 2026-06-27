@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1669	0	USER	札幌で宿泊施設を探しています。中央区でレストラン併設のところはありますか？	general,hotel,taxi
+1669	1	SYSTEM	はい、55件ほど候補がございます。例えば、東急ステイ札幌というところがございますが、いかがでしょうか？	general,hotel,taxi
+1669	2	USER	じゃあ、そこにします。予約もお願いできますか。11/5から２泊で２名です。	general,hotel,taxi
+1669	3	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,hotel,taxi
+1669	4	USER	そうですか。では１名に変更したらどうですか？	general,hotel,taxi
+1669	5	SYSTEM	ありがとうございます。1名様にて、ご予約完了いたしました。予約番号は、79055でございます。	general,hotel,taxi
+1669	6	USER	ありがとうございます。あと、ジャンボタクシーが利用できるタクシー会社も探してもらえますか。	general,hotel,taxi
+1669	7	SYSTEM	かしこまりました。では、暁交通(株)はいかがでしょうか？	general,hotel,taxi
+1669	8	USER	では、そこを予約してください。11/5の12：30に東急ステイ札幌から札幌市アイヌ文化交流センター サッポロピリカコタンへ行きたいです。	general,hotel,taxi
+1669	9	SYSTEM	ご予約ありがとうございます。予約を完了いたしました。予約番号は、57711です。	general,hotel,taxi
+1669	10	USER	ありがとうございます。以上です。	general,hotel,taxi
+1669	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,taxi

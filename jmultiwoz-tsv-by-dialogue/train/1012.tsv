@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1012	0	USER	仙台の勾当台公園駅近くで安めの宿泊施設を探してます。	general,hotel
+1012	1	SYSTEM	承知しました。他にご希望はございますか？	general,hotel
+1012	2	USER	Wi-Fiが無料なところが良いです。	general,hotel
+1012	3	SYSTEM	では、ホテル グリーンラインはいかがでしょう？タイプはビジネスホテル、エリアは青葉区、最寄りの勾当台公園駅から徒歩で10分となります。住所は宮城県仙台市青葉区支倉町1-20、電話番号は0120708311、駐車場は有料でご利用いただけます。レストラン併設で、チェックイン開始時刻は15時、チェックアウト終了時刻は11時となります。	general,hotel
+1012	4	USER	ありがとうございます。3/17に4人で3泊予約したいです。	general,hotel
+1012	5	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,hotel
+1012	6	USER	2泊だと大丈夫ですか？	general,hotel
+1012	7	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、56845となります。	general,hotel
+1012	8	USER	わかりました。ありがとうございました。	general,hotel
+1012	9	SYSTEM	他にご用件はございますか？	general,hotel
+1012	10	USER	大丈夫です。ありがとうございました。	general,hotel
+1012	11	SYSTEM	ありがとうございました。	general,hotel

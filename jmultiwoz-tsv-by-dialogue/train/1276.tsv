@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1276	0	USER	京都の旅行を計画してます。	general,shopping,restaurant
+1276	1	SYSTEM	京都のご旅行ですね。本日はどのようなお手伝いをいたしましょうか？	general,shopping,restaurant
+1276	2	USER	買い物できるところを探してほしいのですが。コンビニでいいところがあったら教えてください。	general,shopping,restaurant
+1276	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,restaurant
+1276	4	USER	嵐山駅を使う予定ですが、コンビニがなかったら文房具・雑貨のお店を紹介してください。	general,shopping,restaurant
+1276	5	SYSTEM	かしこまりました。では、和んこ堂 京都嵐山店はいかがでしょうか？嵐山駅から徒歩で10分、または、嵯峨嵐山駅から徒歩で10分の場所にございます。	general,shopping,restaurant
+1276	6	USER	ありがとうございます。そこに行こうと思いますので、念のため電話番号を教えていただけますか。	general,shopping,restaurant
+1276	7	SYSTEM	電話番号は、0754061114です。	general,shopping,restaurant
+1276	8	USER	ありがとうございました！	general,shopping,restaurant
+1276	9	SYSTEM	他になにかお調べすることはございますか？	general,shopping,restaurant
+1276	10	USER	特にありません。ありがとうございます。	general,shopping,restaurant
+1276	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,restaurant
+1276	12	USER	ごめんなさい、もう一つ教えてください。食事もする予定なのですが、近くで駐車場が無料で使えるところはありますか？	general,shopping,restaurant
+1276	13	SYSTEM	恐れ入ります。近くでお探しするとのことですが、エリアや最寄り駅でご指定がございますでしょうか？	general,shopping,restaurant
+1276	14	USER	何度もすみません、京都で探してください。	general,shopping,restaurant
+1276	15	SYSTEM	かしこまりました。そうしますと、加賀屋 京都店はいかがでしょうか？エリアは下京区、最寄り駅は京都駅のお店となります。	general,shopping,restaurant
+1276	16	USER	ありましたか、ありがとうございます。金額的にはどれくらいで食事できますか？	general,shopping,restaurant
+1276	17	SYSTEM	値段設定は、高めとなっております。詳しい料金情報としましては、昼餉　都:3300円、雪　懐石:11000円、花　懐石:6600円、となっております。	general,shopping,restaurant
+1276	18	USER	わかりました。そうしましたら、予約をお願いします。1/4の15:10で、3人でお願いします。	general,shopping,restaurant
+1276	19	SYSTEM	ご予約ありがとうございます。予約番号は97399でございます。	general,shopping,restaurant
+1276	20	USER	承知しました。下京区とのことですが、詳しい住所を教えてください。	general,shopping,restaurant
+1276	21	SYSTEM	住所は、京都府京都市下京区烏丸通塩小路下ル東塩小路町　JR京都伊勢丹8階でございます。	general,shopping,restaurant
+1276	22	USER	ありがとうございます。聞きたいことは以上です。	general,shopping,restaurant
+1276	23	SYSTEM	承知いたしました。もし他にご質問がないようでしたら、これで失礼いたします。本日はご利用ありがとうございました。	general,shopping,restaurant

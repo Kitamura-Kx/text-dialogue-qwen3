@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1408	0	USER	名古屋への旅行を計画していて、当日に買い物が出来るところを探しています。最寄り駅が大曽根駅で、駐車場が無料のスポーツのお店が良いのですが。	general,shopping,weather
+1408	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,weather
+1408	2	USER	そうですか。では、最寄り駅は考慮しません。	general,shopping,weather
+1408	3	SYSTEM	ありがとうございます。そういたしますと、公武堂MACSというお店が1件、ご案内可能です。いかがでしょうか？	general,shopping,weather
+1408	4	USER	ありがとうございます。公武堂MACSの住所と近辺の駅からの所要時間、それに定休日が分かれば教えてもらえますか？	general,shopping,weather
+1408	5	SYSTEM	住所は、愛知県名古屋市中区大須3丁目5-15です。最寄りの矢場町駅から徒歩で5分、上前津駅からは徒歩で7分、大須観音駅からは徒歩で9分となっております。また、こちらの定休日は、不定休です。	general,shopping,weather
+1408	6	USER	ありがとうございます。緑地区の5/7の天気も知りたいのですが。	general,shopping,weather
+1408	7	SYSTEM	名古屋の緑区でよろしかったでしょうか？緑区の当日のお天気は、雨のち曇りの予報となっております。	general,shopping,weather
+1408	8	USER	緑区で間違いないです。ありがとうございます。	general,shopping,weather
+1408	9	SYSTEM	良かったです。他にお調べすることはございますか？	general,shopping,weather
+1408	10	USER	ほかにはありません。ありがとうございました。	general,shopping,weather
+1408	11	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,shopping,weather

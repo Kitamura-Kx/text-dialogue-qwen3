@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4144	0	USER	こんにちは。那覇の首里に行きたいのですが、観光地について教えてください。	general,attraction,taxi
+4144	1	SYSTEM	承知しました。龍淵橋はいかがでしょう？ジャンルは、橋となります。	general,attraction,taxi
+4144	2	USER	そこは無料でWi-Fiを使えますか？それから、駐車場もあるかどうか知りたいです。	general,attraction,taxi
+4144	3	SYSTEM	申し訳ありません、Wi-Fiのご用意はございません。駐車場は有料でご利用いただけます。Wi-Fiを条件に加えますか？	general,attraction,taxi
+4144	4	USER	Wi-Fi無料のところでお願いします。	general,attraction,taxi
+4144	5	SYSTEM	では、首里殿内 首里金城町石畳道はいかがでしょう？ジャンルは、美術館、博物館となります。Wi-Fi、駐車場ともに無料でご利用いただけます。	general,attraction,taxi
+4144	6	USER	ありがとうございます。では、当日タクシーを使いたいんですが、キャッシュレスが使えるジャンボタクシーがある会社はありますか？	general,attraction,taxi
+4144	7	SYSTEM	丸星交通はいかがでしょう？電話番号は0988685831となります。	general,attraction,taxi
+4144	8	USER	そこにします。では、7月2日の11時30分で、ホテル沖縄 with サンリオキャラクターズから首里殿内 首里金城町石畳道までお願いします。人数はまだわかりません。	general,attraction,taxi
+4144	9	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,attraction,taxi
+4144	10	USER	12時30分からでも大丈夫ですが、予約できませんか？	general,attraction,taxi
+4144	11	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、82431となります。	general,attraction,taxi
+4144	12	USER	ありがとうございました！	general,attraction,taxi

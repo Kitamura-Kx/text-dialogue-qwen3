@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3225	0	USER	仙台へ行くので、その時に立ち寄る観光名所を探してください。	general,attraction,restaurant
+3225	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,attraction,restaurant
+3225	2	USER	はい、宮城野区で探しています。駐車場もWi-Fiも無料がよいですね。	general,attraction,restaurant
+3225	3	SYSTEM	かしこまりました。では、仙台うみの杜水族館はいかがでしょうか？	general,attraction,restaurant
+3225	4	USER	良さそうですね。仙台うみの杜水族館の最寄り駅ってどこですか？電話番号と、大人の入場料がいくらかも知りたいです。	general,attraction,restaurant
+3225	5	SYSTEM	はい。最寄り駅は中野栄駅で、電話番号は0223552222です。また、大人の入場料金は2200円です。	general,attraction,restaurant
+3225	6	USER	分かりました。あとは食事ができるお店も探してください。太白区の愛子駅近くで、良さそうなお店はないですか？	general,attraction,restaurant
+3225	7	SYSTEM	そうですね。ジンギスカン山力はいかがですか？	general,attraction,restaurant
+3225	8	USER	そこにします。ジンギスカン山力の電話番号をお願いします。お店には駐車場やWi-Fiもあるか教えてください。	general,attraction,restaurant
+3225	9	SYSTEM	はい。電話番号は0227976229で、お店に駐車場は無料のものがありますが、Wi-Fiは無しとなっております。	general,attraction,restaurant
+3225	10	USER	ありがとうございます。	general,attraction,restaurant
+3225	11	SYSTEM	はい。ほかにお調べすることはありますか？	general,attraction,restaurant
+3225	12	USER	これだけです、ありがとうございました。	general,attraction,restaurant
+3225	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant

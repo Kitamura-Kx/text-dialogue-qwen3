@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3765	0	USER	横浜へ旅行するのですがWi-Fiと駐車場が無料で利用できる観光名所を教えて下さい。	general,attraction,restaurant,shopping
+3765	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,restaurant,shopping
+3765	2	USER	それではWIFIは使えなくても大丈夫です。	general,attraction,restaurant,shopping
+3765	3	SYSTEM	ありがとうございます。では、エリアでいうと鶴見区にある、キリンビール 横浜工場はいかがでしょう？ジャンルは、工場見学となります。	general,attraction,restaurant,shopping
+3765	4	USER	ありがとうございます。そこにします。最寄り駅と営業時間、住所を教えて下さい。	general,attraction,restaurant,shopping
+3765	5	SYSTEM	はい、住所は神奈川県横浜市鶴見区生麦1丁目17-1、営業時間は10時から17時、最寄りの生麦駅から徒歩で10分となります。	general,attraction,restaurant,shopping
+3765	6	USER	ありがとうございます。その生麦駅の近くに普通の予算で食べられるところはありますか？	general,attraction,restaurant,shopping
+3765	7	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,restaurant,shopping
+3765	8	USER	それでは最寄りはどちらでも大丈夫です。	general,attraction,restaurant,shopping
+3765	9	SYSTEM	ありがとうございます。他にご希望はございますか？	general,attraction,restaurant,shopping
+3765	10	USER	生麦駅の近くでなくてもよいので普通の予算で食べられる飲食店を紹介してほしいです。	general,attraction,restaurant,shopping
+3765	11	SYSTEM	承知しました。では、エリアでいうと西区にある、横浜なかや 大関本店はいかがでしょう？ジャンルは、うどん、そば、居酒屋となります。	general,attraction,restaurant,shopping
+3765	12	USER	はい！近辺の駅からの所要時間はどれくらいですか？	general,attraction,restaurant,shopping
+3765	13	SYSTEM	はい、最寄りの横浜駅から徒歩で3分となります。	general,attraction,restaurant,shopping
+3765	14	USER	ありがとうございます。あと買い物をしたいです。緑区で駐車場を無料で利用できて最寄り駅が阪東橋駅がいいです。	general,attraction,restaurant,shopping
+3765	15	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,restaurant,shopping
+3765	16	USER	他の駅ならありますか？	general,attraction,restaurant,shopping
+3765	17	SYSTEM	では、イオンフードスタイル 鴨居店はいかがでしょう？ジャンルは、百貨店や総合スーパーとなります。	general,attraction,restaurant,shopping
+3765	18	USER	そこがいいです！定休日や営業時間，近辺の駅からの所要時間を教えて下さい。	general,attraction,restaurant,shopping
+3765	19	SYSTEM	はい、営業時間は8時から23時、定休日は火曜日と木曜日、最寄りの鴨居駅から徒歩で3分となります。	general,attraction,restaurant,shopping
+3765	20	USER	ありがとうございます。大変助かりました！以上です。	general,attraction,restaurant,shopping
+3765	21	SYSTEM	ありがとうございました。	general,attraction,restaurant,shopping

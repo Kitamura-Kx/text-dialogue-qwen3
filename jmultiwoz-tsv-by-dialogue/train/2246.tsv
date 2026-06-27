@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2246	0	USER	東京に旅行に行くので、飲食店を探してください。	general,restaurant
+2246	1	SYSTEM	かしこまりました。お食事のジャンルやエリアなど、何かご希望はございますか？	general,restaurant
+2246	2	USER	Wi-Fiが無料で利用できるところにしてください。最寄り駅が水天宮前駅のところだと助かります。	general,restaurant
+2246	3	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,restaurant
+2246	4	USER	では最寄り駅の条件は外して構いません。	general,restaurant
+2246	5	SYSTEM	ありがとうございます。では、みんちや by Salirというところはいかがでしょうか？ジャンルとしては、その他, 居酒屋となっております。	general,restaurant
+2246	6	USER	そちらの料金情報と営業時間を教えてください。	general,restaurant
+2246	7	SYSTEM	かしこまりました。料金は、デミソース＆チーズ＆半熟玉子1089円、旬の魚のカルパッチョ3種1089円、スモーキーポテトサラダ496円、といったかたちになっております。営業時間は、16:00～翌1:00です。	general,restaurant
+2246	8	USER	それではそのお店を予約してください。人数は3人、日付は8/8、時間は11:00です。	general,restaurant
+2246	9	SYSTEM	恐れ入ります。お時間は午前の11時でよろしかったでしょうか？	general,restaurant
+2246	10	USER	はい、その時間でお願いします。	general,restaurant
+2246	11	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、14012です。	general,restaurant
+2246	12	USER	ありがとうございました。これで以上です。	general,restaurant
+2246	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

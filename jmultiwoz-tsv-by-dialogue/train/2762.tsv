@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2762	0	USER	横浜への旅行を計画しています。宿泊施設を探しており、条件としてベッドハウス・山小屋・カプセルホテル等の簡易宿所でレストランが併設されているところがいいです。	general,hotel,shopping,weather
+2762	1	SYSTEM	承知しました。エリアでいうと中区にある、リゾートカプセル桜木町はいかがでしょう？	general,hotel,shopping,weather
+2762	2	USER	そちらの料金情報を教えてください。	general,hotel,shopping,weather
+2762	3	SYSTEM	申し訳ありません、ご案内可能な料金情報はございません。	general,hotel,shopping,weather
+2762	4	USER	承知致しました。それでは予約をお願いします。人数は2名、日付は10/1で3泊希望です。	general,hotel,shopping,weather
+2762	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、89403となります。	general,hotel,shopping,weather
+2762	6	USER	ありがとうございます。次にお買い物ができるショッピングモールを探しています。最寄駅は横浜駅で無料の駐車場が利用できるところがいいです。	general,hotel,shopping,weather
+2762	7	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel,shopping,weather
+2762	8	USER	それでは、ショッピングモールでなくてもいいです。	general,hotel,shopping,weather
+2762	9	SYSTEM	ありがとうございます。エリアでいうと西区にある、Laline 横浜ジョイナス店はいかがでしょう？ジャンルは、医薬品、化粧品となります。	general,hotel,shopping,weather
+2762	10	USER	そちらの最寄駅からの所要時間、電話番号と住所を教えてください。	general,hotel,shopping,weather
+2762	11	SYSTEM	はい、電話番号は0455484260、住所は神奈川県横浜市西区南幸1丁目5-1　ジョイナス1F、最寄りの横浜駅から徒歩で1分となります。	general,hotel,shopping,weather
+2762	12	USER	ありがとうございます。最後に10/1の青葉区の天候を調べてほしいです。	general,hotel,shopping,weather
+2762	13	SYSTEM	はい、天気は雨、最低気温11.7度、最高気温21.3度となります。	general,hotel,shopping,weather
+2762	14	USER	ありがとうございます。こちらからは以上です。	general,hotel,shopping,weather
+2762	15	SYSTEM	ありがとうございました。	general,hotel,shopping,weather

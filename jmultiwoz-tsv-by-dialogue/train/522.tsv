@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+522	0	USER	那覇への旅行を考えています。当日食事ができる飲食店を教えてください。	general,restaurant,hotel,shopping
+522	1	SYSTEM	かしこまりました。ジャンルやエリアなど、ご希望はございますでしょうか？	general,restaurant,hotel,shopping
+522	2	USER	地区は本庁で駐車場は無料で利用できて予算は安めが希望です。	general,restaurant,hotel,shopping
+522	3	SYSTEM	そうしますと、しゃぶ葉 那覇おもろまち店はいかがでしょうか？	general,restaurant,hotel,shopping
+522	4	USER	そこが良さそうですね。では、そこの近辺の駅からの所要時間、営業時間を教えてください。	general,restaurant,hotel,shopping
+522	5	SYSTEM	はい。最寄りのおもろまち駅から徒歩で15分、または古島駅、牧志駅、美栄橋駅から徒歩で21分の距離となります。営業時間は、11:00～23:30です。	general,restaurant,hotel,shopping
+522	6	USER	あと当日泊まる宿泊施設で無料でWi-Fiが使えるところを教えてください。	general,restaurant,hotel,shopping
+522	7	SYSTEM	かしこまりました。そうしますと、ホテルリブマックスBUDGET那覇はいかがでしょうか？	general,restaurant,hotel,shopping
+522	8	USER	そこは安いでしょうか。	general,restaurant,hotel,shopping
+522	9	SYSTEM	はい、お安めのお値段のビジネスホテルとなっております。	general,restaurant,hotel,shopping
+522	10	USER	そこは駐車場がありますでしょうか？あとエリアも教えてください。	general,restaurant,hotel,shopping
+522	11	SYSTEM	駐車場は有料ですが、ございます。エリアは本庁となります。	general,restaurant,hotel,shopping
+522	12	USER	分かりました。ありがとうございます。	general,restaurant,hotel,shopping
+522	13	SYSTEM	ほかにお調べすることはございますか？	general,restaurant,hotel,shopping
+522	14	USER	あとは当日買い物ができるところを教えてください。駐車場は無料が希望です。最寄り駅は古島駅のところでお願いします。	general,restaurant,hotel,shopping
+522	15	SYSTEM	かしこまりました。その条件ですと、コジマ×ビックカメラ那覇店というお店が1件ございますが、いかがでしょうか？	general,restaurant,hotel,shopping
+522	16	USER	そこにします。そこの定休日と電話番号と営業時間を教えてください。	general,restaurant,hotel,shopping
+522	17	SYSTEM	定休日はございません。電話番号は、0989413001です。営業時間は、10:00～21:00となっております。	general,restaurant,hotel,shopping
+522	18	USER	分かりました。ありがとうございました。	general,restaurant,hotel,shopping
+522	19	SYSTEM	他にご用件はございませんか？	general,restaurant,hotel,shopping
+522	20	USER	はい、大丈夫です。ありがとうございました。	general,restaurant,hotel,shopping
+522	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,hotel,shopping

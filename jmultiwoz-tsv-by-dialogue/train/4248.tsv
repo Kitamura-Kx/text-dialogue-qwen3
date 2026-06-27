@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4248	0	USER	京都への旅行を考えていて、紡 八条室町という施設に泊まる予定なのですが、近くの駅からはどれくらいかかるでしょうか。	general,hotel,restaurant
+4248	1	SYSTEM	紡 八条室町ですね。最寄りの京都駅から徒歩で5分ほどの距離にございます。	general,hotel,restaurant
+4248	2	USER	ありがとうございます。値段帯と駐車場の有無もお聞きしてよろしいでしょうか。	general,hotel,restaurant
+4248	3	SYSTEM	はい。お値段はお安めの簡易宿所となります。駐車場は申し訳ありません、こちらには併設していないようです。	general,hotel,restaurant
+4248	4	USER	分かりました。ありがとうございます。では当日の予約をしたいのですが、5月14日に2人で2泊で予約は可能でしょうか。	general,hotel,restaurant
+4248	5	SYSTEM	はい、ありがとうございます。ご予約完了いたしました。予約番号は、52786です。	general,hotel,restaurant
+4248	6	USER	ありがとうございます。あと、当日利用する飲食店を探しているのですが、北区で無料WiFiがある場所はどこかあるでしょうか。	general,hotel,restaurant
+4248	7	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,restaurant
+4248	8	USER	わかりました。ではWiFiはなくてもかまいません。	general,hotel,restaurant
+4248	9	SYSTEM	ありがとうございます。そうしますと、３件ご案内可能です。たとえば、ルルソンキボアという、少しお高めのイタリアン・フレンチのお店はいかがでしょうか？	general,hotel,restaurant
+4248	10	USER	素敵なお店ですね、そこに行きたいと思います。営業時間と定休日をお聞きしてもよろしいですか？	general,hotel,restaurant
+4248	11	SYSTEM	ありがとうございます。営業時間は、昼は11:30～15:00, 夜は17:00～21:30です。お休みは、不定休となっております。	general,hotel,restaurant
+4248	12	USER	ありがとうございます。料金情報もお聞きしてよろしいですか？	general,hotel,restaurant
+4248	13	SYSTEM	はい、料金ですが、たとえば、Aコース（お昼）は2300円、シェフのおまかせコース9500円などがございます。	general,hotel,restaurant
+4248	14	USER	ありがとうございます。お聞きしたい事は以上になります。丁寧にお教えいただきありがとうございました。	general,hotel,restaurant
+4248	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,restaurant

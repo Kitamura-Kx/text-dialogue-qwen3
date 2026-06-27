@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3935	0	USER	福岡への旅行を計画中で、ジャンボタクシーを探しています。	general,taxi,weather
+3935	1	SYSTEM	かしこまりました。では、福岡西鉄タクシー（株）はいかがでしょうか？こちらでしたら、キャッシュレスのお支払いに対応しておりますよ。	general,taxi,weather
+3935	2	USER	そこにしようと思います。3/11の10:30に牛すじ葱丸から旧福岡県公会堂 貴賓館まで予約して欲しいのですが、可能でしょうか。	general,taxi,weather
+3935	3	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、11966です。	general,taxi,weather
+3935	4	USER	ありがとうございます。3/11の早良区の天気と最高気温を教えてください。	general,taxi,weather
+3935	5	SYSTEM	かしこまりました。当日の天気は、雨時々晴の予報です。最高気温は、19.8度まで上がる見込みです。	general,taxi,weather
+3935	6	USER	ありがとうございます。最低気温はわかりますか？	general,taxi,weather
+3935	7	SYSTEM	最低気温は、4.1度まで下がるようです。	general,taxi,weather
+3935	8	USER	助かります。ありがとうございます。	general,taxi,weather
+3935	9	SYSTEM	他にお調べすることなどございませんか？	general,taxi,weather
+3935	10	USER	いえ、大丈夫です。ありがとうございました。	general,taxi,weather
+3935	11	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,taxi,weather

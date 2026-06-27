@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3134	0	USER	横浜へ行くのですが、Ｗi-Ｆi無料なカフェを探しています。	general,restaurant,weather
+3134	1	SYSTEM	かしこまりました。そうしますと、NICK STOCK 横浜ポルタ店というお店が1件ご案内可能です。いかがでしょうか？	general,restaurant,weather
+3134	2	USER	予算は高めがいいんです。	general,restaurant,weather
+3134	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,weather
+3134	4	USER	それでは先ほどのお店にします。住所と定休日と料金情報、お願いします。	general,restaurant,weather
+3134	5	SYSTEM	NICK STOCK 横浜ポルタ店ですね。ありがとうございます。住所は、神奈川県横浜市西区高島2丁目2-16 横浜ポルタ B1Fで、定休日はございません。料金は、たとえば、プレーンハンバーグのオニオン醤油ソース付で1298円、特製デミグラス目玉焼きハンバーグ1738円などがございます。	general,restaurant,weather
+3134	6	USER	人数は4人で、6/17の10：30で予約お願います。	general,restaurant,weather
+3134	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、56938でございます。	general,restaurant,weather
+3134	8	USER	ありがとうございます。6/17の、南区の天気教えて下さい	general,restaurant,weather
+3134	9	SYSTEM	はい。当日の天気は、晴のち曇の予報です。最低気温は17.9度、最高気温は31.5度の予想となっております。	general,restaurant,weather
+3134	10	USER	ありがとうございます。それでは失礼します。	general,restaurant,weather
+3134	11	SYSTEM	本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant,weather

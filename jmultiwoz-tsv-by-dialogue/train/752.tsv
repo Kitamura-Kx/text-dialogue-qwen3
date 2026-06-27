@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+752	0	USER	横浜への旅行を考えているのですが、飲食店を調べてもらっていいですか？	general,restaurant,attraction
+752	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,restaurant,attraction
+752	2	USER	カフェ、スイーツ系で、磯子区にあって駐車場を無料で利用できるところがいいです。	general,restaurant,attraction
+752	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,attraction
+752	4	USER	わかりました。では、地区はどこでも大丈夫です。	general,restaurant,attraction
+752	5	SYSTEM	ありがとうございます。そうしますと、カフェ・ド・ラペというお店が1件ご案内可能です。いかがでしょうか？	general,restaurant,attraction
+752	6	USER	そこにします。最寄り駅と料金情報を教えてください。	general,restaurant,attraction
+752	7	SYSTEM	最寄りは、日本大通り駅です。料金は、たとえば、角切りベーコンのナポリタン900円となっております。	general,restaurant,attraction
+752	8	USER	わかりました。観光名所を探しているのですが、コンサート・ショーでWi-Fiが無料で利用できるところを教えてください。	general,restaurant,attraction
+752	9	SYSTEM	かしこまりました。象の鼻テラスという場所が1件ございますが、いかがでしょうか？	general,restaurant,attraction
+752	10	USER	そこにします。電話番号と定休日を教えてください。	general,restaurant,attraction
+752	11	SYSTEM	電話番号は、0456610602です。定休日はございません。	general,restaurant,attraction
+752	12	USER	わかりました。ありがとうございます。	general,restaurant,attraction
+752	13	SYSTEM	ほかにお手伝いできることはございませんか？	general,restaurant,attraction
+752	14	USER	もう大丈夫です！	general,restaurant,attraction
+752	15	SYSTEM	かしこまりました。では、本日はご利用ありがとうございました。	general,restaurant,attraction

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2144	0	USER	名古屋に旅行に行くんですが、天候が心配です。4月9日の中区の気温なんかを知りたいんですが。	general,weather,taxi
+2144	1	SYSTEM	4月9日の中区は曇時々晴、最低気温は9.5度、最高気温は19.3度ですね。	general,weather,taxi
+2144	2	USER	過ごしやすそうで安心しました。タクシー会社も知りたいんですけど、キャッシュレスとジャンボタクシーが使えるところを教えてください。	general,weather,taxi
+2144	3	SYSTEM	名古屋でキャッシュレスとジャンボタクシーを利用できるところは９件あります。瑞穂タクシーをオススメします。	general,weather,taxi
+2144	4	USER	ありがとうございます。電話番号を聞いてもいいですか？	general,weather,taxi
+2144	5	SYSTEM	0523311680になります。	general,weather,taxi
+2144	6	USER	予約できますか？4月9日にラトリエケーというところを11時50分に出発して、ホテルウィングインターナショナルセレクト名古屋栄までです。	general,weather,taxi
+2144	7	SYSTEM	4月9日11時50分、ラトリエケーとからホテルウィングインターナショナルセレクト名古屋栄まで予約成功しました。予約番号は26833になります。	general,weather,taxi
+2144	8	USER	お世話様でした。助かりました。	general,weather,taxi

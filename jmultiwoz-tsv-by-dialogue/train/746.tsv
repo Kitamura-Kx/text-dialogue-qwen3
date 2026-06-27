@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+746	0	USER	東京に旅行に行こうと思うのですが、飲食店を調べてください。	general,restaurant,shopping,attraction
+746	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,restaurant,shopping,attraction
+746	2	USER	特に希望はありませんが、予算は普通がいいです。	general,restaurant,shopping,attraction
+746	3	SYSTEM	かしこまりました。そうしますと、夏下冬上という和食のお店はいかがでしょうか？	general,restaurant,shopping,attraction
+746	4	USER	そこにします。エリアと料金情報を教えてください。	general,restaurant,shopping,attraction
+746	5	SYSTEM	エリアは新宿区となります。料金は、大山鶏の釜飯1600円、本日のお魚御膳1290円、夏下冬上コース7200円といったものがございます。	general,restaurant,shopping,attraction
+746	6	USER	わかりました。当日買い物できるところも探しているのですが、家電、電化製品を扱っている店はありますか？	general,restaurant,shopping,attraction
+746	7	SYSTEM	はい、1件ご案内可能なお店がございます。二子玉川 蔦屋家電というところですが、いかがでしょうか？	general,restaurant,shopping,attraction
+746	8	USER	なるほど。駐車場を無料で利用できるところがいいです。	general,restaurant,shopping,attraction
+746	9	SYSTEM	はい、二子玉川 蔦屋家電は駐車場が無料でご利用いただけます。また、東京で家電・電化製品のお店ですと、この他には無料駐車場完備のお店はご案内できるところがありませんでした。	general,restaurant,shopping,attraction
+746	10	USER	わかりました。ではそこにしようと思います。住所と定休日、あと営業時間を教えてください。	general,restaurant,shopping,attraction
+746	11	SYSTEM	住所は、東京都世田谷区玉川1丁目14-1です。定休日はございません。営業時間は、9:30～21:00となっております。	general,restaurant,shopping,attraction
+746	12	USER	わかりました。当日いける観光名所も探しているのですが、科学館で駐車場が無料なところはありますか？	general,restaurant,shopping,attraction
+746	13	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping,attraction
+746	14	USER	なるほど。じゃあ駐車場はなくても大丈夫です。	general,restaurant,shopping,attraction
+746	15	SYSTEM	ありがとうございます。そういたしますと、2件ご案内可能です。日本科学未来館と国立科学博物館がございますが、ご興味のある方はございますか？	general,restaurant,shopping,attraction
+746	16	USER	日本科学未来館がいいです。エリアと定休日を教えてください。	general,restaurant,shopping,attraction
+746	17	SYSTEM	エリアは江東区となっております。定休日は火曜日と 年末年始です。	general,restaurant,shopping,attraction
+746	18	USER	わかりました。ありがとうございます。	general,restaurant,shopping,attraction
+746	19	SYSTEM	他にお調べすることはございますか？	general,restaurant,shopping,attraction
+746	20	USER	はい、もう大丈夫です。	general,restaurant,shopping,attraction
+746	21	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant,shopping,attraction

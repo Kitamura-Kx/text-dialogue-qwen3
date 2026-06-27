@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4872	0	USER	大阪まで旅行に行きたいと思っているんですけど、飲食店を探してもらえますか？	general,restaurant
+4872	1	SYSTEM	鉄板工房 Panyo 道頓堀など、100件見つかりました。	general,restaurant
+4872	2	USER	じゃあイタリアン・フレンチでお値段が高めで、Wi-Fiが無料のお店が良いです。	general,restaurant
+4872	3	SYSTEM	申し訳ございません。条件に合う飲食店はありません。	general,restaurant
+4872	4	USER	それなら値段は高めでなくても大丈夫です。	general,restaurant
+4872	5	SYSTEM	世界のワイン博物館 グランフロント大阪店など、3件見つかりました。	general,restaurant
+4872	6	USER	そちらにしようと思います。世界のワイン博物館 グランフロント大阪店に駐車場はありますか？	general,restaurant
+4872	7	SYSTEM	駐車場の有無は、有り(有料)です。	general,restaurant
+4872	8	USER	ありがとうございます。6/3の13:00に４名で予約をお願いします。	general,restaurant
+4872	9	SYSTEM	申し訳ございません。予約に失敗しました。	general,restaurant
+4872	10	USER	人数が３名ならどうですか？	general,restaurant
+4872	11	SYSTEM	予約が完了しました。予約番号は20440です。	general,restaurant
+4872	12	USER	ありがとうございます。	general,restaurant
+4872	13	SYSTEM	承知いたしました。他に何かご希望はありますか？	general,restaurant
+4872	14	USER	大丈夫です。ありがとうございました。	general,restaurant
+4872	15	SYSTEM	かしこまりました。ご利用ありがとうございました。	general,restaurant

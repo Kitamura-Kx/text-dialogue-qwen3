@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4563	0	USER	横浜へ旅行するのですが馬車道駅近くで買い物ができるところを探しています。地区は神奈川区で。	general,shopping,taxi
+4563	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,shopping,taxi
+4563	2	USER	それでは神奈川区以外ではどうですか？	general,shopping,taxi
+4563	3	SYSTEM	1件みつかりました。MARINE & WALK YOKOHAMAはいかがですか？	general,shopping,taxi
+4563	4	USER	ありがとうございます。そこの営業時間を教えて下さい。	general,shopping,taxi
+4563	5	SYSTEM	営業時間は、11時から20時になります。	general,shopping,taxi
+4563	6	USER	ありがとうございます。キャッシュレス対応のジャンボタクシーはありますか？	general,shopping,taxi
+4563	7	SYSTEM	では、横浜北交通株式会社はいかがですか？	general,shopping,taxi
+4563	8	USER	はい！ありがとうございます。それでは予約して下さい。1/21で14:40、出発地は伊勢山皇大神宮で目的地はMARINE & WALK YOKOHAMAです。	general,shopping,taxi
+4563	9	SYSTEM	予約が完了しました。　予約番号は、71005になります。	general,shopping,taxi
+4563	10	USER	助かりました！以上です。ありがとうございました。	general,shopping,taxi
+4563	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

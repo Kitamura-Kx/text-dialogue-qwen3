@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3827	0	USER	那覇へ旅行を計画しているのですが、飲食店が決まっていなくて、首里駅が最寄り駅で、無料駐車場がある飲食店を探していただけますか？	general,restaurant,hotel
+3827	1	SYSTEM	1件みつかりました。屋台赤道ラーメン 首里駅前店はいかがですか？	general,restaurant,hotel
+3827	2	USER	そちらの電話番号はわかりますか？できれば値段帯もどのくらいか教えてください。	general,restaurant,hotel
+3827	3	SYSTEM	電話番号は、0988008001で値段帯は、安めとなっています。	general,restaurant,hotel
+3827	4	USER	ありがとうございます。そちらのお店を予約できますか？12/28の14:00に3名でお願いします。	general,restaurant,hotel
+3827	5	SYSTEM	はい、予約出来ました。予約番号は、34286です。	general,restaurant,hotel
+3827	6	USER	ありがとうございます。	general,restaurant,hotel
+3827	7	SYSTEM	他にご用件はありますか？	general,restaurant,hotel
+3827	8	USER	宿泊施設も探していただきたいです。レストランが併設されていて、無料Wi-Fiが利用できる宿はありますか？できれば価格帯は普通がよいです。	general,restaurant,hotel
+3827	9	SYSTEM	申し訳ありません、1件みつかりました。ザ・ナハテラス、こちらはいかがですか？	general,restaurant,hotel
+3827	10	USER	よかったです！ありがとうございます！そちらの最寄り駅はどこですか？	general,restaurant,hotel
+3827	11	SYSTEM	はい、最寄り駅は、牧志駅になります。	general,restaurant,hotel
+3827	12	USER	ありがとうございます。	general,restaurant,hotel
+3827	13	SYSTEM	他にご用件はありますか？	general,restaurant,hotel
+3827	14	USER	特にありません。ありがとうございました。	general,restaurant,hotel
+3827	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel

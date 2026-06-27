@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4345	0	USER	京都へ旅行に行こうと思っているのですが下京区で予算普通で洋食・西洋料理が楽しめるお店はありませんか	general,restaurant,attraction,weather
+4345	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,attraction,weather
+4345	2	USER	では予算安めではありませんか	general,restaurant,attraction,weather
+4345	3	SYSTEM	それですと、プレミアムステーキ听京都駅前がございます。	general,restaurant,attraction,weather
+4345	4	USER	最寄り駅を教えてください	general,restaurant,attraction,weather
+4345	5	SYSTEM	はい。最寄り駅は京都駅です。	general,restaurant,attraction,weather
+4345	6	USER	3月5日の13時30分に2人で予約していただくことは可能でしょうか	general,restaurant,attraction,weather
+4345	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、5990です。	general,restaurant,attraction,weather
+4345	8	USER	元離宮二条城の駐車場の有無，営業時間，最寄りの駅からの所要時間を教えてください	general,restaurant,attraction,weather
+4345	9	SYSTEM	はい。駐車場は有料のものがあります。また、営業時間は08:45～16:00で、最寄りの駅の二条城前駅から徒歩で1分になります。	general,restaurant,attraction,weather
+4345	10	USER	ありがとうございます,3月5日の中京区の天気と最高気温を教えてください	general,restaurant,attraction,weather
+4345	11	SYSTEM	はい。天気は曇時々雨で、最高気温は13.3度になる見込みです。	general,restaurant,attraction,weather
+4345	12	USER		general,restaurant,attraction,weather

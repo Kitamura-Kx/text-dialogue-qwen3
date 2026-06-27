@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+653	0	USER	お尋ねします。福岡への旅行を計画しているのですが、観光名所で良いところがありますか？	general,attraction
+653	1	SYSTEM	48件ほどご案内可能ですが、ご希望の条件などはございますか？	general,attraction
+653	2	USER	自家用車で行こうと思っています。駐車場が無料のところがいいです。	general,attraction
+653	3	SYSTEM	そうしますと、14件ほど候補がございます。たとえば、東区エリアにある潮見公園というところはいかがでしょうか？	general,attraction
+653	4	USER	他に希望があって、Wi-Fiが無料で使えて、最寄り駅が市営地下鉄福岡空港駅にしてほしいです。	general,attraction
+653	5	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction
+653	6	USER	そうですか。では、駐車場は無くてもよいということにしたらよいところがありますか？	general,attraction
+653	7	SYSTEM	ありがとうございます。そうしますと、1件ご案内可能です。福岡空港という展望台・タワーはいかがでしょうか？	general,attraction
+653	8	USER	いいですね。そこの営業時間を教えてください。	general,attraction
+653	9	SYSTEM	営業時間は、9:00～21:00です。	general,attraction
+653	10	USER	ありがとうございます。そこにします。	general,attraction
+653	11	SYSTEM	ほかにお調べすることはございますか？	general,attraction
+653	12	USER	大丈夫です。ありがとうございました。	general,attraction
+653	13	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,attraction

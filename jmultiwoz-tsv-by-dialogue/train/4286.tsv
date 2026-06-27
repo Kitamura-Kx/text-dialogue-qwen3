@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4286	0	USER	京都へ行くのですが、当日買い物をする、茅乃舎 大丸京都店というところを探しています。	general,shopping,hotel
+4286	1	SYSTEM	はい。ございます。お知りになりたい情報がございますか。	general,shopping,hotel
+4286	2	USER	はい。そこの定休日と電話番号、駐車場があるかどうかが知りたいです。	general,shopping,hotel
+4286	3	SYSTEM	定休日は１月１日でございます。電話番号は0752118111で、駐車場の有無は不明でございます。	general,shopping,hotel
+4286	4	USER	わかりました。あと、宿泊施設をさがしたいのですが、下京区にある簡易宿所はないでしょうか？	general,shopping,hotel
+4286	5	SYSTEM	では紡 堀川吉文字はいかがですか。	general,shopping,hotel
+4286	6	USER	そこにします。では最寄り駅からのアクセスと、電話番号、住所を教えてください。	general,shopping,hotel
+4286	7	SYSTEM	大宮駅から徒歩で10分、四条大宮停留所から徒歩で10分、五条駅から徒歩で10分でございます。電話番号は0753528300で、住所が京都府京都市下京区岩上通高辻下る吉文字町４７１番地でございます。	general,shopping,hotel
+4286	8	USER	ありがとうございます。予約を入れたいのですが、7月16日から3泊で、人数は4人でお願いします。	general,shopping,hotel
+4286	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は93984でございます。	general,shopping,hotel
+4286	10	USER	予約ありがとうございました。	general,shopping,hotel
+4286	11	SYSTEM	ほかにご用件はございませんか。	general,shopping,hotel
+4286	12	USER	いえ、ありません。ありがとうございます。	general,shopping,hotel
+4286	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel

@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3066	0	USER	もうすぐ福岡へ行く予定です。博多区で買い物をしようと思っていますが、駐車場が無料の良いお店はありますか？	general,shopping,weather
+3066	1	SYSTEM	かしこまりました。では、Calbee+博多阪急店はいかがでしょうか？	general,shopping,weather
+3066	2	USER	良さそうですね。もう１つ、3月22日の城南区の最低気温を教えてください。	general,shopping,weather
+3066	3	SYSTEM	はい。最低気温は10.6度になる見込みです。	general,shopping,weather
+3066	4	USER	助かりました。それでは失礼します。	general,shopping,weather

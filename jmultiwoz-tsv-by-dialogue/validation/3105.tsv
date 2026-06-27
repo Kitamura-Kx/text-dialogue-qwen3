@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3105	0	USER	東京でWi-Fiと駐車場が無料で高めに食事ができるお店を探しています。	general,restaurant
+3105	1	SYSTEM	承知しました。エリアでいうと港区に、バルバッコア 六本木ヒルズ店がございます。	general,restaurant
+3105	2	USER	ジャンルって何になりますか？	general,restaurant
+3105	3	SYSTEM	ジャンルは、洋食、西洋料理、居酒屋、となります。	general,restaurant
+3105	4	USER	そこにします！営業時間と電話番号を教えてください。	general,restaurant
+3105	5	SYSTEM	はい、営業時間は11時から16時と、17時30分から22時となります。電話番号は、0354133663となります。	general,restaurant
+3105	6	USER	ありがとうございます。7/17の10：40に2人で予約したいです。	general,restaurant
+3105	7	SYSTEM	念のための確認ですが、午前10時40分でよろしいでしょうか？	general,restaurant
+3105	8	USER	はい、午前で大丈夫です。	general,restaurant
+3105	9	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、55024となります。	general,restaurant
+3105	10	USER	ありがとうございました。	general,restaurant
+3105	11	SYSTEM	他にご用件はございますか？	general,restaurant
+3105	12	USER	大丈夫です。	general,restaurant
+3105	13	SYSTEM	ありがとうございました。	general,restaurant

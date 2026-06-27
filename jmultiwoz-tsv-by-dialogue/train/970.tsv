@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+970	0	USER	名古屋への旅行を考えているのですが、当日買い物できる所を探しています。何処か良いショッピングモール等はありますか？	general,shopping
+970	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,shopping
+970	2	USER	そうですね。東区とかにあったら最高なのですが、どうでしょうか？	general,shopping
+970	3	SYSTEM	申し訳ございません。東区ですと案内できるところがございませんでした。いかがなさいますか。	general,shopping
+970	4	USER	でしたら地区については考慮しませんので、何処かおすすめはありますか？	general,shopping
+970	5	SYSTEM	では、アスナル金山はいかがでしょうか。	general,shopping
+970	6	USER	では、そちらで検討しますね。ちなみに、その施設には駐車場はありますか？	general,shopping
+970	7	SYSTEM	はい。有料ですがございます。	general,shopping
+970	8	USER	助かります。それと、定休日とかってありますか？	general,shopping
+970	9	SYSTEM	定休日は１月１日でございます。	general,shopping
+970	10	USER	でしたら問題なさそうですね。そちらにしようかと思います。ありがとうございました。	general,shopping
+970	11	SYSTEM	ほかにご用件はございますか。	general,shopping
+970	12	USER	大丈夫です。お忙しい所、ありがとうございました。	general,shopping
+970	13	SYSTEM	承知しました。ありがとうございました。	general,shopping

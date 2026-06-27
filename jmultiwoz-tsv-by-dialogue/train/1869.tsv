@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1869	0	USER	札幌に行くので、宿泊施設を探して欲しいです。できればリゾートホテルで、Wi-Fiと駐車場が無料だといいです。	general,hotel
+1869	1	SYSTEM	かしこまりました。では、定山渓ビューホテルはいかがでしょうか？	general,hotel
+1869	2	USER	そのホテルの電話番号、近辺の駅からの所要時間、料金について教えて頂けますか？	general,hotel
+1869	3	SYSTEM	電話番号は0115983339です。近辺の駅からの所要時間は、札幌駅からタクシーで50分となります。料金は値段帯が安めという情報しかございません。	general,hotel
+1869	4	USER	ありがとうございます。定山渓ビューホテルの予約をお願いできますか？ 3/16 から３泊で、人数は２名です。	general,hotel
+1869	5	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel
+1869	6	USER	そうしましたら、人数を１名でお願いします。	general,hotel
+1869	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、19271です。	general,hotel
+1869	8	USER	今日のお願いは以上です。ありがとうございました。	general,hotel
+1869	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

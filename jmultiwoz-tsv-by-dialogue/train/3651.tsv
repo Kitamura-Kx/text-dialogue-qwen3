@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3651	0	USER	大阪へ旅行に行こうと思っています。当日訪れる観光名所を探しています。Wi-Fiが無料で駐車場が無料のところを教えてください。	general,attraction,restaurant,weather
+3651	1	SYSTEM	かしこまりました。それでは鶴見緑地湯元 水春はいかがでしょうか？	general,attraction,restaurant,weather
+3651	2	USER	そこが良さそうですね。そこの営業時間と大人入場料と料金情報を教えてください。	general,attraction,restaurant,weather
+3651	3	SYSTEM	営業時間は0時から2時と、6時から0時でございます。大人の入場料は分かりません。料金情報は大人 (中学生以上):平日 ご入浴が820円、土日・祝 ご入浴が920円、平日 岩盤処が920円、土日・祝 岩盤処が1,020円、 小人 (小学生) ※保護者同伴に限ります 平日 ご入浴が410円、土日・祝 ご入浴が460円、平日 岩盤処が610円、土日・祝 岩盤処が710円 、 幼児 (小学生未満) ※保護者同伴に限ります 平日 ご入浴が210円、土日・祝 ご入浴が260円、でございます。	general,attraction,restaurant,weather
+3651	4	USER	あと当日食事ができる飲食店を探しています。Wi-Fiがむりぃうでジャンルは居酒屋です。	general,attraction,restaurant,weather
+3651	5	SYSTEM	かしこまりました。それでは牛すじホルモン 二刀流武蔵はいかがでしょうか？	general,attraction,restaurant,weather
+3651	6	USER	そこが良さそうです。そこの料金情報とエリアを教えてください。	general,attraction,restaurant,weather
+3651	7	SYSTEM	はい、料金情報は宮本武蔵コースが4000円でございます。エリアは中央区です。	general,attraction,restaurant,weather
+3651	8	USER	あと当日8/14の北区の天気を教えてください。	general,attraction,restaurant,weather
+3651	9	SYSTEM	当日の北区の天気は晴の予報でございます。	general,attraction,restaurant,weather
+3651	10	USER	分かりました。ありがとうございます。	general,attraction,restaurant,weather
+3651	11	SYSTEM	その他に何かご用件はございますか？	general,attraction,restaurant,weather
+3651	12	USER	はい、大丈夫です。	general,attraction,restaurant,weather
+3651	13	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,restaurant,weather

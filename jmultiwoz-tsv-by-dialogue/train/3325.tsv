@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3325	0	USER	旅行で東京に行く予定なので、駐車場が無料の観光スポットを案内してもらえますか？	general,attraction,hotel
+3325	1	SYSTEM	東京で駐車場無料の観光スポットはいくつかありますが、根津神社、こちらをお勧めします。	general,attraction,hotel
+3325	2	USER	根津神社はどんなジャンルの観光スポットでしょうか？最寄り駅がどちらかも教えてください。	general,attraction,hotel
+3325	3	SYSTEM	ジャンルは神社・寺院・教会・モニュメントなどです。最寄りは根津駅になります。	general,attraction,hotel
+3325	4	USER	ありがとうございます。それと、宿泊先も探していただけますか？	general,attraction,hotel
+3325	5	SYSTEM	はい、ご希望の条件をおきかせください。	general,attraction,hotel
+3325	6	USER	墨田区にある宿泊施設で、レストランもある所が良いですね。	general,attraction,hotel
+3325	7	SYSTEM	墨田区でレストラン併設の宿泊施設は３つありますが、ONE@Tokyoをお勧めします。	general,attraction,hotel
+3325	8	USER	ありがとうございます、ONE@Tokyoには駐車場もあるのでしょうか？	general,attraction,hotel
+3325	9	SYSTEM	駐車場はありません。	general,attraction,hotel
+3325	10	USER	分かりました。それでは6/18から2泊で予約を取ってください。人数は4人です。	general,attraction,hotel
+3325	11	SYSTEM	予約成功しました。予約番号は2322です。	general,attraction,hotel
+3325	12	USER	ありがとうございます、これで全てです。	general,attraction,hotel
+3325	13	SYSTEM	よい旅を。	general,attraction,hotel

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+5003	0	USER	名古屋へ旅行に行くのですが、矢場町駅付近で予算が普通くらいの飲食店を探しています。	general,restaurant,taxi
+5003	1	SYSTEM	承知しました。ヒモノ照ラス 名古屋PARCO店はいかがでしょうか。	general,restaurant,taxi
+5003	2	USER	ありがとうございます！では、その店の料金情報と定休日を教えて頂けますか？	general,restaurant,taxi
+5003	3	SYSTEM	申し訳ございません。料金情報は不明です。定休日は無しになっております。	general,restaurant,taxi
+5003	4	USER	わかりました。そちらのお店を予約したいです。4/6 11:10から４人でお願いいたします。	general,restaurant,taxi
+5003	5	SYSTEM	承知しました。予約が取れました。予約番号は59653になります。	general,restaurant,taxi
+5003	6	USER	ありがとうございました！あと、ジャンボタクシー利用可能なタクシー会社を探しています。	general,restaurant,taxi
+5003	7	SYSTEM	承知しました。楠交通はいかがですか。	general,restaurant,taxi
+5003	8	USER	ありがとうございます。そちらの電話番号とキャッシュレス対応かどうかを教えてください。	general,restaurant,taxi
+5003	9	SYSTEM	承知しました。電話番号は0522412233でキャッシュレス対応となっております。	general,restaurant,taxi
+5003	10	USER	ありがとうございます。では、4/6 10:00で予約をお願いします。trentotto.を出発してヒモノ照ラス 名古屋PARCO店へ向かいます。	general,restaurant,taxi
+5003	11	SYSTEM	承知しました。予約が取れました。予約番号は25555になります。	general,restaurant,taxi
+5003	12	USER	ありがとうございます。お世話になりました！	general,restaurant,taxi

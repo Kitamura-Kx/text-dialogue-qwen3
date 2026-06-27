@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4110	0	USER	横浜への旅行を計画しています。 観光名所を探してほしいです。	general,attraction,taxi
+4110	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,taxi
+4110	2	USER	駐車場を無料、Wi-Fiも無料で利用できるところにしてください。	general,attraction,taxi
+4110	3	SYSTEM	エリアでいうと中区にある、カップヌードルミュージアム 横浜はいかがでしょう？ジャンルは、美術館、博物館、工場見学、となります。	general,attraction,taxi
+4110	4	USER	続いてタクシー会社を探してください。キャッシュレス払いできるところにしてください。	general,attraction,taxi
+4110	5	SYSTEM	国際自動車株式会社はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は0120385931となります。	general,attraction,taxi
+4110	6	USER	ではそこを予約してください。日付は9/26、時間は15:00、出発地は旅館 皆楽園、目的地はカップヌードルミュージアム 横浜です。	general,attraction,taxi
+4110	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、99090となります。	general,attraction,taxi
+4110	8	USER	解決しました。ありがとうございました。	general,attraction,taxi

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+877	0	USER	大阪へ旅行に行くのですが。Wi-Fiと駐車場が無料の観光名所を教えて下さい。	general,attraction,hotel,weather
+877	1	SYSTEM	かしこまりました。その条件ですと、鶴見緑地湯元 水春という場所がございます。いかがでしょうか？	general,attraction,hotel,weather
+877	2	USER	入場料はいくらでしょうか	general,attraction,hotel,weather
+877	3	SYSTEM	入場料としては、不明となっておりますが、詳しくは、中学生以上の大人は、平日 ご入浴 820円、土日・祝 ご入浴 920円、平日 岩盤処 920円、土日・祝 岩盤処 1,020円などの記載があります。小学生や小学生未満のお子様の料金についても、お伝えしましょうか？	general,attraction,hotel,weather
+877	4	USER	わかりました、当日の宿泊施設も探したいのですがレストラン併設で駐車場とWi-Fiが無料の施設はありますか？	general,attraction,hotel,weather
+877	5	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,hotel,weather
+877	6	USER	駐車場が有料ではどうでしょうか	general,attraction,hotel,weather
+877	7	SYSTEM	そうしますと、42件ご案内可能です。たとえば、北区エリアにある大阪第一ホテルというビジネスホテルはいかがでしょうか？	general,attraction,hotel,weather
+877	8	USER	大阪第一ホテルの料金帯と最寄り駅を教えて下さい	general,attraction,hotel,weather
+877	9	SYSTEM	料金帯はお安めとなっております。最寄り駅は、西梅田駅でございます。	general,attraction,hotel,weather
+877	10	USER	それでは予約をお願いします。6月26日から2泊2名でお願いします	general,attraction,hotel,weather
+877	11	SYSTEM	かしこまりました。ご予約が完了いたしました。予約番号は、91562でございます。	general,attraction,hotel,weather
+877	12	USER	ちなみに淀川区の6月26日の最高気温と天気を教えて下さい	general,attraction,hotel,weather
+877	13	SYSTEM	はい。当日の天気は、曇時々雨の予報となっております。最高気温は、32.7度になる予想です。	general,attraction,hotel,weather
+877	14	USER	ありがとうございました。	general,attraction,hotel,weather
+877	15	SYSTEM	ほかにお調べすることはございますか？	general,attraction,hotel,weather
+877	16	USER	いえ大丈夫です、有難うございました	general,attraction,hotel,weather
+877	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,hotel,weather

@@ -1,0 +1,33 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+114	0	USER	どうも、こんばんは。 今度、東京への旅行を計画しているのですが、案内をお頼みできますか？	general,hotel,attraction,taxi
+114	1	SYSTEM	かしこまりました。東京ですね。	general,hotel,attraction,taxi
+114	2	USER	はい。 宿泊施設についてうかがいたいのですが、wifiと駐車場が無料で利用できるところは、どこかありますか？	general,hotel,attraction,taxi
+114	3	SYSTEM	はい。ではThe Okura Tokyoはいかがでしょうか。	general,hotel,attraction,taxi
+114	4	USER	そちらはレストランが併設されていますか？	general,hotel,attraction,taxi
+114	5	SYSTEM	はい。ございます。	general,hotel,attraction,taxi
+114	6	USER	そうでしたか。そちらは、どんなタイプのホテルになりますか？	general,hotel,attraction,taxi
+114	7	SYSTEM	シティホテルタイプでございます。	general,hotel,attraction,taxi
+114	8	USER	なるほど。チェックイン開始時刻についても、伺ってよろしいですか？	general,hotel,attraction,taxi
+114	9	SYSTEM	チェックインは15:00開始でございます。	general,hotel,attraction,taxi
+114	10	USER	ありがとうございます。 では、そちらを予約したいのですが、4人で9月9日から3泊で、お願いできますか？	general,hotel,attraction,taxi
+114	11	SYSTEM	はい。予約が完了いたしました。予約番号は24747でございます。	general,hotel,attraction,taxi
+114	12	USER	ありがとうございます。 あと、観光名所も探しているのですが、駐車場を無料で利用できるところに絞って、探していただけますか？	general,hotel,attraction,taxi
+114	13	SYSTEM	5件ございますが、ほかに条件はございますか。	general,hotel,attraction,taxi
+114	14	USER	他には特にありません。	general,hotel,attraction,taxi
+114	15	SYSTEM	ではCaretta汐留はいかがでしょうか。	general,hotel,attraction,taxi
+114	16	USER	わかりました。 Caretta汐留は、どこのエリアにありますか？	general,hotel,attraction,taxi
+114	17	SYSTEM	エリアは港区でございます。	general,hotel,attraction,taxi
+114	18	USER	港区ですね。営業時間も教えていただけますか？	general,hotel,attraction,taxi
+114	19	SYSTEM	営業時間は店舗により異なるとのことです。	general,hotel,attraction,taxi
+114	20	USER	そうでしたか。わかりました。 では、別件ですが、今度はタクシー会社についても探していただけますか？	general,hotel,attraction,taxi
+114	21	SYSTEM	かしこまりました。何か条件はございますか。	general,hotel,attraction,taxi
+114	22	USER	条件としましては、ジャンボタクシーを利用できることと、キャッシュレス払いに対応していることです。よろしくお願いします。	general,hotel,attraction,taxi
+114	23	SYSTEM	大和交通保谷はいかがでしょうか。どちらも対応しております。	general,hotel,attraction,taxi
+114	24	USER	そうなんですね。ありがとうございます。 そちらの電話番号についても教えていただけますか。	general,hotel,attraction,taxi
+114	25	SYSTEM	電話番号は0335635151でございます。	general,hotel,attraction,taxi
+114	26	USER	ありがとうございます。 では、そちらを予約しようかと思うのですが、9月9日の14時30分に、The Okura Tokyoから、Caretta汐留まででお願いします。	general,hotel,attraction,taxi
+114	27	SYSTEM	はい。予約が完了いたしました。予約番号は10916でございます。	general,hotel,attraction,taxi
+114	28	USER	予約のお手配、ありがとうございます。	general,hotel,attraction,taxi
+114	29	SYSTEM	ほかにご用件はございませんか。	general,hotel,attraction,taxi
+114	30	USER	はい、あとは結構です。この度はありがとうございました。	general,hotel,attraction,taxi
+114	31	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction,taxi

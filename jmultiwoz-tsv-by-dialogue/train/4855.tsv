@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4855	0	USER	横浜へ旅行したいのですが、お好み焼き・たこ焼きで、予算が高めのところはありますか？	general,restaurant,taxi
+4855	1	SYSTEM	その条件ならば、大阪こなもん酒場 たこやき番長、一択です。	general,restaurant,taxi
+4855	2	USER	わかりました。予約していただきたいです。	general,restaurant,taxi
+4855	3	SYSTEM	人数と日付、時刻をお願いします。	general,restaurant,taxi
+4855	4	USER	4名で、10月25日、16時10分でお願いします。	general,restaurant,taxi
+4855	5	SYSTEM	予約成功しました。予約番号は42845です。	general,restaurant,taxi
+4855	6	USER	ありがとうございます。それと、当日ジャンボタクシーを利用できて、キャッシュレス払いができるタクシー会社のタクシーを利用したいのですが。	general,restaurant,taxi
+4855	7	SYSTEM	横浜ではジャンボとキャッシュレス両方対応している会社はありません。	general,restaurant,taxi
+4855	8	USER	ではキャッシュレス払いはできなくてよいです。それならありますか？	general,restaurant,taxi
+4855	9	SYSTEM	ジャンボタクシーならば、株式会社富士タクシーをおすすめします。	general,restaurant,taxi
+4855	10	USER	電話番号を教えてください。	general,restaurant,taxi
+4855	11	SYSTEM	0457552211です。	general,restaurant,taxi
+4855	12	USER	では予約をお願いします。10月25日の14時５０で。	general,restaurant,taxi
+4855	13	SYSTEM	出発地と目的地をお願いします。	general,restaurant,taxi
+4855	14	USER	出発地は先ほど紹介してもらったたこ焼きのお店から女性専用ドミトリーHACO.(ハコ。)というところまでお願いします。	general,restaurant,taxi
+4855	15	SYSTEM	予約成功しました。予約番号は84794です。	general,restaurant,taxi
+4855	16	USER	色々とありがとうございました。	general,restaurant,taxi
+4855	17	SYSTEM	よい旅を	general,restaurant,taxi

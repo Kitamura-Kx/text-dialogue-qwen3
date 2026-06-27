@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+847	0	USER	横浜で買い物をしたいのですが、駐車場が無料の場所はありますか？	general,shopping
+847	1	SYSTEM	かしこまりました。その他に、ご希望の条件はございませんか？	general,shopping
+847	2	USER	駐車場が無料であれば、特に指定はありません。	general,shopping
+847	3	SYSTEM	承知いたしました。28件ほどご案内可能です。たとえば、横浜タカシマヤという百貨店や総合スーパーは、いかがでしょうか？	general,shopping
+847	4	USER	そちらの電話番号と住所、最寄り駅を教えてください。	general,shopping
+847	5	SYSTEM	電話番号は、0453115111です。住所は、神奈川県横浜市西区南幸1丁目6番31号でございます。最寄りは横浜駅で、徒歩1分でアクセス可能です。	general,shopping
+847	6	USER	今回知りたいことは以上です。ありがとうございました。	general,shopping
+847	7	SYSTEM	かしこまりました。本日はご利用ありがとうございました。	general,shopping

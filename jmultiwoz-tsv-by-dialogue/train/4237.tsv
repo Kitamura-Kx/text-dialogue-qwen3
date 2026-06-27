@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4237	0	USER	京都旅行を計画しています。予算は普通で丹波口駅から行ける飲食店はどこかありますか。	general,restaurant
+4237	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant
+4237	2	USER	それでは最寄り駅はどこでもいいです。	general,restaurant
+4237	3	SYSTEM	ありがとうございます。では、エリアでいうと東山区にある、菊水はいかがでしょう？ジャンルは、洋食、西洋料理となります。	general,restaurant
+4237	4	USER	そちらは料金はどれくらいになりますか。	general,restaurant
+4237	5	SYSTEM	値段帯は普通となります。	general,restaurant
+4237	6	USER	ありがとうございました！	general,restaurant

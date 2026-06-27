@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4384	0	USER	札幌へ旅行した際に利用できる飲食店を探していただきたいです。中央区で普通の予算で利用できるお店でお願いします。	general,restaurant
+4384	1	SYSTEM	そうしますと、４５件候補がございますが、ほかにご希望の条件はございませんか？	general,restaurant
+4384	2	USER	特にはありません。	general,restaurant
+4384	3	SYSTEM	では、吾照里 札幌エスタ店というお店はいかがでしょうか？ジャンルとしては、焼肉・ホルモン, アジア・エスニック料理のお店となります。	general,restaurant
+4384	4	USER	ありがとうございます。そこにします。駐車場の有無と営業時間を教えていただけますか？	general,restaurant
+4384	5	SYSTEM	はい、駐車場は、無料のものをご利用いただけます。営業時間は、11:00～22:00です。	general,restaurant
+4384	6	USER	ありがとうございます。予約もお願いしたいのですが、7/24の11時50分から3人でお願いします。	general,restaurant
+4384	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、35098です。	general,restaurant
+4384	8	USER	ありがとうございます。	general,restaurant
+4384	9	SYSTEM	他にお調べすることはございませんか？	general,restaurant
+4384	10	USER	はい、大丈夫です。ありがとうございました。	general,restaurant
+4384	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

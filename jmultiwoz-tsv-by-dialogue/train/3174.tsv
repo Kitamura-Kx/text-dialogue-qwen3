@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3174	0	USER	東京への旅行を計画していて、当日の観光名所を探しています。駐車場が無料の世界遺産が良いのですが。	general,attraction
+3174	1	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction
+3174	2	USER	そうですか。では、ジャンルは何でも良いです。	general,attraction
+3174	3	SYSTEM	かしこまりました。では、根津美術館はいかがでしょうか？	general,attraction
+3174	4	USER	ありがとうございます。そこにしようと思います。営業時間と電話番号は分かりますか？	general,attraction
+3174	5	SYSTEM	はい。営業時間は10:00～17:00で、電話番号が0334002536になります。	general,attraction
+3174	6	USER	ありがとうございました。	general,attraction
+3174	7	SYSTEM	他にお調べすることはありますか？	general,attraction
+3174	8	USER	いえ、他にはありません。ありがとうございました。	general,attraction
+3174	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

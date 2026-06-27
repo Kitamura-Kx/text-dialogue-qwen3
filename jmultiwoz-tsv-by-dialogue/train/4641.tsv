@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4641	0	USER	名古屋への旅行を考えているんですけど、その時に利用する飲食店を探してもらえますか？	general,restaurant,hotel
+4641	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,restaurant,hotel
+4641	2	USER	そうですね、最寄り駅が栄駅でWi-Fiが無料で使えるお店はありますか？	general,restaurant,hotel
+4641	3	SYSTEM	かしこまりました。では、すしざんまい 名古屋錦店はいかがでしょうか？	general,restaurant,hotel
+4641	4	USER	いいですね、そちらの近辺の駅からの所要時間と営業時間、駐車場の有無はわかりますか？	general,restaurant,hotel
+4641	5	SYSTEM	はい。近辺の駅からの所要時間は栄駅もしくは栄町駅から徒歩で3分。また、久屋大通駅から徒歩で5分となります。営業時間は11:00～06:00で、駐車場の有無は不明となります。	general,restaurant,hotel
+4641	6	USER	わかりました。そちらを9/11のお昼の12:00に4名で予約をお願いします。	general,restaurant,hotel
+4641	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,hotel
+4641	8	USER	それなら午後12時50分ではどうですか？	general,restaurant,hotel
+4641	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、35330です。	general,restaurant,hotel
+4641	10	USER	ありがとうございます。あと泊まれるところも探してもらえますか？	general,restaurant,hotel
+4641	11	SYSTEM	はい。お調べしますよ。	general,restaurant,hotel
+4641	12	USER	予算は普通で、Wi-Fiが無料のところが良いのですがありますか？	general,restaurant,hotel
+4641	13	SYSTEM	かしこまりました。では、菊の屋 はなれはいかがでしょうか？	general,restaurant,hotel
+4641	14	USER	そちらの近辺の駅からの所要時間と、チェックイン開始時刻、電話番号を教えて下さい。	general,restaurant,hotel
+4641	15	SYSTEM	はい。名古屋駅から徒歩で8分もしくは中村区役所駅から徒歩で3分です。また、チェックイン開始時刻は17:00で、電話番号は0527500722になります。	general,restaurant,hotel
+4641	16	USER	ありがとうございます、菊の屋 はなれの予約をお願いします。9/11から3泊でお願いします。宿泊人数は４名です。	general,restaurant,hotel
+4641	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、26373です。	general,restaurant,hotel
+4641	18	USER	ありがとうございました。	general,restaurant,hotel
+4641	19	SYSTEM	はい。ありがとうございました。	general,restaurant,hotel

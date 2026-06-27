@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3705	0	USER	こんにちは。仙台に行くのですが、駐車場が無料で使えて、予算が高めな、太白区の宿泊施設はありますか？	general,hotel,attraction,restaurant
+3705	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel,attraction,restaurant
+3705	2	USER	では地区を青葉区にしたらありそうですか？	general,hotel,attraction,restaurant
+3705	3	SYSTEM	お待たせ致しました。それでしたら作並温泉 ゆづくしSalon一の坊がございます。	general,hotel,attraction,restaurant
+3705	4	USER	ありがとうございます。そこの、チェックアウト終了時刻と電話番号はわかりますか？	general,hotel,attraction,restaurant
+3705	5	SYSTEM	はい、チェックアウト終了時刻は11時でして、電話番号は0570053973でございます。	general,hotel,attraction,restaurant
+3705	6	USER	ありがとうございます。駐車場が無料で使える、青葉区の観光名所はありますか？	general,hotel,attraction,restaurant
+3705	7	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel,attraction,restaurant
+3705	8	USER	では駐車場はなくても大丈夫です。	general,hotel,attraction,restaurant
+3705	9	SYSTEM	かしこまりました。それではフィギュアスケートモニュメントはいかがでしょうか？	general,hotel,attraction,restaurant
+3705	10	USER	いいですね。そこのジャンルも教えていただけますか？	general,hotel,attraction,restaurant
+3705	11	SYSTEM	ジャンルは記念碑・像, 神社・寺院・教会・モニュメントなどに該当致します。	general,hotel,attraction,restaurant
+3705	12	USER	ありがとうございます。あと、駐車場が無料で使えて、予算が普通な、宮城野区の飲食店も探してもらえますか？	general,hotel,attraction,restaurant
+3705	13	SYSTEM	その条件でしたら、ココス 仙台中野店がございます。	general,hotel,attraction,restaurant
+3705	14	USER	ありがとうございます。そのお店の、最寄り駅と営業時間、近辺の駅からの所要時間もわかりますか？	general,hotel,attraction,restaurant
+3705	15	SYSTEM	はい、最寄り駅は中野栄駅、営業時間は7時から26時、近辺の駅からは中野栄駅から徒歩で19分でございます。	general,hotel,attraction,restaurant
+3705	16	USER	ありがとうございます。	general,hotel,attraction,restaurant
+3705	17	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,attraction,restaurant

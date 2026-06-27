@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2175	0	USER	大阪に旅行する予定なので、当日訪れる観光名所でおすすめを教えて頂けないでしょうか。	general,attraction
+2175	1	SYSTEM	かしこまりました。大阪ですと51件ほどございますが、どういったところをご希望でしょうか？	general,attraction
+2175	2	USER	駐車場とWi-Fiが無料で利用できる場所はありますか？	general,attraction
+2175	3	SYSTEM	その条件ですと、鶴見緑地湯元 水春がございます。	general,attraction
+2175	4	USER	ではそちらに伺いたいと思います。電話番号もいただけますでしょうか。	general,attraction
+2175	5	SYSTEM	ありがとうございます。電話番号は0642571126でございます。	general,attraction
+2175	6	USER	ありがとうございました。	general,attraction

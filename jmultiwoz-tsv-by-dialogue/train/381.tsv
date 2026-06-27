@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+381	0	USER	名古屋での飲食店を探しています。	general,restaurant,shopping,taxi
+381	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant,shopping,taxi
+381	2	USER	中区で、Wi-Fiと駐車場が無料のところはありますか？	general,restaurant,shopping,taxi
+381	3	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しましょう？	general,restaurant,shopping,taxi
+381	4	USER	では、駐車場はなくても構いません。	general,restaurant,shopping,taxi
+381	5	SYSTEM	ありがとうございます。すしざんまい 名古屋錦店、ゆめや 金山店の2件ございます。何かご案内致しましょうか？	general,restaurant,shopping,taxi
+381	6	USER	すしざんまい 名古屋錦店の営業時間を教えてください。	general,restaurant,shopping,taxi
+381	7	SYSTEM	はい、営業時間は11時から6時となっております。他にご案内できることはございますか？	general,restaurant,shopping,taxi
+381	8	USER	そちらを2/19の11:00で２名、予約をお願いします。	general,restaurant,shopping,taxi
+381	9	SYSTEM	承知しました。ご予約完了し、ご予約番号は、17264となります。他にご用件はございますか？	general,restaurant,shopping,taxi
+381	10	USER	ありがとうございます。当日買い物がしたいのですが、最寄り駅が高岳駅のところはありますか？	general,restaurant,shopping,taxi
+381	11	SYSTEM	はい、1件、ウエルシア名古屋代官町店がございます。どのようなご案内を致しましょう？	general,restaurant,shopping,taxi
+381	12	USER	そちらのジャンルと、営業時間を教えていただけますか？	general,restaurant,shopping,taxi
+381	13	SYSTEM	はい、ジャンルは医薬品、化粧品、食料品、営業時間は0時から0時となります。他に必要なご案内はございますか？	general,restaurant,shopping,taxi
+381	14	USER	ありがとうございます。あと、当日タクシーを利用したいのですが、ジャンボタクシーが利用できるところはありますか？	general,restaurant,shopping,taxi
+381	15	SYSTEM	申し訳ありません。ジャンボタクシー対応のタクシー会社はございません。いかが致しましょう？	general,restaurant,shopping,taxi
+381	16	USER	では、ジャンボタクシーはなくても構いません。	general,restaurant,shopping,taxi
+381	17	SYSTEM	申し訳ありません。では、名古屋近鉄タクシーはいかがでしょう？キャッシュレスには対応しております。電話番号は、0570048881となります。	general,restaurant,shopping,taxi
+381	18	USER	助かります。では、2/19の12:30で、すしざんまい 名古屋錦店から、ウエルシア名古屋代官町店まで予約をお願いします。	general,restaurant,shopping,taxi
+381	19	SYSTEM	承知しました。予約が完了し、ご予約番号は、34961となります。他にご用件はございますか？	general,restaurant,shopping,taxi
+381	20	USER	ありがとうございます。以上です、お世話になりました。	general,restaurant,shopping,taxi
+381	21	SYSTEM	ありがとうございました。	general,restaurant,shopping,taxi

@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1792	0	USER	こんにちは、札幌への旅行を考えていて、お伺いしたいことがあります。	general,shopping,attraction,taxi
+1792	1	SYSTEM	札幌のご旅行ですね。どういった情報をお探しでしょうか？	general,shopping,attraction,taxi
+1792	2	USER	当日、服を買いに行きたいのでお店を探しています。駐車場は無料のところがいいのですが。	general,shopping,attraction,taxi
+1792	3	SYSTEM	恐れ入ります。ジャンルがファッションのお店は当方にてお調べできますが、お洋服をお取り扱いしていることが確実なお店は、こちらではご案内いたしかねます。いかが致しましょうか？	general,shopping,attraction,taxi
+1792	4	USER	ジャンルがファッションのお店で大丈夫です。わかりにくくてすみません。	general,shopping,attraction,taxi
+1792	5	SYSTEM	承知いたしました。では、アカチャンホンポ アリオ札幌店はいかがでしょうか？	general,shopping,attraction,taxi
+1792	6	USER	ありがとうございます。	general,shopping,attraction,taxi
+1792	7	SYSTEM	なにかお知りになりたい情報はございませんか？	general,shopping,attraction,taxi
+1792	8	USER	東区のWi-Fiと駐車場が無料の観光名所はありますか？	general,shopping,attraction,taxi
+1792	9	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,shopping,attraction,taxi
+1792	10	USER	では、Wi-Fiはなくても大丈夫です。	general,shopping,attraction,taxi
+1792	11	SYSTEM	かしこまりました。では、モエレ沼公園はいかがでしょうか？	general,shopping,attraction,taxi
+1792	12	USER	いいですね。住所も教えてください！	general,shopping,attraction,taxi
+1792	13	SYSTEM	住所は、北海道札幌市東区モエレ沼公園1-1でございます。	general,shopping,attraction,taxi
+1792	14	USER	ありがとうございます。当日利用できるタクシー会社も探しています。	general,shopping,attraction,taxi
+1792	15	SYSTEM	では、恊和交通(株)はいかがでしょうか？	general,shopping,attraction,taxi
+1792	16	USER	ジャンボタクシーは利用できますか？	general,shopping,attraction,taxi
+1792	17	SYSTEM	はい、ご利用いただけます。	general,shopping,attraction,taxi
+1792	18	USER	そこにします。電話番号を教えてください。	general,shopping,attraction,taxi
+1792	19	SYSTEM	電話番号は、0118751211です。	general,shopping,attraction,taxi
+1792	20	USER	予約もお願いします。11月27日の13:50に、先ほどの買い物店舗から、観光施設までお願いします。	general,shopping,attraction,taxi
+1792	21	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,shopping,attraction,taxi
+1792	22	USER	時間を１４：５０ではどうですか？	general,shopping,attraction,taxi
+1792	23	SYSTEM	ありがとうございます。１４：５０にアカチャンホンポ アリオ札幌店発、モエレ沼公園着にてご予約完了いたしました。予約番号は、74474です。	general,shopping,attraction,taxi
+1792	24	USER	ありがとうございます。	general,shopping,attraction,taxi
+1792	25	SYSTEM	他になにかお調べすることはございますか？	general,shopping,attraction,taxi
+1792	26	USER	もう大丈夫です。	general,shopping,attraction,taxi
+1792	27	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,attraction,taxi

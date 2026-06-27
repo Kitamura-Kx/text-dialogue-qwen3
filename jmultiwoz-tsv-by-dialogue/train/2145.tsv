@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2145	0	USER	京都の大宮駅近くで飲食店を探しています。Wi-Fiが無料だといいんですが。	general,restaurant,weather
+2145	1	SYSTEM	大宮駅にはWiFi無料の飲食店はなさそうです。	general,restaurant,weather
+2145	2	USER	じゃあWi-Fiは使えなくてもいいので、良さそうなところを教えてください。	general,restaurant,weather
+2145	3	SYSTEM	大宮駅付近ですと京都 湯葉料理 かめや本家一択ですね。	general,restaurant,weather
+2145	4	USER	湯葉料理とはいいですね。電話番号と営業時間も教えてください。あと、値段帯はどのぐらいですか？	general,restaurant,weather
+2145	5	SYSTEM	お値段は高めになります。電話番号は0758418126、昼の部が11:30～14:00、夜の部が17:00～21:30ですね。	general,restaurant,weather
+2145	6	USER	10月8日の10時で予約できますか？4人なんですが。	general,restaurant,weather
+2145	7	SYSTEM	10月8日の10時から、4人で予約成功しました。予約番号は55323になります。	general,restaurant,weather
+2145	8	USER	同じ日の東山区の天候を調べられますか？	general,restaurant,weather
+2145	9	SYSTEM	10/8 京都 東山区 の天気は雨のち晴です。	general,restaurant,weather
+2145	10	USER	微妙ですね。最高気温はどのぐらいになりそうですか？	general,restaurant,weather
+2145	11	SYSTEM	最高気温は20.1度見込みです。	general,restaurant,weather
+2145	12	USER	どうもありがとうございました。	general,restaurant,weather

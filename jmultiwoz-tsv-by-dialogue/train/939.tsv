@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+939	0	USER	大阪旅行を予定しています。鶴見区でショッピングをしたいのですが、駐車場が無料で利用できるような場所はありますか？	general,shopping
+939	1	SYSTEM	三井アウトレットパーク 大阪鶴見は、いかがでしょうか？	general,shopping
+939	2	USER	こちらは何時から何時まで開いていますか？	general,shopping
+939	3	SYSTEM	こちらの営業時間は、午前10時から午後8時までとなっています。	general,shopping
+939	4	USER	そうなのですね。こちらの施設は定休日はありますか？あと最寄駅からのアクセス時間も知りたいです。	general,shopping
+939	5	SYSTEM	定休日は、ございません。　最寄り駅のアクセスですが、門真南駅から徒歩で5分となっております。	general,shopping
+939	6	USER	わかりました。詳しくお調べ頂きとても助かりました。	general,shopping

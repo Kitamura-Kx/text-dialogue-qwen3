@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4962	0	USER	大阪へ旅行したいのですが、浪速区でカレーが食べれるところはないですか？Wi-Fiが無料だと嬉しいです。	general,restaurant,weather
+4962	1	SYSTEM	申し訳ありません、その条件ではお探しすることが出来ませんでした。	general,restaurant,weather
+4962	2	USER	なるほど。ではジャンルを居酒屋に変更お願いします。	general,restaurant,weather
+4962	3	SYSTEM	お待たせ致しました。でしたら、沖縄ん家 てりとりーがございます。	general,restaurant,weather
+4962	4	USER	そこにします。営業時間を教えてください。	general,restaurant,weather
+4962	5	SYSTEM	ありがとうございます。営業時間は17時から0時でございます。	general,restaurant,weather
+4962	6	USER	なるほど。では、2人で1/6の15:00から予約をお願いできますか？	general,restaurant,weather
+4962	7	SYSTEM	申し訳ありません、その条件では予約することが出来ませんでした。	general,restaurant,weather
+4962	8	USER	そうですか。では人数を1人に変更します。	general,restaurant,weather
+4962	9	SYSTEM	お待たせ致しました。予約番号85838でお取りさせていただきました。	general,restaurant,weather
+4962	10	USER	ありがとうございます。また、1/6の港区の天気ってわかります？	general,restaurant,weather
+4962	11	SYSTEM	はい、当日の港区の天気は晴の予報でございます。	general,restaurant,weather
+4962	12	USER	了解です。いろいろありがとうございました。	general,restaurant,weather
+4962	13	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,weather

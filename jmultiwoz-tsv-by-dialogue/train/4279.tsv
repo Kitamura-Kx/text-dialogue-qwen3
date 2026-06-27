@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4279	0	USER	京都へ行くので、買い物ができるところを探しています。右京区にありませんか？	general,shopping,weather,taxi
+4279	1	SYSTEM	かしこまりました。では道の駅 ウッディー京北はいかがでしょうか。	general,shopping,weather,taxi
+4279	2	USER	よさそうですね、そこに行きます。天候も知りたいのですが、9月18日の上京区の天気はどうですか？	general,shopping,weather,taxi
+4279	3	SYSTEM	当日の天気は晴のち曇でございます。	general,shopping,weather,taxi
+4279	4	USER	最高気温ってわかりますか？	general,shopping,weather,taxi
+4279	5	SYSTEM	最高気温は27.3度でございます。	general,shopping,weather,taxi
+4279	6	USER	ありがとうございます。当日タクシーを利用する予定です。エムケイ株式会社というところを探しているのですが。	general,shopping,weather,taxi
+4279	7	SYSTEM	はい。ございます。こちらキャッシュレスにもジャンボタクシーにも対応しております。電話番号は0757784141でございます。	general,shopping,weather,taxi
+4279	8	USER	では、このタクシーを予約します。9月18日に総本家よし廣から、道の駅 ウッディー京北まで行きます。時間は10時にお願いします。	general,shopping,weather,taxi
+4279	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は16861でございます。	general,shopping,weather,taxi
+4279	10	USER	予約ありがとうございました。	general,shopping,weather,taxi
+4279	11	SYSTEM	ほかにご用件はございませんか。	general,shopping,weather,taxi
+4279	12	USER	いえ、大丈夫です。ありがとうございます。	general,shopping,weather,taxi
+4279	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather,taxi

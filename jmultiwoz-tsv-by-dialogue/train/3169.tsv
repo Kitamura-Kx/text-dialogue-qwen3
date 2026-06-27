@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3169	0	USER	東京で工場見学をしたいと思っています。無料Wi-Fiが利用できるところはありますか？	general,attraction
+3169	1	SYSTEM	申し訳ございません。条件に合う施設は見つかりませんでした。	general,attraction
+3169	2	USER	それでしたら、工場見学じゃなくても構わないので、無料Wi-Fiが利用できる観光名所でいいところありますか？	general,attraction
+3169	3	SYSTEM	かしこまりました。葛西臨海水族園なんていかがですか？	general,attraction
+3169	4	USER	そちらは近くの駅からどのくらいかかりますか？	general,attraction
+3169	5	SYSTEM	はい。最寄りの葛西臨海公園駅から徒歩で5分になります。	general,attraction
+3169	6	USER	ありがとうございました。	general,attraction
+3169	7	SYSTEM	はい。ほかにお調べすることはございませんか？	general,attraction
+3169	8	USER	大丈夫です。ありがとうございました。	general,attraction
+3169	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4531	0	USER	仙台へ旅行に行く予定なのですが若林区のおすし屋さんか魚料理の店を探しています。駐車場が無料のところをお願いします。	general,restaurant,hotel
+4531	1	SYSTEM	若林区で駐車場無料の寿司魚料理店はなさそうです。	general,restaurant,hotel
+4531	2	USER	宮城野区ではどうでしょう？	general,restaurant,hotel
+4531	3	SYSTEM	宮城野区ならいくつかありますが、力寿司、こちらをお勧めします。	general,restaurant,hotel
+4531	4	USER	そこに行きたいです。住所を教えて下さい。あと料金はどれくらいかと最寄りの駅を教えて下さい。	general,restaurant,hotel
+4531	5	SYSTEM	宮城県仙台市宮城野区二十人町300-19、値段帯は普通、ランチの握りずしが１１００円ってのが看板メニューのようですね。最寄り駅は宮城野通駅になります。	general,restaurant,hotel
+4531	6	USER	いいですね。それでは、そこを予約して頂けますか？3人で7/23で12:30ではどうですか？	general,restaurant,hotel
+4531	7	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,restaurant,hotel
+4531	8	USER	では２人ではどうでしょう？	general,restaurant,hotel
+4531	9	SYSTEM	２人なら予約できました。予約番号は80748です。	general,restaurant,hotel
+4531	10	USER	あと止まるところも探しています。旅館でレストランつきで普通の値段でありますか？	general,restaurant,hotel
+4531	11	SYSTEM	仙台でレストラン併設、値段帯普通の旅館はいくつかありますが、伝承千年の宿 佐勘、こちらをお勧めします。	general,restaurant,hotel
+4531	12	USER	ありがとうございます。そこの最寄りの駅とWI-FIが使えるかを教えて下さい。	general,restaurant,hotel
+4531	13	SYSTEM	最寄りは愛子駅、WiFiは無料です。	general,restaurant,hotel
+4531	14	USER	大変助かりました！ありがとうございました。	general,restaurant,hotel
+4531	15	SYSTEM	よい旅を	general,restaurant,hotel

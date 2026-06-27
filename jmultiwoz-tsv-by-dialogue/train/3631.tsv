@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3631	0	USER	横浜へ旅行しようと思っていて、宿泊施設を探しています。	general,hotel
+3631	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,hotel
+3631	2	USER	予算が高めのシティホテルを探しています。	general,hotel
+3631	3	SYSTEM	横浜には予算高めのシティホテルはなさそうです。	general,hotel
+3631	4	USER	中区にもないでしょうか？	general,hotel
+3631	5	SYSTEM	横浜全土でない状態なので、中区にも当然予算高めのシティホテルはありません。	general,hotel
+3631	6	USER	では、同じ条件のリゾートホテルはありますか？	general,hotel
+3631	7	SYSTEM	中区で予算高めのリゾートホテルならば、インターコンチネンタル横浜Pier8、こちら一択です。	general,hotel
+3631	8	USER	ありがとうございます。そちらのチェックアウト時間と料金を教えていただけますか？	general,hotel
+3631	9	SYSTEM	チェックアウトは１２時、値段帯高めということはわかっているのですが、料金詳細は不明です。	general,hotel
+3631	10	USER	なるほど、ありがとうございます。	general,hotel
+3631	11	SYSTEM	お役に立てて光栄です。	general,hotel
+3631	12	USER	どうもありがとうございました。	general,hotel
+3631	13	SYSTEM	よい旅を	general,hotel

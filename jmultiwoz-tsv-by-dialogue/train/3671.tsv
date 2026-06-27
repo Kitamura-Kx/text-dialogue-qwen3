@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3671	0	USER	今度那覇に行くのですが、タクシー会社を探しています。	general,taxi
+3671	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,taxi
+3671	2	USER	キャッシュレス払いができて、ジャンボタクシーが利用できるところがいいです。	general,taxi
+3671	3	SYSTEM	かしこまりました。であれば丸星交通はいかがですか？	general,taxi
+3671	4	USER	ありがとうございます。そちらの電話番号は分かりますか？	general,taxi
+3671	5	SYSTEM	はい。電話番号は0988685831です。	general,taxi
+3671	6	USER	ありがとうございます。では、2/4の13:40で、アルモントホテル那覇県庁前から、ホテルピースランド久米まで予約をお願いできますか？	general,taxi
+3671	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、15033です。	general,taxi
+3671	8	USER	ありがとうございます。以上です。	general,taxi
+3671	9	SYSTEM	承知しました。ありがとうございました。	general,taxi

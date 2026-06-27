@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3095	0	USER	札幌への旅行を考えています．レストランが併設されている簡易宿所を探しています．	general,hotel,weather
+3095	1	SYSTEM	そうしますと、札幌ゲストハウスやすべえという中央区エリアの宿泊施設はいかがでしょうか？	general,hotel,weather
+3095	2	USER	できれば最寄りが二十四軒駅が良いのですが，そこはどうでしょうか．	general,hotel,weather
+3095	3	SYSTEM	こちらは、中島公園駅が最寄りとなっております。二十四軒駅の近くとなりますと、ご案内できるところがございませんでした。いかがいたしましょう？	general,hotel,weather
+3095	4	USER	それでは先程ご紹介いただいたゲストハウスにしようと思います．最寄り駅からの所要時間と電話番号を教えて頂けますか．	general,hotel,weather
+3095	5	SYSTEM	かしこまりました。札幌ゲストハウスやすべえは、中島公園駅から徒歩で9分の距離にございます。電話番号は、0112131305です。	general,hotel,weather
+3095	6	USER	そこを予約したいです．人数は3人で5/28から３泊お願いします．	general,hotel,weather
+3095	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、78337です。	general,hotel,weather
+3095	8	USER	ありがとうございます．ちなみに5/28の東区の天気はどうでしょうか	general,hotel,weather
+3095	9	SYSTEM	はい、当日の天気は晴れの予報です。	general,hotel,weather
+3095	10	USER	最高気温もご存知でしょうか．	general,hotel,weather
+3095	11	SYSTEM	はい。最高気温は21.5度まで上がる見込みです。	general,hotel,weather
+3095	12	USER	わかりました．ありがとうございました．	general,hotel,weather
+3095	13	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,hotel,weather

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4606	0	USER	仙台への旅行を計画しています． 当日泊まる宿泊施設を探してください．予算は安めが希望です．駐車場を無料で利用できるところにしてください．	general,hotel,attraction,weather
+4606	1	SYSTEM	コーラスホテル仙台富沢はいかがでしょうか。	general,hotel,attraction,weather
+4606	2	USER	そちらの住所，Wi-Fiの有無を教えていただけますか。	general,hotel,attraction,weather
+4606	3	SYSTEM	Wi-Fiの有無は有り(有料)、住所は宮城県仙台市太白区富沢西2丁目16番地の3です。	general,hotel,attraction,weather
+4606	4	USER	ありがとうございます。そちらで人数は3人です．日付は1/17です．宿泊日数は4泊で予約いただけますｋ	general,hotel,attraction,weather
+4606	5	SYSTEM	予約完了いたしました。予約番号は44942になります。	general,hotel,attraction,weather
+4606	6	USER	ありがとうございます。あと、当日訪れる観光名所を探してください．Wi-Fiが無料で利用できるところにしてください．地区は宮城野区です	general,hotel,attraction,weather
+4606	7	SYSTEM	仙台アンパンマンこどもミュージアム&モールはいかがでしょうか。	general,hotel,attraction,weather
+4606	8	USER	そちらの営業時間を教えていただけますか。	general,hotel,attraction,weather
+4606	9	SYSTEM	営業時間 10:00～17:00です。	general,hotel,attraction,weather
+4606	10	USER	ありがとうございます。あと、1/17の若林区の最低気温を教えていただけますか。	general,hotel,attraction,weather
+4606	11	SYSTEM	最低気温 -3.4度になります。	general,hotel,attraction,weather
+4606	12	USER		general,hotel,attraction,weather

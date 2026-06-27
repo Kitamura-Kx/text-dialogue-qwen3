@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1790	0	USER	大阪への旅行を計画していて、お聞きしたいことがあるのですが。	general,restaurant,hotel
+1790	1	SYSTEM	大阪のご旅行ですね。どういった情報をお探しでしょうか？	general,restaurant,hotel
+1790	2	USER	飲食店を探しています。和食で、駐車場は無料のところがいいです。	general,restaurant,hotel
+1790	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,hotel
+1790	4	USER	では、駐車場はなくても大丈夫です。	general,restaurant,hotel
+1790	5	SYSTEM	では、お野菜、どうぞ。はいかがでしょうか？	general,restaurant,hotel
+1790	6	USER	そこにします。住所と料金情報を教えてください。	general,restaurant,hotel
+1790	7	SYSTEM	住所は、大阪府大阪市中央区難波5丁目1-60 なんばCITY 本館 B1Fです。料金情報は、不明となっております。申し訳ありません。	general,restaurant,hotel
+1790	8	USER	わかりました。ありがとうございます。	general,restaurant,hotel
+1790	9	SYSTEM	他になにかお調べすることはございますか？	general,restaurant,hotel
+1790	10	USER	当日泊まれる宿泊施設も探しています。	general,restaurant,hotel
+1790	11	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,restaurant,hotel
+1790	12	USER	Wi-Fiが無料でレストラン併設のところがいいです。最寄駅は十三でお願いします。	general,restaurant,hotel
+1790	13	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,hotel
+1790	14	USER	そうですか。では、最寄駅が谷町四丁目ではどうでしょうか？	general,restaurant,hotel
+1790	15	SYSTEM	ありがとうございます。では、ホテルサンホワイトはいかがでしょうか？	general,restaurant,hotel
+1790	16	USER	そこにします。そのホテルの電話番号とタイプ、エリアを教えてください。	general,restaurant,hotel
+1790	17	SYSTEM	電話番号は、0669423711です、タイプは、ビジネスホテルとなります。エリアは中央区にございます。	general,restaurant,hotel
+1790	18	USER	ありがとうございます。	general,restaurant,hotel
+1790	19	SYSTEM	他になにかお調べすることはございますか？	general,restaurant,hotel
+1790	20	USER	もう大丈夫です。ありがとうございました。	general,restaurant,hotel
+1790	21	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,restaurant,hotel

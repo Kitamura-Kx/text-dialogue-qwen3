@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4731	0	USER	東京へ旅行予定なのですが、絶景が観れて、Wi-Fiが無料で使えるような場所はないですか？	general,attraction,weather
+4731	1	SYSTEM	それでしたら、teamLab Planets TOKYOはいかがですか？	general,attraction,weather
+4731	2	USER	そこにします。エリアと大人、子供の入場料を知りたいです。	general,attraction,weather
+4731	3	SYSTEM	エリアは、江東区です。　入場料は、大人　3200円、子供　300円となっています。	general,attraction,weather
+4731	4	USER	そうなんですね。9/16の足立区の天気と最高気温も教えて下さい。	general,attraction,weather
+4731	5	SYSTEM	天気は、曇で最高気温は、23.3度の予報です。	general,attraction,weather
+4731	6	USER	了解です。ありがとうございます。以上で大丈夫です。	general,attraction,weather
+4731	7	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

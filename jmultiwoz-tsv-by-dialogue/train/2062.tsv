@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2062	0	USER	札幌で買い物できるスポットを教えてください。無料駐車場がある食料品のお店はありますか？	general,shopping,taxi
+2062	1	SYSTEM	かしこまりました。では、札幌ばんけい峠のワイナリーはいかがでしょうか？	general,shopping,taxi
+2062	2	USER	最寄駅からはどれぐらいかかりますか？あと、住所も知りたいです。	general,shopping,taxi
+2062	3	SYSTEM	はい。最寄り駅の円山公園駅からバスで11分です。住所は北海道札幌市中央区盤渓201-4になります。	general,shopping,taxi
+2062	4	USER	ありがとうございます。ついでにタクシー情報も聞けますか？ジャンボタクシー運営があって、キャッシュレスにも対応してるといいのですが。	general,shopping,taxi
+2062	5	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,shopping,taxi
+2062	6	USER	ではキャッシュレスの条件を除いてください。	general,shopping,taxi
+2062	7	SYSTEM	かしこまりました。では、新雪交通(株)はいかがでしょうか？	general,shopping,taxi
+2062	8	USER	そちらで予約をお願いします。2/1の13:50で、北海道ろばた居心地出発、札幌ばんけい峠のワイナリー到着にしてください。	general,shopping,taxi
+2062	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、56988です。	general,shopping,taxi
+2062	10	USER	ありがとうございます。助かりました。	general,shopping,taxi

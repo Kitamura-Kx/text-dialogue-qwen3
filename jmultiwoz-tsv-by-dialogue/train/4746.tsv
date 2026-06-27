@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4746	0	USER	名古屋に旅行するのですが、中村区で買い物できるところはないですか？	general,shopping,taxi,weather
+4746	1	SYSTEM	では、ジェイアール名古屋タカシマヤはいかがでしょう？ジャンルは、百貨店や総合スーパーとなります。	general,shopping,taxi,weather
+4746	2	USER	そこにします。電話番号はわかりますか？	general,shopping,taxi,weather
+4746	3	SYSTEM	はい、電話番号は、0525661101となります。	general,shopping,taxi,weather
+4746	4	USER	あと、タクシーの利用も考えていて、ジャンボタクシーが利用できてキャッシュレス払いも可能なところを調べてほしいです。	general,shopping,taxi,weather
+4746	5	SYSTEM	承知しました。では、伸和交通はいかがでしょう？電話番号は、0522031212となります。	general,shopping,taxi,weather
+4746	6	USER	そこにします。8/21の15:00に、名古屋スポーツセンターからジェイアール名古屋タカシマヤまでの予約をたのみたいです。	general,shopping,taxi,weather
+4746	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、15145となります。	general,shopping,taxi,weather
+4746	8	USER	ありがとうございます。あと、中区の8/21の天気も教えてください。	general,shopping,taxi,weather
+4746	9	SYSTEM	はい、天気は曇のち晴、最低気温22.4度、最高気温38度となります。	general,shopping,taxi,weather
+4746	10	USER	ありがとうございます。	general,shopping,taxi,weather
+4746	11	SYSTEM	ありがとうございました。	general,shopping,taxi,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3218	0	USER	那覇へ旅行に行くので、本庁あたりで最寄り駅が旭橋駅のビジネスホテルを探してください	general,hotel
+3218	1	SYSTEM	かしこまりました。では、沖縄ホテルコンチネンタルはいかがでしょうか？	general,hotel
+3218	2	USER	電話番号と駐車場の有無を教えて貰えますか？	general,hotel
+3218	3	SYSTEM	はい。電話番号は0988681143で、駐車場は有料のものがございます。	general,hotel
+3218	4	USER	4名で6/27で二泊予約お願いします	general,hotel
+3218	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、17620です。	general,hotel
+3218	6	USER	了解です、ありがとうございました	general,hotel
+3218	7	SYSTEM	他にご用件はございますか？	general,hotel
+3218	8	USER	ないです。ありがとうございました	general,hotel
+3218	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

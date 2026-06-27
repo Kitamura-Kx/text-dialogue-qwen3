@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1267	0	USER	福岡のタクシー会社情報を教えてください。ジャンボタクシー対応のところを探してるんですが。	general,taxi
+1267	1	SYSTEM	では、福岡昭和タクシー（株）はいかがでしょうか？	general,taxi
+1267	2	USER	電話番号も教えてください。	general,taxi
+1267	3	SYSTEM	はい、電話番号は、0120408860です。	general,taxi
+1267	4	USER	3/29の11:30で予約もお願いできますか？出発はHOTEL 博多中洲 INNで、ウルトラマンワールドM78 キャナルシティ博多店までお願いしたいです。	general,taxi
+1267	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、52845です。	general,taxi
+1267	6	USER	ありがとうございます。	general,taxi

@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2191	0	USER	今度、札幌で定山渓第一寶亭留 翠山亭に泊まろうと思うのですが、チェックイン開始時刻を知りたいです。	general,hotel,shopping,attraction
+2191	1	SYSTEM	はい、チェックイン開始時刻は15時となります。	general,hotel,shopping,attraction
+2191	2	USER	分かりました。では、6月8日から2泊、3人で予約をお願いできますか？	general,hotel,shopping,attraction
+2191	3	SYSTEM	予約が完了し、予約番号は、75668となります。	general,hotel,shopping,attraction
+2191	4	USER	ありがとうございます。その日に北区で買い物を計画しています。無料駐車場がある所がいいのですが、ありますか？	general,hotel,shopping,attraction
+2191	5	SYSTEM	申し訳ありません、その条件ではご案内できないのですが、いかが致しましょう？	general,hotel,shopping,attraction
+2191	6	USER	では、駐車場はあきらめます。	general,hotel,shopping,attraction
+2191	7	SYSTEM	では、ありんこJR札幌店はいかがでしょう？	general,hotel,shopping,attraction
+2191	8	USER	どんなジャンルのお店ですか？	general,hotel,shopping,attraction
+2191	9	SYSTEM	食料品となります。	general,hotel,shopping,attraction
+2191	10	USER	分かりました。もう１つ、西区で無料駐車場がある観光名所を教えてください。	general,hotel,shopping,attraction
+2191	11	SYSTEM	申し訳ありません。その条件ではご紹介できません。いかがされますか？	general,hotel,shopping,attraction
+2191	12	USER	そうですか。西区以外だったらありますか？	general,hotel,shopping,attraction
+2191	13	SYSTEM	では、エリアでいうと厚別区にある、サンピアザ水族館はいかがでしょう？	general,hotel,shopping,attraction
+2191	14	USER	はい、そこに行ってみます。営業時間と料金情報を教えてください。	general,hotel,shopping,attraction
+2191	15	SYSTEM	営業時間は10時から18時30分、料金情報としては、高校生以上の大人入場料1000円、65歳以上の高齢者720円、3歳以上中学生までの子供入場料400円となっております。	general,hotel,shopping,attraction
+2191	16	USER	詳しくありがとうございます。最後にサンピアザ水族館は近くの駅からどれくらいかかりますか？	general,hotel,shopping,attraction
+2191	17	SYSTEM	最寄りの新さっぽろ駅から徒歩で5分となります。	general,hotel,shopping,attraction
+2191	18	USER	分かりました。ありがとうございました。では失礼します。	general,hotel,shopping,attraction

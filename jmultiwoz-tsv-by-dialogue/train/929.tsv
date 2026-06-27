@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+929	0	USER	京都への旅行を計画しているのですが。	general,restaurant
+929	1	SYSTEM	はい。何かご要望はございますか。	general,restaurant
+929	2	USER	当日食事ができる飲食店を探してください．ジャンルは焼肉・ホルモンでおねがいします。	general,restaurant
+929	3	SYSTEM	でしたら祇園鹿六はいかがでしょうか。	general,restaurant
+929	4	USER	いいですね。そちらの近辺の駅からの所要時間をおしえてほしいです。	general,restaurant
+929	5	SYSTEM	近辺の駅からの所要時間は祇園四条駅から徒歩で8分、 清水五条駅から徒歩で10分、 祇園四条駅からタクシーで3分になります。	general,restaurant
+929	6	USER	わかりました。ありがとうございます。	general,restaurant
+929	7	SYSTEM	こちらこそありがとうございます。	general,restaurant

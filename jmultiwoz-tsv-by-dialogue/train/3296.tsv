@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3296	0	USER	名古屋の西区にある観光名所で、無料駐車場と無料Wi-Fiが利用できるところを探しています。	general,attraction
+3296	1	SYSTEM	全ての条件を満たす観光施設はずばり、トヨタ産業技術記念館、こちら一択です。	general,attraction
+3296	2	USER	そちらの料金情報とジャンル、子供の入場料を教えて下さい。	general,attraction
+3296	3	SYSTEM	ジャンルは美術館・博物館, 科学館、大人は５００円、６５歳以上で３００円、中高生は３００円、小学生は２００円になります。	general,attraction
+3296	4	USER	ありがとうございました。	general,attraction
+3296	5	SYSTEM	よい旅を	general,attraction

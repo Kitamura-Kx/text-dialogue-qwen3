@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4973	0	USER	こんにちは。那覇に旅行する計画を立てていますが、レストランが併設されていてWi-Fiが無料の宿泊施設はありますか？	general,hotel
+4973	1	SYSTEM	承知しました。JR九州ホテル ブラッサム那覇はいかがでしょうか？	general,hotel
+4973	2	USER	そちらでお願いします。エリアと、施設のタイプはわかりますか？	general,hotel
+4973	3	SYSTEM	エリアは本庁です。施設のタイプはリゾートホテルです。	general,hotel
+4973	4	USER	良さそうですね。では、人数は2人で、4月5日から4泊で予約できますか？	general,hotel
+4973	5	SYSTEM	予約が完了しました。予約番号は91305です。	general,hotel
+4973	6	USER	無事に予約できて良かったです。ありがとうございます。	general,hotel

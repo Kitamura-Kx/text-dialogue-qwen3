@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1195	0	USER	名古屋のアートギャラリーを探して下さい。wifiが無料で使えるとことを希望しています。	general,attraction
+1195	1	SYSTEM	エリアでいうと西区に、ノリタケの森がございます。	general,attraction
+1195	2	USER	そちらの電話番号と、最寄り駅からの所要時間を教えて下さい。	general,attraction
+1195	3	SYSTEM	はい、電話番号は0525617114、最寄りの亀島駅から徒歩で5分となります。	general,attraction
+1195	4	USER	ありがとうございました。	general,attraction

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4643	0	USER	京都へ旅行に行こうと思っているのですが、Wi-Fiが無料で使えるお安めな宿を探してもらえますか？	general,hotel,weather,taxi
+4643	1	SYSTEM	かしこまりました。では、アパホテル〈京都駅北〉はいかがでしょうか？	general,hotel,weather,taxi
+4643	2	USER	いいですね、そこにします。あと、6/5の山科区の最低気温を教えて下さい。	general,hotel,weather,taxi
+4643	3	SYSTEM	はい。最低気温は18.2度になります。	general,hotel,weather,taxi
+4643	4	USER	ありがとう。キャッシュレス払いの出来るタクシー会社も探してもらえますか？	general,hotel,weather,taxi
+4643	5	SYSTEM	はい。株式会社エコロ２１がおすすめです。	general,hotel,weather,taxi
+4643	6	USER	その会社の電話番号はわかりますか？	general,hotel,weather,taxi
+4643	7	SYSTEM	電話番号は0758032228です。	general,hotel,weather,taxi
+4643	8	USER	6/5の午前9:30に予約をお願いできますか？	general,hotel,weather,taxi
+4643	9	SYSTEM	はい、させていただきますよ。	general,hotel,weather,taxi
+4643	10	USER	じゃあ、アパホテル〈京都駅北〉からモンベル 京都店までお願いします。	general,hotel,weather,taxi
+4643	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、92532です。	general,hotel,weather,taxi
+4643	12	USER	ありがとうございました。	general,hotel,weather,taxi
+4643	13	SYSTEM	ありがとうございました。	general,hotel,weather,taxi

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3704	0	USER	こんにちは。仙台に行くのですが、駐車場が無料で使える、太白区の買い物スポットはないですか？	general,shopping,attraction
+3704	1	SYSTEM	お待たせ致しました。IKEA 仙台がございます。	general,shopping,attraction
+3704	2	USER	いいですね。そこの、定休日とジャンル、営業時間も教えていただけますか？	general,shopping,attraction
+3704	3	SYSTEM	定休日は無しでございます。また、ジャンルは食料品, 文房具・雑貨, ファッションでして、営業時間は10時から19時でございます。	general,shopping,attraction
+3704	4	USER	ありがとうございます。あと、Wi-Fiが無料で使える観光名所はありますか？	general,shopping,attraction
+3704	5	SYSTEM	かしこまりました。それでは仙台アンパンマンこどもミュージアム&モールはいかがでしょうか？	general,shopping,attraction
+3704	6	USER	ありがとうございます。そこに行ってみようかな。そこって駐車場はありますか？できればエリアも教えてください。	general,shopping,attraction
+3704	7	SYSTEM	駐車場は有料ですがご利用いただけます。エリアは宮城野区に該当します。	general,shopping,attraction
+3704	8	USER	ありがとうございます。	general,shopping,attraction
+3704	9	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,attraction

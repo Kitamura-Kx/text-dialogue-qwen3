@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3398	0	USER	仙台へ旅行に行くのですが、無料Wi-Fiがある観光名所を探してください。	general,attraction,hotel
+3398	1	SYSTEM	仙台の無料wi-fiが使えるスポットはユアテックスタジアム仙台を含む11件ございます。いかがでしょうか？	general,attraction,hotel
+3398	2	USER	アートギャラリーはありませんか？あと駐車場が無料のところがいいです。	general,attraction,hotel
+3398	3	SYSTEM	条件を追加いたしました。仙台市文学館のみ該当がございます。	general,attraction,hotel
+3398	4	USER	そこの大人入場料と、料金情報を教えて下さい。	general,attraction,hotel
+3398	5	SYSTEM	大人の入場料は460円、料金情報は、一般が460円、高校生は230円、小学生と中学生が110円となっております。	general,attraction,hotel
+3398	6	USER	ありがとうございます。当日泊まるところを探しています。泉区でどこかありませんか？	general,attraction,hotel
+3398	7	SYSTEM	承知しました。仙台の泉区の情報ですとスマイルホテル仙台泉インターほか2件ございます。いかがでしょうか？	general,attraction,hotel
+3398	8	USER	レストランが併設されている、旅館はないでしょうか？	general,attraction,hotel
+3398	9	SYSTEM	レストランを条件追加しますと、ホテルルートイン仙台泉インターのみ該当がございます。	general,attraction,hotel
+3398	10	USER	そこは旅館ですか？	general,attraction,hotel
+3398	11	SYSTEM	ビジネスホテルでございます。	general,attraction,hotel
+3398	12	USER	旅館で探してもらえないでしょうか？	general,attraction,hotel
+3398	13	SYSTEM	仙台の泉区、レストラン付きの旅館は該当がございませんでした。いかがいたしますか？	general,attraction,hotel
+3398	14	USER	では、青葉区で条件に合う旅館はありませんか？	general,attraction,hotel
+3398	15	SYSTEM	鷹泉閣 岩松旅館という旅館がございました。いかがでしょうか？	general,attraction,hotel
+3398	16	USER	そこにします。その旅館の料金情報を教えてください。	general,attraction,hotel
+3398	17	SYSTEM	申し訳ございません。料金情報の記載はなく、価格帯は普通となっております。	general,attraction,hotel
+3398	18	USER	そうなんですね。わかりました、ありがとうございます。	general,attraction,hotel
+3398	19	SYSTEM	他にご用命ございますか？	general,attraction,hotel
+3398	20	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,hotel
+3398	21	SYSTEM	ありがとうございました。	general,attraction,hotel

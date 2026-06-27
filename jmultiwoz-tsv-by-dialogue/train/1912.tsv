@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1912	0	USER	こんにちは。福岡へ旅行予定で、飲食店のbills 福岡 水上公園というところの営業時間を知りたいです。	general,restaurant,attraction,hotel
+1912	1	SYSTEM	かしこまりました。営業時間は08:00～22:00でございます。	general,restaurant,attraction,hotel
+1912	2	USER	ありがとうございます。観光名所も探しているのですが、神社・寺院・教会・モニュメントなどで、博多駅が最寄りのところはありますか？	general,restaurant,attraction,hotel
+1912	3	SYSTEM	はい、住吉神社がございます。	general,restaurant,attraction,hotel
+1912	4	USER	そこはどのエリアになりますか？住所と、あとWi-Fiがあるかどうかも教えていただけますか？	general,restaurant,attraction,hotel
+1912	5	SYSTEM	エリアは博多区で、住所は福岡県福岡市博多区住吉3丁目1-51、ここは無料のWi-Fiがございます。	general,restaurant,attraction,hotel
+1912	6	USER	ありがとうございます。それから、宿泊施設も探しているのですが、予算普通で駐車場無料の場所ってありますか？	general,restaurant,attraction,hotel
+1912	7	SYSTEM	かしこまりました。ではWITH THE STYLE FUKUOKAはいかがでしょうか。	general,restaurant,attraction,hotel
+1912	8	USER	ありがとうございます。そこはどのエリアでしょうか？チェックアウト終了時刻とWi-Fiがあるかどうかも知りたいです。	general,restaurant,attraction,hotel
+1912	9	SYSTEM	エリアは博多区、チェックアウト終了時刻は14:00、無料のWi-Fiがございます。	general,restaurant,attraction,hotel
+1912	10	USER	ありがとうございます。そこに泊まりたいので、予約もお願いします。12/23から4泊で、2名です。	general,restaurant,attraction,hotel
+1912	11	SYSTEM	申し訳ございません。その条件では予約ができませんでした	general,restaurant,attraction,hotel
+1912	12	USER	そうなんですね。それでしたら3泊だったら取れますか？	general,restaurant,attraction,hotel
+1912	13	SYSTEM	予約が完了いたしました。予約番号は53210でございます。	general,restaurant,attraction,hotel
+1912	14	USER	色々サポートありがとうございました。	general,restaurant,attraction,hotel
+1912	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,hotel

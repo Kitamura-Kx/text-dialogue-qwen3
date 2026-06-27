@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1639	0	USER	福岡への旅行を考えているので、観光地を案内して下さい。	general,attraction,hotel,weather
+1639	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,hotel,weather
+1639	2	USER	薬院大通（動植物園口）駅あたりで、無料Wi-Fiの利用もできるスポットが良いですね。	general,attraction,hotel,weather
+1639	3	SYSTEM	では福岡市動植物園はいかがでしょうか。	general,attraction,hotel,weather
+1639	4	USER	ありがとうございます。福岡市動植物園のジャンルは何にあたりますか？営業時間も知りたいです。	general,attraction,hotel,weather
+1639	5	SYSTEM	ジャンルは植物園, 自然・公園, 動物園でございます。営業時間は09:00～17:00となっております。	general,attraction,hotel,weather
+1639	6	USER	分かりました。それとリゾートホテルに泊まりたいと思っています。ホテルも、無料Wi-Fiつきが良いです。	general,attraction,hotel,weather
+1639	7	SYSTEM	ではGARDEN TERRACE FUKUOKA HOTEL&RESORTSはいかがでしょうか。	general,attraction,hotel,weather
+1639	8	USER	このホテルの値段帯はどのくらいでしょうか。駐車場があるかどうかも知りたいです。	general,attraction,hotel,weather
+1639	9	SYSTEM	値段帯は普通で、無料の駐車場がございます。	general,attraction,hotel,weather
+1639	10	USER	それではこちらで予約をお願いしたいです。9/16から4泊で、2人で予約は取れますか？	general,attraction,hotel,weather
+1639	11	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,attraction,hotel,weather
+1639	12	USER	残念です。3泊に減らしたら予約は取れそうでしょうか。	general,attraction,hotel,weather
+1639	13	SYSTEM	その日数ですと予約が可能でございました。予約番号は15432でございます。	general,attraction,hotel,weather
+1639	14	USER	良かったです。ところで9/16の西区の天気を教えてもらえますか。最高気温も何度くらいの予報でしょうか。	general,attraction,hotel,weather
+1639	15	SYSTEM	天気は曇のち雨、最高気温は29.2度となっております。	general,attraction,hotel,weather
+1639	16	USER	分かりました。	general,attraction,hotel,weather
+1639	17	SYSTEM	ほかにご用件はございますか。	general,attraction,hotel,weather
+1639	18	USER	これで全てです。ありがとうございました。	general,attraction,hotel,weather
+1639	19	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel,weather

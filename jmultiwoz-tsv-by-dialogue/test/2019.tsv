@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2019	0	USER	大阪の京セラドーム大阪に行こうと思っています。駐車場があるかどうか調べてもらえますか？	general,attraction,shopping
+2019	1	SYSTEM	承知しました。駐車場は有料ですがご利用いただけます。	general,attraction,shopping
+2019	2	USER	ありがとうございます。当日、大正区で買い物をしたいのですが、住吉大社駅近くでどこかありますか？	general,attraction,shopping
+2019	3	SYSTEM	申し訳ありません、その条件ではご紹介できません。いかが致しましょう？	general,attraction,shopping
+2019	4	USER	大正区でなければ、住吉大社駅近くでありますでしょうか？	general,attraction,shopping
+2019	5	SYSTEM	はい、エリアでいうと住之江区に、うしや精肉店がございます。ジャンルは食料品です。	general,attraction,shopping
+2019	6	USER	ありがとうございます。そちらのお店は、近くの駅からどのくらいかかりますか？	general,attraction,shopping
+2019	7	SYSTEM	最寄りの住吉大社駅から徒歩で2分となります。	general,attraction,shopping
+2019	8	USER	ありがとうございました。	general,attraction,shopping
+2019	9	SYSTEM	他にご用件はございますか？	general,attraction,shopping
+2019	10	USER	大丈夫です。ありがとうございました。	general,attraction,shopping
+2019	11	SYSTEM	ありがとうございました。	general,attraction,shopping

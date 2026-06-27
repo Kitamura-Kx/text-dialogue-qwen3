@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3939	0	USER	横浜への旅行を計画中で、買い物をしたいと考えています。	general,shopping,weather,taxi
+3939	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,shopping,weather,taxi
+3939	2	USER	自動車・自転車を購入したいです。最寄り駅が洋光台駅で、無料駐車場付きのお店がいいです。	general,shopping,weather,taxi
+3939	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,weather,taxi
+3939	4	USER	分かりました。では、最寄り駅はどこでも構いません。	general,shopping,weather,taxi
+3939	5	SYSTEM	ありがとうございます。そういたしますと、ヤマダ電機 テックランド上山店というお店が、1件ご案内可能です。いかがでしょうか？	general,shopping,weather,taxi
+3939	6	USER	そこにしようと思います。9/21の都筑区の天気と最高気温を教えてください。	general,shopping,weather,taxi
+3939	7	SYSTEM	はい、当日の天気は、晴れの予報です。最高気温は32.7度まで上がるようです。	general,shopping,weather,taxi
+3939	8	USER	ありがとうございます。当日利用できるキャッシュレス対応のジャンボタクシーを探しているのですが、ありますか？	general,shopping,weather,taxi
+3939	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,shopping,weather,taxi
+3939	10	USER	分かりました。では、キャッシュレス対応でなくても構いません。	general,shopping,weather,taxi
+3939	11	SYSTEM	ありがとうございます。では、北斗タクシー株式会社はいかがでしょうか？	general,shopping,weather,taxi
+3939	12	USER	そこにしようと思います。電話番号を教えてください。	general,shopping,weather,taxi
+3939	13	SYSTEM	電話番号は、0456238884でございます。	general,shopping,weather,taxi
+3939	14	USER	ありがとうございます。9/21の12:30にダイワロイネットホテル横浜関内からヤマダ電機 テックランド上山店まで予約して欲しいのですが、可能でしょうか。	general,shopping,weather,taxi
+3939	15	SYSTEM	大変申し訳ございません。ご希望の条件では予約できませんでした。お時間など、ご調整いただくことはできますでしょうか？	general,shopping,weather,taxi
+3939	16	USER	分かりました。では、13:30に変更してください	general,shopping,weather,taxi
+3939	17	SYSTEM	ありがとうございます。13:30の出発にて、ご予約完了いたしました。予約番号は、15746です。	general,shopping,weather,taxi
+3939	18	USER	助かります。ありがとうございます。	general,shopping,weather,taxi
+3939	19	SYSTEM	他にお手伝いすることはございませんか？	general,shopping,weather,taxi
+3939	20	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,weather,taxi
+3939	21	SYSTEM	こちらこそ、ありがとうございます。では、またのご利用をお待ちしております。	general,shopping,weather,taxi

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+569	0	USER	こんにちは！ちょっと東京へ旅行に行こうかと思っているんですが、タクシー会社を探してもらえますか？	general,taxi
+569	1	SYSTEM	承知しました。何かご希望はございますか？	general,taxi
+569	2	USER	えっと、キャッシュレス払いができるところをお願いしたいです。	general,taxi
+569	3	SYSTEM	では、東京エムケイはいかがでしょうか？ジャンボタクシーにも対応しております。電話番号は0355475551となります。	general,taxi
+569	4	USER	ありがとうございます！それでは、そのタクシー会社に予約をしたいのですが、お時間などお伝えしてもよろしいですか？	general,taxi
+569	5	SYSTEM	はい、お手数ですが、出発日時と出発地、目的地をお願い致します。	general,taxi
+569	6	USER	わかりました。出発日時が7月13日の13時40分で、創作料理 FANCL令和本膳から、目的地はDDSK サイゴン キッチンでお願いします。	general,taxi
+569	7	SYSTEM	申し訳ありません、その条件では予約ができませんでした。いかが致しましょう？	general,taxi
+569	8	USER	そうなんですね。それでは、時間を１４時１０分に変更してください。	general,taxi
+569	9	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、50168となります。	general,taxi
+569	10	USER	ありがとうございます！これでもう大丈夫です。この度は、ご対応いただき、ありがとうございました！	general,taxi
+569	11	SYSTEM	ありがとうございました。	general,taxi

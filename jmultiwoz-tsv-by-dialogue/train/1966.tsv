@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1966	0	USER	こんにちは！今度、仙台に行く予定なんですけど、泉区にあるアウトレットモールをご案内いただけますか？	general,shopping,restaurant,hotel
+1966	1	SYSTEM	申し訳ございません。そちらの条件ですと該当する店舗をお探しすることが出来ませんでした。	general,shopping,restaurant,hotel
+1966	2	USER	そうなんですね。じゃぁ、地区は泉区でなくても大丈夫です！	general,shopping,restaurant,hotel
+1966	3	SYSTEM	ありがとうございます。それでは三井アウトレットパーク 仙台港がございます。	general,shopping,restaurant,hotel
+1966	4	USER	ありがとうございます！そちらの電話番号はわかりますか？	general,shopping,restaurant,hotel
+1966	5	SYSTEM	はい！0223558800でございます。	general,shopping,restaurant,hotel
+1966	6	USER	ありがとうございます！あと、太白区にある、飲食店も探していまして、駐車場が無料で使える、安めの予算で食べられるところって、どこか良い所ありますか？	general,shopping,restaurant,hotel
+1966	7	SYSTEM	かしこまりました。それではポッケの森はいかがでしょうか？	general,shopping,restaurant,hotel
+1966	8	USER	ありがとうございます！そちらは、どんなジャンルのお店なんですか？	general,shopping,restaurant,hotel
+1966	9	SYSTEM	はい、ジャンルは洋食・西洋料理と和食、更にカフェ・スイーツとなっております。	general,shopping,restaurant,hotel
+1966	10	USER	色々楽しめそうですね！料金情報は、何かわかりますか？	general,shopping,restaurant,hotel
+1966	11	SYSTEM	はい！日替わりランチが780円、カラフル彩りカツカレーが840円となっております。	general,shopping,restaurant,hotel
+1966	12	USER	ありがとうございます！あと、近辺の駅からの所要時間についても、教えてください。	general,shopping,restaurant,hotel
+1966	13	SYSTEM	かしこまりました。近辺の駅からですと、八木山動物公園駅からタクシーで12分でございます。	general,shopping,restaurant,hotel
+1966	14	USER	なるほど、わかりました！では、そちらを予約させてください。７月23日の15時に、人数は４人でお願いします！	general,shopping,restaurant,hotel
+1966	15	SYSTEM	ありがとうございます。予約番号8490でご予約致しました。	general,shopping,restaurant,hotel
+1966	16	USER	手配、ありがとうございます！あと、宿泊施設も探しているんですが、お願いできますか？	general,shopping,restaurant,hotel
+1966	17	SYSTEM	かしこまりました。何か御条件はございますか？	general,shopping,restaurant,hotel
+1966	18	USER	えっと、青葉区にあるところで、タイプ的には旅館を希望します。あと、駐車場を無料で利用できるところでお願いしたいです。	general,shopping,restaurant,hotel
+1966	19	SYSTEM	かしこまりました。それでは旅館つかさはいかがでしょうか？	general,shopping,restaurant,hotel
+1966	20	USER	ありがとうございます！では、そちらの情報について少し詳しく教えてください。レストランと、WiFiがあるかどうかって、わかりますか？	general,shopping,restaurant,hotel
+1966	21	SYSTEM	かしこまりました。レストランは併設されていないようです。Wi-Fiは無料でご利用いただけます。	general,shopping,restaurant,hotel
+1966	22	USER	ありがとうございます！メモしました。	general,shopping,restaurant,hotel
+1966	23	SYSTEM	ありがとうございます。他に何かご用件はございますでしょうか？	general,shopping,restaurant,hotel
+1966	24	USER	いえ、もうあとは大丈夫です！色々とお調べいただき、ありがとうございました！	general,shopping,restaurant,hotel
+1966	25	SYSTEM	はい、ありがとうございました。またお待ちしております。	general,shopping,restaurant,hotel

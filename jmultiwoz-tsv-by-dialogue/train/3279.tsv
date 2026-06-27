@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3279	0	USER	仙台の若林区で、普通予算のレストランのある宿泊施設を探しています。	general,hotel,weather
+3279	1	SYSTEM	全ての条件を満たすのは、アパヴィラホテル<仙台駅五橋>、こちら一択です。	general,hotel,weather
+3279	2	USER	そちらの電話番号と最寄り駅を教えてもらえますか？	general,hotel,weather
+3279	3	SYSTEM	0570023111、最寄り駅は五橋駅です。	general,hotel,weather
+3279	4	USER	ありがとうございます。１１月１０日の宮城野区の最高気温も教えてほしいです。	general,hotel,weather
+3279	5	SYSTEM	11/10 仙台 宮城野区 の天気は曇時々晴、最低気温3.5度、最高気温11.8度です。	general,hotel,weather
+3279	6	USER	ありがとうございました。	general,hotel,weather
+3279	7	SYSTEM	よい旅を	general,hotel,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3549	0	USER	仙台の観光名所を探しています。	general,attraction
+3549	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction
+3549	2	USER	地区は泉区、Wi-Fiが無料で利用できるところ、駐車場を無料で利用できるところにしてください。	general,attraction
+3549	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction
+3549	4	USER	そうですか。では、駐車場は有料でも良いです。それだとどうですか？	general,attraction
+3549	5	SYSTEM	有料の駐車場であればnamcoアリオ仙台泉店がございます。	general,attraction
+3549	6	USER	子供入場料，料金情報，営業時間を教えてください。	general,attraction
+3549	7	SYSTEM	子供入場料は０円、料金情報は無料となっております。営業時間は10:00～20:00でございます。	general,attraction
+3549	8	USER	解決しました。ありがとうございました。	general,attraction
+3549	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

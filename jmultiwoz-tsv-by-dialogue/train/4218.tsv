@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4218	0	USER	札幌へ旅行に行くので、観光名所を探しています。展望台やタワーで、無料駐車場があるところはないですか？	general,attraction,shopping
+4218	1	SYSTEM	はい、7件ご案内可能です。たとえば、札幌もいわ山ロープウェイというところはいかがでしょうか？	general,attraction,shopping
+4218	2	USER	そこは、Wi-Fiが無料で使えますか？	general,attraction,shopping
+4218	3	SYSTEM	申し訳ありません、こちらはWiFiは不明となっております。	general,attraction,shopping
+4218	4	USER	Wi-Fiを無料で使いたいので、条件に合うところはないでしょうか？	general,attraction,shopping
+4218	5	SYSTEM	かしこまりました。そうしますと、さっぽろ羊ヶ丘展望台と、クラーク博士像の2件をご案内可能です。ご興味のある方はございませんか？	general,attraction,shopping
+4218	6	USER	さっぽろ羊ヶ丘展望台に行ってみたいですね。エリアはどこになりますか？	general,attraction,shopping
+4218	7	SYSTEM	豊平区エリアにございます。	general,attraction,shopping
+4218	8	USER	大人入場料と、営業時間を教えてください。	general,attraction,shopping
+4218	9	SYSTEM	大人入場料は、530円です。営業時間は、9:00～17:00となっております。	general,attraction,shopping
+4218	10	USER	ありがとうございます。買い物にも行きたいので、最寄り駅が福住駅のところを探してもらえますか？	general,attraction,shopping
+4218	11	SYSTEM	かしこまりました。そうしますと4件候補がございます。たとえば、農家の茶屋自然満喫倶楽部というところはいかがでしょうか？	general,attraction,shopping
+4218	12	USER	そこは駐車場がありますか？	general,attraction,shopping
+4218	13	SYSTEM	はい、無料駐車場がございます。	general,attraction,shopping
+4218	14	USER	定休日はいつですか？	general,attraction,shopping
+4218	15	SYSTEM	定休日は、夏季営業期間は無休, 冬季営業期間は月曜日から金曜日,また年末年始もお休みとなっております。	general,attraction,shopping
+4218	16	USER	わかりました。ありがとうございます。	general,attraction,shopping
+4218	17	SYSTEM	他にお調べすることはございませんか？	general,attraction,shopping
+4218	18	USER	いえ、大丈夫です。ありがとうございます。	general,attraction,shopping
+4218	19	SYSTEM	こちらこそ、ありがとうございます。では、またのご利用をお待ちしております。	general,attraction,shopping

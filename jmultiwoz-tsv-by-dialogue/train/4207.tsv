@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4207	0	USER	東京での観光名所を探しています。wifiが無料で使えるところでおすすめはありますか？	general,attraction
+4207	1	SYSTEM	では、江戸東京博物館はいかがですか？	general,attraction
+4207	2	USER	そちらの営業時間を教えてください。	general,attraction
+4207	3	SYSTEM	営業時間は、9時30分から19時30分までとなっています。	general,attraction
+4207	4	USER	大人の入場料っていくらになりますか？	general,attraction
+4207	5	SYSTEM	はい、大人入場料は600円となっています。	general,attraction
+4207	6	USER	わかりました。ありがとうございました。	general,attraction

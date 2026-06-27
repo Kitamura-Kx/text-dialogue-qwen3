@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+137	0	USER	仙台に旅行するんですけど、太白区で買い物できるところを教えてください。	general,shopping,restaurant,weather
+137	1	SYSTEM	はい、太白区には、ララガーデン長町、IKEA 仙台、アカチャンホンポ ララガーデン長町店の３軒がございます。	general,shopping,restaurant,weather
+137	2	USER	ララガーデン長町って、なんか楽しそうですね。近くの駅からどれぐらいですか？駐車場もありますか？	general,shopping,restaurant,weather
+137	3	SYSTEM	最寄りの長町駅から徒歩で9分となっております。駐車場は無料でご利用いただけます。	general,shopping,restaurant,weather
+137	4	USER	駅からもわりと近いんですね。食事できる場所も探してるんですけど、普通の予算で食べられるところって探せますか？	general,shopping,restaurant,weather
+137	5	SYSTEM	はい、ジャンルやエリアのご希望はございますか？	general,shopping,restaurant,weather
+137	6	USER	ジャンルはその他でお願いします。Wi-Fiが使えるところにしたいです。	general,shopping,restaurant,weather
+137	7	SYSTEM	ありがとうございます。それでは、旬菜食健ひな野 長町店がよろしいかと思います。住所は仙台市太白区大野田1丁目1-13、電話番号は、0223042771となります。エリアは太白区です。	general,shopping,restaurant,weather
+137	8	USER	うわあ、素敵な名前の店だな、気に入りました。5月13日の15時からで、3人予約できますか？	general,shopping,restaurant,weather
+137	9	SYSTEM	承知致しました。予約は完了致しまして、ご予約番号は、64372となります。	general,shopping,restaurant,weather
+137	10	USER	同じ日の青葉区の天候は分かりますか？	general,shopping,restaurant,weather
+137	11	SYSTEM	はい、天気は晴時々曇、最低気温は8.1度、最高気温は26度となっております。	general,shopping,restaurant,weather
+137	12	USER	うわあ5月でも朝はまだけっこう寒いんだ。ありがとうございました。いろいろお手数をおかけしました。	general,shopping,restaurant,weather

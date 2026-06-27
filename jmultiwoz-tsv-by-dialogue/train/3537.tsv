@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3537	0	USER	仙台に行くのですが、富沢駅の近くの観光名所を探しています。	general,attraction,restaurant,weather
+3537	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,restaurant,weather
+3537	2	USER	では富沢駅から近くなくてもいいです。	general,attraction,restaurant,weather
+3537	3	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,attraction,restaurant,weather
+3537	4	USER	特にないです。	general,attraction,restaurant,weather
+3537	5	SYSTEM	では日帰り温浴施設 やまびこの湯 ベガロポリス仙台南店はいかがでしょうか。	general,attraction,restaurant,weather
+3537	6	USER	駐車場はありますか？	general,attraction,restaurant,weather
+3537	7	SYSTEM	はい。無料の駐車場がございます。	general,attraction,restaurant,weather
+3537	8	USER	あと飲食店を探しています。駐車場が無料のところがいいです。	general,attraction,restaurant,weather
+3537	9	SYSTEM	申し訳ございません。駐車場が無料で案内できるところがございませんでした。いかがなさいますか。	general,attraction,restaurant,weather
+3537	10	USER	有料だとどうですか？	general,attraction,restaurant,weather
+3537	11	SYSTEM	では酒飯場 ででででんがございます。	general,attraction,restaurant,weather
+3537	12	USER	よさそうです。Wi-Fiはありますか？	general,attraction,restaurant,weather
+3537	13	SYSTEM	はい。無料のWi-Fiがございます。	general,attraction,restaurant,weather
+3537	14	USER	定休日はどうなっていますか？	general,attraction,restaurant,weather
+3537	15	SYSTEM	定休日はございません。	general,attraction,restaurant,weather
+3537	16	USER	ちなみに10/28、青葉区の最高気温はどうなっていますか？	general,attraction,restaurant,weather
+3537	17	SYSTEM	最高気温は21.3度でございます。	general,attraction,restaurant,weather
+3537	18	USER	そうですか。助かりました。	general,attraction,restaurant,weather
+3537	19	SYSTEM	ほかにご用件はございませんか。	general,attraction,restaurant,weather
+3537	20	USER	ないです。	general,attraction,restaurant,weather
+3537	21	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,weather

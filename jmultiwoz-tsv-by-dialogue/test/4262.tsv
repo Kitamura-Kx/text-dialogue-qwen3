@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4262	0	USER	名古屋への旅行を予定しているのですが、当日ジャンボタクシーを利用したいと思っています。キャッシュレス払いのできるタクシー会社はありますか。	general,taxi
+4262	1	SYSTEM	かしこまりました。では楠交通がございます。こちら電話番号は0522412233でございます。	general,taxi
+4262	2	USER	では、9月2日の12時40分に　でんきの科学館　から　とり焼肉 もう壱鳥　まで予約をお願いします。	general,taxi
+4262	3	SYSTEM	はい。予約が完了いたしました。予約番号は25711でございます。	general,taxi
+4262	4	USER	ありがとうございました。	general,taxi

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3981	0	USER	札幌への旅行に行きたいです。予算は安めの飲食店で駐車場が無料で利用できるところはありますか？	general,restaurant,weather
+3981	1	SYSTEM	はい、6件ございます。たとえば、三代目 月見軒 本店という、ラーメン・つけ麺のお店はいかがでしょうか？	general,restaurant,weather
+3981	2	USER	そのお店の近辺の駅からの所要時間が知りたいです。	general,restaurant,weather
+3981	3	SYSTEM	平和駅から徒歩で8分ほどの場所にございます。	general,restaurant,weather
+3981	4	USER	そのお店の最寄り駅はどこですか？	general,restaurant,weather
+3981	5	SYSTEM	平和駅が最寄りとなります。	general,restaurant,weather
+3981	6	USER	分かりました。	general,restaurant,weather
+3981	7	SYSTEM	他にお知りになりたい情報はございませんか？	general,restaurant,weather
+3981	8	USER	5月29日の中央区の最高気温が知りたいです。	general,restaurant,weather
+3981	9	SYSTEM	かしこまりました。当日の最高気温は、16.9度まで上がる見込みです。	general,restaurant,weather
+3981	10	USER	分かりました。ありがとうございました。	general,restaurant,weather
+3981	11	SYSTEM	他にお調べすることはございませんか？	general,restaurant,weather
+3981	12	USER	いえ、これで大丈夫です。	general,restaurant,weather
+3981	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,weather
+3981	14	USER		general,restaurant,weather

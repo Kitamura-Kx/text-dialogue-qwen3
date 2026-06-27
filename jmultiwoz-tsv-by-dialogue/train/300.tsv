@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+300	0	USER	お願いします。京都へ行きたいのですが、当日買い物ができるところを探しています。どこかおすすめはありませんか？	general,shopping
+300	1	SYSTEM	かしこまりました。山田松香木店などは、いかがでしょうか？他にも50件ほど、ご案内可能です。	general,shopping
+300	2	USER	ショッピングモールはありますか？	general,shopping
+300	3	SYSTEM	ショッピングモールですね。そういたしますと、京都ファミリーは如何でしょうか？	general,shopping
+300	4	USER	京都ファミリーですね。そちらの最寄り駅はどこになりますか？	general,shopping
+300	5	SYSTEM	最寄りは西院駅となっております。	general,shopping
+300	6	USER	ありがとうございました。	general,shopping
+300	7	SYSTEM	ほかにお手伝いできることはありますか？	general,shopping
+300	8	USER	いえ、特にありません。	general,shopping
+300	9	SYSTEM	では、本日はご利用ありがとうございました。	general,shopping

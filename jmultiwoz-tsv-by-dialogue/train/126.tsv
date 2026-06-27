@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+126	0	USER	すみません。福岡で泊まるところを探しています。	general,hotel,weather
+126	1	SYSTEM	承知致しました。エリアやタイプなど、ご希望はございますか？	general,hotel,weather
+126	2	USER	フリーWiFiがあると助かります。	general,hotel,weather
+126	3	SYSTEM	その条件ですと、100件ほどございます。他にご希望はございますか？	general,hotel,weather
+126	4	USER	とくに無いので、良さげなところをピックアップしてもらってもいいですか？	general,hotel,weather
+126	5	SYSTEM	承知致しました。それでは、THE LUIGANS Spa&Resort　はいかがでしょう？	general,hotel,weather
+126	6	USER	良さそうですね。そこはチェックインは何時から可能ですか？	general,hotel,weather
+126	7	SYSTEM	チェックイン開始時刻は15時、チェックアウト終了時刻は12時となっております。住所は福岡市東区西戸崎18-25、お電話番号は0926032525です。	general,hotel,weather
+126	8	USER	丁寧にありがとうございます。料金的には、高いホテルなんですか？	general,hotel,weather
+126	9	SYSTEM	タイプはリゾートホテルとなっておりますが、値段帯としては安めとなっております。	general,hotel,weather
+126	10	USER	ではそこで予約をお願いします。人数は4人、12月6日から4日間で。	general,hotel,weather
+126	11	SYSTEM	承知致しました。ご予約完了し、予約番号は37186　となります。	general,hotel,weather
+126	12	USER	ありがとうございます。あと天気も調べてもらえますかね？	general,hotel,weather
+126	13	SYSTEM	承知致しました。THE LUIGANS Spa&Resortのある、東区でよろしいでしょうか？	general,hotel,weather
+126	14	USER	いや、城南区でお願いします。	general,hotel,weather
+126	15	SYSTEM	申し訳ありません、日付は12月6日でよろしいでしょうか？	general,hotel,weather
+126	16	USER	はい、それで。天気と最低気温が知りたいです。	general,hotel,weather
+126	17	SYSTEM	承知致しました。天気は曇のち晴、最低気温は4.7度となっております。最高気温は11.6度です。	general,hotel,weather
+126	18	USER	ありがとうございます。それじゃ、以上で。	general,hotel,weather

@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4171	0	USER	横浜に旅行に行こうと思っているのですが、宿泊施設を探しています。駐車場が無料のところはありますか？	general,hotel,attraction,taxi
+4171	1	SYSTEM	ホテル パセラの森 横浜関内、こちらはいかがですか？	general,hotel,attraction,taxi
+4171	2	USER	ありがとうございます。料金はどのくらいですか？	general,hotel,attraction,taxi
+4171	3	SYSTEM	申し訳ありません、詳しい料金情報の記載はございません。	general,hotel,attraction,taxi
+4171	4	USER	エリアはどこになりますか？	general,hotel,attraction,taxi
+4171	5	SYSTEM	エリアは、中区です。	general,hotel,attraction,taxi
+4171	6	USER	なるほど。このままその日の観光スポットも調べていただけますか？	general,hotel,attraction,taxi
+4171	7	SYSTEM	では、よこはまコスモワールドはいかがですか？	general,hotel,attraction,taxi
+4171	8	USER	駐車場とWifiが無料で、最寄りが元町・中華街駅だと良いのですが。	general,hotel,attraction,taxi
+4171	9	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,hotel,attraction,taxi
+4171	10	USER	じゃあWifiはなくてもいいです。これだとどうですか？	general,hotel,attraction,taxi
+4171	11	SYSTEM	1件みつかりました。横浜ブリキのおもちゃ博物館はいかがですか？	general,hotel,attraction,taxi
+4171	12	USER	いいですね。ありがとうございます。当日はタクシーを使いたいのですが、キャッシュレス払いができる会社はありますか？	general,hotel,attraction,taxi
+4171	13	SYSTEM	では、株式会社グリーンキャブはいかがですか？	general,hotel,attraction,taxi
+4171	14	USER	ジャンボタクシーには対応していますでしょうか。	general,hotel,attraction,taxi
+4171	15	SYSTEM	はい、こちらはジャンボタクシーも対応しております。	general,hotel,attraction,taxi
+4171	16	USER	では、その会社の電話番号を教えてください。	general,hotel,attraction,taxi
+4171	17	SYSTEM	電話番号は、0456638181です。	general,hotel,attraction,taxi
+4171	18	USER	ありがとうございます。予約をお願いします。7月10日の12時からで、ホテル パセラの森 横浜関内から横浜ブリキのおもちゃ博物館まででお願いします。	general,hotel,attraction,taxi
+4171	19	SYSTEM	予約が完了しました。　予約番号は、99620です。	general,hotel,attraction,taxi
+4171	20	USER	ありがとうございました。	general,hotel,attraction,taxi
+4171	21	SYSTEM	他にご用件はありますか？	general,hotel,attraction,taxi
+4171	22	USER	大丈夫です。	general,hotel,attraction,taxi
+4171	23	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction,taxi

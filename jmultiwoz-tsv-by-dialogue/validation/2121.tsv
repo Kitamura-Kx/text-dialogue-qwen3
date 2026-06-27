@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2121	0	USER	こんにちは。札幌へ旅行しますので、飲食店を探しています。	general,restaurant,taxi
+2121	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,restaurant,taxi
+2121	2	USER	そうですね、和食でお安めのところがいいです。あとWi-Fiが無料だと尚いいです。	general,restaurant,taxi
+2121	3	SYSTEM	かしこまりました。では、蔵元直営 吉翔はいかがでしょうか？	general,restaurant,taxi
+2121	4	USER	ありがとうございます。そちらの営業時間をおしえてください。あと駐車場はありますか？	general,restaurant,taxi
+2121	5	SYSTEM	はい。駐車場の有無は不明です。営業時間は11:00～14:00, 17:00～23:00になります。	general,restaurant,taxi
+2121	6	USER	ありがとうございます。当日タクシーを使いたいので、ジャンボタクシーが使えて、キャッシュレス払いができるタクシー会社をお願いします。	general,restaurant,taxi
+2121	7	SYSTEM	かしこまりました。では、ダイコク交通(株)はいかがでしょうか？	general,restaurant,taxi
+2121	8	USER	そちらの電話番号もお願いできますか。	general,restaurant,taxi
+2121	9	SYSTEM	はい。電話番号は0117416000です。	general,restaurant,taxi
+2121	10	USER	そのタクシー会社で予約をお願いしたいです。6/3の11:30で蔵元直営 吉翔からジェラート札幌果林樹までです。	general,restaurant,taxi
+2121	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、72209です。	general,restaurant,taxi
+2121	12	USER	どうもありがとうございました。	general,restaurant,taxi
+2121	13	SYSTEM	他にご用件はありますか？	general,restaurant,taxi
+2121	14	USER	大丈夫です。色々とありがとうございました。	general,restaurant,taxi
+2121	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

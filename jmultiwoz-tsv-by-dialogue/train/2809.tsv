@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2809	0	USER	那覇で安くカレーが食べられるお店を探しています。駐車場が無料の所でお願いします。	general,restaurant
+2809	1	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,restaurant
+2809	2	USER	ではカレーじゃなくても大丈夫です。	general,restaurant
+2809	3	SYSTEM	ありがとうございます。そうしますと、しゃぶ葉 那覇小禄店というところはいかがでしょうか？ジャンルは、和食となります。	general,restaurant
+2809	4	USER	そこにします！Wi-Fiってありますか？	general,restaurant
+2809	5	SYSTEM	はい、無料でご利用いただけます。	general,restaurant
+2809	6	USER	ありがとうございます。営業時間は何時から何時でしょうか？	general,restaurant
+2809	7	SYSTEM	11:00～23:30となっております。	general,restaurant
+2809	8	USER	わかりました。9/19に14：30から2人で予約したいです。	general,restaurant
+2809	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、77656です。	general,restaurant
+2809	10	USER	わかりました。ありがとうございました。	general,restaurant
+2809	11	SYSTEM	ほかに何かお手伝いすることはございませんか？	general,restaurant
+2809	12	USER	大丈夫です。	general,restaurant
+2809	13	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant

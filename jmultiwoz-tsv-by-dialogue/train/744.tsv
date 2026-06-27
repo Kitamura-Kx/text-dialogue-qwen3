@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+744	0	USER	仙台の青葉区で、無料駐車場のある文房具や雑貨を買えるお店はありますか？	general,shopping,attraction,taxi
+744	1	SYSTEM	はい、1件ご案内可能です。アニメイト仙台というお店ですが、いかがでしょうか？	general,shopping,attraction,taxi
+744	2	USER	ありがとうございます。住所と定休日を教えてもらえますか？	general,shopping,attraction,taxi
+744	3	SYSTEM	住所は、宮城県仙台市青葉区中央４丁目１−１ イービーンズ 7階です。定休日はございません。	general,shopping,attraction,taxi
+744	4	USER	ありがとうございます。あと、泉区で、無料Wi-Fiが利用できる観光名所も探していますが、どこかありますか？	general,shopping,attraction,taxi
+744	5	SYSTEM	はい、2ヶ所ご案内可能です。ユアテックスタジアム仙台というところは、ご興味ございますか？	general,shopping,attraction,taxi
+744	6	USER	ありがとうございます。そこのジャンルは何になりますか？	general,shopping,attraction,taxi
+744	7	SYSTEM	ジャンルは、アリーナ・スタジアム, スポーツ・フィットネス、となっております。	general,shopping,attraction,taxi
+744	8	USER	駐車場はありますでしょうか？	general,shopping,attraction,taxi
+744	9	SYSTEM	申し訳ありません。こちらの施設には駐車場は併設しておりません。駐車場のある場所をお探ししましょうか？	general,shopping,attraction,taxi
+744	10	USER	大丈夫です。ありがとうございます。当日利用できるタクシー会社を探してもらえますか？	general,shopping,attraction,taxi
+744	11	SYSTEM	かしこまりました。ジャンボタクシーのご利用予定などはございませんか？	general,shopping,attraction,taxi
+744	12	USER	ジャンボタクシーの利用希望します。キャッシュレス払いもできるところがいいです。	general,shopping,attraction,taxi
+744	13	SYSTEM	かしこまりました。では、平和交通（株）はいかがでしょうか？	general,shopping,attraction,taxi
+744	14	USER	そこの電話番号を教えてもらえますか？	general,shopping,attraction,taxi
+744	15	SYSTEM	電話番号は、0570086000でございます。	general,shopping,attraction,taxi
+744	16	USER	そちらのタクシーの予約お願いします。８月２５日の１１時５０分に、アニメイト仙台からユアテックスタジアム仙台までお願いします。	general,shopping,attraction,taxi
+744	17	SYSTEM	かしこまりました。ご予約が完了いたしました。予約番号は、17233でございます。	general,shopping,attraction,taxi
+744	18	USER	ありがとうございます。	general,shopping,attraction,taxi
+744	19	SYSTEM	他にお調べすることはございませんか？	general,shopping,attraction,taxi
+744	20	USER	大丈夫です。ありがとうございました。	general,shopping,attraction,taxi
+744	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,attraction,taxi

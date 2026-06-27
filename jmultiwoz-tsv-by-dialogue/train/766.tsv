@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+766	0	USER	那覇へ行こうと思っています。駐車場が無料で予算が普通なイタリアンかフレンチのレストランを探していただきたいです。	general,restaurant,attraction
+766	1	SYSTEM	かしこまりました。そうしますと、ワイン食堂トランク イタリアゴハン 小禄店の1件ご案内可能です。いかがでしょうか？	general,restaurant,attraction
+766	2	USER	では、6月4日13時から4人で予約をお願いします。	general,restaurant,attraction
+766	3	SYSTEM	ご予約ありがとうございます。予約番号87759にて、ご予約承りました。	general,restaurant,attraction
+766	4	USER	わかりました。ありがとうございます。	general,restaurant,attraction
+766	5	SYSTEM	ほかにお調べすることはございませんか？	general,restaurant,attraction
+766	6	USER	駐車場が無料で歴史的な散策エリアな観光名所を探していただきたいです。	general,restaurant,attraction
+766	7	SYSTEM	かしこまりました。では、国営沖縄記念公園はいかがでしょうか？	general,restaurant,attraction
+766	8	USER	そちらの最寄り駅を教えていただけますでしょうか。	general,restaurant,attraction
+766	9	SYSTEM	はい。最寄りは、首里駅です。首里駅から徒歩15分ほどの距離にございます。	general,restaurant,attraction
+766	10	USER	わかりました。ありがとうございます。	general,restaurant,attraction
+766	11	SYSTEM	他にご用件はございませんか？	general,restaurant,attraction
+766	12	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant,attraction

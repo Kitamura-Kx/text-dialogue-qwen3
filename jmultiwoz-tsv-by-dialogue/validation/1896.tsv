@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1896	0	USER	大阪に旅行するので、タクシーを予約したいです。キャッシュレスとジャンボタクシーに対応している会社はありますか？	general,taxi
+1896	1	SYSTEM	申し訳ございません。キャッシュレスとジャンボタクシーの両方に対応している会社は見つかりませんでした。	general,taxi
+1896	2	USER	そうですか。では、ジャンボタクシーはなくても大丈夫です。	general,taxi
+1896	3	SYSTEM	かしこまりました。それではタックン大阪株式会社さんはいかがでしょうか？	general,taxi
+1896	4	USER	では、タクシーを１台予約してください。10/13 10:50に、出発地は新大阪ユースホステル。目的地はTEPPANとワインと蕎麦 つなぐ でお願いします。	general,taxi
+1896	5	SYSTEM	お待たせいたしました。予約番号6621で完了致しました。	general,taxi
+1896	6	USER	今はお願いしたいことは以上です。ありがとうございました。	general,taxi
+1896	7	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi

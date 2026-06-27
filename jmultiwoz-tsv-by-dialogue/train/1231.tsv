@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1231	0	USER	名古屋へ旅行をする予定なのですが、その時に買い物をしたいと思っています。	general,shopping
+1231	1	SYSTEM	ジャンルやエリアなど、何かご希望はございますか？	general,shopping
+1231	2	USER	上前津駅周辺で駐車場が無料で利用できるお店がいいなと考えています。	general,shopping
+1231	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping
+1231	4	USER	分かりました、それでは駐車場は無くても良いので、もう一度探してもらえますか？	general,shopping
+1231	5	SYSTEM	ありがとうございます。では、山中羊羹舗というところはいかがでしょうか？	general,shopping
+1231	6	USER	そのお店はどんなジャンルのお店でしょうか？定休日も教えてください。	general,shopping
+1231	7	SYSTEM	ジャンルは、お土産, 食料品となっております。定休日は木曜日です。	general,shopping
+1231	8	USER	分かりました、行ってみたいと思います。	general,shopping
+1231	9	SYSTEM	他にお調べすることはございますか？	general,shopping
+1231	10	USER	これで全てです。ありがとうございます。	general,shopping
+1231	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

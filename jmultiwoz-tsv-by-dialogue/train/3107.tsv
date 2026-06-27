@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3107	0	USER	横浜で駐車場が無料でうどん・そばのお店を探しています。予算は普通です。	general,restaurant,shopping,weather
+3107	1	SYSTEM	承知しました。エリアでいうと保土ケ谷区にある、松葉寿しはいかがでしょう？	general,restaurant,shopping,weather
+3107	2	USER	ありがとうございます。電話番号も教えてください。	general,restaurant,shopping,weather
+3107	3	SYSTEM	はい、電話番号は、0453812077となります。	general,restaurant,shopping,weather
+3107	4	USER	ありがとうございます。もう一つ聞きたいのですが駐車場が無料のショッピングモールってありますか？	general,restaurant,shopping,weather
+3107	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,shopping,weather
+3107	6	USER	駐車場がないところでも大丈夫です。	general,restaurant,shopping,weather
+3107	7	SYSTEM	ありがとうございます。では、エリアでいうと中区にある、横浜ワールドポーターズはいかがでしょう？	general,restaurant,shopping,weather
+3107	8	USER	最寄り駅はどこになりますか？	general,restaurant,shopping,weather
+3107	9	SYSTEM	はい、最寄りのみなとみらい駅から徒歩で5分となります。	general,restaurant,shopping,weather
+3107	10	USER	わかりました。最後に4/12の港南区の天気を教えてください。	general,restaurant,shopping,weather
+3107	11	SYSTEM	はい、天気は雨のち曇、最低気温10.2度、最高気温15.7度となります。他にお忘れのご用件はございませんか？	general,restaurant,shopping,weather
+3107	12	USER	ありがとうございました。	general,restaurant,shopping,weather
+3107	13	SYSTEM	ありがとうございました。	general,restaurant,shopping,weather

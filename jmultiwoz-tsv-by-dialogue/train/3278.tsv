@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3278	0	USER	名古屋で工場見学できる観光名所を探してください。	general,attraction,weather,taxi
+3278	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,weather,taxi
+3278	2	USER	ではジャンルは関係なく、中村区で駐車場が無料で使える観光名所を教えてください。	general,attraction,weather,taxi
+3278	3	SYSTEM	ミッドランドスクエア 屋外展望台 スカイプロムナードは、どうですか？	general,attraction,weather,taxi
+3278	4	USER	いいですね、定休日と住所を教えてください。	general,attraction,weather,taxi
+3278	5	SYSTEM	定休日は、無しです。　住所は、愛知県名古屋市中村区名駅4丁目7-1ミッドランドスクエア44-46階になります。	general,attraction,weather,taxi
+3278	6	USER	ありがとうございます。	general,attraction,weather,taxi
+3278	7	SYSTEM	他にご用件はありますか？	general,attraction,weather,taxi
+3278	8	USER	では、中川区の3月29日の天気と最低気温を教えてください。	general,attraction,weather,taxi
+3278	9	SYSTEM	天気は雨時々曇で、最低気温は、8.6度です。	general,attraction,weather,taxi
+3278	10	USER	わかりました。	general,attraction,weather,taxi
+3278	11	SYSTEM	他にご用件はありますか？	general,attraction,weather,taxi
+3278	12	USER	キャッシュレス払いができるタクシー会社はないでしょうか？	general,attraction,weather,taxi
+3278	13	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,weather,taxi
+3278	14	USER	では、キャッシュレスに対応していなくても構いません。	general,attraction,weather,taxi
+3278	15	SYSTEM	では、鯱第一交通はいかがですか？	general,attraction,weather,taxi
+3278	16	USER	この会社はジャンボタクシー対応ですか？	general,attraction,weather,taxi
+3278	17	SYSTEM	はい、ジャンボタクシーも対応しております。	general,attraction,weather,taxi
+3278	18	USER	わかりました、電話番号を教えてください。	general,attraction,weather,taxi
+3278	19	SYSTEM	電話番号は、0529123456です。	general,attraction,weather,taxi
+3278	20	USER	3月29日13：30に予約してください。	general,attraction,weather,taxi
+3278	21	SYSTEM	出発地と目的地をお願いします。	general,attraction,weather,taxi
+3278	22	USER	出発地はMATRICX INTERNATIONAL HOTEL(マトリックス・インターナショナル・ホテル)で、目的地はミッドランドスクエア 屋外展望台 スカイプロムナードです。	general,attraction,weather,taxi
+3278	23	SYSTEM	予約出来ました。予約番号は、84351です。	general,attraction,weather,taxi
+3278	24	USER	ありがとうございます。	general,attraction,weather,taxi
+3278	25	SYSTEM	他にご用件はありますか？	general,attraction,weather,taxi
+3278	26	USER	いえ、ありがとうございました。	general,attraction,weather,taxi
+3278	27	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather,taxi

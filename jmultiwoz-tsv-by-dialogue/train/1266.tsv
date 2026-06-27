@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1266	0	USER	札幌で宿泊施設を探してください！レストランが併設されていて、無料のWifiと駐車場を提供する場所がいいのですが。	general,hotel,attraction
+1266	1	SYSTEM	かしこまりました。そうしますと、6件ほどご案内可能です。例えば、ホテルルートイン札幌白石というお安めのビジネスホテルはいかがでしょうか？	general,hotel,attraction
+1266	2	USER	いいですね。住所と、最寄り駅からの所要時間も教えて頂けませんか？	general,hotel,attraction
+1266	3	SYSTEM	住所は北海道札幌市白石区北郷4条2丁目1-5です。最寄りの白石駅からは、徒歩で20分ほどかかります。	general,hotel,attraction
+1266	4	USER	分かりました。あわせて観光名所の情報も知りたいんですが。東区で、無料Wifiがあるスポットはどこですか？	general,hotel,attraction
+1266	5	SYSTEM	ラウンドワンスタジアム札幌北21条店の1件がご案内可能です。	general,hotel,attraction
+1266	6	USER	そちらに駐車場はありますか？また、営業時間と最寄り駅からの所要時間も知りたいです。	general,hotel,attraction
+1266	7	SYSTEM	はい、無料のものがございます。営業時間は0:00～0:00ですので、24時間ですね。最寄りの北24条駅からは徒歩で15分ほどかかります。	general,hotel,attraction
+1266	8	USER	分かりました。ありがとうございます！	general,hotel,attraction

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+922	0	USER	東京への旅行を計画しているのですが。	general,taxi
+922	1	SYSTEM	はい、何かご要望ございますか	general,taxi
+922	2	USER	当日利用できるタクシー会社を探してください。キャッシュレス払いとジャンボタクシーを利用できるところがいいです。	general,taxi
+922	3	SYSTEM	でしたら大国自動車交通はいかがでしょうか。	general,taxi
+922	4	USER	いいですね。電話番号を教えていただけますか？	general,taxi
+922	5	SYSTEM	電話番号は0357552151になります。	general,taxi
+922	6	USER	そちらで予約して欲しいです。日付は4/1で時間は10:40。出発地は森美術館で目的地は今戸神社というところでおねがいします。	general,taxi
+922	7	SYSTEM	予約しました。予約番号は69061になります。	general,taxi
+922	8	USER	ありがとうございました。	general,taxi

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4532	0	USER	福岡へ旅行に行く予定なのですが福岡アンパンマンこどもミュージアムinモールに行きたいです。子供と大人の入場料と営業時間を教えて下さい。	general,attraction,taxi
+4532	1	SYSTEM	福岡アンパンマンこどもミュージアムinモールですね。営業時間は朝１０時から夕方５時まで、１歳以上は１８００円、一歳未満は無料です。なお、小学生以下のお子様には記念品がつくようです。	general,attraction,taxi
+4532	2	USER	大人も１８００円ですか？	general,attraction,taxi
+4532	3	SYSTEM	はい、大人も１８００円です。	general,attraction,taxi
+4532	4	USER	すごい！あとジャンボタクシーでキャッシュレス対応の会社はありますか？	general,attraction,taxi
+4532	5	SYSTEM	福岡にはキャッシュレスとジャンボタクシー両方対応しているところはなさそうです。	general,attraction,taxi
+4532	6	USER	それでは普通のタクシーではどうですか？	general,attraction,taxi
+4532	7	SYSTEM	五十川タクシー（有）ならキャッシュレスには対応していますので、こちらをお勧めします。	general,attraction,taxi
+4532	8	USER	そこを予約して頂けますか？12/26の14:40です．出発地は福岡アンパンマンこどもミュージアムinモールからTHE ROYAL PARK FUKUOKAまでです。あと電話番号も教えて下さい。	general,attraction,taxi
+4532	9	SYSTEM	予約成功しました。予約番号は81534になります。	general,attraction,taxi
+4532	10	USER	念のため電話番号も教えて下さい。	general,attraction,taxi
+4532	11	SYSTEM	はい、0925012525になります。	general,attraction,taxi
+4532	12	USER	大変助かりました！ありがとうございました。	general,attraction,taxi
+4532	13	SYSTEM	よい旅を	general,attraction,taxi

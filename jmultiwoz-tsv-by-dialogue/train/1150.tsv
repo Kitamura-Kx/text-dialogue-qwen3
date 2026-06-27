@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1150	0	USER	福岡へ旅行を計画しており、当日泊まれる宿泊施設を探してください。	general,hotel
+1150	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel
+1150	2	USER	宿タイプが旅館でどこかいい所ありますか？	general,hotel
+1150	3	SYSTEM	では住吉館はいかがでしょうか。	general,hotel
+1150	4	USER	そこの住所を教えてほしいです。	general,hotel
+1150	5	SYSTEM	住所は福岡県福岡市博多区住吉2丁目5-19でございます。	general,hotel
+1150	6	USER	ありがとうございます。	general,hotel
+1150	7	SYSTEM	ほかにご用件はございますか。	general,hotel
+1150	8	USER	いいえ、大丈夫です。	general,hotel
+1150	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

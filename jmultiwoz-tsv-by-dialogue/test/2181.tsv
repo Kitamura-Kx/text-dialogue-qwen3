@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2181	0	USER	札幌への旅行を計画しているのですが、当日南区で買い物ができる場所はありますか。駐車場が無料のところがよいです。	general,shopping
+2181	1	SYSTEM	その条件でしたらジェラート札幌果林樹がご案内可能です。	general,shopping
+2181	2	USER	そちらの、最寄り駅と営業時間、定休日を教えてください。	general,shopping
+2181	3	SYSTEM	かしこまりました。最寄りの駅が真駒内駅、営業時間が9時から19時、定休日は月曜日でございます。	general,shopping
+2181	4	USER	ありがとうございます。ぜひ行ってみようと思います。	general,shopping

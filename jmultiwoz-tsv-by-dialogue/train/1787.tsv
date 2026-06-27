@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1787	0	USER	こんにちは。札幌へ旅行予定なので、宿泊施設を探しています。予算は普通で、Wi-Fiが無料だと助かります。あと、レストランがあれば尚いいです。	general,hotel,attraction
+1787	1	SYSTEM	エリアでいうと南区にある、定山渓第一寶亭留 翠山亭はいかがでしょう？タイプはその他になります。	general,hotel,attraction
+1787	2	USER	ありがとうございます。料金情報と、住所、電話番号もお願いできますか？	general,hotel,attraction
+1787	3	SYSTEM	住所は北海道札幌市南区定山渓温泉西３丁目１０５、電話番号は0115982141となります。申し訳ありませんが、ご案内可能な料金情報はございません。	general,hotel,attraction
+1787	4	USER	そうなんですね、大丈夫です。では5/27から4泊、4名で予約もお願いしたいです。	general,hotel,attraction
+1787	5	SYSTEM	予約が完了し、ご予約番号は、25773となります。	general,hotel,attraction
+1787	6	USER	ありがとうございます。それから、観光名所も探しています。動物園で、駐車場無料のところはありますか？	general,hotel,attraction
+1787	7	SYSTEM	申し訳ありません。この条件ではご紹介できません。いかが致しましょう？	general,hotel,attraction
+1787	8	USER	そうですか、では駐車場はなくてもいいです。	general,hotel,attraction
+1787	9	SYSTEM	エリアでいうと中央区にある、札幌市円山動物園はいかがでしょう？	general,hotel,attraction
+1787	10	USER	よいですね。行ってみたいので、住所を教えてもらえますか？	general,hotel,attraction
+1787	11	SYSTEM	住所は北海道札幌市中央区宮ケ丘3番地1となります。	general,hotel,attraction
+1787	12	USER	ありがとうございました。助かりました。	general,hotel,attraction
+1787	13	SYSTEM	ありがとうございました。	general,hotel,attraction

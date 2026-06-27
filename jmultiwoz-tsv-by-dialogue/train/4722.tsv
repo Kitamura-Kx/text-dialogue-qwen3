@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4722	0	USER	名古屋へ旅行予定なので、宿泊施設を探してもらえますか？駐車場が無料だといいのですが。	general,hotel
+4722	1	SYSTEM	申し訳ございません。ございません。	general,hotel
+4722	2	USER	残念です。なら、駐車場はなくても大丈夫です。	general,hotel
+4722	3	SYSTEM	炭の湯ホテル ジャストインプレミアム名古屋駅 カプセルキャビン プチナゴヤなどはいかがですか	general,hotel
+4722	4	USER	炭の湯ホテルにします。住所を教えてください。	general,hotel
+4722	5	SYSTEM	愛知県名古屋市中村区亀島2丁目11-8です。	general,hotel
+4722	6	USER	わかりました。ありがとうございます。	general,hotel
+4722	7	SYSTEM	ありがとうございました。	general,hotel

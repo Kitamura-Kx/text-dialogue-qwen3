@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4164	0	USER	福岡に旅行に行こうと思っています。当日泊まる宿泊施設を探しています。宿のタイプはリゾートホテルで駐車場は無料が希望です。	general,hotel,taxi,weather
+4164	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,taxi,weather
+4164	2	USER	でしたら、駐車場はなくても良いです。	general,hotel,taxi,weather
+4164	3	SYSTEM	ありがとうございます。では、中央区エリアにある、ソラリア西鉄ホテル福岡というところは、いかがでしょうか？	general,hotel,taxi,weather
+4164	4	USER	そこのチェックアウト終了時刻と最寄り駅を教えてください。	general,hotel,taxi,weather
+4164	5	SYSTEM	かしこまりました。チェックアウトは11時までとなっております。最寄りは天神駅で、徒歩5分でアクセスできます。	general,hotel,taxi,weather
+4164	6	USER	そこに予約をしたいので人数は４人で日付は1/16宿泊日数は2泊でお願いします。	general,hotel,taxi,weather
+4164	7	SYSTEM	ご予約ですが、ご希望の条件ですと、おとりできませんでした。	general,hotel,taxi,weather
+4164	8	USER	でしたら、宿泊日数を１泊にします。	general,hotel,taxi,weather
+4164	9	SYSTEM	ありがとうございます。1泊にて、ご予約完了いたしました。予約番号は、52847です。	general,hotel,taxi,weather
+4164	10	USER	あと当日利用できるタクシー会社を探しています。キャッシュレス払いができるところでジャンボタクシーが利用できるところが希望です。	general,hotel,taxi,weather
+4164	11	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel,taxi,weather
+4164	12	USER	でしたら、キャッシュレス払いはできなくても良いです。	general,hotel,taxi,weather
+4164	13	SYSTEM	ありがとうございます。では、西日本自動車（株）はいかがでしょうか？	general,hotel,taxi,weather
+4164	14	USER	そこの電話番号を教えてください。	general,hotel,taxi,weather
+4164	15	SYSTEM	はい。電話番号は、0570075678です。	general,hotel,taxi,weather
+4164	16	USER	あと当日1/16にそこに予約したいので時間は10:50出発地はソラリア西鉄ホテル福岡で目的地はJR西日本グループ ヴィアイン博多口駅前でお願いします。	general,hotel,taxi,weather
+4164	17	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、36851です。	general,hotel,taxi,weather
+4164	18	USER	あと当日1/16城南区の天気を教えてください。	general,hotel,taxi,weather
+4164	19	SYSTEM	かしこまりました。当日の天気は、雨時々晴の予報です。なお、最低気温は3.4度、最高気温は13.7度の予想となっております。	general,hotel,taxi,weather
+4164	20	USER	分かりました。ありがとうございます。	general,hotel,taxi,weather
+4164	21	SYSTEM	他になにかお調べすることなど、ございませんか？	general,hotel,taxi,weather
+4164	22	USER	はい、大丈夫です。	general,hotel,taxi,weather
+4164	23	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,hotel,taxi,weather

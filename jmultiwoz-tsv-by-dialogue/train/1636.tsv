@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1636	0	USER	大阪へ行く予定をしているので、観光スポットを案内お願いします。	general,attraction
+1636	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction
+1636	2	USER	東住吉区のあたりで探してください。無料Wi-Fiもある所が良いですね。	general,attraction
+1636	3	SYSTEM	では長居植物園がございます。	general,attraction
+1636	4	USER	そこにします。長居植物園の最寄り駅はどちらになりますか？電話番号と、駐車場があるかも教えてください。	general,attraction
+1636	5	SYSTEM	最寄り駅は長居駅で、電話番号は0666967117でございます。駐車場は有料ですがございます。	general,attraction
+1636	6	USER	ありがとうございます。	general,attraction
+1636	7	SYSTEM	ほかにご用件はございますか。	general,attraction
+1636	8	USER	これで全てです。	general,attraction
+1636	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

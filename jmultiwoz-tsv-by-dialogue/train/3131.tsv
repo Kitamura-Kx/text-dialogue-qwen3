@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3131	0	USER	名古屋へ行こうと思ってますが、飲食店を探しています。中区がいいのですが。	general,restaurant
+3131	1	SYSTEM	かしこまりました。４６件ほど候補がございますが、ほかにご希望の条件はございませんか？	general,restaurant
+3131	2	USER	無料でWi-Fiが使える所がいいです。	general,restaurant
+3131	3	SYSTEM	そういたしますと、ゆめや 金山店はいかがでしょうか？ジャンルとしては、焼肉・ホルモン, 居酒屋, 鍋のお店となります。	general,restaurant
+3131	4	USER	ありがとうございます。では、住所と、近くの駅からの所要時間を教えて下さい。	general,restaurant
+3131	5	SYSTEM	はい。住所は、愛知県名古屋市中区正木4丁目1-24です。最寄りの金山駅から徒歩で4分の距離にございます。	general,restaurant
+3131	6	USER	わかりました。行ってみます。ありがとうございました。	general,restaurant
+3131	7	SYSTEM	他になにかお調べすることはございませんか？	general,restaurant
+3131	8	USER	いえ、大丈夫です。	general,restaurant
+3131	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+785	0	USER	東京へ行こうと思っています。世田谷区で工場見学ができる観光名所を探していただきたいです。	general,attraction,restaurant
+785	1	SYSTEM	申し訳ございません。世田谷には工場見学できる観光名所で、ご案内できるところが見つかりませんでした。	general,attraction,restaurant
+785	2	USER	ではジャンルは考慮せず探していただけますか？	general,attraction,restaurant
+785	3	SYSTEM	かしこまりました。そうしますと2件ご案内可能です。たとえば、豪徳寺がございますが、いかがでしょうか？	general,attraction,restaurant
+785	4	USER	そちらの料金について教えていただけますでしょうか。	general,attraction,restaurant
+785	5	SYSTEM	料金は、大人とお子様とも入場料は0円で、無料となっております。	general,attraction,restaurant
+785	6	USER	わかりました。ありがとうございます。	general,attraction,restaurant
+785	7	SYSTEM	他にお調べすることはございますか？	general,attraction,restaurant
+785	8	USER	駐車場が無料で利用できる予算が高めで洋食または西洋料理が食べられる飲食店を探していただきたいです。	general,attraction,restaurant
+785	9	SYSTEM	かしこまりました。そうしますと、3件ほど候補がございます。たとえば、ユニオン スクエア トウキョウという、港区エリアにあるお店はいかがでしょうか？	general,attraction,restaurant
+785	10	USER	そちらの近辺の駅からの所要時間、WiFiの有無について教えていただけますでしょうか。	general,attraction,restaurant
+785	11	SYSTEM	はい。最寄りの六本木駅から徒歩3分でアクセス可能です。WiFiの有無につきましては、不明となっております。申し訳ございません。	general,attraction,restaurant
+785	12	USER	わかりました。ありがとうございます。	general,attraction,restaurant
+785	13	SYSTEM	他になにかお知りになりたい情報はございますか？	general,attraction,restaurant
+785	14	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,restaurant

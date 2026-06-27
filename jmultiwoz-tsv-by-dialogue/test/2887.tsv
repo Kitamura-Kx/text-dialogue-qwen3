@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2887	0	USER	札幌へ旅行に行くんですが、タクシー会社を探していただけますか？	general,taxi
+2887	1	SYSTEM	はい、何か希望条件はありますか	general,taxi
+2887	2	USER	ジャンボタクシーを利用したいのと、キャッシュレス払いができるところでお願いします！	general,taxi
+2887	3	SYSTEM	それでは、北都交通(株)をおすすめします。	general,taxi
+2887	4	USER	電話番号は分かりますか？	general,taxi
+2887	5	SYSTEM	0112904181です。	general,taxi
+2887	6	USER	では予約お願いします！大丸札幌店から、J.S. PANCAKE CAFE 札幌ステラプレイス店まで乗りたいです。	general,taxi
+2887	7	SYSTEM	はい、日付と時刻をお願いします。	general,taxi
+2887	8	USER	9/30の10:50でお願いします！	general,taxi
+2887	9	SYSTEM	予約に成功しました。予約番号は30078です。	general,taxi
+2887	10	USER	助かります。ありがとうございました。	general,taxi
+2887	11	SYSTEM	よい旅を	general,taxi

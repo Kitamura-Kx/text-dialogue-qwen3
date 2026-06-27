@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4014	0	USER	京都へ旅行するのですが、医薬品・化粧品が買えて、無料駐車場があるような店はありませんか？	general,shopping,taxi
+4014	1	SYSTEM	京都で駐車場無料の医薬品といえば、ココカラファイン アバンティ店、こちらになります。	general,shopping,taxi
+4014	2	USER	なるほど。ちなみに住所と最寄り駅はわかりますか？	general,shopping,taxi
+4014	3	SYSTEM	住所は京都府京都市南区東九条西山王町31番地、最寄りは京都駅になります。	general,shopping,taxi
+4014	4	USER	わかりました。タクシーの利用も考えていて、ジャンボタクシーが使えて、キャッシュレス払いができるようなところはありませんか？	general,shopping,taxi
+4014	5	SYSTEM	京都にはジャンボタクシーとキャッシュレス両方対応の会社はなさそうです。	general,shopping,taxi
+4014	6	USER	そうですか。では、キャッシュレス払いできなくてもいいです。	general,shopping,taxi
+4014	7	SYSTEM	それでは、京都第一交通株式会社をお勧めします。	general,shopping,taxi
+4014	8	USER	ではそちらで、2/8の09:40にRESI STAY 麩屋町を出発して、ココカラファイン アバンティ店までの予約をお願いします。	general,shopping,taxi
+4014	9	SYSTEM	予約に成功しました。予約番号は84358です。	general,shopping,taxi
+4014	10	USER	ありがとうございます。あと、聞き忘れていたのですが、京都第一交通株式会社の電話番号ってわかりますか？	general,shopping,taxi
+4014	11	SYSTEM	0120382333です。	general,shopping,taxi
+4014	12	USER	ありがとうございました。	general,shopping,taxi
+4014	13	SYSTEM	よい旅を。	general,shopping,taxi

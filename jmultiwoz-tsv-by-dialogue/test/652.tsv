@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+652	0	USER	福岡に旅行する際に利用できるタクシー会社はありますか？	general,taxi
+652	1	SYSTEM	はい、6件ご案内可能です。なにかご希望の条件などは、ございますか？	general,taxi
+652	2	USER	キャッシュレス払いできるとうれしいです。	general,taxi
+652	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できる会社が見つかりませんでした。	general,taxi
+652	4	USER	でしたら、特に希望はありません。	general,taxi
+652	5	SYSTEM	ありがとうございます。では、西日本自動車（株）はいかがでしょうか？こちらでしたら、ジャンボタクシーに対応しておりますよ。	general,taxi
+652	6	USER	そちらにしたいと思います。電話番号も教えていただけますか？	general,taxi
+652	7	SYSTEM	電話番号は、0570075678でございます。	general,taxi
+652	8	USER	ありがとうございます。予約もお願いできますか？日付は1/14の14:00で、出発地は日の出食堂、目的地は松阪牛専門焼肉 慶でお願いします。	general,taxi
+652	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、38452です。	general,taxi
+652	10	USER	ありがとうございました。	general,taxi

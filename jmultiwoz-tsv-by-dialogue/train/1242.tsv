@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1242	0	USER	福岡で買い物が出来る場所を探しているのですが、お伺いしてもよろしいでしょうか？	general,shopping,taxi
+1242	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,shopping,taxi
+1242	2	USER	はい。中央区で、駐車場を無料で利用できる所だとありがたいのですが。	general,shopping,taxi
+1242	3	SYSTEM	かしこまりました。では、MARK IS 福岡ももち、というショッピングモールはいかがでしょうか？	general,shopping,taxi
+1242	4	USER	そちらで検討したいです。このお店の最寄り駅ってわかりますか？	general,shopping,taxi
+1242	5	SYSTEM	はい、唐人町駅が最寄りとなります。駅から徒歩10分の距離にございます。	general,shopping,taxi
+1242	6	USER	ありがとうございます。それと、当日利用出来るタクシー会社も探しているのですが、よろしいでしょうか？	general,shopping,taxi
+1242	7	SYSTEM	かしこまりました。キャッシュレスのお支払いやジャンボタクシーのご利用予定などございませんか？	general,shopping,taxi
+1242	8	USER	そうですね。キャッシュレス払いは必須です。ジャンボタクシーは無くても大丈夫ですが、有無は聞きたいですね。	general,shopping,taxi
+1242	9	SYSTEM	では、（有）福運タクシーはいかがでしょうか？こちらは、ジャンボタクシーにも対応してございますよ。	general,shopping,taxi
+1242	10	USER	ありがとうございます。そちらで検討してみたいです。そちらの電話番号もお伺い出来ますか？	general,shopping,taxi
+1242	11	SYSTEM	はい。電話番号は、0928710539です。	general,shopping,taxi
+1242	12	USER	ありがとうございます。このまま予約をお願いしても大丈夫ですか？	general,shopping,taxi
+1242	13	SYSTEM	はい、承ります。ご利用予定の日付と出発時刻、出発地、目的地をお願いできますでしょうか？	general,shopping,taxi
+1242	14	USER	はい。日付は6月13日の13時。天神LOFTからMARK IS 福岡ももちまでお願いしたいのですが。	general,shopping,taxi
+1242	15	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、72880です。	general,shopping,taxi
+1242	16	USER	ありがとうございます。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,shopping,taxi
+1242	17	SYSTEM	こちらこそ、ご利用ありがとうございました。またのご利用をお待ちしております。	general,shopping,taxi

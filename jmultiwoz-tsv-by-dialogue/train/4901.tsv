@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4901	0	USER	札幌への旅行を計画しており、Wi-Fiが無料で利用できるアリーナ・スタジアムを探してほしいです。	general,attraction,taxi
+4901	1	SYSTEM	かしこまりました。その条件でしたら札幌ドーム該当致します。	general,attraction,taxi
+4901	2	USER	エリアはどこになりますか？	general,attraction,taxi
+4901	3	SYSTEM	エリアは豊平区でございます。	general,attraction,taxi
+4901	4	USER	営業時間も教えてください。	general,attraction,taxi
+4901	5	SYSTEM	営業時間は施設により異なるとのことです。	general,attraction,taxi
+4901	6	USER	わかりました。あとキャッシュレス払い対応のタクシー会社も探してもらえますか？	general,attraction,taxi
+4901	7	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction,taxi
+4901	8	USER	ではキャッシュレス払いは使えなくてもいいので、どこかいいタクシー会社を教えてください。	general,attraction,taxi
+4901	9	SYSTEM	かしこまりました。それではつばめ自動車(株)はいかがでしょうか？	general,attraction,taxi
+4901	10	USER	そこでお願いしようと思います。7/23の10:40にISHIYA 札幌大通本店から札幌ドームまで予約をお願いします。	general,attraction,taxi
+4901	11	SYSTEM	お待たせ致しました。予約番号44012でお取りさせていただきました。	general,attraction,taxi
+4901	12	USER	ありがとうございます。	general,attraction,taxi
+4901	13	SYSTEM	その他にご用件はございますか？	general,attraction,taxi
+4901	14	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,taxi

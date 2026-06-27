@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4355	0	USER	福岡への旅行を計画しています。当日はコートホテル福岡天神に宿泊する予定です。	general,hotel,taxi,weather
+4355	1	SYSTEM	はい、良いホテルですね。何かお調べ致しますか？	general,hotel,taxi,weather
+4355	2	USER	電話番号と料金情報を教えていただけたら助かります。	general,hotel,taxi,weather
+4355	3	SYSTEM	はい、電話番号は0927330330でございまして、値段帯は安めですが、料金情報は分かりません。	general,hotel,taxi,weather
+4355	4	USER	ありがとうございます。それで結構です。では、11月23日から2泊、4名で予約をお願いします。	general,hotel,taxi,weather
+4355	5	SYSTEM	お待たせ致しました。予約番号81でお取りさせていただきました。	general,hotel,taxi,weather
+4355	6	USER	ありがとうございました。それで、当日はジャンボタクシーを利用したいのですが、キャッシュレス払いのできるタクシー会社はありますでしょうか。	general,hotel,taxi,weather
+4355	7	SYSTEM	お待たせ致しました。それでは福岡西鉄タクシー（株）はいかがでしょうか？	general,hotel,taxi,weather
+4355	8	USER	そちらの電話番号を教えていただけますか。	general,hotel,taxi,weather
+4355	9	SYSTEM	はい、0570010531でございます。	general,hotel,taxi,weather
+4355	10	USER	では、11月23日の14時に、HEARTSカプセルホテル&スパ中洲　から　コートホテル福岡天神　まの予約をお願いします。	general,hotel,taxi,weather
+4355	11	SYSTEM	お待たせ致しました。予約番号17316でお取りさせていただきました。	general,hotel,taxi,weather
+4355	12	USER	予約が取れてよかったです。ついでに当日の11月23日の西区の最低気温も調べていただけますか。	general,hotel,taxi,weather
+4355	13	SYSTEM	お待たせ致しました。当日の西区の最低気温は12.5度の予報でございます。	general,hotel,taxi,weather
+4355	14	USER	ありがとうございました。大変助かりました。	general,hotel,taxi,weather

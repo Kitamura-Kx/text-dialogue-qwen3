@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3213	0	USER	東京でレストランがあったWi-Fiが無料の宿泊施設を探してください	general,hotel,restaurant
+3213	1	SYSTEM	かしこまりました。では、トーセイホテルココネ上野はいかがでしょうか？	general,hotel,restaurant
+3213	2	USER	最寄駅と値段帯と料金情報は分かりますか？	general,hotel,restaurant
+3213	3	SYSTEM	はい、最寄りは上野駅です。また、値段帯は安めとなっております。料金情報ですが、詳しいことはわかりかねます。申し訳ございません。	general,hotel,restaurant
+3213	4	USER	わかりました。あと予算が高めでWi-Fiが無料で利用できる飲食店を探しているのですが	general,hotel,restaurant
+3213	5	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,hotel,restaurant
+3213	6	USER	Wi-Fi考慮しなくても大丈夫です	general,hotel,restaurant
+3213	7	SYSTEM	かしこまりました。では、イレール人形町はいかがでしょうか？	general,hotel,restaurant
+3213	8	USER	住所と料金情報とジャンルを教えて貰えますか？	general,hotel,restaurant
+3213	9	SYSTEM	はい。住所は東京都中央区日本橋人形町2丁目22-2です。また、ジャンルはイタリアン・フレンチになります。料金情報ですが、例えば和牛ホホ肉の赤ワイン煮込み〜八角とクミンの香り〜が3520円、パッション コースが7150円などのメニューがございます。	general,hotel,restaurant
+3213	10	USER	詳しくありがとうございました	general,hotel,restaurant
+3213	11	SYSTEM	はい、ご用件はほかにございますか？	general,hotel,restaurant
+3213	12	USER	ないです。ありがとうございました	general,hotel,restaurant
+3213	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3997	0	USER	京都へ旅行予定で、レストランが併設されている宿泊施設探してもらえません？	general,hotel,restaurant
+3997	1	SYSTEM	かしこまりました。その条件ですと、46件ほど該当宿泊施設がございます。何かご希望はありますか？	general,hotel,restaurant
+3997	2	USER	いえ、特に希望ないです。	general,hotel,restaurant
+3997	3	SYSTEM	承知いたしました。それでは、ザ ロイヤルパークホテル 京都梅小路がおすすめです。	general,hotel,restaurant
+3997	4	USER	なるほど。チェックアウト終了時刻と電話番号、あと値段帯を教えてもらえます？	general,hotel,restaurant
+3997	5	SYSTEM	チェックアウト終了時刻は11時、電話番号は0753541111、値段帯は安めでございます。	general,hotel,restaurant
+3997	6	USER	りょうかいです。飲食店もさがしていて、値段が高めで駐車場とWi-Fiが無料利用できるような店教えてください。	general,hotel,restaurant
+3997	7	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel,restaurant
+3997	8	USER	そうですか。じゃあWi-Fiがないとこでもいいです。	general,hotel,restaurant
+3997	9	SYSTEM	かしこまりました。それでは、フランス料理 ボルドーはいかがでしょうか？	general,hotel,restaurant
+3997	10	USER	そこにしようかな。聞きたいことは以上です。	general,hotel,restaurant
+3997	11	SYSTEM	かしこまりました。またお待ちしております。	general,hotel,restaurant

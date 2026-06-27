@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1853	0	USER	こんばんは。名古屋の熱田区に、駐車場無料の飲食店はありますか？	general,restaurant,taxi
+1853	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,taxi
+1853	2	USER	そうしましたら、地区は別の所でも大丈夫です。	general,restaurant,taxi
+1853	3	SYSTEM	かしこまりました。では、うなぎの新甫はいかがでしょうか？	general,restaurant,taxi
+1853	4	USER	うなぎ、いいですね！ではタクシーの予約をお願いします。キャッシュレス対応の会社はありますか？	general,restaurant,taxi
+1853	5	SYSTEM	かしこまりました。では、東海交通はいかがでしょうか？ジャンボタクシーも対応しております。	general,restaurant,taxi
+1853	6	USER	ではそちらの会社で予約できますか？11/13 14:30に、先ほどの　うなぎの新甫　まで来て欲しいです。目的地は、プリンセスガーデンホテル<名古屋栄>です。	general,restaurant,taxi
+1853	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、45111です。	general,restaurant,taxi
+1853	8	USER	今日お願いしたいことは以上です。ありがとうございました。	general,restaurant,taxi
+1853	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

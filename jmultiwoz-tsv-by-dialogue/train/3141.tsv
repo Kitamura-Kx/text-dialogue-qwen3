@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3141	0	USER	札幌路に行くのですが、カフェを探しています。駐車場無料がいいです。	general,restaurant
+3141	1	SYSTEM	かしこまりました。では、CAFE VOIZという東区エリアのお店はいかがでしょうか？他にも５件ほどご案内できます。	general,restaurant
+3141	2	USER	予算が普通であれば何処でもいいです。	general,restaurant
+3141	3	SYSTEM	はい、こちらのお店はご予算は普通のお店となります。お知りになりたい情報はございますか？	general,restaurant
+3141	4	USER	近くの駅からの時間はどうですか？	general,restaurant
+3141	5	SYSTEM	最寄りの新道東駅から徒歩で18分、札幌駅からはタクシーで20分ほどかかります。	general,restaurant
+3141	6	USER	分かりました。Wi-Fiはありますか？	general,restaurant
+3141	7	SYSTEM	はい、無料でご利用いただけますよ。	general,restaurant
+3141	8	USER	定休日はいつですか？	general,restaurant
+3141	9	SYSTEM	月曜日と火曜日がお休みとなっております。	general,restaurant
+3141	10	USER	分かりました。では、8/7の13：40で2人の予約お願いします。	general,restaurant
+3141	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、15665です。	general,restaurant
+3141	12	USER	ありがとうございました。では、失礼します。	general,restaurant
+3141	13	SYSTEM	ご利用ありがとうございました。失礼いたします。	general,restaurant

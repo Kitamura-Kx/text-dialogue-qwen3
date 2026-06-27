@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4529	0	USER	大阪へ旅行に行きたいんですけど、爬虫類カフェ ROCK STARというお店に駐車場があるかどうか調べてもらえますか？	general,shopping
+4529	1	SYSTEM	かしこまりました。そちら駐車場の有無は不明となっております。	general,shopping
+4529	2	USER	ありがとうございます。	general,shopping
+4529	3	SYSTEM	ほかにご用件はございませんか。	general,shopping
+4529	4	USER	はい、大丈夫です。ありがとうございました。	general,shopping
+4529	5	SYSTEM	承知しました。ありがとうございました。	general,shopping

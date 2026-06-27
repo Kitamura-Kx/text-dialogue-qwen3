@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3611	0	USER	仙台に旅行に行こうと思っているのですが、飲食店を探しています。予算安めで駐車場が無料で利用できるところはありますか。	general,restaurant,hotel
+3611	1	SYSTEM	仙台の飲食店で安めな無料駐車場ありですと、丸源ラーメン 仙台卸町店を含む２２件該当します。いかがでしょうか？	general,restaurant,hotel
+3611	2	USER	その丸源ラーメン 仙台卸町店というところにします。そのお店にWi-Fiはありますか。	general,restaurant,hotel
+3611	3	SYSTEM	申し訳ございません。WI-FIは無しとなっております。	general,restaurant,hotel
+3611	4	USER	分かりました。ありがとうございます。あと、宿泊施設も探していただきたいです。シティホテルでお願いします。	general,restaurant,hotel
+3611	5	SYSTEM	承知致しました。仙台のシティホテルですと、江陽グランドホテルがございます。他１１件も該当しておりますがいかがでしょうか？	general,restaurant,hotel
+3611	6	USER	駐車場が無料で利用できるところがいいです。	general,restaurant,hotel
+3611	7	SYSTEM	駐車場の条件を追加したところ、ホテル白萩のみ該当ございます。いかがでしょうか？	general,restaurant,hotel
+3611	8	USER	ありがとうございます。そこにします。チェックインは何時からですか。	general,restaurant,hotel
+3611	9	SYSTEM	かしこまりました。チェックインの開始は15時からでございます。	general,restaurant,hotel
+3611	10	USER	ありがとうございます。これで全部解決しました。もう大丈夫です。	general,restaurant,hotel
+3611	11	SYSTEM	承知いたしました。ありがとうございました。	general,restaurant,hotel

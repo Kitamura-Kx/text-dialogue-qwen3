@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4853	0	USER	東京への旅行を計画しています。駐車場無料で買い物ができるところはありますか？	general,shopping,attraction,weather
+4853	1	SYSTEM	東京で駐車場無料の買い物スポットは１５件あります。	general,shopping,attraction,weather
+4853	2	USER	なるほど。詳しい希望は考えてないのですが、おすすめはありますか？	general,shopping,attraction,weather
+4853	3	SYSTEM	ならば、最近流行の、ポケモンセンターメガトウキョー、こちらをおすすめします。	general,shopping,attraction,weather
+4853	4	USER	そこの電話番号はわかりますか？	general,shopping,attraction,weather
+4853	5	SYSTEM	0359279290です。	general,shopping,attraction,weather
+4853	6	USER	エリアと住所も教えていただけますか？	general,shopping,attraction,weather
+4853	7	SYSTEM	豊島区です。東京都豊島区東池袋3丁目1-2 サンシャインシティ 専門店街アルパ 2Fになります。	general,shopping,attraction,weather
+4853	8	USER	ありがとうございます。観光名所も探しています。葛飾区の絶景の場所ってありますか？	general,shopping,attraction,weather
+4853	9	SYSTEM	葛飾区には絶景スポットはありません。	general,shopping,attraction,weather
+4853	10	USER	そうですか。では、絶景でなくても良いので、葛飾区のWi-Fiが無料の観光名所を教えてください。	general,shopping,attraction,weather
+4853	11	SYSTEM	葛飾区でWiFi無料の観光スポットといえば、水元公園、こちら一択です。	general,shopping,attraction,weather
+4853	12	USER	そちらの電話番号を教えてください。	general,shopping,attraction,weather
+4853	13	SYSTEM	0336078321です。	general,shopping,attraction,weather
+4853	14	USER	それから、9月26日の葛飾区の天候を教えていただけますか？	general,shopping,attraction,weather
+4853	15	SYSTEM	9/26 東京 葛飾区 の天気は晴、最低気温19.4度、最高気温24.6度です。	general,shopping,attraction,weather
+4853	16	USER	どうもありがとうございました。	general,shopping,attraction,weather
+4853	17	SYSTEM	よい旅を	general,shopping,attraction,weather

@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3589	0	USER	こんにちは。名古屋旅行を計画してて、予算が高めでアジア・エスニック料理の飲食店はありますか？	general,restaurant,attraction,shopping
+3589	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,attraction,shopping
+3589	2	USER	では予算は気にしませんので、探していただけますか？	general,restaurant,attraction,shopping
+3589	3	SYSTEM	ではとり焼肉 もう壱鳥はいかがでしょうか。	general,restaurant,attraction,shopping
+3589	4	USER	いいですね。そこの電話番号と定休日も知りたいです。	general,restaurant,attraction,shopping
+3589	5	SYSTEM	電話番号は0529502223で、定休日はございません。	general,restaurant,attraction,shopping
+3589	6	USER	ありがとうございます。予約もお願いします。人数は2人、日付は7/18、時間は14:50でお願いします。	general,restaurant,attraction,shopping
+3589	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,restaurant,attraction,shopping
+3589	8	USER	では時間を15：50にしたら予約できそうですか？	general,restaurant,attraction,shopping
+3589	9	SYSTEM	その時間ですと予約が可能でございました。予約番号は32813でございます。	general,restaurant,attraction,shopping
+3589	10	USER	ありがとうございます。あと観光名所も探してて、最寄り駅が桜山駅で、駐車場が無料のところでお願いします。	general,restaurant,attraction,shopping
+3589	11	SYSTEM	では昭和美術館(公益財団法人後藤報恩会)はいかがでしょうか。	general,restaurant,attraction,shopping
+3589	12	USER	いいですね。そこの子供入場料金っていくらですか？	general,restaurant,attraction,shopping
+3589	13	SYSTEM	子供入場料は無料でございます。	general,restaurant,attraction,shopping
+3589	14	USER	ありがとうございます。あと、最寄り駅が名古屋港駅で、駐車場が無料な買い物できる場所はありますか？	general,restaurant,attraction,shopping
+3589	15	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,attraction,shopping
+3589	16	USER	では最寄り駅はどこでも大丈夫です。	general,restaurant,attraction,shopping
+3589	17	SYSTEM	ではマーケットスクエアささしまがございます。	general,restaurant,attraction,shopping
+3589	18	USER	いいですね。そこの営業時間とエリアも教えてください。	general,restaurant,attraction,shopping
+3589	19	SYSTEM	営業時間は店舗により異なるとのことでございます。エリアは中村区でございます。	general,restaurant,attraction,shopping
+3589	20	USER	ありがとうございます。	general,restaurant,attraction,shopping
+3589	21	SYSTEM	ほかにご用件はございませんか。	general,restaurant,attraction,shopping
+3589	22	USER	いえ、大丈夫です。ありがとうございました。	general,restaurant,attraction,shopping
+3589	23	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,shopping

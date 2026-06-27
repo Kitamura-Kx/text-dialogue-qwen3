@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1393	0	USER	東京への旅行を計画中です。駐車場が無料の観光名所はありますでしょうか？	general,attraction
+1393	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,attraction
+1393	2	USER	それでは、駐車場の有無はこだわりません。	general,attraction
+1393	3	SYSTEM	では代々木公園はいかがですか。	general,attraction
+1393	4	USER	「代々木公園」の料金と住所と電話番号を教えて下さい。	general,attraction
+1393	5	SYSTEM	料金は無料でございます。住所は東京都渋谷区代々木神園町2-1で、電話番号 0334696081でございます。	general,attraction
+1393	6	USER	わかりました行ってみたいと思います、有難うございました。	general,attraction
+1393	7	SYSTEM	ほかにご用件はございますか。	general,attraction
+1393	8	USER	いえ、大丈夫です。	general,attraction
+1393	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

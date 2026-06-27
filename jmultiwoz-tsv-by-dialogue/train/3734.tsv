@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3734	0	USER	東京へ旅行しようと思っているのですが東京タワーに行きたいです。住所，駐車場の有無はわかりますか？	general,attraction,hotel,weather
+3734	1	SYSTEM	はい、住所は東京都港区芝公園4丁目2-8となります。駐車場は有料でご利用いただけます。	general,attraction,hotel,weather
+3734	2	USER	宿泊施設を探しています。駐車場が無料で普通の値段のところを紹介して下さい。	general,attraction,hotel,weather
+3734	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,hotel,weather
+3734	4	USER	それでは予算は考えなくて大丈夫です。どうですか？	general,attraction,hotel,weather
+3734	5	SYSTEM	では、エリアでいうと墨田区にある、つるや旅館はいかがでしょう？タイプは、旅館となります。	general,attraction,hotel,weather
+3734	6	USER	ありがとうございます。最寄り駅、Wi-Fiの有無，近辺の駅からのからの所要時間を教えて下さい。	general,attraction,hotel,weather
+3734	7	SYSTEM	はい、最寄りの本所吾妻橋駅から徒歩で2分となります。申し訳ありません、Wi-Fiのご用意はございません。	general,attraction,hotel,weather
+3734	8	USER	ありがとうございます。8月3日の文京区の最高気温はわかりますか？	general,attraction,hotel,weather
+3734	9	SYSTEM	はい、天気は曇のち晴、最低気温29.9度、最高気温34.7度となります。	general,attraction,hotel,weather
+3734	10	USER	大変助かりました！以上です。どうもありがとうございました。	general,attraction,hotel,weather
+3734	11	SYSTEM	ありがとうございました。	general,attraction,hotel,weather

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+670	0	USER	京都旅行をしたいのですが、当日の宿泊施設を探しています。Wi-Fiが無料で使用でき、駐車場も無料のところがいいです。予算は高めのところがいいです。	general,hotel,attraction,taxi
+670	1	SYSTEM	承知しました。1件ございまして、京都 高瀬川別邸です。タイプはその他、エリアは下京区、最寄りの七条駅から徒歩で5分となります。チェックイン開始時刻は15時、チェックアウト終了時刻は10時です。住所は京都府京都市下京区十禅師町196番地、電話番号は0753655060となります。併設のレストランはございません。	general,hotel,attraction,taxi
+670	2	USER	ありがとうございます。２月13日から3泊、3人で予約をお願いできますか？	general,hotel,attraction,taxi
+670	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、81527となります。	general,hotel,attraction,taxi
+670	4	USER	ありがとうございます。観光名所も探していまして、南区で伝統芸能が良いのですが。	general,hotel,attraction,taxi
+670	5	SYSTEM	申し訳ありません、その条件ではご紹介ができません。いかがされますか？	general,hotel,attraction,taxi
+670	6	USER	ではジャンルは何でもいいです。	general,hotel,attraction,taxi
+670	7	SYSTEM	京都市障害者教養文化・体育会館、龍谷大学響都ホール校友会館の2件がございます。いかがされますか？	general,hotel,attraction,taxi
+670	8	USER	京都市障害者教養文化・体育会館にします。タクシー会社も探しているのですが、ジャンボタクシーを利用できるところはありますか？	general,hotel,attraction,taxi
+670	9	SYSTEM	はい、では、洛東タクシー株式会社はいかがでしょう？キャッシュレスにも対応しております。電話番号は0755931112となります。	general,hotel,attraction,taxi
+670	10	USER	ありがとうございます。予約をしたいのですが、2/13の11：10、京都 高瀬川別邸から京都市障害者教養文化・体育会館までお願いできますか？	general,hotel,attraction,taxi
+670	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、64682となります。	general,hotel,attraction,taxi
+670	12	USER	ありがとうございます。	general,hotel,attraction,taxi
+670	13	SYSTEM	他にご用件はございますか？	general,hotel,attraction,taxi
+670	14	USER	他にはありません。ありがとうございました。	general,hotel,attraction,taxi

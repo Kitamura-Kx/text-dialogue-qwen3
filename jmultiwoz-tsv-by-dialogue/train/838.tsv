@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+838	0	USER	福岡に行こうと思ってまして。無料で駐車できるスーパーマーケットを調べて頂けますか？	general,shopping,taxi
+838	1	SYSTEM	申し訳ございません。その条件では案内できるところがございません。いかがなさいますか。	general,shopping,taxi
+838	2	USER	無料で駐車できる買い物スポットなら、スーパーマーケット以外でも大丈夫です。	general,shopping,taxi
+838	3	SYSTEM	ではJR九州 博多駅はいかがでしょうか。	general,shopping,taxi
+838	4	USER	それはいいですね。ついでにタクシーの予約もお願いしていいですか？ジャンボータクシーを利用したいのですが。	general,shopping,taxi
+838	5	SYSTEM	申し訳ございません。ジャンボタクシーに対応している会社がございませんでした。いかがなさいますか。	general,shopping,taxi
+838	6	USER	それは残念、、、一般のタクシーでも構いません。	general,shopping,taxi
+838	7	SYSTEM	では日本交通産業（株）でよろしいでしょうか。	general,shopping,taxi
+838	8	USER	そちらの会社はキャッシュレス対応はされてますか？電話番号もあれば教えてください。	general,shopping,taxi
+838	9	SYSTEM	キャッシュレスには対応しております。電話番号は0925886377でございます。	general,shopping,taxi
+838	10	USER	ではそちらの会社でお願いします。日時は12/19の14:50で、JR九州 博多駅からヤシの木ブランコまでお願いします。	general,shopping,taxi
+838	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は77301でございます。	general,shopping,taxi
+838	12	USER	ありがとうございます！	general,shopping,taxi

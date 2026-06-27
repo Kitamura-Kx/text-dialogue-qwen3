@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4095	0	USER	横浜への旅行を計画しているので、宿泊施設を探してください。綱島駅周辺でお願いします。	general,hotel
+4095	1	SYSTEM	かしこまりました。それではホテルタイムズイン24はいかがでしょうか？	general,hotel
+4095	2	USER	そちらのエリアとWi-Fiの有無を教えてください。	general,hotel
+4095	3	SYSTEM	はい、エリアは港北区でして、Wi-Fiは無料でご利用いただけます。	general,hotel
+4095	4	USER	ありがとうございます。こちらからは以上です。	general,hotel
+4095	5	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

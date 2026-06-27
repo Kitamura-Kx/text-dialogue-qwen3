@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1066	0	USER	仙台でシティホテルを探してもらえますか？	general,hotel,shopping,weather
+1066	1	SYSTEM	はい、かしこまりました。ご案内できる施設が10件ほどございますが、エリアなど、ご希望はございませんか？	general,hotel,shopping,weather
+1066	2	USER	エリアの希望はないのですが、できれば宿泊料が高めのホテルが良いです。	general,hotel,shopping,weather
+1066	3	SYSTEM	申し訳ございません。そういたしますと、ご案内できるところが見つかりませんでした。	general,hotel,shopping,weather
+1066	4	USER	そうですか、それではシティホテル以外でも探してもらえませんか？	general,hotel,shopping,weather
+1066	5	SYSTEM	かしこまりました。そうしますと、７件ほどご案内可能です。例えば、青葉区エリアの作並温泉 ゆづくしSalon一の坊は、いかがでしょうか？	general,hotel,shopping,weather
+1066	6	USER	ありがとうございます。当日はスポーツ用品の購入もしたいのですが、榴ヶ岡駅周辺で探してもらえますか？	general,hotel,shopping,weather
+1066	7	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,hotel,shopping,weather
+1066	8	USER	残念です。では榴ヶ岡駅にこだわらなければ、見つかりそうですか？	general,hotel,shopping,weather
+1066	9	SYSTEM	はい、4件ほど、ご案内可能です。スポーツデポ 仙台泉店ですと、最寄り駅が八乙女駅となりますが、いかがでしょうか？	general,hotel,shopping,weather
+1066	10	USER	それでは、スポーツデポ 仙台泉店の電話番号も教えてください。	general,hotel,shopping,weather
+1066	11	SYSTEM	電話番号は、0227763981でございます。	general,hotel,shopping,weather
+1066	12	USER	ありがとうございます。9/8の若林区あたりの天気も知りたいです。最低気温はどの程度か分かりますか？	general,hotel,shopping,weather
+1066	13	SYSTEM	はい。当日の天気は、晴れ時々雨の予報です。最低気温は、16度の予想となっております。	general,hotel,shopping,weather
+1066	14	USER	ありがとうございます、お世話になりました。	general,hotel,shopping,weather
+1066	15	SYSTEM	ほかにお手伝いすることはございませんか？	general,hotel,shopping,weather
+1066	16	USER	これだけです。ありがとうございました。	general,hotel,shopping,weather
+1066	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,shopping,weather

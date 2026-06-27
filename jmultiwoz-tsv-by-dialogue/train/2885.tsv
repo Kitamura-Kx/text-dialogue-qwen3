@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2885	0	USER	大阪へ旅行に行くんですが、買い物ができるところを探してほしいです！	general,shopping,taxi
+2885	1	SYSTEM	ご希望の条件をおきかせください	general,shopping,taxi
+2885	2	USER	最寄り駅が大阪港駅で、中央区でお願いします！あとは駐車場無料の所がいいです！	general,shopping,taxi
+2885	3	SYSTEM	全ての条件を兼ね備える買い物施設はなさそうです。	general,shopping,taxi
+2885	4	USER	では最寄り駅はどこでも大丈夫です。	general,shopping,taxi
+2885	5	SYSTEM	中央区で駐車場有の買い物施設はいくつかありますが、なんばCITY、こちらをおすすめします　。	general,shopping,taxi
+2885	6	USER	ありがとうございます。電話番号も教えてください。	general,shopping,taxi
+2885	7	SYSTEM	0666442960です。	general,shopping,taxi
+2885	8	USER	ありがとうございます。タクシー会社も探していただけますか？キャッシュレス払いができるところで、ジャンボタクシーを利用したいんです。	general,shopping,taxi
+2885	9	SYSTEM	大阪にはキャッシュレスとジャンボタクシー、両方そなえたところはなさそうです。	general,shopping,taxi
+2885	10	USER	ではジャンボタクシー対応は、なくて大丈夫です。	general,shopping,taxi
+2885	11	SYSTEM	それでは、商都交通株式会社、こちらをおすすめします。	general,shopping,taxi
+2885	12	USER	ありがとうございます。電話番号を教えてください。	general,shopping,taxi
+2885	13	SYSTEM	0662626868です。	general,shopping,taxi
+2885	14	USER	予約もいいですか？なんばCITYから、ホテルリリーフ なんば大国町まで乗りたいです。	general,shopping,taxi
+2885	15	SYSTEM	はい、日付と時刻をお願いします。	general,shopping,taxi
+2885	16	USER	7/29の10:40でお願いします！	general,shopping,taxi
+2885	17	SYSTEM	この条件で予約成功しました。予約番号は31860です。	general,shopping,taxi
+2885	18	USER	ありがとうございます。行ってきますね！	general,shopping,taxi
+2885	19	SYSTEM	よい旅を	general,shopping,taxi

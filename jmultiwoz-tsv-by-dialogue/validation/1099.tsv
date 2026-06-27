@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1099	0	USER	札幌に行きたいのですが、飲食店を探してます。Wi-Fiが無料の所が良いです。	general,restaurant,hotel
+1099	1	SYSTEM	そうしますと、12件ほど候補がございます。例えば、ノーザンテラスダイナーなどがございますが、何か他にご希望の条件はありますか？	general,restaurant,hotel
+1099	2	USER	大事なこと忘れてました。すすきの駅の近くが良いです。	general,restaurant,hotel
+1099	3	SYSTEM	かしこまりました。そうしますと、2件ご案内可能です。例えば、北海道ろばた居心地というお店が、すすきの駅から徒歩で3分、大通駅からも徒歩で3分の場所にございますが、いかがでしょうか？	general,restaurant,hotel
+1099	4	USER	そこの予算は普通ですか？予算が普通のところでお願いしたいです。	general,restaurant,hotel
+1099	5	SYSTEM	はい、予算は普通となっております。その条件でお調べしましたところ、ほかには一軒家ダイニング ~すしBAR~というお店もございますが、いかが致しましょうか？	general,restaurant,hotel
+1099	6	USER	じゃ一軒家ダイニング ~すしBAR~にしたいです。予約をお願いします。	general,restaurant,hotel
+1099	7	SYSTEM	かしこまりました。ご利用予定の日付と時刻、人数をお願いできますでしょうか？	general,restaurant,hotel
+1099	8	USER	9/30の時間は10:30から3人でお願いします。	general,restaurant,hotel
+1099	9	SYSTEM	かしこまりました。ご予約が完了いたしました。予約番号は、44770です。	general,restaurant,hotel
+1099	10	USER	あと当日の宿泊施設も探してます。レストランがあり豊平区がいいです。	general,restaurant,hotel
+1099	11	SYSTEM	そうしますと、プレミアホテル-TSUBAKI-札幌というシティホテルを1件ご案内可能です。いかがでしょうか？	general,restaurant,hotel
+1099	12	USER	予算は安いところがいいのですが、そこはどうですか？	general,restaurant,hotel
+1099	13	SYSTEM	はい、こちらの施設は、お値段帯お安めとなっております。	general,restaurant,hotel
+1099	14	USER	どういうタイプの宿泊施設なのですか？	general,restaurant,hotel
+1099	15	SYSTEM	シティホテルとなります。	general,restaurant,hotel
+1099	16	USER	ばっちりですね。そこにします。ありがとうございます。	general,restaurant,hotel
+1099	17	SYSTEM	こちらこそ、ありがとうございます。他にお調べすることはございませんか？	general,restaurant,hotel
+1099	18	USER	特にありません。ありがとうございました。	general,restaurant,hotel
+1099	19	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,restaurant,hotel

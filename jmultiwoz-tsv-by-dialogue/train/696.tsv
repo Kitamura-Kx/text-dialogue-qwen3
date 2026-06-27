@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+696	0	USER	札幌に、普通予算の飲食店はありますか？	general,restaurant,shopping,weather
+696	1	SYSTEM	はい、他にご希望はございますか？	general,restaurant,shopping,weather
+696	2	USER	Wi-Fiと駐車場が無料だと良いです。	general,restaurant,shopping,weather
+696	3	SYSTEM	ありがとうございます。エリアでいうと中央区にございます、パーラーエノキはいかがでしょう？何かご案内致しましょうか？	general,restaurant,shopping,weather
+696	4	USER	そちらのお店に、定休日はありますか？	general,restaurant,shopping,weather
+696	5	SYSTEM	いいえ、定休日はございません。	general,restaurant,shopping,weather
+696	6	USER	ありがとうございます。あと買い物できる場所を探して欲しいのですが、ジャンルが自動車・自転車のお店で、駐車場無料だとよりよいです。	general,restaurant,shopping,weather
+696	7	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,restaurant,shopping,weather
+696	8	USER	では、違うジャンルのお店でもかまいません。	general,restaurant,shopping,weather
+696	9	SYSTEM	申し訳ありません、ありがとうございます。では、エリアでいうと中央区にございます、大丸札幌店はいかがでしょう？	general,restaurant,shopping,weather
+696	10	USER	ありがとうございます。ではそちらのお店の、営業時間と住所、最寄り駅を教えてください。	general,restaurant,shopping,weather
+696	11	SYSTEM	はい、住所は北海道札幌市中央区北5条西4丁目7番地、営業時間は10時から20時、最寄りの札幌駅からは徒歩で1分となります。他にご案内できることはございますか？	general,restaurant,shopping,weather
+696	12	USER	あと天候を知りたいです。11/2 北区のお天気と最低気温を教えて頂けますか？	general,restaurant,shopping,weather
+696	13	SYSTEM	はい、天気は雨時々晴、最低気温7.1度、最高気温8.6度となります。他にご用件はございますか？	general,restaurant,shopping,weather
+696	14	USER	調べたいことは以上です。ありがとうございました。	general,restaurant,shopping,weather
+696	15	SYSTEM	ありがとうございました。	general,restaurant,shopping,weather

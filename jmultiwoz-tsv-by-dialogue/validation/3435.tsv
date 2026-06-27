@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3435	0	USER	今度大阪へ行くのですが、どこか買い物ができるところはありますか？	general,shopping,taxi
+3435	1	SYSTEM	かしこまりました。48件ほどございますが、何かこだわりなどありますか？	general,shopping,taxi
+3435	2	USER	駐車場を無料で利用できる、百貨店や総合スーパーがいいです。	general,shopping,taxi
+3435	3	SYSTEM	かしこまりました。それではなんばCITYはいかがでしょうか？	general,shopping,taxi
+3435	4	USER	そちらの住所と、最寄り駅を教えていただけますか？	general,shopping,taxi
+3435	5	SYSTEM	住所は大阪府大阪市中央区難波5丁目1-60、最寄り駅は難波駅でございます。	general,shopping,taxi
+3435	6	USER	ありがとうございます。あと、当日タクシーを使いたいのですが、キャッシュレス払いができて、ジャンボタクシーが利用できるところはありますか？	general,shopping,taxi
+3435	7	SYSTEM	かしこまりました。それでは株式会社未来都はいかがでしょうか？	general,shopping,taxi
+3435	8	USER	そちらの電話番号を教えてください。	general,shopping,taxi
+3435	9	SYSTEM	電話番号は0669060088でございます。	general,shopping,taxi
+3435	10	USER	ありがとうございます。では、3/15の09:30で、なんばCITYから、天保山大観覧車まで予約をお願いできますでしょうか。	general,shopping,taxi
+3435	11	SYSTEM	申し訳ございません。その条件では予約することが出来ませんでした。	general,shopping,taxi
+3435	12	USER	では、時間を10:10に変更してください。	general,shopping,taxi
+3435	13	SYSTEM	お待たせ致しました。予約番号84324でお取りさせていただきました。	general,shopping,taxi
+3435	14	USER	ありがとうございます。以上です、お世話になりました。	general,shopping,taxi
+3435	15	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,taxi

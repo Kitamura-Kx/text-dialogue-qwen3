@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+315	0	USER	那覇に旅行しようと思っています。観光名所を探しているのですが、首里で駐車場の料金が無料のところってありますか？	general,attraction,taxi
+315	1	SYSTEM	はい、それでは、国営沖縄記念公園はいかがでしょう？ジャンルは世界遺産, 歴史的建造物, 歴史的な散策エリア、となります。	general,attraction,taxi
+315	2	USER	国営沖縄記念公園の定休日はわかりますか？	general,attraction,taxi
+315	3	SYSTEM	定休日はございません。	general,attraction,taxi
+315	4	USER	そうですか！こちらを利用するに当たり、何か料金ってかかるんでしょうか？	general,attraction,taxi
+315	5	SYSTEM	はい、大人が400円、高校生が300円、小、中学生が160円の入場料が必要です。6歳未満のお子様は無料です。	general,attraction,taxi
+315	6	USER	お調べ頂きありがとうございます。那覇でタクシーを利用したいんです。ジャンボタクシーが利用できる会社を紹介してもらえないでしょうか？	general,attraction,taxi
+315	7	SYSTEM	承知しました。それでは、丸二タクシーはいかがでしょう？キャッシュレスにも対応しております。電話番号は0988552140となります。	general,attraction,taxi
+315	8	USER	ありがとうございます。こちらで予約をお願いしてもいいですか？2/3の14:30に鍵石 牧志店から国営沖縄記念公園まで乗りたいです。	general,attraction,taxi
+315	9	SYSTEM	申し訳ありません。その条件では予約ができません。いかが致しましょう？	general,attraction,taxi
+315	10	USER	そうですか。では時間を15:30にしたら大丈夫そうでしょうか？	general,attraction,taxi
+315	11	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、62081となります。	general,attraction,taxi
+315	12	USER	わかりました。ご対応ありがとうございました。	general,attraction,taxi

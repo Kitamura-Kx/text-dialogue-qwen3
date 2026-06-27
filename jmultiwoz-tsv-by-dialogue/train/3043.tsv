@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3043	0	USER	仙台に行くのですが、泉区で飲食店を探しています。	general,restaurant,weather,taxi
+3043	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,restaurant,weather,taxi
+3043	2	USER	駐車場が無料のところがいいです。	general,restaurant,weather,taxi
+3043	3	SYSTEM	それでしたら、大戸屋ごはん処 アリオ仙台泉店はいかがですか？	general,restaurant,weather,taxi
+3043	4	USER	いいですね。Wi-Fiはありますか？	general,restaurant,weather,taxi
+3043	5	SYSTEM	いえ、Wi-Fiは無しとなっております。	general,restaurant,weather,taxi
+3043	6	USER	電話番号が知りたいです。	general,restaurant,weather,taxi
+3043	7	SYSTEM	はい。電話番号は0223417099になります。	general,restaurant,weather,taxi
+3043	8	USER	では5/29、13:20に4人で予約してもらえますか？	general,restaurant,weather,taxi
+3043	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、2711です。	general,restaurant,weather,taxi
+3043	10	USER	ちなみにですが、5/29青葉区の天気と最高気温はわかりますか？	general,restaurant,weather,taxi
+3043	11	SYSTEM	はい。天気は曇時々雨でして、最高気温23.3度になる見込みです。	general,restaurant,weather,taxi
+3043	12	USER	あと、ジャンボタクシーを利用できるタクシー会社を探しています。	general,restaurant,weather,taxi
+3043	13	SYSTEM	はい。（有）振興タクシーはいかがでしょうか。	general,restaurant,weather,taxi
+3043	14	USER	キャッシュレス対応していますか？	general,restaurant,weather,taxi
+3043	15	SYSTEM	はい。しておりますよ。	general,restaurant,weather,taxi
+3043	16	USER	では5/29の11:50にホテルグリーンパークから大戸屋ごはん処 アリオ仙台泉店まで予約をお願いしたいです。	general,restaurant,weather,taxi
+3043	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、44711です。	general,restaurant,weather,taxi
+3043	18	USER	色々ありがとうございました。	general,restaurant,weather,taxi
+3043	19	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,restaurant,weather,taxi

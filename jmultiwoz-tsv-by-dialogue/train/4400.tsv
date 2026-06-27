@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4400	0	USER	名古屋への旅行を計画中で、ジャンボタクシーを探しています。希望は特にありません。	general,taxi
+4400	1	SYSTEM	かしこまりました。では名鉄西部交通西部がございます。こちらキャッシュレスにも対応しております。電話番号は0568213295でございます。	general,taxi
+4400	2	USER	そこにしようと思います。1/2の11:30にらくだ書店 本店からホテル ルブラ王山まで予約して欲しいのですが、可能でしょうか	general,taxi
+4400	3	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は11676でございます。	general,taxi
+4400	4	USER	助かります。ありがとうございます。	general,taxi
+4400	5	SYSTEM	ほかにご用件はございませんか。	general,taxi
+4400	6	USER	いえ、大丈夫です。ありがとうございました。	general,taxi
+4400	7	SYSTEM	承知しました。ありがとうございました。	general,taxi

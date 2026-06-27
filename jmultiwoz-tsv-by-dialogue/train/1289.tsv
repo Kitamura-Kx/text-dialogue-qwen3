@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1289	0	USER	大阪への旅行を計画しているのですが、どこかうどんやそばを食べられる飲食店はあるでしょうか。	general,restaurant,shopping,weather
+1289	1	SYSTEM	はい、3件ほどご案内可能です。例えば、うどん居酒屋 江戸堀というお店が西区エリアにありますが、いかがでしょうか？	general,restaurant,shopping,weather
+1289	2	USER	ありがとうございます。予算は普通を希望しているのですがどうでしょうか？	general,restaurant,shopping,weather
+1289	3	SYSTEM	普通となりますと、蕎麦酒房 ふくまるというお店がございますがいかがでしょうか？	general,restaurant,shopping,weather
+1289	4	USER	ではそのお店に行きたいと思います。営業時間をお教えいただけますでしょうか。	general,restaurant,shopping,weather
+1289	5	SYSTEM	営業時間は、7:00～10:00, 11:00～14:00 , 17:30～22:30となっております。	general,restaurant,shopping,weather
+1289	6	USER	ありがとうございます。では11月13日の12時40分に4人で予約はできますでしょうか。	general,restaurant,shopping,weather
+1289	7	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,restaurant,shopping,weather
+1289	8	USER	では予約人数を3人に変更でお願いいたします。	general,restaurant,shopping,weather
+1289	9	SYSTEM	ありがとうございます。3名様にてご予約完了いたしました。予約番号は、62317です。	general,restaurant,shopping,weather
+1289	10	USER	ありがとうございます。あと当日お土産を買いたいのですが旭区でどこかあるでしょうか？	general,restaurant,shopping,weather
+1289	11	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping,weather
+1289	12	USER	分かりました。では地区はどこでも構いません。	general,restaurant,shopping,weather
+1289	13	SYSTEM	ありがとうございます。では、structというお店はいかがでしょうか？ジャンルは、お土産, ファッションのお店でして、西区エリアにございます。	general,restaurant,shopping,weather
+1289	14	USER	ありがとうございます。そこに行きたいと思います。ではそのお店の近くの駅からの所要時間と電話番号をお教えいただいてもよろしいですか？	general,restaurant,shopping,weather
+1289	15	SYSTEM	かしこまりました。最寄りの、なんば駅からバスで13分、大阪駅からはバスで15分ほどかかります。電話番号は、申し訳ありません、こちらは不明となっております。	general,restaurant,shopping,weather
+1289	16	USER	分かりました、ありがとうございます。あと当日の天気を知りたいのですが、11月13日の天王寺区の天気をお教えいただけますか？	general,restaurant,shopping,weather
+1289	17	SYSTEM	かしこまりました。当日の天気は、曇の予報となっております。最低気温は14.4度、最高気温は23度の予想です。	general,restaurant,shopping,weather
+1289	18	USER	ありがとうございます。何から何まで丁寧に教えていただきありがとうございました。	general,restaurant,shopping,weather
+1289	19	SYSTEM	他になにかお調べすることはございますか？	general,restaurant,shopping,weather
+1289	20	USER	いえ、他にはありません。本当にありがとうございました。	general,restaurant,shopping,weather
+1289	21	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant,shopping,weather

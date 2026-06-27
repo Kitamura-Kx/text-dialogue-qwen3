@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3823	0	USER	福岡へ旅行をしたいのですが、スポーツ系のものが買い物ができる場所を探してください。無料駐車場がある場所でお願いします。	general,shopping,attraction,taxi
+3823	1	SYSTEM	それでしたら、アビスパ福岡 オフィシャルショップが良いと思います。	general,shopping,attraction,taxi
+3823	2	USER	そちらはどのエリアにありますか？	general,shopping,attraction,taxi
+3823	3	SYSTEM	エリアは、博多区になります。	general,shopping,attraction,taxi
+3823	4	USER	ありがとうございます。	general,shopping,attraction,taxi
+3823	5	SYSTEM	他にご用件はございますか？	general,shopping,attraction,taxi
+3823	6	USER	はい、東区でビーチがあれば行きたいのですが。無料駐車場があるところはありますか？	general,shopping,attraction,taxi
+3823	7	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,shopping,attraction,taxi
+3823	8	USER	そうですか。では、駐車場の有無は問わないので、他によいところはありますか？	general,shopping,attraction,taxi
+3823	9	SYSTEM	それでしたら、志賀島はいかがですか？	general,shopping,attraction,taxi
+3823	10	USER	ありがとうございます。ではそちらへ行ってみます。	general,shopping,attraction,taxi
+3823	11	SYSTEM	他にご用件はございますか？	general,shopping,attraction,taxi
+3823	12	USER	はい、キャッシュレス払いができるタクシー会社も探してください。	general,shopping,attraction,taxi
+3823	13	SYSTEM	申し訳ありません。　その条件ではないようです。　どうされますか？	general,shopping,attraction,taxi
+3823	14	USER	では、キャッシュレス払いではなくてもよいので、他にありますか？	general,shopping,attraction,taxi
+3823	15	SYSTEM	では、（有）春吉タクシーはいかがですか？	general,shopping,attraction,taxi
+3823	16	USER	そちらの電話番号はわかりますか？ジャンボタクシー対応は可能ですか？	general,shopping,attraction,taxi
+3823	17	SYSTEM	電話番号は、0924778484です。　はい、ジャンボタクシーも対応しております。	general,shopping,attraction,taxi
+3823	18	USER	ありがとうございます。では、そちらで予約をお願いします。3/30の12:40に、アビスパ福岡 オフィシャルショップを出発で志賀島までお願いします。	general,shopping,attraction,taxi
+3823	19	SYSTEM	予約出来ました。予約番号は、17566です。	general,shopping,attraction,taxi
+3823	20	USER	ありがとうございます。	general,shopping,attraction,taxi
+3823	21	SYSTEM	他にご用件はございますか？	general,shopping,attraction,taxi
+3823	22	USER	特にありません。ありがとうございました。	general,shopping,attraction,taxi
+3823	23	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction,taxi

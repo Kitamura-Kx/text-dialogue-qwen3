@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3742	0	USER	大阪へ旅行するのですがジャンボタクシーを利用したいです。	general,taxi
+3742	1	SYSTEM	承知しました。では、株式会社未来都はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0669060088となります。	general,taxi
+3742	2	USER	ありがとうございます。予約して頂けますか？12/7で09:40、出発地は天王寺動物園で目的地はコンフォートホテル大阪心斎橋です。	general,taxi
+3742	3	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,taxi
+3742	4	USER	それでは10:40出発ではいかがでしょう？	general,taxi
+3742	5	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、93726となります。	general,taxi
+3742	6	USER	大変助かりました！以上です。どうもありがとうございました。	general,taxi
+3742	7	SYSTEM	ありがとうございました。	general,taxi

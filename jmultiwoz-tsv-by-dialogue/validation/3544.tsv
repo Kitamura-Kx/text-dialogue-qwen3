@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3544	0	USER	京都の宿泊施設を探しています。	general,hotel
+3544	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel
+3544	2	USER	最寄り駅は五条駅を希望です。あと、Wi-Fiが無料で利用できるところにしてください。	general,hotel
+3544	3	SYSTEM	ではなごみ旅館 悠はいかがでしょうか。	general,hotel
+3544	4	USER	チェックイン開始時刻は何時ですか。	general,hotel
+3544	5	SYSTEM	チェックイン開始時刻は16:00でございます。	general,hotel
+3544	6	USER	では、予約してください。人数は3人、日付は8/29、宿泊日数は2泊です。	general,hotel
+3544	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は10029でございます。	general,hotel
+3544	8	USER	この内容で十分です。ありがとうございました。	general,hotel
+3544	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

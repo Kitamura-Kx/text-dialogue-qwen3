@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1422	0	USER	福岡の東区で宿泊したいのですが、予算が普通程度の宿泊施設はありますか？	general,hotel,weather
+1422	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,weather
+1422	2	USER	そうなんですね。では、東区でなくても良いので、駐車場無料のホテルはありますでしょうか。	general,hotel,weather
+1422	3	SYSTEM	ではGARDEN TERRACE FUKUOKA HOTEL&RESORTSはいかがですか。	general,hotel,weather
+1422	4	USER	そちらのホテルには、レストランがありますか？	general,hotel,weather
+1422	5	SYSTEM	はい。レストランも併設されております。	general,hotel,weather
+1422	6	USER	わかりました。ホテルのタイプと、料金情報も教えてください。	general,hotel,weather
+1422	7	SYSTEM	タイプはリゾートホテルで、値段帯は普通ですが料金についての詳細はわかりかねます。	general,hotel,weather
+1422	8	USER	わかりました。9/2の博多区は、最低気温どれくらいですか？	general,hotel,weather
+1422	9	SYSTEM	最低気温は21.9度でございます。	general,hotel,weather
+1422	10	USER	わかりました。知りたいことは以上です。ありがとうございました。	general,hotel,weather
+1422	11	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

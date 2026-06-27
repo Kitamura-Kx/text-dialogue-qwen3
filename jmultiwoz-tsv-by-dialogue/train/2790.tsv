@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2790	0	USER	福岡に行くのですが、予算が普通クラスの飲食店を探しています。	general,restaurant,shopping
+2790	1	SYSTEM	承知しました。エリアでいうと博多区にある、レカイエ オイスターバー JR博多シティ店はいかがでしょう？ジャンルは、寿司、魚料理となります。	general,restaurant,shopping
+2790	2	USER	すみません。出来れば早良区がいいのですが	general,restaurant,shopping
+2790	3	SYSTEM	申し訳ありません、早良区ですと、ご紹介可能な飲食店がございません。いかが致しましょう？	general,restaurant,shopping
+2790	4	USER	じゃ、レカイエ オイスターバー JR博多シティ店にします。	general,restaurant,shopping
+2790	5	SYSTEM	承知しました。何をご案内致しましょう？	general,restaurant,shopping
+2790	6	USER	あとは買い物できる所を探しています。百貨店や総合スーパー系がいいです。	general,restaurant,shopping
+2790	7	SYSTEM	では、エリアでいうと中央区にある、福岡三越はいかがでしょう？	general,restaurant,shopping
+2790	8	USER	城南区ではありませんか？	general,restaurant,shopping
+2790	9	SYSTEM	申し訳ありません、城南区ではご紹介ができません。いかが致しましょう？	general,restaurant,shopping
+2790	10	USER	福岡三越には無料駐車場がありますか？	general,restaurant,shopping
+2790	11	SYSTEM	はい、駐車場は無料でご利用いただけます。	general,restaurant,shopping
+2790	12	USER	では住所と電話番号を教えてもらえませんか？	general,restaurant,shopping
+2790	13	SYSTEM	はい、住所は福岡県福岡市中央区天神2丁目1-1、電話番号は0927243111となります。	general,restaurant,shopping
+2790	14	USER	ありがとうございます。助かりました。	general,restaurant,shopping
+2790	15	SYSTEM	他にご用件はございますか？	general,restaurant,shopping
+2790	16	USER	特にありません。	general,restaurant,shopping
+2790	17	SYSTEM	ありがとうございました。	general,restaurant,shopping

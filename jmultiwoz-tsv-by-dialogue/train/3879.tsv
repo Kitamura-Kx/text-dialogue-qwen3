@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3879	0	USER	東京へ行くんですが、コスモプラネタリウム渋谷というところの最寄り駅を教えてもらえますか？	general,attraction,hotel
+3879	1	SYSTEM	お待たせ致しました。最寄り駅は渋谷駅でございます。	general,attraction,hotel
+3879	2	USER	ありがとうございます。あと六本木駅近くでレストランが併設されている宿泊施設を探してもらえますか？	general,attraction,hotel
+3879	3	SYSTEM	かしこまりました。それではグランドハイアット東京がございます。	general,attraction,hotel
+3879	4	USER	そこの値段帯はどうですか？	general,attraction,hotel
+3879	5	SYSTEM	値段帯は高めでございます。	general,attraction,hotel
+3879	6	USER	わかりました。以上で結構です。	general,attraction,hotel
+3879	7	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,hotel

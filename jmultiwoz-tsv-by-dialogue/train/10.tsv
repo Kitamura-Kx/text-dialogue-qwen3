@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+10	0	USER	こんにちは。 今度、名古屋へ旅行に行こうと思っているのですが、案内をお願いしてもよろしいでしょうか？	general,restaurant,taxi,weather
+10	1	SYSTEM	はい、もちろんです。名古屋で何か気になることはございますか？	general,restaurant,taxi,weather
+10	2	USER	実は、御懐石 志ら玉という名前の飲食店を探しているのですが、そちらのお店の情報はありますか？	general,restaurant,taxi,weather
+10	3	SYSTEM	はい、ございますよ。 北区にある和食のお店ですね。 何か知りたい情報はありますでしょうか？	general,restaurant,taxi,weather
+10	4	USER	良かったです！それでは、営業時間と、定休日、あと住所を教えていただけますか？	general,restaurant,taxi,weather
+10	5	SYSTEM	はい。 営業時間は、11時30分から15時、17時から22時までとなっております。 定休日はありません。 住所は、愛知県名古屋市北区上飯田西町2-36になります。	general,restaurant,taxi,weather
+10	6	USER	ありがとうございます！それでは、そちらのお店を予約したいのですが、人数は2人、5月5日の14:10でお願いできますでしょうか？	general,restaurant,taxi,weather
+10	7	SYSTEM	はい、予約は大丈夫でございました。 予約番号は、48768です。 その他お知りになりたいことはありますでしょうか？	general,restaurant,taxi,weather
+10	8	USER	はい。あと、タクシー会社も探していまして、キャッシュレス払いができるところで、どこか良い所はありますか？	general,restaurant,taxi,weather
+10	9	SYSTEM	そうですね、キャッシュレス払いができるタクシー会社ですと名鉄名古屋タクシーは対応可能です。	general,restaurant,taxi,weather
+10	10	USER	ありがとうございます！ちなみに、そちらのタクシー会社はジャンボタクシーにも対応しておりますでしょうか？	general,restaurant,taxi,weather
+10	11	SYSTEM	申し訳ございません、ジャンボタクシーは対応しておりません。 キャッシュレス、ジャンボタクシーどちらも対応しているタクシー会社ですと伸和交通がございます。いかがでしょうか。	general,restaurant,taxi,weather
+10	12	USER	いえ、参考までにでしたので、確認だけで大丈夫です。先ほどの名鉄名古屋タクシーの電話番号を教えていただけますか？	general,restaurant,taxi,weather
+10	13	SYSTEM	かしこまりました。 名鉄名古屋タクシーの電話番号は、0570085255になります。	general,restaurant,taxi,weather
+10	14	USER	ありがとうございます。それでは、そちらのタクシーを5月5日12:40で、御懐石 志ら玉から、ホテル いろはまでで予約したいのですが、予約できますでしょうか？	general,restaurant,taxi,weather
+10	15	SYSTEM	大変申し訳ございません。 予約ができませんでした。 いかがいたしましょうか？	general,restaurant,taxi,weather
+10	16	USER	そうしましたら、時間を13:10に変更でお願いします。	general,restaurant,taxi,weather
+10	17	SYSTEM	かしこまりました。 予約が成立致しました。 予約番号は、52010になります。	general,restaurant,taxi,weather
+10	18	USER	良かったです。ありがとうございます。 あと、実は5月5日、瑞穂区の天候についてもお伺いしたいのですが、最高気温と天気はいかがでしょうか？	general,restaurant,taxi,weather
+10	19	SYSTEM	承知致しました。 5月5日の瑞穂区の天気は、あいにく雨のち曇となっております。 最高気温は、24.1度なので過ごしやすい気温です。	general,restaurant,taxi,weather
+10	20	USER	そうなんですね。わかりました。 色々案内していただいて、大変助かりました。	general,restaurant,taxi,weather
+10	21	SYSTEM	お役に立てたのであれば幸いです。 他にご質問などはございますでしょうか。	general,restaurant,taxi,weather
+10	22	USER	大丈夫です。本日はありがとうございました。	general,restaurant,taxi,weather
+10	23	SYSTEM	こちらこそありがとうございました。	general,restaurant,taxi,weather
+10	24	USER	失礼いたします。	general,restaurant,taxi,weather
+10	25	SYSTEM	失礼いたします。	general,restaurant,taxi,weather

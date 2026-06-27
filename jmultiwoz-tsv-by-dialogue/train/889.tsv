@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+889	0	USER	こんばんは！那覇旅行に行きたいので、宿泊施設を探してください。	general,hotel
+889	1	SYSTEM	KARIYUSHI LCH. PREMIUMは、いかがでしょうか？	general,hotel
+889	2	USER	WiFiが無料で使える所だと嬉しいのですが、そちらはいかがですか？	general,hotel
+889	3	SYSTEM	はい、無料のWi-Fiが利用出来ます。	general,hotel
+889	4	USER	では、そちらで検討します。住所と、チェックアウト終了時刻、チェックイン開始時刻について、教えていただいても良いですか？	general,hotel
+889	5	SYSTEM	チェックイン開始時刻は、14時でチェックアウト終了時刻は、10時になります。	general,hotel
+889	6	USER	住所も教えていただいて良いですか？	general,hotel
+889	7	SYSTEM	住所は、沖縄県那覇市泉崎1丁目10-7です。	general,hotel
+889	8	USER	ありがとうございます！メモしました。あとは大丈夫です。	general,hotel
+889	9	SYSTEM	他にご用件はございますか？	general,hotel
+889	10	USER	いえ、大丈夫です！調べていただいて、ありがとうございました。	general,hotel
+889	11	SYSTEM	承知致しました。　ありがとうございました。	general,hotel

@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+413	0	USER	横浜で駐車場が無料で使える飲食店を探してほしいです。	general,restaurant,shopping
+413	1	SYSTEM	2件ほご候補がございます。うなぎ料理 しま村 青葉台店と、カフェ・ド・ラペというお店ですが、気になる方はございますか？	general,restaurant,shopping
+413	2	USER	そうですね、予算は普通のところがいいんですが。	general,restaurant,shopping
+413	3	SYSTEM	大変申し訳ございません。その条件では、該当するものがありませんでした。	general,restaurant,shopping
+413	4	USER	なるほど。駐車場が有料だったらどこかありますか？	general,restaurant,shopping
+413	5	SYSTEM	ありがとうございます。そういたしますと、14件ほど、候補があります。例えば、リューバンカフェというお店は如何でしょうか？	general,restaurant,shopping
+413	6	USER	いいですね。そこを予約したいです。	general,restaurant,shopping
+413	7	SYSTEM	かしこまりました。ご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。ご利用予定の日時と人数はお決まりでしょうか？	general,restaurant,shopping
+413	8	USER	9/11の14:30から4名でお願いします。	general,restaurant,shopping
+413	9	SYSTEM	ご予約完了いたしました。予約番号は、22304です。	general,restaurant,shopping
+413	10	USER	ありがとうございました。助かりました。	general,restaurant,shopping
+413	11	SYSTEM	ほかにお調べすることはございませんか？	general,restaurant,shopping
+413	12	USER	当日買い物がしたいのですが、西横浜駅近くにショッピングモールはありますか？	general,restaurant,shopping
+413	13	SYSTEM	申し訳ございません。その条件ですと、該当するお店がございませんでした。	general,restaurant,shopping
+413	14	USER	では、ショッピングモールでなくてもいいので、西横浜駅近くで買い物ができるところはありますか？	general,restaurant,shopping
+413	15	SYSTEM	1件、ローソン西横浜駅前店というお店がございます。いかがでしょうか？	general,restaurant,shopping
+413	16	USER	わかりました。定休日はありますか？	general,restaurant,shopping
+413	17	SYSTEM	定休日はございません。	general,restaurant,shopping
+413	18	USER	そうなんですね。ありがとうございました。	general,restaurant,shopping

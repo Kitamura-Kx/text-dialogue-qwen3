@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3620	0	USER	名古屋に旅行に行こうと思っています。当日は名古屋市農業センターdelaふぁーむに行く予定なのですが、営業時間はどのようになっていますか。	general,attraction,hotel,restaurant
+3620	1	SYSTEM	名古屋市農業センターdelaふぁーむの営業時間は、09:00から16:30でございます。	general,attraction,hotel,restaurant
+3620	2	USER	ありがとうございます。あと、宿泊施設の予約もしたいと思っています。予算普通でWi-Fiと駐車場を無料で利用できるところはありますか。	general,attraction,hotel,restaurant
+3620	3	SYSTEM	承知しました。ご希望の条件ですと、SakurAほか１件該当しますがいかがでしょうか？	general,attraction,hotel,restaurant
+3620	4	USER	SakurAの料金情報とレストランがあるかどうかについて教えてください。	general,attraction,hotel,restaurant
+3620	5	SYSTEM	はい。レストランはございません、料金につきましては、価格帯の情報のみで普通、となっております。	general,attraction,hotel,restaurant
+3620	6	USER	ありがとうございます。そこにしたいと思います。3/13に3人で3泊の予約をお願いします。	general,attraction,hotel,restaurant
+3620	7	SYSTEM	承知しました。3名様3月13日に３泊でご予約が完了しました。予約番号は、36139でございます。	general,attraction,hotel,restaurant
+3620	8	USER	ありがとうございます。あと、うどんとそばが食べられるお店で駐車場が無料で利用できるところはありますか。	general,attraction,hotel,restaurant
+3620	9	SYSTEM	申し訳ございません。頂いた条件を名古屋で検索致しましたが該当がございませんでした。	general,attraction,hotel,restaurant
+3620	10	USER	そうでしたか。ではジャンルはうどんやそばでなくても大丈夫です。	general,attraction,hotel,restaurant
+3620	11	SYSTEM	名古屋で無料駐車場ありですと、魚鉄という店舗ほか11件ございます。いかがでしょうか？	general,attraction,hotel,restaurant
+3620	12	USER	その魚鉄というお店の営業時間を教えてください。	general,attraction,hotel,restaurant
+3620	13	SYSTEM	はい。お昼が11:30から14:30。夜が 17:00から22:30でございます。	general,attraction,hotel,restaurant
+3620	14	USER	ありがとうございます。これで大丈夫です。	general,attraction,hotel,restaurant
+3620	15	SYSTEM	ありがとうございました。	general,attraction,hotel,restaurant

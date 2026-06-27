@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3053	0	USER	横浜への旅行を検討しています。当日買い物が出来る場所を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,shopping,restaurant,weather
+3053	1	SYSTEM	はい、ご希望を詳しくおきかせください	general,shopping,restaurant,weather
+3053	2	USER	ありがとうございます。駐車場が無料な所が良いのですが。	general,shopping,restaurant,weather
+3053	3	SYSTEM	いくつか候補があります、他に追加の希望条件はありますか	general,shopping,restaurant,weather
+3053	4	USER	いえ、駐車場が無料であれば、それだけでありがたいですね。	general,shopping,restaurant,weather
+3053	5	SYSTEM	なるほど、それなら横浜といえば、元町商店街、ここがオススメです。	general,shopping,restaurant,weather
+3053	6	USER	良さそうですね！そこは何処のエリアにありますか？	general,shopping,restaurant,weather
+3053	7	SYSTEM	中区になります	general,shopping,restaurant,weather
+3053	8	USER	なるほど。定休日とかってわかりますか？	general,shopping,restaurant,weather
+3053	9	SYSTEM	店舗により異なるようですね	general,shopping,restaurant,weather
+3053	10	USER	ありがとうございます。それと、当日利用する飲食店も探して欲しいのですが、よろしいでしょうか？	general,shopping,restaurant,weather
+3053	11	SYSTEM	はい、ご希望をどうぞ	general,shopping,restaurant,weather
+3053	12	USER	ありがとうございます。予算が高めの和食のお店を探しているのですが。	general,shopping,restaurant,weather
+3053	13	SYSTEM	横浜で予算高めの和食ですね、いくつか候補があるのですが、横浜らしい店といえば、円居 -MADOy- 横浜関内、ここがオススメです。	general,shopping,restaurant,weather
+3053	14	USER	なるほど。実は車で行こうと思っていまして、無料の駐車場があるお店だとありがたいのですが。	general,shopping,restaurant,weather
+3053	15	SYSTEM	なるほど、横浜で予算高めの和食、無料駐車場ありといえば、ずばり、うなぎ料理 しま村 青葉台店、こちら一択です。	general,shopping,restaurant,weather
+3053	16	USER	助かります。このお店の近辺の駅からの所要時間ってわかりますか？	general,shopping,restaurant,weather
+3053	17	SYSTEM	青葉台駅から徒歩で3分です。	general,shopping,restaurant,weather
+3053	18	USER	ありがとうございます。それと。高めと言ってしまって何なんですが、このお店の料金情報を教えて頂けますか？	general,shopping,restaurant,weather
+3053	19	SYSTEM	鰻釜(竹)なら4180円、お重(竹)だと3630円、こんな感じですね。	general,shopping,restaurant,weather
+3053	20	USER	ありがとうございます。最後に、当日の天気も知りたいのですが、よろしいでしょうか？	general,shopping,restaurant,weather
+3053	21	SYSTEM	はい、天気を知りたいエリアと日付を教えてください	general,shopping,restaurant,weather
+3053	22	USER	はい。3月17日の保土ケ谷区の天気をお願いしたいです。	general,shopping,restaurant,weather
+3053	23	SYSTEM	3/17 横浜 保土ケ谷区 の天気は晴時々曇、最低気温7.6度、最高気温10.7度です。	general,shopping,restaurant,weather
+3053	24	USER	助かりました。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,shopping,restaurant,weather
+3053	25	SYSTEM	よい旅を	general,shopping,restaurant,weather

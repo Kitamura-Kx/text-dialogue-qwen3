@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+763	0	USER	仙台への旅行予定なのですが、宿泊施設を調べてください。	general,hotel
+763	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,hotel
+763	2	USER	はい。若林区でレストランが併設されているところがいいです。	general,hotel
+763	3	SYSTEM	では、ANAホリデイ・イン仙台というビジネスホテルはいかがでしょうか？	general,hotel
+763	4	USER	そこにします。タイプはビジネスホテルですか？	general,hotel
+763	5	SYSTEM	はい、左様でございます。	general,hotel
+763	6	USER	わかりました。住所を教えてください。	general,hotel
+763	7	SYSTEM	住所は、宮城県仙台市若林区新寺1丁目4-1です。	general,hotel
+763	8	USER	わかりました。ありがとうございます。	general,hotel
+763	9	SYSTEM	他にお調べすることはございますか？	general,hotel
+763	10	USER	いえ、もう大丈夫です。	general,hotel
+763	11	SYSTEM	承知いたしました。ご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,hotel

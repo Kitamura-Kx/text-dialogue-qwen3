@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4751	0	USER	大阪へ旅行するので、観光名所を調べて下さい。できればWi-Fiと駐車場が無料で使えるようなところがいいです。	general,attraction,shopping
+4751	1	SYSTEM	承知しました。エリアでいうと鶴見区にある、鶴見緑地湯元 水春はいかがでしょう？ジャンルは、銭湯、スパ、温泉となります。	general,attraction,shopping
+4751	2	USER	いいですね。子供入場料と電話番号、あと最寄り駅も教えてください。	general,attraction,shopping
+4751	3	SYSTEM	はい、小学生平日ご入浴は410円、土日と祝日ご入浴は460円、小学生未満の幼児平日ご入浴は210円、土日と祝日ご入浴は260円となります、電話番号は、0642571126、最寄りの鶴見緑地駅から徒歩で2分となります。	general,attraction,shopping
+4751	4	USER	ありがとうございます。あと、商店街で買い物したいのですが、駐車場が無料で使えるようなところはありませんか？	general,attraction,shopping
+4751	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,shopping
+4751	6	USER	そうですか。なら商店街じゃなくても大丈夫です。	general,attraction,shopping
+4751	7	SYSTEM	では、エリアでいうと此花区にある、GoodBBQ舞洲 オーチャードグラスはいかがでしょう？ジャンルは、食料品となります。	general,attraction,shopping
+4751	8	USER	そこにします。ありがとうございました。	general,attraction,shopping
+4751	9	SYSTEM	ありがとうございました。	general,attraction,shopping

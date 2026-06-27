@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4533	0	USER	大阪への旅行を考えているのですが銭湯とかスパでWI-FIが使えるところはありますか？あと駐車場が無料で。	general,attraction
+4533	1	SYSTEM	大阪で銭湯スパ、WiFiと駐車場無料といえば、鶴見緑地湯元 水春、こちらになります。	general,attraction
+4533	2	USER	いいですね。WI-FIも無料ですね？ちなみに定休日はいつですか？エリアと最寄り駅も知りたいです。	general,attraction
+4533	3	SYSTEM	はい、WiFi無料です。定休日はなし、エリアは鶴見区、鶴見緑地駅が最寄りです。	general,attraction
+4533	4	USER	大変助かりました！ありがとうございました。	general,attraction
+4533	5	SYSTEM	よい旅を	general,attraction

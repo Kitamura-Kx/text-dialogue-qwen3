@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1297	0	USER	仙台へ行こうと思っています。最寄り駅が旭ヶ丘の観光名所を探していただきたいです。	general,attraction,restaurant
+1297	1	SYSTEM	スリーエム仙台市科学館は、いかがですか？	general,attraction,restaurant
+1297	2	USER	そちらのエリアを教えていただけますでしょうか。	general,attraction,restaurant
+1297	3	SYSTEM	エリアは、青葉区になります。	general,attraction,restaurant
+1297	4	USER	わかりました。ありがとうございます。	general,attraction,restaurant
+1297	5	SYSTEM	他にご用件はございますか？	general,attraction,restaurant
+1297	6	USER	WiFiが無料で利用できてラーメンまたはつけ麺が食べられる飲食店を探していただきたいです。	general,attraction,restaurant
+1297	7	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,restaurant
+1297	8	USER	ではWiFiは考慮せずラーメンまたはつけ麺が食べられる飲食店を探していただけますか？	general,attraction,restaurant
+1297	9	SYSTEM	愛と勇気と炎の拉麺屋たいらんは、いかがでしょうか？	general,attraction,restaurant
+1297	10	USER	そちらの電話番号、値段帯を教えていただけますでしょうか。	general,attraction,restaurant
+1297	11	SYSTEM	電話番号は、0227766755です。　値段帯は、安めになります。	general,attraction,restaurant
+1297	12	USER	では、10月11日11時50分から4人で予約をお願いします。	general,attraction,restaurant
+1297	13	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,attraction,restaurant
+1297	14	USER	では時間を12時20分に変更して予約をお願いします。	general,attraction,restaurant
+1297	15	SYSTEM	予約が完了しました。　予約番号は、96986です。	general,attraction,restaurant
+1297	16	USER	わかりました。ありがとうございます。	general,attraction,restaurant
+1297	17	SYSTEM	他にご用件はございますか？	general,attraction,restaurant
+1297	18	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,restaurant

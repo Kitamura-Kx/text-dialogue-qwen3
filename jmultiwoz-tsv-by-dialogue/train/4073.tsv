@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4073	0	USER	横浜への旅行を計画しています． 当日買い物ができるところを探してください．駐車場を無料で利用できるところにしてください．最寄り駅が東戸塚駅のところがいいです。	general,shopping
+4073	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping
+4073	2	USER	でしたら最寄りはどこでもいいです。	general,shopping
+4073	3	SYSTEM	横浜タカシマヤはいかがでしょうか。	general,shopping
+4073	4	USER		general,shopping

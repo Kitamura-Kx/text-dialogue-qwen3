@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3783	0	USER	京都への旅行を考えているのですが、宿泊施設を探してもらえますか？	general,hotel,shopping,taxi
+3783	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,hotel,shopping,taxi
+3783	2	USER	予算は高めで、Wi-Fiが無料で利用可能なシティホテルが希望です。	general,hotel,shopping,taxi
+3783	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,shopping,taxi
+3783	4	USER	それなら、予算の希望は外してもらって大丈夫です。	general,hotel,shopping,taxi
+3783	5	SYSTEM	ありがとうございます。そうしましたら、都ホテル 京都八条という南区エリアのシティホテルはいかがでしょうか？	general,hotel,shopping,taxi
+3783	6	USER	はい、そこにします。当日買い物ができるところはありませんか？	general,hotel,shopping,taxi
+3783	7	SYSTEM	はい、５０件ほどご案内可能です。ジャンルやエリアなど、何かご希望はございますか？	general,hotel,shopping,taxi
+3783	8	USER	北区が希望です。	general,hotel,shopping,taxi
+3783	9	SYSTEM	そういたしますと、Malebranche 北山本店というお店はいかがでしょうか？ジャンルは、食料品, お土産のお店となっております。	general,hotel,shopping,taxi
+3783	10	USER	じゃあ、そこにします。住所を教えてもらえますか？	general,hotel,shopping,taxi
+3783	11	SYSTEM	住所は、京都府京都市北区北山通植物園北山門前でございます。	general,hotel,shopping,taxi
+3783	12	USER	ありがとうございます。ジャンボタクシーを利用できて、キャッシュレス払い可能なタクシー会社はありますか？	general,hotel,shopping,taxi
+3783	13	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel,shopping,taxi
+3783	14	USER	じゃあ、キャッシュレス払いでなくても大丈夫です。	general,hotel,shopping,taxi
+3783	15	SYSTEM	ありがとうございます。では、加茂タクシー株式会社はいかがでしょうか？	general,hotel,shopping,taxi
+3783	16	USER	お願いします。電話番号はわかりますか？	general,hotel,shopping,taxi
+3783	17	SYSTEM	はい。電話番号は、0774436400でございます。	general,hotel,shopping,taxi
+3783	18	USER	6/20の午後3:10で予約をお願いします。都ホテル 京都八条からMalebranche 北山本店までお願いします。	general,hotel,shopping,taxi
+3783	19	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、47518です。	general,hotel,shopping,taxi
+3783	20	USER	ありがとうございました。	general,hotel,shopping,taxi
+3783	21	SYSTEM	他にお調べすることはございませんか？	general,hotel,shopping,taxi
+3783	22	USER	はい、大丈夫です。ありがとうございます。	general,hotel,shopping,taxi
+3783	23	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,shopping,taxi

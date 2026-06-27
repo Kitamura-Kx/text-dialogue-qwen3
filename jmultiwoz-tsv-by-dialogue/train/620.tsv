@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+620	0	USER	名古屋への旅行を考えているのですが、リゾートホテルの宿泊施設を探してもらえますか？	general,hotel,restaurant,weather
+620	1	SYSTEM	承知しました。GOLD STAY 名古屋 栄(ゴールドステイ)はいかがでしょう？何かご案内致しましょうか？	general,hotel,restaurant,weather
+620	2	USER	なるほど。ただ、Wi-Fiが無料で利用できて、予算は高めが希望です。	general,hotel,restaurant,weather
+620	3	SYSTEM	はい、こちらのGOLD STAY 名古屋 栄(ゴールドステイ)は、値段帯が高め、Wi-Fiは無料でご利用いただけます。いかがでしょうか？	general,hotel,restaurant,weather
+620	4	USER	ではそこにします。駐車場とレストランがあるかどうかを教えてください。	general,hotel,restaurant,weather
+620	5	SYSTEM	申し訳ありません。駐車場、レストランともにご用意がございません。他にご案内できることはございますか？	general,hotel,restaurant,weather
+620	6	USER	わかりました。当日利用できる飲食店も探していて、じゃけん 名古屋2号店という名前のところはありますか？	general,hotel,restaurant,weather
+620	7	SYSTEM	はい、エリアでいうと西区にございます。何かご案内致しましょうか？	general,hotel,restaurant,weather
+620	8	USER	了解です。定休日と営業時間を教えてください。	general,hotel,restaurant,weather
+620	9	SYSTEM	はい、営業時間は17時から23時、定休日はございません。他にご案内できることはございますか？	general,hotel,restaurant,weather
+620	10	USER	わかりました。4月16日の中区天気も教えてください。	general,hotel,restaurant,weather
+620	11	SYSTEM	承知しました。天気は晴のち雨、最低気温12.1度、最高気温23.7度となります。他にご用件はございますか？	general,hotel,restaurant,weather
+620	12	USER	ありがとうございます。もう大丈夫です。	general,hotel,restaurant,weather
+620	13	SYSTEM	ありがとうございます。	general,hotel,restaurant,weather

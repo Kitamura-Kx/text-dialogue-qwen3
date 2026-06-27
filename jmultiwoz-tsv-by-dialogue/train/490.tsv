@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+490	0	USER	札幌へ旅行に行くのですがジャンボタクシーが利用できるタクシー会社を教えてください	general,taxi,weather
+490	1	SYSTEM	かしこまりました。北都ベリアールサービス(株)がございます。	general,taxi,weather
+490	2	USER	キャッシュレス決済は対応してますか？電話番号も教えてください	general,taxi,weather
+490	3	SYSTEM	はい。キャッシュレスにも対応しております。電話番号は0118202200でございます。	general,taxi,weather
+490	4	USER	それでは6/27 13:00に「文太郎」から「てんぷら膳」まで予約をお願いします	general,taxi,weather
+490	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は80222でございます。	general,taxi,weather
+490	6	USER	6/27の中央区の最低・最高気温を教えてください	general,taxi,weather
+490	7	SYSTEM	最低気温は13.9度、最高気温は23.9度でございます。	general,taxi,weather
+490	8	USER	有難うございました、利用させてもらいます	general,taxi,weather
+490	9	SYSTEM	ほかにご用件はございませんか。	general,taxi,weather
+490	10	USER	はい大丈夫です	general,taxi,weather
+490	11	SYSTEM	承知しました。ありがとうございました。	general,taxi,weather

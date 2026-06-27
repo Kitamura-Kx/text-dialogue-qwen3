@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+121	0	USER	こんばんは！ 今度、横浜への旅行を計画しているので、案内をお願いします。	general,restaurant,hotel
+121	1	SYSTEM	横浜でございますね。かしこまりました。	general,restaurant,hotel
+121	2	USER	まず、当日食事をする飲食店を探しているのですが、店名がイの一番屋というところです。お探しいただけますか？	general,restaurant,hotel
+121	3	SYSTEM	はい。ございました。どのような情報をご希望ですか。	general,restaurant,hotel
+121	4	USER	最寄り駅について、教えていただけますか？	general,restaurant,hotel
+121	5	SYSTEM	最寄り駅はセンター北駅でございます。	general,restaurant,hotel
+121	6	USER	そうなんですね。ありがとうございます！ あと、宿泊施設についてもお願いします。 名前がホテルユニゾ横浜駅西というところについて、お探しいただけますか？	general,restaurant,hotel
+121	7	SYSTEM	はい。ございました。	general,restaurant,hotel
+121	8	USER	そうしましたら、そちらの施設のチェックアウト終了時刻と住所について、教えていただけますでしょうか？	general,restaurant,hotel
+121	9	SYSTEM	チェックアウト終了時刻は12:00となっております。住所は神奈川県横浜市西区南幸2丁目17-6でございます。	general,restaurant,hotel
+121	10	USER	ありがとうございます！承知しました。	general,restaurant,hotel
+121	11	SYSTEM	ほかにご用件はございませんか。	general,restaurant,hotel
+121	12	USER	はい！あとは大丈夫です。本日は、ありがとうございました。	general,restaurant,hotel
+121	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel

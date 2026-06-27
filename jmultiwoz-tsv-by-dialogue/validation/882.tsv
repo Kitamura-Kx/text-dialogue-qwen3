@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+882	0	USER	札幌への旅行を計画しています。旅行当日の飲食店を探しているのですが、駐車場が無料のホテルレストランは有りますか？	general,restaurant,shopping,hotel
+882	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping,hotel
+882	2	USER	では、ホテルレストランでなくても大丈夫です。	general,restaurant,shopping,hotel
+882	3	SYSTEM	かしこまりました。そうしますと、24件ほど、ご案内可能です。例えば、ふしみグリエという、洋食・西洋料理, イタリアン・フレンチのジャンルのお店はいかがでしょうか？	general,restaurant,shopping,hotel
+882	4	USER	ありがとうございます。ふしみグリエにしようと思います。近辺の駅からの所要時間と、Wi-Fiがあるかを教えて貰えますか？	general,restaurant,shopping,hotel
+882	5	SYSTEM	最寄りのロープウェイ入口停留所から、徒歩15分の場所にあります。WiFiにつきましては、無しとなっております。申し訳ありません。	general,restaurant,shopping,hotel
+882	6	USER	ありがとうございます。ふしみグリエの予約をお願いしたいのですが、11/18の11：00から２人でお願いできますか？	general,restaurant,shopping,hotel
+882	7	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。ご予約番号は、27495です。	general,restaurant,shopping,hotel
+882	8	USER	ありがとうございます。旅行当日に買い物が出来る場所も探しているのですが、中央区の商店街でおすすめはありますか？	general,restaurant,shopping,hotel
+882	9	SYSTEM	そうですね。では、狸小路商店街というところはいかがでしょうか？すすきの駅から徒歩3分、大通駅から徒歩で5分の場所にある商店街です。	general,restaurant,shopping,hotel
+882	10	USER	ありがとうございます。最寄り駅はすすきの駅でよかったでしょうか？あと、狸小路商店街の住所も知りたいです。	general,restaurant,shopping,hotel
+882	11	SYSTEM	はい、最寄りは、すすきの駅です。住所は、北海道札幌市中央区南2条西5丁目でございます。	general,restaurant,shopping,hotel
+882	12	USER	ありがとうございます。当日の宿泊施設も探しています。予算は安めで、Wi-Fi無料、レストランも併設されている場所が良いのですが。	general,restaurant,shopping,hotel
+882	13	SYSTEM	かしこまりました。そうしますと、札幌東急REIホテルはいかがでしょうか？	general,restaurant,shopping,hotel
+882	14	USER	ありがとうございます。そこにしようと思います。最寄り駅と近辺の駅からの所要時間を教えてもらえますか？	general,restaurant,shopping,hotel
+882	15	SYSTEM	かしこまりました。最寄りはすすきの駅です。すすきの駅から徒歩で1分でアクセスできます。	general,restaurant,shopping,hotel
+882	16	USER	ありがとうございました。	general,restaurant,shopping,hotel
+882	17	SYSTEM	他になにかお調べすることはございますか？	general,restaurant,shopping,hotel
+882	18	USER	いえ、ほかは大丈夫です。ありがとうございました。	general,restaurant,shopping,hotel
+882	19	SYSTEM	では、またのご利用をお待ちしております。	general,restaurant,shopping,hotel

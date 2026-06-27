@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4054	0	USER	横浜への旅行を計画しています。 観光名所を探してください。	general,attraction,restaurant
+4054	1	SYSTEM	かしこまりました。50件ほど見つかりましたが、何かご希望はありますか？	general,attraction,restaurant
+4054	2	USER	駐車場を無料で利用できるところにしてください。地区は鶴見区です。	general,attraction,restaurant
+4054	3	SYSTEM	かしこまりました。それではキリンビール 横浜工場はいかがでしょうか？	general,attraction,restaurant
+4054	4	USER	いいですね。そこの営業時間，定休日が知りたいです。	general,attraction,restaurant
+4054	5	SYSTEM	はい、営業時間は10時から17時までで、定休日は月曜日でございます。	general,attraction,restaurant
+4054	6	USER	続いて、飲食店を探してください。駐車場を無料で利用できて、最寄り駅が元町・中華街駅のところが希望です。	general,attraction,restaurant
+4054	7	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction,restaurant
+4054	8	USER	そうですか。では駐車場はなくてもいいです。	general,attraction,restaurant
+4054	9	SYSTEM	かしこまりました。それではリオス ボングスタイオはいかがでしょうか？	general,attraction,restaurant
+4054	10	USER	エリアはどこになりますか？	general,attraction,restaurant
+4054	11	SYSTEM	エリアは中区でございます。	general,attraction,restaurant
+4054	12	USER	解決しました。ありがとうございました。	general,attraction,restaurant

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3806	0	USER	京都へ旅行に行くので泊まるところを探しているのですが、安めでレストランが併設されているところはありませんか？	general,hotel,restaurant,taxi
+3806	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel,restaurant,taxi
+3806	2	USER	では、予算は考慮しなくていいです。	general,hotel,restaurant,taxi
+3806	3	SYSTEM	かしこまりました。それではNazuna 京都 椿通はいかがでしょうか？	general,hotel,restaurant,taxi
+3806	4	USER	そこにします。人数3人で、8月5日から2泊予約できますか？	general,hotel,restaurant,taxi
+3806	5	SYSTEM	お待たせ致しました。予約番号54189でお取りさせていただきました。	general,hotel,restaurant,taxi
+3806	6	USER	ありがとうございます。あと焼肉・ホルモン系が食べられるお店を探していますが、駐車場無料で安めのところはありませんか？	general,hotel,restaurant,taxi
+3806	7	SYSTEM	それでは、海雲亭 洛西店はいかがでしょうか？	general,hotel,restaurant,taxi
+3806	8	USER	いいですね。電話番号と最寄り駅を教えてください。	general,hotel,restaurant,taxi
+3806	9	SYSTEM	電話番号は0753810298、最寄り駅は桂駅でございます。	general,hotel,restaurant,taxi
+3806	10	USER	わかりました。8月5日の15:30、2人で予約をお願いします。	general,hotel,restaurant,taxi
+3806	11	SYSTEM	お待たせ致しました。予約番号46894でお取りさせていただきました。	general,hotel,restaurant,taxi
+3806	12	USER	ありがとうございます。タクシーを使おうと思っていますが、ジャンボタクシーでキャッシュレスに対応しているところってありますか？	general,hotel,restaurant,taxi
+3806	13	SYSTEM	それでは都タクシー株式会社はいかがでしょうか？	general,hotel,restaurant,taxi
+3806	14	USER	そこにします。8月5日、14:20にNazuna 京都 椿通から海雲亭 洛西店まで行きたいので、予約してください。	general,hotel,restaurant,taxi
+3806	15	SYSTEM	お待たせ致しました。予約番号86559でお取りさせていただきました。	general,hotel,restaurant,taxi
+3806	16	USER	タクシー会社の電話番号も教えてもらえますか。	general,hotel,restaurant,taxi
+3806	17	SYSTEM	電話番号は0756616611でございます。	general,hotel,restaurant,taxi
+3806	18	USER	わかりました。ありがとうございます。	general,hotel,restaurant,taxi
+3806	19	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,restaurant,taxi

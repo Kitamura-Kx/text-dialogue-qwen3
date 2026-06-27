@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3672	0	USER	こんにちは。今度横浜に行くのですが、観光名所を探しています。	general,attraction,restaurant
+3672	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction,restaurant
+3672	2	USER	駐車場が無料のところがいいです。	general,attraction,restaurant
+3672	3	SYSTEM	それでしたら、弘明寺はいかがですか？	general,attraction,restaurant
+3672	4	USER	いいですね。そちらの子供入場料と、定休日を知りたいです。	general,attraction,restaurant
+3672	5	SYSTEM	はい。子供入場料は0円です。また、定休日は無しとなっております。	general,attraction,restaurant
+3672	6	USER	ありがとうございます。あと、当日の飲食店も探しています。予算は普通で、カフェ・スイーツが食べれるところはありますか？	general,attraction,restaurant
+3672	7	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,attraction,restaurant
+3672	8	USER	では、食事のジャンルは特にこだわりません。	general,attraction,restaurant
+3672	9	SYSTEM	かしこまりました。では、獅子丸 江田店はいかがでしょうか？	general,attraction,restaurant
+3672	10	USER	ありがとうございます。そちらのエリアはどちらになりますか？	general,attraction,restaurant
+3672	11	SYSTEM	はい。エリアは青葉区です。	general,attraction,restaurant
+3672	12	USER	では、10/16の14:50で４名、予約をお願いできますか？	general,attraction,restaurant
+3672	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、68090です。	general,attraction,restaurant
+3672	14	USER	ありがとうございます。以上です、お世話になりました。	general,attraction,restaurant
+3672	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant

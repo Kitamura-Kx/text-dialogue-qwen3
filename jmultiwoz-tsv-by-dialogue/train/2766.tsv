@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2766	0	USER	横浜へ旅行に行きたく、当日買い物ができるところを探してます。エリアは金沢区で無料の駐車場が利用できるところでどこかありますか？	general,shopping,taxi
+2766	1	SYSTEM	はい、コストコ金沢シーサイド倉庫がございます。ジャンルは、食料品、家電、電化製品、ファッション、医薬品、化粧品、その他、となります。	general,shopping,taxi
+2766	2	USER	ありがとうございます。最後に当日タクシーを利用したく、キャッシュレス払いができて、ジャンボタクシーがある会社を探してほしいです。	general,shopping,taxi
+2766	3	SYSTEM	株式会社グリーンキャブはいかがでしょう？どちらも対応しております。電話番号は、0456638181となります。	general,shopping,taxi
+2766	4	USER	ありがとうございます。それでは予約をお願いします。日時は8/21、10:30で出発地は馬車道 鮨 恵しんからコストコ金沢シーサイド倉庫まででお願いします。	general,shopping,taxi
+2766	5	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,shopping,taxi
+2766	6	USER	それでは時間を11:30に変更でいかがでしょうか。	general,shopping,taxi
+2766	7	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、77404となります。	general,shopping,taxi
+2766	8	USER	ありがとうございます。こちらからは以上です。	general,shopping,taxi
+2766	9	SYSTEM	ありがとうございました。	general,shopping,taxi

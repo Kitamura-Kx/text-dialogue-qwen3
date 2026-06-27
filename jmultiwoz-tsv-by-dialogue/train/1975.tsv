@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1975	0	USER	すみません、福岡へ旅行に行くのですが、宿泊施設を探してもらえますか？	general,hotel
+1975	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel
+1975	2	USER	城南区にある、レストランが併設されているところを希望します。予算は普通が希望です。	general,hotel
+1975	3	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel
+1975	4	USER	そうでしたか。では、地区はどこでも大丈夫です。	general,hotel
+1975	5	SYSTEM	かしこまりました。では、ANA クラウンプラザホテル福岡はいかがでしょうか？	general,hotel
+1975	6	USER	ありがとうございます。そちらのホテルの、料金情報とタイプについて教えていただけますか？	general,hotel
+1975	7	SYSTEM	はい。申し訳ございませんが料金情報については、値段帯が普通。Wi-Fiが無料で利用でき、駐車場は有料のものがあることしかわかりませんでした。タイプはシティホテルになります。	general,hotel
+1975	8	USER	そうなんですね、わかりました。ありがとうございます。では、そちらを予約したいのですが、11月28日から2泊、4人でお願いします。	general,hotel
+1975	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、60481です。	general,hotel
+1975	10	USER	予約の手配、ありがとうございます。あとはもう大丈夫です。この度はありがとうございました。	general,hotel
+1975	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

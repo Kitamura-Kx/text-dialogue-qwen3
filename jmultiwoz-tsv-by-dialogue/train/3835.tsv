@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3835	0	USER	札幌への旅を考えています。宿を探しているのですが、カプセルホテルなどの簡易宿でレストランがあるところはありますでしょうか？	general,hotel,taxi
+3835	1	SYSTEM	札幌ゲストハウスやすべえは、いかがですか？	general,hotel,taxi
+3835	2	USER	ありがとうございます。そこは駐車場はありますか？	general,hotel,taxi
+3835	3	SYSTEM	申し訳ありません、駐車場については、不明となっています。	general,hotel,taxi
+3835	4	USER	わかりました。あと当日はタクシーでの移動を考えています。キャッシュレス払いが可能なタクシー会社をご紹介いただけますか？	general,hotel,taxi
+3835	5	SYSTEM	暁交通(株)は、いかがですか？	general,hotel,taxi
+3835	6	USER	そちらはジャンボタクシーは対応されてますか？	general,hotel,taxi
+3835	7	SYSTEM	はい、ジャンボタクシーも対応しております。	general,hotel,taxi
+3835	8	USER	では暁交通さまで予約をお願いします。4/30の12:40に札幌ゲストハウスやすべえからホテルルートイン札幌中央までの移動です。	general,hotel,taxi
+3835	9	SYSTEM	予約出来ました。予約番号は、95573です。	general,hotel,taxi
+3835	10	USER	ありがとうございます。暁交通さまの電話番号もお教えいただけますか？	general,hotel,taxi
+3835	11	SYSTEM	電話番号は、0117712632です。	general,hotel,taxi
+3835	12	USER	ありがとうございました。	general,hotel,taxi
+3835	13	SYSTEM	他にご用件はありますか？	general,hotel,taxi
+3835	14	USER	いえ、ありません。助かりました。	general,hotel,taxi

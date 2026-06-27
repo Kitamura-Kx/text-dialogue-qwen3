@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1192	0	USER	那覇へ行きたいのですが、当日買い物ができるところを探しています。	general,shopping,restaurant,weather
+1192	1	SYSTEM	何かご希望はございますか？	general,shopping,restaurant,weather
+1192	2	USER	ジャンルは問いませんが、小禄駅近辺がいいです。	general,shopping,restaurant,weather
+1192	3	SYSTEM	申し訳ありません、その条件ではご紹介ができません。いかが致しましょう？	general,shopping,restaurant,weather
+1192	4	USER	そうですか。では場所も問いませんので、おすすめを１件紹介して下さい。	general,shopping,restaurant,weather
+1192	5	SYSTEM	では、エリアでいうと本庁にある、ナビィ三線はいかがでしょう？	general,shopping,restaurant,weather
+1192	6	USER	そちらの住所はわかりますか？	general,shopping,restaurant,weather
+1192	7	SYSTEM	はい、住所は沖縄県那覇市牧志3丁目9-11となります。	general,shopping,restaurant,weather
+1192	8	USER	定休日はありますか？	general,shopping,restaurant,weather
+1192	9	SYSTEM	はい、火曜日、水曜日、木曜日となります。	general,shopping,restaurant,weather
+1192	10	USER	わかりました。それと、当日食事ができるところも探して下さい。	general,shopping,restaurant,weather
+1192	11	SYSTEM	何かご希望はございますか？	general,shopping,restaurant,weather
+1192	12	USER	安めの予算で、駐車場が無料で使える居酒屋さんがいいです。	general,shopping,restaurant,weather
+1192	13	SYSTEM	エリアでいうと本庁に、山内農場 那覇新都心店がございます。最寄りの古島駅から徒歩で11分、営業時間は17時から0時、定休日はございません。電話番号は0988605688、住所は沖縄県那覇市銘苅1丁目3-1 アイ・ステーション店舗 1階2階、Wi-Fiの有無は不明です。	general,shopping,restaurant,weather
+1192	14	USER	ありがとうございます。では予約をお願いします。２月１８日の１５時３０分で、４人でお願いします。	general,shopping,restaurant,weather
+1192	15	SYSTEM	予約が完了し、ご予約番号は、69236となります。	general,shopping,restaurant,weather
+1192	16	USER	２月１８日の本庁の天気はわかりますか？	general,shopping,restaurant,weather
+1192	17	SYSTEM	はい、天気は曇、最低気温18.7度、最高気温20.9度となります。	general,shopping,restaurant,weather
+1192	18	USER	わかりました。ありがとうございます。では、失礼いたします。	general,shopping,restaurant,weather

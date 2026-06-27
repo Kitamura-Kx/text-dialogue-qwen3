@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+38	0	USER	恐れ入ります。旅行を計画していまして、相談に乗ってほしいのですが。	general,restaurant
+38	1	SYSTEM	ご利用ありがとうございます。お手伝いさせていただきます。	general,restaurant
+38	2	USER	よろしく。那覇に行こうと思っていましてね。	general,restaurant
+38	3	SYSTEM	那覇旅行のご予定ですね。何かお探しすることはございますか？	general,restaurant
+38	4	USER	食事ができるところを決めておきたいんですけど、予算的に普通のところで良いところがないかなと。	general,restaurant
+38	5	SYSTEM	那覇で、お値段帯が普通のところは、45件ほどございます。お食事のジャンルなどでご希望はございますか？	general,restaurant
+38	6	USER	いえ、特にないです。	general,restaurant
+38	7	SYSTEM	左様でございますね。では、うりずん本店は如何でしょうか？	general,restaurant
+38	8	USER	そこの住所は、どの辺になりますか？	general,restaurant
+38	9	SYSTEM	うりずん本店の住所は、沖縄県那覇市安里388-5です。	general,restaurant
+38	10	USER	定休日と駐車場があるかも知りたいんですけど。	general,restaurant
+38	11	SYSTEM	はい。こちらの店舗は定休日はございません。また駐車場ですが、申し訳ないのですがこちらではわかりかねます。	general,restaurant
+38	12	USER	そうなんですね。ありがとうございます。	general,restaurant
+38	13	SYSTEM	お役に立てず申し訳ございません。他に何かご質問などございますでしょうか？	general,restaurant
+38	14	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant
+38	15	SYSTEM	では、本日はご利用ありがとうございました。またのご利用をお待ちしております。	general,restaurant

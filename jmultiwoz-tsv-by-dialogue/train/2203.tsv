@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2203	0	USER	こんにちは、東京旅行を考えています。そのときにおもちゃが買えるお店を教えてもらえませんか？	general,shopping,attraction,weather
+2203	1	SYSTEM	東京でジャンルおもちゃで検索しましたが、ヒットしませんでした。	general,shopping,attraction,weather
+2203	2	USER	そうですか、残念。じゃあ、ジャンルは特に無くていいので、お買い物できる場所を教えて下さい。	general,shopping,attraction,weather
+2203	3	SYSTEM	４７件ヒットします。何か追加の希望条件はありますか？	general,shopping,attraction,weather
+2203	4	USER	他には特に条件はないんです。オススメのお店でお願いします！	general,shopping,attraction,weather
+2203	5	SYSTEM	それでは人気のアクアシティお台場はいかがでしょうか？	general,shopping,attraction,weather
+2203	6	USER	こちらのお店いいですね。最寄り駅と、その駅からアクセスするのにどれくらいかかるか教えてもらえませんか？	general,shopping,attraction,weather
+2203	7	SYSTEM	最寄りは台場駅で、台場駅から徒歩で1分、他に東京テレポート駅からなら徒歩で6分です。	general,shopping,attraction,weather
+2203	8	USER	教えて下さってありがとうございます。あと、観光スポットも探している所なんです。Wi-Fiと駐車場が無料で使えるところなんてないですかね？	general,shopping,attraction,weather
+2203	9	SYSTEM	WiFi駐車場が無料な観光スポットは東京になさそうです。	general,shopping,attraction,weather
+2203	10	USER	そうですか。では、駐車場に関しては条件から外してもらっても大丈夫です！	general,shopping,attraction,weather
+2203	11	SYSTEM	Wifi無料だけならば、１９件ヒットしますね。追加の条件はありますか？	general,shopping,attraction,weather
+2203	12	USER	他には特にありません。オススメの場所でお願いします。	general,shopping,attraction,weather
+2203	13	SYSTEM	それならばteamLab Planets TOKYOをオススメします。	general,shopping,attraction,weather
+2203	14	USER	こちらってどんなジャンルの観光スポットでしょうか？	general,shopping,attraction,weather
+2203	15	SYSTEM	美術館・博物館, 絶景, エンタメ・アミューズメントになります。	general,shopping,attraction,weather
+2203	16	USER	そうなんですね、楽しそうです。あと料金に関する情報がわかれば教えて下さい。	general,shopping,attraction,weather
+2203	17	SYSTEM	大人18歳以上が3,200、大学生・専門学生なら2,500円、中・高生は2,000円、小人は4～12歳なら300円、3歳以下無料。他シニア割や障がい者割が別途あります。	general,shopping,attraction,weather
+2203	18	USER	詳しくお調べ下さり、ありがとうございました！	general,shopping,attraction,weather
+2203	19	SYSTEM	他に知りたいことはありますか？	general,shopping,attraction,weather
+2203	20	USER	そうですね、最後に文京区の5月25日の最高気温と最低気温がどのような感じか知りたいです。	general,shopping,attraction,weather
+2203	21	SYSTEM	5/25 東京 文京区 の天気は雨時々曇、最高気温24.7度、最低気温10.8度です。	general,shopping,attraction,weather
+2203	22	USER	丁寧にご対応して下さってありがとうございました！	general,shopping,attraction,weather

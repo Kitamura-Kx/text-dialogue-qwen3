@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3425	0	USER	今度、京都に行くのですが、どこか宿泊できるところを探しています。	general,hotel
+3425	1	SYSTEM	ありがとうございます。京都の宿泊施設ですと、101件ほどからお探し出来ますが、何かご希望はありますか？	general,hotel
+3425	2	USER	予算が普通のところがいいです。	general,hotel
+3425	3	SYSTEM	かしこまりました。それでは、なごみ宿 都和はいかがでしょうか？	general,hotel
+3425	4	USER	いいですね、ありがとうございます。そちらのチェックアウト終了時間と、Wi-Fiの有無は分かりますか？	general,hotel
+3425	5	SYSTEM	ありがとうございます。チェックアウト終了時間は午前10時、Wi-Fiは無料でご利用いただけます。	general,hotel
+3425	6	USER	ありがとうございます。では、5/14に２名で４泊、予約をお願いできますか？	general,hotel
+3425	7	SYSTEM	お待たせいたしました。予約番号75302でお取りさせていただきました。	general,hotel
+3425	8	USER	ありがとうございます。以上です、お世話になりました。	general,hotel
+3425	9	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

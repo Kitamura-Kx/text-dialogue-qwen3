@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+628	0	USER	今度札幌に行くのですが、どこか観光名所を探しています。	general,attraction,shopping,weather
+628	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,shopping,weather
+628	2	USER	最寄り駅がロープウェイ入口停留所のところで、ジャンルは城がいいなと思っています。	general,attraction,shopping,weather
+628	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,attraction,shopping,weather
+628	4	USER	では、ジャンルは特にこだわりません。	general,attraction,shopping,weather
+628	5	SYSTEM	では札幌もいわ山ロープウェイはいかがでしょうか。	general,attraction,shopping,weather
+628	6	USER	ありがとうございます。そちらの営業時間を教えてください。	general,attraction,shopping,weather
+628	7	SYSTEM	営業時間は10:30～22:00でございます。	general,attraction,shopping,weather
+628	8	USER	ありがとうございます。あと、当日文房具や雑貨を買いたいのですが、駐車場が無料のところはありますか？	general,attraction,shopping,weather
+628	9	SYSTEM	TSUTAYA 美しが丘がございます。	general,attraction,shopping,weather
+628	10	USER	ありがとうございます。そちらの最寄り駅と定休日を知りたいです。	general,attraction,shopping,weather
+628	11	SYSTEM	最寄り駅は上野幌駅でございます。定休日はございません。	general,attraction,shopping,weather
+628	12	USER	ありがとうございます。最後に、当日のお天気を知りたいです。2/16の南区の天気です。	general,attraction,shopping,weather
+628	13	SYSTEM	天気は晴、最低気温は-2.1度で最高気温が1度でございます。	general,attraction,shopping,weather
+628	14	USER	分かりました。大変お世話になりました。	general,attraction,shopping,weather
+628	15	SYSTEM	ほかにご用件はございますか。	general,attraction,shopping,weather
+628	16	USER	大丈夫です。ありがとうございました。	general,attraction,shopping,weather
+628	17	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,weather

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4597	0	USER	大阪への旅行を計画しています． 当日泊まる宿泊施設を探してください．Wi-Fiが無料で利用できるところにしてください．予算は安めが希望です．レストランが併設されているところにしてください．	general,hotel,attraction
+4597	1	SYSTEM	新大阪サニーストンホテルはいかがでしょうか。	general,hotel,attraction
+4597	2	USER	そちらの，住所，最寄り駅を教えていただけますか。	general,hotel,attraction
+4597	3	SYSTEM	住所は大阪府大阪市淀川区西中島4丁目12-2で最寄り駅は西中島南方駅です。	general,hotel,attraction
+4597	4	USER	ありがとうございます。あと、当日訪れる観光名所を探してください．最寄り駅がユニバーサルシティ駅のところがいいです。	general,hotel,attraction
+4597	5	SYSTEM	ユニバーサル・シティウォーク大阪はいかがでしょうか。	general,hotel,attraction
+4597	6	USER	そちらのWi-Fiの有無，子供入場料，住所を教えていただけますか。	general,hotel,attraction
+4597	7	SYSTEM	Wi-Fiの有無は有り(無料)、子供入場料は0、住所は大阪府大阪市此花区島屋6丁目2番61号です。	general,hotel,attraction
+4597	8	USER		general,hotel,attraction

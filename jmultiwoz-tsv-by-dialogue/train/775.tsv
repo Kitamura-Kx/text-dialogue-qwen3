@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+775	0	USER	札幌へ行こうと思っています。予算が普通な和食が食べられる飲食店を探していただきたいです。	general,restaurant,hotel,attraction
+775	1	SYSTEM	かしこまりました。23件ご案内できますが、他にエリアなど、ご希望はございませんか？	general,restaurant,hotel,attraction
+775	2	USER	特に他の希望はないです。	general,restaurant,hotel,attraction
+775	3	SYSTEM	そういたしますと、一軒家ダイニング ~すしBAR~というお店はいかがでしょうか？	general,restaurant,hotel,attraction
+775	4	USER	そちらの営業時間と定休日、最寄り駅を教えていただけますでしょうか。	general,restaurant,hotel,attraction
+775	5	SYSTEM	営業時間は、17:00～翌3:00となっております。定休日は水曜日です。最寄りは、すすきの駅で、徒歩3分でアクセスできます。	general,restaurant,hotel,attraction
+775	6	USER	わかりました。ありがとうございます。	general,restaurant,hotel,attraction
+775	7	SYSTEM	他にお調べすることはございませんか？	general,restaurant,hotel,attraction
+775	8	USER	駐車場が無料で利用できる宿泊施設を探していただきたいです。	general,restaurant,hotel,attraction
+775	9	SYSTEM	かしこまりました。6件ご案内可能です。たとえば、ホテルルートイン札幌白石、というビジネスホテルはいかがでしょうか？	general,restaurant,hotel,attraction
+775	10	USER	そちらのチェックアウト終了時刻は何時でしょうか？	general,restaurant,hotel,attraction
+775	11	SYSTEM	チェックアウトは、10時までとなっております。	general,restaurant,hotel,attraction
+775	12	USER	では、4月22日から4泊4人で予約をお願いします。	general,restaurant,hotel,attraction
+775	13	SYSTEM	申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,restaurant,hotel,attraction
+775	14	USER	では3人に変更して予約をお願いします。	general,restaurant,hotel,attraction
+775	15	SYSTEM	ありがとうございます。3名様にてご予約完了いたしました。予約番号は、63782でございます。	general,restaurant,hotel,attraction
+775	16	USER	わかりました。ありがとうございます。	general,restaurant,hotel,attraction
+775	17	SYSTEM	ほかには、なにかご用件はございませんか？	general,restaurant,hotel,attraction
+775	18	USER	WiFiが無料な観光名所を探していただきたいです。	general,restaurant,hotel,attraction
+775	19	SYSTEM	かしこまりました。では、札幌ドームはいかがでしょうか？	general,restaurant,hotel,attraction
+775	20	USER	そちらの営業時間と大人の入場料を教えていただけますでしょうか。	general,restaurant,hotel,attraction
+775	21	SYSTEM	営業時間は、施設により異なるとなっております。大人入場料は、1250円です。	general,restaurant,hotel,attraction
+775	22	USER	わかりました。ありがとうございます。	general,restaurant,hotel,attraction
+775	23	SYSTEM	ほかに、お知りになりたい情報など、ございませんか？	general,restaurant,hotel,attraction
+775	24	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant,hotel,attraction

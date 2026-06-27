@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2795	0	USER	横浜への旅行を検討しています。当日買い物が出来る施設を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,shopping,hotel,weather
+2795	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,hotel,weather
+2795	2	USER	そうですね。駐車場が無料で利用出来ればと思うのですが、どうでしょうか？	general,shopping,hotel,weather
+2795	3	SYSTEM	申し訳ありません、駐車場が無料でご利用可能な店舗はございません。いかが致しましょう？	general,shopping,hotel,weather
+2795	4	USER	そうですね。でしたら、駐車場は考慮しませんので、何処かおすすめの施設はありますか？	general,shopping,hotel,weather
+2795	5	SYSTEM	では、エリアでいうと西区にある、Leaf Minato Miraiはいかがでしょう？ジャンルは、ショッピングモールとなります。	general,shopping,hotel,weather
+2795	6	USER	そこで検討してみようと思います。このお店の営業時間を教えて頂けますか？	general,shopping,hotel,weather
+2795	7	SYSTEM	はい、営業時間は10時30分から20時となります。	general,shopping,hotel,weather
+2795	8	USER	ありがとうございます。それと、当日宿泊出来る場所も探しているのですが、このまま続けてもよろしいでしょうか？	general,shopping,hotel,weather
+2795	9	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,hotel,weather
+2795	10	USER	そうですね、値段は安めで、レストランが併設されている施設って該当はありますかね？	general,shopping,hotel,weather
+2795	11	SYSTEM	はい、エリアでいうと西区にある、ホテルプラムはいかがでしょう？タイプはリゾートホテルとなります。	general,shopping,hotel,weather
+2795	12	USER	そこで検討してみたいです。この施設の住所を教えて頂けますか？	general,shopping,hotel,weather
+2795	13	SYSTEM	住所は神奈川県横浜市西区北幸2丁目9-1となります。	general,shopping,hotel,weather
+2795	14	USER	ありがとうございます。最後に、当日の天気も教えて頂きたいのですが、よろしいでしょうか？	general,shopping,hotel,weather
+2795	15	SYSTEM	承知しました。ご希望のエリアと日付を教えていただけますか？	general,shopping,hotel,weather
+2795	16	USER	はい。11月28日の神奈川区でお願いします。	general,shopping,hotel,weather
+2795	17	SYSTEM	ありがとうございます。天気は曇、最低気温9.2度、最高気温14.2度となります。	general,shopping,hotel,weather
+2795	18	USER	助かりました。もう少し検討してみたいと思います。ご対応、ありがとうございました。	general,shopping,hotel,weather
+2795	19	SYSTEM	ありがとうございました。	general,shopping,hotel,weather

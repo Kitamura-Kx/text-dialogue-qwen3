@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3440	0	USER	東京へ行こうと思ってます。ジャンボタクシーがあるタクシー会社探しています。	general,taxi,weather
+3440	1	SYSTEM	かしこまりました。それではキャピタルオートはいかがでしょうか？	general,taxi,weather
+3440	2	USER	キャッシュレス対応ですか？	general,taxi,weather
+3440	3	SYSTEM	はい、キャッシュレスにも対応しております。	general,taxi,weather
+3440	4	USER	電話番号教えて下さい。	general,taxi,weather
+3440	5	SYSTEM	0357552151でございます。	general,taxi,weather
+3440	6	USER	2/11の10：50で、花炎新宿店から東京ステーションホテルまでの予約お願いします。	general,taxi,weather
+3440	7	SYSTEM	お待たせいたしました。それでは予約番号3165でお取りさせていただきました。	general,taxi,weather
+3440	8	USER	ありがとうございます。2/11の北区の最高気温知りたいです。	general,taxi,weather
+3440	9	SYSTEM	はい、当日は15.3度の予報です。	general,taxi,weather
+3440	10	USER	ありがとうございました。失礼します。	general,taxi,weather
+3440	11	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi,weather

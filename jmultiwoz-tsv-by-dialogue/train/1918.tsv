@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1918	0	USER	京都への旅行を考えているのですが、飲食店を探しています。	general,restaurant,shopping
+1918	1	SYSTEM	京都の飲食店ですね。お食事のジャンルやエリアなど、何かご希望はございますか？	general,restaurant,shopping
+1918	2	USER	西京区で予算は安めが嬉しいです。	general,restaurant,shopping
+1918	3	SYSTEM	かしこまりました。そうしますと、海雲亭 洛西店という焼肉・ホルモンのお店はいかがでしょうか？	general,restaurant,shopping
+1918	4	USER	駐車場は無料ですか？	general,restaurant,shopping
+1918	5	SYSTEM	はい、無料でご利用いただけます。	general,restaurant,shopping
+1918	6	USER	では、そこにします。住所と電話番号を教えてください。	general,restaurant,shopping
+1918	7	SYSTEM	住所は、京都府京都市西京区御陵谷町43-1です。電話番号は、0753810298でございます。	general,restaurant,shopping
+1918	8	USER	ありがとうございます。次に、買い物ができるところも教えて欲しいです。	general,restaurant,shopping
+1918	9	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,restaurant,shopping
+1918	10	USER	六地蔵駅が最寄りのスポーツ系のお店はありますか？	general,restaurant,shopping
+1918	11	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping
+1918	12	USER	では、スポーツにかかわらず、六地蔵駅周辺のお店を教えてください。	general,restaurant,shopping
+1918	13	SYSTEM	ありがとうございます。そういたしますと、食料品のお店で、ASA京都MOMOテラス店というところがございますが、いかがでしょうか？	general,restaurant,shopping
+1918	14	USER	ではそこにします！住所と、営業時間も教えてください。	general,restaurant,shopping
+1918	15	SYSTEM	住所は、京都府京都市伏見区桃山町山ノ下32です。営業時間は、10:00～21:00となっております。	general,restaurant,shopping
+1918	16	USER	ありがとうございます。質問は以上です。	general,restaurant,shopping
+1918	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,shopping

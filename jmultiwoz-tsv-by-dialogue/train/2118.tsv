@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2118	0	USER	こんにちは。横浜へ旅行しますので、中区あたりでWi-Fiが無料の焼肉店を教えていただけますか？	general,restaurant
+2118	1	SYSTEM	かしこまりました。では、焼肉カーニバルはいかがでしょうか？	general,restaurant
+2118	2	USER	ありがとうございます。そちらの近辺の駅からの所要時間と定休日も教えてもらえますか？	general,restaurant
+2118	3	SYSTEM	はい。近辺の駅からの所要時間は馬車道駅から徒歩で1分で、日本大通り駅から徒歩で5分となっております。	general,restaurant
+2118	4	USER	すみません、定休日もお願いします。	general,restaurant
+2118	5	SYSTEM	申し訳ありません。定休日は不定休となっております。	general,restaurant
+2118	6	USER	ありがとうございます。そちらへ行きたいので、予約お願いします。5/19の15:00で、4名です。	general,restaurant
+2118	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、43500です。	general,restaurant
+2118	8	USER	ありがとうございました。これで以上です。	general,restaurant
+2118	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

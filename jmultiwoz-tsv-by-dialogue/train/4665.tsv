@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4665	0	USER	札幌でジャンボタクシーが利用できるタクシー会社を探してほしいです。	general,taxi
+4665	1	SYSTEM	申し訳ございません。ジャンボタクシーに対応している会社がございません。いかがなさいますか。	general,taxi
+4665	2	USER	そうですか。ではジャンボタクシーじゃなくても大丈夫です。	general,taxi
+4665	3	SYSTEM	では札幌団地タクシー(株)はいかがでしょうか。	general,taxi
+4665	4	USER	そのタクシーを6/16の13：50に予約したいです。	general,taxi
+4665	5	SYSTEM	かしこまりました。ではご予約の詳細をお聞かせいただけますか。	general,taxi
+4665	6	USER	センチュリオンホテル&スパ札幌からKakitsubata Bakeryまでお願いします。	general,taxi
+4665	7	SYSTEM	はい。予約が完了いたしました。予約番号は62484でございます。	general,taxi
+4665	8	USER	ありがとうございました。	general,taxi
+4665	9	SYSTEM	ほかにご用件はございませんか。	general,taxi
+4665	10	USER	大丈夫です。	general,taxi
+4665	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

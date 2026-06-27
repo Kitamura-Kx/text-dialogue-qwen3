@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3675	0	USER	東京での宿泊施設を探しています。	general,hotel
+3675	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel
+3675	2	USER	台東区で、レストランが併設されているところがいいです。	general,hotel
+3675	3	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel
+3675	4	USER	では、地区は特にこだわりません。	general,hotel
+3675	5	SYSTEM	かしこまりました。では、ロッテシティホテル錦糸町はいかがでしょうか？	general,hotel
+3675	6	USER	いいですね、ありがとうございます。そちらのWi-Fiの有無と、近くの駅からの所要時間、あと最寄り駅は分かりますか？	general,hotel
+3675	7	SYSTEM	はい。Wi-Fiは無料のものがあります。また、最寄り駅の錦糸町駅から徒歩で1分です。	general,hotel
+3675	8	USER	ありがとうございます。では、12/9に２名で２泊予約をお願いできますでしょうか？	general,hotel
+3675	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、56076です。	general,hotel
+3675	10	USER	ありがとうございます。以上です、お世話になりました。	general,hotel
+3675	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

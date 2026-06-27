@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3195	0	USER	大阪への旅行を計画中で、買い物ができる場所を探しています。	general,shopping
+3195	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,shopping
+3195	2	USER	はい、中央区にあって最寄りは難波駅、買いたいものは燃料です。	general,shopping
+3195	3	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,shopping
+3195	4	USER	分かりました。では、百貨店や総合スーパーでも構いません。	general,shopping
+3195	5	SYSTEM	それであれば、なんばCITYはどうですか？	general,shopping
+3195	6	USER	そこにしようと思います。住所と営業時間、最寄駅からの所要時間は分かりますか？	general,shopping
+3195	7	SYSTEM	はい。住所は大阪府大阪市中央区難波5丁目1-60です。また、営業時間は11:00～21:00で、最寄駅の難波駅から徒歩で0~1分になります。	general,shopping
+3195	8	USER	助かります。ありがとうございます。	general,shopping
+3195	9	SYSTEM	こちらこそご利用ありがとうございました。	general,shopping
+3195	10	USER	それでは、失礼します。	general,shopping

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+107	0	USER	こんにちは。 大阪旅行を計画中なので、ちょっとお調べいただいてもよろしいですか？	general,shopping
+107	1	SYSTEM	はい、どのようなことをお調べ致しましょう？	general,shopping
+107	2	USER	うしや精肉店というところで、当日買い物をしたいのですが、そこについて調べてもらうことはできますか？	general,shopping
+107	3	SYSTEM	承知致しました。 営業時間は9時から19時、住所は大阪市住之江区粉浜3丁目17-13、電話番号は、0666714462、定休日は木曜日となっております。	general,shopping
+107	4	USER	なるほど。ありがとうございます。 あと、最寄り駅と、近辺の駅からの所要時間についても、お調べいただいてもよろしいでしょうか。	general,shopping
+107	5	SYSTEM	はい、最寄り駅は住吉大社駅で、所要時間は、こちらの駅から徒歩で2分となっております。	general,shopping
+107	6	USER	そうなんですね。ありがとうございます。	general,shopping
+107	7	SYSTEM	他にご用件はございますか？	general,shopping
+107	8	USER	あとは大丈夫です。本日はありがとうございました。また、よろしくお願いします。	general,shopping
+107	9	SYSTEM	承知致しました。 ありがとうございました。	general,shopping

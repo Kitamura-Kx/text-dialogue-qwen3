@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3592	0	USER	こんにちは。横浜に行こうと思ってて、西区でレストランが併設されている、シティホテルはありますか？	general,hotel,taxi,weather
+3592	1	SYSTEM	かしこまりました。では、横浜東急REIホテルはいかがでしょうか。	general,hotel,taxi,weather
+3592	2	USER	ありがとうございます。当日利用するタクシー会社も探してもらいたいです。ジャンボタクシーが使えるところでお願いします。	general,hotel,taxi,weather
+3592	3	SYSTEM	では国際自動車株式会社がございます。こちらキャッシュレスにも対応しております。	general,hotel,taxi,weather
+3592	4	USER	ありがとうございます。電話番号もわかりますか？	general,hotel,taxi,weather
+3592	5	SYSTEM	電話番号は0120385931でございます。	general,hotel,taxi,weather
+3592	6	USER	ありがとうございます。では、4/3の13:40、出発地は上大岡SKホテル、目的地は横浜東急REIホテルで、予約をお願いします。	general,hotel,taxi,weather
+3592	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は27044でございます。	general,hotel,taxi,weather
+3592	8	USER	ありがとうございます。あと、鶴見区の4/3の天候も教えてください。	general,hotel,taxi,weather
+3592	9	SYSTEM	天気は曇時々晴で、最低気温が11.6度、最高気温が22.8度でございます。	general,hotel,taxi,weather
+3592	10	USER	ありがとうございます。	general,hotel,taxi,weather
+3592	11	SYSTEM	ほかにご用件はございませんか。	general,hotel,taxi,weather
+3592	12	USER	いえ、大丈夫です。ありがとうございました。	general,hotel,taxi,weather
+3592	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi,weather

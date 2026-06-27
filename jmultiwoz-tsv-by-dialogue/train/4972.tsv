@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4972	0	USER	東京へ旅行するので、宿泊施設を調べてもらいたいです。	general,hotel,shopping
+4972	1	SYSTEM	かしこまりました。その条件ですと100件ほど該当致しますが、なにかご希望はありますか？	general,hotel,shopping
+4972	2	USER	はい。駐車場を無料で利用できて、Wi-Fiが無料だと嬉しいです。あと、レストランもあるところにしてください。	general,hotel,shopping
+4972	3	SYSTEM	かしこまりました。それでは帝国ホテル東京がおすすめです。	general,hotel,shopping
+4972	4	USER	いいですね。近辺の駅からの所要時間と値段帯やエリアを教えてもらえます？	general,hotel,shopping
+4972	5	SYSTEM	はい、有楽町駅から徒歩で5分、新橋駅から徒歩で7分、東京駅からタクシーで5分、日比谷駅から徒歩で3分、内幸町駅から徒歩で3分でして、値段帯は普通、エリアは千代田区に該当致します。	general,hotel,shopping
+4972	6	USER	そうなんですね。2人で3/6から3泊の予約お願いできます？	general,hotel,shopping
+4972	7	SYSTEM	お待たせ致しました。予約番号14304でお取りさせていただきました。	general,hotel,shopping
+4972	8	USER	ありがとうございます。あと、墨田区で駐車場が無料で使える買い物施設ってあります？	general,hotel,shopping
+4972	9	SYSTEM	申し訳ありません、その条件ではお探しすることが出来ませんでした。	general,hotel,shopping
+4972	10	USER	そうですか。なら、墨田区じゃなくても大丈夫です。	general,hotel,shopping
+4972	11	SYSTEM	かしこまりました。それでは、ポケモンセンターメガトウキョーはいかがでしょうか？	general,hotel,shopping
+4972	12	USER	そこにします。定休日はありますか？	general,hotel,shopping
+4972	13	SYSTEM	定休日は無しでございます。	general,hotel,shopping
+4972	14	USER	ありがとうございました。もう大丈夫です。	general,hotel,shopping
+4972	15	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,shopping

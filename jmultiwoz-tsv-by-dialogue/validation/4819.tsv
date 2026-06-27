@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4819	0	USER	大阪へ旅行に行くので、食事ができるお店を探してください。	general,restaurant,taxi
+4819	1	SYSTEM	はい、大阪の飲食店ですね。	general,restaurant,taxi
+4819	2	USER	安めのお店がいいです。	general,restaurant,taxi
+4819	3	SYSTEM	大阪の安め飲食店はいくつかありますが、大阪らしいところで、牛すじホルモン 二刀流武蔵、こちらをおすすめします。	general,restaurant,taxi
+4819	4	USER	そちらは駐車場はありますか？	general,restaurant,taxi
+4819	5	SYSTEM	駐車場はありません。	general,restaurant,taxi
+4819	6	USER	わかりました。あとタクシー会社を探してください。	general,restaurant,taxi
+4819	7	SYSTEM	ご希望の条件をおきかせください。	general,restaurant,taxi
+4819	8	USER	ジャンボタクシー、キャッシュレス払い、どちらも利用できるところでお願いします。	general,restaurant,taxi
+4819	9	SYSTEM	両方対応している会社はいくつかありますが、日本タクシー株式会社、こちらをお勧めします。	general,restaurant,taxi
+4819	10	USER	そちらの電話番号教えてください。	general,restaurant,taxi
+4819	11	SYSTEM	0669285151です。	general,restaurant,taxi
+4819	12	USER	ではそちらで予約してください。9/5の10:00乗車、出発は牛すじホルモン 二刀流武蔵で、目的地はアパホテル〈御堂筋本町駅前〉というところです。予約できますか？	general,restaurant,taxi
+4819	13	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,restaurant,taxi
+4819	14	USER	時間を10:30くらいになら変更しても大丈夫です。	general,restaurant,taxi
+4819	15	SYSTEM	予約成功しました。予約番号は41379です。	general,restaurant,taxi
+4819	16	USER	ありがとうございます。以上になります。	general,restaurant,taxi
+4819	17	SYSTEM	よい旅を。	general,restaurant,taxi

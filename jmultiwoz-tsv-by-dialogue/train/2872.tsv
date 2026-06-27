@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2872	0	USER	札幌の中央区で、無料駐車場のある買い物スポットはありますか？	general,shopping,taxi
+2872	1	SYSTEM	札幌中央区には無料駐車場のある買い物施設はなさそうです。	general,shopping,taxi
+2872	2	USER	そうですか。では地区にはこだわらないので、再度検索していただけますか？	general,shopping,taxi
+2872	3	SYSTEM	札幌で無料駐車場のある買い物施設は１９件あります。ご希望の条件は他にありますか？	general,shopping,taxi
+2872	4	USER	他はありません。どこがおすすめですか？	general,shopping,taxi
+2872	5	SYSTEM	それでは、八紘学園農産物直売所はいかがでしょうか？	general,shopping,taxi
+2872	6	USER	いいですね。最寄り駅はどちらですか？あと、駅からの所要時間も知りたいです。	general,shopping,taxi
+2872	7	SYSTEM	福住駅から徒歩で10分になります。	general,shopping,taxi
+2872	8	USER	分かりました。続いてタクシーも教えてください。ジャンボタクシーが利用できるところを探してまして。	general,shopping,taxi
+2872	9	SYSTEM	あいにく札幌にはジャンボタクシー対応の会社はないのです。	general,shopping,taxi
+2872	10	USER	そうですか。ではジャンボタクシーの条件を除いてください。	general,shopping,taxi
+2872	11	SYSTEM	それでは鈴蘭交通(株)をオススメします。	general,shopping,taxi
+2872	12	USER	その会社はキャッシュレス対応されてますか？	general,shopping,taxi
+2872	13	SYSTEM	はい、対応しています。	general,shopping,taxi
+2872	14	USER	では5/12、11時で予約をお願いします。東急百貨店 さっぽろ店から八紘学園農産物直売所までの利用です。	general,shopping,taxi
+2872	15	SYSTEM	5/12、11時、東急百貨店 さっぽろ店から八紘学園農産物直売所まで、予約成功しました。予約番号は35842です。	general,shopping,taxi
+2872	16	USER	ありがとうございます！	general,shopping,taxi

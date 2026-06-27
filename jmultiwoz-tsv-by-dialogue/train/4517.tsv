@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4517	0	USER	札幌への旅行を考えているんですけど、東区に買い物ができるところはありませんか？	general,shopping,taxi,weather
+4517	1	SYSTEM	かしこまりました。では、アリオ札幌はいかがですか。	general,shopping,taxi,weather
+4517	2	USER	駐車場が無料のところが良いんですけど、そちらはどうですか？	general,shopping,taxi,weather
+4517	3	SYSTEM	はい。こちら無料で駐車場をお使いいただけます。	general,shopping,taxi,weather
+4517	4	USER	ありがとうございます。それと、小鳩交通(株)というタクシー会社の電話番号と、ジャンボタクシー対応かを調べてもらえますか？	general,shopping,taxi,weather
+4517	5	SYSTEM	はい。こちら電話番号が0116648181で、ジャンボタクシーにも対応しております。	general,shopping,taxi,weather
+4517	6	USER	そちらのタクシー会社を1/12の14:30に予約をお願いできますか？	general,shopping,taxi,weather
+4517	7	SYSTEM	かしこまりました。では、出発地と目的地を教えていただけますか。	general,shopping,taxi,weather
+4517	8	USER	はい、アリオ札幌から定山渓万世閣ホテルミリオーネまでお願いします。	general,shopping,taxi,weather
+4517	9	SYSTEM	はい。予約が完了いたしました。予約番号は31175でございます。	general,shopping,taxi,weather
+4517	10	USER	あと、中央区の1/12の最低気温と最高気温はわかりますか？	general,shopping,taxi,weather
+4517	11	SYSTEM	当日の最低気温は-2.5度で、最高気温が2.8度となっております。	general,shopping,taxi,weather
+4517	12	USER	ありがとうございます。	general,shopping,taxi,weather
+4517	13	SYSTEM	ほかにご用件はございませんか。	general,shopping,taxi,weather
+4517	14	USER	他は大丈夫です、ありがとうございました。	general,shopping,taxi,weather
+4517	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi,weather

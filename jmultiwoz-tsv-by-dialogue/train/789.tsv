@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+789	0	USER	すみません。京都で飲食店を探しています。良いところがありますか。	general,restaurant,taxi
+789	1	SYSTEM	京都のお食事処ですね。100件ほど候補がございますので、なにかご希望の条件などはございませんでしょうか？	general,restaurant,taxi
+789	2	USER	Wi-Fiが無料、予算は高め、ジャンルはホテルレストランで考えています。	general,restaurant,taxi
+789	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,taxi
+789	4	USER	そうなんですね。それではWi-Fiは無くてもいいです。	general,restaurant,taxi
+789	5	SYSTEM	ありがとうございます。そうしますと、2件候補がございます。例えば、オールデイダイニング ラジョウという下京区エリアのホテルレストランは、いかがでしょうか？	general,restaurant,taxi
+789	6	USER	ではそこにしますので予約お願いします。人数は4人、日付は5/14、時間は13:10です。	general,restaurant,taxi
+789	7	SYSTEM	申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,restaurant,taxi
+789	8	USER	人数を3人にしたら予約できますか？	general,restaurant,taxi
+789	9	SYSTEM	ありがとうございます。3名様でご予約が完了いたしました。予約番号は、5602です。	general,restaurant,taxi
+789	10	USER	当日のタクシーの予約をしたいです。ジャンボタクシーが利用できるところがいいです。	general,restaurant,taxi
+789	11	SYSTEM	申し訳ございません。京都でジャンボタクシー対応の会社ですと、ご案内できるところが見つかりませんでした。	general,restaurant,taxi
+789	12	USER	わかりました。ではジャンボタクシーの条件はなしで予約できるタクシー会社を教えてください。	general,restaurant,taxi
+789	13	SYSTEM	ありがとうございます。では、比叡山観光タクシー株式会社は如何でしょうか？	general,restaurant,taxi
+789	14	USER	そこはキャッシュレス対応していますか？	general,restaurant,taxi
+789	15	SYSTEM	申し訳ございません。こちらは、キャッシュレス対応は、不明となっております。	general,restaurant,taxi
+789	16	USER	わかりました。予約をお願いします。日付は5/14、時間は11:50、出発地は法然院、目的地はオールデイダイニング ラジョウで考えています。	general,restaurant,taxi
+789	17	SYSTEM	申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,restaurant,taxi
+789	18	USER	時間を12:40に変更したら予約できますか？	general,restaurant,taxi
+789	19	SYSTEM	ありがとうございます。12時40分発でご予約承りました。予約番号は、1247でございます。	general,restaurant,taxi
+789	20	USER	対応ありがとうございました。	general,restaurant,taxi

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3312	0	USER	札幌へ行くのですが、食料品の買い物ができるお店を探してください。	general,shopping
+3312	1	SYSTEM	いくつか候補がありますが、八紘学園農産物直売所、こちらはいかがでしょうか	general,shopping
+3312	2	USER	地区は清田区がいいのですが。	general,shopping
+3312	3	SYSTEM	清田区にジャンル食料品の買い物施設はヒットしません	general,shopping
+3312	4	USER	それでは、ジャンルは問わず清田区で買い物ができるところを探してください。	general,shopping
+3312	5	SYSTEM	清田区の買い物施設ならば、イオンモール札幌平岡、こちらがオススメです。	general,shopping
+3312	6	USER	住所と電話番号を教えてください。	general,shopping
+3312	7	SYSTEM	北海道札幌市清田区平岡3条5丁目3-1、0118895001になります。	general,shopping
+3312	8	USER	ありがとうございました。	general,shopping
+3312	9	SYSTEM	よい旅を	general,shopping

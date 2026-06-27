@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+597	0	USER	札幌に旅行に行くんですが、食事が出来る飲食店を探していただけますか？	general,restaurant,weather
+597	1	SYSTEM	承知しました。他にご希望はございますか？	general,restaurant,weather
+597	2	USER	北区で無料駐車場があるところがいいです！	general,restaurant,weather
+597	3	SYSTEM	ありがとうございます。では、タイガーカレー北24条本店はいかがでしょう？何かご案内致しましょうか？	general,restaurant,weather
+597	4	USER	予算的には普通がいいんですが、そこはどうですか？	general,restaurant,weather
+597	5	SYSTEM	はい、タイガーカレー北24条本店の値段帯は普通となっております。	general,restaurant,weather
+597	6	USER	いいですね！営業時間を教えてくれますか？	general,restaurant,weather
+597	7	SYSTEM	はい、営業時間は11時30分から21時となっております。他にご案内できることはございますか？	general,restaurant,weather
+597	8	USER	ありがとうございます。あと、7/14の手稲区の天気を調べてほしいです。	general,restaurant,weather
+597	9	SYSTEM	承知しました。天気は、曇時々雨、最低気温22.1度、最高気温25.5度となります。他にご案内できることはございますか？	general,restaurant,weather
+597	10	USER	助かりました！もう大丈夫です。ありがとうございます。	general,restaurant,weather
+597	11	SYSTEM	ありがとうございました。	general,restaurant,weather

@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3020	0	USER	仙台へ行くのですが、無料駐車場がある書籍を購入できるお店を探してもらえますか？	general,shopping
+3020	1	SYSTEM	かしこまりました。では、くまざわ書店 アリオ仙台泉店はいかがでしょうか？	general,shopping
+3020	2	USER	ありがとうございます。では、そこの電話番号も教えてください。	general,shopping
+3020	3	SYSTEM	はい。電話番号は0227717077です。	general,shopping
+3020	4	USER	ありがとうございました。以上で結構です。	general,shopping

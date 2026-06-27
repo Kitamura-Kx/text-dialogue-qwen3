@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3925	0	USER	東京への旅行を計画中で、焼肉・ホルモンの食べられるお店を探しています。	general,restaurant
+3925	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,restaurant
+3925	2	USER	分かりました。では、ジャンルは何でも構いません。おすすめを教えてください。	general,restaurant
+3925	3	SYSTEM	かしこまりました。では、銀座 おうち、という和食のお店はいかがでしょうか？お値段は、少々お高めのお店ですが、オススメです。	general,restaurant
+3925	4	USER	そこにしようと思います。定休日と電話番号、Wi-fiの有無を教えてください。	general,restaurant
+3925	5	SYSTEM	こちらのお店は、土日と祝日がお休みとなっております。電話番号は、0335736608です。WiFiは無料のものをご利用いただけます。	general,restaurant
+3925	6	USER	ありがとうございます。12/5の午前09:30に2名で予約して欲しいのですが可能でしょうか。	general,restaurant
+3925	7	SYSTEM	はい、ありがとうございます。ご予約完了いたしました。予約番号は、58883です。	general,restaurant
+3925	8	USER	助かります。ありがとうございます。	general,restaurant
+3925	9	SYSTEM	他にお調べすることなど、ございませんか？	general,restaurant
+3925	10	USER	いえ、大丈夫です。ありがとうございました。	general,restaurant
+3925	11	SYSTEM	こちらこそ、ありがとうございます。では、またのご利用をお待ちしております。	general,restaurant

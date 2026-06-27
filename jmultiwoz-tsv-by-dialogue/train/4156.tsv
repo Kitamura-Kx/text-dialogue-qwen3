@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4156	0	USER	札幌旅行に行きたいんですが、Wi-Fi無料でレストランが併設されている宿泊施設はありますか？	general,hotel
+4156	1	SYSTEM	エリアでいうと西区にある、札幌ホテルヤマチはいかがでしょう？タイプはシティホテルとなります。	general,hotel
+4156	2	USER	そちらでお願いします。チェックアウト終了時刻と値段帯がわかれば知りたいです。	general,hotel
+4156	3	SYSTEM	チェックアウト終了時刻は10時、値段帯は安めとなります。	general,hotel
+4156	4	USER	9月20日に4人、3泊で予約できますか？	general,hotel
+4156	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、31808となります。	general,hotel
+4156	6	USER	ありがとうございます。	general,hotel

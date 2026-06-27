@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1679	0	USER	東京へ旅行予定なのですが、江戸川区でWi-Fiが無料で利用できる飲食店はありますか？	general,restaurant
+1679	1	SYSTEM	かしこまりました。ではTaverna e Pizzeria Saluteはいかがでしょうか。	general,restaurant
+1679	2	USER	そこにします。駐車場があるかどうかを教えてください。	general,restaurant
+1679	3	SYSTEM	駐車場の有無は不明でございます。	general,restaurant
+1679	4	USER	わかりました。ありがとうございます。	general,restaurant
+1679	5	SYSTEM	ほかにご用件はございますか。	general,restaurant
+1679	6	USER	いえ、もう大丈夫です。	general,restaurant
+1679	7	SYSTEM	承知しました。ありがとうございました。	general,restaurant

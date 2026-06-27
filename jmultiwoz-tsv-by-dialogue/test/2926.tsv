@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2926	0	USER	仙台に行くのですが、青葉山駅の近くで医薬品・化粧品が買えるところを探しています。	general,shopping,taxi
+2926	1	SYSTEM	青葉山駅でジャンル医薬品化粧品の店はなさそうです。	general,shopping,taxi
+2926	2	USER	では青葉山駅の近くでなくてもいいです。	general,shopping,taxi
+2926	3	SYSTEM	仙台で医薬品化粧品といえば、アインズ&トルペ 仙台駅前店、こちら一択です。	general,shopping,taxi
+2926	4	USER	営業時間を教えてください。	general,shopping,taxi
+2926	5	SYSTEM	朝１０時から夕方７時半までです。	general,shopping,taxi
+2926	6	USER	あとキャッシュレス払いができるタクシーを探しています。	general,shopping,taxi
+2926	7	SYSTEM	仙台でキャッシュレス対応のタクシー会社はいくつかありますが、（有）光泉タクシーをお勧めします。	general,shopping,taxi
+2926	8	USER	ジャンボタクシーを利用できるところがいいのですが、そちらはどうですか？	general,shopping,taxi
+2926	9	SYSTEM	はい、ジャンボタクシーも対応しています。	general,shopping,taxi
+2926	10	USER	では1/3、11:30にアインズ&トルペ 仙台駅前店からポケモンセンタートウホクまで予約をお願いしたいです。	general,shopping,taxi
+2926	11	SYSTEM	予約成功しました。予約番号は75302です。	general,shopping,taxi
+2926	12	USER	ありがとうございました。助かりました。	general,shopping,taxi
+2926	13	SYSTEM	よい旅を	general,shopping,taxi

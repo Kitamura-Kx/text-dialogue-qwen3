@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4693	0	USER	大阪へ旅行予定なのですが、駐車場とWi-Fiが無料な観光名所はありますか？	general,attraction
+4693	1	SYSTEM	大阪には、ＷｉＦｉと駐車場無料の観光名所はなさそうです。	general,attraction
+4693	2	USER	それじゃあ有料の駐車場でもいいです。	general,attraction
+4693	3	SYSTEM	大阪でWiFi無料、駐車場有料の観光名所は１５件ありますが、大阪城天守閣をお勧めします。	general,attraction
+4693	4	USER	そこにします。子供入場料はわかります？	general,attraction
+4693	5	SYSTEM	中学生以下は無料です。高校生以上は６００円になります。	general,attraction
+4693	6	USER		general,attraction

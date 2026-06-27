@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4278	0	USER	札幌へ行くので、観光名所を探しています。東区でどこかありませんか？	general,attraction,taxi,weather
+4278	1	SYSTEM	かしこまりました。ではモエレ沼公園はいかがでしょうか。	general,attraction,taxi,weather
+4278	2	USER	そこにします。あと、ジャンボタクシーを利用したいのですが。	general,attraction,taxi,weather
+4278	3	SYSTEM	申し訳ございません。ジャンボタクシーに対応している会社がございません。いかがなさいますか。	general,attraction,taxi,weather
+4278	4	USER	では、ジャンボタクシーでなくてもいいです。	general,attraction,taxi,weather
+4278	5	SYSTEM	では日北交通(株)がございます。こちらキャッシュレスには対応しております。	general,attraction,taxi,weather
+4278	6	USER	ありがとうございます。そのタクシー会社の電話番号が知りたいです。	general,attraction,taxi,weather
+4278	7	SYSTEM	電話番号は0118888686でございます。	general,attraction,taxi,weather
+4278	8	USER	わかりました。10月11日にモエレ沼公園から、馳走屋 巣庵に行きたいので、予約してください。	general,attraction,taxi,weather
+4278	9	SYSTEM	かしこまりました。予約の時間を教えていただけますか。	general,attraction,taxi,weather
+4278	10	USER	13時50分でお願いします。	general,attraction,taxi,weather
+4278	11	SYSTEM	はい。予約が完了いたしました。予約番号は91249でございます。	general,attraction,taxi,weather
+4278	12	USER	ありがとうございます。当日10月11日の清田区の天候を知りたいのですが。	general,attraction,taxi,weather
+4278	13	SYSTEM	当日の天気は晴のち雨、最低気温が4.7度で最高気温が19.9度でございます。	general,attraction,taxi,weather
+4278	14	USER	わかりました。ありがとうございます。	general,attraction,taxi,weather
+4278	15	SYSTEM	ほかにご用件はございませんか。	general,attraction,taxi,weather
+4278	16	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,taxi,weather
+4278	17	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi,weather

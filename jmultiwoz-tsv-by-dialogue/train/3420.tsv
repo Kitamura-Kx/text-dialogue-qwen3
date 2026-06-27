@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3420	0	USER	今度那覇に行くのですが、どこか飲食店はありますか？	general,restaurant
+3420	1	SYSTEM	ありがとうございます。その条件ですと、113件該当致しますが、何かご希望はありますか？	general,restaurant
+3420	2	USER	予算は安めで、ラーメン・つけ麺が食べたいです。	general,restaurant
+3420	3	SYSTEM	お待たせ致しました。それでは、らーめんまぜそば あらし 那覇店はいかがでしょうか？	general,restaurant
+3420	4	USER	そちらのエリアはどこになりますか？	general,restaurant
+3420	5	SYSTEM	エリアは本庁でございます。	general,restaurant
+3420	6	USER	分かりました。以上です、ありがとうございました！	general,restaurant
+3420	7	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

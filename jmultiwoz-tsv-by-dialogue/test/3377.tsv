@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3377	0	USER	京都の人力車えびす屋 嵐山總本店に行こうと思うのですが、駐車場はありますか？	general,attraction,shopping,hotel
+3377	1	SYSTEM	はい、駐車場をお調べしましたが不明となっております。	general,attraction,shopping,hotel
+3377	2	USER	定休日はわかりますか？	general,attraction,shopping,hotel
+3377	3	SYSTEM	はい。定休日は無しでございます。	general,attraction,shopping,hotel
+3377	4	USER	あと北区で食料品が買えるところを探しています。	general,attraction,shopping,hotel
+3377	5	SYSTEM	京都、北区の食料品店は１件Malebranche 北山本店というお店がございます。	general,attraction,shopping,hotel
+3377	6	USER	駐車場が無料のところがいいのですが、そちらはどうですか？	general,attraction,shopping,hotel
+3377	7	SYSTEM	こちらの店舗は駐車場無料でございます。	general,attraction,shopping,hotel
+3377	8	USER	良かったです。電話番号を教えてください。	general,attraction,shopping,hotel
+3377	9	SYSTEM	電話番号は、0757223399でございます。	general,attraction,shopping,hotel
+3377	10	USER	あと宿泊施設も探しています。	general,attraction,shopping,hotel
+3377	11	SYSTEM	京都の宿泊施設ですと100件以上該当がございます。エリアなどのご指定はございますか？	general,attraction,shopping,hotel
+3377	12	USER	駐車場が無料で価格が高めのところがいいです。	general,attraction,shopping,hotel
+3377	13	SYSTEM	かしこまりました。頂戴した条件ですと、京都 高瀬川別邸という宿泊施設のみ該当がございます。	general,attraction,shopping,hotel
+3377	14	USER	いいですね。レストランはありますか？最寄り駅はどこになるのでしょうか？	general,attraction,shopping,hotel
+3377	15	SYSTEM	レストランはございません。最寄り駅は七条駅でございます。	general,attraction,shopping,hotel
+3377	16	USER	助かりました。	general,attraction,shopping,hotel
+3377	17	SYSTEM	他にご用命ございますか？	general,attraction,shopping,hotel
+3377	18	USER	特にないです。	general,attraction,shopping,hotel
+3377	19	SYSTEM	ありがとうございました。	general,attraction,shopping,hotel

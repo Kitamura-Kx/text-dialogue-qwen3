@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1169	0	USER	京都へ旅行に行くんですが、右京区で無料駐車場があって買い物ができるところをさがしてもらえますか？	general,shopping
+1169	1	SYSTEM	かしこまりました。では、伊藤常嵐山店というお店はいかがでしょうか？嵐山駅から徒歩1分の場所にございます。	general,shopping
+1169	2	USER	ありがとうございます。じゃあそこの電話番号を教えてください。	general,shopping
+1169	3	SYSTEM	はい。電話番号は、0755614131です。	general,shopping
+1169	4	USER	ありがとうございます。以上で大丈夫です。	general,shopping
+1169	5	SYSTEM	他にお調べすることはございませんか？	general,shopping
+1169	6	USER	はい、ありません。	general,shopping
+1169	7	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,shopping

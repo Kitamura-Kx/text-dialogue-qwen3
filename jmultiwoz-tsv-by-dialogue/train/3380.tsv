@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3380	0	USER	横浜に行くのですが、宿泊施設を探しています。	general,hotel,attraction,weather
+3380	1	SYSTEM	お調べしましたところ、81件該当がございます。なにかご希望の条件はございますか？	general,hotel,attraction,weather
+3380	2	USER	リゾートホテルで予算は普通のところがいいです。	general,hotel,attraction,weather
+3380	3	SYSTEM	ご希望にマッチする宿泊施設は１件、横浜みなとみらい 万葉倶楽部でございます。いかがでしょうか？	general,hotel,attraction,weather
+3380	4	USER	料金情報を教えてください。	general,hotel,attraction,weather
+3380	5	SYSTEM	料金情報の記載はございません。先程ご希望で頂戴しました、価格帯は普通という記載のみでございます。	general,hotel,attraction,weather
+3380	6	USER	そうですか。チェックイン開始時刻と最寄り駅はわかりますか？	general,hotel,attraction,weather
+3380	7	SYSTEM	はい。チェックイン開始は17時です。最寄り駅はみなとみらい駅でございます。	general,hotel,attraction,weather
+3380	8	USER	では6/17から4泊、3人で予約をお願いしたいです。	general,hotel,attraction,weather
+3380	9	SYSTEM	かしこまりました。6月17日より4泊、3名様でご予約が完了しました。予約番号は、29972でございます。	general,hotel,attraction,weather
+3380	10	USER	あと根岸駅近くの観光名所を探しています。	general,hotel,attraction,weather
+3380	11	SYSTEM	お調べしましたところ、根岸競馬記念公苑 (馬の博物館)と三溪園の２件ございます。いかがでしょうか？	general,hotel,attraction,weather
+3380	12	USER	Wi-Fiが無料で駐車場も無料なところがいいです。	general,hotel,attraction,weather
+3380	13	SYSTEM	そうしますと、三溪園がよろしいかと存じます。	general,hotel,attraction,weather
+3380	14	USER	いいですね。大人の入場料を教えてください。	general,hotel,attraction,weather
+3380	15	SYSTEM	大人の入場料は700円でございます。	general,hotel,attraction,weather
+3380	16	USER	あとですね、6/17、都筑区の最高気温が知りたいです。	general,hotel,attraction,weather
+3380	17	SYSTEM	かしこまりました。最高気温は26.3度でございます。	general,hotel,attraction,weather
+3380	18	USER	助かりました。	general,hotel,attraction,weather
+3380	19	SYSTEM	ありがとうございました。	general,hotel,attraction,weather

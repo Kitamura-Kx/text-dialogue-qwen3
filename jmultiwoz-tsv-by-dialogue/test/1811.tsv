@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1811	0	USER	名古屋への旅行を計画中です、駐車場とWiFiが無料の宿泊施設を教えて下さい。予算は普通でお願いします。	general,hotel,attraction,restaurant
+1811	1	SYSTEM	かしこまりました。では、SakurAはいかがでしょうか？	general,hotel,attraction,restaurant
+1811	2	USER	SakurAの最寄り駅はどこになりますか？	general,hotel,attraction,restaurant
+1811	3	SYSTEM	はい。最寄り駅は烏森駅になります。	general,hotel,attraction,restaurant
+1811	4	USER	当日は観光もしたいのですが、昭和区に美術館や博物館の観光名所はありますか？	general,hotel,attraction,restaurant
+1811	5	SYSTEM	かしこまりました。では、昭和美術館(公益財団法人後藤報恩会)はいかがでしょうか？	general,hotel,attraction,restaurant
+1811	6	USER	昭和美術館の住所を教えて下さい	general,hotel,attraction,restaurant
+1811	7	SYSTEM	はい。住所は愛知県名古屋市昭和区汐見町4-1でございます。	general,hotel,attraction,restaurant
+1811	8	USER	有難うございます、それと駐車場が無料の飲食店も教えて欲しいのですが。予算は高めでお願いします。	general,hotel,attraction,restaurant
+1811	9	SYSTEM	かしこまりました。では、ソーサリートはいかがでしょうか？ジャンルはイタリアン・フレンチになります。	general,hotel,attraction,restaurant
+1811	10	USER	住所もお願いします。	general,hotel,attraction,restaurant
+1811	11	SYSTEM	はい。住所は愛知県名古屋市港区秋葉3丁目153でございます。	general,hotel,attraction,restaurant
+1811	12	USER	それでは「ソーサリート」に2/10の15:30から4名で予約をお願いします。	general,hotel,attraction,restaurant
+1811	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、31123です。	general,hotel,attraction,restaurant
+1811	14	USER	ありがとうございました、あとは大丈夫です。	general,hotel,attraction,restaurant
+1811	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction,restaurant

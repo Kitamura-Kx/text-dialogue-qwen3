@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3443	0	USER	札幌に行くので、中央区でおもちゃの買い物したいのですが。	general,shopping
+3443	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,shopping
+3443	2	USER	そうですか。では、服を買い物できる場所教えて下さい。	general,shopping
+3443	3	SYSTEM	かしこまりました。それぞれ東急百貨店 さっぽろ店はいかがでしょうか？	general,shopping
+3443	4	USER	はい。住所と電話番号と定休日教えてください。	general,shopping
+3443	5	SYSTEM	はい、住所は北海道札幌市中央区北4条西2丁目、電話番号は0112122211、定休日はございません。	general,shopping
+3443	6	USER	ありがとうございます。行ってみます。それでは失礼します。	general,shopping
+3443	7	SYSTEM	ありがとうございます。またお待ちしております。	general,shopping

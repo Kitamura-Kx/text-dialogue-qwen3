@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3696	0	USER	大阪へ旅行に行こうと思っています。当日泊まる宿泊施設を探しています。宿のタイプは簡易宿所（ベッドハウス・山小屋・カプセルホテル等）でレストランが併設されているところで地区は鶴見区が希望です。	general,hotel,shopping,weather
+3696	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,shopping,weather
+3696	2	USER	でしたら、地区はどこでも良いです。	general,hotel,shopping,weather
+3696	3	SYSTEM	それでしたら、9別邸 大阪谷町 MAISON DE 9がおすすめです。	general,hotel,shopping,weather
+3696	4	USER	そこが良さそうですね。そこの駐車場の有無と最寄り駅と料金情報を教えてください。	general,hotel,shopping,weather
+3696	5	SYSTEM	はい。駐車場はありません。また、最寄駅は谷町六丁目駅になります。料金情報ですが、値段帯が高めという情報しかございません。申し訳ありません。	general,hotel,shopping,weather
+3696	6	USER	では、そこに予約をしたいので人数は4人で、日付は5/11で宿泊日数は4泊でお願いします。	general,hotel,shopping,weather
+3696	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、68143です。	general,hotel,shopping,weather
+3696	8	USER	あと当日はポケモンセンターオーサカで買い物する予定です。そこの電話番号と近辺の駅からの所要時間を教えてください。	general,hotel,shopping,weather
+3696	9	SYSTEM	かしこまりました。電話番号は0663466002で、近辺の駅からの所要時間としては、大阪駅と西梅田駅から徒歩で5分、梅田駅から徒歩で5～10分。また、東梅田駅から徒歩で10分となっております。	general,hotel,shopping,weather
+3696	10	USER	あと当日5/11の東住吉区の天気と最高気温を教えてください。	general,hotel,shopping,weather
+3696	11	SYSTEM	はい。天気予報は晴時々雨、最高気温は22.3度でございます。	general,hotel,shopping,weather
+3696	12	USER	分かりました。ありがとうございます。	general,hotel,shopping,weather
+3696	13	SYSTEM	他にご用件はございませんか？	general,hotel,shopping,weather
+3696	14	USER	はい、大丈夫です。	general,hotel,shopping,weather
+3696	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,weather

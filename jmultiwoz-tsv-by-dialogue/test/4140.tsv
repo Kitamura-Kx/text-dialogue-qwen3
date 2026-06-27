@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4140	0	USER	こんにちは。仙台に旅行を計画していますが、いい観光名所とかありますか？	general,attraction
+4140	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction
+4140	2	USER	できれば駐車場とWi-Fiが無料で使えるところがいいです。	general,attraction
+4140	3	SYSTEM	エリアでいうと青葉区にある、仙台市文学館はいかがでしょう？	general,attraction
+4140	4	USER	それってどういうジャンルの施設なんですか？	general,attraction
+4140	5	SYSTEM	ジャンルは、美術館、博物館、アートギャラリー、教室、ワークショップ、体験、となります。	general,attraction
+4140	6	USER	いいですね！行ってみます。ありがとうございました！	general,attraction

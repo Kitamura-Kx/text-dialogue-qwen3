@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1378	0	USER	京都へ旅行に行きたく、買い物できるところを探しておりまして、先斗町駿河屋というお店があるそうなのですが。	general,shopping,restaurant,taxi
+1378	1	SYSTEM	先斗町駿河屋という店が1件見つかりました。	general,shopping,restaurant,taxi
+1378	2	USER	そこの定休日、住所、最寄駅からの所要時間を知りたいです。	general,shopping,restaurant,taxi
+1378	3	SYSTEM	定休日は、火曜です。　住所は、京都府京都市中京区先斗町三条下ルです。最寄り駅の三条駅から徒歩で6分になります。	general,shopping,restaurant,taxi
+1378	4	USER	ありがとうございます。次に西院駅周辺で飲食店を探してほしいです。	general,shopping,restaurant,taxi
+1378	5	SYSTEM	飲食店が4件あります。　そのうちのあかやしろ 焔というお店はいかがですか？	general,shopping,restaurant,taxi
+1378	6	USER	あかやしろ 焔はどこのエリアになりますか？	general,shopping,restaurant,taxi
+1378	7	SYSTEM	エリアは、中京区です。	general,shopping,restaurant,taxi
+1378	8	USER	最後に当日ジャンボタクシーが利用できるタクシー会社を教えてください。	general,shopping,restaurant,taxi
+1378	9	SYSTEM	京都第一交通株式会社は、いかがですか？	general,shopping,restaurant,taxi
+1378	10	USER	そこの電話番号が知りたいです。	general,shopping,restaurant,taxi
+1378	11	SYSTEM	電話番号は、0120382333です。	general,shopping,restaurant,taxi
+1378	12	USER	それでは予約をお願いします。日時は10/14、15:20希望です。出発地は先斗町駿河屋からあかやしろ 焔です。	general,shopping,restaurant,taxi
+1378	13	SYSTEM	予約出来ました。予約番号は、24653です。	general,shopping,restaurant,taxi
+1378	14	USER	ありがとうございます。	general,shopping,restaurant,taxi
+1378	15	SYSTEM	他にご用件はありますか？	general,shopping,restaurant,taxi
+1378	16	USER	ないです。	general,shopping,restaurant,taxi
+1378	17	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,restaurant,taxi

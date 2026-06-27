@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3594	0	USER	こんにちは。仙台旅行を考えているんですが、駐車場が無料で使える、文房具・雑貨のお店はないですか？	general,shopping,attraction,taxi
+3594	1	SYSTEM	かしこまりました。ではくまざわ書店 アリオ仙台泉店はいかがでしょうか。	general,shopping,attraction,taxi
+3594	2	USER	ありがとうございます。観光名所も探してて、Wi-Fiが無料で使える絶景スポットはないですか？	general,shopping,attraction,taxi
+3594	3	SYSTEM	では仙台城跡がございます。	general,shopping,attraction,taxi
+3594	4	USER	ありがとうございます。料金情報もあれば知りたいです。	general,shopping,attraction,taxi
+3594	5	SYSTEM	大人が700円、中高生が500円、小学生が300円となっております。	general,shopping,attraction,taxi
+3594	6	USER	ありがとうございます。あと、タクシー会社も探してもらえますか？ジャンボタクシーが利用できて、キャッシュレス払いができるところがいいです。	general,shopping,attraction,taxi
+3594	7	SYSTEM	申し訳ございません。どちらにも対応している会社がございませんでした。いかがなさいますか。	general,shopping,attraction,taxi
+3594	8	USER	ではキャッシュレス払いはできなくてもいいです。	general,shopping,attraction,taxi
+3594	9	SYSTEM	では稲荷タクシー（有）がございます。	general,shopping,attraction,taxi
+3594	10	USER	ありがとうございます。電話番号もわかりますか？	general,shopping,attraction,taxi
+3594	11	SYSTEM	電話番号は0222411121でございます。	general,shopping,attraction,taxi
+3594	12	USER	ありがとうございます。では、7/23の13:10、出発地はくまざわ書店 アリオ仙台泉店、目的地は仙台城跡で、予約をお願いします。	general,shopping,attraction,taxi
+3594	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は55463でございます。	general,shopping,attraction,taxi
+3594	14	USER	ありがとうございます。	general,shopping,attraction,taxi
+3594	15	SYSTEM	ほかにご用件はございませんか。	general,shopping,attraction,taxi
+3594	16	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,attraction,taxi
+3594	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction,taxi

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4333	0	USER	東京で買い物がしたいのですが、駐車場が無料で使えるところで、どこかおすすめはありますか？	general,shopping,attraction,weather
+4333	1	SYSTEM	はい。京王百貨店新宿店がおすすめです。	general,shopping,attraction,weather
+4333	2	USER	そちらの営業時間を教えてください。	general,shopping,attraction,weather
+4333	3	SYSTEM	営業時間は10:00～20:30です。	general,shopping,attraction,weather
+4333	4	USER	渋谷区での観光名所を探してほしいです。wifiが無料で使えるところを希望しています。	general,shopping,attraction,weather
+4333	5	SYSTEM	かしこまりました。では、表参道ヒルズはいかがでしょうか？	general,shopping,attraction,weather
+4333	6	USER	そちらの住所を教えてください。	general,shopping,attraction,weather
+4333	7	SYSTEM	はい。住所は東京都渋谷区神宮前4丁目12-10です。	general,shopping,attraction,weather
+4333	8	USER	入場料は、大人子供それぞれいくらになりますか？	general,shopping,attraction,weather
+4333	9	SYSTEM	申し訳ございません。入場料はどちらも不明となっております。	general,shopping,attraction,weather
+4333	10	USER	ところで、９月３０日の品川区の天気情報ってわかりますか？	general,shopping,attraction,weather
+4333	11	SYSTEM	はい。天気は晴のち雨。最低気温は25.5度で最高気温は30.9度でございます。	general,shopping,attraction,weather
+4333	12	USER	わかりました。では失礼します。	general,shopping,attraction,weather
+4333	13	SYSTEM	ご利用ありがとうございました。	general,shopping,attraction,weather

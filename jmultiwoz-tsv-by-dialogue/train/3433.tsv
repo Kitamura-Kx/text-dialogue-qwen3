@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3433	0	USER	こんにちは。大阪での宿泊施設を探しています。	general,hotel,weather
+3433	1	SYSTEM	かしこまりました。100件ほどございますが、何か条件はありますか？	general,hotel,weather
+3433	2	USER	予算は高めで、Wi-Fiが無料で利用できるところがいいのですが。	general,hotel,weather
+3433	3	SYSTEM	お待たせ致しました。それでは、ヴィラ デ くらすはいかがでしょうか？	general,hotel,weather
+3433	4	USER	ありがとうございます。そちらに駐車場はありますか？	general,hotel,weather
+3433	5	SYSTEM	はい、有料駐車場がございます。	general,hotel,weather
+3433	6	USER	ありがとうございます、検討します。あと、5/13当日の都島区の天気が知りたいです。	general,hotel,weather
+3433	7	SYSTEM	当日の天気は曇の予報でございます。	general,hotel,weather
+3433	8	USER	最高気温はどのくらいになる予報ですか？	general,hotel,weather
+3433	9	SYSTEM	最高気温は25度の予報でございます。	general,hotel,weather
+3433	10	USER	分かりました。以上です、ありがとうございました！	general,hotel,weather
+3433	11	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,weather

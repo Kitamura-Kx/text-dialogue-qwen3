@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3117	0	USER	横浜へ旅行に行くので、神奈川区の最寄り駅が横浜駅で買い物ができるところを知りたいです！	general,shopping,attraction,restaurant
+3117	1	SYSTEM	そうしますと、横浜ベイクォーターというところが1件ご案内可能です。いかがでしょうか？	general,shopping,attraction,restaurant
+3117	2	USER	OKです。住所と定休日を電話番号をおしえてください	general,shopping,attraction,restaurant
+3117	3	SYSTEM	住所は、神奈川県横浜市神奈川区金港町1-10です。こちらは、定休日はございません。電話番号は、0455778123でございます。	general,shopping,attraction,restaurant
+3117	4	USER	わかりました。あと根岸駅でWi-Fiと駐車場が無料の観光名所はありますか？	general,shopping,attraction,restaurant
+3117	5	SYSTEM	はい、1件ご案内可能です。三溪園というところですが、ご興味ございますか？	general,shopping,attraction,restaurant
+3117	6	USER	はい。定休日と営業時間をおしえてください	general,shopping,attraction,restaurant
+3117	7	SYSTEM	かしこまりました。定休日は、12/29, 12/30, 12/31となっております。営業時間は、9:00～17:00です。	general,shopping,attraction,restaurant
+3117	8	USER	わかりました。あと栄区でカレーが食べられる飲食店はありますか？	general,shopping,attraction,restaurant
+3117	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,shopping,attraction,restaurant
+3117	10	USER	そしたら栄区でなくても大丈夫です	general,shopping,attraction,restaurant
+3117	11	SYSTEM	そういたしますと、ディップパレス 新横浜店はいかがでしょうか？港北区エリアにあるお店となります。	general,shopping,attraction,restaurant
+3117	12	USER	分かりました！営業時間と電話番号と近辺の駅からの所要時間を教えてください	general,shopping,attraction,restaurant
+3117	13	SYSTEM	営業時間は、11:00～夜00:00です。電話番号は、0456202539でございます。場所は、最寄り駅の新横浜駅から徒歩で2分ほどの距離にございます。	general,shopping,attraction,restaurant
+3117	14	USER	了解です。1/19の14:00から3名で予約できますか？	general,shopping,attraction,restaurant
+3117	15	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,shopping,attraction,restaurant
+3117	16	USER	三人から二人に変更したらできますか？	general,shopping,attraction,restaurant
+3117	17	SYSTEM	ありがとうございます。2名様にて、ご予約完了いたしました。予約番号は、40068です。	general,shopping,attraction,restaurant
+3117	18	USER	わかりました！ありがとうございました	general,shopping,attraction,restaurant
+3117	19	SYSTEM	他にお調べすることはございませんか？	general,shopping,attraction,restaurant
+3117	20	USER	大丈夫です！ありがとうございました	general,shopping,attraction,restaurant
+3117	21	SYSTEM	こちらこそ、ありがとうございます。では、またのご利用をお待ちしております。	general,shopping,attraction,restaurant

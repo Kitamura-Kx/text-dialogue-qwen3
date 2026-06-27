@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3319	0	USER	旅行で横浜へ行く予定をしています。	general,attraction,shopping,taxi
+3319	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,attraction,shopping,taxi
+3319	2	USER	観光スポットを探しています。駐車場もWi-Fiも無料で使える場所が良いですね。	general,attraction,shopping,taxi
+3319	3	SYSTEM	横浜で駐車場とWiFiが無料の観光スポットは２つありますが、カップヌードルミュージアム 横浜、こちらをお勧めします。	general,attraction,shopping,taxi
+3319	4	USER	良いですね。カップヌードルミュージアム 横浜の住所と、最寄り駅がどこかは分かりますか？	general,attraction,shopping,taxi
+3319	5	SYSTEM	神奈川県横浜市中区新港2丁目3-4、最寄りはみなとみらい駅です。	general,attraction,shopping,taxi
+3319	6	USER	ありがとうございます。旅行当日は、磯子区でショッピングをしたいと思っています。	general,attraction,shopping,taxi
+3319	7	SYSTEM	横浜の磯子区には買い物スポットはなさそうです。	general,attraction,shopping,taxi
+3319	8	USER	残念です。南区ならどうでしょうか？	general,attraction,shopping,taxi
+3319	9	SYSTEM	それならば、弘明寺かんのん通り商店街、こちらオススメですよ。	general,attraction,shopping,taxi
+3319	10	USER	ここにします。あと、タクシーも予約をしたいです。ジャンボタクシーが選べて、キャッシュレス決済に対応している会社はありますか？	general,attraction,shopping,taxi
+3319	11	SYSTEM	はい、ジャンボとキャッシュレス両方対応しているところはいくつかありますが、国際自動車株式会社、こちらをお勧めします。	general,attraction,shopping,taxi
+3319	12	USER	ありがとうございます。国際自動車株式会社の電話番号と、配車の予約をお願いできますか？	general,attraction,shopping,taxi
+3319	13	SYSTEM	電話番号は0120385931です。日付、時刻と出発地、目的地をお願いします	general,attraction,shopping,taxi
+3319	14	USER	はい、10/8の13:10にカップヌードルミュージアム 横浜から乗車して、行先は弘明寺かんのん通り商店街です。	general,attraction,shopping,taxi
+3319	15	SYSTEM	予約に失敗してしまいました。	general,attraction,shopping,taxi
+3319	16	USER	そうなんですね。それでは時間を13:10から13:40に変更したらどうでしょうか？	general,attraction,shopping,taxi
+3319	17	SYSTEM	13:40なら予約できました。予約番号は2345になります。	general,attraction,shopping,taxi
+3319	18	USER	ありがとうございます。	general,attraction,shopping,taxi
+3319	19	SYSTEM	よい旅を。	general,attraction,shopping,taxi

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2236	0	USER	名古屋に旅行するんですけど、3月11日の港区の天候ってどんな感じですか？寒いのかなあ？	general,weather,taxi
+2236	1	SYSTEM	3/11 名古屋 港区 の天気は曇時々晴、最高気温16.4度、最低気温2.6度です。	general,weather,taxi
+2236	2	USER	結構寒めな感じですね。タクシーにしようかな。ジャンボタクシーとキャッシュレス払いが使える会社、紹介してもらえませんか？	general,weather,taxi
+2236	3	SYSTEM	名古屋にはジャンボタクシーとキャッシュレス両方対応している会社はありません。	general,weather,taxi
+2236	4	USER	そうなんだ、じゃあキャシュレスは使えなくてもいいです。	general,weather,taxi
+2236	5	SYSTEM	ジャンボタクシーならば中川タクシーをおすすめします。	general,weather,taxi
+2236	6	USER	電話番号は何番ですか？	general,weather,taxi
+2236	7	SYSTEM	0528212345です	general,weather,taxi
+2236	8	USER	3月11日の予約をお願いします。13時50分にタヴェルナ グイダからうな善まででお願いします。	general,weather,taxi
+2236	9	SYSTEM	その条件だと予約に失敗してしまいました。	general,weather,taxi
+2236	10	USER	ええ、じゃあ30分ぐらい待つので、14時20分ならどうですか？	general,weather,taxi
+2236	11	SYSTEM	１４時２０分なら予約できました。予約番号は60902です。	general,weather,taxi
+2236	12	USER	良かったあ。お手間を掛けました。ありがとうございました。	general,weather,taxi

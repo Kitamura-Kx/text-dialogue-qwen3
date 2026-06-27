@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2929	0	USER	横浜に行くのですが、神奈川区でビジネスタイプのホテルを探しています。	general,hotel,weather
+2929	1	SYSTEM	神奈川区でビジネスホテルは５件ありますが、リッチモンドホテル横浜駅前をお勧めします。	general,hotel,weather
+2929	2	USER	そちらはレストランはありますか？	general,hotel,weather
+2929	3	SYSTEM	はい、レストラン併設しています。	general,hotel,weather
+2929	4	USER	近辺の駅からの所要時間と住所を教えてください。	general,hotel,weather
+2929	5	SYSTEM	横浜駅から徒歩で2分です。住所は、神奈川県横浜市神奈川区鶴屋町2丁目13-7になります。	general,hotel,weather
+2929	6	USER	4/10から2泊、4人で予約をお願いしたいです	general,hotel,weather
+2929	7	SYSTEM	予約成功しました。予約番号は83262です。	general,hotel,weather
+2929	8	USER	ありがとうございます。ちなみに4/10、南区の最高気温と最低気温はどうなっていますか？	general,hotel,weather
+2929	9	SYSTEM	4/10 横浜 南区 の天気は晴時々雨、最低気温12.1度、最高気温17.5度です。	general,hotel,weather
+2929	10	USER	ありがとうございます。助かりました。	general,hotel,weather
+2929	11	SYSTEM	よい旅を	general,hotel,weather

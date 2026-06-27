@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4936	0	USER	こんにちは！大阪旅行を計画している者です。レストランが併設されている、駐車場が無料のビジネスホテルを紹介してもらえますか？	general,hotel
+4936	1	SYSTEM	アスティルホテル十三プレシャスをご紹介できます。	general,hotel
+4936	2	USER	そのホテルにします。料金情報と、最寄り駅と、チェックイン開始時刻を教えてください。	general,hotel
+4936	3	SYSTEM	料金は安めで、最寄り駅は十三駅です。チェックイン開始は15時です。	general,hotel
+4936	4	USER	わかりました。ありがとうございます！	general,hotel

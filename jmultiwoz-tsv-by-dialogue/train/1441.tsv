@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1441	0	USER	名古屋への旅行を計画しています．	general,shopping
+1441	1	SYSTEM	お問合せありがとうございます。	general,shopping
+1441	2	USER	当日買い物ができるところを探してください．駐車場を無料で利用できるところにしてください．地区は東区で。	general,shopping
+1441	3	SYSTEM	ウエルシア名古屋代官町店はいかがでしょうか。	general,shopping
+1441	4	USER	そちらの営業時間が知りたいです。	general,shopping
+1441	5	SYSTEM	営業時間は00:00～00:00です。	general,shopping
+1441	6	USER	ありがとうございます。	general,shopping

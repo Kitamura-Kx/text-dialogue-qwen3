@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1345	0	USER	京都へ行こうと思っています。WiFiが無料で利用できる観光名所を探していただきたいです。	general,attraction,shopping,taxi
+1345	1	SYSTEM	国立京都国際会館は、いかがでしょうか？	general,attraction,shopping,taxi
+1345	2	USER	そちらの住所を教えていただけますでしょうか。	general,attraction,shopping,taxi
+1345	3	SYSTEM	住所は、京都府京都市左京区岩倉大鷺町422です。	general,attraction,shopping,taxi
+1345	4	USER	わかりました。ありがとうございます。	general,attraction,shopping,taxi
+1345	5	SYSTEM	他にご用件はありますか？	general,attraction,shopping,taxi
+1345	6	USER	駐車場が無料で利用できるファッション系のお店を探していただきたいです。	general,attraction,shopping,taxi
+1345	7	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,shopping,taxi
+1345	8	USER	ではジャンルを食料品に変更して探していただけますか？	general,attraction,shopping,taxi
+1345	9	SYSTEM	鶴屋𠮷信 本店は、いかがでしょうか？	general,attraction,shopping,taxi
+1345	10	USER	そちらの定休日、最寄り駅について教えていただけますでしょうか。	general,attraction,shopping,taxi
+1345	11	SYSTEM	定休日は、水曜と1/1です。　最寄り駅は、今出川駅になります。	general,attraction,shopping,taxi
+1345	12	USER	わかりました。ありがとうございます。	general,attraction,shopping,taxi
+1345	13	SYSTEM	他にご用件はありますか？	general,attraction,shopping,taxi
+1345	14	USER	キャッシュレス払いができるタクシー会社を探していただきたいです。	general,attraction,shopping,taxi
+1345	15	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,shopping,taxi
+1345	16	USER	ではキャッシュレス払い対応は考慮せず探していただけますか？	general,attraction,shopping,taxi
+1345	17	SYSTEM	京都第一交通株式会社は、いかがでしょうか？	general,attraction,shopping,taxi
+1345	18	USER	そちらがジャンボタクシー対応かどうかと電話番号も教えていただけますでしょうか。	general,attraction,shopping,taxi
+1345	19	SYSTEM	ジャンボタクシーも対応しております。　電話番号は、0120382333です。	general,attraction,shopping,taxi
+1345	20	USER	では、10月15日13時40分国立京都国際会館から鶴屋𠮷信 本店まで予約をお願いします。	general,attraction,shopping,taxi
+1345	21	SYSTEM	予約出来ました。予約番号は、68498です。	general,attraction,shopping,taxi
+1345	22	USER	わかりました。ありがとうございます。	general,attraction,shopping,taxi
+1345	23	SYSTEM	他にご用件はありますか？	general,attraction,shopping,taxi
+1345	24	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,shopping,taxi

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+505	0	USER	仙台へ行こうと思っています。WiFiが無料で予算が高めの寿司・魚料理店を探していただきたいです。	general,restaurant
+505	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,restaurant
+505	2	USER	ではジャンルは考慮せず、WiFiが無料で予算が高めな飲食店を探していただけますか？	general,restaurant
+505	3	SYSTEM	では黒毛和牛一頭切り 伊達哉はいかがでしょうか。	general,restaurant
+505	4	USER	そちらのエリア、営業時間、近辺の駅からの所要時間を教えていただけますでしょうか。	general,restaurant
+505	5	SYSTEM	エリアは宮城野区でございます。営業時間は17:00～23:00で、仙台駅から徒歩で3分でございます。	general,restaurant
+505	6	USER	では、10月30日13時から4人で予約をお願いします。	general,restaurant
+505	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は74692でございます。	general,restaurant
+505	8	USER	わかりました。ありがとうございます。	general,restaurant
+505	9	SYSTEM	ほかにご用件はございませんか。	general,restaurant
+505	10	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant

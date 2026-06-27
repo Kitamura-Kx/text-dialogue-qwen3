@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1027	0	USER	横浜へ旅行に行く予定のため、買い物ができるお店を探しています。	general,shopping
+1027	1	SYSTEM	50件ありますが、他に何かご希望がありますか。	general,shopping
+1027	2	USER	駐車場が無料で利用できて、金沢区で最寄り駅が新杉田駅のエリアがいいです。	general,shopping
+1027	3	SYSTEM	検索結果が見当たりません。外して良い条件はありますか。	general,shopping
+1027	4	USER	では最寄り駅は新杉田駅以外でもいいので金沢区で駐車場が無料のところで探してもらえますか？	general,shopping
+1027	5	SYSTEM	コストコ金沢シーサイド倉庫が、最寄り駅に並木中央駅であります。	general,shopping
+1027	6	USER	そこにしたいと思います。住所を教えてください。	general,shopping
+1027	7	SYSTEM	住所は神奈川県横浜市金沢区幸浦2丁目6です。	general,shopping
+1027	8	USER	ありがとうございます。	general,shopping
+1027	9	SYSTEM	以上で宜しかったでしょうか。	general,shopping
+1027	10	USER	はい、もう大丈夫です。ありがとうございました。	general,shopping

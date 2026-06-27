@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4290	0	USER	仙台へ旅行に行くので当日の天候が知りたいです。泉区の9月25日の天気はどうでしょうか？	general,weather,taxi
+4290	1	SYSTEM	かしこまりました。天気は曇で、最低気温が23度で最高気温が24度でございます。	general,weather,taxi
+4290	2	USER	ありがとうございます。あと、キャッシュレス払いができるタクシー会社を探しているのですが。	general,weather,taxi
+4290	3	SYSTEM	申し訳ございません。キャッシュレスに対応している会社がございません。いかがなさいますか。	general,weather,taxi
+4290	4	USER	じゃあ、キャッシュレスに対応していなくてもいいです。	general,weather,taxi
+4290	5	SYSTEM	では稲荷タクシー（有）がございます。こちらジャンボタクシーには対応しております。電話番号は0222411121でございます。	general,weather,taxi
+4290	6	USER	そちらのタクシーを予約します。9月25日にRakuten STAY x EAGLESから、業務スーパー 仙台一番町店までお願いします。時間は13時50分で。	general,weather,taxi
+4290	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は24902でございます。	general,weather,taxi
+4290	8	USER	ありがとうございます。	general,weather,taxi
+4290	9	SYSTEM	ほかにご用件はございませんか。	general,weather,taxi
+4290	10	USER	いえ、ありません。ありがとうございました。	general,weather,taxi
+4290	11	SYSTEM	承知しました。ありがとうございました。	general,weather,taxi

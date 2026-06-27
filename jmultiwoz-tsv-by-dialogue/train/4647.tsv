@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4647	0	USER	名古屋への旅行を計画しているんですけど、その時に利用するキャッシュレス払いが可能なタクシー会社を探してもらえませんか？	general,taxi
+4647	1	SYSTEM	はい。伸和交通はいかがですか？ジャンボタクシーも利用できます。	general,taxi
+4647	2	USER	いいですね、じゃあそちらの電話番号を教えて下さい。	general,taxi
+4647	3	SYSTEM	はい。電話番号は0522031212です。	general,taxi
+4647	4	USER	2/28の13:00で予約をお願いできますか？	general,taxi
+4647	5	SYSTEM	はい、予約させていただきます。	general,taxi
+4647	6	USER	塩竈神社から柳橋中央市場まででお願いします。	general,taxi
+4647	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、44794です。	general,taxi
+4647	8	USER	ありがとうございました。	general,taxi
+4647	9	SYSTEM	ありがとうございました。	general,taxi

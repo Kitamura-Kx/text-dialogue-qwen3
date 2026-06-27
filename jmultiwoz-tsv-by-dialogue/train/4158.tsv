@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4158	0	USER	こんにちは。大阪に旅行したいと思っています。当日すぐに買い物したいんですが、西区に駐車場が無料の店はありますか？	general,shopping,restaurant
+4158	1	SYSTEM	はい、イオン大阪ドームシティ店がございます。ジャンルは、百貨店や総合スーパーとなります。	general,shopping,restaurant
+4158	2	USER	そこに行きたいんですが、住所と、近くの駅からの所要時間と、電話番号も教えてもらえますか？	general,shopping,restaurant
+4158	3	SYSTEM	はい、住所は大阪府大阪市西区千代崎3丁目13-1、電話番号は0665841500、最寄りのドーム前駅から徒歩で1分となります。	general,shopping,restaurant
+4158	4	USER	それでは、当日にすぐ食事できる飲食店も教えてもらえますか？予算は高めがいいですが、駐車場は無料でお願いします。	general,shopping,restaurant
+4158	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,restaurant
+4158	6	USER	そうですか、では駐車場は条件から外してください。予算が高めの飲食店でお願いします。	general,shopping,restaurant
+4158	7	SYSTEM	ありがとうございます。エリアでいうと阿倍野区にある、赤から あべのハルカスダイニング店はいかがでしょう？ジャンルは、居酒屋、鍋となります。	general,shopping,restaurant
+4158	8	USER	いいですね。料金情報はありますか？	general,shopping,restaurant
+4158	9	SYSTEM	はい、季節限定の赤からもつ鍋が1419円となります。	general,shopping,restaurant
+4158	10	USER	それでは、予約もお願いします。3人で5月14日の15時40分です。	general,shopping,restaurant
+4158	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、29497となります。	general,shopping,restaurant
+4158	12	USER	ご対応ありがとうございました。	general,shopping,restaurant

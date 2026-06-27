@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4440	0	USER	東京へ旅行に行くので、板橋区に買い物施設があるか調べてもらえますか？	general,shopping
+4440	1	SYSTEM	はい、イオン板橋ショッピングセンターがございます。ジャンルは、百貨店や総合スーパーとなります。	general,shopping
+4440	2	USER	そこにします。定休日はありますか？	general,shopping
+4440	3	SYSTEM	定休日はございません。	general,shopping
+4440	4	USER	わかりました。ありがとうございました。	general,shopping
+4440	5	SYSTEM	ありがとうございました。	general,shopping

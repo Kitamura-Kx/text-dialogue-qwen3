@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4831	0	USER	仙台へ旅行するので、予算は高めの宮城野区にある飲食店を探してください。Wi-Fiが無料で使えると嬉しいです。	general,restaurant,attraction,taxi
+4831	1	SYSTEM	1件みつかりました。　黒毛和牛一頭切り 伊達哉はいかがでしょうか？	general,restaurant,attraction,taxi
+4831	2	USER	いいですね。あと観光名所も探していて、最寄り駅が東北福祉大前駅の駐車場を無料で利用できるところはありますか？	general,restaurant,attraction,taxi
+4831	3	SYSTEM	では、大崎八幡宮 大石段はいかがでしょうか？	general,restaurant,attraction,taxi
+4831	4	USER	そこにします。当日ジャンボタクシーの利用を考えているのですが、キャッシュレス払いができるタクシー会社はありますか？	general,restaurant,attraction,taxi
+4831	5	SYSTEM	それでしたら、仙台タクシーグループが良いと思います。	general,restaurant,attraction,taxi
+4831	6	USER	そちらの電話番号はわかりますか？	general,restaurant,attraction,taxi
+4831	7	SYSTEM	はい、電話番号は、0570061616になります。	general,restaurant,attraction,taxi
+4831	8	USER	では予約をお願いします。4/30の13:40に黒毛和牛一頭切り 伊達哉をでて、大崎八幡宮 大石段までです。	general,restaurant,attraction,taxi
+4831	9	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。　どうされますか？	general,restaurant,attraction,taxi
+4831	10	USER	なら、時間を14:10に変更します。	general,restaurant,attraction,taxi
+4831	11	SYSTEM	予約出来ました。予約番号は、94066です。	general,restaurant,attraction,taxi
+4831	12	USER	いろいろありがとうございました。	general,restaurant,attraction,taxi
+4831	13	SYSTEM	他にご用件はございますか？	general,restaurant,attraction,taxi
+4831	14	USER	いえ、ないです。	general,restaurant,attraction,taxi
+4831	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,taxi

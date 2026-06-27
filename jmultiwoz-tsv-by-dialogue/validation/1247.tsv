@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1247	0	USER	那覇への旅行を計画しています。当日訪れる観光名所を探しているのですが、お伺いしてもよろしいでしょうか？	general,attraction,restaurant
+1247	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction,restaurant
+1247	2	USER	そうですね。真和志地区で工場見学できる場所ってありますか？	general,attraction,restaurant
+1247	3	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,attraction,restaurant
+1247	4	USER	そうですか。でしたら、真和志地区の観光名所でおすすめの場所はありますか？	general,attraction,restaurant
+1247	5	SYSTEM	そういたしますと、那覇市牧志駅前ほしぞら公民館はいかがでしょうか。ジャンルはプラネタリウムとなります。	general,attraction,restaurant
+1247	6	USER	良さそうですね。そちらの定休日とかってありますか？	general,attraction,restaurant
+1247	7	SYSTEM	月曜日と火曜日が定休日となっております。	general,attraction,restaurant
+1247	8	USER	ありがとうございます。それと、当日利用出来る飲食店も探しているのですが、よろしいでしょうか？	general,attraction,restaurant
+1247	9	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,attraction,restaurant
+1247	10	USER	はい。店名がしゃぶしゃぶ 焼肉 杏と言うらしいのですが、該当する施設ってありますか？	general,attraction,restaurant
+1247	11	SYSTEM	はい、本庁エリアに1件ございます。ジャンルは、焼肉・ホルモン, 和食のお店となっております。	general,attraction,restaurant
+1247	12	USER	恐らくそちらだと思います。このお店の定休日と、料金について教えて貰えますか？	general,attraction,restaurant
+1247	13	SYSTEM	こちらのお店は、定休日はございません。料金につきましては、普通のお値段の設定でして、詳しい内容としましては、あぐーしゃぶしゃぶ一人前:4950円、プレミアムコース一人前:7150円、もとぶ牛炙り肉寿司（4貫）:1408円といったものがございます。	general,attraction,restaurant
+1247	14	USER	ありがとうございます。電話番号も知りたいのですが、教えて頂けますか？	general,attraction,restaurant
+1247	15	SYSTEM	はい。電話番号は、0989437198でございます。	general,attraction,restaurant
+1247	16	USER	ありがとうございます。このままこのお店を予約したいのですが、よろしいでしょうか？	general,attraction,restaurant
+1247	17	SYSTEM	はい、承ります。ご利用予定の日付と時刻、人数をお願いできますでしょうか？	general,attraction,restaurant
+1247	18	USER	はい。日付は8月23日の11時で、人数は2人でお願いします。	general,attraction,restaurant
+1247	19	SYSTEM	恐れ入ります。11時は、お昼の11時でよろしかったでしょうか？夜の11時でしょうか？	general,attraction,restaurant
+1247	20	USER	すみません。昼の11時でお願いします。	general,attraction,restaurant
+1247	21	SYSTEM	かしこまりました。ただ申し訳ありません。その条件では予約できませんでした。いかがいたしましょうか？	general,attraction,restaurant
+1247	22	USER	そうですね。では時間をずらして、11時50分とかではどうでしょうか？	general,attraction,restaurant
+1247	23	SYSTEM	ありがとうございます。11時50分にて、ご予約完了いたしました。予約番号は、15969です。	general,attraction,restaurant
+1247	24	USER	ありがとうございます。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,attraction,restaurant
+1247	25	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,restaurant

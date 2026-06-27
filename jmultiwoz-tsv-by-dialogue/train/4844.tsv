@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4844	0	USER	横浜の緑区で駐車場が無料の和食のお店はありますか？	general,restaurant,hotel,shopping
+4844	1	SYSTEM	うなぎ料理 しま村 青葉台店はいかがですか？	general,restaurant,hotel,shopping
+4844	2	USER	このお店の最寄り駅はどこになりますか？営業時間も教えてください。	general,restaurant,hotel,shopping
+4844	3	SYSTEM	最寄り駅は、青葉台駅です。　営業時間は、11時から15時までと16時から21時30分までです。	general,restaurant,hotel,shopping
+4844	4	USER	わかりました。あとその日に泊まる所も探してほしいです。金沢区でお願いします。	general,restaurant,hotel,shopping
+4844	5	SYSTEM	それでしたら、ホテル シーパラダイス インはいかがですか？	general,restaurant,hotel,shopping
+4844	6	USER	このホテルはチェックアウトは何時までですか？	general,restaurant,hotel,shopping
+4844	7	SYSTEM	チェックアウト終了時刻は、10時となっています。	general,restaurant,hotel,shopping
+4844	8	USER	わかりました。あと並木中央駅近くで駐車場が無料で買い物ができるお店を探しています。	general,restaurant,hotel,shopping
+4844	9	SYSTEM	コストコ金沢シーサイド倉庫はいかがですか？	general,restaurant,hotel,shopping
+4844	10	USER	このお店のジャンルは何になりますか？あと駅からはどれくらいの時間がかかりますか？	general,restaurant,hotel,shopping
+4844	11	SYSTEM	ジャンルは、食料品, 家電・電化製品, ファッション, 医薬品・化粧品, その他です。	general,restaurant,hotel,shopping
+4844	12	USER	駅からはどれくらいの時間がかかるのかも教えてください。	general,restaurant,hotel,shopping
+4844	13	SYSTEM	所要時間は、並木中央駅から徒歩で10分です。	general,restaurant,hotel,shopping
+4844	14	USER	わかりました。	general,restaurant,hotel,shopping
+4844	15	SYSTEM	他にご用件はありますか？	general,restaurant,hotel,shopping
+4844	16	USER	大丈夫です。ありがとうございました。	general,restaurant,hotel,shopping
+4844	17	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel,shopping

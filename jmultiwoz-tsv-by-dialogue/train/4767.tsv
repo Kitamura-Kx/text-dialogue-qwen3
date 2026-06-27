@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4767	0	USER	仙台への旅行を計画していて、当日のタクシー会社を探しています。ジャンボタクシーが利用でき、キャッシュレス払い対応があるところが希望です。	general,taxi
+4767	1	SYSTEM	承知しました。（株）フタバタクシーはいかがでしょうか？	general,taxi
+4767	2	USER	ありがとうございます。そのタクシーを予約したいのですが、1/20の14：00から、ハチ仙台駅店からココス 仙台長町店まで予約をお願い出来ますか？	general,taxi
+4767	3	SYSTEM	予約が完了しました。予約番号は94393です。	general,taxi
+4767	4	USER	ありがとうございました。	general,taxi
+4767	5	SYSTEM	他にご用件はありますか？	general,taxi
+4767	6	USER	いえ、他にはありません。ありがとうございました。	general,taxi
+4767	7	SYSTEM	ありがとうございました。又のご利用をお待ちしています	general,taxi

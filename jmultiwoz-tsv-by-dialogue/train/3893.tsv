@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3893	0	USER	福岡への旅行を計画しています。歴史的建造物のある観光名所を探していただけますでしょうか。	general,attraction,shopping,hotel
+3893	1	SYSTEM	かしこまりました。では旧福岡県公会堂 貴賓館がございます。	general,attraction,shopping,hotel
+3893	2	USER	行ってみたいと思います。そちらの子供入場料、営業時間、近辺の駅からの所要時間を調べていただけますか。	general,attraction,shopping,hotel
+3893	3	SYSTEM	子供の入場料は100円で、営業時間は09:00～18:00、天神駅から徒歩で8分となっております。	general,attraction,shopping,hotel
+3893	4	USER	ありがとうございます。助かります。続けてですが、当日買い物に行きたいのですが、博多区で家電・電化製品のお店はありますか。	general,attraction,shopping,hotel
+3893	5	SYSTEM	はい。でしたらヨドバシ博多はいかがでしょうか。	general,attraction,shopping,hotel
+3893	6	USER	そちらは駐車場は無料でしょうか。	general,attraction,shopping,hotel
+3893	7	SYSTEM	はい。無料でご利用いただけます。	general,attraction,shopping,hotel
+3893	8	USER	よかったです。では、そちらの定休日と最寄り駅を教えていただけますか。	general,attraction,shopping,hotel
+3893	9	SYSTEM	定休日はございません。最寄り駅は博多駅でございます。	general,attraction,shopping,hotel
+3893	10	USER	ありがとうございます。では、当日泊まる施設も探してください。最寄り駅が呉服町駅のところにしてください。	general,attraction,shopping,hotel
+3893	11	SYSTEM	かしこまりました。ではスーパーホテルInn博多がございます。	general,attraction,shopping,hotel
+3893	12	USER	予算は普通で、駐車場が無料のところがよいのですが、当てはまりますでしょうか。	general,attraction,shopping,hotel
+3893	13	SYSTEM	恐れ入ります。その条件ですと当てはまるところがございません。いかがなさいますか。	general,attraction,shopping,hotel
+3893	14	USER	では、最寄り駅は呉服町駅でなくても構いません。	general,attraction,shopping,hotel
+3893	15	SYSTEM	ではWITH THE STYLE FUKUOKAがございます。	general,attraction,shopping,hotel
+3893	16	USER	そちらは、Wi-Fiは使えますでしょうか。	general,attraction,shopping,hotel
+3893	17	SYSTEM	はい。Wi-Fiも無料でご利用いただけます。	general,attraction,shopping,hotel
+3893	18	USER	ありがとうございます。そちらにしたいと思います。今回はまだ予約なしで結構です。ありがとうございました。	general,attraction,shopping,hotel

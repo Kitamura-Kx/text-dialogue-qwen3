@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1672	0	USER	札幌への旅行を考えているのですが、普通を値段位で、Wi-Fiが無料で利用できる宿泊施設はありますか？	general,hotel,shopping,weather
+1672	1	SYSTEM	かしこまりました。では定山渓第一寶亭留 翠山亭はいかがでしょうか。	general,hotel,shopping,weather
+1672	2	USER	よさそうですね。チェックイン開始時刻とチェックアウト終了時刻を教えてもらえますか？	general,hotel,shopping,weather
+1672	3	SYSTEM	チェックイン開始時刻は15:00、チェックアウト終了時刻は11:00でございます。	general,hotel,shopping,weather
+1672	4	USER	わかりました。買い物できるところもさがしていて、最寄駅が平和駅のところはありますか？	general,hotel,shopping,weather
+1672	5	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,hotel,shopping,weather
+1672	6	USER	わかりました。最寄駅が西１８丁目駅のところでもいいです。	general,hotel,shopping,weather
+1672	7	SYSTEM	ではSUUはいかがでしょうか。	general,hotel,shopping,weather
+1672	8	USER	そこにします。ジャンルは何になりますか？	general,hotel,shopping,weather
+1672	9	SYSTEM	ジャンルはファッション, 文房具・雑貨, 旅行用品でございます。	general,hotel,shopping,weather
+1672	10	USER	わかりました。あと、6/22の豊平区の天気予報も教えてください。	general,hotel,shopping,weather
+1672	11	SYSTEM	天気は曇時々晴、最低気温は18.9度、最高気温は22.3度でございます。	general,hotel,shopping,weather
+1672	12	USER	わかりました。ありがとうございます。もう大丈夫です。	general,hotel,shopping,weather
+1672	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,weather

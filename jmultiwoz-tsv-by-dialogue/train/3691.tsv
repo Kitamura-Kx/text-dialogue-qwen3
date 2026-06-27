@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3691	0	USER	京都へ旅行に行こうと思っています。当日訪れる観光名所を探しています。地区は西京区で駐車場は無料が希望です。	general,attraction,weather
+3691	1	SYSTEM	かしこまりました。では、桂坂野鳥遊園はいかがでしょうか？	general,attraction,weather
+3691	2	USER	そこが良さそうですね。そこの電話番号と最寄り駅とジャンルを教えてください。	general,attraction,weather
+3691	3	SYSTEM	はい。電話番号は0753324610で、最寄駅は桂駅になります。また、ジャンルは自然・公園, アウトドア, 教室・ワークショップ・体験です。	general,attraction,weather
+3691	4	USER	あと当日7/12の北区の最高気温を教えてください。	general,attraction,weather
+3691	5	SYSTEM	はい。最高気温は29.4度になる見込みです。	general,attraction,weather
+3691	6	USER	分かりました。ありがとうございます。	general,attraction,weather
+3691	7	SYSTEM	はい。他にご用件はございませんか？	general,attraction,weather
+3691	8	USER	はい。大丈夫です。	general,attraction,weather
+3691	9	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

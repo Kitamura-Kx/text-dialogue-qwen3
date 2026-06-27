@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3809	0	USER	横浜に旅行に行くのですが、当日買い物をしたいので、駐車場無料のお店を教えてください。	general,shopping,attraction
+3809	1	SYSTEM	かしこまりました。それではスヌーピータウンショップ 横浜みなとみらい店はいかがでしょうか？	general,shopping,attraction
+3809	2	USER	どのようなジャンルのお店ですか？	general,shopping,attraction
+3809	3	SYSTEM	ジャンルは文房具・雑貨, ファッション, お土産でございます。	general,shopping,attraction
+3809	4	USER	そうですか、そのお店のエリアと定休日を教えてください。	general,shopping,attraction
+3809	5	SYSTEM	はい、エリアは西区、定休日は不定休でございます。	general,shopping,attraction
+3809	6	USER	わかりました。あと観光名所で、無料の駐車場とWi-Fiも無料で使えるところってありますか？	general,shopping,attraction
+3809	7	SYSTEM	それでは、カップヌードルミュージアム 横浜はいかがでしょうか？	general,shopping,attraction
+3809	8	USER	そこのエリアと料金情報を教えてください。	general,shopping,attraction
+3809	9	SYSTEM	料金は入館料 が大人 (大学生以上)は500円 、 高校生以下は無料でございます。	general,shopping,attraction
+3809	10	USER	エリアと最寄り駅はどこになりますか？	general,shopping,attraction
+3809	11	SYSTEM	エリアは中区、最寄り駅はみなとみらい駅でございます。	general,shopping,attraction
+3809	12	USER	わかりました。ありがとうございました。	general,shopping,attraction
+3809	13	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,attraction

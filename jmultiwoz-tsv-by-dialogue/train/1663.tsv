@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1663	0	USER	大阪へ旅行に行きたいのですが、買い物が楽しめるアウトレットモールはありますか？	general,shopping
+1663	1	SYSTEM	そういたしますと、三井アウトレットパーク 大阪鶴見はいかがでしょうか？鶴見区エリアにある、アウトレットモールでございます。	general,shopping
+1663	2	USER	駐車場は無料ですか？	general,shopping
+1663	3	SYSTEM	はい、無料でご利用いただけます。ほかにもお調べしましたが、駐車場が無料の条件に該当するのは、こちらのお店のみになります。	general,shopping
+1663	4	USER	そうなんですね。そこは定休日はありますか？	general,shopping
+1663	5	SYSTEM	定休日はございません。	general,shopping
+1663	6	USER	わかりました。ではそこにしようと思います。ありがとうございます。	general,shopping
+1663	7	SYSTEM	他にお調べすることはございませんか？	general,shopping
+1663	8	USER	大丈夫です。	general,shopping
+1663	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping
+1663	10	USER		general,shopping

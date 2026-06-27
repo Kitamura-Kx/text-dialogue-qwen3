@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+924	0	USER	那覇に旅行するのですが、Wi-Fiが無料の飲食店を探しています。おもろまち駅の近くでいいところはありませんか？	general,restaurant
+924	1	SYSTEM	その条件ですと、しゃぶ葉 那覇おもろまち店はいかがでしょうか？	general,restaurant
+924	2	USER	そこは駐車場は無料でしょうか？	general,restaurant
+924	3	SYSTEM	はい、駐車場は無料でございます。	general,restaurant
+924	4	USER	ではそこがいいですね。エリア的にはどこになりますか？	general,restaurant
+924	5	SYSTEM	エリアは本庁でございます。	general,restaurant
+924	6	USER	本庁でいいんですか？　本町とかではなく？	general,restaurant
+924	7	SYSTEM	はい、エリアは、本庁でございます。	general,restaurant
+924	8	USER	すみません、なんか役場のようだったので、確認でした。お世話になりました。	general,restaurant

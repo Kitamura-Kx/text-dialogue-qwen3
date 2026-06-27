@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3778	0	USER	那覇への旅行を考えているのですが、首里地区で駐車場を無料で利用できる観光名所はありますか？	general,attraction,taxi
+3778	1	SYSTEM	では、首里崎山公園はいかがでしょう？ジャンルは、自然、公園、絶景となります。	general,attraction,taxi
+3778	2	USER	いいですね。そちらの子供の入場料と、Wi-Fiの有無を教えてもらえますか？	general,attraction,taxi
+3778	3	SYSTEM	大人、子供とも、入場料は必要なく、無料でご利用いただけます。申し訳ありません、Wi-Fiのご用意はございません。	general,attraction,taxi
+3778	4	USER	ありがとうございます。キャッシュレス払いが可能で、ジャンボタクシーを利用できるタクシー会社も探してもらえますか？	general,attraction,taxi
+3778	5	SYSTEM	承知しました。では、沖縄交通はいかがでしょう？電話番号は、0120170978となります。	general,attraction,taxi
+3778	6	USER	そちらのタクシー会社で、首里崎山公園からカレーハウスCoCo壱番屋 那覇金城店まで、11/7の09:30に予約をお願いできますか？	general,attraction,taxi
+3778	7	SYSTEM	念のための確認ですが、午前９時30分でよろしいでしょうか？	general,attraction,taxi
+3778	8	USER	はい、午前でお願いします。	general,attraction,taxi
+3778	9	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、58103となります。	general,attraction,taxi
+3778	10	USER	ありがとうございました。	general,attraction,taxi
+3778	11	SYSTEM	ありがとうございました。	general,attraction,taxi

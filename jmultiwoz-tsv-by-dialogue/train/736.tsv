@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+736	0	USER	那覇で無料駐車場が利用できる観光名所はありますか？	general,attraction,shopping,taxi
+736	1	SYSTEM	はい、27件ご案内可能です。たとえば、漫湖公園というところが本庁エリアにございますが、いかがでしょうか？	general,attraction,shopping,taxi
+736	2	USER	ありがとうございます。あと、真和志にあるコンビニも知りたいのですが。	general,attraction,shopping,taxi
+736	3	SYSTEM	かしこまりました。牧志駅から徒歩で2分の場所に、ファミリーマート さいおんスクエア店というお店がございます。	general,attraction,shopping,taxi
+736	4	USER	そのコンビニの電話番号と営業時間も教えてもらえますか？	general,attraction,shopping,taxi
+736	5	SYSTEM	電話番号は、0988608020です。営業時間は0時から0時となっておりますので、24時間ですね。	general,attraction,shopping,taxi
+736	6	USER	ありがとうございます。当日タクシーも利用したいので、キャッシュレス払い対応のジャンボタクシーが利用できるところ探してもらえますか？	general,attraction,shopping,taxi
+736	7	SYSTEM	かしこまりました。では、鏡原第一交通はいかがでしょうか？	general,attraction,shopping,taxi
+736	8	USER	電話番号を教えてもらえますか？	general,attraction,shopping,taxi
+736	9	SYSTEM	はい。電話番号は、0988537801です。	general,attraction,shopping,taxi
+736	10	USER	ありがとうございます。５月２６日の１１時に、漫湖公園からファミリーマート さいおんスクエア店まで予約お願いできますか？	general,attraction,shopping,taxi
+736	11	SYSTEM	申し訳ございません。その条件ですと予約を入れることができませんでした。いかがいたしましょうか？	general,attraction,shopping,taxi
+736	12	USER	時間を１１時５０分に遅らせたらできますか？	general,attraction,shopping,taxi
+736	13	SYSTEM	ありがとうございます。11時50分発で予約完了いたしました。ご予約番号は42773です。	general,attraction,shopping,taxi
+736	14	USER	ありがとうございました。	general,attraction,shopping,taxi
+736	15	SYSTEM	ほかにお手伝いすることはございませんか？	general,attraction,shopping,taxi
+736	16	USER	大丈夫です。ありがとうございました。	general,attraction,shopping,taxi
+736	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,shopping,taxi

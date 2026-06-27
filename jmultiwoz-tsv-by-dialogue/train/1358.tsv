@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1358	0	USER	那覇へ旅行に行くのですが、当日買い物ができるところを探しています	general,shopping
+1358	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping
+1358	2	USER	最寄り駅が美栄橋駅で、医薬品・化粧品を購入したいです。	general,shopping
+1358	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping
+1358	4	USER	では最寄り駅の条件は外していいです	general,shopping
+1358	5	SYSTEM	ではSuiSavon -首里石鹸- 国際通り牧志ギャラリーショップがございます。	general,shopping
+1358	6	USER	そこに行くので、営業時間を教えてください	general,shopping
+1358	7	SYSTEM	営業時間は10:00～20:00でございます。	general,shopping
+1358	8	USER	ありがとうございました。以上です。	general,shopping
+1358	9	SYSTEM	承知しました。ありがとうございました。	general,shopping

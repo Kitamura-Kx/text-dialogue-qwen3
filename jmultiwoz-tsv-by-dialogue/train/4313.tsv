@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4313	0	USER	札幌へ旅行するので北区でお土産が買えるところを探してください。駐車場が無料のところがいいです	general,shopping
+4313	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping
+4313	2	USER	では、お土産以外でも大丈夫です	general,shopping
+4313	3	SYSTEM	かしこまりました。それではパセオはいかがでしょうか？	general,shopping
+4313	4	USER	近辺の駅からの所要時間を知りたいです	general,shopping
+4313	5	SYSTEM	はい、札幌駅から徒歩で1分でございます。	general,shopping
+4313	6	USER	了解です！ありがとうございました	general,shopping
+4313	7	SYSTEM	その他に御用件はございますか？	general,shopping
+4313	8	USER	大丈夫です。ありがとうございました	general,shopping
+4313	9	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping

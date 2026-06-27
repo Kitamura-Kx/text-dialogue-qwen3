@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+240	0	USER	お願いします。名古屋への旅行を計画しています。駐車場が無料で使える飲食店を探していただきたいのですが？	general,restaurant,hotel,weather
+240	1	SYSTEM	かしこまりました。ジャンルなど、ご希望はございますか？	general,restaurant,hotel,weather
+240	2	USER	和洋問いませんが、名古屋競馬場前駅周辺でお願いします。	general,restaurant,hotel,weather
+240	3	SYSTEM	かしこまりました。ソーサリートは如何でしょうか？イタリアン・フレンチのお店です。	general,restaurant,hotel,weather
+240	4	USER	そちらでは、wifiは使えますか？	general,restaurant,hotel,weather
+240	5	SYSTEM	申し訳ございません。WiFiにつきましては、不明となっております。	general,restaurant,hotel,weather
+240	6	USER	わかりました。そちらのお店の電話番号を教えて下さい。	general,restaurant,hotel,weather
+240	7	SYSTEM	はい。電話番号は、0523015141でございます。	general,restaurant,hotel,weather
+240	8	USER	では、そちらのお店で予約をお願いします。12/3の10：00で4人でお願いします。	general,restaurant,hotel,weather
+240	9	SYSTEM	予約完了いたしました。ご予約番号は、57152です。	general,restaurant,hotel,weather
+240	10	USER	ありがとうございます。あと、当日泊まれるところも探していただきたいのですが、お願いできますか？	general,restaurant,hotel,weather
+240	11	SYSTEM	かしこまりました。なにか、ご希望の条件はございますか？	general,restaurant,hotel,weather
+240	12	USER	レストランが付いていて、駐車場が無料で使えるところをお願いします。	general,restaurant,hotel,weather
+240	13	SYSTEM	では、ホテル いろは、というビジネスホテルはいかがでしょうか？	general,restaurant,hotel,weather
+240	14	USER	そちらの料金情報はわかりますか？	general,restaurant,hotel,weather
+240	15	SYSTEM	申し訳ありません。お値段の設定がお安め、という情報以外、詳しい料金については手元になく、ご案内できかねます。	general,restaurant,hotel,weather
+240	16	USER	了解です。では、そちらのホテルで予約をお願いします。	general,restaurant,hotel,weather
+240	17	SYSTEM	かしこまりました。ご利用予定の日付と宿泊日数、ご宿泊される人数はお決まりでしょうか？	general,restaurant,hotel,weather
+240	18	USER	はい。12/3から3泊で、4人でお願いします。	general,restaurant,hotel,weather
+240	19	SYSTEM	ありがとうございます。予約番号85589にて、ご予約承りました。	general,restaurant,hotel,weather
+240	20	USER	ありがとうございます。ところで、12/3の千種区の最低気温はわかりますか？	general,restaurant,hotel,weather
+240	21	SYSTEM	12/3千種区の最低気温は1.6度になる予想です。	general,restaurant,hotel,weather
+240	22	USER	わかりました。ありがとうございました。失礼いたします。	general,restaurant,hotel,weather
+240	23	SYSTEM	ご利用ありがとうございました。	general,restaurant,hotel,weather

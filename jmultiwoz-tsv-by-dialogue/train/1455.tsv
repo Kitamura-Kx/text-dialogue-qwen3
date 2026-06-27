@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1455	0	USER	東京へ旅行に行くんですが、タクシー会社を探していただけますか？	general,taxi,weather
+1455	1	SYSTEM	では三和交通（板橋区）がございます。こちらキャッシュレスにもジャンボタクシーにも対応しております。	general,taxi,weather
+1455	2	USER	ありがとうございます。予約をお願いしたいです。TODAY'S SPECIAL Jiyugaokaを出発して、恵比寿らぁ麺屋 つなぎ(繋) 中野店までお願いします。	general,taxi,weather
+1455	3	SYSTEM	かしこまりました。では、予約の日時を教えていただけますか。	general,taxi,weather
+1455	4	USER	2/24の12:40でお願いします。	general,taxi,weather
+1455	5	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,taxi,weather
+1455	6	USER	13:30だとどうでしょう？	general,taxi,weather
+1455	7	SYSTEM	はい。予約が完了いたしました。予約番号は99080でございます。	general,taxi,weather
+1455	8	USER	ありがとうございます。中野区の気温も教えてください。2/24です！	general,taxi,weather
+1455	9	SYSTEM	最低気温は8.2度で、最高気温は12.2度でございます。	general,taxi,weather
+1455	10	USER	大変助かりました！ありがとうございました。	general,taxi,weather
+1455	11	SYSTEM	承知しました。ありがとうございました。	general,taxi,weather

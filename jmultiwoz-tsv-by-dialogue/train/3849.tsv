@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3849	0	USER	那覇で泊まれるところを探してください。	general,hotel,shopping
+3849	1	SYSTEM	はい、ご希望の条件をおきかせください	general,hotel,shopping
+3849	2	USER	wifiが無料で使える、レストランが併設されているところでお願いします。本庁地区がいいですね。	general,hotel,shopping
+3849	3	SYSTEM	本庁でWiFi無料、レストラン有の宿泊施設はいろいろありますが、ホテルJALシティ那覇、こちらをオススメします。	general,hotel,shopping
+3849	4	USER	そちらは何タイプの宿泊施設ですか？	general,hotel,shopping
+3849	5	SYSTEM	リゾートホテルになります。	general,hotel,shopping
+3849	6	USER	近辺の駅からの所要時間を教えてください。	general,hotel,shopping
+3849	7	SYSTEM	美栄橋駅から徒歩で8分、その他、牧志駅から徒歩で10分です。	general,hotel,shopping
+3849	8	USER	小禄で、駐車場が無料で使える買い物施設ってありますか？	general,hotel,shopping
+3849	9	SYSTEM	小禄で駐車場無料といえば、LEO & JOE、こちら一択です。	general,hotel,shopping
+3849	10	USER	そこでは燃料を買うことはできますか？	general,hotel,shopping
+3849	11	SYSTEM	ジャンルは医薬品・化粧品なのでどうでしょう、燃料は難しいかもしれません。	general,hotel,shopping
+3849	12	USER	燃料を買うことの出来るお店は他にありますか？	general,hotel,shopping
+3849	13	SYSTEM	小禄で駐車場無料、ジャンル燃料の店はありません。	general,hotel,shopping
+3849	14	USER	わかりました。先程のお店の最寄り駅はどこになりますか？	general,hotel,shopping
+3849	15	SYSTEM	奥武山公園駅です。	general,hotel,shopping
+3849	16	USER	電話番号ってわかりますか？	general,hotel,shopping
+3849	17	SYSTEM	0988581268です。	general,hotel,shopping
+3849	18	USER	ありがとうございました。	general,hotel,shopping

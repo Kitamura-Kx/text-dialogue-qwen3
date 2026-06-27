@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4327	0	USER	福岡で食事が出来るところを探していただけませんか？wifiと駐車場が無料で使えるところを希望しています。	general,restaurant,shopping,hotel
+4327	1	SYSTEM	かしこまりました。では、レカイエ オイスターバー JR博多シティ店はいかがでしょうか？	general,restaurant,shopping,hotel
+4327	2	USER	そちらのお店は近辺の駅からの所要時間はどのぐらいかかりますか？	general,restaurant,shopping,hotel
+4327	3	SYSTEM	はい。博多駅から徒歩で1分です。	general,restaurant,shopping,hotel
+4327	4	USER	では予約をお願いします。４月２日の１４時３０分で、３人でお願いしたいです。	general,restaurant,shopping,hotel
+4327	5	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,shopping,hotel
+4327	6	USER	そうですか。では２人に人数を変更したらどうでしょう？	general,restaurant,shopping,hotel
+4327	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、35287です。	general,restaurant,shopping,hotel
+4327	8	USER	それと、買い物が出来るところも教えて欲しいです。駐車場が無料で使えるところが希望です。	general,restaurant,shopping,hotel
+4327	9	SYSTEM	かしこまりました。では、KITTE博多はいかがでしょうか？	general,restaurant,shopping,hotel
+4327	10	USER	ちなみに、橋本駅近辺で買い物が出来るところはありますか？	general,restaurant,shopping,hotel
+4327	11	SYSTEM	申し訳ございません。橋本駅近辺の店舗は見つかりませんでした。	general,restaurant,shopping,hotel
+4327	12	USER	わかりました。KITTE博多の住所はわかりますか？	general,restaurant,shopping,hotel
+4327	13	SYSTEM	はい。住所は福岡県福岡市博多区博多駅中央街9-1です。	general,restaurant,shopping,hotel
+4327	14	USER	その住所ですと、何エリアになりますか？	general,restaurant,shopping,hotel
+4327	15	SYSTEM	はい。エリアは博多区でございます。	general,restaurant,shopping,hotel
+4327	16	USER	もう一つ、泊まれるところもお願いしていいですか？リゾートホテルでwifiが無料で使えるところでお願いします。	general,restaurant,shopping,hotel
+4327	17	SYSTEM	かしこまりました。では、The358 SORAはいかがでしょうか？	general,restaurant,shopping,hotel
+4327	18	USER	そちらは、安めの予算で泊まれますでしょうか？安めの予算で泊まれるところにしたいと思います。	general,restaurant,shopping,hotel
+4327	19	SYSTEM	はい。値段帯は安めとなっております。	general,restaurant,shopping,hotel
+4327	20	USER	そのホテルは何エリアにありますか？	general,restaurant,shopping,hotel
+4327	21	SYSTEM	はい。東区になります。	general,restaurant,shopping,hotel
+4327	22	USER	料金情報を教えてください。	general,restaurant,shopping,hotel
+4327	23	SYSTEM	申し訳ございません。値段帯が安めという情報以外不明となっております。	general,restaurant,shopping,hotel
+4327	24	USER	では、予約をお願いします。４月２日から２泊で、４人でお願いします。	general,restaurant,shopping,hotel
+4327	25	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,shopping,hotel
+4327	26	USER	そうですか。では１泊なら予約可能ですか？	general,restaurant,shopping,hotel
+4327	27	SYSTEM	かしこまりました。ご予約承りました。予約番号は、49711 です。	general,restaurant,shopping,hotel
+4327	28	USER	ありがとうございました。ではこれで失礼します。	general,restaurant,shopping,hotel
+4327	29	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,hotel

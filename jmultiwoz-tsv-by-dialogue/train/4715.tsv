@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4715	0	USER	東京へ旅行するので、千代田区で安めの宿泊施設を探してほしいです。	general,hotel,weather
+4715	1	SYSTEM	申し訳ございません。対象施設がございません。	general,hotel,weather
+4715	2	USER	そうですか。では千代田区じゃなくて新宿区で探してください。	general,hotel,weather
+4715	3	SYSTEM	BOOK AND BED TOKYO SHINJYUKU ONSEN RYOKAN 由縁 新宿 東京ビジネスホテルなどいかがですか？	general,hotel,weather
+4715	4	USER	東京ビジネスホテルにしようかな。あと、11/7の江戸川区の天気も教えてほしいです。	general,hotel,weather
+4715	5	SYSTEM	曇のち晴です。	general,hotel,weather
+4715	6	USER	そうですか。最低気温もわかります？	general,hotel,weather
+4715	7	SYSTEM	13.2度となります。	general,hotel,weather
+4715	8	USER	あ、了解です。ありがとうございました。	general,hotel,weather
+4715	9	SYSTEM	ありがとうございました。	general,hotel,weather

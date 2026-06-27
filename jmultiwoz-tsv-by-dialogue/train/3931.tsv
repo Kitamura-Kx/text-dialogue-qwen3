@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3931	0	USER	福岡への旅行を計画中で、無料駐車場付きのコンビニを探しています。	general,shopping,weather,taxi
+3931	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,shopping,weather,taxi
+3931	2	USER	分かりました。買い物ができればコンビニでなくても構いません。おすすめを教えてください。	general,shopping,weather,taxi
+3931	3	SYSTEM	かしこまりました。では、岩田屋 本店はいかがでしょうか？ジャンルは、百貨店や総合スーパーとなっております。	general,shopping,weather,taxi
+3931	4	USER	そこにしようと思います。住所と最寄駅からの所要時間は分かりますか？	general,shopping,weather,taxi
+3931	5	SYSTEM	はい。住所は、福岡県福岡市中央区天神2丁目5-35です。最寄りの西鉄福岡（天神）駅から徒歩で5分です。また、天神駅や天神南駅からも徒歩5分でアクセスできます。	general,shopping,weather,taxi
+3931	6	USER	ありがとうございます。5/20の城南区の天気と最低気温を教えてください。	general,shopping,weather,taxi
+3931	7	SYSTEM	かしこまりました。当日の天気は、曇時々雨の予報です。最低気温は、13.3度まで下がる見込みです。	general,shopping,weather,taxi
+3931	8	USER	ありがとうございます。当日利用できるキャッシュレス対応のジャンボタクシーを探しています。	general,shopping,weather,taxi
+3931	9	SYSTEM	では、福岡昭和タクシー（株）はいかがでしょうか？	general,shopping,weather,taxi
+3931	10	USER	そこにしようと思います。電話番号を教えてください。	general,shopping,weather,taxi
+3931	11	SYSTEM	電話番号は、0120408860でございます。	general,shopping,weather,taxi
+3931	12	USER	ありがとうございます。5/20の14:50に岩田屋 本店からイヌヤド ‐愛犬と宿泊する小さなホテル‐まで予約して欲しいのですが、可能でしょうか。	general,shopping,weather,taxi
+3931	13	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、26791でございます。	general,shopping,weather,taxi
+3931	14	USER	助かります。ありがとうございます。	general,shopping,weather,taxi
+3931	15	SYSTEM	他になにかご用件はございませんか？	general,shopping,weather,taxi
+3931	16	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,weather,taxi
+3931	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,weather,taxi

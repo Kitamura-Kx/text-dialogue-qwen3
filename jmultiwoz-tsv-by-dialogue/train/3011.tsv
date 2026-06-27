@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3011	0	USER	福岡への旅行を計画しています。 観光名所を探してください。	general,attraction,restaurant
+3011	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,attraction,restaurant
+3011	2	USER	ジャンルは庭園、駐車場を無料で利用できるところにしてください。	general,attraction,restaurant
+3011	3	SYSTEM	福岡で駐車場無料な庭園はなさそうです。	general,attraction,restaurant
+3011	4	USER	そうですか。ではジャンルは考慮しないものとします。	general,attraction,restaurant
+3011	5	SYSTEM	福岡で駐車場無料の観光スポットはいくつかありますが、福太郎本社(めんたい工場)、こちらをお勧めします。	general,attraction,restaurant
+3011	6	USER	よさそうです。料金情報，大人入場料，エリアを調べてください。	general,attraction,restaurant
+3011	7	SYSTEM	料金は大人も子供も無料、エリアは南区です。	general,attraction,restaurant
+3011	8	USER	続いて飲食店を探してください。駐車場を無料で利用できるところで、ジャンルは洋食・西洋料理が希望です。	general,attraction,restaurant
+3011	9	SYSTEM	福岡で駐車場無料な洋食西洋料理店はいくつかありますが、リタの農園をおすすめします。	general,attraction,restaurant
+3011	10	USER	そこの電話番号を教えてほしいです。	general,attraction,restaurant
+3011	11	SYSTEM	0922820288になります。	general,attraction,restaurant
+3011	12	USER	では予約してほしいです。人数は3人、日付は3/26、時間は11:20希望です。	general,attraction,restaurant
+3011	13	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,attraction,restaurant
+3011	14	USER	それでは時間を12:20に変更します。	general,attraction,restaurant
+3011	15	SYSTEM	予約成功しました。予約番号は50065です。	general,attraction,restaurant
+3011	16	USER	解決しました。ありがとうございました。	general,attraction,restaurant

@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4863	0	USER	福岡に旅行に行く予定で、牛もつ鍋 川端で食事をしようと思っています。このお店の住所と駐車場があるかどうかについて教えてください。	general,restaurant
+4863	1	SYSTEM	はい、住所は、福岡県福岡市博多区上川端町9-1 武井ビル2 1F、駐車場のご用意はございません。	general,restaurant
+4863	2	USER	ありがとうございます。そのお店に9/15のお昼12時に2人で予約をお願いします。	general,restaurant
+4863	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、99472となります。	general,restaurant
+4863	4	USER	ありがとうございます。これで大丈夫です。	general,restaurant
+4863	5	SYSTEM	ありがとうございました。	general,restaurant

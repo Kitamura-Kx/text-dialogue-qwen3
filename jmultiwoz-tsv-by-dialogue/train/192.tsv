@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+192	0	USER	福岡に旅行に行く予定を立てています。観光できる場所を教えてもらえますか？	general,attraction,shopping,restaurant
+192	1	SYSTEM	福岡の観光名所は、48件、ご案内可能です。なにか、ご希望の条件などはございますか？	general,attraction,shopping,restaurant
+192	2	USER	Wi-Fiが無料で使える、スポーツに関する場所がいいなと考えています。	general,attraction,shopping,restaurant
+192	3	SYSTEM	WiFiが無料で使えて、スポーツ・フィットネスに関する施設は、福岡 PayPayドームがございます。いかがでしょうか？	general,attraction,shopping,restaurant
+192	4	USER	福岡 PayPayドームの住所はどこですか？	general,attraction,shopping,restaurant
+192	5	SYSTEM	福岡県福岡市中央区地行浜2丁目2-2です。	general,attraction,shopping,restaurant
+192	6	USER	ありがとうございます。こちらに伺おうと思います。福岡で買い物ができるところを探しています。	general,attraction,shopping,restaurant
+192	7	SYSTEM	福岡のお買い物施設は44件候補がございます。何か、ご希望の条件はありますでしょうか？	general,attraction,shopping,restaurant
+192	8	USER	namco博多バスターミナル店という名前のお店なのですが、こちらのお店の最寄り駅と住所を教えて欲しいです。	general,attraction,shopping,restaurant
+192	9	SYSTEM	namco博多バスターミナル店ですね。最寄り駅は、博多駅です。住所は、福岡県福岡市博多区博多駅中央街2-1博多バスターミナルビル7階となっております。	general,attraction,shopping,restaurant
+192	10	USER	とても助かります！あと、福岡で焼肉やホルモンが食べられるお店を探しています。安く食べられるお店だととても助かるのですが。	general,attraction,shopping,restaurant
+192	11	SYSTEM	申し訳ありません。福岡の焼肉、ホルモンのお食事処ですと、お値段が安めのお店はございませんでした。	general,attraction,shopping,restaurant
+192	12	USER	そうですか、でしたらここは予算は気にせずに行きたいと思います。	general,attraction,shopping,restaurant
+192	13	SYSTEM	ありがとうございます。そういたしますと、17件ほどご案内可能です。ほかに、駐車場の有無などで、ご希望はございませんか？	general,attraction,shopping,restaurant
+192	14	USER	他には条件は特にありません。	general,attraction,shopping,restaurant
+192	15	SYSTEM	では、博多駅から徒歩1分の鉄板焼天神ホルモン 博多駅店は、いかがでしょうか？	general,attraction,shopping,restaurant
+192	16	USER	こちらのお店、気になります。料金やWi-Fiの有無について教えてもらいたいです。	general,attraction,shopping,restaurant
+192	17	SYSTEM	申し訳ありません。WiFiの有無と、詳しい料金情報の両方とも、こちらの手元の情報では不明となっております。	general,attraction,shopping,restaurant
+192	18	USER	そうですか、大丈夫ですよ。本日はたくさんありがとうございました。	general,attraction,shopping,restaurant

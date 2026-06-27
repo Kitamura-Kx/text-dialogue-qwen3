@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3858	0	USER	札幌へ旅行を計画しております。当日買い物をしたく、豊平区で無料の駐車場が利用できる所はありますか？	general,shopping,weather,taxi
+3858	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,weather,taxi
+3858	2	USER	それではエリアは考慮しません。	general,shopping,weather,taxi
+3858	3	SYSTEM	サンピアザ・デュオは、いかがですか？	general,shopping,weather,taxi
+3858	4	USER	そちらの電話番号、営業時間を教えてください。	general,shopping,weather,taxi
+3858	5	SYSTEM	はい、電話番号は0118901111です。　営業時間は、10時から21時までとなっています。	general,shopping,weather,taxi
+3858	6	USER	ありがとうございます。次に10/31の中央区の天候を教えてください。最高気温も知りたいです。	general,shopping,weather,taxi
+3858	7	SYSTEM	その日の天気は晴で、最高気温は、19.8度になっています。	general,shopping,weather,taxi
+3858	8	USER	承知しました。最後に当日はタクシーを利用したく、朝日交通(株)というタクシー会社はありましたでしょうか。	general,shopping,weather,taxi
+3858	9	SYSTEM	はい、市内に1件見つかりました。	general,shopping,weather,taxi
+3858	10	USER	そちらの電話番号を教えてください。	general,shopping,weather,taxi
+3858	11	SYSTEM	電話番号は、0120176644です。	general,shopping,weather,taxi
+3858	12	USER	ありがとうございます。それでは予約をお願いします。日時は10/31、10:00で出発地はサンピアザ・デュオからアパホテル〈札幌〉まででお願いします。	general,shopping,weather,taxi
+3858	13	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,shopping,weather,taxi
+3858	14	USER	それでは、時間を11:00に変更でいかがですか？	general,shopping,weather,taxi
+3858	15	SYSTEM	予約が完了しました。　予約番号は62438です。	general,shopping,weather,taxi
+3858	16	USER	ありがとうございます。こちらは以上です。	general,shopping,weather,taxi
+3858	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather,taxi

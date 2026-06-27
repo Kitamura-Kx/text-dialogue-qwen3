@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1212	0	USER	大阪への旅行を計画しているのですが。	general,shopping,hotel,weather
+1212	1	SYSTEM	はい。お問合せありがとうございます。	general,shopping,hotel,weather
+1212	2	USER	当日買い物ができるところを探してください．地区は大正区でジャンルはコンビニでおねがいします。	general,shopping,hotel,weather
+1212	3	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,hotel,weather
+1212	4	USER	でしたら地区はどこでもいいです。	general,shopping,hotel,weather
+1212	5	SYSTEM	大阪シティエアターミナルはどうでしょう。	general,shopping,hotel,weather
+1212	6	USER	そちらの定休日をおしえてください。	general,shopping,hotel,weather
+1212	7	SYSTEM	定休日は第三水, 12/31, 1/1になっています。	general,shopping,hotel,weather
+1212	8	USER	ありがとうございました。あと当日泊まる宿泊施設を探してください．宿のタイプはビジネスホテルで駐車場を無料で利用できるところがいいです。	general,shopping,hotel,weather
+1212	9	SYSTEM	アスティルホテル十三プレシャスはいかがでしょうか。	general,shopping,hotel,weather
+1212	10	USER	そちらのチェックインはいつからでしょうか。	general,shopping,hotel,weather
+1212	11	SYSTEM	15:00になっております。	general,shopping,hotel,weather
+1212	12	USER	ありがとうございました。あと、9/15の此花区の天候を推してください。	general,shopping,hotel,weather
+1212	13	SYSTEM	曇になっています。	general,shopping,hotel,weather
+1212	14	USER	最高気温はいくつでしょうか。	general,shopping,hotel,weather
+1212	15	SYSTEM	最高気温は32.7度です。	general,shopping,hotel,weather
+1212	16	USER	ありがとうございました。	general,shopping,hotel,weather

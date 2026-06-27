@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+500	0	USER	那覇へ行こうと思っています。本庁にあって最寄り駅が壺川駅で予算が安めの飲食店を探していただけますか？	general,restaurant,taxi
+500	1	SYSTEM	かしこまりました。では楚辺はいかがですか。	general,restaurant,taxi
+500	2	USER	定休日を教えていただけますでしょうか。	general,restaurant,taxi
+500	3	SYSTEM	定休日は正月, 旧盆でございます。	general,restaurant,taxi
+500	4	USER	では、7月27日15時10分から2名で予約をお願いします。	general,restaurant,taxi
+500	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は47903でございます。	general,restaurant,taxi
+500	6	USER	わかりました。ありがとうございます。	general,restaurant,taxi
+500	7	SYSTEM	ほかにご用件はございませんか。	general,restaurant,taxi
+500	8	USER	キャッシュレスとジャンボタクシーに対応しているタクシー会社を探していただきたいです。	general,restaurant,taxi
+500	9	SYSTEM	申し訳ございません。どちらにも対応している会社がございません。いかがなさいますか。	general,restaurant,taxi
+500	10	USER	ではジャンボタクシーに対応しているタクシー会社を探していいただけますか？	general,restaurant,taxi
+500	11	SYSTEM	大栄交通がございます。	general,restaurant,taxi
+500	12	USER	電話番号を教えていただけますでしょうか。	general,restaurant,taxi
+500	13	SYSTEM	電話番号は0989465005でございます。	general,restaurant,taxi
+500	14	USER	では、7月27日13時30分那覇空港から楚辺まで予約をお願いします。	general,restaurant,taxi
+500	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は52684でございます。	general,restaurant,taxi
+500	16	USER	わかりました。ありがとうございます。	general,restaurant,taxi
+500	17	SYSTEM	ほかにご用件はございませんか。	general,restaurant,taxi
+500	18	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant,taxi

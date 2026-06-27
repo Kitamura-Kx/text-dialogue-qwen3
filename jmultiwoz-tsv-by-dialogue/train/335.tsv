@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+335	0	USER	こんにちは、名古屋に旅行に行こうと考えています。	general,restaurant,weather
+335	1	SYSTEM	かしこまりました。お知りになりたい情報がございますか。	general,restaurant,weather
+335	2	USER	昭和区で食事をするところを探しています。	general,restaurant,weather
+335	3	SYSTEM	申し訳ございません。昭和区で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,weather
+335	4	USER	そうですか。では中川区で食事ができる場所を探してもらえませんか？	general,restaurant,weather
+335	5	SYSTEM	では牛祥はいかがでしょうか。	general,restaurant,weather
+335	6	USER	こちらのお店は定休日はありますか？	general,restaurant,weather
+335	7	SYSTEM	定休日は火曜日と第三月曜日となっております。	general,restaurant,weather
+335	8	USER	わかりました。駐車場とWi-Fiがあるかどうか知りたいです。	general,restaurant,weather
+335	9	SYSTEM	駐車場、Wi-Fiともに不明となっております。	general,restaurant,weather
+335	10	USER	そうですか。7/1、北区のお天気はどうですか？	general,restaurant,weather
+335	11	SYSTEM	天気は曇、最低気温は24.9度で最高気温は25.7度でございます。	general,restaurant,weather
+335	12	USER	ありがとうございます。今日はとても助かりました！	general,restaurant,weather

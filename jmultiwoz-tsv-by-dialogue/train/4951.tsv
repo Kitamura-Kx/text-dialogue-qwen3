@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4951	0	USER	こんにちは。東京旅行について話がしたいです。駐車場が無料で、予算は高めの飲食店はありますか？	general,restaurant,attraction,taxi
+4951	1	SYSTEM	ブラッスリー ポール・ボキューズ 大丸東京 バルバッコア 六本木ヒルズ店 ユニオン スクエア トウキョウなどはいかがですか？	general,restaurant,attraction,taxi
+4951	2	USER	ブラッスリー ポール・ボキューズ 大丸東京の営業時間と定休日はわかりますか？	general,restaurant,attraction,taxi
+4951	3	SYSTEM	11:00～23:00が営業時間で、定休日はございません。	general,restaurant,attraction,taxi
+4951	4	USER	予約もお願いできますか？11月28日13時30分に3人の予定です。	general,restaurant,attraction,taxi
+4951	5	SYSTEM	予約完了しております。予約番号は8284です。	general,restaurant,attraction,taxi
+4951	6	USER	助かりました。江戸川区で、ジャンルが自然・公園の観光名所も調べていただけますか？	general,restaurant,attraction,taxi
+4951	7	SYSTEM	申し訳ございません。対象がございません	general,restaurant,attraction,taxi
+4951	8	USER	すみません、江戸川区ならばジャンルはなんでもいいです。	general,restaurant,attraction,taxi
+4951	9	SYSTEM	葛西臨海水族園をご紹介できます。	general,restaurant,attraction,taxi
+4951	10	USER	では、そこにします。あと、タクシーの予約も今頼みたいです。ジャンボタクシーがあるといいんですけど。	general,restaurant,attraction,taxi
+4951	11	SYSTEM	東京エムケイはいかがですか？	general,restaurant,attraction,taxi
+4951	12	USER	その会社でお願いします。電話番号とキャッシュレス対応しているかどうかはわかりますか？	general,restaurant,attraction,taxi
+4951	13	SYSTEM	電話番号は0355475551で、キャッシュレスにも対応しています。	general,restaurant,attraction,taxi
+4951	14	USER	では、11月28日15時ちょうどに、ブラッスリー ポール・ボキューズ 大丸東京を出て葛西臨海水族園に行く予定で予約をお願いします。	general,restaurant,attraction,taxi
+4951	15	SYSTEM	かしこまりました。予約完了しています。予約番号は9820です。	general,restaurant,attraction,taxi
+4951	16	USER	予約できて助かりました。ありがとうございます。	general,restaurant,attraction,taxi

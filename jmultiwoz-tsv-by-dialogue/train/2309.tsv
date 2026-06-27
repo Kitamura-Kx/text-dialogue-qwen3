@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2309	0	USER	福岡の買い物スポットを教えてください。南区で、呉服町駅の近くがいいのですが。	general,shopping,weather
+2309	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,weather
+2309	2	USER	では最寄り駅の条件を除いてください。	general,shopping,weather
+2309	3	SYSTEM	サンプルRIKIは、いかがですか？	general,shopping,weather
+2309	4	USER	いいですね。営業時間はどうなりますか？	general,shopping,weather
+2309	5	SYSTEM	営業時間は、午前10時から午後4時までとなっています。	general,shopping,weather
+2309	6	USER	分かりました。ついでに天気も教えて頂けますか？5/25、中央区の最高気温と天気が知りたいです。	general,shopping,weather
+2309	7	SYSTEM	その日の天気は、晴時々雨で最高気温は、26.1度です。	general,shopping,weather
+2309	8	USER	ありがとうございます！	general,shopping,weather

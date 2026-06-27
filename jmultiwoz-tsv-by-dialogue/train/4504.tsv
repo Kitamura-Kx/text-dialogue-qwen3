@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4504	0	USER	仙台へ旅行予定なので、キャッシュレス払いできるタクシー会社を教えてください。	general,taxi,weather
+4504	1	SYSTEM	はい、それならば、仙台タクシーグループをお勧めします。	general,taxi,weather
+4504	2	USER	そこはジャンボタクシーの利用はできますか。	general,taxi,weather
+4504	3	SYSTEM	はい、ジャンボタクシーも対応しています。	general,taxi,weather
+4504	4	USER	ではそこで、1/16の09:30に予約をお願いします。回転鮨 清次郎 仙台泉店から珈琲館 仙台東口店までです。	general,taxi,weather
+4504	5	SYSTEM	予約成功しました。予約番号は31284です。	general,taxi,weather
+4504	6	USER	ありがとうございます。あと、1/16の宮城野区の天候も教えてください。	general,taxi,weather
+4504	7	SYSTEM	1/16 仙台 宮城野区 の天気は曇時々晴、最低気温1.6度、最高気温9.2度です。	general,taxi,weather
+4504	8	USER	ありがとうございました。	general,taxi,weather
+4504	9	SYSTEM	よい旅を。	general,taxi,weather

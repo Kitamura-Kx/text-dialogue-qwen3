@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1569	0	USER	仙台旅行の時に行く飲食店を探しています。	general,restaurant,taxi,weather
+1569	1	SYSTEM	希望条件などは、ありますか？	general,restaurant,taxi,weather
+1569	2	USER	駐車場もWi-Fiも無料で使えるお店がいいですね。カフェやスイーツを楽しめるようなお店で探してください。	general,restaurant,taxi,weather
+1569	3	SYSTEM	では、ひげぱんだはいかがでしょうか？	general,restaurant,taxi,weather
+1569	4	USER	いいですね。だいたいの値段帯はどの程度のお店でしょうか？予約も一緒にお願いします。	general,restaurant,taxi,weather
+1569	5	SYSTEM	値段帯は、普通です。　ご予約ですね。では、予約希望の日時と人数をお願いします。	general,restaurant,taxi,weather
+1569	6	USER	はい、1/17に2人でお願いします。予約時間は16:10です。	general,restaurant,taxi,weather
+1569	7	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant,taxi,weather
+1569	8	USER	それでは、時間を16:50にずらしたら予約はとれそうですか？	general,restaurant,taxi,weather
+1569	9	SYSTEM	予約が完了しました。　予約番号は、1397です。	general,restaurant,taxi,weather
+1569	10	USER	ありがとうございます。当日はタクシーも使いたいと思っているのですが、ジャンボタクシーがある会社はありますか？	general,restaurant,taxi,weather
+1569	11	SYSTEM	仙台タクシーグループは、いかがですか？	general,restaurant,taxi,weather
+1569	12	USER	仙台タクシーグループで、1/17に配車予約をお願いします。ちなみにキャッシュレスで支払うことって出来ますか？	general,restaurant,taxi,weather
+1569	13	SYSTEM	ご予約でね。時間と出発地と目的地をお願いします。　こちらは、キャッシュレス対応も可能になっております。	general,restaurant,taxi,weather
+1569	14	USER	はい、14:30にひげぱんだから乗車して、行先は秋保リゾート ホテルクレセントでお願いします。	general,restaurant,taxi,weather
+1569	15	SYSTEM	予約が完了しました。　予約番号は、69806です。	general,restaurant,taxi,weather
+1569	16	USER	助かりました。1/17の泉区の天気も知りたいのですが、最高気温はどのくらいになりそうですか？	general,restaurant,taxi,weather
+1569	17	SYSTEM	その日の天気は、雨で最高気温は8.8度です。	general,restaurant,taxi,weather
+1569	18	USER	ありがとうございます。	general,restaurant,taxi,weather
+1569	19	SYSTEM	他にご用件はありますか？	general,restaurant,taxi,weather
+1569	20	USER	これで全てです。	general,restaurant,taxi,weather
+1569	21	SYSTEM	承知致しました。　ありがとうございました。	general,restaurant,taxi,weather

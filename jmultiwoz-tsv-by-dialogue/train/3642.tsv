@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3642	0	USER	京都へ旅行に行くので、泊まるところを探してください。	general,hotel
+3642	1	SYSTEM	かしこまりました。101件ほどございますので、何か条件ありましたらお願いいたします。	general,hotel
+3642	2	USER	南区の、駐車場・Wi-Fiが無料で利用できるところを探してください。	general,hotel
+3642	3	SYSTEM	お待たせ致しました。それではダイワロイネットホテル京都テラス八条東口がございます。	general,hotel
+3642	4	USER	そちらの電話番号と住所をお願いします。	general,hotel
+3642	5	SYSTEM	はい、電話番号は0756820855でして、住所は京都府京都市南区東九条東山王町１４－１でございます。	general,hotel
+3642	6	USER	あと値段帯はどんな感じですか？	general,hotel
+3642	7	SYSTEM	安めでございます。	general,hotel
+3642	8	USER	ありがとうございます。以上になります。	general,hotel
+3642	9	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

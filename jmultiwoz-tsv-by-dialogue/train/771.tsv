@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+771	0	USER	横浜へ行こうと思っています。WiFiと駐車場が無料の旅館を探していただきたいです。	general,hotel
+771	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できる宿泊施設が見つかりませんでした。	general,hotel
+771	2	USER	では、宿タイプは考慮せず駐車場とWiFiが無料の宿泊施設を探していただきたいです。	general,hotel
+771	3	SYSTEM	かしこまりました。そうしますと、ホテル パセラの森 横浜関内というリゾートホテルはいかがでしょうか？	general,hotel
+771	4	USER	そちらにレストランはありますでしょうか。	general,hotel
+771	5	SYSTEM	はい、併設しております。	general,hotel
+771	6	USER	そちらの近辺の駅からの所要時間とチェックイン開始時刻を教えていただけますでしょうか。	general,hotel
+771	7	SYSTEM	最寄りの関内駅から徒歩で5分、日ノ出町駅からも徒歩で6分でアクセスできます。チェックインは15時から開始となっております。	general,hotel
+771	8	USER	では、9月21日から4人で3泊予約をお願いします。	general,hotel
+771	9	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。ご予約番号は、92168です。	general,hotel
+771	10	USER	わかりました。ありがとうございます。	general,hotel
+771	11	SYSTEM	ほかにお手伝いできることはございませんか？	general,hotel
+771	12	USER	いいえ、大丈夫です。ありがとうございました。	general,hotel

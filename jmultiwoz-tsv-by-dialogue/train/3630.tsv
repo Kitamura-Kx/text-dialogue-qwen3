@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3630	0	USER	名古屋に旅行を計画していて、Wi-Fiと駐車場が無料で利用できる旅館に泊まりたいと思っています。	general,hotel
+3630	1	SYSTEM	かしこまりました。お調べしましたところ、魚鍵旅館ほか１件ご案内可能でございます。いかがいたしましょうか？	general,hotel
+3630	2	USER	ありがとうございます。では魚鍵旅館の住所を教えてください。	general,hotel
+3630	3	SYSTEM	かしこまりました。住所は、愛知県名古屋市瑞穂区船原町2丁目8でございます。	general,hotel
+3630	4	USER	ありがとうございます。これで大丈夫です。	general,hotel
+3630	5	SYSTEM	ありがとうございました。	general,hotel

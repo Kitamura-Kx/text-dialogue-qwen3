@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2906	0	USER	今度、横浜に行くので寿司・魚料理でおすすめのお店を教えてください。駐車場が無料だと助かります。	general,restaurant
+2906	1	SYSTEM	横浜で駐車場無料の寿司といえば、松葉寿し、こちらがオススメです。	general,restaurant
+2906	2	USER	なるほど、良さそうですね。そちらの電話番号を教えて下さい。	general,restaurant
+2906	3	SYSTEM	0453812077になります。	general,restaurant
+2906	4	USER	ありがとうございます。近くの駅からどれくらいかかりますか？	general,restaurant
+2906	5	SYSTEM	西谷駅から徒歩で6分です。	general,restaurant
+2906	6	USER	それでは、5月2日の午後2時に2名で予約できますか？	general,restaurant
+2906	7	SYSTEM	その条件だと予約に失敗してしまいました。	general,restaurant
+2906	8	USER	そうですか。では、1名なら予約できますか？	general,restaurant
+2906	9	SYSTEM	１名なら予約できました。予約番号は24252です。	general,restaurant
+2906	10	USER	ありがとうございました。助かりました。それでは失礼します。	general,restaurant

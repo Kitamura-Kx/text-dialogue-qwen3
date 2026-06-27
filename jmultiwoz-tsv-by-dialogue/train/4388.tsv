@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4388	0	USER	今度仙台へ行くんですが、レストランが併設されているビジネスホテルでWi-Fiが無料のところはありますか？	general,hotel
+4388	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel
+4388	2	USER	そうですか。じゃあリゾートホテルでも探してもらえますか？	general,hotel
+4388	3	SYSTEM	では仙台 秋保温泉 ホテルきよ水がございます。	general,hotel
+4388	4	USER	ありがとうございます。じゃあそこの住所と電話番号と駐車場の有無も教えてもらえますか。	general,hotel
+4388	5	SYSTEM	住所が宮城県仙台市太白区秋保町湯元平倉1で、電話番号は0223972555でございます。無料の駐車場がございます。	general,hotel
+4388	6	USER	ありがとうございます。では予約をお願いできますか？4/2から2泊で３名です。	general,hotel
+4388	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel
+4388	8	USER	そうですか。じゃあ１泊に変更お願いします。	general,hotel
+4388	9	SYSTEM	1泊ですと予約が可能でございました。予約番号は7944でございます。	general,hotel
+4388	10	USER	ありがとうございました。以上で結構です。	general,hotel
+4388	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

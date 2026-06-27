@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1891	0	USER	那覇にある宿泊施設に、ノボテルはありますか？	general,hotel
+1891	1	SYSTEM	はい、ノボテル沖縄那覇さんでしょうか？	general,hotel
+1891	2	USER	そちらのホテルのチェックイン開始時刻と、駐車場があるかどうかを教えてください。	general,hotel
+1891	3	SYSTEM	チェックイン開始時間は15時となっており、駐車場は有料ですがございます。	general,hotel
+1891	4	USER	今知りたいのは以上です。ありがとうございました。	general,hotel
+1891	5	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

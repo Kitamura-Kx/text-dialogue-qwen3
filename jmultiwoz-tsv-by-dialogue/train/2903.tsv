@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2903	0	USER	今度、京都の国際会館駅の近くを観光したいと思っています。良い所はありますか？	general,attraction,shopping
+2903	1	SYSTEM	ずばり、国立京都国際会館、こちらオススメの観光スポットです。	general,attraction,shopping
+2903	2	USER	無料Wi-Fiがないと困るんですが、大丈夫ですか？	general,attraction,shopping
+2903	3	SYSTEM	WiFi無料です。	general,attraction,shopping
+2903	4	USER	助かります。大人の入場料を教えて下さい。	general,attraction,shopping
+2903	5	SYSTEM	企画により異なるようですね。	general,attraction,shopping
+2903	6	USER	そうですか、分かりました。それから、北区で買い物しようと思っています。駐車場が無料の場所を教えて下さい。	general,attraction,shopping
+2903	7	SYSTEM	北区で駐車場無料の買い物といえば、Malebranche 北山本店、こちらをオススメします。	general,attraction,shopping
+2903	8	USER	ありがとうございます。そちらの住所を教えてください。	general,attraction,shopping
+2903	9	SYSTEM	京都府京都市北区北山通植物園北山門前です。	general,attraction,shopping
+2903	10	USER	分かりました。行ってみます。それでは失礼します。	general,attraction,shopping

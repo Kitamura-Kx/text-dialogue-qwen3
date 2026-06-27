@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4866	0	USER	福岡に旅行に行く予定なのですが、西区で駐車場を無料で利用できる飲食店はありますか。	general,restaurant
+4866	1	SYSTEM	はい、町家かふぇ かまくらはいかがでしょう？ジャンルは、カフェ、スイーツとなります。	general,restaurant
+4866	2	USER	ありがとうございます。そのお店の駅からの所要時間と料金情報を教えてください。	general,restaurant
+4866	3	SYSTEM	はい、最寄りの橋本駅から徒歩で10分となります。料金情報としては、ヒレのホイル焼きが740円、銀鮭のホイル焼が740円、あつあつ陶板焼が590円となります。	general,restaurant
+4866	4	USER	ありがとうございます。そのお店に12/25の午後3時に4人で予約をお願いします。	general,restaurant
+4866	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、40232となります。	general,restaurant
+4866	6	USER	ありがとうございます。これで大丈夫です。	general,restaurant
+4866	7	SYSTEM	ありがとうございました。	general,restaurant

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3498	0	USER	仙台に行くのですが、買い物できる所を探しています。	general,shopping
+3498	1	SYSTEM	かしこまりました。その条件でしたら52件ほど見つかりましたが、何かご希望などありますか？	general,shopping
+3498	2	USER	北仙台駅の近くで駐車場が無料のところがいいです。	general,shopping
+3498	3	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping
+3498	4	USER	最寄り駅が北仙台駅でなくてもいいです。	general,shopping
+3498	5	SYSTEM	かしこまりました。それでは、ローソン仙台松森陣ヶ前店はいかがでしょうか？	general,shopping
+3498	6	USER	いいですね。営業時間と住所を教えてください。	general,shopping
+3498	7	SYSTEM	はい、営業時間は0時から0時でして、住所は宮城県仙台市泉区松森字陣ヶ前136-1でございます。	general,shopping
+3498	8	USER	助かりました。	general,shopping
+3498	9	SYSTEM	その他に何かご用件はありますか？	general,shopping
+3498	10	USER	特にないです。	general,shopping
+3498	11	SYSTEM	かしこまりました。またお待ちしております。	general,shopping

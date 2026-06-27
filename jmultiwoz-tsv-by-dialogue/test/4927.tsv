@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4927	0	USER	名古屋に旅行するので、現地のレストランを調べて欲しいです。	general,restaurant
+4927	1	SYSTEM	かしこまりました。ご希望の条件などはございませんか？	general,restaurant
+4927	2	USER	Wi-Fiと駐車場が無料で、予算高めの場所をお願いします	general,restaurant
+4927	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant
+4927	4	USER	Wi-Fiについては考えないとどうでしょうか？	general,restaurant
+4927	5	SYSTEM	ありがとうございます。そうしますと９件、ご案内可能です。たとえば、千種区エリアにある、ガス燈というお店はいかがでしょうか？	general,restaurant
+4927	6	USER	では、そこにします。定休日を教えてもらえますか？	general,restaurant
+4927	7	SYSTEM	はい、こちらは、定休日はございません。	general,restaurant
+4927	8	USER	わかりました。ありがとうございました。以上です。	general,restaurant
+4927	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

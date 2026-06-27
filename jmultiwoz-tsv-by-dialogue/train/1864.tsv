@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1864	0	USER	今度、札幌で買い物をしたいと思っています。最寄り駅がバスセンター前駅のお店はありますか？	general,shopping,taxi
+1864	1	SYSTEM	かしこまりました。では、玉翠園はいかがでしょうか？	general,shopping,taxi
+1864	2	USER	定休日はありますか？	general,shopping,taxi
+1864	3	SYSTEM	はい。定休日は日, 祝です。	general,shopping,taxi
+1864	4	USER	そうしましたら、タクシーを予約したいです。どこか会社はありますか？	general,shopping,taxi
+1864	5	SYSTEM	かしこまりました。では、恊和交通(株)はいかがでしょうか？	general,shopping,taxi
+1864	6	USER	知り合いから、北都交通(株)が良いと言われましたが、ありますか？	general,shopping,taxi
+1864	7	SYSTEM	はい。北都交通(株)もございますよ。	general,shopping,taxi
+1864	8	USER	では、北都交通(株)の電話番号と、ジャンボタクシーやキャッシュレスに対応しているかどうかを、教えて頂けますか？	general,shopping,taxi
+1864	9	SYSTEM	はい。電話番号は0112904181です。ジャンボタクシーとキャッシュレスの両方に対応しています。予約されますか？	general,shopping,taxi
+1864	10	USER	はい、予約をお願いします。12/3 9:30 に、東横INN札幌駅西口北大前まで来て欲しいです。目的地は、先ほどの 玉翠園です。	general,shopping,taxi
+1864	11	SYSTEM	ご予約は承りました。予約番号は、30784です。	general,shopping,taxi
+1864	12	USER	わかりました。今日のお願いは以上です。ありがとうございました。またお願いします。	general,shopping,taxi
+1864	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

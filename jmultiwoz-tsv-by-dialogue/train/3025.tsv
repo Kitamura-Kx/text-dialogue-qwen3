@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3025	0	USER	札幌に行くので飲食店を探してもらえますか。予算は高めで中華料理がいいのですが。	general,restaurant,taxi
+3025	1	SYSTEM	かしこまりました。では、中国料理 月下翁はいかがでしょうか？	general,restaurant,taxi
+3025	2	USER	ありがとうございます。じゃあ、そこの営業時間と駐車場の有無も教えてもらえますか。	general,restaurant,taxi
+3025	3	SYSTEM	はい。営業時間は18:00～00:00です。駐車場の有無は不明となっております。申し訳ございません。	general,restaurant,taxi
+3025	4	USER	わかりました。あと、ジャンボタクシーが利用できるタクシー会社を探してもらえますか？	general,restaurant,taxi
+3025	5	SYSTEM	かしこまりました。では、暁交通(株)はいかがでしょうか？	general,restaurant,taxi
+3025	6	USER	そこはキャッシュレス対応はどうでしょうか。	general,restaurant,taxi
+3025	7	SYSTEM	キャッシュレスにも対応していますよ。	general,restaurant,taxi
+3025	8	USER	ありがとうございます。ではそこの予約をお願いできますか？9/14の13：30に蕎麦切り 春のすけを出発して、中国料理 月下翁まで利用したいです。	general,restaurant,taxi
+3025	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、99721です。	general,restaurant,taxi
+3025	10	USER	ありがとうございました。以上で結構です。	general,restaurant,taxi
+3025	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

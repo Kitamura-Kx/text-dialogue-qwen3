@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+46	0	USER	恐れ入ります。今日は福岡旅行の相談に乗ってもらいたくて。	general,restaurant,weather
+46	1	SYSTEM	福岡ですね。どのようなことをお知りになりたいですか。	general,restaurant,weather
+46	2	USER	食事ができるところを博多区で探してもらえますか？	general,restaurant,weather
+46	3	SYSTEM	かしこまりました。ほかに何か条件はございますか。	general,restaurant,weather
+46	4	USER	駐車場が無料で使えるところだと助かります。	general,restaurant,weather
+46	5	SYSTEM	レカイエ オイスターバー JR博多シティ店はいかがでしょうか。	general,restaurant,weather
+46	6	USER	いいですね、そこに決めます。最寄り駅だけ聞いてもいいですか？	general,restaurant,weather
+46	7	SYSTEM	博多駅でございます。	general,restaurant,weather
+46	8	USER	分かりました。あと当日の天候も調べられますか？	general,restaurant,weather
+46	9	SYSTEM	かしこまりました。お調べするエリアと日時を教えていただけますか。	general,restaurant,weather
+46	10	USER	はい。エリアは博多区で、3月22日の天候が知りたいです。時間も必要ですか？	general,restaurant,weather
+46	11	SYSTEM	日付だけで問題ございません。天気は曇、最低気温が11.5、最高気温が15.6でございます。	general,restaurant,weather
+46	12	USER	天気、曇りなんですね。わかりました。	general,restaurant,weather
+46	13	SYSTEM	他に何かご用件はございますか。	general,restaurant,weather
+46	14	USER	今のところ大丈夫です。また何かあれば連絡しますね。	general,restaurant,weather
+46	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather

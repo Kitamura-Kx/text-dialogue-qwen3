@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1548	0	USER	福岡の南区で宿泊施設を探してください。予算は普通で、Wi-Fiが無料利用できるところがいいです。	general,hotel,attraction
+1548	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,hotel,attraction
+1548	2	USER	そうですか。では、予算の条件を外してもう一度探してもらえますか？	general,hotel,attraction
+1548	3	SYSTEM	では、グリーンリッチホテル西鉄大橋駅前はいかがですか？	general,hotel,attraction
+1548	4	USER	よさそうですね。チェックインは何時からですか？	general,hotel,attraction
+1548	5	SYSTEM	チェックイン開始時間は、15時です。	general,hotel,attraction
+1548	6	USER	では、予約をお願いします。人数は4人で、7/22から2泊で。	general,hotel,attraction
+1548	7	SYSTEM	はい、予約が完了しました。　予約番号は、70397です。	general,hotel,attraction
+1548	8	USER	ありがとう。当日まわれる観光名所も探してもらえますか？ワークショップとか体験系のところがいいです。	general,hotel,attraction
+1548	9	SYSTEM	それでしたら、自然・公園, 教室・ワークショップ・体験はいかがでしょうか？	general,hotel,attraction
+1548	10	USER	いいですね。Wi-Fiが無料使えると嬉しいのですが、そういった施設はありますか？	general,hotel,attraction
+1548	11	SYSTEM	海の中道海浜公園でしたら、無料Wi-Fiの利用が可能ですがいかがですか？	general,hotel,attraction
+1548	12	USER	よさそう！近辺の駅からの所要時間はわかりますか？	general,hotel,attraction
+1548	13	SYSTEM	近辺の駅からの所要時間は、海ノ中道駅から徒歩で1分、西戸崎駅から徒歩で10分となっています。	general,hotel,attraction
+1548	14	USER	わかりました！ありがとう。	general,hotel,attraction

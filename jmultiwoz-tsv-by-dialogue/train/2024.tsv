@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2024	0	USER	福岡に行くんですが、無料駐車場のあるホテルレストランを探しています。	general,restaurant
+2024	1	SYSTEM	エリアでいうと東区に1件のみ、レストラン サラフルがございます。	general,restaurant
+2024	2	USER	ありがとうございます。そちらの料金情報と値段帯を教えてもらえますか？	general,restaurant
+2024	3	SYSTEM	値段帯は安め、料金情報としては、中国料理の週替りランチが880円、洋食の週替りランチが1000円、日本料理の週替りランチが1000円、となります。	general,restaurant
+2024	4	USER	ありがとうございました。	general,restaurant
+2024	5	SYSTEM	他にご用件はございますか？	general,restaurant
+2024	6	USER	大丈夫です。ありがとうございました。	general,restaurant
+2024	7	SYSTEM	ありがとうございました。	general,restaurant

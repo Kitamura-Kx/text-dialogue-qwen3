@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+383	0	USER	今度仙台に行くのですが、宿泊施設を探しています。	general,hotel,attraction
+383	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,attraction
+383	2	USER	Wi-Fiと駐車場が無料のところがいいです。	general,hotel,attraction
+383	3	SYSTEM	ありがとうございます。では、ビジネス旅館 さとやはいかがでしょう？何かご案内致しましょうか？	general,hotel,attraction
+383	4	USER	値段帯と、最寄り駅を教えてください。	general,hotel,attraction
+383	5	SYSTEM	承知しました。値段帯は安め、最寄り駅は黒松駅、駅からの所要時間はタクシーで9分となります。他にご案内できることはございますか？	general,hotel,attraction
+383	6	USER	ありがとうございます。当日観光もしたいのですが、最寄り駅が宮城野通駅のところで、駐車場が無料の植物園はありますか？	general,hotel,attraction
+383	7	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,hotel,attraction
+383	8	USER	では、最寄り駅はこだわりません。	general,hotel,attraction
+383	9	SYSTEM	ありがとうございます。1件、東北大学植物園がございます。何かご案内致しましょうか？	general,hotel,attraction
+383	10	USER	Wi-Fiはありますか？	general,hotel,attraction
+383	11	SYSTEM	申し訳ありません、Wi-Fiはございません。他にご案内できることはございますか？	general,hotel,attraction
+383	12	USER	そちらの料金情報と、電話番号を教えてください。	general,hotel,attraction
+383	13	SYSTEM	はい、電話番号は0227956760です。料金情報として、大人入場料230円、小中学生の入場料110円となっております。	general,hotel,attraction
+383	14	USER	分かりました。以上です、ありがとうございました。	general,hotel,attraction
+383	15	SYSTEM	ありがとうございました。	general,hotel,attraction

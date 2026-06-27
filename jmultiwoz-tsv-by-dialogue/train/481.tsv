@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+481	0	USER	福岡への旅行を考えているのですが、宿泊施設はありますか？	general,hotel,shopping,weather
+481	1	SYSTEM	はい、100件ほど候補がございます。エリアなど、ご希望の条件はございませんか？	general,hotel,shopping,weather
+481	2	USER	はい。レストランが併設されているところがいいです。予算は普通が希望です。	general,hotel,shopping,weather
+481	3	SYSTEM	ありがとうございます。では、AMISTAD HOTEL FUKUOKAは如何でしょうか？博多駅から徒歩で6分の場所にございます。	general,hotel,shopping,weather
+481	4	USER	そこにします。そこの住所とタイプを知りたいです。	general,hotel,shopping,weather
+481	5	SYSTEM	住所は、福岡県福岡市博多区博多駅前3丁目13-12です。タイプは、その他となっております。	general,hotel,shopping,weather
+481	6	USER	了解です。買い物できるところも探しているのですが、ありますか？	general,hotel,shopping,weather
+481	7	SYSTEM	はい、福岡でご案内できる買い物施設は、44件ほどございます。	general,hotel,shopping,weather
+481	8	USER	南区で、ジャンルはファッションが希望です。	general,hotel,shopping,weather
+481	9	SYSTEM	大変申し訳ございません。そのご希望条件の場合、ご案内できるところが見つかりませんでした。	general,hotel,shopping,weather
+481	10	USER	なるほど。では地区はどこでも大丈夫です。	general,hotel,shopping,weather
+481	11	SYSTEM	では、博多リバレインはいかがでしょうか？博多区エリアのお店です。	general,hotel,shopping,weather
+481	12	USER	そちらにします。住所を教えてください。	general,hotel,shopping,weather
+481	13	SYSTEM	住所は、福岡県福岡市博多区下川端町3-1でございます。	general,hotel,shopping,weather
+481	14	USER	了解です。当日の東区の天気を知りたいです。日付は2/13です。	general,hotel,shopping,weather
+481	15	SYSTEM	2/13の東区のお天気は、晴れ時々曇りの予報です。最低気温は9.5度、最高気温は17.8度になる予想です。	general,hotel,shopping,weather
+481	16	USER	わかりました。ありがとうございます。	general,hotel,shopping,weather
+481	17	SYSTEM	他にご用件はございますでしょうか？	general,hotel,shopping,weather
+481	18	USER	大丈夫です。ありがとうございました。	general,hotel,shopping,weather
+481	19	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,hotel,shopping,weather

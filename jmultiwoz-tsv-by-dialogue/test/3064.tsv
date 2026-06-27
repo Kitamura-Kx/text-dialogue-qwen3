@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3064	0	USER	今度、大阪で観光しようと思っています。Wi-Fiが無料のリゾート・保養地で良い所はありますか？	general,attraction
+3064	1	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction
+3064	2	USER	そうですか。では、テーマパークはどうですか？	general,attraction
+3064	3	SYSTEM	それなら、スパワールド世界の大温泉はいかがでしょう。	general,attraction
+3064	4	USER	良さそうですね。子供の入場料と料金情報も教えてください。	general,attraction
+3064	5	SYSTEM	はい。子供の入場料は1000円です。また、中学生以上1500円、小学生以下1000円になり、24:00～5:00の入退館及び在館は、これに深夜割増料金1300円及び入湯税150円が加算されます。なお、入湯税150円は中学生以上のお客様のみ加算されます。	general,attraction
+3064	6	USER	詳しくありがとうございます。助かりました。それでは失礼します。	general,attraction

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3521	0	USER	大阪へ行くのですが飲食店を探しています。	general,restaurant
+3521	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+3521	2	USER	中央区で安めのところがいいです。	general,restaurant
+3521	3	SYSTEM	では焼肉工房 花ごよみはいかがでしょうか。	general,restaurant
+3521	4	USER	お好み焼き・たこ焼き系のところはありませんか？	general,restaurant
+3521	5	SYSTEM	それでしたら花まる亭 淀屋橋店はいかがでしょうか。	general,restaurant
+3521	6	USER	いいですね。営業時間、料金情報を教えてください。	general,restaurant
+3521	7	SYSTEM	営業時間は11:00～14:00, 17:00～00:00で、料金情報としましてはミックスお好み焼きが1180円となっております。	general,restaurant
+3521	8	USER	住所を聞いてもいいですか？	general,restaurant
+3521	9	SYSTEM	住所は大阪府大阪市中央区北浜3丁目2-14でございます。	general,restaurant
+3521	10	USER	ありがとうございます。助かりました。	general,restaurant
+3521	11	SYSTEM	ほかにご用件はございませんか。	general,restaurant
+3521	12	USER	特にないです。	general,restaurant
+3521	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant

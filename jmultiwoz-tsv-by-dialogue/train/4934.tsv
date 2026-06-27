@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4934	0	USER	こんにちは。福岡に旅行したいと思っています。食事できる飲食店で、焼肉・ホルモンのお店はありますか？予算は安めがいいです。	general,restaurant,attraction,hotel
+4934	1	SYSTEM	はい。 韓国もつ鍋専門店 コプチャーはいかがですか？	general,restaurant,attraction,hotel
+4934	2	USER	その店にします。エリアでいうとどのあたりになりますか？あと、料金情報とWi-Fiの有無も知りたいです。	general,restaurant,attraction,hotel
+4934	3	SYSTEM	中央区になります。コプチャーもつすき（1人前）:1650円,、コプチャーコース:3000円、 定食ランチ:800円などの料金設定となっております。Wi-Fi有無は不明です。申し訳ございません。	general,restaurant,attraction,hotel
+4934	4	USER	ありがとうございます。香椎花園前駅の近くで、Wi-Fiを無料で利用できる観光名所はありませんか？	general,restaurant,attraction,hotel
+4934	5	SYSTEM	申し訳ございません。ご紹介できる施設がございません。	general,restaurant,attraction,hotel
+4934	6	USER	そうですか、では最寄り駅はどこでもいいです。Wi-Fiは無料でお願いします。	general,restaurant,attraction,hotel
+4934	7	SYSTEM	18件見つかりました。 海の中道海浜公園 動物の森 キャナルシティ劇場 ザ・ルイガンズ. スパ&リゾートなどが条件に当てはまります。	general,restaurant,attraction,hotel
+4934	8	USER	キャナルシティ劇場にします、営業時間を教えてください。	general,restaurant,attraction,hotel
+4934	9	SYSTEM	営業時間は公演スケジュールにより異なります。	general,restaurant,attraction,hotel
+4934	10	USER	そうですか。次なんですが、安めで、駐車場を無料で使える宿泊施設があれば教えてください。	general,restaurant,attraction,hotel
+4934	11	SYSTEM	6件見つかりました。The358 SORA HOTEL AZ 福岡金の隈店 LIBERATED HOTEL 春吉開地などご紹介できます。	general,restaurant,attraction,hotel
+4934	12	USER	LIBERATED HOTEL 春吉開地にします。チェックアウト終了時刻と電話番号はわかりますか？	general,restaurant,attraction,hotel
+4934	13	SYSTEM	チェックアウト時刻は11:00、電話番号は09051579398です。	general,restaurant,attraction,hotel
+4934	14	USER	予約もお願いします。人数は2人で、11月26日に4泊でお願いします。	general,restaurant,attraction,hotel
+4934	15	SYSTEM	かしこまりました。予約完了しております。予約番号は6096です。	general,restaurant,attraction,hotel
+4934	16	USER	ありがとうございました。	general,restaurant,attraction,hotel

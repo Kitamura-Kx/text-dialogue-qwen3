@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+898	0	USER	東京へ旅行予定なのですが、渋谷区でWi-Fiが無料で使える観光名所はありますか？	general,attraction
+898	1	SYSTEM	表参道ヒルズは、いかがでしょうか？	general,attraction
+898	2	USER	そこにします。子供入場料を教えてください。	general,attraction
+898	3	SYSTEM	入場料は、不明となっております。	general,attraction
+898	4	USER	了解です。ありがとうございます。	general,attraction
+898	5	SYSTEM	他にご用件はございますか？	general,attraction
+898	6	USER	いえ、もう大丈夫です。	general,attraction
+898	7	SYSTEM	承知致しました。　ありがとうございました。	general,attraction

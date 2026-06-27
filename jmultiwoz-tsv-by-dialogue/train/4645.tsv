@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4645	0	USER	那覇への旅行を考えているんですけど、その時に泊まれる場所を探してもらえますか？	general,hotel,restaurant,taxi
+4645	1	SYSTEM	かしこまりました。何か希望はありますか？	general,hotel,restaurant,taxi
+4645	2	USER	はい、レストランが併設されていて、お値段は安めがいいです。	general,hotel,restaurant,taxi
+4645	3	SYSTEM	かしこまりました。では、ルートイングランティア那覇はいかがでしょうか？	general,hotel,restaurant,taxi
+4645	4	USER	そこにします。電話番号を教えて下さい。	general,hotel,restaurant,taxi
+4645	5	SYSTEM	はい。電話番号は0988600771です。	general,hotel,restaurant,taxi
+4645	6	USER	4名で、4/22から2泊で予約をお願いします。	general,hotel,restaurant,taxi
+4645	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、61787です。	general,hotel,restaurant,taxi
+4645	8	USER	最寄り駅が牧志駅でWi-Fiが無料で使える飲食店も探してもらえますか？	general,hotel,restaurant,taxi
+4645	9	SYSTEM	かしこまりました。では、C&C BREAKFAST OKINAWAはいかがでしょうか？	general,hotel,restaurant,taxi
+4645	10	USER	いいですね、そこにしようと思います。キャッシュレス払いができるタクシー会社はありますか？	general,hotel,restaurant,taxi
+4645	11	SYSTEM	はい。那覇第一交通はいかがですか？	general,hotel,restaurant,taxi
+4645	12	USER	そちらの電話番号と、ジャンボタクシー対応かどうかも教えてもらえますか？	general,hotel,restaurant,taxi
+4645	13	SYSTEM	はい。電話番号は0988537801で、ジャンボタクシーにも対応しております。	general,hotel,restaurant,taxi
+4645	14	USER	それならそのタクシー会社で予約をお願いしたいのですが。	general,hotel,restaurant,taxi
+4645	15	SYSTEM	はい、できますよ。	general,hotel,restaurant,taxi
+4645	16	USER	4/22の15:50に、ルートイングランティア那覇からC&C BREAKFAST OKINAWAまででお願いします。	general,hotel,restaurant,taxi
+4645	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、30675です。	general,hotel,restaurant,taxi
+4645	18	USER	ありがとうございました。	general,hotel,restaurant,taxi
+4645	19	SYSTEM	こちらこそご利用ありがとうございました。	general,hotel,restaurant,taxi

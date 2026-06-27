@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3652	0	USER	札幌に旅行に行こうと思っています。当日泊まる宿泊施設を探しています。Wi-Fiが無料で地区は白石区が希望です。	general,hotel,shopping
+3652	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,hotel,shopping
+3652	2	USER	でしたら、地区はどこでも良いです。	general,hotel,shopping
+3652	3	SYSTEM	かしこまりました。それでは京王プラザホテル札幌はいかがでしょうか？	general,hotel,shopping
+3652	4	USER	そこが良さそうです。そこの料金情報とタイプを教えてください。	general,hotel,shopping
+3652	5	SYSTEM	料金帯は安めですが、料金情報は分かりません。タイプはシティホテルでございます。	general,hotel,shopping
+3652	6	USER	あと当日買い物ができるところを探しています。駐車場が無料で地区は西区が希望です。	general,hotel,shopping
+3652	7	SYSTEM	かしこまりました。ではイオンモール札幌発寒がございます。	general,hotel,shopping
+3652	8	USER	そこのジャンルと住所と営業時間を教えてください。	general,hotel,shopping
+3652	9	SYSTEM	はい、ジャンルは百貨店や総合スーパーでして、住所は北海道札幌市西区発寒8条12丁目1、営業時間は9時から22時でございます。	general,hotel,shopping
+3652	10	USER	分かりました。ありがとうございます。	general,hotel,shopping
+3652	11	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,shopping

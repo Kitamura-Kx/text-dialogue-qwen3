@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2122	0	USER	こんにちは。京都へ今度行くのですけど、上京区で駐車場無料の買い物ができる場所ってどこかありますか？	general,shopping,weather
+2122	1	SYSTEM	かしこまりました。では、山田松香木店はいかがでしょうか？	general,shopping,weather
+2122	2	USER	なんだかすてきそうですね。最寄り駅と、定休日もお願いします。	general,shopping,weather
+2122	3	SYSTEM	はい。最寄り駅は丸太町駅です。定休日は年末年始, 盆期間になります。	general,shopping,weather
+2122	4	USER	それから、4/7の山科区の最高気温を教えていただけますか？	general,shopping,weather
+2122	5	SYSTEM	かしこまりました。4/7の山科区の最高気温は13.8度になる予報です。	general,shopping,weather
+2122	6	USER	ありがとうございました。助かりました。	general,shopping,weather
+2122	7	SYSTEM	他にご用件はありますか？	general,shopping,weather
+2122	8	USER	いえ、大丈夫です。どうもありがとうございました。	general,shopping,weather
+2122	9	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

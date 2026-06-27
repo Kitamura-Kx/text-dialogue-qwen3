@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3839	0	USER	沖縄旅行で那覇で食事をしたいのですが、おもろまち駅付近でちょっとお高めのいいお店を探してもらえますか？無料駐車場のあるところでお願いします。	general,restaurant
+3839	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant
+3839	2	USER	駐車場がなくてもよければありますか？	general,restaurant
+3839	3	SYSTEM	1件あります、叙々苑 沖縄おもろまち店はいかがですか？	general,restaurant
+3839	4	USER	そちらの営業時間と定休日はどうなってますか？	general,restaurant
+3839	5	SYSTEM	営業時間は、11時0分から23時までです。　定休日は、無しとなっています。	general,restaurant
+3839	6	USER	ありがとうございます。では叙々苑 沖縄おもろまち店で予約お願いします。12/20の14:00から、2名です。	general,restaurant
+3839	7	SYSTEM	予約出来ました。予約番号は、19263です。	general,restaurant
+3839	8	USER	ありがとうございます。	general,restaurant
+3839	9	SYSTEM	他にご用件はありますか？	general,restaurant
+3839	10	USER	いえありません。ありがとうございました。	general,restaurant

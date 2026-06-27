@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1993	0	USER	京都への旅行を計画しているのですが、 当日食事ができる飲食店を探してください．地区は下京区で最寄り駅が桃山御陵前駅のところで予算は安めが希望です．	general,restaurant,shopping
+1993	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,restaurant,shopping
+1993	2	USER	でしたら最寄りはどこでもいいです。	general,restaurant,shopping
+1993	3	SYSTEM	フランソア喫茶室はいかがでしょうか。	general,restaurant,shopping
+1993	4	USER	そちらのジャンルはなんですか。	general,restaurant,shopping
+1993	5	SYSTEM	ジャンルはカフェ・スイーツです。	general,restaurant,shopping
+1993	6	USER	そちらを3/2人数3人で、時間09:40で予約して欲しいです。	general,restaurant,shopping
+1993	7	SYSTEM	予約完了いたしました。予約番号は53715になります。	general,restaurant,shopping
+1993	8	USER	ありがとうございます。あと当日買い物ができるところを探してください．ジャンルは食料品で最寄り駅が祇園四条駅がいいです。	general,restaurant,shopping
+1993	9	SYSTEM	西利祇園店はいかがでしょうか。	general,restaurant,shopping
+1993	10	USER	そちらの営業時間がしりたいです。	general,restaurant,shopping
+1993	11	SYSTEM	営業時間は10:30～19:00です。	general,restaurant,shopping
+1993	12	USER	ありがとうございます。	general,restaurant,shopping

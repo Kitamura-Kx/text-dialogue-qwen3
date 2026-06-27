@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3346	0	USER	福岡への旅行を計画中で、ショッピングできる場所を探しています。	general,shopping
+3346	1	SYSTEM	福岡でショッピングですね。４４件ご紹介できます。	general,shopping
+3346	2	USER	ありがとうございます。ジャンルとしては、書籍を購入したいです。	general,shopping
+3346	3	SYSTEM	紀伊國屋書店 福岡本店と、BOOKRIVER の２店舗をご紹介できます。	general,shopping
+3346	4	USER	ありがとうございます。BOOKRIVERに行こうと思います。定休日は分かりますか？	general,shopping
+3346	5	SYSTEM	定休日は土日です。	general,shopping
+3346	6	USER	分かりました。ありがとうございます。	general,shopping
+3346	7	SYSTEM	とんでもないです。何かほかにお手伝いできますでしょうか。	general,shopping
+3346	8	USER	いえ、大丈夫です。どうもありがとうございました。	general,shopping
+3346	9	SYSTEM	ありがとうございました。	general,shopping

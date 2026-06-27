@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3967	0	USER	東京への旅行を計画していて、当日のタクシー会社を探しています。ジャンボタクシーが利用できるところがいいです。	general,taxi,weather
+3967	1	SYSTEM	かしこまりました。それでは小金井交通はいかがでしょうか？	general,taxi,weather
+3967	2	USER	ありがとうございます。そこの電話番号は分かりますか？また、キャッシュレス対応はしていますか？	general,taxi,weather
+3967	3	SYSTEM	はい、電話番号は0423811482でして、キャッシュレスにも対応しております。	general,taxi,weather
+3967	4	USER	ありがとうございます。では予約をお願いしたいのですが、12/14の14：50から、ビジネスホテル新大久保石亭からPROSTYLE旅館 東京浅草までお願い出来ますか？	general,taxi,weather
+3967	5	SYSTEM	申し訳ありません。その条件では、予約が出来ませんでした。	general,taxi,weather
+3967	6	USER	では、15：20からに変更します。	general,taxi,weather
+3967	7	SYSTEM	お待たせ致しました。予約番号29938でお取りさせていただきました。	general,taxi,weather
+3967	8	USER	ありがとうございます。当日の天気も知りたいです。12/14の千代田区の天気と最低気温は分かりますか？	general,taxi,weather
+3967	9	SYSTEM	はい、当日の天気は曇のち晴、最低気温は0.7度の予報でございます。	general,taxi,weather
+3967	10	USER	ありがとうございました。	general,taxi,weather
+3967	11	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi,weather

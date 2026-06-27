@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2755	0	USER	大阪への旅行を計画しています。当日買い物をしたく、エリアは大正区を希望です。また無料の駐車場を利用できるところがいいです。	general,shopping
+2755	1	SYSTEM	承知しました。では、IKEA鶴浜ストアはいかがでしょう？ジャンルは、百貨店や総合スーパーとなります。	general,shopping
+2755	2	USER	そこの最寄駅を教えてください。	general,shopping
+2755	3	SYSTEM	はい、最寄りのドーム前千代崎駅からバスで20分となります。	general,shopping
+2755	4	USER	ありがとうございます。ご質問は以上です。	general,shopping
+2755	5	SYSTEM	ありがとうございました。	general,shopping

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1454	0	USER	京都へ旅行に行くんですが、買い物ができるところを探してください。	general,shopping,hotel,weather
+1454	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,hotel,weather
+1454	2	USER	地区は下京区で、駐車場が無料のところがいいです！最寄り駅が竹田駅だと嬉しいんですが、ありますかね？	general,shopping,hotel,weather
+1454	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,hotel,weather
+1454	4	USER	では最寄り駅はどこでも大丈夫です。	general,shopping,hotel,weather
+1454	5	SYSTEM	では京扇堂がございます。最寄り駅は京都駅でございます。	general,shopping,hotel,weather
+1454	6	USER	ありがとうございます。そちらのお店のジャンルと営業時間を教えてください。	general,shopping,hotel,weather
+1454	7	SYSTEM	ジャンルは文房具・雑貨, お土産でございます。営業時間は09:00～17:00でございます。	general,shopping,hotel,weather
+1454	8	USER	ありがとうございます。下京区で宿泊施設も探していただけますか？	general,shopping,hotel,weather
+1454	9	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,hotel,weather
+1454	10	USER	Wi-Fiが無料で、レストランが併設されているところがいいです。	general,shopping,hotel,weather
+1454	11	SYSTEM	では湯の宿 松栄はいかがでしょうか。	general,shopping,hotel,weather
+1454	12	USER	値段帯はどんな感じでしょう？	general,shopping,hotel,weather
+1454	13	SYSTEM	値段帯は安めでございます。	general,shopping,hotel,weather
+1454	14	USER	ありがとうございます。最後に、9/13の伏見区の気温を教えてください。	general,shopping,hotel,weather
+1454	15	SYSTEM	最低気温は21.3度で、最高気温が29.9度でございます。	general,shopping,hotel,weather
+1454	16	USER	ありがとうございます。助かりました！	general,shopping,hotel,weather
+1454	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,weather

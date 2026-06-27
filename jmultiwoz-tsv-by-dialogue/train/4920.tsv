@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4920	0	USER	名古屋に旅行するので、ホテルを探しています	general,hotel
+4920	1	SYSTEM	名古屋のホテルですね。エリアなど、何かご希望はございますか？	general,hotel
+4920	2	USER	レストランのあるビジネスホテルで、駐車場が無料のところをお願いします	general,hotel
+4920	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel
+4920	4	USER	では、駐車場はなくてもいいです	general,hotel
+4920	5	SYSTEM	ありがとうございます。では、グレイスイン名古屋はいかがでしょうか？こちらでしたら、有料ですが駐車場がございますよ。	general,hotel
+4920	6	USER	では、そうします。電話番号を教えてもらえますか？	general,hotel
+4920	7	SYSTEM	はい、電話番号は、0522010011です。	general,hotel
+4920	8	USER	ありがとうございました。助かりました。	general,hotel
+4920	9	SYSTEM	こちらこそ、本日はご利用ありがとうございました。他にお調べすることがないようでしたら、これにて失礼いたします。	general,hotel

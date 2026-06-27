@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+858	0	USER	札幌の豊平区に、買い物ができる場所はありますか？	general,shopping,attraction,hotel
+858	1	SYSTEM	はい、3件ほどご案内可能です。たとえば、八紘学園農産物直売所というところがございますが、いかがでしょうか？	general,shopping,attraction,hotel
+858	2	USER	そのお店のジャンルと、駐車場の有無はわかりますか？	general,shopping,attraction,hotel
+858	3	SYSTEM	ジャンルは、食料品となっております。駐車場は、無料のものがございます。	general,shopping,attraction,hotel
+858	4	USER	ありがとうございます。同じ豊平区で駐車場を無料で使える観光名所はありますか？	general,shopping,attraction,hotel
+858	5	SYSTEM	はい、3件候補がございます。さっぽろ羊ヶ丘展望台は、いかがでしょうか？	general,shopping,attraction,hotel
+858	6	USER	ジャンル的に、アウトドア系が良いのですがそちらはアウトドア系でしょうか。	general,shopping,attraction,hotel
+858	7	SYSTEM	申し訳ございません。アウトドア系ですと、月寒公園という場所はいかがでしょうか？	general,shopping,attraction,hotel
+858	8	USER	公園、良いですね！料金情報と、子どもの入場料について教えてください。	general,shopping,attraction,hotel
+858	9	SYSTEM	お子様、大人ともに入場料は0円です。ただ、公園部分は無料ですが、テニスコート、野球場など一部設備は有料となりますので、ご了承ください。	general,shopping,attraction,hotel
+858	10	USER	ありがとうございます。あと西区のビジネスホテルを探したいです。できれば豊水すすきの駅が近いと良いです。	general,shopping,attraction,hotel
+858	11	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,attraction,hotel
+858	12	USER	では、西区以外でホテルはありますか？	general,shopping,attraction,hotel
+858	13	SYSTEM	はい。9件ご案内可能です。たとえば、中央区エリアにある、すすきのグランベルホテルというビジネスホテルはいかがでしょうか？	general,shopping,attraction,hotel
+858	14	USER	ありがとうございます。今日調べたかったことは以上です。ありがとうございました。	general,shopping,attraction,hotel
+858	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,attraction,hotel

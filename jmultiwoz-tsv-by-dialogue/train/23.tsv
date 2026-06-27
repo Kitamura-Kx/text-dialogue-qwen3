@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+23	0	USER	名古屋に行くんですけど、いい観光名所を紹介してもらえませんか？	general,attraction,weather,taxi
+23	1	SYSTEM	ご利用ありがとうございます。名古屋の観光名所ですね。５０件ほど候補がございますが、ジャンルやエリアなどでご希望はございますか？	general,attraction,weather,taxi
+23	2	USER	特にないんですけど、駐車場が無料のところを探しています。	general,attraction,weather,taxi
+23	3	SYSTEM	かしこまりました。無料駐車場完備のところですと、２６件ほどございます。古川美術館・分館 爲三郎記念館は、如何でしょうか？	general,attraction,weather,taxi
+23	4	USER	美術館、いいですね。そちらの料金と最寄り駅はどうなっていますか？	general,attraction,weather,taxi
+23	5	SYSTEM	ありがとうございます。まず最寄り駅ですが、池下駅で徒歩３分でアクセス可能です。料金のほうは、古川美術館のみでしたら入館料が一般800円、爲三郎記念館のみでしたら、呈茶付でどの方も800円です。古川美術館、分館爲三郎記念館2館入館券ですと、一般1,000円、高大学生500円、中学生以下無料となります。	general,attraction,weather,taxi
+23	6	USER	詳しくありがとうございます。ところで、3月14日の千種区の天候はどうなりそうですか？	general,attraction,weather,taxi
+23	7	SYSTEM	はい、名古屋千種区の3月14日の天候は曇、最高気温19.2度、最低気温は6.8度の予報です。	general,attraction,weather,taxi
+23	8	USER	けっこう寒いんですね。タクシーで移動しようかな。ジャンボタクシーが利用できるところを教えてください。	general,attraction,weather,taxi
+23	9	SYSTEM	タクシーでございますね。名古屋でジャンボタクシー対応している会社は20件ほどございます。ご希望のタクシー会社などはございますか？	general,attraction,weather,taxi
+23	10	USER	キャッシュレスが使えればどこでもいいんですけど？	general,attraction,weather,taxi
+23	11	SYSTEM	かしこまりました。キャッシュレスとジャンボタクシーの両方に対応している会社ですと、宝タクシー第三は、いかがでしょうか？	general,attraction,weather,taxi
+23	12	USER	そこで結構です。電話番号を教えてください。	general,attraction,weather,taxi
+23	13	SYSTEM	ありがとうございます。宝タクシー第三の電話番号は、0526826000でございます。	general,attraction,weather,taxi
+23	14	USER	3月14日の9時50分に旧豊田佐助邸を出発して古川美術館までで予約できますか？	general,attraction,weather,taxi
+23	15	SYSTEM	ご利用ありがとうございます。3月14日9時50分発、旧豊田佐助邸から目的地、古川美術館でご予約承りました。予約番号は85832です。	general,attraction,weather,taxi
+23	16	USER	ありがとうございました。いろいろ助かりました。お世話様でした。	general,attraction,weather,taxi

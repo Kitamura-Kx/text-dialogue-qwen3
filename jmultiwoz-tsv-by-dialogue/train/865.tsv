@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+865	0	USER	今度東京へ行きますが、どこか飲食店を探しています。	general,restaurant,weather
+865	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,weather
+865	2	USER	Wi-Fiが無料で利用できる居酒屋がいいです。予算は普通が希望です。	general,restaurant,weather
+865	3	SYSTEM	ではVAMPIRE CAFEはいかがでしょうか。	general,restaurant,weather
+865	4	USER	そちらの電話番号を教えていただけませんか？	general,restaurant,weather
+865	5	SYSTEM	電話番号は0332895360でございます。	general,restaurant,weather
+865	6	USER	ありがとうございます。では、11/30の10:30で２名予約をお願いできますか？	general,restaurant,weather
+865	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は41673でございます。	general,restaurant,weather
+865	8	USER	ありがとうございました。あと、当日の天気を知りたいです。11/30の荒川区です。	general,restaurant,weather
+865	9	SYSTEM	天気は曇時々晴でございます。	general,restaurant,weather
+865	10	USER	最高気温も分かりますか？	general,restaurant,weather
+865	11	SYSTEM	最高気温は15.5度の予想でございます。	general,restaurant,weather
+865	12	USER	分かりました。以上です、大変ありがとうございました。	general,restaurant,weather
+865	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather

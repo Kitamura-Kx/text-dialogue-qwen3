@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3723	0	USER	こんにちは。横浜に行くのですが、駐車場が無料で使えて、ジャンルが自動車・自転車の、買い物スポットはないですか？	general,shopping,hotel,restaurant
+3723	1	SYSTEM	それでしたら、ヤマダ電機 テックランド上山店はいかがですか？	general,shopping,hotel,restaurant
+3723	2	USER	ありがとうございます。そのお店の最寄り駅と、近辺の駅からの所要時間もわかりますか？	general,shopping,hotel,restaurant
+3723	3	SYSTEM	最寄り駅は、中山駅で所要時間は、中山駅からバスで6分になります。	general,shopping,hotel,restaurant
+3723	4	USER	ありがとうございます。駐車場が無料で使えて、レストランが併設されていて、予算が安めな、宿泊施設はありますか？	general,shopping,hotel,restaurant
+3723	5	SYSTEM	それでしたら、ホテル パセラの森 横浜関内、こちらはいかがですか？	general,shopping,hotel,restaurant
+3723	6	USER	そこにします。チェックイン開始時刻も教えてください。	general,shopping,hotel,restaurant
+3723	7	SYSTEM	チェックイン開始時刻は、15時です。	general,shopping,hotel,restaurant
+3723	8	USER	ありがとうございます。あと、港北区で、予算が安めな、飲食店も探してもらえますか？	general,shopping,hotel,restaurant
+3723	9	SYSTEM	ディップパレス 新横浜店はいかがですか？	general,shopping,hotel,restaurant
+3723	10	USER	いいですね。そこの最寄り駅と定休日、近辺の駅からの所要時間もわかりますか？	general,shopping,hotel,restaurant
+3723	11	SYSTEM	最寄り駅は、新横浜駅で定休日は、無しです。　所要時間は、新横浜駅から徒歩で2分となっています。	general,shopping,hotel,restaurant
+3723	12	USER	ありがとうございます。ではそのお店で、人数は4人、日付は5/8、時間は16:30で、予約をお願いします。	general,shopping,hotel,restaurant
+3723	13	SYSTEM	予約が完了しました。　予約番号は、80671です。	general,shopping,hotel,restaurant
+3723	14	USER	ありがとうございます。	general,shopping,hotel,restaurant
+3723	15	SYSTEM	他にご用件はありますか？	general,shopping,hotel,restaurant
+3723	16	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,hotel,restaurant
+3723	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,restaurant

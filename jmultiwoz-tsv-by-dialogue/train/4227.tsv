@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4227	0	USER	京都で当日食事できるところはありますか	general,restaurant,shopping
+4227	1	SYSTEM	京都ですね。飲食店の方が100件見つかりました。予算のご希望等あればお願いします。	general,restaurant,shopping
+4227	2	USER	なるべく安いお店がいいのですが、	general,restaurant,shopping
+4227	3	SYSTEM	ごはんやと言うお店はいかがでしょうか。	general,restaurant,shopping
+4227	4	USER	無料の駐車場があるところがいいのですがありますか？	general,restaurant,shopping
+4227	5	SYSTEM	海雲亭 洛西店が駐車場無料となっております。	general,restaurant,shopping
+4227	6	USER	なるほど、ではそこいきたいんですがどこにありますか	general,restaurant,shopping
+4227	7	SYSTEM	はい。住所は京都府京都市西京区御陵谷町43-1です。	general,restaurant,shopping
+4227	8	USER	当日は森陶器館というところで買い物したいのですが、近くの駅からの所有時間はどのくらいですか	general,restaurant,shopping
+4227	9	SYSTEM	桂駅から徒歩で15分、京都駅ですとバスで30分になります。	general,restaurant,shopping
+4227	10	USER	かしこまりました。電話番号を教えていただいてもよろしいですか	general,restaurant,shopping
+4227	11	SYSTEM	はい。電話番号は0753810298となります。	general,restaurant,shopping
+4227	12	USER	かしこまりました。こちらからの質問は以上です。ありがとうございました。	general,restaurant,shopping
+4227	13	SYSTEM	こちらこそありがとうございました。	general,restaurant,shopping

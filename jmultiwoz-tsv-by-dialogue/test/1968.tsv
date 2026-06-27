@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1968	0	USER	こんにちは！今度、旅行で福岡に行くので、案内をお願いしたいです。	general,hotel,attraction,taxi
+1968	1	SYSTEM	かしこまりました。何をご案内しましょうか？	general,hotel,attraction,taxi
+1968	2	USER	えっと、まずは宿泊施設をお願いします。レストランが併設されているビジネスホテルで、駐車場が無料で使える所だと、どこか良い所はありますか？	general,hotel,attraction,taxi
+1968	3	SYSTEM	かしこまりました。それではHOTEL AZ 福岡金の隈店はいかがでしょうか？	general,hotel,attraction,taxi
+1968	4	USER	ありがとうございます！そちらのホテルのチェックアウト終了時刻は、何時になりますか？	general,hotel,attraction,taxi
+1968	5	SYSTEM	はい、チェックアウト終了時刻は10時でございます。	general,hotel,attraction,taxi
+1968	6	USER	そうなんですね！じゃぁ、そちらのホテルに予約を入れてください。11月17日から２泊、人数２人でお願いします。	general,hotel,attraction,taxi
+1968	7	SYSTEM	お待たせ致しました。予約番号4256でご予約致しました。	general,hotel,attraction,taxi
+1968	8	USER	ありがとうございます！あと、観光名所も探しているんですけど、博多区にある、WiFiが無料で使えるところだと、どこかありますか？	general,hotel,attraction,taxi
+1968	9	SYSTEM	申し訳ございません。その条件ですと該当する名所はお探し出来ませんでした。	general,hotel,attraction,taxi
+1968	10	USER	そうなんですね。じゃぁ、WiFiはなくても大丈夫です！	general,hotel,attraction,taxi
+1968	11	SYSTEM	ありがとうございます。それでは福岡アンパンマンこどもミュージアムinモールはいかがでしょうか？	general,hotel,attraction,taxi
+1968	12	USER	そんなところがあるんですね！近辺の駅からの所要時間は、どのくらいかかりますか？	general,hotel,attraction,taxi
+1968	13	SYSTEM	はい！中洲川端駅から徒歩で0分となっております。	general,hotel,attraction,taxi
+1968	14	USER	駅から近いんですね。助かります！あと、子供の入場料ってわかりますか？	general,hotel,attraction,taxi
+1968	15	SYSTEM	はい、1歳未満は無料ですが、1歳以上の子供の入場料は1800円でございます。	general,hotel,attraction,taxi
+1968	16	USER	そうなんですね。ありがとうございます！あと、キャッシュレス払いに対応している、タクシー会社も探していただけますか？	general,hotel,attraction,taxi
+1968	17	SYSTEM	かしこまりました。それでは福岡交通（株）さんはいかがでしょうか？	general,hotel,attraction,taxi
+1968	18	USER	そちらがジャンボタクシーに対応しているかって、わかりますか？	general,hotel,attraction,taxi
+1968	19	SYSTEM	はい、ジャンボタクシーにも対応しております。	general,hotel,attraction,taxi
+1968	20	USER	そうなんですね！あと、電話番号を教えていただけますか？	general,hotel,attraction,taxi
+1968	21	SYSTEM	電話番号は0570081234でございます。	general,hotel,attraction,taxi
+1968	22	USER	わかりました。ありがとうございます！じゃぁ、そちらのタクシーの予約をお願いします。１１月１７日の１２時５０分に、先ほどのHOTEL AZ 福岡金の隈店から、福岡アンパンマンこどもミュージアムinモールまででお願いします！	general,hotel,attraction,taxi
+1968	23	SYSTEM	ありがとうございます。予約番号9776でご予約させていただきました。	general,hotel,attraction,taxi
+1968	24	USER	タクシーの手配、ありがとうございます！	general,hotel,attraction,taxi
+1968	25	SYSTEM	ありがとうございます。他にご用件はございますか？	general,hotel,attraction,taxi
+1968	26	USER	いえ、あとは大丈夫です。本日は、色々とご対応ありがとうございました！	general,hotel,attraction,taxi
+1968	27	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,attraction,taxi

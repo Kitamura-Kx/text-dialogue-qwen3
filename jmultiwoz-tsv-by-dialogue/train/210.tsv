@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+210	0	USER	大阪旅行の際に利用するタクシー会社を探してください。	general,taxi
+210	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,taxi
+210	2	USER	株式会社未来都という名前の会社のタクシーを利用したいのですが、こちらはキャッシュレスに対応しているのでしょうか？	general,taxi
+210	3	SYSTEM	はい。キャッシュレス対応しております。	general,taxi
+210	4	USER	わかりました。お手間なのですが、こちらの会社でタクシーを手配してもらえませんか？	general,taxi
+210	5	SYSTEM	かしこまりました。ご希望の日時と出発地、目的地を教えていただけますか。	general,taxi
+210	6	USER	4/14の09:50で、三井アウトレットパーク 大阪鶴見からBEEHIVE HOSTEL OSAKAまで乗車したいと思っています。	general,taxi
+210	7	SYSTEM	はい。予約が完了いたしました。予約番号は46063でございます。	general,taxi
+210	8	USER	ご丁寧にありがとうございました！	general,taxi

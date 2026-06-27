@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4644	0	USER	旅行で東京を訪れる時に利用する飲食店を探してもらえますか？	general,restaurant,hotel,taxi
+4644	1	SYSTEM	はい、99件ございますが、何か希望条件はありますか？	general,restaurant,hotel,taxi
+4644	2	USER	そうですね、駐車場とWi-Fiは無料が良いです。予算は高めが希望です。	general,restaurant,hotel,taxi
+4644	3	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,hotel,taxi
+4644	4	USER	それならWi-Fiは無くても大丈夫です。	general,restaurant,hotel,taxi
+4644	5	SYSTEM	かしこまりました。では、COTEAU.はいかがでしょうか？	general,restaurant,hotel,taxi
+4644	6	USER	そちらの電話番号を教えて貰ってもよいですか？	general,restaurant,hotel,taxi
+4644	7	SYSTEM	はい。電話番号は0357841670です。	general,restaurant,hotel,taxi
+4644	8	USER	じゃあそのお店で、10/27の14:00から4名で予約をお願いします。	general,restaurant,hotel,taxi
+4644	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、80090です。	general,restaurant,hotel,taxi
+4644	10	USER	Wi-Fiが無料で使える宿泊施設も探してもらえますか？	general,restaurant,hotel,taxi
+4644	11	SYSTEM	はい。目黒ホリックホテルはいかがですか？	general,restaurant,hotel,taxi
+4644	12	USER	駐車場も無料のところが良いのですが、そちらはどうですか？	general,restaurant,hotel,taxi
+4644	13	SYSTEM	駐車場も無料のところだと、The Okura Tokyoはいかがですか？	general,restaurant,hotel,taxi
+4644	14	USER	そちらにします。タイプはわかりますか？	general,restaurant,hotel,taxi
+4644	15	SYSTEM	はい。タイプはシティホテルです。	general,restaurant,hotel,taxi
+4644	16	USER	10/27から4泊、2名で利用したいのですが、予約を入れてもらえますか？	general,restaurant,hotel,taxi
+4644	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、57969です。	general,restaurant,hotel,taxi
+4644	18	USER	旅先でタクシー移動をしたいんですけど、ジャンボタクシーが利用できるタクシー会社はありますか？	general,restaurant,hotel,taxi
+4644	19	SYSTEM	はい。キャピタルオートはいかがですか？キャッシュレスにも対応しております。電話番号は0357552151です。	general,restaurant,hotel,taxi
+4644	20	USER	ありがとう、そちらで10/27の15:40にCOTEAU.からThe Okura Tokyoまで予約をお願いします。	general,restaurant,hotel,taxi
+4644	21	SYSTEM	かしこまりました。ご予約承りました。予約番号は、30623です。	general,restaurant,hotel,taxi
+4644	22	USER	ありがとうございます。	general,restaurant,hotel,taxi
+4644	23	SYSTEM	はい。ありがとうございました。	general,restaurant,hotel,taxi

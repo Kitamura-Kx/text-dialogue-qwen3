@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4886	0	USER	名古屋への旅行を計画中のため、最寄り駅が近鉄名古屋駅のところで駐車場が無料で利用できる百貨店や総合スーパーを探してもらいたいです。	general,shopping
+4886	1	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,shopping
+4886	2	USER	では最寄り駅はどこでもいいので、駐車場が無料で利用できる百貨店や総合スーパーでどこかいいところはありますか？	general,shopping
+4886	3	SYSTEM	イオンタウン名西はいかがでしょうか？	general,shopping
+4886	4	USER	そこに行こうと思うので、営業時間と住所を教えてください。	general,shopping
+4886	5	SYSTEM	営業時間は09:00～21:00です。住所は愛知県名古屋市西区香呑町6丁目49-1です。	general,shopping
+4886	6	USER	ありがとうございます。	general,shopping
+4886	7	SYSTEM	他にご用件はありますか？	general,shopping
+4886	8	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping

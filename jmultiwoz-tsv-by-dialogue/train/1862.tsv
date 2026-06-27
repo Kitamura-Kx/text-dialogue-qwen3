@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1862	0	USER	大阪に行くのですが、中央区に、普通の価格帯で利用できる飲食店はありますか？できればWi-Fiを無料で使えたら嬉しいです。	general,restaurant,taxi
+1862	1	SYSTEM	かしこまりました。では、ミゲルフアニ なんばダイニングメゾン店はいかがでしょうか？	general,restaurant,taxi
+1862	2	USER	ありがとうございます。そちらの最寄り駅はどこになりますか？	general,restaurant,taxi
+1862	3	SYSTEM	はい。最寄駅は難波駅になります。	general,restaurant,taxi
+1862	4	USER	では、タクシーの予約をお願いしたいです。ジャンボタクシー対応のところはありますか？	general,restaurant,taxi
+1862	5	SYSTEM	かしこまりました。では、関西空港リムジン株式会社はいかがでしょうか？	general,restaurant,taxi
+1862	6	USER	その会社はキャッシュレス対応ですか？あと、電話番号も知りたいです。	general,restaurant,taxi
+1862	7	SYSTEM	申し訳ございません。キャッシュレス対応可能かどうかは不明となっております。電話番号は0570072525です。	general,restaurant,taxi
+1862	8	USER	わかりました。では１台予約をお願いします。1/16 11:30 に、先ほどの ミゲルフアニ なんばダイニングメゾン店 まで来て欲しいです。目的地は、かねよし旅館になります。	general,restaurant,taxi
+1862	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、15576です。	general,restaurant,taxi
+1862	10	USER	今日お願いしたいことは以上です。ありがとうございました。	general,restaurant,taxi
+1862	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

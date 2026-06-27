@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2138	0	USER	仙台に旅行へ行こうと考えています。泊まるところを探してもらえないでしょうか？	general,hotel,restaurant,weather
+2138	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,restaurant,weather
+2138	2	USER	レストランが併設されている、リゾートホテルなんてありますか？	general,hotel,restaurant,weather
+2138	3	SYSTEM	かしこまりました。では、ウェスティンホテル仙台はいかがでしょうか？	general,hotel,restaurant,weather
+2138	4	USER	こちらは何時までにチェックアウトすればいいんでしょうか？	general,hotel,restaurant,weather
+2138	5	SYSTEM	はい。チェックアウト終了時刻は12:00になります。	general,hotel,restaurant,weather
+2138	6	USER	わかりました。だいたいどのあたりのエリアにあるんでしょうか？	general,hotel,restaurant,weather
+2138	7	SYSTEM	はい。青葉区になります。	general,hotel,restaurant,weather
+2138	8	USER	そうなのですね。ちなみにこちらのホテルには駐車場はありますか？	general,hotel,restaurant,weather
+2138	9	SYSTEM	はい。有料ですがございますよ。	general,hotel,restaurant,weather
+2138	10	USER	わかりました。ご飯を食べるところも一緒に探してもらえませんか？太子堂駅付近で駐車場代がかからない、予算は高めのお店だと嬉しいです。	general,hotel,restaurant,weather
+2138	11	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,hotel,restaurant,weather
+2138	12	USER	そうですか。では太子堂駅最寄りでなくても構いません。	general,hotel,restaurant,weather
+2138	13	SYSTEM	かしこまりました。では、牛たん炭焼 利久 泉中央店はいかがでしょうか？	general,hotel,restaurant,weather
+2138	14	USER	ありがとうございます。こちらのお店の予約を取ってもらえませんか？	general,hotel,restaurant,weather
+2138	15	SYSTEM	はい。詳細な情報をお伺いしていいですか？	general,hotel,restaurant,weather
+2138	16	USER	7月11日の11時30分、3名で利用したいです。	general,hotel,restaurant,weather
+2138	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、17042です。	general,hotel,restaurant,weather
+2138	18	USER	ありがとうございます。最後に7/11の若林区の天気と最低気温を調べてもらえますか？	general,hotel,restaurant,weather
+2138	19	SYSTEM	かしこまりました。7/11の若林区の天気予報は晴のち曇となっております。最低気温は18.7度になる予報です。	general,hotel,restaurant,weather
+2138	20	USER	わかりました。何から何までご対応下さりありがとうございました。	general,hotel,restaurant,weather

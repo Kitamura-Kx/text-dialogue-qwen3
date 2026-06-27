@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3730	0	USER	こんにちは。福岡に行くのですが、Wi-Fiが無料で使える、中央区の観光名所はありますか？	general,attraction
+3730	1	SYSTEM	それでしたら、アクロス福岡はいかがですか？	general,attraction
+3730	2	USER	いいですね。そこの料金情報と、近辺の駅からの所要時間もわかりますか？	general,attraction
+3730	3	SYSTEM	料金情報は、利用時間帯、内容、曜日により異なるとなっています。　所要時間は、天神駅から徒歩で5分です。	general,attraction
+3730	4	USER	ありがとうございます。	general,attraction
+3730	5	SYSTEM	他にご用件はございますか？	general,attraction
+3730	6	USER	いえ、大丈夫です。案内ありがとうございました。	general,attraction
+3730	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1722	0	USER	横浜へ行こうと思っています。予算は高めでWiFiが無料で利用できてレストランが併設されている宿泊施設を探していただきたいです。	general,hotel
+1722	1	SYSTEM	それならばザ・カハラ・ホテル&リゾート 横浜がオススメです。	general,hotel
+1722	2	USER	そちらのチェックイン開始時刻、料金情報を教えていただけますでしょうか。	general,hotel
+1722	3	SYSTEM	チェックインは15:00から、値段帯は高めですね。	general,hotel
+1722	4	USER	わかりました。ありがとうございます。	general,hotel
+1722	5	SYSTEM	他にご希望はありますか？	general,hotel
+1722	6	USER	いいえ、大丈夫です。ありがとうございました。	general,hotel

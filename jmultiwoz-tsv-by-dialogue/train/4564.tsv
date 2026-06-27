@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4564	0	USER	名古屋に旅行するのですがベッドハウス・山小屋・カプセルホテルなどの簡易宿を探しています。値段は普通で駐車場無料でありますか？	general,hotel,attraction
+4564	1	SYSTEM	1件みつかりました。Show和の宿つちやはいかがですか？	general,hotel,attraction
+4564	2	USER	いいですね。電話番号を教えて下さい。	general,hotel,attraction
+4564	3	SYSTEM	電話番号は、0524510028です。	general,hotel,attraction
+4564	4	USER	ありがとうございます。観光は天白区のお城を探しているのですが。	general,hotel,attraction
+4564	5	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,hotel,attraction
+4564	6	USER	そうですか。それではお城以外でいいところはありますか？	general,hotel,attraction
+4564	7	SYSTEM	それでは、名古屋市農業センターdelaふぁーむはどうでしょう？	general,hotel,attraction
+4564	8	USER	ありがとうございます。そこの定休日と最寄駅と、そこからの所要時間を教えて下さい。	general,hotel,attraction
+4564	9	SYSTEM	定休日は、月曜日です。最寄り駅は、平針駅で所要時間は、平針駅から徒歩で20分になります。	general,hotel,attraction
+4564	10	USER	助かりました！以上です。ありがとうございました。	general,hotel,attraction
+4564	11	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction

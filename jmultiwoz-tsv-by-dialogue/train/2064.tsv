@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2064	0	USER	名古屋で買い物スポットを調べてください。名東区に文房具・雑貨のお店はありますか？あと、駐車場が無料であるといいのですが。	general,shopping,hotel
+2064	1	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,shopping,hotel
+2064	2	USER	地区の条件を除いて、再検索お願いできますか？	general,shopping,hotel
+2064	3	SYSTEM	かしこまりました。では、ポケモンセンターナゴヤはいかがでしょうか？	general,shopping,hotel
+2064	4	USER	営業時間と、近辺の駅からどれぐらいかかるかも教えてください。	general,shopping,hotel
+2064	5	SYSTEM	営業時間は10:00～19:30です。近辺の駅からの所要時間は矢場町駅から徒歩で1分、栄駅から徒歩で5分です。また、栄町駅から徒歩で8分かかります。	general,shopping,hotel
+2064	6	USER	わかりました。ついでに宿泊施設も聞いていいですか？駐車場とWifiが無料が無料の旅館はありますか？	general,shopping,hotel
+2064	7	SYSTEM	かしこまりました。では、魚鍵旅館はいかがでしょうか？	general,shopping,hotel
+2064	8	USER	最寄り駅と、チェックアウト時間も知りたいです。	general,shopping,hotel
+2064	9	SYSTEM	はい。最寄り駅は金山駅です。チェックアウト終了時刻が10:00になります。	general,shopping,hotel
+2064	10	USER	では予約もお願いします。5/23から2泊で、3人での利用です。	general,shopping,hotel
+2064	11	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,shopping,hotel
+2064	12	USER	人数を2人に変更していただけますか？	general,shopping,hotel
+2064	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、39626です。	general,shopping,hotel
+2064	14	USER	ありがとうございます。	general,shopping,hotel

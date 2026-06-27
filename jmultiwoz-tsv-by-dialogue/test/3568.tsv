@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3568	0	USER	今度、京都に宿泊を考えています。レストランがある宿泊施設を教えて下さい。	general,hotel,attraction,shopping
+3568	1	SYSTEM	かしこまりました。では、天然温泉 蓮花の湯 御宿 野乃京都七条はいかがでしょうか。	general,hotel,attraction,shopping
+3568	2	USER	すみません、Wi-Fiが無料で利用できて、安めの所が良いのですが、そちらはどうですか？	general,hotel,attraction,shopping
+3568	3	SYSTEM	はい。こちらWi-Fi無料で、値段帯は安めとなっております。	general,hotel,attraction,shopping
+3568	4	USER	ありがとうございます。それでは、キャンプができる椥辻駅近くの観光名所も教えてもらえますか？	general,hotel,attraction,shopping
+3568	5	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,attraction,shopping
+3568	6	USER	では、キャンプは気にしないで下さい。	general,hotel,attraction,shopping
+3568	7	SYSTEM	では京都市東部文化会館がございますがいかがですか。	general,hotel,attraction,shopping
+3568	8	USER	そちらに行ってみます。大人の入場料と定休日を教えて下さい。	general,hotel,attraction,shopping
+3568	9	SYSTEM	大人の入場料は不明でございます。定休日は企画により異なるとのことでございます。	general,hotel,attraction,shopping
+3568	10	USER	分かりました。念のために電話番号を教えて下さい。	general,hotel,attraction,shopping
+3568	11	SYSTEM	電話番号は0755021012でございます。	general,hotel,attraction,shopping
+3568	12	USER	ありがとうございます。もう１つ、南区で買い物できる場所を教えて下さい。	general,hotel,attraction,shopping
+3568	13	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,attraction,shopping
+3568	14	USER	そうですか。では、右京区ならありますか？	general,hotel,attraction,shopping
+3568	15	SYSTEM	では道の駅 ウッディー京北がございます。	general,hotel,attraction,shopping
+3568	16	USER	ありがとうございます。そこは近くの駅からどれくらいかかりますか？	general,hotel,attraction,shopping
+3568	17	SYSTEM	円町駅からタクシーで40分でございます。	general,hotel,attraction,shopping
+3568	18	USER	分かりました。助かりました。それでは失礼します。	general,hotel,attraction,shopping

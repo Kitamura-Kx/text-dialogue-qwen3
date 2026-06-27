@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1026	0	USER	仙台に行くんですが、青葉区でファッションの買い物ができるところを教えて下さい。	general,shopping,hotel,weather
+1026	1	SYSTEM	かしこまりました。では、きものリユース ながもち屋はいかがですか。	general,shopping,hotel,weather
+1026	2	USER	そちらは無料駐車場はありますか？	general,shopping,hotel,weather
+1026	3	SYSTEM	駐車場は有料となっております。	general,shopping,hotel,weather
+1026	4	USER	すみませんが、無料のところで他にありますでしょうか？	general,shopping,hotel,weather
+1026	5	SYSTEM	ではアニメイト仙台がございます。	general,shopping,hotel,weather
+1026	6	USER	そちらの店の定休日を教えてもらえますか？	general,shopping,hotel,weather
+1026	7	SYSTEM	定休日はございません。	general,shopping,hotel,weather
+1026	8	USER	最寄り駅と、そこからどのくらいかかるかも教えて下さい。	general,shopping,hotel,weather
+1026	9	SYSTEM	最寄り駅の仙台駅から徒歩で2分でございます。	general,shopping,hotel,weather
+1026	10	USER	ありがとうございます。あと、レストランが併設されている宿泊施設も探しています。	general,shopping,hotel,weather
+1026	11	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,shopping,hotel,weather
+1026	12	USER	特にないです。	general,shopping,hotel,weather
+1026	13	SYSTEM	ではホテルルートイン仙台泉インターはいかがですか。	general,shopping,hotel,weather
+1026	14	USER	住所と近くの駅からの時間も教えてもらえますか？	general,shopping,hotel,weather
+1026	15	SYSTEM	住所は宮城県仙台市泉区大沢2丁目3-9でございます。泉中央駅からタクシーで8分となっております。	general,shopping,hotel,weather
+1026	16	USER	料金の情報も教えてください。	general,shopping,hotel,weather
+1026	17	SYSTEM	値段帯は安めでございます。	general,shopping,hotel,weather
+1026	18	USER	ありがとうございます。若林区の12月9日の天気と最低気温も教えてもらえますか？	general,shopping,hotel,weather
+1026	19	SYSTEM	天気は晴時々曇、最低気温は0.5度でございます。	general,shopping,hotel,weather
+1026	20	USER	ありがとうございました。	general,shopping,hotel,weather
+1026	21	SYSTEM	ほかにご用件はございますか。	general,shopping,hotel,weather
+1026	22	USER	大丈夫です。ありがとうございました。	general,shopping,hotel,weather
+1026	23	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,weather

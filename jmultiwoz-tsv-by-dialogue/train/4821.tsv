@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4821	0	USER	札幌へ旅行に行くので、食事ができるお店を探してください。	general,restaurant,hotel,weather
+4821	1	SYSTEM	はい。ご希望の条件をおきかせください。	general,restaurant,hotel,weather
+4821	2	USER	安めのお店が希望です。あとWi-Fiが無料で利用できるお店にしてください	general,restaurant,hotel,weather
+4821	3	SYSTEM	札幌には、値段安めでWiFi無料の飲食店は３件ありますが、蔵元直営 吉翔をお勧めします。	general,restaurant,hotel,weather
+4821	4	USER	そちらはどのエリアのお店ですか？	general,restaurant,hotel,weather
+4821	5	SYSTEM	中央区です。	general,restaurant,hotel,weather
+4821	6	USER	ありがとうございます。次に泊まるところを探してください。	general,restaurant,hotel,weather
+4821	7	SYSTEM	はい。ご希望の条件をおきかせください。	general,restaurant,hotel,weather
+4821	8	USER	豊平区でWi-Fi無料のところがいいです。	general,restaurant,hotel,weather
+4821	9	SYSTEM	札幌豊平区でWiFi無料の宿泊施設は、プレミアホテル-TSUBAKI-札幌、こちらになります。	general,restaurant,hotel,weather
+4821	10	USER	そちらに駐車場はありますか？	general,restaurant,hotel,weather
+4821	11	SYSTEM	有料ですが、あります。	general,restaurant,hotel,weather
+4821	12	USER	ではそちらで予約してください。2/11から2泊で、人数は3人です。	general,restaurant,hotel,weather
+4821	13	SYSTEM	予約成功しました。予約番号は4241です。	general,restaurant,hotel,weather
+4821	14	USER	ありがとうございます。最後に2/11の南区の天候を教えてください。	general,restaurant,hotel,weather
+4821	15	SYSTEM	2/11 札幌 南区 の天気は晴のち曇、最低気温-3.4度、最高気温2.3度です。	general,restaurant,hotel,weather
+4821	16	USER	ありがとうございました。以上です。	general,restaurant,hotel,weather

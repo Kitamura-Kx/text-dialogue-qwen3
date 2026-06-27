@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4906	0	USER	京都への旅行を計画中のため、買い物できるお店を探しており、下京区で駐車場が無料で利用できるお店を探してもらえますか？	general,shopping,restaurant,weather
+4906	1	SYSTEM	お待たせ致しました。では、大丸京都店はいかがでしょうか？	general,shopping,restaurant,weather
+4906	2	USER	そこはジャンルは何になりますか？	general,shopping,restaurant,weather
+4906	3	SYSTEM	百貨店や総合スーパーでございます。	general,shopping,restaurant,weather
+4906	4	USER	わかりました。電話番号を教えてください。	general,shopping,restaurant,weather
+4906	5	SYSTEM	電話番号は0752118111でございます。	general,shopping,restaurant,weather
+4906	6	USER	ありがとうございます。あと東山区で飲食店を探しており、居酒屋がいいのですがどこかいいところはありますか？	general,shopping,restaurant,weather
+4906	7	SYSTEM	かしこまりました。それでしたら、京家 きよみず 祇をん新橋がおすすめです。	general,shopping,restaurant,weather
+4906	8	USER	そこにしようと思います。電話番号と住所、料金情報を教えてください。	general,shopping,restaurant,weather
+4906	9	SYSTEM	はい、電話番号は0752050055、住所は京都府京都市東山区橋本町416 東入ル2丁目、料金情報は、京おでんの盛り合わせが750円、特製きよみずサラダが850円でございます。	general,shopping,restaurant,weather
+4906	10	USER	ありがとうございます。あと1/30の中京区の最高気温と最低気温を調べてもらえますか？	general,shopping,restaurant,weather
+4906	11	SYSTEM	お待たせ致しました。当日の中京区の最高気温は8.4度、最低気温は2.8度でございます。	general,shopping,restaurant,weather
+4906	12	USER	ありがとうございます。	general,shopping,restaurant,weather
+4906	13	SYSTEM	その他にご用件はございますか？	general,shopping,restaurant,weather
+4906	14	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,restaurant,weather

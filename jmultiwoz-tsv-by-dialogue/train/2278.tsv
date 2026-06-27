@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2278	0	USER	仙台へ行くんですが、ジャンボタクシーが利用できるタクシー会社でキャッシュレス払いのできるところはありますか？	general,taxi
+2278	1	SYSTEM	仙台に両方対応できる会社はいくつかありますが、仙台中央タクシー（株）をお勧めします。	general,taxi
+2278	2	USER	そうなんですね。じゃあそこの電話番号を教えてください。	general,taxi
+2278	3	SYSTEM	0570057818です。	general,taxi
+2278	4	USER	あと、予約もできますか？2/16の11：30にイッてこい酒場ぱぐぱぐを出発して、伊達の牛たん本舗 本店というところまで利用します。	general,taxi
+2278	5	SYSTEM	2/16の11：30、イッてこい酒場ぱぐぱぐから、伊達の牛たん本舗 本店まで、予約成功しました。予約番号は95195です。	general,taxi
+2278	6	USER	ありがとうございました。以上で結構です。	general,taxi
+2278	7	SYSTEM	よい旅を。	general,taxi

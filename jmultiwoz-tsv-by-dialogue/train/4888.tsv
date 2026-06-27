@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4888	0	USER	名古屋への旅行を計画中のため、千種区で最寄り駅が高蔵寺駅のところで買い物できるお店を探してほしいです。	general,shopping,taxi
+4888	1	SYSTEM	かしこまりました。それでは星が丘テラスはいかがでしょうか？	general,shopping,taxi
+4888	2	USER	ありがとうございます。あとキャッシュレス払い対応のタクシー会社でどこかいいところはありますか？	general,shopping,taxi
+4888	3	SYSTEM	それではつばめタクシーグループがおすすめです。	general,shopping,taxi
+4888	4	USER	電話番号を教えてください。	general,shopping,taxi
+4888	5	SYSTEM	電話番号は0522031212でございます。	general,shopping,taxi
+4888	6	USER	9/5 14:50に星が丘テラスからホテルJALシティ名古屋 錦までタクシーの予約をお願いします。	general,shopping,taxi
+4888	7	SYSTEM	お待たせ致しました。予約番号96749でお取りさせていただきました。	general,shopping,taxi
+4888	8	USER	ありがとうございます。	general,shopping,taxi
+4888	9	SYSTEM	その他にご用件はございますか？	general,shopping,taxi
+4888	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,taxi

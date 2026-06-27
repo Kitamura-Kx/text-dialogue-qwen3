@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3988	0	USER	京都の東山区の観光名所を探しています。	general,attraction
+3988	1	SYSTEM	かしこまりました。では安井金比羅宮はいかがですか。	general,attraction
+3988	2	USER	いいですね。駐車場はありますか？	general,attraction
+3988	3	SYSTEM	はい。無料でご利用いただけます。	general,attraction
+3988	4	USER	近辺の駅からの所要時間は？	general,attraction
+3988	5	SYSTEM	京都駅からバスで19分、祇園四条駅から徒歩で10分、河原町駅から徒歩で15分となっております。	general,attraction
+3988	6	USER	わかりました。	general,attraction
+3988	7	SYSTEM	ほかにご用件はございませんか。	general,attraction
+3988	8	USER	はい。ありません。	general,attraction
+3988	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

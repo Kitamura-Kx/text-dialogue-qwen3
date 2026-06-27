@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3233	0	USER	横浜への旅行の時に、泊まるホテルを探しています。	general,hotel
+3233	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,hotel
+3233	2	USER	はい、金沢区で探してください。リゾートホテルで良い所はないでしょうか？	general,hotel
+3233	3	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel
+3233	4	USER	残念です。旅館ではどうでしょうか？	general,hotel
+3233	5	SYSTEM	はい。では、旅館 皆楽園はいかがでしょうか？	general,hotel
+3233	6	USER	良さそうですね。旅館 皆楽園には駐車場はありますか？	general,hotel
+3233	7	SYSTEM	申し訳ございません。不明となっております。	general,hotel
+3233	8	USER	分かりました、ありがとうございます。	general,hotel
+3233	9	SYSTEM	はい。ほかに何かお調べすることはございませんか？	general,hotel
+3233	10	USER	ありがとうございます、これで全てです。	general,hotel
+3233	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

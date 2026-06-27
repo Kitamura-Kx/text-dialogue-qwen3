@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3623	0	USER	横浜に旅行に行こうと思っていて、西区の最寄駅が北新横浜駅の観光名所に行きたいです。Wi-Fiが無料で使えるのが希望です。	general,attraction,taxi
+3623	1	SYSTEM	お調べしましたところ、該当がございませんでした。いかがいたしましょうか？	general,attraction,taxi
+3623	2	USER	では最寄り駅を北新横浜駅に絞らなくても大丈夫です。	general,attraction,taxi
+3623	3	SYSTEM	かしこまりました。そうしますと、原鉄道模型博物館とほか２件ご案内可能でございます。	general,attraction,taxi
+3623	4	USER	その原鉄道模型博物館に駐車場はありますか。	general,attraction,taxi
+3623	5	SYSTEM	駐車場はございません。	general,attraction,taxi
+3623	6	USER	ありがとうございます。あと、向こうではジャンボタクシーを使いたいので、キャッシュレス払いのできる会社を探してほしいです。	general,attraction,taxi
+3623	7	SYSTEM	横浜で両方対応の会社は該当がございませんでした。いかがいたしましょうか？	general,attraction,taxi
+3623	8	USER	ではジャンボタクシーでなくてもかまいません。	general,attraction,taxi
+3623	9	SYSTEM	かしこまりました。そうしますと、富士見交通株式会社ほか5件ございます。	general,attraction,taxi
+3623	10	USER	富士見交通株式会社の電話番号を教えてください。	general,attraction,taxi
+3623	11	SYSTEM	かしこまりました。電話番号は、0120411190でございます。	general,attraction,taxi
+3623	12	USER	ありがとうございます。では1/23の13:30にフレンチバル レ・サンスから原鉄道模型博物館で予約をお願いします。	general,attraction,taxi
+3623	13	SYSTEM	1/23の13:30でご予約が完了しました。予約番号は、4868でございます。	general,attraction,taxi
+3623	14	USER	ありがとうございます。これで大丈夫です。	general,attraction,taxi
+3623	15	SYSTEM	ありがとうございました。	general,attraction,taxi

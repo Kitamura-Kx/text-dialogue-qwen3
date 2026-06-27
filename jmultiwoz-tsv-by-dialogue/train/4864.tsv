@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4864	0	USER	横浜に旅行に行こうと思っています。そこで中区で駐車場を無料で利用できる中華料理屋を探してほしいです。	general,restaurant,shopping,weather
+4864	1	SYSTEM	承知しました。では、三和楼はいかがでしょう？	general,restaurant,shopping,weather
+4864	2	USER	ありがとうございます。このお店の住所とWi-Fiがあるかについて教えてください。	general,restaurant,shopping,weather
+4864	3	SYSTEM	はい、住所は、神奈川県横浜市中区山下町190、申し訳ありません、Wi-Fiの有無は不明となっております。	general,restaurant,shopping,weather
+4864	4	USER	ありがとうございます。このお店に1/12の午前11時30分に3人で予約をお願いします。	general,restaurant,shopping,weather
+4864	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、65105となります。	general,restaurant,shopping,weather
+4864	6	USER	ありがとうございます。あと、ファッションの買い物ができるところに行きたいです。駐車場を無料で利用できるのが希望です。	general,restaurant,shopping,weather
+4864	7	SYSTEM	承知しました。では、エリアでいうと中区にある、MEGAドン・キホーテ港山下総本店はいかがでしょう？	general,restaurant,shopping,weather
+4864	8	USER	ありがとうございます。そのお店の住所と電話番号を教えてください。	general,restaurant,shopping,weather
+4864	9	SYSTEM	はい、住所は、神奈川県横浜市中区新山下1丁目2-8、電話番号は、0570090711となります。	general,restaurant,shopping,weather
+4864	10	USER	ありがとうございます。あと、1/12の中区の最高気温と最低気温は何度になりますか。	general,restaurant,shopping,weather
+4864	11	SYSTEM	はい、天気は曇、最低気温5.9度、最高気温15.3度となります。	general,restaurant,shopping,weather
+4864	12	USER	ありがとうございます。これで大丈夫です。	general,restaurant,shopping,weather
+4864	13	SYSTEM	ありがとうございました。	general,restaurant,shopping,weather

@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+169	0	USER	こんにちは。札幌旅行を計画中なので、色々教えてもらいたくて。	general,shopping,restaurant,weather
+169	1	SYSTEM	ご利用ありがとうございます。札幌へのご旅行ですね。どういった情報をお探しでしょうか？	general,shopping,restaurant,weather
+169	2	USER	まず医薬品・化粧品を買えるお店を探してもらえますか？	general,shopping,restaurant,weather
+169	3	SYSTEM	かしこまりました。札幌で医薬品・化粧品のジャンルのお店ですと、TSUTAYA 美しが丘の1件のみとなります。	general,shopping,restaurant,weather
+169	4	USER	そうなんですか、無料駐車場があって、手稲区エリアのお店が良いんですけど。	general,shopping,restaurant,weather
+169	5	SYSTEM	大変申し訳ございません。そのご希望の条件になりますと、該当する施設が見つかりませんでした。	general,shopping,restaurant,weather
+169	6	USER	残念。では、手稲区以外の場所でもいいです。	general,shopping,restaurant,weather
+169	7	SYSTEM	ありがとうございます。清田区に、TSUTAYA 美しが丘がございますが、いかがでしょうか？	general,shopping,restaurant,weather
+169	8	USER	そこの詳しい住所をうかがってもいいですか？	general,shopping,restaurant,weather
+169	9	SYSTEM	はい。住所は、北海道札幌市清田区美しが丘3条4丁目1番10号です。	general,shopping,restaurant,weather
+169	10	USER	あと、食事処も探してほしくて。中央区でロープウェイ入口停留所の近くにありそうですか？	general,shopping,restaurant,weather
+169	11	SYSTEM	はい。ふしみグリエというお店が1件ございました。	general,shopping,restaurant,weather
+169	12	USER	1件しかないんですね。予算は少し奮発して、高いところにしたいんですけども。	general,shopping,restaurant,weather
+169	13	SYSTEM	はい。こちらの、ふしみグリエは、お値段が高めの設定となっておりますので、ご希望に沿ったお店かと存じます。	general,shopping,restaurant,weather
+169	14	USER	それなら良かったです。そこの電話番号を教えてもらってもいいですか？	general,shopping,restaurant,weather
+169	15	SYSTEM	はい。電話番号は、0115332432、となります。	general,shopping,restaurant,weather
+169	16	USER	その店で、5月26日14時50分から、4人で予約取れますか？	general,shopping,restaurant,weather
+169	17	SYSTEM	かしこまりました。ふしみグリエで5月26日14時50分、4名様でご予約完了いたしました。予約番号は、91742です。	general,shopping,restaurant,weather
+169	18	USER	ありがとうございます。あと最後に天気も教えてもらいたくて。	general,shopping,restaurant,weather
+169	19	SYSTEM	はい、札幌のお天気ですね。お調べいたします。エリアと日にちをお願いできますか？	general,shopping,restaurant,weather
+169	20	USER	手稲区で5月26日の天気を調べてください。	general,shopping,restaurant,weather
+169	21	SYSTEM	かしこまりました。手稲区の5月26日の天気は、曇のち晴れの予報です。	general,shopping,restaurant,weather
+169	22	USER	最低気温も分かりますか？	general,shopping,restaurant,weather
+169	23	SYSTEM	はい。最低気温は14.1度の予報です。	general,shopping,restaurant,weather
+169	24	USER	ありがとうございました。知りたかったことは以上です。	general,shopping,restaurant,weather
+169	25	SYSTEM	お役に立てて光栄です。本日はご利用ありがとうございました。	general,shopping,restaurant,weather

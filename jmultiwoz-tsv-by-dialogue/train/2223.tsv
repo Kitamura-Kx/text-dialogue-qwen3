@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2223	0	USER	那覇へ旅行に行くので、買い物ができるところを探してください。	general,shopping
+2223	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping
+2223	2	USER	ジャンルは医薬品・化粧品で、最寄り駅が壷川駅、駐車場を無料で利用できるところにしてください。	general,shopping
+2223	3	SYSTEM	申し訳ありません。その条件ではご紹介できません。いかが致しましょう？	general,shopping
+2223	4	USER	では最寄り駅の条件は外して構いません。	general,shopping
+2223	5	SYSTEM	エリアでいうと小禄にある、LEO & JOEはいかがでしょう？	general,shopping
+2223	6	USER	そちらの電話番号と近辺の駅からの所要時間を教えてください。	general,shopping
+2223	7	SYSTEM	電話番号は0988581268、最寄りの奥武山公園駅から徒歩で2分となります。	general,shopping
+2223	8	USER	ありがとうございます。以上になります。	general,shopping
+2223	9	SYSTEM	ありがとうございました。	general,shopping

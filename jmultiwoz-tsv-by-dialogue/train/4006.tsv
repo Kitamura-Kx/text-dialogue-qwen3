@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4006	0	USER	福岡へ旅行予定です。安めで駐車場が無料な飲食店はありますか？	general,restaurant
+4006	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant
+4006	2	USER	そうですか。駐車場はなくても大丈夫です。	general,restaurant
+4006	3	SYSTEM	かしこまりました。では、牛すじ葱丸はいかがでしょうか？	general,restaurant
+4006	4	USER	そこにします。Wi-Fiの有無と、近辺の駅からの所要時間を教えてください。	general,restaurant
+4006	5	SYSTEM	かしこまりました。Wi-Fiの有無は分かりません。近辺の駅からですと、姪浜駅から徒歩で5分でございます。	general,restaurant
+4006	6	USER	ありがとうございます。4人で11/16の11:00から予約をお願いできますか？	general,restaurant
+4006	7	SYSTEM	申し訳ありません。その条件では予約が出来ませんでした。	general,restaurant
+4006	8	USER	そうですか。では人数三人でお願いします。	general,restaurant
+4006	9	SYSTEM	お待たせ致しました。予約番号22073でお取りさせていただきました。	general,restaurant
+4006	10	USER	わかりました。ありがとうございます。	general,restaurant
+4006	11	SYSTEM	その他に何かご用件はございますか？	general,restaurant
+4006	12	USER	いえ、大丈夫です。	general,restaurant
+4006	13	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4009	0	USER	横浜へ旅行予定なのですが、緑区の展望台やタワーってあります？	general,attraction
+4009	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction
+4009	2	USER	そうですか。なら緑区じゃなくてもいいです。	general,attraction
+4009	3	SYSTEM	かしこまりました。それでは横浜港シンボルタワーがございます。	general,attraction
+4009	4	USER	そこにします。Wi-Fiってありますか？	general,attraction
+4009	5	SYSTEM	申し訳ありません。Wi-Fiの有無は分かりません。	general,attraction
+4009	6	USER	了解です。もう大丈夫です、ありがとうございました。	general,attraction
+4009	7	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction

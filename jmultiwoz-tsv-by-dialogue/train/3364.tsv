@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3364	0	USER	大阪への旅行を計画中で、美術館・博物館を探しています。	general,attraction
+3364	1	SYSTEM	道頓堀 コナモンミュージアム キッズプラザ大阪 国立国際美術館などいかがですか？	general,attraction
+3364	2	USER	国立国際美術館にしようと思います。エリアとWi-fiの有無を教えてください。	general,attraction
+3364	3	SYSTEM	北区で、Wi-Fi有無は不明です。	general,attraction
+3364	4	USER	助かります。ありがとうございました。	general,attraction

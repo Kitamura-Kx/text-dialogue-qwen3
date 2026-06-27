@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+527	0	USER	那覇への旅行を考えているのですが、駐車場を無料で利用できる買い物できるところはありますか？	general,shopping,restaurant,taxi
+527	1	SYSTEM	はい、10件ほどございます。例えば、のうれんプラザというショッピングモールはいかがでしょうか？	general,shopping,restaurant,taxi
+527	2	USER	そこにします。食事ができる飲食店も探しているのですが、最寄り駅が首里駅で駐車場が無料なところはありますか？値段は安めがいいです。	general,shopping,restaurant,taxi
+527	3	SYSTEM	はい、1件ございます。屋台赤道ラーメン 首里駅前店という、ラーメン・つけ麺のお店はいかがでしょうか？	general,shopping,restaurant,taxi
+527	4	USER	そこいいですね。当日タクシーを利用したいのですが、ジャンボタクシーがあって、キャッシュレス払いできるところはありますか？	general,shopping,restaurant,taxi
+527	5	SYSTEM	はい、ございます。三和交通はいかがでしょうか？	general,shopping,restaurant,taxi
+527	6	USER	そこでいいです。電話番号はわかりますか？	general,shopping,restaurant,taxi
+527	7	SYSTEM	電話番号は、0120100084です。予約をおとりしましょうか？	general,shopping,restaurant,taxi
+527	8	USER	お願いします。2月23日の12時30分で、のうれんプラザから屋台赤道ラーメン 首里駅前店まで予約したいです。	general,shopping,restaurant,taxi
+527	9	SYSTEM	かしこまりました。ご予約番号31468にて、予約完了いたしました。	general,shopping,restaurant,taxi
+527	10	USER	ありがとうございます。	general,shopping,restaurant,taxi
+527	11	SYSTEM	ほかにお調べすることはございますか？	general,shopping,restaurant,taxi
+527	12	USER	いえ、大丈夫です。	general,shopping,restaurant,taxi
+527	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,restaurant,taxi

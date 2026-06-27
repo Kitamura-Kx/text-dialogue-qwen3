@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4775	0	USER	福岡の宿泊施設を探してください。	general,hotel,shopping
+4775	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,hotel,shopping
+4775	2	USER	レストランが併設されており、Wi-Fiが無料で使え、最寄り駅が大濠公園駅でお願いします。	general,hotel,shopping
+4775	3	SYSTEM	かしこまりました。では、UNPLAN Fukuokaはいかがでしょうか？	general,hotel,shopping
+4775	4	USER	分かりました。駐車場はありますか。	general,hotel,shopping
+4775	5	SYSTEM	申し訳ございません。駐車場は無しとなっております。	general,hotel,shopping
+4775	6	USER	分かりました。また、また当日に買い物ができる場所を探してください。	general,hotel,shopping
+4775	7	SYSTEM	はい。希望の条件はありますか？	general,hotel,shopping
+4775	8	USER	地区は博多区で、ジャンルはファッション、駐車場を無料で利用できるところにしてください。	general,hotel,shopping
+4775	9	SYSTEM	それでしたら、ベイサイドプレイス博多がおすすめです。	general,hotel,shopping
+4775	10	USER	はい。そこの近辺の駅からの所要時間、営業時間、電話番号を調べてください。	general,hotel,shopping
+4775	11	SYSTEM	はい。近辺の駅からの所要時間ですが、福岡駅と天神駅からだとタクシーで10分、博多駅からタクシーで15分となります。営業時間ですが、10:00～20:00です。あと、電話番号は0922817701になります。	general,hotel,shopping
+4775	12	USER	ありがとうございます。	general,hotel,shopping
+4775	13	SYSTEM	はい。他に何かお調べすることはございませんか？	general,hotel,shopping
+4775	14	USER	大丈夫です。	general,hotel,shopping
+4775	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping
+4775	16	USER	ありがとうございました。	general,hotel,shopping

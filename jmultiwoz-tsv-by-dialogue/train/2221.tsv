@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2221	0	USER	札幌へ旅行に行くので、買い物ができるところを探してください。	general,shopping,attraction
+2221	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,attraction
+2221	2	USER	ジャンルは医薬品・化粧品で、地区は清田区、駐車場を無料で利用できるところにしてください。	general,shopping,attraction
+2221	3	SYSTEM	1件、TSUTAYA 美しが丘がございます。	general,shopping,attraction
+2221	4	USER	そちらの電話番号と定休日を教えてください。	general,shopping,attraction
+2221	5	SYSTEM	電話番号は0118861111、定休日はございません。	general,shopping,attraction
+2221	6	USER	あと観光できるところを探してください。	general,shopping,attraction
+2221	7	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,attraction
+2221	8	USER	ジャンルは橋で、最寄り駅がロープウエー入口停留所のところ、駐車場を無料で利用できるところにしてください。	general,shopping,attraction
+2221	9	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,shopping,attraction
+2221	10	USER	ではジャンルの条件は外して構いません。	general,shopping,attraction
+2221	11	SYSTEM	エリアでいうと中央区に、札幌市水道記念館がございます。ジャンルは、科学館、教室、ワークショップ、体験、となります。	general,shopping,attraction
+2221	12	USER	そちらの近辺の駅からの所要時間を教えてください。	general,shopping,attraction
+2221	13	SYSTEM	最寄りのロープウエー入口停留所から徒歩で15分、近辺の円山公園駅からバスで15分、中島公園駅からバスで15分となります。	general,shopping,attraction
+2221	14	USER	ありがとうございました。以上です。	general,shopping,attraction
+2221	15	SYSTEM	ありがとうございました。	general,shopping,attraction

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+623	0	USER	京都へ旅行予定なのですが、3月8日の山科区の天気を教えてください。	general,weather,taxi
+623	1	SYSTEM	承知しました。天気は、曇時々晴、最低気温10.3度、最高気温18.7度となります。他にご案内できることはございますか？	general,weather,taxi
+623	2	USER	わかりました。当日タクシーを使う予定なのですが、キャッシュレス払いできて、ジャンボタクシーを利用できるところを調べてください。	general,weather,taxi
+623	3	SYSTEM	承知しました。エムケイ株式会社はいかがでしょう？どちらも対応しております。電話番号は0757784141となります。予約されますか？	general,weather,taxi
+623	4	USER	はい。予約します。3月8日の13時30分で、出発地はRacinehome京都、目的地は吉祥菓寮 祇園本店で予約をお願いします。	general,weather,taxi
+623	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、30164となります。他にご案内できることはございますか？	general,weather,taxi
+623	6	USER	いえ、もう大丈夫です。ありがとうございます。	general,weather,taxi
+623	7	SYSTEM	ありがとうございました。	general,weather,taxi

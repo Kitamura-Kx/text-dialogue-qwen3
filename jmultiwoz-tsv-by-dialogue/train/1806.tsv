@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1806	0	USER	札幌への旅行の時に利用するタクシー会社を探しています。	general,taxi
+1806	1	SYSTEM	何かご希望はございますか？	general,taxi
+1806	2	USER	はい、キャッシュレスで支払ができるタクシー会社はありますか？	general,taxi
+1806	3	SYSTEM	はい、では、北都ベリアールサービス(株)はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0118202200となります。	general,taxi
+1806	4	USER	それでは、6/3で予約をお願いします。12:50にスーパーホテル札幌・すすきのから乗車して、ロイズ大丸札幌店まででお願いします。	general,taxi
+1806	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、84952となります。	general,taxi
+1806	6	USER	ありがとうございます。	general,taxi
+1806	7	SYSTEM	他にご用件はございますか？	general,taxi
+1806	8	USER	いいえ、これで全てです。	general,taxi
+1806	9	SYSTEM	ありがとうございました。	general,taxi

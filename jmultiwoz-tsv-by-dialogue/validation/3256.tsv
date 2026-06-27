@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3256	0	USER	名古屋で、食事をしてきたいのですが、高めのお店はありますかね？昭和区の近くで無料駐車場が使えるところで。	general,restaurant,attraction,weather
+3256	1	SYSTEM	昭和区で高め、無料駐車場といえばずばり、王様のフレンチになります。	general,restaurant,attraction,weather
+3256	2	USER	そこの営業時間を教えてください。	general,restaurant,attraction,weather
+3256	3	SYSTEM	ランチタイムが１１時半から２時、夕方が６時から夜１０時半までですね	general,restaurant,attraction,weather
+3256	4	USER	じゃ、そこで予約もお願いします。10月5日の朝10時半、2名でお願いします。	general,restaurant,attraction,weather
+3256	5	SYSTEM	10月5日の朝10時半、2名で予約成功しました。予約番号は18264です。	general,restaurant,attraction,weather
+3256	6	USER	ありがとうございます。観光できる所も探してもらっていいですか？駐車場がただのところが良いんですけど。	general,restaurant,attraction,weather
+3256	7	SYSTEM	名古屋で駐車場無料の観光スポットは２６件あります	general,restaurant,attraction,weather
+3256	8	USER	どこか、その中で良さそうなところはありますか？	general,restaurant,attraction,weather
+3256	9	SYSTEM	では名古屋らしく、トヨタ産業技術記念館はいかがでしょうか？	general,restaurant,attraction,weather
+3256	10	USER	そこは、最寄りの駅はどちらになりますか？	general,restaurant,attraction,weather
+3256	11	SYSTEM	栄生駅から徒歩で3分、名古屋駅からなら５分ですね。	general,restaurant,attraction,weather
+3256	12	USER	ということは、最寄りは栄生駅ですね。あと、定休日とWiFiが使えるかも知りたいです。	general,restaurant,attraction,weather
+3256	13	SYSTEM	はい、最寄りは栄生駅です。月曜と年末年始が定休日、WiFiは無料のがあります。	general,restaurant,attraction,weather
+3256	14	USER	それは助かります。ところで、当日の天気も調べてもらえたりしますか？	general,restaurant,attraction,weather
+3256	15	SYSTEM	具体的な日付とエリアをお願いします。	general,restaurant,attraction,weather
+3256	16	USER	10月5日、北区エリアのを知りたいです。	general,restaurant,attraction,weather
+3256	17	SYSTEM	10/5 名古屋 北区 の天気は曇のち晴、最低気温13.8度、最高気温18.6度です。	general,restaurant,attraction,weather
+3256	18	USER	ありがとうございます。本日は、以上で大丈夫でそうです。	general,restaurant,attraction,weather
+3256	19	SYSTEM	よい旅を	general,restaurant,attraction,weather

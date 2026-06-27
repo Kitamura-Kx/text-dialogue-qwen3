@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2226	0	USER	那覇へ旅行に行くので、買い物ができるところを探してください。	general,shopping,weather
+2226	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,weather
+2226	2	USER	最寄り駅が奥武山公園駅のところで、駐車場を無料で利用できるところにしてください。	general,shopping,weather
+2226	3	SYSTEM	エリアでいうと小禄に1件、LEO & JOEがございます。ジャンルは、医薬品、化粧品、となります。	general,shopping,weather
+2226	4	USER	あと4/29の本庁の天候を教えてください。	general,shopping,weather
+2226	5	SYSTEM	天気は、晴時々曇、最低気温12.9度、最高気温26.3度となります。	general,shopping,weather
+2226	6	USER	ありがとうございました。以上です。	general,shopping,weather
+2226	7	SYSTEM	ありがとうございました。	general,shopping,weather

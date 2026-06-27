@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+918	0	USER	東京に旅行へ行こうと思っています。当日訪れる観光名所で無料でWi-Fiが使えるところでジャンルは科学館のところを教えてください。	general,attraction,weather
+918	1	SYSTEM	国立科学博物館は、いかがでしょうか？	general,attraction,weather
+918	2	USER	そこが良さそうですね。	general,attraction,weather
+918	3	SYSTEM	他にご用件はございますか？	general,attraction,weather
+918	4	USER	当日6/28北区の天気を教えてください。	general,attraction,weather
+918	5	SYSTEM	その日の天気は、晴時々雨です。	general,attraction,weather
+918	6	USER	分かりました。ありがとうございます。	general,attraction,weather
+918	7	SYSTEM	他にご用件はございますか？	general,attraction,weather
+918	8	USER	大丈夫です。ありがとうございました。	general,attraction,weather
+918	9	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

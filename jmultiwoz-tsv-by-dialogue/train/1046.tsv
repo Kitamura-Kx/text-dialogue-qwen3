@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1046	0	USER	東京でおもちゃを買える場所を探しています。無料駐車場があるところはありますか？	general,shopping,weather
+1046	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,weather
+1046	2	USER	ではショッピングモールはありますか？	general,shopping,weather
+1046	3	SYSTEM	ありがとうございます。そうしますと2件候補がございます。たとえば、アクアシティお台場というところはいかがでしょうか？	general,shopping,weather
+1046	4	USER	アクアシティお台場の定休日と電話番号を教えてください。	general,shopping,weather
+1046	5	SYSTEM	定休日は、無しとなっております。電話番号は、0335994700です。	general,shopping,weather
+1046	6	USER	ありがとうございます。あとは、台東区の12月14日の最高気温も教えてください。	general,shopping,weather
+1046	7	SYSTEM	かしこまりました。当日の最高気温は、7.3度の予想です。	general,shopping,weather
+1046	8	USER	ありがとうございます。助かりました。失礼します。	general,shopping,weather

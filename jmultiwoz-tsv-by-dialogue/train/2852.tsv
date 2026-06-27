@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2852	0	USER	大阪へ旅行に行こうと思っています。当日訪れる観光名所でWi-Fiが無料で利用できるところを教えてください。ジャンルは牧場です。	general,attraction,taxi
+2852	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,taxi
+2852	2	USER	でしたら、ジャンルはなんでも良いです。	general,attraction,taxi
+2852	3	SYSTEM	ありがとうございます。では、エリアでいうと北区にある、大阪府立中之島図書館はいかがでしょう？ジャンルは、その他となります。	general,attraction,taxi
+2852	4	USER	そこが良さそうですね。近辺の駅からの所要時間を教えてもらえますか。	general,attraction,taxi
+2852	5	SYSTEM	はい、最寄りの大江橋駅から徒歩で3分、近辺のなにわ橋駅から徒歩で3分となります。	general,attraction,taxi
+2852	6	USER	あと当日利用できるタクシー会社を探しています。ジャンボタクシーが利用できるところが良いです。	general,attraction,taxi
+2852	7	SYSTEM	では、近鉄タクシー株式会社はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0570069001となります。	general,attraction,taxi
+2852	8	USER	そこが良さそうですね。そこに予約したいので日付は2/9時間は9:40で出発地は蕎麦酒房 ふくまるで目的地は大阪府立中之島図書館で予約お願いします。	general,attraction,taxi
+2852	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、80964となります。他にご用件はございますか？	general,attraction,taxi
+2852	10	USER	大丈夫です。ありがとうございました。	general,attraction,taxi
+2852	11	SYSTEM	ありがとうございました。	general,attraction,taxi

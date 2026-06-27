@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4663	0	USER	横浜で燃料を買い物したいのですが、駐車場が無料のところを教えてください。	general,shopping,restaurant,weather
+4663	1	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,shopping,restaurant,weather
+4663	2	USER	それでは、医薬品・化粧品のお店で、駐車場が無料のところはないでしょうか	general,shopping,restaurant,weather
+4663	3	SYSTEM	はい、そうしますと、4件ほどご案内可能です。たとえば、Laline 横浜ジョイナス店はいかがでしょうか？	general,shopping,restaurant,weather
+4663	4	USER	そちらで結構です。エリアを教えていただけますか。	general,shopping,restaurant,weather
+4663	5	SYSTEM	西区エリアにございます。	general,shopping,restaurant,weather
+4663	6	USER	ありがとうございます。当日食事ができる飲食店を探しています。駐車場が無料のところをお願いできますか。	general,shopping,restaurant,weather
+4663	7	SYSTEM	かしこまりました。5件候補があるのですが、他にご希望がなければ、松葉寿しはいかがでしょうか？	general,shopping,restaurant,weather
+4663	8	USER	ありがとうございます。１２月６日、緑区の天候も心配なので天気を教えてください。	general,shopping,restaurant,weather
+4663	9	SYSTEM	かしこまりました。当日の天気は、曇時々晴の予報です。最低気温は2度、最高気温は7.9度の予想となっております。	general,shopping,restaurant,weather
+4663	10	USER	ありがとうございます。これでお問い合わせは終わりです。	general,shopping,restaurant,weather
+4663	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,restaurant,weather

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+995	0	USER	仙台へ旅行予定なのですが、シティホテルの宿泊施設を調べてください。	general,hotel,attraction
+995	1	SYSTEM	かしこまりました。12件ほど候補があるのですが、エリアなど、何かご希望はございますか？	general,hotel,attraction
+995	2	USER	はい、Wi-Fiが無料で、駐車場も無料で利用できるところが希望です。	general,hotel,attraction
+995	3	SYSTEM	そういたしますと、ホテル白萩という青葉区エリアのシティホテルが1件ご案内可能です。いかがでしょうか？	general,hotel,attraction
+995	4	USER	いいですね。料金情報を教えてください。	general,hotel,attraction
+995	5	SYSTEM	申し訳ございません。こちらの料金に関しましては、お値段帯がお安めということ以外、WiFiが無料、駐車場も無料ということしか、手元に情報がなく、詳しいご案内ができかねます。	general,hotel,attraction
+995	6	USER	わかりました。観光名所も調べてほしいのですが、駐車場が無料で、Wi-Fiも無料なところが知りたいです。	general,hotel,attraction
+995	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できる観光名所が見つかりませんでした。	general,hotel,attraction
+995	8	USER	わかりました。であればWi-Fiはなくてもいいです。	general,hotel,attraction
+995	9	SYSTEM	かしこまりました。そうしますと、30件ほどございまして、例えば、青葉神社というところはご興味ございませんか？	general,hotel,attraction
+995	10	USER	興味あります。電話番号を教えてほしいです。	general,hotel,attraction
+995	11	SYSTEM	電話番号は、0222344964でございます。	general,hotel,attraction
+995	12	USER	わかりました。ありがとうございます。	general,hotel,attraction
+995	13	SYSTEM	ほかにお知りになりたい情報などはございますか？	general,hotel,attraction
+995	14	USER	いえ、もう大丈夫です。	general,hotel,attraction
+995	15	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,hotel,attraction

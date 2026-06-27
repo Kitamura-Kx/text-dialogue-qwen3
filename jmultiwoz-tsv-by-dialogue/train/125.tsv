@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+125	0	USER	こんにちは。京都で観光旅行を考えているんですが、探してほしい場所がありまして。	general,attraction,hotel
+125	1	SYSTEM	京都ですね。ご希望がございますか？	general,attraction,hotel
+125	2	USER	下鴨神社というところがあるらしいんですが、分かりますか？	general,attraction,hotel
+125	3	SYSTEM	はい、住所が京都市左京区下鴨泉川町59となります。	general,attraction,hotel
+125	4	USER	ありがとうございます。そこの入場料は、子供の場合、いくらぐらいかかるものなんでしょうか？	general,attraction,hotel
+125	5	SYSTEM	大人もお子様も、入場料は必要ございません。無料で参拝可能となっております。	general,attraction,hotel
+125	6	USER	助かります。あと泊るところも探したいんですが。	general,attraction,hotel
+125	7	SYSTEM	承知致しました。エリアや値段帯など、ご希望はございますか？	general,attraction,hotel
+125	8	USER	松葉家旅館って、ありますか？	general,attraction,hotel
+125	9	SYSTEM	はい、京都市下京区上珠数屋町通東洞院西入上珠数屋町３２９番地にございます。	general,attraction,hotel
+125	10	USER	そこなんですけど、お値段は結構、はりますか？	general,attraction,hotel
+125	11	SYSTEM	いえ、お値段は安めで設定されております。	general,attraction,hotel
+125	12	USER	安心しました。宿に食事処も付いているんでしょう？	general,attraction,hotel
+125	13	SYSTEM	申し訳ございません、食事処、レストランは併設されておりません。	general,attraction,hotel
+125	14	USER	そうなんですね。あと、そこの電話番号を聞いてもいいですか？	general,attraction,hotel
+125	15	SYSTEM	はい、お電話番号は、0753513727となります。	general,attraction,hotel
+125	16	USER	じゃ、予約もとってもらえますか？	general,attraction,hotel
+125	17	SYSTEM	承知致しました。宿泊日と宿泊日数、人数を教えていただけますか？	general,attraction,hotel
+125	18	USER	11月9日から4泊5日で、人数は3人でお願いしたいです。	general,attraction,hotel
+125	19	SYSTEM	ありがとうございます。ご予約完了致しました。ご予約番号は、49807　となります。	general,attraction,hotel
+125	20	USER	ありがとうございます。今日のところは、こんな感じで大丈夫そうです。	general,attraction,hotel
+125	21	SYSTEM	承知致しました。ありがとうございました。	general,attraction,hotel

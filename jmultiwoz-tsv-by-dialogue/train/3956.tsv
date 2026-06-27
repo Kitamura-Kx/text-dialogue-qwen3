@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3956	0	USER	福岡に旅行に行くので宿泊施設を探しています。Wi-Fiが無料で使えて、駐車場も無料のところはありませんか？	general,hotel,restaurant,shopping
+3956	1	SYSTEM	はい、８件ご案内可能です。他にご希望条件がなければ、The358 UMIというリゾートホテルはいかがでしょうか？	general,hotel,restaurant,shopping
+3956	2	USER	いいですね。そこのホテルに行くには、近くの駅からどれぐらいの時間がかかりますか？	general,hotel,restaurant,shopping
+3956	3	SYSTEM	雁ノ巣駅からタクシーで9分ほどかかります。	general,hotel,restaurant,shopping
+3956	4	USER	では、料金情報とチェックアウト終了時刻を教えてください。	general,hotel,restaurant,shopping
+3956	5	SYSTEM	料金情報ですが、お値段がお安めということ以外、詳しい情報が手元になく、ご案内できかねます。申し訳ありません。チェックアウト終了時刻は、朝１０時までとなっております。	general,hotel,restaurant,shopping
+3956	6	USER	ありがとうございます。あと、飲食店を探しているのですが、博多区で駐車場無料のお店はありませんか？	general,hotel,restaurant,shopping
+3956	7	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,hotel,restaurant,shopping
+3956	8	USER	じゃあ、博多区以外で探してください。	general,hotel,restaurant,shopping
+3956	9	SYSTEM	かしこまりました。では、照鮨という寿司・魚料理のお店はいかがでしょうか？こちらは、東区エリアにございます。	general,hotel,restaurant,shopping
+3956	10	USER	そこに行きます。そこの電話番号と定休日を教えてください。	general,hotel,restaurant,shopping
+3956	11	SYSTEM	電話番号は、0927191777です。定休日は、お盆と年末年始がお休みとなっております。	general,hotel,restaurant,shopping
+3956	12	USER	ありがとうございます。あと、博多区で買い物ができるところはないでしょうか？	general,hotel,restaurant,shopping
+3956	13	SYSTEM	大変申し訳ございません。博多区では、該当するところがありませんでした。	general,hotel,restaurant,shopping
+3956	14	USER	では、博多区じゃなくてもいいです。	general,hotel,restaurant,shopping
+3956	15	SYSTEM	ありがとうございます。では、福岡三越はいかがでしょうか？中央区エリアにある、百貨店や総合スーパーとなります。	general,hotel,restaurant,shopping
+3956	16	USER	駐車場はありますか？	general,hotel,restaurant,shopping
+3956	17	SYSTEM	はい、無料のものがご利用いただけます。	general,hotel,restaurant,shopping
+3956	18	USER	最寄り駅を教えてください。	general,hotel,restaurant,shopping
+3956	19	SYSTEM	西鉄福岡（天神）駅が最寄りです。徒歩１分の場所にございます。	general,hotel,restaurant,shopping
+3956	20	USER	わかりました。ありがとうございます。	general,hotel,restaurant,shopping
+3956	21	SYSTEM	他にお調べすることはございませんか？	general,hotel,restaurant,shopping
+3956	22	USER	いえ、大丈夫です。ありがとうございました。	general,hotel,restaurant,shopping
+3956	23	SYSTEM	承知いたしました。お役に立てて何よりです。また何かございましたら、お気軽にお問い合わせください。	general,hotel,restaurant,shopping

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+224	0	USER	福岡への旅行を計画中のため、飲食店を探しています。	general,restaurant
+224	1	SYSTEM	福岡の飲食店ですね。100件以上あるのですが、ご希望の条件をお聞かせいただけますか？	general,restaurant
+224	2	USER	博多区で、ジャンルはあじあ・エスニック料理がいいと思っています。駐車場が無料で利用できるお店がいいのですが、どこかありますか？	general,restaurant
+224	3	SYSTEM	大変申し訳ございません。そのご希望条件ですと、該当する施設が見つけられませんでした。	general,restaurant
+224	4	USER	では、ジャンルをイタリアン・フレンチでお願いします。	general,restaurant
+224	5	SYSTEM	ありがとうございます。Bistro Matsushimaというお店が見つかりましたが、いかがでしょうか？	general,restaurant
+224	6	USER	そこにしようと思うので、電話番号を教えてください。	general,restaurant
+224	7	SYSTEM	電話番号は、0925738858です。	general,restaurant
+224	8	USER	2/9 14:00に２名で予約をお願いできますか？	general,restaurant
+224	9	SYSTEM	大変申し訳ございません。その条件ですと、予約をおとりできませんでした。	general,restaurant
+224	10	USER	では14:50で予約をお願いできますか？	general,restaurant
+224	11	SYSTEM	ありがとうございます。予約を完了いたしました。ご予約番号は、16324です。	general,restaurant
+224	12	USER	ありがとうございます。	general,restaurant
+224	13	SYSTEM	ほかにお手伝いできることはありますか？	general,restaurant
+224	14	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant
+224	15	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,restaurant

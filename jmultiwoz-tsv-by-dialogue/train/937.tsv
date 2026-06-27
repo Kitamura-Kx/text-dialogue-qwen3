@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+937	0	USER	名古屋に旅行に行った際に泊まる場所を探しています。駐車場が無料でレストランが併設されているビジネスホテルとかありますか？	general,hotel
+937	1	SYSTEM	申し訳ありません。　その条件では、ありませんでした。	general,hotel
+937	2	USER	そうですか。では、ビジネスホテル以外の宿泊所でも大丈夫です。	general,hotel
+937	3	SYSTEM	ザ タワーホテル ナゴヤは、いかがでしょうか？	general,hotel
+937	4	USER	こちらのホテルのチェックアウト時間と電話番号はわかりますか？	general,hotel
+937	5	SYSTEM	こちらのホテルチェックアウト時間は、12時です。　電話番号は、0529534450　です。	general,hotel
+937	6	USER	あとホテルにWi-Fiは用意されていますか？	general,hotel
+937	7	SYSTEM	こちらのホテルのWi-Fiにつきましては、不明になっております。	general,hotel
+937	8	USER	そうなのですね。色々とお調べして下さりありがとうございました。	general,hotel

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+802	0	USER	横浜に旅行予定なのですが、駐車場が無料で、Wi-Fiも無料利用できる観光名所はありますか？	general,attraction,hotel
+802	1	SYSTEM	はい、2件ご案内可能です。カップヌードルミュージアム 横浜と、三溪園という場所がございますが、いかがでしょうか？	general,attraction,hotel
+802	2	USER	カップヌードルミュージアム 横浜でお願いします。ジャンルを教えてください。	general,attraction,hotel
+802	3	SYSTEM	カップヌードルミュージアム 横浜のジャンルは、美術館・博物館, 工場見学となっております。	general,attraction,hotel
+802	4	USER	わかりました。宿泊施設も探しているのですが、リゾートホテルで駐車場を無料で使えて、レストランが併設されているところはありますか？	general,attraction,hotel
+802	5	SYSTEM	はい、1件ございました。ホテル パセラの森 横浜関内という、中区のリゾートホテルですが、いかがでしょうか？	general,attraction,hotel
+802	6	USER	そこにします。値段帯とチェックイン開始時刻を教えてください。	general,attraction,hotel
+802	7	SYSTEM	値段帯は、お安めとなっております。チェックインは15時から開始となります。	general,attraction,hotel
+802	8	USER	わかりました。では3人で5/11から3泊の予約をお願いします。	general,attraction,hotel
+802	9	SYSTEM	申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,attraction,hotel
+802	10	USER	なら人数を2人にしてください。	general,attraction,hotel
+802	11	SYSTEM	ありがとうございます。2名様でご予約が完了いたしました。予約番号は、84266でございます。	general,attraction,hotel
+802	12	USER	ありがとうございます。	general,attraction,hotel
+802	13	SYSTEM	他になにかお調べしましょうか？	general,attraction,hotel
+802	14	USER	いえ、大丈夫です。	general,attraction,hotel
+802	15	SYSTEM	では、またのご利用をお待ちしております。	general,attraction,hotel

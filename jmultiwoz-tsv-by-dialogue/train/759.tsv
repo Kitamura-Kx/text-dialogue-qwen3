@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+759	0	USER	京都への旅行を考えているのですが、Wi-Fiを無料で利用できる観光名所はありますか？	general,attraction,shopping
+759	1	SYSTEM	はい、1件ご案内可能です。国立京都国際会館という場所ですが、如何でしょうか？	general,attraction,shopping
+759	2	USER	そこにします。子供入場料を教えてください。	general,attraction,shopping
+759	3	SYSTEM	申し訳ございません。お子様の入場料、大人の入場料ともに、不明となっております。詳しい料金情報につきましても、企画により異なる、となっております。	general,attraction,shopping
+759	4	USER	わかりました。当日買い物できるところも探しているのですが、下京区で駐車場を無料で利用できるところはありますか？	general,attraction,shopping
+759	5	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,shopping
+759	6	USER	それでは下京区ではなくて右京区でおねがいします。	general,attraction,shopping
+759	7	SYSTEM	ありがとうございます。そうしますと、2件ご案内可能です。伊藤常嵐山店と、道の駅 ウッディー京北がございますが、いかがでしょうか？	general,attraction,shopping
+759	8	USER	そこにします。定休日と住所を教えてください。	general,attraction,shopping
+759	9	SYSTEM	申し訳ございません。伊藤常嵐山店と道の駅 ウッディー京北の、どちらの情報をご案内差し上げましょうか？	general,attraction,shopping
+759	10	USER	伊藤常嵐山店について聞きたいです。	general,attraction,shopping
+759	11	SYSTEM	かしこまりました。伊藤常嵐山店の定休日は、無しとなっております。住所は、京都府京都市右京区嵯峨嵐山天龍寺造路町20番地38です。	general,attraction,shopping
+759	12	USER	わかりました。ありがとうございます。	general,attraction,shopping
+759	13	SYSTEM	他にお調べすることはございますか？	general,attraction,shopping
+759	14	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,shopping
+759	15	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,attraction,shopping

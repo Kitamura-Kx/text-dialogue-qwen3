@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1210	0	USER	札幌への旅行を計画しているのですが。	general,attraction
+1210	1	SYSTEM	はい。お問合せありがとうございます。	general,attraction
+1210	2	USER	当日訪れる観光名所を探してください．Wi-Fiと駐車場を無料で利用できるところがいいです。	general,attraction
+1210	3	SYSTEM	さっぽろ羊ヶ丘展望台はいかがでしょうか。	general,attraction
+1210	4	USER	いいですね、そちらの，料金情報，定休日をおしえてほしいです。	general,attraction
+1210	5	SYSTEM	料金情報は大人 530円　小・中学生300円、プランにより異なるです。定休日は無しです。	general,attraction
+1210	6	USER	ありがとうございました。	general,attraction

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+411	0	USER	京都の飲食店で、店名が祇園 京料理 花咲というところはありますか？	general,restaurant,weather
+411	1	SYSTEM	はい、京都市の東山区エリアに1件ございます。	general,restaurant,weather
+411	2	USER	そこの住所を教えてもらえますか？	general,restaurant,weather
+411	3	SYSTEM	住所は、京都府京都市東山区祇園町南側570-17です。	general,restaurant,weather
+411	4	USER	ありがとうございます。あと、1/28の山科区の天候は分かりますか？	general,restaurant,weather
+411	5	SYSTEM	はい。山科区の1/28の天気は、雨時々晴れの予報です。最低気温は4度、最高気温は6.3度になる予想です。	general,restaurant,weather
+411	6	USER	わかりました。ありがとうございました。	general,restaurant,weather

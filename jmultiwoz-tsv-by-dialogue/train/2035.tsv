@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2035	0	USER	京都に行こうと思っているので、泊まれるところを探しています。レストランがあって無料Wi-Fiが利用できるところがいいのですが、どこかありますか？	general,hotel
+2035	1	SYSTEM	申し訳ありません。この条件ではご案内できません。いかが致しましょう？	general,hotel
+2035	2	USER	レストランがないところだと、ありますでしょうか？	general,hotel
+2035	3	SYSTEM	エリアでいうと下京区にある、エムズホテル五条ODAWARAはいかがでしょう？タイプは、その他となります。	general,hotel
+2035	4	USER	ありがとうございます。９月２０日から４泊で人数４人で、そこを予約お願いします。	general,hotel
+2035	5	SYSTEM	予約が完了し、ご予約番号は、24478となります。	general,hotel
+2035	6	USER	ありがとうございました。	general,hotel
+2035	7	SYSTEM	他にご用件はございますか？	general,hotel
+2035	8	USER	大丈夫です。ありがとうございました。	general,hotel
+2035	9	SYSTEM	ありがとうございました。	general,hotel

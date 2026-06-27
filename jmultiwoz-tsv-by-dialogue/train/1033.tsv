@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1033	0	USER	札幌へ旅行予定なのですが、最寄り駅が大通駅で買い物できる場所はありますか？無料駐車場があるところがいいです。	general,shopping,restaurant
+1033	1	SYSTEM	さっぽろ地下街は、いかがでしょうか？	general,shopping,restaurant
+1033	2	USER	そこにします。エリアと営業時間、あと定休日を教えてください。	general,shopping,restaurant
+1033	3	SYSTEM	エリアは中央区です。　営業時間は、午前10時から午後8時となっています。　定休日は、１月1日です。	general,shopping,restaurant
+1033	4	USER	ありがとうございます。飲食店も探しているのですが、安めでWi-Fiが無料で使えるところはありますか？	general,shopping,restaurant
+1033	5	SYSTEM	蔵元直営 吉翔は、いかがでしょうか？	general,shopping,restaurant
+1033	6	USER	そこにします。駐車場があるかどうかと営業時間を教えてください。	general,shopping,restaurant
+1033	7	SYSTEM	駐車場は、不明となっています。　営業時間は、午前11時から午後2時までと、午後5時から午後11時までです。	general,shopping,restaurant
+1033	8	USER	わかりました。2人で6月23日の11時20分から予約お願いします。	general,shopping,restaurant
+1033	9	SYSTEM	予約出来ました。予約番号は、52687です。	general,shopping,restaurant
+1033	10	USER	ありがとうございます。	general,shopping,restaurant
+1033	11	SYSTEM	他にご用件はございますか？	general,shopping,restaurant
+1033	12	USER	いえ、大丈夫です。	general,shopping,restaurant
+1033	13	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,restaurant

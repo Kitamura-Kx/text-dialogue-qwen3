@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4944	0	USER	こんにちは。福岡で、駐車場とWi-Fiを無料で使える観光名所を教えてくれますか？	general,attraction,weather
+4944	1	SYSTEM	福岡市博物館 住吉神社 マリノアシティ福岡がご紹介できます。	general,attraction,weather
+4944	2	USER	福岡市博物館にします。エリアと住所はわかりますか？	general,attraction,weather
+4944	3	SYSTEM	エリアは早良区で、福岡県福岡市早良区百道浜3丁目1-1です。	general,attraction,weather
+4944	4	USER	天気も調べてもらえますか。7月14日の南区です。最低気温もお願いします。	general,attraction,weather
+4944	5	SYSTEM	曇で、23.5度です。	general,attraction,weather
+4944	6	USER	わかりやすかったです。ありがとうございます！	general,attraction,weather

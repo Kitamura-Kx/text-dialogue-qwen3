@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1615	0	USER	横浜の金沢区の観光名所を教えてください。Wi-Fiも駐車場も無料で使えるところがいいです。	general,attraction,hotel,taxi
+1615	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,hotel,taxi
+1615	2	USER	そうですか。じゃあ、駐車場の条件を外して、もう一度探してもらえますか？	general,attraction,hotel,taxi
+1615	3	SYSTEM	横浜・八景島シーパラダイスは、いかがでしょうか？	general,attraction,hotel,taxi
+1615	4	USER	いいですね！近辺の駅からの所要時間を教えてもらえますか？	general,attraction,hotel,taxi
+1615	5	SYSTEM	近辺の駅からの所要時間は、八景島駅から徒歩で1分です。	general,attraction,hotel,taxi
+1615	6	USER	わかりました。当日泊まれるところも探してほしいです。予算は高めで、Wi-Fiが無料利用できるところを希望します。	general,attraction,hotel,taxi
+1615	7	SYSTEM	ザ・カハラ・ホテル&リゾート 横浜は、いかがでしょうか？	general,attraction,hotel,taxi
+1615	8	USER	いいですね。そちらはどういったタイプの宿泊施設ですか？	general,attraction,hotel,taxi
+1615	9	SYSTEM	タイプは、リゾートホテルです。	general,attraction,hotel,taxi
+1615	10	USER	なるほど。当日タクシーを使いたいので、タクシー会社の検索もお願いします。キャッシュレス、ジャンボタクシー両方に対応しているところがいいです。	general,attraction,hotel,taxi
+1615	11	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,hotel,taxi
+1615	12	USER	そうですか。では、ジャンボタクシーには対応していなくても構いませんので、再度探してもらえますか？	general,attraction,hotel,taxi
+1615	13	SYSTEM	神奈川都市交通株式会社 金沢営業所は、いかがですか？	general,attraction,hotel,taxi
+1615	14	USER	そちらの会社の電話番号はわかりますか？	general,attraction,hotel,taxi
+1615	15	SYSTEM	電話番号は、0457430100です。	general,attraction,hotel,taxi
+1615	16	USER	では、5/9の13:10に予約をお願いします。出発地は横浜・八景島シーパラダイス、目的地はザ・カハラ・ホテル&リゾート 横浜で。	general,attraction,hotel,taxi
+1615	17	SYSTEM	予約出来ました。予約番号は、17381になります。	general,attraction,hotel,taxi
+1615	18	USER	ありがとうございます。助かりました。	general,attraction,hotel,taxi

@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1411	0	USER	東京への旅行を計画しています．	general,restaurant,weather,taxi
+1411	1	SYSTEM	はい。お問合せありがとうございます。	general,restaurant,weather,taxi
+1411	2	USER	当日食事ができる飲食店を探してください．予算は高めが希望で駐車場を無料で利用できるところがいいです。	general,restaurant,weather,taxi
+1411	3	SYSTEM	NAMIKI667はいかがですか。	general,restaurant,weather,taxi
+1411	4	USER	そちらの住所，最寄り駅も教えてもらえますか。	general,restaurant,weather,taxi
+1411	5	SYSTEM	住所は東京都中央区銀座6丁目6-7 ハイアットセントリック銀座東京3Fで、最寄り駅は銀座駅になります。	general,restaurant,weather,taxi
+1411	6	USER	ありがとうございます。そちらを人数は2人、日付は8/30で時間は16:40で予約して欲しいです。	general,restaurant,weather,taxi
+1411	7	SYSTEM	予約完了いたしました。予約番号は69318になります。	general,restaurant,weather,taxi
+1411	8	USER	ありがとうございます。あと、目黒区の8/30の天気も知りたいです。	general,restaurant,weather,taxi
+1411	9	SYSTEM	天気は曇です。	general,restaurant,weather,taxi
+1411	10	USER	最高気温，最低気温もおしえてください。	general,restaurant,weather,taxi
+1411	11	SYSTEM	最低気温は23度で 最高気温は35.8度です。	general,restaurant,weather,taxi
+1411	12	USER	ありがとうございます。	general,restaurant,weather,taxi
+1411	13	SYSTEM	こちらこそありがとうございます。	general,restaurant,weather,taxi
+1411	14	USER	あと、当日利用できるタクシー会社を探してください．ジャンボタクシとキャッシュレス払い可能なところがいいです。	general,restaurant,weather,taxi
+1411	15	SYSTEM	大国自動車交通はいかがでしょうか。	general,restaurant,weather,taxi
+1411	16	USER	いいですね。そちらの電話番号も教えてください。	general,restaurant,weather,taxi
+1411	17	SYSTEM	電話番号は0357552151になります	general,restaurant,weather,taxi
+1411	18	USER	ありがとうございます。あと、そちらで日付は8/30．時間は15:00．出発地は2k540 AKI-OKA ARTISANというところで．目的地は先ほど見つけた飲食店で予約して欲しいです。	general,restaurant,weather,taxi
+1411	19	SYSTEM	予約完了いたしました。予約番号は24519になります。	general,restaurant,weather,taxi
+1411	20	USER	ありがとうございます。	general,restaurant,weather,taxi

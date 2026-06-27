@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4090	0	USER	札幌への旅行を計画中で、清田区で買い物ができる場所を探しています。	general,shopping,attraction,restaurant
+4090	1	SYSTEM	清田区で買い物といえばいくつかありますが、地酒ノ酒屋 愉酒屋、こちらをお勧めします。	general,shopping,attraction,restaurant
+4090	2	USER	そこにしようと思います。営業時間を教えてください。	general,shopping,attraction,restaurant
+4090	3	SYSTEM	朝１０時から夜７時までの営業です。	general,shopping,attraction,restaurant
+4090	4	USER	ありがとうございます。当日利用できる観光名所を探しています。無料駐車場付きがいいです。	general,shopping,attraction,restaurant
+4090	5	SYSTEM	札幌で無料駐車場のある観光名所はいくつかありますが、白い恋人パーク、こちらをお勧めします。	general,shopping,attraction,restaurant
+4090	6	USER	そこにしようと思います。営業時間を教えてください。	general,shopping,attraction,restaurant
+4090	7	SYSTEM	朝１０時から夕方５時です。	general,shopping,attraction,restaurant
+4090	8	USER	ありがとうございます。当日にくと酒とACTというお店で食事をする予定なのですが、値段帯と最寄駅からの所要時間、Wi-fiの有無はわかりますか？	general,shopping,attraction,restaurant
+4090	9	SYSTEM	にくと酒とACTは値段帯普通、すすきの駅から徒歩で3分、WiFiは不明ですね。	general,shopping,attraction,restaurant
+4090	10	USER	ありがとうございます。12/6の18:00に3名で予約して欲しいのですが、可能でしょうか。	general,shopping,attraction,restaurant
+4090	11	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,shopping,attraction,restaurant
+4090	12	USER	分かりました。では、時間を18:50に変更してください。	general,shopping,attraction,restaurant
+4090	13	SYSTEM	予約成功しました。予約番号は57383です。	general,shopping,attraction,restaurant
+4090	14	USER	助かりました。ありがとうございました。	general,shopping,attraction,restaurant

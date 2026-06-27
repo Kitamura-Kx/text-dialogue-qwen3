@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4662	0	USER	東京の寿司・魚料理のお高めの飲食店を探しています。WIFIが無料のところを探していただけますか。	general,restaurant,attraction
+4662	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,attraction
+4662	2	USER	予算は高めでなくてもよいのですがいかがでしょうか。	general,restaurant,attraction
+4662	3	SYSTEM	かしこまりました。そうしましたら、土風炉 大井町店はいかがでしょうか？	general,restaurant,attraction
+4662	4	USER	そちらで結構です。一緒に表参道駅の観光名所を探しています。WIFI無料で駐車場が無料のところがよいのですが。	general,restaurant,attraction
+4662	5	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,restaurant,attraction
+4662	6	USER	それでは駐車場が有料でもいいのですがないでしょうか。	general,restaurant,attraction
+4662	7	SYSTEM	そういたしますと、1件ご案内可能です。表参道ヒルズというところですが、いかがでしょうか？	general,restaurant,attraction
+4662	8	USER	ありがとうございます。そちらのエリアを教えていただけますか	general,restaurant,attraction
+4662	9	SYSTEM	はい、渋谷区エリアにございます。	general,restaurant,attraction
+4662	10	USER	ありがとうございました。これで結構です。	general,restaurant,attraction
+4662	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,attraction

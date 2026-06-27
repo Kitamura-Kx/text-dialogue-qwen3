@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4343	0	USER	横浜への旅行を計画しています、買い物ができて駐車場が無料で利用できるお土産が買えるお店はありませんか	general,shopping,attraction,taxi
+4343	1	SYSTEM	その条件でしたら、MEGAドン・キホーテ港山下総本店がおすすめでございます。	general,shopping,attraction,taxi
+4343	2	USER	ありがとうございます、wifiと駐車場が無料で利用できる観光名所はありますか	general,shopping,attraction,taxi
+4343	3	SYSTEM	はい。カップヌードルミュージアム 横浜がございます。	general,shopping,attraction,taxi
+4343	4	USER	当日移動にタクシーを利用したいと思っています、ジャンボタクシーが利用できるタクシー会社はありませんか	general,shopping,attraction,taxi
+4343	5	SYSTEM	それでしたら、株式会社グリーンキャブはいかがでしょうか。	general,shopping,attraction,taxi
+4343	6	USER	キャッシュレスには対応していますか	general,shopping,attraction,taxi
+4343	7	SYSTEM	はい、しておりますよ。	general,shopping,attraction,taxi
+4343	8	USER	ありがとうございます、11月2日の12時10分にMEGAドン・キホーテ港山下総本店からカップヌードルミュージアム 横浜まで予約していただくことは可能ですか	general,shopping,attraction,taxi
+4343	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、35343です。	general,shopping,attraction,taxi
+4343	10	USER		general,shopping,attraction,taxi

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3452	0	USER	名古屋へ旅行をする予定なんですが、観光名所を探してます。	general,attraction
+3452	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction
+3452	2	USER	中区にある、最寄り駅が藤が丘駅のアートギャラリーを探しています。	general,attraction
+3452	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction
+3452	4	USER	それなら、最寄り駅はどこでも大丈夫です。	general,attraction
+3452	5	SYSTEM	では松坂屋美術館はいかがでしょうか。	general,attraction
+3452	6	USER	その場所の定休日と、営業時間を教えてもらえますか？	general,attraction
+3452	7	SYSTEM	定休日はございません。営業時間は10:00～19:30でございます。	general,attraction
+3452	8	USER	なるほど。ありがとうございます。	general,attraction
+3452	9	SYSTEM	ほかにご用件はございませんか。	general,attraction
+3452	10	USER	いえ、もう大丈夫です。ありがとうございます。	general,attraction
+3452	11	SYSTEM	承知しました。ありがとうございました。	general,attraction

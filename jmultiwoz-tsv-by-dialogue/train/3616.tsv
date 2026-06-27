@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3616	0	USER	仙台に旅行を計画しています。そこで宿泊施設を探していただきたいです。若林区で駐車場とWi-Fiが無料のところがいいです。	general,hotel,restaurant,taxi
+3616	1	SYSTEM	承知いたしました。ご希望の条件ですと、ホテルルートイン仙台東ほか1件ございます。いかがでしょうか？	general,hotel,restaurant,taxi
+3616	2	USER	ありがとうございます。ホテルルートイン仙台東にします。そのホテルの電話番号を教えてください。	general,hotel,restaurant,taxi
+3616	3	SYSTEM	承知いたしました。ホテルルートイン仙台東の電話番号は、05058640360でございます。	general,hotel,restaurant,taxi
+3616	4	USER	ありがとうございます。2/7に人数は4人で3泊の予約をお願いします。	general,hotel,restaurant,taxi
+3616	5	SYSTEM	申し訳ございません。頂いた条件ですとご予約が取れませんでした。	general,hotel,restaurant,taxi
+3616	6	USER	それでは、2泊に変更でお願いします。	general,hotel,restaurant,taxi
+3616	7	SYSTEM	承知いたしました。2月7日4名様、2泊でご予約が完了しました。予約番号は83441でございます。	general,hotel,restaurant,taxi
+3616	8	USER	ありがとうございます。次に飲食店を太白区で探していただきたいです。予算は安めで駐車場が無料で使えるところでお願いします。	general,hotel,restaurant,taxi
+3616	9	SYSTEM	仙台の太白区で駐車場無料で安めの価格帯ですと、徳島ラーメン人生 ベガロポリス店がございます。いかがでしょうか	general,hotel,restaurant,taxi
+3616	10	USER	ありがとうございます。そのお店にWi-Fiはありますか。	general,hotel,restaurant,taxi
+3616	11	SYSTEM	WIFIのご用意はございません。	general,hotel,restaurant,taxi
+3616	12	USER	ありがとうございます。あと営業時間を教えてください。	general,hotel,restaurant,taxi
+3616	13	SYSTEM	はい、11:00から24:30までの営業時間でございます。	general,hotel,restaurant,taxi
+3616	14	USER	ありがとうございます。当日はタクシーを利用したいのでキャッシュレス払いできる会社を探してください。	general,hotel,restaurant,taxi
+3616	15	SYSTEM	仙台のキャッシュレス対応タクシーですと、（株）けやき交通ほか14件ございます、いかがでしょうか？	general,hotel,restaurant,taxi
+3616	16	USER	ありがとうございます。（株）けやき交通を利用したいと思います。ジャンボタクシー対応と電話番号について教えてください。	general,hotel,restaurant,taxi
+3616	17	SYSTEM	承知いたしました。ジャンボタクシーには非対応です。電話番号は、0120408814でございます。	general,hotel,restaurant,taxi
+3616	18	USER	ありがとうございます。2/7の16:10にホテルルートイン仙台東から徳島ラーメン人生 ベガロポリス店で予約をお願いします。	general,hotel,restaurant,taxi
+3616	19	SYSTEM	承知いたしました。2/7の16:10にホテルルートイン仙台東から徳島ラーメン人生 ベガロポリス店でご予約完了いたしましたので予約番号をお伝え致します。494でございます。	general,hotel,restaurant,taxi
+3616	20	USER	ありがとうございました。これで大丈夫です。	general,hotel,restaurant,taxi
+3616	21	SYSTEM	ありがとうございました。	general,hotel,restaurant,taxi

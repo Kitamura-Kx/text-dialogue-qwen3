@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+356	0	USER	お願いします。那覇への旅行を計画しています。どこか宿泊施設を探して下さい。	general,hotel
+356	1	SYSTEM	那覇のご旅行ですね。宿泊場所のタイプなど、ご希望はございますか？	general,hotel
+356	2	USER	安めのところで、wifiが無料で使えるところでお願いします。	general,hotel
+356	3	SYSTEM	では、西鉄リゾートイン那覇という、安めのビジネスホテルはいかがでしょうか？	general,hotel
+356	4	USER	そちらのホテルの最寄駅はどこですか？	general,hotel
+356	5	SYSTEM	最寄りは県庁前駅です。県庁前駅から徒歩3分の距離にございます。	general,hotel
+356	6	USER	わかりました。ありがとうございました。	general,hotel
+356	7	SYSTEM	ほかにお手伝いできることはありますか？	general,hotel
+356	8	USER	いえ。特にありません。失礼します。	general,hotel
+356	9	SYSTEM	ご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,hotel

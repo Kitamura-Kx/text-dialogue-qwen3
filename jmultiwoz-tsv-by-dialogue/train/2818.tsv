@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2818	0	USER	東京へ行く予定で宿泊施設を探しています。	general,hotel,shopping,taxi
+2818	1	SYSTEM	東京の宿泊施設ですね。ご希望の条件は何かございますか？	general,hotel,shopping,taxi
+2818	2	USER	Wi-Fiが無料で駐車場も無料の所が良いです。	general,hotel,shopping,taxi
+2818	3	SYSTEM	そうしますと、港区エリアにあるシティホテルの、The Okura Tokyoはいかがでしょうか？	general,hotel,shopping,taxi
+2818	4	USER	いいですね。チェックアウト終了時刻と住所を教えてもらえますか？	general,hotel,shopping,taxi
+2818	5	SYSTEM	はい。チェックアウトはお昼12時までとなっております。住所は、東京都港区虎ノ門2丁目10-4です。	general,hotel,shopping,taxi
+2818	6	USER	10/2から4泊で2人で予約を取りたいです。	general,hotel,shopping,taxi
+2818	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、79546です。	general,hotel,shopping,taxi
+2818	8	USER	あと千代田区で買い物ができるところを探しています。	general,hotel,shopping,taxi
+2818	9	SYSTEM	かしこまりました。候補は7件ございますが、たとえば、Calbee+東京駅店はいかがでしょうか？	general,hotel,shopping,taxi
+2818	10	USER	すみません。コンビニがいいです。	general,hotel,shopping,taxi
+2818	11	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,hotel,shopping,taxi
+2818	12	USER	文房具・雑貨系だとありますか？	general,hotel,shopping,taxi
+2818	13	SYSTEM	はい、2件ございます。たとえば、東京キャラクターストリートというお店ですが、いかがでしょうか？	general,hotel,shopping,taxi
+2818	14	USER	いいですね。あとタクシーも探しています。キャッシュレス払いできる会社がいいのですが	general,hotel,shopping,taxi
+2818	15	SYSTEM	では、小金井交通はいかがでしょうか？こちらでしたら、ジャンボタクシーもご利用いただけますよ。	general,hotel,shopping,taxi
+2818	16	USER	電話番号を教えてください。	general,hotel,shopping,taxi
+2818	17	SYSTEM	電話番号は、0423811482でございます。	general,hotel,shopping,taxi
+2818	18	USER	10/2の11:20にThe Okura Tokyoから東京キャラクターストリートまで予約をお願いしたいです。	general,hotel,shopping,taxi
+2818	19	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、84498です。	general,hotel,shopping,taxi
+2818	20	USER	助かりました。	general,hotel,shopping,taxi
+2818	21	SYSTEM	他にお調べすることはございませんか？	general,hotel,shopping,taxi
+2818	22	USER	特にないです。	general,hotel,shopping,taxi
+2818	23	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,shopping,taxi

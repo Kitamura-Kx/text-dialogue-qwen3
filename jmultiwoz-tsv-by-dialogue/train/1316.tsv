@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1316	0	USER	こんにちは。名古屋へ旅行予定で、宿泊施設を探しています。ビジネスホテルでレストランがある所がよいのですが、どこかありますか？	general,hotel,shopping
+1316	1	SYSTEM	ご利用ありがとうございます。そうしますと、29件ほど、ご案内可能ですが、エリアなど、何かご希望はございますか？	general,hotel,shopping
+1316	2	USER	特にエリアの希望もありませんので、ビジネスホテルでレストランがあれば、おすすめの所を教えてください。	general,hotel,shopping
+1316	3	SYSTEM	かしこまりました。では、ジャストインプレミアム名古屋駅はいかがでしょうか？中区エリアにある、お安めのビジネスホテルとなります。	general,hotel,shopping
+1316	4	USER	便利そうですね。そちらの駅からの所用時間、最寄り駅の名前と、施設のホテルを教えていただけますか？	general,hotel,shopping
+1316	5	SYSTEM	最寄りは国際センター駅です。国際センター駅から徒歩で3分、ほかにも丸の内駅から徒歩で5分、名古屋駅から徒歩で10分、名古屋駅からタクシーで3分といった行き方がございます。ホテル名は、ジャストインプレミアム名古屋駅ですが、ご質問の答えになっておりますでしょうか？	general,hotel,shopping
+1316	6	USER	色んな駅から行けて便利ですね。すみませんが住所もお願いできますか？	general,hotel,shopping
+1316	7	SYSTEM	はい、住所は、愛知県名古屋市中区丸の内1丁目13-9でございます。	general,hotel,shopping
+1316	8	USER	5/17に2名で、3泊の宿泊予約をお願いしたいのですが、可能ですか？	general,hotel,shopping
+1316	9	SYSTEM	はい、ご予約承りました。予約番号は、3353です。	general,hotel,shopping
+1316	10	USER	ありがとうございます。お手数おかけしました。もう一つ、北区で買い物ができるところを探しています。ファッションをメインで行きたいのですが、駐車場無料の所はありますか？	general,hotel,shopping
+1316	11	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,shopping
+1316	12	USER	そうしましたら、北区以外でお願いいたします	general,hotel,shopping
+1316	13	SYSTEM	ありがとうございます。そうしますと、3件ご案内可能です。例えば、名東区エリアにある、アイスランドマーケットというお店はいかがでしょうか？	general,hotel,shopping
+1316	14	USER	そこに行きたいです。近辺の駅からの所用時間と、定休日を教えていただけますか？	general,hotel,shopping
+1316	15	SYSTEM	かしこまりました。最寄りの本郷駅から徒歩で4分でアクセス可能です。定休日は、盆期間, 正月となっております。	general,hotel,shopping
+1316	16	USER	色々とサポートありがとうございました。助かりました。	general,hotel,shopping
+1316	17	SYSTEM	他になにかお調べすることはございますか？	general,hotel,shopping
+1316	18	USER	いえ、大丈夫です。どうもありがとうございました。	general,hotel,shopping
+1316	19	SYSTEM	こちらこそ、ありがとうございます。またのご利用をお待ちしております。	general,hotel,shopping

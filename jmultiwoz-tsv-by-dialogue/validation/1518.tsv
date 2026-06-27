@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1518	0	USER	福岡に旅行に行くので、当日泊まる宿泊施設を教えていただけますでしょうか。	general,hotel,taxi
+1518	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,taxi
+1518	2	USER	駐車場とWi-Fiが無料のビジネスホテルを探しています。	general,hotel,taxi
+1518	3	SYSTEM	ありがとうございます。では、エリアでいうと博多区にある、HOTEL AZ 福岡金の隈店はいかがでしょう？何かご案内致しましょうか？	general,hotel,taxi
+1518	4	USER	予約もお願いできますか？人数は4人で、8/6から3泊を予定しています。	general,hotel,taxi
+1518	5	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,hotel,taxi
+1518	6	USER	2泊なら可能ですか？	general,hotel,taxi
+1518	7	SYSTEM	はい、ご予約可能で、ご予約番号は、50684となります。他にご案内できることはございますか？	general,hotel,taxi
+1518	8	USER	当日利用できるタクシー会社もお調べして頂けますか？	general,hotel,taxi
+1518	9	SYSTEM	はい、何かご希望はございますか？	general,hotel,taxi
+1518	10	USER	キャッシュレス払いできて、ジャンボタクシー対応のところでお願いしたいと思います。	general,hotel,taxi
+1518	11	SYSTEM	申し訳ありません、その条件ではご紹介できないのですが、いかが致しましょう？	general,hotel,taxi
+1518	12	USER	でしたら、ジャンボタクシーでなくても大丈夫です。	general,hotel,taxi
+1518	13	SYSTEM	ありがとうございます。では、第一タクシー（有）はいかがでしょう？電話番号は0120775931となります。ご予約されますか？	general,hotel,taxi
+1518	14	USER	予約もお願いします。8/6の09:50で、出発地は加賀屋 博多店、目的地はHOTEL AZ 福岡金隈店でお願いします。	general,hotel,taxi
+1518	15	SYSTEM	承知しました。予約が完了し、ご予約番号は、13803となります。他にご用件はございますか？	general,hotel,taxi
+1518	16	USER	大丈夫です。ありがとうございました。	general,hotel,taxi

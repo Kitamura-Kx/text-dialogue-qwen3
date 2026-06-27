@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3834	0	USER	福岡へ行く予定ですが、城南区の居酒屋でいいお店ありますか？無料の駐車場があるところでお願いします。	general,restaurant,attraction
+3834	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,attraction
+3834	2	USER	では城南区以外に広げて探していただけますか？	general,restaurant,attraction
+3834	3	SYSTEM	では、旬や みなくちはいかがですか？	general,restaurant,attraction
+3834	4	USER	価格帯はどれくらいのお店ですか？	general,restaurant,attraction
+3834	5	SYSTEM	価格帯は、普通となっています。	general,restaurant,attraction
+3834	6	USER	わかりました。旬や みなくちで予約お願いします。10月28日の15時から、2名です。	general,restaurant,attraction
+3834	7	SYSTEM	予約出来ました。予約番号は、69023です。	general,restaurant,attraction
+3834	8	USER	ありがとうございます。あと当日どこか観光に行きたいのですが、博多区で無料駐車場のある名所はどこかいいところありますか？	general,restaurant,attraction
+3834	9	SYSTEM	櫛田神社は、どうですか？	general,restaurant,attraction
+3834	10	USER	ありがとうございます。そこに行ってみようと思います。	general,restaurant,attraction
+3834	11	SYSTEM	他にご用件はありますか？	general,restaurant,attraction

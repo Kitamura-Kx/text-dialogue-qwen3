@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+614	0	USER	横浜へ旅行に行くんですが、買い物ができるお店を探していただけますか？	general,shopping
+614	1	SYSTEM	承知しました。他にご希望はございますか？	general,shopping
+614	2	USER	駐車場が無料のスーパーマーケットがいいです！	general,shopping
+614	3	SYSTEM	ありがとうございます。まいばすけっと 鴨居駅西店がございます。何をご案内致しましょう？	general,shopping
+614	4	USER	営業時間を教えてください。	general,shopping
+614	5	SYSTEM	はい、営業時間は7時から0時となります。他に必要なご案内はございますか？	general,shopping
+614	6	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping
+614	7	SYSTEM	ありがとうございました。	general,shopping

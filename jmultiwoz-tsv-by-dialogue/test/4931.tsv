@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4931	0	USER	大阪で買い物をできる場所を探して欲しいのですが、いいですか？	general,shopping,weather
+4931	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,shopping,weather
+4931	2	USER	駐車場が無料で、文房具や雑貨を扱っているところが良いです。	general,shopping,weather
+4931	3	SYSTEM	そういたしますと、アカチャンホンポ あべのイトーヨーカドー店というお店が１件ご案内可能です。いかがでしょうか？	general,shopping,weather
+4931	4	USER	そこに行きます。営業時間を教えてもらえますか？	general,shopping,weather
+4931	5	SYSTEM	はい、営業時間は、10:00～21:00です。	general,shopping,weather
+4931	6	USER	天気も教えてもらえますか？	general,shopping,weather
+4931	7	SYSTEM	かしこまりました。お調べする日付と大阪の大体のエリアをお伺いしてもよろしいでしょうか？	general,shopping,weather
+4931	8	USER	5月29日の天王寺区です。	general,shopping,weather
+4931	9	SYSTEM	かしこまりました。当日の天気は晴れの予報です。最低気温は21.8度、最高気温は26.6度の見込みです。	general,shopping,weather
+4931	10	USER	ありがとうございました。以上です。	general,shopping,weather
+4931	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,weather

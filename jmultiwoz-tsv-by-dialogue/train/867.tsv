@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+867	0	USER	名古屋での飲食店を探しています。	general,restaurant,taxi
+867	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,taxi
+867	2	USER	昭和区いある、カフェ・スイーツがいいです。予算は普通が希望です。	general,restaurant,taxi
+867	3	SYSTEM	申し訳ございません。その条件ですと案内できるところがございません。いかがなさいますか。	general,restaurant,taxi
+867	4	USER	では、地区は千種区だといかがでしょうか？	general,restaurant,taxi
+867	5	SYSTEM	ではハンバーガー生活のすすめはいかがでしょうか。	general,restaurant,taxi
+867	6	USER	そこに行ってみます。定休日と住所を教えていただけませんか？	general,restaurant,taxi
+867	7	SYSTEM	定休日はございません。住所は愛知県名古屋市千種区末盛通3丁目3-30 マ.シャルブル富士 202でございます。	general,restaurant,taxi
+867	8	USER	ありがとうございます。あと、当日タクシーを利用したいのですが、キャッシュレス払いができて、ジャンボタクシーを利用できるところはありますか？	general,restaurant,taxi
+867	9	SYSTEM	楠交通がございます。	general,restaurant,taxi
+867	10	USER	そちらの電話番号を教えていただけませんか？	general,restaurant,taxi
+867	11	SYSTEM	電話番号は0522412233でございます。	general,restaurant,taxi
+867	12	USER	では、12/5の12:00で、ハンバーガー生活のすすめからサンエース 原駅前店まで予約をお願いできますか？	general,restaurant,taxi
+867	13	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,restaurant,taxi
+867	14	USER	では、時間を13:00に変更ではどうでしょうか？	general,restaurant,taxi
+867	15	SYSTEM	その時間ですと予約が可能でございました。予約番号は9192でございます。	general,restaurant,taxi
+867	16	USER	助かります。以上です、ありがとうございました。	general,restaurant,taxi
+867	17	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

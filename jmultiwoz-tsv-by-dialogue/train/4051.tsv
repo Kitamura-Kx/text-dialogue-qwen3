@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4051	0	USER	札幌への旅行を計画しています。 観光名所を探してください。	general,attraction,shopping,weather
+4051	1	SYSTEM	かしこまりました。札幌の名所ですと、48件ほどございますが、何かお好みはありますか？	general,attraction,shopping,weather
+4051	2	USER	Wi-Fiと駐車場が無料で利用できるところにしてください。	general,attraction,shopping,weather
+4051	3	SYSTEM	かしこまりました。それでは、ラウンドワンスタジアム札幌北21条店はいかがでしょうか？	general,attraction,shopping,weather
+4051	4	USER	そこの営業時間，住所，電話番号が知りたいです。	general,attraction,shopping,weather
+4051	5	SYSTEM	営業時間は0時から0時でございます。住所は北海道札幌市東区北21条東1丁目1-21、電話番号は0117338801です。	general,attraction,shopping,weather
+4051	6	USER	続いて、買い物ができるところを探して欲しいです。駐車場を無料で利用できるところで、ジャンルはショッピングモールが希望です。	general,attraction,shopping,weather
+4051	7	SYSTEM	お待たせ致しました。それでは札幌ステラプレイスはいかがでしょうか？	general,attraction,shopping,weather
+4051	8	USER	そこがいいです。営業時間，エリアを教えてください。	general,attraction,shopping,weather
+4051	9	SYSTEM	かしこまりました。営業時間は10時から21時までで、エリアは中央区でございます。	general,attraction,shopping,weather
+4051	10	USER	あと、手稲区の5/30の最高気温が知りたいです。	general,attraction,shopping,weather
+4051	11	SYSTEM	お待たせ致しました。当日の最高気温は17.5度の予報でございます。	general,attraction,shopping,weather
+4051	12	USER	解決しました。ありがとうございました。	general,attraction,shopping,weather

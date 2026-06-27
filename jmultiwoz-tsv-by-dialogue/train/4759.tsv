@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4759	0	USER	大阪への旅行を計画していて、当日の観光名所を探しています。西区の観光名所がいいです。	general,attraction,restaurant
+4759	1	SYSTEM	承知しました。ジャンルなどの希望はありますか？	general,attraction,restaurant
+4759	2	USER	地区の希望がありまして、西区が良いです。	general,attraction,restaurant
+4759	3	SYSTEM	承知しました。ほかに希望はありますか？	general,attraction,restaurant
+4759	4	USER	他の希望は今のところ無いです。西区の観光名所はどこかありますでしょうか？	general,attraction,restaurant
+4759	5	SYSTEM	その条件では見つかりませんでした。	general,attraction,restaurant
+4759	6	USER	そうですか。では、地区はどこでも良いです。	general,attraction,restaurant
+4759	7	SYSTEM	承知しました。49件が見つかりました。追加の希望等はありますか？	general,attraction,restaurant
+4759	8	USER	いえ、特に追加の希望はありません。おすすめはありますか？	general,attraction,restaurant
+4759	9	SYSTEM	花博記念公園 鶴見緑地はいかがでしょうか？	general,attraction,restaurant
+4759	10	USER	ありがとうございます。そこにしようと思います。花博記念公園 鶴見緑地のジャンル、定休日、電話番号を教えて貰えますか？	general,attraction,restaurant
+4759	11	SYSTEM	ジャンルは自然・公園, 庭園, アウトドア, キャンプです。定休日は無しです。電話番号は0669118787です。	general,attraction,restaurant
+4759	12	USER	ありがとうございます。旅行当日は赤から あべのハルカスダイニング店で食事をする予定ですが、いくつか情報を知りたいのでお聞きしても良いですか？	general,attraction,restaurant
+4759	13	SYSTEM	承知しました。	general,attraction,restaurant
+4759	14	USER	ありがとうございます。赤から あべのハルカスダイニング店の値段帯，電話番号，近辺の駅からの所要時間が知りたいです。	general,attraction,restaurant
+4759	15	SYSTEM	承知しました。値段帯は高めです。電話番号は05088923625です。所要時間は天王寺駅から徒歩で1分 大阪阿部野橋駅から徒歩で1分となります。	general,attraction,restaurant
+4759	16	USER	ありがとうございます。そこの予約をしたいのですが、11/3の14：30から３人で予約をお願い出来ますか？	general,attraction,restaurant
+4759	17	SYSTEM	予約が完了しました。予約番号は37054です。	general,attraction,restaurant
+4759	18	USER	ありがとうございました。助かりました。	general,attraction,restaurant
+4759	19	SYSTEM	他にご用件はありますか？	general,attraction,restaurant
+4759	20	USER	いえ、他にはありません。ありがとうございました。	general,attraction,restaurant

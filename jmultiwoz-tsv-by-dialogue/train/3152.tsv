@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3152	0	USER	京都への旅行を計画していて、当日の観光名所を探しています。中京区で最寄り駅が二条城前駅の所がいいです。	general,attraction,hotel,weather
+3152	1	SYSTEM	かしこまりました。そうしますと、元離宮二条城ということろが、1件ご案内可能です。いかがでしょうか？	general,attraction,hotel,weather
+3152	2	USER	ありがとうございます。そこにします。駐車場の有無と営業時間、それと住所も教えて貰えますか？	general,attraction,hotel,weather
+3152	3	SYSTEM	駐車場は、有料ですがご利用いただけます。営業時間は、8:45～16:00です。住所は、京都府京都市中京区二条通堀川西入二条城町541となります。	general,attraction,hotel,weather
+3152	4	USER	ありがとうございます。当日の宿泊施設も探しています。簡易宿所がいいです。	general,attraction,hotel,weather
+3152	5	SYSTEM	かしこまりました。では、Kamon Innはいかがでしょうか？東寺駅から徒歩で10分の場所にございます。	general,attraction,hotel,weather
+3152	6	USER	ありがとうございます。そこにしようと思います。チェックアウト終了時刻は分かりますか？	general,attraction,hotel,weather
+3152	7	SYSTEM	はい、チェックアウトは、昼12時までとなっております。	general,attraction,hotel,weather
+3152	8	USER	ありがとうございます。当日の天気も知りたいです。11/1の山科区の最高、最低気温は分かりますか？	general,attraction,hotel,weather
+3152	9	SYSTEM	はい、当日の最高気温は17.1度、最低気温は5.4度の予想となっております。なお、天気は晴れの予報です。	general,attraction,hotel,weather
+3152	10	USER	ありがとうございました。	general,attraction,hotel,weather
+3152	11	SYSTEM	他にお調べすることはございませんか？	general,attraction,hotel,weather
+3152	12	USER	いえ、他にはありません。ありがとうございました。	general,attraction,hotel,weather
+3152	13	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,attraction,hotel,weather

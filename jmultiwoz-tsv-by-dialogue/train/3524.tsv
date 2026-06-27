@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3524	0	USER	仙台でおもちゃが買えるお店を探しています。	general,shopping,restaurant,weather
+3524	1	SYSTEM	かしこまりました。では、ポケモンセンタートウホクはいかがでしょうか。	general,shopping,restaurant,weather
+3524	2	USER	そこは駐車場は無料ですか？	general,shopping,restaurant,weather
+3524	3	SYSTEM	駐車場は有料でございます。	general,shopping,restaurant,weather
+3524	4	USER	わかりました。では定休日と営業時間を教えてください。	general,shopping,restaurant,weather
+3524	5	SYSTEM	定休日は無しでございます。営業時間は10:00～20:00でございます。	general,shopping,restaurant,weather
+3524	6	USER	住所はどこですか？	general,shopping,restaurant,weather
+3524	7	SYSTEM	住所は宮城県仙台市青葉区中央1丁目2-3 仙台PARCO8階でございます。	general,shopping,restaurant,weather
+3524	8	USER	あと青葉区の北四番丁駅の近くにある飲食店を探しています。	general,shopping,restaurant,weather
+3524	9	SYSTEM	すき焼き割烹 かとうがございます。	general,shopping,restaurant,weather
+3524	10	USER	寿司・魚料理がいいんですが、それだとどうですか？	general,shopping,restaurant,weather
+3524	11	SYSTEM	こちら和食、鍋でございます。先ほどの条件ですとこの店しかヒットしませんでしたがいかがなさいますか。	general,shopping,restaurant,weather
+3524	12	USER	北四番丁駅から近くなくてもいいです。	general,shopping,restaurant,weather
+3524	13	SYSTEM	ではうまい鮨勘 総本店はいかがでしょうか。	general,shopping,restaurant,weather
+3524	14	USER	いいですね。近辺の駅からの所要時間と営業時間を教えてください。	general,shopping,restaurant,weather
+3524	15	SYSTEM	広瀬通駅から徒歩で5分、勾当台公園駅駅から徒歩で5分となっております。	general,shopping,restaurant,weather
+3524	16	USER	営業時間はどうなりますか？	general,shopping,restaurant,weather
+3524	17	SYSTEM	失礼いたしました。営業時間は17:30～03:00でございます。	general,shopping,restaurant,weather
+3524	18	USER	ちなみにWi-Fiはありますか？	general,shopping,restaurant,weather
+3524	19	SYSTEM	Wi-Fiはございません。	general,shopping,restaurant,weather
+3524	20	USER	そうなんですね。11/18、15:00から4人で予約お願いしたいです。	general,shopping,restaurant,weather
+3524	21	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は87929でございます。	general,shopping,restaurant,weather
+3524	22	USER	あと11/18の太白区の最低気温を教えてもらえませんか？	general,shopping,restaurant,weather
+3524	23	SYSTEM	最低気温は2.4度でございます。	general,shopping,restaurant,weather
+3524	24	USER	色々ありがとうございました。	general,shopping,restaurant,weather
+3524	25	SYSTEM	本日はありがとうございました。	general,shopping,restaurant,weather

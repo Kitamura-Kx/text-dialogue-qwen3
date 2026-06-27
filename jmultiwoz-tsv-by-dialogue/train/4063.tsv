@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4063	0	USER	横浜の栄区でレストラン併設の宿泊施設を探しています。価格は安めがいいです。	general,hotel
+4063	1	SYSTEM	かしこまりました。1件該当ございました。上郷・森の家という施設はいかがでしょうか？	general,hotel
+4063	2	USER	ありがとうございます！その施設に駐車場はありますか？	general,hotel
+4063	3	SYSTEM	はい、有料ですが駐車場ございます。	general,hotel
+4063	4	USER	ありがとうございます！お世話になりました。	general,hotel
+4063	5	SYSTEM	ありがとうございました。	general,hotel

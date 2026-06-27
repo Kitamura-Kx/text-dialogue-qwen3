@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1245	0	USER	福岡への旅行を検討しています。当日買い物が出来る場所を探しているのですが、お伺いしてもよろしいでしょうか？	general,shopping
+1245	1	SYSTEM	福岡のお買い物施設ですね。ジャンルやエリアなど、何かご希望はございますか？	general,shopping
+1245	2	USER	そうですね。中央区で、駐車場を無料で利用できる場所ってありますか？	general,shopping
+1245	3	SYSTEM	はい、7件ほどご案内可能です。たとえば、天神地下街というところに、ご興味ございませんか？	general,shopping
+1245	4	USER	そこがよさそうですね。そちらは近辺の駅からの所要時間ってどのくらいかかりますか？	general,shopping
+1245	5	SYSTEM	最寄りの西鉄福岡(天神)駅から徒歩で1分、そのほか、天神南駅から徒歩で1分、天神駅から徒歩で1分といった行き方がございます。	general,shopping
+1245	6	USER	ありがとうございます。営業時間も教えて頂けますか？	general,shopping
+1245	7	SYSTEM	営業時間は、10:00～20:00です。	general,shopping
+1245	8	USER	ありがとうございます。引き続き検討してみます。ご対応、ありがとうございました。	general,shopping
+1245	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+577	0	USER	こんにちは。仙台への旅行を考えているんですが、食事を出来るお店を探して欲しいです。	general,restaurant,hotel
+577	1	SYSTEM	仙台の飲食店ですね。ジャンルやエリアなど、何かご希望はございませんか？	general,restaurant,hotel
+577	2	USER	若林区で、無料Wi-Fiが利用できるところがいいです！	general,restaurant,hotel
+577	3	SYSTEM	かしこまりました。そうしますと、伊達の牛たん本舗 東インター店というお店はいかがでしょうか？	general,restaurant,hotel
+577	4	USER	予算的には普通がいいんですが、どうですか？	general,restaurant,hotel
+577	5	SYSTEM	はい、伊達の牛たん本舗 東インター店はお値段設定が普通のお店です。また、Chef's Tableというお店もありますが、いかがいたしましょう？	general,restaurant,hotel
+577	6	USER	伊達の牛たん本舗 東インター店でお願いします！ジャンルは何になりますか？	general,restaurant,hotel
+577	7	SYSTEM	ジャンルは、郷土料理, 居酒屋, カレーとなっております。	general,restaurant,hotel
+577	8	USER	ありがとうございます。当日若林区で、宿泊できるところも探して欲しいです。	general,restaurant,hotel
+577	9	SYSTEM	かしこまりました。仙台の若林区では、5件ほど宿泊施設をご案内可能です。例えば、ANAホリデイ・イン仙台というビジネスホテルはどうでしょうか？	general,restaurant,hotel
+577	10	USER	予算は普通で、Wi-Fiが無料で利用できるところがいいんですが、条件に合うところはありますか？	general,restaurant,hotel
+577	11	SYSTEM	それでしたら、アパヴィラホテル<仙台駅五橋>というところがございます。	general,restaurant,hotel
+577	12	USER	アパヴィラホテル<仙台駅五橋>ですね。そちらでお願いします！電話番号は分かりますか？	general,restaurant,hotel
+577	13	SYSTEM	はい。電話番号は、0570023111でございます。ご予約もいたしましょうか？	general,restaurant,hotel
+577	14	USER	12/2に2人で2泊の予約をお願いします。	general,restaurant,hotel
+577	15	SYSTEM	大変申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,restaurant,hotel
+577	16	USER	人数は1人でも大丈夫です！	general,restaurant,hotel
+577	17	SYSTEM	ありがとうございます。予約を完了いたしました。ご予約番号は、55900です。	general,restaurant,hotel
+577	18	USER	ありがとうございます。	general,restaurant,hotel
+577	19	SYSTEM	ほかにお調べすることはございますか？	general,restaurant,hotel
+577	20	USER	いえ、もう大丈夫です。助かりました！ありがとうございました。	general,restaurant,hotel
+577	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,hotel

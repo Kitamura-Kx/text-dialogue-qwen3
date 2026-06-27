@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1500	0	USER	名古屋で駐車場、Wifiが無料の宿泊施設はありますか？おすすめを教えてください。	general,hotel,restaurant,weather
+1500	1	SYSTEM	エリアでいうと中川区にある、プチホテル ニューひふみはいかがでしょう？	general,hotel,restaurant,weather
+1500	2	USER	そのホテルのタイプは何ですか？また、電話番号と駅からの所要時間も知りたいです。	general,hotel,restaurant,weather
+1500	3	SYSTEM	タイプはビジネスホテル、電話番号は、0523221239、最寄りの尾頭橋駅から徒歩で7分となります。	general,hotel,restaurant,weather
+1500	4	USER	そちらで予約をお願いします。12/4から2泊、4人での利用です。	general,hotel,restaurant,weather
+1500	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、70552となります。	general,hotel,restaurant,weather
+1500	6	USER	ありがとうございます。無料駐車場がある飲食店もあわせて教えて頂けますか？予算は高めです。	general,hotel,restaurant,weather
+1500	7	SYSTEM	エリアでいうと千種区にある、うなぎの新甫はいかがでしょう？ジャンルは、寿司、魚料理、和食、となります。	general,hotel,restaurant,weather
+1500	8	USER	最寄り駅はどちらですか？	general,hotel,restaurant,weather
+1500	9	SYSTEM	最寄りの池下駅から徒歩で5分となります。	general,hotel,restaurant,weather
+1500	10	USER	わかりました。最後に、昭和区の12/4の最低気温を教えてください。	general,hotel,restaurant,weather
+1500	11	SYSTEM	はい、天気は曇、最低気温6.4度、最高気温13.9度となります。	general,hotel,restaurant,weather
+1500	12	USER	ありがとうございます！	general,hotel,restaurant,weather

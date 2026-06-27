@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4059	0	USER	福岡へ行くのですが、買い物ができる所を教えていただけますか？	general,shopping,restaurant,weather
+4059	1	SYSTEM	承知いたしました。福岡のお買い物スポットのみで検索しますと４４件ございます。なにか条件などございますか？	general,shopping,restaurant,weather
+4059	2	USER	はい。できれば、南区の百貨店や総合スーパーを希望しています。	general,shopping,restaurant,weather
+4059	3	SYSTEM	申し訳ございません。２点追加しての検索では該当がございませんでした。	general,shopping,restaurant,weather
+4059	4	USER	では、南区以外ではいかがでしょうか。	general,shopping,restaurant,weather
+4059	5	SYSTEM	博多リバレインほか２件が該当ございます。いかがいたしましょうか？	general,shopping,restaurant,weather
+4059	6	USER	はい。では、博多リバレインの営業時間・電話番号・住所を教えていただけますか？	general,shopping,restaurant,weather
+4059	7	SYSTEM	博多リバレインの営業時間は、店舗により異なるとの記載です。電話番号は、0922715050です。住所は福岡県福岡市博多区下川端町3-1でございます。	general,shopping,restaurant,weather
+4059	8	USER	了解です！ありがとうございました。他に、食事ができる店を探しています。西鉄平尾駅にはあるでしょうか？	general,shopping,restaurant,weather
+4059	9	SYSTEM	西鉄平尾駅を最寄り駅とする飲食店ですと、しらゆきというお店、ほかに２件ございます。	general,shopping,restaurant,weather
+4059	10	USER	しらゆきを含む３件で、予算が普通程度の店はありますか？	general,shopping,restaurant,weather
+4059	11	SYSTEM	焼き鳥 貴という店舗のみ、価格帯が普通です。そのほかは高めのお店となっております。	general,shopping,restaurant,weather
+4059	12	USER	いいですね！ありがとうございます。では、焼き鳥　貴の営業時間と住所を教えてください。	general,shopping,restaurant,weather
+4059	13	SYSTEM	承知いたしました。営業時間は18:00から00:00です。住所は福岡県福岡市中央区高砂2丁目13-7 ミカミビル 1Fでございます。	general,shopping,restaurant,weather
+4059	14	USER	ありがとうございます！このお店を予約お願いします。5/20の１４：20から４人でお願いできますでしょうか？	general,shopping,restaurant,weather
+4059	15	SYSTEM	かしこまりました。5月20日4名様で14:20でご予約が完了しました。予約番号は、32395でございます。	general,shopping,restaurant,weather
+4059	16	USER	ありがとうございました。もう一つ伺いたいのですが、5/20当日の東区の天候はどうでしょうか？また、最高気温は何度くらいでしょうか？	general,shopping,restaurant,weather
+4059	17	SYSTEM	かしこまりました。5月20日の東区は曇時々晴です。最高気温は25.8度でございます。	general,shopping,restaurant,weather
+4059	18	USER	ありがとうございました。以上で必要な情報はすべてお伺いできました。お世話になりました！	general,shopping,restaurant,weather

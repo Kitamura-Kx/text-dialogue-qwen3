@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+78	0	USER	こんばんは。ちょっと助けてほしいんですが、いいですか？	general,taxi
+78	1	SYSTEM	どうなさいましたか。	general,taxi
+78	2	USER	仙台旅行を計画中なんですけど、分からないことがあって。	general,taxi
+78	3	SYSTEM	仙台でございますね。なにかお知りになりたいことがございますか。	general,taxi
+78	4	USER	ジャンボタクシーの利用できるタクシー会社って、調べられますか？しかも、キャッシュレスに対応してるところ。	general,taxi
+78	5	SYSTEM	（有）光泉タクシーはいかがでしょうか。	general,taxi
+78	6	USER	その電話番号は分かります？	general,taxi
+78	7	SYSTEM	電話番号は0223752525でございます。	general,taxi
+78	8	USER	あ、じゃ、もう、ここで予約しちゃおう。日にちは4月の9日なんですけど。	general,taxi
+78	9	SYSTEM	かしこまりました。出発時刻と出発地、目的地を教えていただけますか。	general,taxi
+78	10	USER	出発時間は昼の13時50分で、Chef's Table出発のローソン仙台松森陣ヶ前店着で、予約できますかね？	general,taxi
+78	11	SYSTEM	予約が完了いたしました。予約番号は87980でございます。	general,taxi
+78	12	USER	まあ、テキパキとありがとうございました。これで安心して旅行できそうです。	general,taxi
+78	13	SYSTEM	ほかに何かご用件はございませんか。	general,taxi
+78	14	USER	はい、もうないです。それじゃ、どうも。	general,taxi
+78	15	SYSTEM	承知しました。ありがとうございました。	general,taxi

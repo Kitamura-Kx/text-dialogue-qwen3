@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+872	0	USER	横浜へ旅行に行くのですが旭区で無料駐車場のある観光名所を教えて下さい	general,attraction,hotel
+872	1	SYSTEM	かしこまりました。2件ほどございます。こども自然公園と、横濱スパヒルズ 竜泉寺の湯ですが、ご興味のある方はございますか？	general,attraction,hotel
+872	2	USER	こども自然公園にはWi-Fiはありますか？	general,attraction,hotel
+872	3	SYSTEM	申し訳ございません。こども自然公園のWiFi有無は不明となっております。	general,attraction,hotel
+872	4	USER	わかりました、当日の宿泊先なのですが「スーパーホテル横浜・関内」という施設はありますか？	general,attraction,hotel
+872	5	SYSTEM	はい、中区エリアに1件該当がございました。ビジネスホテルで、お間違い無いでしょうか？	general,attraction,hotel
+872	6	USER	ごめんなさいい、ホテルジャンルは分らないです。ちなみにそちらは駐車場はありますか？	general,attraction,hotel
+872	7	SYSTEM	はい、有料となりますが、駐車場がございます。	general,attraction,hotel
+872	8	USER	それでは予約をお願いします。8月30日から4泊、4名でお願いします	general,attraction,hotel
+872	9	SYSTEM	申し訳ございません。その条件では予約をおとりできませんでした。いかがいたしましょうか？	general,attraction,hotel
+872	10	USER	3名では可能でしょうか？	general,attraction,hotel
+872	11	SYSTEM	ありがとうございます。予約が完了いたしました。ご予約番号は、90763でございます。	general,attraction,hotel
+872	12	USER	助かりました有難うございました	general,attraction,hotel
+872	13	SYSTEM	ほかに何かお調べすることはございませんか？	general,attraction,hotel
+872	14	USER	いえ大丈夫です、ありがとうございました	general,attraction,hotel
+872	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,hotel

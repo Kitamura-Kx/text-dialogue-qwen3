@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+886	0	USER	こんにちは。京都に旅行に行こうと思っているので、宿泊施設の案内をお願いします。	general,hotel,shopping,taxi
+886	1	SYSTEM	アルモントホテル京都は、いかがでしょうか？	general,hotel,shopping,taxi
+886	2	USER	駐車場を無料で、予算が普通くらいのところを希望したいのですが、そちらはいかがでしょうか。	general,hotel,shopping,taxi
+886	3	SYSTEM	それでは、なごみ宿 都和はいかがでしょうか？	general,hotel,shopping,taxi
+886	4	USER	ありがとうございます。それでは、そちらについて詳しく教えてください。チェックアウト終了時刻と、料金情報はどのくらいになりますか？	general,hotel,shopping,taxi
+886	5	SYSTEM	チェックアウト終了時刻は、10時です。　料金情報の詳しい記載はございません。	general,hotel,shopping,taxi
+886	6	USER	そうなんですね。お調べいただき、ありがとうございます。では、そちらの宿を予約したいのですが、５月４日から３泊で４人お願いできますか？	general,hotel,shopping,taxi
+886	7	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,hotel,shopping,taxi
+886	8	USER	そうでしたか。では、２泊で予約をお願いします。	general,hotel,shopping,taxi
+886	9	SYSTEM	予約出来ました。予約番号は、59737です。	general,hotel,shopping,taxi
+886	10	USER	ありがとうございます。書き控えました。あと、書籍の買い物ができるところを探していまして。駐車場が無料で利用できるところで、どこかありますか？	general,hotel,shopping,taxi
+886	11	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,hotel,shopping,taxi
+886	12	USER	そうなんですね。では、書籍ではなく、ショッピングモールでお願します。	general,hotel,shopping,taxi
+886	13	SYSTEM	道の駅 ウッディー京北は、いかがでしょうか？	general,hotel,shopping,taxi
+886	14	USER	では、そちらに伺ってみようかと思います。当日に利用できるタクシー会社も探していただきたいのですが、キャッシュレス対応のところで、どこかありますか？	general,hotel,shopping,taxi
+886	15	SYSTEM	帝産京都自動車株式会社は、いかがですか？	general,hotel,shopping,taxi
+886	16	USER	では、そちらの予約をお願いします。５月４日の16時20分に、先ほどのなごみ宿 都和から、道の駅 ウッディー京北まででお願いします。	general,hotel,shopping,taxi
+886	17	SYSTEM	予約出来ました。予約番号は、32819です。	general,hotel,shopping,taxi
+886	18	USER	ありがとうございます。これで、楽しい旅行ができそうです。本日は色々とありがとうございました。	general,hotel,shopping,taxi
+886	19	SYSTEM	他にご用件はございますか？	general,hotel,shopping,taxi
+886	20	USER	いえ、もう大丈夫です。それでは、失礼いたします。	general,hotel,shopping,taxi
+886	21	SYSTEM	承知致しました。　ありがとうございました。	general,hotel,shopping,taxi

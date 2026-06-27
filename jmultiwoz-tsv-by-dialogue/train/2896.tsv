@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2896	0	USER	今度、仙台へ行く予定です。宮城野区で和食のお店を教えてください。	general,restaurant,taxi
+2896	1	SYSTEM	宮城野区の和食といえばいくつかありますが、四季亭 竹勢、こちらをオススメします	general,restaurant,taxi
+2896	2	USER	良さそうですね。そちらの営業時間と住所を教えてください。	general,restaurant,taxi
+2896	3	SYSTEM	昼が１１時半から２時、夕方が５時から夜１０時半まで、住所は宮城県仙台市宮城野区田子1丁目11-11になります。	general,restaurant,taxi
+2896	4	USER	ありがとうございます。それでは、3月17日のお昼の12時に2名で予約をお願いできますか？	general,restaurant,taxi
+2896	5	SYSTEM	予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,restaurant,taxi
+2896	6	USER	そうですか。では、時間を12時30分に変えるとどうでしょうか？	general,restaurant,taxi
+2896	7	SYSTEM	12時30分ならいけました、予約番号は47450です。	general,restaurant,taxi
+2896	8	USER	ありがとうございます。当日はタクシーでの移動を考えています。ジャンボタクシーを利用できるタクシー会社を紹介してください。	general,restaurant,taxi
+2896	9	SYSTEM	仙台でジャンボタクシーOKなのは、稲荷タクシー（有）、こちら一択です。	general,restaurant,taxi
+2896	10	USER	そちらはキャッシュレス払いできますか？	general,restaurant,taxi
+2896	11	SYSTEM	キャッシュレス対応しているかどうかは不明ですね。	general,restaurant,taxi
+2896	12	USER	分かりました。そちらの電話番号を教えて下さい。	general,restaurant,taxi
+2896	13	SYSTEM	0222411121です。	general,restaurant,taxi
+2896	14	USER	ありがとうございます。それでは、3月17日の午前10時30分に四季亭 竹勢からR&Bホテル仙台広瀬通駅前まで予約をお願いします。	general,restaurant,taxi
+2896	15	SYSTEM	その条件で予約成功しました。予約番号は61224です。	general,restaurant,taxi
+2896	16	USER	ありがとうございました。助かりました。それでは失礼します。	general,restaurant,taxi

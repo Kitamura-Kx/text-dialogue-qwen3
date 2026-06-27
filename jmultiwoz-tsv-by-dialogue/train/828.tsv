@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+828	0	USER	那覇へ行くのですが。	general,shopping
+828	1	SYSTEM	那覇のご旅行ですね。本日はどんなご案内をいたしましょうか？	general,shopping
+828	2	USER	買い物ができるところを探してほしいです。美栄橋駅が最寄りで、無料駐車場が利用できるところはありますか？	general,shopping
+828	3	SYSTEM	はい、1件ご案内可能です。フレッシュプラザユニオン前島店というお店ですが、いかがでしょうか？	general,shopping
+828	4	USER	ありがとうございます。エリアだとどのあたりですか？	general,shopping
+828	5	SYSTEM	本庁エリアにございます。	general,shopping
+828	6	USER	営業時間と電話番号はわかりますか？	general,shopping
+828	7	SYSTEM	営業時間は、0時から0時となっておりますので、24時間ですね。電話番号は、0988675006です。	general,shopping
+828	8	USER	わかりました。ありがとうございます。	general,shopping
+828	9	SYSTEM	他にお調べすることはございますか？	general,shopping
+828	10	USER	特にありません。ありがとうございました。	general,shopping
+828	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,shopping

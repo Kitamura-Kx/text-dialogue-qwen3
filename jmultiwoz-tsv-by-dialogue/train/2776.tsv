@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2776	0	USER	京都へ行くので飲食店を探しています。無料駐車場があるといいです。	general,restaurant,taxi
+2776	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,taxi
+2776	2	USER	じゃ無料駐車場がなくてもいいです。	general,restaurant,taxi
+2776	3	SYSTEM	では、エリアでいうと東山区にある、祇園 末友はいかがでしょう？ジャンルは、和食となります。	general,restaurant,taxi
+2776	4	USER	いいですね。料金情報について教えてください。	general,restaurant,taxi
+2776	5	SYSTEM	はい、昼のお料理は、八坂懐石が33000円、夜のお料理は懐石料理が33000円となります。	general,restaurant,taxi
+2776	6	USER	では8/26、15:10から4人で予約したいです。	general,restaurant,taxi
+2776	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、65335となります。他にご案内できることはございますか？	general,restaurant,taxi
+2776	8	USER	あとタクシーを探してて、キャッシュレス払いできるところがいいです。	general,restaurant,taxi
+2776	9	SYSTEM	では、エムケイ株式会社はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0757784141となります。	general,restaurant,taxi
+2776	10	USER	いいですね。では8/26、13:30で予約お願いします。	general,restaurant,taxi
+2776	11	SYSTEM	承知しました。出発地と目的地を教えていただけますか？	general,restaurant,taxi
+2776	12	USER	紡 島原大門別邸から祇園 末友まででお願いします。	general,restaurant,taxi
+2776	13	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、25706となります。他にご用件はございますか？	general,restaurant,taxi
+2776	14	USER	特にないです。ありがとうございました。	general,restaurant,taxi
+2776	15	SYSTEM	ありがとうございました。	general,restaurant,taxi

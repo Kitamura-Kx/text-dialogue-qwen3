@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1011	0	USER	大阪でレストランがあってWi-Fiが無料な宿泊施設を探しています。	general,hotel
+1011	1	SYSTEM	承知しました。他にご希望はございますか？	general,hotel
+1011	2	USER	希望はこの２つだけです。	general,hotel
+1011	3	SYSTEM	では、グリッズプレミアムホテル大阪なんばはいかがでしょう？タイプはリゾートホテル、エリアは浪速区、値段帯は安めで、最寄りのなんば駅から徒歩で1分となります。住所は大阪府大阪市浪速区難波中1丁目7-7、電話番号は0666415801、Wi-Fiは無料でお使いいただけます。駐車場はございますが、有料となります。チェックイン開始時刻は15時、チェックアウト終了時刻は11時となります。	general,hotel
+1011	4	USER	そこを予約したいです。10/3に2人で4泊でお願いします。	general,hotel
+1011	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、21476となります。	general,hotel
+1011	6	USER	わかりました。ありがとうございました。	general,hotel
+1011	7	SYSTEM	他にご用件はございますか？	general,hotel
+1011	8	USER	大丈夫です。	general,hotel
+1011	9	SYSTEM	ありがとうございました。	general,hotel

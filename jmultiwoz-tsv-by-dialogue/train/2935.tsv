@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2935	0	USER	仙台に行くのですが、キャッシュレス払いができて、ジャンボタクシーも利用できるタクシー会社を探しています。	general,taxi
+2935	1	SYSTEM	仙台だとキャッシュレスとジャンボタクシー両方対応しているところはなさそうです。	general,taxi
+2935	2	USER	キャッシュレス払いはできなくてもいいです。	general,taxi
+2935	3	SYSTEM	それでは、ジャンボタクシーに対応しているところは、稲荷タクシー（有）、こちら一択です。	general,taxi
+2935	4	USER	電話番号は何番になりますか？	general,taxi
+2935	5	SYSTEM	0222411121です。	general,taxi
+2935	6	USER	7/15、13:40にホテルグリーンウィズからカレーハウスCoCo壱番屋 仙台泉インター店まで予約をお願いしたいです。	general,taxi
+2935	7	SYSTEM	予約成功しました。予約番号は19383です。	general,taxi
+2935	8	USER	ありがとうございました。	general,taxi
+2935	9	SYSTEM	よい旅を。	general,taxi

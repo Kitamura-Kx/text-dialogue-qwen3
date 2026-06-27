@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4318	0	USER	札幌に旅行するので駐車場が無料の安めの宿泊施設を探してください。	general,hotel
+4318	1	SYSTEM	かしこまりました。それではホテルルートイン札幌白石はいかがでしょうか？	general,hotel
+4318	2	USER	ホテルのタイプはなんでしょうか？	general,hotel
+4318	3	SYSTEM	ビジネスホテルでございます。	general,hotel
+4318	4	USER	了解です。そしたら5/3から二泊、二名で予約をお願いします	general,hotel
+4318	5	SYSTEM	お待たせ致しました。予約番号44100でお取りさせていただきました。	general,hotel
+4318	6	USER	了解です。ありがとうございました！	general,hotel
+4318	7	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

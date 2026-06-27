@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+408	0	USER	那覇で、食事ができるところを探しています。	general,restaurant
+408	1	SYSTEM	那覇のお食事処ですね。 なにかご希望の条件などはございますか？	general,restaurant
+408	2	USER	駐車場が無料で使えるホテルレストランがいいです。	general,restaurant
+408	3	SYSTEM	大変申し訳ございません。ご希望の条件では、該当するものが見つかりませんでした。	general,restaurant
+408	4	USER	そうですか、じゃあ、イタリアンかフレンチのレストランだったらどうですか？	general,restaurant
+408	5	SYSTEM	ありがとうございます。では、ワイン食堂トランク イタリアゴハン 小禄店は如何でしょうか？	general,restaurant
+408	6	USER	そこにしたいと思います。最寄駅と駅からの所要時間を教えてください。	general,restaurant
+408	7	SYSTEM	最寄り駅は、小禄駅です。小禄駅から徒歩で5分の距離にございます。赤嶺駅からも歩いて7分でアクセス可能です。	general,restaurant
+408	8	USER	わかりました。ありがとうございました。	general,restaurant
+408	9	SYSTEM	他にお調べすることはございませんか？	general,restaurant
+408	10	USER	大丈夫です。	general,restaurant
+408	11	SYSTEM	かしこまりました。本日はご利用ありがとうございました。	general,restaurant
+408	12	USER	はい、ありがとうございました。	general,restaurant
+408	13	SYSTEM	また何かございましたらお気軽にお声がけくださいませ。	general,restaurant
+408	14	USER		general,restaurant

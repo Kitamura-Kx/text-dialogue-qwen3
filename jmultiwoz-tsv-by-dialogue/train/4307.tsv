@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4307	0	USER	大阪に旅行するのでWi-Fiが無料で利用できる飲食店を探してください	general,restaurant,attraction,taxi
+4307	1	SYSTEM	かしこまりました。それではすしざんまい 道頓堀店はいかがでしょうか？	general,restaurant,attraction,taxi
+4307	2	USER	最寄駅はどこですか？	general,restaurant,attraction,taxi
+4307	3	SYSTEM	なんば駅でございます。	general,restaurant,attraction,taxi
+4307	4	USER	では9/5の12:00に二名で予約をお願いします！	general,restaurant,attraction,taxi
+4307	5	SYSTEM	お待たせ致しました。予約番号57711でお取りさせていただきました。	general,restaurant,attraction,taxi
+4307	6	USER	ありがとうございます。あと港区でWi-Fiが無料で使える観光名所はありますか？	general,restaurant,attraction,taxi
+4307	7	SYSTEM	かしこまりました。それでは、海遊館はいかがでしょうか？	general,restaurant,attraction,taxi
+4307	8	USER	いいですね。あとジャンボタクシーが利用できるタクシー会社はありますか？	general,restaurant,attraction,taxi
+4307	9	SYSTEM	かしこまりました。それでは株式会社フットはいかがでしょうか？	general,restaurant,attraction,taxi
+4307	10	USER	キャッシュレス対応はしていますか？	general,restaurant,attraction,taxi
+4307	11	SYSTEM	はい、キャッシュレスにも対応しております。	general,restaurant,attraction,taxi
+4307	12	USER	電話番号も教えて貰えますか？	general,restaurant,attraction,taxi
+4307	13	SYSTEM	はい、0665751700でございます。	general,restaurant,attraction,taxi
+4307	14	USER	ありがとうございます。では、9/5の13：50にすしざんまい 道頓堀店から海遊館まで予約してほしいです	general,restaurant,attraction,taxi
+4307	15	SYSTEM	お待たせ致しました。予約番号70643でお取りさせていただきました。	general,restaurant,attraction,taxi
+4307	16	USER	了解です。たくさんありがとうございました	general,restaurant,attraction,taxi
+4307	17	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,attraction,taxi

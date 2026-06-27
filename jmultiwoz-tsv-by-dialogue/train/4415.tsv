@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4415	0	USER	那覇へ旅行に行くのですが、首里殿内 首里金城町石畳道という観光名所はありますか？	general,attraction,weather
+4415	1	SYSTEM	首里殿内 首里金城町石畳道！はい、ございます。	general,attraction,weather
+4415	2	USER	では、そちらの子供入場料と電話番号を教えてもらえますか？	general,attraction,weather
+4415	3	SYSTEM	子供の入場料は0円でして、電話番号は0988856161でございます。	general,attraction,weather
+4415	4	USER	わかりました。あと、小禄の1/10の天気と最低気温が知りたいです。	general,attraction,weather
+4415	5	SYSTEM	お待たせ致しました。当日の天気は晴、最低気温は20.8度でございます。	general,attraction,weather
+4415	6	USER	ありがとうございました。	general,attraction,weather
+4415	7	SYSTEM	その他にご用件はございますか？	general,attraction,weather
+4415	8	USER	いえ、大丈夫です。	general,attraction,weather
+4415	9	SYSTEM	かしこまりました。またお待ちしております。	general,attraction,weather

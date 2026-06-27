@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2306	0	USER	大阪で観光名所を探しています。鶴見区の工業地域で、Wifiが無料で使える場所がいいのですが。	general,attraction,taxi,weather
+2306	1	SYSTEM	では、鶴見緑地湯元 水春はいかがですか？	general,attraction,taxi,weather
+2306	2	USER	そちらにします。また、タクシー情報も知りたいんですが。ジャンボタクシー運営の会社はありますか？	general,attraction,taxi,weather
+2306	3	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,taxi,weather
+2306	4	USER	なら、ジャンボタクシーの条件を除いてください。	general,attraction,taxi,weather
+2306	5	SYSTEM	タックン大阪株式会社は、いかがでしょうか？	general,attraction,taxi,weather
+2306	6	USER	そちらでお願いします。2/22の11:50に予約できますか？鶴見緑地湯元 水春からザ・ワンファイブ大阪堺筋までの利用です。	general,attraction,taxi,weather
+2306	7	SYSTEM	予約出来ました。予約番号は、8231です。	general,attraction,taxi,weather
+2306	8	USER	ありがとうございます。最後に、2/22、中央区の天気も教えて頂けますか？	general,attraction,taxi,weather
+2306	9	SYSTEM	その日の天気は、晴の予報です。	general,attraction,taxi,weather
+2306	10	USER	ありがとうございます！助かりました。	general,attraction,taxi,weather

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3144	0	USER	福岡の中央区に行く予定なのですが、駐車場が無料な百貨店や総合スーパーありますか？	general,shopping
+3144	1	SYSTEM	はい、2件ご案内可能です。たとえば、岩田屋 本店というお店が西鉄福岡（天神）駅から徒歩で5分の場所にありますが、いかがでしょうか？	general,shopping
+3144	2	USER	行ってみます。電話番号を教えて下さい。	general,shopping
+3144	3	SYSTEM	電話番号は、0927211111でございます。	general,shopping
+3144	4	USER	ありがとうございます。	general,shopping
+3144	5	SYSTEM	他にお調べすることはございませんか？	general,shopping
+3144	6	USER	もう、大丈夫です。ありがとうございました。	general,shopping
+3144	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

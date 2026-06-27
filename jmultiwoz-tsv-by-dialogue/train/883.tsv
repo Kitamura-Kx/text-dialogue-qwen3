@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+883	0	USER	こんにちは。今、那覇に旅行へ行こうと思ってるので、宿泊施設の案内をお願いします。	general,hotel
+883	1	SYSTEM	ワイヤーズホテル 那覇は、いかがでしょうか？	general,hotel
+883	2	USER	えっと、本庁地区にある、レストランが併設されている所が良いのですが、ワイヤーズホテル 那覇はどうなんでしょうか。	general,hotel
+883	3	SYSTEM	申し訳ありません。ワイヤーズホテルはレストラン併設ではありません。　本町地区でのこの条件でのホテルはないようです。	general,hotel
+883	4	USER	そうなんですね。それでは、地区については考えなくても大丈夫です。	general,hotel
+883	5	SYSTEM	それでは、ヒューイットリゾート那覇はいかがでしょうか？	general,hotel
+883	6	USER	ありがとうございます。それではヒューイットリゾート那覇について、いくつか伺いたいのですが、近辺の駅からの所要時間はどのくらいですか？	general,hotel
+883	7	SYSTEM	近辺の駅からの所要時間は、安里駅から徒歩で3分です。	general,hotel
+883	8	USER	ありがとうございます。チェックアウト終了時刻と、Wi-Fiの有無についても教えていただけますか？	general,hotel
+883	9	SYSTEM	チェックアウト終了時刻は、午前11時です。　Wi-Fiの有無については，無料でご利用になれます。	general,hotel
+883	10	USER	お調べいただき、ありがとうございます。あとはもう大丈夫です。この度はありがとうございました。	general,hotel
+883	11	SYSTEM	承知致しました。　ありがとうございました。	general,hotel

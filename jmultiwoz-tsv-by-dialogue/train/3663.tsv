@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3663	0	USER	こんにちは。今度名古屋へ行くのですけど、中川区で買い物ができるところを探しています。駐車場無料で、南荒子駅が最寄の所って、どこかありますか？	general,shopping,restaurant
+3663	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,shopping,restaurant
+3663	2	USER	そうなんですね。では南荒子駅でなくてもいいので、良いところがあれば教えていただけますか？	general,shopping,restaurant
+3663	3	SYSTEM	1件見つかりました。　ゲンキー富船店は、いかがですか？	general,shopping,restaurant
+3663	4	USER	ありがとうございます。そちらの近辺の駅からの所要時間と、住所も教えていただけますか？	general,shopping,restaurant
+3663	5	SYSTEM	所要時間は、尾頭橋駅からタクシーで8分です。　住所は、愛知県名古屋市中川区富船町3丁目1-1です。	general,shopping,restaurant
+3663	6	USER	ありがとうございます。それと、食事ができる場所も探したいのですけど、お安めの設定で郷土料理のお店はありますか？	general,shopping,restaurant
+3663	7	SYSTEM	では、蒲郡桔梗屋はいかがですか？	general,shopping,restaurant
+3663	8	USER	よさそうですね。そちらの料金情報と、営業時間も教えてもらえますか？	general,shopping,restaurant
+3663	9	SYSTEM	料金情報は、不明となっています。　営業時間は、11時から15時、17時から23時となっています。	general,shopping,restaurant
+3663	10	USER	ありがとうございます。そこを予約したいので、9/8の15:20で、2名でお願いします。	general,shopping,restaurant
+3663	11	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,shopping,restaurant
+3663	12	USER	あ、そうですか。では1名にしてもらえますか？	general,shopping,restaurant
+3663	13	SYSTEM	予約が完了しました。　予約番号は、22131です。	general,shopping,restaurant
+3663	14	USER	ありがとうございました。	general,shopping,restaurant
+3663	15	SYSTEM	他にご用件はありますか？	general,shopping,restaurant
+3663	16	USER	大丈夫です。どうもありがとうございました。	general,shopping,restaurant
+3663	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant

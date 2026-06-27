@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1571	0	USER	大阪へ行くことを計画しています。	general,hotel
+1571	1	SYSTEM	どのようなお店や施設をお探しですか？	general,hotel
+1571	2	USER	難波駅近くでWi-Fi無料の宿泊施設を探しています。レストランも併設している所が良いです。	general,hotel
+1571	3	SYSTEM	アゴーラプレイス 大阪難波は、いかがでしょうか？	general,hotel
+1571	4	USER	ありがとうございます、そのホテルで予約をお願いしたいです。アゴーラプレイス 大阪難波は何時からチェックインできますか？	general,hotel
+1571	5	SYSTEM	では、予約の日時、人数、宿泊日数など希望をお知らせください。　こちらのホテルのチェックイン開始時間は、15時となっております。	general,hotel
+1571	6	USER	はい、11/3から4泊で人数は3人でお願いします。	general,hotel
+1571	7	SYSTEM	予約が完了しました。　予約番号は、41099です。	general,hotel
+1571	8	USER	ありがとうございます、お世話になりました。	general,hotel
+1571	9	SYSTEM	他にご用件はありますか？	general,hotel
+1571	10	USER	これだけです。	general,hotel
+1571	11	SYSTEM	承知致しました。　ありがとうございました。	general,hotel

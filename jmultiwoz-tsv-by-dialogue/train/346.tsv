@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+346	0	USER	大阪へ行くのですが、どこか買い物ができるところはありませんか？	general,shopping
+346	1	SYSTEM	48件ほど、ご案内できるお店がございます。ジャンルやエリアなど、ご希望はございませんか？	general,shopping
+346	2	USER	浪速区がいいです。	general,shopping
+346	3	SYSTEM	そうしますと、4件候補がございます。たとえば、大阪木津卸売市場といった場所は、ご興味おありでしょうか？	general,shopping
+346	4	USER	そこはどんなジャンルですか？	general,shopping
+346	5	SYSTEM	商店街となっております。	general,shopping
+346	6	USER	では、そこに行ってみます。以上です、大変ありがとうございました。	general,shopping
+346	7	SYSTEM	ごちらこそ、ご利用ありがとうございました。	general,shopping

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2966	0	USER	今度札幌へ行くんですが、円山公園駅の近くでWi-Fiが無料の居酒屋はありますか？	general,restaurant,weather
+2966	1	SYSTEM	はい、エリアでいうと中央区に、和味酒彩 秋夏がございます。	general,restaurant,weather
+2966	2	USER	ありがとうございます。ではそこの営業時間と電話番号と駐車場の有無も教えてもらえますか？	general,restaurant,weather
+2966	3	SYSTEM	はい、営業時間は12時から23時、電話番号は0116885277となります。駐車場のご用意はございません。	general,restaurant,weather
+2966	4	USER	ありがとうございます。ではそこの予約をお願いできますか？5/21の11：30で３名です。	general,restaurant,weather
+2966	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、43924 となります。	general,restaurant,weather
+2966	6	USER	ありがとうございます。あと5/21の手稲区の最低気温はわかりますか？	general,restaurant,weather
+2966	7	SYSTEM	はい、最低気温6.2度となります。	general,restaurant,weather
+2966	8	USER	ありがとうございました。以上で結構です。	general,restaurant,weather
+2966	9	SYSTEM	ありがとうございました。	general,restaurant,weather

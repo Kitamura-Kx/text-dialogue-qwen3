@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4121	0	USER	京都に旅行に行こうと思います、西京区にあるwifiが無料の観光スポットはありますか	general,attraction,shopping
+4121	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,attraction,shopping
+4121	2	USER	では西京市にある観光名所を教えて下しあ	general,attraction,shopping
+4121	3	SYSTEM	では桂坂野鳥遊園がございます。	general,attraction,shopping
+4121	4	USER	ありがとうございます、最寄りの駅からどのくらいの時間がかかりますか	general,attraction,shopping
+4121	5	SYSTEM	桂駅からバスで25分でございます。	general,attraction,shopping
+4121	6	USER	ありがとうございます、住所と電話番号を教えてください	general,attraction,shopping
+4121	7	SYSTEM	住所は京都府京都市西京区御陵北大枝山町1-100で、電話番号は0753324610でございます。	general,attraction,shopping
+4121	8	USER	ありがとうございます、当日買い物もしたいのですが上京区で買い物ができるお店はありませんか	general,attraction,shopping
+4121	9	SYSTEM	鶴屋𠮷信 本店がございます。	general,attraction,shopping
+4121	10	USER	電話番号を教えてください	general,attraction,shopping
+4121	11	SYSTEM	電話番号は0754410105でございます。	general,attraction,shopping
+4121	12	USER		general,attraction,shopping

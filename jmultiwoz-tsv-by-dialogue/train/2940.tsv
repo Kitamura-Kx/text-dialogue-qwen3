@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2940	0	USER	今度、仙台の榴ヶ岡駅近くで観光しようと思っています。良い観光名所を教えて下さい。	general,attraction,weather
+2940	1	SYSTEM	エリアでいうと宮城野区にある、仙台市歴史民俗資料館はいかがでしょう？	general,attraction,weather
+2940	2	USER	行ってみたいです。子供の入場料を教えてください。	general,attraction,weather
+2940	3	SYSTEM	はい、子供入場料は120円となります。	general,attraction,weather
+2940	4	USER	ありがとうございます。そこはジャンルいうと何になりますか？料金情報も教えて下さい。	general,attraction,weather
+2940	5	SYSTEM	ジャンルは、教室、ワークショップ、体験、美術館、博物館、となります。料金情報としては、一般と大学生は240円、高校生180円、小中学生は120円、となります。	general,attraction,weather
+2940	6	USER	ありがとうございます。もう１つ、4月29日の泉区の最低気温と最高気温を教えてください。	general,attraction,weather
+2940	7	SYSTEM	はい、天気は晴時々雨、最低気温9.7度、最高気温16.1度となります。	general,attraction,weather
+2940	8	USER	ありがとうございました。助かりました。それでは失礼します。	general,attraction,weather

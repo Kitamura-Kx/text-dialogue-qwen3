@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4542	0	USER	那覇へ旅行しようと思っているのですが科学館に行きたいです。WI-FIが無料で使えるところはありますか？地区は本庁がいいかな。	general,attraction,taxi
+4542	1	SYSTEM	那覇本庁には、WiFi無料の科学館はなさそうです。	general,attraction,taxi
+4542	2	USER	残念です。それでは科学館でなくてもお勧めがあれば教えて下さい。	general,attraction,taxi
+4542	3	SYSTEM	那覇本庁には、WiFi無料の観光名所はいくつかありますが、体験工房 美ら風をお勧めします。	general,attraction,taxi
+4542	4	USER	いいですね。住所はどちらですか？	general,attraction,taxi
+4542	5	SYSTEM	沖縄県那覇市牧志3丁目2-50です。	general,attraction,taxi
+4542	6	USER	ありがとうございます。ジャンボタクシーを利用したいのですがキャッシュレス可能なところはありますか？	general,attraction,taxi
+4542	7	SYSTEM	そらならば、三和交通をお勧めします。	general,attraction,taxi
+4542	8	USER	電話番号を教えて下さい。	general,attraction,taxi
+4542	9	SYSTEM	0120100084です。	general,attraction,taxi
+4542	10	USER	ありがとうございます。そこを予約して頂けますか？3/2で14:00で体験工房 美ら風からOKINAWA KARIYUSHI RESORT EXES NAHAまでです。	general,attraction,taxi
+4542	11	SYSTEM	予約成功しました。予約番号は30930です。	general,attraction,taxi
+4542	12	USER	以上です。どうもありがとうございました。	general,attraction,taxi

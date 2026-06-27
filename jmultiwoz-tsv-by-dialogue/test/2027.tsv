@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2027	0	USER	札幌の北区で無料Wi-Fiが利用できる観光名所はありますか？	general,attraction,shopping
+2027	1	SYSTEM	申し訳ありません。この条件ではご案内ができません。いかが致しましょう？	general,attraction,shopping
+2027	2	USER	では、Wi-Fiはなくても構わないです。どこかありますか？	general,attraction,shopping
+2027	3	SYSTEM	北海道大学 大野池はいかがでしょう？ジャンルは、自然、公園、散策エリア、となります。	general,attraction,shopping
+2027	4	USER	ありがとうございます。そこは最寄り駅はどこになりますか？	general,attraction,shopping
+2027	5	SYSTEM	最寄りの北12条駅から徒歩で4分となります。	general,attraction,shopping
+2027	6	USER	あと、子供の入場料も教えて下さい。	general,attraction,shopping
+2027	7	SYSTEM	子供入場料は無料となっております。	general,attraction,shopping
+2027	8	USER	ありがとうございます。当日ISHIYA 札幌大通本店で買い物をしたいのですが、営業時間を教えてもらえますか？	general,attraction,shopping
+2027	9	SYSTEM	営業時間は10時から19時となります。	general,attraction,shopping
+2027	10	USER	ありがとうございました。	general,attraction,shopping
+2027	11	SYSTEM	他にご用件はございますか？	general,attraction,shopping
+2027	12	USER	大丈夫です。ありがとうございました。	general,attraction,shopping
+2027	13	SYSTEM	ありがとうございました。	general,attraction,shopping

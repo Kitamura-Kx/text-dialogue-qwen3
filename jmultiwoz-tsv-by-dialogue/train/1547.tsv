@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1547	0	USER	京都の観光名所を探しています。山科区で駐車場が無料で使えるところってありますか？	general,attraction,weather
+1547	1	SYSTEM	それでしたら、勧修寺観光農園はいかがですか？	general,attraction,weather
+1547	2	USER	いいですね！ちなみにそちらの施設の料金情報ってわかりますか？	general,attraction,weather
+1547	3	SYSTEM	料金情報は、ぶどう狩りは、大人2000円、子供は1500円、幼児は1000円、2歳以下無料になります。　それ以外に入場料が別途かかります。	general,attraction,weather
+1547	4	USER	なるほど。あと、1/16の左京区の気温を教えてもらえますか？	general,attraction,weather
+1547	5	SYSTEM	天気は、晴の予報です。	general,attraction,weather
+1547	6	USER	晴れですね。気温はわかりますか？	general,attraction,weather
+1547	7	SYSTEM	はい、最高気温は14.9度、最低気温は6度となっています。	general,attraction,weather
+1547	8	USER	わかりました。教えてくれてありがとうございました！	general,attraction,weather

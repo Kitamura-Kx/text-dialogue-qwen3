@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3865	0	USER	今度、名古屋へ行きます。キャッシュレス払いできるタクシー会社を教えて欲しいです。	general,taxi
+3865	1	SYSTEM	かしこまりました。ではつばめタクシーグループがございます。	general,taxi
+3865	2	USER	そちらは、ジャンボタクシーを利用できますか？	general,taxi
+3865	3	SYSTEM	はい。ジャンボタクシーにも対応しております。	general,taxi
+3865	4	USER	分かりました。電話番号も教えて下さい。	general,taxi
+3865	5	SYSTEM	電話番号は0522031212でございます。	general,taxi
+3865	6	USER	それでは、2月7日の午前9:50にスーパーホテル名古屋駅前から東横イン名古屋錦で予約をお願いします。	general,taxi
+3865	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は84811でございます。	general,taxi
+3865	8	USER	ありがとうございます。助かりました。それでは失礼します。	general,taxi

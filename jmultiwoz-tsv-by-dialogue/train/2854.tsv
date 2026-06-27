@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2854	0	USER	名古屋へ旅行に行くので買い物できるお店を探しています。	general,shopping,weather
+2854	1	SYSTEM	名古屋ですね。ご希望条件などはありますか？	general,shopping,weather
+2854	2	USER	中村区で文房具・雑貨を購入できるお店はありますか？	general,shopping,weather
+2854	3	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,shopping,weather
+2854	4	USER	では中村区で、文房具・雑貨以外で大丈夫なので買い物できるお店を探してください。	general,shopping,weather
+2854	5	SYSTEM	では、マーケットスクエアささしまはいかがでしょうか？	general,shopping,weather
+2854	6	USER	そこにしようと思います。定休日と電話番号を教えてください。	general,shopping,weather
+2854	7	SYSTEM	定休日は、店舗により異なるとなっています。　電話番号は、0525817715です。	general,shopping,weather
+2854	8	USER	ありがとうございます。あと1/8の東区の最高気温を教えてください。	general,shopping,weather
+2854	9	SYSTEM	その日の最高気温は、14.8度です。	general,shopping,weather
+2854	10	USER	ありがとうございます。	general,shopping,weather
+2854	11	SYSTEM	他にご用件はございますか？	general,shopping,weather
+2854	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,weather

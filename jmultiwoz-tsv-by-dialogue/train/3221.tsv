@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3221	0	USER	京都へ行く予定なので、どこか良い観光スポットがないかと探しています。	general,attraction
+3221	1	SYSTEM	調べさせていただきます。何か希望の要件はございますか？	general,attraction
+3221	2	USER	はい、右京区のあたりで探してもらえますか。無料Wi－Fiも完備している所がよいです。	general,attraction
+3221	3	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction
+3221	4	USER	残念です。それではWi-Fiがなくてもいいので、探してもらえますか？	general,attraction
+3221	5	SYSTEM	かしこまりました。では、東映太秦映画村はいかがでしょうか？	general,attraction
+3221	6	USER	良いですね、そこにします。営業時間は分かりますか？駐車場があるかどうかも知りたいです。	general,attraction
+3221	7	SYSTEM	営業時間は10:00～17:00で、駐車場は有料のものがございます。	general,attraction
+3221	8	USER	ありがとうございます、助かりました。	general,attraction
+3221	9	SYSTEM	いえいえ。ほかにお調べすることはありますか？	general,attraction
+3221	10	USER	これで全てです。	general,attraction
+3221	11	SYSTEM	承知しました。ありがとうございました。	general,attraction

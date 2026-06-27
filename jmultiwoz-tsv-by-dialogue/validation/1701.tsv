@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1701	0	USER	東京へ旅行したいのですが、渋谷区の最寄り駅が仲御徒町駅の買い物店舗はありますか？	general,shopping
+1701	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,shopping
+1701	2	USER	そうですか。最寄駅はどこでも大丈夫です。	general,shopping
+1701	3	SYSTEM	ではKIDDY LAND原宿店はいかがでしょうか。	general,shopping
+1701	4	USER	いいですね。近辺の駅からの所要時間を知りたいです。	general,shopping
+1701	5	SYSTEM	原宿駅から徒歩で6分、明治神宮前〈原宿〉駅から徒歩で2分でございます。	general,shopping
+1701	6	USER	ありがとうございます。もう大丈夫です。	general,shopping
+1701	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

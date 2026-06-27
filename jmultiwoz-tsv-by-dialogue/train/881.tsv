@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+881	0	USER	福岡旅行を計画してるのですが、当日、ジャンボタクシーを利用できるタクシー会社を探しています。	general,taxi
+881	1	SYSTEM	では、福岡交通（株）はいかがでしょうか？	general,taxi
+881	2	USER	ありがとうございます。福岡交通（株）の電話番号は分かりますか？	general,taxi
+881	3	SYSTEM	はい。電話番号は、0570081234です。予約もなさいますか？	general,taxi
+881	4	USER	はい、お願いします。9/18の10：00から、住吉神社から牛すじ葱丸までお願い出来ますか？	general,taxi
+881	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、60274です。	general,taxi
+881	6	USER	ありがとうございます。	general,taxi
+881	7	SYSTEM	ほかにお手伝いできることはございませんか？	general,taxi
+881	8	USER	いえ、他は大丈夫です。ありがとうございました。	general,taxi

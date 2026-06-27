@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3713	0	USER	仙台へ旅行したいのですが。	general,attraction,restaurant,weather
+3713	1	SYSTEM	かしこまりました。何かご案内できることはありますでしょうか？	general,attraction,restaurant,weather
+3713	2	USER	最寄り駅が長町駅で、観光名所はありますか？	general,attraction,restaurant,weather
+3713	3	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction,restaurant,weather
+3713	4	USER	わかりました。では、最寄り駅はどこでもよいので観光名所はありますか？	general,attraction,restaurant,weather
+3713	5	SYSTEM	かしこまりました。では、仙台東照宮 石鳥居はいかがでしょうか？	general,attraction,restaurant,weather
+3713	6	USER	そちらは駐車場はありますか？	general,attraction,restaurant,weather
+3713	7	SYSTEM	はい。ございますよ。	general,attraction,restaurant,weather
+3713	8	USER	わかりました。当日食事ができる飲食店も探していただけますか？太白区で無料Wi-Fiが利用できるのが希望です。	general,attraction,restaurant,weather
+3713	9	SYSTEM	かしこまりました。では、目利きの銀次 長町南駅前店はいかがでしょうか？	general,attraction,restaurant,weather
+3713	10	USER	ありがとうございます。そちらの住所はわかりますか？	general,attraction,restaurant,weather
+3713	11	SYSTEM	はい。住所は宮城県仙台市太白区長町南3丁目3-43 長町南たちばなビル1階です。	general,attraction,restaurant,weather
+3713	12	USER	ありがとうございます。駐車場はありますか？	general,attraction,restaurant,weather
+3713	13	SYSTEM	申し訳ございません。無しとなっております。	general,attraction,restaurant,weather
+3713	14	USER	わかりました。ありがとうございます。	general,attraction,restaurant,weather
+3713	15	SYSTEM	はい。他に何かご用件はございませんか？	general,attraction,restaurant,weather
+3713	16	USER	はい。では、当日5/5の若林区の天気と最低気温を調べてください。	general,attraction,restaurant,weather
+3713	17	SYSTEM	かしこまりました。5/5の若林区の天気予報は曇時々晴となっております。最低気温は11.8度、最高気温は19.3度になる予報です。	general,attraction,restaurant,weather
+3713	18	USER	ありがとうございます。	general,attraction,restaurant,weather
+3713	19	SYSTEM	はい。他に何かご用件はございませんか？	general,attraction,restaurant,weather
+3713	20	USER	とくにありません。ありがとうございました。	general,attraction,restaurant,weather
+3713	21	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,weather

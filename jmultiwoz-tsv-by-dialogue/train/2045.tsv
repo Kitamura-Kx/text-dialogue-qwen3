@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2045	0	USER	京都への旅行を計画中なのですが、いくつかお願いします。まずは、レストランが併設された駐車場無料の宿泊施設をお願いします。	general,hotel,weather
+2045	1	SYSTEM	かしこまりました。それでは、リーガロイヤルホテル京都はいかがでしょうか？	general,hotel,weather
+2045	2	USER	「リーガロイヤルホテル京都」の電話番号とチェックイン時刻を教えて下さい。ちなみにWiFiはありますでしょうか？	general,hotel,weather
+2045	3	SYSTEM	はい、電話番号が0753411121、チェックイン開始時刻が14時からです。Wi-Fiは無料でご利用いただけます。	general,hotel,weather
+2045	4	USER	ありがとうございます、山科区の当日7/14の天気と最低気温を教えて下さい。	general,hotel,weather
+2045	5	SYSTEM	はい、当日の山科区の天気は曇、最低気温は19.4度の予報です。	general,hotel,weather
+2045	6	USER	助かりました他は大丈夫です、有難うございました。	general,hotel,weather
+2045	7	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,weather

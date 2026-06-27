@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4049	0	USER	京都への旅行を計画しています。 当日買い物ができるところを探してください。	general,shopping,taxi,weather
+4049	1	SYSTEM	かしこまりました。該当店舗が50カ所ほどありますが、何かご希望ありますか？	general,shopping,taxi,weather
+4049	2	USER	最寄り駅が山科駅、駐車場を無料で利用できるところにしてください。	general,shopping,taxi,weather
+4049	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,shopping,taxi,weather
+4049	4	USER	そうですか。では最寄駅は考えなくていいです。	general,shopping,taxi,weather
+4049	5	SYSTEM	かしこまりました。それでは道の駅 ウッディー京北はいかがでしょうか？	general,shopping,taxi,weather
+4049	6	USER	そこのお店の住所を教えてください。	general,shopping,taxi,weather
+4049	7	SYSTEM	はい、住所は京都府京都市右京区京北周山町上寺田1-1でございます。	general,shopping,taxi,weather
+4049	8	USER	あと、タクシー会社を探してください。ジャンボタクシーを利用できるところが希望です。	general,shopping,taxi,weather
+4049	9	SYSTEM	かしこまりました。それでは都タクシー株式会社はいかがでしょうか？	general,shopping,taxi,weather
+4049	10	USER	その会社のキャッシュレス対応，電話番号が知りたいです。	general,shopping,taxi,weather
+4049	11	SYSTEM	はい、キャッシュレスにも対応しております。電話番号は0756616611でございます。	general,shopping,taxi,weather
+4049	12	USER	タクシーの予約をお願いします。日付は12/20、時間は13:00、出発地は道の駅 ウッディー京北、目的地はRESI STAY BRiXというところでお願いします。	general,shopping,taxi,weather
+4049	13	SYSTEM	お待たせ致しました。予約番号25272でお取りさせていただきました。	general,shopping,taxi,weather
+4049	14	USER	あと、天候を調べてください。地区は山科区、日付は12/20、最高気温が知りたいです。	general,shopping,taxi,weather
+4049	15	SYSTEM	当日の山科区の天気は晴れ、最高気温は13.2度の予報でございます。	general,shopping,taxi,weather
+4049	16	USER	解決しました。ありがとうございました。	general,shopping,taxi,weather

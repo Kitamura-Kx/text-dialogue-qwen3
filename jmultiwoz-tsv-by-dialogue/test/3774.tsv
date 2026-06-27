@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3774	0	USER	東京への旅行を計画しているのですが、駐車場が無料の買い物ができるところはありませんか？	general,shopping,hotel,taxi
+3774	1	SYSTEM	では、エリアでいうと港区にある、アクアシティお台場はいかがでしょう？ジャンルは、ショッピングモールとなります。	general,shopping,hotel,taxi
+3774	2	USER	最寄り駅が金町駅の場所ではありませんか？	general,shopping,hotel,taxi
+3774	3	SYSTEM	申し訳ありません、金町駅付近にはございません。いかが致しましょう？	general,shopping,hotel,taxi
+3774	4	USER	では、駐車場は無料でなくても大丈夫です。	general,shopping,hotel,taxi
+3774	5	SYSTEM	では、エリアでいうと葛飾区にある、たべものと日用品 WAOはいかがでしょう？ジャンルは、食料品、文房具、雑貨となります。	general,shopping,hotel,taxi
+3774	6	USER	ありがとうございます。お値段が安めで、レストランが併設されている宿泊施設はありますか？	general,shopping,hotel,taxi
+3774	7	SYSTEM	はい、エリアでいうと台東区にある、ビジネスホテル山百合はいかがでしょう？タイプは、ビジネスホテルとなります。	general,shopping,hotel,taxi
+3774	8	USER	そちらはWi-Fiは無料でしょうか？	general,shopping,hotel,taxi
+3774	9	SYSTEM	申し訳ありません、Wi-Fiのご用意はございません。Wi-Fiの条件を追加すると、ご紹介ができなくなりますが、条件として加えられますか？	general,shopping,hotel,taxi
+3774	10	USER	大丈夫です。そちらの料金情報を教えてもらえますか？	general,shopping,hotel,taxi
+3774	11	SYSTEM	申し訳ありません、ご案内可能な料金情報はございません。	general,shopping,hotel,taxi
+3774	12	USER	わかりました。そちらのホテルを2/4から4泊で4名の予約をお願いできますか？	general,shopping,hotel,taxi
+3774	13	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,shopping,hotel,taxi
+3774	14	USER	では宿泊日数を3泊に変更して下さい。	general,shopping,hotel,taxi
+3774	15	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、47047となります。	general,shopping,hotel,taxi
+3774	16	USER	キャッシュレス払いが可能なジャンボタクシーを利用できるタクシー会社も探してもらえますか？	general,shopping,hotel,taxi
+3774	17	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,hotel,taxi
+3774	18	USER	じゃあジャンボタクシーはなくても大丈夫です。	general,shopping,hotel,taxi
+3774	19	SYSTEM	では、ビゲストはいかがでしょう？電話番号は、0334201385となります。	general,shopping,hotel,taxi
+3774	20	USER	2/4の14:30にたべものと日用品 WAOから、ビジネスホテル山百合まで予約をお願いしても良いですか？	general,shopping,hotel,taxi
+3774	21	SYSTEM	承知しました。予約が完了し、ご予約番号は、92784となります。	general,shopping,hotel,taxi
+3774	22	USER	ありがとうございました。	general,shopping,hotel,taxi
+3774	23	SYSTEM	ありがとうございました。	general,shopping,hotel,taxi

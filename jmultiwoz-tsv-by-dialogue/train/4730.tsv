@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4730	0	USER	横浜へ旅行するのですが、ジャンボタクシーが使えて、キャッシュレス払いできるようなタクシー会社はありませんか？	general,taxi
+4730	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,taxi
+4730	2	USER	そうですか。ジャンボタクシーじゃなくてもいいです。	general,taxi
+4730	3	SYSTEM	それでしたら、神奈川都市交通株式会社 金沢営業所はいかがですか？	general,taxi
+4730	4	USER	そこにします。電話番号を教えてください。	general,taxi
+4730	5	SYSTEM	電話番号は、0457430100です。	general,taxi
+4730	6	USER	了解です。予約もお願いできます？1/31の13:00で、ベイタウン本牧5番街を出発して、目的地が京ほのか 鶴見西口店なのですが。	general,taxi
+4730	7	SYSTEM	予約出来ました。予約番号は、10719です。	general,taxi
+4730	8	USER	ありがとうございます。これで大丈夫です。	general,taxi
+4730	9	SYSTEM	承知しました。ありがとうございました。	general,taxi

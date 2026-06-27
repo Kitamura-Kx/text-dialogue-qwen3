@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3163	0	USER	札幌への旅行を計画しているので、宿のタイプがシティホテルでWi-Fiが無料で利用できる宿泊施設を探してもらえますか？	general,hotel,taxi
+3163	1	SYSTEM	JRタワーホテル日航札幌は、いかがですか？	general,hotel,taxi
+3163	2	USER	そこにしようと思うので、電話番号を教えてください。	general,hotel,taxi
+3163	3	SYSTEM	電話番号は、0112512222です。	general,hotel,taxi
+3163	4	USER	ありがとうございます。あとキャッシュレス払いができるタクシー会社も探してもらえますか？	general,hotel,taxi
+3163	5	SYSTEM	平岸ハイヤー(株)は、いかがですか？	general,hotel,taxi
+3163	6	USER	そこはジャンボタクシーに対応していますか？	general,hotel,taxi
+3163	7	SYSTEM	申し訳ありません、ジャンボタクシーは非対応となっています。	general,hotel,taxi
+3163	8	USER	わかりました。では4/29の13:40にJRイン札幌北2条からJRタワーホテル日航札幌まで予約をお願いします。	general,hotel,taxi
+3163	9	SYSTEM	予約出来ました。予約番号は、72840です。	general,hotel,taxi
+3163	10	USER	ありがとうございます。	general,hotel,taxi
+3163	11	SYSTEM	他にご用件はございますか？	general,hotel,taxi
+3163	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel,taxi

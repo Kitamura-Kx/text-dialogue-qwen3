@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4599	0	USER	京都への旅行を計画しています． 当日訪れる観光名所を探してください．駐車場を無料で利用できるところにしてください．地区は左京区です．	general,attraction,taxi
+4599	1	SYSTEM	下鴨神社はいかがでしょうか。	general,attraction,taxi
+4599	2	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してください．ジャンボタクシーを利用できるところにしてください．	general,attraction,taxi
+4599	3	SYSTEM	洛陽交運株式会社はいかがでしょうか。	general,attraction,taxi
+4599	4	USER	そちらの電話番号とキャッシュレス対応しているか教えていただけますか。	general,attraction,taxi
+4599	5	SYSTEM	キャッシュレス対応は不明、電話番号は0756918101です。	general,attraction,taxi
+4599	6	USER	ありがとうございます。そちらで日付は10/18です．時間は15:00です．出発地は先ほど見つけた観光施設です．目的地はノンバーバルシアター『ギア-GEAR-』というところで予約いただけますか。	general,attraction,taxi
+4599	7	SYSTEM	予約完了いたしました。予約番号は57028になります。	general,attraction,taxi
+4599	8	USER	ありがとうございます。	general,attraction,taxi

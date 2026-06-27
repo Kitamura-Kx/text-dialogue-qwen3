@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3750	0	USER	仙台への旅行を考えているのですが。	general,attraction,hotel
+3750	1	SYSTEM	仙台ですね。どのようなお店や施設をお探しですか？	general,attraction,hotel
+3750	2	USER	場所は宮城野区で、駐車場が無料で使える、観光名所を探しています。	general,attraction,hotel
+3750	3	SYSTEM	では、仙台うみの杜水族館はどうですか？	general,attraction,hotel
+3750	4	USER	そちらの子供の入場料金と、Wi-Fiは利用可能か？伺いたいのですが。	general,attraction,hotel
+3750	5	SYSTEM	こどもの入場料金は、小学生1100円、幼児600円です。　Wi-Fi利用につきましては、無料Wi-Fiが利用出来ます。	general,attraction,hotel
+3750	6	USER	ありがとうございます。	general,attraction,hotel
+3750	7	SYSTEM	他にご用件はございますか？	general,attraction,hotel
+3750	8	USER	はい。宮城野区で、シティホテルタイプの宿泊場所を探しています。	general,attraction,hotel
+3750	9	SYSTEM	では、仙台ガーデンパレスはいかがですか？	general,attraction,hotel
+3750	10	USER	そちらのホテルは、レストランもありますか？	general,attraction,hotel
+3750	11	SYSTEM	はい、レストランも併設されています。	general,attraction,hotel
+3750	12	USER	お店の名前はわかりますか？	general,attraction,hotel
+3750	13	SYSTEM	申し訳ありません、名前の記載はございません。	general,attraction,hotel
+3750	14	USER	わかりました。大丈夫です。ありがとうございます。	general,attraction,hotel
+3750	15	SYSTEM	他にご用件はありますか？	general,attraction,hotel
+3750	16	USER	ないです。ありがとうございました。	general,attraction,hotel
+3750	17	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel

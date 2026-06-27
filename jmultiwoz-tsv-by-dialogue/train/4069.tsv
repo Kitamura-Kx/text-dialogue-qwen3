@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4069	0	USER	仙台への旅行を計画しています． 当日泊まる宿泊施設を探してください．Wi-Fiが無料で利用できるところにしてください．レストランが併設されているところにしてください．地区は太白区です．	general,hotel
+4069	1	SYSTEM	ホテルルートイン仙台長町インターはいかがでしょうか。	general,hotel
+4069	2	USER	そちらの最寄り駅，チェックイン開始時刻，電話番号を教えていただけますか。	general,hotel
+4069	3	SYSTEM	最寄り駅は長町駅、チェックイン開始時刻は15:00、電話番号 は0223041131です。	general,hotel
+4069	4	USER	ありがとうございます。	general,hotel

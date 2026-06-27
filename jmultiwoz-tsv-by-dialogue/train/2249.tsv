@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2249	0	USER	京都へ旅行に行くので、観光できるところを探してください。	general,attraction
+2249	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction
+2249	2	USER	地区は伏見区で、駐車場を無料で利用できるところにしてください。最寄り駅が桃山御陵前駅のところだと助かります。	general,attraction
+2249	3	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,attraction
+2249	4	USER	では最寄り駅の条件は外して構いません。	general,attraction
+2249	5	SYSTEM	では、伏見稲荷大社はいかがでしょうか？	general,attraction
+2249	6	USER	そちらの大人入場料と住所を教えてください。	general,attraction
+2249	7	SYSTEM	大人入場料は0円で、無料、拝観自由でございます。住所は、京都府京都市伏見区深草藪之内町68です。	general,attraction
+2249	8	USER	ありがとうございます。これで終了で大丈夫です。	general,attraction
+2249	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

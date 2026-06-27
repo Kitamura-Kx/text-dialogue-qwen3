@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+62	0	USER	東京に行くんですけど、東京スカイツリーについてお聞きしたいことがあるんですが？	general,attraction,weather
+62	1	SYSTEM	お問い合わせありがとうございます。東京スカイツリーですね。どういった点がご不明でしょうか？	general,attraction,weather
+62	2	USER	行ってたら閉まってたが怖くって。定休日ってあるんですか？	general,attraction,weather
+62	3	SYSTEM	そうですよね。東京スカイツリーですが、定休日はございませんので、ご安心くださいませ。	general,attraction,weather
+62	4	USER	それは安心だ。9月23日の大田区の天候って調べられますか？	general,attraction,weather
+62	5	SYSTEM	はい、お調べいたしました。東京、大田区の9月23日のお天気は曇、最高気温23.4度の予報です。	general,attraction,weather
+62	6	USER	最高でそのぐらいだと朝とか寒いのかなあ？　最低気温も聞いておきたいんですけど。	general,attraction,weather
+62	7	SYSTEM	はい。最低気温は22.7度です。	general,attraction,weather
+62	8	USER	ほとんど変化なしで過ごしやすそうですね。ありがとうございました。	general,attraction,weather
+62	9	SYSTEM	ご利用ありがとうございます。他にもなにか、お調べいたしましょうか？	general,attraction,weather
+62	10	USER	今日のところは大丈夫です。何かあったらまた連絡しますね。	general,attraction,weather
+62	11	SYSTEM	はい。本日はありがとうございました。またのご利用をお待ちしております。	general,attraction,weather

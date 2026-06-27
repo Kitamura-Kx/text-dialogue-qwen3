@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+547	0	USER	仙台への旅行を計画しているのですが、当日タクシーを利用したいと思っています。キャッシュレスでジャンボタクシーが利用できる会社はありますか。	general,taxi,weather
+547	1	SYSTEM	はい、ございます。仙台タクシーグループは、いかがでしょうか？	general,taxi,weather
+547	2	USER	電話番号を教えてください。	general,taxi,weather
+547	3	SYSTEM	電話番号は、0570061616でございます。	general,taxi,weather
+547	4	USER	それでは、1月7日の11時30分、ララガーデン長町からホテルニュー水戸屋 アネックスまで予約をお願いします。	general,taxi,weather
+547	5	SYSTEM	ご予約ありがとうございます。予約番号39978にて、承りました。	general,taxi,weather
+547	6	USER	ありがとうございました。1月7日の太白区の天気も教えていただけますでしょうか。	general,taxi,weather
+547	7	SYSTEM	かしこまりました。当日の天気は、晴れのち曇りの予報です。最低気温はマイナス0.6度、最高気温は6.6度の予想となっております。	general,taxi,weather
+547	8	USER	ありがとうございました。	general,taxi,weather

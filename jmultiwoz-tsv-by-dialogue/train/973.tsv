@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+973	0	USER	京都への旅行を検討しており、飲食店を探しています。どこかおすすめはありますか？	general,restaurant,attraction
+973	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,attraction
+973	2	USER	出来れば、予算は安めが希望なのですが。	general,restaurant,attraction
+973	3	SYSTEM	ではスペインバル Ternuraはいかがでしょうか。	general,restaurant,attraction
+973	4	USER	良さそうですね！そちらにしてみようと思います。ちなみに、そこは近辺の駅からの所要時間ってどのくらいですか？	general,restaurant,attraction
+973	5	SYSTEM	河原町駅から徒歩で3分、祇園四条駅から徒歩で7分でございます。	general,restaurant,attraction
+973	6	USER	ありがとうございます。ついでに、Wi-Fiはありますか？	general,restaurant,attraction
+973	7	SYSTEM	Wi-Fiは無料でお使いいただけます。	general,restaurant,attraction
+973	8	USER	助かります！出来れば、このまま予約をしたいのですが、よろしいでしょうか？	general,restaurant,attraction
+973	9	SYSTEM	はい、かしこまりました。予約の詳細をお聞かせいただけますか。	general,restaurant,attraction
+973	10	USER	はい。日付は2月12日の10時40分。人数は3人でお願いします。	general,restaurant,attraction
+973	11	SYSTEM	予約が完了いたしました。予約番号は73176でございます。	general,restaurant,attraction
+973	12	USER	ありがとうございます。それとは別件で、山科区での観光名所も探しているのですが、このまま続けてよろしいでしょうか？	general,restaurant,attraction
+973	13	SYSTEM	かしこまりました。では京都市東部文化会館はいかがでしょうか。	general,restaurant,attraction
+973	14	USER	出来れば無料の駐車場があると嬉しいのですが、大丈夫でしょうか？	general,restaurant,attraction
+973	15	SYSTEM	では勧修寺観光農園はいかがでしょうか。無料の駐車場がございます。	general,restaurant,attraction
+973	16	USER	すみません。助かります。ではそちらにしようかと思います。ちなみに、そちらの料金情報ってわかりますかね？	general,restaurant,attraction
+973	17	SYSTEM	ぶどう狩りは大人2000円で、小人が1500円、3-5歳の幼児が1000円、2歳以下は無料でございます。  いも掘りが大人小人100円、幼稚園行事は700円となっております。	general,restaurant,attraction
+973	18	USER	助かります。それと、大人の入場料もわかりますか？	general,restaurant,attraction
+973	19	SYSTEM	大人の入場料は2000円でございます。	general,restaurant,attraction
+973	20	USER	わかりました。ありがとうございました。	general,restaurant,attraction
+973	21	SYSTEM	ほかにご用件はございますか。	general,restaurant,attraction
+973	22	USER	大丈夫です。ありがとうございました。	general,restaurant,attraction
+973	23	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction

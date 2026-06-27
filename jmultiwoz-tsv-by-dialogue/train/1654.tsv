@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1654	0	USER	京都へ旅行がしたいのですが、右京区で買い物ができる場所を探してもらえますか？	general,shopping,restaurant
+1654	1	SYSTEM	承知しました。他にご希望はございますか？	general,shopping,restaurant
+1654	2	USER	ショッピングモールが良いです。駐車場が無料のところでお願いします。	general,shopping,restaurant
+1654	3	SYSTEM	では、道の駅 ウッディー京北はいかがでしょう？	general,shopping,restaurant
+1654	4	USER	そちらの住所と最寄駅はわかりますか？	general,shopping,restaurant
+1654	5	SYSTEM	はい、住所は京都府京都市右京区京北周山町上寺田1-1、最寄りの円町駅からタクシーで40分となります。	general,shopping,restaurant
+1654	6	USER	ありがとうございます。あと、西京区で焼肉・ホルモンが食べられるお店を探していただけますか？	general,shopping,restaurant
+1654	7	SYSTEM	はい、海雲亭 洛西店がございます。値段帯は安め、となります。	general,shopping,restaurant
+1654	8	USER	いいですね。Wi-Fiが無料の場所が良いのですが、そちらのお店は対応していますか？	general,shopping,restaurant
+1654	9	SYSTEM	申し訳ありません。海雲亭 洛西店は、Wi-Fiの有無が不明、となっております。最初のエリアとジャンルに、Wi-Fiの条件を加えると、ご紹介可能な飲食店はございません。いかがされますか？	general,shopping,restaurant
+1654	10	USER	それならWi-Fiは無くても大丈夫です。海雲亭 洛西店の最寄り駅はどちらでしょう？	general,shopping,restaurant
+1654	11	SYSTEM	はい、最寄りの桂駅から徒歩で15分となります。	general,shopping,restaurant
+1654	12	USER	ありがとうございます。そちらのお店の予約をお願いします。7/8の11:50から3名でお願いします。	general,shopping,restaurant
+1654	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、64227となります。他にご案内できることはございますか？	general,shopping,restaurant
+1654	14	USER	大丈夫です。ありがとうございました。	general,shopping,restaurant
+1654	15	SYSTEM	ありがとうございました。	general,shopping,restaurant

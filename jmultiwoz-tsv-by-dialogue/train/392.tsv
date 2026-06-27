@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+392	0	USER	東京へ行こうと思っています。医療品や化粧品が買えるところを探していただけますか？	general,shopping
+392	1	SYSTEM	承知しました。その条件ですと、SHIRO 自由が丘店とAēsop 東京店の２件がございます。	general,shopping
+392	2	USER	SHIRO自由が丘店店に行ってみようと思います。お店の詳しい情報を教えてください。	general,shopping
+392	3	SYSTEM	承知しました。住所は東京都目黒区自由が丘2丁目9-14-1階、電話番号は0357019146、最寄りの自由が丘駅から徒歩で5分になります。営業時間は11時から20時、定休日はございません。	general,shopping
+392	4	USER	駐車場はありますでしょうか？	general,shopping
+392	5	SYSTEM	申し訳ありません。駐車場の有無については不明です。	general,shopping
+392	6	USER	わかりました。ありがとうございました。	general,shopping
+392	7	SYSTEM	他にご用件はございますか？	general,shopping
+392	8	USER	いえ、大丈夫です。ありがとうございました。	general,shopping

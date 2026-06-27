@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1965	0	USER	こんにちは！今度、名古屋旅行に行きたいので、案内をお願いします。	general,taxi
+1965	1	SYSTEM	こんにちは。名古屋に行かれるのですね。お探しは観光名所でしょうか？飲食店などでしょうか？	general,taxi
+1965	2	USER	タクシー会社を探していまして、キャッシュレス払いができて、ジャンボタクシーを利用できるところで探していただけると助かります！	general,taxi
+1965	3	SYSTEM	かしこまりました。それでは瑞穂タクシーさんはいかがでしょうか？	general,taxi
+1965	4	USER	ありがとうございます！そちらの電話番号はわかりますか？	general,taxi
+1965	5	SYSTEM	はい、電話番号は0523311680でございます。	general,taxi
+1965	6	USER	わかりました。ありがとうございます！じゃぁ、そちらの予約をお願いしたいです。	general,taxi
+1965	7	SYSTEM	かしこまりました。日程と当日ご乗車される人数をお伺いしてもよろしいでしょうか？	general,taxi
+1965	8	USER	はい。7月1日の14時50分に、スペイン料理 ダリから、大須演芸場まででお願いします。人数は、まだ決まっていないので、これでお願いします！	general,taxi
+1965	9	SYSTEM	申し訳ございません。そちらの日程ですとご予約することが出来ませんでした。	general,taxi
+1965	10	USER	そうなんですね。じゃぁ、時間を15時30分に変更してもらえますか？	general,taxi
+1965	11	SYSTEM	お待たせいたしました。予約番号54961でご予約致しました。	general,taxi
+1965	12	USER	ありがとうございます！	general,taxi
+1965	13	SYSTEM	他に何かご用件はございますでしょうか？	general,taxi
+1965	14	USER	いえ、あとはもう大丈夫です。ご案内、ありがとうございました！	general,taxi
+1965	15	SYSTEM	ありがとうございました。	general,taxi

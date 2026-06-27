@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+946	0	USER	京都へ旅行するのですが、どこか観光名所はありますか？	general,attraction,restaurant,shopping
+946	1	SYSTEM	かしこまりました。では、ご希望の条件はございますか。	general,attraction,restaurant,shopping
+946	2	USER	東山区のエリアで探しています。最寄り駅が嵐山駅で、駐車場を無料で利用できるところはありますか？	general,attraction,restaurant,shopping
+946	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,attraction,restaurant,shopping
+946	4	USER	では、最寄り駅は特にこだわりません。	general,attraction,restaurant,shopping
+946	5	SYSTEM	では安井金比羅宮はいかがでしょうか。	general,attraction,restaurant,shopping
+946	6	USER	そこに行ってみます。営業時間と料金情報を教えていただけますか？	general,attraction,restaurant,shopping
+946	7	SYSTEM	営業時間は00:00～00:00で、料金は無料でございます。	general,attraction,restaurant,shopping
+946	8	USER	ありがとうございます。当日食事できるところも探していますが、Wi-Fiが無料のところはありますか？安めの価格帯だと助かります。	general,attraction,restaurant,shopping
+946	9	SYSTEM	ではいっかくじゅう 四条新町店はいかがでしょうか。	general,attraction,restaurant,shopping
+946	10	USER	そちらの料金情報を教えていただけますか？	general,attraction,restaurant,shopping
+946	11	SYSTEM	料金情報は不明となっております。	general,attraction,restaurant,shopping
+946	12	USER	承知しました。あと最後に、当日買い物をしたいのですが、右京区で駐車場が無料のところはありますか？	general,attraction,restaurant,shopping
+946	13	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,restaurant,shopping
+946	14	USER	では、地区は右京区でなくても構いません。	general,attraction,restaurant,shopping
+946	15	SYSTEM	では山田松香木店はいかがですか。	general,attraction,restaurant,shopping
+946	16	USER	ありがとうございます。そちらの住所と最寄り駅を教えていただけますか？	general,attraction,restaurant,shopping
+946	17	SYSTEM	住所は京都府京都市上京区勘解由小路町164で、丸太町駅からは徒歩で7分でございます。	general,attraction,restaurant,shopping
+946	18	USER	分かりました。以上です。ありがとうございました。	general,attraction,restaurant,shopping
+946	19	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,shopping

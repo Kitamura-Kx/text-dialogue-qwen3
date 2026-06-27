@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2031	0	USER	札幌に行くんですが、無料で駐車場が利用できる泊まれるところを探しています。	general,hotel
+2031	1	SYSTEM	エリアでいうと南区にある、定山渓温泉 ぬくもりの宿 ふる川はいかがでしょう？タイプは旅館となります。	general,hotel
+2031	2	USER	ありがとうございます。そちらの値段帯とWi-Fiがあるかどうか教えてください。	general,hotel
+2031	3	SYSTEM	値段帯は安め、Wi-Fiは無料でご利用いただけます。	general,hotel
+2031	4	USER	ありがとうございます。そちらの旅館の予約お願いします。１月１５日から４泊で、人数２人です。	general,hotel
+2031	5	SYSTEM	予約が完了し、ご予約番号は、76267となります。	general,hotel
+2031	6	USER	予約ありがとうございました。	general,hotel
+2031	7	SYSTEM	他にご用件はございますか？	general,hotel
+2031	8	USER	大丈夫です。ありがとうございました。	general,hotel
+2031	9	SYSTEM	ありがとうございました。	general,hotel

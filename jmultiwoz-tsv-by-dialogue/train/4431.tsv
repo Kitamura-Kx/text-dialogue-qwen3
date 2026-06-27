@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4431	0	USER	大阪へ旅行したいのですが、安めでWi-Fiが無料で使える飲食店を探してもらえますか？	general,restaurant
+4431	1	SYSTEM	承知しました。では、エリアでいうと中央区にある、浅野焼鳥日本酒店HOMMACHIはいかがでしょう？ジャンルは、居酒屋となります。	general,restaurant
+4431	2	USER	そこにします。住所と営業時間を教えてください。	general,restaurant
+4431	3	SYSTEM	はい、住所は、大阪府大阪市中央区船場中央4丁目1-10 船場センタービル10号館 B1F、営業時間は、11時30分から13時と、17時から22時となります。	general,restaurant
+4431	4	USER	ありがとうございました。もう大丈夫です。	general,restaurant
+4431	5	SYSTEM	ありがとうございました。	general,restaurant

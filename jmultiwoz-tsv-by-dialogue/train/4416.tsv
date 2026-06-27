@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4416	0	USER	那覇へ旅行に行くのですが、真和志でレストランがある安めの宿泊施設はありますか？	general,hotel
+4416	1	SYSTEM	お待たせ致しました。それではノボテル沖縄那覇がございます。	general,hotel
+4416	2	USER	そちらの近辺の駅からの所要時間と料金情報を教えてもらえますか？	general,hotel
+4416	3	SYSTEM	はい、安里駅から徒歩で20分でございまして、料金情報は分かりません。	general,hotel
+4416	4	USER	わかりました。用件はそれだけです。	general,hotel
+4416	5	SYSTEM	かしこまりました。ありがとうございました。またお待ちしております。	general,hotel

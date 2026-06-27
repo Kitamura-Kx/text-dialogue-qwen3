@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1772	0	USER	こんにちは。福岡へ旅行予定なのですが、コンビニで駐車場が無料のところはありますか？	general,shopping,hotel,weather
+1772	1	SYSTEM	エリアでいうと東区にある、セブンイレブン 福岡箱崎店はいかがでしょう？	general,shopping,hotel,weather
+1772	2	USER	ありがとうございます。近辺の駅からの所要時間はどれくらいですか？	general,shopping,hotel,weather
+1772	3	SYSTEM	最寄りの箱崎九大前駅から徒歩で3分、近辺の箱崎宮前駅から徒歩で8分となります。	general,shopping,hotel,weather
+1772	4	USER	ありがとうございます。博多区で宿泊先も探しているのですが、レストランがあるところはありますか？	general,shopping,hotel,weather
+1772	5	SYSTEM	サンライフホテル 2・3はいかがでしょう？タイプはビジネスホテルになります。	general,shopping,hotel,weather
+1772	6	USER	ありがとうございます。住所と電話番号、あとチェックアウト終了時刻もお願いできますか？	general,shopping,hotel,weather
+1772	7	SYSTEM	住所は福岡県福岡市博多区博多駅東1丁目12-3、電話番号は0924737112、チェックアウト終了時刻は10時となります。	general,shopping,hotel,weather
+1772	8	USER	ありがとうございます。それから当日の天気も確認したいのですが、9/17の博多区の天気と、最低気温って分かりますか？	general,shopping,hotel,weather
+1772	9	SYSTEM	天気は雨時々晴、最低気温18.3度、最高気温26.2度となります。	general,shopping,hotel,weather
+1772	10	USER	色々ありがとうございました。以上で全部です。	general,shopping,hotel,weather
+1772	11	SYSTEM	ありがとうございました。	general,shopping,hotel,weather

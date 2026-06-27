@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4773	0	USER	那覇への旅行を考えています。飲食店を調べてください。	general,restaurant,hotel,weather
+4773	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,restaurant,hotel,weather
+4773	2	USER	地区が首里で最寄り駅が首里駅でお願いします。	general,restaurant,hotel,weather
+4773	3	SYSTEM	それでしたら屋台赤道ラーメン 首里駅前店はいかがですか？	general,restaurant,hotel,weather
+4773	4	USER	値段帯はどれくらいですか。	general,restaurant,hotel,weather
+4773	5	SYSTEM	はい。値段帯は安めとなっております。	general,restaurant,hotel,weather
+4773	6	USER	ありがとうございます。また、当日に泊まる宿泊施設を探してください。	general,restaurant,hotel,weather
+4773	7	SYSTEM	かしこまりました。かしこまりました。何か希望条件はございますか？	general,restaurant,hotel,weather
+4773	8	USER	地区が真和志でWi-Fiと駐車場が無料で使えるところにしてください。	general,restaurant,hotel,weather
+4773	9	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,restaurant,hotel,weather
+4773	10	USER	では、地区を本庁にしてください。	general,restaurant,hotel,weather
+4773	11	SYSTEM	それでしたら、旅の宿 らくちんはいかがですか？	general,restaurant,hotel,weather
+4773	12	USER	はい。そこの予約をお願いします。	general,restaurant,hotel,weather
+4773	13	SYSTEM	かしこまりました。予約情報をお伝えください。	general,restaurant,hotel,weather
+4773	14	USER	人数は4人です。日付は10/5です。宿泊日数は2泊です。	general,restaurant,hotel,weather
+4773	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、72652です。	general,restaurant,hotel,weather
+4773	16	USER	ありがとうございます。また、当日の天候を調べてください。	general,restaurant,hotel,weather
+4773	17	SYSTEM	はい。日付と場所の指定はございますか？	general,restaurant,hotel,weather
+4773	18	USER	日付は10/5です。地区は真和志です。	general,restaurant,hotel,weather
+4773	19	SYSTEM	かしこまりました。10/5の那覇の天気予報は晴となっております。最低気温は26.9度、最高気温は31.8度になる予報です。	general,restaurant,hotel,weather
+4773	20	USER	ありがとうございます。	general,restaurant,hotel,weather
+4773	21	SYSTEM	はい。他に何かご用件はございませんか？	general,restaurant,hotel,weather
+4773	22	USER	大丈夫です。	general,restaurant,hotel,weather
+4773	23	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel,weather
+4773	24	USER	ありがとうございました。	general,restaurant,hotel,weather

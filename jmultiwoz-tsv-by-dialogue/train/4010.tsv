@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4010	0	USER	札幌へ旅行を考えています。スポーツ用品が買える発寒駅が最寄り駅の店舗はありませんか？無料の駐車場もあればうれしいです。	general,shopping,weather
+4010	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,shopping,weather
+4010	2	USER	そうですか。なら、スポーツ用品が買えなくても大丈夫です。	general,shopping,weather
+4010	3	SYSTEM	かしこまりました。それではイオンモール札幌発寒がございます。	general,shopping,weather
+4010	4	USER	そこにします。電話番号と営業時間を教えてください。	general,shopping,weather
+4010	5	SYSTEM	ありがとうございます。電話番号は0116695515、営業時間は9時から22時でございます。	general,shopping,weather
+4010	6	USER	ありがとうございます。あと、手稲区の6/24の最低気温ってわかります？	general,shopping,weather
+4010	7	SYSTEM	はい、当日の最低気温は16.8度の予報でございます。	general,shopping,weather
+4010	8	USER	ありがとうございます。もう十分です。	general,shopping,weather
+4010	9	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,weather

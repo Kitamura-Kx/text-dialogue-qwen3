@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4230	0	USER	当日の大阪旅行で谷森町駅の近くで宿泊施設を探しているのですがありますか	general,hotel,attraction
+4230	1	SYSTEM	申し訳ございません。ご希望に沿った宿泊施設は見つかりませんでした。他にご希望等ございますか。	general,hotel,attraction
+4230	2	USER	では近鉄日本橋駅付近でWi-Fiが利用できる宿泊地はありますか	general,hotel,attraction
+4230	3	SYSTEM	承知しました。相鉄グランドフレッサ 大阪なんばというビジネスホテルはいかがですか。	general,hotel,attraction
+4230	4	USER	ではそちらのチェクアウト終了時刻とチェクイン開始時刻を教えてください	general,hotel,attraction
+4230	5	SYSTEM	承知しました。チェックアウト終了時刻は11時でチェックイン開始時刻は15時となります。	general,hotel,attraction
+4230	6	USER	では当日おすすめの観光名所はありますか？Wi-Fiが無料で利用できるところがいいのですが	general,hotel,attraction
+4230	7	SYSTEM	申し訳ございません。Wi-Fiが無料で利用できる名所は見つかりませんでした。	general,hotel,attraction
+4230	8	USER	ではWi-Fiが有料でもいいのでありますか	general,hotel,attraction
+4230	9	SYSTEM	承知しました。空庭温泉 OSAKA BAY TOWERというところが見つかりましたがいかがでしょうか。	general,hotel,attraction
+4230	10	USER	ではそこのエリアと住所、大人入場料を教えてください	general,hotel,attraction
+4230	11	SYSTEM	承知しました。エリアは港区で住所は大阪府大阪市港区弁天1丁目2-3になります。大人入場料は2640円となっております。	general,hotel,attraction
+4230	12	USER	かしこまりました。以上で終わります	general,hotel,attraction

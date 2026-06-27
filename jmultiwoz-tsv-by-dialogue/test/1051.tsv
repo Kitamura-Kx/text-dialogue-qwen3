@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1051	0	USER	今度、仙台で観光しようと思います。太白区辺りでアートギャラリーを紹介してください。	general,attraction,weather,taxi
+1051	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,weather,taxi
+1051	2	USER	では、太白区以外でも大丈夫です。無料駐車場がある所だと助かります。	general,attraction,weather,taxi
+1051	3	SYSTEM	ありがとうございます。そういたしますと、2件ご案内可能です。たとえば、青葉区にある仙台市文学館はいかがでしょうか？	general,attraction,weather,taxi
+1051	4	USER	いいですね。あと、天気も気になるのですが、太白区の9月5日の最高気温と天気を教えてください。	general,attraction,weather,taxi
+1051	5	SYSTEM	かしこまりました。当日の天気は曇りの予報です、最高気温は27.1度の予想となっております。	general,attraction,weather,taxi
+1051	6	USER	ありがとうございます。ジャンボタクシーの利用を考えています。タクシー会社の名前と電話番号を教えてもらえますか？	general,attraction,weather,taxi
+1051	7	SYSTEM	かしこまりました。ジャンボタクシーに対応している会社として、仙南タクシー（株）はいかがでしょうか。電話番号は、0570021070でございます。	general,attraction,weather,taxi
+1051	8	USER	ありがとうございます。そちらはキャッシュレスには対応していますか？	general,attraction,weather,taxi
+1051	9	SYSTEM	はい、対応してございます。	general,attraction,weather,taxi
+1051	10	USER	良かったです。では、9月5日の15時に予約をお願いします。仙台市文学館から蕎麦酒房 夢の途酎 焔でお願いします。	general,attraction,weather,taxi
+1051	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、65094です。	general,attraction,weather,taxi
+1051	12	USER	ありがとうございました。これで大丈夫です。失礼します。	general,attraction,weather,taxi

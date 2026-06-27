@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3619	0	USER	大阪に旅行に行こうと思っています。阿倍野区で予算が普通の宿泊施設はありますか。	general,hotel
+3619	1	SYSTEM	申し訳ございません。頂いている条件で該当がございませんでした。	general,hotel
+3619	2	USER	では、予算の条件はなしにして、レストランが併設されているところでお願いします。	general,hotel
+3619	3	SYSTEM	承知しました。ヴィアインあべの天王寺が該当ございますが、いかがでしょうか？	general,hotel
+3619	4	USER	その施設のタイプと料金情報を教えてください。	general,hotel
+3619	5	SYSTEM	ヴィアインあべの天王寺はビジネスホテルのタイプでございます。価格帯は安めとなっております。	general,hotel
+3619	6	USER	ありがとうございます。そこにします。3/14に2人で2泊の予約をお願いします。	general,hotel
+3619	7	SYSTEM	3月14日に2名様で2泊のご予約が完了しました。予約番号は、63583でございます。	general,hotel
+3619	8	USER	ありがとうございます。これで大丈夫です。	general,hotel
+3619	9	SYSTEM	ありがとうございました。	general,hotel

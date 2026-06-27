@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2245	0	USER	東京へ旅行に行くのですが、10/24の豊島区の天候を調べて欲しいです。	general,weather,taxi
+2245	1	SYSTEM	かしこまりました。当日の天気は、曇時々晴の予報です。最低気温は14.5度、最高気温は23.8度の予想となっております。	general,weather,taxi
+2245	2	USER	次にジャンボタクシーを利用できるタクシー会社を探してください。	general,weather,taxi
+2245	3	SYSTEM	かしこまりました。では、東京エムケイはいかがでしょうか？	general,weather,taxi
+2245	4	USER	そちらのキャッシュレス対応についてと電話番号を教えてください。	general,weather,taxi
+2245	5	SYSTEM	キャッシュレスのお支払いにも対応しております。電話番号は、0355475551です。	general,weather,taxi
+2245	6	USER	それではタクシーを予約してください。日付は10/24、時間は13:30、出発地はアクアシティお台場、目的地は東京プリンスホテルです。	general,weather,taxi
+2245	7	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、90644です。	general,weather,taxi
+2245	8	USER	ありがとうございました。以上です。	general,weather,taxi
+2245	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,weather,taxi

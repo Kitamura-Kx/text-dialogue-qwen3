@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+876	0	USER	名古屋へ旅行に行くのですが。西区でWi-Fi無料の観光名所はありますか？	general,attraction,shopping
+876	1	SYSTEM	はい、2件ご案内可能です。たとえば、ノリタケの森はいかがでしょうか？もう一つは、トヨタ産業技術記念館という場所です。	general,attraction,shopping
+876	2	USER	二つの中で駐車場無料はありますか？	general,attraction,shopping
+876	3	SYSTEM	無料駐車場がついているところとしますと、トヨタ産業技術記念館の1件のみとなります。	general,attraction,shopping
+876	4	USER	トヨタ産業技術記念館の営業時間、最寄りからの所要時間を教えて下さい	general,attraction,shopping
+876	5	SYSTEM	営業時間は、9:30～17:00です。最寄りの栄生駅から徒歩3分、名古屋駅からはタクシーで5分ほどの場所にございます。	general,attraction,shopping
+876	6	USER	有難うございます、買い物もしたいのですがスポーツ商品を扱っている駐車場無料のお店はありますか。	general,attraction,shopping
+876	7	SYSTEM	はい、1件候補がございます。公武堂MACSという中区のお店ですが、いかがでしょうか？	general,attraction,shopping
+876	8	USER	営業時間はわかりますか？	general,attraction,shopping
+876	9	SYSTEM	はい。営業時間は、10:00～20:00となっております。	general,attraction,shopping
+876	10	USER	わかりました利用したいと思います、有難うございました	general,attraction,shopping
+876	11	SYSTEM	ほかにお調べすることはございますか？	general,attraction,shopping
+876	12	USER	いえ大丈夫です	general,attraction,shopping
+876	13	SYSTEM	承知いたしました。ではまたのご利用をお待ちしております。	general,attraction,shopping

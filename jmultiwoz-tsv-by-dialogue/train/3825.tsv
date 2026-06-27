@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3825	0	USER	那覇へ旅行を計画しているのですが、飲食店がまだ決まっていなくて。最寄り駅が壺川駅で無料の駐車場と無料のWi-Fi が使える飲食店はありますか？	general,restaurant,taxi
+3825	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,restaurant,taxi
+3825	2	USER	そうですか。では最寄り駅は壺川駅ではなくてもよいので、他によいところはありますか？	general,restaurant,taxi
+3825	3	SYSTEM	では、ステーキハウス88 国際通り店はいかがですか？	general,restaurant,taxi
+3825	4	USER	そちらはどんなジャンルのお店ですか？	general,restaurant,taxi
+3825	5	SYSTEM	ジャンルは、洋食・西洋料理になります。	general,restaurant,taxi
+3825	6	USER	わかりました。ありがとうございます。	general,restaurant,taxi
+3825	7	SYSTEM	他にご用件はございますか？	general,restaurant,taxi
+3825	8	USER	では、当日利用できるタクシー会社を探してください。キャッシュレス払いができるところが希望です。	general,restaurant,taxi
+3825	9	SYSTEM	それでしたら、沖縄第一交通株式会社はいかがですか？	general,restaurant,taxi
+3825	10	USER	そちらはジャンボタクシーは対応していますか？できれば電話番号も教えてください。	general,restaurant,taxi
+3825	11	SYSTEM	はい、ジャンボタクシーも対応しております。　電話番号は、0120780124です。	general,restaurant,taxi
+3825	12	USER	ありがとうございます。では、そちらで予約をお願いします。5/31の12:30にステーキハウス88 国際通り店を出発で、けんぱーのすばやーまでお願いします。	general,restaurant,taxi
+3825	13	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant,taxi
+3825	14	USER	そうですか。では、13:30ではできますか？	general,restaurant,taxi
+3825	15	SYSTEM	予約出来ました。予約番号は、54858です。	general,restaurant,taxi
+3825	16	USER	ありがとうございます。	general,restaurant,taxi
+3825	17	SYSTEM	他にご用件はありますか？	general,restaurant,taxi
+3825	18	USER	特にありません。ありがとうございました。	general,restaurant,taxi
+3825	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

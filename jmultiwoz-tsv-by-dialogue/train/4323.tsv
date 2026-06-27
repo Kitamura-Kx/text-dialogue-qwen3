@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4323	0	USER	名古屋で買い物できるところを探しています。自動車、自転車関連で矢場町駅近辺のところはありませんか？	general,shopping,hotel
+4323	1	SYSTEM	かしこまりました。では、ヨドバシカメラ マルチメディア名古屋松坂屋店はいかがでしょうか？	general,shopping,hotel
+4323	2	USER	そちらは駐車場を無料で使えますか？駐車場無料のところがいいのですが？	general,shopping,hotel
+4323	3	SYSTEM	はい。無料駐車場がございます。	general,shopping,hotel
+4323	4	USER	わかりました。矢場町駅からの所要時間を教えてください。	general,shopping,hotel
+4323	5	SYSTEM	はい。矢場町駅から徒歩で1分となります。	general,shopping,hotel
+4323	6	USER	当日泊まれるところも探してほしいです。wifiと駐車場が無料で使えるところでお願いします。地区は中区希望です。	general,shopping,hotel
+4323	7	SYSTEM	かしこまりました。では、ホテル キヨシ名古屋はいかがですか？	general,shopping,hotel
+4323	8	USER	そちらの電話番号はわかりますか？	general,shopping,hotel
+4323	9	SYSTEM	はい。電話番号は0523215663になります。	general,shopping,hotel
+4323	10	USER	最寄駅からの所要時間を教えてください。	general,shopping,hotel
+4323	11	SYSTEM	はい。東別院駅から徒歩で1分でございます。	general,shopping,hotel
+4323	12	USER	ちなみに、レストランは付いていますか？	general,shopping,hotel
+4323	13	SYSTEM	申し訳ございません。レストランは無しとなっております。	general,shopping,hotel
+4323	14	USER	わかりました。ではこれで失礼します。	general,shopping,hotel
+4323	15	SYSTEM	承知しました。ご利用ありがとうございました。	general,shopping,hotel

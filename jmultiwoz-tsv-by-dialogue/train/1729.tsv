@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1729	0	USER	京都へ旅行に行くんですが、天候を調べてほしいです。	general,weather,taxi
+1729	1	SYSTEM	京都のどのエリアの天気をご希望ですか？	general,weather,taxi
+1729	2	USER	左京区で、1/1でお願いします。	general,weather,taxi
+1729	3	SYSTEM	その日の天気は、晴です。	general,weather,taxi
+1729	4	USER	ありがとうございます。最高気温は分かりますか？	general,weather,taxi
+1729	5	SYSTEM	最高気温は、7度です。	general,weather,taxi
+1729	6	USER	なるほどです！ジャンボタクシーを利用できるタクシー会社も探していただけますか？	general,weather,taxi
+1729	7	SYSTEM	株式会社キャビックは、いかがですか？	general,weather,taxi
+1729	8	USER	そちらはキャッシュレス対応ですか？	general,weather,taxi
+1729	9	SYSTEM	はい、こちらはキャッシュレス決済にも対応しています。	general,weather,taxi
+1729	10	USER	ではそちらのタクシー会社を予約して欲しいです。出発地はレストラン嵐山で、京都市京北運動公園までお願いします。	general,weather,taxi
+1729	11	SYSTEM	日時は、どうなさいますか？	general,weather,taxi
+1729	12	USER	1/1の13:40でお願いします。	general,weather,taxi
+1729	13	SYSTEM	予約出来ました。予約番号は、40895です。	general,weather,taxi
+1729	14	USER	ありがとうございます！	general,weather,taxi
+1729	15	SYSTEM	他にご用件はありますか？	general,weather,taxi
+1729	16	USER	これで大丈夫です。ありがとうございました。	general,weather,taxi
+1729	17	SYSTEM	承知致しました。　ありがとうございました。	general,weather,taxi

@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4548	0	USER	横浜へ旅行するのですがWI-FIが無料で使えてレストランのあるシティホテルを探しています。	general,hotel,taxi,weather
+4548	1	SYSTEM	横浜でWifi無料でレストラン併設のシティホテルは１１件ありますが、新横浜グレイスホテルをお勧めします。	general,hotel,taxi,weather
+4548	2	USER	最寄り駅と電話番号を教えて下さい。	general,hotel,taxi,weather
+4548	3	SYSTEM	新横浜駅から徒歩で1分。電話は0454745111です。	general,hotel,taxi,weather
+4548	4	USER	そこがいいです！そこを予約して頂けますか？4人で8/31で4泊、空きはありますか？	general,hotel,taxi,weather
+4548	5	SYSTEM	予約成功しました。予約番号は12418です。	general,hotel,taxi,weather
+4548	6	USER	ありがとうございます。ジャンボタクシーを利用したいです。	general,hotel,taxi,weather
+4548	7	SYSTEM	横浜には、ジャンボタクシー対応の会社はなさそうです。	general,hotel,taxi,weather
+4548	8	USER	それでは普通のタクシーではどんなところがありますか？	general,hotel,taxi,weather
+4548	9	SYSTEM	いくつかありますが、アサヒタクシー株式会社をお勧めします。	general,hotel,taxi,weather
+4548	10	USER	キャッシュレスオッケーですか？	general,hotel,taxi,weather
+4548	11	SYSTEM	非対応ですね。	general,hotel,taxi,weather
+4548	12	USER	大丈夫です！そこを予約して頂けますか？8/31、時間は13:40、新横浜グレイスホテルから魚と酒 はなたれ 横浜東口店までです。	general,hotel,taxi,weather
+4548	13	SYSTEM	予約成功しました。予約番号は40323です。	general,hotel,taxi,weather
+4548	14	USER	ありがとうございます。天気が気になります。中区の８月３１日は最高気温はどうなるか教えて下さい。	general,hotel,taxi,weather
+4548	15	SYSTEM	8/31 横浜 中区 の天気は晴時々曇、最低気温28.4度、最高気温38.1度です。熱中症にご注意ください。	general,hotel,taxi,weather
+4548	16	USER	ありがとうございます！大変助かりました！	general,hotel,taxi,weather

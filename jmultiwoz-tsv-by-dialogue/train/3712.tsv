@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3712	0	USER	大阪へ旅行しようと思うのですが。	general,attraction,taxi,weather
+3712	1	SYSTEM	かしこまりました。何かお手伝いできることはありますか？	general,attraction,taxi,weather
+3712	2	USER	観光名所を探してほしいです。	general,attraction,taxi,weather
+3712	3	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction,taxi,weather
+3712	4	USER	はい。港区エリアで、無料Wi-Fiが使えるところが希望です。	general,attraction,taxi,weather
+3712	5	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。どうされますか？	general,attraction,taxi,weather
+3712	6	USER	では、有料でWi-Fiが使えるところはありますか？	general,attraction,taxi,weather
+3712	7	SYSTEM	かしこまりました。では、空庭温泉 OSAKA BAY TOWERはいかがでしょうか？	general,attraction,taxi,weather
+3712	8	USER	そちらは駐車場はありますか？	general,attraction,taxi,weather
+3712	9	SYSTEM	はい。有料のものがございます。	general,attraction,taxi,weather
+3712	10	USER	わかりました。では、そちらに決めます。	general,attraction,taxi,weather
+3712	11	SYSTEM	承知しました。何か他のご用件はございませんか？	general,attraction,taxi,weather
+3712	12	USER	当日、キャッシュレス払いができて、ジャンボタクシーが利用できるタクシー会社を探してください。	general,attraction,taxi,weather
+3712	13	SYSTEM	かしこまりました。では、大宝タクシー株式会社はいかがでしょうか？	general,attraction,taxi,weather
+3712	14	USER	ありがとうございます。そちらの電話番号はわかりますか？	general,attraction,taxi,weather
+3712	15	SYSTEM	はい。電話番号は0647020011でございます。	general,attraction,taxi,weather
+3712	16	USER	ありがとうございます。ではそちらを予約お願いします。12/28の9:50にタベルナ ラ キアーヴェを出発で空庭温泉 OSAKA BAY TOWERまでお願いします。	general,attraction,taxi,weather
+3712	17	SYSTEM	かしこまりました。9:50というのは午前中でよろしかったですか？	general,attraction,taxi,weather
+3712	18	USER	はいそうです。	general,attraction,taxi,weather
+3712	19	SYSTEM	かしこまりました。ご予約承りました。予約番号は、21268です。	general,attraction,taxi,weather
+3712	20	USER	ありがとうございます。	general,attraction,taxi,weather
+3712	21	SYSTEM	何か他のご用件はございませんか？	general,attraction,taxi,weather
+3712	22	USER	はい、12/28の北区の天気と最高気温を調べてください。	general,attraction,taxi,weather
+3712	23	SYSTEM	かしこまりました。12/28の北区の天気予報は曇となっております。最低気温は8度、最高気温は14.9度になる予報です。	general,attraction,taxi,weather
+3712	24	USER	わかりました。ありがとうございました。	general,attraction,taxi,weather
+3712	25	SYSTEM	他のご用件はございませんか？	general,attraction,taxi,weather
+3712	26	USER	特にありません。ありがとうございました。	general,attraction,taxi,weather
+3712	27	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi,weather

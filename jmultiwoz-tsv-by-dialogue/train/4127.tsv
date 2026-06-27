@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4127	0	USER	東京に旅行に行こうと思っています、板橋区で駐車場を無料で利用できて買い物ができる場所はありますか	general,shopping
+4127	1	SYSTEM	かしこまりました。イオン板橋ショッピングセンターがございますがいかがでしょうか。	general,shopping
+4127	2	USER	最寄り駅と住所を教えてください	general,shopping
+4127	3	SYSTEM	最寄り駅は東武練馬駅で、住所は東京都板橋区徳丸2丁目6-1でございます。	general,shopping
+4127	4	USER		general,shopping

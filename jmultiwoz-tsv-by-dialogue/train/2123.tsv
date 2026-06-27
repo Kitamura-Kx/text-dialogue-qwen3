@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2123	0	USER	こんにちは。今度大阪へ行くのですが、駐車場とWi-Fiが無料の宿泊場所を探しています。教えてもらえますか？	general,hotel,restaurant,taxi
+2123	1	SYSTEM	かしこまりました。では、ビジネス旅館 励明園はいかがでしょうか？	general,hotel,restaurant,taxi
+2123	2	USER	ありがとうございます。そちらのチェックイン開始時刻とチェックアウト終了時刻をお願いします。	general,hotel,restaurant,taxi
+2123	3	SYSTEM	はい。チェックイン開始時刻は14:00で、チェックアウト終了時刻は10:00です。	general,hotel,restaurant,taxi
+2123	4	USER	ありがとうございます。ではそちらで予約をお願いします。7/12から4泊で、2名ですが、可能ですか？	general,hotel,restaurant,taxi
+2123	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、41955です。	general,hotel,restaurant,taxi
+2123	6	USER	それと飲食店も探しています。駐車場とWi-Fiが無料のところでいいお店ありますか？	general,hotel,restaurant,taxi
+2123	7	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,hotel,restaurant,taxi
+2123	8	USER	そうなんですね。じゃあ駐車場は無くてもいいですので、お願いします。	general,hotel,restaurant,taxi
+2123	9	SYSTEM	かしこまりました。では、牛すじホルモン 二刀流武蔵はいかがでしょうか？	general,hotel,restaurant,taxi
+2123	10	USER	ありがとうございます。ではそちらで予約もお願いします。7/12の16:00から、4名です。	general,hotel,restaurant,taxi
+2123	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、29469です。	general,hotel,restaurant,taxi
+2123	12	USER	あと当日タクシーを使いたいので、キャッシュレス払いができるタクシー会社をお願いします。	general,hotel,restaurant,taxi
+2123	13	SYSTEM	かしこまりました。では、近鉄タクシー株式会社はいかがでしょうか？	general,hotel,restaurant,taxi
+2123	14	USER	そちらはジャンボタクシー対応ですか？あと電話番号もお願いします。	general,hotel,restaurant,taxi
+2123	15	SYSTEM	はい、対応しております。電話番号は0570069001でございます。	general,hotel,restaurant,taxi
+2123	16	USER	ではそのタクシー会社で予約お願いします。7/12の14:10で、さっき見つけていただいた、ビジネス旅館 励明園から牛すじホルモン 二刀流武蔵です。	general,hotel,restaurant,taxi
+2123	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、25371です。	general,hotel,restaurant,taxi
+2123	18	USER	色々ありがとうございました。助かりました。	general,hotel,restaurant,taxi
+2123	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,taxi

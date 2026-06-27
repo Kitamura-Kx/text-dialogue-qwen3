@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+37	0	USER	こんにちは。大阪旅行を計画していて相談に乗ってほしいんですが、いいですか？	general,attraction,shopping,taxi
+37	1	SYSTEM	はい。どのようなことをご希望ですか。	general,attraction,shopping,taxi
+37	2	USER	観光名所で、三光神社というところがあるらしいんですが。	general,attraction,shopping,taxi
+37	3	SYSTEM	三光神社ですね。何をお知りになりたいでしょうか。	general,attraction,shopping,taxi
+37	4	USER	定休日を教えていただきたいです。	general,attraction,shopping,taxi
+37	5	SYSTEM	定休日は無しです。	general,attraction,shopping,taxi
+37	6	USER	ありがとうございます。あとですね、買い物ができるところをさがしていまして、爬虫類カフェ ROCK STARって知ってますか？	general,attraction,shopping,taxi
+37	7	SYSTEM	はい。ございます。何をお知りになりたいでしょうか。	general,attraction,shopping,taxi
+37	8	USER	駐車場があるのかどうかと、あとエリアがどの辺かも知りたくて。	general,attraction,shopping,taxi
+37	9	SYSTEM	申し訳ございませんが、駐車場の有無は不明です。エリアは浪速区となっております。	general,attraction,shopping,taxi
+37	10	USER	そうなんですね。あとタクシー会社も探してほしいんですけど。	general,attraction,shopping,taxi
+37	11	SYSTEM	かしこまりました。条件はございますか。	general,attraction,shopping,taxi
+37	12	USER	ジャンボタクシーが使えて、キャッシュレス払いができるところでお願いします。	general,attraction,shopping,taxi
+37	13	SYSTEM	条件に当てはまる会社が１３件ございますが、日本タクシー株式会社はいかがでしょうか。	general,attraction,shopping,taxi
+37	14	USER	あ、じゃ、そこでお願いします。電話番号も教えてもらえますか？	general,attraction,shopping,taxi
+37	15	SYSTEM	電話番号は0665869538でございます。	general,attraction,shopping,taxi
+37	16	USER	了解です。で、予約も9月12日16時50分でお願いできますか？	general,attraction,shopping,taxi
+37	17	SYSTEM	かしこまりました。出発地はどちらでしょうか。	general,attraction,shopping,taxi
+37	18	USER	さっきの三光神社から、爬虫類カフェ ROCK STARまでで、お願いできればと。	general,attraction,shopping,taxi
+37	19	SYSTEM	予約が完了しました。予約番号は36086です。	general,attraction,shopping,taxi
+37	20	USER	ありがとうございます。助かりました。	general,attraction,shopping,taxi
+37	21	SYSTEM	ほかにご用件はございますか。	general,attraction,shopping,taxi
+37	22	USER	もう大丈夫です。お世話様でした。	general,attraction,shopping,taxi
+37	23	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,taxi

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+712	0	USER	東京へ旅行に行く予定なのですが、当日買い物をしたいと思います。まるごと高知というところはありますか？	general,shopping,hotel,weather
+712	1	SYSTEM	はい、エリアでいうと中央区にございます。ジャンルはお土産、食料品、その他、となります。何かご案内致しましょうか？	general,shopping,hotel,weather
+712	2	USER	電話番号，定休日を教えていただきたいです。	general,shopping,hotel,weather
+712	3	SYSTEM	はい、電話番号は、0335384365、定休日はございません。他にご案内できることはございますか？	general,shopping,hotel,weather
+712	4	USER	それでは、当日泊まるシティホテルを探してください。レストランが入っているところがよいです。	general,shopping,hotel,weather
+712	5	SYSTEM	承知しました。他にご希望はございますか？	general,shopping,hotel,weather
+712	6	USER	いえ、特にないです。	general,shopping,hotel,weather
+712	7	SYSTEM	では、エリアでいうと墨田区にございます、東武ホテルレバント東京はいかがでしょう？何かご案内致しましょうか？	general,shopping,hotel,weather
+712	8	USER	ありがとうございます。では、5月24日の世田谷区の天気を教えてください。	general,shopping,hotel,weather
+712	9	SYSTEM	はい、天気は曇のち雨、最低気温15.7度、最高気温20.5度となります。他にご用件はございますか？	general,shopping,hotel,weather
+712	10	USER	いろいろとありがとうございました。他は大丈夫です。	general,shopping,hotel,weather

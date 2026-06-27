@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4868	0	USER	那覇に旅行に行こうと思っています。真和志という地区でWi-Fiと駐車場を無料で利用できる観光名所に行きたいです。	general,attraction,restaurant,hotel
+4868	1	SYSTEM	承知しました。では、識名園はいかがでしょう？ジャンルは、庭園、歴史的建造物、世界遺産、となります。	general,attraction,restaurant,hotel
+4868	2	USER	ありがとうございますそこの住所と料金情報について教えてください。	general,attraction,restaurant,hotel
+4868	3	SYSTEM	はい、住所は、沖縄県那覇市字真地421-7となります。料金情報としては、大人400円、中学生以下の小人200円、保護者が同伴する小学校就学前の小人は無料、、となります。	general,attraction,restaurant,hotel
+4868	4	USER	ありがとうございます。あと、Wi-Fiと駐車場を無料で利用できる飲食店はありますか。	general,attraction,restaurant,hotel
+4868	5	SYSTEM	はい、エリアでいうと本庁にある、しゃぶ葉 那覇おもろまち店はいかがでしょう？ジャンルは、和食となります。	general,attraction,restaurant,hotel
+4868	6	USER	ありがとうございます。そのお店の営業時間をお聞きしてもいいですか。	general,attraction,restaurant,hotel
+4868	7	SYSTEM	はい、営業時間は、11時から23時30分となります。	general,attraction,restaurant,hotel
+4868	8	USER	ありがとうございます。このお店に10/29の午後2時40分で3人の予約をお願いします。	general,attraction,restaurant,hotel
+4868	9	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,attraction,restaurant,hotel
+4868	10	USER	では人数を2人に変更でどうでしょうか。	general,attraction,restaurant,hotel
+4868	11	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、53657となります。	general,attraction,restaurant,hotel
+4868	12	USER	ありがとうございます。あと、本庁でタイプが簡易宿所（ベッドハウス・山小屋・カプセルホテル等）の宿泊施設を利用したいです。駐車場は無料で使える場所でお願いします。	general,attraction,restaurant,hotel
+4868	13	SYSTEM	承知しました。では、MyPlaceはいかがでしょう？	general,attraction,restaurant,hotel
+4868	14	USER	駅からどのくらいかかりますか。	general,attraction,restaurant,hotel
+4868	15	SYSTEM	はい、最寄りの美栄橋駅から徒歩で15分となります。	general,attraction,restaurant,hotel
+4868	16	USER	ありがとうございます。そこに10/29に3人で4泊の予約をお願いします。	general,attraction,restaurant,hotel
+4868	17	SYSTEM	承知しました。予約が完了し、ご予約番号は、7034となります。	general,attraction,restaurant,hotel
+4868	18	USER	ありがとうございます。これで大丈夫です。	general,attraction,restaurant,hotel
+4868	19	SYSTEM	ありがとうございました。	general,attraction,restaurant,hotel

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1119	0	USER	今度、札幌へ旅行を計画しています。焼肉・ホルモンが食べられる飲食店を教えてください。	general,restaurant,shopping
+1119	1	SYSTEM	申し訳ありません。その条件ではご紹介できないのですが、いかが致しましょう？	general,restaurant,shopping
+1119	2	USER	では、焼肉・ホルモン以外で飲食店を教えてください。	general,restaurant,shopping
+1119	3	SYSTEM	承知しました。他にご希望はございますか？	general,restaurant,shopping
+1119	4	USER	特にありません。	general,restaurant,shopping
+1119	5	SYSTEM	では、エリアでいうと中央区にある、文太郎はいかがでしょう？	general,restaurant,shopping
+1119	6	USER	はい、そこに行ってみます。住所と電話番号を教えて頂けますか？	general,restaurant,shopping
+1119	7	SYSTEM	はい、住所は北海道札幌市中央区南4条西3丁目1番地1 第3グリーンビル 4階、電話番号は0115133727となります。	general,restaurant,shopping
+1119	8	USER	ありがとうございます。Wi-Fiはありますかね？	general,restaurant,shopping
+1119	9	SYSTEM	申し訳ありません。Wi-Fiの有無については不明です。	general,restaurant,shopping
+1119	10	USER	分かりました。大丈夫です。では、もう１つ、北18条駅の近くのショッピングモールを教えてください。駐車場が無料の所がいいです。	general,restaurant,shopping
+1119	11	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しますか？	general,restaurant,shopping
+1119	12	USER	では、北18条駅以外で無料駐車場があるショッピングモールはありますか？	general,restaurant,shopping
+1119	13	SYSTEM	はい、エリアでいうと中央区にある、赤れんがテラスはいかがでしょう？	general,restaurant,shopping
+1119	14	USER	いいですね。そこに行ってみます。ありがとうございました。失礼します。	general,restaurant,shopping

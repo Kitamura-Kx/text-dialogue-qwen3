@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4745	0	USER	福岡へ行くのですが、最寄り駅が中洲川端駅の買い物できるところはありますか？	general,shopping,weather
+4745	1	SYSTEM	では、エリアでいうと博多区にある、博多リバレインはいかがでしょう？ジャンルは、百貨店や総合スーパー、ファッションとなります。	general,shopping,weather
+4745	2	USER	そこにします。近辺の駅からの所要時間と住所を知りたいです。	general,shopping,weather
+4745	3	SYSTEM	はい、住所は福岡県福岡市博多区下川端町3-1、最寄りの中洲川端駅から徒歩で1分となります。	general,shopping,weather
+4745	4	USER	わかりました。あと、5/8の早良区の天気も教えてください。	general,shopping,weather
+4745	5	SYSTEM	はい、天気は晴時々曇、最低気温19.8度、最高気温23.9度となります。	general,shopping,weather
+4745	6	USER	ありがとうございます。	general,shopping,weather
+4745	7	SYSTEM	ありがとうございました。	general,shopping,weather

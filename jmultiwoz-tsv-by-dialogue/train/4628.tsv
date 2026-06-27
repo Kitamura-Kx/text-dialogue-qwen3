@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4628	0	USER	こんにちは。福岡旅行を計画していますが、早良区でWi-Fiが無料の観光名所はありますか？	general,attraction,restaurant,weather
+4628	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,restaurant,weather
+4628	2	USER	では、Wi-Fiはなくてもいいので、早良区の観光名所を探してください。	general,attraction,restaurant,weather
+4628	3	SYSTEM	では百道中央公園はいかがでしょうか。	general,attraction,restaurant,weather
+4628	4	USER	子供入場料と、施設のジャンルも教えてもらえますか？	general,attraction,restaurant,weather
+4628	5	SYSTEM	子供料金は０円で、ジャンルは自然・公園でございます。	general,attraction,restaurant,weather
+4628	6	USER	ありがとうございます。当日食事する飲食店も探していて、条件は駐車場とWi-Fiを無料で使えるところを考えています。	general,attraction,restaurant,weather
+4628	7	SYSTEM	では、レカイエ オイスターバー JR博多シティ店がございます。	general,attraction,restaurant,weather
+4628	8	USER	そのお店はどういうジャンルで、定休日があるかどうかもわかりますか？	general,attraction,restaurant,weather
+4628	9	SYSTEM	ジャンルは寿司・魚料理で、定休日はございません。	general,attraction,restaurant,weather
+4628	10	USER	では、そのお店で予約をお願いします。3人で1月24日の15時10分でお願いします。	general,attraction,restaurant,weather
+4628	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は81946でございます。	general,attraction,restaurant,weather
+4628	12	USER	ついでに、当日の天気も知りたいです。1月24日の南区の天候はわかりますか？	general,attraction,restaurant,weather
+4628	13	SYSTEM	当日の天気は雨のち曇、最低気温が9.9度で最高気温が16.3度でございます。	general,attraction,restaurant,weather
+4628	14	USER	わかりました。ありがとうございます。	general,attraction,restaurant,weather

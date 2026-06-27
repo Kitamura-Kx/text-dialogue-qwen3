@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4544	0	USER	名古屋へ旅行しようと思っているのですが駐車場が無料のショッピングモールを探しています。	general,shopping,weather
+4544	1	SYSTEM	名古屋には、駐車場無料のショッピングモールは４件ありますが、マーケットスクエアささしまをお勧めします。	general,shopping,weather
+4544	2	USER	最寄りは伏見駅ですか？	general,shopping,weather
+4544	3	SYSTEM	いえ、ささしまライブ駅になります。	general,shopping,weather
+4544	4	USER	わかりました。伏見駅はないですよね。それでは定休日とエリアを教えて下さい。	general,shopping,weather
+4544	5	SYSTEM	伏見駅で駐車場無料のショッピングモールはありません。マーケットスクエアささしまのエリアは中村区、定休日は店舗により異なります。	general,shopping,weather
+4544	6	USER	ありがとうございます。緑区の7/16の天気が気になります。	general,shopping,weather
+4544	7	SYSTEM	7/16 名古屋 緑区 の天気は曇時々雨、最低気温22.6度、最高気温30.1度です。	general,shopping,weather
+4544	8	USER	すごく助かりました！ありがとうございました。	general,shopping,weather

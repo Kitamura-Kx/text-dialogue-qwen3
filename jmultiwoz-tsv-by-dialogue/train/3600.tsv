@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3600	0	USER	こんにちは。東京に行く予定があるのですが、Wi-Fiが無料で使える観光名所はありますか？	general,attraction
+3600	1	SYSTEM	国立新美術館がございますがいかがでしょうか。	general,attraction
+3600	2	USER	いいですね。その美術館のエリアと営業時間、住所を教えてください。	general,attraction
+3600	3	SYSTEM	エリアは港区で、営業時間が10:00～20:00、住所は東京都港区六本木7丁目22-2でございます。	general,attraction
+3600	4	USER	ありがとうございます。	general,attraction
+3600	5	SYSTEM	ほかにご用件はございませんか。	general,attraction
+3600	6	USER	いえ、大丈夫です。案内ありがとうございました。	general,attraction
+3600	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

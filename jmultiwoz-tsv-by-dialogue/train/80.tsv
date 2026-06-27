@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+80	0	USER	名古屋への旅行を計画しているのですが、キャッシュレス払いが利用できてジャンボタクシーのあるタクシー会社を探してほしいです。	general,taxi,weather
+80	1	SYSTEM	承知致しました。名古屋には15件ございます。	general,taxi,weather
+80	2	USER	おすすめのタクシー会社の電話番号とタクシー会社名を教えてください。	general,taxi,weather
+80	3	SYSTEM	瑞穂タクシー　はいかがでしょうか？ 電話番号は、0523311680　となります。	general,taxi,weather
+80	4	USER	そこでお願いしようと思います。11/30の12時40分にザ サイプレス メルキュールホテル名古屋からThe Living Room with SKY BARまでで予約をお願いしたいです。	general,taxi,weather
+80	5	SYSTEM	予約させていただきました。 予約番号は、12278　となります。	general,taxi,weather
+80	6	USER	ありがとうございます。あと天候を事前に知っておきたいので、11/30の千種区の天気と最高気温を教えてください。	general,taxi,weather
+80	7	SYSTEM	承知致しました。 天気は雨のち曇、最高気温は14.7度となります。	general,taxi,weather
+80	8	USER	ありがとうございます。	general,taxi,weather
+80	9	SYSTEM	他にご用件はございますか？	general,taxi,weather
+80	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,taxi,weather
+80	11	SYSTEM	承知致しました。ありがとうございました。	general,taxi,weather

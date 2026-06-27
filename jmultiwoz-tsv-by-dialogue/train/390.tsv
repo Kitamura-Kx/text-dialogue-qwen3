@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+390	0	USER	那覇へ行こうと思っています。ショッピングモールを探してください。	general,shopping,restaurant
+390	1	SYSTEM	承知しました。それでは、サンエー那覇メインプレイスはいかがでしょう？エリアとしては本庁、住所は那覇市おもろまち4-4-9、電話番号は0989513300です。	general,shopping,restaurant
+390	2	USER	最寄り駅はどちらですか？	general,shopping,restaurant
+390	3	SYSTEM	はい、最寄りのおもろまち駅から徒歩で5分となります。	general,shopping,restaurant
+390	4	USER	最寄り駅が県庁前駅で駐車場が無料のところで探していただけますでしょうか。	general,shopping,restaurant
+390	5	SYSTEM	同じくショッピングモールでよろしいでしょうか？	general,shopping,restaurant
+390	6	USER	はい、ショッピングモールでお願いします。	general,shopping,restaurant
+390	7	SYSTEM	申し訳ありません。その条件ではご紹介可能なショッピングモールがございません。	general,shopping,restaurant
+390	8	USER	わかりました。ショッピングモール以外で同条件で買い物できるところはありますか？	general,shopping,restaurant
+390	9	SYSTEM	はい、デパートリウボウがございます。ジャンルは百貨店や総合スーパーです。	general,shopping,restaurant
+390	10	USER	そちらの電話番号を教えていただけますか？	general,shopping,restaurant
+390	11	SYSTEM	承知しました。電話番号は、0988671171となります。	general,shopping,restaurant
+390	12	USER	わかりました。そちらに行ってみようと思います。	general,shopping,restaurant
+390	13	SYSTEM	他にご用件はございますか？	general,shopping,restaurant
+390	14	USER	最寄り駅が安里駅で駐車場が無料で利用できる飲食店を探していただけますか？	general,shopping,restaurant
+390	15	SYSTEM	はい、その条件ですと、十割そば 山楽がございます。ジャンルはうどん、そば、電話番号は0989876033、住所は那覇市牧志3丁目6-34となります。	general,shopping,restaurant
+390	16	USER	価格帯はどのくらいでしょうか？	general,shopping,restaurant
+390	17	SYSTEM	価格帯は安めとなっております。	general,shopping,restaurant
+390	18	USER	わかりました。そちらを予約していただきたいです。	general,shopping,restaurant
+390	19	SYSTEM	承知しました。恐れ入りますが、日時とご利用人数を教えていただけますか？	general,shopping,restaurant
+390	20	USER	10月13日で2人で11：10は空いておりますでしょうか？	general,shopping,restaurant
+390	21	SYSTEM	ありがとうございます。予約が完了致しました。ご予約番号は、6273となります。	general,shopping,restaurant
+390	22	USER	わかりました。ありがとうございました。	general,shopping,restaurant
+390	23	SYSTEM	他にご用件はございますか？	general,shopping,restaurant
+390	24	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping,restaurant

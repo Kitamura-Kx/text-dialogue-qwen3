@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+700	0	USER	名古屋へ旅行するので、守山区の観光名所を知りたいです。	general,attraction
+700	1	SYSTEM	承知しました。では、龍泉寺はいかがでしょう？何かご案内致しましょうか？	general,attraction
+700	2	USER	そのお寺は、駐車場無料でWi-Fiも無料で使えますか？	general,attraction
+700	3	SYSTEM	申し訳ありません。駐車場とWi-Fiの条件を加えますと、ご紹介可能な観光名所がございません。いかがされますか？龍泉寺は、駐車場は無料でご利用いただけますが、Wi-Fiの有無は不明となっております。	general,attraction
+700	4	USER	では、駐車場無料でWi-Fiも無料で、守山区以外の場所で探してください。	general,attraction
+700	5	SYSTEM	承知しました。エリアでいうと緑区にございます、大高緑地はいかがでしょう？	general,attraction
+700	6	USER	そちらの電話番号と営業自家、大人の入場料を教えていただけますか？	general,attraction
+700	7	SYSTEM	はい、電話番号は0526222281となります。営業時間は施設により異なる、とのことです。入場料は大人もお子様も不明となっております。他にご案内できることはございますか？	general,attraction
+700	8	USER	今日知りたいことは以上です。ありがとうございました。	general,attraction
+700	9	SYSTEM	ありがとうございました。	general,attraction

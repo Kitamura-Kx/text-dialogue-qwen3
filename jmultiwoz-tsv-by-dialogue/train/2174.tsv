@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2174	0	USER	大阪へ旅行するので、訪れるべき観光名所を教えて頂けないでしょうか。	general,attraction,hotel
+2174	1	SYSTEM	かしこまりました。訪れるべき観光名所ですね！何かジャンルなど、ご希望はございますか？	general,attraction,hotel
+2174	2	USER	Wi-Fiが無料で利用できるとうれしいです。	general,attraction,hotel
+2174	3	SYSTEM	それでは、海遊館はいかがでしょうか？	general,attraction,hotel
+2174	4	USER	ではそちらに伺いたいと思います。営業時間とエリアを教えて頂けないでしょうか。	general,attraction,hotel
+2174	5	SYSTEM	かしこまりました。営業時間は、月により異なるとのことでして、エリアは港区でございます。	general,attraction,hotel
+2174	6	USER	ありがとうございます。当日泊まる宿泊施設もお手伝い頂けないでしょうか。Wi-Fiが無料で利用できる、レストランが併設されているところはありますか？	general,attraction,hotel
+2174	7	SYSTEM	かしこまりました。それでは、オリエンタルホテル ユニバーサル・シティはいかがでしょうか？	general,attraction,hotel
+2174	8	USER	そちらにします。タイプとチェックイン開始時刻、それと住所の情報を頂けないでしょうか。	general,attraction,hotel
+2174	9	SYSTEM	ありがとうございます。タイプはリゾートホテル、チェックイン開始時刻は15時です。住所は大阪府大阪市此花区島屋6丁目2-78でございます。	general,attraction,hotel
+2174	10	USER	ありがとうございます。2人で10/17から4泊で予約したいのですが可能でしょうか。	general,attraction,hotel
+2174	11	SYSTEM	かしこまりました。それでは予約番号28074でお取りさせていただきました。よろしくお願いします。	general,attraction,hotel
+2174	12	USER	ありがとうございました。	general,attraction,hotel

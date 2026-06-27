@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4292	0	USER	東京へ行くので、買い物ができるところを探しています。新宿区で無料駐車場があるところを教えてください。	general,shopping,hotel,taxi
+4292	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,hotel,taxi
+4292	2	USER	では、駐車場はなくてもいいです。	general,shopping,hotel,taxi
+4292	3	SYSTEM	では市ヶ谷フィッシュセンターがございます。	general,shopping,hotel,taxi
+4292	4	USER	近辺の駅からの所要時間を教えてください。	general,shopping,hotel,taxi
+4292	5	SYSTEM	市ヶ谷駅から徒歩で1分でございます。	general,shopping,hotel,taxi
+4292	6	USER	ありがとうございます。宿泊施設も探してほしいのですが、無料の駐車場があって、無料Wi-Fiが使えるところはありませんか？	general,shopping,hotel,taxi
+4292	7	SYSTEM	ではThe Okura Tokyoはいかがでしょうか。	general,shopping,hotel,taxi
+4292	8	USER	なるほど、予算は普通のところがいいのですが。	general,shopping,hotel,taxi
+4292	9	SYSTEM	すべての条件にあうところがございませんがいかがなさいますか。	general,shopping,hotel,taxi
+4292	10	USER	じゃあ、先程案内してもらったホテルにします。最寄り駅と、チェックアウト終了時刻を教えてください。	general,shopping,hotel,taxi
+4292	11	SYSTEM	最寄り駅は虎ノ門ヒルズ駅で、チェックアウト終了時刻は12:00でございます。	general,shopping,hotel,taxi
+4292	12	USER	ありがとうございます。あと、ジャンボタクシーが利用できる、タクシー会社はありませんか？	general,shopping,hotel,taxi
+4292	13	SYSTEM	では葵交通株式会社がございます。こちらキャッシュレスにも対応しております。電話番号は0570550555でございます。	general,shopping,hotel,taxi
+4292	14	USER	ありがとうございます。では7月20日に市ヶ谷フィッシュセンターから、The Okura Tokyoまで行くので、12時20分に予約を入れてください。	general,shopping,hotel,taxi
+4292	15	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,shopping,hotel,taxi
+4292	16	USER	じゃあ、時間は13時20分にします。	general,shopping,hotel,taxi
+4292	17	SYSTEM	その時間ですと予約が可能でございました。予約番号は93133でございます。	general,shopping,hotel,taxi
+4292	18	USER	ありがとうございます。	general,shopping,hotel,taxi
+4292	19	SYSTEM	ほかにご用件はございませんか。	general,shopping,hotel,taxi
+4292	20	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,hotel,taxi
+4292	21	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,taxi

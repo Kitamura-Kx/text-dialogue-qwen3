@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3220	0	USER	那覇へ旅行へ行くのですが、Wi-Fiと駐車場が無料で利用できる観光名所はありますか？	general,attraction,weather
+3220	1	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction,weather
+3220	2	USER	じゃあ駐車場の有無は考慮しなくてOKです	general,attraction,weather
+3220	3	SYSTEM	かしこまりました。では、那覇市立壺屋焼物博物館はいかがでしょうか？	general,attraction,weather
+3220	4	USER	営業時間を教えてください	general,attraction,weather
+3220	5	SYSTEM	はい。営業時間は10:00～18:00です。	general,attraction,weather
+3220	6	USER	了解です。10/18の首里地区の最高気温は何度ですか？	general,attraction,weather
+3220	7	SYSTEM	最高気温は28度の予報です。	general,attraction,weather
+3220	8	USER	わかりました。ありがとうございました	general,attraction,weather
+3220	9	SYSTEM	はい。もうご用件はお済ですか？	general,attraction,weather
+3220	10	USER	はい、大丈夫です。ありがとうございました	general,attraction,weather
+3220	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

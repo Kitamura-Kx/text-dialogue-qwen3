@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4960	0	USER	仙台へ旅行予定なのですが、若林区でWi-Fiと駐車場が無料な観光名所ってどこかありませんか？	general,attraction,shopping,taxi
+4960	1	SYSTEM	申し訳ありません、その条件ではお探しすることが出来ませんでした。	general,attraction,shopping,taxi
+4960	2	USER	そうですか。Wi-Fiは最悪なくても大丈夫です。	general,attraction,shopping,taxi
+4960	3	SYSTEM	かしこまりました。それでは仙台市 七郷児童館はいかがでしょうか？	general,attraction,shopping,taxi
+4960	4	USER	そこにします。また、最寄り駅が中野栄駅のコンビニで、駐車場を無料で利用できるようなところはありませんか？	general,attraction,shopping,taxi
+4960	5	SYSTEM	その条件でしたら、セブンイレブン 仙台新港店がございます。	general,attraction,shopping,taxi
+4960	6	USER	そこにします。エリアはどこらへんでしょうか。	general,attraction,shopping,taxi
+4960	7	SYSTEM	エリアは宮城野区でございます。	general,attraction,shopping,taxi
+4960	8	USER	そうなんですね。あと、当日、キャッシュレス払いでタクシーを利用したいと考えています。	general,attraction,shopping,taxi
+4960	9	SYSTEM	かしこまりました。それでは仙都タクシー（株）がおすすめです。	general,attraction,shopping,taxi
+4960	10	USER	そうなんですね。ジャンボタクシーは利用できます？	general,attraction,shopping,taxi
+4960	11	SYSTEM	はい、ジャンボタクシーも対応しております。	general,attraction,shopping,taxi
+4960	12	USER	であれば、3/21の14:40に仙台市 七郷児童館からセブンイレブン 仙台新港店までの予約をお願いします。	general,attraction,shopping,taxi
+4960	13	SYSTEM	お待たせ致しました。予約番号12074でお取りさせていただきました。	general,attraction,shopping,taxi
+4960	14	USER	了解です。もう大丈夫そうです。	general,attraction,shopping,taxi
+4960	15	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,shopping,taxi

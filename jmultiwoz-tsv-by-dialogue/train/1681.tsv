@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1681	0	USER	福岡へ旅行に行きたく、中央区でどこか観光名所はありますか？	general,attraction
+1681	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,attraction
+1681	2	USER	それではエリアは限定しないです。	general,attraction
+1681	3	SYSTEM	ではKid's US.LAND アイランドアイ店はいかがでしょうか。	general,attraction
+1681	4	USER	そこの定休日、最寄駅を教えてください。	general,attraction
+1681	5	SYSTEM	定休日は無しで、最寄り駅は雁ノ巣駅でございます。	general,attraction
+1681	6	USER	ありがとうございます。こちらからは以上です。	general,attraction
+1681	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

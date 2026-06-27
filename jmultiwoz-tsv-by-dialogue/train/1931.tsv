@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1931	0	USER	札幌の北区に記念碑・像のジャンルの観光名所はありますか。	general,attraction
+1931	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction
+1931	2	USER	東区にはありますか？	general,attraction
+1931	3	SYSTEM	はい、1件ございます。モエレ沼公園というところですが、いかがでしょうか？	general,attraction
+1931	4	USER	そこの電話番号，営業時間を教えてください。	general,attraction
+1931	5	SYSTEM	電話番号は、0117901231です。営業時間は、7:00～22:00となっております。	general,attraction
+1931	6	USER	ありがとうございます。質問は以上です。	general,attraction
+1931	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

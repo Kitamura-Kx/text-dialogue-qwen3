@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4635	0	USER	こんにちは。東京旅行を計画していますが、最寄り駅は東池袋駅で、Wi-Fiが無料の観光名所はありますか？	general,attraction,hotel,weather
+4635	1	SYSTEM	ではサンシャイン水族館がございます。	general,attraction,hotel,weather
+4635	2	USER	水族館ですか、いいですね。住所と駐車場の有無を知りたいです。	general,attraction,hotel,weather
+4635	3	SYSTEM	住所は東京都豊島区東池袋3丁目3-1で、駐車場は有料ですがございます。	general,attraction,hotel,weather
+4635	4	USER	ありがとうございます。当日泊まれる宿泊施設についても調べてほしいです。千代田区で、レストランが併設されていて、予算は普通のところはありませんか？	general,attraction,hotel,weather
+4635	5	SYSTEM	ではザ・キャピトルホテル東急はいかがですか。	general,attraction,hotel,weather
+4635	6	USER	そちらにしたいと思います。住所と最寄り駅はわかりますか？あと、ビジネスホテルとかシティホテルとか、どういうタイプなのかも教えてください。	general,attraction,hotel,weather
+4635	7	SYSTEM	住所は東京都千代田区永田町2丁目10-3で、最寄り駅が溜池山王駅出ございます。タイプはシティホテルとなっております。	general,attraction,hotel,weather
+4635	8	USER	では、予約もしたいと思います。人数は2人で、5月10日に3泊でお願いします。	general,attraction,hotel,weather
+4635	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は63888でございます。	general,attraction,hotel,weather
+4635	10	USER	助かります。5月10日なんですが、荒川区はどんな天気になりそうですか？	general,attraction,hotel,weather
+4635	11	SYSTEM	当日の天気は晴でございます。	general,attraction,hotel,weather
+4635	12	USER	ありがとうございます。	general,attraction,hotel,weather

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4053	0	USER	東京への旅行を計画しています。 宿泊施設を探してください。	general,hotel,shopping,weather
+4053	1	SYSTEM	かしこまりました。その条件ですと100件ほどありますが、何かこだわりはありますか？	general,hotel,shopping,weather
+4053	2	USER	駐車場を無料で利用できるところにしてください。また、予算は普通が希望です。	general,hotel,shopping,weather
+4053	3	SYSTEM	かしこまりました。それでは帝国ホテル東京がございます。	general,hotel,shopping,weather
+4053	4	USER	レストランの有無，Wi-Fiの有無を教えてください。	general,hotel,shopping,weather
+4053	5	SYSTEM	はい、レストランは併設しております。また、Wi-Fiも無料でご利用いただけます。	general,hotel,shopping,weather
+4053	6	USER	当日買い物ができるところを探してほしいです。地区は豊島区、最寄り駅が南千住駅のところにしてください。	general,hotel,shopping,weather
+4053	7	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel,shopping,weather
+4053	8	USER	そうですか。では最寄駅は考えないようにします。	general,hotel,shopping,weather
+4053	9	SYSTEM	かしこまりました。それではポケモンセンターメガトウキョーはいかがでしょうか？	general,hotel,shopping,weather
+4053	10	USER	その店の営業時間が知りたいです。	general,hotel,shopping,weather
+4053	11	SYSTEM	はい、営業時間は10時から20時までです。	general,hotel,shopping,weather
+4053	12	USER	あと天候を調べてください。日付は5/15、地区は中野区です。最高気温，最低気温が知りたいです。	general,hotel,shopping,weather
+4053	13	SYSTEM	はい、当日の中野区の最高気温は25.3度、最低気温は20度でございます。	general,hotel,shopping,weather
+4053	14	USER	解決しました。ありがとうございました。	general,hotel,shopping,weather

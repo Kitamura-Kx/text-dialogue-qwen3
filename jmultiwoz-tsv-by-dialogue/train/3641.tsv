@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3641	0	USER	那覇へ旅行に行くので、泊まるところを探してください。	general,hotel
+3641	1	SYSTEM	かしこまりました。それでは何か条件はございますか？	general,hotel
+3641	2	USER	レストランが併設されていることとWi-Fiが無料で利用できることを条件にしてください。	general,hotel
+3641	3	SYSTEM	かしこまりました。それではホテルJALシティ那覇はいかがしましょうか？	general,hotel
+3641	4	USER	そちらはどんなタイプの宿泊施設ですか？	general,hotel
+3641	5	SYSTEM	こちらはリゾートホテルでございます。	general,hotel
+3641	6	USER	料金情報を教えて欲しいです。	general,hotel
+3641	7	SYSTEM	値段帯は安めでございますが、料金情報は分かりません。	general,hotel
+3641	8	USER	わかりました。あと近辺の駅からの所要時間をお願いします。	general,hotel
+3641	9	SYSTEM	かしこまりました。美栄橋駅から徒歩で8分または、牧志駅から徒歩で10分でございます。	general,hotel
+3641	10	USER	ありがとうございます。以上になります。	general,hotel
+3641	11	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

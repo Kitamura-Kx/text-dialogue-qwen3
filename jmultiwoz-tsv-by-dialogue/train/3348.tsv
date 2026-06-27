@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3348	0	USER	京都への旅行を計画中で、観光名所を探しています。	general,attraction
+3348	1	SYSTEM	はい。50件ご紹介できます。	general,attraction
+3348	2	USER	上京区に観光スポットはありますか？	general,attraction
+3348	3	SYSTEM	京都御苑と、北野天満宮、金剛能楽堂、京都府立府民ホールALTIをご案内できます。	general,attraction
+3348	4	USER	ありがとうございます。北野天満宮に行こうと思います。電話番号と営業時間、料金を知りたいです。	general,attraction
+3348	5	SYSTEM	電話番号は0754610005、	general,attraction
+3348	6	USER	なるほど	general,attraction
+3348	7	SYSTEM	すみません。途中で送信してしまいました。営業時間は05:00～18:00、料金は無料です。	general,attraction
+3348	8	USER	非常に助かりました。ありがとうございます。	general,attraction
+3348	9	SYSTEM	よろしくお願いいたします。	general,attraction
+3348	10	USER	はい、それでは失礼します。	general,attraction

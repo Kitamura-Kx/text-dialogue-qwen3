@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1075	0	USER	仙台への旅行を計画しているのですが。	general,shopping,taxi,weather
+1075	1	SYSTEM	はい。なにかご要望はございますか。	general,shopping,taxi,weather
+1075	2	USER	当日買い物ができるところを探してください．地区は泉区で。	general,shopping,taxi,weather
+1075	3	SYSTEM	そちらの条件に合うお店がございませんでした。	general,shopping,taxi,weather
+1075	4	USER	でしたら、地区は宮城野区にしてもらえますか。	general,shopping,taxi,weather
+1075	5	SYSTEM	ヨドバシカメラマルチメディア仙台などはいかがでしょうか。	general,shopping,taxi,weather
+1075	6	USER	いいですね。そちらの駐車場の有無を教えてください。	general,shopping,taxi,weather
+1075	7	SYSTEM	駐車場の有無は有り(無料)となっています。	general,shopping,taxi,weather
+1075	8	USER	ありがとうございました。あと、ジャンボタクシーを利用できるタクシー会社はありませんか。	general,shopping,taxi,weather
+1075	9	SYSTEM	すみません、そちらの条件に合う会社がありません。	general,shopping,taxi,weather
+1075	10	USER	でしたらジャンボタクシーは利用可否どちらでもいいです。	general,shopping,taxi,weather
+1075	11	SYSTEM	でしたら（株）青葉タクシーはどうでしょうか。	general,shopping,taxi,weather
+1075	12	USER	いいですね。そちらの電話番号とキャッシュレス対応可か教えていただけませんか。	general,shopping,taxi,weather
+1075	13	SYSTEM	電話番号は0222587879で、キャッシュレス対応しています。	general,shopping,taxi,weather
+1075	14	USER	いいですね。そちらで予約して欲しいです。日付は7/19で時間は12:00で、出発地は岳山珈琲で目的地は先ほど見つけていただいた買い物店舗でお願いします。	general,shopping,taxi,weather
+1075	15	SYSTEM	予約できました。予約番号は53226です。	general,shopping,taxi,weather
+1075	16	USER	ありがとうございました。あと、7/19の宮城野区の天気もおしえてください。	general,shopping,taxi,weather
+1075	17	SYSTEM	天気は曇になっています。	general,shopping,taxi,weather
+1075	18	USER	最高気温も教えていただけますか。	general,shopping,taxi,weather
+1075	19	SYSTEM	最高気温は27度です。	general,shopping,taxi,weather
+1075	20	USER		general,shopping,taxi,weather

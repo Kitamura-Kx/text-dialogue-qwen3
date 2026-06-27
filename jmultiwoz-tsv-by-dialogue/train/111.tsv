@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+111	0	USER	こんばんは！ 今、仙台への旅行を考えているのですが、案内をお願いできますでしょうか。	general,hotel,taxi,weather
+111	1	SYSTEM	かしこまりました。仙台ですね。	general,hotel,taxi,weather
+111	2	USER	はい。まず、宿泊施設を探していただきたいのですが、宮城野区にある、タイプ的にはビジネスホテルで、お願いできますか？	general,hotel,taxi,weather
+111	3	SYSTEM	その条件ですと９件ございます。ほかに条件はございますか。	general,hotel,taxi,weather
+111	4	USER	最寄り駅が榴ヶ岡駅のところはありますか？	general,hotel,taxi,weather
+111	5	SYSTEM	ではホテル グリーンパレスはいかがでしょうか。	general,hotel,taxi,weather
+111	6	USER	ありがとうございます。 それでは、そちらに泊まろうかと思います。 予約をお願いしたいのですが、5月2日から4泊で、4人の泊りでお願いできますか？	general,hotel,taxi,weather
+111	7	SYSTEM	はい。予約ができました。予約番号は89453でございます。	general,hotel,taxi,weather
+111	8	USER	お手配、ありがとうございます。 あと、タクシーを利用したいのですが、ジャンボタクシーが使えるところで、どこか良い所はありますか？	general,hotel,taxi,weather
+111	9	SYSTEM	仙南タクシー（株）はいかがですか。	general,hotel,taxi,weather
+111	10	USER	仙南タクシー（株）ですね。そちらの電話番号を伺ってもよろしいですか？	general,hotel,taxi,weather
+111	11	SYSTEM	0570021070でございます。	general,hotel,taxi,weather
+111	12	USER	ありがとうございます。 では、タクシーの予約もお願いしたいのですが、5月2日の10時40分に、先ほどのホテル グリーンパレスから、目的地はアパヴィラホテル<仙台駅五橋>というところで、お願いします。	general,hotel,taxi,weather
+111	13	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。どうなさいますか。	general,hotel,taxi,weather
+111	14	USER	そうなんですね。 それでは、時間を11時20分に変更でお願いします。	general,hotel,taxi,weather
+111	15	SYSTEM	その時間ですと予約が可能でございました。予約番号は15625でございます。	general,hotel,taxi,weather
+111	16	USER	良かったです。ありがとうございます。 あと、最後に5月2日当日の天候について伺いたいのですが、泉区を調べることはできますか？	general,hotel,taxi,weather
+111	17	SYSTEM	天気は曇、最低気温は15.3、最高気温は22.8でございます。	general,hotel,taxi,weather
+111	18	USER	承知いたしました。ありがとうございます。	general,hotel,taxi,weather
+111	19	SYSTEM	ほかに何かご用件はございませんか。	general,hotel,taxi,weather
+111	20	USER	あとは大丈夫です。色々とご対応、ありがとうございました。	general,hotel,taxi,weather
+111	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi,weather

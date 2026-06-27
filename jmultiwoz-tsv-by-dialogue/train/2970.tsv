@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2970	0	USER	今度那覇へ行くんですが、Wi-Fiが無料で予算が普通くらいの宿泊施設を探してもらえますか？	general,hotel,weather,taxi
+2970	1	SYSTEM	承知しました。エリアでいうと本庁にある、ザ・ナハテラスはいかがでしょう？タイプはリゾートホテルとなります。	general,hotel,weather,taxi
+2970	2	USER	ありがとうございます。ではそこの予約をお願いできますか？10/28から２泊で４名です。	general,hotel,weather,taxi
+2970	3	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,hotel,weather,taxi
+2970	4	USER	では３名に変更します。	general,hotel,weather,taxi
+2970	5	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、78167となります。	general,hotel,weather,taxi
+2970	6	USER	ありがとうございます。あと、10/28の小禄の天気と最低気温も教えてもらえますか？	general,hotel,weather,taxi
+2970	7	SYSTEM	はい、天気は晴、最低気温28.8度となります。	general,hotel,weather,taxi
+2970	8	USER	わかりました。あとキャッシュレス払いができてジャンボタクシーが利用できるタクシー会社を探してもらえますか？	general,hotel,weather,taxi
+2970	9	SYSTEM	承知しました。三和交通はいかがでしょう？電話番号は、0120100084となります。	general,hotel,weather,taxi
+2970	10	USER	ありがとうございます。では予約をお願いできますか？ 10/28の午前11：00に、ザ・ナハテラスを出発して、鍵石 牧志店まで利用したいです。	general,hotel,weather,taxi
+2970	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、19595となります。	general,hotel,weather,taxi
+2970	12	USER	ありがとうございました。以上で結構です。	general,hotel,weather,taxi
+2970	13	SYSTEM	ありがとうございました。	general,hotel,weather,taxi

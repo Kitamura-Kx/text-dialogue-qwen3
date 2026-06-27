@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+627	0	USER	こんにちは。仙台での宿泊できるところを探しています。	general,hotel
+627	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel
+627	2	USER	Wi-Fiと駐車場が無料で利用できて、普通の価格帯のところがいいです。	general,hotel
+627	3	SYSTEM	では茂庭温泉 茂庭荘はいかがですか。	general,hotel
+627	4	USER	ありがとうございます、そこに行ってみようと思います。電話番号と、そこにレストランがあるかどうか分かりますか？	general,hotel
+627	5	SYSTEM	電話番号は0222455141でございます。レストランも併設しております。	general,hotel
+627	6	USER	承知しました。以上です、ありがとうございました！	general,hotel
+627	7	SYSTEM	かしこまりました。ありがとうございました。	general,hotel

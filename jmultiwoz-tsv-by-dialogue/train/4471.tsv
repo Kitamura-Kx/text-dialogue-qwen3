@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4471	0	USER	京都への旅行を計画しています． 日付は5/11で、地区は右京区です。 最高気温，天気を教えてください。	general,weather,taxi
+4471	1	SYSTEM	当日の最高気温は、21.2度の予報です。お天気は、雨時々曇の予報となっております。	general,weather,taxi
+4471	2	USER	ありがとうございます。では、当日利用できるタクシー会社を探してください。キャッシュレス払いできるところでお願いします。	general,weather,taxi
+4471	3	SYSTEM	申し訳ありません。京都でキャッシュレス払い対応のタクシー会社で、ご案内できるところがございませんでした。いかがいたしましょう？	general,weather,taxi
+4471	4	USER	キャッシュレス払いの可否は考慮しないでお願いします。	general,weather,taxi
+4471	5	SYSTEM	ありがとうございます。そうしましたら、京都観光バス株式会社はいかがでしょうか？	general,weather,taxi
+4471	6	USER	ありがとうございます。ジャンボタクシーは可能でしょうか	general,weather,taxi
+4471	7	SYSTEM	はい、ご利用いただけます。	general,weather,taxi
+4471	8	USER	ありがとうございます。そちらでお願いします。日付は5/11、時間は14:40、出発地はアパホテル〈京都駅北〉で、目的地は京都市呉竹文化センターでお願いします。	general,weather,taxi
+4471	9	SYSTEM	かしこまりました。ご予約番号、28952にて、お取りしました。	general,weather,taxi
+4471	10	USER	かしこまりました。本日はありがとうございました。	general,weather,taxi
+4471	11	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,weather,taxi

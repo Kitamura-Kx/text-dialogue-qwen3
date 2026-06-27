@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4706	0	USER	福岡の安めの旅行施設を探しています。WIFI無料で駐車場が無料のところはないでしょうか。	general,hotel
+4706	1	SYSTEM	ご利用ありがとうございます。ご旅行とのことですので、宿泊施設をお探しでよろしかったでしょうか？それとも観光施設やお買い物施設もございますが、ご希望ございますか？	general,hotel
+4706	2	USER	失礼いたしました。宿泊施設でお願いいたします。	general,hotel
+4706	3	SYSTEM	ありがとうございます。そうしますと、H HOTELはいかがでしょうか？中央区エリアにあるお安めの宿泊施設でございます。	general,hotel
+4706	4	USER	そちらで結構です。電話番号を教えていただけますか。	general,hotel
+4706	5	SYSTEM	はい、電話番号は、0927225070でございます。	general,hotel
+4706	6	USER	ありがとうございました。こちらで結構です。お問合せは以上です。	general,hotel
+4706	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

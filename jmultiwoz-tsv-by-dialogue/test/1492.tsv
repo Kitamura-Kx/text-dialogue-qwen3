@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1492	0	USER	東京で宿泊施設を探してください。新宿区でレストランを併設しているところはありますか？	general,hotel,restaurant,taxi
+1492	1	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しましょう？	general,hotel,restaurant,taxi
+1492	2	USER	併設レストランの条件の除いてください。	general,hotel,restaurant,taxi
+1492	3	SYSTEM	ありがとうございます。では、ビジネスホテル新大久保石亭はいかがでしょう？	general,hotel,restaurant,taxi
+1492	4	USER	はい、そちらにします。あと、飲食店情報もお願いできますか？渋谷区で無料駐車場があるお店を探しています。	general,hotel,restaurant,taxi
+1492	5	SYSTEM	申し訳ありません。その条件ではご紹介できないのですが、いかが致しましょう？	general,hotel,restaurant,taxi
+1492	6	USER	では、駐車場の条件を除いて再検索お願いできますか？	general,hotel,restaurant,taxi
+1492	7	SYSTEM	ありがとうございます。では、神戸鉄板焼 白秋はいかがでしょう？	general,hotel,restaurant,taxi
+1492	8	USER	そのお店のジャンルは何ですか？	general,hotel,restaurant,taxi
+1492	9	SYSTEM	はい、ジャンルは焼肉、ホルモンとなります。	general,hotel,restaurant,taxi
+1492	10	USER	そのお店で予約をお願いします。8/15の14:20、3人で予約をしたいです。	general,hotel,restaurant,taxi
+1492	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、62677となります。	general,hotel,restaurant,taxi
+1492	12	USER	ありがとうございます。最後に、タクシー会社の情報も教えてください。キャッシュレス対応していて、ジャンボタクシーも運営されている会社はありますか？	general,hotel,restaurant,taxi
+1492	13	SYSTEM	はい、トーショー交通はいかがでしょう？電話番号は0423441111となります。	general,hotel,restaurant,taxi
+1492	14	USER	そちらで予約をお願いします。8/15の12:30で、ビジネスホテル新大久保石亭発、神戸鉄板焼 白秋着でお願いします。	general,hotel,restaurant,taxi
+1492	15	SYSTEM	承知しました。予約が完了し、ご予約番号は、35869となります。	general,hotel,restaurant,taxi
+1492	16	USER	ありがとうございます！	general,hotel,restaurant,taxi

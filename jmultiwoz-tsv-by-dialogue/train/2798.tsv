@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2798	0	USER	東京への旅行を検討しています。当日利用できる観光名所を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,attraction
+2798	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction
+2798	2	USER	はい。ジャンルは橋で、Wi-Fiが無料で利用できる場所を探しているのですが、どうでしょうか？	general,attraction
+2798	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction
+2798	4	USER	そうですか。でしたら、橋では無く、水族館ではどうでしょうか？	general,attraction
+2798	5	SYSTEM	ありがとうございます。エリアでいうと江戸川区にある、葛西臨海水族園はいかがでしょう？	general,attraction
+2798	6	USER	そこで検討してみたいです。この施設の住所を教えて頂けますか？	general,attraction
+2798	7	SYSTEM	はい、住所は東京都江戸川区臨海町6丁目2-3となります。	general,attraction
+2798	8	USER	ありがとうございます。もう少し検討してみようと思います。ご対応、ありがとうございました。	general,attraction
+2798	9	SYSTEM	ありがとうございました。	general,attraction

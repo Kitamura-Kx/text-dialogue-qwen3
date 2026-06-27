@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1343	0	USER	仙台へ行こうと思っています。駐車場とWiFiが無料で利用できる飲食店を探していただきたいです。	general,restaurant,taxi
+1343	1	SYSTEM	味の牛たん喜助 駅前中央本店は、いかがですか？	general,restaurant,taxi
+1343	2	USER	そちらの近辺の駅からの所要時間を教えていただけますでしょうか。	general,restaurant,taxi
+1343	3	SYSTEM	近辺の駅からの所要時間は、仙台駅から徒歩で1分です。	general,restaurant,taxi
+1343	4	USER	では、10月23日15時20分から2人で予約をお願いします。	general,restaurant,taxi
+1343	5	SYSTEM	予約出来ました。予約番号は、37913です。	general,restaurant,taxi
+1343	6	USER	わかりました。ありがとうございます。	general,restaurant,taxi
+1343	7	SYSTEM	他にご用件はございますか？	general,restaurant,taxi
+1343	8	USER	ジャンボタクシーが利用できるタクシー会社を探していただきたいです。	general,restaurant,taxi
+1343	9	SYSTEM	仙南タクシー（株）は、いかがでしょうか？	general,restaurant,taxi
+1343	10	USER	そちらがキャッシュレス対応かどうか、電話番号について教えていただけますでしょうか。	general,restaurant,taxi
+1343	11	SYSTEM	こちらは、キャッシュレスも対応しております。　電話番号は、0570021070です。	general,restaurant,taxi
+1343	12	USER	では、10月23日14時味の牛たん喜助 駅前中央本店からアパヴィラホテル<仙台駅五橋>まで予約をお願いします。	general,restaurant,taxi
+1343	13	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant,taxi
+1343	14	USER	では時間を14時50分に変更して予約をお願いします。	general,restaurant,taxi
+1343	15	SYSTEM	予約出来ました。予約番号は、7089です。	general,restaurant,taxi
+1343	16	USER	わかりました。ありがとうございます。	general,restaurant,taxi
+1343	17	SYSTEM	他にご用件はございますか？	general,restaurant,taxi
+1343	18	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant,taxi

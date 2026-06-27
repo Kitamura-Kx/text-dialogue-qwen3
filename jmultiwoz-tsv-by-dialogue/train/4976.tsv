@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4976	0	USER	こんにちは、大阪旅行を計画しています。西区に、レストランが併設されていて、Wi-Fiが無料の宿泊施設はありますか？	general,hotel,shopping,restaurant
+4976	1	SYSTEM	こんにちは。リーガプレイス肥後橋はいかがでしょうか？	general,hotel,shopping,restaurant
+4976	2	USER	そちらで予約したいんですが、施設のタイプと、チェックアウト終了時刻はわかりますか？	general,hotel,shopping,restaurant
+4976	3	SYSTEM	施設タイプはビジネスホテルです。チェックアウト終了時刻は11:00です。	general,hotel,shopping,restaurant
+4976	4	USER	では、人数は2人で、6月11日に3泊で予約をお願いします。	general,hotel,shopping,restaurant
+4976	5	SYSTEM	申し訳ありません。その条件では予約ができませんでした。	general,hotel,shopping,restaurant
+4976	6	USER	それでは、人数は1人に減らして同じ条件でお願いします。	general,hotel,shopping,restaurant
+4976	7	SYSTEM	予約が完了しました。予約番号は96716です。	general,hotel,shopping,restaurant
+4976	8	USER	ありがとうございます。阿倍野区の、最寄り駅が昭和町駅というところで買い物したいんですが、ショッピングモールを教えてもらえますか？	general,hotel,shopping,restaurant
+4976	9	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,hotel,shopping,restaurant
+4976	10	USER	では、最寄り駅は考慮せずに、ほかは同じ条件で探してくれますか。	general,hotel,shopping,restaurant
+4976	11	SYSTEM	承知しました。あべのキューズモールはいかがでしょうか？	general,hotel,shopping,restaurant
+4976	12	USER	そこに行きたいです。営業時間も一応調べられますか？	general,hotel,shopping,restaurant
+4976	13	SYSTEM	営業時間は10:00～21:00です。	general,hotel,shopping,restaurant
+4976	14	USER	それから、北区でお好み焼き・たこ焼きの飲食店も探しています。	general,hotel,shopping,restaurant
+4976	15	SYSTEM	承知しました。鉄板串酒場 しん家はいかがでしょうか？	general,hotel,shopping,restaurant
+4976	16	USER	そこに行きます。電話番号はわかりますか？	general,hotel,shopping,restaurant
+4976	17	SYSTEM	電話番号は0663419489です。	general,hotel,shopping,restaurant
+4976	18	USER	よくわかりました。ありがとうございます！	general,hotel,shopping,restaurant

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3709	0	USER	こんにちは。京都に行くのですが、駐車場が無料で使えて、予算が安めな、下京区の宿泊施設はありますか？	general,hotel
+3709	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel
+3709	2	USER	では駐車場はなくても大丈夫です。	general,hotel
+3709	3	SYSTEM	かしこまりました。それでは、アパホテル〈京都駅前〉はいかがでしょうか？	general,hotel
+3709	4	USER	ありがとうございます。そこのチェックイン開始時刻はわかりますか？	general,hotel
+3709	5	SYSTEM	はい、チェックイン開始時刻は15時でございます。	general,hotel
+3709	6	USER	そのホテルにします。案内ありがとうございました。	general,hotel
+3709	7	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

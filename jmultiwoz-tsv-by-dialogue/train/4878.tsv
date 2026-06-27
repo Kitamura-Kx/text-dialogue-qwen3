@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4878	0	USER	仙台への旅行を計画しているんですけど、ジャンボタクシーが使えるタクシー会社はありますか？	general,taxi
+4878	1	SYSTEM	申し訳ございません。条件に合うタクシーはありませんでした。	general,taxi
+4878	2	USER	それじゃあジャンボタクシーは使えなくても大丈夫です。	general,taxi
+4878	3	SYSTEM	永楽交通（株）など、6件見つかりました。	general,taxi
+4878	4	USER	そこでお願いします。電話番号はわかりますか？	general,taxi
+4878	5	SYSTEM	電話番号は0222484546です。	general,taxi
+4878	6	USER	4/14の午後12時40分に、ローソン仙台松森陣ヶ前店からかに政宗 泉店で配車予約をお願いします。	general,taxi
+4878	7	SYSTEM	予約が完了しました。予約番号は73794です。	general,taxi
+4878	8	USER	ありがとうございます。	general,taxi
+4878	9	SYSTEM	承知いたしました。他に何かご希望はありますか？	general,taxi
+4878	10	USER	他にはありません。ありがとうございました。	general,taxi
+4878	11	SYSTEM	かしこまりました。ご利用ありがとうございました。	general,taxi

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2197	0	USER	名古屋で買い物できる場所を教えてください。駐車場が無料の百貨店や総合スーパーはありますか？	general,shopping,taxi
+2197	1	SYSTEM	駐車場が無料の百貨店や総合スーパーは名古屋に９件あります。追加の希望はありますか？	general,shopping,taxi
+2197	2	USER	他の条件はありません。おすすめはありますか？	general,shopping,taxi
+2197	3	SYSTEM	せっかく名古屋なので名鉄百貨店をオススメします。	general,shopping,taxi
+2197	4	USER	分かりました。そちらにします！続いて、タクシーについて聞いてもいいですか？キャッシュレス対応ができる会社を探してまして。	general,shopping,taxi
+2197	5	SYSTEM	名古屋でキャッシュレス対応できるタクシー会社は１５件ありますが、瑞穂タクシーをお勧めします。	general,shopping,taxi
+2197	6	USER	ちなみに、そちらの会社はジャンボタクシーも運営していますか？	general,shopping,taxi
+2197	7	SYSTEM	はい、ジャンボタクシーも対応しています。	general,shopping,taxi
+2197	8	USER	では8/23の15時で予約をお願いします。御園座から名鉄百貨店までの利用です。	general,shopping,taxi
+2197	9	SYSTEM	その条件だと予約失敗しました。少し時間をずらしていただけませんか。	general,shopping,taxi
+2197	10	USER	時間を16時に変更したらどうですか？	general,shopping,taxi
+2197	11	SYSTEM	１６時なら予約できました。予約番号は59703です。	general,shopping,taxi
+2197	12	USER	ありがとうございます！	general,shopping,taxi

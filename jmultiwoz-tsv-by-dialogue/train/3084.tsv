@@ -1,0 +1,5 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3084	0	USER	京都の舞扇堂祇園店に行くのですが、営業時間と定休日教えて下さい。	general,shopping
+3084	1	SYSTEM	舞扇堂 祇園店、朝１１時から夜７時までの営業で、不定休になっています。	general,shopping
+3084	2	USER	分かりました。失礼します。	general,shopping
+3084	3	SYSTEM	よい旅を	general,shopping

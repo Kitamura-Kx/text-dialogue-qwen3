@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+74	0	USER	横浜への旅行を計画しているので、Wi-Fiが無料で利用できる観光名所を探していただけますか？	general,attraction,shopping,weather
+74	1	SYSTEM	はい、9件ございます。ジャンルやエリアのご希望はございますか？	general,attraction,shopping,weather
+74	2	USER	いえ、特に希望はありません。	general,attraction,shopping,weather
+74	3	SYSTEM	横浜・八景島シーパラダイスはいかがでしょう？	general,attraction,shopping,weather
+74	4	USER	ありがとうございます。そこにしようと思うので、電話番号を教えてください。	general,attraction,shopping,weather
+74	5	SYSTEM	承知致しました。電話番号は、0457888888　となります。	general,attraction,shopping,weather
+74	6	USER	あと当日、買い物をしたいと思うので、駐車場が無料で利用できるお店を探していただけますか？	general,attraction,shopping,weather
+74	7	SYSTEM	はい、横浜には28件ございます。横浜・八景島シーパラダイスと同じエリアでお探しでしょうか？	general,attraction,shopping,weather
+74	8	USER	特にエリアにこだわりはないので、無料で駐車場が利用できるお店がいいです。	general,attraction,shopping,weather
+74	9	SYSTEM	買い物のジャンルのご希望はございますか？	general,attraction,shopping,weather
+74	10	USER	いえ、特にありません	general,attraction,shopping,weather
+74	11	SYSTEM	新横浜プリンスペペ　はいかがでしょうか？	general,attraction,shopping,weather
+74	12	USER	ジャンルは何でしょうか？	general,attraction,shopping,weather
+74	13	SYSTEM	百貨店や総合スーパーになります。	general,attraction,shopping,weather
+74	14	USER	いいですね。新横浜プリンスペペの定休日とエリアも教えてください。	general,attraction,shopping,weather
+74	15	SYSTEM	はい、定休日は不定休となっております。エリアは港北区です。	general,attraction,shopping,weather
+74	16	USER	ありがとうございます。あと都筑区の9/22の天気をきいておきたいので教えてください。	general,attraction,shopping,weather
+74	17	SYSTEM	承知致しました。当日の天気は雨となっております。	general,attraction,shopping,weather
+74	18	USER	ありがとうございます。	general,attraction,shopping,weather
+74	19	SYSTEM	他にご用件はございますか？	general,attraction,shopping,weather
+74	20	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,shopping,weather
+74	21	SYSTEM	承知致しました。ありがとうございました。	general,attraction,shopping,weather

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4231	0	USER	那覇市の壺川駅近くで宿を探しているのですが、レストランが併設されているシティホテルがいいのですがありますか	general,hotel,taxi
+4231	1	SYSTEM	承知しました。沖縄ハーバービューホテルというホテルが見つかりました。いかがでしょうか。	general,hotel,taxi
+4231	2	USER	ではそちらからの近辺の駅までの所有時間はどのくらいですか	general,hotel,taxi
+4231	3	SYSTEM	はい。徒歩で10分になります。	general,hotel,taxi
+4231	4	USER	当日、HOTEL COZY STAY IN 那覇曙までジャンボタクシーを使っていきたいのですがありますか	general,hotel,taxi
+4231	5	SYSTEM	はい。那覇第一交通ですとジャンボタクシー対応となっております。いかがでしょうか。	general,hotel,taxi
+4231	6	USER	ではそのタクシー会社の電話番号を教えてください	general,hotel,taxi
+4231	7	SYSTEM	はい。電話番号は0988537801となります。	general,hotel,taxi
+4231	8	USER	ちなみにキャスレスに対応していますか	general,hotel,taxi
+4231	9	SYSTEM	はい。対応しております。	general,hotel,taxi
+4231	10	USER	では、５月１４日朝の９時３０分から予約できますか？出発地は沖縄ハーバービューホテルでお願いします	general,hotel,taxi
+4231	11	SYSTEM	承知しました。予約の方出来ました。予約番号は26628になります。	general,hotel,taxi
+4231	12	USER	かしこまりました以上で終わりますありがとうざいました。	general,hotel,taxi

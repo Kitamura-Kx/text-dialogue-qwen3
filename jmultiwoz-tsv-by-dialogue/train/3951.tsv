@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3951	0	USER	仙台へ旅行に行くのですが、青葉区でファッションの買い物ができるところはないですか？	general,shopping,hotel
+3951	1	SYSTEM	はい、８件ほど、ございます。たとえば、どんぐりガーデン共和国 仙台一番町店というお店はいかがでしょうか？	general,shopping,hotel
+3951	2	USER	駐車場無料のところがいいですね。	general,shopping,hotel
+3951	3	SYSTEM	そうしますと、アニメイト仙台はいかがでしょうか？	general,shopping,hotel
+3951	4	USER	そこに行こうと思います。次は泊まるところを探しているのですが、Wi-Fiが無料で使えるところってありますか？	general,shopping,hotel
+3951	5	SYSTEM	はい、９５件候補がございます。ほかにご希望の条件はございませんか？	general,shopping,hotel
+3951	6	USER	最寄り駅が東仙台駅で、駐車場無料のところがいいです。	general,shopping,hotel
+3951	7	SYSTEM	かしこまりました。そうしますと、オレンジ・イン仙台東というビジネスホテルはいかがでしょうか？	general,shopping,hotel
+3951	8	USER	そこのホテルのチェックアウト終了時間と、電話番号を教えてください。	general,shopping,hotel
+3951	9	SYSTEM	はい、チェックアウトは午前10時までとなっております。電話番号は、0222994100です。	general,shopping,hotel
+3951	10	USER	わかりました。ありがとうございます。	general,shopping,hotel
+3951	11	SYSTEM	他にお調べすることはございませんか？	general,shopping,hotel
+3951	12	USER	もう大丈夫です。ありがとうございました。	general,shopping,hotel
+3951	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,hotel

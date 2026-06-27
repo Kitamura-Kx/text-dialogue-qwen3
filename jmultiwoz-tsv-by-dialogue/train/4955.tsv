@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4955	0	USER	京都へ行きたいのですが、左京区で駐車場を無料利用できる飲食店はありませんか？	general,restaurant,hotel,weather
+4955	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant,hotel,weather
+4955	2	USER	では、地区はどこでも大丈夫です。	general,restaurant,hotel,weather
+4955	3	SYSTEM	かしこまりました。それでは海雲亭 洛西店はいかがでしょうか？	general,restaurant,hotel,weather
+4955	4	USER	そこにします。Wi-Fiはあります？	general,restaurant,hotel,weather
+4955	5	SYSTEM	申し訳ありません。Wi-Fiの有無は分かりません。	general,restaurant,hotel,weather
+4955	6	USER	了解です。3人で12/31の13:40から予約したいです。	general,restaurant,hotel,weather
+4955	7	SYSTEM	申し訳ありません。その条件では予約が出来ませんでした。	general,restaurant,hotel,weather
+4955	8	USER	わかりました。なら、14:40に変更します。	general,restaurant,hotel,weather
+4955	9	SYSTEM	お待たせ致しました。予約番号88883でお取りさせていただきました。	general,restaurant,hotel,weather
+4955	10	USER	ありがとうございます。あと、京都駅のちかくで、東山区のWi-Fiが無料で利用できる宿泊施設なんかありませんか？	general,restaurant,hotel,weather
+4955	11	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant,hotel,weather
+4955	12	USER	そうですか。では東山区じゃなくてもいいです。	general,restaurant,hotel,weather
+4955	13	SYSTEM	かしこまりました。それではアパヴィラホテル〈京都駅前〉はいかがでしょうか？	general,restaurant,hotel,weather
+4955	14	USER	そこにします。チェックアウト終了時刻と住所。あと、駐車場の有無も教えてください。	general,restaurant,hotel,weather
+4955	15	SYSTEM	ありがとうございます。チェックアウト終了時刻は11時、住所は京都府京都市下京区東洞院通七条下ル塩小路町５３３、駐車場は無料でご利用いただけます。	general,restaurant,hotel,weather
+4955	16	USER	なるほど。最後に、12/31の上京区の天気と最低気温を教えてください。	general,restaurant,hotel,weather
+4955	17	SYSTEM	かしこまりました。当日の天気は晴のち雨、最低気温は2.9度の予報でございます。	general,restaurant,hotel,weather
+4955	18	USER	了解です。もう大丈夫です。	general,restaurant,hotel,weather
+4955	19	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,hotel,weather

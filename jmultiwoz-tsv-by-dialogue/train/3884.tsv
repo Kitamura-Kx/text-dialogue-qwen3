@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3884	0	USER	札幌への旅行を計画しています。駐車場が無料でレストランが併設されている旅館はありますか？	general,hotel,shopping,weather
+3884	1	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,hotel,shopping,weather
+3884	2	USER	では、ビジネスホテルではありますか？	general,hotel,shopping,weather
+3884	3	SYSTEM	ありがとうございます。そうしますと、ホテルルートイン札幌白石というところが1件ご案内できます。いかがでしょうか？	general,hotel,shopping,weather
+3884	4	USER	そこにします。宿の値段帯と電話番号とチェックイン開始時刻が知りたいです。	general,hotel,shopping,weather
+3884	5	SYSTEM	お値段はお安めのビジネスホテルでございます。電話番号は、0118732727です。チェックインは15時開始となっております。	general,hotel,shopping,weather
+3884	6	USER	4月6日に４人で4泊で予約したいです。	general,hotel,shopping,weather
+3884	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、52523です。	general,hotel,shopping,weather
+3884	8	USER	ありがとうございました。	general,hotel,shopping,weather
+3884	9	SYSTEM	他にお手伝いすることはございませんか？	general,hotel,shopping,weather
+3884	10	USER	当日買い物が出来る所を探しています。東区で駐車場が無料な所はありますか？	general,hotel,shopping,weather
+3884	11	SYSTEM	はい、4件ございます。例えば、アリオ札幌というところはいかがでしょうか？	general,hotel,shopping,weather
+3884	12	USER	そこの住所は分かりますか？	general,hotel,shopping,weather
+3884	13	SYSTEM	住所は、北海道札幌市東区北7条東9丁目2-20です。	general,hotel,shopping,weather
+3884	14	USER	ありがとうございます。	general,hotel,shopping,weather
+3884	15	SYSTEM	他にお調べすることはございませんか？	general,hotel,shopping,weather
+3884	16	USER	4月6日の豊平区の天気はどうなっていますか？	general,hotel,shopping,weather
+3884	17	SYSTEM	当日の天気は、雨のち晴の予報です。最低気温はマイナス0.7度、最高気温は15度の予想となっております。	general,hotel,shopping,weather
+3884	18	USER	分かりました。ありがとうございました。	general,hotel,shopping,weather
+3884	19	SYSTEM	ほかに、お知りになりたい情報などございませんか？	general,hotel,shopping,weather
+3884	20	USER	いえ、これで大丈夫です。	general,hotel,shopping,weather
+3884	21	SYSTEM	承知いたしました。お役に立てて何よりです。また何かございましたら、お気軽にお問い合わせください。	general,hotel,shopping,weather
+3884	22	USER		general,hotel,shopping,weather

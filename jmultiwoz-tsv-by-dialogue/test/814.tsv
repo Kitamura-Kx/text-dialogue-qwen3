@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+814	0	USER	札幌へ旅行予定なのですが、厚別区で買い物ができるところはありますか？	general,shopping,attraction
+814	1	SYSTEM	はい、4件ほどご案内できます。たとえば、イオン新さっぽろ店というお店はいかがでしょうか？	general,shopping,attraction
+814	2	USER	そこにします。最寄り駅を教えてください。	general,shopping,attraction
+814	3	SYSTEM	最寄りは新さっぽろ駅です。	general,shopping,attraction
+814	4	USER	わかりました。観光名所も探しているのですが、美術館・博物館でWi-Fiが無料で利用できるところはありますか？	general,shopping,attraction
+814	5	SYSTEM	はい、1件ございます。北海道大学総合博物館というところですが、いかがでしょうか？	general,shopping,attraction
+814	6	USER	そこにします。住所と料金情報も教えてください。	general,shopping,attraction
+814	7	SYSTEM	住所は、北海道札幌市北区北10条西8丁目です。料金は、大人も子供も無料となっております。	general,shopping,attraction
+814	8	USER	わかりました。ありがとうございます。	general,shopping,attraction
+814	9	SYSTEM	ほかにお調べすることはございますか？	general,shopping,attraction
+814	10	USER	いえ、もう大丈夫です。	general,shopping,attraction
+814	11	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,shopping,attraction

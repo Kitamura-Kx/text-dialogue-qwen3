@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1578	0	USER	仙台へ旅行予定なのですが、値段が普通くらいの飲食店を探してください。	general,restaurant,taxi,weather
+1578	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,restaurant,taxi,weather
+1578	2	USER	そうですね。駐車場が無料で使えて、最寄り駅が東仙台駅のところにしてください。	general,restaurant,taxi,weather
+1578	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,taxi,weather
+1578	4	USER	わかりました。なら最寄り駅はどこでも大丈夫です。	general,restaurant,taxi,weather
+1578	5	SYSTEM	では炭火焼肉 彩火はいかがでしょうか。	general,restaurant,taxi,weather
+1578	6	USER	そこにします。2人で10/24の11:10から予約をお願いします。	general,restaurant,taxi,weather
+1578	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は88785でございます。	general,restaurant,taxi,weather
+1578	8	USER	ありがとうございます。当日ジャンボタクシーを利用予定なのですが、調べてもらえますか？	general,restaurant,taxi,weather
+1578	9	SYSTEM	では（株）フタバタクシーがございます。こちらキャッシュレスにも対応しております。	general,restaurant,taxi,weather
+1578	10	USER	そこにします。10/24の9:40で炭火焼肉 彩火からなか卯 仙台駅東口店までの利用予約をお願いします。	general,restaurant,taxi,weather
+1578	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は53248でございます。	general,restaurant,taxi,weather
+1578	12	USER	ありがとうございます。当日10/24の太白区の天気を教えてください。	general,restaurant,taxi,weather
+1578	13	SYSTEM	天気は晴のち雨、最低気温が9.8度で最高気温が23.1度でございます。	general,restaurant,taxi,weather
+1578	14	USER	わかりました。ありがとうございます。	general,restaurant,taxi,weather
+1578	15	SYSTEM	ほかにご用件はございますか。	general,restaurant,taxi,weather
+1578	16	USER	いえ、もう大丈夫です。	general,restaurant,taxi,weather
+1578	17	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2280	0	USER	大阪へ旅行へ行くので、此花区で買い物ができるところを探してもらえますか？	general,shopping
+2280	1	SYSTEM	大阪此花区で買い物といえば、GoodBBQ舞洲 オーチャードグラスをお勧めします。	general,shopping
+2280	2	USER	そうなんですね。そこはどんなジャンルのお店ですか？	general,shopping
+2280	3	SYSTEM	食料品になります。	general,shopping
+2280	4	USER	わかりました。あと、駐車場があるかと営業時間も教えてもらえますか。	general,shopping
+2280	5	SYSTEM	駐車場は無料です。朝１１時から、夕方６時までやっています。	general,shopping
+2280	6	USER	わかりました。ありがとうございました。	general,shopping
+2280	7	SYSTEM	他にご希望はありますか？	general,shopping
+2280	8	USER	いえ、以上で結構です。	general,shopping
+2280	9	SYSTEM	よい旅を。	general,shopping

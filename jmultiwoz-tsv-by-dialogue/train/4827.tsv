@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4827	0	USER	横浜へ旅行を計画しているのですが、六角橋商店街というところのことを教えてください。	general,shopping,weather
+4827	1	SYSTEM	はい、六角橋商店街ですね。	general,shopping,weather
+4827	2	USER	定休日とエリアをお願いします。	general,shopping,weather
+4827	3	SYSTEM	エリアは神奈川区、定休日は店舗により異なるようです。	general,shopping,weather
+4827	4	USER	ありがとうございます。あと10/28の西区の天気を調べてください。	general,shopping,weather
+4827	5	SYSTEM	10/28 横浜 西区 の天気は雨時々晴、最低気温11.4度、最高気温21.8度です。	general,shopping,weather
+4827	6	USER	ありがとうございました。以上です。	general,shopping,weather

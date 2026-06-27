@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1031	0	USER	名古屋へ旅行にいくため、予算が普通の飲食店を探していただけますか？	general,restaurant,weather,taxi
+1031	1	SYSTEM	49件ございます、他に何か条件がございますか？	general,restaurant,weather,taxi
+1031	2	USER	駐車場が無料で利用できるお店で、名東区で探してもらえますか？	general,restaurant,weather,taxi
+1031	3	SYSTEM	申し訳ありません。名東区で駐車場が無料で利用できるお店はございません。	general,restaurant,weather,taxi
+1031	4	USER	では他のエリアでもいいので、駐車場が無料で利用できる飲食店でどこかいいところはありますか？	general,restaurant,weather,taxi
+1031	5	SYSTEM	3件、オーガニック食堂 Engiと、ピッツェリアパージナ 星が丘テラス店とサラベス 名古屋店がございます。	general,restaurant,weather,taxi
+1031	6	USER	オーガニック食堂 Engiにしようと思うのですが、Wi-Fiはありますか？	general,restaurant,weather,taxi
+1031	7	SYSTEM	申し訳ありません。Wi-Fiの有無は不明です。	general,restaurant,weather,taxi
+1031	8	USER	わかりました。8/17の14:10に3名で予約をお願いします。	general,restaurant,weather,taxi
+1031	9	SYSTEM	申し訳ありません。予約が出来ませんでした。	general,restaurant,weather,taxi
+1031	10	USER	では２名で予約お願いします。	general,restaurant,weather,taxi
+1031	11	SYSTEM	8/17の14:10に2名ですね。	general,restaurant,weather,taxi
+1031	12	USER	はい	general,restaurant,weather,taxi
+1031	13	SYSTEM	予約できました、予約番号は７８３４２になります。	general,restaurant,weather,taxi
+1031	14	USER	ありがとうございます。あと8/17の東区の天気と最低気温を調べてもらえますか？	general,restaurant,weather,taxi
+1031	15	SYSTEM	最低気温は22.8度で、最高気温が33.4度。お天気は曇のち晴となります。	general,restaurant,weather,taxi
+1031	16	USER	ありがとうございます。あとキャッシュレス払い対応のジャンボタクシーが利用できるタクシー会社を調べてもらえますか？	general,restaurant,weather,taxi
+1031	17	SYSTEM	9件ございます。	general,restaurant,weather,taxi
+1031	18	USER	他に条件はないので、どこかおすすめのタクシー会社を教えてください。	general,restaurant,weather,taxi
+1031	19	SYSTEM	東海交通はいかがでしょう。電話番は0532571111になります。	general,restaurant,weather,taxi
+1031	20	USER	そこでお願いしようと思います。8/17の13:00にオーガニック食堂 EngiからABホテル名古屋栄まで予約をお願いします。	general,restaurant,weather,taxi
+1031	21	SYSTEM	ご予約できました。予約番号95911となります。	general,restaurant,weather,taxi
+1031	22	USER	ありがとうございます。	general,restaurant,weather,taxi
+1031	23	SYSTEM	お調べする事は以上でしょうか？	general,restaurant,weather,taxi
+1031	24	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant,weather,taxi

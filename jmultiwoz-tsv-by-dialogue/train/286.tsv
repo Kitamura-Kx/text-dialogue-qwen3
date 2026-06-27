@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+286	0	USER	お願いします。	general,hotel,taxi
+286	1	SYSTEM	よろしくお願いいたします。	general,hotel,taxi
+286	2	USER	横浜への旅行を考えています。レストランの付いているホテルはありませんか？	general,hotel,taxi
+286	3	SYSTEM	かしこまりました。35件ございますが、ほかにご希望の条件はございますか。	general,hotel,taxi
+286	4	USER	いわゆるリゾートホテルに泊まりたいと思っています。	general,hotel,taxi
+286	5	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,hotel,taxi
+286	6	USER	わかりました。ではレストランの付いているホテルでおすすめを1件ご紹介下さい。	general,hotel,taxi
+286	7	SYSTEM	ではホテルリソル横浜桜木町はいかがでしょうか。	general,hotel,taxi
+286	8	USER	当日利用できるタクシーも探していただきたいのですが？	general,hotel,taxi
+286	9	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,taxi
+286	10	USER	キャッシュレス対応で、ジャンボタクシーを利用できるところを探しています。	general,hotel,taxi
+286	11	SYSTEM	スタジアム交通株式会社がございます。	general,hotel,taxi
+286	12	USER	そちらの電話番号はわかりますか？	general,hotel,taxi
+286	13	SYSTEM	電話番号は0120776081でございます。	general,hotel,taxi
+286	14	USER	では、タクシーの予約をお願いします。	general,hotel,taxi
+286	15	SYSTEM	かしこまりました。ご利用される日時と出発地、目的地を教えていただけますか。	general,hotel,taxi
+286	16	USER	はい。9/11，13：50。リソル横浜桜木町発、天然温泉戸塚宿　大橋の湯　スーパーホテル戸塚駅東口までです。	general,hotel,taxi
+286	17	SYSTEM	はい。予約が完了いたしました。予約番号は34950でございます。	general,hotel,taxi
+286	18	USER	ありがとうございます。お世話になりました。	general,hotel,taxi
+286	19	SYSTEM	ほかにご用件はございませんか。	general,hotel,taxi
+286	20	USER	はい。以上です。	general,hotel,taxi

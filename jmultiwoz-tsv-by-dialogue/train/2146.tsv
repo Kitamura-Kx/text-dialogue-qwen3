@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2146	0	USER	福岡中洲川端駅の近くで宿を探しています。リゾートタイプでWi-Fiがただのところを教えてください。	general,hotel,taxi
+2146	1	SYSTEM	福岡中洲川端駅、リゾートタイプでWi-Fi無料となるとヒットしませんでした。	general,hotel,taxi
+2146	2	USER	では宿のタイプは問いません。それでも無理ですか？	general,hotel,taxi
+2146	3	SYSTEM	福岡中洲川端駅でWiFi無料だと１３件ヒットします。追加の条件はありますか？	general,hotel,taxi
+2146	4	USER	特にありません、おすすめで教えてください。あとエリア的にどこになるかも聞きたいのですが。	general,hotel,taxi
+2146	5	SYSTEM	それでは博多区のHOTEL 博多中洲 INNをおすすめします。	general,hotel,taxi
+2146	6	USER	そのホテル、9月19日で3泊予約取れますか？あ、人数は2人です。	general,hotel,taxi
+2146	7	SYSTEM	9月19日、2人で3泊予約しました。予約番号は11459になります。	general,hotel,taxi
+2146	8	USER	福岡交通（株）ってタクシー会社分かりますか？キャッシュレスとジャンボタクシーの対応を知りたいんですけど。あと電話番号も知りたいです。	general,hotel,taxi
+2146	9	SYSTEM	福岡交通はキャッシュレス、ジャンボタクシーともに対応しています。電話番号は0570081234になります。	general,hotel,taxi
+2146	10	USER	9月19日にあか牛Dining yoka-yoka KITTE博多店を14時40分に出て、HOTEL 博多中洲 INNまでのタクシーを予約したいんですけど？	general,hotel,taxi
+2146	11	SYSTEM	その時間帯だと予約失敗してしまいました。少し時間を変更できますか？	general,hotel,taxi
+2146	12	USER	じゃあ30分ずらして15時10分出発ではどうでしょうか？	general,hotel,taxi
+2146	13	SYSTEM	予約成功しました。予約番号は39982になります。	general,hotel,taxi
+2146	14	USER	良かったです。お世話になりました。	general,hotel,taxi

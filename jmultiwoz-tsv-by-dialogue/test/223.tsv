@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+223	0	USER	東京へ旅行へいくため、観光名所を探しています。	general,attraction
+223	1	SYSTEM	東京には観光名所が50件ほど、見つかりました。なにかご希望の条件はございますか？	general,attraction
+223	2	USER	美術館・博物館でWi-Fiが無料で利用できるところはありますか？	general,attraction
+223	3	SYSTEM	はい、8件ほど候補がございます。ほかにご希望の条件がないようでしたら、江戸東京博物館など、ご興味ございませんか？	general,attraction
+223	4	USER	そこにしようと思います。住所を教えてください。	general,attraction
+223	5	SYSTEM	住所は、東京都墨田区横網1丁目4-1です。	general,attraction
+223	6	USER	江戸東京博物館への近辺の駅からの所要時間も教えてもらえますか？	general,attraction
+223	7	SYSTEM	かしこまりました。江戸東京博物館は、両国駅から徒歩で1分ほどの距離になります。	general,attraction
+223	8	USER	ありがとうございます。あと駐車場の有無も教えてください。	general,attraction
+223	9	SYSTEM	駐車場は、有料になりますが、ご用意がございます。	general,attraction
+223	10	USER	ありがとうございます。	general,attraction
+223	11	SYSTEM	ほかにお調べすることは、なにかございますか？	general,attraction
+223	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction
+223	13	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,attraction

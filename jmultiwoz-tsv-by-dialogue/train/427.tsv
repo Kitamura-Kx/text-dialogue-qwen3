@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+427	0	USER	大阪旅行に行くので、買い物できる場所でおすすめはありますか？	general,shopping
+427	1	SYSTEM	かしこまりました。ご希望の条件はございませんか。	general,shopping
+427	2	USER	コンビニで、駐車場を無料で利用できるとうれしいです。	general,shopping
+427	3	SYSTEM	では大阪シティエアターミナルはいかがですか。ジャンルはコンビニとなっております。	general,shopping
+427	4	USER	いいですね。近辺の駅からの所要時間と住所を教えて頂けないでしょうか。	general,shopping
+427	5	SYSTEM	難波駅から徒歩で1分、なんば駅から徒歩で5分、大阪難波駅から徒歩で2分でございます。住所は大阪府大阪市浪速区湊町1丁目4-1でございます。	general,shopping
+427	6	USER	ありがとうございました。	general,shopping

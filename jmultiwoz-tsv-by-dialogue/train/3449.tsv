@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3449	0	USER	福岡へ旅行をする予定なのですが、飲食店を探しています。	general,restaurant
+3449	1	SYSTEM	かしこまりました。１０８件ございますが、ご希望の条件はございますか。	general,restaurant
+3449	2	USER	駐車場が無料で利用出来て、最寄り駅が西鉄千早駅のお店がいいです。予算は普通なので、それに沿ったお店をお願いします。	general,restaurant
+3449	3	SYSTEM	では焼肉 曺苑はいかがでしょうか。	general,restaurant
+3449	4	USER	そのお店の近くの駅からの所要時間と、料金について教えてもらえますか？	general,restaurant
+3449	5	SYSTEM	西鉄千早駅からタクシーで11分で、タン塩が890円、カルビが1100円、 曺苑セットが6500円でございます。	general,restaurant
+3449	6	USER	ありがとうございます。	general,restaurant
+3449	7	SYSTEM	ほかにご用件はございますか。	general,restaurant
+3449	8	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant
+3449	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

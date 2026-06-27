@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+444	0	USER	横浜でレストラン併設の宿泊施設を探してほしいです。	general,hotel,weather
+444	1	SYSTEM	かしこまりました。該当する場所が48件ほどございますが、何か他にご希望の条件はございますか？	general,hotel,weather
+444	2	USER	駐車場が無料で使えるところだといいですね。	general,hotel,weather
+444	3	SYSTEM	そういたしますと、2件候補がございます。たとえばリゾートホテルの、ホテル パセラの森 横浜関内はいかがでしょう？	general,hotel,weather
+444	4	USER	良さそうですね。そちらのホテルのエリアと値段帯を教えてもらえますか？	general,hotel,weather
+444	5	SYSTEM	横浜市の中区エリアにございます。値段帯はお安めのリゾートホテルですよ。	general,hotel,weather
+444	6	USER	わかりました。あと、12月4日の港北区の最低気温はわかりますか？	general,hotel,weather
+444	7	SYSTEM	はい。当日の最低気温は2.9度の見込みです。	general,hotel,weather
+444	8	USER	参考になりました。ありがとうございました。	general,hotel,weather

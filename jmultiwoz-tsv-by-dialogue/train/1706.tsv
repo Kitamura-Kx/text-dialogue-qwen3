@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1706	0	USER	福岡への旅行を考えていて、イタリアン・フレンチの飲食店を調べてください。値段は普通くらいで、Wi-Fiが無料で利用できるところがいいです。	general,restaurant,attraction,taxi
+1706	1	SYSTEM	かしこまりました。ではHAPPY HILLはいかがでしょうか。	general,restaurant,attraction,taxi
+1706	2	USER	いいですね。観光名所も探しているのですが、城南区で最寄り駅が市営地下鉄福岡空港駅のいいところはありますか？	general,restaurant,attraction,taxi
+1706	3	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,restaurant,attraction,taxi
+1706	4	USER	そうですか。なら、城南区じゃなくてもいいんですけど。	general,restaurant,attraction,taxi
+1706	5	SYSTEM	では福岡空港はいかがでしょうか。	general,restaurant,attraction,taxi
+1706	6	USER	いいですね。住所を知りたいです。	general,restaurant,attraction,taxi
+1706	7	SYSTEM	住所は福岡県福岡市博多区下臼井778-1でございます。	general,restaurant,attraction,taxi
+1706	8	USER	ありがとうございます。タクシー利用を考えていて、キャッシュレス払いができる会社はありますか？	general,restaurant,attraction,taxi
+1706	9	SYSTEM	かしこまりました。では福岡昭和タクシー（株）はいかがでしょうか。	general,restaurant,attraction,taxi
+1706	10	USER	そこにします。ジャンボタクシーがあるかと、電話番号を知りたいです。	general,restaurant,attraction,taxi
+1706	11	SYSTEM	ジャンボタクシー対応しております。電話番号は0120408860でございます。	general,restaurant,attraction,taxi
+1706	12	USER	わかりました。12/20の13:20で、HAPPY HILLから福岡空港までの道のりのタクシーを予約してもらっていいですか？	general,restaurant,attraction,taxi
+1706	13	SYSTEM	予約が完了いたしました。予約番号は60490でございます。	general,restaurant,attraction,taxi
+1706	14	USER	ありがとうございました。もう大丈夫です！	general,restaurant,attraction,taxi
+1706	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,taxi

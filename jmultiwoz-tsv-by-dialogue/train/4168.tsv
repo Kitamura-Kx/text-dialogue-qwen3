@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4168	0	USER	東京に旅行に行こうと思うのですが、スポーツやフィットネスができる観光名所はありますか？駐車場が無料のところが良いです。	general,attraction,weather
+4168	1	SYSTEM	トランポランドTokyo、こちらはいかがですか？	general,attraction,weather
+4168	2	USER	そこにします。最寄り駅と大人の入場料を教えてください。	general,attraction,weather
+4168	3	SYSTEM	最寄り駅は、板橋区役所前駅です。　大人の入場料は、1650円です。	general,attraction,weather
+4168	4	USER	ありがとうございます。その日の天気が知りたいです。9月28日の台東区の天気を教えてください。	general,attraction,weather
+4168	5	SYSTEM	その日の天気は、雨の予報です。	general,attraction,weather
+4168	6	USER	最高気温は何度になりますか？	general,attraction,weather
+4168	7	SYSTEM	最高気温は、25.7度です。	general,attraction,weather
+4168	8	USER	分かりました。ありがとうございます。	general,attraction,weather
+4168	9	SYSTEM	他にご用件はございますか？	general,attraction,weather
+4168	10	USER	ありません。	general,attraction,weather
+4168	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

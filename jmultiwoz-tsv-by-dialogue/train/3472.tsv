@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3472	0	USER	京都に旅行に行こうと思っています。ラーメン・つけ麺が食べられる飲食店はありますか。	general,restaurant,taxi
+3472	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant,taxi
+3472	2	USER	では、駐車場が無料、予算は安めという条件をつけて、食事のジャンルはラーメン・つけ麺でなくてもかまいません。	general,restaurant,taxi
+3472	3	SYSTEM	かしこまりました。それでしたら海雲亭 洛西店がございます。	general,restaurant,taxi
+3472	4	USER	そのお店にはWi-Fiはありますか。	general,restaurant,taxi
+3472	5	SYSTEM	申し訳ありません。Wi-Fiの有無は分かりません。	general,restaurant,taxi
+3472	6	USER	了解しました。あとタクシーを利用したいのですが、キャッシュレス払いできるタクシーはありますか。	general,restaurant,taxi
+3472	7	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant,taxi
+3472	8	USER	ではキャッシュレス払いにこだわらなくても大丈夫です。	general,restaurant,taxi
+3472	9	SYSTEM	かしこまりました。それでは比叡山観光タクシー株式会社はいかがでしょうか？	general,restaurant,taxi
+3472	10	USER	その会社の電話番号を教えてください。	general,restaurant,taxi
+3472	11	SYSTEM	電話番号は0757221701でございます。	general,restaurant,taxi
+3472	12	USER	ありがとうございます。そこを予約したいと思います。5/6の15:00に都シティ 近鉄京都駅から海雲亭 洛西店でお願いします。	general,restaurant,taxi
+3472	13	SYSTEM	ありがとうございます。それでは予約番号24083でお取りさせていただきました。	general,restaurant,taxi
+3472	14	USER	これで大丈夫です。ありがとうございました。	general,restaurant,taxi
+3472	15	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,taxi

@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2953	0	USER	東京への旅行を計画しています。 当日買い物ができるところを探してください。最寄り駅が浅草駅が希望です。	general,shopping
+2953	1	SYSTEM	では、元祖食品サンプル屋 合羽橋店はいかがでしょう？	general,shopping
+2953	2	USER	いいですね。定休日を教えてほしいです。	general,shopping
+2953	3	SYSTEM	はい、定休日は年末年始となります。	general,shopping
+2953	4	USER	解決しました。ありがとうございました。	general,shopping

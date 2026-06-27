@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+347	0	USER	横浜に行くのですが、観光名所を探しています。	general,attraction,shopping,taxi
+347	1	SYSTEM	横浜の観光名所ですね。50件ほどご案内可能な場所がございます。なにかご希望の条件はございますでしょうか？	general,attraction,shopping,taxi
+347	2	USER	自然や公園といったジャンルで、駐車場が無料のところはありますか？	general,attraction,shopping,taxi
+347	3	SYSTEM	はい、3件ございます。例えば、三ツ池公園というところは、いかがでしょうか？	general,attraction,shopping,taxi
+347	4	USER	そこに行ってみます。あと、当日お土産が買えるところを知りたいです。駐車場が無料だと嬉しいです。	general,attraction,shopping,taxi
+347	5	SYSTEM	では、スヌーピータウンショップ 横浜みなとみらい店はいかがでしょうか？	general,attraction,shopping,taxi
+347	6	USER	ありがとうございます。住所と定休日はわかりますか？	general,attraction,shopping,taxi
+347	7	SYSTEM	住所は、神奈川県横浜市西区みなとみらい2丁目3-4 みなとみらい東急スクエア④　2階です。定休日は、不定休となっております。	general,attraction,shopping,taxi
+347	8	USER	ありがとうございます。それと、当日タクシーを利用したいのですが、キャッシュレス払いができて、ジャンボタクシーが利用できるところはありますか？	general,attraction,shopping,taxi
+347	9	SYSTEM	大変申し訳ございません。その条件の場合、ご案内できるところがありませんでした。	general,attraction,shopping,taxi
+347	10	USER	では、キャッシュレス払いはできなくても構いません。	general,attraction,shopping,taxi
+347	11	SYSTEM	かしこまりました。では、株式会社富士タクシーはいかがでしょうか？	general,attraction,shopping,taxi
+347	12	USER	電話番号を教えていただけませんか？	general,attraction,shopping,taxi
+347	13	SYSTEM	電話番号は、0457552211でございます。予約もお入れいたしますか？	general,attraction,shopping,taxi
+347	14	USER	はい、お願いします。6/10の15:10で、三ツ池公園からスヌーピータウンショップ 横浜みなとみらい店まででお願いします。	general,attraction,shopping,taxi
+347	15	SYSTEM	かしこまりました。予約完了いたしました。ご予約番号は、57823です。	general,attraction,shopping,taxi
+347	16	USER	ありがとうございます。以上です。大変お世話になりました。	general,attraction,shopping,taxi
+347	17	SYSTEM	こちらこそ、ご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせくださいませ。	general,attraction,shopping,taxi

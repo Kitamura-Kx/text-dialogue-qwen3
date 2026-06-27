@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4113	0	USER	札幌への旅行を計画しています。 当日買い物ができるところを探してください。駐車場を無料で利用できるところがいいです。	general,shopping,weather,taxi
+4113	1	SYSTEM	エリアでいうと東区にある、アリオ札幌はいかがでしょう？ジャンルは、百貨店や総合スーパーとなります。	general,shopping,weather,taxi
+4113	2	USER	近辺の駅からの所要時間，最寄り駅を教えてほしいです。	general,shopping,weather,taxi
+4113	3	SYSTEM	最寄りの苗穂駅から徒歩で3分、近辺の東区役所前駅から徒歩で15分となります。	general,shopping,weather,taxi
+4113	4	USER	当日の天気を教えてください。日付は1/17、地区は西区です。	general,shopping,weather,taxi
+4113	5	SYSTEM	天気は晴時々雪、最低気温-4度、最高気温-3.9度となります。	general,shopping,weather,taxi
+4113	6	USER	あと、タクシー会社を探してください。キャッシュレス払いができて、ジャンボタクシーを利用できるところが希望です。	general,shopping,weather,taxi
+4113	7	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,weather,taxi
+4113	8	USER	ではジャンボタクシーは条件から外してください。	general,shopping,weather,taxi
+4113	9	SYSTEM	寿ハイヤー(株)はいかがでしょう？電話番号は0115726000となります。	general,shopping,weather,taxi
+4113	10	USER	いいですね。予約をお願いします。日付は1/17、時間は12:30、出発地はアリオ札幌、目的地は札幌パークホテルでお願いします。	general,shopping,weather,taxi
+4113	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、33870となります。。	general,shopping,weather,taxi
+4113	12	USER	解決しました。ありがとうございました。	general,shopping,weather,taxi

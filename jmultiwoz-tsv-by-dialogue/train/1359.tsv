@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1359	0	USER	名古屋へ旅行に行くのですが、飲食店を探しています。	general,restaurant
+1359	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+1359	2	USER	駐車場を無料で利用できるところにしてください	general,restaurant
+1359	3	SYSTEM	ではビストロ バッカスはいかがですか。	general,restaurant
+1359	4	USER	そちらに行くので、定休日，住所，近辺の駅からの所要時間を教えてください	general,restaurant
+1359	5	SYSTEM	定休日は木曜日で、住所は愛知県名古屋市中区新栄2丁目10-14 プレストンズ新栄1Fでございます。新栄町駅から徒歩で5分となっております。	general,restaurant
+1359	6	USER	ありがとうございました。以上です。	general,restaurant
+1359	7	SYSTEM	承知しました。ありがとうございました。	general,restaurant

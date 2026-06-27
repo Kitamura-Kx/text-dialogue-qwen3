@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3170	0	USER	札幌に行くのですが、ジャンボタクシーが利用できるタクシー会社を探してもらえますか？	general,taxi,weather
+3170	1	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,taxi,weather
+3170	2	USER	それでしたら、ジャンボタクシーが利用できなくても構いません。	general,taxi,weather
+3170	3	SYSTEM	かしこまりました。では、日北交通(株)はいかがでしょうか？	general,taxi,weather
+3170	4	USER	ありがとうございます。そちらの電話番号と、キャッシュレス対応かどうか教えて下さい。	general,taxi,weather
+3170	5	SYSTEM	はい。電話番号は0118888686です。キャッシュレスにも対応しています。	general,taxi,weather
+3170	6	USER	ありがとうございます。１１月２２日の午後２時に、ホテルマイステイズ札幌アスペンからプレミアホテル 中島公園 札幌まで予約お願いします。	general,taxi,weather
+3170	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,taxi,weather
+3170	8	USER	では、時間を２:40に変更ではどうでしょうか？	general,taxi,weather
+3170	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、90346です。	general,taxi,weather
+3170	10	USER	１１月２２日の手稲区の最低気温と最高気温も調べてもらえますか？	general,taxi,weather
+3170	11	SYSTEM	かしこまりました。11/22の手稲区の天気予報は雨時々雪となっております。最低気温は3.2度、最高気温は9.4度になる予報です。	general,taxi,weather
+3170	12	USER	ありがとうございます。	general,taxi,weather
+3170	13	SYSTEM	ほかにお調べすることはありますか？	general,taxi,weather
+3170	14	USER	大丈夫です。ありがとうございました。	general,taxi,weather
+3170	15	SYSTEM	承知しました。ありがとうございました。	general,taxi,weather

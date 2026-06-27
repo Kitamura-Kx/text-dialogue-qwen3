@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3529	0	USER	東京へ行くのですが、板橋区で買い物ができるところを探しています。	general,shopping,taxi
+3529	1	SYSTEM	かしこまりました。ではイオン板橋ショッピングセンターがございます。	general,shopping,taxi
+3529	2	USER	駐車場は無料でしょうか？	general,shopping,taxi
+3529	3	SYSTEM	はい。駐車場は無料で利用いただけます。	general,shopping,taxi
+3529	4	USER	イオン板橋ショッピングセンターはどんなジャンルのお店ですか？	general,shopping,taxi
+3529	5	SYSTEM	百貨店や総合スーパーとなっております。	general,shopping,taxi
+3529	6	USER	あとキャッシュレス払い対応のタクシーも探しています。	general,shopping,taxi
+3529	7	SYSTEM	ではキャピタルオートがございます。	general,shopping,taxi
+3529	8	USER	ジャンボタクシーには対応していますか？	general,shopping,taxi
+3529	9	SYSTEM	はい。ジャンボタクシーにも対応しております。	general,shopping,taxi
+3529	10	USER	電話番号を教えてください。	general,shopping,taxi
+3529	11	SYSTEM	電話番号は0357552151でございます。	general,shopping,taxi
+3529	12	USER	9/20で12:30にイオン板橋ショッピングセンターから杜の都 太助 虎ノ門店で予約をお願いしたいです。	general,shopping,taxi
+3529	13	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,shopping,taxi
+3529	14	USER	13:30だとどうですか？	general,shopping,taxi
+3529	15	SYSTEM	その時間ですと予約が可能でございました。予約番号は76735でございます。	general,shopping,taxi
+3529	16	USER	ありがとうございます。	general,shopping,taxi
+3529	17	SYSTEM	ほかにご用件はございませんか。	general,shopping,taxi
+3529	18	USER	特にないです。	general,shopping,taxi
+3529	19	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

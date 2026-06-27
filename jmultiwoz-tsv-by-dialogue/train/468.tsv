@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+468	0	USER	福岡の観光名所に能古島キャンプ村というところはありますか？	general,attraction
+468	1	SYSTEM	はい。ございます。お知りになりたい情報がございますか。	general,attraction
+468	2	USER	料金情報が知りたいのですが、わかりますか？	general,attraction
+468	3	SYSTEM	日帰り利用で大人が1200円、小中学生800円、3才以上500円でございます。	general,attraction
+468	4	USER	わかりました。ありがとうございました。	general,attraction

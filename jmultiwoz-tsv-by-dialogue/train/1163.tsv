@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1163	0	USER	福岡へ旅行するので、天候を知りたいです。2/24の西区は、最高気温どれくらいですか？	general,weather,taxi
+1163	1	SYSTEM	かしこまりました。最高気温は17.3度でございます。	general,weather,taxi
+1163	2	USER	ありがとうございます。次にジャンボタクシーとキャッシュ払いが利用できるタクシー会社を探して欲しいです。	general,weather,taxi
+1163	3	SYSTEM	申し訳ございません。どちらにも対応している会社がございませんでした。いかがなさいますか。	general,weather,taxi
+1163	4	USER	では、キャッシュレスでなくてもいいですが、ジャンボタクシーはあるところありますか？	general,weather,taxi
+1163	5	SYSTEM	では（有）大鵬タクシーがございます。	general,weather,taxi
+1163	6	USER	電話番号を教えてください。	general,weather,taxi
+1163	7	SYSTEM	電話番号は0925515311でございます。	general,weather,taxi
+1163	8	USER	ではそちらでタクシーの予約をお願いします。2/24 12:40に焼肉 曺苑というところを出発。目的地はMKホテルズ 西中洲です。	general,weather,taxi
+1163	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は5778でございます。	general,weather,taxi
+1163	10	USER	今のところ、お願いしたいことは以上です。ありがとうございました。	general,weather,taxi
+1163	11	SYSTEM	承知しました。ありがとうございました。	general,weather,taxi

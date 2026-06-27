@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3460	0	USER	名古屋へ旅行に行くので、食事ができるお店を探してください。	general,restaurant,attraction
+3460	1	SYSTEM	かしこまりました。100件ほどございますので、御条件のご提示お願いいたします。	general,restaurant,attraction
+3460	2	USER	カレーが食べたくて、最寄り駅が車道駅のお店がいいです。予算は高めのところにしたいです。	general,restaurant,attraction
+3460	3	SYSTEM	申し訳ございません。その条件では予約することが出来ませんでした。	general,restaurant,attraction
+3460	4	USER	それなら逆に予算は安めのところがいいです。	general,restaurant,attraction
+3460	5	SYSTEM	かしこまりました。それでは、アリアナレストランがございます。	general,restaurant,attraction
+3460	6	USER	そちらの住所と近辺の駅からの所要時間と定休日を教えてください。	general,restaurant,attraction
+3460	7	SYSTEM	はい、住所は愛知県名古屋市東区筒井3丁目31-14 恒川ビル 2階でございまして、車道駅から徒歩で5分でございます。	general,restaurant,attraction
+3460	8	USER	ありがとうございます。定休日もお願いします。	general,restaurant,attraction
+3460	9	SYSTEM	かしこまりました。定休日は無しとなっております。	general,restaurant,attraction
+3460	10	USER	ありがとうございます。あと観光できるところを探して欲しいです。	general,restaurant,attraction
+3460	11	SYSTEM	かしこまりました。御条件伺います。	general,restaurant,attraction
+3460	12	USER	無料で駐車場が利用できて、名東区の観光地だといいのですがありますか？	general,restaurant,attraction
+3460	13	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant,attraction
+3460	14	USER	では昭和区だといかがでしょう？	general,restaurant,attraction
+3460	15	SYSTEM	かしこまりました。それでは昭和美術館(公益財団法人後藤報恩会)はいかがでしょうか？	general,restaurant,attraction
+3460	16	USER	そちらの大人入場料と料金情報と営業時間を教えてください。	general,restaurant,attraction
+3460	17	SYSTEM	はい、大人入場料は600円、料金情報は一般が600円 、学生が500円、65歳以上が550円でございます。営業時間は10時から16時30分です。	general,restaurant,attraction
+3460	18	USER	ありがとうございます。以上です。	general,restaurant,attraction
+3460	19	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,attraction

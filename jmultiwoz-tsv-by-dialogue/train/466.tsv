@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+466	0	USER	横浜で泊まれるところを探してほしいです。	general,hotel
+466	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel
+466	2	USER	旅館でレストランが併設されているところがいいなと思っています。	general,hotel
+466	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel
+466	4	USER	そうですか。では、レストランはなくてもいいので、横浜の旅館をもう一度探してもらえますか？	general,hotel
+466	5	SYSTEM	では旅館 皆楽園はいかがでしょうか。	general,hotel
+466	6	USER	よさそうですね。エリアはどのあたりになりますか？	general,hotel
+466	7	SYSTEM	エリアは金沢区でございます。	general,hotel
+466	8	USER	なるほど。そちらの旅館に予約をお願いしたいです。	general,hotel
+466	9	SYSTEM	かしこまりました。	general,hotel
+466	10	USER	8/25から3名で4泊お願いします。	general,hotel
+466	11	SYSTEM	はい。予約が完了いたしました。予約番号は49113でございます。	general,hotel
+466	12	USER	はい、どうもありがとうございました。	general,hotel

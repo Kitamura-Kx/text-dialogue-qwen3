@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2925	0	USER	こんにちは。横浜に行くのですが、駐車場が無料で使える観光名所はありますか？	general,attraction,restaurant,shopping
+2925	1	SYSTEM	横浜で駐車場無料の観光名所はいくつかありますが、キリンビール 横浜工場、こちらをおすすめします。	general,attraction,restaurant,shopping
+2925	2	USER	いいですね。子供入場料と料金情報を教えてください。	general,attraction,restaurant,shopping
+2925	3	SYSTEM	大人も子供も無料です。	general,attraction,restaurant,shopping
+2925	4	USER	ありがとうございます。地区は保土ケ谷区で、駐車場を無料で利用できる、カレーのお店はありますか？	general,attraction,restaurant,shopping
+2925	5	SYSTEM	保土ヶ谷区で駐車場無料のカレーのお店はなさそうです。	general,attraction,restaurant,shopping
+2925	6	USER	ではカレーじゃなくてもいいので、飲食店を探してもらえますか？	general,attraction,restaurant,shopping
+2925	7	SYSTEM	保土ヶ谷区で駐車場無料の飲食店は、松葉寿し、こちら一択です。	general,attraction,restaurant,shopping
+2925	8	USER	そこにします。料金情報と電話番号はわかりますか？	general,attraction,restaurant,shopping
+2925	9	SYSTEM	電話は0453812077、極み握り5500円が看板メニューのようです。	general,attraction,restaurant,shopping
+2925	10	USER	ありがとうございます。ではそのお店で、人数は3人、日付は3/16、時間は13:10で、予約をお願いします。	general,attraction,restaurant,shopping
+2925	11	SYSTEM	予約成功しました。予約番号は80832です。	general,attraction,restaurant,shopping
+2925	12	USER	ありがとうございます。あと、駐車場が無料で使える買い物スポットはないですか？	general,attraction,restaurant,shopping
+2925	13	SYSTEM	横浜で駐車場無料の買い物スポットはいくつかありますが、コストコ金沢シーサイド倉庫、ここが人気のようです。	general,attraction,restaurant,shopping
+2925	14	USER	そうなんですね。そこはショッピングモールでしょうか？できればショッピングモールがいいなと思ったのですが。	general,attraction,restaurant,shopping
+2925	15	SYSTEM	ジャンルは食料品, 家電・電化製品, ファッション, 医薬品・化粧品, その他。いろいろあってショッピングモール的ではあるのですが、ジャンルショッピングモールがよければ、ららぽーと横浜、こちらがオススメです。	general,attraction,restaurant,shopping
+2925	16	USER	ありがとうございます。ではららぽーと横浜に行ってみようと思います。このお店の営業時間と最寄り駅はわかりますか？	general,attraction,restaurant,shopping
+2925	17	SYSTEM	朝１０時から夜８時まで、最寄り駅は鴨居駅です。	general,attraction,restaurant,shopping
+2925	18	USER	ありがとうございました。	general,attraction,restaurant,shopping
+2925	19	SYSTEM	よい旅を。	general,attraction,restaurant,shopping

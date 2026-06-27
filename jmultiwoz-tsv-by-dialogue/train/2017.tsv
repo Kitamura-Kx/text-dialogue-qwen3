@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2017	0	USER	京都に行こうと思っています。当日タクシーを利用したいのですが、キャッシュレス払いできる会社を探してもらえますか？	general,taxi
+2017	1	SYSTEM	かしこまりました。では、帝産京都自動車株式会社はいかがでしょうか？	general,taxi
+2017	2	USER	ありがとうございます。そちらのタクシーはジャンボタクシーの利用もできますでしょうか？	general,taxi
+2017	3	SYSTEM	はい。利用可能です。	general,taxi
+2017	4	USER	ありがとうございます。電話番号を教えてもらえますか？	general,taxi
+2017	5	SYSTEM	はい。電話番号は0756611881でございます。	general,taxi
+2017	6	USER	５月２７日の１０時半に、京焼肉 新 先斗町店からABC−MART 京都アバンティ店まで、タクシー予約お願いできますか？	general,taxi
+2017	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,taxi
+2017	8	USER	11:20に遅らせたらできないでしょうか？	general,taxi
+2017	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、44618です。	general,taxi
+2017	10	USER	ありがとうございました。	general,taxi
+2017	11	SYSTEM	他にご用件はありますか？	general,taxi
+2017	12	USER	大丈夫です。ありがとうございました。	general,taxi
+2017	13	SYSTEM	承知しました。ありがとうございました。	general,taxi

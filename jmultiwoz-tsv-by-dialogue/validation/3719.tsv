@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3719	0	USER	福岡へ旅行を計画しているのですが、宿泊施設を探していただけますか？東区で予算は普通でお願いします。	general,hotel,taxi
+3719	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,taxi
+3719	2	USER	そうですか。では、予算は普通ではなくても大丈夫なので、他によいところはありますか？	general,hotel,taxi
+3719	3	SYSTEM	はい。それでは The358 SORAはいかがですか？	general,hotel,taxi
+3719	4	USER	そちらは宿のタイプはどんな感じ出すか？レストランはありますか？	general,hotel,taxi
+3719	5	SYSTEM	リゾートホテルになります。また、レストランもございます。	general,hotel,taxi
+3719	6	USER	では予約をお願いします。1/11に3名、2泊でお願いします。	general,hotel,taxi
+3719	7	SYSTEM	ご予約承りました。予約番号は52701です。	general,hotel,taxi
+3719	8	USER	ありがとうございます。	general,hotel,taxi
+3719	9	SYSTEM	こちらこそありがとうございました。	general,hotel,taxi
+3719	10	USER	タクシー会社も探してください。ジャンボタクシーが利用できて、キャッシュレス払いができるところでお願いします。	general,hotel,taxi
+3719	11	SYSTEM	かしこまりました。福岡交通（株）はいかがですか？	general,hotel,taxi
+3719	12	USER	そちらの電話番号はわかりますか？	general,hotel,taxi
+3719	13	SYSTEM	はい。0570081234です。	general,hotel,taxi
+3719	14	USER	ありがとうございます。ではそちらで予約できますか？1/11、13:50にThe358 SORAを出発で、中国大明火鍋城までお願いします。	general,hotel,taxi
+3719	15	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel,taxi
+3719	16	USER	そうですか、では14:40だと予約できますか？	general,hotel,taxi
+3719	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、68418です。	general,hotel,taxi
+3719	18	USER	ありがとうございます。	general,hotel,taxi
+3719	19	SYSTEM	ありがとうございました。	general,hotel,taxi

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3317	0	USER	仙台に行く予定ですが、簡易宿泊の宿を探してください。	general,hotel,shopping,weather
+3317	1	SYSTEM	仙台の簡易宿所ならば、ゲストハウス梅鉢がオススメです。	general,hotel,shopping,weather
+3317	2	USER	そこは駐車場やレストランはありますか？	general,hotel,shopping,weather
+3317	3	SYSTEM	駐車場は有料なのがあります、レストランはありません。	general,hotel,shopping,weather
+3317	4	USER	わかりました、買い物ができるところを探していますが、駐車場無料でファッションのお店はありますか？	general,hotel,shopping,weather
+3317	5	SYSTEM	いくつか候補はありますが、IKEA 仙台をおすすめします。	general,hotel,shopping,weather
+3317	6	USER	そこの営業時間と最寄り駅を教えてください。	general,hotel,shopping,weather
+3317	7	SYSTEM	朝１０時から夕方７時まで、長町駅が最寄りですね	general,hotel,shopping,weather
+3317	8	USER	ありがとうございます。10月3日の青葉区の天候はどうなっていますか？	general,hotel,shopping,weather
+3317	9	SYSTEM	10/3 仙台 青葉区 の天気は曇時々雨、最低気温11.6度、最高気温18.2度です	general,hotel,shopping,weather
+3317	10	USER	ありがとうございました。	general,hotel,shopping,weather
+3317	11	SYSTEM	よい旅を	general,hotel,shopping,weather

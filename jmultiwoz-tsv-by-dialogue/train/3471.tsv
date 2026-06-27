@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3471	0	USER	福岡に旅行に行こうと考えています。そこで飲食店を探しているのですが、無料Wi-Fiが利用できる店はありますか。	general,restaurant,attraction,weather
+3471	1	SYSTEM	かしこまりました。それぞれHAPPY HILLはいかがでしょうか？	general,restaurant,attraction,weather
+3471	2	USER	そのお店のエリアは何になりますか。	general,restaurant,attraction,weather
+3471	3	SYSTEM	エリアは、中央区でございます。	general,restaurant,attraction,weather
+3471	4	USER	ありがとうございます。あと料金と住所について教えてください。	general,restaurant,attraction,weather
+3471	5	SYSTEM	料金情報は、ジャークチキンが1100円、ラタトゥイユが550円、90分飲み放題付き! 貸切コースが4000円でございます。住所は福岡県福岡市中央区今泉1丁目7-21 1Fでございます。	general,restaurant,attraction,weather
+3471	6	USER	ありがとうございます。そこにしたいと思います。6/24の10:30に人数2人で予約をお願いします。	general,restaurant,attraction,weather
+3471	7	SYSTEM	申し訳ありません。その条件ですと予約が出来ませんでした。	general,restaurant,attraction,weather
+3471	8	USER	では、時間を11:30に変更します。	general,restaurant,attraction,weather
+3471	9	SYSTEM	かしこまりました。それぞれ予約番号55936でお取りさせていただきました。	general,restaurant,attraction,weather
+3471	10	USER	他に、観光名所も探しています。無料Wi-Fiが使えるところがいいです。	general,restaurant,attraction,weather
+3471	11	SYSTEM	かしこまりました。それではキャナルシティ劇場はいかがでしょうか？	general,restaurant,attraction,weather
+3471	12	USER	すみません、ジャンルは神社・寺院・教会・モニュメントなどでお願いします。	general,restaurant,attraction,weather
+3471	13	SYSTEM	かしこまりました。それぞれ住吉神社がございます。	general,restaurant,attraction,weather
+3471	14	USER	ありがとうございます。近隣の駅からはどのくらいかかりますか。	general,restaurant,attraction,weather
+3471	15	SYSTEM	はい、博多駅から徒歩で10分でございます。	general,restaurant,attraction,weather
+3471	16	USER	ありがとうございます。6/24の博多区の天気と最低気温はどのようになっていますか。	general,restaurant,attraction,weather
+3471	17	SYSTEM	はい、当日は天気は曇時々晴、最低気温は24.7度の予報です。	general,restaurant,attraction,weather
+3471	18	USER	ありがとうございます。これで大丈夫です。	general,restaurant,attraction,weather
+3471	19	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,attraction,weather

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+73	0	USER	福岡への旅行を計画しているのですが、キャッシュレス払いができてジャンボタクシーがあるタクシー会社はありますか？	general,taxi,weather
+73	1	SYSTEM	はい、14件ございます。	general,taxi,weather
+73	2	USER	5/16の9:50にHafH Fukuoka THE LIFEからアビスパ福岡 オフィシャルショップまで利用したいので、当日利用できるタクシー会社で予約をお願いします。	general,taxi,weather
+73	3	SYSTEM	はい、日新交通（株）にて予約させていただきました。 予約番号は、226、となります。	general,taxi,weather
+73	4	USER	ありがとうございます。日新交通（株）の電話番号も教えてください。予約番号は226、ですか？「、」もいりますか？	general,taxi,weather
+73	5	SYSTEM	分かりにくくなってしまい申し訳ありません、226　です。 電話番号は、0120152452　となっております。	general,taxi,weather
+73	6	USER	あと5/16の東区の天候を知っておきたいので、最低気温を教えてください	general,taxi,weather
+73	7	SYSTEM	はい、最低気温は11.9度となります。天候は晴のち曇です。	general,taxi,weather
+73	8	USER	ありがとうございます。	general,taxi,weather
+73	9	SYSTEM	他にご用件はございますか？	general,taxi,weather
+73	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,taxi,weather
+73	11	SYSTEM	承知致しました。ありがとうございました。	general,taxi,weather

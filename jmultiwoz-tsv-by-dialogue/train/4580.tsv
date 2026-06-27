@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4580	0	USER	福岡への旅行を計画しています． 当日買い物ができるところを探してください．駐車場を無料で利用できるところがいいです。	general,shopping,restaurant,taxi
+4580	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,restaurant,taxi
+4580	2	USER	でしたら、駐車場はどちらでもいいです。	general,shopping,restaurant,taxi
+4580	3	SYSTEM	柳橋連合市場はいかがでしょうか。	general,shopping,restaurant,taxi
+4580	4	USER	そちらのエリアを教えていただけますか。	general,shopping,restaurant,taxi
+4580	5	SYSTEM	エリアは中央区です。	general,shopping,restaurant,taxi
+4580	6	USER	ありがとうございます。あと、当日食事ができる飲食店を探してください．地区は早良区です．予算は安めが希望です．ジャンルはうどん・そばで	general,shopping,restaurant,taxi
+4580	7	SYSTEM	資さんうどん 原店はいかがでしょうか。	general,shopping,restaurant,taxi
+4580	8	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してください．キャッシュレス払いできるところにしてください．	general,shopping,restaurant,taxi
+4580	9	SYSTEM	福岡交通（株）はいかがでしょうか。	general,shopping,restaurant,taxi
+4580	10	USER	そちらの電話番号を教えてください。あと、そちらで当日のタクシーを予約してください．日付は8/5．時間は13:00．出発地は先ほど見つけた買い物店舗．目的地は先ほど見つけた飲食店でおねがいします。	general,shopping,restaurant,taxi
+4580	11	SYSTEM	電話番号は0570081234です。予約完了いたしました。予約番号60995になります。	general,shopping,restaurant,taxi
+4580	12	USER		general,shopping,restaurant,taxi

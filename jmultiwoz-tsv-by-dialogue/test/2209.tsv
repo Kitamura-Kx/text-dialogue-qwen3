@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2209	0	USER	大阪へ旅行したいのですが、生野区で無料Wi-Fiが使える飲食店はありませんか？	general,restaurant,shopping
+2209	1	SYSTEM	生野区で無料WiFiOKの飲食店はありません。	general,restaurant,shopping
+2209	2	USER	わかりました。生野区以外でも構いません。	general,restaurant,shopping
+2209	3	SYSTEM	無料WiFiOKの飲食店は１５件ほどヒットします。追加の希望はありますか？	general,restaurant,shopping
+2209	4	USER	いえ、追加無しで大丈夫です。	general,restaurant,shopping
+2209	5	SYSTEM	ではせっかく関西方面までこられるので、神戸牛焼肉 和ノ宮 なんば御堂筋店はいかがでしょうか？	general,restaurant,shopping
+2209	6	USER	いいですね。ジャンルと営業時間、あと近辺の駅からの所要時間を教えてください。	general,restaurant,shopping
+2209	7	SYSTEM	ジャンルは焼肉・ホルモン, 居酒屋, イタリアン・フレンチ、営業時間は昼１１時から夜１０時まで、なんば駅から徒歩で1分で立地もいいです。	general,restaurant,shopping
+2209	8	USER	わかりました。難波駅の近くでファッション関係の買い物ができるところも探していて、駐車場を無料で使えるようなみせはありませんかね？	general,restaurant,shopping
+2209	9	SYSTEM	難波駅、ファッション、駐車場無料、この条件ならば大阪シティエアターミナル一択です。	general,restaurant,shopping
+2209	10	USER	そこにします。住所と定休日を教えてください。	general,restaurant,shopping
+2209	11	SYSTEM	大阪府大阪市浪速区湊町1丁目4-1、定休日は第三水曜日と、あとは12/31や1/1になります。	general,restaurant,shopping
+2209	12	USER	わかりました。ありがとうございました。	general,restaurant,shopping
+2209	13	SYSTEM	お役に立てて光栄です	general,restaurant,shopping

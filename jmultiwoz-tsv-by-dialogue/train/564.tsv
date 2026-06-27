@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+564	0	USER	仙台へ旅行に行くので、当日買い物できるお店を教えて頂けないでしょうか。	general,shopping,hotel
+564	1	SYSTEM	承知しました。ジャンルなどのご希望はございますか？	general,shopping,hotel
+564	2	USER	泉区周辺で駐車場を無料で利用できるところだとうれしいです。	general,shopping,hotel
+564	3	SYSTEM	ありがとうございます。それでは、丸善 仙台アエル店はいかがでしょう？ジャンルは書籍、文房具、雑貨となります。	general,shopping,hotel
+564	4	USER	そちらに行くことにします。最寄り駅と定休日を教えて頂けないでしょうか。	general,shopping,hotel
+564	5	SYSTEM	はい、最寄りの仙台駅からは徒歩で2分、定休日はございません。	general,shopping,hotel
+564	6	USER	ありがとうございます。当日泊まる旅館も探して頂けないでしょうか。	general,shopping,hotel
+564	7	SYSTEM	承知しました。では、秋保温泉 茶寮宗園はいかがでしょう？エリアは太白区、最寄りの仙台駅からタクシーで30分となります。	general,shopping,hotel
+564	8	USER	提案ありがとうございます。ただ、最寄り駅が愛子駅のところが良いです。あと、駐車場も無料で使えるところを探して頂けますか？	general,shopping,hotel
+564	9	SYSTEM	承知しました。では、奥州秋保温泉 蘭亭はいかがでしょう？Wi-Fiも無料でご利用いただけます。	general,shopping,hotel
+564	10	USER	そちらでぜひお願いします。チェックアウト終了時刻と住所も教えて頂けないでしょうか。	general,shopping,hotel
+564	11	SYSTEM	はい、住所は宮城県仙台市太白区秋保町湯元木戸保7-1、チェックアウト終了時刻は10時となります。	general,shopping,hotel
+564	12	USER	ありがとうございました。	general,shopping,hotel

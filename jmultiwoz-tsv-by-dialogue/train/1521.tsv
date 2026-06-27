@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1521	0	USER	大阪へ旅行に行くので、当日泊まる宿泊施設を探して頂けますか？	general,hotel,taxi
+1521	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,taxi
+1521	2	USER	レストランが併設されていて、予算は安めだとうれしいです。	general,hotel,taxi
+1521	3	SYSTEM	ありがとうございます。では、中央区にある、大阪キャッスルホテルはいかがでしょう？	general,hotel,taxi
+1521	4	USER	そちらで予約をお願いします。4人で9/17から2泊なのですが、空いていますか？	general,hotel,taxi
+1521	5	SYSTEM	はい、予約が完了し、ご予約番号は、70316となります。他にご案内が必要なことはございますか？	general,hotel,taxi
+1521	6	USER	ありがとうございます。当日利用できるタクシー会社も教えて頂けると助かります。キャッシュレス払いできて、ジャンボタクシー対応の会社はありますか？	general,hotel,taxi
+1521	7	SYSTEM	はい、では、南タクシー株式会社はいかがでしょう？電話番号は、0667121331となります。予約はいかがされますか？	general,hotel,taxi
+1521	8	USER	予約もお願いします。9/17の10:30で、出発地は大阪キャッスルホテル、目的地は大衆ビストロ 匠を希望しているのですが、予約出来そうですか？	general,hotel,taxi
+1521	9	SYSTEM	申し訳ありません、その条件では予約ができませんでした。いかが致しましょう？	general,hotel,taxi
+1521	10	USER	時間を11:30に変更したら可能でしょうか？	general,hotel,taxi
+1521	11	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、28886となります。他にご案内が必要なことはございますか？	general,hotel,taxi
+1521	12	USER	他は大丈夫です。ありがとうございました。	general,hotel,taxi

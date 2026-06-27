@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2091	0	USER	横浜への旅行を計画しています。当日利用出来る飲食店を探しているのですが、お伺いしてもよろしいでしょうか？	general,restaurant,attraction,taxi
+2091	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,restaurant,attraction,taxi
+2091	2	USER	安めの洋食・西洋料理のお店を探しています。	general,restaurant,attraction,taxi
+2091	3	SYSTEM	かしこまりました。では、原価ビストロBAN! 横浜西口天理ビルはいかがでしょうか？	general,restaurant,attraction,taxi
+2091	4	USER	ありがとうございます。そちらはWi-Fiが無料で利用出来たりしますかね？	general,restaurant,attraction,taxi
+2091	5	SYSTEM	申し訳ございません。Wi-Fiの有無は不明となっております。	general,restaurant,attraction,taxi
+2091	6	USER	そうですか、他に、Wi-Fiが無料で利用出来るお店ってありますかね？	general,restaurant,attraction,taxi
+2091	7	SYSTEM	かしこまりました。では、世界のビール博物館 横浜店はいかがでしょうか？	general,restaurant,attraction,taxi
+2091	8	USER	ありがとうございます。そちらにしてみようかと思います。それとは別に、当日行く観光名所も探しているのですが、続けて大丈夫でしょうか？	general,restaurant,attraction,taxi
+2091	9	SYSTEM	はい。ご案内させていただきます。	general,restaurant,attraction,taxi
+2091	10	USER	最寄り駅が綱島駅で、駐車場が無料で利用できる場所を探しているのですが、ありますかね？	general,restaurant,attraction,taxi
+2091	11	SYSTEM	かしこまりました。では、スパ・リブール ヨコハマはいかがでしょうか？	general,restaurant,attraction,taxi
+2091	12	USER	ありがとうございます。そちらはどんなジャンルの観光名所になりますかね？	general,restaurant,attraction,taxi
+2091	13	SYSTEM	はい。ジャンルは温泉になります。	general,restaurant,attraction,taxi
+2091	14	USER	ありがとうございます。そちらの大人入場料はいくらになりますかね？	general,restaurant,attraction,taxi
+2091	15	SYSTEM	はい。大人入場料は1520円です。	general,restaurant,attraction,taxi
+2091	16	USER	ありがとうございます。最後に、当日利用するタクシー会社も探しているのですが、よろしいでしょうか？	general,restaurant,attraction,taxi
+2091	17	SYSTEM	はい。ご案内させていただきます。	general,restaurant,attraction,taxi
+2091	18	USER	助かります。ジャンボタクシーを利用できる所ってありますか？	general,restaurant,attraction,taxi
+2091	19	SYSTEM	かしこまりました。では、京浜ハイヤー株式会社はいかがでしょうか？キャッシュレス払いにも対応しています。	general,restaurant,attraction,taxi
+2091	20	USER	では、そちらで予約をお願いしたいのですが、よろしいでしょうか？	general,restaurant,attraction,taxi
+2091	21	SYSTEM	かしこまりました。出発時刻と、出発地と目的地はお決まりでしょうか？	general,restaurant,attraction,taxi
+2091	22	USER	はい。12月3日の15時20分で、世界のビール博物館 横浜店から、スパ・リブール ヨコハマまででお願いしたいです。	general,restaurant,attraction,taxi
+2091	23	SYSTEM	かしこまりました。ご予約承りました。予約番号は、2554 です。	general,restaurant,attraction,taxi
+2091	24	USER	ありがようございます。これで当日は大丈夫そうです。ありがとうございました。	general,restaurant,attraction,taxi
+2091	25	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,taxi

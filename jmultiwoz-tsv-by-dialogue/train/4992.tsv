@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4992	0	USER	よろしくお願いします。福岡旅行をしたいのですが、博多区で、Wi-Fiと駐車場が無料の観光名所を紹介してくれますか？	general,attraction,hotel
+4992	1	SYSTEM	承知しました。住吉神社はいかがでしょうか？	general,attraction,hotel
+4992	2	USER	神社ですか、いいですね。子供入場料と最寄り駅と、その駅からの所要時間も教えてくれますか？	general,attraction,hotel
+4992	3	SYSTEM	子供入場料は無料です。最寄り駅は博多駅です。住吉神社までの所要時間は徒歩で10分です。	general,attraction,hotel
+4992	4	USER	無料だと助かります。宿泊施設も探していますが、予算は高めでいいので、Wi-Fiが無料のところを探してください。	general,attraction,hotel
+4992	5	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,attraction,hotel
+4992	6	USER	予算が安めだとどうですか？	general,attraction,hotel
+4992	7	SYSTEM	ウィークリーイン南福岡はいかがでしょうか？	general,attraction,hotel
+4992	8	USER	そこに決めました。最寄り駅はどちらになりますか？	general,attraction,hotel
+4992	9	SYSTEM	最寄り駅は雑餉隈駅です。	general,attraction,hotel
+4992	10	USER	わかりました。ご対応ありがとうございます。	general,attraction,hotel

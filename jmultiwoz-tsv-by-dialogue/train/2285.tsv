@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2285	0	USER	札幌でキャッシュレス対応しているタクシー会社を教えて下さい。	general,taxi
+2285	1	SYSTEM	では、北都ベリアールサービス(株)はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は0118202200となります。	general,taxi
+2285	2	USER	では予約をお願いします。６月１３日の１２時４０分で、地酒ノ酒屋 愉酒屋発、ジャスマックプラザホテル着でお願いします。	general,taxi
+2285	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、41421となります。	general,taxi
+2285	4	USER	ありがとうございました。では失礼します。	general,taxi

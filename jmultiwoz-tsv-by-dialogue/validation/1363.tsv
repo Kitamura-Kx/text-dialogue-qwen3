@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1363	0	USER	東京への旅行に行くのですが、当日利用できるタクシー会社を探してください。	general,taxi
+1363	1	SYSTEM	かしこまりました。7件ほどご案内可能ですが、キャッシュレスのお支払いやジャンボタクシーのご利用予定などございませんか？	general,taxi
+1363	2	USER	キャッシュレス払いとジャンボタクシー、どちらも利用できるところにしてください。	general,taxi
+1363	3	SYSTEM	大変申し訳ございません。どちらにも該当するところですと、ご案内できるところが見つかりませんでした。	general,taxi
+1363	4	USER	それではジャンボタクシーの条件は外して構いません。	general,taxi
+1363	5	SYSTEM	ありがとうございます。では、東京交通はいかがでしょうか？	general,taxi
+1363	6	USER	そちらにします。電話番号を教えてください。	general,taxi
+1363	7	SYSTEM	電話番号は、0423914455です。	general,taxi
+1363	8	USER	ありがとうございます。そちらで予約をお願いします。日付は3/17、時間は09:30です。	general,taxi
+1363	9	SYSTEM	かしこまりました。ご利用予定の出発地、目的地はお決まりでしょうか？	general,taxi
+1363	10	USER	出発地はレンブラントキャビン新宿新大久保、目的地はアルモントイン東京日本橋です。	general,taxi
+1363	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、4138です。	general,taxi
+1363	12	USER	ありがとうございます。これで以上です。	general,taxi
+1363	13	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,taxi

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3614	0	USER	札幌に旅行を計画しています。北区で鍋が食べられる飲食店を探してほしいです。	general,restaurant,shopping,taxi
+3614	1	SYSTEM	承知いたしました。しゃぶしゃぶ温野菜 北24条店のみ該当がございます。いかがでしょうか？	general,restaurant,shopping,taxi
+3614	2	USER	そのお店の値段帯はどのようになっていますか。	general,restaurant,shopping,taxi
+3614	3	SYSTEM	しゃぶしゃぶ温野菜 北24条店の価格帯は普通に設定されております。	general,restaurant,shopping,taxi
+3614	4	USER	ありがとうございます。そのお店の予約をお願いします。12/8の12:40に人数は３人です。	general,restaurant,shopping,taxi
+3614	5	SYSTEM	申し訳ございません。頂いた条件ですとご予約が出来ませんでした。いかがいたしましょうか	general,restaurant,shopping,taxi
+3614	6	USER	では時間を13:30に変更でお願いします。	general,restaurant,shopping,taxi
+3614	7	SYSTEM	しゃぶしゃぶ温野菜 北24条店、12月8日13：30から3名様でご予約が完了しました。予約番号は98687でございます。	general,restaurant,shopping,taxi
+3614	8	USER	ありがとうございます。他に、お土産を買うお店を探しています。駐車場が無料で使えるのが希望です。	general,restaurant,shopping,taxi
+3614	9	SYSTEM	札幌のお土産扱い店舗で無料駐車場ありですと、ポケモンセンターサッポロのみ該当がございます。いかがでしょうか。	general,restaurant,shopping,taxi
+3614	10	USER	ありがとうございます。あと、キャッシュレス払いのできるジャンボタクシーを利用したいです。	general,restaurant,shopping,taxi
+3614	11	SYSTEM	札幌のジャンボタクシー対応でしたら恊和交通(株)がございます。他にも11件該当がございます。	general,restaurant,shopping,taxi
+3614	12	USER	その恊和交通(株)にします。電話番号を教えていただいてもいいですか。	general,restaurant,shopping,taxi
+3614	13	SYSTEM	0118751211でございます。	general,restaurant,shopping,taxi
+3614	14	USER	ありがとうございます。12/8の14:20にしゃぶしゃぶ温野菜 北24条店からポケモンセンターサッポロで予約をお願いします。	general,restaurant,shopping,taxi
+3614	15	SYSTEM	12月8日14:20出発でしゃぶしゃぶ温野菜 北24条店からポケモンセンターサッポロの予約をお取りしました。予約番号は65301でございます。	general,restaurant,shopping,taxi
+3614	16	USER	ありがとうございます。これで大丈夫です。	general,restaurant,shopping,taxi
+3614	17	SYSTEM	ありがとうございました。	general,restaurant,shopping,taxi

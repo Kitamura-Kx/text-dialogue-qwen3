@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+239	0	USER	お願いします。横浜への旅行を計画しています。wifiが無料で使える宿泊施設を探して下さい。	general,hotel,taxi,weather
+239	1	SYSTEM	では、お値段がお安めのビジネスホテル、JR東日本ホテルメッツ 横浜は如何でしょうか？	general,hotel,taxi,weather
+239	2	USER	黄金町駅周辺のホテルがいいのですが、そちらは黄金町駅周辺ですか？	general,hotel,taxi,weather
+239	3	SYSTEM	申し訳ございません。黄金町駅の近くでWiFiが無料でご利用いただける宿泊施設は該当がございませんでした。	general,hotel,taxi,weather
+239	4	USER	わかりました。JR東日本ホテルメッツ 横浜の値段帯を教えて下さい。	general,hotel,taxi,weather
+239	5	SYSTEM	かしこまりました。お値段はお安めのビジネスホテルとなっております。	general,hotel,taxi,weather
+239	6	USER	では、予約をお願いします。7/7から2泊で、2名でお願いします。	general,hotel,taxi,weather
+239	7	SYSTEM	かしこまりました。予約完了いたしました。ご予約番号は、68317です。	general,hotel,taxi,weather
+239	8	USER	ありがとうございます。当日、ジャンボタクシーを利用したいのですが、どこかありますか？	general,hotel,taxi,weather
+239	9	SYSTEM	では、北斗タクシー株式会社は如何でしょうか？	general,hotel,taxi,weather
+239	10	USER	そちらのタクシーはキャッシュレス対応してますか？	general,hotel,taxi,weather
+239	11	SYSTEM	申し訳ございません。キャッシュレスにつきましては、不明となっております。	general,hotel,taxi,weather
+239	12	USER	他に、キャッシュレス対応していてジャンボタクシーを利用できるところはありますか？	general,hotel,taxi,weather
+239	13	SYSTEM	申し訳ございません。その条件ですと、該当するタクシー会社がありませんでした。	general,hotel,taxi,weather
+239	14	USER	わかりました。では、北斗タクシー株式会社の電話番号を教えて下さい。	general,hotel,taxi,weather
+239	15	SYSTEM	電話番号は、0456238884でございます。ご予約いたしますか？	general,hotel,taxi,weather
+239	16	USER	お願いします。7/7の10：40で、カフェ ラ・ボエム 元町中華街発、JR東日本ホテルメッツ 横浜着でお願いします。	general,hotel,taxi,weather
+239	17	SYSTEM	ご予約ありがとうございます。予約番号73419にて、ご予約完了いたしました。	general,hotel,taxi,weather
+239	18	USER	ありがとうございます。ところで、7/7の栄区の天気はどうですか？	general,hotel,taxi,weather
+239	19	SYSTEM	7月7日、栄区の天気は雨時々曇の予報となっております。	general,hotel,taxi,weather
+239	20	USER	最低気温は何度になりますか？	general,hotel,taxi,weather
+239	21	SYSTEM	最低気温は21.1度になる予想です。	general,hotel,taxi,weather
+239	22	USER	ありがとうございました。では、失礼します。	general,hotel,taxi,weather
+239	23	SYSTEM	ご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,hotel,taxi,weather

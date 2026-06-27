@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4444	0	USER	横浜に旅行に行こうと思っています。中区でレストランが併設されている宿泊施設はありますか。	general,hotel
+4444	1	SYSTEM	お待たせ致しました。それではニューオータニイン横浜プレミアムはいかがでしょうか？	general,hotel
+4444	2	USER	ありがとうございます。そのホテルのチェックアウト終了時刻はいつになりますか。	general,hotel
+4444	3	SYSTEM	はい、チェックアウト終了時刻は12時でございます。	general,hotel
+4444	4	USER	ありがとうございます。あと、Wi-Fiはありますか。	general,hotel
+4444	5	SYSTEM	はい、Wi-Fiは無料でご利用いただけます。	general,hotel
+4444	6	USER	ありがとうございます。これで大丈夫です。	general,hotel
+4444	7	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

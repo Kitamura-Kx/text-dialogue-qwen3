@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1784	0	USER	こんにちは。京都へ旅行することになったので、南区の駐車場無料の買い物ができるところを探しています。お願いできますか？	general,shopping
+1784	1	SYSTEM	1件、ココカラファイン アバンティ店がございます。ジャンルは、医薬品、化粧品、食料品、となります。	general,shopping
+1784	2	USER	ありがとうございます。そちらの最寄り駅と、住所も教えてもらえますか？	general,shopping
+1784	3	SYSTEM	住所は京都府京都市南区東九条西山王町31番地、最寄りの京都駅から徒歩で1分となります。	general,shopping
+1784	4	USER	ありがとうございます。以上です。	general,shopping
+1784	5	SYSTEM	ありがとうございました。	general,shopping

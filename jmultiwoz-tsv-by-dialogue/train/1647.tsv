@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1647	0	USER	こんにちは。東京へ行くので、中野区の宿泊施設を探しています。駐車場無料でどこかありますか？	general,hotel,attraction,taxi
+1647	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,attraction,taxi
+1647	2	USER	そうですか。でしたら中野区じゃなくても大丈夫です。	general,hotel,attraction,taxi
+1647	3	SYSTEM	ではThe Okura Tokyoはいかがでしょうか。	general,hotel,attraction,taxi
+1647	4	USER	ありがとうございます。そこにします。それと、観光名所で板橋区にはどこかありますか？駐車場無料だといいのですけど。	general,hotel,attraction,taxi
+1647	5	SYSTEM	トランポランドTokyoがございます。	general,hotel,attraction,taxi
+1647	6	USER	いいですね。近辺の駅からの所用時間はどれくらいですか？	general,hotel,attraction,taxi
+1647	7	SYSTEM	板橋区役所前駅から徒歩で4分、下板橋駅から徒歩で6分、板橋駅から徒歩で10分でございます。	general,hotel,attraction,taxi
+1647	8	USER	ありがとうございます。それと、キャッシュレス払い対応で、ジャンボタクシーが使えるタクシー会社も探しています。探していただけますか？	general,hotel,attraction,taxi
+1647	9	SYSTEM	では大国自動車交通がございます。	general,hotel,attraction,taxi
+1647	10	USER	ありがとうございます。そちらの電話番号もお願いします。	general,hotel,attraction,taxi
+1647	11	SYSTEM	電話番号は0357552151でございます。	general,hotel,attraction,taxi
+1647	12	USER	ここで予約お願いできますか？	general,hotel,attraction,taxi
+1647	13	SYSTEM	かしこまりました。予約の詳細をお聞かせいただけますか。	general,hotel,attraction,taxi
+1647	14	USER	1/3の16:50で、さっき教えていただいたThe Okura TokyoからトランポランドTokyoまでです。	general,hotel,attraction,taxi
+1647	15	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,attraction,taxi
+1647	16	USER	そうしましたら、出発時間を17:40にしたら予約できますか？	general,hotel,attraction,taxi
+1647	17	SYSTEM	その時間ですと予約が可能でございました。予約番号は61544でございます。	general,hotel,attraction,taxi
+1647	18	USER	色々ありがとうございました。助かりました。	general,hotel,attraction,taxi
+1647	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction,taxi

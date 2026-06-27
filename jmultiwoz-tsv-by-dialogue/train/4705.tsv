@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4705	0	USER	旅行で東京に行きたいと思っています。文房具・雑貨のお店などで買い物がしたいんですけど、駐車場が無料で利用できるところはありませんか？	general,shopping,hotel
+4705	1	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,shopping,hotel
+4705	2	USER	そうですか、それじゃ駐車場はなくても大丈夫です。	general,shopping,hotel
+4705	3	SYSTEM	では、CIBONEはいかがですか？	general,shopping,hotel
+4705	4	USER	CIBONEの営業時間と近辺の駅からの所要時間を教えてもらえますか？	general,shopping,hotel
+4705	5	SYSTEM	はい。営業時間は11:00～20:00です。また、近辺の駅からの所要時間は表参道駅から徒歩で4分、明治神宮前〈原宿〉駅から徒歩で3分になります。	general,shopping,hotel
+4705	6	USER	ありがとう。あと、宿泊施設も探してもらえますか？	general,shopping,hotel
+4705	7	SYSTEM	はい。お願いします。	general,shopping,hotel
+4705	8	USER	レストランが併設されていて、港区が希望です。Wi-Fiも無料の宿泊施設が良いのですがありますか？	general,shopping,hotel
+4705	9	SYSTEM	その条件ですと、コンラッド東京がおすすめです。	general,shopping,hotel
+4705	10	USER	そちらの値段帯はわかりますか？	general,shopping,hotel
+4705	11	SYSTEM	はい。値段帯は普通です。	general,shopping,hotel
+4705	12	USER	じゃあ、そちらのコンラッド東京で4/17から3泊、4名で予約をお願いします。	general,shopping,hotel
+4705	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、99121です。	general,shopping,hotel
+4705	14	USER	ありがとうございました。	general,shopping,hotel
+4705	15	SYSTEM	こちらこそご利用ありがとうございました。	general,shopping,hotel

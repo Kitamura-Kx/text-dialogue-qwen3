@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4105	0	USER	東京への旅行を計画しています。 KIDDY LAND原宿店というお店がありますか？	general,shopping
+4105	1	SYSTEM	はい、エリアでいうと渋谷区にございます。ジャンルは、その他、文房具、雑貨、となります。	general,shopping
+4105	2	USER	電話番号，住所を教えてください。	general,shopping
+4105	3	SYSTEM	電話番号は0334093431、住所は東京都渋谷区神宮前6丁目1-9となります。	general,shopping
+4105	4	USER	解決しました。ありがとうございました。	general,shopping

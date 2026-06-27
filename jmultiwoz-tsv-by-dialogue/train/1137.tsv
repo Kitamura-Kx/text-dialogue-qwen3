@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1137	0	USER	横浜への旅行を計画中です。最寄り駅が横浜駅で都筑区の中で買い物がしたいのですが教えて下さい。駐車場無料が希望です。	general,shopping,attraction
+1137	1	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しましょう？	general,shopping,attraction
+1137	2	USER	それでは最寄り駅はこだわりません。	general,shopping,attraction
+1137	3	SYSTEM	ありがとうございます。では、IKEA港北はいかがでしょう？何かご案内致しましょうか？	general,shopping,attraction
+1137	4	USER	IKEA港北の定休日と最寄駅からの所要時間、ジャンルを教えて下さい。	general,shopping,attraction
+1137	5	SYSTEM	はい、ジャンルは家電、電化製品、文房具、雑貨、その他、となります。最寄りの大倉山駅からバスで20分、定休日は1月1日となります。他にご案内できることはございますか？	general,shopping,attraction
+1137	6	USER	わかりました、観光もしたいのですが駐車場とWi-Fiが無料の観光名所を教えて下さい。	general,shopping,attraction
+1137	7	SYSTEM	はい、では、カップヌードルミュージアム 横浜はいかがでしょう？ご案内できることはございますか？	general,shopping,attraction
+1137	8	USER	カップヌードルミュージアム 横浜の電話番号を教えて下さい	general,shopping,attraction
+1137	9	SYSTEM	はい、電話番号は0453450825となります。他にご用件はございますか？	general,shopping,attraction
+1137	10	USER	いえ大丈夫です、有難うございました。	general,shopping,attraction
+1137	11	SYSTEM	ありがとうございました。	general,shopping,attraction

@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1527	0	USER	京都旅行で当日食事ができる飲食店でおすすめはありますか？	general,restaurant,taxi,weather
+1527	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,taxi,weather
+1527	2	USER	予算は安めでWi-Fiが無料で利用できるところはありますか？	general,restaurant,taxi,weather
+1527	3	SYSTEM	ではいっかくじゅう 四条新町店はいかがでしょうか。	general,restaurant,taxi,weather
+1527	4	USER	そちらに行きたいと思います。当日利用できるタクシー会社も教えて頂けないでしょうか。	general,restaurant,taxi,weather
+1527	5	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,taxi,weather
+1527	6	USER	キャッシュレス払い可能で、ジャンボタクシーに対応しているところはありますか？	general,restaurant,taxi,weather
+1527	7	SYSTEM	申し訳ございません。どちらにも対応している会社がございませんでした。いかがなさいますか。	general,restaurant,taxi,weather
+1527	8	USER	では、キャッシュレス払いは対応していなくても大丈夫です。	general,restaurant,taxi,weather
+1527	9	SYSTEM	では彌榮自動車株式会社がございます。	general,restaurant,taxi,weather
+1527	10	USER	そちらを使用したいのですが、電話番号を教えて頂けないでしょうか。	general,restaurant,taxi,weather
+1527	11	SYSTEM	電話番号は0758421212でございます。	general,restaurant,taxi,weather
+1527	12	USER	ありがとうございます。予約もお願いできますか？9/2の09:30で、出発地はいっかくじゅう 四条新町店、目的地は京都市右京ふれあい文化会館でお願いしたいです。	general,restaurant,taxi,weather
+1527	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は99198でございます。	general,restaurant,taxi,weather
+1527	14	USER	ありがとうございます。当日の天候も教えて頂けると助かります。左京区の9/2ですが、いかがでしょうか。	general,restaurant,taxi,weather
+1527	15	SYSTEM	天気は雨のち晴、最低気温が24.9度で最高気温が26.3度でございます。	general,restaurant,taxi,weather
+1527	16	USER	ありがとうございました。	general,restaurant,taxi,weather

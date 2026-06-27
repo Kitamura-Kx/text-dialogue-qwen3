@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4914	0	USER	横浜に旅行に行こうと思っています。5/16の西区の最低気温と天気を教えてください。	general,weather,taxi
+4914	1	SYSTEM	最低気温が16.4度で、天気は晴のち曇でございます。	general,weather,taxi
+4914	2	USER	ありがとうございます。当日のタクシーは神奈川都市交通株式会社 金沢営業所を利用するつもりなんですが、キャッシュレス対応はしているでしょうか。	general,weather,taxi
+4914	3	SYSTEM	はい。キャッシュレスには対応しております。	general,weather,taxi
+4914	4	USER	ありがとうございます。では予約をお願いします。5/16の11:00でRAKU SPA 鶴見からみなとみらい東急スクエアです。	general,weather,taxi
+4914	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は66171でございます。	general,weather,taxi
+4914	6	USER	ありがとうございます。これで大丈夫です。	general,weather,taxi
+4914	7	SYSTEM	承知しました。ありがとうございました。	general,weather,taxi

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1063	0	USER	沖縄の那覇に行きたいのですが、その時に食事をするお店を探しています。	general,restaurant,hotel
+1063	1	SYSTEM	那覇のお食事処ですね。お食事のジャンルやエリアなど、何かご希望はございますか？	general,restaurant,hotel
+1063	2	USER	壺川駅の周辺で、駐車場も無料だと助かります。ジャンルは特に決めていませんが、お安めのお店が良いです。	general,restaurant,hotel
+1063	3	SYSTEM	かしこまりました。そうしますと、2件候補があるのですが、楚辺というお店はいかがでしょうか？ジャンルは、郷土料理, うどん・そば, 寿司・魚料理の、お安めのお店です。	general,restaurant,hotel
+1063	4	USER	ありがとうございます。駅からだとどれくらいの時間がかかりますか？	general,restaurant,hotel
+1063	5	SYSTEM	壺川駅から徒歩で14分ほどかかります。	general,restaurant,hotel
+1063	6	USER	そのお店で8/9に予約して欲しいです。楚辺の住所も分かりますか？	general,restaurant,hotel
+1063	7	SYSTEM	かしこまりました。ではまず、住所は、沖縄県那覇市楚辺2-37-40です。予約をお入れいたしますので、ご利用予定の時刻と人数もお願いできますでしょうか？	general,restaurant,hotel
+1063	8	USER	12:40で3人で予約を取ってください。	general,restaurant,hotel
+1063	9	SYSTEM	かしこまりました。ご予約番号65135にて、承りました。	general,restaurant,hotel
+1063	10	USER	ありがとうございます、お世話になりました。	general,restaurant,hotel
+1063	11	SYSTEM	他にお手伝いすることはございませんか？	general,restaurant,hotel
+1063	12	USER	はい、あとはリゾートホテルも探して欲しいです。真和志でレストランもある所はありますか？	general,restaurant,hotel
+1063	13	SYSTEM	はい、3件ほどご案内可能です。たとえば、ヒューイットリゾート那覇というところは、いかがでしょうか？	general,restaurant,hotel
+1063	14	USER	ヒューイットリゾート那覇は、近くの駅からだとだいたい何分くらいかかりますか？	general,restaurant,hotel
+1063	15	SYSTEM	最寄りの安里駅から徒歩で3分ほどの距離にございます。	general,restaurant,hotel
+1063	16	USER	ありがとうございました。	general,restaurant,hotel
+1063	17	SYSTEM	他になにかお調べすることはございませんか？	general,restaurant,hotel
+1063	18	USER	これだけです、ありがとうございました。	general,restaurant,hotel
+1063	19	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,restaurant,hotel

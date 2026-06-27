@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4079	0	USER	大阪への旅行を計画しています． 当日泊まる宿泊施設を探してください．予算は安めが希望です．Wi-Fiが無料で利用できるところがいいです。	general,hotel,shopping,weather
+4079	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,hotel,shopping,weather
+4079	2	USER	でしたら予算はなんでもいいです。	general,hotel,shopping,weather
+4079	3	SYSTEM	大阪マリオット都ホテルはいかがでしょうか。	general,hotel,shopping,weather
+4079	4	USER	そちらのタイプと駐車場の有無を教えていただけますか。	general,hotel,shopping,weather
+4079	5	SYSTEM	タイプはリゾートホテルで、駐車場の有無は有り(有料)です。	general,hotel,shopping,weather
+4079	6	USER	ありがとうございます。あと、当日買い物ができるところを探してください．ジャンルはスーパーマーケットです．駐車場を無料で利用できるところがいいです。	general,hotel,shopping,weather
+4079	7	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,hotel,shopping,weather
+4079	8	USER	でしたらジャンルを食料品にしてください。	general,hotel,shopping,weather
+4079	9	SYSTEM	りくろーおじさんの店 住之江公園店はいかがでしょうか。	general,hotel,shopping,weather
+4079	10	USER	そちらの定休日が知りたいです。	general,hotel,shopping,weather
+4079	11	SYSTEM	定休日は無しです。	general,hotel,shopping,weather
+4079	12	USER	ありがとうございます。あと、5/25の東成区の最低気温が知りたいです。	general,hotel,shopping,weather
+4079	13	SYSTEM	最低気温は15.1度です。	general,hotel,shopping,weather
+4079	14	USER	ありがとうございます。	general,hotel,shopping,weather

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4546	0	USER	京都へ旅行する予定なのですが上京区で最寄り駅が北山駅の買い物ができる場所を教えて下さい。	general,shopping
+4546	1	SYSTEM	京都上京区で、北山駅最寄りの買い物施設はなさそうです。	general,shopping
+4546	2	USER	それでは上京区でなくても大丈夫です。	general,shopping
+4546	3	SYSTEM	北山駅の買い物施設なら、Malebranche 北山本店をお勧めします。	general,shopping
+4546	4	USER	ありがとうございます。駐車場はありますか？定休日と電話番号を教えて下さい。	general,shopping
+4546	5	SYSTEM	駐車場は無料です。定休日は無し、電話は0757223399です。	general,shopping
+4546	6	USER	大変助かりました！ありがとうございました。	general,shopping

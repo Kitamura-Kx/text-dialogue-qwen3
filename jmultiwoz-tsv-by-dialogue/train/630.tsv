@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+630	0	USER	今度福岡に行くのですが、宿泊施設を探しています。	general,hotel,restaurant,weather
+630	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,restaurant,weather
+630	2	USER	Wi-Fiが無料で利用できて、普通の料金帯のところがいいです。	general,hotel,restaurant,weather
+630	3	SYSTEM	ではGARDEN TERRACE FUKUOKA HOTEL&RESORTSはいかがでしょうか。	general,hotel,restaurant,weather
+630	4	USER	そちらに駐車場はありますか？	general,hotel,restaurant,weather
+630	5	SYSTEM	無料の駐車場がございます。	general,hotel,restaurant,weather
+630	6	USER	ありがとうございます。あと、当日食事できるところを探しています。最寄り駅が祇園駅の居酒屋はありますか？	general,hotel,restaurant,weather
+630	7	SYSTEM	酔灯屋 祇園店はいかがでしょうか。	general,hotel,restaurant,weather
+630	8	USER	ありがとうございます。そちらの料金情報と住所を教えてください。	general,hotel,restaurant,weather
+630	9	SYSTEM	料金情報は博多焼ラーメンが726円で博多水炊き1人前が1980円、九州盛が5500円でございます。住所は福岡県福岡市博多区祇園町6-43 ギオン紫田ビルでございます。	general,hotel,restaurant,weather
+630	10	USER	ありがとうございます。予約をお願いしたいのですが、6/22の14:30で２名でお願いできますか？	general,hotel,restaurant,weather
+630	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は15478でございます。	general,hotel,restaurant,weather
+630	12	USER	ありがとうございます。あと、当日のお天気を知りたいです。6/22の西区のお天気を教えてください。	general,hotel,restaurant,weather
+630	13	SYSTEM	天気は晴のち曇で、最低気温が20.5度、最高気温が26.5度でございます。	general,hotel,restaurant,weather
+630	14	USER	分かりました。ありがとうございました。	general,hotel,restaurant,weather
+630	15	SYSTEM	ほかにご用件はございますか。	general,hotel,restaurant,weather
+630	16	USER	はい、大丈夫です。お世話になりました。	general,hotel,restaurant,weather
+630	17	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,weather

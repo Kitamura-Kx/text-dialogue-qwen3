@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+131	0	USER	こんにちは。札幌に旅行を考えていましてね。	general,hotel,restaurant
+131	1	SYSTEM	はい、何かお手伝い致しましょうか？	general,hotel,restaurant
+131	2	USER	まず泊まるところを決めたいんです。旅館で、良いところがないかなと思いまして。	general,hotel,restaurant
+131	3	SYSTEM	その条件ですと、南区にある定山渓温泉 ぬくもりの宿 ふる川、中央区にあるONSEN RYOKAN 由縁 札幌の2件がございます。お値段はどちらも安めとなっております。	general,hotel,restaurant
+131	4	USER	そこはwifiは無料で使えますか？	general,hotel,restaurant
+131	5	SYSTEM	はい、どちらも無料で使用可能です。	general,hotel,restaurant
+131	6	USER	では、定山渓温泉 ぬくもりの宿 ふる川にしようかな。駐車場はあるか、分かりますか？	general,hotel,restaurant
+131	7	SYSTEM	ありがとうございます。駐車場は無料でご利用いただけます。	general,hotel,restaurant
+131	8	USER	料金についても詳しく教えてほしいのですが。	general,hotel,restaurant
+131	9	SYSTEM	申し訳ございません、値段帯が安め、Wi-Fiと駐車場が無料ということ以外、詳細な料金についてはこちらでは把握できておりません。	general,hotel,restaurant
+131	10	USER	分かりました。では、食事するお店についても探してもらえますかね？	general,hotel,restaurant
+131	11	SYSTEM	承知致しました。ジャンルやエリアのご希望はございますか？	general,hotel,restaurant
+131	12	USER	駐車場の料金がかからないところが良いです。	general,hotel,restaurant
+131	13	SYSTEM	24件ございますが、他にご希望があれば教えていただけますか？	general,hotel,restaurant
+131	14	USER	特に他にはないので、良さそうなところを1つ挙げてもらってもいいですか？	general,hotel,restaurant
+131	15	SYSTEM	承知致しました。それでは、北海道スープカレー専門店 雪道はいかがでしょうか？	general,hotel,restaurant
+131	16	USER	いいですね。ではそこだと、駅はどこからが近いですか？	general,hotel,restaurant
+131	17	SYSTEM	最寄りの西線９条旭山公園通停留所から徒歩で3分となっております。	general,hotel,restaurant
+131	18	USER	近いですね。そこで予約も入れてもらいたいです。日にちは12月7日で13時50分でお願いできますか？	general,hotel,restaurant
+131	19	SYSTEM	恐れ入りますが、人数を教えていただけますでしょうか？	general,hotel,restaurant
+131	20	USER	あ、すみません。4人で、お願いします。	general,hotel,restaurant
+131	21	SYSTEM	ありがとうございます。予約完了致しまして、ご予約番号は、85304　となります。	general,hotel,restaurant
+131	22	USER	助かりました。今日はありがとうございました。	general,hotel,restaurant
+131	23	SYSTEM	他にご用件はございますか？	general,hotel,restaurant
+131	24	USER	あ、もうないです。これで失礼します。	general,hotel,restaurant

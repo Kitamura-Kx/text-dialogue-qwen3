@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+339	0	USER	名古屋に旅行するのですが、タクシー会社を探しています。	general,taxi
+339	1	SYSTEM	名古屋のタクシー会社ですね。20件ほど候補がありますが、なにかご希望の条件はございますでしょうか？	general,taxi
+339	2	USER	キャッシュレス払いができるところがいいです。	general,taxi
+339	3	SYSTEM	そういたしますと、東海交通はいかがでしょうか？	general,taxi
+339	4	USER	ありがとうございます。そちらはジャンボタクシーはありますか？	general,taxi
+339	5	SYSTEM	はい、ジャンボタクシーにも対応しております。	general,taxi
+339	6	USER	ありがとうございます。では予約をお願いします。	general,taxi
+339	7	SYSTEM	かしこまりました。ご利用予定の日付と出発時刻、出発地、目的地はお決まりでしょうか？	general,taxi
+339	8	USER	１０月６日、１０時４０分に四川火鍋 龍龍というところを出発したいです。目的地はタカシマヤ ゲートタワーモールです。	general,taxi
+339	9	SYSTEM	大変申し訳ございません。ご希望の条件では予約をおとりできませんでした。いかがいたしましょうか？	general,taxi
+339	10	USER	では、時間を１１時１０分に変更ではいかがでしょうか？	general,taxi
+339	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、74479です。	general,taxi
+339	12	USER	ありがとうございました。以上です。お世話になりました。	general,taxi
+339	13	SYSTEM	ご利用ありがとうございました。	general,taxi

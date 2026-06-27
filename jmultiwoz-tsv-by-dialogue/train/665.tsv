@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+665	0	USER	福岡への旅行を計画していて、当日買い物が出来るところを探しています。	general,shopping,weather,taxi
+665	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,weather,taxi
+665	2	USER	ワッキー主基の里というところが良いです。	general,shopping,weather,taxi
+665	3	SYSTEM	ありがとうございます。住所は福岡県福岡市早良区大字脇山592-1、電話番号は0928032182、エリアは早良区で、最寄りの西新駅からバスで36分になります。ジャンルは食料品で、営業時間は8時から16時、定休日は月曜日となります。駐車場は無料でご利用いただけます。	general,shopping,weather,taxi
+665	4	USER	ありがとうございます。当日の天候も知りたいのですが、5月11日、西区の天気をお願いできますか？	general,shopping,weather,taxi
+665	5	SYSTEM	承知しました。天気は晴時々雨、最低気温13度、最高気温22.3度となります。	general,shopping,weather,taxi
+665	6	USER	ありがとうございます。キャッシュレス払いが出来るタクシー会社も探しています。	general,shopping,weather,taxi
+665	7	SYSTEM	はい、では、福岡交通（株）はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は0570081234になります。	general,shopping,weather,taxi
+665	8	USER	ありがとうございます。そこのタクシーの予約をお願いします。5月11日の9：40からで、EN HOTEL Hakataからワッキー主基の里までお願いします。	general,shopping,weather,taxi
+665	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、75505となります。	general,shopping,weather,taxi
+665	10	USER	ありがとうございます。	general,shopping,weather,taxi
+665	11	SYSTEM	他にご用件はございますか？	general,shopping,weather,taxi
+665	12	USER	他にはありません。ありがとうございました。	general,shopping,weather,taxi

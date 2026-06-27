@@ -1,0 +1,5 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3733	0	USER	東京へ旅行しようと思っているのですが原価ビストロBAN! 代々木西口という飲食店で食事をする予定です。値段帯や定休日を教えて下さい。	general,restaurant
+3733	1	SYSTEM	承知しました。値段帯は安めで、定休日はございません。	general,restaurant
+3733	2	USER	わかりました。大変助かりました！以上です。ありがとうございました。	general,restaurant
+3733	3	SYSTEM	ありがとうございました。	general,restaurant

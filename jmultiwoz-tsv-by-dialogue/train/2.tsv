@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2	0	USER	こんにちは。旅行で東京に行きたいのですが。	general,shopping
+2	1	SYSTEM	こんにちは。お問い合わせ、ありがとうございます。東京では、どのようなご予定ですか？	general,shopping
+2	2	USER	イオン板橋ショッピングセンターというところで、買い物したいと考えています。	general,shopping
+2	3	SYSTEM	イオン板橋ショッピングセンターですね。東京の板橋区に1件ございます。	general,shopping
+2	4	USER	ありがとうございます。板橋区というと、最寄りは何駅になるんでしょうか？	general,shopping
+2	5	SYSTEM	最寄り駅は、東武練馬駅です。	general,shopping
+2	6	USER	なるほど。その駅からイオン板橋ショッピングセンターまではどのぐらいかかりますか？	general,shopping
+2	7	SYSTEM	駅からは歩いて2分ほどでアクセスできます。	general,shopping
+2	8	USER	分かりました。ところで、何時から営業していますか？	general,shopping
+2	9	SYSTEM	朝の9時から開店しております。閉店は夜10時です。	general,shopping
+2	10	USER	分かりました。親切にありがとうございます。	general,shopping
+2	11	SYSTEM	はい。それでは、他にご用件やご不明な点などございますか？	general,shopping
+2	12	USER	いえ、大丈夫です。知りたかったことは以上です。	general,shopping
+2	13	SYSTEM	承知しました。それでは、本日はありがとうございました。	general,shopping

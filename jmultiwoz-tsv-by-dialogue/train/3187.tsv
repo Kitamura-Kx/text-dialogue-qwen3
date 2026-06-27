@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3187	0	USER	横浜への旅行を計画中で、中区で買い物ができる場所を探しています。	general,shopping,restaurant
+3187	1	SYSTEM	かしこまりました。では、元町商店街はいかがでしょうか？	general,shopping,restaurant
+3187	2	USER	ありがとうございます。ショッピングモールを探しているのですが、マッチしていますか？	general,shopping,restaurant
+3187	3	SYSTEM	申し訳ございません。ショッピングモールという条件に合う店舗は見つかりませんでした。	general,shopping,restaurant
+3187	4	USER	分かりました。では、医薬品・化粧品が購入できれば結構です。	general,shopping,restaurant
+3187	5	SYSTEM	かしこまりました。では、MEGAドン・キホーテ港山下総本店はいかがでしょうか？	general,shopping,restaurant
+3187	6	USER	そこにしようと思います。最寄駅からの所要時間は分かりますか？	general,shopping,restaurant
+3187	7	SYSTEM	はい。元町・中華街駅から徒歩で2分となっております。	general,shopping,restaurant
+3187	8	USER	ありがとうございます。当日食事ができる居酒屋を探しているのですが、ありますか？	general,shopping,restaurant
+3187	9	SYSTEM	かしこまりました。串焼勝治なんていかがでしょうか？	general,shopping,restaurant
+3187	10	USER	ありがとうございます。無料駐車場があって、予算は高すぎず普通が良いのですが、マッチしていますか？	general,shopping,restaurant
+3187	11	SYSTEM	それでしたら、Dining Bar KISAKUがいいと思います。	general,shopping,restaurant
+3187	12	USER	そこにしようと思います。電話番号と、Wi-fiの有無は分かりますか？	general,shopping,restaurant
+3187	13	SYSTEM	はい。電話番号は0455828222で、Wi-Fiの有無は不明となっております。	general,shopping,restaurant
+3187	14	USER	分かりました。ありがとうございます。	general,shopping,restaurant
+3187	15	SYSTEM	ほかにお調べすることはありますか？	general,shopping,restaurant
+3187	16	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,restaurant
+3187	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant

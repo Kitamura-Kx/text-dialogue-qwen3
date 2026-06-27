@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1821	0	USER	東京への旅行を計画中なのですが、三ノ輪駅近くでWiFi無料の飲食店を教えて下さい。	general,restaurant,shopping,attraction
+1821	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,shopping,attraction
+1821	2	USER	わかりました、それでは最寄り駅はこだわりません。	general,restaurant,shopping,attraction
+1821	3	SYSTEM	かしこまりました。では、銀座 魚ばかはいかがでしょうか？	general,restaurant,shopping,attraction
+1821	4	USER	「銀座 魚ばか」の駐車場の有無，定休日，値段帯を教えて下さい	general,restaurant,shopping,attraction
+1821	5	SYSTEM	はい。駐車場の有無は申し訳ありませんが不明となっております。定休日は、日, 祝です。値段帯は高めになります。	general,restaurant,shopping,attraction
+1821	6	USER	わかりました、買い物もしたいのですが渋谷区でファッションの買い物ができるお店を教えて下さい。	general,restaurant,shopping,attraction
+1821	7	SYSTEM	かしこまりました。では、ラフォーレ原宿はいかがでしょうか？	general,restaurant,shopping,attraction
+1821	8	USER	ラフォーレ原宿の住所もお願いします。	general,restaurant,shopping,attraction
+1821	9	SYSTEM	はい。住所は東京都渋谷区神宮前1丁目11-6になります。	general,restaurant,shopping,attraction
+1821	10	USER	観光も考えているのですが、東京タワーはありますか？	general,restaurant,shopping,attraction
+1821	11	SYSTEM	はい、ございますよ。何かお調べしましょうか？	general,restaurant,shopping,attraction
+1821	12	USER	最寄り駅を教えて下さい	general,restaurant,shopping,attraction
+1821	13	SYSTEM	はい。最寄り駅は赤羽橋駅になります。	general,restaurant,shopping,attraction
+1821	14	USER	ありがとうございました、あとは大丈夫です。	general,restaurant,shopping,attraction
+1821	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,attraction

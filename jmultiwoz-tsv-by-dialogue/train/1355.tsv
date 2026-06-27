@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1355	0	USER	東京へ旅行に行くのにタクシー会社を探しています。ジャンボタクシーがいいです。	general,taxi,weather
+1355	1	SYSTEM	申し訳ございません。ジャンボタクシーに対応している会社がございませんでした。いかがなさいますか。	general,taxi,weather
+1355	2	USER	それではジャンボタクシーでなくても構いません。	general,taxi,weather
+1355	3	SYSTEM	では寿交通がございます。	general,taxi,weather
+1355	4	USER	ではそちらの電話番号を教えてください。	general,taxi,weather
+1355	5	SYSTEM	電話番号は0422325189でございます。	general,taxi,weather
+1355	6	USER	3月25日の11時50分で予約してください。	general,taxi,weather
+1355	7	SYSTEM	かしこまりました。では出発地と目的地を教えていただけますか。	general,taxi,weather
+1355	8	USER	出発地は日本橋三井ホール、目的地はKIMPTON SHINJUKU TOKYOです。	general,taxi,weather
+1355	9	SYSTEM	はい。予約が完了いたしました。予約番号は6448でございます。	general,taxi,weather
+1355	10	USER	ありがとうございます。あと3月25日の天候が知りたいです。	general,taxi,weather
+1355	11	SYSTEM	かしこまりました。お知りになりたいエリアを教えていただけますか。	general,taxi,weather
+1355	12	USER	場所は荒川区で、最高気温が知りたいです。	general,taxi,weather
+1355	13	SYSTEM	最高気温は19.4度でございます。	general,taxi,weather
+1355	14	USER	ありがとうございました。以上です。	general,taxi,weather
+1355	15	SYSTEM	承知しました。ありがとうございました。	general,taxi,weather

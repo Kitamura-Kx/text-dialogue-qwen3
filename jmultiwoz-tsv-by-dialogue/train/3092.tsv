@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3092	0	USER	札幌への旅行を計画しています．焼肉・ホルモンが食べられるお店は豊水すすきの駅周辺にありますか．	general,restaurant,hotel,taxi
+3092	1	SYSTEM	はい、１件ご案内できます。松尾ジンギスカン すすきの4・2店というところですが、いかがでしょうか？	general,restaurant,hotel,taxi
+3092	2	USER	ありがとうございます．住所と営業時間を教えていただけますか．	general,restaurant,hotel,taxi
+3092	3	SYSTEM	住所は、北海道札幌市中央区南4条西2丁目11-7　TOMORU 2Fです。営業時間は、夕方17:00から夜23:00までとなっております。	general,restaurant,hotel,taxi
+3092	4	USER	そこを予約したいです．7月16日，09:30より2名でお願いします．	general,restaurant,hotel,taxi
+3092	5	SYSTEM	かしこまりました。念のため確認させてください。お時間は、午後ではなく、午前９時３０分でよろしかったでしょうか？	general,restaurant,hotel,taxi
+3092	6	USER	はい，午前です．	general,restaurant,hotel,taxi
+3092	7	SYSTEM	かしこまりました。ただ大変申し訳ございません。ご希望の条件では予約できませんでした。お時間など、ご調整いただくことは可能でしょうか？	general,restaurant,hotel,taxi
+3092	8	USER	それでは，人数を1人に変更します．	general,restaurant,hotel,taxi
+3092	9	SYSTEM	ありがとうございます。１名様にて、ご予約完了いたしました。予約番号は、99764です。	general,restaurant,hotel,taxi
+3092	10	USER	加えて，WiFiが無料で使える手稲区のホテルはございますか	general,restaurant,hotel,taxi
+3092	11	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,restaurant,hotel,taxi
+3092	12	USER	なるほど．では地区はどこでもよいので，WiFiが無料で使えるところをお願いします．	general,restaurant,hotel,taxi
+3092	13	SYSTEM	かしこまりました。そうしますと、狸の湯 ドーミーイン札幌ANNEXというお安めのビジネスホテルはいかがでしょうか？地区としては、中央区にございます。	general,restaurant,hotel,taxi
+3092	14	USER	ありがとうございます．チェックイン開始時刻をお聞きしたいです．	general,restaurant,hotel,taxi
+3092	15	SYSTEM	かしこまりました。チェックインは１５時開始となっております。	general,restaurant,hotel,taxi
+3092	16	USER	ではそこを予約したいです．人数は3人で7月16日より3泊お願いします	general,restaurant,hotel,taxi
+3092	17	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、92832です。	general,restaurant,hotel,taxi
+3092	18	USER	ありがとうございます．それとキャッシュレス払い対応のジャンボタクシーを探しているのですが．	general,restaurant,hotel,taxi
+3092	19	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,restaurant,hotel,taxi
+3092	20	USER	なるほど．ではキャッシュレス対応ではなくて良いです．	general,restaurant,hotel,taxi
+3092	21	SYSTEM	ありがとうございます。では、朝日交通(株)はいかがでしょうか？	general,restaurant,hotel,taxi
+3092	22	USER	ありがとうございます．そちらの電話番号を伺いたいです	general,restaurant,hotel,taxi
+3092	23	SYSTEM	0120176644でございます。	general,restaurant,hotel,taxi
+3092	24	USER	ありがとうございます．では，7月16日の10:50に松尾ジンギスカン すすきの4・2店から狸の湯 ドーミーイン札幌ANNEXまでの予約をお願いできますか．	general,restaurant,hotel,taxi
+3092	25	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、76149です。	general,restaurant,hotel,taxi
+3092	26	USER	助かりました．ありがとうございました．	general,restaurant,hotel,taxi
+3092	27	SYSTEM	他にお調べすることはございませんか？	general,restaurant,hotel,taxi

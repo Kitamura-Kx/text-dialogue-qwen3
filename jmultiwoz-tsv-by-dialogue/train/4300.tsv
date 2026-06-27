@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4300	0	USER	京都への旅行を計画していて、当日の観光名所を探しています。山科区でWi-Fi無料のところが希望です。	general,attraction,weather
+4300	1	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction,weather
+4300	2	USER	そうですか。では、Wi-Fiは有っても無くても良いです。	general,attraction,weather
+4300	3	SYSTEM	かしこまりました。であれば京都市東部文化会館なんてどうですか？	general,attraction,weather
+4300	4	USER	ありがとうございます。そこにしようと思います。京都市東部文化会館の料金情報はありますか？	general,attraction,weather
+4300	5	SYSTEM	申し訳ございません。料金情報は企画により異なるとなっております。	general,attraction,weather
+4300	6	USER	分かりました。では、当日の天気も調べたいです。4/23、山科区の最高気温と最低気温を教えて貰えますか？	general,attraction,weather
+4300	7	SYSTEM	かしこまりました。最高気温は15.3度、最低気温は4.7度でございます。	general,attraction,weather
+4300	8	USER	ありがとうございました。助かりました。	general,attraction,weather
+4300	9	SYSTEM	こちらこそありがとうございました。またのご利用お待ちしております。	general,attraction,weather

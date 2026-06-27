@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4360	0	USER	大阪へ旅行に行く予定です。当日泊まる簡易宿所を探してください。予算は安めでお願いします。	general,hotel
+4360	1	SYSTEM	かしこまりました。それではウィークリー翔ホテルなんばはいかがでしょうか？	general,hotel
+4360	2	USER	そちらのエリアはどこになりますか？	general,hotel
+4360	3	SYSTEM	はい、エリアは中央区でございます。	general,hotel
+4360	4	USER	では、11月7日から2泊、2名で予約をお願いします。	general,hotel
+4360	5	SYSTEM	お待たせ致しました。予約番号85891でお取りさせていただきました。	general,hotel
+4360	6	USER	ありがとうございました。	general,hotel

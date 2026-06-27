@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+349	0	USER	札幌に行くのですが、観光名所を探しています。	general,attraction,restaurant,weather
+349	1	SYSTEM	どんな観光名所をお探しでしょうか？ジャンルやエリアなど、お聞かせくださいませ。	general,attraction,restaurant,weather
+349	2	USER	Wi-Fiと駐車場が無料で利用できるところがいいです。	general,attraction,restaurant,weather
+349	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,restaurant,weather
+349	4	USER	では、Wi-Fiはなくても構いません。	general,attraction,restaurant,weather
+349	5	SYSTEM	ありがとうございます。では、札幌市豊平川さけ科学館はいかがでしょうか？南区エリアにある科学館です。	general,attraction,restaurant,weather
+349	6	USER	ありがとうございます。そちらの電話番号を教えていただけませんか？	general,attraction,restaurant,weather
+349	7	SYSTEM	電話番号は、0115827555でございます。	general,attraction,restaurant,weather
+349	8	USER	ありがとうございます。当日利用できる飲食店も探しています。駐車場が無料で、普通の価格帯のところはありますか？	general,attraction,restaurant,weather
+349	9	SYSTEM	はい、14件ほどご案内可能です。他に、ジャンルやエリアなど、ご希望はありませんか？	general,attraction,restaurant,weather
+349	10	USER	特にありません。	general,attraction,restaurant,weather
+349	11	SYSTEM	では、北海道スープカレー専門店 雪道はいかがでしょうか？中央区エリアにあるお店です。	general,attraction,restaurant,weather
+349	12	USER	そこに行ってみます。電話番号を教えてください。	general,attraction,restaurant,weather
+349	13	SYSTEM	電話番号は、0112069937でございます。	general,attraction,restaurant,weather
+349	14	USER	ありがとうございます。最後に、当日の天気が知りたいのですが。1/21の清田区です。	general,attraction,restaurant,weather
+349	15	SYSTEM	かしこまりました。当日の天気は、晴れのち雪の予報です。最低気温はマイナス2度、最高気温は4.3度の予想となっております。	general,attraction,restaurant,weather
+349	16	USER	ありがとうございました。以上です、お世話になりました。	general,attraction,restaurant,weather
+349	17	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,attraction,restaurant,weather

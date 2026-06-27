@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+776	0	USER	名古屋へ行こうと思っています。最寄り駅が池下駅で駐車場が無料の観光名所を探していただきたいです。	general,attraction,hotel,taxi
+776	1	SYSTEM	かしこまりました。1件、ご案内可能です。古川美術館・分館 爲三郎記念館という場所ですが、いかがでしょうか？	general,attraction,hotel,taxi
+776	2	USER	そちらのジャンルは何でしょうか？	general,attraction,hotel,taxi
+776	3	SYSTEM	ジャンルは、美術館・博物館となっております。	general,attraction,hotel,taxi
+776	4	USER	わかりました。ありがとうございます。	general,attraction,hotel,taxi
+776	5	SYSTEM	ほかにお調べすることはございますか？	general,attraction,hotel,taxi
+776	6	USER	中村区にあってWiFiが無料で利用できてレストランが併設されている宿泊施設を探していただきたいです。	general,attraction,hotel,taxi
+776	7	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できる宿泊施設が見つかりませんでした。	general,attraction,hotel,taxi
+776	8	USER	では地区は考慮せず同条件で探していただけますか？	general,attraction,hotel,taxi
+776	9	SYSTEM	かしこまりました。そうしますと、ビジネス旅館 平野屋というお安めの旅館はいかがでしょうか？	general,attraction,hotel,taxi
+776	10	USER	では、10月6日から3泊で3人での予約をお願いします。	general,attraction,hotel,taxi
+776	11	SYSTEM	ご予約ありがとうございます。予約番号19338にて、承りました。	general,attraction,hotel,taxi
+776	12	USER	わかりました。ありがとうございます。	general,attraction,hotel,taxi
+776	13	SYSTEM	他になにかお手伝いできることはございませんか？	general,attraction,hotel,taxi
+776	14	USER	キャッシュレス払い対応のタクシー会社を探していただきたいです。	general,attraction,hotel,taxi
+776	15	SYSTEM	申し訳ございません。キャッシュレスに対応しておりますタクシー会社は、名古屋にはご案内できるところがありませんでした。	general,attraction,hotel,taxi
+776	16	USER	ではキャッシュレス対応は考慮せずタクシー会社を探していただけますか？	general,attraction,hotel,taxi
+776	17	SYSTEM	かしこまりました。では丸八交通は、いかがでしょうか？	general,attraction,hotel,taxi
+776	18	USER	そちらの電話番号を教えていただけますでしょうか。	general,attraction,hotel,taxi
+776	19	SYSTEM	電話番号は、0528026711でございます。	general,attraction,hotel,taxi
+776	20	USER	では、10月6日16時30分古川美術館・分館 爲三郎記念館からビジネス旅館 平野屋まで予約をお願いします。	general,attraction,hotel,taxi
+776	21	SYSTEM	かしこまりました。予約番号47516で、ご予約承りました。	general,attraction,hotel,taxi
+776	22	USER	わかりました。ありがとうございます。	general,attraction,hotel,taxi
+776	23	SYSTEM	他にご用件など、ございませんか？	general,attraction,hotel,taxi
+776	24	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,hotel,taxi

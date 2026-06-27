@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+751	0	USER	仙台へ旅行予定なのですが、買い物できるところを調べてもらっていいですか？	general,shopping,weather
+751	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,shopping,weather
+751	2	USER	おもちゃを取り扱っていて、最寄り駅が作並駅のところがいいです。	general,shopping,weather
+751	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,shopping,weather
+751	4	USER	じゃあ最寄り駅は気にしません。	general,shopping,weather
+751	5	SYSTEM	ありがとうございます。そういたしますと、絵本と木のおもちゃ 横田や、というお店はいかがでしょうか？最寄りは、北仙台駅となっております。	general,shopping,weather
+751	6	USER	そこにします。定休日を教えてください。	general,shopping,weather
+751	7	SYSTEM	定休日は、水曜日です。	general,shopping,weather
+751	8	USER	わかりました。太白区の1月14日の天候を教えてください。	general,shopping,weather
+751	9	SYSTEM	かしこまりました。当日の天気は曇りの予報です。最低気温は0.5度、最高気温も4.2度までしか上がらない見込みです。	general,shopping,weather
+751	10	USER	わかりました。ありがとうございます。	general,shopping,weather
+751	11	SYSTEM	他にお調べすることはございますか？	general,shopping,weather
+751	12	USER	もう大丈夫です。ありがとうございました。	general,shopping,weather
+751	13	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,shopping,weather

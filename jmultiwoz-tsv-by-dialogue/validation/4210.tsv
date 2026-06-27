@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4210	0	USER	東京で泊まるところを探してください。普通目の予算で収まるところで考えています。	general,hotel,shopping,weather
+4210	1	SYSTEM	横浜ですね、帝国ホテル東京はいかがですか？	general,hotel,shopping,weather
+4210	2	USER	駐車場とwifiが無料で使えるところがいいのですが、こちらは使えますか？	general,hotel,shopping,weather
+4210	3	SYSTEM	はい、無料Wi-Fiと無料駐車場があります。	general,hotel,shopping,weather
+4210	4	USER	わかりました。レストランは付いていますか？	general,hotel,shopping,weather
+4210	5	SYSTEM	はい、レストランも利用可能となっています。	general,hotel,shopping,weather
+4210	6	USER	では、予約をお願いします。８月２０日から４泊で、４人でお願いします。	general,hotel,shopping,weather
+4210	7	SYSTEM	予約が完了しました。　予約番号は、60287です。	general,hotel,shopping,weather
+4210	8	USER	当日、買い物もしたいのですが、大崎広小路駅周辺でおすすめのお店はありますか？	general,hotel,shopping,weather
+4210	9	SYSTEM	1件みつかりました。アカチャンホンポ TOC店はいかがですか？	general,hotel,shopping,weather
+4210	10	USER	こちらのお店はジャンルで言うと何になりますか？	general,hotel,shopping,weather
+4210	11	SYSTEM	ジャンルとしては、おもちゃ, ファッション, 文房具・雑貨となっております。	general,hotel,shopping,weather
+4210	12	USER	そちらのお店の住所を教えてください。	general,hotel,shopping,weather
+4210	13	SYSTEM	住所は、東京都品川区西五反田7丁目22-17 TOCビル5階です。	general,hotel,shopping,weather
+4210	14	USER	天気を知りたいのですが、８月２０日の新宿区の天気を教えてください。	general,hotel,shopping,weather
+4210	15	SYSTEM	その日の天気は、晴のち曇です。	general,hotel,shopping,weather
+4210	16	USER	最低気温はどのぐらいでしょう？	general,hotel,shopping,weather
+4210	17	SYSTEM	最低気温は28.3度の予報です。	general,hotel,shopping,weather
+4210	18	USER	ありがとうございました。では失礼します。	general,hotel,shopping,weather

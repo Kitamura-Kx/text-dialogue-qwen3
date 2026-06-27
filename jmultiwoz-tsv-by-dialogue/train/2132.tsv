@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2132	0	USER	大阪での旅行で、当日訪れる観光名所でおすすめはありますか？	general,attraction,shopping
+2132	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction,shopping
+2132	2	USER	駐車場とWi-Fi無料のところがいいです。	general,attraction,shopping
+2132	3	SYSTEM	かしこまりました。では、鶴見緑地湯元 水春はいかがでしょうか？	general,attraction,shopping
+2132	4	USER	そちらにします。最寄り駅も教えていただけますでしょうか。	general,attraction,shopping
+2132	5	SYSTEM	はい。最寄り駅は鶴見緑地駅になります。	general,attraction,shopping
+2132	6	USER	ありがとうございます。梅田駅周辺で当日買い物できるお店もあれば教えて頂けると助かります。	general,attraction,shopping
+2132	7	SYSTEM	かしこまりました。では、ディアモール大阪はいかがでしょうか？	general,attraction,shopping
+2132	8	USER	そちらに行きたいと思います。電話番号の情報もいただけますでしょうか。	general,attraction,shopping
+2132	9	SYSTEM	はい。電話番号は0663464881でございます。	general,attraction,shopping
+2132	10	USER	ありがとうございました。	general,attraction,shopping

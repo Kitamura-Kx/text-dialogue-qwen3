@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1728	0	USER	東京へ旅行に行くんですが、買い物ができるところを探してほしいです！	general,shopping,hotel,weather
+1728	1	SYSTEM	希望条件などは、ありますか？	general,shopping,hotel,weather
+1728	2	USER	豊島区で、駐車場無料のところがいいです。	general,shopping,hotel,weather
+1728	3	SYSTEM	ポケモンセンターメガトウキョーは、いかがでしょうか？	general,shopping,hotel,weather
+1728	4	USER	いいですね！こちらジャンルは何になりますか？	general,shopping,hotel,weather
+1728	5	SYSTEM	ジャンルとしては、文房具・雑貨, おもちゃ, お土産です。	general,shopping,hotel,weather
+1728	6	USER	なるほどです！港区で宿泊施設も探して欲しいんですが、いいですかね？	general,shopping,hotel,weather
+1728	7	SYSTEM	グランドハイアット東京は、いかがですか？	general,shopping,hotel,weather
+1728	8	USER	Wi-Fiが無料で、レストランが併設されているところがいいんですが、どうですか？	general,shopping,hotel,weather
+1728	9	SYSTEM	こちらのホテルは、無料Wi-Fiの利用可能で、レストランも併設されております。	general,shopping,hotel,weather
+1728	10	USER	最高です！チェックイン開始時刻は分かりますか？	general,shopping,hotel,weather
+1728	11	SYSTEM	チェックイン開始時間は、15時となっています。	general,shopping,hotel,weather
+1728	12	USER	予約もいいですか？9/17から3泊で2人で行きたいです。	general,shopping,hotel,weather
+1728	13	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,shopping,hotel,weather
+1728	14	USER	では、2泊に変更してください。	general,shopping,hotel,weather
+1728	15	SYSTEM	予約出来ました。予約番号は、48255 です。	general,shopping,hotel,weather
+1728	16	USER	ありがとうございます。最後に9/17の世田谷区の最低気温を教えてください。	general,shopping,hotel,weather
+1728	17	SYSTEM	その日の天気は、雨時々曇です。	general,shopping,hotel,weather
+1728	18	USER	最低気温は分かりますか？	general,shopping,hotel,weather
+1728	19	SYSTEM	最低気温は、17.7度です。	general,shopping,hotel,weather
+1728	20	USER	ありがとうございます。助かりました！	general,shopping,hotel,weather
+1728	21	SYSTEM	他にご用件はありますか？	general,shopping,hotel,weather
+1728	22	USER	これで大丈夫です。ありがとうございました。	general,shopping,hotel,weather
+1728	23	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,hotel,weather

@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+175	0	USER	大阪への旅行を計画しており、観光名所を探しています。	general,attraction,hotel,restaurant
+175	1	SYSTEM	ご利用ありがとうございます。大阪の観光地は51件ほどご案内できますが、ご希望の条件などはありますか？	general,attraction,hotel,restaurant
+175	2	USER	ユニバーサルシティ駅の近くでアリーナ・スタジアムがいいと思っていますが、どこかいいところはありますか？	general,attraction,hotel,restaurant
+175	3	SYSTEM	申し訳ございません。ユニバーサルシティ駅近くですと、アリーナ・スタジアムという施設は見つかりませんでした。いかが致しましょう？	general,attraction,hotel,restaurant
+175	4	USER	ではアリーナ・スタジアムでなくても構いません。ユニバーサルシティ駅の近くでおすすめの観光名所を探してください	general,attraction,hotel,restaurant
+175	5	SYSTEM	ありがとうございます。そういたしますと、ユニバーサル・シティウォーク大阪とユニバーサル・スタジオ・ジャパン(USJ)の2件をご案内できます。気になる方はありますか？	general,attraction,hotel,restaurant
+175	6	USER	ユニバーサル・スタジオ・ジャパン(USJ)でお願いしたいです。ユニバーサル・スタジオ・ジャパン(USJ)の営業時間と定休日を教えてください。	general,attraction,hotel,restaurant
+175	7	SYSTEM	かしこまりました。こちら、定休日はありません。営業時間は日により異なっており、詳しくご案内できず、申し訳ございません。	general,attraction,hotel,restaurant
+175	8	USER	では、ユニバーサル・シティウォーク大阪にしようと思うので、ユニバーサル・シティウォーク大阪の営業時間と定休日を教えてください	general,attraction,hotel,restaurant
+175	9	SYSTEM	ありがとうございます。ユニバーサル・シティウォーク大阪は定休日なし、営業時間は店舗により異なります。	general,attraction,hotel,restaurant
+175	10	USER	ありがとうございます。あと当日泊まるホテルも探してほしいです。リゾートホテルで予算は普通でお願いします。	general,attraction,hotel,restaurant
+175	11	SYSTEM	かしこまりました。大阪のリゾートホテルですね。ご予算が普通の価格帯の場合、大阪マリオット都ホテルはいかがでしょうか？	general,attraction,hotel,restaurant
+175	12	USER	いいですね、そこでお願いします。大阪マリオット都ホテルの近辺の駅からの所要時間とチェックアウト終了時刻が知りたいです。	general,attraction,hotel,restaurant
+175	13	SYSTEM	はい。まず近辺の駅からの所要時間は、天王寺駅から徒歩で2分、大阪阿部野橋駅から徒歩で1分となります。チェックアウト終了時刻は昼12時となっております。	general,attraction,hotel,restaurant
+175	14	USER	8/8から4泊で人数は２人で予約をお願いします。	general,attraction,hotel,restaurant
+175	15	SYSTEM	ありがとうございます。予約完了いたしました。ご予約番号は、43668です。	general,attraction,hotel,restaurant
+175	16	USER	あと当日、Wi-Fiを無料で利用できて、駐車場も無料で利用できる飲食店を探しています。予算は高めでお願いします。	general,attraction,hotel,restaurant
+175	17	SYSTEM	大変申し訳ございません。ご希望に添える飲食店を見つけることができませんでした。	general,attraction,hotel,restaurant
+175	18	USER	では駐車場はあってもなくても構いません。無料Wi-Fiが使えて予算高めの飲食店をお願いします。	general,attraction,hotel,restaurant
+175	19	SYSTEM	ありがとうございます。そういたしますと、イタリアン・フレンチのお店で、バルバッコア 心斎橋店は、いかがでしょうか？	general,attraction,hotel,restaurant
+175	20	USER	いいですね、そこでお願いします。バルバッコア 心斎橋店の営業時間を教えてください。	general,attraction,hotel,restaurant
+175	21	SYSTEM	かしこまりました。営業時間は、11:00～16:00と17:00～22:00です。	general,attraction,hotel,restaurant
+175	22	USER	ありがとうございます。あと8/8の12:50に３人で予約もお願いできますか？	general,attraction,hotel,restaurant
+175	23	SYSTEM	ありがとうございます。8月8日の12時50分、3名様でご予約完了いたしました。予約番号は、96546です。	general,attraction,hotel,restaurant
+175	24	USER	ありがとうございます。	general,attraction,hotel,restaurant
+175	25	SYSTEM	ほかに何か、お手伝いできることはございますか？	general,attraction,hotel,restaurant
+175	26	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,hotel,restaurant
+175	27	SYSTEM	承知いたしました。ご利用ありがとうございました。	general,attraction,hotel,restaurant

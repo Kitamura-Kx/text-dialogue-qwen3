@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1785	0	USER	こんにちは。今度仙台へ行くことになったので、観光名所を探しています。青葉区で、Wi-Fiが無料のところを探していただけますか？	general,attraction,taxi,weather
+1785	1	SYSTEM	エル・パーク仙台はいかがでしょう？ジャンルはその他となります。	general,attraction,taxi,weather
+1785	2	USER	ありがとうございます。当日タクシーを使いたいのですが、キャッシュレス払いができるタクシー会社を探していただけますか？	general,attraction,taxi,weather
+1785	3	SYSTEM	（有）振興タクシーはいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0222841411となります。	general,attraction,taxi,weather
+1785	4	USER	ありがとうございます。ではそこで予約お願いできますか？6/16の11:00でエル・パーク仙台から東横INN仙台駅西口中央までです。	general,attraction,taxi,weather
+1785	5	SYSTEM	予約が完了し、ご予約番号は、93982となります。	general,attraction,taxi,weather
+1785	6	USER	ありがとうございます。あと次々すみませんが、6/16の青葉区の天気と最低気温を教えてもらえますか？	general,attraction,taxi,weather
+1785	7	SYSTEM	天気は晴のち雨、最低気温17.2度となります。	general,attraction,taxi,weather
+1785	8	USER	色々サポートありがとうございました。助かりました。	general,attraction,taxi,weather
+1785	9	SYSTEM	ありがとうございました。	general,attraction,taxi,weather

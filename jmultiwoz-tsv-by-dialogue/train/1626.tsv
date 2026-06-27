@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1626	0	USER	仙台への旅行を計画しているのですが、当日買い物に行くお店を探しています。駐車場が無料のところがよいです。	general,shopping,weather
+1626	1	SYSTEM	承知しました。他にご希望はございますか？	general,shopping,weather
+1626	2	USER	いえ、特にありません。	general,shopping,weather
+1626	3	SYSTEM	では、エリアでいうと若林区にございます、ローソン 仙台荒井西店はいかがでしょう？	general,shopping,weather
+1626	4	USER	定休日，電話番号を教えていただけますか。	general,shopping,weather
+1626	5	SYSTEM	はい、電話番号は0223541137、定休日はございません。他にご案内できることはございますか？	general,shopping,weather
+1626	6	USER	4月26日の青葉区の気温を教えてほしいです。	general,shopping,weather
+1626	7	SYSTEM	はい、天気は雨のち曇、最低気温3.9度、最高気温17.5度となります。他にご用件はございますか？	general,shopping,weather
+1626	8	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,weather

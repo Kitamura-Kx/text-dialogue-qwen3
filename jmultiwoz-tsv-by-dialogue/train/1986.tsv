@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1986	0	USER	那覇の真和志地区で和食を食べられる店を探しています。	general,restaurant
+1986	1	SYSTEM	そういたしますと、吉野家 ひめゆり通り店というお店はいかがでしょうか？安里駅から徒歩で5分の場所にあるお店です。	general,restaurant
+1986	2	USER	駐車場はありますか？	general,restaurant
+1986	3	SYSTEM	申し訳ありません。こちらは、駐車場を併設しておりません。駐車場のあるお店をお探ししましょうか？	general,restaurant
+1986	4	USER	いいえ大丈夫です。定休日は何曜日になりますか？	general,restaurant
+1986	5	SYSTEM	こちらは、定休日はございません。	general,restaurant
+1986	6	USER	わかりました。1/19に予約したいです。	general,restaurant
+1986	7	SYSTEM	かしこまりました。ご利用予定の時刻と人数はお決まりでしょうか？	general,restaurant
+1986	8	USER	9：50に2人です。	general,restaurant
+1986	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、69588です。	general,restaurant
+1986	10	USER	わかりました。ありがとうございました。	general,restaurant
+1986	11	SYSTEM	ほかにお手伝いできることはございませんか？	general,restaurant
+1986	12	USER	大丈夫です。	general,restaurant
+1986	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

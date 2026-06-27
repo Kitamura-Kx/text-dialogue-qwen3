@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+156	0	USER	すみません。札幌で泊まれるところがないかと思いまして。	general,hotel,attraction,shopping
+156	1	SYSTEM	かしこまりました。何か条件はございますか。	general,hotel,attraction,shopping
+156	2	USER	できれば予算的に普通な感じのところだと助かります。	general,hotel,attraction,shopping
+156	3	SYSTEM	では、定山渓 鶴雅リゾートスパ 森の謌がございますが、いかがでしょうか。	general,hotel,attraction,shopping
+156	4	USER	良さそうな名前ですね。札幌のどの辺りにあるお宿なんですか？	general,hotel,attraction,shopping
+156	5	SYSTEM	申し訳ございません。南区でございました。最寄り駅の札幌駅からタクシーで２７分でございます。	general,hotel,attraction,shopping
+156	6	USER	そうなんですね。それじゃ、そこで予約をお願いしようかな。10月9日から2泊で取れそうですか？	general,hotel,attraction,shopping
+156	7	SYSTEM	かしこまりました。宿泊される方は何名様でしょうか。	general,hotel,attraction,shopping
+156	8	USER	二人です。	general,hotel,attraction,shopping
+156	9	SYSTEM	予約完了いたしました。予約番号は95882でございます。	general,hotel,attraction,shopping
+156	10	USER	ありがとうございます。あとですね、駐車場が無料で使える観光地ってありますか？	general,hotel,attraction,shopping
+156	11	SYSTEM	はい。２８件ほどございますが、ほかにご希望条件はございますか。	general,hotel,attraction,shopping
+156	12	USER	東区の周辺でお願いします。	general,hotel,attraction,shopping
+156	13	SYSTEM	ではモエレ沼公園はいかがでしょうか。	general,hotel,attraction,shopping
+156	14	USER	そのモエレ沼公園は、一番近い駅だと、何駅になるんでしょう？	general,hotel,attraction,shopping
+156	15	SYSTEM	新道東駅が最寄り駅となっております。	general,hotel,attraction,shopping
+156	16	USER	そうなんですね。あと大人の入場料を聞いてもいいですか？	general,hotel,attraction,shopping
+156	17	SYSTEM	大人の入場料は０円でございます。	general,hotel,attraction,shopping
+156	18	USER	分かりました。あと買い物ができるところも探してほしくて。手稲区で駐車場無料のところはありますか？	general,hotel,attraction,shopping
+156	19	SYSTEM	申し訳ございません。その条件ですと案内できるところがございません。	general,hotel,attraction,shopping
+156	20	USER	なら、南区でも良いですよ。	general,hotel,attraction,shopping
+156	21	SYSTEM	ジェラート札幌果林樹がございます。	general,hotel,attraction,shopping
+156	22	USER	いいですね。そこの電話番号を教えてください。	general,hotel,attraction,shopping
+156	23	SYSTEM	0115925151でございます。	general,hotel,attraction,shopping
+156	24	USER	助かります。今のところ、聞きたかったことは全部分かりました。	general,hotel,attraction,shopping
+156	25	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction,shopping

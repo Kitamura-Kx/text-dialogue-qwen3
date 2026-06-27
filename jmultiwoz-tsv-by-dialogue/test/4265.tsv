@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4265	0	USER	那覇への旅行を計画しているのですが、当日観光名所を訪れたいと思っています。駐車場とWi-Fiが無料のところはありますでしょうか。	general,attraction
+4265	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,attraction
+4265	2	USER	いえ、ないです。	general,attraction
+4265	3	SYSTEM	でしたら、首里殿内 首里金城町石畳道はいかがでしょうか。	general,attraction
+4265	4	USER	興味深いですね。ありがとうございます。ぜひ行ってみたいと思います。	general,attraction

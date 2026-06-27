@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+521	0	USER	京都へ旅行に行きたいと思っています。当日9/20の中京区天候を教えてください。	general,weather,taxi
+521	1	SYSTEM	かしこまりました。当日の天気は、晴れの予報です。最低気温は24.6度、最高気温は27.8度の予想となっております。	general,weather,taxi
+521	2	USER	当日利用できるタクシー会社を教えてください。	general,weather,taxi
+521	3	SYSTEM	かしこまりました。京都でご案内できるタクシー会社は20件ほどございます。ジャンボタクシーのご利用予定など、ございますか？	general,weather,taxi
+521	4	USER	キャッシュレス対応、ジャンボタクシーが使えるところが良いです。	general,weather,taxi
+521	5	SYSTEM	かしこまりました。そうしますと、株式会社エコロ２１はいかがでしょうか？	general,weather,taxi
+521	6	USER	ではそこでお願いします。そこの電話番号を教えてください。	general,weather,taxi
+521	7	SYSTEM	電話番号は、0758032228です。ご予約いたしましょうか？	general,weather,taxi
+521	8	USER	はい。日付は9/20の１１時３０分で出発地はひさごで目的地はルルソンキボアでお願いします。	general,weather,taxi
+521	9	SYSTEM	予約完了いたしました。ご予約番号は、61997です。	general,weather,taxi
+521	10	USER	分かりました。ありがとうございます。	general,weather,taxi
+521	11	SYSTEM	ほかにお調べすることはございますか？	general,weather,taxi
+521	12	USER	はい、大丈夫です。ありがとうございました。	general,weather,taxi
+521	13	SYSTEM	承知いたしました。またのご利用をお待ちしております。	general,weather,taxi

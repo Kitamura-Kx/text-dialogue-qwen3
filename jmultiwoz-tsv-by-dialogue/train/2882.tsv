@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2882	0	USER	仙台に旅行に行こうと思っています。当日食事ができる飲食店を教えてください。地区は若林区でジャンルは焼肉・ホルモンで駐車場を無料で利用できるところが良いです。	general,restaurant
+2882	1	SYSTEM	その条件ならば、やみつきホルモン 利久 仙台GIGS荒井店、こちら一択です。	general,restaurant
+2882	2	USER	そこが良さそうですね。そこの近辺の駅からの所要時間と値段帯を教えてください。	general,restaurant
+2882	3	SYSTEM	荒井駅から徒歩で3分、値段帯は普通です	general,restaurant
+2882	4	USER	分かりました。ありがとうございます。	general,restaurant
+2882	5	SYSTEM	よい旅を	general,restaurant

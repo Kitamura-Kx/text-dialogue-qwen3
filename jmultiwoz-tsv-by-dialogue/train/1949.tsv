@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1949	0	USER	東京旅行を予定しているのですが、車での移動を考えています。港区内で無料の駐車場があるところで買物するならどこがいいでしょうか？	general,shopping,attraction
+1949	1	SYSTEM	申し訳ございません。その条件ですとお買い物出来る店舗を見つけることが出来ませんでした。	general,shopping,attraction
+1949	2	USER	駐車場がないお店なら候補はありますか？	general,shopping,attraction
+1949	3	SYSTEM	はい、駐車場の条件を除けば、せとうち旬彩館など3店舗がございます。	general,shopping,attraction
+1949	4	USER	ではその3店舗の情報を教えていただけますか？	general,shopping,attraction
+1949	5	SYSTEM	かしこまりました。せとうち旬彩館、あきた美彩館、奈良まほろば館の3店舗でございます。	general,shopping,attraction
+1949	6	USER	あきた美彩館に行きたいと思います。お店の営業時間などを教えていただけますか？	general,shopping,attraction
+1949	7	SYSTEM	営業時間は11時開店、23時閉店でございます。	general,shopping,attraction
+1949	8	USER	定休日はありますか？	general,shopping,attraction
+1949	9	SYSTEM	定休日は1月1日のみとなっております。	general,shopping,attraction
+1949	10	USER	ありがとうございます　電話番号はわかりますでしょうか？	general,shopping,attraction
+1949	11	SYSTEM	電話番号は0354471010でございます。	general,shopping,attraction
+1949	12	USER	ありがとうございました	general,shopping,attraction
+1949	13	SYSTEM	他に何かご用件はございますか？	general,shopping,attraction
+1949	14	USER	いえ結構です　これでお店に伺いたいと思います	general,shopping,attraction
+1949	15	SYSTEM	ありがとうございます。	general,shopping,attraction
+1949	16	USER	観光もしたいと思っているのですが、江東区でおすすめの場所はありますか？	general,shopping,attraction
+1949	17	SYSTEM	江東区の名所でしたら日本科学未来館はいかがでしょうか？	general,shopping,attraction
+1949	18	USER	いいですね　電車で行きやすい場所にありますか？	general,shopping,attraction
+1949	19	SYSTEM	近辺の駅からですと、東京国際クルーズターミナル駅から徒歩で5分、テレコムセンター駅から徒歩で4分、東京テレポート駅から徒歩で15分ですので、比較的電車を使っていきやすいと思います。	general,shopping,attraction
+1949	20	USER	アクセス手段が豊富ですね。ありがとうございます。日本科学未来館を訪ねたいと思います。	general,shopping,attraction
+1949	21	SYSTEM	ありがとうございます。何か必要な情報はございますか？	general,shopping,attraction
+1949	22	USER	いえございません。ありがとうございました。	general,shopping,attraction
+1949	23	SYSTEM	ありがとうございます。その他にご用件はございますか？	general,shopping,attraction

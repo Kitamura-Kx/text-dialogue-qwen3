@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4342	0	USER	京都へ旅行に行きたいのですが京都河原町駅の近くでレストランが併設されているビジネスホテルはありませんか	general,hotel,shopping
+4342	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,shopping
+4342	2	USER	ではビジネスホテル以外でお願いします	general,hotel,shopping
+4342	3	SYSTEM	それでしたら、THE GENERAL KYOTO 高辻富小路がございます。	general,hotel,shopping
+4342	4	USER	ありがとうございます、電話番号・エリアと駐車場の有無を教えてください	general,hotel,shopping
+4342	5	SYSTEM	はい。電話番号は0757463928でエリアは下京区となります。また、駐車場の有無は不明となっております。申し訳ございません。	general,hotel,shopping
+4342	6	USER	ありがとうございます、当日買い物もしたいのですが駐車場が無料で利用できるお店は今出川駅付近にありますか	general,hotel,shopping
+4342	7	SYSTEM	それでしたら、鶴屋𠮷信 本店はいかがでしょうか。	general,hotel,shopping
+4342	8	USER	ありがとうございます、住所を教えていただけないでしょうか	general,hotel,shopping
+4342	9	SYSTEM	はい。住所は京都府京都市上京区今出川通堀川西入る、です。	general,hotel,shopping
+4342	10	USER		general,hotel,shopping

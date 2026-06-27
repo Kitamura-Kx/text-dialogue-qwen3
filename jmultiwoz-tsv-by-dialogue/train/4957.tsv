@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4957	0	USER	福岡へ旅行したいのですが、百貨店や総合スーパーで買い物できるところはありますか？	general,shopping,taxi
+4957	1	SYSTEM	かしこまりました。それでは博多リバレインはいかがでしょうか？	general,shopping,taxi
+4957	2	USER	いいですね。その店のエリアはわかりますか？	general,shopping,taxi
+4957	3	SYSTEM	はい、エリアは博多区でございます。	general,shopping,taxi
+4957	4	USER	なるほど。あと、ジャンボタクシーが利用できるようなところも教えてください。	general,shopping,taxi
+4957	5	SYSTEM	かしこまりました。それでは福岡昭和タクシー（株）がございます。	general,shopping,taxi
+4957	6	USER	ちなみに電話番号はわかります？	general,shopping,taxi
+4957	7	SYSTEM	はい、電話番号は0120408860でございます。	general,shopping,taxi
+4957	8	USER	そうですか。ではそこで、11/30の午前9:40に、博多シーフードうお田から博多リバレインまでの予約をお願いします。	general,shopping,taxi
+4957	9	SYSTEM	お待たせ致しました。予約番号博多リバレインでお取りさせていただきました。	general,shopping,taxi
+4957	10	USER	もう一度予約番号を確認させてください。	general,shopping,taxi
+4957	11	SYSTEM	申し訳ありません。予約番号25633でございます。	general,shopping,taxi
+4957	12	USER	ありがとうございます。もういいです。	general,shopping,taxi
+4957	13	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,taxi

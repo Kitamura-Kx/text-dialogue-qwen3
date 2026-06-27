@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2116	0	USER	こんにちは。名古屋へ行くので、宿泊施設を探しています。Wi-Fiが無料で、上前津駅の近くってありますか？	general,hotel,weather
+2116	1	SYSTEM	かしこまりました。では、トリップ&スリープホステルはいかがでしょうか？	general,hotel,weather
+2116	2	USER	ありがとうございます。そちらの住所を教えていただけますか？	general,hotel,weather
+2116	3	SYSTEM	はい。住所は愛知県名古屋市中区大須3丁目27-29です。	general,hotel,weather
+2116	4	USER	ありがとうございます。それと天気も知りたいんですけど、1/23の天白区の最低気温って分かりますか？	general,hotel,weather
+2116	5	SYSTEM	かしこまりました。1/23の天白区の天気予報は晴のち曇となっております。最低気温は0.7度、最高気温は7.4度になる予報です。	general,hotel,weather
+2116	6	USER	ありがとうございました。助かりました。	general,hotel,weather
+2116	7	SYSTEM	他にご用件はありますか？	general,hotel,weather
+2116	8	USER	大丈夫です。どうもありがとうございました。	general,hotel,weather
+2116	9	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

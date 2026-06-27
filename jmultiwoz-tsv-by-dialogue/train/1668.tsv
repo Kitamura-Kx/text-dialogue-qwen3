@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1668	0	USER	福岡へ旅行に行くので、宿泊施設を探してもらえますか？東区でお願いします。	general,hotel,taxi
+1668	1	SYSTEM	かしこまりました。１件ご案内可能です。THE LUIGANS Spa&Resortというリゾートホテルですが、いかがでしょうか？	general,hotel,taxi
+1668	2	USER	そこは駐車場は無料ですか？あと、レストランも併設されているところがいいのですが。	general,hotel,taxi
+1668	3	SYSTEM	申し訳ありません。駐車場は有料となっております。レストランも併設されておりまして、レストラン併設の施設で調べ直しても、こちら１件のみのご案内となります。いかがいたしましょう？	general,hotel,taxi
+1668	4	USER	そうですか。じゃあ東区以外でも探してもらえますか？	general,hotel,taxi
+1668	5	SYSTEM	恐れ入ります。駐車場が無料のところでお探しということで合っていますでしょうか？	general,hotel,taxi
+1668	6	USER	はい、それでお願いします。	general,hotel,taxi
+1668	7	SYSTEM	かしこまりました。そうしますと、博多区エリアで４件候補がございます。例えば、HOTEL AZ 福岡金の隈店というところはいかがでしょうか？	general,hotel,taxi
+1668	8	USER	じゃあ、そこにします。電話番号を教えてください。	general,hotel,taxi
+1668	9	SYSTEM	電話番号は、0925133301でございます。	general,hotel,taxi
+1668	10	USER	予約もお願いします。7/27から３名で３泊希望です。	general,hotel,taxi
+1668	11	SYSTEM	かしこまりました。ご予約ありがとうございます。予約番号20048にて、予約を完了いたしました。	general,hotel,taxi
+1668	12	USER	ありがとうございます。あと、タクシーでキャッシュレス決済ができる会社を探してもらえますか？	general,hotel,taxi
+1668	13	SYSTEM	かしこまりました。では、福岡交通（株）はいかがでしょうか？	general,hotel,taxi
+1668	14	USER	ありがとうございます。電話番を教えてください。	general,hotel,taxi
+1668	15	SYSTEM	電話番号は、0570081234でございます。	general,hotel,taxi
+1668	16	USER	じゃあ、予約もお願いしたいです。7/27でHOTEL AZ 福岡金の隈店を12：00に出発して、Le marchand de bonheurというところに行きたいです。	general,hotel,taxi
+1668	17	SYSTEM	かしこまりました。ご予約ありがとうございます。予約番号34721にて、予約を完了いたしました。	general,hotel,taxi
+1668	18	USER	ありがとうございました。	general,hotel,taxi
+1668	19	SYSTEM	他にご用件はございませんか？	general,hotel,taxi
+1668	20	USER	大丈夫です。	general,hotel,taxi
+1668	21	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,hotel,taxi

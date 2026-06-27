@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3409	0	USER	3/2の横浜の磯子区の気温を教えてください。	general,weather,taxi
+3409	1	SYSTEM	最高気温は、19.7度で最低気温は10.8度となっております。	general,weather,taxi
+3409	2	USER	ありがとうございます。その日にジャンボタクシーを利用したいです。	general,weather,taxi
+3409	3	SYSTEM	株式会社富士タクシーは、いかがですか？	general,weather,taxi
+3409	4	USER	ありがとうございます。電話番号も教えてください。	general,weather,taxi
+3409	5	SYSTEM	電話番号は、0457552211です。	general,weather,taxi
+3409	6	USER	わかりました。そのタクシーを3/2の13：40にリストランテ ウミリアから焼肉キングコングで予約したいです。	general,weather,taxi
+3409	7	SYSTEM	予約出来ました。予約番号は、74599です。	general,weather,taxi
+3409	8	USER	ありがとうございました。	general,weather,taxi
+3409	9	SYSTEM	他にご用件はありますか？	general,weather,taxi
+3409	10	USER	大丈夫です。	general,weather,taxi

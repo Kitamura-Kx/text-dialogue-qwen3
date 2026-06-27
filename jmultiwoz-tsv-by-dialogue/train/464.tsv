@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+464	0	USER	福岡の東区にある観光名所を教えてください。	general,attraction
+464	1	SYSTEM	かしこまりました。では海の中道海浜公園 動物の森はいかがでしょうか。	general,attraction
+464	2	USER	そちらには駐車場はありますか？	general,attraction
+464	3	SYSTEM	はい。有料ですがございます。	general,attraction
+464	4	USER	わかりました。どうもありがとうございます。	general,attraction

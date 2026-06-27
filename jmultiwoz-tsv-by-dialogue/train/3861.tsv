@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3861	0	USER	福岡へ旅行を計画しており、当日タクシーを利用したいです。キャッシュレス払いができて、ジャンボタクシーがあるところで探してほしいです。	general,taxi
+3861	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,taxi
+3861	2	USER	それでは、キャッシュレス払いの可否は問いません。	general,taxi
+3861	3	SYSTEM	では清流タクシー（有）はいかがですか？	general,taxi
+3861	4	USER	そちらの電話番号を教えてください。	general,taxi
+3861	5	SYSTEM	電話番号は、0928041000です。	general,taxi
+3861	6	USER	ありがとうございます。それでは予約をお願いします。日時は10/16、13:40で出発地は福さ屋本社売店からはんやかどのくーたまででお願いします。	general,taxi
+3861	7	SYSTEM	予約出来ました。予約番号は、60333になります。	general,taxi
+3861	8	USER	ありがとうございます。こちらからは以上です。	general,taxi
+3861	9	SYSTEM	承知しました。ありがとうございました。	general,taxi

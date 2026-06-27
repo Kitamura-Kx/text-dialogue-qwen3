@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3055	0	USER	横浜への旅行を検討しています。当日訪れる観光名所を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,attraction,shopping,taxi
+3055	1	SYSTEM	はい、ご希望をおきかせください	general,attraction,shopping,taxi
+3055	2	USER	ありがとうございます。南区で、駐車場を無料で利用できるとありがたいのですが。どうでしょうか？	general,attraction,shopping,taxi
+3055	3	SYSTEM	横浜南区で駐車場無料の観光名所といえば、ずばり、弘明寺、こちらになります。	general,attraction,shopping,taxi
+3055	4	USER	良さそうですね。この施設の最寄り駅ってわかりますか？	general,attraction,shopping,taxi
+3055	5	SYSTEM	その名も、弘明寺駅、こちらから徒歩２分になります。	general,attraction,shopping,taxi
+3055	6	USER	ありがとうございます。ついでに当日、緑区で買い物が出来る場所も探して欲しいのですが、よろしいでしょうか？	general,attraction,shopping,taxi
+3055	7	SYSTEM	はい、ご希望をおきかせください	general,attraction,shopping,taxi
+3055	8	USER	ありがとうございます。ジャンルは自動車・自転車で、駐車場を無料で利用出来たら最高なのですが。どうでしょうか？	general,attraction,shopping,taxi
+3055	9	SYSTEM	緑区、ジャンルは自動車自転車、駐車場無料といえば、ヤマダ電機 テックランド上山店、こちらになります。	general,attraction,shopping,taxi
+3055	10	USER	ありがとうございます。このお店の定休日ってわかりますか？	general,attraction,shopping,taxi
+3055	11	SYSTEM	定休日はありません	general,attraction,shopping,taxi
+3055	12	USER	ありがとうございます。最後に当日利用出来るタクシー会社も探して欲しいのですが、お願い出来ますか？	general,attraction,shopping,taxi
+3055	13	SYSTEM	はい、何か希望はありますか	general,attraction,shopping,taxi
+3055	14	USER	はい。キャッシュレス払いが出来る所を探しています。	general,attraction,shopping,taxi
+3055	15	SYSTEM	いくつかあるのですが、日本サントスキャブ株式会社をオススメします。	general,attraction,shopping,taxi
+3055	16	USER	そこにしてみたいと思います。この会社はジャンボタクシーには対応していますか？	general,attraction,shopping,taxi
+3055	17	SYSTEM	はい、対応しています。	general,attraction,shopping,taxi
+3055	18	USER	助かります。では、このままこの会社で予約をしたいのですが、よろしいでしょうか？	general,attraction,shopping,taxi
+3055	19	SYSTEM	はい、日付と出発時刻、出発地と目的地をお願いします。	general,attraction,shopping,taxi
+3055	20	USER	助かります。1月24日の14:30で、弘明寺からヤマダ電機 テックランド上山店でお願いしたいのですが。	general,attraction,shopping,taxi
+3055	21	SYSTEM	その条件だと予約に失敗してしまいました。少し時間をずらしていただけると助かるのですが	general,attraction,shopping,taxi
+3055	22	USER	そうですか。では、時刻を15:20に変更して頂けますか？	general,attraction,shopping,taxi
+3055	23	SYSTEM	１５：２０で予約成功しました。予約番号は8282になります。	general,attraction,shopping,taxi
+3055	24	USER	ありがとうございます。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,attraction,shopping,taxi
+3055	25	SYSTEM	よい旅を	general,attraction,shopping,taxi

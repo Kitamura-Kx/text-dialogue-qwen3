@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2183	0	USER	大阪への旅行を計画しているのですが、住之江区で観光名所はありますか。駐車場が無料のところがよいです。	general,attraction
+2183	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,attraction
+2183	2	USER	そうですか。では、地区はどこでもよいです。	general,attraction
+2183	3	SYSTEM	かしこまりました。それでは大阪天満宮はいかがでしょうか？	general,attraction
+2183	4	USER	行ってみたいです。近辺の駅からの所要時間を教えていただけますか。	general,attraction
+2183	5	SYSTEM	ありがとうございます。南森町駅から徒歩で4分又は、大阪天満宮駅から徒歩で4分でございます。	general,attraction
+2183	6	USER	ありがとうございました。	general,attraction

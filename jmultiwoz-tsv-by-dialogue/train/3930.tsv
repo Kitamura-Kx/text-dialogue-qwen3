@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3930	0	USER	こんにちは、今那覇への旅行を計画していましてそちらにホテルグランビュー沖縄というホテルはありますか？	general,hotel,shopping
+3930	1	SYSTEM	はい、タイプはビジネスホテルで、赤嶺駅の近くで、値段帯は安めとなっております。	general,hotel,shopping
+3930	2	USER	ありがとうございます。では、4/10に3名で3泊分予約をお願いできますでしょうか？	general,hotel,shopping
+3930	3	SYSTEM	承知いたしました。4/10に3名で3泊分予約いたしました。予約番号は70250となっております。	general,hotel,shopping
+3930	4	USER	ありがとうございます。あと、当日本庁で買い物できるところを探しています。市立病院前駅の近くで駐車場が無料のところはありますか？	general,hotel,shopping
+3930	5	SYSTEM	申し訳ございません。市立病院前駅の近くで、駐車場が無料のところは見つかりません。	general,hotel,shopping
+3930	6	USER	承知しました、では最寄り駅は気にせず条件に合うお店はありますか？	general,hotel,shopping
+3930	7	SYSTEM	本庁エリアで駐車場が無料のところは、８件御座います。	general,hotel,shopping
+3930	8	USER	ありがとうございます、ではオススメのお店とジャンルを教えていただけますか？	general,hotel,shopping
+3930	9	SYSTEM	のうれんプラザは如何でしょう。ジャンルはショッピングモールになります。	general,hotel,shopping
+3930	10	USER	ありがとうございます。当日はそちらに行ってみたいと思います。本日確認したかったことは以上になります。	general,hotel,shopping
+3930	11	SYSTEM	ありがとうございます。	general,hotel,shopping

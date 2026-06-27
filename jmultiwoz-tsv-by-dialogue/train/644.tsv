@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+644	0	USER	名古屋に旅行に行く際に泊まる宿泊施設を探していただけますか？	general,hotel,restaurant
+644	1	SYSTEM	かしこまりました。なにかご希望の条件などはございますか？	general,hotel,restaurant
+644	2	USER	Wi-Fiが無料で利用できて、なおかつレストランが併設されていると便利でうれしいです。	general,hotel,restaurant
+644	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,restaurant
+644	4	USER	それなら、Wi-Fiはなくても構いません。	general,hotel,restaurant
+644	5	SYSTEM	ありがとうございます。そういたしますと、ホテル いろはというビジネスホテルはいかがでしょうか？	general,hotel,restaurant
+644	6	USER	そちらにします。最寄り駅を教えていただけますか？	general,hotel,restaurant
+644	7	SYSTEM	はい。最寄りは金山駅です。駅から徒歩10分でアクセスできます。	general,hotel,restaurant
+644	8	USER	ありがとうございます。予約をお願いできますか？人数は3人で、日付は3/29から3泊ですが、空きはありますか？	general,hotel,restaurant
+644	9	SYSTEM	はい、ご予約が完了いたしました。予約番号は、34265ですので、お手元にお控えくださいませ。	general,hotel,restaurant
+644	10	USER	ありがとうございます。当日の食事できる場所でのおすすめはありますか？	general,hotel,restaurant
+644	11	SYSTEM	名古屋のお食事処は100件ほど、ご案内可能です。ジャンルやエリアなど、ご希望はございますか？	general,hotel,restaurant
+644	12	USER	ハンバーガー生活のすすめというところが評判がいいと聞いたことがあるのですが、このお店はありますか？	general,hotel,restaurant
+644	13	SYSTEM	はい、千種区に1件ございました。こちらのどういった情報をお求めでしょうか？	general,hotel,restaurant
+644	14	USER	駐車場の有無と住所、あと定休日を教えていただけますか？	general,hotel,restaurant
+644	15	SYSTEM	駐車場の有無は不明となっております。住所は、愛知県名古屋市千種区末盛通3丁目3-30 マ.シャルブル富士 202です。定休日はございません。	general,hotel,restaurant
+644	16	USER	ありがとうございます。2人で3/29の16:40から予約したいのですが可能でしょうか。	general,hotel,restaurant
+644	17	SYSTEM	はい、ご予約を承りました。予約番号は、93252です。	general,hotel,restaurant
+644	18	USER	ありがとうございました。	general,hotel,restaurant

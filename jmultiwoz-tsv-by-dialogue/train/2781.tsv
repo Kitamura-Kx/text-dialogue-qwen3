@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2781	0	USER	大阪へ行くんですけど、飲食店を探しています。	general,restaurant,weather
+2781	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant,weather
+2781	2	USER	港区で、Wi-Fiが無料のところがいいです。	general,restaurant,weather
+2781	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,weather
+2781	4	USER	では港区でなくてもいいです。	general,restaurant,weather
+2781	5	SYSTEM	では、エリアでいうと中央区にある、すしざんまい 道頓堀店はいかがでしょう？ジャンルは、寿司、魚料理となります。	general,restaurant,weather
+2781	6	USER	いいですね。値段帯はどうなっていますか？	general,restaurant,weather
+2781	7	SYSTEM	はい、値段帯は普通となります。	general,restaurant,weather
+2781	8	USER	4/22、13:40、2人で予約してもらえませんか？	general,restaurant,weather
+2781	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、24391となります。	general,restaurant,weather
+2781	10	USER	ちなみに4/22の阿倍野区の天気はどうなっていますか？	general,restaurant,weather
+2781	11	SYSTEM	はい、天気は晴、最低気温6.3度、最高気温19.5度となります。他にご用件はございますか？	general,restaurant,weather
+2781	12	USER	特にないです。ありがとうございました。	general,restaurant,weather
+2781	13	SYSTEM	ありがとうございました。	general,restaurant,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+799	0	USER	名古屋へ旅行予定なのですが、港区で無料駐車場がある宿泊施設を調べてください。	general,hotel,weather
+799	1	SYSTEM	かしこまりました。そうしますと、ハーバーロッジなごや、というところが1件ご案内可能です。いかがでしょう？	general,hotel,weather
+799	2	USER	そこにします。近辺の駅からの所要時間とレストランの有無を教えてください。	general,hotel,weather
+799	3	SYSTEM	名古屋港駅からは徒歩2分でアクセスできます。レストランは、こちらの場合、併設しておりません。申し訳ございません。	general,hotel,weather
+799	4	USER	わかりました。当日5/24の北区の天候を教えてください。	general,hotel,weather
+799	5	SYSTEM	かしこまりました。当日の天気は、晴れのち雨の予報です。最低気温14.7度は、最高気温は22.2度になる予想です。	general,hotel,weather
+799	6	USER	わかりました。ありがとうございます。	general,hotel,weather
+799	7	SYSTEM	ほかにお調べすることはございますか？	general,hotel,weather
+799	8	USER	いえ、大丈夫です。	general,hotel,weather
+799	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,weather

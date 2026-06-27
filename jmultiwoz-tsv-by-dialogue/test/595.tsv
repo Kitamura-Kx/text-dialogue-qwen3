@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+595	0	USER	こんにちは！那覇に旅行に行くんですが、宿泊施設を探して欲しいです！	general,hotel,shopping
+595	1	SYSTEM	那覇の宿泊施設ですね。102件ほど、ご案内可能ですが、エリアなど、何かご希望はございませんか？	general,hotel,shopping
+595	2	USER	地区は本庁で、簡易宿所のタイプでお願いします。	general,hotel,shopping
+595	3	SYSTEM	そうしますと、MyPlaceというところはいかがでしょうか？最寄り駅は美栄橋駅です。	general,hotel,shopping
+595	4	USER	最寄駅からの所要時間はどうですか？	general,hotel,shopping
+595	5	SYSTEM	美栄橋駅から徒歩で15分となっております。	general,hotel,shopping
+595	6	USER	住所は分かりますか？	general,hotel,shopping
+595	7	SYSTEM	はい。住所は、沖縄県那覇市泊3丁目1-8 JEIS ビルでございます。予約もおとりしますか？	general,hotel,shopping
+595	8	USER	そうですね。Wi-Fiの有無についても教えていただけますか？	general,hotel,shopping
+595	9	SYSTEM	はい、WiFiは無料でご利用いただけます。	general,hotel,shopping
+595	10	USER	いいですね！ではそちらで、11/14から4泊でお願いします。人数は4人です。	general,hotel,shopping
+595	11	SYSTEM	ご予約ありがとうございます。予約番号35397にて、ご予約承りました。	general,hotel,shopping
+595	12	USER	ありがとうございます。続いてですが、本庁地区で買い物ができるところはありますか？最寄駅は壺川駅だと嬉しいです！	general,hotel,shopping
+595	13	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,hotel,shopping
+595	14	USER	それでしたら、最寄り駅を美栄橋駅に変更してください。	general,hotel,shopping
+595	15	SYSTEM	ありがとうございます。そうしますと、フレッシュプラザユニオン前島店というスーパーマーケットが、1件ございます。いかがでしょうか？	general,hotel,shopping
+595	16	USER	そこにします！定休日はありますか？	general,hotel,shopping
+595	17	SYSTEM	定休日はございません。営業時間も0:00～0:00ですので、24時間営業しております。	general,hotel,shopping
+595	18	USER	ありがとうございます。最後に住所と電話番号について教えてください。	general,hotel,shopping
+595	19	SYSTEM	かしこまりました。住所は、沖縄県那覇市前島２丁目６−１です。電話番号は、0988675006でございます。	general,hotel,shopping
+595	20	USER	ありがとうございます。	general,hotel,shopping
+595	21	SYSTEM	他にご用件はございませんか？	general,hotel,shopping
+595	22	USER	いえ、大丈夫です。	general,hotel,shopping
+595	23	SYSTEM	では、本日はご利用ありがとうございました。	general,hotel,shopping

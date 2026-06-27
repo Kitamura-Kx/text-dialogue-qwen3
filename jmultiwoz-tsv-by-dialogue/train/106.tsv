@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+106	0	USER	こんばんは！ 今度、那覇に旅行に行きたいので、案内をお願いします。	general,shopping,hotel
+106	1	SYSTEM	承知致しました。 どのようなお手伝いを致しましょう？	general,shopping,hotel
+106	2	USER	当日、買い物ができるところを探しているんですけど、おもろまち駅が最寄り駅になるようなところ、どこかありますか？	general,shopping,hotel
+106	3	SYSTEM	はい、サンエー那覇メインプレイスというショッピングモールがございます。	general,shopping,hotel
+106	4	USER	そういうところがあったんですね！ ちなみにそこって、駐車場はありますか？	general,shopping,hotel
+106	5	SYSTEM	はい、駐車場は無料でご利用いただけます。	general,shopping,hotel
+106	6	USER	そうなんですね！ありがとうございます！ あ、あと、当日に泊まる宿泊施設も探しているんですけど、タイプ的にはリゾートホテルで、とりあえず探していただけますか？	general,shopping,hotel
+106	7	SYSTEM	承知致しました。 リゾートホテルタイプでしたら、14件ございます。 エリアやご予算のご希望はございますか？	general,shopping,hotel
+106	8	USER	えっと、レストランが併設されているところで、あと、無料で駐車場が使えるところだと、どこかありますか？	general,shopping,hotel
+106	9	SYSTEM	申し訳ございません、その条件ですとご紹介可能なホテルがございませんでした。 いかが致しましょう？	general,shopping,hotel
+106	10	USER	そうなんですね。では、駐車場は有料のところでも大丈夫です。	general,shopping,hotel
+106	11	SYSTEM	ありがとうございます。 ご紹介可能なホテルが13件ございます。 他にご希望はございますか？	general,shopping,hotel
+106	12	USER	他は特にありません。	general,shopping,hotel
+106	13	SYSTEM	それでは、ハイアット リージェンシー 那覇 沖縄というホテルはいかがでしょう？ 値段帯は安めで、Wi-Fiが無料となっております。	general,shopping,hotel
+106	14	USER	ありがとうございます！良さそうなところですね！ そちらのホテルの住所は、どちらになりますか？	general,shopping,hotel
+106	15	SYSTEM	ありがとうございます。 住所は、那覇市牧志3丁目6-20、電話番号は、0988668888となっております。	general,shopping,hotel
+106	16	USER	ありがとうございます！ では、そちらに泊まろうかと思うのですが、３人で７月１２日から４泊で、予約をお願いしてもよろしいですか？	general,shopping,hotel
+106	17	SYSTEM	承知致しました。 ご予約完了致しました。 予約番号は、66325　となります。	general,shopping,hotel
+106	18	USER	ありがとうございます！助かりました！	general,shopping,hotel
+106	19	SYSTEM	他にご用件はございますか？	general,shopping,hotel
+106	20	USER	あとは大丈夫です！ご案内、本当にありがとうございました！	general,shopping,hotel
+106	21	SYSTEM	承知致しました。 ありがとうございました。	general,shopping,hotel

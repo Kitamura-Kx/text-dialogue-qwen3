@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2195	0	USER	大阪で観光名所を探しています。住之江区で、無料Wifiが使える場所はありますか？	general,attraction
+2195	1	SYSTEM	住之江区で、無料Wifiが使える観光名所はなさそうです。	general,attraction
+2195	2	USER	そうですか、、、地区を浪速区に変更してください。	general,attraction
+2195	3	SYSTEM	それならばなんといっても通天閣がオススメです。	general,attraction
+2195	4	USER	定休日と詳しい料金情報も教えてください。	general,attraction
+2195	5	SYSTEM	定休日はなし、個人料金は大人が900円、５歳～中学生が400円、その他障がい者割引や団体割引等もあります。	general,attraction
+2195	6	USER	ありがとうございます。	general,attraction

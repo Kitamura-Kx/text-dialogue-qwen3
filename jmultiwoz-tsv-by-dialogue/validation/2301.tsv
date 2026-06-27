@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2301	0	USER	京都へ旅行を計画しています。伏見区でどこかおすすめの飲食店を探してください。	general,restaurant
+2301	1	SYSTEM	かしこまりました。では、Foods bar 栞屋というお店は如何でしょうか？伏見桃山駅が最寄りで、居酒屋, 和食ジャンルのお店となります。	general,restaurant
+2301	2	USER	そこの最寄駅からの所要時間、定休日、Wi-Fiの有無を教えてほしいです。	general,restaurant
+2301	3	SYSTEM	こちらは、伏見桃山駅から徒歩で4分、または、桃山御陵前駅から徒歩で5分ほどかかります。定休日は、年末年始の12月31日、1月1日となっています。WiFiの有無につきましては、申し訳ありません、不明でございます。	general,restaurant
+2301	4	USER	ありがとうございます。それでは予約をお願いします。人数は2名、日時は5/7、11:50でお願いします。	general,restaurant
+2301	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、45640です。	general,restaurant
+2301	6	USER	ありがとうございます。こちらからは以上です。	general,restaurant
+2301	7	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant

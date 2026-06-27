@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+989	0	USER	那覇へ旅行したいのですが、最寄り駅が県庁前駅で、駐車場を無料で利用できる飲食店を調べてください。	general,restaurant,attraction
+989	1	SYSTEM	かしこまりました。2件ほどご案内可能です。たとえば、やっぱりステーキ カクテルプラザ店という、洋食・西洋料理ジャンルのお店はいかがでしょうか？	general,restaurant,attraction
+989	2	USER	そこにします。エリアと定休日を教えてください。	general,restaurant,attraction
+989	3	SYSTEM	本庁エリアにございます。こちらのお店は、定休日はございません。	general,restaurant,attraction
+989	4	USER	わかりました。2人で4/6の10時からの予約をお願いします。	general,restaurant,attraction
+989	5	SYSTEM	かしこまりました。お時間ですが、朝の10時でよろしかったでしょうか？	general,restaurant,attraction
+989	6	USER	はい。そちらでお願いします。	general,restaurant,attraction
+989	7	SYSTEM	ありがとうございます。朝10時2名様でご予約完了いたしました。予約番号は、61506です。	general,restaurant,attraction
+989	8	USER	ありがとうございます。観光名所も探しているのですが、首里でいいところはありませんか？	general,restaurant,attraction
+989	9	SYSTEM	そういたしますと、首里城はいかがでしょうか？首里駅から徒歩で15分の場所にある、観光名所です。	general,restaurant,attraction
+989	10	USER	そうですね。希望としてはWi-Fiが無料で利用できて、無料駐車場もあるところがいいのですが。	general,restaurant,attraction
+989	11	SYSTEM	大変申し訳ございません。その条件になりますと、ご案内できるところが見つかりませんでした。	general,restaurant,attraction
+989	12	USER	そうですか。ならWi-Fiはなくてもいいです。	general,restaurant,attraction
+989	13	SYSTEM	ありがとうございます。では、首里琉染はいかがでしょうか？	general,restaurant,attraction
+989	14	USER	いいですね。近辺の駅からの所要時間と定休日、あと営業時間を教えてください。	general,restaurant,attraction
+989	15	SYSTEM	場所は、首里駅からタクシーで4分、首里駅から徒歩で20分ほどかかります。こちらは、定休日はございません。営業時間は、9:00～18:00でございます。	general,restaurant,attraction
+989	16	USER	わかりました。ありがとうございます。	general,restaurant,attraction
+989	17	SYSTEM	他にお調べすることはございますか？	general,restaurant,attraction
+989	18	USER	いえ、大丈夫です。ありがとうございます。	general,restaurant,attraction
+989	19	SYSTEM	では、本日はご利用ありがとうございました。	general,restaurant,attraction

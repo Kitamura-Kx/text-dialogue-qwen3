@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3500	0	USER	那覇へ行くのですが、食料品が買えるところを探しています。	general,shopping,restaurant,taxi
+3500	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping,restaurant,taxi
+3500	2	USER	では食料品ではなくてもいいので、どこか買い物できるところはありませんか？	general,shopping,restaurant,taxi
+3500	3	SYSTEM	かしこまりました。それではドン・キホーテ 国際通り店はいかがでしょうか？	general,shopping,restaurant,taxi
+3500	4	USER	営業時間を教えてください。	general,shopping,restaurant,taxi
+3500	5	SYSTEM	はい、9時から翌2時でございます。	general,shopping,restaurant,taxi
+3500	6	USER	あと飲食店も探しています。Wi-Fiが無料のところがいいです。	general,shopping,restaurant,taxi
+3500	7	SYSTEM	かしこまりました。それではしゃぶ葉 那覇小禄店はいかがでしょうか？	general,shopping,restaurant,taxi
+3500	8	USER	予算が普通のところがいいのですが	general,shopping,restaurant,taxi
+3500	9	SYSTEM	はい、ではしゃぶしゃぶ 焼肉 杏はいかがでしょうか？	general,shopping,restaurant,taxi
+3500	10	USER	そっちの方がいいですね。定休日と駐車場の有無を教えてください。	general,shopping,restaurant,taxi
+3500	11	SYSTEM	はい、定休日はございません。そして駐車場は無料でご利用いただけます。	general,shopping,restaurant,taxi
+3500	12	USER	ジャンボタクシーを利用できるタクシーを探しています。	general,shopping,restaurant,taxi
+3500	13	SYSTEM	かしこまりました。それでは沖東交通グループはいかがでしょうか？	general,shopping,restaurant,taxi
+3500	14	USER	キャッシュレス払いできるところがいいのですが	general,shopping,restaurant,taxi
+3500	15	SYSTEM	かしこまりました。それでは鏡原第一交通はいかがでしょうか？	general,shopping,restaurant,taxi
+3500	16	USER	電話番号は何番になりますか？	general,shopping,restaurant,taxi
+3500	17	SYSTEM	はい、0988537801でございます。	general,shopping,restaurant,taxi
+3500	18	USER	6/19、13:30にドン・キホーテ 国際通り店からしゃぶしゃぶ 焼肉 杏まで予約をお願いしたいです。	general,shopping,restaurant,taxi
+3500	19	SYSTEM	お待たせ致しました。予約番号99540でお取りさせていただきました。	general,shopping,restaurant,taxi
+3500	20	USER	ありがとうございました。	general,shopping,restaurant,taxi
+3500	21	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,restaurant,taxi

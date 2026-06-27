@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2911	0	USER	今度、大阪のドーム前千代崎駅近くで買い物したいのですが、無料駐車場があるお店はありますか？	general,shopping,taxi
+2911	1	SYSTEM	ドーム前千代崎駅で駐車場無料の買い物といえば、IKEA鶴浜ストア、こちら一択です。	general,shopping,taxi
+2911	2	USER	そうですか。そちらは西区ですか？	general,shopping,taxi
+2911	3	SYSTEM	いえ、大正区になります。	general,shopping,taxi
+2911	4	USER	分かりました。大丈夫です。もう１つ、ジャンボタクシーを利用できるタクシー会社を教えて下さい。	general,shopping,taxi
+2911	5	SYSTEM	いくつかありますが、日本タクシー株式会社、こちらをお勧めします。	general,shopping,taxi
+2911	6	USER	そちらはキャッシュレス払いできますか？それと、電話番号を教えて下さい。	general,shopping,taxi
+2911	7	SYSTEM	キャッシュレスも対応しています。電話番号は、0669285151です。	general,shopping,taxi
+2911	8	USER	それでは、12月6日の午前11時30分にIKEA鶴浜ストアから、アスティルホテル十三プレシャスまで予約をお願いします。	general,shopping,taxi
+2911	9	SYSTEM	予約成功しました。予約番号は80236です。	general,shopping,taxi
+2911	10	USER	ありがとうございました。助かりました。それでは失礼します。	general,shopping,taxi

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4284	0	USER	札幌で旅行に行くので、飲食店を探しているのですが、無料Wi-Fiが利用できる居酒屋はありませんか？	general,restaurant,weather
+4284	1	SYSTEM	かしこまりました。では一軒家ダイニング ~すしBAR~はいかがですか。	general,restaurant,weather
+4284	2	USER	なるほど。予算は安めが希望なんですが。	general,restaurant,weather
+4284	3	SYSTEM	それでしたら蔵元直営 吉翔がございますが、いかがですか。	general,restaurant,weather
+4284	4	USER	そのお店にします。営業時間と最寄り駅からのアクセス、エリアを教えてください。	general,restaurant,weather
+4284	5	SYSTEM	営業時間は11:00～14:00, 17:00～23:00でございます。大通駅から徒歩で5分で、エリアは中央区でございます。	general,restaurant,weather
+4284	6	USER	ありがとうございます。では、11月24日に予約を入れたいのですが、10時に4人でお願いします。	general,restaurant,weather
+4284	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は77673でございます。	general,restaurant,weather
+4284	8	USER	ありがとうございます。あと、東区の11月24日の天気が知りたいです。	general,restaurant,weather
+4284	9	SYSTEM	当日の天気は雨のち曇でございます。	general,restaurant,weather
+4284	10	USER	わかりました。ありがとうございます。	general,restaurant,weather
+4284	11	SYSTEM	ほかにご用件はございませんか。	general,restaurant,weather
+4284	12	USER	いえ、特にないです。ありがとうございました。	general,restaurant,weather
+4284	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4555	0	USER	那覇に旅行するのですが最寄り駅が奥武山公園駅のところで買い物がしたいです。地区は本庁で駐車場無料のところはありますか？	general,shopping
+4555	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping
+4555	2	USER	それでは地区はどこでもいいです。	general,shopping
+4555	3	SYSTEM	1件みつかりました。LEO & JOE、こちらはいかがですか？	general,shopping
+4555	4	USER	そこに行こうと思います。そこの電話番号と住所、定休日を教えて下さい。	general,shopping
+4555	5	SYSTEM	電話番号は、0988581268です。　住所は、沖縄県那覇市小禄４４３−１、定休日は、無しとなっています。	general,shopping
+4555	6	USER	助かりました。以上です。ありがとうございました。	general,shopping
+4555	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2900	0	USER	すみません、横浜の中山駅近くで無料駐車場がある観光名所を教えてください。	general,attraction,restaurant
+2900	1	SYSTEM	中山駅で無料駐車場ありの観光名所といえば、ずばり、県立 四季の森公園、こちら一択です。	general,attraction,restaurant
+2900	2	USER	それでは、そちらの営業時間を教えて下さい。	general,attraction,restaurant
+2900	3	SYSTEM	２４ｈ営業ですね。	general,attraction,restaurant
+2900	4	USER	分かりました。同じ日に中華料理を食べたいのですが、こちらも無料駐車場があるお店を教えて下さい。	general,attraction,restaurant
+2900	5	SYSTEM	横浜で駐車場無料の中華といえば、三和楼、こちら一択です。	general,attraction,restaurant
+2900	6	USER	良さそうですね。そちらの住所を教えて下さい。Wi-Fiはありますか？	general,attraction,restaurant
+2900	7	SYSTEM	神奈川県横浜市中区山下町190、WiFiは不明ですね。	general,attraction,restaurant
+2900	8	USER	ありがとうございます。そのお店を7月9日の午後3時に3人で利用したいのですが、予約を取れますか？	general,attraction,restaurant
+2900	9	SYSTEM	予約に失敗してしまいました。少し条件を変更いただけると幸いです。	general,attraction,restaurant
+2900	10	USER	分かりました。時間を午後4時に変えます。	general,attraction,restaurant
+2900	11	SYSTEM	7月9日午後4時、3人で予約しました。予約番号は81077です。	general,attraction,restaurant
+2900	12	USER	ありがとうございます。助かりました。それでは失礼します。	general,attraction,restaurant

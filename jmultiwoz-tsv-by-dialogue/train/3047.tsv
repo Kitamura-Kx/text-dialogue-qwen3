@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3047	0	USER	札幌へ行くのですが、豊平区で観光名所を探しています。	general,attraction
+3047	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction
+3047	2	USER	無料Wi-Fiがあって駐車場が無料の所が良いです。	general,attraction
+3047	3	SYSTEM	かしこまりました。では、クラーク博士像はいかがでしょうか？	general,attraction
+3047	4	USER	いいですね。そこにします。	general,attraction
+3047	5	SYSTEM	はい。他にご用件はございませんか？	general,attraction
+3047	6	USER	特にないです。	general,attraction
+3047	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

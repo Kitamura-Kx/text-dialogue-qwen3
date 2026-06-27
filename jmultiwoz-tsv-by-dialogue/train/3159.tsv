@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3159	0	USER	東京への旅行を計画しているので、ジャンルがアートギャラリーの観光名所を探してもらえますか？	general,attraction
+3159	1	SYSTEM	コスモプラネタリウム渋谷は、どうですか？	general,attraction
+3159	2	USER	そこに行こうと思います。エリアを教えてください。	general,attraction
+3159	3	SYSTEM	エリアは、渋谷区です。	general,attraction
+3159	4	USER	ありがとうございます。	general,attraction
+3159	5	SYSTEM	他にご用件はございますか？	general,attraction
+3159	6	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction

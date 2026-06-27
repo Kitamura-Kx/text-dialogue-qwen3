@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1509	0	USER	こんにちは。東京に行こうと思ってて、駐車場とWi-Fiが無料で使える飲食店を知りたいです。	general,restaurant,hotel,taxi
+1509	1	SYSTEM	エリアでいうと港区に、バルバッコア 六本木ヒルズ店がございます。ジャンルは洋食、西洋料理、居酒屋、となります。	general,restaurant,hotel,taxi
+1509	2	USER	ありがとうございます。では、バルバッコア 六本木ヒルズ店で、人数は2人、1/3の14:30で予約をお願いできますか？	general,restaurant,hotel,taxi
+1509	3	SYSTEM	承知しました。予約は完了し、ご予約番号は、20865となります。	general,restaurant,hotel,taxi
+1509	4	USER	ありがとうございます。あと、レストランが併設されている宿泊施設を探しています。最寄り駅が日本橋駅で、予算は安めのところがいいのですが。	general,restaurant,hotel,taxi
+1509	5	SYSTEM	申し訳ありません。その条件ではご案内できないのですが、いかが致しましょう？	general,restaurant,hotel,taxi
+1509	6	USER	わかりました。では、最寄り駅は日本橋駅じゃなくても大丈夫です。	general,restaurant,hotel,taxi
+1509	7	SYSTEM	では、エリアでいうと新宿区にある、東京ビジネスホテルはいかがでしょう？タイプはビジネスホテルとなります。	general,restaurant,hotel,taxi
+1509	8	USER	ありがとうございます。そこにします。東京ビジネスホテルの料金情報があれば教えていただけますか？	general,restaurant,hotel,taxi
+1509	9	SYSTEM	申し訳ありません。ご案内可能な料金情報はございません。	general,restaurant,hotel,taxi
+1509	10	USER	ありがとうございます。あと、ジャンボタクシーが利用できてキャッシュレス払いが可能なタクシー会社を探していただけますか？	general,restaurant,hotel,taxi
+1509	11	SYSTEM	はい、昭栄自動車はいかがでしょう？電話番号は、0357552151となります。	general,restaurant,hotel,taxi
+1509	12	USER	ありがとうございます。昭栄自動車で予約をお願いしたいのですが、1/3の16:10に、出発地はバルバッコア 六本木ヒルズ店で、目的地は東京ビジネスホテルでお願いします。	general,restaurant,hotel,taxi
+1509	13	SYSTEM	申し訳ありません、この条件では予約できませんでした。いかが致しましょう？	general,restaurant,hotel,taxi
+1509	14	USER	わかりました。では、16:40だと予約できそうですか？	general,restaurant,hotel,taxi
+1509	15	SYSTEM	はい、予約が可能になりまして、ご予約番号は、93242となります。他にご用件はございますか？	general,restaurant,hotel,taxi
+1509	16	USER	ありがとうございます。これで大丈夫です。案内ありがとうございました。	general,restaurant,hotel,taxi
+1509	17	SYSTEM	ありがとうございました。	general,restaurant,hotel,taxi

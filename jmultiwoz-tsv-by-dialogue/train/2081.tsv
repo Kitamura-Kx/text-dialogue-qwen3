@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2081	0	USER	名古屋への旅行を計画しておりまして、宿泊施設を探しているのですが。	general,hotel,shopping
+2081	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,shopping
+2081	2	USER	はい。瑞穂区の旅館で、無料で使用出来る駐車場があると嬉しいのですが。	general,hotel,shopping
+2081	3	SYSTEM	かしこまりました。では、魚鍵旅館はいかがでしょうか？	general,hotel,shopping
+2081	4	USER	ありがとうございます。そちらへの最寄り駅をお伺いしてもよろしいでしょうか？	general,hotel,shopping
+2081	5	SYSTEM	はい。最寄り駅は金山駅です。	general,hotel,shopping
+2081	6	USER	すみません。それと、電話番号もお伺いしたいのですが。	general,hotel,shopping
+2081	7	SYSTEM	はい。電話番号は0528811175でございます。	general,hotel,shopping
+2081	8	USER	ありがとうございます。出来ればこのまま、ここへの予約もしたいのですが、可能でしょうか？	general,hotel,shopping
+2081	9	SYSTEM	はい。詳細な情報をお伺いしていいですか？	general,hotel,shopping
+2081	10	USER	はい。8月22日から3泊で、人数は2人になります。	general,hotel,shopping
+2081	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、98071 です。	general,hotel,shopping
+2081	12	USER	ありがとうございます。ついでに、当日買い物もしたいのですが、こちらについてもお伺いしてよろしいですか？	general,hotel,shopping
+2081	13	SYSTEM	はい。ご案内させていただきます。	general,hotel,shopping
+2081	14	USER	助かります。浄心駅が最寄り駅のスーパーマーケットってありますかね？	general,hotel,shopping
+2081	15	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,hotel,shopping
+2081	16	USER	そうですか、では最寄り駅が浄心駅でなくても良いので、駐車場が無料のスーパーマーケットってありますか？	general,hotel,shopping
+2081	17	SYSTEM	かしこまりました。では、サンエース 原駅前店はいかがでしょうか？	general,hotel,shopping
+2081	18	USER	無理を言ってすみません。そこで大丈夫そうです。そちらの営業時間を教えて頂けますか？	general,hotel,shopping
+2081	19	SYSTEM	はい。営業時間は09:30～22:00になります。	general,hotel,shopping
+2081	20	USER	ありがとうございます！これで当日は大丈夫そうです。ご案内、ありがとうございました。	general,hotel,shopping
+2081	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping

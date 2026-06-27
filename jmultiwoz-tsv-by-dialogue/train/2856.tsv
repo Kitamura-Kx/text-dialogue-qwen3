@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2856	0	USER	札幌への旅行を計画しているので、Wi-Fiが無料で利用できて予算が普通の宿泊施設を探しています。	general,hotel,attraction
+2856	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,hotel,attraction
+2856	2	USER	では予算は安めではなくてもいいので、Wi-Fiが無料で利用できる宿泊施設を探してもらえますか？	general,hotel,attraction
+2856	3	SYSTEM	では、定山渓温泉 ぬくもりの宿 ふる川はいかがですか？	general,hotel,attraction
+2856	4	USER	そこは宿のタイプは何になりますか？	general,hotel,attraction
+2856	5	SYSTEM	タイプは、旅館となっています。	general,hotel,attraction
+2856	6	USER	ありがとうございます。あと最寄り駅が麻生駅のところで、駐車場が無料で利用できる観光名所も探してもらえますか？	general,hotel,attraction
+2856	7	SYSTEM	では、シャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートはいかがですか？	general,hotel,attraction
+2856	8	USER	そこにしようと思います。電話番号と定休日を調べてもらえますか？	general,hotel,attraction
+2856	9	SYSTEM	電話番号は、0117732211です。　定休日は、無しとなっています。	general,hotel,attraction
+2856	10	USER	ありがとうございます。	general,hotel,attraction
+2856	11	SYSTEM	他にご用件はございますか？	general,hotel,attraction
+2856	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel,attraction

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3375	0	USER	札幌に行きます。Wi-Fiが無料な所で伝統文化体験ができるとこありますか？	general,attraction,weather,taxi
+3375	1	SYSTEM	申し訳ございません。頂いた条件ですと、該当がございませんでした。	general,attraction,weather,taxi
+3375	2	USER	Wi-Fiなくていいです。	general,attraction,weather,taxi
+3375	3	SYSTEM	札幌市アイヌ文化交流センター サッポロピリカコタンがご案内できます。	general,attraction,weather,taxi
+3375	4	USER	エリアと営業時間おしえてください。	general,attraction,weather,taxi
+3375	5	SYSTEM	南区エリアで、8:45から22:00でございます。	general,attraction,weather,taxi
+3375	6	USER	3月2日の南区の天気と最低気温おしえてください。	general,attraction,weather,taxi
+3375	7	SYSTEM	曇で、4.9度でございます。	general,attraction,weather,taxi
+3375	8	USER	分かりました。キャッシュレスでジャンボタクシー予約したいです。	general,attraction,weather,taxi
+3375	9	SYSTEM	ダイコク交通(株)が対応しております。いかがでしょうか？	general,attraction,weather,taxi
+3375	10	USER	電話番号おしえてください。	general,attraction,weather,taxi
+3375	11	SYSTEM	0117416000でございます。	general,attraction,weather,taxi
+3375	12	USER	では、予約お願いします。3月2日の11時40分で札幌市アイヌ文化交流センター サッポロピリカコタンからアパホテル〈札幌すすきの〉までです。	general,attraction,weather,taxi
+3375	13	SYSTEM	ご予約が完了しました。予約番号は885でございます。	general,attraction,weather,taxi
+3375	14	USER	ありがとうございました。	general,attraction,weather,taxi
+3375	15	SYSTEM	ありがとうございました。	general,attraction,weather,taxi

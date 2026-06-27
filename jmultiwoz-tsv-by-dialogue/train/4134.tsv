@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4134	0	USER	横浜への旅行を考えています、駐車場とwifiが無料の宿泊施設を教えてください	general,hotel,weather
+4134	1	SYSTEM	かしこまりました。ではホテル パセラの森 横浜関内はいかがですか。	general,hotel,weather
+4134	2	USER	ありがとうございます、エリアを教えてください	general,hotel,weather
+4134	3	SYSTEM	エリアは中区でございます。	general,hotel,weather
+4134	4	USER	1月29日から3泊で3人で予約お願いします	general,hotel,weather
+4134	5	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,weather
+4134	6	USER	では人数を2人でお願いします	general,hotel,weather
+4134	7	SYSTEM	その人数ですと予約が可能でございました。予約番号は78558でございます。	general,hotel,weather
+4134	8	USER	青葉区の宿泊当日の最高気温と最低気温を教えてください	general,hotel,weather
+4134	9	SYSTEM	当日の最低気温は2.7度で、最高気温は6.8度でございます。	general,hotel,weather
+4134	10	USER		general,hotel,weather

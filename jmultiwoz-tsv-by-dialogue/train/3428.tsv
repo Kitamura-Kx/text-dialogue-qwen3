@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3428	0	USER	今度福岡に行くのですが、観光名所を探しています。	general,attraction,hotel
+3428	1	SYSTEM	ありがとうございます。何かこだわりなどはございますでしょうか？	general,attraction,hotel
+3428	2	USER	Wi-Fiと駐車場が無料のところがいいです。	general,attraction,hotel
+3428	3	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,attraction,hotel
+3428	4	USER	では、駐車場は有料でも構いません。	general,attraction,hotel
+3428	5	SYSTEM	お待たせ致しました。それではキャナルシティ博多はいかがでしょうか？	general,attraction,hotel
+3428	6	USER	ありがとうございます。施設のジャンルと、大人入場料を教えていただけますか？	general,attraction,hotel
+3428	7	SYSTEM	ジャンルは映画館、大人入場料は無料でございます。	general,attraction,hotel
+3428	8	USER	分かりました。あと、当日の宿泊施設を探しています。旅館で、レストランが併設されているところはありますか？	general,attraction,hotel
+3428	9	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,attraction,hotel
+3428	10	USER	では、宿のタイプは特にこだわりません。	general,attraction,hotel
+3428	11	SYSTEM	かしこまりました。それではグランド ハイアット 福岡はいかがでしょうか？	general,attraction,hotel
+3428	12	USER	ありがとうございます。そちらのチェックイン開始時間はいつですか？	general,attraction,hotel
+3428	13	SYSTEM	チェックイン開始時刻は15時でございます。	general,attraction,hotel
+3428	14	USER	分かりました。以上です、ありがとうございました！	general,attraction,hotel
+3428	15	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,hotel

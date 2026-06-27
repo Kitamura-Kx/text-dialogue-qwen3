@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2005	0	USER	京都で無料Wi-Fiが利用できて、レストランのある泊まれるところどこかありますか？	general,hotel
+2005	1	SYSTEM	かしこまりました。では、hotel tou nishinotoin kyotoはいかがでしょうか？	general,hotel
+2005	2	USER	ありがとうございます。そちらのホテルのタイプは何になりますでしょうか？	general,hotel
+2005	3	SYSTEM	はい。タイプはその他となっております。	general,hotel
+2005	4	USER	近くの駅からどのくらいかかりますか？	general,hotel
+2005	5	SYSTEM	はい。近辺の駅からの所要時間は、京都駅から徒歩で10分、五条駅から徒歩で8分となっております。	general,hotel
+2005	6	USER	ありがとうございます。１月１１日から４泊で、人数３名で予約お願いできますか？	general,hotel
+2005	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel
+2005	8	USER	人数を２人にしたらできますでしょうか？	general,hotel
+2005	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、17767です。	general,hotel
+2005	10	USER	ありがとうございます。	general,hotel
+2005	11	SYSTEM	他にご用件はありますか？	general,hotel
+2005	12	USER	大丈夫です。ありがとうございました。	general,hotel
+2005	13	SYSTEM	承知しました。ありがとうございました。	general,hotel

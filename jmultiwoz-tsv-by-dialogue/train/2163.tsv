@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2163	0	USER	こんにちは。今度札幌へ旅行予定で、宿泊施設を探しています。レストランが付いているところがいいのですけど、どこかありますか？	general,hotel,attraction
+2163	1	SYSTEM	かしこまりました。それでは、狸の湯 ドーミーイン札幌ANNEXはいかがでしょうか？	general,hotel,attraction
+2163	2	USER	いいですね、そこにします。そちらは駐車場はありますか？	general,hotel,attraction
+2163	3	SYSTEM	はい、有料の駐車場がございます。	general,hotel,attraction
+2163	4	USER	そうなんですね、ありがとうございます。最寄り駅とチェックイン開始時刻も教えてもらえますか？	general,hotel,attraction
+2163	5	SYSTEM	最寄り駅は大通駅です。チェックイン開始時刻は15時でございます。	general,hotel,attraction
+2163	6	USER	ありがとうございます。では予約をお願いしたいです。9/3から4泊で、3名です。	general,hotel,attraction
+2163	7	SYSTEM	お待たせ致しました。予約番号30386でお取りさせていただきました。	general,hotel,attraction
+2163	8	USER	ありがとうございます。それから観光名所も探しているのですけど、東区で美術館や博物館で駐車場無料のところがありますか？	general,hotel,attraction
+2163	9	SYSTEM	お待たせ致しました。その条件ですと、モエレ沼公園がございます。	general,hotel,attraction
+2163	10	USER	そちらの住所を教えてください。	general,hotel,attraction
+2163	11	SYSTEM	はい、住所は北海道札幌市東区モエレ沼公園1-1でございます。	general,hotel,attraction
+2163	12	USER	どうもありがとうございました。助かりました。今日お聞きしたいのは以上です。	general,hotel,attraction
+2163	13	SYSTEM	かしこまりました。またお待ちしております。	general,hotel,attraction

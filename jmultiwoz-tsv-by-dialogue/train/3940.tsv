@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3940	0	USER	福岡への旅行を計画中で、無料駐車場付きの中華料理店を探しています。	general,restaurant
+3940	1	SYSTEM	そういたしますと、2件ご案内可能です。たとえば、早良区エリアにある、中国大明火鍋城というお店はいかがでしょうか？	general,restaurant
+3940	2	USER	そこにしようと思います。定休日と値段帯を教えてください。	general,restaurant
+3940	3	SYSTEM	定休日は、年末年始のみとなっております。お値段帯は普通です。	general,restaurant
+3940	4	USER	ありがとうございます。12/3の12:40に3名で予約して欲しいのですが可能でしょうか。	general,restaurant
+3940	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、78362です。	general,restaurant
+3940	6	USER	助かります。ありがとうございます。	general,restaurant
+3940	7	SYSTEM	ほかに、ご用件はございませんか？	general,restaurant
+3940	8	USER	いえ、大丈夫です。ありがとうございました。	general,restaurant
+3940	9	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant

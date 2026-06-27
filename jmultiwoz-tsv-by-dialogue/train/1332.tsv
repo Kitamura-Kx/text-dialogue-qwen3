@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1332	0	USER	札幌への旅行を計画しているのですが、Wi-Fi無料の宿泊施設を探しています。	general,hotel,weather
+1332	1	SYSTEM	かしこまりました。エリアなど、他に何かご希望はございますか？	general,hotel,weather
+1332	2	USER	予算は普通のところがいいです。	general,hotel,weather
+1332	3	SYSTEM	では、JRタワーホテル日航札幌という中央区にあるシティホテルはいかがでしょうか？	general,hotel,weather
+1332	4	USER	料金はおいくらですか？	general,hotel,weather
+1332	5	SYSTEM	料金につきましては、値段帯が普通であることと、WiFiと駐車場が無料であること以外、手元に詳しい情報がなくご案内できかねます。申し訳ありません。	general,hotel,weather
+1332	6	USER	わかりました。そこのチェックアウト時間を教えてください。	general,hotel,weather
+1332	7	SYSTEM	チェックアウトは、11時までとなっております。	general,hotel,weather
+1332	8	USER	ありがとうございます。7月7日の豊平区の天候を教えていただけますか？	general,hotel,weather
+1332	9	SYSTEM	かしこまりました。当日の天気は、雨のち曇の予報です。最低気温は16.3度、最高気温は21.2度の予想となっております。	general,hotel,weather
+1332	10	USER	ありがとうございます。	general,hotel,weather
+1332	11	SYSTEM	ほかにお知りになりたい情報はございますか？	general,hotel,weather
+1332	12	USER	特にありません。ありがとうございました。	general,hotel,weather
+1332	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,weather

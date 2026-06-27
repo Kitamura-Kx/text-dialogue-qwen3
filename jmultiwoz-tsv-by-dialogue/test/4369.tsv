@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4369	0	USER	東京への旅行を計画しています。そこで当日利用できるタクシー会社を探していただきたいです。ジャンボタクシーが利用でき、キャッシュレス払いにも対応しているところがいいです。	general,taxi
+4369	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,taxi
+4369	2	USER	では、ジャンボタクシーは利用できなくても構いません。それであればありますか？	general,taxi
+4369	3	SYSTEM	はい、7件ご案内可能です。たとえば、グリーンキャブはいかがでしょうか？	general,taxi
+4369	4	USER	そこにします。そのタクシーの予約をお願いしたいです。7/1612時40分で出発地はフォカッチェリア ラ ブリアンツァというところで、目的地は東京都現代美術館 / MUSEUM OF CONTEMPORARY ART TOKYO (MOT)というところです．	general,taxi
+4369	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、84137です。	general,taxi
+4369	6	USER	ありがとうございます。	general,taxi
+4369	7	SYSTEM	他にお調べすることはございませんか？	general,taxi
+4369	8	USER	大丈夫です。ありがとうございました。	general,taxi
+4369	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3555	0	USER	仙台への旅行を計画しています． 当日訪れる観光名所を探してください。	general,attraction,taxi
+3555	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,taxi
+3555	2	USER	駐車場を無料で利用できるところにしてください。地区は若林区です。	general,attraction,taxi
+3555	3	SYSTEM	では南小泉交通公園がございます。	general,attraction,taxi
+3555	4	USER	当日利用できるタクシー会社を探してください。ジャンボタクシーを利用できて、キャッシュレス払いできるところが希望です。	general,attraction,taxi
+3555	5	SYSTEM	（有）振興タクシーはいかがでしょうか。	general,attraction,taxi
+3555	6	USER	電話番号を教えてください。	general,attraction,taxi
+3555	7	SYSTEM	電話番号は0222841411でございます。	general,attraction,taxi
+3555	8	USER	予約をお願いします。日付は11/10、時間は12:30、出発地はローソン 仙台荒井西店、目的地は南小泉交通公園です。	general,attraction,taxi
+3555	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は47923でございます。	general,attraction,taxi
+3555	10	USER	解決しました。ありがとうございました。	general,attraction,taxi
+3555	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi

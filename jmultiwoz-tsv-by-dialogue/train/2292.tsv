@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2292	0	USER	京都で、駐車場が無料の観光名所はありますか？	general,attraction
+2292	1	SYSTEM	はい、6件ほど、ご案内可能です。例えば、安井金比羅宮はいかがでしょうか？	general,attraction
+2292	2	USER	いいですね。ではそちらの定休日はいつですか？	general,attraction
+2292	3	SYSTEM	こちらは、定休日はございません。	general,attraction
+2292	4	USER	わかりました。	general,attraction
+2292	5	SYSTEM	他になにかお調べすることはございますか？	general,attraction
+2292	6	USER	いえ、大丈夫です。ありがとうございました。	general,attraction
+2292	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

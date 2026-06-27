@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4143	0	USER	すみません、那覇に旅行したいんですが安めの飲食店を教えてください。	general,restaurant,weather,taxi
+4143	1	SYSTEM	エリアでいうと本庁にある、クマ カフェはいかがでしょう？ジャンルは、カフェ、スイーツとなります。	general,restaurant,weather,taxi
+4143	2	USER	いえ、できれば真和志というところで、中華料理にできませんか？	general,restaurant,weather,taxi
+4143	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,weather,taxi
+4143	4	USER	では本庁で中華料理はないでしょうか？	general,restaurant,weather,taxi
+4143	5	SYSTEM	お食事処ツバメがございます。	general,restaurant,weather,taxi
+4143	6	USER	そこがいいですね。電話番号と、あと駅から何分くらいですか？	general,restaurant,weather,taxi
+4143	7	SYSTEM	電話番号は0988678696、最寄りの県庁前駅から徒歩で10分となります。	general,restaurant,weather,taxi
+4143	8	USER	ありがとうございます。予約もできますか？1月7日の15時40分から、4人です。	general,restaurant,weather,taxi
+4143	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、68988となります。	general,restaurant,weather,taxi
+4143	10	USER	ありがとうございます。那覇だと1月でも暖かいんでしょうか？1月7日の小禄の、気温がわかればありがたいです。	general,restaurant,weather,taxi
+4143	11	SYSTEM	はい、最低気温20.8度、最高気温25.1度となります。	general,restaurant,weather,taxi
+4143	12	USER	あと、ジャンボタクシーを使えるタクシー会社はありますか？	general,restaurant,weather,taxi
+4143	13	SYSTEM	三和交通はいかがでしょう？キャッシュレスにも対応しております。電話番号は0120100084となります。	general,restaurant,weather,taxi
+4143	14	USER	ありがとうございます。タクシー予約もお願いします。1月7日の13時40分で、場所はゆんたくあしび温泉 りっかりっか湯から、さっき教えてもらったお食事処ツバメまでです。	general,restaurant,weather,taxi
+4143	15	SYSTEM	承知しました。予約が完了し、ご予約番号は、55528となります。	general,restaurant,weather,taxi
+4143	16	USER	ありがとうございます。旅行が楽しみです！	general,restaurant,weather,taxi

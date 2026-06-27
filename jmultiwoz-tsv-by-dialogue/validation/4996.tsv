@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4996	0	USER	横浜の南区で買い物ができる所はありませんか？	general,shopping,taxi
+4996	1	SYSTEM	申し訳ございません。条件に合う場所がありませんでした。	general,shopping,taxi
+4996	2	USER	では中区で探してもらえますか？	general,shopping,taxi
+4996	3	SYSTEM	ベイタウン本牧5番街など、9件見つかりました。	general,shopping,taxi
+4996	4	USER	ベイタウン本牧5番街の住所を教えてほしいです。	general,shopping,taxi
+4996	5	SYSTEM	住所は神奈川県横浜市中区本牧原12-1です。	general,shopping,taxi
+4996	6	USER	ありがとうございます。当日、株式会社グリーンキャブというタクシーを利用したいのですが、こちらはジャンボタクシー、キャッシュレスには対応しているのでしょうか？	general,shopping,taxi
+4996	7	SYSTEM	株式会社グリーンキャブはジャンボタクシーは対応、キャッシュレスは対応です。	general,shopping,taxi
+4996	8	USER	良かったです。そちらの電話番号も教えてもらえますか？	general,shopping,taxi
+4996	9	SYSTEM	電話番号は0456638181です。	general,shopping,taxi
+4996	10	USER	では当日、3/14　時間は12:30でそのタクシーを予約してください。出発地はベイタウン本牧5番街、目的地は横浜ブリキのおもちゃ博物館でお願いします。	general,shopping,taxi
+4996	11	SYSTEM	予約が完了しました。予約番号は33259です。	general,shopping,taxi
+4996	12	USER	ありがとうございます。	general,shopping,taxi
+4996	13	SYSTEM	他に何かお調べすることはございますか？	general,shopping,taxi
+4996	14	USER	もう大丈夫です。	general,shopping,taxi

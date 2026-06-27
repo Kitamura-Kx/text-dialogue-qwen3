@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1151	0	USER	こんばんは。今、東京への旅行を計画しているのですが、宿泊施設を探していただけますか？	general,hotel
+1151	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel
+1151	2	USER	目黒区の宿泊施設で、予算は安いところが良いです。	general,hotel
+1151	3	SYSTEM	ではオリンピックイン渋谷はいかがでしょうか。	general,hotel
+1151	4	USER	ありがとうございます。そちらは、近辺の駅からの所要時間はどのくらいになりますか？	general,hotel
+1151	5	SYSTEM	池尻大橋駅から徒歩で3分になります	general,hotel
+1151	6	USER	そうなんですね。では、そちらの予約をお願いいたします。２月２６日から２泊で、３人で予約してください。	general,hotel
+1151	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は18925でございます。	general,hotel
+1151	8	USER	予約の手配、ありがとうございました。	general,hotel
+1151	9	SYSTEM	ほかにご用件はございますか。	general,hotel
+1151	10	USER	いえ、あとはもう大丈夫です。この度は、ありがとうございました。	general,hotel
+1151	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

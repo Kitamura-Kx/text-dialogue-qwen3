@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4799	0	USER	札幌へ旅行予定なので、最寄り駅が資生館小学校前停留所の中央区にある買い物店舗はありますか？	general,shopping
+4799	1	SYSTEM	中央区、資生館小学校前停留場、その条件を満たす買い物施設はなさそうです。	general,shopping
+4799	2	USER	そうですか。最寄り駅が西１８丁目駅でもいいのですが。	general,shopping
+4799	3	SYSTEM	最寄り駅を西１８丁目に変更すると、SUU、こちら一択になります。	general,shopping
+4799	4	USER	そこにします。駐車場の有無と定休日を教えてください。	general,shopping
+4799	5	SYSTEM	駐車場は不明、水曜日定休です。	general,shopping
+4799	6	USER	ありがとうございました。	general,shopping

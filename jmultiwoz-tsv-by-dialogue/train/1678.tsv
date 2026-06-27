@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1678	0	USER	福岡への旅行を計画しているのですが、普通の値段位の宿泊施設はありますか？無料駐車場があるところがいいです。	general,hotel,taxi
+1678	1	SYSTEM	かしこまりました。ではWITH THE STYLE FUKUOKAはいかがでしょうか。	general,hotel,taxi
+1678	2	USER	そこにします。レストランがあるか知りたいです。あと電話番号もお願いします。	general,hotel,taxi
+1678	3	SYSTEM	レストランも併設されております。電話番号は0924333900でございます。	general,hotel,taxi
+1678	4	USER	わかりました。4人で10/2から2泊の予約をお願いしたいです。	general,hotel,taxi
+1678	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は505でございます。	general,hotel,taxi
+1678	6	USER	わかりました。ジャンボタクシーも利用予定なのですが、キャッシュレス払いできるようなところはありますか？	general,hotel,taxi
+1678	7	SYSTEM	ではラッキー自動車（株）がございます。	general,hotel,taxi
+1678	8	USER	そこにします。電話番号を知りたいです。	general,hotel,taxi
+1678	9	SYSTEM	電話番号は0925417755でございます。	general,hotel,taxi
+1678	10	USER	そうですか。では、10/2の12:40で、WITH THE STYLE FUKUOKAから貝料理専門店 博多 花よしまでの予約をお願いしていいですか？	general,hotel,taxi
+1678	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は52663でございます。	general,hotel,taxi
+1678	12	USER	ありがとうございました。もう大丈夫です。	general,hotel,taxi
+1678	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi

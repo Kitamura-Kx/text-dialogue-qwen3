@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1038	0	USER	那覇へ旅行を計画しているのですが、当日食事ができるお店を探してください。予算安めでお願いします。	general,restaurant
+1038	1	SYSTEM	かしこまりました。お食事のジャンルやエリアなど、ほかに何かご希望はございますか？	general,restaurant
+1038	2	USER	特にありません。	general,restaurant
+1038	3	SYSTEM	では、LUCKY TACOSはいかがでしょうか？本庁エリアにあるお店で、ジャンルは、カフェ・スイーツ, 洋食・西洋料理, 郷土料理となっております。	general,restaurant
+1038	4	USER	メキシカンっぽいですね。では、そこで4月4日の11時半、3名の予約をお願いします。	general,restaurant
+1038	5	SYSTEM	恐れ入ります。念のため確認させていただきますが、お昼の11時30分でよろしかったでしょうか？	general,restaurant
+1038	6	USER	はい。お昼で大丈夫です。	general,restaurant
+1038	7	SYSTEM	ありがとうございます。予約が完了いたしました。ご予約番号は、27420でございます。	general,restaurant
+1038	8	USER	ありがとうございました。	general,restaurant

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+899	0	USER	福岡へ旅行予定ですが、タクシーを利用する予定なのでジャンボタクシーを利用できるところを教えてください。	general,taxi
+899	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,taxi
+899	2	USER	そうですか。ジャンボタクシーは利用できなくても大丈夫です。	general,taxi
+899	3	SYSTEM	五十川タクシー（有）は、いかがでしょうか？	general,taxi
+899	4	USER	そこにします。電話番号を教えてください。	general,taxi
+899	5	SYSTEM	電話番号は、0925012525です。	general,taxi
+899	6	USER	わかりました。7月13日の13時50分で予約をお願いしたいです。出発地はもつ鍋 田しゅう 福岡大名本店で、目的地はザ・ワンファイブヴィラ福岡です。	general,taxi
+899	7	SYSTEM	予約出来ました。予約番号は、62281です。	general,taxi
+899	8	USER	ありがとうございます。	general,taxi
+899	9	SYSTEM	他にご用件はございますか？	general,taxi
+899	10	USER	いえ、大丈夫です。	general,taxi
+899	11	SYSTEM	承知致しました。　ありがとうございました。	general,taxi

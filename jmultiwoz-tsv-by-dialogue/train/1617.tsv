@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1617	0	USER	横浜の桜木町駅近くの観光名所を探しています。駐車場が無料で使えるところがあれば嬉しいのですが。	general,attraction
+1617	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction
+1617	2	USER	そうですか。では、桜木町駅近くでなくても構いません。駐車場が無料利用できる横浜の観光名所を教えてください。	general,attraction
+1617	3	SYSTEM	スパ・リブール ヨコハマは、いかがでしょうか？	general,attraction
+1617	4	USER	楽しそうなところですね。営業時間は何時から何時ですか？	general,attraction
+1617	5	SYSTEM	営業時間は、0:00～8:00と10:00〜0:00です。	general,attraction
+1617	6	USER	わかりました。子どもの入場料金はいくらになりますか？	general,attraction
+1617	7	SYSTEM	こどもの入場料は、550円です。	general,attraction
+1617	8	USER	そうなんですね。わかりました。いろいろありがとうございました。	general,attraction

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1904	0	USER	こんにちは。横浜へ旅行しますので、タクシー会社を探しています。ジャンボタクシーが使えて、キャッシュレス払い可能なところはありますか？	general,taxi
+1904	1	SYSTEM	申し訳ございません。どちらにも対応している会社がございませんでした。	general,taxi
+1904	2	USER	そうなんですね、ではキャッシュレス払いができなくてもいいので、ジャンボタクシーが使えるところを探していただけますか？	general,taxi
+1904	3	SYSTEM	では株式会社富士タクシーがございます。	general,taxi
+1904	4	USER	ありがとうございます。予約もお願いします。	general,taxi
+1904	5	SYSTEM	かしこまりました。予約の詳細をお聞かせいただけますか。	general,taxi
+1904	6	USER	3/20の11:00乗車で、ドリームチケット横浜店からDining Bar KISAKUというところです。	general,taxi
+1904	7	SYSTEM	はい。予約が完了いたしました。予約番号は3788でございます。	general,taxi
+1904	8	USER	ありがとうございました。助かりました。	general,taxi
+1904	9	SYSTEM	ほかにご用件はございますか。	general,taxi
+1904	10	USER	いえ、今日はこれで大丈夫です。	general,taxi
+1904	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

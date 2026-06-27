@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4615	0	USER	那覇への旅行を計画しています． 当日食事ができる飲食店を探してください．Wi-Fiが無料で利用できるところにしてください．最寄り駅が牧志駅のところにしてください．	general,restaurant
+4615	1	SYSTEM	LE GOURMANDはいかがでしょうか。	general,restaurant
+4615	2	USER	そちらの定休日を教えていただけますか。	general,restaurant
+4615	3	SYSTEM	定休日は日です。	general,restaurant
+4615	4	USER		general,restaurant

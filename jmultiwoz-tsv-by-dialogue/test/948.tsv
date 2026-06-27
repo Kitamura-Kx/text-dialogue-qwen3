@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+948	0	USER	大阪への旅行を計画しています。北区で買い物できるところを探しています。	general,shopping,taxi
+948	1	SYSTEM	かしこまりました。ではMARUZEN&ジュンク堂書店 梅田店はいかがでしょうか。	general,shopping,taxi
+948	2	USER	堺筋本町駅の近くがいいのですが、ありますでしょうか？	general,shopping,taxi
+948	3	SYSTEM	申し訳ございません。堺筋本町駅の近くでは案内できるところがございませんでした。いかがなさいますか。	general,shopping,taxi
+948	4	USER	では、近くでなくでも構わないので、駐車場を無料で利用できるところでありますでしょうか？	general,shopping,taxi
+948	5	SYSTEM	MARUZEN&ジュンク堂書店 梅田店ですと、その条件に当てはまりますがいかがでしょうか。	general,shopping,taxi
+948	6	USER	ありがとうございます。そちらの、近辺の駅からの所要時間と定休日を教えてもらえますか？	general,shopping,taxi
+948	7	SYSTEM	梅田駅から徒歩で3分、大阪駅から徒歩で7分でございます。定休日は１月１日でございます。	general,shopping,taxi
+948	8	USER	ありがとうございます。当日利用できるタクシーも探していて、ジャンボタクシーが利用でき、キャッシュレス払い対応のところがいいのですが。	general,shopping,taxi
+948	9	SYSTEM	申し訳ございません。どちらにも対応している会社がございませんでした。いかがなさいますか。	general,shopping,taxi
+948	10	USER	では、キャッシュレス払いでなくても大丈夫です。	general,shopping,taxi
+948	11	SYSTEM	では都島交通株式会社がございます。	general,shopping,taxi
+948	12	USER	そちらの電話番号を教えてもらえますか？	general,shopping,taxi
+948	13	SYSTEM	電話番号は0669568811でございます。	general,shopping,taxi
+948	14	USER	ありがとうございます。４月3日で予約をお願いできますでしょうか？	general,shopping,taxi
+948	15	SYSTEM	かしこまりました。では詳細をお聞かせいただけますか。	general,shopping,taxi
+948	16	USER	楽食倶楽部 裏小路牛肉店からMARUZEN&ジュンク堂書店 梅田店までの利用で、時間は12:50でお願いします。	general,shopping,taxi
+948	17	SYSTEM	申し訳ございません。その条件では予約ができませんでした。	general,shopping,taxi
+948	18	USER	時間を13:40にすればどうでしょうか？	general,shopping,taxi
+948	19	SYSTEM	その時間ですと予約が可能でございました。予約番号は67527でございます。	general,shopping,taxi
+948	20	USER	ありがとうございました。	general,shopping,taxi
+948	21	SYSTEM	ほかにご用件はございますか。	general,shopping,taxi
+948	22	USER	ないです。ありがとうございました。	general,shopping,taxi
+948	23	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

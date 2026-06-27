@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+794	0	USER	おせわになります。京都への旅行を計画しており、観光名所を探しています。	general,attraction,weather,taxi
+794	1	SYSTEM	京都のご旅行ですね。観光名所として50件ほどご案内可能ですが、ジャンルやエリアなど、何かご希望はございますか？	general,attraction,weather,taxi
+794	2	USER	地区は上京区、駐車場を無料で利用できて、Wi-Fiが無料で利用できるところがいいです。	general,attraction,weather,taxi
+794	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できる場所が見つかりませんでした。	general,attraction,weather,taxi
+794	4	USER	なるほど。では、Wi-Fiは無くてもいいです。	general,attraction,weather,taxi
+794	5	SYSTEM	ありがとうございます。では、北野天満宮は如何でしょうか？	general,attraction,weather,taxi
+794	6	USER	ありがとうございます。あと、8/19の南区の最高気温が知りたいのですが。	general,attraction,weather,taxi
+794	7	SYSTEM	かしこまりました。当日の南区の最高気温は、37.9度の予想となっております。なお、天気は晴れのち雨の予報です。	general,attraction,weather,taxi
+794	8	USER	当日利用できるタクシー会社を探しています。ジャンボタクシーを利用できるところがいいです。	general,attraction,weather,taxi
+794	9	SYSTEM	かしこまりました。では、京都第一交通株式会社というところは、いかがでしょうか？	general,attraction,weather,taxi
+794	10	USER	そこのキャッシュレス対応を教えてください。	general,attraction,weather,taxi
+794	11	SYSTEM	申し訳ございません。こちらの会社はキャッシュレス対応が、不明となっております。キャッシュレス対応の会社でお探ししますか？	general,attraction,weather,taxi
+794	12	USER	いいえ。ご提案いただいたところで大丈夫です。予約をお願いしたいのですが、日付は8/19、時間は13:50、出発地は北野天満宮、目的地は京のSAKESORAで考えています。	general,attraction,weather,taxi
+794	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は、86230です。	general,attraction,weather,taxi
+794	14	USER	とても助かりました。ありがとうございました。	general,attraction,weather,taxi

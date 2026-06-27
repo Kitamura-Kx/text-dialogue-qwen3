@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2089	0	USER	仙台への旅行を検討しています。当日買い物が出来る場所を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,shopping,restaurant,taxi
+2089	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,shopping,restaurant,taxi
+2089	2	USER	宮城野区で、スポーツ関連のお店を探しています。	general,shopping,restaurant,taxi
+2089	3	SYSTEM	かしこまりました。では、スポーツデポ 仙台新港店はいかがでしょうか？	general,shopping,restaurant,taxi
+2089	4	USER	ちなみに、そちらは無料で駐車場は利用出来ますかね？	general,shopping,restaurant,taxi
+2089	5	SYSTEM	はい。利用できます。	general,shopping,restaurant,taxi
+2089	6	USER	助かります。そちらへの近辺の駅からの所要時間ってわかりますか？	general,shopping,restaurant,taxi
+2089	7	SYSTEM	はい。中野栄駅からタクシーで7分となります。	general,shopping,restaurant,taxi
+2089	8	USER	ありがとうございます。ついでに、当日の飲食店も探しているのですが、続けて大丈夫ですか？	general,shopping,restaurant,taxi
+2089	9	SYSTEM	はい。ご案内させていただきます。	general,shopping,restaurant,taxi
+2089	10	USER	ありがとうございます。安めの予算で、駐車場が無料で利用出来る所を探しているのですが。	general,shopping,restaurant,taxi
+2089	11	SYSTEM	かしこまりました。では、回転鮨 清次郎 仙台泉店はいかがでしょうか？	general,shopping,restaurant,taxi
+2089	12	USER	そちらにしてみようと思います。このままこのお店を予約したいのですが、お願いしてもよろしいでしょうか？	general,shopping,restaurant,taxi
+2089	13	SYSTEM	はい。詳細な情報をお伺いしていいですか？	general,shopping,restaurant,taxi
+2089	14	USER	はい。4月13日の13時40分で、3人でお願いしたいです。	general,shopping,restaurant,taxi
+2089	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、21756です。	general,shopping,restaurant,taxi
+2089	16	USER	ありがとうございます。最後に、当日利用出来るタクシー会社についても聞きたいです。	general,shopping,restaurant,taxi
+2089	17	SYSTEM	はい。ご案内させていただきます。	general,shopping,restaurant,taxi
+2089	18	USER	ありがとうございます。ジャンボタクシーを利用できて、尚且つキャッシュレス払いも出来る所ってありますかね？	general,shopping,restaurant,taxi
+2089	19	SYSTEM	かしこまりました。では、仙台タクシーグループはいかがでしょうか？	general,shopping,restaurant,taxi
+2089	20	USER	ありがとうございます。そちらの電話番号を教えて貰えますか？	general,shopping,restaurant,taxi
+2089	21	SYSTEM	はい。電話番号は0570061616です。	general,shopping,restaurant,taxi
+2089	22	USER	ありがとうございます。このままこちらを予約したいのですが、大丈夫ですか？	general,shopping,restaurant,taxi
+2089	23	SYSTEM	かしこまりました。出発時刻と、出発地と目的地はお決まりでしょうか？	general,shopping,restaurant,taxi
+2089	24	USER	はい。4月13日の12時10分で、スポーツデポ 仙台新港店から、回転鮨 清次郎 仙台泉店まででお願いしたいです。	general,shopping,restaurant,taxi
+2089	25	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,shopping,restaurant,taxi
+2089	26	USER	では、時間を13時に変更出来ますか？それなら如何でしょうか？	general,shopping,restaurant,taxi
+2089	27	SYSTEM	かしこまりました。ご予約承りました。予約番号は、30391です。	general,shopping,restaurant,taxi
+2089	28	USER	ありがとうございます。これで当日は大丈夫そうです。長々とすみませんでした。	general,shopping,restaurant,taxi
+2089	29	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant,taxi

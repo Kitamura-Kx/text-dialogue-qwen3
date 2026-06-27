@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4584	0	USER	京都への旅行を計画しています． 当日訪れる観光名所を探してください．地区は西京区です．	general,attraction,weather
+4584	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction,weather
+4584	2	USER	でしたら地区はどこでも。	general,attraction,weather
+4584	3	SYSTEM	PAPEPO MUSEUMはいかがでしょうか。	general,attraction,weather
+4584	4	USER	そちらの営業時間，Wi-Fiの有無を教えていただけますか。	general,attraction,weather
+4584	5	SYSTEM	営業時間は12:00～18:00、Wi-Fiの有無は不明です。	general,attraction,weather
+4584	6	USER	ありがとうございます。あと、11/14の上京区の天気と最高気温を教えていただけますか。	general,attraction,weather
+4584	7	SYSTEM	天気は晴れで最高気温は23.5度です。	general,attraction,weather
+4584	8	USER		general,attraction,weather

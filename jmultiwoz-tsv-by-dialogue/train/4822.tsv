@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4822	0	USER	名古屋へ旅行に行くので、泊まるところを探して欲しいです。	general,hotel,weather
+4822	1	SYSTEM	はい、名古屋の宿泊施設ですね。	general,hotel,weather
+4822	2	USER	旅館タイプで、レストランと無料駐車場があるところをお願いします。	general,hotel,weather
+4822	3	SYSTEM	名古屋で駐車場無料、レストラン併設の旅館といえば、旅館名龍です。	general,hotel,weather
+4822	4	USER	そちらはどちらのエリアの旅館ですか？	general,hotel,weather
+4822	5	SYSTEM	中区です。	general,hotel,weather
+4822	6	USER	電話番号とチェックアウト終了時刻を教えてください。	general,hotel,weather
+4822	7	SYSTEM	電話は0523318686、チェックアウト終了時刻は、10:00になります。	general,hotel,weather
+4822	8	USER	ありがとうございます。あと北区の10/9の天候を調べてください。	general,hotel,weather
+4822	9	SYSTEM	10/9 名古屋 北区 の天気は曇時々晴、最低気温16.4度、最高気温21.2度です。	general,hotel,weather
+4822	10	USER	ありがとうございます。以上です。	general,hotel,weather

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3852	0	USER	大阪への旅行を計画しています。そこで飲食店を探しており、無料の駐車場が利用できるところで探してもらえますか？	general,restaurant,hotel,taxi
+3852	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,restaurant,hotel,taxi
+3852	2	USER	それでは、有料の駐車場でもいいです。	general,restaurant,hotel,taxi
+3852	3	SYSTEM	では、ピエーノ フェスタはいかがでしょうか？	general,restaurant,hotel,taxi
+3852	4	USER	そちらの営業時間を教えていただけますか？	general,restaurant,hotel,taxi
+3852	5	SYSTEM	営業時間は、11時から23時となっています。	general,restaurant,hotel,taxi
+3852	6	USER	ありがとうございます。次に宿泊施設を探してほしいです。条件として、旅館タイプでレストランが併設されていて、かつ無料のWi-Fiが利用できるところでお願いします。	general,restaurant,hotel,taxi
+3852	7	SYSTEM	和空 下寺町は、いかがでしょうか？	general,restaurant,hotel,taxi
+3852	8	USER	そちらの最寄駅、料金情報を教えてください。	general,restaurant,hotel,taxi
+3852	9	SYSTEM	最寄り駅は、四天王寺前夕陽ヶ丘駅です。　詳しい料金情報の記載はございません。	general,restaurant,hotel,taxi
+3852	10	USER	承知致しました。最後に当日タクシーを利用したく、ジャンボタクシーがあるところを探してください。	general,restaurant,hotel,taxi
+3852	11	SYSTEM	榮交通株式会社は、いかがですか？	general,restaurant,hotel,taxi
+3852	12	USER	そちらはキャッシュレス対応はしていますか？	general,restaurant,hotel,taxi
+3852	13	SYSTEM	はい、キャッシュレス対応もしています。	general,restaurant,hotel,taxi
+3852	14	USER	ありがとうございます。それでは予約をお願いします。日時は3/23、14:40で出発地はピエーノ フェスタから和空 下寺町まででお願いします。	general,restaurant,hotel,taxi
+3852	15	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant,hotel,taxi
+3852	16	USER	それでは、時間を15:10に変更でお願いします。	general,restaurant,hotel,taxi
+3852	17	SYSTEM	予約出来ました。予約番号は、86738です。	general,restaurant,hotel,taxi
+3852	18	USER	ありがとうございます。こちらからは以上です。	general,restaurant,hotel,taxi
+3852	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel,taxi

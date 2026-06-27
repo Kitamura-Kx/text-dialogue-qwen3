@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4727	0	USER	名古屋へ旅行予定なのですが、東区でWi-Fiが無料な宿泊施設はないですか？	general,hotel,restaurant
+4727	1	SYSTEM	では、アクセス・バイ・ロワジールホテル 名古屋はいかがですか？	general,hotel,restaurant
+4727	2	USER	そこにします。電話番号とチェックアウト終了時刻はわかりますか？	general,hotel,restaurant
+4727	3	SYSTEM	電話番号は、0529503511です。　チェックアウト終了時間は、10時となっています。	general,hotel,restaurant
+4727	4	USER	わかりました。では、2人で5/13から4泊の予約をお願いします。	general,hotel,restaurant
+4727	5	SYSTEM	予約出来ました。予約番号は、11659です。	general,hotel,restaurant
+4727	6	USER	ありがとうございます。飲食店も探していて、中区でお値段が高めのところはありますか？	general,hotel,restaurant
+4727	7	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,hotel,restaurant
+4727	8	USER	わかりました。なら、予算は特に希望しません。	general,hotel,restaurant
+4727	9	SYSTEM	では、ヒモノ照ラス 名古屋PARCO店はいかがですか？	general,hotel,restaurant
+4727	10	USER	そこにします。駐車場の有無を教えてください。	general,hotel,restaurant
+4727	11	SYSTEM	駐車場については、有料駐車場があります。	general,hotel,restaurant
+4727	12	USER	わかりました。ではそちらで2人の5/13の11:10から予約をお願いします。	general,hotel,restaurant
+4727	13	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,hotel,restaurant
+4727	14	USER	そうですか。では、11:50に変更します。	general,hotel,restaurant
+4727	15	SYSTEM	予約出来ました。予約番号は、67807です。	general,hotel,restaurant
+4727	16	USER	ありがとうございます。もう大丈夫です。	general,hotel,restaurant
+4727	17	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant

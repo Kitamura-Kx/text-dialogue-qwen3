@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3453	0	USER	名古屋へ旅行する予定なんですが、シティホテルを探しています。	general,hotel
+3453	1	SYSTEM	申し訳ございません。名古屋で案内できるシティホテルがございません。いかがなさいますか。	general,hotel
+3453	2	USER	そうなんですね。それなら、宿のタイプはなんでも大丈夫です。	general,hotel
+3453	3	SYSTEM	７９件ございますが、ほかの条件はございませんか。	general,hotel
+3453	4	USER	いえ、特にはありません。	general,hotel
+3453	5	SYSTEM	ではかね秀旅館はいかがでしょうか。	general,hotel
+3453	6	USER	その旅館のチェックイン開始時刻と、Wi-Fiが使えるかどうかを教えてもらえますか？	general,hotel
+3453	7	SYSTEM	チェックイン開始時刻が16:00で、Wi-Fiは無料で使用していただけます。	general,hotel
+3453	8	USER	分かりました。そこを予約したいです。6月30日から2泊、人数は3人です。	general,hotel
+3453	9	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel
+3453	10	USER	そうしたら、1泊でも大丈夫です。	general,hotel
+3453	11	SYSTEM	かしこまりました。一泊ですと予約が可能でございました。予約番号は28540でございます。	general,hotel
+3453	12	USER	ありがとうございます。	general,hotel
+3453	13	SYSTEM	ほかにご用件はございませんか。	general,hotel
+3453	14	USER	もう大丈夫です。ありがとうございました。	general,hotel
+3453	15	SYSTEM	承知しました。ありがとうございました。	general,hotel

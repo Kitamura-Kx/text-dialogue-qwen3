@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4470	0	USER	名古屋への旅行を計画しています。 観光名所を教えてください。ジャンルは美術館・博物館です。駐車場を無料で利用できるところで、最寄り駅が高蔵寺駅のところにしてください。	general,attraction,hotel
+4470	1	SYSTEM	そういたしますと、歴史の里しだみ古墳群 体感!しだみ古墳群ミュージアム ・SHIDAMU(しだみゅー)というところが、1件ご案内できます。ご興味ございますか？	general,attraction,hotel
+4470	2	USER	ありがとうございます。エリア、営業時間を教えてください。	general,attraction,hotel
+4470	3	SYSTEM	エリアは、守山区です。営業時間は、9:00～17:00でございます。	general,attraction,hotel
+4470	4	USER	ありがとうございます。当日泊まる宿泊施設を探しています。Wi-Fiが無料で利用できるところで、レストランが併設されているところにしてください。予算は安めが希望です。	general,attraction,hotel
+4470	5	SYSTEM	かしこまりました。では、ヒルトン名古屋という中区エリアのシティホテルはいかがでしょうか？	general,attraction,hotel
+4470	6	USER	ありがとうございます。部屋のタイプを教えて下さい。	general,attraction,hotel
+4470	7	SYSTEM	こちらの宿泊施設のタイプは、シティホテルとなっております。	general,attraction,hotel
+4470	8	USER	ありがとうございます。そちらの宿泊施設を予約してください。人数は3人で、日付は7/18です。宿泊日数は4泊でお願いします。	general,attraction,hotel
+4470	9	SYSTEM	かしこまりました。ご予約完了しました。予約番号は、48963でございます。	general,attraction,hotel
+4470	10	USER	かしこまりました。本日はありがとうございました。	general,attraction,hotel
+4470	11	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,attraction,hotel

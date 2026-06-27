@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+913	0	USER	大阪への旅行を考えています。当日訪れる観光名所で無料で駐車場とWi-Fiが使えるところを教えてください。	general,attraction,taxi,weather
+913	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,attraction,taxi,weather
+913	2	USER	でしたら、駐車場は諦めます。	general,attraction,taxi,weather
+913	3	SYSTEM	梅田スカイビル空中庭園展望台は、いかがでしょうか？	general,attraction,taxi,weather
+913	4	USER	そこが良さそうですね。そこの電話番号を教えてください。	general,attraction,taxi,weather
+913	5	SYSTEM	電話番号は、0664403855　です。	general,attraction,taxi,weather
+913	6	USER	あと当日ジャンボタクシーが利用できるタクシー会社を教えてください。	general,attraction,taxi,weather
+913	7	SYSTEM	大宝タクシー株式会社は、いかがでしょうか？	general,attraction,taxi,weather
+913	8	USER	そちらでいいです。そこの電話番号を教えてください。	general,attraction,taxi,weather
+913	9	SYSTEM	はい、電話番号は　0647020011　です。	general,attraction,taxi,weather
+913	10	USER	タクシーの予約をしたいので日付は2/17時間は9時５０分で出発地は梅田スカイビル空中庭園展望台で目的地は炭焼き専門 ひととき 兎我野本店で予約をお願いします。	general,attraction,taxi,weather
+913	11	SYSTEM	予約が完了しました。　予約番号は、54587　です。	general,attraction,taxi,weather
+913	12	USER	あと当日2/17の福島区の天候を教えてください。	general,attraction,taxi,weather
+913	13	SYSTEM	その日の天気は、晴　となっています。	general,attraction,taxi,weather
+913	14	USER	最低気温と最高気温も教えてください。	general,attraction,taxi,weather
+913	15	SYSTEM	最低気温は、5.3度で最高気温は、14.6度です。	general,attraction,taxi,weather
+913	16	USER	分かりました。ありがとうございます。	general,attraction,taxi,weather
+913	17	SYSTEM	他にご用件はございますか？	general,attraction,taxi,weather
+913	18	USER	大丈夫です。ありがとうございました。	general,attraction,taxi,weather
+913	19	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi,weather

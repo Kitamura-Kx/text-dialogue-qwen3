@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3947	0	USER	札幌へ旅行しようと思っていまして。	general,hotel
+3947	1	SYSTEM	かしこまりました。何かお調べ致しますか？	general,hotel
+3947	2	USER	豊平区の宿泊施設を教えていただけますか？駐車場は無料のところでお願いします。	general,hotel
+3947	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel
+3947	4	USER	それでは、駐車場の有無は考慮しません。	general,hotel
+3947	5	SYSTEM	かしこまりました。それではプレミアホテル-TSUBAKI-札幌がございます。	general,hotel
+3947	6	USER	近辺の駅からの所要時間はどれくらいですか？	general,hotel
+3947	7	SYSTEM	はい、菊水駅から徒歩で9分、豊水すすきの駅から徒歩で13分、学園前駅から徒歩で13分でございます。	general,hotel
+3947	8	USER	値段帯はどれぐらいでしょうか？	general,hotel
+3947	9	SYSTEM	安めでございます。	general,hotel
+3947	10	USER	わかりました。有難うございます。	general,hotel
+3947	11	SYSTEM	その他にご用件はございますか？	general,hotel
+3947	12	USER	ありません。	general,hotel
+3947	13	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

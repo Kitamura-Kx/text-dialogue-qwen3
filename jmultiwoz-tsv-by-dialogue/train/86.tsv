@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+86	0	USER	こんにちは。 札幌旅行を計画しているのですが、少しお調べいただいてもよろしいでしょうか。	general,shopping
+86	1	SYSTEM	こんにちは。ご利用ありがとうございます。本日は、札幌のどういったことをお調べいたしましょうか？	general,shopping
+86	2	USER	買い物ができるところを調べていただきたいのですが、ひばりが丘駅が最寄り駅となるような所で、どこか良いところはありますか？	general,shopping
+86	3	SYSTEM	ただいま、お調べしましたところ、最寄りが、ひばりが丘駅のお店は、該当する店舗がないようです。申し訳ございません。	general,shopping
+86	4	USER	そうなんですか。それでは、最寄り駅は桑園駅でも良いので、お手数ですが、またお調べいただけますでしょうか。	general,shopping
+86	5	SYSTEM	はい、桑園駅ですと、1件該当がございました。イオン札幌桑園ショッピングセンターとなります。	general,shopping
+86	6	USER	ありましたか。良かったです！ それでは、そちらのお店に駐車場があるかどうかと、営業時間について教えてください。	general,shopping
+86	7	SYSTEM	駐車場は、無料のものをご用意しております。また、営業時間は、朝8時から夜23時までとなっております。	general,shopping
+86	8	USER	ありがとうございます。お調べいただき、助かりました！	general,shopping
+86	9	SYSTEM	こちらこそ、ありがとうございます。なにか他に、ご不明な点やお手伝いできることはございませんか？	general,shopping
+86	10	USER	こちらだけお調べいただければ、大丈夫です。ありがとうございました！	general,shopping
+86	11	SYSTEM	では、本日のご案内は以上とさせていただきます。誠にありがとうございました。では失礼いたします。	general,shopping

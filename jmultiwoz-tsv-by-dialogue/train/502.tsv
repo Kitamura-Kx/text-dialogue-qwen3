@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+502	0	USER	名古屋へ行こうと思っています。コンビニを探していただきたいです。	general,shopping
+502	1	SYSTEM	かしこまりました。ローソンストア100 名古屋丸の内がございます。	general,shopping
+502	2	USER	そちらの住所と定休日を教えていただけますでしょうか。	general,shopping
+502	3	SYSTEM	住所は愛知県名古屋市中区丸の内1丁目11-2でございます。定休日はございません。	general,shopping
+502	4	USER	わかりました。ありがとうございます。	general,shopping
+502	5	SYSTEM	ほかにご用件はございますか。	general,shopping
+502	6	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping

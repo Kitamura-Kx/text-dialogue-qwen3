@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1428	0	USER	横浜に行くのですが、Wi-Fi無料で使える宿泊施設はありますか？	general,hotel,taxi
+1428	1	SYSTEM	かしこまりました。では、ブリーズベイホテル・リゾート&スパはいかがでしょうか。	general,hotel,taxi
+1428	2	USER	いいですね。どのようなタイプのホテルですか？	general,hotel,taxi
+1428	3	SYSTEM	タイプはリゾートホテルでございます。	general,hotel,taxi
+1428	4	USER	わかりました。では、タクシーを予約したいのですが、ジャンボタクシーを利用できるところはありますか？	general,hotel,taxi
+1428	5	SYSTEM	申し訳ございません。ジャンボタクシーに対応している会社がございませんでした。いかがなさいますか。	general,hotel,taxi
+1428	6	USER	では、ジャンボタクシーでなくてもかまいません。	general,hotel,taxi
+1428	7	SYSTEM	では横浜北交通株式会社がございます。	general,hotel,taxi
+1428	8	USER	では、そちらの電話番号と、キャッシュレス対応かどうかを知りたいです。	general,hotel,taxi
+1428	9	SYSTEM	電話番号は0120915502でございます。キャッシュレスには対応しております。	general,hotel,taxi
+1428	10	USER	そうしたらそちらでタクシーを予約したいです。9/23 13時に、ブリーズベイホテル・リゾート&スパを出発。ホテルマイステイズ横浜まで行きたいです。	general,hotel,taxi
+1428	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は11519でございます。	general,hotel,taxi
+1428	12	USER	ありがとうございます。今日は以上です。	general,hotel,taxi
+1428	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi

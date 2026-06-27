@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4229	0	USER	大阪へ旅行を計画しているのですが、当日はアゴーラプレイス 大阪難波という宿泊施設を利用する予定です。住所を教えて貰えませんか	general,hotel,shopping,weather
+4229	1	SYSTEM	はい。住所は大阪府大阪市中央区千日前1丁目9-7　となっております。	general,hotel,shopping,weather
+4229	2	USER	では値段帯と近辺の駅からの所有時間を教えて貰えますか	general,hotel,shopping,weather
+4229	3	SYSTEM	はい。値段帯は安めで難波駅から徒歩で5分になります。	general,hotel,shopping,weather
+4229	4	USER	当日買い物をしたいのですが、地区は天王寺区です。また駐車場が無料で利用できるところがいいのですが	general,hotel,shopping,weather
+4229	5	SYSTEM	承知しました。天王寺区ですと天王寺MIOというショッピングモールはいかがでしょうか。	general,hotel,shopping,weather
+4229	6	USER	では、そこの定休日を教えて貰えますか	general,hotel,shopping,weather
+4229	7	SYSTEM	はい。定休日は店舗により異なるようです。	general,hotel,shopping,weather
+4229	8	USER	かしこまりました９月３０日の天気を知りたのですが北区の天気を教えてくだいさい	general,hotel,shopping,weather
+4229	9	SYSTEM	はい。9月30日の天気は曇りのち晴れとなっています。	general,hotel,shopping,weather
+4229	10	USER	かしこまりました。以上で終わります	general,hotel,shopping,weather

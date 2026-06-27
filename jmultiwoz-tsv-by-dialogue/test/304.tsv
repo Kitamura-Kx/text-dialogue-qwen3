@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+304	0	USER	大阪に行く予定なんですが、食事ができる少し値段の高い和食店はありますか？	general,restaurant,shopping,weather
+304	1	SYSTEM	お問合せありがとうございます。串揚げ 春夏秋冬などはいかがでしょう？	general,restaurant,shopping,weather
+304	2	USER	あとすみません、Wi-Fiが無料で出来ると助かるんですが、そこは利用できますか？	general,restaurant,shopping,weather
+304	3	SYSTEM	それですと一見、神楽というお店があります。	general,restaurant,shopping,weather
+304	4	USER	2店舗あるということでしょうか？それとも、名前が、一見、神楽というお店でしょうか？	general,restaurant,shopping,weather
+304	5	SYSTEM	すみません。1店舗になります。	general,restaurant,shopping,weather
+304	6	USER	わかりました。神楽は普段、お休みの日はあるんでしょうか？	general,restaurant,shopping,weather
+304	7	SYSTEM	定休日は日曜日になっています。	general,restaurant,shopping,weather
+304	8	USER	ありがとうございます。あとですね、買い物ができる場所も探してもらっていいですか？	general,restaurant,shopping,weather
+304	9	SYSTEM	承知しました。どのような場所がご希望でしょうか	general,restaurant,shopping,weather
+304	10	USER	阿倍野区のお店で、車をタダで置ける場所があると助かります。	general,restaurant,shopping,weather
+304	11	SYSTEM	その条件ですと、あべのキューズモールはいかがでしょうか。	general,restaurant,shopping,weather
+304	12	USER	そこの電話番号を教えてもらえますか？	general,restaurant,shopping,weather
+304	13	SYSTEM	電話番号は0665567000になります	general,restaurant,shopping,weather
+304	14	USER	あとすみません、何駅の近くになるんでしょうか？一番近い駅が知りたいです。	general,restaurant,shopping,weather
+304	15	SYSTEM	最寄り駅は阿倍野駅になります。	general,restaurant,shopping,weather
+304	16	USER	助かります。あと、最後なんですが、11月7日の天候も調べてもらえますか？	general,restaurant,shopping,weather
+304	17	SYSTEM	どちらのエリアの天候でしょうか？	general,restaurant,shopping,weather
+304	18	USER	大正区でお願いします。	general,restaurant,shopping,weather
+304	19	SYSTEM	天気は晴になっています。	general,restaurant,shopping,weather
+304	20	USER	なるほど。どれぐらいまで気温は下がりそうでしょうか？	general,restaurant,shopping,weather
+304	21	SYSTEM	最低気温は12.5度	general,restaurant,shopping,weather
+304	22	USER	ありがとうございます。今日は色々と助かりました。	general,restaurant,shopping,weather
+304	23	SYSTEM	こちらこそ、ありがとうございました。	general,restaurant,shopping,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+845	0	USER	東京の観光名所を知りたいのですが、豊島区に何かありますか？	general,attraction,restaurant
+845	1	SYSTEM	はい、サンシャイン水族館というところが1件ございます。いかがでしょうか？	general,attraction,restaurant
+845	2	USER	いいですね。その水族館の住所を教えて頂けますか？	general,attraction,restaurant
+845	3	SYSTEM	住所は、東京都豊島区東池袋3丁目3-1です。	general,attraction,restaurant
+845	4	USER	ありがとうございます。次に飲食店で、wifiが無料で使える居酒屋を教えて欲しいです。	general,attraction,restaurant
+845	5	SYSTEM	かしこまりました。10件ほど候補がございます。たとえば、アナログ八重洲というお店はいかがでしょうか？	general,attraction,restaurant
+845	6	USER	そちらのお店の営業時間はわかりますか？	general,attraction,restaurant
+845	7	SYSTEM	営業時間は、11:30～23:30でございます。	general,attraction,restaurant
+845	8	USER	今のところ調べたいことは以上です。ありがとうございました。	general,attraction,restaurant
+845	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,restaurant

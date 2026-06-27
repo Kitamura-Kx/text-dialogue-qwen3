@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1116	0	USER	今度、大阪へ行こうと思っています。駐車場が無料で高めの予算でいいので泊まる所を紹介して下さい。	general,hotel
+1116	1	SYSTEM	申し訳ありません。その条件ではご案内できないのですが、いかが致しましょう？	general,hotel
+1116	2	USER	そうですか。では、無料駐車場付きで予算が低い所はどうですか？	general,hotel
+1116	3	SYSTEM	では、エリアでいうと淀川区にある、アスティルホテル十三プレシャスはいかがでしょう？	general,hotel
+1116	4	USER	そこにします。予約をお願いできますか？5月30日から4泊、3名で泊まりたいです。	general,hotel
+1116	5	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかがなさいますか？	general,hotel
+1116	6	USER	そうですか。では、3泊なら予約取れますか？	general,hotel
+1116	7	SYSTEM	予約が可能になりまして、ご予約番号は、66702となります。	general,hotel
+1116	8	USER	ありがとうございます。助かりました。では、失礼します。	general,hotel

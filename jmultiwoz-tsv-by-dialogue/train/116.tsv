@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+116	0	USER	こんばんは！ 今度、仙台旅行を考えてるんですけど、ちょっとお尋ねしてもよろしいですか？	general,hotel,shopping,taxi
+116	1	SYSTEM	仙台ですね。かしこまりました。	general,hotel,shopping,taxi
+116	2	USER	あの、名前がオレンジ・イン仙台東という宿泊施設を探しているんですが、ありますか？	general,hotel,shopping,taxi
+116	3	SYSTEM	はい。ございます。何かお知りになりたい情報がございますか。	general,hotel,shopping,taxi
+116	4	USER	ありましたか、良かったです！ そこの電話番号と、近辺の駅からの所要時間を伺いたいのですが。	general,hotel,shopping,taxi
+116	5	SYSTEM	電話番号は0222994100でございます。東仙台駅から徒歩で7分、苦竹駅から徒歩で8分となっております。	general,hotel,shopping,taxi
+116	6	USER	そうなんですね。ありがとうございます！ では、予約をお願いします。10月26日から3泊で3人の予約をお願いしたいです。	general,hotel,shopping,taxi
+116	7	SYSTEM	はい。予約が完了いたしました。予約番号は48044でございます。	general,hotel,shopping,taxi
+116	8	USER	ありがとうございます！ あと、カーサベガルタという名前の買い物ができるところを探しているのですが、お願いできますか？	general,hotel,shopping,taxi
+116	9	SYSTEM	はい。ございました。何かお知りになりたい情報がございますか。	general,hotel,shopping,taxi
+116	10	USER	こちらに関しても、近辺の駅からの所要時間と、あと、営業時間もお願いします。	general,hotel,shopping,taxi
+116	11	SYSTEM	仙台駅から徒歩で1分でございます。営業時間 は10:00～21:00となっております。	general,hotel,shopping,taxi
+116	12	USER	かしこまりました。ありがとうございます！ あと、キャッシュレス払いできるタクシー会社もお探しいただけますでしょうか？	general,hotel,shopping,taxi
+116	13	SYSTEM	では（有）光泉タクシーはいかがでしょうか。	general,hotel,shopping,taxi
+116	14	USER	（有）光泉タクシーですね！こちらは、ジャンボタクシーには対応していますか？	general,hotel,shopping,taxi
+116	15	SYSTEM	はい。対応しております。	general,hotel,shopping,taxi
+116	16	USER	そうなんですね！それでは、（有）光泉タクシーを予約したいと思います。日付など、お伝えしてもよろしいですか？	general,hotel,shopping,taxi
+116	17	SYSTEM	はい。条件をお聞かせください。	general,hotel,shopping,taxi
+116	18	USER	日付は10月26日、時間は15時10分で。 出発地はオレンジ・イン仙台東、目的地はカーサベガルタで、お願いいたします。	general,hotel,shopping,taxi
+116	19	SYSTEM	はい。予約が完了いたしました。予約番号は83762でございます。	general,hotel,shopping,taxi
+116	20	USER	ありがとうございます！ご対応いただけて、良かったです。	general,hotel,shopping,taxi
+116	21	SYSTEM	ほかにご用件はございませんか。	general,hotel,shopping,taxi
+116	22	USER	はい！ありがとうございました。また、よろしくお願いします。	general,hotel,shopping,taxi
+116	23	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,taxi

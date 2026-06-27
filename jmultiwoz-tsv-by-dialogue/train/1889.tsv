@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1889	0	USER	札幌の西区で、駐車場無料の飲食店はありますか？	general,restaurant
+1889	1	SYSTEM	はい、そちらの条件ですとピカンティ 札幌琴似店というジャンルがカレー、郷土料理の飲食店がございます。	general,restaurant
+1889	2	USER	いいですね。電話番号はわかりますか？	general,restaurant
+1889	3	SYSTEM	はい、電話番号は0116888126でございます。	general,restaurant
+1889	4	USER	今知りたいことは以上です。ありがとうございました。	general,restaurant
+1889	5	SYSTEM	ありがとうございました。	general,restaurant

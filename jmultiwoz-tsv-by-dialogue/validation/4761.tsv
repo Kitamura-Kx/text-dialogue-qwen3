@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4761	0	USER	横浜への旅行を計画していて、当日買い物が出来るところを探しています。緑区で最寄り駅が上大岡駅、家電・電化製品のお店が良いのですが。	general,shopping,restaurant,attraction
+4761	1	SYSTEM	その条件では見つかりませんでした。	general,shopping,restaurant,attraction
+4761	2	USER	そうですか。では、最寄り駅は考慮しません。	general,shopping,restaurant,attraction
+4761	3	SYSTEM	ヤマダ電機 テックランド上山店はいかがでしょうか？	general,shopping,restaurant,attraction
+4761	4	USER	ありがとうございます。そこにしようと思います。駐車場の有無，定休日は分かりますか？	general,shopping,restaurant,attraction
+4761	5	SYSTEM	駐車場は有り(無料)です。定休日は無しです。	general,shopping,restaurant,attraction
+4761	6	USER	ありがとうございます。当日の飲食店も探しています。青葉区で最寄り駅が江田駅、予算は普通のところが良いです。	general,shopping,restaurant,attraction
+4761	7	SYSTEM	承知しました。獅子丸 江田店はいかがでしょうか？	general,shopping,restaurant,attraction
+4761	8	USER	ありがとうございます。そのお店にしようと思います。そのお店の住所と電話番号は分かりますか？	general,shopping,restaurant,attraction
+4761	9	SYSTEM	住所は神奈川県横浜市青葉区荏田北1丁目3-1です。電話番号は0459148688です。	general,shopping,restaurant,attraction
+4761	10	USER	ありがとうございます。当日の観光名所も探しています。Wi-Fi無料で最寄り駅が新高島駅のところが希望です。	general,shopping,restaurant,attraction
+4761	11	SYSTEM	承知しました。原鉄道模型博物館はいかがでしょうか？	general,shopping,restaurant,attraction
+4761	12	USER	そこにしようと思います。ありがとうございました。	general,shopping,restaurant,attraction
+4761	13	SYSTEM	他にご用件はありますか？	general,shopping,restaurant,attraction
+4761	14	USER	いえ、他にはありません。ありがとうございました。	general,shopping,restaurant,attraction
+4761	15	SYSTEM	ありがとうございました。又のご利用をお待ちしています。	general,shopping,restaurant,attraction

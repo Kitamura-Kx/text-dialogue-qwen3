@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+93	0	USER	こんにちは！ 大阪旅行を計画しているのですが、何点かご案内いただけますか？	general,hotel,weather,taxi
+93	1	SYSTEM	こんにちは。大阪旅行のご案内ですね。どういった情報をお探ししましょうか？	general,hotel,weather,taxi
+93	2	USER	当日泊まるところを探しています。 WiFiが無料で使える宿泊施設は、どこかありますか？	general,hotel,weather,taxi
+93	3	SYSTEM	大阪で無料WiFiがご利用いただける宿泊施設は、90件以上ございます。他にも、エリアや施設のタイプなど、ご希望の条件はございますでしょうか？	general,hotel,weather,taxi
+93	4	USER	いえ、他に希望は特にありません。	general,hotel,weather,taxi
+93	5	SYSTEM	左様でございますか。では、ANAクラウンプラザホテル大阪は、いかがでしょうか？	general,hotel,weather,taxi
+93	6	USER	わかりました！ それでは、そちらのホテルのタイプを伺ってもよろしいですか？	general,hotel,weather,taxi
+93	7	SYSTEM	はい。ANAクラウンプラザホテル大阪は、リゾートホテルとなっております。	general,hotel,weather,taxi
+93	8	USER	そうだったんですね！ 近辺の駅からの所要時間は、どのくらいかかりますか？	general,hotel,weather,taxi
+93	9	SYSTEM	一番近い大江橋駅からは徒歩で3分、北新地駅からですと徒歩5分です。そのほか、淀屋橋駅、西梅田駅、肥後橋駅からも歩いて7分ほどでアクセスできますよ。	general,hotel,weather,taxi
+93	10	USER	わかりました。色々お調べいただき、ありがとうございます！ あと、6月7日の天候についても伺いたいのですが。	general,hotel,weather,taxi
+93	11	SYSTEM	はい、かしこまりました。大阪の6月7日の天候ですね。エリアとしましては、どのあたりでお調べしましょうか？	general,hotel,weather,taxi
+93	12	USER	えっと、淀川区でお願いします。	general,hotel,weather,taxi
+93	13	SYSTEM	かしこまりました。大阪は淀川区と東淀川区のエリアに別れておりますが、淀川区でよろしかったでしょうか？	general,hotel,weather,taxi
+93	14	USER	はい、淀川区で間違いないです。	general,hotel,weather,taxi
+93	15	SYSTEM	ご確認ありがとうございます。そうしますと、淀川区の6月7日の天気は、曇りのち晴れの予報となっております。気温についてもお伝えしましょうか？	general,hotel,weather,taxi
+93	16	USER	いえ、天気だけで大丈夫です。ありがとうございました！ あとは、タクシー会社を探していただきたいのですが。	general,hotel,weather,taxi
+93	17	SYSTEM	タクシー会社ですね。大阪でご案内できるタクシー会社は、21件ほどございますが、ご希望の条件などはありますでしょうか？	general,hotel,weather,taxi
+93	18	USER	はい、希望としては、キャッシュレス払いできるところ、あと、ジャンボタクシーを利用できるところでお願いしたいです。	general,hotel,weather,taxi
+93	19	SYSTEM	かしこまりました。キャッシュレス対応、およびジャンボタクシーのご利用ができるタクシー会社は、13社ほどとなっております。ご希望の条件は他にはございませんか？	general,hotel,weather,taxi
+93	20	USER	他は特にありません。	general,hotel,weather,taxi
+93	21	SYSTEM	かしこまりました。そういたしましたら、大宝タクシー株式会社では、どうでしょうか？	general,hotel,weather,taxi
+93	22	USER	大宝タクシー株式会社ですね。承知しました。そちらのタクシー会社の電話番号を伺ってもよろしいですか？	general,hotel,weather,taxi
+93	23	SYSTEM	はい。大宝タクシー株式会社の電話番号は、0647020011です。	general,hotel,weather,taxi
+93	24	USER	ありがとうございます！ それでは、そちらのタクシー会社で、6月7日、13時50分に、大阪天満宮から、ANAクラウンプラザホテル大阪までで予約をお願いします。	general,hotel,weather,taxi
+93	25	SYSTEM	ありがとうございます。6月7日13時50分、大阪天満宮からANAクラウンプラザホテル大阪で、ご予約を登録いたしました。予約番号は、69122です。	general,hotel,weather,taxi
+93	26	USER	ありがとうございます！色々ご対応いただき、大変助かりました。	general,hotel,weather,taxi
+93	27	SYSTEM	こちらこそ、ご予約いただきまして誠にありがとうございます。ほかにも何かお調べすることはございますでしょうか？	general,hotel,weather,taxi
+93	28	USER	いえ、あとは特にございません。本日は、ありがとうございました。	general,hotel,weather,taxi
+93	29	SYSTEM	こちらこそ、ありがとうございました。また何かございましたら、いつでもお申し付けくださいませ。それでは失礼致します。	general,hotel,weather,taxi

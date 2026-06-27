@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4842	0	USER	京都の東福寺駅近くでWi-Fiが無料の飲食店はありますか？	general,restaurant
+4842	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,restaurant
+4842	2	USER	そうですか。ではWi-Fiはなくても大丈夫です。	general,restaurant
+4842	3	SYSTEM	1件みつかりました。沖よしはいかがですか？	general,restaurant
+4842	4	USER	このお店は駐車場はありますか？定休日はいつですか？	general,restaurant
+4842	5	SYSTEM	申し訳ありません、駐車場については、不明となっています。　定休日は、水曜日となっています。	general,restaurant
+4842	6	USER	わかりました。このお店を5/10の10：50に３人で予約したいです。	general,restaurant
+4842	7	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant
+4842	8	USER	２人ではどうですか？	general,restaurant
+4842	9	SYSTEM	予約出来ました。予約番号は、66333になります。	general,restaurant
+4842	10	USER	ありがとうございました。	general,restaurant
+4842	11	SYSTEM	他にご用件はありますか？	general,restaurant
+4842	12	USER	大丈夫です。	general,restaurant
+4842	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant

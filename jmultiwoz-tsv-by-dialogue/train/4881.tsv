@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4881	0	USER	福岡への旅行を計画中のため、西区でレストランが併設されている宿泊施設を探してもらえますか？	general,hotel
+4881	1	SYSTEM	承知しました。GARDEN TERRACE FUKUOKA HOTEL&RESORTSはいかがでしょうか？	general,hotel
+4881	2	USER	ありがとうございます。そこにしようと思うのですが、Wi-Fiはありますか？	general,hotel
+4881	3	SYSTEM	無料のものがあります。	general,hotel
+4881	4	USER	ありがとうございます。	general,hotel
+4881	5	SYSTEM	他にご用件はありますか？	general,hotel
+4881	6	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel

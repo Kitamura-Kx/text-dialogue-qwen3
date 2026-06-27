@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4997	0	USER	今度那覇市に行くのですが、飲食店を紹介してもらえますか？車で行くので、駐車無料の所が良いです。最寄り駅がおもろまち駅なら、なおありがたいのですが。	general,restaurant
+4997	1	SYSTEM	おもろダイニング 山葵など、8件見つかりました。	general,restaurant
+4997	2	USER	おもろダイニング 山葵は、駅からどれくらいかかりますか？	general,restaurant
+4997	3	SYSTEM	近辺の駅からの所要時間はおもろまち駅から徒歩で8分です。	general,restaurant
+4997	4	USER	ありがとうございます。そこ良さそうです。ちなみにそこのお店はWi-Fi完備でしょうか？	general,restaurant
+4997	5	SYSTEM	Wi-Fiの有無は不明です。	general,restaurant
+4997	6	USER	了解しました。ありがとうございます。	general,restaurant
+4997	7	SYSTEM	承知いたしました。他に何かご希望はありますか？	general,restaurant
+4997	8	USER	もう大丈夫です。	general,restaurant

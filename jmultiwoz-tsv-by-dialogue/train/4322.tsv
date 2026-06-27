@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4322	0	USER	仙台の秋保温泉へ行く予定なんですが電話番号はわかりますか？	general,attraction
+4322	1	SYSTEM	はい、0223982323でございます。	general,attraction
+4322	2	USER	了解です！ありがとうございました！	general,attraction
+4322	3	SYSTEM	その他に御用件はございますか？	general,attraction
+4322	4	USER	大丈夫です。	general,attraction
+4322	5	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction

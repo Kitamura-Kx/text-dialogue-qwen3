@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1592	0	USER	実は名古屋への旅行を計画してまして、自動車・自転車が買えるところを探しています。無料の駐車場が付いてるお店はありますでしょうか？	general,shopping,weather,taxi
+1592	1	SYSTEM	はい、ヨドバシカメラ マルチメディア名古屋松坂屋店というところがございます。いかがでしょうか？	general,shopping,weather,taxi
+1592	2	USER	いいですね、ちなみに最寄り駅はどちらになりますか？	general,shopping,weather,taxi
+1592	3	SYSTEM	矢場町駅となります。矢場町駅からは徒歩1分、また栄駅からも徒歩で5分の場所にございます。	general,shopping,weather,taxi
+1592	4	USER	立地がいいですね、では当日そちらに伺ってみます。あと、12/27の東区の天気っていかがでしょうか？	general,shopping,weather,taxi
+1592	5	SYSTEM	申し訳ありません。当日の天気の予報は、雨時々曇りとなっております。最低気温はマイナス0.1度、最高気温も7.9度の予想です。	general,shopping,weather,taxi
+1592	6	USER	あまり天気が良くないですね、では当日タクシーで移動しようと思います。キャッシュレス対応しているタクシーはありますか？	general,shopping,weather,taxi
+1592	7	SYSTEM	はい、ございます。では、伸和交通はいかがでしょうか？	general,shopping,weather,taxi
+1592	8	USER	ありがとうございます、そちらの電話番号とジャンボタクシーの対応について伺ってもよろしいでしょうか？	general,shopping,weather,taxi
+1592	9	SYSTEM	はい、ジャンボタクシーにも対応してございます。	general,shopping,weather,taxi
+1592	10	USER	電話番号はいかがでしょうか？	general,shopping,weather,taxi
+1592	11	SYSTEM	失礼いたしました。電話番号は、0522031212です。	general,shopping,weather,taxi
+1592	12	USER	ありがとうございます、では12/27の12:30にヨドバシカメラ マルチメディア名古屋松坂屋店からハミルトンホテル −ブラック−まで予約をお願いできますか？	general,shopping,weather,taxi
+1592	13	SYSTEM	ご予約ありがとうございます。予約完了いたしました。予約番号は、30716です。	general,shopping,weather,taxi
+1592	14	USER	ありがとうございます。本日は相談に乗っていただき、ありがとうございました！	general,shopping,weather,taxi
+1592	15	SYSTEM	こちらこそ、ご利用ありがとうございました。またのご利用をお待ちしております。	general,shopping,weather,taxi

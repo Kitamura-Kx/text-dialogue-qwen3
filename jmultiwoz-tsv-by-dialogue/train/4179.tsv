@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4179	0	USER	那覇旅行に行くのですが、泊まるところを探しています。Wi-Fiと駐車場が無料のところでいいところはありますか？	general,hotel,restaurant,attraction
+4179	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,hotel,restaurant,attraction
+4179	2	USER	駐車場は有料でもいいです。	general,hotel,restaurant,attraction
+4179	3	SYSTEM	では、リーガロイヤルグラン沖縄はいかがでしょうか？	general,hotel,restaurant,attraction
+4179	4	USER	料金はどのくらいですか？	general,hotel,restaurant,attraction
+4179	5	SYSTEM	申し訳ありません、詳しい料金情報の記載はございません。	general,hotel,restaurant,attraction
+4179	6	USER	分かりました。ありがとうございます。当日行く洋食屋さんも探したいです。Wi-Fiが無料で使えるところはありますか？	general,hotel,restaurant,attraction
+4179	7	SYSTEM	でしたら、ステーキハウス88 国際通り店はいかがでしょうか？	general,hotel,restaurant,attraction
+4179	8	USER	いいですね。住所と営業時間を教えてください。	general,hotel,restaurant,attraction
+4179	9	SYSTEM	住所は、沖縄県那覇市牧志3丁目1-6です。　営業時間は、11時から23時までとなっています。	general,hotel,restaurant,attraction
+4179	10	USER	良さそうですね。ありがとうございます。その日行く観光スポットも探したいです。小禄にある世界遺産はありますか？	general,hotel,restaurant,attraction
+4179	11	SYSTEM	それでしたら、玉陵をおすすめします。	general,hotel,restaurant,attraction
+4179	12	USER	そのお店はWi-Fiはありますか？	general,hotel,restaurant,attraction
+4179	13	SYSTEM	申し訳ありません、こちらはWi-Fi利用につきましては、無しとなっています。	general,hotel,restaurant,attraction
+4179	14	USER	分かりました。近くの駅からの所要時間と電話番号を教えてください。	general,hotel,restaurant,attraction
+4179	15	SYSTEM	所要時間は、ゆいレール首里駅から徒歩で15分です。　電話番号は、0988852861です。	general,hotel,restaurant,attraction
+4179	16	USER	ありがとうございます。そこに行ってみようと思います。	general,hotel,restaurant,attraction
+4179	17	SYSTEM	他にご用件はありますか？	general,hotel,restaurant,attraction
+4179	18	USER	ないです。	general,hotel,restaurant,attraction
+4179	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,attraction

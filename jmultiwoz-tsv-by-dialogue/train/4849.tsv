@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4849	0	USER	札幌の清田区で駐車場が無料の所で買い物をしたいです。福住駅近くでお店はありますか？	general,shopping,weather,taxi
+4849	1	SYSTEM	それでしたら、コーチャンフォー美しが丘店はいかがですか？	general,shopping,weather,taxi
+4849	2	USER	ジャンルは何になりますか？あと電話番号も教えてください。	general,shopping,weather,taxi
+4849	3	SYSTEM	ジャンルは、書籍, 文房具・雑貨, 食料品です。　電話番号は、0118892000です。	general,shopping,weather,taxi
+4849	4	USER	わかりました。ありがとうございます。11/4の中央区はどれくらいの気温ですか？	general,shopping,weather,taxi
+4849	5	SYSTEM	最高気温は、9.6度で最低気温は2.6度の予報となっています。	general,shopping,weather,taxi
+4849	6	USER	わかりました。その日に使うジャンボタクシーも探してほしいです。キャッシュレス払いができるところでお願いします。	general,shopping,weather,taxi
+4849	7	SYSTEM	では、北広島第一交通(株)はいかがですか？	general,shopping,weather,taxi
+4849	8	USER	この会社の電話番号を教えてください。	general,shopping,weather,taxi
+4849	9	SYSTEM	電話番号は、0118115151です。	general,shopping,weather,taxi
+4849	10	USER	ありがとうございます。このタクシーを11/4の9：50に砥山ふれあい果樹園からさっきのお店まで予約したいです。	general,shopping,weather,taxi
+4849	11	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,shopping,weather,taxi
+4849	12	USER	そうですか。では10：30ではどうですか？	general,shopping,weather,taxi
+4849	13	SYSTEM	予約が完了しました。　予約番号は、36078になります。	general,shopping,weather,taxi
+4849	14	USER	ありがとうございました。	general,shopping,weather,taxi
+4849	15	SYSTEM	他にご用件はありますか？	general,shopping,weather,taxi
+4849	16	USER	大丈夫です。ありがとうございました。	general,shopping,weather,taxi
+4849	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather,taxi

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1953	0	USER	福岡への旅行を考えています。早良区で野芥駅から近い場所で食事ができるお店はありますか？	general,restaurant
+1953	1	SYSTEM	お待たせいたしました。その条件ですと、おおいり 重留 本店がございます。	general,restaurant
+1953	2	USER	そのお店では無料Wi-Fiは提供されてますか？	general,restaurant
+1953	3	SYSTEM	申し訳ございません。Wi-Fi設備の情報は分かりません。	general,restaurant
+1953	4	USER	他に無料Wi-Fiがあるお店はないでしょうか？	general,restaurant
+1953	5	SYSTEM	無料Wi-Fiの優先致しますと、最寄りの駅が野芥駅の飲食店は他に見つけることが出来ませんでした。	general,restaurant
+1953	6	USER	では、おおいり 重留 本店に決めたいと思います。野芥駅からはどれくらいの時間で行けますか？	general,restaurant
+1953	7	SYSTEM	ありがとうございます。野芥駅からバスで8分でございます。	general,restaurant
+1953	8	USER	わかりました。では8/27の12:00で予約お願いできますでしょうか？人数は4人になります。	general,restaurant
+1953	9	SYSTEM	かしこまりました。予約番号12696でご予約致しました。	general,restaurant
+1953	10	USER	ありがとうございました。当日が楽しみです。	general,restaurant
+1953	11	SYSTEM	ありがとうございます。その他に御用件はございますか？	general,restaurant
+1953	12	USER	いえ、ございません。ありがとうございました。	general,restaurant

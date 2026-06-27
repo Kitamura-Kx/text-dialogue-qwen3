@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4461	0	USER	福岡への旅行を考えています。飲食店で、駐車場は無料、地区は博多区、予算は安めを希望です。	general,restaurant,weather,taxi
+4461	1	SYSTEM	そうしますと、円坐・長屋というところが、1件ご案内可能です。いかがでしょうか？	general,restaurant,weather,taxi
+4461	2	USER	ありがとうございます。近辺の駅からの所要時間，最寄り駅を教えてください	general,restaurant,weather,taxi
+4461	3	SYSTEM	はい。最寄りの博多駅から徒歩で1分の距離のございます。	general,restaurant,weather,taxi
+4461	4	USER	ありがとうございます、3/17に伺いたいのですが、当日の中央区の天気を教えてください	general,restaurant,weather,taxi
+4461	5	SYSTEM	かしこまりました。当日の天気は、雨時々曇の予報となっております。	general,restaurant,weather,taxi
+4461	6	USER	ありがとうございます。当日ジャンボタクシーを利用できる会社はございますか？	general,restaurant,weather,taxi
+4461	7	SYSTEM	はい、11件ご案内可能です。たとえば、日新交通（株）はいかがでしょうか？	general,restaurant,weather,taxi
+4461	8	USER	ありがとうございます。そちらはキャッシュレス対応可能でしょうか？また、電話番号を教えてください	general,restaurant,weather,taxi
+4461	9	SYSTEM	はい、キャッシュレス払いに対応しております。電話番号は、0120152452です。	general,restaurant,weather,taxi
+4461	10	USER	ありがとうございます。予約をしたいのですが、日付は3/17で、時間は11:40、出発地は博多水炊きさもんじというところで、目的地は先ほど見つけた飲食店でお願いします	general,restaurant,weather,taxi
+4461	11	SYSTEM	ありがとうございます。博多水炊きさもんじ発、円坐・長屋着にて、ご予約完了いたしました。予約番号は、66031です。	general,restaurant,weather,taxi
+4461	12	USER	かしこまりました。本日はありがとうございました。	general,restaurant,weather,taxi
+4461	13	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,restaurant,weather,taxi

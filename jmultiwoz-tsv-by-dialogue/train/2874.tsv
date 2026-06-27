@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2874	0	USER	名古屋への旅行を考えています。当日食事ができる飲食店を教えてください。予算は安めが希望です。	general,restaurant,taxi
+2874	1	SYSTEM	名古屋で安めの飲食店といえばいくつかありますが、名古屋らしいものといえば、蒲郡桔梗屋、こちらがオススメです。	general,restaurant,taxi
+2874	2	USER	そこが良さそうですね。そこはWi-Fiがありますでしょうか？あとそこの住所も教えてください。	general,restaurant,taxi
+2874	3	SYSTEM	住所は愛知県名古屋市中村区名駅南1丁目24-8 原ビルディング 1F、WiFiは不明ですね。	general,restaurant,taxi
+2874	4	USER	あと当日利用できるタクシー会社を探しています。ジャンボタクシーが利用できるところが良いです。あとキャッシュレス払いができるところが希望です。	general,restaurant,taxi
+2874	5	SYSTEM	それならば東海交通をお勧めします。	general,restaurant,taxi
+2874	6	USER	そこの電話番号を教えてください。	general,restaurant,taxi
+2874	7	SYSTEM	0532571111です	general,restaurant,taxi
+2874	8	USER	そこのタクシー会社に予約をしたいのですが、日付は9/5時間は09:40で出発地は名古屋パルコで目的地は蒲郡桔梗屋で予約をお願いします。	general,restaurant,taxi
+2874	9	SYSTEM	予約成功しました。予約番号は95990です。	general,restaurant,taxi
+2874	10	USER	分かりました。ありがとうございます。	general,restaurant,taxi
+2874	11	SYSTEM	よい旅を	general,restaurant,taxi

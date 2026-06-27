@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2937	0	USER	今度、東京へ行くんですが、普通の予算で食事できるWi-Fiが無料のお店を教えてください。	general,restaurant
+2937	1	SYSTEM	エリアでいうと新宿区にある、沖縄パラダイス 新宿歌舞伎町店はいかがでしょう？ジャンルは、郷土料理、居酒屋となります。	general,restaurant
+2937	2	USER	良さそうですね。そちらで、5月4日の午後1時30分に4名で予約をお願いします。	general,restaurant
+2937	3	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,restaurant
+2937	4	USER	それでは、午後2時20分ではどうですか？	general,restaurant
+2937	5	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、78960となります。	general,restaurant
+2937	6	USER	助かりました。それでは失礼します。	general,restaurant

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3790	0	USER	大阪旅行の宿泊施設を探してもらえますか？	general,hotel,shopping,weather
+3790	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,hotel,shopping,weather
+3790	2	USER	旭区で、レストランが併設されている駐車場が無料の施設が希望です。	general,hotel,shopping,weather
+3790	3	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,hotel,shopping,weather
+3790	4	USER	では、旭区以外でも大丈夫です。	general,hotel,shopping,weather
+3790	5	SYSTEM	ありがとうございます。そうしますと、ビジネス旅館 励明園というお安めの旅館はいかがでしょうか？エリアは港区にございます。	general,hotel,shopping,weather
+3790	6	USER	そちらの料金情報を教えてもらえますか？	general,hotel,shopping,weather
+3790	7	SYSTEM	申し訳ありません。お値段がお安めということ以外に詳しい料金情報が手元になく、ご案内できかねます。なお、駐車場無料で、WiFiも無料となっております。	general,hotel,shopping,weather
+3790	8	USER	ありがとうございます。当日、爬虫類カフェ ROCK STARで買い物をしたいのですが、そちらの最寄り駅と定休日はわかりますか？	general,hotel,shopping,weather
+3790	9	SYSTEM	爬虫類カフェ ROCK STARですね。最寄り駅は、なんば駅で徒歩7分の距離にございます。こちらの施設は、定休日はございません。	general,hotel,shopping,weather
+3790	10	USER	ありがとうございます。9/6の阿倍野区の最高気温と最低気温はわかりますか？	general,hotel,shopping,weather
+3790	11	SYSTEM	はい、当日の最高気温は28.4度、最低気温は21.5度の予想となっております。なお、天気は晴れの予報です。	general,hotel,shopping,weather
+3790	12	USER	ありがとうございます。	general,hotel,shopping,weather
+3790	13	SYSTEM	他にお調べすることはございませんか？	general,hotel,shopping,weather
+3790	14	USER	はい、大丈夫です。ありがとうございました。	general,hotel,shopping,weather
+3790	15	SYSTEM	こちらこそ、ありがとうございます。では、またのご利用をお待ちしております。	general,hotel,shopping,weather

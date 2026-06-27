@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4968	0	USER	福岡へ旅行したいのですが、駐車場とWi-Fiが無料で使えて、東区にある宿泊場所ってどこかないですか？	general,hotel
+4968	1	SYSTEM	かしこまりました。それでは、The358 UMIはいかがでしょうか？	general,hotel
+4968	2	USER	そこにします。料金情報を教えてください。	general,hotel
+4968	3	SYSTEM	申し訳ありません、価格帯は安めですが、料金情報は分かりません。	general,hotel
+4968	4	USER	大丈夫です。ありがとうございました。	general,hotel
+4968	5	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

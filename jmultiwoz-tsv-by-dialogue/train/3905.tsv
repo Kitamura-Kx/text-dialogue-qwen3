@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3905	0	USER	福岡への旅行を計画中で、中央区にある飲食店を探しています。無料Wi-fi付きがいいです。	general,restaurant,taxi
+3905	1	SYSTEM	では、今泉バル コミーダベビーダはいかがでしょう？ジャンルは、洋食、西洋料理、居酒屋となります。	general,restaurant,taxi
+3905	2	USER	そこにしようと思います。定休日を教えてください。	general,restaurant,taxi
+3905	3	SYSTEM	はい、定休日は火曜日となります。	general,restaurant,taxi
+3905	4	USER	ありがとうございます。1/16の12:00に2名で予約して欲しいのですが、可能でしょうか。	general,restaurant,taxi
+3905	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、75642となります。	general,restaurant,taxi
+3905	6	USER	ありがとうございます。当日利用できるキャッシュレス対応のジャンボタクシーを探しているのですが、ありますか？	general,restaurant,taxi
+3905	7	SYSTEM	はい、日新交通（株）はいかがでしょう？電話番号は、0120152452となります。	general,restaurant,taxi
+3905	8	USER	ありがとうございます。1/16の10:30に今泉バル コミーダベビーダからシーサイドホテルツインズももちまで予約して欲しいのですが、可能でしょうか。	general,restaurant,taxi
+3905	9	SYSTEM	申し訳ありません、念のための確認ですが、午前10時30分でよろしいでしょうか？	general,restaurant,taxi
+3905	10	USER	はい、24時間表記です	general,restaurant,taxi
+3905	11	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、2514となります。	general,restaurant,taxi
+3905	12	USER	助かります。ありがとうございました。	general,restaurant,taxi
+3905	13	SYSTEM	ありがとうございました。	general,restaurant,taxi

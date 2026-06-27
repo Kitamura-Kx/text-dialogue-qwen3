@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+524	0	USER	仙台に旅行に行こうと思っています。当日無料でWi-Fiが使える飲食店を教えてください。	general,restaurant,shopping,weather
+524	1	SYSTEM	かしこまりました。19件ご案内可能です。たとえば、やきにく家 香煙というお店はいかがですか？	general,restaurant,shopping,weather
+524	2	USER	そこは駐車場が無料で利用できますでしょうか。	general,restaurant,shopping,weather
+524	3	SYSTEM	申し訳ありません。こちらのお店は駐車場が有料となっております。無料駐車場が利用できるお店をお探ししましょうか？	general,restaurant,shopping,weather
+524	4	USER	無料のところをお願いします。	general,restaurant,shopping,weather
+524	5	SYSTEM	かしこまりました。では、力寿司でいかがでしょうか？WiFiと駐車場、どちらも無料でご利用いただけます。	general,restaurant,shopping,weather
+524	6	USER	では、そこにしますので、そこの営業時間と定休日とジャンルを教えてください。	general,restaurant,shopping,weather
+524	7	SYSTEM	営業時間は、11:00～14:00, 17:00～23:00の2部となっております。定休日はございません。ジャンルは、寿司・魚料理, 和食のお店でございます。	general,restaurant,shopping,weather
+524	8	USER	あと当日買い物ができるところを教えてください。地区は若林区で駐車場が無料で利用できてジャンルは書籍が希望です。	general,restaurant,shopping,weather
+524	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,restaurant,shopping,weather
+524	10	USER	では、ジャンルはなんでも良いです。	general,restaurant,shopping,weather
+524	11	SYSTEM	そうしますと、鐘崎 かまぼこの国 笹かま館というお店はいかがでしょうか？ジャンルは、お土産, 食料品となっております。	general,restaurant,shopping,weather
+524	12	USER	そこが良さそうですね。そこの営業時間を教えてください。	general,restaurant,shopping,weather
+524	13	SYSTEM	営業時間は、9:30～18:00です。	general,restaurant,shopping,weather
+524	14	USER	あと当日9/1６泉区の天候を教えてください。	general,restaurant,shopping,weather
+524	15	SYSTEM	はい。当日の天気は曇の予報です。最低気温は22.3度、最高気温は25.1度になる見込みです。	general,restaurant,shopping,weather
+524	16	USER	分かりました。ありがとうございました。	general,restaurant,shopping,weather
+524	17	SYSTEM	ほかにお手伝いできることはありますか？	general,restaurant,shopping,weather
+524	18	USER	はい、大丈夫です。ありがとうございました。	general,restaurant,shopping,weather
+524	19	SYSTEM	承知いたしました。またのご利用をお待ちしております。	general,restaurant,shopping,weather
+524	20	USER		general,restaurant,shopping,weather

@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2215	0	USER	那覇へ旅行に行くので、飲食店を探してください。	general,restaurant,hotel,taxi
+2215	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant,hotel,taxi
+2215	2	USER	予算は安めが希望で、駐車場とWi-Fiが無料で利用できるところにしてください。	general,restaurant,hotel,taxi
+2215	3	SYSTEM	エリアでいうと小禄にある、しゃぶ葉 那覇小禄店はいかがでしょう？ジャンルは和食となります。	general,restaurant,hotel,taxi
+2215	4	USER	そちらの営業時間を教えてください。	general,restaurant,hotel,taxi
+2215	5	SYSTEM	営業時間は11時から23時30分となります。	general,restaurant,hotel,taxi
+2215	6	USER	次に宿泊施設を探してください。	general,restaurant,hotel,taxi
+2215	7	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant,hotel,taxi
+2215	8	USER	Wi-Fiが無料で利用できるところで、予算は高めが希望です。	general,restaurant,hotel,taxi
+2215	9	SYSTEM	申し訳ありません。その条件ではご紹介できません。いかが致しましょう？	general,restaurant,hotel,taxi
+2215	10	USER	では予算を普通にしたらいかがですか？	general,restaurant,hotel,taxi
+2215	11	SYSTEM	エリアでいうと本庁にある、ザ・ナハテラスはいかがでしょう？タイプはリゾートホテルになります。	general,restaurant,hotel,taxi
+2215	12	USER	そちらの住所を教えてください。	general,restaurant,hotel,taxi
+2215	13	SYSTEM	住所は沖縄県那覇市おもろまち2丁目14-1となります。	general,restaurant,hotel,taxi
+2215	14	USER	ではそちらで予約してください。人数は4人、日付は9/7、宿泊日数は2泊です。	general,restaurant,hotel,taxi
+2215	15	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかがされますか？	general,restaurant,hotel,taxi
+2215	16	USER	では人数を3人にして、それで予約がとれるなら予約してください。	general,restaurant,hotel,taxi
+2215	17	SYSTEM	予約が可能になりまして、ご予約番号は、76133となります。他にご用件はございますか？	general,restaurant,hotel,taxi
+2215	18	USER	ジャンボタクシーとキャッシュレス払いが利用できるタクシー会社を探してください。	general,restaurant,hotel,taxi
+2215	19	SYSTEM	沖縄交通はいかがでしょう？電話番号は、0120170978となります。	general,restaurant,hotel,taxi
+2215	20	USER	ではそちらでタクシーを予約してください。日付は9/7、時間は12:30、出発地はしゃぶ葉 那覇小禄店、目的地はザ・ナハテラスです。	general,restaurant,hotel,taxi
+2215	21	SYSTEM	承知しました。予約が完了し、ご予約番号は、53700となります。他にご案内できることはございますか？	general,restaurant,hotel,taxi
+2215	22	USER	これで全部です。ありがとうございました。	general,restaurant,hotel,taxi
+2215	23	SYSTEM	ありがとうございました。	general,restaurant,hotel,taxi

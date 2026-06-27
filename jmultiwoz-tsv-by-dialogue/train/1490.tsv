@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1490	0	USER	那覇の飲食店を探してます。安めの和食レストランで、駐車場が無料のところはありますか？	general,restaurant,hotel,weather
+1490	1	SYSTEM	はい、エリアでいうと小禄にある、しゃぶ葉 那覇小禄店はいかがでしょう？	general,restaurant,hotel,weather
+1490	2	USER	いいですね。そちらにWifiはありますか？あと、住所も知りたいです。	general,restaurant,hotel,weather
+1490	3	SYSTEM	はい、Wi-Fiは無料でご利用いただけます。住所は沖縄県那覇市金城5丁目11-6 小禄ガーデンビル 1階となります。	general,restaurant,hotel,weather
+1490	4	USER	ではそちらで予約をお願いします。12/6の14:50で、2人で利用したいです。	general,restaurant,hotel,weather
+1490	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、67001となります。	general,restaurant,hotel,weather
+1490	6	USER	ありがとうございます。続いて、宿泊施設も探してください。無料駐車場があるところはありますか？	general,restaurant,hotel,weather
+1490	7	SYSTEM	はい、エリアでいうと小禄にある、チャビラホテル那覇はいかがでしょう？	general,restaurant,hotel,weather
+1490	8	USER	最寄り駅はどちらですか？	general,restaurant,hotel,weather
+1490	9	SYSTEM	はい、最寄りの小禄駅から徒歩で1分となります。	general,restaurant,hotel,weather
+1490	10	USER	分かりました。最後に、現地の天気も教えてください。12/6の真和志地区の天気と最低気温はどうなりますか？	general,restaurant,hotel,weather
+1490	11	SYSTEM	はい、天気は雨のち曇、最低気温は17.5度となります。	general,restaurant,hotel,weather
+1490	12	USER	ありがとうございます！	general,restaurant,hotel,weather

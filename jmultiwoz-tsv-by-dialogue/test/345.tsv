@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+345	0	USER	仙台に旅行するのですが、飲食店を探しています。	general,restaurant
+345	1	SYSTEM	仙台のお食事処ですね。100件ほど候補がございますが、ジャンルなど、なにかご希望はございませんか？	general,restaurant
+345	2	USER	泉区で、駐車場とWi-Fiが無料で使えるところがいいです。	general,restaurant
+345	3	SYSTEM	かしこまりました。そうしますと、ひげぱんだ、というお店は如何でしょうか？	general,restaurant
+345	4	USER	そこに行ってみます。電話番号と定休日を教えていただけますか？	general,restaurant
+345	5	SYSTEM	電話番号は、0223418177でございます。定休日はありません。	general,restaurant
+345	6	USER	ありがとうございます。近くの駅からの所要時間はどのくらいでしょうか？	general,restaurant
+345	7	SYSTEM	最寄りの泉中央駅からタクシーで9分ほどかかります。	general,restaurant
+345	8	USER	では、予約をしたいのですが、９月２０日で、１４時５０分から４名でお願いできますか？	general,restaurant
+345	9	SYSTEM	ご予約ありがとうございます。予約番号34112にて、ご予約承りました。	general,restaurant
+345	10	USER	ありがとうございました。以上です。お世話になりました。	general,restaurant
+345	11	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,restaurant

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3779	0	USER	横浜への旅行を考えているのですが、神奈川区でどこか食事ができるところはありますか？	general,restaurant,attraction,weather
+3779	1	SYSTEM	ご利用ありがとうございます。そうしますと１２件候補がございますが、ほかにご希望の条件はございませんか？	general,restaurant,attraction,weather
+3779	2	USER	イタリアン・フレンチで、Wi-Fiが無料で利用できるお店はありますか？	general,restaurant,attraction,weather
+3779	3	SYSTEM	はい、１件ご案内可能です。CONA 横浜鶴屋町店というお店ですが、いかがでしょうか？	general,restaurant,attraction,weather
+3779	4	USER	いいですね、近辺の駅からの所要時間も教えてもらえますか？	general,restaurant,attraction,weather
+3779	5	SYSTEM	はい、横浜駅から徒歩で5分ほどの距離にございます。	general,restaurant,attraction,weather
+3779	6	USER	じゃあ、そこの予約をお願いします。3名で、4/23、時間は午後1:30でお願いします。	general,restaurant,attraction,weather
+3779	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、98046です。	general,restaurant,attraction,weather
+3779	8	USER	当日行ける駐車場が無料の観光名所はありますか？Wi-Fiが無料の場所を希望しているのですが。	general,restaurant,attraction,weather
+3779	9	SYSTEM	それでしたら、カップヌードルミュージアム 横浜はいかがでしょうか？	general,restaurant,attraction,weather
+3779	10	USER	いいですね、そこにします。定休日を教えてもらえますか？	general,restaurant,attraction,weather
+3779	11	SYSTEM	こちらの施設は、定休日はございません。	general,restaurant,attraction,weather
+3779	12	USER	わかりました、ありがとうございます。4/23当日の南区の天気はわかりますか？	general,restaurant,attraction,weather
+3779	13	SYSTEM	はい。当日の天気は、曇時々晴の予報です。最低気温は10.8度、最高気温は18.9度の予想となっております。	general,restaurant,attraction,weather
+3779	14	USER	ありがとうございます！	general,restaurant,attraction,weather
+3779	15	SYSTEM	他にお調べすることはございませんか？	general,restaurant,attraction,weather
+3779	16	USER	はい、大丈夫です。ありがとうございました。	general,restaurant,attraction,weather
+3779	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,attraction,weather

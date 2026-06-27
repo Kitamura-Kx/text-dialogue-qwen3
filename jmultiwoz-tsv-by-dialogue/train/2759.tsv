@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2759	0	USER	大阪へ旅行に行きたく、都島区でどこかいい飲食店はありますか？	general,restaurant,attraction,weather
+2759	1	SYSTEM	はい、さかなや 京阪京橋店はいかがでしょう？ジャンルは、居酒屋、寿司、魚料理、となります。	general,restaurant,attraction,weather
+2759	2	USER	それでは予約をお願いします。人数は2名、日時は4/8、12:50でお願いします。	general,restaurant,attraction,weather
+2759	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、25644となります。	general,restaurant,attraction,weather
+2759	4	USER	ありがとうございます。次に観光名所を探しており、条件として無料のWi-Fi、駐車場が利用できるところがいいです。	general,restaurant,attraction,weather
+2759	5	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,attraction,weather
+2759	6	USER	それでは駐車場の有無は考慮しません。	general,restaurant,attraction,weather
+2759	7	SYSTEM	ありがとうございます。では、エリアでいうと浪速区にある、なんばパークスはいかがでしょう？ジャンルは、その他となります。	general,restaurant,attraction,weather
+2759	8	USER	そちらの子供の入場料を知りたいです。	general,restaurant,attraction,weather
+2759	9	SYSTEM	はい、子供入場料は必要なく、無料でご利用いただけます。	general,restaurant,attraction,weather
+2759	10	USER	承知しました。最後に港区の4/8の天候を知りたいです。気温も教えてください。	general,restaurant,attraction,weather
+2759	11	SYSTEM	はい、天気は曇、最低気温5.1度、最高気温23度となります。	general,restaurant,attraction,weather
+2759	12	USER	ありがとうございます。以上です。	general,restaurant,attraction,weather
+2759	13	SYSTEM	ありがとうございました。	general,restaurant,attraction,weather

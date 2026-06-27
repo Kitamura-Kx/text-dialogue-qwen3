@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4222	0	USER	旅行で札幌へ行くのですが、最寄り駅が大通駅で、買い物ができるところを教えてください。	general,shopping,hotel
+4222	1	SYSTEM	かしこまりました。5件ほど、ご案内可能です。たとえば、ビッセスイーツという食料品のお店はいかがでしょうか？	general,shopping,hotel
+4222	2	USER	無料の駐車場があるところにしたいのですが。	general,shopping,hotel
+4222	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,shopping,hotel
+4222	4	USER	では、先程のビッセスイーツにしたいと思います。電話番号を教えてください。	general,shopping,hotel
+4222	5	SYSTEM	申し訳ありません。電話番号は、不明となっております。	general,shopping,hotel
+4222	6	USER	そうですか。では宿泊施設を探してほしいのですが、駐車場が無料で、レストランが併設されているところはありませんか？	general,shopping,hotel
+4222	7	SYSTEM	はい、6件ご案内可能です。たとえば、定山渓ビューホテルというお安めのリゾートホテルはいかがでしょうか？	general,shopping,hotel
+4222	8	USER	安めを希望していたので助かります。そこの住所と、Wi-Fiの有無について教えてください。	general,shopping,hotel
+4222	9	SYSTEM	ありがとうございます。住所は、北海道札幌市南区定山渓温泉東2丁目です。WiFiは無料でご利用いただけます。	general,shopping,hotel
+4222	10	USER	わかりました。ありがとうございます。	general,shopping,hotel
+4222	11	SYSTEM	他にお調べすることはございませんか？	general,shopping,hotel
+4222	12	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,hotel
+4222	13	SYSTEM	承知いたしました。お役に立てて何よりです。また何かございましたら、お気軽にお問い合わせください。	general,shopping,hotel

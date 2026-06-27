@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4389	0	USER	今度那覇へ行くんですが、ジャンボタクシーが利用できるタクシー会社を探してもらえますか？キャッシュレス払い対応のところがいいです。	general,taxi,weather
+4389	1	SYSTEM	かしこまりました。では丸星交通がございます。	general,taxi,weather
+4389	2	USER	ありがとうございます。では予約をお願いできますか？4/30の13：40にエスティネートホテル沖縄那覇を出発して、ホテルロコアナハまで利用したいです。	general,taxi,weather
+4389	3	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は60082でございます。	general,taxi,weather
+4389	4	USER	ありがとうございます。あと、その会社の電話番号も教えてください。	general,taxi,weather
+4389	5	SYSTEM	電話番号は0988685831でございます。	general,taxi,weather
+4389	6	USER	ありがとうございます。あと、4/30の首里の天気を教えてください。	general,taxi,weather
+4389	7	SYSTEM	当日の天気は雨のち曇でございます。	general,taxi,weather
+4389	8	USER	ありがとうございました。以上で結構です。	general,taxi,weather
+4389	9	SYSTEM	承知しました。ありがとうございました。	general,taxi,weather

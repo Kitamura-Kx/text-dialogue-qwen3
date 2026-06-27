@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1241	0	USER	東京への旅行を検討しています。当日宿泊できる施設を探しているのですが、お伺いしてもよろしいでしょうか？	general,hotel,shopping
+1241	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,hotel,shopping
+1241	2	USER	はい。簡易宿所（ベッドハウス・山小屋・カプセルホテル等）タイプで、レストランが併設されている所だとありがたいのですが。	general,hotel,shopping
+1241	3	SYSTEM	そういたしますと、obi Hostelという中央区エリアの宿泊施設はいかがでしょうか？	general,hotel,shopping
+1241	4	USER	良さそうですね。そちらの施設には駐車場はありますか？	general,hotel,shopping
+1241	5	SYSTEM	申し訳ありません。駐車場の有無は、不明となっております。	general,hotel,shopping
+1241	6	USER	そうですか。では、駐車場は気にしませんので、このまま予約をお願いしても大丈夫でしょうか？	general,hotel,shopping
+1241	7	SYSTEM	はい、承ります。ご宿泊予定の人数と日付、ご宿泊日数はお決まりでしょうか？	general,hotel,shopping
+1241	8	USER	はい。人数は4人です。日付は5月5日。4泊でお願いしたいです。	general,hotel,shopping
+1241	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、81290です。	general,hotel,shopping
+1241	10	USER	ありがとうございます。ついでに、当日買い物が出来る場所も探しているのですが、よろしいですか？	general,hotel,shopping
+1241	11	SYSTEM	はい、かしこまりました。お買い物のジャンルやエリアなど、何かご希望はございますか？	general,hotel,shopping
+1241	12	USER	そうですね。板橋区で最寄り駅が人形町駅の所が良いですね。	general,hotel,shopping
+1241	13	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,shopping
+1241	14	USER	そうですか。でしたら、板橋区で、駐車場を無料で利用できるところってありますか？	general,hotel,shopping
+1241	15	SYSTEM	はい、1件ご案内可能です。イオン板橋ショッピングセンターというお店ですが、いかがでしょうか？最寄り駅は、東武練馬駅となります。	general,hotel,shopping
+1241	16	USER	そちらを検討してみます。そちらの営業時間と住所ってわかりますか？	general,hotel,shopping
+1241	17	SYSTEM	営業時間は、9:00～22:00です。住所は、東京都板橋区徳丸2丁目6-1でございます。	general,hotel,shopping
+1241	18	USER	ありがとうございます。近辺の駅からの所要時間とかもわかりますか？	general,hotel,shopping
+1241	19	SYSTEM	東武練馬駅から徒歩で2分の場所にございます。	general,hotel,shopping
+1241	20	USER	わかりました。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,hotel,shopping
+1241	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,shopping

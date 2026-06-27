@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4938	0	USER	よろしくお願いします。東京に旅行する計画を立てていますが、品川区で、駐車場を無料で使える買い物ができる場所はありますか？	general,shopping,taxi,weather
+4938	1	SYSTEM	申し訳ございません。検索結果がございません。	general,shopping,taxi,weather
+4938	2	USER	そうですか、では品川区以外でもいいので、駐車場が無料の買い物スポットがあれば教えてください。	general,shopping,taxi,weather
+4938	3	SYSTEM	アクアシティお台場 銀座三越 二子玉川 蔦屋家電などがございます。	general,shopping,taxi,weather
+4938	4	USER	アクアシティお台場に行きたいんですが、定休日はわかりますか？	general,shopping,taxi,weather
+4938	5	SYSTEM	定休日はございません。	general,shopping,taxi,weather
+4938	6	USER	それは助かります。キャッシュレス払いできるタクシー会社も探してもらいたいんですが。	general,shopping,taxi,weather
+4938	7	SYSTEM	東京交通 寿交通 東京エムケイなどが対応しています。	general,shopping,taxi,weather
+4938	8	USER	東京交通で予約をお願いします。3月17日11時00分で、アクアシティお台場からトランポランドTokyoに行く予定です。	general,shopping,taxi,weather
+4938	9	SYSTEM	かしこまりました。予約番号は85609です。	general,shopping,taxi,weather
+4938	10	USER	それから、天気も調べてほしいです。3月17日の江東区の天気はわかりますか？	general,shopping,taxi,weather
+4938	11	SYSTEM	雨のち晴です。	general,shopping,taxi,weather
+4938	12	USER	最高気温はどうですか？	general,shopping,taxi,weather
+4938	13	SYSTEM	16.2度の予報です。	general,shopping,taxi,weather
+4938	14	USER	ありがとうございました。	general,shopping,taxi,weather

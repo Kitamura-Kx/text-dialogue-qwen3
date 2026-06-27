@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4031	0	USER	名古屋に行くのですが、駐車場無料の簡易宿所を探していただけますか。できたらレストランが併設されているところがいいです。	general,hotel,weather,taxi
+4031	1	SYSTEM	承知しました。エリアでいうと中区にある、Nagoya Hostel The Three Smilesはいかがでしょう？	general,hotel,weather,taxi
+4031	2	USER	ありがとうございます。3/25に行く予定ですが、昭和区の天気を教えていただけますか。	general,hotel,weather,taxi
+4031	3	SYSTEM	はい、天気は晴のち曇、最低気温4.2度、最高気温11.8度となります。	general,hotel,weather,taxi
+4031	4	USER	ありがとうございます。当日タクシーを使いたいのですが、キャッシュレス対応のタクシー会社はありますか？	general,hotel,weather,taxi
+4031	5	SYSTEM	はい、では、帝産キャブ名古屋はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0529141115となります。	general,hotel,weather,taxi
+4031	6	USER	ありがとうございます。予約をしたいのですが、3/25の9:50に、出発地が大須観音(真福寺宝生院)で目的地がNagoya Hostel The Three Smilesです。	general,hotel,weather,taxi
+4031	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、57692となります。	general,hotel,weather,taxi
+4031	8	USER	ありがとうございました。	general,hotel,weather,taxi

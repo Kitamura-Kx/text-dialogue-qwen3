@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+773	0	USER	札幌へ行こうと思っています。東区にあってWiFiと駐車場が無料な観光名所を探していただきたいです。	general,attraction
+773	1	SYSTEM	かしこまりました。そうしますと、ラウンドワンスタジアム札幌北21条店という場所が、1件ご案内可能です。	general,attraction
+773	2	USER	そちらに定休日はありますでしょうか？	general,attraction
+773	3	SYSTEM	定休日はございません。	general,attraction
+773	4	USER	わかりました。ありがとうございます。	general,attraction
+773	5	SYSTEM	他にお調べすることはございますか？	general,attraction
+773	6	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction

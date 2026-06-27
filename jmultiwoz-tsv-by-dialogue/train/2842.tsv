@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2842	0	USER	こんにちは。横浜に旅行に行こうかと思うのですが、最寄り駅がセンター南駅で買い物ができる場所はありますか？	general,shopping,restaurant,weather
+2842	1	SYSTEM	はい、エリアでいうと都筑区に、サウスウッドがございます。ジャンルは、ショッピングモールとなります。	general,shopping,restaurant,weather
+2842	2	USER	ありがとうございます。そこに行ってみます。当日行く飲食店も探していて、駐車場が無料で使えるところがいいのですが、何かありますか？	general,shopping,restaurant,weather
+2842	3	SYSTEM	では、エリアでいうと中区にある、三和楼はいかがでしょう？ジャンルは、中華料理になります。	general,shopping,restaurant,weather
+2842	4	USER	いいですね。営業時間もわかりますか？	general,shopping,restaurant,weather
+2842	5	SYSTEM	はい、営業時間は11時30分から21時30分となります。	general,shopping,restaurant,weather
+2842	6	USER	ありがとうございます。最後に、中区の2/10の天候も調べていただけますか？	general,shopping,restaurant,weather
+2842	7	SYSTEM	はい、天気は曇時々雨、最低気温0.9度、最高気温15.8度となります。他にご用件はございますか？	general,shopping,restaurant,weather
+2842	8	USER	ありがとうございます。いえ、これで十分です。ありがとうございました。	general,shopping,restaurant,weather
+2842	9	SYSTEM	ありがとうございました。	general,shopping,restaurant,weather

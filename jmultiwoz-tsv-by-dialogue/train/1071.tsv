@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1071	0	USER	仙台への旅行を計画しているのですが。	general,restaurant,taxi
+1071	1	SYSTEM	はい。なにかご要望はございますか。	general,restaurant,taxi
+1071	2	USER	当日食事ができる飲食店を探してください．地区は太白区で、駐車場を無料で利用できるところがいいです。	general,restaurant,taxi
+1071	3	SYSTEM	すみません、ご希望に合うお店がございません。	general,restaurant,taxi
+1071	4	USER	でしたら地区はどこでもいいです。	general,restaurant,taxi
+1071	5	SYSTEM	四季亭 竹勢はいかがでしょうか。	general,restaurant,taxi
+1071	6	USER	いいですね。そちらの最寄駅を教えてください。	general,restaurant,taxi
+1071	7	SYSTEM	最寄り駅は福田町駅になっております。	general,restaurant,taxi
+1071	8	USER	ありがとうございます。あと、仙台でキャッシュレス利用可能なタクシー会社も探して欲しいです。	general,restaurant,taxi
+1071	9	SYSTEM	（株）泉交通などはいかがでしょうか。	general,restaurant,taxi
+1071	10	USER	いいですね。そちらの電話番号も教えていただけますか。	general,restaurant,taxi
+1071	11	SYSTEM	電話番号は0223795656になります	general,restaurant,taxi
+1071	12	USER	ありがとうございます。そちらで日付は3/17、時間は15:00で、出発地はイッてこい酒場ぱぐぱぐで、目的地は先ほど見つけた飲食店で予約をとっていただけますか。	general,restaurant,taxi
+1071	13	SYSTEM	予約いたしました。予約番号は92471になります。	general,restaurant,taxi
+1071	14	USER		general,restaurant,taxi

@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2922	0	USER	東京へ行くのですが、駐車場が無料で使える、買い物スポットはないですか？	general,shopping
+2922	1	SYSTEM	東京で駐車場無料の買い物スポットはいくつかありますが、ラフォーレ原宿をお勧めします。	general,shopping
+2922	2	USER	ありがとうございます。そこにします。そこの住所と最寄り駅、電話番号はわかりますか？	general,shopping
+2922	3	SYSTEM	東京都渋谷区神宮前1丁目11-6、最寄りは明治神宮前〈原宿〉駅、電話は0334750411です。	general,shopping
+2922	4	USER	ありがとうございました。	general,shopping
+2922	5	SYSTEM	よい旅を	general,shopping

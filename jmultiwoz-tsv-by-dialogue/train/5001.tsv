@@ -1,0 +1,4 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+5001	0	USER	京都へ旅行の予定です。嵯峨野トロッコ列車へ行きたいのですが、エリアはどちらになるでしょうか？	general,attraction
+5001	1	SYSTEM	嵯峨野トロッコ列車ですね。エリアは左京区になります。	general,attraction
+5001	2	USER	ありがとうございます！おせわになりました。	general,attraction

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1156	0	USER	こんにちは。今度、那覇に行くので、宿泊施設を探していただけますか？	general,hotel,attraction
+1156	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,attraction
+1156	2	USER	WiFiが無料で使えるところが良いです。最寄り駅は、県庁前駅でお願いします。	general,hotel,attraction
+1156	3	SYSTEM	ではアルモントホテル那覇県庁前はいかがでしょうか。	general,hotel,attraction
+1156	4	USER	ありがとうございます。そちらの料金情報って、わかりますか？	general,hotel,attraction
+1156	5	SYSTEM	値段帯は安めでございます。詳しい料金情報はわかりかねます。	general,hotel,attraction
+1156	6	USER	そうなんですね。では、あと、観光名所を探していただけますか？	general,hotel,attraction
+1156	7	SYSTEM	かしこまりました。希望の条件はございますか。	general,hotel,attraction
+1156	8	USER	真和志地区で、駐車場とWiFiが無料で使える所でお願いします。	general,hotel,attraction
+1156	9	SYSTEM	では識名園はいかがでしょうか。	general,hotel,attraction
+1156	10	USER	そちらは、どのようなジャンルのところになりますか？	general,hotel,attraction
+1156	11	SYSTEM	ジャンルは庭園, 歴史的建造物, 世界遺産でございます。	general,hotel,attraction
+1156	12	USER	わかりました。ありがとうございます。あと、最寄り駅と、料金情報についても伺ってよろしいでしょうか。	general,hotel,attraction
+1156	13	SYSTEM	最寄り駅は首里駅で、料金情報は大人400円、中学生以下の小人が200円、保護者が同伴する小学校就学前の小人は無料でございます。	general,hotel,attraction
+1156	14	USER	わかりました。ありがとうございます。あとは、もう大丈夫です。この度は、ありがとうございました。	general,hotel,attraction
+1156	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction

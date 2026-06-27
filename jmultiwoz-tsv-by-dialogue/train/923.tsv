@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+923	0	USER	京都への旅行を計画しているのですが。	general,taxi,weather
+923	1	SYSTEM	はい、何かご要望ございますか	general,taxi,weather
+923	2	USER	当日利用できるタクシー会社を探してください．ジャンボタクシーとキャッシュレス払い可能なところがいいです。	general,taxi,weather
+923	3	SYSTEM	でしたら洛東タクシー株式会社はいかがでしょう。	general,taxi,weather
+923	4	USER	いいですね。そちらの電話番号，タクシー会社名を教えて欲しいです。	general,taxi,weather
+923	5	SYSTEM	電話番号は0755931112になります。	general,taxi,weather
+923	6	USER	そちらで予約して欲しいです。日付は8/1で、時間は14:00、出発地は京都市円山公園音楽堂というところです．目的地は嵯峨野トロッコ列車というところでお願いします。	general,taxi,weather
+923	7	SYSTEM	予約いたしました。予約番号は1767になります。	general,taxi,weather
+923	8	USER	ありがとうございます。あと、当日の伏見区の天気も知りたいです。	general,taxi,weather
+923	9	SYSTEM	天気は晴です。	general,taxi,weather
+923	10	USER	最高気温，最低気温もおしえていただけますか。	general,taxi,weather
+923	11	SYSTEM	最低気温は25.4度で、最高気温は39.2度になります。	general,taxi,weather
+923	12	USER	ありがとうございました。	general,taxi,weather

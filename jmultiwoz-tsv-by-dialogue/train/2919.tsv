@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2919	0	USER	こんにちは。横浜に行くのですが、Wi-Fiが無料で使えて、予算が安めな、洋食・西洋料理はないですか？	general,restaurant,shopping,taxi
+2919	1	SYSTEM	横浜でWiFi無料で予算休めな洋食西洋料理といえば、世界のビール博物館 横浜店、こちらをお勧めします。	general,restaurant,shopping,taxi
+2919	2	USER	ビール！いいですね、そこにします。ではそのお店で、人数は3人、日付は8/28、時間は11:40で、予約をお願いします。	general,restaurant,shopping,taxi
+2919	3	SYSTEM	予約成功しました。予約番号は53991です。	general,restaurant,shopping,taxi
+2919	4	USER	ありがとうございます。最寄り駅がみなとみらい駅で、ジャンルがスポーツな、買い物できる場所はありますか？	general,restaurant,shopping,taxi
+2919	5	SYSTEM	みなとみらいでスポーツの買い物といえば、スポーツオーソリティ・MARK ISみなとみらい店、こちら一択です。	general,restaurant,shopping,taxi
+2919	6	USER	ありがとうございます。そこの営業時間はわかりますか？	general,restaurant,shopping,taxi
+2919	7	SYSTEM	朝１０時から、夜８時までです。	general,restaurant,shopping,taxi
+2919	8	USER	ありがとうございます。あと、キャッシュレス払いが可能なタクシー会社も探してもらえますか？	general,restaurant,shopping,taxi
+2919	9	SYSTEM	はい、いくつかありますが、国際自動車株式会社、こちらをお勧めします。	general,restaurant,shopping,taxi
+2919	10	USER	ではそこにします。電話番号も教えていただけますか？	general,restaurant,shopping,taxi
+2919	11	SYSTEM	0120385931です。	general,restaurant,shopping,taxi
+2919	12	USER	ありがとうございます。ではそのタクシー会社で、8/28の12:50、出発地は世界のビール博物館 横浜店、目的地はスポーツオーソリティ・MARK ISみなとみらい店で、予約をお願いします。	general,restaurant,shopping,taxi
+2919	13	SYSTEM	予約成功しました。予約番号は5101です。	general,restaurant,shopping,taxi
+2919	14	USER	ありがとうございます。	general,restaurant,shopping,taxi
+2919	15	SYSTEM	よい旅を	general,restaurant,shopping,taxi

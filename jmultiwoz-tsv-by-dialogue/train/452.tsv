@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+452	0	USER	沖縄の那覇に行きたいのですが、宿泊施設はありますか？	general,hotel,weather
+452	1	SYSTEM	ご利用ありがとうございます。那覇の宿泊施設は100件ほどご案内可能ですが、なにかご希望の条件はありますでしょうか？	general,hotel,weather
+452	2	USER	はい。Wi-Fiが無料で使えて、レストランが併設している場所がいいです。	general,hotel,weather
+452	3	SYSTEM	かしこまりました。そうしましたら、ホテルロイヤルオリオンは如何でしょうか？最寄りは牧志駅となります。	general,hotel,weather
+452	4	USER	そこがいいです。宿泊料金はおいくらくらいになりますか？	general,hotel,weather
+452	5	SYSTEM	お値段設定は、お安めのシティホテルです。詳しい宿泊料金などは不明でご案内できず、申し訳ございません。	general,hotel,weather
+452	6	USER	わかりました。ありがとうございました。	general,hotel,weather
+452	7	SYSTEM	ほかにお手伝いできることはありますか？	general,hotel,weather
+452	8	USER	那覇の本庁の天候について聞きたいです。日付は2月12日です。	general,hotel,weather
+452	9	SYSTEM	かしこまりました。当日の天気は、曇りの予報です。最低気温は15.4度、最高気温は26.8度の予想となっております。	general,hotel,weather
+452	10	USER	わかりました。ありがとうございました。	general,hotel,weather
+452	11	SYSTEM	ほかにお調べすることはありますでしょうか？	general,hotel,weather
+452	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel,weather
+452	13	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,hotel,weather

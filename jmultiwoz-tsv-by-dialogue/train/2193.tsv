@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2193	0	USER	福岡へ旅行するので、当日泊まる宿泊施設を探して頂けますか？	general,hotel,shopping
+2193	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,shopping
+2193	2	USER	予算は普通でレストランが併設されている場所はありますか？	general,hotel,shopping
+2193	3	SYSTEM	エリアでいうと博多区にある、WITH THE STYLE FUKUOKAはいかがでしょう？タイプはリゾートホテルとなります。	general,hotel,shopping
+2193	4	USER	ではそちらでお願いします。駐車場の有無と料金情報、あと最寄り駅を教えて頂けないでしょうか。	general,hotel,shopping
+2193	5	SYSTEM	駐車場は無料でご利用いただけます。最寄りの博多駅からは徒歩で7分となります。申し訳ありませんが、ご案内可能な料金情報はございません。	general,hotel,shopping
+2193	6	USER	ありがとうございます。2人で4/8から2泊を希望していますが、予約可能でしょうか。	general,hotel,shopping
+2193	7	SYSTEM	はい、予約が完了し、ご予約番号は、79648となります。	general,hotel,shopping
+2193	8	USER	ありがとうございます。当日買い物ができる場所も教えて頂けますか？駐車場を無料で利用できる中央区付近で探して頂きたいです。	general,hotel,shopping
+2193	9	SYSTEM	福岡三越はいかがでしょう？ジャンルは、百貨店や総合スーパーとなります。	general,hotel,shopping
+2193	10	USER	ではそちらにいきたいと思います。最寄り駅と住所を教えて頂けないでしょうか。	general,hotel,shopping
+2193	11	SYSTEM	住所は福岡県福岡市中央区天神2丁目1-1、最寄りの西鉄福岡（天神）駅から徒歩で1分となります。	general,hotel,shopping
+2193	12	USER	ありがとうございました。	general,hotel,shopping

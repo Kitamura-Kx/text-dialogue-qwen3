@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1942	0	USER	横浜への旅行を計画中なのですが、鶴見区でレストラン併設有りの宿泊施設を教えて下さい。	general,hotel
+1942	1	SYSTEM	かしこまりました。でしたらベストウェスタン横浜というビジネスホテルがございます。	general,hotel
+1942	2	USER	ベストウェスタン横浜の電話番号をお願いします。因みにWiFiは無料でしょうか？	general,hotel
+1942	3	SYSTEM	電話番号は0455048900でございます。Wi-Fiも無料です。	general,hotel
+1942	4	USER	ありがとうございます、他は大丈夫です。	general,hotel
+1942	5	SYSTEM	かしこまりました。ご利用ありがとうございました。	general,hotel

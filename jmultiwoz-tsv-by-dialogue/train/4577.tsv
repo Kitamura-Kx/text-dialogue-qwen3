@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4577	0	USER	那覇でジャンルが和食の飲食店はありますか？	general,restaurant
+4577	1	SYSTEM	あいにく那覇で和食の店はなさそうです。	general,restaurant
+4577	2	USER	洋食・西洋料理はありますか？	general,restaurant
+4577	3	SYSTEM	はい、色々ありますが、やはり沖縄らしく、ステーキ専門 池谷牛肉店、こちらをオススメします。	general,restaurant
+4577	4	USER	検討してみます。ありがとうございました。	general,restaurant
+4577	5	SYSTEM	よい旅を	general,restaurant

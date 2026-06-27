@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+519	0	USER	京都へ旅行に行こうと思っています。京都の観光名所を教えてください。	general,attraction,taxi,weather
+519	1	SYSTEM	かしこまりました。50件ほどご案内可能ですが、なにかご希望の条件などはございますでしょうか？	general,attraction,taxi,weather
+519	2	USER	無料でWi-Fiが使えるところが良いです。	general,attraction,taxi,weather
+519	3	SYSTEM	かしこまりました。そうしますと、国立京都国際会館はいかがでしょうか？	general,attraction,taxi,weather
+519	4	USER	国立京都国際会館にしたいと思うのですが、そこの住所を教えてください。	general,attraction,taxi,weather
+519	5	SYSTEM	はい。住所は、京都府京都市左京区岩倉大鷺町422にございます。	general,attraction,taxi,weather
+519	6	USER	当日はタクシーを使いたいのでジャンボタクシーが使えるタクシー会社を教えてください。	general,attraction,taxi,weather
+519	7	SYSTEM	かしこまりました。帝産京都自動車株式会社はいかがでしょうか？	general,attraction,taxi,weather
+519	8	USER	そこはキャッシュレス対応でしょうか？	general,attraction,taxi,weather
+519	9	SYSTEM	はい、対応しております。	general,attraction,taxi,weather
+519	10	USER	タクシーの予約をしたいのですが、日付は8/1の１１時にお願いします。出発地は帝産京都自動車株式会社で目的地はカイト白ワインのバルKAKIMARU 七条店でお願いします。	general,attraction,taxi,weather
+519	11	SYSTEM	恐れ入ります。出発地は、タクシー会社の帝産京都自動車株式会社でお間違い無いでしょうか？	general,attraction,taxi,weather
+519	12	USER	間違えました。国立京都国際会館です。	general,attraction,taxi,weather
+519	13	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、66715です。	general,attraction,taxi,weather
+519	14	USER	あと、当日8/1の左京区の天候も教えて欲しいです。	general,attraction,taxi,weather
+519	15	SYSTEM	8/1の左京区の天気は、曇りのち雨の予報です。最低気温26.4度は、最高気温は34.9度の予想となっております。	general,attraction,taxi,weather
+519	16	USER	分かりました。ありがとうございます。	general,attraction,taxi,weather
+519	17	SYSTEM	ほかに何かお調べすることはございませんか？	general,attraction,taxi,weather
+519	18	USER	はい、大丈夫です。ありがとうございました。	general,attraction,taxi,weather
+519	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,taxi,weather

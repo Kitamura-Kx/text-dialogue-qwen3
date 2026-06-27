@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4568	0	USER	札幌へ旅行するのですが北区で最寄り駅が北12条駅の安めの宿を紹介して下さい。	general,hotel,shopping,taxi
+4568	1	SYSTEM	それでしたら、アパホテルEXCELLENTはいかがですか？	general,hotel,shopping,taxi
+4568	2	USER	いいですね。それではそこを予約して頂けますか？人数は4人で2/26から2泊です。	general,hotel,shopping,taxi
+4568	3	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,hotel,shopping,taxi
+4568	4	USER	それでは1泊なら大丈夫でしょうか？	general,hotel,shopping,taxi
+4568	5	SYSTEM	はい、予約出来ました。予約番号は、69259です。	general,hotel,shopping,taxi
+4568	6	USER	ありがとうございます。豊平区で買い物をしたいのですが駐車場無料のところはありますか？	general,hotel,shopping,taxi
+4568	7	SYSTEM	それでしたら、コーチャンフォーミュンヘン大橋店はいかがですか？	general,hotel,shopping,taxi
+4568	8	USER	いいですね。そこに行きたいです。ジャンボタクシーを利用したいのですがキャッシュレス対応のところを紹介して下さい。	general,hotel,shopping,taxi
+4568	9	SYSTEM	それでしたら、ダイコク交通(株)はどうでしょう？	general,hotel,shopping,taxi
+4568	10	USER	電話番号をお伺いできますか？	general,hotel,shopping,taxi
+4568	11	SYSTEM	はい、電話番号は0117416000です。	general,hotel,shopping,taxi
+4568	12	USER	ありがとうございます。それでは予約して下さい。2/26の13:50で出発地はアパホテルEXCELLENT、目的地はコーチャンフォーミュンヘン大橋店です。	general,hotel,shopping,taxi
+4568	13	SYSTEM	予約出来ました。予約番号は、53040になります。	general,hotel,shopping,taxi
+4568	14	USER	助かりました！以上です。ありがとうございました。	general,hotel,shopping,taxi
+4568	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,taxi

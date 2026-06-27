@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4017	0	USER	那覇へ旅行するのですが、最寄りが赤嶺駅のレストランがある宿泊施設はありますか？あと、Wi-Fiが無料だと嬉しいです。	general,hotel,shopping
+4017	1	SYSTEM	赤嶺駅でレストラン併設、WiFi無料の宿泊施設は２つありますが、グランドキャビンホテル那覇小禄、こちらをお勧めします。	general,hotel,shopping
+4017	2	USER	そこにします。料金情報を知りたいです。	general,hotel,shopping
+4017	3	SYSTEM	値段帯は安めですが、料金情報詳細までは不明です。	general,hotel,shopping
+4017	4	USER	そうですか。では、2人で10/2から4泊の予約を取ってもらっていいですか？	general,hotel,shopping
+4017	5	SYSTEM	予約成功しました。予約番号は88671です。	general,hotel,shopping
+4017	6	USER	ありがとうございます。あと、本庁で自動車や自転車を買い物できるところはありますか？	general,hotel,shopping
+4017	7	SYSTEM	本庁で自動車自転車の買い物施設はなさそうです。	general,hotel,shopping
+4017	8	USER	そうですか。なら、ショッピングモールでもいいです。	general,hotel,shopping
+4017	9	SYSTEM	本庁でショッピングモールは２つありますが、のうれんプラザ、こちらをお勧めします。	general,hotel,shopping
+4017	10	USER	そこの電話番号と営業時間と最寄り駅を教えてほしいです。	general,hotel,shopping
+4017	11	SYSTEM	電話は0988347818、朝９時から夕方５時半、最寄りは牧志駅です。	general,hotel,shopping
+4017	12	USER	ありがとうございました。	general,hotel,shopping
+4017	13	SYSTEM	よい旅を。	general,hotel,shopping

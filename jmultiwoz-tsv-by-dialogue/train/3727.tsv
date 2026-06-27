@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3727	0	USER	こんにちは。京都に行くのですが、Wi-Fiと駐車場が無料で使える、西京区の飲食店はありますか？	general,restaurant,attraction,weather
+3727	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,restaurant,attraction,weather
+3727	2	USER	ではWi-Fiはなくても大丈夫です。	general,restaurant,attraction,weather
+3727	3	SYSTEM	1件みつかりました。海雲亭 洛西店はいかがですか？	general,restaurant,attraction,weather
+3727	4	USER	いいですね、そこにしようかな。そのお店の最寄り駅はわかりますか？	general,restaurant,attraction,weather
+3727	5	SYSTEM	最寄り駅は、桂駅になります。	general,restaurant,attraction,weather
+3727	6	USER	ありがとうございます。ではそのお店で、人数は3人、日付は3/28、時間は12:30で、予約をお願いします。	general,restaurant,attraction,weather
+3727	7	SYSTEM	予約が完了しました。　予約番号は、30567です。	general,restaurant,attraction,weather
+3727	8	USER	ありがとうございます。スポーツ・フィットネス系の観光名所ってありますか？	general,restaurant,attraction,weather
+3727	9	SYSTEM	それでしたら、京都市障害者教養文化・体育会館はいかがですか？	general,restaurant,attraction,weather
+3727	10	USER	ありがとうございます。あと、3/28の右京区の天候を調べてもらえますか？	general,restaurant,attraction,weather
+3727	11	SYSTEM	天気は、曇時々雨の予報となっています。	general,restaurant,attraction,weather
+3727	12	USER	ありがとうございます。最高気温もお願いできますか？	general,restaurant,attraction,weather
+3727	13	SYSTEM	最高気温は、16.4度です。	general,restaurant,attraction,weather
+3727	14	USER	ありがとうございます。	general,restaurant,attraction,weather
+3727	15	SYSTEM	他にご用件はありますか？	general,restaurant,attraction,weather
+3727	16	USER	いえ、大丈夫です。ありがとうございました。	general,restaurant,attraction,weather
+3727	17	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,weather

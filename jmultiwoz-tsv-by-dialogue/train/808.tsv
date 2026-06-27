@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+808	0	USER	東京への旅行を考えているのですが、足立区のリゾートホテルタイプの宿泊施設で、レストランが併設されているところはありますか？	general,hotel,shopping,weather
+808	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,shopping,weather
+808	2	USER	そうですか。では足立区じゃなくてもいいです。	general,hotel,shopping,weather
+808	3	SYSTEM	かしこまりました。そうしますと、10件ほどご案内可能です。たとえば、港区エリアにある、アンダーズ東京というところはいかがでしょうか？	general,hotel,shopping,weather
+808	4	USER	そこにします。チェックアウト終了時刻を教えてもらえますか？	general,hotel,shopping,weather
+808	5	SYSTEM	チェックアウトの終了は、12時までとなっております。	general,hotel,shopping,weather
+808	6	USER	そうですか。豊島区で買い物できる百貨店や総合スーパーなども探しているのですが、調べてもらえますか？	general,hotel,shopping,weather
+808	7	SYSTEM	申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,hotel,shopping,weather
+808	8	USER	わかりました。では百貨店や総合スーパーじゃなくてもいいです。	general,hotel,shopping,weather
+808	9	SYSTEM	ありがとうございます。そうしますと、大和サンプル製作所というところはいかがでしょうか？ジャンルは、お土産, 文房具・雑貨, その他、となっております。	general,hotel,shopping,weather
+808	10	USER	そこにします。定休日はありますか？	general,hotel,shopping,weather
+808	11	SYSTEM	はい。定休日は、水曜日と木曜日です。	general,hotel,shopping,weather
+808	12	USER	わかりました。杉並区の10/27の天候も教えてください。	general,hotel,shopping,weather
+808	13	SYSTEM	かしこまりました。当日のお天気は、曇りのち雨の予報です。最低気温は10.2度、最高気温は26.2度です。	general,hotel,shopping,weather
+808	14	USER	わかりました。ありがとうございます。	general,hotel,shopping,weather
+808	15	SYSTEM	他にご用件はございませんか？	general,hotel,shopping,weather
+808	16	USER	いえ、大丈夫です。	general,hotel,shopping,weather
+808	17	SYSTEM	承知いたしました。ご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,hotel,shopping,weather

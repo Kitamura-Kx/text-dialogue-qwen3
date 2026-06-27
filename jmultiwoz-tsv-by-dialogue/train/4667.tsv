@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4667	0	USER	札幌の西区で駐車場が無料で買い物ができるお店を探しています。	general,shopping,hotel
+4667	1	SYSTEM	かしこまりました。イオンモール札幌発寒はいかがでしょうか。	general,shopping,hotel
+4667	2	USER	そのお店の最寄り駅はどこになりますか？	general,shopping,hotel
+4667	3	SYSTEM	最寄り駅は発寒駅でございます。	general,shopping,hotel
+4667	4	USER	わかりました。あとレストランがあってWi-Fiが無料の宿泊施設も探してほしいです。	general,shopping,hotel
+4667	5	SYSTEM	では東急ステイ札幌はいかがですか。	general,shopping,hotel
+4667	6	USER	電話番号も教えてください。	general,shopping,hotel
+4667	7	SYSTEM	電話番号は0112220109でございます。	general,shopping,hotel
+4667	8	USER	そこを6/2に4人で2泊予約したいです。	general,shopping,hotel
+4667	9	SYSTEM	かしこまりました。予約番号、91748でございます。	general,shopping,hotel
+4667	10	USER	ありがとうございました。	general,shopping,hotel
+4667	11	SYSTEM	ほかにご用件はございませんか。	general,shopping,hotel
+4667	12	USER	大丈夫です。	general,shopping,hotel
+4667	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel

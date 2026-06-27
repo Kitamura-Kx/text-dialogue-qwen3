@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4131	0	USER	横浜で駐車場が無料で利用できる飲食店はありませんか	general,restaurant,hotel
+4131	1	SYSTEM	ではカフェ・ド・ラペはいかがでしょうか。	general,restaurant,hotel
+4131	2	USER	エリアと電話番号を教えてください	general,restaurant,hotel
+4131	3	SYSTEM	エリアは中区で、電話番号は0456717150でございます。	general,restaurant,hotel
+4131	4	USER	レストランが併設されていてwifiが無料で利用できるビジネスホテルを教えてください	general,restaurant,hotel
+4131	5	SYSTEM	はい。リッチモンドホテル横浜駅前はいかがですか。	general,restaurant,hotel
+4131	6	USER	住所と値段帯を教えてください	general,restaurant,hotel
+4131	7	SYSTEM	住所は神奈川県横浜市神奈川区鶴屋町2丁目13-7でございます。値段帯は安めとなっております。	general,restaurant,hotel
+4131	8	USER		general,restaurant,hotel

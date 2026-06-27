@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3133	0	USER	横浜に行くのですが、宿泊施設を探しています。	general,hotel,shopping,restaurant
+3133	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,hotel,shopping,restaurant
+3133	2	USER	駐車場とWi-Fiが無料な所がいいです。	general,hotel,shopping,restaurant
+3133	3	SYSTEM	そういたしますと、南区エリアにある、旅館 松島というところはいかがでしょうか？	general,hotel,shopping,restaurant
+3133	4	USER	宿のタイプは簡易宿所がいいんですが。	general,hotel,shopping,restaurant
+3133	5	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,hotel,shopping,restaurant
+3133	6	USER	では、駐車場は無くても大丈夫です。	general,hotel,shopping,restaurant
+3133	7	SYSTEM	ありがとうございます。では、ホテル ミライはいかがでしょうか？こちらは中区エリアにある簡易宿所でございます。	general,hotel,shopping,restaurant
+3133	8	USER	チェックアウトの時間と、料金を教えて下さい。	general,hotel,shopping,restaurant
+3133	9	SYSTEM	かしこまりました。チェックアウトは11時までとなっております。料金ですが、お安めのお値段帯ということと、WiFiが無料ということ以外で、詳しい料金情報が手元になく、ご案内できません。申し訳ありません。	general,hotel,shopping,restaurant
+3133	10	USER	そうですか、ありがとうございます。それと、おもちゃを買い物したいのですが。	general,hotel,shopping,restaurant
+3133	11	SYSTEM	おもちゃですね。そうしますと、トイザらス・ベビーザらスみなとみらい店はいかがでしょうか？西区にあるお店でございます。	general,hotel,shopping,restaurant
+3133	12	USER	最寄りの駅と、所要時間教えて下さい。	general,hotel,shopping,restaurant
+3133	13	SYSTEM	かしこまりました。最寄りは、みなとみらい駅で、徒歩1分でアクセスできます。他にも桜木町駅から徒歩8分という行き方がございますよ。	general,hotel,shopping,restaurant
+3133	14	USER	ありがとうございます。Wi-Fiが無料な居酒屋も探しています。	general,hotel,shopping,restaurant
+3133	15	SYSTEM	かしこまりました。4件ほど、ご案内可能です。たとえば、CONA 横浜鶴屋町店というお店が神奈川区にありますが、いかがでしょうか？	general,hotel,shopping,restaurant
+3133	16	USER	そこの料金情報お願いします。	general,hotel,shopping,restaurant
+3133	17	SYSTEM	かしこまりました。たとえば、ローストビーフ付CONAコース2.5時間飲み放題付きは、全8品で3500円、CONA名物馬肉ユッケ＆生ハム盛り合わせ付き3H飲み放題全8品4000円などがございます。	general,hotel,shopping,restaurant
+3133	18	USER	では、6/27の14：30で2人の予約お願いします。	general,hotel,shopping,restaurant
+3133	19	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、87821です。	general,hotel,shopping,restaurant
+3133	20	USER	ありがとうございました。失礼します。	general,hotel,shopping,restaurant
+3133	21	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,hotel,shopping,restaurant

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2985	0	USER	仙台に旅行に行くのですが、泉区で駐車場が無料のコンビニはありますか？	general,shopping
+2985	1	SYSTEM	泉区で駐車場無料のコンビニは３つありますが、ローソン仙台松森店をオススメします。	general,shopping
+2985	2	USER	電話番号と営業時間と住所を教えてください！	general,shopping
+2985	3	SYSTEM	電話は0223723391、２４ｈ営業です。	general,shopping
+2985	4	USER	住所もいいですか？	general,shopping
+2985	5	SYSTEM	宮城県仙台市泉区市名坂字砂押2-1です。	general,shopping
+2985	6	USER	了解です！ありがとうございました！	general,shopping
+2985	7	SYSTEM	よい旅を。	general,shopping

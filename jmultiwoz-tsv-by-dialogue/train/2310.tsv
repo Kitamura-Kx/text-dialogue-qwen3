@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2310	0	USER	大阪で飲食店を探してください。谷町四丁目駅の近くで、駐車場無料のお店はありますか？	general,restaurant,weather
+2310	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,restaurant,weather
+2310	2	USER	それは残念ですね、、、なら、駐車場の条件を除いて頂けますか？	general,restaurant,weather
+2310	3	SYSTEM	1件見つかりました。　旬菜 彌重は、いかがでしょうか？	general,restaurant,weather
+2310	4	USER	営業時間も教えてください。	general,restaurant,weather
+2310	5	SYSTEM	営業時間は、午前7時から10時30分、午前11時から午後2時30分、午後5時から午後10時30分までと分かれています。	general,restaurant,weather
+2310	6	USER	わかりました。では予約もお願いします。5/22の11:40から、2人で利用予定です。	general,restaurant,weather
+2310	7	SYSTEM	予約出来ました。予約番号は、15737です。	general,restaurant,weather
+2310	8	USER	ありがとうございます。ついでに、天気情報もお願いできますか？5/22、都島区の最高気温と天気をお願いします。	general,restaurant,weather
+2310	9	SYSTEM	当日の天気は、晴のち雨、最高気温は22.5度となっています。	general,restaurant,weather
+2310	10	USER	ありがとうございます。助かりました！	general,restaurant,weather

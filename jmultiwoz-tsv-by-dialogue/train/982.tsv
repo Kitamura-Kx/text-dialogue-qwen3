@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+982	0	USER	札幌へ旅行を計画しています。中央区で買い物できる場所で無料で駐車場を利用できるところありますか？	general,shopping,attraction,taxi
+982	1	SYSTEM	はい、ございます。赤れんがテラスというところはいかがでしょうか？	general,shopping,attraction,taxi
+982	2	USER	ありがとうございます。次に手稲区で無料のWi-Fi、駐車場が利用できる観光名所はありますか？	general,shopping,attraction,taxi
+982	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,attraction,taxi
+982	4	USER	であれば、エリアは考慮しないのでもう一度探してほしいです。	general,shopping,attraction,taxi
+982	5	SYSTEM	ありがとうございます。では、さっぽろ羊ヶ丘展望台はいかがでしょうか？	general,shopping,attraction,taxi
+982	6	USER	そこの名称、電話番号、入場料がかかる場合、大人の料金を教えてほしいです。	general,shopping,attraction,taxi
+982	7	SYSTEM	名称は、さっぽろ羊ヶ丘展望台です。電話番号は0118513080、大人入場料は530円です。	general,shopping,attraction,taxi
+982	8	USER	最後に当日タクシーを利用したく、平岸ハイヤー(株)というタクシー会社はありますか？	general,shopping,attraction,taxi
+982	9	SYSTEM	はい、ございます。どういった情報をご案内いたしましょうか？	general,shopping,attraction,taxi
+982	10	USER	そこの電話番号とジャンボタクシー、キャッシュレスの対応はしているか知りたいです。	general,shopping,attraction,taxi
+982	11	SYSTEM	電話番号は、0118318111です。ジャンボタクシーは対応してございません。キャッシュレスはご利用いただけます。	general,shopping,attraction,taxi
+982	12	USER	ありがとうございます。それでは予約をお願いします。日時は8/23、13:50で出発地は赤れんがテラスからさっぽろ羊ヶ丘展望台まででお願いします。	general,shopping,attraction,taxi
+982	13	SYSTEM	ご予約完了いたしました。予約番号は、49052です。	general,shopping,attraction,taxi
+982	14	USER	ありがとうございます。こちらのご依頼は以上です。	general,shopping,attraction,taxi
+982	15	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,shopping,attraction,taxi

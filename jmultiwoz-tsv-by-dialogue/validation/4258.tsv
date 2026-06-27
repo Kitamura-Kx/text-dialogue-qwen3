@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4258	0	USER	名古屋への旅行を考えているのですが、当日食事をするお店を探してほしいです。寿司・魚料理がよいです。	general,restaurant
+4258	1	SYSTEM	かしこまりました。３４件ございますが、ほかにご希望の条件はございますか。	general,restaurant
+4258	2	USER	Wi-Fiが無料で利用できるところがよいです。	general,restaurant
+4258	3	SYSTEM	申し訳ございません。Wi-Fiが無料で利用できるところがございませんでした。いかがなさいますか。	general,restaurant
+4258	4	USER	それでは、Wi-Fiはなくても結構です。	general,restaurant
+4258	5	SYSTEM	では魚鉄はいかがでしょうか。	general,restaurant
+4258	6	USER	そちらの料金情報と電話番号を教えていただけますか。	general,restaurant
+4258	7	SYSTEM	料金情報としましては、秋の特撰会席が6600円となっております。電話番号は 0529111211でございます。	general,restaurant
+4258	8	USER	ありがとうございました。ぜひ行ってみたいと思います。	general,restaurant

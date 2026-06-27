@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3509	0	USER	横浜への旅行を検討しています。当日、買い物が出来る施設を探して欲しいのですが、よろしいでしょうか？	general,shopping,restaurant
+3509	1	SYSTEM	かしこまりました。50件ほどございますが、何をお買い求めでしょうか？	general,shopping,restaurant
+3509	2	USER	とりあえず、ジャンルにこだわらずに色々見てみたいので、最寄り駅が並木中央駅で、駐車場が無料で利用出来る施設はありますか？	general,shopping,restaurant
+3509	3	SYSTEM	かしこまりました。それではコストコ金沢シーサイド倉庫がぴったりかと思います。	general,shopping,restaurant
+3509	4	USER	ありがとうございます。すみません、ジャンルも教えて頂けますか？	general,shopping,restaurant
+3509	5	SYSTEM	ジャンルは食料品, 家電・電化製品, ファッション, 医薬品・化粧品, その他でございます。	general,shopping,restaurant
+3509	6	USER	ありがとうございます。それと、当日利用出来る飲食店も探して頂けますか？	general,shopping,restaurant
+3509	7	SYSTEM	かしこまりました。119件ほどございますが、何か御条件はありますか？	general,shopping,restaurant
+3509	8	USER	そうですね。保土ケ谷区で、駐車場が無料で利用できるお店ってありますか？	general,shopping,restaurant
+3509	9	SYSTEM	お待たせ致しました。それでは松葉寿しがございます。	general,shopping,restaurant
+3509	10	USER	そこで検討したいです。このお店の営業時間を教えて頂けますか？	general,shopping,restaurant
+3509	11	SYSTEM	11時30分から15時と、17時から21時30分まででございます。	general,shopping,restaurant
+3509	12	USER	ありがとうございます。このお店の定休日も教えて頂けますか？	general,shopping,restaurant
+3509	13	SYSTEM	定休日は月曜日でございます。	general,shopping,restaurant
+3509	14	USER	ありがとうございます。では、このままこのお店の予約もお願いしたいのですが、よろしいでしょうか？	general,shopping,restaurant
+3509	15	SYSTEM	かしこまりました。日程等お伺いいたします。	general,shopping,restaurant
+3509	16	USER	日付は3月23日で、時間は11:00。人数は2人でお願いします。	general,shopping,restaurant
+3509	17	SYSTEM	お待たせ致しました。予約番号23306でお取りさせていただきました。	general,shopping,restaurant
+3509	18	USER	ありがとうございます。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,shopping,restaurant
+3509	19	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,restaurant

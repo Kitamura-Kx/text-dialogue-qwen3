@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+180	0	USER	東京への旅行を計画中で、港区の飲食店を探しています。	general,restaurant,weather
+180	1	SYSTEM	ご利用ありがとうございます。東京、港区の飲食店は23件ほどございます。他にご希望の条件などはありますか？	general,restaurant,weather
+180	2	USER	予算は高めで、無料でWi-Fiが利用できるところがいいです。	general,restaurant,weather
+180	3	SYSTEM	かしこまりました。バルバッコア 六本木ヒルズ店はいかがでしょうか？	general,restaurant,weather
+180	4	USER	ジャンルは何になりますか？	general,restaurant,weather
+180	5	SYSTEM	ジャンルは、洋食・西洋料理, 居酒屋となっております。	general,restaurant,weather
+180	6	USER	いいですね。バルバッコア 六本木ヒルズ店にしようと思うので、お店の住所と駐車場の有無を教えてください。	general,restaurant,weather
+180	7	SYSTEM	住所は、東京都港区六本木6丁目10-1 六本木ヒルズウエストウォーク5Fとなっております。駐車場は無料でご利用いただけます。	general,restaurant,weather
+180	8	USER	5/3の13:30に3人で予約をお願いします。	general,restaurant,weather
+180	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、27569です。	general,restaurant,weather
+180	10	USER	ありがとうございます。あと5/3の葛飾区の天気と最低気温も教えてください。	general,restaurant,weather
+180	11	SYSTEM	5/3の葛飾区の天気は、晴れです。最低気温は16.8度の予想です。	general,restaurant,weather
+180	12	USER	ありがとうございます。	general,restaurant,weather
+180	13	SYSTEM	他になにか、お手伝いできることはございますか？	general,restaurant,weather
+180	14	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant,weather
+180	15	SYSTEM	ご利用ありがとうございました。	general,restaurant,weather

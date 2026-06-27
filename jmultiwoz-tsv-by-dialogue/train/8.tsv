@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+8	0	USER	横浜への家族旅行を考えてるんですけど。	general,attraction
+8	1	SYSTEM	はい。どういった情報をお調べしましょうか？	general,attraction
+8	2	USER	詳しくないんで、どこに行ったらいいか観光名所を知りたいんですよね。鶴見区のあたりで良いところはないですか？	general,attraction
+8	3	SYSTEM	承知致しました。 鶴見区ですと、温泉施設やビール工場、公園がございます。	general,attraction
+8	4	USER	いろいろ楽しそうですね。小学生ぐらいの子どもも楽しめるところだとどんなところがおすすめですか？	general,attraction
+8	5	SYSTEM	ファンタジーサウナ&スパ おふろの国、はいかがでしょうか？	general,attraction
+8	6	USER	いいですね。ファンタジー溢れる感じで。温泉施設なんですか？	general,attraction
+8	7	SYSTEM	はい、ジャンルとしては、銭湯、スパ、となっております。	general,attraction
+8	8	USER	温泉大好きなんで、そこがいいです。子供の入場料金はいくらですか？	general,attraction
+8	9	SYSTEM	小学生以下3歳以上のお子様は、平日は350円、土日祝日と年末年始、お盆など特別日は400円となっております。	general,attraction
+8	10	USER	リーズナブルですね。楽しみです。えっと、その施設の住所を聞いておきたいんですけど。	general,attraction
+8	11	SYSTEM	承知致しました。 住所は、神奈川県横浜市鶴見区下末吉2丁目25ー23、となります。	general,attraction
+8	12	USER	ありがとうございました。いいところを教えてもらえてよかったです。お世話になりました。	general,attraction
+8	13	SYSTEM	他にご用件はございますか？	general,attraction
+8	14	USER	いえ、これで大丈夫です。丁寧に教えてくださってありがとうございました。	general,attraction
+8	15	SYSTEM	承知致しました。 ありがとうございました。	general,attraction

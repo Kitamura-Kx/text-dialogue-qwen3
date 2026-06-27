@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3752	0	USER	大阪への旅行を計画しているのですが、生野地区で買い物をできる場所などありますか？	general,shopping,restaurant,taxi
+3752	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,restaurant,taxi
+3752	2	USER	では、此花区でも大丈夫です。また出来れば駐車場が無料のところが良いです。	general,shopping,restaurant,taxi
+3752	3	SYSTEM	1件みつかりました。GoodBBQ舞洲 オーチャードグラスは、いかがですか？	general,shopping,restaurant,taxi
+3752	4	USER	ありがとうございます。そちらにします。最寄り駅と電話番号を伺って良いですか？	general,shopping,restaurant,taxi
+3752	5	SYSTEM	最寄り駅は、桜島駅です。　電話番号は、0664601646です。	general,shopping,restaurant,taxi
+3752	6	USER	ありがとうございます。	general,shopping,restaurant,taxi
+3752	7	SYSTEM	他にご用件はございますか？	general,shopping,restaurant,taxi
+3752	8	USER	あります。Wi-Fiが無料の飲食店を探しています。予算は高めで大丈夫です。	general,shopping,restaurant,taxi
+3752	9	SYSTEM	バルバッコア 心斎橋店はいかがですか？	general,shopping,restaurant,taxi
+3752	10	USER	そちらは、駐車場はなりますか？また何エリアになるのでしょうか？	general,shopping,restaurant,taxi
+3752	11	SYSTEM	駐車場については、無しになっています。エリアは、中央区です。　どうされますか？	general,shopping,restaurant,taxi
+3752	12	USER	そちらのお店で大丈夫です。ありがとうございます。	general,shopping,restaurant,taxi
+3752	13	SYSTEM	他にご用件はございますか？	general,shopping,restaurant,taxi
+3752	14	USER	あります。キャッシュレスが利用できるタクシー会社を探しています。	general,shopping,restaurant,taxi
+3752	15	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,restaurant,taxi
+3752	16	USER	では、キャッシュレスは考慮しなくても大丈夫です。	general,shopping,restaurant,taxi
+3752	17	SYSTEM	大阪山陽タクシー株式会社は、いかがですか？	general,shopping,restaurant,taxi
+3752	18	USER	そちらにします。確認ですが、ジャンボタクシー対応はできますか？	general,shopping,restaurant,taxi
+3752	19	SYSTEM	ジャンボタクシーは、非対応となっています。	general,shopping,restaurant,taxi
+3752	20	USER	わかりました。そのままそちらのタクシー会社で予約をしたいです。	general,shopping,restaurant,taxi
+3752	21	SYSTEM	ご予約ですね、予約希望の日時と出発地と目的地をお知らせください。	general,shopping,restaurant,taxi
+3752	22	USER	日付は12/23で、時間は13:10です。出発地はGoodBBQ舞洲 オーチャードグラスから、目的地はバルバッコア 心斎橋店です。	general,shopping,restaurant,taxi
+3752	23	SYSTEM	予約出来ました。予約番号は、19194です。	general,shopping,restaurant,taxi
+3752	24	USER	ありがとうございます	general,shopping,restaurant,taxi
+3752	25	SYSTEM	他にご用件はございますか？	general,shopping,restaurant,taxi
+3752	26	USER	ないです。ありがとうございました。	general,shopping,restaurant,taxi
+3752	27	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant,taxi

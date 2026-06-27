@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3115	0	USER	東京に旅行に行くので港区にある飲食店を探してほしいです。	general,restaurant,attraction
+3115	1	SYSTEM	かしこまりました。ジャンルなど、何かご希望はございますか？	general,restaurant,attraction
+3115	2	USER	特に希望はないので大丈夫です	general,restaurant,attraction
+3115	3	SYSTEM	そういたしますと、グリル満天星 麻布本店はいかがでしょうか？他にも20件少々、ご案内可能なお店がございます。	general,restaurant,attraction
+3115	4	USER	そこにします。定休日と値段帯を知りたいです！	general,restaurant,attraction
+3115	5	SYSTEM	定休日は、月曜日です。お値段は普通の設定のお店となります。	general,restaurant,attraction
+3115	6	USER	ありがとうございます。では11/27の10:00に4名で予約をお願いします	general,restaurant,attraction
+3115	7	SYSTEM	かしこまりました。念のため、確認させていただきますが、夜ではなく、午前の10時でよろしかったでしょうか？	general,restaurant,attraction
+3115	8	USER	はい、午前10時です	general,restaurant,attraction
+3115	9	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,restaurant,attraction
+3115	10	USER	4人から3人に変更したら予約できますか？	general,restaurant,attraction
+3115	11	SYSTEM	ありがとうございます。3名様にて、ご予約完了いたしました。予約番号は、83059です。	general,restaurant,attraction
+3115	12	USER	了解です。あと、中央区でWi-Fiが無料で利用できる観光名所も探しているのですが	general,restaurant,attraction
+3115	13	SYSTEM	それでしたら、浜離宮恩賜庭園はいかがでしょうか？中央区の自然・公園ジャンルの観光名所でございます。	general,restaurant,attraction
+3115	14	USER	わかりました！営業時間と駐車場の有無と住所を教えてください	general,restaurant,attraction
+3115	15	SYSTEM	営業時間は、9:00～17:00です。駐車場は、申し訳ありません、こちらは併設しておりません。	general,restaurant,attraction
+3115	16	USER	分かりました。あと住所も教えて貰えますか？	general,restaurant,attraction
+3115	17	SYSTEM	大変失礼いたしました。住所は、東京都中央区浜離宮庭園1-1でございます。	general,restaurant,attraction
+3115	18	USER	了解です！	general,restaurant,attraction
+3115	19	SYSTEM	他にお調べすることはございませんか？	general,restaurant,attraction
+3115	20	USER	大丈夫です。ありがとうございました	general,restaurant,attraction
+3115	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,attraction

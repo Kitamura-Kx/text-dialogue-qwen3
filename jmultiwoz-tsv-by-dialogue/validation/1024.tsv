@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1024	0	USER	福岡へ行こうと思っていて、中央区にあるリゾートホテルを探しています。	general,hotel,attraction,weather
+1024	1	SYSTEM	かしこまりました。でしたらソラリア西鉄ホテル福岡がございます。	general,hotel,attraction,weather
+1024	2	USER	そこは無料駐車場がありますでしょうか？	general,hotel,attraction,weather
+1024	3	SYSTEM	駐車場は有料となっております。	general,hotel,attraction,weather
+1024	4	USER	すみませんが、無料駐車場のあるリゾートホテルを探してもらえますか？中央区でなくて大丈夫ですので。	general,hotel,attraction,weather
+1024	5	SYSTEM	かしこまりました。The358 UMIは無料駐車場がございます。	general,hotel,attraction,weather
+1024	6	USER	ありがとうございます。そちらの電話番号を教えてもらえますか？	general,hotel,attraction,weather
+1024	7	SYSTEM	電話番号は0926651717でございます。	general,hotel,attraction,weather
+1024	8	USER	ありがとうございます。そちらのホテルで、３月１４日から２泊で２名の予約をお願いします。	general,hotel,attraction,weather
+1024	9	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,attraction,weather
+1024	10	USER	では、１人に変更で予約できるか確認してもらえますか？	general,hotel,attraction,weather
+1024	11	SYSTEM	予約が完了いたしました。予約番号は9790です。	general,hotel,attraction,weather
+1024	12	USER	ありがとうございます。あと観光名所も探しています。無料駐車場のあるリゾート地か保養地で探してもらえますか？	general,hotel,attraction,weather
+1024	13	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,hotel,attraction,weather
+1024	14	USER	そうですか。駐車場はなくても構わないです。どこかありませんか？	general,hotel,attraction,weather
+1024	15	SYSTEM	では志賀島はいかがでしょうか。	general,hotel,attraction,weather
+1024	16	USER	ありがとうございます。そこはWi-Fiはありますか？	general,hotel,attraction,weather
+1024	17	SYSTEM	無料のWi-Fiがございます。	general,hotel,attraction,weather
+1024	18	USER	志賀島の住所と定休日も教えて下さい。	general,hotel,attraction,weather
+1024	19	SYSTEM	住所は福岡県福岡市東区志賀島で、定休日はございません。	general,hotel,attraction,weather
+1024	20	USER	ありがとうございます。あと３月14日の博多区の最低気温と最高気温も調べてほしいです。	general,hotel,attraction,weather
+1024	21	SYSTEM	最低気温は11.8度、最高気温は17.1度でございます。	general,hotel,attraction,weather
+1024	22	USER	ありがとうございました。	general,hotel,attraction,weather
+1024	23	SYSTEM	ほかにご用件はございますか。	general,hotel,attraction,weather
+1024	24	USER	大丈夫です。ありがとうございました。	general,hotel,attraction,weather
+1024	25	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction,weather

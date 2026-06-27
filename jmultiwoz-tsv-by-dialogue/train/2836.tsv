@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2836	0	USER	こんにちは。仙台に行きたいんですけど、泉区で買い物できるところってありますか？	general,shopping
+2836	1	SYSTEM	承知しました。仙台泉プレミアム・アウトレットはいかがでしょう？ジャンルは、アウトレットモールとなります。	general,shopping
+2836	2	USER	いいですね。仙台泉プレミアム・アウトレットの営業時間と最寄り駅、定休日もわかりますか？	general,shopping
+2836	3	SYSTEM	はい、営業時間は10時から20時、最寄りの泉中央駅からバスで23分となります。定休日は、1月1日と、二月第三木となります。	general,shopping
+2836	4	USER	詳しく教えていただいてありがとうございます！	general,shopping
+2836	5	SYSTEM	他にご用件はございますか？	general,shopping
+2836	6	USER	いえ！案内ありがとうございました。	general,shopping
+2836	7	SYSTEM	ありがとうございました。	general,shopping

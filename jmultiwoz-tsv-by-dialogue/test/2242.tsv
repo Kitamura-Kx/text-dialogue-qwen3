@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2242	0	USER	那覇へ旅行に行くので、買い物ができるところを探してください。	general,shopping
+2242	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,shopping
+2242	2	USER	地区は本庁で、最寄り駅がおもろまち駅のところにしてください。あと駐車場を無料で利用できるところにしてください。	general,shopping
+2242	3	SYSTEM	そういたしますと、サンエー那覇メインプレイスはいかがでしょうか？ジャンルはショッピングモールとなっております。	general,shopping
+2242	4	USER	営業時間を教えてください。	general,shopping
+2242	5	SYSTEM	営業時間は、9:00～23:00です。	general,shopping
+2242	6	USER	わかりました。以上です。ありがとうございました。	general,shopping
+2242	7	SYSTEM	他にお調べすることはございませんか？	general,shopping
+2242	8	USER	ないです。これで全部です。	general,shopping
+2242	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

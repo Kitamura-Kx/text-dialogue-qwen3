@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+788	0	USER	すみません。大阪でジャンボタクシーが使えるタクシー会社を探しているのですが、ありますか？	general,taxi
+788	1	SYSTEM	はい、16件ほど、ご案内可能です。たとえば、榮交通株式会社という会社ですと、キャッシュレスのお支払いにも、対応しておりますよ。	general,taxi
+788	2	USER	いいですね。そこの電話番号を教えてください。	general,taxi
+788	3	SYSTEM	電話番号は、0669624641でございます。	general,taxi
+788	4	USER	それでは8/10で予約をお願いします。時間は13:40で、出発地は三交イン大阪淀屋橋、目的地は長居公園です。	general,taxi
+788	5	SYSTEM	かしこまりました。ご予約をおとりしました。予約番号は、44510でございます。	general,taxi
+788	6	USER	助かりました。ありがとうございました。	general,taxi

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3366	0	USER	札幌へ旅行するので、シティホテルでレストランがあるところがないか教えてください。	general,hotel,restaurant
+3366	1	SYSTEM	申し訳ございません。検索結果がございません。	general,hotel,restaurant
+3366	2	USER	そうですか。では、シティホテルじゃなくても大丈夫です。	general,hotel,restaurant
+3366	3	SYSTEM	５２件見つかりました。センチュリオンホテル&スパ札幌 ONSEN RYOKAN 由縁 札幌 三井ガーデンホテル札幌ウエストなどはいかがですか？	general,hotel,restaurant
+3366	4	USER	三井ガーデンホテル札幌ウエストにします。チェックイン開始時刻とWi-Fiの有無や近辺の駅からの所要時間を教えてください。	general,hotel,restaurant
+3366	5	SYSTEM	チェックイン開始時刻は１５：００、Wi-Fiは無料のものがあります。札幌駅から徒歩で4分です。	general,hotel,restaurant
+3366	6	USER	ありがとうございます。あと、駐車場とWi-Fiが無料で使える飲食店も探してください。	general,hotel,restaurant
+3366	7	SYSTEM	パーラーエノキ J.S. PANCAKE CAFE 札幌ステラプレイス店 CAFE VOIZをご紹介できます。	general,hotel,restaurant
+3366	8	USER	パーラーエノキにします。営業時間を教えてください。	general,hotel,restaurant
+3366	9	SYSTEM	10:00～20:00です。	general,hotel,restaurant
+3366	10	USER	ありがとうございました。それだけです。	general,hotel,restaurant
+3366	11	SYSTEM	ありがとうございました。	general,hotel,restaurant

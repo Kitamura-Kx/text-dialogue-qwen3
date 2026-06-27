@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4305	0	USER	東京に旅行に行くので、駐車場が無料で利用出来て、自動車や自転車のショッピングができるところを探しています。	general,shopping
+4305	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping
+4305	2	USER	では自動車や自転車は考慮しなくてOKです	general,shopping
+4305	3	SYSTEM	かしこまりました。それではルミネ新宿はいかがでしょうか？	general,shopping
+4305	4	USER	電話番号を教えて貰えますか？	general,shopping
+4305	5	SYSTEM	はい、0120639003でございます。	general,shopping
+4305	6	USER	ありがとうございました！	general,shopping
+4305	7	SYSTEM	ありがとうございました。他にご用件はございますか？	general,shopping
+4305	8	USER	ないです。ありがとうございました	general,shopping
+4305	9	SYSTEM	かしこまりました。またお待ちしております。	general,shopping

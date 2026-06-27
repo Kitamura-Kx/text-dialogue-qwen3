@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2870	0	USER	大阪の宿について教えてください。無料でWifiを使える宿はありますか？	general,hotel,weather
+2870	1	SYSTEM	大阪で無料WiFiOKの宿は９１件ありますね。	general,hotel,weather
+2870	2	USER	その中でおすすめはどちらですか？	general,hotel,weather
+2870	3	SYSTEM	ホテルトラスティ心斎橋をオススメします。	general,hotel,weather
+2870	4	USER	近辺の駅から、そのホテルまでの所要時間を教えてください。	general,hotel,weather
+2870	5	SYSTEM	心斎橋駅から徒歩で3分、抜群の立地です。	general,hotel,weather
+2870	6	USER	では6/1から2泊、予約をお願いします。利用人数は4人です。	general,hotel,weather
+2870	7	SYSTEM	ホテルトラスティ心斎橋、6/1から2泊、4人、予約成功しました。予約番号は28823です。	general,hotel,weather
+2870	8	USER	続いて天気情報もいいですか？6/1、浪速区の最低気温と天気を教えてください。	general,hotel,weather
+2870	9	SYSTEM	6/1 大阪 浪速区 の天気は曇り時々晴、最低気温は18.8度、最高気温は26度になります。	general,hotel,weather
+2870	10	USER	ありがとうございました！	general,hotel,weather

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4788	0	USER	東京の港区で買い物できる場所を調べてください。	general,shopping,attraction,taxi
+4788	1	SYSTEM	かしこまりました。では、奈良まほろば館はいかがでしょうか？	general,shopping,attraction,taxi
+4788	2	USER	そこの電話番号、駐車場の有無を聞きたいです。	general,shopping,attraction,taxi
+4788	3	SYSTEM	はい。電話番号は0362639656で、駐車場の有無は不明となっております。	general,shopping,attraction,taxi
+4788	4	USER	ありがとうございます。また、しながわ水族館に行く予定なので、そこの営業時間と電話番号を調べてっください。	general,shopping,attraction,taxi
+4788	5	SYSTEM	はい。営業時間は10:00～17:00で、電話番号は0337623433になります。	general,shopping,attraction,taxi
+4788	6	USER	分かりました。また、タクシー会社を探してほしいです。キャッシュレス払いでき、ジャンボタクシーを利用できるところでお願いします。	general,shopping,attraction,taxi
+4788	7	SYSTEM	かしこまりました。では、葵交通株式会社はいかがでしょうか？	general,shopping,attraction,taxi
+4788	8	USER	そこの電話番号を聞きたいです。	general,shopping,attraction,taxi
+4788	9	SYSTEM	はい。電話番号は0570550555です。	general,shopping,attraction,taxi
+4788	10	USER	予約をお願いします。日付は8/26で、時間は13:10です。出発地は奈良まほろば館で、目的地はしながわ水族館です。	general,shopping,attraction,taxi
+4788	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、25002です。	general,shopping,attraction,taxi
+4788	12	USER	ありがとうございました。	general,shopping,attraction,taxi
+4788	13	SYSTEM	こちらこそご利用ありがとうございました。	general,shopping,attraction,taxi

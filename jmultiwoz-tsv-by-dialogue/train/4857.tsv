@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4857	0	USER	名古屋へ旅行しようと思っています。レストランが併設されているリゾートホテルに宿泊したいです。	general,hotel,attraction,taxi
+4857	1	SYSTEM	名古屋にはレストラン併設のリゾートホテルはなさそうです。	general,hotel,attraction,taxi
+4857	2	USER	レストランがなかったら宿泊できるリゾートホテルはありますか？	general,hotel,attraction,taxi
+4857	3	SYSTEM	はい、名古屋のリゾートホテルといえば、GOLD STAY 名古屋 栄(ゴールドステイ)、こちら一択です。	general,hotel,attraction,taxi
+4857	4	USER	料金情報を教えてください。	general,hotel,attraction,taxi
+4857	5	SYSTEM	値段帯は高めですが、詳細料金情報は不明です。	general,hotel,attraction,taxi
+4857	6	USER	そうですか。ぜひ予約をお願いします。3名で9月25日から2泊です。	general,hotel,attraction,taxi
+4857	7	SYSTEM	予約に成功しました。予約番号は9829です。	general,hotel,attraction,taxi
+4857	8	USER	ありがとうございます。それと、Wi-Fiが無料で、駐車場も無料の観光名所に行きたいです。	general,hotel,attraction,taxi
+4857	9	SYSTEM	名古屋でWiFiと駐車場無料の観光スポットはいくつかありますが、トヨタ産業技術記念館、こちらをお勧めします。	general,hotel,attraction,taxi
+4857	10	USER	子供入場料はいくらですか？	general,hotel,attraction,taxi
+4857	11	SYSTEM	中高生は３００円、小学生は２００円です。	general,hotel,attraction,taxi
+4857	12	USER	わかりました。それから、当日、ジャンボタクシーを利用できるタクシー会社はありますか？	general,hotel,attraction,taxi
+4857	13	SYSTEM	はい、名鉄西部交通西部をオススメします。	general,hotel,attraction,taxi
+4857	14	USER	電話番号も教えてください。	general,hotel,attraction,taxi
+4857	15	SYSTEM	0568213295です。	general,hotel,attraction,taxi
+4857	16	USER	では、9月25日13時40分に先ほど教えてもらったホテルからトヨタ産業技術記念館まで予約をお願いします。	general,hotel,attraction,taxi
+4857	17	SYSTEM	予約失敗してしまいました。少し条件を変更していただけないでしょうか。	general,hotel,attraction,taxi
+4857	18	USER	14時40分はいかがでしょうか？	general,hotel,attraction,taxi
+4857	19	SYSTEM	その条件なら予約成功しました。予約番号は24259です。	general,hotel,attraction,taxi
+4857	20	USER	ありがとうございました。	general,hotel,attraction,taxi
+4857	21	SYSTEM	よい旅を	general,hotel,attraction,taxi

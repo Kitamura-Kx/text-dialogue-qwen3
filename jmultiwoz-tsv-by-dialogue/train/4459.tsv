@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4459	0	USER	こんにちは。大阪の観光名所を探してイアmす。駐車場は無料で地区は浪速区です。いかがでしょうか	general,attraction
+4459	1	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,attraction
+4459	2	USER	かしこまりました。では、駐車場の有無は考慮しません。	general,attraction
+4459	3	SYSTEM	ありがとうございます。そういたしましたら、通天閣はいかがでしょうか？	general,attraction
+4459	4	USER	ありがとうございます。そちらの住所とジャンルを教えてください。	general,attraction
+4459	5	SYSTEM	住所は、大阪府大阪市浪速区恵美須東1丁目18-6です。ジャンルは、展望台・タワー, 絶景となっております。	general,attraction
+4459	6	USER	かしこまりました。本日はありがとうございました。	general,attraction
+4459	7	SYSTEM	こちらこそ、ご利用ありがとうございました。良いご旅行を。	general,attraction

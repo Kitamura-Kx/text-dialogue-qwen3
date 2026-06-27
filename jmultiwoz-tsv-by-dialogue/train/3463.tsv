@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3463	0	USER	那覇へ旅行に行くので、観光できるところを探してください。	general,attraction,restaurant,shopping
+3463	1	SYSTEM	かしこまりました。50件ほどございますが、何か条件はございますか？	general,attraction,restaurant,shopping
+3463	2	USER	地区は本庁で、駐車場とWi-Fiが無料で利用できるところにしてください。	general,attraction,restaurant,shopping
+3463	3	SYSTEM	お待たせ致しました。それでは沖縄県立博物館・美術館はいかがでしょうか？	general,attraction,restaurant,shopping
+3463	4	USER	そちらの定休日と近辺の駅からの所要時間と料金情報を教えてください。	general,attraction,restaurant,shopping
+3463	5	SYSTEM	はい、こちらはおもろまち駅から徒歩で10分でして、料金情報は一般人530円、高大学生270円、県外小中生150円でございます。	general,attraction,restaurant,shopping
+3463	6	USER	定休日はどんな感じですか？	general,attraction,restaurant,shopping
+3463	7	SYSTEM	申し訳ございません。定休日は月曜日と年末年始でございます。	general,attraction,restaurant,shopping
+3463	8	USER	ありがとうございます。次に食事ができるお店を探してください。	general,attraction,restaurant,shopping
+3463	9	SYSTEM	かしこまりました。113件ほどからお探しできまので、条件のご提示をお願いいたします。	general,attraction,restaurant,shopping
+3463	10	USER	無料駐車場がある、最寄り駅がおもろまち駅のお店をお願いします。	general,attraction,restaurant,shopping
+3463	11	SYSTEM	かしこまりました。それではしゃぶ葉 那覇おもろまち店はいかがでしょうか？	general,attraction,restaurant,shopping
+3463	12	USER	そちらの営業時間と料金情報を教えてください。	general,attraction,restaurant,shopping
+3463	13	SYSTEM	はい、営業時間は11時から23時30分でして、料金情報は宮崎県産 霧島黒豚＆牛みすじ＆国産牛食べ放題コースが3409円、ランチ牛2種＆三元豚食べ放題コースが1869円でございます。	general,attraction,restaurant,shopping
+3463	14	USER	ありがとうございます。Wi-Fiは使えますか？	general,attraction,restaurant,shopping
+3463	15	SYSTEM	はい、Wi-Fiも無料でご利用いただけます。	general,attraction,restaurant,shopping
+3463	16	USER	ではそのお店で予約をお願いします。3/10の10:50、4人で予約できますか？	general,attraction,restaurant,shopping
+3463	17	SYSTEM	お待たせ致しました。予約番号82861でお取りさせていただきました。	general,attraction,restaurant,shopping
+3463	18	USER	ありがとうございます。最後に買い物ができるお店を探してください。	general,attraction,restaurant,shopping
+3463	19	SYSTEM	かしこまりました。何か御条件はありますか？	general,attraction,restaurant,shopping
+3463	20	USER	商店街に行きたいです。無料駐車場があればいいのですが。	general,attraction,restaurant,shopping
+3463	21	SYSTEM	申し訳ございません。無料の駐車場がある商店街は探すことが出来ませんでした。	general,attraction,restaurant,shopping
+3463	22	USER	では駐車場はないところでも構いません。	general,attraction,restaurant,shopping
+3463	23	SYSTEM	かしこまりました。それでは第一牧志公設市場はいかがでしょうか？	general,attraction,restaurant,shopping
+3463	24	USER	そちらの住所と近辺の駅からの所要時間を教えてください。	general,attraction,restaurant,shopping
+3463	25	SYSTEM	はい、住所は沖縄県那覇市松尾2丁目7-10でして、牧志駅から徒歩で9分、美栄橋駅から徒歩で10分でございます。	general,attraction,restaurant,shopping
+3463	26	USER	あと営業時間もお願いします。	general,attraction,restaurant,shopping
+3463	27	SYSTEM	営業時間は8時から21時でございます。	general,attraction,restaurant,shopping
+3463	28	USER	ありがとうございました。以上です。	general,attraction,restaurant,shopping
+3463	29	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,restaurant,shopping

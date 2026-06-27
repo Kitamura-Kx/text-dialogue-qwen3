@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2109	0	USER	4月3日に東京に行く予定です。豊島区の最低気温を知りたいです。	general,weather,taxi
+2109	1	SYSTEM	かしこまりました。4/3の豊島区の天気予報は曇のち晴となっております。最低気温は11.4度になる予報です。	general,weather,taxi
+2109	2	USER	ありがとうございます。当日、タクシーを利用するのですが、キャッシュレス対応の会社を紹介してください。	general,weather,taxi
+2109	3	SYSTEM	かしこまりました。では、大和交通保谷はいかがでしょうか？ジャンボタクシーにも対応しております。	general,weather,taxi
+2109	4	USER	電話番号を教えてください。	general,weather,taxi
+2109	5	SYSTEM	電話番号は0335635151です。	general,weather,taxi
+2109	6	USER	ありがとうございます。4月3日の13時に予約をお願いします。コンラッド東京を出発して、ASTA HOTELへ行きたいです。	general,weather,taxi
+2109	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、73676です。	general,weather,taxi
+2109	8	USER	ありがとうございます。助かりました。では、失礼します。	general,weather,taxi

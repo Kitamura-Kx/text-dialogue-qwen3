@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3562	0	USER	今度、横浜への旅行を計画しています。無料駐車場のある買い物できる場所を教えて欲しいです。	general,shopping
+3562	1	SYSTEM	かしこまりました。ではコストコ金沢シーサイド倉庫はいかがでしょうか。	general,shopping
+3562	2	USER	ありがとうございます。スポーツ系の所が良くて、西谷駅近くのお店を探していますが、そちらはどうですか？	general,shopping
+3562	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping
+3562	4	USER	そうですか、では、西谷駅以外の場所でしたら、スポーツ系の買いものができるお店がありますか？	general,shopping
+3562	5	SYSTEM	ではスポーツオーソリティ・MARK ISみなとみらい店がございます。	general,shopping
+3562	6	USER	ありがとうございます。そちらの住所を教えてください。	general,shopping
+3562	7	SYSTEM	住所は神奈川県横浜市西区みなとみらい3丁目5-1MARK IS みなとみらい B2Fでございます。	general,shopping
+3562	8	USER	ありがとうございました。助かりました。それでは失礼します。	general,shopping

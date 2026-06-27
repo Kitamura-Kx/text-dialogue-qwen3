@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4042	0	USER	大阪への旅行を計画しています。 当日買い物ができるところを探しています。駐車場を無料で利用できるところが良いのですが、ありますか？	general,shopping,taxi
+4042	1	SYSTEM	かしこまりました。それでは三井アウトレットパーク 大阪鶴見はいかがでしょうか？	general,shopping,taxi
+4042	2	USER	営業時間，エリアを教えてください。	general,shopping,taxi
+4042	3	SYSTEM	営業時間は10時から20時、エリアは鶴見区でございます。	general,shopping,taxi
+4042	4	USER	あと、キャッシュレス払いができて、ジャンボタクシーもあるタクシー会社はありますか？	general,shopping,taxi
+4042	5	SYSTEM	お待たせ致しました。それでは株式会社未来都はいかがでしょうか？	general,shopping,taxi
+4042	6	USER	そこの電話番号はわかりますか？	general,shopping,taxi
+4042	7	SYSTEM	はい、電話番号は0669060088でございます。	general,shopping,taxi
+4042	8	USER	では予約してください。日付は3/9、時間は14:40、出発地は三井アウトレットパーク 大阪鶴見、目的地は国立国際美術館です。	general,shopping,taxi
+4042	9	SYSTEM	お待たせ致しました。予約番号44311でお取りさせていただきました。	general,shopping,taxi
+4042	10	USER	解決しました。ありがとうございました。	general,shopping,taxi

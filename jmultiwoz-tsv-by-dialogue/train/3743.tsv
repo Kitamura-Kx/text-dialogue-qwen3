@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3743	0	USER	那覇へ旅行するのですが4/30の小禄地区の天気が知りたいです。	general,weather,taxi
+3743	1	SYSTEM	承知しました。天気は曇のち雨、最低気温12.7度、最高気温21.6度となります。	general,weather,taxi
+3743	2	USER	ありがとうございます。ジャンボタクシーでキャッシュレス払いできるところはありますか？	general,weather,taxi
+3743	3	SYSTEM	はい、三和交通はいかがでしょう？電話番号は、0120100084となります。	general,weather,taxi
+3743	4	USER	ありがとうございます。それではそこを予約して頂けますか？4/30で時間は13:50、出発地はらーめんまぜそば あらし 那覇店です。目的地はホテルアザット那覇です。	general,weather,taxi
+3743	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、81612となります。	general,weather,taxi
+3743	6	USER	大変助かりました！ありがとうございました。	general,weather,taxi
+3743	7	SYSTEM	ありがとうございました。	general,weather,taxi

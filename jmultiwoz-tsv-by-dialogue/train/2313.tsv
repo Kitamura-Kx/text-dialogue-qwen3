@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2313	0	USER	札幌の豊平区で、無料駐車場のある観光名所を探しています。	general,attraction
+2313	1	SYSTEM	かしこまりました。では、クラーク博士像はいかがでしょうか？	general,attraction
+2313	2	USER	ありがとうございます。そちらの子供の入場料を教えてもらえますか？	general,attraction
+2313	3	SYSTEM	はい。子供入場料は300円です。	general,attraction
+2313	4	USER	ありがとうございます。	general,attraction
+2313	5	SYSTEM	他にご用件はありますか？	general,attraction
+2313	6	USER	大丈夫です。ありがとうございました。	general,attraction
+2313	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

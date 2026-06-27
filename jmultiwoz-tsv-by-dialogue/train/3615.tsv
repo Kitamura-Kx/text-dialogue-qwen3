@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3615	0	USER	京都に旅行を計画しています。タクシーを利用したいのですが、キャッシュレス払いができる会社はありますか。	general,taxi
+3615	1	SYSTEM	京都のキャッシュレス対応のあるタクシーをお調べしましたが、該当がございませんでした。	general,taxi
+3615	2	USER	ではキャッシュレス払いにこだわらなくても大丈夫です。	general,taxi
+3615	3	SYSTEM	承知いたしました。キャッシュレス対応を外しましたところ、京都第一交通株式会社を含む10件該当がございます。いかがでしょうか	general,taxi
+3615	4	USER	その京都第一交通株式会社にします。ジャンボタクシー対応はしていますか。	general,taxi
+3615	5	SYSTEM	京都第一交通株式会社でしたらジャンボタクシー対応しております。	general,taxi
+3615	6	USER	ありがとうございます。10/14の10:50に京舞インから閑臥庵で予約をお願いします。	general,taxi
+3615	7	SYSTEM	10月14日10:50出発でご予約が完了しました。予約番号は69010でございます。	general,taxi
+3615	8	USER	ありがとうございます。これで大丈夫です。	general,taxi
+3615	9	SYSTEM	ありがとうございました。	general,taxi

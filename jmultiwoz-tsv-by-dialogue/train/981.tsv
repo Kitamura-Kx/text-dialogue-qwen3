@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+981	0	USER	那覇への旅行を計画しているのですが、こちらで問い合わせよろしいでしょうか？	general,restaurant,hotel,taxi
+981	1	SYSTEM	はい、本日はどういったご用件でしょうか？	general,restaurant,hotel,taxi
+981	2	USER	最寄り駅が小禄駅で無料の駐車場がある飲食店をご紹介いただけないでしょうか？	general,restaurant,hotel,taxi
+981	3	SYSTEM	かしこまりました。では、しゃぶ葉 那覇小禄店はいかがでしょうか？	general,restaurant,hotel,taxi
+981	4	USER	いいですね、6/8の12:50から4名で予約できますか？	general,restaurant,hotel,taxi
+981	5	SYSTEM	はい、ご予約ありがとうございます。予約が完了いたしました。予約番号は、78112です。	general,restaurant,hotel,taxi
+981	6	USER	ありがとうございます。次に宿泊施設を探しています。	general,restaurant,hotel,taxi
+981	7	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,restaurant,hotel,taxi
+981	8	USER	駐車場が無料でWi-Fiが無料で利用できるところを探しています。あと、できればレストランが併設されていると嬉しいです。	general,restaurant,hotel,taxi
+981	9	SYSTEM	では、パシフィックホテル沖縄はいかがでしょうか？ジャンルは、シティホテルで、本庁エリアにございます。	general,restaurant,hotel,taxi
+981	10	USER	いいですね、ちなみにチェックイン、チェックアウトの時刻はどうなっていますか？	general,restaurant,hotel,taxi
+981	11	SYSTEM	チェックインは15時から、チェックアウトは10時までとなっております。	general,restaurant,hotel,taxi
+981	12	USER	ありがとうございます。最後に当日利用できるタクシー会社を探しています。キャッシュレス対応でジャンボタクシーが利用できるタクシー会社はありますか？	general,restaurant,hotel,taxi
+981	13	SYSTEM	はい。では、沖縄交通はいかがでしょうか？	general,restaurant,hotel,taxi
+981	14	USER	ありがとうございます、6/8の14:30でしゃぶ葉 那覇小禄店からパシフィックホテル沖縄まで予約できますか？	general,restaurant,hotel,taxi
+981	15	SYSTEM	ご予約完了いたしました。予約番号は、9621です。	general,restaurant,hotel,taxi
+981	16	USER	大変助かりました、あとは大丈夫です。	general,restaurant,hotel,taxi
+981	17	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant,hotel,taxi

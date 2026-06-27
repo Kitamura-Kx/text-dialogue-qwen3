@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+138	0	USER	那覇の首里地区で、飲食店を紹介してもらえませんか？	general,restaurant,weather
+138	1	SYSTEM	承知致しました。首里地区には飲食店が４軒ございます。サブウェイ 首里りうぼう店、りゅうそう茶屋、カフェ龍樋、屋台赤道ラーメン 首里駅前店となっております。	general,restaurant,weather
+138	2	USER	りゅうそう茶屋っていうのが地元っぽくていいですね。ジャンルは何になりますか？	general,restaurant,weather
+138	3	SYSTEM	ジャンルは郷土料理、カフェ、スイーツとなっております。	general,restaurant,weather
+138	4	USER	郷土料理っていうのがいいですね。首里地区の1月21日の天気や気温ってどんな感じですか？	general,restaurant,weather
+138	5	SYSTEM	はい、天気は晴時々曇、最低気温15.3度、最高気温19.8度となっております。	general,restaurant,weather
+138	6	USER	さすが1月は沖縄でも涼しいですね。色々お世話になりました。ありがとうございました。	general,restaurant,weather

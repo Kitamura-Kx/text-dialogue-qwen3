@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1184	0	USER	那覇へ旅行予定なのですが、当日泊まる宿泊施設を調べてほしいです。	general,hotel,restaurant,taxi
+1184	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,restaurant,taxi
+1184	2	USER	はい。安めでWi-Fiが無料で利用できるところがいいです。あと、最寄り駅がおもろまち駅のところにしてください。	general,hotel,restaurant,taxi
+1184	3	SYSTEM	ありがとうございます。では、アクロスおもろまち那覇はいかがでしょう？何かご案内致しましょうか？	general,hotel,restaurant,taxi
+1184	4	USER	いいですね。レストランがあるかどうかと、料金情報を教えてください。	general,hotel,restaurant,taxi
+1184	5	SYSTEM	はい、申し訳ありませんが、レストランの有無については不明です。料金情報としては、値段帯が安め、Wi-Fiが無料、駐車場は有料でご利用いただける、ということしか情報がございません。他にご案内できることはございますか？	general,hotel,restaurant,taxi
+1184	6	USER	はい。予約をしたいです。4人で7/7から4泊お願いします。	general,hotel,restaurant,taxi
+1184	7	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,hotel,restaurant,taxi
+1184	8	USER	わかりました。では3泊に変更します。	general,hotel,restaurant,taxi
+1184	9	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、2175となります。他にご用件はございますか？	general,hotel,restaurant,taxi
+1184	10	USER	ありがとうございます。焼肉・ホルモンが食べれるところも知りたいです。小禄で駐車場を無料で利用できるところがいいです。	general,hotel,restaurant,taxi
+1184	11	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,hotel,restaurant,taxi
+1184	12	USER	そうですか。では小禄じゃなくても大丈夫です。	general,hotel,restaurant,taxi
+1184	13	SYSTEM	ありがとうございます。エリアでいうと本庁にございます、牛角 おもろまち駅前店はいかがでしょう？何かご案内致しましょうか？	general,hotel,restaurant,taxi
+1184	14	USER	そこいいですね。当日ジャンボタクシーの利用も考えているのですが、いいところはありますか？	general,hotel,restaurant,taxi
+1184	15	SYSTEM	はい、では、那覇第一交通はいかがでしょう？キャッシュレスにも対応しております。電話番号は0988537801となります。予約されますか？	general,hotel,restaurant,taxi
+1184	16	USER	はい、そこにします。7/7の15:20で、アクロスおもろまち那覇から牛角 おもろまち駅前店までの予約をお願いします。	general,hotel,restaurant,taxi
+1184	17	SYSTEM	承知しました。予約が完了し、ご予約番号は、84607となります。他にご用件はございますか？	general,hotel,restaurant,taxi
+1184	18	USER	ありがとうございます。もう大丈夫です。	general,hotel,restaurant,taxi
+1184	19	SYSTEM	ありがとうございました。	general,hotel,restaurant,taxi

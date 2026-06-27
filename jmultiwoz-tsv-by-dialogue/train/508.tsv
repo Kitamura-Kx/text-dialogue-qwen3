@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+508	0	USER	横浜で買い物ができるところを探してもらえますか？	general,shopping,attraction
+508	1	SYSTEM	承知しました。エリアなどのご希望はございますか？	general,shopping,attraction
+508	2	USER	そうですね、商店街で、駐車場が無料で使えるところがいいなと思っています。	general,shopping,attraction
+508	3	SYSTEM	ありがとうございます。3件ございます。六角橋商店街、元町商店街、弘明寺かんのん通り商店街です。	general,shopping,attraction
+508	4	USER	なるほど。六角橋商店街はエリアはどのあたりになりますか？	general,shopping,attraction
+508	5	SYSTEM	はい、エリアは神奈川区となります。	general,shopping,attraction
+508	6	USER	定休日はありますか？	general,shopping,attraction
+508	7	SYSTEM	定休日は店舗により異なる、とのことです。	general,shopping,attraction
+508	8	USER	わかりました。当日、観光名所もまわりたいのですが、保土ケ谷駅近くでどこかありますか？	general,shopping,attraction
+508	9	SYSTEM	はい、保土ヶ谷公園がございます。ジャンルは自然、公園、スポーツ、フィットネス、アートギャラリー、植物園となります。	general,shopping,attraction
+508	10	USER	そちらはWi-Fiを無料で利用できますか？	general,shopping,attraction
+508	11	SYSTEM	申し訳ありません。Wi-Fiの有無については不明です。	general,shopping,attraction
+508	12	USER	そうなんですね。では、最寄り駅は問わないので、Wi-Fiが無料で利用できる観光名所を探してください。	general,shopping,attraction
+508	13	SYSTEM	承知しました。では、カップヌードルミュージアム 横浜はいかがでしょう？ジャンルは美術館、博物館、工場見学となります。	general,shopping,attraction
+508	14	USER	いいですね。そちらの施設ですが、エリアはどのあたりになりますか？	general,shopping,attraction
+508	15	SYSTEM	エリアは中区となります。	general,shopping,attraction
+508	16	USER	わかりました。教えてくれてありがとうございました。	general,shopping,attraction

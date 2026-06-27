@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3083	0	USER	大阪へ行きます。天神橋筋六丁目駅周辺で観光名所ありますか？	general,attraction,hotel
+3083	1	SYSTEM	天神橋筋あたりの観光といえば、大阪くらしの今昔館、こちらになります。	general,attraction,hotel
+3083	2	USER	定休日と子供の入場料教えて下さい。	general,attraction,hotel
+3083	3	SYSTEM	火曜日と年末年始が定休です。子供は高校生や大学生が３００円、２０名以上の団体なら２００円、中学生以下は無料です。	general,attraction,hotel
+3083	4	USER	分かりました。あと、阿倍野区で予算が普通な宿泊施設教えて下さい。	general,attraction,hotel
+3083	5	SYSTEM	阿倍野区に予算普通の宿泊施設はなさそうです。	general,attraction,hotel
+3083	6	USER	では、予算は気にしなくて大丈夫です。	general,attraction,hotel
+3083	7	SYSTEM	それならば、ヴィアインあべの天王寺、こちらをお勧めします。	general,attraction,hotel
+3083	8	USER	そちらは、駐車場とレストランはありますか？	general,attraction,hotel
+3083	9	SYSTEM	駐車場は有料ですがあります。レストランは併設されています。	general,attraction,hotel
+3083	10	USER	わかりました、ありがとうございました。では。	general,attraction,hotel
+3083	11	SYSTEM	よい旅を	general,attraction,hotel

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2086	0	USER	那覇への旅行を計画しています。当日買い物が出来る所を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,shopping
+2086	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,shopping
+2086	2	USER	真和志地区で、駐車場が無料で利用出来る場所ってありますかね？	general,shopping
+2086	3	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,shopping
+2086	4	USER	そうですか。では、真和志地区でなくて大丈夫ですので、駐車場が無料で利用できるお店ってありますか？	general,shopping
+2086	5	SYSTEM	かしこまりました。では、デパートリウボウはいかがでしょうか？エリアは本庁になります。	general,shopping
+2086	6	USER	そちらで検討してみようと思います。ちなみに、そちらへ向かう際の、最寄り駅を教えてもらってもよろしいでしょうか？	general,shopping
+2086	7	SYSTEM	はい。最寄り駅は県庁前駅となっております。	general,shopping
+2086	8	USER	ありがとうございます。これで当日は大丈夫そうです。ありがとうございました！	general,shopping
+2086	9	SYSTEM	承知しました。ありがとうございました。	general,shopping

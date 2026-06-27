@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1828	0	USER	大阪へ旅行に行くんですが、飲食店を探してほしいです！	general,restaurant,weather
+1828	1	SYSTEM	希望条件などは、ございますか？	general,restaurant,weather
+1828	2	USER	カフェ・スイーツを食べたいです！予算は安めでお願いします！	general,restaurant,weather
+1828	3	SYSTEM	Cafe ABSINTHEは、いかがですか？	general,restaurant,weather
+1828	4	USER	いいですね！最寄り駅は分かりますか？	general,restaurant,weather
+1828	5	SYSTEM	最寄り駅は、四ツ橋駅です。	general,restaurant,weather
+1828	6	USER	ありがとうございます。予約をお願いします！10/30の10:30に2人で行きたいです。	general,restaurant,weather
+1828	7	SYSTEM	予約が完了しました。　予約番号は、14831です。	general,restaurant,weather
+1828	8	USER	ありがとうございます。西成区の10/30の天気も分かりますか？気温が知りたいです。	general,restaurant,weather
+1828	9	SYSTEM	天気は、晴時々曇です。	general,restaurant,weather
+1828	10	USER	最低気温と最高気温は分かりますか？	general,restaurant,weather
+1828	11	SYSTEM	最低気温は、10.3度です。　最高気温は21.5度です。	general,restaurant,weather
+1828	12	USER	ありがとうございます。	general,restaurant,weather
+1828	13	SYSTEM	他にご用件はありますか？	general,restaurant,weather
+1828	14	USER	これで大丈夫です。ありがとうございました。	general,restaurant,weather
+1828	15	SYSTEM	承知致しました。　ありがとうございました。	general,restaurant,weather

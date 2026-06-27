@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+220	0	USER	7/27に京都への旅行を計画しています。	general,weather,taxi
+220	1	SYSTEM	京都へのご旅行ですね。本日はどういったお手伝いをいたしましょうか？	general,weather,taxi
+220	2	USER	服装の参考にしたいので、東山区の最低気温を教えてください。	general,weather,taxi
+220	3	SYSTEM	かしこまりました。7/27の東山区の最低気温は、25.8度です。天気は、曇のち雨の予報となっております。	general,weather,taxi
+220	4	USER	ありがとうございます。あとキャッシュレス払い対応のジャンボタクシーが利用できるタクシー会社も探してもらえますか？	general,weather,taxi
+220	5	SYSTEM	10件ほど候補がございます。タクシー会社でご希望のところはございますか？	general,weather,taxi
+220	6	USER	いえ、特にありません。	general,weather,taxi
+220	7	SYSTEM	では、エムケイ株式会社はいかがでしょうか？キャッシュレス払いとジャンボタクシーの両方に対応しております。	general,weather,taxi
+220	8	USER	そこでお願いしようと思います。7/27の10:40にA4黒毛和牛熟成肉焼肉 Yakiniku221からエムズホテル五条ODAWARAまで予約をお願いします。	general,weather,taxi
+220	9	SYSTEM	ご予約お取りできました。予約番号は、70812です。	general,weather,taxi
+220	10	USER	ありがとうございます。	general,weather,taxi
+220	11	SYSTEM	ほかには、なにかお手伝いできることはありますか？	general,weather,taxi
+220	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,weather,taxi
+220	13	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,weather,taxi

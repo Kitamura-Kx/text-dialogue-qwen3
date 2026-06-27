@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4020	0	USER	名古屋への旅行を考えているので、最寄り駅が山王駅の宿泊施設を探してもらえますか？駐車場が無料だと嬉しいです。	general,hotel,taxi
+4020	1	SYSTEM	山王駅で駐車場無料の宿泊施設は２つありますが、N HOTEL、こちらをお勧めします。	general,hotel,taxi
+4020	2	USER	よさげですね。値段帯と住所はわかります？	general,hotel,taxi
+4020	3	SYSTEM	値段帯は安め、住所は愛知県名古屋市中川区山王1丁目2-20になります。	general,hotel,taxi
+4020	4	USER	わかりました。あと、タクシーも利用するので、キャッシュレス払いができるところを教えてください。	general,hotel,taxi
+4020	5	SYSTEM	名古屋でキャッシュレス対応の会社はいくつかありますが、伸和交通、こちらをお勧めします。	general,hotel,taxi
+4020	6	USER	なるほど。電話番号も教えてください。	general,hotel,taxi
+4020	7	SYSTEM	0522031212になります。	general,hotel,taxi
+4020	8	USER	では、そこで5/15の13:50にN HOTELを出発してニュー松竹梅ホテルまで予約をお願いします。	general,hotel,taxi
+4020	9	SYSTEM	予約成功しました。予約番号は60920です。	general,hotel,taxi
+4020	10	USER	それだけです。ありがとうございました。	general,hotel,taxi
+4020	11	SYSTEM	よい旅を。	general,hotel,taxi

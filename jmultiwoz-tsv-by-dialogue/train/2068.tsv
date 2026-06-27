@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2068	0	USER	福岡の東区で医薬品や化粧品が買えるお店を探してほしいです。	general,shopping
+2068	1	SYSTEM	かしこまりました。その条件ですと、ドラッグストアモリ 香椎宮前店はいかがでしょうか？	general,shopping
+2068	2	USER	駐車場が無料で使えるところがいいのですが、そちらのお店はどうですか？	general,shopping
+2068	3	SYSTEM	はい、駐車場は無料でご利用いただけます。	general,shopping
+2068	4	USER	では、そこに行きたいと思います。営業時間はわかりますか？	general,shopping
+2068	5	SYSTEM	はい、9時から0時までとなっております。	general,shopping
+2068	6	USER	わかりました。どうもありがとうございました。	general,shopping

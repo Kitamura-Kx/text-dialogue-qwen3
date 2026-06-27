@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+959	0	USER	大阪の阿倍野区で飲食店を探しているんですが。	general,restaurant,shopping,taxi
+959	1	SYSTEM	赤から あべのハルカスダイニング店がございます。	general,restaurant,shopping,taxi
+959	2	USER	それでお願いします。2/22の14:50、3人で予約できますか？	general,restaurant,shopping,taxi
+959	3	SYSTEM	申し訳ございません。その条件では予約ができませんでした	general,restaurant,shopping,taxi
+959	4	USER	仕方ないですね、、、予約人数を2人に変更してください。	general,restaurant,shopping,taxi
+959	5	SYSTEM	かしこまりました。その人数ですと予約が可能でございました。予約番号は53213でございます。	general,restaurant,shopping,taxi
+959	6	USER	ありがとうございます。ついでに無料で駐車できる買い物スポットも教えて頂けますか？	general,restaurant,shopping,taxi
+959	7	SYSTEM	三井アウトレットパーク 大阪鶴見はいかがですか。	general,restaurant,shopping,taxi
+959	8	USER	そこはジャンルでいうとどれになりますか？営業時間も教えてください。	general,restaurant,shopping,taxi
+959	9	SYSTEM	アウトレットモールでございます。営業時間は10:00～20:00でございます。	general,restaurant,shopping,taxi
+959	10	USER	分かりました。続いてタクシーの予約もお願いできますか？ジャンボータクシーが使えるといいのですが。	general,restaurant,shopping,taxi
+959	11	SYSTEM	東京・日本交通株式会社がございます。	general,restaurant,shopping,taxi
+959	12	USER	そちらでお願いします。2/22の16:50で予約したいです。出発は赤から あべのハルカスダイニング店で、目的地は三井アウトレットパーク 大阪鶴見です。	general,restaurant,shopping,taxi
+959	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は76375でございます。	general,restaurant,shopping,taxi
+959	14	USER	タクシー会社の電話番号も教えて下さい！	general,restaurant,shopping,taxi
+959	15	SYSTEM	0666493171でございます。	general,restaurant,shopping,taxi
+959	16	USER	分かりました。ありがとうございます！	general,restaurant,shopping,taxi

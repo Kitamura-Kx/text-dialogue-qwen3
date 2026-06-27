@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4117	0	USER	札幌でレストランが併設されていてwifiが無料でつかえる宿泊施設はありますか、予算は普通でお願いします	general,hotel,weather
+4117	1	SYSTEM	かしこまりました。では、定山渓第一寶亭留 翠山亭はいかがでしょうか。	general,hotel,weather
+4117	2	USER	近場の駅からの所要時間とチェックアウトの時間を教えてください	general,hotel,weather
+4117	3	SYSTEM	真駒内駅からタクシーで27分で、チェックアウト終了時刻は11:00となっております。	general,hotel,weather
+4117	4	USER	ありがとうございます、では2月21日に2名で四泊分予約お願いします	general,hotel,weather
+4117	5	SYSTEM	はい。予約が完了いたしました。予約番号は51104でございます。	general,hotel,weather
+4117	6	USER	ありがとうございます、2月21日の東区の最低気温は何度ですか	general,hotel,weather
+4117	7	SYSTEM	当日の最低気温は-8度でございます。	general,hotel,weather
+4117	8	USER		general,hotel,weather

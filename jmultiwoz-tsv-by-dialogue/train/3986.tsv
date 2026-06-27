@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3986	0	USER	札幌の東区でおもちゃの買い物ができるところを探しています。	general,shopping,attraction
+3986	1	SYSTEM	かしこまりました。では、トイザらス・ベビーザらス札幌店はいかがでしょうか。	general,shopping,attraction
+3986	2	USER	駐車場はありますか？	general,shopping,attraction
+3986	3	SYSTEM	はい。無料でご利用いただけます。	general,shopping,attraction
+3986	4	USER	あと、展望台とかタワーの観光名所はありますか？	general,shopping,attraction
+3986	5	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,attraction
+3986	6	USER	ではジャンルは考慮しません。	general,shopping,attraction
+3986	7	SYSTEM	では札幌市時計台はいかがですか。	general,shopping,attraction
+3986	8	USER	そこにします。住所と料金情報を教えてください。	general,shopping,attraction
+3986	9	SYSTEM	住所は北海道札幌市中央区北1条西2丁目でございます。料金情報は、大人が200円、小中学生高校生は無料となっております。	general,shopping,attraction
+3986	10	USER	ありがとうございます。	general,shopping,attraction
+3986	11	SYSTEM	ほかにご用件はございませんか。	general,shopping,attraction
+3986	12	USER	ありません。	general,shopping,attraction
+3986	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction

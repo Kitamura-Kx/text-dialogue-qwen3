@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1229	0	USER	仙台でショッピングを予定しているので、お店を探してもらえますか？	general,shopping
+1229	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,shopping
+1229	2	USER	泉区が良いです。文房具や雑貨を見たいと考えています。	general,shopping
+1229	3	SYSTEM	では、蔦屋書店 仙台泉店は如何でしょうか？	general,shopping
+1229	4	USER	ちなみに、そのお店には無料駐車場はありますか？	general,shopping
+1229	5	SYSTEM	はい、ございます。	general,shopping
+1229	6	USER	良かったです。では営業時間も教えてください。	general,shopping
+1229	7	SYSTEM	営業時間は、9:00～21:00でございます。	general,shopping
+1229	8	USER	そこに行ってみますね。ありがとうございます。	general,shopping
+1229	9	SYSTEM	他にお調べすることはございますか？	general,shopping
+1229	10	USER	これで以上です。	general,shopping
+1229	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

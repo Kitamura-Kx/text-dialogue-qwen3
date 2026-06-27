@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2028	0	USER	福岡の東区にある吉塚駅近くの観光名所を探しています。無料Wi-Fiが利用できるところだと嬉しいです。	general,attraction,restaurant,hotel
+2028	1	SYSTEM	申し訳ありません。この条件ではご案内できません。いかが致しましょう？	general,attraction,restaurant,hotel
+2028	2	USER	そうですか。では最寄り駅が吉塚駅じゃなくても構いません。無料Wi-Fiが利用できる東区の観光名所だったらありますか？	general,attraction,restaurant,hotel
+2028	3	SYSTEM	海の中道海浜公園 動物の森はいかがでしょう？ジャンルは、動物園、自然、公園、となります。	general,attraction,restaurant,hotel
+2028	4	USER	そちらに駐車場はありますか？	general,attraction,restaurant,hotel
+2028	5	SYSTEM	有料ですがご利用いただけます。	general,attraction,restaurant,hotel
+2028	6	USER	あと子供の入場料も教えて下さい。	general,attraction,restaurant,hotel
+2028	7	SYSTEM	子供入場料は無料となっております。	general,attraction,restaurant,hotel
+2028	8	USER	ありがとうございます。当日、安く和食が食べれるお店も探しています。駐車場が無料のところがいいです。	general,attraction,restaurant,hotel
+2028	9	SYSTEM	エリアでいうと早良区にある、資さんうどん 原店はいかがでしょう？	general,attraction,restaurant,hotel
+2028	10	USER	そちらのお店の最寄り駅はどこになりますか？	general,attraction,restaurant,hotel
+2028	11	SYSTEM	最寄りの藤崎駅から徒歩で23分となります。	general,attraction,restaurant,hotel
+2028	12	USER	営業時間と定休日も教えて下さい。	general,attraction,restaurant,hotel
+2028	13	SYSTEM	営業時間は0時から0時、定休日はございません。	general,attraction,restaurant,hotel
+2028	14	USER	そちらのお店の予約お願いします。１月３１日の１４時半に４人でお願いします。	general,attraction,restaurant,hotel
+2028	15	SYSTEM	予約が完了し、ご予約番号は、57370となります。他にご用件はございますか？	general,attraction,restaurant,hotel
+2028	16	USER	予約ありがとうございました。あと、東区でレストランのある安く泊まれるところも探しているんですが、どこかありますか？	general,attraction,restaurant,hotel
+2028	17	SYSTEM	はい、The358 UMIはいかがでしょう？タイプはリゾートホテルとなります。	general,attraction,restaurant,hotel
+2028	18	USER	そちらの住所とチェックアウトの終了時刻も教えてください。	general,attraction,restaurant,hotel
+2028	19	SYSTEM	住所は福岡県福岡市東区香椎照葉6丁目6-5、チェックアウト終了時刻は10時となります。	general,attraction,restaurant,hotel
+2028	20	USER	ありがとうございました。	general,attraction,restaurant,hotel
+2028	21	SYSTEM	他にご用件はございますか？	general,attraction,restaurant,hotel
+2028	22	USER	大丈夫です。ありがとうございました。	general,attraction,restaurant,hotel
+2028	23	SYSTEM	ありがとうございました。	general,attraction,restaurant,hotel

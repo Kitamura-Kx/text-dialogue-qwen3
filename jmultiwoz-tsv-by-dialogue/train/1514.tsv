@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1514	0	USER	こんにちは。仙台に行こうと思ってて、駐車場が無料で使えるアウトレットモールはありますか？	general,shopping,weather,taxi
+1514	1	SYSTEM	はい、エリアでいうと泉区にある、仙台泉プレミアム・アウトレットはいかがでしょう？	general,shopping,weather,taxi
+1514	2	USER	いいですね。そこにします。若林区の3/22の天候ってわかりますか？	general,shopping,weather,taxi
+1514	3	SYSTEM	はい、天気は晴、最低気温7.1度、最高気温9.5度となります。他にご案内できることはございますか？	general,shopping,weather,taxi
+1514	4	USER	ありがとうございます。当日利用できるタクシー会社も探してほしいです。キャッシュレス払い可能で、ジャンボタクシー利用可なところでお願いします。	general,shopping,weather,taxi
+1514	5	SYSTEM	申し訳ございません。ご紹介可能なタクシー会社がございません。いかが致しましょう？	general,shopping,weather,taxi
+1514	6	USER	じゃあジャンボタクシーは利用できなくても大丈夫です。	general,shopping,weather,taxi
+1514	7	SYSTEM	では、永楽交通（株）はいかがでしょう？電話番号は、0222484546となります。	general,shopping,weather,taxi
+1514	8	USER	ありがとうございます。ではそのタクシー会社で、3/22の14:30、出発地は仙台泉プレミアム・アウトレット、目的地は仙台市野草園で予約をお願いします。	general,shopping,weather,taxi
+1514	9	SYSTEM	申し訳ありません。この条件では予約ができません。いかがされますか？	general,shopping,weather,taxi
+1514	10	USER	時間を15:20に変更したら予約できそうですか？	general,shopping,weather,taxi
+1514	11	SYSTEM	はい、予約が可能になりまして、ご予約番号は、81880となります。他にご用件はございますか？	general,shopping,weather,taxi
+1514	12	USER	ありがとうございます。いえ、これで全てです。案内ありがとうございました。	general,shopping,weather,taxi
+1514	13	SYSTEM	ありがとうございました。	general,shopping,weather,taxi

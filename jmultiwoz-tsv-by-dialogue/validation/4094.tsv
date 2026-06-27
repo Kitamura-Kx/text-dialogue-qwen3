@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4094	0	USER	横浜への旅行を計画中で、ビジネスホテルを探しています。無料Wi-fi付きがいいです。	general,hotel
+4094	1	SYSTEM	横浜で無料WiFiのあるビジネスホテルはいくつかありますが、JR東日本ホテルメッツ 横浜鶴見、こちらをお勧めします。	general,hotel
+4094	2	USER	そこにしようと思います。料金情報を教えてください。	general,hotel
+4094	3	SYSTEM	値段帯は安めですが、料金情報詳細は不明です。	general,hotel
+4094	4	USER	助かります。ありがとうございました。	general,hotel

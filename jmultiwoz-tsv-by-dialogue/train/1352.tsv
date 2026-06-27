@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1352	0	USER	札幌への旅行を計画しています．	general,hotel,weather
+1352	1	SYSTEM	はい。お問合せありがとうございます。	general,hotel,weather
+1352	2	USER	当日泊まる宿泊施設を探してください．宿のタイプはビジネスホテルでレストランが併設されているところで駐車場を無料で利用できるところがいいです。	general,hotel,weather
+1352	3	SYSTEM	ホテルルートイン札幌白石はいかがでしょうか。	general,hotel,weather
+1352	4	USER	そちらの近辺の駅からの所要時間，チェックアウト終了時刻，最寄り駅をおしえてください。	general,hotel,weather
+1352	5	SYSTEM	近辺の駅からの所要時間は白石駅から徒歩で20分でチェックアウト終了時刻は10:00、最寄り駅は白石駅です。	general,hotel,weather
+1352	6	USER	そちらで数は3人で日付は1/6で宿泊日数は4泊で予約して欲しいです。	general,hotel,weather
+1352	7	SYSTEM	予約完了いたしました。予約番号は44124になります。	general,hotel,weather
+1352	8	USER	ありがとうございます。あと1/6の地区は豊平区の天気が知りたいです。	general,hotel,weather
+1352	9	SYSTEM	天気は雪です。	general,hotel,weather
+1352	10	USER	ありがとうございます。最高気温も教えてください。	general,hotel,weather
+1352	11	SYSTEM	最高気温は0.2度になります。	general,hotel,weather
+1352	12	USER	ありがとうございます。	general,hotel,weather

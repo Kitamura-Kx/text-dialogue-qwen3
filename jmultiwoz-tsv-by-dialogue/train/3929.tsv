@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3929	0	USER	こんにちは、今那覇への旅行を計画していまして真和志にある観光名所を探しています。	general,attraction,hotel,taxi
+3929	1	SYSTEM	はい、承知いたしました。４件ございます、何かご希望がございますか。	general,attraction,hotel,taxi
+3929	2	USER	いいえ、他に希望はありません。おすすめの場所のお名前を教えていただけますか？	general,attraction,hotel,taxi
+3929	3	SYSTEM	識名園は如何でしょう。首里駅の近くで、ジャンルは庭園, 歴史的建造物, 世界遺産となっております。	general,attraction,hotel,taxi
+3929	4	USER	ありがとうございます、そこに行ってみたいと思います。あと、当日泊まれるところを探していましてWi-Fiが無料で古島駅近くにあるホテルや旅館はありますでしょうか？	general,attraction,hotel,taxi
+3929	5	SYSTEM	HOTEL COZY STAY IN 那覇曙というところがございます。	general,attraction,hotel,taxi
+3929	6	USER	ありがとうございます、ちなみにそのホテルのタイプは何になりますか？	general,attraction,hotel,taxi
+3929	7	SYSTEM	タイプは、その他となっております。	general,attraction,hotel,taxi
+3929	8	USER	その他のタイプということで了解しました。では、そちらを6/17から2名で4泊分予約いただけないでしょうか？	general,attraction,hotel,taxi
+3929	9	SYSTEM	承知いたしました。6/17から2名で4泊分予約いたしました。予約番号は5719となります。	general,attraction,hotel,taxi
+3929	10	USER	ありがとうございます。では最後にタクシーの予約をお願いしたいです。ジャンボタクシーの利用できるタクシーはありますか？	general,attraction,hotel,taxi
+3929	11	SYSTEM	はい、９件御座います。	general,attraction,hotel,taxi
+3929	12	USER	ではオススメのタクシー会社とキャッシュレス対応の可否について教えていただけますか？	general,attraction,hotel,taxi
+3929	13	SYSTEM	承知いたしました。三和交通でキャッシュレス対応しております。	general,attraction,hotel,taxi
+3929	14	USER	ありがとうございます、では6/17の16:30に識名園からHOTEL COZY STAY IN 那覇曙までタクシーを予約していただけないでしょうか？	general,attraction,hotel,taxi
+3929	15	SYSTEM	はい、6/17の16:30に識名園からHOTEL COZY STAY IN 那覇曙までご予約しました。予約番号は12669になります。	general,attraction,hotel,taxi
+3929	16	USER	ありがとうございました。本日相談したかった内容は以上となります。	general,attraction,hotel,taxi
+3929	17	SYSTEM	ありがとうございます。	general,attraction,hotel,taxi

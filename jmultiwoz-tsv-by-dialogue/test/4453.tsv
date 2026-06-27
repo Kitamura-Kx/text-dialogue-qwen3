@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4453	0	USER	こんにちは。札幌の観光名所を探しています	general,attraction,hotel
+4453	1	SYSTEM	札幌の観光名所ですね。ご希望の条件は何かございますか？	general,attraction,hotel
+4453	2	USER	ありがとうございます。条件は駐車場が無料、世界遺産、Wi-Fiが無料で利用できると嬉しいです	general,attraction,hotel
+4453	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,hotel
+4453	4	USER	わかりました。温泉だといかがでしょうか？	general,attraction,hotel
+4453	5	SYSTEM	そうしますと、シャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートというところが、1件ご案内可能です。いかがでしょうか？	general,attraction,hotel
+4453	6	USER	ありがとうございます。ちなみに子供の入場料が無料な場所はございますか	general,attraction,hotel
+4453	7	SYSTEM	申し訳ありません、こちらは、お子様の入場料は不明となっております。また、入場料にて、ほかの観光名所を探すことはできかねまして、いかがいたしましょう？	general,attraction,hotel
+4453	8	USER	かしこまりました。レストランが併設されている場所はございますか	general,attraction,hotel
+4453	9	SYSTEM	恐れ入ります。レストラン併設の宿泊施設をお探しということで、よろしいでしょうか？	general,attraction,hotel
+4453	10	USER	はい。	general,attraction,hotel
+4453	11	SYSTEM	札幌で、レストラン併設宿泊施設は73件ございます。他にはなにか、ご希望の条件はございませんか？	general,attraction,hotel
+4453	12	USER	予算は普通を希望しています。あと駐車場は無料を希望しています	general,attraction,hotel
+4453	13	SYSTEM	そうしましたら、定山渓第一寶亭留 翠山亭というところは、いかがでしょうか？	general,attraction,hotel
+4453	14	USER	ありがとうございます。そちらの料金はいくらになりますでしょうか？	general,attraction,hotel
+4453	15	SYSTEM	申し訳ありません、こちらはお値段帯が普通であるということ以外、詳しい料金情報は不明です。	general,attraction,hotel
+4453	16	USER	かしこまりました。ありがとうございました。	general,attraction,hotel
+4453	17	SYSTEM	他にお調べすることはございませんか？	general,attraction,hotel
+4453	18	USER	問題ございません。ありがとうございました。	general,attraction,hotel
+4453	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,hotel

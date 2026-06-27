@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+215	0	USER	大阪に行くつもりなんですが、旭区で無料で車を置ける買い物施設はありますか？	general,shopping
+215	1	SYSTEM	いただいた条件ですと、候補がありません。	general,shopping
+215	2	USER	そしたら、駐車場は特に気にしないとしたら、どうでしょうか？	general,shopping
+215	3	SYSTEM	候補が1件のみ、寳来堂というお店があります。	general,shopping
+215	4	USER	そこは定休日はどんな感じになっていますか？	general,shopping
+215	5	SYSTEM	月曜定休です！	general,shopping
+215	6	USER	周辺の駅からだと、どうやっていけばいいですか？	general,shopping
+215	7	SYSTEM	千林大宮駅から徒歩で3分になります。	general,shopping
+215	8	USER	他には行き方はありますか？	general,shopping
+215	9	SYSTEM	他に行き方はございませんね。	general,shopping
+215	10	USER	わかりました。ありがとうございました。以上です。	general,shopping
+215	11	SYSTEM	承知いたしました。お問いあわせいただきありがとうございました。	general,shopping

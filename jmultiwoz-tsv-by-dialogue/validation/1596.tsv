@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1596	0	USER	名古屋旅行を計画していて、当日の飲食店を探しています。居酒屋でWi-Fi無料のところが良いのですが。	general,restaurant,attraction,weather
+1596	1	SYSTEM	承知いたしました。では、とり焼肉 もう壱鳥というお店はいかがでしょうか？	general,restaurant,attraction,weather
+1596	2	USER	ありがとうございます。そこにしようと思います。お店の住所と、近辺の駅からの所要時間を教えて貰えますか？	general,restaurant,attraction,weather
+1596	3	SYSTEM	かしこまりました。住所は、愛知県名古屋市東区泉1丁目6-20です。最寄りの高岳駅から徒歩で7分、また久屋大通駅から徒歩で14分でもアクセス可能です。	general,restaurant,attraction,weather
+1596	4	USER	ありがとうございます。観光名所も探していまして、最寄り駅がいりなか駅で駐車場が無料の所が良いです。	general,restaurant,attraction,weather
+1596	5	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,attraction,weather
+1596	6	USER	では、最寄り駅は考慮しません。	general,restaurant,attraction,weather
+1596	7	SYSTEM	ありがとうございます。そうしますと、名古屋市農業センターdelaふぁーむというところはいかがでしょうか？最寄りは、平針駅で、天白区エリアの観光名所でございます。	general,restaurant,attraction,weather
+1596	8	USER	ありがとうございます。そこはWi-Fiはありますか？	general,restaurant,attraction,weather
+1596	9	SYSTEM	申し訳ありません。WiFiの有無は不明となっております。	general,restaurant,attraction,weather
+1596	10	USER	ありがとうございます。あと、当日の天気も知りたいです。9/17の緑区の最低気温は分かりますか？	general,restaurant,attraction,weather
+1596	11	SYSTEM	はい、かしこまりました。当日の最低気温は25.1度です。尚、天気は、曇の予報となっております。	general,restaurant,attraction,weather
+1596	12	USER	ありがとうございます。	general,restaurant,attraction,weather
+1596	13	SYSTEM	ほかに、お知りになりたい情報などございませんか？	general,restaurant,attraction,weather
+1596	14	USER	いえ、今のところは大丈夫です。助かりました。ありがとうございました。	general,restaurant,attraction,weather
+1596	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,attraction,weather

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4064	0	USER	札幌へ旅行の予定です。駐車場が無料の買い物施設はありますか？	general,shopping,hotel,weather
+4064	1	SYSTEM	お調べしますと、マルヤマクラスほか32件ございます。他に条件などございますか？	general,shopping,hotel,weather
+4064	2	USER	条件は特にないので、マルヤマクラスの営業時間を教えてください。	general,shopping,hotel,weather
+4064	3	SYSTEM	承知いたしました。営業時間は10:00から20:00でございます。	general,shopping,hotel,weather
+4064	4	USER	ありがとうございます。では、当日泊まれるビジネスホテルタイプでレストラン併設の施設はありますか？	general,shopping,hotel,weather
+4064	5	SYSTEM	はい、三井ガーデンホテル札幌ほか41件該当ございます。いかがいたしましょうか？	general,shopping,hotel,weather
+4064	6	USER	ありがとうございます！では三井ガーデンホテル札幌のチェックイン開始時刻と電話番号を教えてください。	general,shopping,hotel,weather
+4064	7	SYSTEM	チェックイン開始は15時でございます。電話番号は、0112801131です。	general,shopping,hotel,weather
+4064	8	USER	ありがとうございます。では、4/29当日の南区のお天気はどんな感じでしょうか？	general,shopping,hotel,weather
+4064	9	SYSTEM	4月29日の港区は曇でございます。	general,shopping,hotel,weather
+4064	10	USER	ありがとうございました！	general,shopping,hotel,weather
+4064	11	SYSTEM	ありがとうございました。	general,shopping,hotel,weather

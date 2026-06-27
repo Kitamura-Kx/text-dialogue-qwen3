@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4357	0	USER	札幌へ旅行をする予定なのですが、当日訪れる観光名所を探しています。駐車場無料のところはありますでしょうか。	general,attraction
+4357	1	SYSTEM	お待たせ致しました。それでは札幌オリンピックミュージアムはいかがしましょうか？	general,attraction
+4357	2	USER	そちらの定休日と営業時間を教えてください。	general,attraction
+4357	3	SYSTEM	はい、定休日は無しでして、営業時間が9時から18時でございます。	general,attraction
+4357	4	USER	ありがとうございました。	general,attraction

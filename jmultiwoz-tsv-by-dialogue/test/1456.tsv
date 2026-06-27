@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1456	0	USER	名古屋へ旅行に行くんですが、買い物ができるところを探してください。	general,shopping,weather
+1456	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,weather
+1456	2	USER	最寄り駅が栄駅で、駐車場が無料のところがいいです！	general,shopping,weather
+1456	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,weather
+1456	4	USER	では駐車場はどちらでも大丈夫です。	general,shopping,weather
+1456	5	SYSTEM	ではオアシス21がございます。	general,shopping,weather
+1456	6	USER	住所も分かりますか？	general,shopping,weather
+1456	7	SYSTEM	住所は愛知県名古屋市東区東桜1丁目11-1でございます。	general,shopping,weather
+1456	8	USER	ありがとうございます。5/5の東区の天気を教えてくれませんか？	general,shopping,weather
+1456	9	SYSTEM	天気は雨のち晴、最低気温が19.2度で最高気温が26.9度でございます。	general,shopping,weather
+1456	10	USER	詳しくありがとうございます。助かりました！	general,shopping,weather
+1456	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

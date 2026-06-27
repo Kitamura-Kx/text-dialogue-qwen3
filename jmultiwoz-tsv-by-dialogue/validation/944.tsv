@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+944	0	USER	横浜で飲食店を探しています。	general,restaurant
+944	1	SYSTEM	かしこまりました。１１９件ヒットしますが、ご希望の条件はございますか。	general,restaurant
+944	2	USER	関内駅が最寄り駅のところがいいです。	general,restaurant
+944	3	SYSTEM	では少人数貸切×隠れ家ダイニング WOODBELL(ウッドベル)関内はいかがでしょうか。	general,restaurant
+944	4	USER	ありがとうございます。そちらはWi-Fiはありますか？	general,restaurant
+944	5	SYSTEM	はい。無料でWi-Fiを利用していただけます。	general,restaurant
+944	6	USER	分かりました。では、3/1の15:00で４名、予約をお願いできますか？	general,restaurant
+944	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は68568でございます。	general,restaurant
+944	8	USER	ありがとうございます。以上です、お世話になりました。	general,restaurant
+944	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

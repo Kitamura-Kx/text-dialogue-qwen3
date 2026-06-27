@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+664	0	USER	那覇への旅行を計画していて、当日の観光名所を探しています。	general,attraction,taxi
+664	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,taxi
+664	2	USER	駐車場が無料で、最寄り駅が三栄橋駅のところが良いです。	general,attraction,taxi
+664	3	SYSTEM	申し訳ありません、その条件ではご紹介ができません。いかが致しましょう？	general,attraction,taxi
+664	4	USER	では駐車場は有料でもいいです。	general,attraction,taxi
+664	5	SYSTEM	ありがとうございます。1件ございます。よしもと沖縄花月です。エリアは本庁、最寄りの三栄橋駅から徒歩で10分となります。	general,attraction,taxi
+664	6	USER	ありがとうございます。タクシー会社も探していまして、キャッスレス払いが出来るところがいいのですが。	general,attraction,taxi
+664	7	SYSTEM	承知しました。では、沖縄第一交通株式会社はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は0120780124となります。	general,attraction,taxi
+664	8	USER	ありがとうございます。9月1日の9：40から予約をとって貰えますか？	general,attraction,taxi
+664	9	SYSTEM	承知しました。お手数ですが、出発地と目的地を教えていただけますか？	general,attraction,taxi
+664	10	USER	よしもと沖縄花月から沖縄逸の彩 温泉リゾートホテルまでお願いします。	general,attraction,taxi
+664	11	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、22912となります。	general,attraction,taxi
+664	12	USER	ありがとうございました。	general,attraction,taxi
+664	13	SYSTEM	他にご用件はございますか？	general,attraction,taxi
+664	14	USER	いえ、他にはありません。ありがとうございました。	general,attraction,taxi

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2834	0	USER	こんにちは。横浜に行こうと思ってるんですけど、保土ケ谷区でスポーツとかフィットネス系の観光名所ってありますか？	general,attraction
+2834	1	SYSTEM	はい、保土ヶ谷公園がございます。	general,attraction
+2834	2	USER	そこってWi-Fiありますか？あと近くの駅からの所要時間と最寄り駅も知りたいです。	general,attraction
+2834	3	SYSTEM	申し訳ありません、Wi-Fiの有無は不明となっております。最寄りの星川駅からバスで7分、近辺の保土ケ谷駅からバスで10分となります。	general,attraction
+2834	4	USER	ありがとうございます。じゃあそこに行ってみようかな。	general,attraction
+2834	5	SYSTEM	他にご用件はございますか？	general,attraction
+2834	6	USER	いえ！ありがとうございました。	general,attraction
+2834	7	SYSTEM	ありがとうございました。	general,attraction

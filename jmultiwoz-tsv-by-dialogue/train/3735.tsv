@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3735	0	USER	名古屋へ旅行しようと思っているのですがジャンボタクシーを利用したいです。キャッシュレス対応の会社はありますか？	general,taxi
+3735	1	SYSTEM	申し訳ありません、キャッシュレス、ジャンボタクシー対応のタクシー会社はございません。いかが致しましょう？	general,taxi
+3735	2	USER	それではジャンボでなくても大丈夫です。いかがですか？	general,taxi
+3735	3	SYSTEM	ありがとうございます。では、名鉄交通第一はいかがでしょう？電話番号は、0570085255となります。	general,taxi
+3735	4	USER	そこを予約して頂けますか？12/10の10:30で出発地は若宮八幡社で目的地はSAMURAI HOUSEです。	general,taxi
+3735	5	SYSTEM	申し訳ありません、念のための確認ですが、午前10時30分でよろしいでしょうか？	general,taxi
+3735	6	USER	はい、午前10時半でお願いいたします。	general,taxi
+3735	7	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、38504となります。	general,taxi
+3735	8	USER	大変助かりました！以上です。どうもありがとうございました。	general,taxi
+3735	9	SYSTEM	ありがとうございました。	general,taxi

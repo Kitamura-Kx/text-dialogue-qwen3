@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2162	0	USER	こんにちは。京都へ旅行予定でして、宿泊施設のRESI STAY 麩屋町ってありますか？	general,hotel,restaurant
+2162	1	SYSTEM	はい、ございます。下京区にある安めの簡易宿所でございます。	general,hotel,restaurant
+2162	2	USER	そうなんですね。Wi-Fiはありますか？	general,hotel,restaurant
+2162	3	SYSTEM	はい、Wi-Fiは無料でご利用いただけます。	general,hotel,restaurant
+2162	4	USER	そうですか。駐車場はありますか？	general,hotel,restaurant
+2162	5	SYSTEM	申し訳ございません。駐車場の有無はこちらでは分かりません。	general,hotel,restaurant
+2162	6	USER	そうなんですね。レストランはついてます？	general,hotel,restaurant
+2162	7	SYSTEM	こちらはレストランはついておりません。	general,hotel,restaurant
+2162	8	USER	そうですか、ありがとうございます。あと飲食店も探しています。予算は安め設定で、Wi-Fiが無料のところをお願いできます？	general,hotel,restaurant
+2162	9	SYSTEM	その条件でしたら、いっかくじゅう 四条新町店はいかがでしょうか？	general,hotel,restaurant
+2162	10	USER	いいですね、行ってみますので、住所と電話番号、料金情報をお願いできますか？	general,hotel,restaurant
+2162	11	SYSTEM	はい、住所は京都府京都市中京区新町通錦小路下る小結棚町435 ジェイ・プライド四条烏丸1Fでございます。電話番号は0757085536、料金はこちらでは分かりません。申し訳ございません。	general,hotel,restaurant
+2162	12	USER	そうなんですね、ありがとうございます。予約をお願いしたいです。5/19に3人で、12:40はいけそうですか？	general,hotel,restaurant
+2162	13	SYSTEM	お待たせ致しました。予約番号25802でお取りさせていただきました。	general,hotel,restaurant
+2162	14	USER	ありがとうございました。助かりました。	general,hotel,restaurant
+2162	15	SYSTEM	ありがとうございます。その他にお手伝いできることはございますか？	general,hotel,restaurant
+2162	16	USER	いえ、今日はもう大丈夫です。ありがとうございました。	general,hotel,restaurant
+2162	17	SYSTEM	かしこまりました。またお待ちしております。	general,hotel,restaurant

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2117	0	USER	こんにちは。名古屋へ行くので、Wi-Fiが無料の観光名所を教えていただけますか？	general,attraction,weather,taxi
+2117	1	SYSTEM	かしこまりました。では、ミッドランドスクエア 屋外展望台 スカイプロムナードはいかがでしょうか？	general,attraction,weather,taxi
+2117	2	USER	よさそうですね。そちらの料金ってどうなってますか？	general,attraction,weather,taxi
+2117	3	SYSTEM	料金情報は、通常券／ ／ 当日限り有効。再入場不可／ ／ ／ ／ 一日券／ ／ 当日限り、何度でも入場可能／ ／ ／ ／ 大人（18歳以上） 750 円 1,050 円／ ／ シルバー（65歳以上） 500 円 800 円／ ／ 中高生 500 円 800 円／ ／ 小学生（土・日・祝 無料） 300 円 600 円、となっております。	general,attraction,weather,taxi
+2117	4	USER	ありがとうございます。天気も知りたいんですけど、8/20は千種区の最低気温は何度ですか？	general,attraction,weather,taxi
+2117	5	SYSTEM	かしこまりました。8/20の千種区の天気予報は雨時々曇となっております。最低気温は27.7度、最高気温は37.3度になる予報です。	general,attraction,weather,taxi
+2117	6	USER	ありがとうございます。それとキャッシュレス払いができるタクシー会社をお願いします。	general,attraction,weather,taxi
+2117	7	SYSTEM	かしこまりました。では、名鉄交通第一いかがでしょうか？	general,attraction,weather,taxi
+2117	8	USER	そちらの電話番号もお願いします。それとジャンボタクシーは使えますか？	general,attraction,weather,taxi
+2117	9	SYSTEM	電話番号は0570085255です。ジャンボタクシーは非対応となっております。	general,attraction,weather,taxi
+2117	10	USER	では予約もお願いできますか。8/20の14:30で、MATRICX INTERNATIONAL HOTEL(マトリックス・インターナショナル・ホテル)からミッドランドスクエア 屋外展望台 スカイプロムナードまでです。	general,attraction,weather,taxi
+2117	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、77810です。	general,attraction,weather,taxi
+2117	12	USER	色々とありがとうございました。助かりました。	general,attraction,weather,taxi
+2117	13	SYSTEM	こちらこそありがとうございました。	general,attraction,weather,taxi

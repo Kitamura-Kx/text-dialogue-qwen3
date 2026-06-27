@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+647	0	USER	仙台への旅行中買い物できる場所を探していただけますか？	general,shopping,taxi
+647	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございませんか？	general,shopping,taxi
+647	2	USER	太白区周辺でおもちゃが買える場所がいいです。	general,shopping,taxi
+647	3	SYSTEM	そうしますと、1件ご案内可能です。アカチャンホンポ ララガーデン長町店というお店ですが、いかがでしょうか？	general,shopping,taxi
+647	4	USER	そちらにします。当日利用できるタクシー会社も探すのを手伝っていただけますか？	general,shopping,taxi
+647	5	SYSTEM	かしこまりました。ジャンボタクシーなどのご利用予定はございますか？	general,shopping,taxi
+647	6	USER	はい、ジャンボタクシーを利用したいです。	general,shopping,taxi
+647	7	SYSTEM	申し訳ございません。ただいまお調べしましたところ、仙台でジャンボタクシーに対応している会社で、ご案内できるところがありませんでした。	general,shopping,taxi
+647	8	USER	でしたら、対応していないタクシー会社でも大丈夫です。	general,shopping,taxi
+647	9	SYSTEM	ありがとうございます。では、永楽交通（株）はいかがでしょうか？	general,shopping,taxi
+647	10	USER	そちらでお願いします。電話番号とキャッシュレス対応しているか教えていただけますか？	general,shopping,taxi
+647	11	SYSTEM	かしこまりました。電話番号は、0222484546でございます。永楽交通（株）は、キャッシュレスのお支払いに対応しております。	general,shopping,taxi
+647	12	USER	ありがとうございます。予約もお願いできますか？8/2の11:50で、出発地はアカチャンホンポ ララガーデン長町店、目的地はアイスリンク仙台を希望します。	general,shopping,taxi
+647	13	SYSTEM	かしこまりました。ご予約が完了いたしました。予約番号は、27246です。	general,shopping,taxi
+647	14	USER	ありがとうございました。	general,shopping,taxi

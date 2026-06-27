@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1445	0	USER	仙台の太白区で泊まる所を探しています。	general,hotel,restaurant
+1445	1	SYSTEM	ホテルニュー水戸屋 アネックスは、いかがでしょうか？	general,hotel,restaurant
+1445	2	USER	駐車場が無料で利用出来て、予算が普通程度の所がいいのですが、ホテルニュー水戸屋 アネックスはどうなのでしょうか。	general,hotel,restaurant
+1445	3	SYSTEM	こちらのホテルは、値段帯は普通で無料駐車場の利用が可能になっています。	general,hotel,restaurant
+1445	4	USER	分かりました、それではここにします。ホテルニュー水戸屋 アネックスの最寄り駅はどちらになるでしょうか？	general,hotel,restaurant
+1445	5	SYSTEM	はい、最寄り駅は仙台駅になります。	general,hotel,restaurant
+1445	6	USER	ありがとうございます。あと電話番号と、何時までにチェックアウトすればいいのかも教えてください。	general,hotel,restaurant
+1445	7	SYSTEM	電話番号は、0223982301です。　チェックアウト終了時間は11時となっています。	general,hotel,restaurant
+1445	8	USER	当日は泉区で食事もしたいと思っています。予算は高めで考えているのですが、無料駐車場が完備しているお店のほうが良いです。	general,hotel,restaurant
+1445	9	SYSTEM	それでしたら、牛たん炭焼 利久 セルバテラス店はいかがですか？	general,hotel,restaurant
+1445	10	USER	ありがとうございます。住所と営業時間も教えてください。だいたい予算どの程度で食事ができそうか、料金の情報も頂けますか？	general,hotel,restaurant
+1445	11	SYSTEM	住所は、宮城県仙台市泉区泉中央1丁目6-3セルバテラス1階です。　営業時間は、11:00～23:00となっています。	general,hotel,restaurant
+1445	12	USER	分かりました、お店の料金の情報もありましたら教えてほしいです。	general,hotel,restaurant
+1445	13	SYSTEM	はい、料金情報は牛たん極定食(3枚6切)：2904円になります。	general,hotel,restaurant
+1445	14	USER	ありがとうございます。	general,hotel,restaurant
+1445	15	SYSTEM	他にご用件はありますか？	general,hotel,restaurant
+1445	16	USER	これで全部です、ありがとうございました。	general,hotel,restaurant
+1445	17	SYSTEM	承知致しました。　ありがとうございました。	general,hotel,restaurant

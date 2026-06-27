@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3258	0	USER	東京に旅行した時に、買い物をしてきたいんですが、板橋区に駐車場無料のお店ってありますか？	general,shopping,taxi
+3258	1	SYSTEM	板橋で無料駐車場のある買い物施設は、イオン板橋ショッピングセンターです。	general,shopping,taxi
+3258	2	USER	そこは、ジャンルでいうと、何のお店になるんでしょうか？	general,shopping,taxi
+3258	3	SYSTEM	百貨店や総合スーパーになります。	general,shopping,taxi
+3258	4	USER	分かりました。あと、キャッシュレス払いOKのタクシー会社も探してもらっていいですか？	general,shopping,taxi
+3258	5	SYSTEM	東京にキャッシュレス対応の会社はいくつかありますが、銀星交通はいかがですか。	general,shopping,taxi
+3258	6	USER	ではそこにします。電話番号を教えてください。	general,shopping,taxi
+3258	7	SYSTEM	0425750458になります。	general,shopping,taxi
+3258	8	USER	では、そこで予約してもらえますか？	general,shopping,taxi
+3258	9	SYSTEM	はい、日付と時刻、どこからどこまででしょうか	general,shopping,taxi
+3258	10	USER	日付は8月30日で、イオン板橋ショッピングセンターに14時半に来てください。目的地はパーク ハイアット 東京までです。	general,shopping,taxi
+3258	11	SYSTEM	その条件で予約成功しました。予約番号は91423です。	general,shopping,taxi
+3258	12	USER	ありがとうございました。	general,shopping,taxi
+3258	13	SYSTEM	よい旅を	general,shopping,taxi

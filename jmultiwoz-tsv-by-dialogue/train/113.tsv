@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+113	0	USER	こんばんは！ 今度、京都旅行を計画しているので、案内をお願いします。	general,hotel,weather,taxi
+113	1	SYSTEM	京都ですね。かしこまりました。	general,hotel,weather,taxi
+113	2	USER	えっと、当日泊まる宿泊施設なんですが、レストランが併設されているところで、どこか良い所はありますか？	general,hotel,weather,taxi
+113	3	SYSTEM	46件ございますが、ほかに条件はございますか。	general,hotel,weather,taxi
+113	4	USER	他には特にないです。	general,hotel,weather,taxi
+113	5	SYSTEM	では、ホテルエミオン京都はいかがでしょうか。	general,hotel,weather,taxi
+113	6	USER	ホテルエミオン京都ですね！ それでは、そちらを予約します。9月3日から3泊で、人数は2人なんですけど、お願いできますか？	general,hotel,weather,taxi
+113	7	SYSTEM	はい。予約が完了いたしました。予約番号は32249でございます。	general,hotel,weather,taxi
+113	8	USER	ありがとうございます！ あと、天候についても気になっているのですが、9月3日の上京区の天候についても調べてもらえますか？	general,hotel,weather,taxi
+113	9	SYSTEM	天気は曇、最低気温は25.6、最高気温は25.7となっております。	general,hotel,weather,taxi
+113	10	USER	そうなんですね。お調べいただき、ありがとうございます！ あと、タクシー会社も探していまして。 キャッシュレス払いと、ジャンボタクシーが利用できるところは、ありますか？	general,hotel,weather,taxi
+113	11	SYSTEM	愛都交通株式会社はいかがですか。	general,hotel,weather,taxi
+113	12	USER	わかりました。愛都交通株式会社の電話番号を教えていただいても宜しいですか？	general,hotel,weather,taxi
+113	13	SYSTEM	電話番号は0756460020でございます。	general,hotel,weather,taxi
+113	14	USER	ありがとうございます！ では、そちらのタクシーの予約もお願いします。希望をお伝えしてもよろしいですか？	general,hotel,weather,taxi
+113	15	SYSTEM	はい。ご希望をお聞かせください。	general,hotel,weather,taxi
+113	16	USER	日時は9月3日の11時で、出発地は伊藤常嵐山店、目的地は先ほどのホテルエミオン京都で、お願いします！	general,hotel,weather,taxi
+113	17	SYSTEM	申し訳ございません。その条件ですと予約できませんでした。いかがいたしましょう。	general,hotel,weather,taxi
+113	18	USER	そうでしたか。では、11時ではなくて、11時30分に変更してください。	general,hotel,weather,taxi
+113	19	SYSTEM	予約が完了いたしました。予約番号は34001でございます。	general,hotel,weather,taxi
+113	20	USER	わかりました。予約対応、ありがとうございます！	general,hotel,weather,taxi
+113	21	SYSTEM	ほかにご用件はございませんか。	general,hotel,weather,taxi
+113	22	USER	はい、大丈夫です！色々と、ありがとうございました！	general,hotel,weather,taxi
+113	23	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather,taxi

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1704	0	USER	福岡へ行くよていなのですが、値段が普通くらいの宿泊施設を探してもらっていいですか？	general,hotel,restaurant
+1704	1	SYSTEM	かしこまりました。ではWITH THE STYLE FUKUOKAはいかがでしょうか。	general,hotel,restaurant
+1704	2	USER	なるほど。でも最寄り駅が海ノ中道駅で、駐車場を無料で利用できるとこがいいんですよね。	general,hotel,restaurant
+1704	3	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,hotel,restaurant
+1704	4	USER	わかりました。最寄駅はどこでもいいです。	general,hotel,restaurant
+1704	5	SYSTEM	ではGARDEN TERRACE FUKUOKA HOTEL&RESORTSはいかがでしょうか。	general,hotel,restaurant
+1704	6	USER	そこにします。チェックイン開始時刻とエリアを教えてください。	general,hotel,restaurant
+1704	7	SYSTEM	チェックイン開始時刻は16:00で、エリアは西区でございます。	general,hotel,restaurant
+1704	8	USER	わかりました。5/18から4泊を4人で予約お願いできますか？	general,hotel,restaurant
+1704	9	SYSTEM	予約が完了いたしました。予約番号は91848でございます。	general,hotel,restaurant
+1704	10	USER	ありがとうございます。飲食店を探しているのですが、普通くらいの値段で南区にあるところを調べてください。無料駐車場があるところがいいです。	general,hotel,restaurant
+1704	11	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,hotel,restaurant
+1704	12	USER	そうですか。駐車場はなしでいいです。	general,hotel,restaurant
+1704	13	SYSTEM	では古民家居酒屋こまちはいかがでしょうか。	general,hotel,restaurant
+1704	14	USER	そこにします。住所とWi-Fiがあるかを教えてください。あと定休日も知りたいです。	general,hotel,restaurant
+1704	15	SYSTEM	住所は福岡県福岡市南区大橋2丁目2-11 1Fで、Wi-Fiは無料のがございます。	general,hotel,restaurant
+1704	16	USER	はい。定休日はわかりませんか？	general,hotel,restaurant
+1704	17	SYSTEM	失礼いたしました。定休日は火曜日でございます。	general,hotel,restaurant
+1704	18	USER	わかりました。ありがとうございます。もう大丈夫です。	general,hotel,restaurant
+1704	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant

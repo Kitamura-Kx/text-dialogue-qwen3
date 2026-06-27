@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2843	0	USER	札幌に旅行に行こうと思っています。当日買い物ができるところを教えてください。	general,shopping,restaurant,hotel
+2843	1	SYSTEM	承知致しました。何かご希望はございますか？	general,shopping,restaurant,hotel
+2843	2	USER	最寄り駅は新さっぽろ駅で駐車場は無料で利用できるところが良いです。	general,shopping,restaurant,hotel
+2843	3	SYSTEM	ありがとうございます。では、エリアでいうと厚別区にある、イオン新さっぽろ店はいかがでしょう？ジャンルは、百貨店や総合スーパーとなります。	general,shopping,restaurant,hotel
+2843	4	USER	そこがいいですね。そこの営業時間を教えてください。	general,shopping,restaurant,hotel
+2843	5	SYSTEM	はい、営業時間は、8時から22時となります。他にご案内できることはございますか？	general,shopping,restaurant,hotel
+2843	6	USER	あと当日食事ができる飲食店を探しています。地区は手稲区でお願いします。	general,shopping,restaurant,hotel
+2843	7	SYSTEM	承知しました。では、創作居酒屋 もり蔵はいかがでしょう？ジャンルは、居酒屋となります。	general,shopping,restaurant,hotel
+2843	8	USER	そこが良さそうですね。そこの最寄り駅を教えてもらえますか？	general,shopping,restaurant,hotel
+2843	9	SYSTEM	はい、手稲駅から徒歩で3分となります。	general,shopping,restaurant,hotel
+2843	10	USER	では、そこのお店に予約したいので予約をお願いします。人数は4人で日付は12/10で時間は16:00でお願いします。	general,shopping,restaurant,hotel
+2843	11	SYSTEM	申し訳ありません、その条件では予約ができませんでした。いかが致しましょう？	general,shopping,restaurant,hotel
+2843	12	USER	では、予約人数を３人にしてもらえますでしょうか。	general,shopping,restaurant,hotel
+2843	13	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、66977となります。他にご用件はございますか？	general,shopping,restaurant,hotel
+2843	14	USER	あと当日泊まる宿泊施設を探しています。地区は中央区で予算は安めでレストランが併設されているところが良いです。	general,shopping,restaurant,hotel
+2843	15	SYSTEM	では、札幌ビューホテル大通公園はいかがでしょう？タイプはシティホテル、Wi-Fiを無料でご利用いただけます。	general,shopping,restaurant,hotel
+2843	16	USER	そこでいいです。そこの電話番号を教えてください。	general,shopping,restaurant,hotel
+2843	17	SYSTEM	はい、電話番号は0112610111となります。	general,shopping,restaurant,hotel
+2843	18	USER	分かりました。ありがとうございます。	general,shopping,restaurant,hotel
+2843	19	SYSTEM	他にご用件はございますか？	general,shopping,restaurant,hotel
+2843	20	USER	はい、大丈夫です。ありがとうございました。	general,shopping,restaurant,hotel
+2843	21	SYSTEM	ありがとうございました。	general,shopping,restaurant,hotel

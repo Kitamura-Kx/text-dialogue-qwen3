@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3512	0	USER	那覇へ旅行しようと思っています。歴史的な散策エリアで駐車場が無料の観光地を探しているのですが。	general,attraction,taxi
+3512	1	SYSTEM	かしこまりました。それでは国営沖縄記念公園がございます。	general,attraction,taxi
+3512	2	USER	住所を教えていただけますか？	general,attraction,taxi
+3512	3	SYSTEM	かしこまりました。住所は沖縄県那覇市首里金城町1丁目2でございます。	general,attraction,taxi
+3512	4	USER	ありがとうございます。当日ジャンボタクシーを利用したいのですが、タクシー会社をさがしていただけますか？	general,attraction,taxi
+3512	5	SYSTEM	かしこまりました。それでは、鏡原第一交通はいかがでしょうか？	general,attraction,taxi
+3512	6	USER	電話番号はわかりますか？	general,attraction,taxi
+3512	7	SYSTEM	はい、0988537801でございます。	general,attraction,taxi
+3512	8	USER	では予約をお願いします。	general,attraction,taxi
+3512	9	SYSTEM	かしこまりました。日程等お伺いいたします。	general,attraction,taxi
+3512	10	USER	はい、1月2日の13時に国営沖縄記念公園からホテルランタナ那覇国際通りまでお願いします。	general,attraction,taxi
+3512	11	SYSTEM	お待たせ致しました。予約番号93116でお取りさせていただきました。	general,attraction,taxi
+3512	12	USER	色々と教えていただきありがとうございました！	general,attraction,taxi
+3512	13	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,taxi

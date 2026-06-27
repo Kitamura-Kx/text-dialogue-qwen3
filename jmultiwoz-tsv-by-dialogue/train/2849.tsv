@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2849	0	USER	那覇へ旅行に行こうと思っています。当日食事ができる飲食店を探しています。予算は安めでWi-Fiが無料が希望です。	general,restaurant,shopping
+2849	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,shopping
+2849	2	USER	でしたら、Wi-Fiはなくても良いです。	general,restaurant,shopping
+2849	3	SYSTEM	ありがとうございます。では、エリアでいうと本庁にある、はなまるうどん 天久リウボウ店はいかがでしょう？ジャンルは、うどん、そばとなります。	general,restaurant,shopping
+2849	4	USER	そこが良さそうですね。そこの最寄り駅と近辺の駅からの所要時間を教えてください。	general,restaurant,shopping
+2849	5	SYSTEM	はい、最寄りのおもろまち駅から徒歩で20分、タクシーで8分となります。他に近辺の駅についての情報はございません。	general,restaurant,shopping
+2849	6	USER	そこのお店に予約をしたいので人数は2人で日付は2/18で時間は10:30でお願いします。	general,restaurant,shopping
+2849	7	SYSTEM	申し訳ありません、念のための確認ですが、お時間、午前10時30分でよろしいでしょうか？	general,restaurant,shopping
+2849	8	USER	はい、午前です。	general,restaurant,shopping
+2849	9	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、80841となります。	general,restaurant,shopping
+2849	10	USER	あと当日買い物ができるところを探していて地区は本庁で駐車場が無料で利用できるところが希望です。	general,restaurant,shopping
+2849	11	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,shopping
+2849	12	USER	でしたら、駐車場はなくても良いです。	general,restaurant,shopping
+2849	13	SYSTEM	ありがとうございます。では、シルバーショップ クラウディカはいかがでしょう？ジャンルは、ファッションとなります。	general,restaurant,shopping
+2849	14	USER	そこが良さそうですね。そこの住所と最寄り駅を教えてください。	general,restaurant,shopping
+2849	15	SYSTEM	はい、住所は、沖縄県那覇市松尾2丁目8-11-1、最寄りの牧志駅から徒歩で8分となります。	general,restaurant,shopping
+2849	16	USER	分かりました。ありがとうございました。	general,restaurant,shopping
+2849	17	SYSTEM	他にご用件はございますか？	general,restaurant,shopping
+2849	18	USER	大丈夫です。ありがとうございます。	general,restaurant,shopping
+2849	19	SYSTEM	ありがとうございました。	general,restaurant,shopping

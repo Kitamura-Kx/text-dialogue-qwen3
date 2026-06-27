@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3294	0	USER	札幌の南区で、無料Wi-Fiが利用できる観光名所を探しています。	general,attraction,restaurant,weather
+3294	1	SYSTEM	南区でWiFi無料の観光名所は２つありますが、アシリベツの滝、こちらをオススメします。	general,attraction,restaurant,weather
+3294	2	USER	そちらの子供の入場料と、近くの駅からどのくらいかかるのか教えて下さい。	general,attraction,restaurant,weather
+3294	3	SYSTEM	大人も子供も無料です。アクセスは、真駒内駅からバスで50分になります。	general,attraction,restaurant,weather
+3294	4	USER	ありがとうございます。当日、J.S. PANCAKE CAFE 札幌ステラプレイス店で食事をするのですが、駐車場があるかどうか調べてもらえますか？	general,attraction,restaurant,weather
+3294	5	SYSTEM	はい、駐車場は無料です。	general,attraction,restaurant,weather
+3294	6	USER	８月２４日の午後２時４０分に、３人で予約お願いできますか？	general,attraction,restaurant,weather
+3294	7	SYSTEM	その条件で予約成功しました。予約番号は11182です。	general,attraction,restaurant,weather
+3294	8	USER	予約ありがとうございました。最後に８月２４日の北区の最高気温と最低気温を教えて下さい。	general,attraction,restaurant,weather
+3294	9	SYSTEM	8/24 札幌 北区 の天気は晴時々曇、最低気温22度、最高気温26.5度です。	general,attraction,restaurant,weather
+3294	10	USER	ありがとうございました。	general,attraction,restaurant,weather
+3294	11	SYSTEM	夏の北海道をお楽しみください。	general,attraction,restaurant,weather

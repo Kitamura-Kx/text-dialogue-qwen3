@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1692	0	USER	横浜へ旅行予定なのですが、磯子区に飲食店はありますか？	general,restaurant,taxi,weather
+1692	1	SYSTEM	かしこまりました。ではやきとりの扇屋 新杉田駅前店はいかがでしょうか。	general,restaurant,taxi,weather
+1692	2	USER	なるほど。一応希望としては、予算が普通くらいで、Wi-Fiが無料で利用できるところがいいのですが、その店はどうですか？	general,restaurant,taxi,weather
+1692	3	SYSTEM	値段帯は普通でございますが、Wi-Fiの有無は不明でございます。いかがなさいますか。	general,restaurant,taxi,weather
+1692	4	USER	Wi-Fiが無料で使えるような場所はほかにありませんか？	general,restaurant,taxi,weather
+1692	5	SYSTEM	磯子区でほかに案内できるお店はありませんでした。いかがなさいますか。	general,restaurant,taxi,weather
+1692	6	USER	わかりました。ではWi-Fiはどちらでも大丈夫です。やきとりの扇屋 新杉田駅前店にしようとおもいます。駐車場があるかわかりますか？	general,restaurant,taxi,weather
+1692	7	SYSTEM	駐車場は無しでございます。	general,restaurant,taxi,weather
+1692	8	USER	わかりました。料金情報も教えてください。	general,restaurant,taxi,weather
+1692	9	SYSTEM	料金情報は不明とのことでございます。	general,restaurant,taxi,weather
+1692	10	USER	わかりました。当日ジャンボタクシーも利用予定なのですが、キャッシュレス払いが使えるところはありますか？	general,restaurant,taxi,weather
+1692	11	SYSTEM	かしこまりました。では京浜ハイヤー株式会社はいかがでしょうか。	general,restaurant,taxi,weather
+1692	12	USER	そこにします。電話番号を教えてください。	general,restaurant,taxi,weather
+1692	13	SYSTEM	電話番号は0457411896でございます。	general,restaurant,taxi,weather
+1692	14	USER	わかりました。そこで11/25の11:50にやきとりの扇屋 新杉田駅前店から横浜ベイクォーターまで予約お願いできますか？	general,restaurant,taxi,weather
+1692	15	SYSTEM	予約が完了いたしました。予約番号は93766でございます。	general,restaurant,taxi,weather
+1692	16	USER	わかります。当日11/25の中区の天候も教えてください。	general,restaurant,taxi,weather
+1692	17	SYSTEM	天気は晴、最低気温は13.3度、最高気温は19.6度でございます。	general,restaurant,taxi,weather
+1692	18	USER	わかりました。ありがとうございました。	general,restaurant,taxi,weather
+1692	19	SYSTEM	他にご用件はございますか。	general,restaurant,taxi,weather
+1692	20	USER	いえ、大丈夫です。	general,restaurant,taxi,weather
+1692	21	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi,weather

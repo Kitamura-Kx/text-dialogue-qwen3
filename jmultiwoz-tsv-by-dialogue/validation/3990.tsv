@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3990	0	USER	仙台の旅館を探しています。	general,hotel
+3990	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,hotel
+3990	2	USER	Wi-Fiは無料、予算は普通で。	general,hotel
+3990	3	SYSTEM	では湯の原ホテルはいかがでしょうか。	general,hotel
+3990	4	USER	そこにします。近くの駅からの所要時間も知りたいです。	general,hotel
+3990	5	SYSTEM	作並駅からタクシーで5分でございます。	general,hotel
+3990	6	USER	わかりました。	general,hotel
+3990	7	SYSTEM	ほかにご用件はございませんか。	general,hotel
+3990	8	USER	ありません。ありがとうございました。	general,hotel
+3990	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

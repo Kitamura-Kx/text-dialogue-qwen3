@@ -1,0 +1,33 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3760	0	USER	京都への流行を計画しています	general,restaurant,hotel,weather
+3760	1	SYSTEM	どのようなお店や施設をお探しですか？	general,restaurant,hotel,weather
+3760	2	USER	予算は普通ぐらいで、Wi-Fiが無料の飲食店を探しています	general,restaurant,hotel,weather
+3760	3	SYSTEM	1件みつかりました。フィゲラス 烏丸店はいかがですか？	general,restaurant,hotel,weather
+3760	4	USER	ありがとうございます。営業時間と定休日を知りたいです。あとジャンルは何になりますか？	general,restaurant,hotel,weather
+3760	5	SYSTEM	営業時間は、17時から23時までです。　定休日は、月曜です。　ジャンルは洋食・西洋料理, その他です。	general,restaurant,hotel,weather
+3760	6	USER	ではそちらのお店にします。	general,restaurant,hotel,weather
+3760	7	SYSTEM	他にご用件はありますか？	general,restaurant,hotel,weather
+3760	8	USER	今のお店の予約をお願いしたいです。	general,restaurant,hotel,weather
+3760	9	SYSTEM	では予約希望の日時と人数をお知らせ下さい。	general,restaurant,hotel,weather
+3760	10	USER	人数は3人で、日付は3/25です。時間は09:40です。	general,restaurant,hotel,weather
+3760	11	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant,hotel,weather
+3760	12	USER	では、人数を２人に変更します	general,restaurant,hotel,weather
+3760	13	SYSTEM	予約が完了しました。　予約番号は、54950です。	general,restaurant,hotel,weather
+3760	14	USER	ありがとうございます	general,restaurant,hotel,weather
+3760	15	SYSTEM	他にご用件はありますか？	general,restaurant,hotel,weather
+3760	16	USER	レストラン併設で、駐車場が無料の、宿泊施設を探しています	general,restaurant,hotel,weather
+3760	17	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,hotel,weather
+3760	18	USER	では、駐車場は考慮しないで大丈夫です	general,restaurant,hotel,weather
+3760	19	SYSTEM	では、ウォーターマークホテル京都はいかがですか？	general,restaurant,hotel,weather
+3760	20	USER	そちらにしたいのですが、チェックイン開始時間と電話番号、ホテルのタイプを知りたいです。	general,restaurant,hotel,weather
+3760	21	SYSTEM	チェックイン開始時刻は、15時です。　電話番号は、0757463850です。　ホテルのタイプはその他となっています。	general,restaurant,hotel,weather
+3760	22	USER	わかりました。では予約をしたいです。人数は2人。日付は3/25で、宿泊日数は4泊です。	general,restaurant,hotel,weather
+3760	23	SYSTEM	予約が完了しました。　予約番号は、13321です。	general,restaurant,hotel,weather
+3760	24	USER	ありがとうございます	general,restaurant,hotel,weather
+3760	25	SYSTEM	他にご用件はありますか？	general,restaurant,hotel,weather
+3760	26	USER	天候を知りたいです。	general,restaurant,hotel,weather
+3760	27	SYSTEM	どちらのエリアの天気をご希望ですか？	general,restaurant,hotel,weather
+3760	28	USER	地区は東山区で、日付は3/25です。最低気温も知りたいです	general,restaurant,hotel,weather
+3760	29	SYSTEM	天気は、晴のち曇です。　最低気温は、9.4度です。	general,restaurant,hotel,weather
+3760	30	USER	ありがとうございます。他にはありません。	general,restaurant,hotel,weather
+3760	31	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel,weather

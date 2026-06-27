@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2006	0	USER	大阪で安く泊まれるところを探しています。	general,hotel,attraction,weather
+2006	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,attraction,weather
+2006	2	USER	無料で駐車場が利用できて、レストランがあるところが嬉しいです。	general,hotel,attraction,weather
+2006	3	SYSTEM	かしこまりました。では、アスティルホテル十三プレシャスはいかがでしょうか？	general,hotel,attraction,weather
+2006	4	USER	そちらのチェックアウトの終了時刻は何時ですか？	general,hotel,attraction,weather
+2006	5	SYSTEM	はい。チェックアウト終了時刻は11:00です。	general,hotel,attraction,weather
+2006	6	USER	ありがとうございます。あと西中島南方駅近くで、無料Wi-Fiと無料駐車場のある観光名所も探してほしいです。	general,hotel,attraction,weather
+2006	7	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,hotel,attraction,weather
+2006	8	USER	西中島南方駅近くでなくても構わないので、どこかありますか？	general,hotel,attraction,weather
+2006	9	SYSTEM	かしこまりました。では、鶴見緑地湯元 水春はいかがでしょうか？	general,hotel,attraction,weather
+2006	10	USER	そこのジャンルは何になりますか？	general,hotel,attraction,weather
+2006	11	SYSTEM	はい。銭湯・スパ, 温泉になります。	general,hotel,attraction,weather
+2006	12	USER	電話番号も教えてもらえますか？	general,hotel,attraction,weather
+2006	13	SYSTEM	はい。電話番号は0642571126でございます。	general,hotel,attraction,weather
+2006	14	USER	ありがとうございます。４月２９日の北区の最低気温と最高気温も調べてもらえますか？	general,hotel,attraction,weather
+2006	15	SYSTEM	かしこまりました。4/29の北区の天気予報は雨のち曇となっております。最低気温は10.2度、最高気温は22.2度になる予報です。	general,hotel,attraction,weather
+2006	16	USER	ありがとうございます。	general,hotel,attraction,weather
+2006	17	SYSTEM	他にご用件はありますか？	general,hotel,attraction,weather
+2006	18	USER	大丈夫です。ありがとうございました。	general,hotel,attraction,weather
+2006	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+810	0	USER	東京へ旅行予定なのですが、中央区の飲食店はありますか？値段は安めがいいです。	general,restaurant
+810	1	SYSTEM	はい、1件ご案内可能です。一㐂というお店で、ジャンルは寿司・魚料理ですが、いかがでしょうか？	general,restaurant
+810	2	USER	そこにします。料金情報を教えてください。	general,restaurant
+810	3	SYSTEM	かしこまりました。料金は、夜のおまかせコースが17000円、昼のおまかせコースは11000円となっております。	general,restaurant
+810	4	USER	ではそちらで2人で日付は8/11の時間は11:50で予約をお願いできますか？	general,restaurant
+810	5	SYSTEM	はい、かしこまりました。予約が完了いたしました。ご予約番号は、71353でございます。	general,restaurant
+810	6	USER	ありがとうございます。	general,restaurant
+810	7	SYSTEM	ほかに、お調べすることはございますか？	general,restaurant
+810	8	USER	いえ、大丈夫です。	general,restaurant
+810	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

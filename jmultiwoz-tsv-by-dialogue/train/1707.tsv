@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1707	0	USER	福岡へ旅行したいのですが、お好み焼き・たこ焼きが食べれる店を調べてください。最寄り駅が南福岡駅のところがいいです。	general,restaurant,shopping,weather
+1707	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,restaurant,shopping,weather
+1707	2	USER	そうですか。最寄駅を特に指定しないとどうですか？	general,restaurant,shopping,weather
+1707	3	SYSTEM	ではほっこり家はいかがでしょうか。	general,restaurant,shopping,weather
+1707	4	USER	そこにします。駐車場があるかどうかと、エリアを教えてください。	general,restaurant,shopping,weather
+1707	5	SYSTEM	エリアは中央区で、駐車場の有無は不明でございます。	general,restaurant,shopping,weather
+1707	6	USER	わかりました。南区で当日買い物できる場所も探しているのですが、無料駐車場がある店を探してくれませんか？	general,restaurant,shopping,weather
+1707	7	SYSTEM	かしこまりました。ではサンプルRIKIはいかがでしょうか。	general,restaurant,shopping,weather
+1707	8	USER	よさそうですね。最寄り駅と近辺の駅からの所要時間を教えてください。ジャンルも気になります。	general,restaurant,shopping,weather
+1707	9	SYSTEM	最寄り駅は高宮駅で、所要時間は高宮駅からバスで26分でございます。	general,restaurant,shopping,weather
+1707	10	USER	わかりました。ジャンルはどうでしょうか？気になります。	general,restaurant,shopping,weather
+1707	11	SYSTEM	失礼いたしました。ジャンルは文房具・雑貨, お土産, その他でございます。	general,restaurant,shopping,weather
+1707	12	USER	わかりました。11/7の早良区の天候についても教えてもらえますか？	general,restaurant,shopping,weather
+1707	13	SYSTEM	天気は晴時々曇、最低気温は10.1度、最高気温は18.5度でございます。	general,restaurant,shopping,weather
+1707	14	USER	わかりました。いろいろありがとうございます。もう大丈夫です。	general,restaurant,shopping,weather
+1707	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,weather

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2998	0	USER	大阪への旅行を計画しています。 当日泊まれる宿泊施設を探してください。	general,hotel,weather
+2998	1	SYSTEM	ご希望の条件をおきかせください。	general,hotel,weather
+2998	2	USER	レストランが併設されているところにしてください。宿のタイプは簡易宿所（ベッドハウス・山小屋・カプセルホテル等）が希望です。	general,hotel,weather
+2998	3	SYSTEM	大阪でレストラン併設の簡易宿泊所は３つありますが、9別邸 大阪谷町 MAISON DE 9、こちらをおすすめします。	general,hotel,weather
+2998	4	USER	いいですね。では、電話番号，料金情報，チェックアウト終了時刻を教えてください。	general,hotel,weather
+2998	5	SYSTEM	0665326100、チェックアウトは１０時、値段帯は高めですが、料金詳細は不明ですね。	general,hotel,weather
+2998	6	USER	予約をお願いします。人数は2人、日付は12/17、宿泊日数は3泊希望です。	general,hotel,weather
+2998	7	SYSTEM	その条件だと予約に失敗してしまいました。	general,hotel,weather
+2998	8	USER	なるほど。では、宿泊日数を2泊に変更します。	general,hotel,weather
+2998	9	SYSTEM	２泊なら予約できました。予約番号は45561です。	general,hotel,weather
+2998	10	USER	あと、東淀川区の12/17の天候として、最低気温が知りたいです。	general,hotel,weather
+2998	11	SYSTEM	その日の最低気温は6.5度ですね。	general,hotel,weather
+2998	12	USER	解決しました。ありがとうございました。	general,hotel,weather

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3717	0	USER	東京へ旅行したいのですが。	general,restaurant,attraction
+3717	1	SYSTEM	はい。何かお探しですか？	general,restaurant,attraction
+3717	2	USER	無料Wi-Fiが利用できる飲食店はありますか？	general,restaurant,attraction
+3717	3	SYSTEM	かしこまりました。では、うなぎ割烹 大江戸はいかがでしょうか？	general,restaurant,attraction
+3717	4	USER	ありがとうございます。そちらの値段帯はどんな感じですか？	general,restaurant,attraction
+3717	5	SYSTEM	はい。値段帯は高めとなっております。	general,restaurant,attraction
+3717	6	USER	わかりました。ではそちらで予約をお願いします。4/5に12:30で2名、お願いします。	general,restaurant,attraction
+3717	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,attraction
+3717	8	USER	わかりました。では、1名でお願いします。	general,restaurant,attraction
+3717	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、10071です。	general,restaurant,attraction
+3717	10	USER	ありがとうございます。	general,restaurant,attraction
+3717	11	SYSTEM	いえいえ。他にご用件はございませんか？	general,restaurant,attraction
+3717	12	USER	では、当日に行ける観光名所も探してください。ジャンルはアミューズメントでWi-Fiが無料なところが希望です。	general,restaurant,attraction
+3717	13	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,restaurant,attraction
+3717	14	USER	そうですか。では、Wi-Fiはなくても大丈夫です。	general,restaurant,attraction
+3717	15	SYSTEM	かしこまりました。では、浅草花やしきはいかがでしょうか？	general,restaurant,attraction
+3717	16	USER	そちらの大人の入場料はいくらですか？	general,restaurant,attraction
+3717	17	SYSTEM	はい。大人入場料は1000円になります。	general,restaurant,attraction
+3717	18	USER	わかりました。ありがとうございました。	general,restaurant,attraction
+3717	19	SYSTEM	はい。他にご用件はございませんか？	general,restaurant,attraction
+3717	20	USER	特にありません。ありがとうございました。	general,restaurant,attraction
+3717	21	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4820	0	USER	那覇へ旅行に行くのですが、買い物ができるお店を探して欲しいです。	general,shopping,weather
+4820	1	SYSTEM	はい。ご希望の条件をおきかせください。	general,shopping,weather
+4820	2	USER	最寄り駅が牧志駅のお店でお願いします。無料駐車場があるところがいいです。	general,shopping,weather
+4820	3	SYSTEM	那覇牧志駅で駐車場無料の買い物店は２件ありますが、おきなわ屋 泡盛蔵 国際店をお勧めします。	general,shopping,weather
+4820	4	USER	そちらはどちらのエリアのお店ですか？	general,shopping,weather
+4820	5	SYSTEM	本庁です。	general,shopping,weather
+4820	6	USER	ありがとうございます。あと本庁の11/1の天候を教えてください。	general,shopping,weather
+4820	7	SYSTEM	11/1 那覇 本庁 の天気は曇時々晴、最低気温25.1度、最高気温29.8度です。	general,shopping,weather
+4820	8	USER	ありがとうございます。以上になります。	general,shopping,weather

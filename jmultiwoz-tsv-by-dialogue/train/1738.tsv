@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1738	0	USER	東京で飲食店を探してください。駐車場もWi-Fiも無料で使えるところだと嬉しいです。	general,restaurant,shopping,hotel
+1738	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,shopping,hotel
+1738	2	USER	そうですか。じゃあ、Wi-Fiはなくてもいいので、もう一回探してもらえますか？	general,restaurant,shopping,hotel
+1738	3	SYSTEM	かしこまりました。では、醍醐 お台場店はいかがでしょうか？	general,restaurant,shopping,hotel
+1738	4	USER	いいですね。そちら値段帯はどのくらいになりますか？	general,restaurant,shopping,hotel
+1738	5	SYSTEM	はい。値段帯は普通となっております。	general,restaurant,shopping,hotel
+1738	6	USER	では、予約をお願いします。12/6の13:00からで、人数は3人です。	general,restaurant,shopping,hotel
+1738	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,shopping,hotel
+1738	8	USER	なるほど。人数を2人に変更したらどうでしょうか。	general,restaurant,shopping,hotel
+1738	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、98987です。	general,restaurant,shopping,hotel
+1738	10	USER	ありがとうございます。当日スポーツ関係の買い物がしたいのですが、荒川区でどこかありますか？	general,restaurant,shopping,hotel
+1738	11	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,restaurant,shopping,hotel
+1738	12	USER	そうですか。では、荒川区でなくてもいいです。どこか探してもらえますか？	general,restaurant,shopping,hotel
+1738	13	SYSTEM	かしこまりました。では、広島ブランドショップTAUはいかがでしょうか？	general,restaurant,shopping,hotel
+1738	14	USER	そちらのお店は定休日はありますか？	general,restaurant,shopping,hotel
+1738	15	SYSTEM	定休日は無しとなっております。	general,restaurant,shopping,hotel
+1738	16	USER	わかりました。住所が知りたいので、教えてください。	general,restaurant,shopping,hotel
+1738	17	SYSTEM	はい。住所は東京都中央区銀座1丁目6-10 銀座上一ビルディングとなっております。	general,restaurant,shopping,hotel
+1738	18	USER	ありがとう。当日の宿泊施設も探してもらえますか？予算は普通くらいで、Wi-Fiが無料で使えるところがいいです。	general,restaurant,shopping,hotel
+1738	19	SYSTEM	かしこまりました。では、東京マリオットホテルはいかがでしょうか？	general,restaurant,shopping,hotel
+1738	20	USER	そこにしたいと思います。ちなみにチェックアウトの時刻は何時になりますか？	general,restaurant,shopping,hotel
+1738	21	SYSTEM	はい。チェックアウト終了時刻は12:00になります。	general,restaurant,shopping,hotel
+1738	22	USER	わかりました。いろいろ教えてくれてありがとうございました。	general,restaurant,shopping,hotel

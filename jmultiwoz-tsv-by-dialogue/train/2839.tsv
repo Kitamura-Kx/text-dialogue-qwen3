@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2839	0	USER	大阪への旅行を考えているのですが、Wi-Fiが無料で使える、予算高めの居酒屋ってありますか？	general,restaurant,shopping,hotel
+2839	1	SYSTEM	はい、エリアでいうと中央区に、神楽がございます。	general,restaurant,shopping,hotel
+2839	2	USER	ありがとうございます。近辺の駅からの所要時間もわかりますか？	general,restaurant,shopping,hotel
+2839	3	SYSTEM	はい、最寄りの長堀橋駅から徒歩で3分となります。	general,restaurant,shopping,hotel
+2839	4	USER	ありがとうございます。そのお店で予約もお願いします。人数は4人で、7/31の13:00にお願いします。	general,restaurant,shopping,hotel
+2839	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、25522となります。	general,restaurant,shopping,hotel
+2839	6	USER	ありがとうございます。当日買い物ができる場所も探しています。最寄り駅が南森町駅で、駐車場が無料で使える此花区のところがいいのですが。	general,restaurant,shopping,hotel
+2839	7	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,shopping,hotel
+2839	8	USER	じゃあ最寄り駅はどこでもいいので、探してください。	general,restaurant,shopping,hotel
+2839	9	SYSTEM	ありがとうございます。GoodBBQ舞洲 オーチャードグラスがございます。ジャンルは、食料品となります。	general,restaurant,shopping,hotel
+2839	10	USER	ありがとうございます。そのお店の営業時間と住所も調べてもらえますか？	general,restaurant,shopping,hotel
+2839	11	SYSTEM	はい、営業時間は11時から18時、住所は大阪府大阪市此花区北港緑地2丁目1-107となります。他にご用件はございますか？	general,restaurant,shopping,hotel
+2839	12	USER	ありがとうございます。駐車場とWi-Fiが無料で使える宿泊施設も知りたいです。予算は安めのところがいいです。	general,restaurant,shopping,hotel
+2839	13	SYSTEM	承知しました。エリアでいうと港区に、ビジネス旅館 励明園がございます。タイプは旅館となります。	general,restaurant,shopping,hotel
+2839	14	USER	ありがとうございます。そのお店の電話番号がわかれば教えてください。	general,restaurant,shopping,hotel
+2839	15	SYSTEM	はい、電話番号は0665711746となります。	general,restaurant,shopping,hotel
+2839	16	USER	ありがとうございます。	general,restaurant,shopping,hotel
+2839	17	SYSTEM	他にご用件はございますか？	general,restaurant,shopping,hotel
+2839	18	USER	いえ、案内ありがとうございました。	general,restaurant,shopping,hotel
+2839	19	SYSTEM	ありがとうございました。	general,restaurant,shopping,hotel

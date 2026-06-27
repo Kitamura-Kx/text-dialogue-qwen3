@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3680	0	USER	仙台での宿泊施設を探しています。	general,hotel,restaurant
+3680	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,restaurant
+3680	2	USER	予算は高めが希望で、Wi-Fiが無料で利用できるところがいいです。	general,hotel,restaurant
+3680	3	SYSTEM	かしこまりました。では、ウェスティンホテル仙台はいかがでしょうか？	general,hotel,restaurant
+3680	4	USER	そこにします。電話番号と、チェックアウト終了時間を教えていただけますか？	general,hotel,restaurant
+3680	5	SYSTEM	はい。電話番号は0227221234です。チェックアウト終了時刻は12:00になります。	general,hotel,restaurant
+3680	6	USER	ありがとうございます。当日の飲食店も探しているのですが、宮城野区で、Wi-Fiが無料の、最寄り駅が長町南駅のところはありますか？	general,hotel,restaurant
+3680	7	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,hotel,restaurant
+3680	8	USER	では、地区は特にこだわりません。	general,hotel,restaurant
+3680	9	SYSTEM	かしこまりました。では、旬菜食健ひな野 長町店はいかがでしょうか？	general,hotel,restaurant
+3680	10	USER	いいですね、ありがとうございます。住所と電話番号、あと定休日は分かりますか？	general,hotel,restaurant
+3680	11	SYSTEM	はい。住所は宮城県仙台市太白区大野田1丁目1-13で電話番号は0223042771になります。また、定休日はありません。	general,hotel,restaurant
+3680	12	USER	ありがとうございます。では、5/12に２名、15:50で予約をお願いできますか？	general,hotel,restaurant
+3680	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、75146です。	general,hotel,restaurant
+3680	14	USER	お世話になりました。以上です、ありがとうございました。	general,hotel,restaurant
+3680	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant

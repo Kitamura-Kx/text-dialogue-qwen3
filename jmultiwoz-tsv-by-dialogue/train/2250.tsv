@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2250	0	USER	那覇へ旅行に行くので、観光できるところを探してください。	general,attraction,taxi
+2250	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,attraction,taxi
+2250	2	USER	地区は本庁で、Wi-Fiが無料で利用できるところにしてください。	general,attraction,taxi
+2250	3	SYSTEM	そうしますと、那覇市立壺屋焼物博物館はいかがでしょうか？ジャンルは、美術館・博物館の観光名所となります。	general,attraction,taxi
+2250	4	USER	ありがとうございます。あとタクシー会社を探してください。	general,attraction,taxi
+2250	5	SYSTEM	かしこまりました。では、大栄交通はいかがでしょうか？	general,attraction,taxi
+2250	6	USER	ジャンボタクシーとキャッシュレス払いが利用できるところがいいのですが。	general,attraction,taxi
+2250	7	SYSTEM	承知いたしました。そうしますと、三和交通はいかがでしょうか？	general,attraction,taxi
+2250	8	USER	それでは三和交通の電話番号を教えてください。	general,attraction,taxi
+2250	9	SYSTEM	はい。電話番号は、0120100084でございます。	general,attraction,taxi
+2250	10	USER	では三和交通でタクシーの予約をお願いします。日付は7/17、時間は10:00、出発地はコンフォートホテル那覇県庁前、目的地は那覇市立壺屋焼物博物館です。	general,attraction,taxi
+2250	11	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、35291です。	general,attraction,taxi
+2250	12	USER	ありがとうございました。これで以上となります。	general,attraction,taxi
+2250	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,taxi

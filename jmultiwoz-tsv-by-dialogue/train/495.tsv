@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+495	0	USER	那覇へ観光するのですが、観光名所はありますか？	general,attraction,taxi
+495	1	SYSTEM	ご利用ありがとうございます。50ヶ所ほどご案内可能ですが、エリアやジャンルなど、ご希望はありますか？	general,attraction,taxi
+495	2	USER	はい。地区は首里で、Wi-Fiが無料で使えて、駐車場が無料で利用できるところがいいです。	general,attraction,taxi
+495	3	SYSTEM	では、国営沖縄記念公園はいかがでしょうか？首里駅から徒歩で15分の場所にございます。	general,attraction,taxi
+495	4	USER	そこにします。料金情報を教えてください。	general,attraction,taxi
+495	5	SYSTEM	かしこまりました。大人入場料は400円、高校生は300円、小中学生は160円となっております。6歳未満は無料です。	general,attraction,taxi
+495	6	USER	了解です。当日利用できるタクシー会社を探してほしいです。キャッシュレス払いができるところを希望です。	general,attraction,taxi
+495	7	SYSTEM	かしこまりました。三和交通はいかがでしょうか？	general,attraction,taxi
+495	8	USER	そちらにします。ジャンボタクシー対応か教えてください。	general,attraction,taxi
+495	9	SYSTEM	はい、対応しております。	general,attraction,taxi
+495	10	USER	ではそちらで、8/11です．時間は11:40で予約したいです。	general,attraction,taxi
+495	11	SYSTEM	かしこまりました。出発予定地と目的地もお決まりでしょうか？	general,attraction,taxi
+495	12	USER	はい。先ほどの観光施設から、目的地は栄町天ぷらマーケット がじまるでお願いします。	general,attraction,taxi
+495	13	SYSTEM	ご予約承りました。予約番号は29717ですので、お手元にお控えくださいませ。	general,attraction,taxi
+495	14	USER	ありがとうございます。	general,attraction,taxi
+495	15	SYSTEM	他にお調べすることはございますか？	general,attraction,taxi
+495	16	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,taxi
+495	17	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,attraction,taxi

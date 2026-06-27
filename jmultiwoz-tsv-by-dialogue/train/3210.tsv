@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3210	0	USER	那覇へ旅行に行くのでWi-Fiが無料の観光名所を教えてください	general,attraction,shopping,restaurant
+3210	1	SYSTEM	かしこまりました。では、那覇市立壺屋焼物博物館はいかがでしょうか？	general,attraction,shopping,restaurant
+3210	2	USER	最寄駅はどこですか？	general,attraction,shopping,restaurant
+3210	3	SYSTEM	はい。最寄りは牧志駅です。	general,attraction,shopping,restaurant
+3210	4	USER	真和志にコンビニはありますか？	general,attraction,shopping,restaurant
+3210	5	SYSTEM	ありませんでした。いかがいたしましょうか？	general,attraction,shopping,restaurant
+3210	6	USER	じゃあ地区はどこでもいいです	general,attraction,shopping,restaurant
+3210	7	SYSTEM	かしこまりました。では、ローソン 那覇牧志公園前店はいかがでしょうか？	general,attraction,shopping,restaurant
+3210	8	USER	駐車場はありますか？	general,attraction,shopping,restaurant
+3210	9	SYSTEM	いえ、不明となっております。	general,attraction,shopping,restaurant
+3210	10	USER	分かりました。あと首里あたりで駐車料金が無料の飲食店を探してください	general,attraction,shopping,restaurant
+3210	11	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,attraction,shopping,restaurant
+3210	12	USER	じゃあ駐車場は考慮しなくていいです	general,attraction,shopping,restaurant
+3210	13	SYSTEM	かしこまりました。では、カフェ龍樋はいかがでしょうか？	general,attraction,shopping,restaurant
+3210	14	USER	Wi-Fiの有無をおしえてください	general,attraction,shopping,restaurant
+3210	15	SYSTEM	申し訳ございません。不明となっております。	general,attraction,shopping,restaurant
+3210	16	USER	わかりました。	general,attraction,shopping,restaurant
+3210	17	SYSTEM	ほかにお調べすることはありますか？	general,attraction,shopping,restaurant
+3210	18	USER	ないです。ありがとうございました	general,attraction,shopping,restaurant
+3210	19	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,restaurant

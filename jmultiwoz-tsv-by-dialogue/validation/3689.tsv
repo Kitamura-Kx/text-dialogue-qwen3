@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3689	0	USER	東京へ旅行に行こうと思っています。当日訪れる観光名所を探しています。駐車場が無料で最寄駅が新宿駅のところを教えてください。	general,attraction,shopping,weather
+3689	1	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction,shopping,weather
+3689	2	USER	でしたら、最寄り駅はどこでも良いです。	general,attraction,shopping,weather
+3689	3	SYSTEM	かしこまりました。では、豪徳寺はいかがでしょうか？	general,attraction,shopping,weather
+3689	4	USER	そこが良さそうですね。そこのエリアとジャンルとWi-Fiがあるか教えてください。	general,attraction,shopping,weather
+3689	5	SYSTEM	はい。エリアは世田谷区で、Wi-Fiの有無は不明となっております。	general,attraction,shopping,weather
+3689	6	USER	ジャンルを教えてもらえますでしょうか。	general,attraction,shopping,weather
+3689	7	SYSTEM	申し訳ありません。ジャンルは神社・寺院・教会・モニュメントなど、です。	general,attraction,shopping,weather
+3689	8	USER	あと当日買い物ができるところを探しています。最寄り駅が大崎広小路駅のところが希望です。	general,attraction,shopping,weather
+3689	9	SYSTEM	かしこまりました。では、アカチャンホンポ TOC店はいかがでしょうか？	general,attraction,shopping,weather
+3689	10	USER	そこの電話番号と駐車場があるか教えてください。	general,attraction,shopping,weather
+3689	11	SYSTEM	はい。電話番号は0337790365です。また、駐車場は有料のものがあります。	general,attraction,shopping,weather
+3689	12	USER	あと当日12/21の新宿区の最高気温と最低気温を教えてください。	general,attraction,shopping,weather
+3689	13	SYSTEM	かしこまりました。最高気温は9.5度、最低気温は-0.5度の予報です。	general,attraction,shopping,weather
+3689	14	USER	分かりました。ありがとうございます。	general,attraction,shopping,weather
+3689	15	SYSTEM	はい。他にご用件はございませんか？	general,attraction,shopping,weather
+3689	16	USER	はい、大丈夫です。	general,attraction,shopping,weather
+3689	17	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,weather

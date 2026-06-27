@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3773	0	USER	横浜への旅行を計画しているのですが、キャッシュレス払いが可能でジャンボタクシーを利用できるタクシー会社を探してもらえますか？	general,taxi,weather
+3773	1	SYSTEM	承知しました。スタジアム交通株式会社はいかがでしょう？電話番号は、0120776081となります。	general,taxi,weather
+3773	2	USER	ありがとうございます。そちらを8/1の14:50に予約をお願いします。Leaf Minato Miraiから、焼肉どうらく 横浜西口別邸までお願いします。	general,taxi,weather
+3773	3	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,taxi,weather
+3773	4	USER	15:50ではどうですか？	general,taxi,weather
+3773	5	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、14309となります。	general,taxi,weather
+3773	6	USER	8/1の都筑区の天気と最低気温も教えて下さい。	general,taxi,weather
+3773	7	SYSTEM	はい、天気は晴、最低気温27.4度、最高気温33.4度となります。	general,taxi,weather
+3773	8	USER	ありがとうございました。	general,taxi,weather
+3773	9	SYSTEM	ありがとうございました。	general,taxi,weather

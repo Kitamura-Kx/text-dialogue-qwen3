@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1933	0	USER	大阪へ行こうと思っています。予算は普通でカフェやスイーツが食べられる飲食店を探していただきたいです。	general,restaurant,weather,taxi
+1933	1	SYSTEM	4件ヒットしました。他に追加の希望はありますか？	general,restaurant,weather,taxi
+1933	2	USER	特に希望はないです。	general,restaurant,weather,taxi
+1933	3	SYSTEM	それでは、幻想の国のアリスをお勧めします。	general,restaurant,weather,taxi
+1933	4	USER	そちらの近辺の駅からの所要時間、電話番号を教えていただけますでしょうか。	general,restaurant,weather,taxi
+1933	5	SYSTEM	梅田駅から徒歩で1分、電話番号は0663721860になります。	general,restaurant,weather,taxi
+1933	6	USER	わかりました。ありがとうございます。	general,restaurant,weather,taxi
+1933	7	SYSTEM	他にご希望はありますか？	general,restaurant,weather,taxi
+1933	8	USER	7月26日東成区の天候を調べていただきたいです。	general,restaurant,weather,taxi
+1933	9	SYSTEM	7/26 大阪 東成区 の天気は晴です。	general,restaurant,weather,taxi
+1933	10	USER	最低気温も教えていただけますでしょうか。	general,restaurant,weather,taxi
+1933	11	SYSTEM	19.6度ですね。	general,restaurant,weather,taxi
+1933	12	USER	わかりました。ありがとうございます。	general,restaurant,weather,taxi
+1933	13	SYSTEM	お役に立てて光栄です。	general,restaurant,weather,taxi
+1933	14	USER	追加で、ジャンボタクシーが利用できてキャッシュレス払い対応のタクシー会社を探していただきたいです。	general,restaurant,weather,taxi
+1933	15	SYSTEM	それならば大宝タクシー株式会社がオススメです。	general,restaurant,weather,taxi
+1933	16	USER	そちらの電話番号を教えていただけますでしょうか。	general,restaurant,weather,taxi
+1933	17	SYSTEM	0647020011になります。	general,restaurant,weather,taxi
+1933	18	USER	では、7月26日12時30分幻想の国のアリスからスパワールド世界の大温泉まで予約をお願いします。	general,restaurant,weather,taxi
+1933	19	SYSTEM	残念ながらこの条件だと予約に失敗してしまいました。	general,restaurant,weather,taxi
+1933	20	USER	では時間を13時30分に変更して予約をお願いします。	general,restaurant,weather,taxi
+1933	21	SYSTEM	7月26日13時30分幻想の国のアリスからスパワールド世界の大温泉まで予約成功しました。予約番号は83802になります。	general,restaurant,weather,taxi
+1933	22	USER	わかりました。ありがとうございます。	general,restaurant,weather,taxi
+1933	23	SYSTEM	お役に立てて光栄です。他にご希望はありますか？	general,restaurant,weather,taxi
+1933	24	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant,weather,taxi

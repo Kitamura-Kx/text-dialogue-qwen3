@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4086	0	USER	那覇への旅行を計画中で、観光名所を探しています。無料の駐車場とWi-fi付きが良いです。	general,attraction,weather,taxi
+4086	1	SYSTEM	那覇で駐車場とWiFiが無料の観光名所はいくつかありますが、国営沖縄記念公園、こちらをおすすめします。	general,attraction,weather,taxi
+4086	2	USER	そこにしようと思います。5/8の小禄の最高気温を教えてください。	general,attraction,weather,taxi
+4086	3	SYSTEM	5/8 那覇 小禄 の天気は晴、最低気温18.9度、最高気温31.1度です。	general,attraction,weather,taxi
+4086	4	USER	ありがとうございます。当日利用可能なキャッシュレス払いできるジャンボタクシーを探しているのですが、ありますか？	general,attraction,weather,taxi
+4086	5	SYSTEM	那覇でジャンボタクシーとキャッシュレス両方対応しているタクシー会社なら、沖縄交通、こちらをオススメします。	general,attraction,weather,taxi
+4086	6	USER	そこにしようと思います。電話番号を教えてください。	general,attraction,weather,taxi
+4086	7	SYSTEM	0120170978です。	general,attraction,weather,taxi
+4086	8	USER	ありがとうございます。5/8の10:50にサンエー那覇メインプレイスから国営沖縄記念公園まで予約して欲しいのですが、可能でしょうか。	general,attraction,weather,taxi
+4086	9	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,attraction,weather,taxi
+4086	10	USER	分かりました。では、時間を11:20に変更してください。	general,attraction,weather,taxi
+4086	11	SYSTEM	11:20なら予約成功しました。予約番号は21531です。	general,attraction,weather,taxi
+4086	12	USER	助かりました。ありがとうございます。	general,attraction,weather,taxi
+4086	13	SYSTEM	よい旅を	general,attraction,weather,taxi
+4086	14	USER	では、失礼します。	general,attraction,weather,taxi

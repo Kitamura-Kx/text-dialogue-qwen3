@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4273	0	USER	那覇に行くので、買い物ができるところを探しています。駐車場が無料のところで調べてもらえませんか？	general,shopping,taxi
+4273	1	SYSTEM	10件ございますが、他にご希望はございますか？	general,shopping,taxi
+4273	2	USER	いえ、特にないです。	general,shopping,taxi
+4273	3	SYSTEM	では、エリアでいうと本庁にある、のうれんプラザはいかがでしょう？ジャンルは、ショッピングモールとなります。	general,shopping,taxi
+4273	4	USER	そこにします。そのお店の営業時間を教えてください。	general,shopping,taxi
+4273	5	SYSTEM	はい、営業時間は9時から17時30分となります。	general,shopping,taxi
+4273	6	USER	ありがとうございます。あと、ジャンボタクシーが利用できる、タクシー会社はありませんか？	general,shopping,taxi
+4273	7	SYSTEM	では、丸星交通はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0988685831となります。	general,shopping,taxi
+4273	8	USER	そこのタクシーを予約します。2月14日に星砂ガラス工房 DEARRYUQからのうれんプラザまで行きます。時間は12時40分でできますか？	general,shopping,taxi
+4273	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、39942となります。	general,shopping,taxi
+4273	10	USER	ありがとうございました。	general,shopping,taxi
+4273	11	SYSTEM	ありがとうございました。	general,shopping,taxi

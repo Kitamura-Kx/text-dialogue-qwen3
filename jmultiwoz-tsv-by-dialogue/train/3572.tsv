@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3572	0	USER	今度仙台へ行くのですが、無料駐車場がある食料品が買えるお店を探してもらえますか？	general,shopping
+3572	1	SYSTEM	かしこまりました。では、お茶の井ヶ田 仙台中央本店はいかがですか。	general,shopping
+3572	2	USER	ありがとうございます。そちらの定休日と電話番号と営業時間も教えてください。	general,shopping
+3572	3	SYSTEM	定休日は無しで、電話番号は0222611351でございます。営業時間は10:00～19:30となっております。	general,shopping
+3572	4	USER	ありがとうございました。以上で結構です。	general,shopping
+3572	5	SYSTEM	承知しました。ありがとうございました。	general,shopping

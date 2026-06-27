@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4672	0	USER	福岡でWi-Fiが無料の宿泊施設を探しています。予算は高めでお願いします。	general,hotel,taxi
+4672	1	SYSTEM	かしこまりました。ではグランド ハイアット 福岡はいかがですか。	general,hotel,taxi
+4672	2	USER	電話番号も教えてください。	general,hotel,taxi
+4672	3	SYSTEM	電話番号は0922821234でございます。	general,hotel,taxi
+4672	4	USER	ありがとうございます。このホテルを3/16に2人で4泊予約したいです。	general,hotel,taxi
+4672	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は22323でございます。	general,hotel,taxi
+4672	6	USER	ありがとうございます。あとキャッシュレス払いができるジャンボタクシーも探してほしいです。	general,hotel,taxi
+4672	7	SYSTEM	ラッキー自動車（株）がございます。電話番号は0925417755でございます。	general,hotel,taxi
+4672	8	USER	このタクシーを3/16の10：00にさっきのホテルからロボスクエアまで予約したいです。	general,hotel,taxi
+4672	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は49131でございます。	general,hotel,taxi
+4672	10	USER	ありがとうございました。	general,hotel,taxi
+4672	11	SYSTEM	ほかにご用件はございませんか。	general,hotel,taxi
+4672	12	USER	大丈夫です。	general,hotel,taxi
+4672	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi

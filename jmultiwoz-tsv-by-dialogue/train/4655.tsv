@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4655	0	USER	札幌で飲食店を探しています。予算お高めで、最寄り駅が資生館小学校前停留所のお店がよいのですがお願いできますか	general,restaurant,shopping,taxi
+4655	1	SYSTEM	かしこまりました。そうしますと、teatro di massaというお店が1件該当します。いかがでしょうか？	general,restaurant,shopping,taxi
+4655	2	USER	そちらで結構です。定休日を教えていただけますか。	general,restaurant,shopping,taxi
+4655	3	SYSTEM	はい、こちらは火曜日がお休みとなっております。	general,restaurant,shopping,taxi
+4655	4	USER	ありがとうございます。それでは10/10の11:30から、3人で予約いただけますでしょうか。	general,restaurant,shopping,taxi
+4655	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、96676です。	general,restaurant,shopping,taxi
+4655	6	USER	ありがとうございます。当日、北区で食料品を購入できるお店はないでしょうか。	general,restaurant,shopping,taxi
+4655	7	SYSTEM	はい、3件ご案内可能です。たとえば、コーチャンフォー新川通り店というお店がございますが、いかがでしょうか？	general,restaurant,shopping,taxi
+4655	8	USER	そちらで結構です。最寄り駅を教えていただけますか	general,restaurant,shopping,taxi
+4655	9	SYSTEM	はい、最寄りは、北24条駅となります。	general,restaurant,shopping,taxi
+4655	10	USER	ありがとうございます。当日利用できるキャッシュレスのタクシー会社を探しています。	general,restaurant,shopping,taxi
+4655	11	SYSTEM	大変申し訳ございません。キャッシュレスのタクシー会社は、該当するところがありませんでした。	general,restaurant,shopping,taxi
+4655	12	USER	わかりました。それではキャッシュレスでなくても結構ですので、タクシー会社とその会社がジャンボタクシー対応かどうか教えていただけますか。	general,restaurant,shopping,taxi
+4655	13	SYSTEM	かしこまりました。では朝日交通(株)は、いかがでしょうか？こちらは、ジャンボタクシーには対応しております。	general,restaurant,shopping,taxi
+4655	14	USER	それではそちらでお願いします。10/10の12:50に飲食店　teatro di massaからコーチャンフォー新川通り店まで予約いただけますでしょうか。	general,restaurant,shopping,taxi
+4655	15	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、32374です。	general,restaurant,shopping,taxi
+4655	16	USER	こちらで結構です。ありがとうございました。	general,restaurant,shopping,taxi
+4655	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,shopping,taxi

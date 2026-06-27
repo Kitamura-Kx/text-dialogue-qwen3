@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+238	0	USER	お願いします。大阪への旅行を計画しています。当日使えるタクシーを探して下さい。	general,taxi
+238	1	SYSTEM	かしこまりました。なにかご希望の条件はございますか？	general,taxi
+238	2	USER	樹庵簿タクシーが利用できて、キャッシュレス対応している所が良いです。	general,taxi
+238	3	SYSTEM	申し訳ありません。樹庵簿タクシーという名前のタクシー会社は大阪で見つけることができませんでした。	general,taxi
+238	4	USER	失礼しました。ジャンボタクシーです。	general,taxi
+238	5	SYSTEM	かしこまりました。株式会社国際興業大阪はいかがでしょうか？ジャンボタクシーとキャッシュレス、両方に対応しております。	general,taxi
+238	6	USER	そちらの電話番号はわかりますか？	general,taxi
+238	7	SYSTEM	はい。電話番号は、0570035931です。ご予約いたしますか？	general,taxi
+238	8	USER	お願いします。12/5の13：00でりくろーおじさんの店 住之江公園店発、ホテルフクラシア大阪ベイ着でお願いします。	general,taxi
+238	9	SYSTEM	予約完了いたしました。ご予約番号は、74463でございます。	general,taxi
+238	10	USER	ありがとうございました。失礼します。	general,taxi
+238	11	SYSTEM	ご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,taxi

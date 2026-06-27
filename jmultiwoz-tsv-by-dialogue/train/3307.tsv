@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3307	0	USER	こんにちは。京都に行くのですが、エンタメ・アミューズメント系の観光名所はありますか？	general,attraction
+3307	1	SYSTEM	京都でエンタメ系といえば、ギオンコーナー、こちらをお勧めします。	general,attraction
+3307	2	USER	ありがとうございます。そこの住所と子供入場料ってわかりますか？	general,attraction
+3307	3	SYSTEM	住所は京都府京都市東山区祇園町南側570-2、子供料金ですが、高、大学生2,200円、小中学生1,900円 、京都府下の小中学生なら1,600円 、未就学児は無料です。	general,attraction
+3307	4	USER	ありがとうございました。	general,attraction
+3307	5	SYSTEM	よい旅を	general,attraction

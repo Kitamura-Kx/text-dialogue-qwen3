@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3816	0	USER	福岡へ旅行を計画しているのですが。	general,shopping
+3816	1	SYSTEM	どのようなお店や施設をご希望ですか？	general,shopping
+3816	2	USER	天神LOFTというところで買い物を予定しているのですが、そちらの住所と最寄り駅とエリアはどこか教えてください。	general,shopping
+3816	3	SYSTEM	住所は、福岡県福岡市中央区渡辺通4丁目9-25で、最寄り駅は、西鉄福岡（天神）駅になります。　エリアは、中央区です。	general,shopping
+3816	4	USER	わかりました。ありがとうございます。	general,shopping
+3816	5	SYSTEM	他にご用件はありますか？	general,shopping
+3816	6	USER	特にありません。ありがとうございました。	general,shopping
+3816	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

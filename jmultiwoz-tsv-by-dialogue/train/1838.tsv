@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1838	0	USER	名古屋へ行きたいと思っているので、宿泊先を探してもらえますか。	general,hotel,restaurant,weather
+1838	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,restaurant,weather
+1838	2	USER	はい、駐車場もWiFiも無料の施設で、レストランもついている所が良いです。	general,hotel,restaurant,weather
+1838	3	SYSTEM	かしこまりました。では、プチホテル ニューひふみはいかがでしょうか？ジャンルはビジネスホテルになります。	general,hotel,restaurant,weather
+1838	4	USER	ありがとうございます、プチホテル ニューひふみは近くの駅からだとどれ位かかるか分かりますか？	general,hotel,restaurant,weather
+1838	5	SYSTEM	はい。金山駅から徒歩で15分で、最寄りの尾頭橋駅から徒歩で7分となっております。	general,hotel,restaurant,weather
+1838	6	USER	分かりました。当日は居酒屋でご飯も食べたいんですが、無料Wi-Fiもある所で良いお店はありますか？	general,hotel,restaurant,weather
+1838	7	SYSTEM	かしこまりました。では、とり焼肉 もう壱鳥はいかがでしょうか？	general,hotel,restaurant,weather
+1838	8	USER	いいですね、予約をお願いします。とり焼肉 もう壱鳥の営業時間も知りたいです。	general,hotel,restaurant,weather
+1838	9	SYSTEM	かしこまりました。とり焼肉 もう壱鳥の営業時間は17:00～01:00になります。ご予約される人数と日付時刻をお知らせください。	general,hotel,restaurant,weather
+1838	10	USER	はい。8/23の11:00の予約で、人数は4人です。	general,hotel,restaurant,weather
+1838	11	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel,restaurant,weather
+1838	12	USER	そうですか、では予約時間を11:30にずらしたら、どうでしょうか？	general,hotel,restaurant,weather
+1838	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、38816です。	general,hotel,restaurant,weather
+1838	14	USER	ありがとうございます。それと、8/23の港区の天気は良いでしょうか？最低気温がどの位かも教えてください。	general,hotel,restaurant,weather
+1838	15	SYSTEM	かしこまりました。8/23の港区の天気予報は曇のち晴となっております。	general,hotel,restaurant,weather
+1838	16	USER	ありがとうございます、最低気温も知りたいです。	general,hotel,restaurant,weather
+1838	17	SYSTEM	申し訳ありません。最低気温が30.5度になる予報です。	general,hotel,restaurant,weather
+1838	18	USER	ありがとうございます、助かりました。	general,hotel,restaurant,weather
+1838	19	SYSTEM	他にご用件はありますか？	general,hotel,restaurant,weather
+1838	20	USER	いいえ、これで全てです。ありがとうございました。	general,hotel,restaurant,weather
+1838	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,weather

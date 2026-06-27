@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+320	0	USER	札幌に旅行に行こうと思っています。厚別区でショッピングをしたいのですが、駐車場を無料で利用できる場所を教えてもらえませんか？	general,shopping,weather,taxi
+320	1	SYSTEM	承知しました。それでは、イオン新さっぽろ店はいかがでしょう？ジャンルは、百貨店や総合スーパーとなります。	general,shopping,weather,taxi
+320	2	USER	お調べ下さりありがとうございます。12/24の南区の最高気温は何度くらいになるのでしょうか？	general,shopping,weather,taxi
+320	3	SYSTEM	はい、最高気温は、-2.1度となります。	general,shopping,weather,taxi
+320	4	USER	わかりました！あと札幌で利用するタクシー会社も探してもらえないでしょうか？	general,shopping,weather,taxi
+320	5	SYSTEM	承知しました。それでは、北都ベリアールサービス(株)はいかがでしょう？キャッシュレス、ジャンボタクシーともに対応しております。電話番号は、0118202200となります。	general,shopping,weather,taxi
+320	6	USER	ご丁寧にありがとうございます。ジャンボタクシー、キャッシュレス決済を利用できるみたいなのでこちらを利用したいです。予約を取ってもらうことはできますか？	general,shopping,weather,taxi
+320	7	SYSTEM	はい、可能です。お手数ですが、出発日時と出発地、目的地を教えていただけますか？	general,shopping,weather,taxi
+320	8	USER	はい。12/24の14:00に、にくと酒とACTからイオン新さっぽろ店までで予約をお願いします。	general,shopping,weather,taxi
+320	9	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、22051となります。	general,shopping,weather,taxi
+320	10	USER	ご予約して下さりありがとうございました！	general,shopping,weather,taxi

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+855	0	USER	京都の九条駅近くに、安めの簡易宿所はありますか？	general,hotel
+855	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel
+855	2	USER	簡易宿所がないようなら、ビジネスホテルはありますか？	general,hotel
+855	3	SYSTEM	はい、1件ございます。京都第一ホテルという南区のお安めなビジネスホテルですが、いかがでしょうか？	general,hotel
+855	4	USER	ではそちらのホテルの住所を教えていただけますか？	general,hotel
+855	5	SYSTEM	住所は、京都府京都市南区東九条下殿田町４５です。	general,hotel
+855	6	USER	今日調べたいことは以上です。ありがとうございました。	general,hotel
+855	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

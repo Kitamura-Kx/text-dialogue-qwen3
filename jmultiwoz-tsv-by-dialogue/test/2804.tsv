@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2804	0	USER	横浜への旅行を検討しています。色々お伺いしてもよろしいでしょうか？	general,restaurant
+2804	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant
+2804	2	USER	当日は腹黒屋 横浜という飲食店で食事をする予定なのですが、該当するお店はありますか？	general,restaurant
+2804	3	SYSTEM	はい、エリアでいうと西区にあり、ジャンルは、居酒屋、鍋、焼肉、ホルモン、となります。	general,restaurant
+2804	4	USER	ありがとうございます。このお店の住所ってわかりますか？	general,restaurant
+2804	5	SYSTEM	はい、住所は、神奈川県横浜市西区南幸2丁目6-6 DDZ-POINT 1Fとなります。	general,restaurant
+2804	6	USER	助かります。営業時間も教えて頂けますか？	general,restaurant
+2804	7	SYSTEM	営業時間は12時から4時となります。	general,restaurant
+2804	8	USER	ありがとうございます。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,restaurant
+2804	9	SYSTEM	ありがとうございました。	general,restaurant

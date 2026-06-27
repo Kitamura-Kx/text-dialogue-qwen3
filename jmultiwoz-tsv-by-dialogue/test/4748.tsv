@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4748	0	USER	横浜へ旅行予定なのですが、最寄り駅が白楽駅で買い物できるところはありますか？	general,shopping
+4748	1	SYSTEM	はい、エリアでいうと神奈川区に、六角橋商店街がございます。ジャンルは、商店街となります。	general,shopping
+4748	2	USER	いいですね。住所と定休日が知りたいです。	general,shopping
+4748	3	SYSTEM	はい、住所は神奈川県横浜市神奈川区六角橋1丁目10-2、定休日は店舗により異なります。	general,shopping
+4748	4	USER	了解です。ありがとうございました。	general,shopping
+4748	5	SYSTEM	ありがとうございました。	general,shopping

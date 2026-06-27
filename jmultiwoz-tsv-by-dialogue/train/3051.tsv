@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3051	0	USER	東京への旅行を計画しており、代々木公園を訪れる予定なのですが、色々お伺いしてもよろしいでしょうか？	general,attraction
+3051	1	SYSTEM	はい、どうぞ	general,attraction
+3051	2	USER	ありがとうございます。この施設の住所を教えて下さい。	general,attraction
+3051	3	SYSTEM	東京都渋谷区代々木神園町2-1です	general,attraction
+3051	4	USER	ありがとうございます。ついでに、大人の入場料も教えて頂けますか？	general,attraction
+3051	5	SYSTEM	大人も子供も、入場料は０、無料です。	general,attraction
+3051	6	USER	ありがとうございます。これで当日は大丈夫そうです。どうもありがとうございました。	general,attraction
+3051	7	SYSTEM	よい旅を	general,attraction

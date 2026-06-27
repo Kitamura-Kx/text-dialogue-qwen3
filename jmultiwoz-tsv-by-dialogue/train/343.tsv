@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+343	0	USER	札幌に行くのですが、観光名所を探しています。	general,attraction,shopping,hotel
+343	1	SYSTEM	札幌の観光名所ですね。48件ほど候補がございます。エリアなど、ご希望はありますでしょうか？	general,attraction,shopping,hotel
+343	2	USER	東区で美術館・博物館がいいです。駐車場が無料で利用できるところがいいです。	general,attraction,shopping,hotel
+343	3	SYSTEM	では、モエレ沼公園はいかがでしょうか？	general,attraction,shopping,hotel
+343	4	USER	そちらのジャンルは美術館・博物館でしょうか？	general,attraction,shopping,hotel
+343	5	SYSTEM	はい。ジャンルを申し上げますと、美術館・博物館, 散策エリア, 神社・寺院・教会・モニュメントなど, 自然・公園, 記念碑・像となっております。	general,attraction,shopping,hotel
+343	6	USER	そうなんですね。ありがとうございます。	general,attraction,shopping,hotel
+343	7	SYSTEM	他にお知りになりたい情報はございませんか？	general,attraction,shopping,hotel
+343	8	USER	当日、北区で買い物がしたいのですが、どこかありますか？	general,attraction,shopping,hotel
+343	9	SYSTEM	4件候補がございます。例えば、北海道どさんこプラザはいかがでしょうか？	general,attraction,shopping,hotel
+343	10	USER	食料品が買えるところですか？あと、駐車場が無料だと嬉しいです。	general,attraction,shopping,hotel
+343	11	SYSTEM	そういたしますと、コーチャンフォー新川通り店はいかがでしょうか？ジャンルは書籍, 文房具・雑貨, 食料品です。駐車場も無料でご利用いただけます。	general,attraction,shopping,hotel
+343	12	USER	そこに行ってみます。最寄り駅を教えていただけますか？	general,attraction,shopping,hotel
+343	13	SYSTEM	かしこまりました。最寄りは北24条駅です。駅からバスで18分ほどかかります。	general,attraction,shopping,hotel
+343	14	USER	ありがとうございます。あと、当日泊まるところも探しています。南区で、レストランが併設されていて、駐車場が無料のところはありますか？	general,attraction,shopping,hotel
+343	15	SYSTEM	4件候補がございます。例えば、南区の定山渓ビューホテルはお安めのリゾートホテルとなっておりますが、いかがでしょうか？	general,attraction,shopping,hotel
+343	16	USER	ありがとうございます。検討してみます。	general,attraction,shopping,hotel
+343	17	SYSTEM	ご予約も承ることができますが、いかがいたしましょうか？	general,attraction,shopping,hotel
+343	18	USER	予約は大丈夫です。ありがとうございました。	general,attraction,shopping,hotel
+343	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,shopping,hotel

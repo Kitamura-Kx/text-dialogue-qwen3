@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3090	0	USER	横浜の神奈川区へ行きます。フレンチのお店教えて下さい。	general,restaurant,attraction
+3090	1	SYSTEM	横浜神奈川区でイタリアンフレンチの店は３つありますが、VITAL MEALS BY DADWAYをお勧めします。	general,restaurant,attraction
+3090	2	USER	料金情報と住所教えて下さい。	general,restaurant,attraction
+3090	3	SYSTEM	住所は神奈川県横浜市神奈川区金港町1-10 横浜ベイクォータ 4階、デミグラスソース煮込みハンバーグプレート1485円が看板のようです。	general,restaurant,attraction
+3090	4	USER	近くの駅はどこですか？	general,restaurant,attraction
+3090	5	SYSTEM	横浜駅です。	general,restaurant,attraction
+3090	6	USER	予約お願いします。7月26日、9時50分で4人です。	general,restaurant,attraction
+3090	7	SYSTEM	予約成功しました。予約番号は11149です。	general,restaurant,attraction
+3090	8	USER	ありがとうございます。ヨコヤマ ユーランド鶴見に行くのですが、駐車場ありますか？	general,restaurant,attraction
+3090	9	SYSTEM	すいません、その施設は何ですか？買い物？観光？	general,restaurant,attraction
+3090	10	USER	観光名所ですね。	general,restaurant,attraction
+3090	11	SYSTEM	はい、駐車場無料のがあります。	general,restaurant,attraction
+3090	12	USER	ありがとうございます。では失礼します。	general,restaurant,attraction
+3090	13	SYSTEM	よい旅を。	general,restaurant,attraction

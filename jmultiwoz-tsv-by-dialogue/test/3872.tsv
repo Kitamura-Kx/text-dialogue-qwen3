@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3872	0	USER	札幌へ行くのですが、科学館のような場所でWi-Fi無料の所はありますか？	general,attraction,taxi
+3872	1	SYSTEM	かしこまりました。その条件ですと、北海道大学総合博物館がございます。	general,attraction,taxi
+3872	2	USER	ありがとうございます。ではそこの大人入場料と近辺の駅からの所要時間も教えてください。	general,attraction,taxi
+3872	3	SYSTEM	大人の入場料は無料です。近辺の駅からの所要時間は、札幌駅から徒歩で13分、北12条駅から徒歩で9分でございます。	general,attraction,taxi
+3872	4	USER	ありがとうございます。あと、キャッシュレス払いが利用できるタクシー会社を探してもらえますか？	general,attraction,taxi
+3872	5	SYSTEM	かしこまりました。それでは北都ベリアールサービス(株)はいかがでしょうか？	general,attraction,taxi
+3872	6	USER	ありがとうございます。そこの会社の電話番号も教えてください。あと、その会社はジャンボタクシーの対応はありますか？	general,attraction,taxi
+3872	7	SYSTEM	電話番号は0118202200でございます。ジャンボタクシーにも対応しております。	general,attraction,taxi
+3872	8	USER	ありがとうございます。ではそこの予約をお願いできますか？11/21の14：50に、プレミアホテル 中島公園 札幌を出発して、北海道大学総合博物館まで利用したいです。	general,attraction,taxi
+3872	9	SYSTEM	お待たせ致しました。予約番号98055でお取りさせていただきました。	general,attraction,taxi
+3872	10	USER	ありがとうございました。以上で結構です。	general,attraction,taxi
+3872	11	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,taxi

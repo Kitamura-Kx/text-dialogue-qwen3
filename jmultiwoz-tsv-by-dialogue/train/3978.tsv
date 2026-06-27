@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3978	0	USER	横浜の宿泊施設を探しています。	general,hotel
+3978	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel
+3978	2	USER	駐車場は無料の安めのところでお願いします。	general,hotel
+3978	3	SYSTEM	ではホテル パセラの森 横浜関内がございます。	general,hotel
+3978	4	USER	どんなタイプのホテルですか？	general,hotel
+3978	5	SYSTEM	タイプはリゾートホテルでございます。	general,hotel
+3978	6	USER	チェックインの開始時刻とチェックアウトの終了時刻は何時ですか？	general,hotel
+3978	7	SYSTEM	チェックイン開始時刻が15:00でチェックアウト終了時刻が11:00でございます。	general,hotel
+3978	8	USER	9/17から３泊、２人で予約してください。	general,hotel
+3978	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は71749でございます。	general,hotel
+3978	10	USER	ありがとうございました。	general,hotel
+3978	11	SYSTEM	ほかにご用件はございませんか。	general,hotel
+3978	12	USER	はい。	general,hotel
+3978	13	SYSTEM	どのようなご用件でしょうか。	general,hotel
+3978	14	USER	いえ、もう大丈夫です。	general,hotel
+3978	15	SYSTEM	承知しました。ありがとうございました。	general,hotel

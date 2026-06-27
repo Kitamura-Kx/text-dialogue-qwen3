@@ -1,0 +1,5 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4660	0	USER	札幌へ旅行を予定して、当日札幌ステラプレイスというところでお買い物をいたします。よいお店があれば最寄り駅も合わせて教えてください。	general,shopping
+4660	1	SYSTEM	札幌ステラプレイスですね。最寄り駅は、札幌駅で、徒歩1分の場所にございます。	general,shopping
+4660	2	USER	ありがとうございました、これでお問合せは終わりです。	general,shopping
+4660	3	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

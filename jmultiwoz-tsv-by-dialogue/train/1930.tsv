@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1930	0	USER	東京の日比谷駅近くで、駐車場とWi-Fiが無料の宿泊施設はありますか。	general,hotel,restaurant
+1930	1	SYSTEM	はい、1件ご案内可能です。帝国ホテル東京というシティホテルですが、いかがでしょうか？	general,hotel,restaurant
+1930	2	USER	そこにします。レストランの有無，料金情報，近辺の駅からの所要時間を教えてください。	general,hotel,restaurant
+1930	3	SYSTEM	はい、こちらはレストラン併設となっております。料金につきましては、値段帯が普通ということと、WiFi、駐車場が無料ということ以外は不明です。申し訳ありません。また、最寄りの日比谷駅から徒歩で3分の場所にあり、ほかにも、内幸町駅から徒歩で3分、有楽町駅から徒歩で5分、新橋駅から徒歩で7分、東京駅からタクシーで5分といった行き方がございます。	general,hotel,restaurant
+1930	4	USER	ありがとうございます。ラザーニャ・ラザーニャの住所も教えてもらえますか？	general,hotel,restaurant
+1930	5	SYSTEM	恐れ入ります。ラザーニャ・ラザーニャはどういった施設になるか、ご存知でいらっしゃいますでしょうか？当方では、宿泊施設や飲食店、観光名所、お買物施設といった情報をご案内出来るのですが。	general,hotel,restaurant
+1930	6	USER	すみません。飲食店です。	general,hotel,restaurant
+1930	7	SYSTEM	ありがとうございます。ラザーニャ・ラザーニャは港区にあるお店となります。住所は、東京都港区北青山2丁目12-27 デコール青山6Fでございます。	general,hotel,restaurant
+1930	8	USER	ありがとうございます！質問は以上です。	general,hotel,restaurant
+1930	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,restaurant

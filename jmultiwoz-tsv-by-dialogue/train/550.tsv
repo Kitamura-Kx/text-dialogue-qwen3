@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+550	0	USER	京都への旅行を計画しているのですが、観光名所を探してください。	general,attraction
+550	1	SYSTEM	かしこまりました。50件ほどご案内できますが、ジャンルやエリアなど、何かご希望はございませんか？	general,attraction
+550	2	USER	ジャンルは産業観光で駐車場を無料で利用できる場所がよいです。	general,attraction
+550	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction
+550	4	USER	それでは、ジャンルは問わないです。	general,attraction
+550	5	SYSTEM	ありがとうございます。そうしますと、6件ほど候補がございます。たとえば、桂坂野鳥遊園というところはご興味ございませんか？	general,attraction
+550	6	USER	野鳥が見られるのですね。では、そちらの定休日を教えてください。	general,attraction
+550	7	SYSTEM	定休日は、月曜日, 火曜日, 年末年始となっております。	general,attraction
+550	8	USER	ありがとうございました。	general,attraction

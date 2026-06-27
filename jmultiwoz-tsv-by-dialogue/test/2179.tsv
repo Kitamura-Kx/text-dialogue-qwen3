@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2179	0	USER	京都へ行きたいと思っているのですが、当日下京区で買い物ができるところを探してください。	general,shopping
+2179	1	SYSTEM	かしこまりました。それではポケモンセンターキョウトはいかがでしょうか？	general,shopping
+2179	2	USER	最寄り駅が二条駅のところがよいのですが。	general,shopping
+2179	3	SYSTEM	申し訳ございません。その条件では店舗をお探しすることが出来ませんでした。	general,shopping
+2179	4	USER	では、下京区でなくてもかまいません。	general,shopping
+2179	5	SYSTEM	では、総本家よし廣はいかがでしょうか？	general,shopping
+2179	6	USER	ありがとうございます。では、そちらの定休日と住所、駐車場の有無を教えてください。	general,shopping
+2179	7	SYSTEM	定休日は火曜日、住所は京都府京都市中京区西ノ京月光町22、駐車場の有無は分かりません。申し訳ございません。	general,shopping
+2179	8	USER	いえいえ、ありがとうございました。	general,shopping

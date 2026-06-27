@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1219	0	USER	那覇への旅行を計画しています．	general,restaurant
+1219	1	SYSTEM	はい。お問合せありがとうございます。	general,restaurant
+1219	2	USER	当日食事ができる飲食店を探してください．地区は小禄でWi-Fiが無料で利用できるところがいいです。	general,restaurant
+1219	3	SYSTEM	琉球村 那覇空港店はいかがでしょう。	general,restaurant
+1219	4	USER	いいですね。そちらの料金情報，住所，電話番号をおしえてください。	general,restaurant
+1219	5	SYSTEM	料金情報は不明で住所は沖縄県那覇市鏡水150、電話番号 は0988401201です。	general,restaurant
+1219	6	USER	ありがとうございます。そちらで人数は3人で、日付は9/3、時間は10:50で予約して欲しいです。	general,restaurant
+1219	7	SYSTEM	予約しました。予約番号は28991になります。	general,restaurant
+1219	8	USER	ありがとうございます。	general,restaurant

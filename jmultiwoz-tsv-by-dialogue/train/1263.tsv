@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1263	0	USER	大阪でレストランを探していまして。予算は高めでもいいので、カレーのレストランを探してください。	general,restaurant
+1263	1	SYSTEM	かしこまりました。では、鉄板工房 Panyo 道頓堀というお店はいかがでしょうか？なんば駅の近くにあるお店です。	general,restaurant
+1263	2	USER	そちらのお店ではWifiを利用できますか？	general,restaurant
+1263	3	SYSTEM	申し訳ありません。こちらのお店のWiFi有無は、不明となっております。WiFiが無料のお店でお探ししましょうか？	general,restaurant
+1263	4	USER	そこまでこだわらないので、大丈夫です。では予約もお願いしたいのですが。10/30の10:50でお願いします。人数は2人です。	general,restaurant
+1263	5	SYSTEM	ありがとうございます。予約を承りました。ご予約番号は、34161です。	general,restaurant
+1263	6	USER	ありがとうございます！	general,restaurant

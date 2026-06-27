@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4296	0	USER	札幌へ行くので、宿泊施設を探しています。最寄り駅がバスセンター前駅で、レストランが併設されているところはないですか？	general,hotel
+4296	1	SYSTEM	かしこまりました。ではホテルクラビーサッポロがございます。	general,hotel
+4296	2	USER	そこは駐車場はありますか？	general,hotel
+4296	3	SYSTEM	はい。有料ですがございます。	general,hotel
+4296	4	USER	わかりました。7月31日に4泊で予約します。人数は3人です。	general,hotel
+4296	5	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel
+4296	6	USER	それでは、2人に変更します。	general,hotel
+4296	7	SYSTEM	その人数ですと予約が可能でございました。予約番号は43749でございます。	general,hotel
+4296	8	USER	予約ありがとうございました。	general,hotel
+4296	9	SYSTEM	ほかにご用件はございませんか。	general,hotel
+4296	10	USER	いえ、大丈夫です。ありがとうございました。	general,hotel
+4296	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

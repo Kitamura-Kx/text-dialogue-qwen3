@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+417	0	USER	大阪で宿泊施設を探しているのですが。	general,hotel,taxi,weather
+417	1	SYSTEM	ご利用ありがとうございます。エリアなどでご希望はございませんか？	general,hotel,taxi,weather
+417	2	USER	レストラン併設で安めのところがいいです。	general,hotel,taxi,weather
+417	3	SYSTEM	申し訳ございません。その条件では、該当する施設が見つかりませんでした。	general,hotel,taxi,weather
+417	4	USER	そうですか。じゃあ、レストランのないところでもいいです。	general,hotel,taxi,weather
+417	5	SYSTEM	ありがとうございます。では、ホテル東洋はいかがでしょうか？	general,hotel,taxi,weather
+417	6	USER	いいですね。チェックアウト終了時刻は何時でしょうか。	general,hotel,taxi,weather
+417	7	SYSTEM	11時までとなっております。	general,hotel,taxi,weather
+417	8	USER	当日タクシーを使いたいのですが、キャッシュレス払いできるタクシー会社があれば教えてください。	general,hotel,taxi,weather
+417	9	SYSTEM	かしこまりました。日本タクシー株式会社はいかがですか？	general,hotel,taxi,weather
+417	10	USER	ジャンボタクシーには対応していますか？	general,hotel,taxi,weather
+417	11	SYSTEM	はい、ご利用いただけます。	general,hotel,taxi,weather
+417	12	USER	では、8/16の12:00に予約をお願いします。	general,hotel,taxi,weather
+417	13	SYSTEM	かしこまりました。出発地と目的地はお決まりでしょうか？	general,hotel,taxi,weather
+417	14	USER	季楽酒場 おっきゃがり 福島からホテル東洋まででお願いします。	general,hotel,taxi,weather
+417	15	SYSTEM	かしこまりました。ご予約番号94076にて、予約完了いたしました。	general,hotel,taxi,weather
+417	16	USER	了解です。ありがとうございました。	general,hotel,taxi,weather
+417	17	SYSTEM	ほかにお調べすることはございませんか？	general,hotel,taxi,weather
+417	18	USER	じゃあ、8/16の天王寺区の最高気温を調べてください。	general,hotel,taxi,weather
+417	19	SYSTEM	かしこまりました。最高気温は39.5度まで上がる予想です。	general,hotel,taxi,weather
+417	20	USER	わかりました。ありがとうございました。	general,hotel,taxi,weather

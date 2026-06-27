@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4236	0	USER	那覇に行きますが、買い物できるところを探してください。首里地区の県庁前駅から行けるところで駐車場無料のお店が希望です。	general,shopping,attraction,weather
+4236	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,attraction,weather
+4236	2	USER	それでは、地区はどこでも構いません。	general,shopping,attraction,weather
+4236	3	SYSTEM	では、エリアでいうと本庁にある、デパートリウボウはいかがでしょう？ジャンルは、百貨店や総合スーパーとなります。	general,shopping,attraction,weather
+4236	4	USER	ありがとうございます。電話番号を教えてください。	general,shopping,attraction,weather
+4236	5	SYSTEM	はい、電話番号は、0988671171となります。	general,shopping,attraction,weather
+4236	6	USER	ありがとうございます。観光名所にも行きたいのですが、本庁地区の自然・公園で壺川駅から行けるところはありますか。	general,shopping,attraction,weather
+4236	7	SYSTEM	はい、奥武山公園がございます。	general,shopping,attraction,weather
+4236	8	USER	駅からどれくらいかかりますか。	general,shopping,attraction,weather
+4236	9	SYSTEM	最寄りの壺川駅から徒歩で3分となります。	general,shopping,attraction,weather
+4236	10	USER	ありがとうございます。7/10の小禄は晴れますか？	general,shopping,attraction,weather
+4236	11	SYSTEM	残念ながら、天気は曇となります。	general,shopping,attraction,weather
+4236	12	USER	ありがとうございました。	general,shopping,attraction,weather

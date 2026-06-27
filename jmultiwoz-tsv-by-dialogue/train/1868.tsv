@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1868	0	USER	横浜に旅行するのですが、南区で買い物ができる、駐車場無料のお店はありますか？できれば、百貨店や総合スーパーがよいです。	general,shopping
+1868	1	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,shopping
+1868	2	USER	では、ジャンルは違うところでもかまわないです。	general,shopping
+1868	3	SYSTEM	かしこまりました。では、弘明寺かんのん通り商店街はいかがでしょうか？	general,shopping
+1868	4	USER	商店街もよさそうですね。そのお店の 近辺の駅からの所要時間、定休日、営業時間について教えて頂けますか？	general,shopping
+1868	5	SYSTEM	弘明寺駅から徒歩で3分となっております。定休日と営業時間に関しましては、店舗により異なるという情報しかありません。	general,shopping
+1868	6	USER	承知しました。知りたいことは以上です。ありがとうございました。	general,shopping
+1868	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

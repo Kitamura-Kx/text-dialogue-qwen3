@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4616	0	USER	仙台への旅行を計画しています． 当日泊まる宿泊施設を探してください．宿のタイプはビジネスホテルです．	general,hotel
+4616	1	SYSTEM	ホテルルートイン仙台泉インターはいかがでしょうか。	general,hotel
+4616	2	USER	そこの駐車場の有無，近辺の駅からの所要時間を教えていただけますか。	general,hotel
+4616	3	SYSTEM	駐車場の有無は有り(無料)。近辺の駅からの所要時間は泉中央駅からタクシーで8分です。	general,hotel
+4616	4	USER		general,hotel

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1182	0	USER	仙台への旅行を考えているのですが、青葉区で買い物ができるスーパーマーケットはありますか？	general,shopping,weather
+1182	1	SYSTEM	はい、業務スーパー 仙台一番町店がございます。何かご案内致しましょうか？	general,shopping,weather
+1182	2	USER	そこにします。定休日と営業時間を知りたいです。	general,shopping,weather
+1182	3	SYSTEM	はい、営業時間は10時から21時、定休日はございません。他にご案内できることはございますか？	general,shopping,weather
+1182	4	USER	わかりました。当日4/13の青葉区の天気を教えてください。	general,shopping,weather
+1182	5	SYSTEM	承知しました。天気は晴のち曇、最低気温10.6度、最高気温11.1度となります。他にご用件はございますか？	general,shopping,weather
+1182	6	USER	ありがとうございます。もう大丈夫です。	general,shopping,weather
+1182	7	SYSTEM	ありがとうございました。	general,shopping,weather

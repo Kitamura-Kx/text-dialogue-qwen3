@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3875	0	USER	札幌へ行くんですが、北区で無料駐車場がある飲食店を探してもらえますか？	general,restaurant,shopping,taxi
+3875	1	SYSTEM	かしこまりました。それではタイガーカレー北24条本店はいかがでしょうか？	general,restaurant,shopping,taxi
+3875	2	USER	ありがとうございます。そこの最寄り駅はどこになりますか？	general,restaurant,shopping,taxi
+3875	3	SYSTEM	最寄りの駅は北24条駅でございます。	general,restaurant,shopping,taxi
+3875	4	USER	ありがとうございます。ではそこの予約をお願いできますか？6/9の12：40で２名希望です。	general,restaurant,shopping,taxi
+3875	5	SYSTEM	お待たせ致しました。予約番号92615でお取りさせていただきました。	general,restaurant,shopping,taxi
+3875	6	USER	ありがとうございます。あと、白石区で無料駐車場がある買い物ができるお店も探してもらえますか？	general,restaurant,shopping,taxi
+3875	7	SYSTEM	かしこまりました。それではどんぐり 本店はいかがでしょうか？	general,restaurant,shopping,taxi
+3875	8	USER	ありがとうございます。そこの定休日も教えてください。	general,restaurant,shopping,taxi
+3875	9	SYSTEM	はい、定休日は1月1日でございます。	general,restaurant,shopping,taxi
+3875	10	USER	わかりました。あと、キャッシュレス払いがが利用できるタクシー会社を探してもらえますか？	general,restaurant,shopping,taxi
+3875	11	SYSTEM	かしこまりました。それでは、ダイコク交通(株)はいかがでしょうか？	general,restaurant,shopping,taxi
+3875	12	USER	ありがとうございます。そこの電話番号も教えてください。	general,restaurant,shopping,taxi
+3875	13	SYSTEM	はい、電話番号は0117416000でございます。	general,restaurant,shopping,taxi
+3875	14	USER	ありがとうございます。ではタクシーの予約をお願いできますか？6/9の14：40にタイガーカレー北24条本店を出発して、どんぐり 本店まで利用したいです。	general,restaurant,shopping,taxi
+3875	15	SYSTEM	お待たせ致しました。予約番号98449でお取りさせていただきました。	general,restaurant,shopping,taxi
+3875	16	USER	ありがとうございました。以上で結構です。	general,restaurant,shopping,taxi
+3875	17	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,shopping,taxi

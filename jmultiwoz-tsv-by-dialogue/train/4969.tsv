@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4969	0	USER	札幌へ行くのですが、安めの宿泊施設ってあります？Wi-Fiが無料で使えるといいのですが。	general,hotel
+4969	1	SYSTEM	申し訳ありません、その条件ではお探しすることが出来ませんでした。	general,hotel
+4969	2	USER	そうですか。では引き上げて普通の値段の宿泊施設でお願いします。	general,hotel
+4969	3	SYSTEM	かしこまりました。それでは、JRタワーホテル日航札幌はいかがでしょうか？	general,hotel
+4969	4	USER	いいですね。チェックイン開始時刻とレストランの有無、あと駐車場があるか教えてください。	general,hotel
+4969	5	SYSTEM	はい、チェックイン開始時刻は15時でございます。レストランはございます。また、駐車場は無料でご利用いただけます。	general,hotel
+4969	6	USER	そうなんですね。4人で7/23から3泊の予約をお願いできますか？	general,hotel
+4969	7	SYSTEM	お待たせ致しました。予約番号55655でお取りさせていただきました。	general,hotel
+4969	8	USER	ありがとうございます。それだけで大丈夫です。	general,hotel
+4969	9	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

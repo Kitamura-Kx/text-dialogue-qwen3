@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3681	0	USER	こんにちは。大阪で、くらわんか餅の世界天満店、という場所で買い物をしたいと思っているのですが。	general,shopping,taxi
+3681	1	SYSTEM	はい、ございますよ。何かお調べすることはありますか？	general,shopping,taxi
+3681	2	USER	定休日と電話番号が知りたいです。	general,shopping,taxi
+3681	3	SYSTEM	はい。定休日は木、金、土曜日です。また、電話番号は09088260779です。	general,shopping,taxi
+3681	4	USER	ありがとうごさいます。あと、当日タクシーを使いたいのですが、ジャンボタクシーが使えるところはありますか？	general,shopping,taxi
+3681	5	SYSTEM	かしこまりました。では、大宝タクシー株式会社はいかがでしょうか？	general,shopping,taxi
+3681	6	USER	ありがとうございます。そちらの電話番号を教えてください。	general,shopping,taxi
+3681	7	SYSTEM	はい。電話番号は0647020011です。予約されますか？	general,shopping,taxi
+3681	8	USER	はい、お願いします。6/27の14:50で、くらわんか餅の世界天満店から、阪急百貨店うめだ本店、まででお願いします。	general,shopping,taxi
+3681	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、62875です。	general,shopping,taxi
+3681	10	USER	ありがとうございます！以上です、お世話になりました。	general,shopping,taxi
+3681	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

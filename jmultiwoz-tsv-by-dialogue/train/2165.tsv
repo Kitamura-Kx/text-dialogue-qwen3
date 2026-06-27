@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2165	0	USER	こんにちは。今度横浜へ旅行しますので、安めの飲食店を探しています。金沢区のうどんやそば店を教えてください。	general,restaurant,attraction,taxi
+2165	1	SYSTEM	申し訳ございません。そちらの条件ではお探しすることが出来ませんでした。	general,restaurant,attraction,taxi
+2165	2	USER	そうですか。では戸塚区だとどうでしょうか？	general,restaurant,attraction,taxi
+2165	3	SYSTEM	お待たせ致しました。戸塚区でしたら福てんかつ トツカーナモール店がございます。	general,restaurant,attraction,taxi
+2165	4	USER	ありがとうございます。そちらの営業時間を教えてください。	general,restaurant,attraction,taxi
+2165	5	SYSTEM	かしこまりました。営業時間は11時から23時30分まででございます。	general,restaurant,attraction,taxi
+2165	6	USER	駐車場はありますか？	general,restaurant,attraction,taxi
+2165	7	SYSTEM	申し訳ございません。駐車場の有無は分かりません。	general,restaurant,attraction,taxi
+2165	8	USER	ありがとうございます。大丈夫です。それから、はまぎん こども宇宙科学館という観光名所はありますか？	general,restaurant,attraction,taxi
+2165	9	SYSTEM	はい、はまぎん こども宇宙科学館はございます。	general,restaurant,attraction,taxi
+2165	10	USER	ありがとうございます。近辺の駅からの所要時間はどれくらいですか？	general,restaurant,attraction,taxi
+2165	11	SYSTEM	はい、洋光台駅から徒歩で3分でございます。	general,restaurant,attraction,taxi
+2165	12	USER	それから、タクシー煮物りたいので、キャッシュレス払いができるタクシー会社をお願いできますか？	general,restaurant,attraction,taxi
+2165	13	SYSTEM	かしこまりました。では、スタジアム交通株式会社はいかがでしょうか？	general,restaurant,attraction,taxi
+2165	14	USER	電話番号をお願いします。	general,restaurant,attraction,taxi
+2165	15	SYSTEM	電話番号は0120776081でございます。	general,restaurant,attraction,taxi
+2165	16	USER	ありがとうございます。お手数ですが、予約をお願いします。7/19の16:10に先ほど見つけてもらった福てんかつ トツカーナモール店から、はまぎん こども宇宙科学館までお願いします	general,restaurant,attraction,taxi
+2165	17	SYSTEM	お待たせ致しました。予約番号17468でお取りさせていただきました。	general,restaurant,attraction,taxi
+2165	18	USER	色々ありがとうございました。助かりました。	general,restaurant,attraction,taxi
+2165	19	SYSTEM	かしこまりました。ご用件は以上でしょうか？	general,restaurant,attraction,taxi
+2165	20	USER	はい、以上となります。どうもありがとうございました。	general,restaurant,attraction,taxi
+2165	21	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,attraction,taxi

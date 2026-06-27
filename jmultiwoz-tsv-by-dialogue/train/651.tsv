@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+651	0	USER	名古屋旅行で泊まる宿泊施設を探していただけますか？	general,hotel,shopping
+651	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,hotel,shopping
+651	2	USER	駐車場が無料のところはありますか？	general,hotel,shopping
+651	3	SYSTEM	はい、20件ほど候補がございます。例えば、SAMURAI HOUSEという旅館はいかがでしょうか？	general,hotel,shopping
+651	4	USER	そちらでお願いします。エリアはどこになりますか？	general,hotel,shopping
+651	5	SYSTEM	エリアは中村区にございます。	general,hotel,shopping
+651	6	USER	ありがとうございます。当日スポーツ用品が買えるお店はありそうですか？	general,hotel,shopping
+651	7	SYSTEM	はい、2件ございます。サッカーショップKAMO 名古屋店と公武堂MACS、というお店ですが、ご興味のある方はございますか？	general,hotel,shopping
+651	8	USER	駐車場が無料のほうがあればそちらがいいのですがどうでしょうか？	general,hotel,shopping
+651	9	SYSTEM	そういたしますと、公武堂MACSの1件のみご案内可能です。	general,hotel,shopping
+651	10	USER	ではそちらに行きたいと思います。近辺の駅からの所要時間を教えていただけますか？	general,hotel,shopping
+651	11	SYSTEM	かしこまりました。最寄りの矢場町駅から徒歩で5分、上前津駅からは徒歩で7分、大須観音駅からは徒歩で9分となっております。	general,hotel,shopping
+651	12	USER	ありがとうございました。	general,hotel,shopping

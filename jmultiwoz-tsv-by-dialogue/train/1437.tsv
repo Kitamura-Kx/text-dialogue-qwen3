@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1437	0	USER	東京への旅行を計画しています．	general,attraction,weather,taxi
+1437	1	SYSTEM	お問合せありがとうございます。	general,attraction,weather,taxi
+1437	2	USER	当日訪れる観光名所を探してください．名前が江戸東京博物館というところです．	general,attraction,weather,taxi
+1437	3	SYSTEM	こちらでお調べいたしました。	general,attraction,weather,taxi
+1437	4	USER	駐車場の有無，子供入場料をおしえてください。	general,attraction,weather,taxi
+1437	5	SYSTEM	駐車場の有無は有り(有料)で、子供入場料は0です。	general,attraction,weather,taxi
+1437	6	USER	ありがとうございます。あと、世田谷区の8/13の気候も知りたいです。	general,attraction,weather,taxi
+1437	7	SYSTEM	天気は曇時々晴です。	general,attraction,weather,taxi
+1437	8	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してください．キャッシュレス払いとジャンボタクシーを利用できるところがいいです。	general,attraction,weather,taxi
+1437	9	SYSTEM	トーショー交通はいかがでしょうか。	general,attraction,weather,taxi
+1437	10	USER	そちらの電話番号がしりたいです。	general,attraction,weather,taxi
+1437	11	SYSTEM	電話番号は0423441111です。	general,attraction,weather,taxi
+1437	12	USER	ありがとうございます。そちらで日付は8/13、時間は14:40で出発地はケイズハウス東京オアシスというところで目的地は先ほど見つけた観光施設で予約してほしいです。	general,attraction,weather,taxi
+1437	13	SYSTEM	予約完了いたしました。予約番号は41200になります。	general,attraction,weather,taxi
+1437	14	USER	ありがとうございます。	general,attraction,weather,taxi

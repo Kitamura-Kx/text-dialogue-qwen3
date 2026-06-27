@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+617	0	USER	仙台への旅行を考えているのですが、ジャンボタクシーを利用できるタクシー会社を調べてください。	general,taxi
+617	1	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,taxi
+617	2	USER	そうですか。なら、ジャンボタクシーは利用できなくてもいいです。	general,taxi
+617	3	SYSTEM	ありがとうございます。では、（株）青葉タクシーはいかがでしょう？キャッシュレスには対応しております。電話番号は、0222587879となります。	general,taxi
+617	4	USER	そこにします。2月20日の10時40分で、ホテルニュー水戸屋 アネックスからホテルセントラル仙台までの予約をお願いできますか？	general,taxi
+617	5	SYSTEM	承知しました。ご予約が完了し、ご予約番号は、42061となります。他にご案内できることはございますか？	general,taxi
+617	6	USER	いえ、もう大丈夫です。	general,taxi
+617	7	SYSTEM	ありがとうございました。	general,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+523	0	USER	京都へ旅行に行きたいと思っています。当日買い物ができるところを教えてください。	general,shopping,restaurant
+523	1	SYSTEM	かしこまりました。ジャンルやエリアなど、ご希望はございますでしょうか？	general,shopping,restaurant
+523	2	USER	駐車場が無料で利用できてジャンルは医薬品・化粧品です。ｌ	general,shopping,restaurant
+523	3	SYSTEM	では、ココカラファイン アバンティ店はいかがでしょうか？	general,shopping,restaurant
+523	4	USER	そこが良さそうですね。そこの営業時間を教えてください。	general,shopping,restaurant
+523	5	SYSTEM	はい。営業時間は、10:00～21:00となっております。	general,shopping,restaurant
+523	6	USER	あと食事ができる飲食店を教えてください。ジャンルは焼き肉・ホルモンです。	general,shopping,restaurant
+523	7	SYSTEM	8件候補がございます。例えば、牛々亭はいかがでしょうか？	general,shopping,restaurant
+523	8	USER	そこにします。そこの住所と電話番号を教えてください。	general,shopping,restaurant
+523	9	SYSTEM	はい。住所は、京都府京都市中京区壬生東高田町2-2です。電話番号は、0753260298です。予約もおとりできますが、いかがいたしましょう？	general,shopping,restaurant
+523	10	USER	そこに人数4人で日付は6/14の１４時３０分に予約をしてもらえますでしょうか。	general,shopping,restaurant
+523	11	SYSTEM	かしこまりました。ご予約番号14811にて、承りました。	general,shopping,restaurant
+523	12	USER	分かりました。ありがとうございました。	general,shopping,restaurant
+523	13	SYSTEM	ほかにお調べすることはございますか？	general,shopping,restaurant
+523	14	USER	はい、大丈夫です。ありがとうございました。	general,shopping,restaurant
+523	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,restaurant

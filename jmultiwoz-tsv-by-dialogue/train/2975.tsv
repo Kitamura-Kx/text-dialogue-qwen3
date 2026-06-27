@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2975	0	USER	今度横浜の保土ヶ谷公園というところに行くのですが、そこの最寄り駅を教えてもらえますか？	general,attraction,taxi
+2975	1	SYSTEM	はい、最寄りの星川駅から徒歩で15分となります。	general,attraction,taxi
+2975	2	USER	ありがとうございます。あと、ジャンボタクシーが利用できるタクシー会社を探してもらえますか？	general,attraction,taxi
+2975	3	SYSTEM	承知しました。株式会社グリーンキャブはいかがでしょう？キャッシュレスにも対応しております。電話番号は0456638181となります。	general,attraction,taxi
+2975	4	USER	ありがとうございます。ではタクシー予約をお願いできますか？ 9/27の15：00に、山下公園を出発して、保土ヶ谷公園まで利用したいです。	general,attraction,taxi
+2975	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、44619となります。	general,attraction,taxi
+2975	6	USER	ありがとうございました。以上で結構です。	general,attraction,taxi
+2975	7	SYSTEM	ありがとうございました。	general,attraction,taxi

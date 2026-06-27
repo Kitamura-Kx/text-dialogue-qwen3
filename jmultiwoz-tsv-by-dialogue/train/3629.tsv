@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3629	0	USER	名古屋に旅行に行く計画をしていて、最寄りが八事駅のあたりで予算安めの飲食店に行きたいと思っています。	general,restaurant,taxi
+3629	1	SYSTEM	申し訳ございません、頂いた条件ですと、該当がございませんでした。いかがいたしましょうか？	general,restaurant,taxi
+3629	2	USER	では予算は安めでなくても大丈夫です。	general,restaurant,taxi
+3629	3	SYSTEM	オーガニック食堂 Engiが該当ございました。いかがでしょうか？	general,restaurant,taxi
+3629	4	USER	ありがとうございます。そのお店で11/18の15:20で3人の予約をお願いします。	general,restaurant,taxi
+3629	5	SYSTEM	ご予約承りました。予約番号は67490でございます。	general,restaurant,taxi
+3629	6	USER	ありがとうございます。あと、ジャンボタクシーをキャッシュレス払いで利用したいです。	general,restaurant,taxi
+3629	7	SYSTEM	申し訳ございません、該当がございませんでした。いかがいたしましょうか？	general,restaurant,taxi
+3629	8	USER	ではジャンボタクシーでないタクシーでも大丈夫です。	general,restaurant,taxi
+3629	9	SYSTEM	そうしますと、中日本タクシーほか５件ご案内可能でございます。いかがでしょうか？	general,restaurant,taxi
+3629	10	USER	では中日本タクシーの電話番号を教えてください。	general,restaurant,taxi
+3629	11	SYSTEM	かしこまりました。電話番号は、0570039758でございます。	general,restaurant,taxi
+3629	12	USER	ありがとうございます。11/18の13:40にナゴヤグランドホテルからオーガニック食堂 Engiで予約をお願いします。	general,restaurant,taxi
+3629	13	SYSTEM	ご予約承りました。予約番号は62635でございます。	general,restaurant,taxi
+3629	14	USER	ありがとうございます。これで大丈夫です。	general,restaurant,taxi
+3629	15	SYSTEM	ありがとうございました。	general,restaurant,taxi

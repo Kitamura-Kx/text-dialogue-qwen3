@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4946	0	USER	すみません、横浜に旅行したいんですが、ジャンルはスポーツで、駐車場が無料で利用できる買い物スポットはありますか？	general,shopping,attraction
+4946	1	SYSTEM	申し訳ございません。結果がございません。	general,shopping,attraction
+4946	2	USER	それでは、駐車場無料のスーパーマーケットでお願いします。	general,shopping,attraction
+4946	3	SYSTEM	まいばすけっと 鴨居駅西店がご紹介できます。	general,shopping,attraction
+4946	4	USER	そのお店の電話番号はわかりますか？	general,shopping,attraction
+4946	5	SYSTEM	0459313160です。	general,shopping,attraction
+4946	6	USER	ありがとうございます。当日行く観光名所も探しているんですけど、駐車場が無料で、Wi-Fiも無料だと助かります。	general,shopping,attraction
+4946	7	SYSTEM	三溪園や、 カップヌードルミュージアム 横浜はいかがですか？	general,shopping,attraction
+4946	8	USER	三溪園の定休日と電話番号を教えてください。	general,shopping,attraction
+4946	9	SYSTEM	定休日は12/29, 12/30, 12/31です。電話番号は0456210634です。	general,shopping,attraction
+4946	10	USER	ありがとうございます。旅行が楽しみです。	general,shopping,attraction

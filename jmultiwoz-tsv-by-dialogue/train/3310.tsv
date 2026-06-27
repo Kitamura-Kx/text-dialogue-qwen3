@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3310	0	USER	横浜に行くのですが、Wi-Fiと駐車場が無料で使える観光名所はないですか？	general,attraction,weather
+3310	1	SYSTEM	横浜でWiFiと駐車場無料の観光名所といえば、カップヌードルミュージアム 横浜、こちらをオススメします。	general,attraction,weather
+3310	2	USER	そこの子供入場料と、近くの駅からの所要時間を教えてください。	general,attraction,weather
+3310	3	SYSTEM	高校生以下は無料、みなとみらい駅から徒歩で8分、馬車道駅から徒歩で8分、桜木町駅から徒歩で12分って感じです。	general,attraction,weather
+3310	4	USER	ありがとうございます。では3月14日の緑区の天気を知りたいのですが。	general,attraction,weather
+3310	5	SYSTEM	3/14 横浜 緑区 の天気は曇のち雨、最低気温10.6度、最高気温13.1度です	general,attraction,weather
+3310	6	USER	ありがとうございました。	general,attraction,weather
+3310	7	SYSTEM	よい旅を	general,attraction,weather

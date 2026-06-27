@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+591	0	USER	こんにちは！東京に行くんですが、天候を調べてもらうことってできますか？	general,weather,taxi
+591	1	SYSTEM	はい、お調べいたします。日付とエリアをお願いできますでしょうか？	general,weather,taxi
+591	2	USER	2/10の中央区でお願いします。	general,weather,taxi
+591	3	SYSTEM	かしこまりました。当日の天気は、曇のち晴れの予報です、最低気温は7.6度、最高気温は10.9度の予想となっております。	general,weather,taxi
+591	4	USER	ありがとうございます。当日ジャンボタクシーを利用したいんですが、キャッシュレス払い対応のタクシー会社はありますか？	general,weather,taxi
+591	5	SYSTEM	はい、ございます。東京エムケイはいかがでしょうか？	general,weather,taxi
+591	6	USER	いいですね。電話番号をお願いします。	general,weather,taxi
+591	7	SYSTEM	電話番号は、0355475551でございます。予約もおとりしますか？	general,weather,taxi
+591	8	USER	ありがたいです！2/10の12:30に江戸さくらを出発して、グリル満天星 麻布本店まで行きたいです。	general,weather,taxi
+591	9	SYSTEM	かしこまりました。予約が完了いたしました。ご予約番号は、64617です。	general,weather,taxi
+591	10	USER	ありがとうございます。お手数おかけしました！	general,weather,taxi
+591	11	SYSTEM	ほかに何かお調べすることはございませんか？	general,weather,taxi
+591	12	USER	はい！ありがとうございました。	general,weather,taxi
+591	13	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,weather,taxi

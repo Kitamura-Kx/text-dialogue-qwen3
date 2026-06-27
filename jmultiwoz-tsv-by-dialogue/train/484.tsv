@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+484	0	USER	仙台へ旅行に行くのですが、若林区で駐車場が無料の観光名所はありますか？	general,attraction,hotel,weather
+484	1	SYSTEM	かしこまりました。南小泉交通公園はいかがでしょうか。	general,attraction,hotel,weather
+484	2	USER	南小泉交通公園は無料Wi-Fiはありますか？	general,attraction,hotel,weather
+484	3	SYSTEM	Wi-Fiはございません。	general,attraction,hotel,weather
+484	4	USER	わかりました、南小泉交通公園はどのような公園ですか？	general,attraction,hotel,weather
+484	5	SYSTEM	ジャンルは自然・公園, エンタメ・アミューズメントでございます。	general,attraction,hotel,weather
+484	6	USER	面白そうですね、駅からの所要時間と有料でしたら大人料金を教えてください	general,attraction,hotel,weather
+484	7	SYSTEM	仙台駅からバスで19分で、大人の入場料は無料でございます。	general,attraction,hotel,weather
+484	8	USER	有難うございました、行ってみようと思います	general,attraction,hotel,weather
+484	9	SYSTEM	ほかにご用件はございませんか。	general,attraction,hotel,weather
+484	10	USER	はい大丈夫です、ありがとうございました	general,attraction,hotel,weather
+484	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel,weather
+484	12	USER	ごめんなさい、追加で質問をお願いします	general,attraction,hotel,weather
+484	13	SYSTEM	かしこまりました。	general,attraction,hotel,weather
+484	14	USER	宿泊先も探したいのですが「駐車場とWi-Fiが無料」レストランがあるところが希望です	general,attraction,hotel,weather
+484	15	SYSTEM	申し訳ございません。すべての条件を満たすところはございませんでした。いかがなさいますか。	general,attraction,hotel,weather
+484	16	USER	Wi-Fi無料とレストランのみの条件ではどうですか？	general,attraction,hotel,weather
+484	17	SYSTEM	では仙台ガーデンパレスはいかがでしょうか。	general,attraction,hotel,weather
+484	18	USER	ホテルですか？	general,attraction,hotel,weather
+484	19	SYSTEM	タイプはシティホテルでございます。	general,attraction,hotel,weather
+484	20	USER	わかりました、5/3なのですが泉区の当日の天気予報や最高気温などは分かりますか？	general,attraction,hotel,weather
+484	21	SYSTEM	天気は曇で、最低気温は16.2度、最高気温は26.8度でございます。	general,attraction,hotel,weather
+484	22	USER	それでは利用したいと思います、有難うございました	general,attraction,hotel,weather
+484	23	SYSTEM	ほかにご用件はございませんか。	general,attraction,hotel,weather
+484	24	USER	はい大丈夫です	general,attraction,hotel,weather
+484	25	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel,weather

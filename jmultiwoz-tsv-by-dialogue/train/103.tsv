@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+103	0	USER	こんにちは！ 東京に旅行で行こうかと思っているのですが、ちょっとお調べしていただきたいことがありまして、よろしくお願いします。	general,shopping,weather
+103	1	SYSTEM	承知致しました。どのようなことをお調べしましょうか？	general,shopping,weather
+103	2	USER	買い物ができるところを探しているんですけど、SHIRO 自由が丘店という名前のところなんです。探してもらえますか？	general,shopping,weather
+103	3	SYSTEM	承知致しました。 住所は、目黒区自由が丘2丁目9-14-1階、電話番号は、0357019146となります。 営業時間は11時から20時までとなっております。	general,shopping,weather
+103	4	USER	そうなんですね！ありがとうございます！ あ、あと、最寄り駅と、駐車場があるかどうかということも、わかりますか？	general,shopping,weather
+103	5	SYSTEM	はい、最寄り駅は自由が丘駅、駅から徒歩5分です。 申し訳ありません、駐車場の有無については分かりかねます。	general,shopping,weather
+103	6	USER	わかりました。ありがとうございます！ あと、もう一つ、７月４日の港区の天候についても調べてもらいたいんですけど、お願いできますか？	general,shopping,weather
+103	7	SYSTEM	承知致しました。 当日の港区の天気は雨、最高気温は28.2度、最低気温は19.9度となっております。	general,shopping,weather
+103	8	USER	そうなんですね。わかりました！ありがとうございます。	general,shopping,weather
+103	9	SYSTEM	他にご用件はございますか？	general,shopping,weather
+103	10	USER	あとは大丈夫です！お調べいただき、ありがとうございました！	general,shopping,weather
+103	11	SYSTEM	承知致しました。ありがとうございました。	general,shopping,weather

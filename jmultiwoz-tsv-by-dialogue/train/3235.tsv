@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3235	0	USER	札幌へ行く予定をしているので、その時に立ち寄るお店を案内して下さい。	general,shopping,hotel,taxi
+3235	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,hotel,taxi
+3235	2	USER	清田区でお買い物をしたいと思っています。無料駐車場がある所を探してください。	general,shopping,hotel,taxi
+3235	3	SYSTEM	では、欧風洋菓子 エル ドール 平岡店はいかがでしょう？ジャンルは、食料品となります。	general,shopping,hotel,taxi
+3235	4	USER	ありがとうございます。あと、泊まる所も探してくれますか。駐車場、Wi-Fiどちらも無料の所が良いですね。	general,shopping,hotel,taxi
+3235	5	SYSTEM	では、エリアでいうと白石区にある、ホテルルートイン札幌白石はいかがでしょう？タイプは、ビジネスホテルとなります。	general,shopping,hotel,taxi
+3235	6	USER	そこにしますね。ホテルルートイン札幌白石は最寄り駅から何分くらいかかりそうですか？住所も教えてください。	general,shopping,hotel,taxi
+3235	7	SYSTEM	住所は北海道札幌市白石区北郷4条2丁目1-5、最寄りの白石駅から徒歩で20分となります。	general,shopping,hotel,taxi
+3235	8	USER	分かりました。当日はタクシーで移動を考えています。キャッシュレス決済ができて、ジャンボタクシーも選べるタクシー会社はありますか？	general,shopping,hotel,taxi
+3235	9	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,shopping,hotel,taxi
+3235	10	USER	そうですか。それではジャンボタクシーが利用できなくてもいいので、もう一度探してもらえますか？	general,shopping,hotel,taxi
+3235	11	SYSTEM	承知しました。昭和交通(株)はいかがでしょう？電話番号は、0117811525となります。	general,shopping,hotel,taxi
+3235	12	USER	ありがとうございます、それでは6/5で配車の予約をお願いできますか？	general,shopping,hotel,taxi
+3235	13	SYSTEM	承知しました。出発時刻と出発地、目的地を教えていただけますか？	general,shopping,hotel,taxi
+3235	14	USER	はい、13:30に欧風洋菓子 エル ドール 平岡店から乗って、行先はホテルルートイン札幌白石でお願いします。	general,shopping,hotel,taxi
+3235	15	SYSTEM	承知しました。予約が完了し、ご予約番号は、67534となります。	general,shopping,hotel,taxi
+3235	16	USER	ありがとうございます、助かりました。	general,shopping,hotel,taxi
+3235	17	SYSTEM	他にご用件はございますか？	general,shopping,hotel,taxi
+3235	18	USER	これで全てです、ありがとうございました。	general,shopping,hotel,taxi
+3235	19	SYSTEM	ありがとうございました。	general,shopping,hotel,taxi

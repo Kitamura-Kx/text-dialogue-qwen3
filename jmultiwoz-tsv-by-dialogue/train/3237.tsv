@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3237	0	USER	旅行で那覇に行く予定をしています。	general,attraction,taxi
+3237	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,taxi
+3237	2	USER	Wi-Fi無料の観光スポットを探しています。ワークショップや体験系の施設はありませんか？	general,attraction,taxi
+3237	3	SYSTEM	では、エリアでいうと本庁にある、沖縄県立博物館・美術館はいかがでしょう？	general,attraction,taxi
+3237	4	USER	そこにしようと思います。あと、ジャンボタクシーが選べるタクシー会社も探してくれますか？支払はキャッシュレスで考えています。	general,attraction,taxi
+3237	5	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,attraction,taxi
+3237	6	USER	そうですね、それではキャッシュレスが利用できなくてもいいので、もう一度探してもらえますか？	general,attraction,taxi
+3237	7	SYSTEM	承知しました。では、大栄交通はいかがでしょう？電話番号 は、0989465005となります。	general,attraction,taxi
+3237	8	USER	それでは、その会社で8/2にタクシーの予約をお願いします。西鉄リゾートイン那覇から11:50に出発、行先は沖縄県立博物館・美術館までです。	general,attraction,taxi
+3237	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、38286となります。	general,attraction,taxi
+3237	10	USER	ありがとうございます。	general,attraction,taxi
+3237	11	SYSTEM	ありがとうございました。	general,attraction,taxi

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+85	0	USER	こんばんは。旅行の案内をお願いしたいです。	general,shopping,weather
+85	1	SYSTEM	こんばんは。お問い合わせありがとうございます。ご旅行のご案内とのことですが、どんな情報をお探しですか？	general,shopping,weather
+85	2	USER	えっと、名古屋へ旅行しようと思っているんですが、当日に買い物ができるところ、天白区で、どこか良い所はありますか？	general,shopping,weather
+85	3	SYSTEM	名古屋のお買い物施設でございますね。こちら、誠に申し訳ございませんが、天白区エリアには該当の店舗を見つけることが出来ませんでした。	general,shopping,weather
+85	4	USER	そうでしたか。それでは、東区の方で探していただけますか？	general,shopping,weather
+85	5	SYSTEM	ありがとうございます。東区ですと、4店舗ほど見つかりました。他に、ジャンルなどでご希望の条件はございませんか？	general,shopping,weather
+85	6	USER	良かったです！ジャンルなどの希望は特にありません。	general,shopping,weather
+85	7	SYSTEM	左様でございますか。そういたしますと、オアシス21は、いかがでしょうか？	general,shopping,weather
+85	8	USER	なるほど。オアシス21ですね。それでは、そちらのお店の定休日について伺ってもよろしいですか？	general,shopping,weather
+85	9	SYSTEM	はい、かしこまりました。オアシス21の店休日は、特に設けられておりません。	general,shopping,weather
+85	10	USER	そうなんですか。わかりました。 えっと、あと、当日、12月15日の千種区の天候についても教えていただきたいのですが、よろしいでしょうか。	general,shopping,weather
+85	11	SYSTEM	かしこまりました。名古屋の千種区の12月15日の天気は、曇のち晴れの予報です。	general,shopping,weather
+85	12	USER	そうでしたか。ありがとうございます。 最低気温はどのくらいでしょうか？	general,shopping,weather
+85	13	SYSTEM	最低気温は8.4度、最高気温も10.2度までしか上がらない見込みです。	general,shopping,weather
+85	14	USER	そうなんですね。わかりました。 色々お調べいただき、本日はありがとうございました。	general,shopping,weather
+85	15	SYSTEM	こちらこそ、お問い合わせいただき、ありがとうございました。他にお知りになりたいことなどは、ございませんでしょうか？	general,shopping,weather
+85	16	USER	はい、大丈夫です！ありがとうございました。 それでは、失礼いたします。	general,shopping,weather
+85	17	SYSTEM	では、本日のご案内は以上とさせていただきます。またのご利用をお待ちしております。	general,shopping,weather

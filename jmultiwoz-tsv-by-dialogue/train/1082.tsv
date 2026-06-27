@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1082	0	USER	大阪への旅行を計画しているのですが。	general,attraction
+1082	1	SYSTEM	はい。お問合せありがとうございます。	general,attraction
+1082	2	USER	当日訪れる観光名所を探してください．Wi-Fiが無料で利用でき,地区は生野区希望です。	general,attraction
+1082	3	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction
+1082	4	USER	でしたら地区は港区でお願いします。	general,attraction
+1082	5	SYSTEM	海遊館はいかがでしょうか。	general,attraction
+1082	6	USER	いいですね。そちらの住所，定休日，ジャンルをおしえてください。	general,attraction
+1082	7	SYSTEM	住所は大阪府大阪市港区海岸通1丁目1-10で定休日は無し。ジャンルは水族館, エンタメ・アミューズメントです。	general,attraction
+1082	8	USER	ありがとうございました。	general,attraction

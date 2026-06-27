@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2289	0	USER	横浜で、駐車場が無料で使える和食のお店を探して下さい。予算は高めで結構です。	general,restaurant
+2289	1	SYSTEM	承知しました。エリアでいうと青葉区に、うなぎ料理 しま村 青葉台店がございます。	general,restaurant
+2289	2	USER	住所と営業時間はわかりますか？	general,restaurant
+2289	3	SYSTEM	はい、住所は神奈川県横浜市青葉区青葉台2丁目10-16、営業時間は11時から15時と、16時から21時30分となります。	general,restaurant
+2289	4	USER	エリアはわかりますか？	general,restaurant
+2289	5	SYSTEM	はい、エリアは青葉区になります。	general,restaurant
+2289	6	USER	わかりました。ありがとうございました。	general,restaurant

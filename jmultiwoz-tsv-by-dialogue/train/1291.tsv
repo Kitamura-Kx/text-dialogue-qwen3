@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1291	0	USER	那覇への旅行を計画しているのですが、観光名所を探しております。	general,attraction,shopping,hotel
+1291	1	SYSTEM	那覇の観光名所ですね。ジャンルやエリアなど、何かご希望はございますか？	general,attraction,shopping,hotel
+1291	2	USER	地区は本庁で、WiFiを無料で利用できる場所が良いと考えております。	general,attraction,shopping,hotel
+1291	3	SYSTEM	では、パレットくもじ、というところはいかがでしょうか？ジャンルとしては、美術館・博物館, コンサート・ショー, 映画館, 庭園, その他となります。	general,attraction,shopping,hotel
+1291	4	USER	ありがとうございます、ではそこに行きたいと思います。よろしければパレットくもじさんの子供入場料をお教えいただけますか？	general,attraction,shopping,hotel
+1291	5	SYSTEM	お子様の入場料は0円です。大人も0円で無料となりますと、	general,attraction,shopping,hotel
+1291	6	USER	ありがとうございます。あと当日買い物ができる場所を探しているのですが、真和志地区でどこかありますでしょうか。	general,attraction,shopping,hotel
+1291	7	SYSTEM	はい、3件ほどご案内可能です。例えば、タウンプラザかねひで与儀公園市場はいかがでしょうか？	general,attraction,shopping,hotel
+1291	8	USER	なるほど、駐車場を無料で利用できるところがよいのですがそういった場所はございますか？	general,attraction,shopping,hotel
+1291	9	SYSTEM	無料駐車場がご利用いただける場所となりますと、先にご案内した、タウンプラザかねひで与儀公園市場のみとなります。いかが致しましょうか？	general,attraction,shopping,hotel
+1291	10	USER	ありがとうございます、ではそこに行きたいと思います。最寄り駅はどこかお聞きしてもよろしいですか？	general,attraction,shopping,hotel
+1291	11	SYSTEM	最寄り駅は、安里駅でございます。徒歩11分でアクセスできます。	general,attraction,shopping,hotel
+1291	12	USER	ありがとうございます。あと一点、当日の宿泊場所を探しております。予算は普通を希望しております。	general,attraction,shopping,hotel
+1291	13	SYSTEM	かしこまりました。では、ザ・ナハテラスという本庁エリアにあるリゾートホテルはいかがでしょうか？	general,attraction,shopping,hotel
+1291	14	USER	ありがとうございます、WiFiと駐車場を無料で利用できる場所だとよいのですがそのホテルはどうでしょうか。	general,attraction,shopping,hotel
+1291	15	SYSTEM	そちらの条件を満たすところですと、さくらや国際通りはいかがでしょうか？	general,attraction,shopping,hotel
+1291	16	USER	ありがとうございます、ではそちらに泊まりたいと思います。どのエリアにあるかお教えいただけますか？	general,attraction,shopping,hotel
+1291	17	SYSTEM	エリアは本庁でございます。	general,attraction,shopping,hotel
+1291	18	USER	ありがとうございます。さくらや国際通りさんにはレストランはありますか？	general,attraction,shopping,hotel
+1291	19	SYSTEM	申し訳ありません。レストランは併設しておりません。	general,attraction,shopping,hotel
+1291	20	USER	分かりました。大丈夫です。ではそこを予約したいのですが、10月4日に3人で3泊で予約をお願いできますでしょうか。	general,attraction,shopping,hotel
+1291	21	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。予約番号は、10360です。	general,attraction,shopping,hotel
+1291	22	USER	ありがとうございました。	general,attraction,shopping,hotel
+1291	23	SYSTEM	他になにかお調べすることはございますか？	general,attraction,shopping,hotel
+1291	24	USER	いえ、これで以上になります。丁寧にサポートしていただきありがとうございました。	general,attraction,shopping,hotel
+1291	25	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,shopping,hotel

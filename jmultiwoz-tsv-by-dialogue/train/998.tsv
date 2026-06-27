@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+998	0	USER	仙台へ旅行予定なのですが、無料駐車場がある神社・寺院・教会・モニュメントなどの観光名所を調べてください。	general,attraction
+998	1	SYSTEM	かしこまりました。9件ほどご案内可能です。例えば、愛宕神社というところがございますが、いかがでしょうか？	general,attraction
+998	2	USER	気になります。エリアと大人と子供の入場料を教えてください。	general,attraction
+998	3	SYSTEM	エリアは太白区です。大人もお子様も入場料は0円で無料でございます。	general,attraction
+998	4	USER	わかりました。ありがとうございます。	general,attraction
+998	5	SYSTEM	他になにかお調べすることはございますか？	general,attraction
+998	6	USER	いえ、大丈夫です。	general,attraction
+998	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

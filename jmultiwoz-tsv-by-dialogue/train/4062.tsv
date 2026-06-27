@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4062	0	USER	名古屋へ旅行の予定です。アウトドアの観光名所で駐車場無料の場所はありますか？	general,attraction,restaurant,weather
+4062	1	SYSTEM	1件該当いたしました。農業文化園・戸田川緑地という場所でございます。	general,attraction,restaurant,weather
+4062	2	USER	ありがとうございます。では、食事が出来る寿司・魚料理のお店はありますか？Wi-Fiが無料で使用できるところがいいです。	general,attraction,restaurant,weather
+4062	3	SYSTEM	すしざんまい 名古屋錦店という店舗が該当いたしました。いかがでしょうか？	general,attraction,restaurant,weather
+4062	4	USER	ありがとうございます！ではその店の定休日・駐車場の有無・価格帯を教えていただけますか？	general,attraction,restaurant,weather
+4062	5	SYSTEM	承知いたしました。定休日はございません。駐車場は不明との記載です。価格帯は普通となっております。	general,attraction,restaurant,weather
+4062	6	USER	ありがとうございました。では1/25当日の港区の最低気温はどれくらいでしょうか？	general,attraction,restaurant,weather
+4062	7	SYSTEM	名古屋港区の1月25日は最低気温15.3度でございます。	general,attraction,restaurant,weather
+4062	8	USER	ありがとうございました。	general,attraction,restaurant,weather

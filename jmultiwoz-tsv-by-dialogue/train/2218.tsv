@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2218	0	USER	仙台へ旅行に行くので、観光できる場所を探してください。	general,attraction
+2218	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction
+2218	2	USER	ジャンルは歴史的建造物で、駐車場を無料で利用できるところにしてください。	general,attraction
+2218	3	SYSTEM	エリアでいうと青葉区にある、瑞鳳殿 涅槃門はいかがでしょう？	general,attraction
+2218	4	USER	そちらの料金情報、営業時間、Wi-Fiの有無を教えて下さい。	general,attraction
+2218	5	SYSTEM	営業時間は0時から0時、Wi-Fiのご用意はございません。料金情報としては、一般、大学生の入場料は570円、高校生の入場料は410円、小、中学生の入場料は210円、となります。	general,attraction
+2218	6	USER	24時間営業ということでしょうか？	general,attraction
+2218	7	SYSTEM	その点はわかりかねますが、こちらにある情報では、0時から0時、と記載されております。	general,attraction
+2218	8	USER	わかりました。ありがとうございます。以上です。	general,attraction
+2218	9	SYSTEM	ありがとうございました。	general,attraction

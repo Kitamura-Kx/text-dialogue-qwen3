@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2047	0	USER	こんにちは。東京に旅行に行こうと思っているのですが、レストランを探しています。	general,restaurant,shopping,attraction
+2047	1	SYSTEM	かしこまりました。希望のジャンルはホテルレストランでよろしかったですか？また、何か他の希望の要件はございますか？	general,restaurant,shopping,attraction
+2047	2	USER	カフェ・スイーツ系のお店を探しています。駐車場を無料で利用できるところがいいのですが。	general,restaurant,shopping,attraction
+2047	3	SYSTEM	かしこまりました。では、NAMIKI667はいかがでしょうか？	general,restaurant,shopping,attraction
+2047	4	USER	そこにしようかと思います。そのお店はWi-Fiはありますか？また、値段帯もお聞きしたいです。	general,restaurant,shopping,attraction
+2047	5	SYSTEM	はい。Wi-Fiの有無は不明となっております。値段帯は高めです。	general,restaurant,shopping,attraction
+2047	6	USER	わかりました。それでは、4月30日に4名、10：00で予約をお願いします。	general,restaurant,shopping,attraction
+2047	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、63576です。	general,restaurant,shopping,attraction
+2047	8	USER	ありがとうございます。あと、ショッピングもしたいのですが、SHIRO 自由が丘店というところはありますか？	general,restaurant,shopping,attraction
+2047	9	SYSTEM	はいございますよ。何かお調べできることはありますでしょうか？	general,restaurant,shopping,attraction
+2047	10	USER	住所を教えていただけませんか？	general,restaurant,shopping,attraction
+2047	11	SYSTEM	はい。住所は東京都目黒区自由が丘2丁目9-14-1Fになります。	general,restaurant,shopping,attraction
+2047	12	USER	ありがとうございます。あと、観光名所も探してます。文京区がいいのですが。	general,restaurant,shopping,attraction
+2047	13	SYSTEM	かしこまりました。では、小石川後楽園はいかがでしょうか？ジャンルは庭園, 自然・公園, 歴史的な散策エリアとなっております。	general,restaurant,shopping,attraction
+2047	14	USER	いいですね。ありがとうございます。Wi-Fiはありますでしょうか？営業時間ももしあれば教えてください。	general,restaurant,shopping,attraction
+2047	15	SYSTEM	Wi-Fiの有無は不明となっております。営業時間は09:00～17:00です。	general,restaurant,shopping,attraction
+2047	16	USER	ありがとうございます。そこにしようと思います。	general,restaurant,shopping,attraction
+2047	17	SYSTEM	はい。他にご用件はありますか？	general,restaurant,shopping,attraction
+2047	18	USER	いいえ。案内、ありがとうございました。	general,restaurant,shopping,attraction

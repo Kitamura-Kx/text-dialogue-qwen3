@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1125	0	USER	東京へ旅行に行こうと思っています。当日ジャンボタクシーを利用したいのでタクシー会社を探してください。	general,taxi
+1125	1	SYSTEM	申し訳ありません。ジャンボタクシー対応のタクシー会社はございません。いかが致しますか？	general,taxi
+1125	2	USER	でしたらジャンボタクシーはなくても良いです。	general,taxi
+1125	3	SYSTEM	ありがとうございます。東京交通はいかがでしょう？キャッシュレスには対応しております。電話番号は、0423914455となります。予約されますか？	general,taxi
+1125	4	USER	そこが良さそうですね。でしたら当日7/23の10:00出発地はとり鉄 麹町店で目的地は表参道ヒルズで予約をお願いします。	general,taxi
+1125	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、87914となります。他にご用件はございますか？	general,taxi
+1125	6	USER	大丈夫です。ありがとうございました。	general,taxi
+1125	7	SYSTEM	ありがとうございました。	general,taxi

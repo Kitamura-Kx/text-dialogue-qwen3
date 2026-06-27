@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3016	0	USER	東京へ旅行に行くのですが、文房具や雑貨が買えるお店を探してもらえますか。	general,shopping,attraction
+3016	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,shopping,attraction
+3016	2	USER	とくにありません。	general,shopping,attraction
+3016	3	SYSTEM	かしこまりました。では、CIBONEはいかがでしょうか？	general,shopping,attraction
+3016	4	USER	ありがとうございます。ではそこの電話番号を教えてください。	general,shopping,attraction
+3016	5	SYSTEM	はい。電話番号は0367125301でございます。	general,shopping,attraction
+3016	6	USER	ありがとうございます。あと、無料駐車場のある観光名所を教えてもらえますか。	general,shopping,attraction
+3016	7	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,shopping,attraction
+3016	8	USER	では駐車場はなくてもいいです。	general,shopping,attraction
+3016	9	SYSTEM	かしこまりました。では、浅草寺はいかがでしょうか？	general,shopping,attraction
+3016	10	USER	いいですね。ではそこの料金情報と近辺の駅からの所要時間を教えてください。	general,shopping,attraction
+3016	11	SYSTEM	はい。料金は無料となっております。近辺の駅からの所要時間は、浅草駅から徒歩で5分です。	general,shopping,attraction
+3016	12	USER	ありがとうございます。以上で結構です。	general,shopping,attraction
+3016	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction

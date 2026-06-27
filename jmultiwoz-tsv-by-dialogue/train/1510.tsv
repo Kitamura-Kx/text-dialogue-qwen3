@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1510	0	USER	こんにちは。京都に行こうと考えているのですが、京都府立府民ホールALTIっていう観光名所はありますか？	general,attraction,shopping,taxi
+1510	1	SYSTEM	はい、上京区にございます。ジャンルは、コンサート、ショー、となります。	general,attraction,shopping,taxi
+1510	2	USER	ありがとうございます。営業時間と住所はわかりますか？	general,attraction,shopping,taxi
+1510	3	SYSTEM	はい、営業時間は9時から21時30分、住所は京都府京都市上京区烏丸通一条下ル龍前町590-1となります。	general,attraction,shopping,taxi
+1510	4	USER	ありがとうございます。あと、下京区で買い物ができるところを探しています。駐車場が無料で使えて、最寄り駅が烏丸駅のところがいいです。	general,attraction,shopping,taxi
+1510	5	SYSTEM	大丸京都店がございます。ジャンルは百貨店や総合スーパーとなります。	general,attraction,shopping,taxi
+1510	6	USER	ありがとうございます。あと、ジャンボタクシーが利用できてキャッシュレス払いが可能なタクシー会社を探していただけますか？	general,attraction,shopping,taxi
+1510	7	SYSTEM	はい、洛東タクシー株式会社はいかがでしょう？電話番号は、0755931112となります。	general,attraction,shopping,taxi
+1510	8	USER	ありがとうございます。ではそのタクシー会社で、9/24の15:00で、出発地は京都府立府民ホールALTI、目的地は大丸京都店で、予約をお願いします。	general,attraction,shopping,taxi
+1510	9	SYSTEM	申し訳ありません。この条件では予約ができませんでした。いかがされますか？	general,attraction,shopping,taxi
+1510	10	USER	わかりました。じゃあ時間を15：30にしたら予約できますか？	general,attraction,shopping,taxi
+1510	11	SYSTEM	はい、予約が可能になりまして、ご予約番号は、56648となります。他にご用件はございますか？	general,attraction,shopping,taxi
+1510	12	USER	ありがとうございます。いえ、大丈夫です。案内ありがとうございました。	general,attraction,shopping,taxi
+1510	13	SYSTEM	ありがとうございました。	general,attraction,shopping,taxi

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+228	0	USER	那覇へ行きたいと思っているので、観光名所を調べてもらいたいです。	general,attraction
+228	1	SYSTEM	かしこまりました。何かご希望の条件はございますか。	general,attraction
+228	2	USER	地区は首里で、駐車場が無料で利用できてWi-Fiも無料で利用できるところがいいのですが、どこかいいところはありますか？	general,attraction
+228	3	SYSTEM	国営沖縄記念公園はいかがでしょうか。	general,attraction
+228	4	USER	そこにしようと思います。電話番号を教えてください。	general,attraction
+228	5	SYSTEM	0988862020でございます。	general,attraction
+228	6	USER	あと子供入場料も調べてもらえますか？	general,attraction
+228	7	SYSTEM	子供の入場料は160円でございます。	general,attraction
+228	8	USER	ありがとうございます。	general,attraction
+228	9	SYSTEM	ほかにご用件はございますか。	general,attraction
+228	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction
+228	11	SYSTEM	承知しました。ありがとうございました。	general,attraction

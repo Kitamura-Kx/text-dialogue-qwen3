@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+987	0	USER	京都へ旅行予定なのですが、買い物できるところを調べてください。	general,shopping,weather
+987	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,shopping,weather
+987	2	USER	はい。最寄りが京都駅で、百貨店や総合スーパーがいいです。あと、駐車場が無料で利用できるところにしてください。	general,shopping,weather
+987	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,weather
+987	4	USER	わかりました。なら、駐車場はなくてもいいです。	general,shopping,weather
+987	5	SYSTEM	ありがとうございます。では、ジェイアール京都伊勢丹はいかがでしょうか？	general,shopping,weather
+987	6	USER	そこにします。天気も知りたいのですが、南区の10/5の天候はどうですか？	general,shopping,weather
+987	7	SYSTEM	はい、当日の天気は、曇のち雨の予報です。最低気温は15.7度、最高気温は20度の予想となっております。	general,shopping,weather
+987	8	USER	わかりました。ありがとうございます。	general,shopping,weather
+987	9	SYSTEM	他にお調べすることはございますか？	general,shopping,weather
+987	10	USER	いえ、大丈夫です。	general,shopping,weather
+987	11	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,shopping,weather

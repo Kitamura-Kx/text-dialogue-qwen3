@@ -1,0 +1,35 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3785	0	USER	那覇へ旅行したいのですが、小禄地区の飲食店を探しtれもらえますか？駐車場は無料のところが良いです。	general,restaurant,hotel,shopping
+3785	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,restaurant,hotel,shopping
+3785	2	USER	それなら、真和志地区ではどうですか？	general,restaurant,hotel,shopping
+3785	3	SYSTEM	ありがとうございます。そうしますと2件ご案内可能です。たとえば、ルーラーズタコライス 真嘉比店というお店はいかがでしょうか？	general,restaurant,hotel,shopping
+3785	4	USER	そちらのお店の料金情報と定休日、値段帯を教えてもらえますか？	general,restaurant,hotel,shopping
+3785	5	SYSTEM	料金ですが、例えばタコス4ピース650円、レッチキ330円といったものがございます。お値段はお安めの設定です。また、こちらは定休日はございません。	general,restaurant,hotel,shopping
+3785	6	USER	ありがとうございます。こちらのお店の予約をお願いできますか？	general,restaurant,hotel,shopping
+3785	7	SYSTEM	はい、承ります。ご利用予定の日付と時刻、人数はお決まりでしょうか？	general,restaurant,hotel,shopping
+3785	8	USER	はい。7/21、3名で14:50からの予約をお願いします。	general,restaurant,hotel,shopping
+3785	9	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、22525でございます。	general,restaurant,hotel,shopping
+3785	10	USER	レストランが併設されている泊まれる場所も探してもらえますか？	general,restaurant,hotel,shopping
+3785	11	SYSTEM	かしこまりました。59件ほどご案内可能ですが、エリアなどご希望はございませんか？	general,restaurant,hotel,shopping
+3785	12	USER	最寄り駅が壺川駅ではどうでしょうか？	general,restaurant,hotel,shopping
+3785	13	SYSTEM	はい、2件ご案内可能です。たとえば、東急ステイ沖縄那覇というところはいかがでしょうか？	general,restaurant,hotel,shopping
+3785	14	USER	そちらの値段帯とチェックイン開始時刻とタイプを教えて下さい。	general,restaurant,hotel,shopping
+3785	15	SYSTEM	お値段はお安めです。チェックインは昼15時からとなっております。	general,restaurant,hotel,shopping
+3785	16	USER	ホテルのタイプはわかりますか？	general,restaurant,hotel,shopping
+3785	17	SYSTEM	お伝えし漏れてしまい、申し訳ありません。こちらはタイプは、その他となっております。	general,restaurant,hotel,shopping
+3785	18	USER	ありがとうございます。そちらを7/21、2名で4泊の予約をお願いします。	general,restaurant,hotel,shopping
+3785	19	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょう？	general,restaurant,hotel,shopping
+3785	20	USER	では、3泊でお願いします。	general,restaurant,hotel,shopping
+3785	21	SYSTEM	ありがとうございます。3泊にて、ご予約完了いたしました。予約番号は、90422です。	general,restaurant,hotel,shopping
+3785	22	USER	ありがとうございました。	general,restaurant,hotel,shopping
+3785	23	SYSTEM	他にご用件はございませんか？	general,restaurant,hotel,shopping
+3785	24	USER	買い物がしたいのですが、小禄地区の、奥武山公園駅近くの商店街はありますか？	general,restaurant,hotel,shopping
+3785	25	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,restaurant,hotel,shopping
+3785	26	USER	では商店街でなくても大丈夫です。	general,restaurant,hotel,shopping
+3785	27	SYSTEM	ありがとうございます。そうしますと、LEO & JOEというお店が1件ご案内可能です。ジャンルとしては、医薬品・化粧品のお店となっております。	general,restaurant,hotel,shopping
+3785	28	USER	そちらの住所と営業時間を教えてもらえますか？	general,restaurant,hotel,shopping
+3785	29	SYSTEM	住所は沖縄県那覇市小禄４４３−１です。営業時間は、10:00～18:00でございます。	general,restaurant,hotel,shopping
+3785	30	USER	ありがとうございます。	general,restaurant,hotel,shopping
+3785	31	SYSTEM	他にお調べすることはございませんか？	general,restaurant,hotel,shopping
+3785	32	USER	はい、大丈夫です。ありがとうございました。	general,restaurant,hotel,shopping
+3785	33	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant,hotel,shopping

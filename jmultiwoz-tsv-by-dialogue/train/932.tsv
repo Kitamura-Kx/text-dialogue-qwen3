@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+932	0	USER	東京旅行に行く予定をしているのですが、一緒に泊まるところを探してもらえないでしょうか？レストランがあって、場所は荒川区でお願いします。	general,hotel,restaurant,weather
+932	1	SYSTEM	申し訳ありません。その条件では、施設はないようです。	general,hotel,restaurant,weather
+932	2	USER	そうですか。では、場所はどこでも大丈夫です！	general,hotel,restaurant,weather
+932	3	SYSTEM	グランドニッコー東京 台場　は、いかがでしょうか？	general,hotel,restaurant,weather
+932	4	USER	お調べ下さりありがとうございます。こちらはどういったタイプの宿泊施設なんですか？	general,hotel,restaurant,weather
+932	5	SYSTEM	こちらのホテルは、リゾートホテルになります。	general,hotel,restaurant,weather
+932	6	USER	わかりました。値段帯はどれくらいですか？あと住所も一緒に教えて欲しいです。	general,hotel,restaurant,weather
+932	7	SYSTEM	値段は、明確な料金の記載はないようです。　住所は、東京都港区台場2丁目6-1　になります。	general,hotel,restaurant,weather
+932	8	USER	ありがとうございます！旅行中にご飯を食べられるところを探しています。Wi-Fiが無料利用できて、予算は普通くらいの、郷土料理が食べられるお店を紹介してください。	general,hotel,restaurant,weather
+932	9	SYSTEM	沖縄パラダイス 新宿歌舞伎町店　は、いかがでしょうか？	general,hotel,restaurant,weather
+932	10	USER	教えて下さりありがとうございます。こちらのお店は何時から何時まで開いていますか？	general,hotel,restaurant,weather
+932	11	SYSTEM	店の営業時間は、16時から深夜0時までとなっております。	general,hotel,restaurant,weather
+932	12	USER	わかりました。ではこちらのお店の予約を取ってもらえますか。1/22の13:00に3名で利用したいと考えています。	general,hotel,restaurant,weather
+932	13	SYSTEM	申し訳ありません。その時間帯で予約は出来ません。	general,hotel,restaurant,weather
+932	14	USER	そうですか。では利用人数は2名に変更したら予約は取れそうですか？	general,hotel,restaurant,weather
+932	15	SYSTEM	2名様で予約出来ました。　予約番号は、89006　になります。	general,hotel,restaurant,weather
+932	16	USER	ご予約して下さりありがとうございます。あと1/22の杉並区の天候はどんな感じでしょうか？	general,hotel,restaurant,weather
+932	17	SYSTEM	天気は、曇　となっています。	general,hotel,restaurant,weather
+932	18	USER	ありがとうございます。とても助かりました。	general,hotel,restaurant,weather

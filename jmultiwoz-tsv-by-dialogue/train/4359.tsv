@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4359	0	USER	仙台への旅行を計画しているのですが、当日泊まる施設を探しています。予算は高めでWi-Fiが無料で利用できるところはありますか？	general,hotel
+4359	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel
+4359	2	USER	そうですか。では、予算は気にしないで探してください。	general,hotel
+4359	3	SYSTEM	かしこまりました。それではホテル メルパルク仙台はいかがでしょうか？	general,hotel
+4359	4	USER	ありがとうございます。そちらにしたいと思います。ちなみに、駐車場はありますか？	general,hotel
+4359	5	SYSTEM	ありがとうございます。はい、有料ですが駐車場もご利用いただけます。	general,hotel
+4359	6	USER	ありがとうございました。	general,hotel

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+723	0	USER	札幌への旅行を考えているのですが、キャッシュレス払いができるタクシー会社を探してもらえますか？	general,taxi,weather
+723	1	SYSTEM	承知しました。では、北広島第一交通(株)はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は0118115151となります。予約されますか？	general,taxi,weather
+723	2	USER	わかりました。2月18日の12時30分で、クラーク博士像からサンシーロまで予約お願いしたいです。	general,taxi,weather
+723	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、61923となります。他にご案内できることはございますか？	general,taxi,weather
+723	4	USER	はい。当日2月18日の中央区の天気を教えてください。	general,taxi,weather
+723	5	SYSTEM	承知しました。天気は、雪時々曇、最低気温-9.5度、最高気温3.9度となります。他にご用件はございますか？	general,taxi,weather
+723	6	USER	ありがとうございます。もう大丈夫です。	general,taxi,weather
+723	7	SYSTEM	ありがとうございました。	general,taxi,weather

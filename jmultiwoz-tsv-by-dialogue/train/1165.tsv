@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1165	0	USER	横浜に行くのですが、戸塚駅近くで無料ｗｉｆｉが使える宿泊施設はありますか？	general,hotel,shopping,attraction
+1165	1	SYSTEM	かしこまりました。では天然温泉 戸塚宿 大橋の湯 スーパーホテル戸塚駅東口はいかがでしょうか。	general,hotel,shopping,attraction
+1165	2	USER	スーパーホテル、いいですね！そのホテルは、どのエリアにありますか？	general,hotel,shopping,attraction
+1165	3	SYSTEM	エリアは戸塚区でございます。	general,hotel,shopping,attraction
+1165	4	USER	では、そちらのホテルの予約をお願いします。6/27から４泊で、４人で宿泊します。	general,hotel,shopping,attraction
+1165	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は56726でございます。	general,hotel,shopping,attraction
+1165	6	USER	あと、西区で買い物をしたいです。駐車場が無料で使えるお店はありますか？	general,hotel,shopping,attraction
+1165	7	SYSTEM	では横浜ビブレはいかがですか。	general,hotel,shopping,attraction
+1165	8	USER	そちらのお店のジャンルは、何ですか？	general,hotel,shopping,attraction
+1165	9	SYSTEM	ジャンルはショッピングモールでございます。	general,hotel,shopping,attraction
+1165	10	USER	わかりました。あと観光名所も行きたいのですが、駐車場無料の場所はありますか？	general,hotel,shopping,attraction
+1165	11	SYSTEM	申し訳ございません。無料駐車場がある観光名所はございませんでした。	general,hotel,shopping,attraction
+1165	12	USER	そうなんですね。では、有料駐車場の場所でもいいです。	general,hotel,shopping,attraction
+1165	13	SYSTEM	では横浜赤レンガ倉庫はいかがでしょうか。	general,hotel,shopping,attraction
+1165	14	USER	楽しそうですね。営業時間と大人の入場料、定休日を教えてください。	general,hotel,shopping,attraction
+1165	15	SYSTEM	営業時間はフロアにより異なるとのことでございます。大人の入場料は無料、定休日はございません。	general,hotel,shopping,attraction
+1165	16	USER	ありがとうございます。知りたいのは以上です。ありがとうございました。	general,hotel,shopping,attraction
+1165	17	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,attraction

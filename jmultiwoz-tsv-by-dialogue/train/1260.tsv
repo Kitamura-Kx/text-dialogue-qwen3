@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1260	0	USER	那覇の買い物スポットを教えてください。美栄橋駅近くで、無料駐車場があるスポットはありますか？	general,shopping,restaurant,hotel
+1260	1	SYSTEM	申し訳ございません。そのご希望条件では候補が見つかりませんでした。	general,shopping,restaurant,hotel
+1260	2	USER	美栄橋駅近くにはこだわらないので、再度探して頂けませんか？	general,shopping,restaurant,hotel
+1260	3	SYSTEM	ありがとうございます。そういたしますと、のうれんプラザはいかがでしょうか？牧志駅から徒歩12分のショッピングモールでございます。	general,shopping,restaurant,hotel
+1260	4	USER	営業時間も教えてください。	general,shopping,restaurant,hotel
+1260	5	SYSTEM	はい。営業時間は、9:00～17:30です。	general,shopping,restaurant,hotel
+1260	6	USER	分かりました。ついでに、飲食店も探して欲しいんですけど。山内農場 那覇新都心店っていう店はありますか？	general,shopping,restaurant,hotel
+1260	7	SYSTEM	はい、本庁エリアに1件ございます。どういった情報をご案内しましょうか？	general,shopping,restaurant,hotel
+1260	8	USER	定休日と住所を教えてください。あと、そちらに駐車場はありますか？	general,shopping,restaurant,hotel
+1260	9	SYSTEM	こちらは、定休日はございません。駐車場は無料のものをご用意しております。	general,shopping,restaurant,hotel
+1260	10	USER	住所も教えてください！	general,shopping,restaurant,hotel
+1260	11	SYSTEM	申し訳ありません。住所は、沖縄県那覇市銘苅1丁目3-1 アイ・ステーション店舗 1階2階です。	general,shopping,restaurant,hotel
+1260	12	USER	では予約もお願いします。4/21の15:10で、4人で予約できますか？	general,shopping,restaurant,hotel
+1260	13	SYSTEM	はい、ご予約ありがとうございます。予約番号46381にて、承りました。	general,shopping,restaurant,hotel
+1260	14	USER	ありがとうございます。最後に、宿泊施設も探して頂けますか？無料のWifiが使えて、安めのところがいいのですが。	general,shopping,restaurant,hotel
+1260	15	SYSTEM	そういたしますと、ホテルピースランド久米はいかがでしょうか？	general,shopping,restaurant,hotel
+1260	16	USER	そちらはエリアでいうとどちらですか？あと、最寄り駅と駐車場があるかも教えてください。	general,shopping,restaurant,hotel
+1260	17	SYSTEM	エリアは、本庁にございます。最寄り駅は県庁前駅で、徒歩7分の距離となります。駐車場は、有料ですが、ご利用いただけます。	general,shopping,restaurant,hotel
+1260	18	USER	分かりました！ありがとうございます。	general,shopping,restaurant,hotel

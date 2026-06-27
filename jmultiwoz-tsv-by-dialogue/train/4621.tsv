@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4621	0	USER	すみません、横浜に旅行したいと思っています。鶴見区で、駐車場が無料のおすすめの観光名所はありますか？	general,attraction
+4621	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction
+4621	2	USER	そうですか。では、横浜ならば鶴見区以外でも構いません。駐車場は無料でお願いします。	general,attraction
+4621	3	SYSTEM	では弘明寺はいかがでしょうか。	general,attraction
+4621	4	USER	念のために訊きますが、ジャンルはお寺なんですよね？	general,attraction
+4621	5	SYSTEM	さようでございます。ジャンルは神社・寺院・教会・モニュメントなどとなっております。	general,attraction
+4621	6	USER	うーん、まあ、そこにします。子供入場料と大人入場料は別ですか？	general,attraction
+4621	7	SYSTEM	大人入場料 、子供入場料共に0円でございます。	general,attraction
+4621	8	USER	それはいいですね。ありがとうございました。	general,attraction

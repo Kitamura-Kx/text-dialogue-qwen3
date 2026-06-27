@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+648	0	USER	京都旅行の際に、利用できるタクシー会社を教えていただけますか？	general,taxi
+648	1	SYSTEM	かしこまりました。20件ほどご案内できますが、なにかご希望の条件はございますか？	general,taxi
+648	2	USER	ジャンボタクシーを利用できる会社はありますか？	general,taxi
+648	3	SYSTEM	はい、17件ございます。たとえば、エムケイ株式会社でしたら、キャッシュレスのお支払いにも対応しております。	general,taxi
+648	4	USER	ではそちらでお願いします。電話番号も教えていただけますか？	general,taxi
+648	5	SYSTEM	電話番号は、0757784141でございます。予約もお取りしますか？	general,taxi
+648	6	USER	はい、お願いします。3/24の時間は14:50です。出発地は法然院で、目的地はRIGOLETTO SMOKE GRILL & BARですが可能でしょうか。	general,taxi
+648	7	SYSTEM	はい、ご予約承りました。予約番号は、17431ですので、お手元にお控えくださいませ。	general,taxi
+648	8	USER	ありがとうございました。	general,taxi

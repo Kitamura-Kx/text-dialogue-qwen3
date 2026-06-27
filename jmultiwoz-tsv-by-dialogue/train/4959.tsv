@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4959	0	USER	大阪へ旅行するのですが、Wi-Fiが無料で使える観光名所はありますか？	general,attraction
+4959	1	SYSTEM	かしこまりました。それでは海遊館はいかがでしょうか？	general,attraction
+4959	2	USER	いいですね。近辺の駅からの所要時間ってわかります？	general,attraction
+4959	3	SYSTEM	はい、大阪港駅から徒歩で5分でございます。	general,attraction
+4959	4	USER	ありがとうございます。助かりました。	general,attraction
+4959	5	SYSTEM	その他にご用件はございますか？	general,attraction
+4959	6	USER	いえ、大丈夫です。	general,attraction
+4959	7	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction

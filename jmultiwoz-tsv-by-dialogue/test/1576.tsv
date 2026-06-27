@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1576	0	USER	横浜へ旅行予定なのですが、鶴見区の観光名所を教えてください。駐車場を無料で利用できるところがいいです。	general,attraction
+1576	1	SYSTEM	かしこまりました。では三ツ池公園はいかがですか。	general,attraction
+1576	2	USER	いいですね。近辺の駅からの所要時間を教えてください。	general,attraction
+1576	3	SYSTEM	新横浜駅からバスで27分、鶴見駅からバスで18分でございます。	general,attraction
+1576	4	USER	わかりました。ありがとうございます。	general,attraction
+1576	5	SYSTEM	ほかにご用件はございますか。	general,attraction
+1576	6	USER	もう大丈夫です。	general,attraction
+1576	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

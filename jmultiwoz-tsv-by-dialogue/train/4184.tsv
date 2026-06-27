@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4184	0	USER	名古屋旅行で泊まるホテルを探したいのですが、最寄りが烏森駅で予算が普通くらいのところはありますか？駐車場が無料だと嬉しいです。	general,hotel,shopping,taxi
+4184	1	SYSTEM	それでしたら、SakurAはいかがでしょうか？	general,hotel,shopping,taxi
+4184	2	USER	そこはエリアはどこになりますか？	general,hotel,shopping,taxi
+4184	3	SYSTEM	エリアは、中村区になります。	general,hotel,shopping,taxi
+4184	4	USER	ありがとうございます。参考にします。その日旅行用品が買える場所も探したいのですが、駐車場が無料のところはありますか？	general,hotel,shopping,taxi
+4184	5	SYSTEM	お店のジャンルにご希望はございますか？	general,hotel,shopping,taxi
+4184	6	USER	旅行用品系でお願いします。	general,hotel,shopping,taxi
+4184	7	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。　どうされますか？	general,hotel,shopping,taxi
+4184	8	USER	ではジャンルは絞らなくてもいいです。	general,hotel,shopping,taxi
+4184	9	SYSTEM	それでしたら、名古屋モゾ ワンダーシティ　こちらはいかがですか？	general,hotel,shopping,taxi
+4184	10	USER	良さそうです。営業時間を教えてください。	general,hotel,shopping,taxi
+4184	11	SYSTEM	はい、営業時間は、10時から21時までとなっています。	general,hotel,shopping,taxi
+4184	12	USER	ありがとうございます。その日のタクシーも予約したいです。ジャンボタクシーがあるところはありますか？	general,hotel,shopping,taxi
+4184	13	SYSTEM	では、大名古屋交通はいかがでしょうか？	general,hotel,shopping,taxi
+4184	14	USER	そこの電話番号を教えてください。あと、キャッシュレスは対応していますか？	general,hotel,shopping,taxi
+4184	15	SYSTEM	電話番号は、0529138686です。　申し訳ありません、キャッシュレス対応に関しましては、不明となっています。	general,hotel,shopping,taxi
+4184	16	USER	分かりました。9月20日の16時20分から、SakurAから名古屋モゾ ワンダーシティまででお願いします。	general,hotel,shopping,taxi
+4184	17	SYSTEM	予約が完了しました。　予約番号は、83710です。	general,hotel,shopping,taxi
+4184	18	USER	ありがとうございました。	general,hotel,shopping,taxi
+4184	19	SYSTEM	他にご用件はありますか？	general,hotel,shopping,taxi
+4184	20	USER	大丈夫です。	general,hotel,shopping,taxi
+4184	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,taxi

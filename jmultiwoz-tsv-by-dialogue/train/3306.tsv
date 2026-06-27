@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3306	0	USER	こんにちは。横浜に行くのですが、レストランが併設されていて、駐車場が無料で使える、シティホテルはありますか？	general,hotel,weather
+3306	1	SYSTEM	横浜で駐車場無料、レストラン併設のシティホテルはなさそうです。	general,hotel,weather
+3306	2	USER	ではシティホテルじゃなくてリゾートホテルならありますか？	general,hotel,weather
+3306	3	SYSTEM	はい、その条件ならば、ホテル パセラの森 横浜関内、こちらになります。	general,hotel,weather
+3306	4	USER	そこにします。住所も教えてください。	general,hotel,weather
+3306	5	SYSTEM	神奈川県横浜市中区福富町東通40-4です。	general,hotel,weather
+3306	6	USER	ありがとうございます。ではそのホテルで、人数は4人、日付は6/20、宿泊日数は3泊で、予約をお願いします。	general,hotel,weather
+3306	7	SYSTEM	予約成功しました。予約番号は57130です。	general,hotel,weather
+3306	8	USER	ありがとうございます。南区の6/20の天候も調べてもらえませんか？	general,hotel,weather
+3306	9	SYSTEM	6/20 横浜 南区 の天気は曇のち雨、最低気温18.8度、最高気温26.8度です。	general,hotel,weather
+3306	10	USER	ありがとうございました。	general,hotel,weather
+3306	11	SYSTEM	よい旅を	general,hotel,weather

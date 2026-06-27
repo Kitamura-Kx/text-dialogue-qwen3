@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3551	0	USER	福岡への旅行を計画しています． 当日食事ができる飲食店を探しています。	general,restaurant,hotel,taxi
+3551	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,hotel,taxi
+3551	2	USER	地区は中央区です。駐車場を無料で利用できて、Wi-Fiが無料で利用できるところにしてください。	general,restaurant,hotel,taxi
+3551	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,hotel,taxi
+3551	4	USER	では駐車場有無は条件から外してください。	general,restaurant,hotel,taxi
+3551	5	SYSTEM	では今泉バル コミーダベビーダはいかがでしょうか。	general,restaurant,hotel,taxi
+3551	6	USER	いいですね。予約したいです。人数は4人、日付は1/12、時間は09:40です。	general,restaurant,hotel,taxi
+3551	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,restaurant,hotel,taxi
+3551	8	USER	そうですか。では人数を3人に変更したら予約できますか。	general,restaurant,hotel,taxi
+3551	9	SYSTEM	3名ですと予約が可能でございました。予約番号は61710でございます。	general,restaurant,hotel,taxi
+3551	10	USER	当日泊まれる宿泊施設として、地区は南区、レストランが併設されているところがありますか。	general,restaurant,hotel,taxi
+3551	11	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,hotel,taxi
+3551	12	USER	ではレストランの有無は考慮しないことにします。	general,restaurant,hotel,taxi
+3551	13	SYSTEM	ではグリーンリッチホテル西鉄大橋駅前がございます。	general,restaurant,hotel,taxi
+3551	14	USER	そこの住所を教えてください。	general,restaurant,hotel,taxi
+3551	15	SYSTEM	住所は福岡県福岡市南区大橋1丁目7-15でございます。	general,restaurant,hotel,taxi
+3551	16	USER	あと、当日利用できるタクシー会社を探してください。ジャンボタクシーを利用できてキャッシュレス払いできるところが希望です。	general,restaurant,hotel,taxi
+3551	17	SYSTEM	申し訳ございません。どちらにも対応している会社がございませんでした。	general,restaurant,hotel,taxi
+3551	18	USER	それではキャッシュレス払いの可否は条件から外してください。	general,restaurant,hotel,taxi
+3551	19	SYSTEM	では（有）大鵬タクシーがございます。	general,restaurant,hotel,taxi
+3551	20	USER	電話番号を教えてください。	general,restaurant,hotel,taxi
+3551	21	SYSTEM	電話番号は0925515311でございます。	general,restaurant,hotel,taxi
+3551	22	USER	予約をお願いします。日付は1/12、時間は11:00、出発地は今泉バル コミーダベビーダ、目的地はグリーンリッチホテル西鉄大橋駅前です。	general,restaurant,hotel,taxi
+3551	23	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は4248でございます。	general,restaurant,hotel,taxi
+3551	24	USER	解決しました。ありがとうございました。	general,restaurant,hotel,taxi
+3551	25	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel,taxi

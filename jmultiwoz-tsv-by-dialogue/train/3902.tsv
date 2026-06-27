@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3902	0	USER	大阪への旅行を計画中で、レストラン付きの宿泊施設を探しています。予算は普通がいいです。	general,hotel,taxi
+3902	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel,taxi
+3902	2	USER	分かりました。では、予算はいくらでも構いません。	general,hotel,taxi
+3902	3	SYSTEM	では、エリアでいうと西成区にある、ホテルブルーメン花園北はいかがでしょう？タイプは、ビジネスホテルとなります。	general,hotel,taxi
+3902	4	USER	そこにしようと思います。最寄駅からの所要時間は分かりますか？	general,hotel,taxi
+3902	5	SYSTEM	はい、最寄りの花園町駅から徒歩で1分となります。	general,hotel,taxi
+3902	6	USER	ありがとうございます。当日利用できるキャッシュレス対応のジャンボタクシーを探しているのですが、ありますか？	general,hotel,taxi
+3902	7	SYSTEM	では、近鉄タクシー株式会社はいかがでしょう？電話番号は、0570069001となります。	general,hotel,taxi
+3902	8	USER	そこにしようと思います。7/7の午前11:00にホテルブルーメン花園北からミゲルフアニ なんばダイニングメゾン店まで予約して欲しいのですが、可能でしょうか。	general,hotel,taxi
+3902	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、55234となります。	general,hotel,taxi
+3902	10	USER	助かります。ありがとうございました。	general,hotel,taxi
+3902	11	SYSTEM	ありがとうございました。	general,hotel,taxi

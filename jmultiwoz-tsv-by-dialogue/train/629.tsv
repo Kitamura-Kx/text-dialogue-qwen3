@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+629	0	USER	こんにちは。札幌に行くのですが、どこか泊まれる施設を探しています。	general,hotel
+629	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel
+629	2	USER	Wi-Fiが無料で利用できるところがいいです。	general,hotel
+629	3	SYSTEM	ではジャスマックプラザホテルはいかがでしょうか。	general,hotel
+629	4	USER	最寄り駅はどこですか？	general,hotel
+629	5	SYSTEM	最寄り駅は豊水すすきの駅でございます。	general,hotel
+629	6	USER	ありがとうございます。そちらの予約をしたいのですが、3/12で３名、４泊でお願いできますでしょうか？	general,hotel
+629	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel
+629	8	USER	では、人数を２名に変更できますか？	general,hotel
+629	9	SYSTEM	その人数では予約が可能でございました。予約番号は99210でございます。	general,hotel
+629	10	USER	ありがとうございます。以上です、お世話になりました。	general,hotel
+629	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

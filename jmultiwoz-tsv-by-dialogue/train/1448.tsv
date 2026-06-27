@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1448	0	USER	京都へ旅行に行くんですが、飲食店を探していただけますか？	general,restaurant
+1448	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+1448	2	USER	南区で探して欲しいです！	general,restaurant
+1448	3	SYSTEM	申し訳ございません。南区では案内できるところがございませんでした。いかがなさいますか。	general,restaurant
+1448	4	USER	では地区はどこでも大丈夫です	general,restaurant
+1448	5	SYSTEM	ではいち藤はいかがでしょうか。下京区でございますが。	general,restaurant
+1448	6	USER	Wi-Fiと駐車場の有無は分かりますか？	general,restaurant
+1448	7	SYSTEM	Wi-Fi、駐車場共に有無は不明でございます。	general,restaurant
+1448	8	USER	ではそちらで予約をお願いします。5/14の11:40に4人で行きたいです！	general,restaurant
+1448	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は49401でございます。	general,restaurant
+1448	10	USER	お手数おかけしました！ありがとうございました。	general,restaurant
+1448	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant

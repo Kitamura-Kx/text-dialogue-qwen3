@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+934	0	USER	京都に旅行に行きたいのですが、中京区で駐車場が無料で利用できて、ショッピングができるようなところを紹介してもらえないでしょうか？	general,shopping,restaurant,taxi
+934	1	SYSTEM	申し訳ありません。その条件では、ないようです。	general,shopping,restaurant,taxi
+934	2	USER	そうですか。では場所は中京区以外でもいいです！	general,shopping,restaurant,taxi
+934	3	SYSTEM	伊藤常嵐山店は、いかがでしょうか？	general,shopping,restaurant,taxi
+934	4	USER	伊藤常嵐山店さんをご紹介して下さりありがとうございます。あと、旅行中に北区でちょっとお高めのお店で食事がしたいのですが。	general,shopping,restaurant,taxi
+934	5	SYSTEM	閑臥庵は、いかがでしょうか？	general,shopping,restaurant,taxi
+934	6	USER	閑臥庵さんですね。ありがとうございます。旅行中、タクシーを利用したいんです。ジャンボタクシーとキャッシュレス決済が利用できる会社はありますか？	general,shopping,restaurant,taxi
+934	7	SYSTEM	興進タクシー株式会社は、いかがでしょうか？	general,shopping,restaurant,taxi
+934	8	USER	お調べ下さりありがとうございます。こちらの会社の電話番号も併せて教えてもらえますか？	general,shopping,restaurant,taxi
+934	9	SYSTEM	電話番号は、0756814481　です。	general,shopping,restaurant,taxi
+934	10	USER	わかりました。では興進タクシー株式会社で手配をお願いします。3/12の10:50に伊藤常嵐山店を出発して、閑臥庵まで乗車したいと考えています。	general,shopping,restaurant,taxi
+934	11	SYSTEM	予約が出来ました。　予約番号は、51024　です。	general,shopping,restaurant,taxi
+934	12	USER	ご予約して下さってありがとうございました。とても助かりました。	general,shopping,restaurant,taxi

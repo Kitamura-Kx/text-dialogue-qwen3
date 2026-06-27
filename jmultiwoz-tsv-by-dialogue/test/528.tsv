@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+528	0	USER	仙台へ旅行したいのですが、観光名所を調べてください。	general,attraction,taxi
+528	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございませんか？	general,attraction,taxi
+528	2	USER	ジャンルは美術館・博物館で、Wi-Fiが無料で利用できて、無料の駐車場があるところがいいです。	general,attraction,taxi
+528	3	SYSTEM	かしこまりました。1件候補が見つかりました。仙台市文学館という場所はいかがでしょうか？	general,attraction,taxi
+528	4	USER	そこにします。定休日はありますか？	general,attraction,taxi
+528	5	SYSTEM	はい、ございます。月曜日, 1月から11月の第四木曜日, 12/28-1/4がお休みとなっております。	general,attraction,taxi
+528	6	USER	わかりました。当日タクシーを利用する予定なのですが、ジャンボタクシーが利用できるところを調べてください。	general,attraction,taxi
+528	7	SYSTEM	申し訳ございません。仙台でジャンボタクシーの利用できるタクシー会社が見つかりませんでした。	general,attraction,taxi
+528	8	USER	わかりました。ではジャンボタクシーはなくても大丈夫です。	general,attraction,taxi
+528	9	SYSTEM	ありがとうございます。では、（株）泉交通は如何でしょうか？キャッシュレスのお支払いに対応しております。電話番号は、0223795656です。	general,attraction,taxi
+528	10	USER	そこにします。予約お願いできますか？	general,attraction,taxi
+528	11	SYSTEM	かしこまりました。ご利用予定の日付と出発時刻、出発地、目的地を、お願いできますでしょうか？	general,attraction,taxi
+528	12	USER	8月30日の9時30分で、出発地は仙台市文学館、目的地はうまい鮨勘 仙台東口支店でお願いします。	general,attraction,taxi
+528	13	SYSTEM	かしこまりました。予約が完了いたしました。ご予約番号は、17182でございます。	general,attraction,taxi
+528	14	USER	ありがとうございます。	general,attraction,taxi
+528	15	SYSTEM	ほかにお調べすることはございますか？	general,attraction,taxi
+528	16	USER	いえ、もう大丈夫です。	general,attraction,taxi
+528	17	SYSTEM	承知いたしました。またのご利用をお待ちしております。	general,attraction,taxi

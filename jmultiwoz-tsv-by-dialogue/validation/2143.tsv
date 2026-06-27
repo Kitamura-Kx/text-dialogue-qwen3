@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2143	0	USER	東京の宿を探しているんですが、Wi-Fiが無料で、レストランが一緒になっているところを教えてください。	general,hotel
+2143	1	SYSTEM	東京でWiFi無料、レストラン付きの宿泊施設は６１件あります。追加のご希望はありますか？	general,hotel
+2143	2	USER	特にありません。良さそうなところを一つ教えてください。あとその宿の値段帯も教えてください。	general,hotel
+2143	3	SYSTEM	それではヒルトン東京お台場をオススメします。値段帯は安めになります。	general,hotel
+2143	4	USER	おしゃれな感じですね。気に入りました。11月13日に3人で予約をお願いします。2泊したいんですけど。	general,hotel
+2143	5	SYSTEM	11月13日に3人、2泊で予約成功しました。予約番号は42304です。	general,hotel
+2143	6	USER	楽しみです。ありがとうございました。	general,hotel

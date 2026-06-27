@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3454	0	USER	札幌へ旅行する予定なんですが、泊まれる場所を探しています。	general,hotel
+3454	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel
+3454	2	USER	予算は安めです。北区にある施設で、レストランが併設されている場所がいいです。	general,hotel
+3454	3	SYSTEM	ではホテルマイステイズ札幌駅北口はいかがでしょうか。	general,hotel
+3454	4	USER	その施設の住所と、Wi-Fiが使えるかどうか、それから近くの駅からの所要時間を教えていただきたいです。	general,hotel
+3454	5	SYSTEM	住所は北海道札幌市北区北8条西4-15で、札幌駅から徒歩で2分でございます。Wi-Fiは無料で利用いただけます。	general,hotel
+3454	6	USER	なるほど。ありがとうございます。	general,hotel
+3454	7	SYSTEM	ほかにご用件はございませんか。	general,hotel
+3454	8	USER	もう大丈夫です。ありがとうございました。	general,hotel
+3454	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

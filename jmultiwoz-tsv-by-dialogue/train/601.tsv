@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+601	0	USER	大阪に旅行に行くんですが、観光名所を探してください。	general,attraction
+601	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction
+601	2	USER	駐車場とWi-Fiが無料のところでお願いします！	general,attraction
+601	3	SYSTEM	ありがとうございます。該当は1件、鶴見緑地湯元 水春、になります。何かご案内致しましょうか？	general,attraction
+601	4	USER	大人の入場料はいくらですか？	general,attraction
+601	5	SYSTEM	はい、中学生以上の大人は、平日のご入浴は820円、土日と祝日のご入浴は920円、平日の岩盤処は920円、土日と祝日の岩盤処は1,020円となります。他にご案内できることはございますか？	general,attraction
+601	6	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction
+601	7	SYSTEM	ありがとうございました。	general,attraction

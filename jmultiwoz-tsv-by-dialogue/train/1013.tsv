@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1013	0	USER	名古屋の中村区でファッション関係の店を探してます。名古屋駅近くでお願いします。	general,shopping,hotel,weather
+1013	1	SYSTEM	承知しました。1件、東急ハンズ名古屋店がございます。何をご案内致しましょう？	general,shopping,hotel,weather
+1013	2	USER	駐車場はありますか？	general,shopping,hotel,weather
+1013	3	SYSTEM	はい、無料でご利用いただけます。	general,shopping,hotel,weather
+1013	4	USER	わかりました。ありがとうございます。	general,shopping,hotel,weather
+1013	5	SYSTEM	他にご用件はございますか？	general,shopping,hotel,weather
+1013	6	USER	駐車場とWi-Fiが無料で安めの宿泊施設も探しています。	general,shopping,hotel,weather
+1013	7	SYSTEM	承知しました。では、ホテル キヨシ名古屋はいかがでしょう？タイプはビジネスホテル、エリアは中区、最寄りの東別院駅から徒歩で1分です。住所は愛知県名古屋市中区平和1丁目3-1、電話番号は0523215663、チェックイン開始時刻は15時、チェックアウト終了時刻は10時となります。併設のレストランはございません。	general,shopping,hotel,weather
+1013	8	USER	ありがとうございます。検討してみます。もう１つ聞きたいことがあります。	general,shopping,hotel,weather
+1013	9	SYSTEM	はい、何をご案内致しましょう？	general,shopping,hotel,weather
+1013	10	USER	3/24の守山区の天気を教えてください。	general,shopping,hotel,weather
+1013	11	SYSTEM	はい、天気は晴、最低気温1.8度、最高気温20.4度となります。	general,shopping,hotel,weather
+1013	12	USER	ありがとうございます！	general,shopping,hotel,weather
+1013	13	SYSTEM	他にご用件はございますか？	general,shopping,hotel,weather
+1013	14	USER	大丈夫です。	general,shopping,hotel,weather
+1013	15	SYSTEM	ありがとうございました。	general,shopping,hotel,weather

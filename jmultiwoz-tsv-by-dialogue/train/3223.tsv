@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3223	0	USER	沖縄の那覇へ行くのですが、その時にお買い物をするお店を探しています。	general,shopping,hotel,taxi
+3223	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,shopping,hotel,taxi
+3223	2	USER	本庁エリアで買い物を考えています。無料駐車場が利用できる、百貨店や総合スーパーなんてありませんか？	general,shopping,hotel,taxi
+3223	3	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,shopping,hotel,taxi
+3223	4	USER	そうなんですね。駐車場はなくてもいいので、もう一度探してもらえますか？	general,shopping,hotel,taxi
+3223	5	SYSTEM	かしこまりました。では、ドン・キホーテ 国際通り店はいかがでしょうか？	general,shopping,hotel,taxi
+3223	6	USER	それでは、そこにしますね。住所も教えてください。	general,shopping,hotel,taxi
+3223	7	SYSTEM	はい。住所は沖縄県那覇市松尾2丁目8-19です。	general,shopping,hotel,taxi
+3223	8	USER	分かりました。あとは無料Wi-Fiつきの泊まる所も探してほしいです。	general,shopping,hotel,taxi
+3223	9	SYSTEM	かしこまりました。ホテルグランビュー沖縄がおすすめです。	general,shopping,hotel,taxi
+3223	10	USER	ありがとうございます。壺川駅近くでレストランもある所が良いなと思っていたのですが、条件に当てはまるでしょうか。	general,shopping,hotel,taxi
+3223	11	SYSTEM	それでしたら、沖縄ハーバービューホテルはいかがでしょうか？	general,shopping,hotel,taxi
+3223	12	USER	そこにしたいと思います。沖縄ハーバービューホテルはどのタイプの宿泊施設ですか？電話番号もお願いします。	general,shopping,hotel,taxi
+3223	13	SYSTEM	はい。タイプはシティホテルで、電話番号は0988532111になります。	general,shopping,hotel,taxi
+3223	14	USER	分かりました。当日はタクシーを利用したいのですが、沖縄交通は選べますか？	general,shopping,hotel,taxi
+3223	15	SYSTEM	もちろんでございます。こちらでご予約いたしましょうか？	general,shopping,hotel,taxi
+3223	16	USER	沖縄交通は、ジャンボタクシーが利用できる会社ですか？キャッシュレスで支払えるか、電話番号も教えてください。	general,shopping,hotel,taxi
+3223	17	SYSTEM	はい、ジャンボタクシーとキャッシュレスに対応しております。電話番号は0120170978です。	general,shopping,hotel,taxi
+3223	18	USER	分かりました。それでは10/10に配車予約をお願いします。13:20にドン・キホーテ 国際通り店を出発して、行先は沖縄ハーバービューホテルです。	general,shopping,hotel,taxi
+3223	19	SYSTEM	かしこまりました。ご予約承りました。予約番号は、21483です。	general,shopping,hotel,taxi
+3223	20	USER	ありがとうございます、お世話になりました。	general,shopping,hotel,taxi
+3223	21	SYSTEM	ほかにお調べすることはありますか？	general,shopping,hotel,taxi
+3223	22	USER	これで全てです。	general,shopping,hotel,taxi
+3223	23	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,taxi

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+821	0	USER	大阪へ旅行へ行くのですが。	general,attraction,weather
+821	1	SYSTEM	大阪のご旅行ですね。本日はどんなご案内をいたしましょうか？	general,attraction,weather
+821	2	USER	無料の駐車場がある観光名所を調べてほしいです。	general,attraction,weather
+821	3	SYSTEM	かしこまりました。全部で3件ご案内できるのですが、例えば、大阪天満宮はご興味ございませんか？	general,attraction,weather
+821	4	USER	そちらは、子どもの入場料は無料ですか？	general,attraction,weather
+821	5	SYSTEM	はい、お子様も大人も0円です。	general,attraction,weather
+821	6	USER	そうですか。では、そちらへ行ってみます。	general,attraction,weather
+821	7	SYSTEM	はい、ぜひどうぞ。他にお調べすることはございますか？	general,attraction,weather
+821	8	USER	8/24の東住吉区の最低気温はわかりますか？	general,attraction,weather
+821	9	SYSTEM	はい、当日の最低気温は24.6度の予想です。尚天気は、晴れ時々曇りの予報になっています。	general,attraction,weather
+821	10	USER	わかりました。ありがとうございました。	general,attraction,weather
+821	11	SYSTEM	ほかにお知りになりたい情報はございますか？	general,attraction,weather
+821	12	USER	特にありません。ありがとうございます。	general,attraction,weather
+821	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,weather

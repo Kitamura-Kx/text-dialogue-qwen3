@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+943	0	USER	こんにちは。今度京都へ行くのですが、どこか観光できるところを探しています。	general,attraction,taxi,weather
+943	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,taxi,weather
+943	2	USER	左京区で、駐車場を無料で利用できるところがいいです。	general,attraction,taxi,weather
+943	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,attraction,taxi,weather
+943	4	USER	では、駐車場はなくても構いません。	general,attraction,taxi,weather
+943	5	SYSTEM	では国立京都国際会館はいかがでしょうか。	general,attraction,taxi,weather
+943	6	USER	ありがとうございます。近くの駅からの所要時間はどのくらいですか？	general,attraction,taxi,weather
+943	7	SYSTEM	国際会館駅から徒歩で5分でございます。	general,attraction,taxi,weather
+943	8	USER	ありがとうございます。当日タクシーを使いたいのですが、キャッシュレス払いができるところはありますか？	general,attraction,taxi,weather
+943	9	SYSTEM	申し訳ございません。キャッシュレスに対応している会社がございませんでした。いかがなさいますか。	general,attraction,taxi,weather
+943	10	USER	では、キャッシュレス払いはできなくてもいいです。	general,attraction,taxi,weather
+943	11	SYSTEM	では洛陽交運株式会社がございます。	general,attraction,taxi,weather
+943	12	USER	電話番号を教えてください。	general,attraction,taxi,weather
+943	13	SYSTEM	電話番号は0756918101でございます。	general,attraction,taxi,weather
+943	14	USER	ありがとうございます。5/29の12:00で、国立京都国際会館から、貴船 喜らくまで、予約をお願いできますか？	general,attraction,taxi,weather
+943	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は56610でございます。	general,attraction,taxi,weather
+943	16	USER	ありがとうございます。最後に、5/29当日の南区のお天気を知りたいのですが。	general,attraction,taxi,weather
+943	17	SYSTEM	天気は晴のち雨となっております。	general,attraction,taxi,weather
+943	18	USER	分かりました。以上です、大変ありがとうございました。	general,attraction,taxi,weather
+943	19	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi,weather

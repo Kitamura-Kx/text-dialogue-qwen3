@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3000	0	USER	仙台への旅行を計画しています。 飲食店を探してください。	general,restaurant
+3000	1	SYSTEM	ご希望の条件をおきかせください。	general,restaurant
+3000	2	USER	Wi-Fiが無料で利用できるところで、予算は安め、地区は太白区希望です。	general,restaurant
+3000	3	SYSTEM	その条件だと、タリーズコーヒー ララガーデン長町店、こちら一択です。	general,restaurant
+3000	4	USER	そのお店の最寄り駅，料金情報，駐車場の有無が知りたいです。	general,restaurant
+3000	5	SYSTEM	最寄りは長町南駅、駐車場は無料のがあります。料金情報ですが、本日のコーヒー short305円、チョコリスタ560円、ミルククレープブリュレ450円、こんな感じです。	general,restaurant
+3000	6	USER	それでは予約をお願いします。人数は4人、日付は8/21、時間は12:50です。	general,restaurant
+3000	7	SYSTEM	その条件だと予約に失敗してしまいました。	general,restaurant
+3000	8	USER	では人数を3に変更してください。	general,restaurant
+3000	9	SYSTEM	３人なら予約できました。予約番号は52244です。	general,restaurant
+3000	10	USER	解決しました。ありがとうございました。	general,restaurant

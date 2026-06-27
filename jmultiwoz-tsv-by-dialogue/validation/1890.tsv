@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1890	0	USER	名古屋で食事ができる飲食店で、ゆめやというお店はありますか？	general,restaurant,hotel,taxi
+1890	1	SYSTEM	はい、ゆめや 金山店のことでしょうか？	general,restaurant,hotel,taxi
+1890	2	USER	そのお店までの、近辺の駅からの所要時間を教えてください。	general,restaurant,hotel,taxi
+1890	3	SYSTEM	はい、金山駅から徒歩で4分でございます。	general,restaurant,hotel,taxi
+1890	4	USER	そちらのお店を予約したいのですが、２名で、10/5 11:50でお願いします。	general,restaurant,hotel,taxi
+1890	5	SYSTEM	申し訳ございません。その条件ですとご予約を取ることが出来ませんでした。	general,restaurant,hotel,taxi
+1890	6	USER	そうなんですね。では人数が１人ではいかがでしょうか？	general,restaurant,hotel,taxi
+1890	7	SYSTEM	はい、1名様でしたらご予約出来ました。ご予約番号は75488です。	general,restaurant,hotel,taxi
+1890	8	USER	ありがとうございます。次に、レストランが併設されている宿泊施設を知りたいです。普通のお値段で、駐車場無料が良いです。	general,restaurant,hotel,taxi
+1890	9	SYSTEM	お待たせいたしました。そちらの条件ですとザ タワーホテル ナゴヤはいかがでしょうか？	general,restaurant,hotel,taxi
+1890	10	USER	そのホテルのチェックアウト終了時刻と、Wi-Fiがあるかどうかを調べてもらえますか？	general,restaurant,hotel,taxi
+1890	11	SYSTEM	チェックアウト終了時刻は12時となっており、Wi-Fiの有無は申し訳ありません。分かりません。	general,restaurant,hotel,taxi
+1890	12	USER	Wi-Fiについては大丈夫です。ではそちらのホテルを予約してください。10/5 から２泊、宿泊人数は３名です。	general,restaurant,hotel,taxi
+1890	13	SYSTEM	お待たせいたしました。ご予約番号17985で予約致しました。	general,restaurant,hotel,taxi
+1890	14	USER	最後にタクシーも予約したいです。キャッシュレス払いができて、ジャンボタクシーが利用できる会社はありますか？	general,restaurant,hotel,taxi
+1890	15	SYSTEM	申し訳ありません。その条件でご利用いただけるタクシー会社はございません。	general,restaurant,hotel,taxi
+1890	16	USER	そうしましたら、キャッシュレス払いはできなくてもかまいません。	general,restaurant,hotel,taxi
+1890	17	SYSTEM	お待たせいたしました。そちらの条件でしたら大名古屋交通さんはいかがでしょうか？	general,restaurant,hotel,taxi
+1890	18	USER	ありがとうございます。電話番号はわかりますか？	general,restaurant,hotel,taxi
+1890	19	SYSTEM	電話番号は0529138686でございます。	general,restaurant,hotel,taxi
+1890	20	USER	10/5 13時、ゆめや 金山店からザ タワーホテル ナゴヤまで、タクシーの予約をお願いします。	general,restaurant,hotel,taxi
+1890	21	SYSTEM	お待たせいたしました。予約番号98645でご予約出来ました。	general,restaurant,hotel,taxi
+1890	22	USER	色々ありがとうございました。以上で大丈夫です。	general,restaurant,hotel,taxi
+1890	23	SYSTEM	ありがとうございました。	general,restaurant,hotel,taxi

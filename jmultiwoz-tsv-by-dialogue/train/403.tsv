@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+403	0	USER	那覇へ行こうと思っています。駐車場が無料で絶景の観光名所を探していただけますか？	general,attraction,taxi
+403	1	SYSTEM	承知しました。首里観音堂、三重城、首里崎山公園の3件ございます。	general,attraction,taxi
+403	2	USER	首里観音堂に行ってみようと思います。詳しい情報を教えていただけますか？	general,attraction,taxi
+403	3	SYSTEM	はい、エリアは首里、住所は那覇市首里山川町3丁目1、電話番号は0988840565、最寄りの首里駅から徒歩で20分となります。営業時間は9時から18時、定休日はございません。入場料は必要なく、無料でご利用いただけます。	general,attraction,taxi
+403	4	USER	わかりました。ありがとうございます。	general,attraction,taxi
+403	5	SYSTEM	他にご用件はございますか？	general,attraction,taxi
+403	6	USER	ジャンボタクシーが利用できるタクシー会社を探していただきたいです。	general,attraction,taxi
+403	7	SYSTEM	はい、それでは、沖縄交通はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0120170978となります。	general,attraction,taxi
+403	8	USER	そちらの会社で1月4日の11時に首里観音堂から沖縄美ら海水族館アンテナショップうみちゅららまでの予約をお願いしたいです。	general,attraction,taxi
+403	9	SYSTEM	承知しました。予約が完了し、ご予約番号は43342となります。	general,attraction,taxi
+403	10	USER	わかりました。ありがとうございます。	general,attraction,taxi
+403	11	SYSTEM	他にご用件はございますか？	general,attraction,taxi
+403	12	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,taxi

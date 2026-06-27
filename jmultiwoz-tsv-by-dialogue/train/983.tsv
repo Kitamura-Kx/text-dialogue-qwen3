@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+983	0	USER	札幌へ旅行に行きたく、観光名所を探しています。ジャンルはスポーツ・フィットネス系でエリアは東区周辺、無料で利用できる駐車場もあれば嬉しいです。	general,attraction,taxi,weather
+983	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,taxi,weather
+983	2	USER	そうですか、ではエリアは考慮しないです。	general,attraction,taxi,weather
+983	3	SYSTEM	では、星置スケート場はいかがでしょうか？	general,attraction,taxi,weather
+983	4	USER	そこの最寄駅、料金情報を教えてください。	general,attraction,taxi,weather
+983	5	SYSTEM	最寄り駅は星置駅です。料金は、中学生以下無料、当日券一般580円、高校生280円となっております。	general,attraction,taxi,weather
+983	6	USER	ありがとうございます。当日タクシーを利用したく、キャッシュレス払いができるタクシー会社はありますか？	general,attraction,taxi,weather
+983	7	SYSTEM	はい、ございます。北都ベリアールサービス(株)はいかがでしょうか？	general,attraction,taxi,weather
+983	8	USER	それでは予約をお願いします。日時は9/15、12:30で出発地は星置スケート場から国営滝野すずらん丘陵公園まででお願いします。	general,attraction,taxi,weather
+983	9	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,attraction,taxi,weather
+983	10	USER	時間を13:10に変更すれば予約は取れますか？	general,attraction,taxi,weather
+983	11	SYSTEM	ありがとうございます。13時10分にて、予約完了いたしました。予約番号は、65397です。	general,attraction,taxi,weather
+983	12	USER	ありがとうございます。最後に9/15の中央区の天候を調べてほしいです。最低気温も知りたいです。	general,attraction,taxi,weather
+983	13	SYSTEM	当日の天気は晴時々雨、最低気温は21.2度の予報です。なお、最高気温は25.6度になる見込みです。	general,attraction,taxi,weather
+983	14	USER	ありがとうございます。こちらからは以上です。	general,attraction,taxi,weather
+983	15	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,attraction,taxi,weather

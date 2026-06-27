@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+139	0	USER	横浜で自動車や自転車ジャンルの買い物ができる場所って分かりますか？	general,shopping,weather
+139	1	SYSTEM	はい、ヤマダ電機 テックランド上山店がございます。住所は横浜市緑区上山2丁目27-1、電話番号は、0459355512、営業時間は10時15分から21時となっております。	general,shopping,weather
+139	2	USER	ありがとうございます。行ってみますね。ところで1月6日の戸塚区の天候ってどうなってますか？	general,shopping,weather
+139	3	SYSTEM	はい、天気は晴、最低気温8.9度、最高気温12.7度となっております。	general,shopping,weather
+139	4	USER	よくわかりました。お世話になりました。ありがとうございました。	general,shopping,weather

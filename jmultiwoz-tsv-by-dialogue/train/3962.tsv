@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3962	0	USER	名古屋への旅行を計画していて、当日のタクシー会社を探しています。ジャンボタクシーが利用できるところが希望です。	general,taxi
+3962	1	SYSTEM	お待たせ致しました。では、瑞穂タクシーはいかがでしょうか？	general,taxi
+3962	2	USER	ありがとうございます。瑞穂タクシーの電話番号は分かりますか？	general,taxi
+3962	3	SYSTEM	はい、電話番号は0523311680でございます。	general,taxi
+3962	4	USER	ありがとうございます。では予約をお願いしたいのですが、4/4の12：40から、チサンイン名古屋からまる八 大衆酒場 ちゃおまる。まで予約をお願い出来ますか？	general,taxi
+3962	5	SYSTEM	申し訳ありません。その条件ですと、予約が出来ませんでした。	general,taxi
+3962	6	USER	では、出発時間を13：30にしたいと思います。	general,taxi
+3962	7	SYSTEM	お待たせ致しました。予約番号77196でお取りさせていただきました。	general,taxi
+3962	8	USER	ありがとうございました。	general,taxi
+3962	9	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4089	0	USER	福岡への旅行を計画中で、買い物ができる場所を探しています。	general,shopping,hotel
+4089	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,shopping,hotel
+4089	2	USER	東区内で最寄り駅は箱崎九大前駅、無料駐車場付きがいいです。	general,shopping,hotel
+4089	3	SYSTEM	東区内で箱崎九大前駅、無料駐車場付ならば、きっずゆうえんち&アミューズメント ぐるぐる屋箱崎店、こちらになります。	general,shopping,hotel
+4089	4	USER	そこにしようと思います。定休日を教えてください。	general,shopping,hotel
+4089	5	SYSTEM	1/1定休です。	general,shopping,hotel
+4089	6	USER	ありがとうございます。当日利用できる宿泊施設を探しています。予算は普通で、無料の駐車場とWi-fi付きがいいです。	general,shopping,hotel
+4089	7	SYSTEM	福岡で、予算普通、無料駐車場とWiFiの宿泊施設は２つありますが、WITH THE STYLE FUKUOKA、こちらをお勧めします。	general,shopping,hotel
+4089	8	USER	そこにしようと思います。エリアとレストランの有無を教えてください。	general,shopping,hotel
+4089	9	SYSTEM	エリアは博多区、レストランは併設のがあります。	general,shopping,hotel
+4089	10	USER	助かります。ありがとうございました。	general,shopping,hotel

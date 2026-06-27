@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4651	0	USER	那覇への旅行を計画しているんですけど、レストランが併設されている宿泊施設を探してもらえますか？	general,hotel,taxi,weather
+4651	1	SYSTEM	かしこまりました。では、OKINAWA KARIYUSHI RESORT EXES NAHAはいかがでしょうか？	general,hotel,taxi,weather
+4651	2	USER	予算が普通のところが良いんですけど、そこはどうですか？	general,hotel,taxi,weather
+4651	3	SYSTEM	かしこまりました。では、ザ・ナハテラスはいかがでしょうか？	general,hotel,taxi,weather
+4651	4	USER	そこでお願いします。タイプとWi-Fiの有無も教えてもらえますか？	general,hotel,taxi,weather
+4651	5	SYSTEM	はい。タイプはリゾートホテルで、Wi-Fiは有ります。	general,hotel,taxi,weather
+4651	6	USER	じゃあザ・ナハテラスを11/24から4名で4泊の予約をお願いします。	general,hotel,taxi,weather
+4651	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel,taxi,weather
+4651	8	USER	3泊ではどうですか？	general,hotel,taxi,weather
+4651	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、83751です。	general,hotel,taxi,weather
+4651	10	USER	ありがとう。キャッシュレス払い可能でジャンボタクシーが使えるタクシー会社も探してもらえますか？	general,hotel,taxi,weather
+4651	11	SYSTEM	かしこまりました。では、三和交通はどうですか？	general,hotel,taxi,weather
+4651	12	USER	そちらの電話番号を教えて下さい。	general,hotel,taxi,weather
+4651	13	SYSTEM	はい。電話番号は0120100084です。	general,hotel,taxi,weather
+4651	14	USER	じゃあ、11/24の午前10時40分にゲストハウス海風からザ・ナハテラスまでで予約をお願いできますか？	general,hotel,taxi,weather
+4651	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、25433です。	general,hotel,taxi,weather
+4651	16	USER	あと、11/24の真和志地区の最高気温と最低気温を教えて下さい。	general,hotel,taxi,weather
+4651	17	SYSTEM	かしこまりました。最高気温は28.4度で、最低気温は22.8度です。	general,hotel,taxi,weather
+4651	18	USER	ありがとうございます。	general,hotel,taxi,weather
+4651	19	SYSTEM	はい。ありがとうございました。	general,hotel,taxi,weather

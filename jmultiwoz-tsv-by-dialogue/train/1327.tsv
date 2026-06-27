@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1327	0	USER	東京への旅行を計画しているのですが。	general,restaurant
+1327	1	SYSTEM	はい。お問合せありがとうございます。	general,restaurant
+1327	2	USER	当日食事ができる飲食店を探してください予算は普通が希望でジャンルはカレーがいいです。	general,restaurant
+1327	3	SYSTEM	1件、麻布十番 薬膳カレー 新海 本店というところが見つかりました。	general,restaurant
+1327	4	USER	いいですね。そこの料金情報が知りたいです。	general,restaurant
+1327	5	SYSTEM	料金情報はスリランカ風薬膳スープカレーランチ:1000円、D.２種の合いがけ薬膳カレー:1300円、サーモンとアボカドサラダ:1000円となっています。	general,restaurant
+1327	6	USER	ありがとうございます。そちらで人数は2人、日付は10/30、時間は14:40で予約していただけませんか。	general,restaurant
+1327	7	SYSTEM	予約完了いたしました。予約番号は68539になります。	general,restaurant
+1327	8	USER		general,restaurant

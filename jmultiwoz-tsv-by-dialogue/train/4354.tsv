@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4354	0	USER	札幌への旅行を考えているのですが、最寄り駅が新さっぽろ駅の観光名所を教えていただけますか。	general,attraction,weather
+4354	1	SYSTEM	かしこまりました。それではサンピアザ水族館はいかがでしょうか？	general,attraction,weather
+4354	2	USER	そちらは駐車場はありますでしょうか。	general,attraction,weather
+4354	3	SYSTEM	はい、無料の駐車場がございます。	general,attraction,weather
+4354	4	USER	それはよかったです。ぜひ行きたいと思います。当日の10月18日の白石区の気温を教えてくださいますか。	general,attraction,weather
+4354	5	SYSTEM	お待たせ致しました。当日の白石区の気温は、最低が10.2度、最高が19.7度でございます。	general,attraction,weather
+4354	6	USER	ありがとうございました。	general,attraction,weather

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4223	0	USER	那覇へ旅行に行く予定で、宿泊施設を探しています。予算は普通で、レストランが併設されているところはありませんか？	general,hotel
+4223	1	SYSTEM	はい、1件ご案内可能です。ザ・ナハテラスという本庁エリアにあるリゾートホテルですが、いかがでしょうか？	general,hotel
+4223	2	USER	最寄り駅がおもろまち駅のところはないでしょうか？	general,hotel
+4223	3	SYSTEM	はい、申し訳ありません。その条件では、ご案内出来るところは見つかりませんでした。	general,hotel
+4223	4	USER	では、予算は考えずに条件に合うところを探してください。	general,hotel
+4223	5	SYSTEM	かしこまりました。そうしますと、アルモントホテル那覇おもろまち、というところが、おもろまち駅から徒歩で4分の場所にございます。いかがでしょうか？	general,hotel
+4223	6	USER	ここのホテルのタイプは何ですか？	general,hotel
+4223	7	SYSTEM	お安めのビジネスホテルとなっております。	general,hotel
+4223	8	USER	電話番号を教えてください。	general,hotel
+4223	9	SYSTEM	はい、電話番号は、0988606611でございます。	general,hotel
+4223	10	USER	ありがとうございます。	general,hotel
+4223	11	SYSTEM	他にお知りになりたい情報など、ございませんか？	general,hotel
+4223	12	USER	大丈夫です。ありがとうございました。	general,hotel
+4223	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

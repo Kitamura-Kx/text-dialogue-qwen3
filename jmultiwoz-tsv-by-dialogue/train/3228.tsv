@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3228	0	USER	名古屋の観光地を探しています。無料Wi-Fiに対応しているスポットはありますか？	general,attraction,restaurant,taxi
+3228	1	SYSTEM	かしこまりました。では、名古屋市博物館はいかがでしょうか？	general,attraction,restaurant,taxi
+3228	2	USER	そこにします。電話番号もお願いできますか？	general,attraction,restaurant,taxi
+3228	3	SYSTEM	はい。電話番号は0528532655です。	general,attraction,restaurant,taxi
+3228	4	USER	ありがとうございます。あと、アジア料理やエスニック料理が食べられるお店で良い所はありませんか？	general,attraction,restaurant,taxi
+3228	5	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,attraction,restaurant,taxi
+3228	6	USER	残念です。それでは、何料理でも良いのでもう一度探してください。	general,attraction,restaurant,taxi
+3228	7	SYSTEM	かしこまりました。では、魚鉄はいかがでしょうか？ジャンルは和食, 寿司・魚料理です。	general,attraction,restaurant,taxi
+3228	8	USER	いいですね、そちらにします。魚鉄の定休日はいつでしょうか？駐車場があるかも確認お願いします。	general,attraction,restaurant,taxi
+3228	9	SYSTEM	はい。定休日は火曜日と、第四水曜日になります。駐車場は無料のものがございます。	general,attraction,restaurant,taxi
+3228	10	USER	分かりました。当日はタクシーも利用したいのですが、ジャンボタクシーが選べる会社ってありますか？	general,attraction,restaurant,taxi
+3228	11	SYSTEM	はい。宝タクシー第三がおすすめです。	general,attraction,restaurant,taxi
+3228	12	USER	分かりました、宝タクシー第三の電話番号も教えてください。	general,attraction,restaurant,taxi
+3228	13	SYSTEM	はい。電話番号は0526826000です。	general,attraction,restaurant,taxi
+3228	14	USER	ありがとうございます。6/5なのですが、先ほど案内していただいた名古屋市博物館から魚鉄までの予約を取ってください。時間は14:00です。	general,attraction,restaurant,taxi
+3228	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、12919です。	general,attraction,restaurant,taxi
+3228	16	USER	ありがとうございます、これで用件は全てです。	general,attraction,restaurant,taxi
+3228	17	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,taxi

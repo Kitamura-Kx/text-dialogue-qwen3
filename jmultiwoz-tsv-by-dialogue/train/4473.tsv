@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4473	0	USER	京都に旅行に行こうと思っています。予算が普通の飲食店に行きたいです。	general,restaurant,shopping
+4473	1	SYSTEM	かしこまりました。３４件候補がございますが、ほかにご希望の条件はございませんか？	general,restaurant,shopping
+4473	2	USER	いえ、ありません。	general,restaurant,shopping
+4473	3	SYSTEM	それでしたら、下京区エリアにある、京・朱雀 すし市場というお店はいかがでしょうか？	general,restaurant,shopping
+4473	4	USER	そのお店には駐車場はありますか。	general,restaurant,shopping
+4473	5	SYSTEM	申し訳ありません、駐車場の有無は不明となっております。	general,restaurant,shopping
+4473	6	USER	了解しました。ありがとうございます。あと、下京区で買い物がしたいと思っています。	general,restaurant,shopping
+4473	7	SYSTEM	そうしましたら、茅乃舎 大丸京都店というお店はいかがでしょうか？食料品, お土産を取り扱っているお店となります。	general,restaurant,shopping
+4473	8	USER	駐車場が無料で使えるアウトレットモールが希望です。	general,restaurant,shopping
+4473	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,restaurant,shopping
+4473	10	USER	ではアウトレットモールではなくお土産のお店でお願いします。	general,restaurant,shopping
+4473	11	SYSTEM	かしこまりました。では、京扇堂はいかがでしょうか？京都駅から徒歩で10分の場所にあるお店です。	general,restaurant,shopping
+4473	12	USER	ありがとうございます。そのお店の電話番号と営業時間を教えてください。	general,restaurant,shopping
+4473	13	SYSTEM	はい、電話番号は、0753714151です。営業時間は、朝9:00から夕方17:00までとなっております。	general,restaurant,shopping
+4473	14	USER	ありがとうございます。これで大丈夫です。	general,restaurant,shopping
+4473	15	SYSTEM	承知いたしました。他にご質問がないようでしたら、本日は失礼いたします。ご利用ありがとうございました。	general,restaurant,shopping

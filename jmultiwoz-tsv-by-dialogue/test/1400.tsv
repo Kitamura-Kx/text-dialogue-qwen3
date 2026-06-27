@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1400	0	USER	横浜旅行を計画中なのですが、駐車場が無料で使える書籍を取り扱っているお店を探してもらえないでしょうか。	general,shopping,attraction,weather
+1400	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,attraction,weather
+1400	2	USER	では書籍を買えるお店ではなく、食料品を買えるお店で探してもらえないでしょうか。	general,shopping,attraction,weather
+1400	3	SYSTEM	Augusta Milk Farm 相澤良牧場は、いかがですか？	general,shopping,attraction,weather
+1400	4	USER	Augusta Milk Farm 相澤良牧場さんは、何駅が最寄りなのでしょうか	general,shopping,attraction,weather
+1400	5	SYSTEM	最寄り駅は、いずみ野駅です。	general,shopping,attraction,weather
+1400	6	USER	わかりました。栄区に観光名所はあるのでしょうか？	general,shopping,attraction,weather
+1400	7	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,attraction,weather
+1400	8	USER	そうですか。では磯子区だとどうですか？	general,shopping,attraction,weather
+1400	9	SYSTEM	岡村天満宮は、いかがですか？	general,shopping,attraction,weather
+1400	10	USER	岡村天満宮の大人の入場料はいくらですか。	general,shopping,attraction,weather
+1400	11	SYSTEM	入場料金は、大人子供にかかわらず無料となっています。	general,shopping,attraction,weather
+1400	12	USER	無料なんですね！あとこちらは営業時間はどんな感じですか？	general,shopping,attraction,weather
+1400	13	SYSTEM	営業時間は、00:00～00:00となっています。	general,shopping,attraction,weather
+1400	14	USER	なるほど、わかりました。あと、8/13の中区の天気はどんな感じですか。	general,shopping,attraction,weather
+1400	15	SYSTEM	天気は、雨時々晴です。	general,shopping,attraction,weather
+1400	16	USER	そうですか。最高気温はわかりますか？	general,shopping,attraction,weather
+1400	17	SYSTEM	最高気温は、31.4度です。	general,shopping,attraction,weather
+1400	18	USER	わかりました。色々な質問にお答え下さりありがとうございました。	general,shopping,attraction,weather

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3339	0	USER	京都へ旅行したいと思っているのですが、タクシー会社を探しています。	general,taxi,weather
+3339	1	SYSTEM	株式会社キャビックはいかがですか？	general,taxi,weather
+3339	2	USER	ありがとうございます。キャッシュレス対応のジャンボタクシーを利用したいと考えているのですがどうでしょうか。	general,taxi,weather
+3339	3	SYSTEM	はい、どちらも対応しております。	general,taxi,weather
+3339	4	USER	わかりました。ではそちらを利用したいと思います。電話番号をお教えいただけますか？	general,taxi,weather
+3339	5	SYSTEM	電話番号は、0758642100です。	general,taxi,weather
+3339	6	USER	ありがとうございます。では当日の予約をしたいのですが、4月27日の09:30に松葉家旅館からスコルピオーネ 祇園までで予約は可能でしょうか。	general,taxi,weather
+3339	7	SYSTEM	予約出来ました。予約番号は、76068となります。	general,taxi,weather
+3339	8	USER	ありがとうございます。あと当日の東山区の天候をお聞きしたいのですが、4月27日の天気と最高気温はどのようになっていますか？	general,taxi,weather
+3339	9	SYSTEM	天気は、晴で最高気温は19.1度となっています。	general,taxi,weather
+3339	10	USER	ありがとうございます。お聞きしたいことは以上になります。丁寧に対応していただきありがとうございました。	general,taxi,weather
+3339	11	SYSTEM	承知しました。ありがとうございました。	general,taxi,weather

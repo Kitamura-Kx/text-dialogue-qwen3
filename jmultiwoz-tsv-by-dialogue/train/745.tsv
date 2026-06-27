@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+745	0	USER	仙台に行こうと思っているんですが、無料で駐車場が利用できるとこで、スポーツのジャンルが買えるお店はありますか？	general,shopping,hotel,taxi
+745	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,hotel,taxi
+745	2	USER	そうですか。では、スポーツじゃなくて、文房具や雑貨のお店ならありますか？	general,shopping,hotel,taxi
+745	3	SYSTEM	はい、8件ほどございます。例えば、IKEA 仙台というお店はいかがでしょうか？ジャンルとしては、食料品, 文房具・雑貨, ファッションとなります。	general,shopping,hotel,taxi
+745	4	USER	ありがとうございます。営業時間と定休日を教えてもらえますか？	general,shopping,hotel,taxi
+745	5	SYSTEM	営業時間は、10:00～19:00です。定休日はございません。	general,shopping,hotel,taxi
+745	6	USER	ありがとうございます。当日泊まれるところも探していますが、普通予算で、五橋駅近くでどこかありませんか？	general,shopping,hotel,taxi
+745	7	SYSTEM	はい、1件ございます。アパヴィラホテル<仙台駅五橋>というビジネスホテルですが、いかがでしょうか？	general,shopping,hotel,taxi
+745	8	USER	ありがとうございます。あと、ジャンボタクシーとキャッシュレス払いが利用できるタクシー会社も探してもらえますか？	general,shopping,hotel,taxi
+745	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できる会社が見つかりませんでした。	general,shopping,hotel,taxi
+745	10	USER	それだったら、ジャンボタクシーは利用できなくても構わないです。キャッシュレス払い対応しているところどこかありますか？	general,shopping,hotel,taxi
+745	11	SYSTEM	ありがとうございます。そういたしますと、5件ご案内可能です。そのうちの1件、（株）泉交通はいかがでしょうか？	general,shopping,hotel,taxi
+745	12	USER	ありがとうございます。電話番号を教えてもらえますか？	general,shopping,hotel,taxi
+745	13	SYSTEM	はい。電話番号は、0223795656です。ご予約もなさいますか？	general,shopping,hotel,taxi
+745	14	USER	はい、お願いします。	general,shopping,hotel,taxi
+745	15	SYSTEM	では、ご利用予定の日付と出発時刻、出発地、目的地をお願いできますでしょうか？	general,shopping,hotel,taxi
+745	16	USER	１０月２７日の１２時４０分に、IKEA仙台からアパヴィラホテル<仙台駅五橋>までお願いします。	general,shopping,hotel,taxi
+745	17	SYSTEM	かしこまりました。ご予約が完了いたしました。予約場脳は、8482でございます。	general,shopping,hotel,taxi
+745	18	USER	ありがとうございます。	general,shopping,hotel,taxi
+745	19	SYSTEM	他になにかお知りになりたい情報など、ございませんか？	general,shopping,hotel,taxi
+745	20	USER	大丈夫です。ありがとうございました。	general,shopping,hotel,taxi
+745	21	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,shopping,hotel,taxi

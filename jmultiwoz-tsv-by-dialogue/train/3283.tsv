@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3283	0	USER	福岡で、予算高めの駐車場が無料で利用できる宿泊施設を探しています。	general,hotel,attraction
+3283	1	SYSTEM	福岡で予算高め、無料駐車場のある宿泊施設はありません。	general,hotel,attraction
+3283	2	USER	でしたら、駐車場はなくても構いません。	general,hotel,attraction
+3283	3	SYSTEM	福岡で高めの宿泊施設はいくつかありますが、ソラリア西鉄ホテル福岡、こちらをお勧めします。	general,hotel,attraction
+3283	4	USER	ありがとうございます。そちらの住所とエリアを教えて下さい。	general,hotel,attraction
+3283	5	SYSTEM	中央区です。福岡県福岡市中央区天神2丁目2-43になります。	general,hotel,attraction
+3283	6	USER	ありがとうございます。あと、無料駐車場と無料Wi-Fiが利用できる観光名所で、どこかいいところありますか？	general,hotel,attraction
+3283	7	SYSTEM	福岡で駐車場とWiFiが無料の観光名所はいくつかありますが、住吉神社、こちらをお勧めします。	general,hotel,attraction
+3283	8	USER	そちらの電話番号を教えて下さい。	general,hotel,attraction
+3283	9	SYSTEM	0922912670です。	general,hotel,attraction
+3283	10	USER	ありがとうございました。	general,hotel,attraction
+3283	11	SYSTEM	よい旅を	general,hotel,attraction

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3253	0	USER	名古屋への旅行を検討しています。当日訪れる観光名所を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,attraction,shopping,weather
+3253	1	SYSTEM	はい、ご希望をどうぞ	general,attraction,shopping,weather
+3253	2	USER	Wi-Fiが無料で利用できれば有難いのですが、何処か該当しますかね？	general,attraction,shopping,weather
+3253	3	SYSTEM	名古屋でWiFi無料の観光名所といえばいくつかありますが、トヨタ産業技術記念館、名古屋らしいところでおすすめです。	general,attraction,shopping,weather
+3253	4	USER	でしたら、そこで検討したいです。この施設は、どのようなジャンルになりますか？	general,attraction,shopping,weather
+3253	5	SYSTEM	美術館・博物館, 科学館になります。	general,attraction,shopping,weather
+3253	6	USER	ありがとうございます。この施設の定休日とかってわかりますか？	general,attraction,shopping,weather
+3253	7	SYSTEM	月曜定休、あと年末年始ですね。	general,attraction,shopping,weather
+3253	8	USER	ありがとうございます。それと、当日買い物が出来る施設も探しているのですが、よろしいでしょうか？	general,attraction,shopping,weather
+3253	9	SYSTEM	ご希望をどうぞ	general,attraction,shopping,weather
+3253	10	USER	はい。駐車場を無料で利用できる、書籍を取り扱っているお店を探しています。	general,attraction,shopping,weather
+3253	11	SYSTEM	名古屋で駐車場無料、書籍といえば、草叢BOOKS 新守山店、こちらがオススメです。	general,attraction,shopping,weather
+3253	12	USER	では、そこで検討してみたいです。このお店の電話番号を教えて頂いてもよろしいでしょうか？	general,attraction,shopping,weather
+3253	13	SYSTEM	052791 5152になります。	general,attraction,shopping,weather
+3253	14	USER	ありがとうございます。最後に、守山区の3月31日の天候も教えて欲しいのですが、よろしいでしょうか？	general,attraction,shopping,weather
+3253	15	SYSTEM	3/31 名古屋 守山区 の天気は曇時々晴、最低気温1.5度、最高気温18.4度です。	general,attraction,shopping,weather
+3253	16	USER	助かりました。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,attraction,shopping,weather
+3253	17	SYSTEM	よい旅を	general,attraction,shopping,weather

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2751	0	USER	東京への旅行を計画しています。千代田区でどこか居酒屋はありますか？予算は普通くらいを希望します。	general,restaurant,weather
+2751	1	SYSTEM	承知しました。では、YONA YONA BEER WORKS 赤坂店はいかがでしょう？	general,restaurant,weather
+2751	2	USER	ありがとうございます。そちらの料金情報と定休日を教えてください。	general,restaurant,weather
+2751	3	SYSTEM	はい、定休日はございません。料金情報としては、BEER FLIGHT 飲み比べ3種セットが1450円、国産鶏のローストチキンハーフが2100円、職人ソーセージ1ピースが780円、となっております。	general,restaurant,weather
+2751	4	USER	承知しました。次に7/25の目黒区の天気を教えてください。最低気温も知りたいです。	general,restaurant,weather
+2751	5	SYSTEM	はい、天気は曇のち晴、最低気温18.2度、最高気温28.4度となります。他にご用件はございますか？	general,restaurant,weather
+2751	6	USER	ありがとうございます。こちらからは以上です。	general,restaurant,weather
+2751	7	SYSTEM	ありがとうございました。	general,restaurant,weather

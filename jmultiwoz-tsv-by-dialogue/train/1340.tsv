@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1340	0	USER	京都へ行こうと思っています。伏見区にあって駐車場が無料で利用できる観光名所を探していただきたいです。	general,attraction,taxi
+1340	1	SYSTEM	伏見稲荷大社は、いかがですか？	general,attraction,taxi
+1340	2	USER	そちらのWiFiの有無について教えていただけますでしょうか。	general,attraction,taxi
+1340	3	SYSTEM	Wi-Fiの有無ですが、不明となっております。	general,attraction,taxi
+1340	4	USER	わかりました。ありがとうございます。	general,attraction,taxi
+1340	5	SYSTEM	他にご用件はありますか？	general,attraction,taxi
+1340	6	USER	ジャンボタクシーが利用できてキャッシュレス払いができるタクシー会社を探していただきたいです。	general,attraction,taxi
+1340	7	SYSTEM	京都相互タクシー株式会社は、いかがですか？	general,attraction,taxi
+1340	8	USER	そちらの電話番号を教えていただけますでしょうか。	general,attraction,taxi
+1340	9	SYSTEM	電話番号は、0758623000です。	general,attraction,taxi
+1340	10	USER	では、2月28日11時40分伏見稲荷大社から貴船 喜らくまで予約をお願いします。	general,attraction,taxi
+1340	11	SYSTEM	予約出来ました。予約番号は、50222です。	general,attraction,taxi
+1340	12	USER	わかりました。ありがとうございます。	general,attraction,taxi
+1340	13	SYSTEM	他にご用件はありますか？	general,attraction,taxi
+1340	14	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,taxi

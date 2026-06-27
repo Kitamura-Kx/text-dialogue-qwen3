@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4414	0	USER	横浜へ旅行するのですが、最寄り駅が産業振興センター駅の、Wi-Fiが無料で使える宿泊施設を探してください。	general,hotel
+4414	1	SYSTEM	お待たせ致しました。その条件でしたら横浜テクノタワーホテルがございます。	general,hotel
+4414	2	USER	そちらの近辺の駅からの所要時間とタイプ、あとチェックアウト終了時刻はわかりますか？	general,hotel
+4414	3	SYSTEM	はい、近辺の駅からですと産業振興センター駅から徒歩で1分でございまして、タイプはシティホテルに該当し、チェックアウト終了時刻は10時でございます。	general,hotel
+4414	4	USER	ありがとうございます。では、3人で4/23から2泊の予約を取ってもらえますか？	general,hotel
+4414	5	SYSTEM	お待たせ致しました。予約番号1012でお取りさせていただきました。	general,hotel
+4414	6	USER	ありがとうございます。もう大丈夫です。	general,hotel
+4414	7	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+961	0	USER	横浜で宿泊できる場所を探しています。無料で駐車できる簡易宿所はありますか？	general,hotel,attraction
+961	1	SYSTEM	申し訳ございません。その条件ですと案内できるところがございませんでした。いかがなさいますか。	general,hotel,attraction
+961	2	USER	無料駐車はなくてもいいので、カプセルホテルとか、簡易宿所を探してください。	general,hotel,attraction
+961	3	SYSTEM	では横浜のゲストハウス FUTARENOはいかがですか。	general,hotel,attraction
+961	4	USER	そちらでお願いします。ちなみに、詳しい料金情報はどんな感じですか？	general,hotel,attraction
+961	5	SYSTEM	詳しい料金情報はわかりかねますが、値段帯は安めとなっております。	general,hotel,attraction
+961	6	USER	そうですか。分かりました。では2/13から2泊でお願いします。人数は4人です。	general,hotel,attraction
+961	7	SYSTEM	かしこまりました。予約完了いたしました。予約番号は69923でございます。	general,hotel,attraction
+961	8	USER	続いて観光名所も調べてください。無料で駐車できて、無料のWifiが使える場所はありますか？	general,hotel,attraction
+961	9	SYSTEM	ではカップヌードルミュージアム 横浜はいかがでしょうか。	general,hotel,attraction
+961	10	USER	いいですね。エリアはどちらですか？	general,hotel,attraction
+961	11	SYSTEM	エリアは中区でございます。	general,hotel,attraction
+961	12	USER	分かりました。ありがとうございます。	general,hotel,attraction

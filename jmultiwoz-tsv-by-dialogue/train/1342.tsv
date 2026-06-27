@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1342	0	USER	東京へ行こうと思っています。杉並区にあるリゾートホテルを探していただきたいです。	general,hotel,weather,taxi
+1342	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,hotel,weather,taxi
+1342	2	USER	では地区は考慮せずリゾートホテルを探していただけますか？	general,hotel,weather,taxi
+1342	3	SYSTEM	パーク ハイアット 東京は、いかがですか？	general,hotel,weather,taxi
+1342	4	USER	わかりました。ありがとうございます。	general,hotel,weather,taxi
+1342	5	SYSTEM	他にご用件はございますか？	general,hotel,weather,taxi
+1342	6	USER	8月21日大田区の天候を調べていただきたいです。	general,hotel,weather,taxi
+1342	7	SYSTEM	天気は、晴です。	general,hotel,weather,taxi
+1342	8	USER	最低気温についても教えていただけますでしょうか。	general,hotel,weather,taxi
+1342	9	SYSTEM	最低気温は、20.3度です。	general,hotel,weather,taxi
+1342	10	USER	わかりました。ありがとうございます。	general,hotel,weather,taxi
+1342	11	SYSTEM	他にご用件はございますか？	general,hotel,weather,taxi
+1342	12	USER	キャッシュレス払いができるタクシー会社を探していただきたいです。	general,hotel,weather,taxi
+1342	13	SYSTEM	三和交通（板橋区）は、いかがですか？	general,hotel,weather,taxi
+1342	14	USER	そちらがジャンボタクシー対応かどうかと電話番号を教えていただけますでしょうか。	general,hotel,weather,taxi
+1342	15	SYSTEM	ジャンボタクシーも対応しております。電話番号は、　0357552151です。	general,hotel,weather,taxi
+1342	16	USER	では、8月21日10時50分ルミネ新宿からパーク ハイアット 東京まで予約をお願いします。	general,hotel,weather,taxi
+1342	17	SYSTEM	予約出来ました。予約番号は、60734です。	general,hotel,weather,taxi
+1342	18	USER	わかりました。ありがとうございます。	general,hotel,weather,taxi
+1342	19	SYSTEM	他にご用件はございますか？	general,hotel,weather,taxi
+1342	20	USER	いいえ、大丈夫です。ありがとうございました。	general,hotel,weather,taxi

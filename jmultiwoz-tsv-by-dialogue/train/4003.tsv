@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4003	0	USER	札幌へ行くので、飲食店を教えてください。カフェ・スイーツが食べれるところで、無料駐車場あればうれしいです。	general,restaurant
+4003	1	SYSTEM	お待たせ致しました。それではパーラーエノキはいかがでしょうか？	general,restaurant
+4003	2	USER	いいですね。値段帯を教えてください。	general,restaurant
+4003	3	SYSTEM	はい、値段帯は普通でございます。	general,restaurant
+4003	4	USER	そうなんですね。なら、2人で4/10の時間は10:00で予約お願いします。	general,restaurant
+4003	5	SYSTEM	申し訳ありません。その条件では予約をすることが出来ませんでした。	general,restaurant
+4003	6	USER	そうですか。10:30でもいいです。	general,restaurant
+4003	7	SYSTEM	かしこまりました。それでは予約番号50131でお取りさせていただきました。	general,restaurant
+4003	8	USER	ありがとうございます。もう大丈夫です。	general,restaurant
+4003	9	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

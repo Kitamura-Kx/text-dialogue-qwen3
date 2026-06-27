@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4784	0	USER	横浜のミクニ ヨコハマという飲食店を調べてほしいです。	general,restaurant,shopping,weather
+4784	1	SYSTEM	かしこまりました。何をお調べすればよろしいでしょうか。	general,restaurant,shopping,weather
+4784	2	USER	電話番号、定休日、エリアを聞きたいです。	general,restaurant,shopping,weather
+4784	3	SYSTEM	はい。電話番号は0454420430で、定休日は無しとなっております。また、エリアは西区でございます。	general,restaurant,shopping,weather
+4784	4	USER	分かりました。また買い物できる場所を調べてください。駐車場を無料で利用でき、地区は南区です。	general,restaurant,shopping,weather
+4784	5	SYSTEM	かしこまりました。では、弘明寺かんのん通り商店街はいかがでしょうか？	general,restaurant,shopping,weather
+4784	6	USER	はい。そこの近辺の駅からの所要時間、定休日、ジャンルを教えてください。	general,restaurant,shopping,weather
+4784	7	SYSTEM	かしこまりました。近辺の駅からの所要時間は弘明寺駅から徒歩で0から3分となっております。また、定休日は店舗により異なるそうです。ジャンルは商店街になります。	general,restaurant,shopping,weather
+4784	8	USER	ありがとうございます。また、当日の港北区の天候を調べてください。日付は8/1です。	general,restaurant,shopping,weather
+4784	9	SYSTEM	かしこまりました。天気予報は雨時々晴となっております。最低気温は25.9度、最高気温は33.4度になる予報です。	general,restaurant,shopping,weather
+4784	10	USER	ありがとうございます。	general,restaurant,shopping,weather
+4784	11	SYSTEM	いえいえ。こちらこそご利用ありがとうございました。	general,restaurant,shopping,weather

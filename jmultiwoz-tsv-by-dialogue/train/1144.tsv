@@ -1,0 +1,32 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1144	0	USER	福岡へ旅行に行きたいのですが、買い物ができるところを探して欲しいです。	general,shopping,restaurant,taxi
+1144	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant,taxi
+1144	2	USER	アカチャンホンポ 福岡マリナタウン店というところを探しておりまして、営業されていますでしょうか。	general,shopping,restaurant,taxi
+1144	3	SYSTEM	はい。ございます。	general,shopping,restaurant,taxi
+1144	4	USER	そちらの定休日はいつになりますか？	general,shopping,restaurant,taxi
+1144	5	SYSTEM	定休日はございません。	general,shopping,restaurant,taxi
+1144	6	USER	ありがとうございます。あとは飲食店も探していた大体のですが。	general,shopping,restaurant,taxi
+1144	7	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant,taxi
+1144	8	USER	お好み焼きやたこ焼きが食べたいです。あとはできれば無料でWi-Fiが利用できるところがいいです。	general,shopping,restaurant,taxi
+1144	9	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping,restaurant,taxi
+1144	10	USER	であれば、特にジャンルは気にしないのでもう一度探していただけますか？	general,shopping,restaurant,taxi
+1144	11	SYSTEM	ではレカイエ オイスターバー JR博多シティ店はいかがですか。	general,shopping,restaurant,taxi
+1144	12	USER	ありがとうございます。そこにしようと思いますので住所を教えてください。	general,shopping,restaurant,taxi
+1144	13	SYSTEM	住所は福岡県福岡市博多区博多駅中央街1-1 JR博多シティ 10Fでございます。	general,shopping,restaurant,taxi
+1144	14	USER	では予約をお願いします。人数は4名で日時は11/2、12:20でお願いします。	general,shopping,restaurant,taxi
+1144	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は69011でございます。	general,shopping,restaurant,taxi
+1144	16	USER	ありがとうございます。当日タクシーを利用したくジャンボタクシーがあるところはありますか？	general,shopping,restaurant,taxi
+1144	17	SYSTEM	申し訳ございません。ジャンボタクシーに対応している会社がございません。いかがなさいますか。	general,shopping,restaurant,taxi
+1144	18	USER	なるほど、ではジャンボタクシーでなくても大丈夫です。	general,shopping,restaurant,taxi
+1144	19	SYSTEM	では第一タクシー（有）がございます。	general,shopping,restaurant,taxi
+1144	20	USER	ではそこでお願いします。念のため、そのタクシー会社の電話番号を教えてください。	general,shopping,restaurant,taxi
+1144	21	SYSTEM	電話番号は0120775931でございます。	general,shopping,restaurant,taxi
+1144	22	USER	ありがとうございます。それでは予約をお願いします。詳細は、11/2、10:40出発で出発地はアカチャンホンポ 福岡マリナタウン店、目的地はレカイエ オイスターバー JR博多シティ店まででお願いします。	general,shopping,restaurant,taxi
+1144	23	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,shopping,restaurant,taxi
+1144	24	USER	出発時間を11:20にずらしたらいけそうでしょうか。	general,shopping,restaurant,taxi
+1144	25	SYSTEM	その時間ですと予約が可能でございました。予約番号は88060でございます。	general,shopping,restaurant,taxi
+1144	26	USER	ありがとうございます。	general,shopping,restaurant,taxi
+1144	27	SYSTEM	ほかにご用件はございますか。	general,shopping,restaurant,taxi
+1144	28	USER	特にありません。	general,shopping,restaurant,taxi
+1144	29	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant,taxi
+1144	30	USER		general,shopping,restaurant,taxi

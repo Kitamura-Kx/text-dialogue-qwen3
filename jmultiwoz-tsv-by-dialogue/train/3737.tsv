@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3737	0	USER	札幌へ旅行しようと思っているのですがベッドハウス・山小屋・カプセルホテルのような簡易宿所を探しています。	general,hotel
+3737	1	SYSTEM	承知しました。では、エリアでいうと中央区にある、Sappolodgeはいかがでしょう？	general,hotel
+3737	2	USER	そこがいいです。駐車場とレストランはありますか？あとチェックインは何時からですか？	general,hotel
+3737	3	SYSTEM	はい、併設のレストランはございますが、駐車場の有無は不明です。チェックイン開始時刻は15時となります。	general,hotel
+3737	4	USER	大変助かりました！以上です。どうもありがとうございました。	general,hotel
+3737	5	SYSTEM	ありがとうございました。	general,hotel

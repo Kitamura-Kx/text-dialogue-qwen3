@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4027	0	USER	福岡への旅行を計画中で、宿泊施設を探しています。	general,hotel,shopping,attraction
+4027	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,hotel,shopping,attraction
+4027	2	USER	はい、レストラン付きで予算は高すぎず普通が良いです。	general,hotel,shopping,attraction
+4027	3	SYSTEM	かしこまりました。では、博多の奥座敷 椎原温泉 割烹旅館みはる荘はいかがでしょうか？	general,hotel,shopping,attraction
+4027	4	USER	そこにしようと思います。チェックアウト終了時刻を教えてください。	general,hotel,shopping,attraction
+4027	5	SYSTEM	はい。午前10:00でございます。	general,hotel,shopping,attraction
+4027	6	USER	ありがとうございます。7/30に3名で4泊予約して欲しいのですが、可能でしょうか。	general,hotel,shopping,attraction
+4027	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、63624です。	general,hotel,shopping,attraction
+4027	8	USER	ありがとうございます。当日買い物をしようと考えていて、無料駐車場付きの商店街を探しているのですが、ありますか？	general,hotel,shopping,attraction
+4027	9	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,hotel,shopping,attraction
+4027	10	USER	分かりました。では、買い物ができれば商店街でなくても構いません。	general,hotel,shopping,attraction
+4027	11	SYSTEM	かしこまりました。であれば博多リバレインなんてどうですか？	general,hotel,shopping,attraction
+4027	12	USER	そこにしようと思います。最寄り駅と、最寄駅からの所要時間を教えてください。	general,hotel,shopping,attraction
+4027	13	SYSTEM	はい。最寄り駅の中洲川端駅から徒歩で1分でございます。	general,hotel,shopping,attraction
+4027	14	USER	ありがとうございます。当日、住吉神社を訪れる予定なのですが最寄り駅はわかりますか？	general,hotel,shopping,attraction
+4027	15	SYSTEM	はい。最寄り駅は博多駅です。	general,hotel,shopping,attraction
+4027	16	USER	助かりました。ありがとうございます。	general,hotel,shopping,attraction
+4027	17	SYSTEM	ほかにお調べすることはありますか？	general,hotel,shopping,attraction
+4027	18	USER	いえ、大丈夫です。ありがとうございました。	general,hotel,shopping,attraction
+4027	19	SYSTEM	かしこまりました。ありがとうございました。	general,hotel,shopping,attraction
+4027	20	USER	では、失礼します。	general,hotel,shopping,attraction

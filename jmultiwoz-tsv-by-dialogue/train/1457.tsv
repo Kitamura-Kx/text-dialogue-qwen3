@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1457	0	USER	札幌へ旅行に行くんですが、買い物ができるところを探してください。	general,shopping,restaurant,weather
+1457	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant,weather
+1457	2	USER	南区にある百貨店や総合スーパーでお願いします。あと、駐車場が無料のところがいいです。	general,shopping,restaurant,weather
+1457	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping,restaurant,weather
+1457	4	USER	では地区はどこでも大丈夫です！	general,shopping,restaurant,weather
+1457	5	SYSTEM	ではアリオ札幌はいかがでしょうか。	general,shopping,restaurant,weather
+1457	6	USER	いいですね！営業時間を教えてください。	general,shopping,restaurant,weather
+1457	7	SYSTEM	営業時間は09:00～22:00でございます。	general,shopping,restaurant,weather
+1457	8	USER	ありがとうございます。予算が安めの飲食店も探していただけますか？	general,shopping,restaurant,weather
+1457	9	SYSTEM	ではそば処 叶庵はいかがでしょうか。	general,shopping,restaurant,weather
+1457	10	USER	すみません、ラーメン・つけ麺が食べたいです。あと駐車場が無料のところでお願いします。	general,shopping,restaurant,weather
+1457	11	SYSTEM	ではらーめん黒山がございます。	general,shopping,restaurant,weather
+1457	12	USER	ありがとうございます。電話番号は分かりますか？	general,shopping,restaurant,weather
+1457	13	SYSTEM	電話番号は0118561705でございます。	general,shopping,restaurant,weather
+1457	14	USER	では予約もお願いします！2/7の13時に4人で行きたいです。	general,shopping,restaurant,weather
+1457	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は7348でございます。	general,shopping,restaurant,weather
+1457	16	USER	ありがとうございます。2/7の白石区の気温は分かりますか？	general,shopping,restaurant,weather
+1457	17	SYSTEM	最低気温が-7.6度で、最高気温が-1度でございます。	general,shopping,restaurant,weather
+1457	18	USER	わかりました！ありがとうございました。	general,shopping,restaurant,weather
+1457	19	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant,weather

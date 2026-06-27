@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4126	0	USER	名古屋に旅行に行こうと思っています、中村区にある安めの宿泊施設を教えてください	general,hotel,attraction
+4126	1	SYSTEM	かしこまりました。ではチサンイン名古屋はいかがでしょうか。	general,hotel,attraction
+4126	2	USER	ありがとうございます、wifiの有無とチェックインの開始時刻を教えて下しあ	general,hotel,attraction
+4126	3	SYSTEM	Wi-Fiは無料でご利用いただけます。チェックイン開始時刻は15:00でございます。	general,hotel,attraction
+4126	4	USER	ありがとうございます、塩釜口駅付近で駐車場を無料で利用できる観光名所はありますか	general,hotel,attraction
+4126	5	SYSTEM	はい。では塩竈神社はいかがですか。	general,hotel,attraction
+4126	6	USER	近辺の駅からの所要時間を教えてください	general,hotel,attraction
+4126	7	SYSTEM	こちら塩釜口駅から徒歩で10分でございます。	general,hotel,attraction
+4126	8	USER		general,hotel,attraction

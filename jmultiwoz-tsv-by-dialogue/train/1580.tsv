@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1580	0	USER	あの、すいません。	general,taxi
+1580	1	SYSTEM	ご利用ありがとうございます。本日はどういったご用件でしょうか？	general,taxi
+1580	2	USER	福岡でキャッシュレス対応しているタクシー会社はありますか？	general,taxi
+1580	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,taxi
+1580	4	USER	分かりました、キャッシュレス対応してなくても良いのでどこかご紹介できるタクシー会社はありますか？	general,taxi
+1580	5	SYSTEM	はい、ございます。（有）春吉タクシーはいかがでしょうか？こちらでしたら、ジャンボタクシーをご利用いただけますよ。	general,taxi
+1580	6	USER	ジャンボタクシーいいですね、念のため電話番号を伺ってもよろしいでしょうか？	general,taxi
+1580	7	SYSTEM	電話番号は、0924778484です。ご予約はなさいますか？	general,taxi
+1580	8	USER	はい、2/2の13:00に鉄板焼みたき桜坂というところから七輪焼肉ふくの牛 大濠店まで予約お願いしてもよろしいでしょうか？	general,taxi
+1580	9	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,taxi
+1580	10	USER	なるほど、14:00だとどうでしょうか？	general,taxi
+1580	11	SYSTEM	予約完了いたしました。予約番号は、53500です。	general,taxi
+1580	12	USER	ありがとうございます、これでお話以上となります。	general,taxi
+1580	13	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,taxi

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3062	0	USER	もうすぐ名古屋へ旅行する予定です。Wi-Fiと駐車場が無料で使える観光名所を教えて下さい。	general,attraction,shopping
+3062	1	SYSTEM	かしこまりました。では、トヨタ産業技術記念館はいかがでしょうか？	general,attraction,shopping
+3062	2	USER	良さそうですね。そちらの住所を教えて下さい。	general,attraction,shopping
+3062	3	SYSTEM	はい。住所は愛知県名古屋市西区則武新町4丁目1-35になります。	general,attraction,shopping
+3062	4	USER	ありがとうございます。最寄り駅と、料金情報も教えて下さい。	general,attraction,shopping
+3062	5	SYSTEM	はい。最寄り駅は栄生駅で、料金情報としては、大人が500円、65歳以上の方と中高生は300円で、小学生は200円となっております。	general,attraction,shopping
+3062	6	USER	ありがとうございます。その日に中村区で買い物もしようと思っています。駐車場が無料のお店を教えてください。	general,attraction,shopping
+3062	7	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,attraction,shopping
+3062	8	USER	そうですか。では、駐車場は無くても大丈夫です。	general,attraction,shopping
+3062	9	SYSTEM	それでしたら、ミッドランドスクエアはいかがですか？	general,attraction,shopping
+3062	10	USER	行ってみたいです。電話番号と、近くの駅からどれくらいかかるか教えて下さい。	general,attraction,shopping
+3062	11	SYSTEM	はい。電話番号は0525278877です。近辺の駅からの所要時間は、名鉄名古屋駅と近鉄名古屋駅から徒歩で3分、名古屋駅から徒歩で5分となっております。	general,attraction,shopping
+3062	12	USER	ありがとうございました。助かりました。それでは失礼します。	general,attraction,shopping

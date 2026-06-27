@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1506	0	USER	こんにちは。札幌に行こうと思ってて、北区で産業観光のジャンルの観光名所はありますか？	general,attraction,shopping
+1506	1	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,attraction,shopping
+1506	2	USER	ではジャンルは何でも大丈夫なので、何か北区で観光名所があったら教えてください。	general,attraction,shopping
+1506	3	SYSTEM	はい、北海道大学がございます。ジャンルはその他となります。	general,attraction,shopping
+1506	4	USER	ありがとうございます。北海道大学の、定休日、電話番号、料金情報を教えていただけますか？	general,attraction,shopping
+1506	5	SYSTEM	はい、電話番号は、0117162111、定休日はございません。料金情報は無料、となります。	general,attraction,shopping
+1506	6	USER	ありがとうございます。あと、厚別区で駐車場が無料で使えて買い物ができるところってありますか？	general,attraction,shopping
+1506	7	SYSTEM	申し訳ありません。この条件ではご紹介できません。いかが致しましょう？	general,attraction,shopping
+1506	8	USER	そうなんですね。では北区で駐車場が無料で使えて買い物ができるところがあったら教えてください。	general,attraction,shopping
+1506	9	SYSTEM	では、パセオはいかがでしょう。ジャンルはショッピングモールとなります。	general,attraction,shopping
+1506	10	USER	ありがとうございます。そこに行ってみようと思います。パセオの、営業時間、近辺の駅からの所要時間、最寄り駅を教えてください。	general,attraction,shopping
+1506	11	SYSTEM	はい、営業時間は10時から21時、最寄りの札幌駅から徒歩で1分となります。	general,attraction,shopping
+1506	12	USER	ありがとうございます。	general,attraction,shopping
+1506	13	SYSTEM	他にご用件はございますか？	general,attraction,shopping
+1506	14	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,shopping
+1506	15	SYSTEM	ありがとうございました。	general,attraction,shopping

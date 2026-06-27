@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3027	0	USER	大阪へ行くんですが、駐車場が無料で、Wi-Fiも無料の飲食店はありますか？	general,restaurant
+3027	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant
+3027	2	USER	じゃあ、駐車場はなくてもいいです。	general,restaurant
+3027	3	SYSTEM	かしこまりました。では、ミゲルフアニ なんばダイニングメゾン店はいかがでしょうか？	general,restaurant
+3027	4	USER	ありがとうございます。そこはどこのエリアになりますか？最寄り駅も教えてください。	general,restaurant
+3027	5	SYSTEM	はい。エリアは中央区です。最寄り駅は難波駅になります。	general,restaurant
+3027	6	USER	ありがとうございます。そこの料金も教えてもらえますか？	general,restaurant
+3027	7	SYSTEM	はい。料金情報としては、例えばミゲルセットが1980円とあります。	general,restaurant
+3027	8	USER	ありがとうございます。以上です。	general,restaurant
+3027	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

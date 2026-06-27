@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3087	0	USER	札幌の新道東駅周辺で食事できる場所教えて下さい。Wi-Fi無料なところお願いします。	general,restaurant
+3087	1	SYSTEM	新道東でWiFi無料な飲食店といえば、CAFE VOIZ、こちらです。	general,restaurant
+3087	2	USER	料金情報お願いします。	general,restaurant
+3087	3	SYSTEM	オーガニックコーヒー410円、バニラアイスがとろける、ふわもち！フルーツフレンチトースト840円、たっぷり! 釜あげシラスと大葉の和風パスタ950円、こんな感じです。	general,restaurant
+3087	4	USER	では、2/9、13：50,4人で予約お願いします。	general,restaurant
+3087	5	SYSTEM	予約成功しました。予約番号は59072です。	general,restaurant
+3087	6	USER	ありがとうございました。失礼します。	general,restaurant
+3087	7	SYSTEM	よい旅を。	general,restaurant

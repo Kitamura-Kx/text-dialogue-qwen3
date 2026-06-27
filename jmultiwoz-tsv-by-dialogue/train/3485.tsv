@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3485	0	USER	京都旅行するから飲食店を探してください！	general,restaurant,attraction,taxi
+3485	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,attraction,taxi
+3485	2	USER	Wi-Fiが無料で使えて、ジャンルは洋食・西洋料理がいいです	general,restaurant,attraction,taxi
+3485	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,attraction,taxi
+3485	4	USER	じゃあWi-Fi使えなくてもいいです	general,restaurant,attraction,taxi
+3485	5	SYSTEM	ではバル agiyaoはいかがでしょうか。	general,restaurant,attraction,taxi
+3485	6	USER	そこにします！あと観光名所を探してほしいんだけど	general,restaurant,attraction,taxi
+3485	7	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,attraction,taxi
+3485	8	USER	左京区で探してくれますか？	general,restaurant,attraction,taxi
+3485	9	SYSTEM	申し訳ございません。左京区で案内できるところがございませんでした。	general,restaurant,attraction,taxi
+3485	10	USER	じゃあ、左京区じゃなくてもいいです。	general,restaurant,attraction,taxi
+3485	11	SYSTEM	では京都市東部文化会館はいかがでしょうか。	general,restaurant,attraction,taxi
+3485	12	USER	そこにしてみます。あと株式会社エコロ２１というタクシー会社について聞きたいのですが	general,restaurant,attraction,taxi
+3485	13	SYSTEM	かしこまりました。お知りになりたい情報がございますか。	general,restaurant,attraction,taxi
+3485	14	USER	キャッシュレス対応してるかと電話番号とジャンボタクシーに対応しているかの3つです。	general,restaurant,attraction,taxi
+3485	15	SYSTEM	キャッシュレス、ジャンボタクシー共に対応しております。電話番号は0758032228でございます。	general,restaurant,attraction,taxi
+3485	16	USER	わかりました！予約したいのでお願いします	general,restaurant,attraction,taxi
+3485	17	SYSTEM	かしこまりました。ご予約の詳細をお聞かせいただけますか。	general,restaurant,attraction,taxi
+3485	18	USER	2/7の12:00、バル agiyaoから京都市東部文化会館でお願いします	general,restaurant,attraction,taxi
+3485	19	SYSTEM	はい。予約が完了いたしました。予約番号は72329でございます。	general,restaurant,attraction,taxi
+3485	20	USER	たすかりました。ありがとうございました！	general,restaurant,attraction,taxi
+3485	21	SYSTEM	ほかにご用件はございませんか。	general,restaurant,attraction,taxi
+3485	22	USER	ないです。ありがとうございました	general,restaurant,attraction,taxi
+3485	23	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,taxi

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1114	0	USER	札幌でレストラン併設の宿泊施設を探してください。Wi-Fiが無料で利用できるところだといいのですが。	general,hotel,weather,taxi
+1114	1	SYSTEM	承知しました。他にご希望はございますか？	general,hotel,weather,taxi
+1114	2	USER	他の希望は特にありません。	general,hotel,weather,taxi
+1114	3	SYSTEM	では、エリアでいうと中央区にある、ホテルクラビーサッポロはいかがでしょう？タイプはシティホテルとなります。	general,hotel,weather,taxi
+1114	4	USER	よさそうですね。近辺の駅からの所要時間はわかりますか？	general,hotel,weather,taxi
+1114	5	SYSTEM	はい、最寄りのバスセンター前駅から徒歩で5分となります。	general,hotel,weather,taxi
+1114	6	USER	わかりました。当日の天候を調べてください。10/12の清田区の天気と気温が知りたいです。	general,hotel,weather,taxi
+1114	7	SYSTEM	承知しました。天気は晴、最低気温7.1度、最高気温16.6度となります。	general,hotel,weather,taxi
+1114	8	USER	ありがとう。当日使えるタクシー会社が知りたいです。キャッシュレス払いできるタクシー会社を探してもらえますか？	general,hotel,weather,taxi
+1114	9	SYSTEM	申し訳ありません。キャッシュレス対応のタクシー会社はございません。いかが致しましょう？	general,hotel,weather,taxi
+1114	10	USER	そうですか。では、キャッシュレスは使えなくてもいいので、どこか探してもらえますか？	general,hotel,weather,taxi
+1114	11	SYSTEM	では、新雪交通(株)はいかがでしょう？ジャンボタクシーには対応しております。電話番号は、0118647811となります。	general,hotel,weather,taxi
+1114	12	USER	では、そちらで予約をお願いできますか？10/12の14:50に、定山渓 鶴雅リゾートスパ 森の謌からホテルクラビーサッポロまでで頼みたいです。	general,hotel,weather,taxi
+1114	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、16285となります。	general,hotel,weather,taxi
+1114	14	USER	ありがとうございます。助かりました。	general,hotel,weather,taxi

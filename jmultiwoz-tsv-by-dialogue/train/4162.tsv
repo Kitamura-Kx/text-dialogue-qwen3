@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4162	0	USER	福岡に旅行に行こうと思っています。当日買い物ができるところを探しています。地区は南区が希望です。	general,shopping,restaurant,hotel
+4162	1	SYSTEM	そうしますと、サンプルRIKIというお店が1件ございます。高宮駅からバスで26分ほどの、文房具・雑貨, お土産, その他ジャンルのお店ですが、いかがでしょうか？	general,shopping,restaurant,hotel
+4162	2	USER	そこが良さそうですね。そこの営業時間を教えてください。	general,shopping,restaurant,hotel
+4162	3	SYSTEM	営業時間は、10:00～16:00でございます。	general,shopping,restaurant,hotel
+4162	4	USER	そこは駐車場はありますか？	general,shopping,restaurant,hotel
+4162	5	SYSTEM	はい、無料のものがございます。	general,shopping,restaurant,hotel
+4162	6	USER	あと当日食事ができる飲食店を探しています。ジャンルは和食で最寄駅は天神駅が希望です。	general,shopping,restaurant,hotel
+4162	7	SYSTEM	かしこまりました。では、海山邸 天神店はいかがでしょうか？天神駅から徒歩で6分のお店でございます。	general,shopping,restaurant,hotel
+4162	8	USER	そこが良さそうです。そこの近辺の駅からの所要時間と料金情報とWi-Fiの有無を教えてください。	general,shopping,restaurant,hotel
+4162	9	SYSTEM	はい、こちらのお店は、天神駅から徒歩で6分の場所にございます。料金は、例えば、免疫向上 翁会席9900円、どんたくコース3850円、飲み放題付き 博多会席6600円などとなっております。WiFiのご提供につきましては、不明です。申し訳ありません。	general,shopping,restaurant,hotel
+4162	10	USER	そこに予約をしたいので人数は２人で日付は7/21時間は13:40で予約をお願いします。	general,shopping,restaurant,hotel
+4162	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、47179です。	general,shopping,restaurant,hotel
+4162	12	USER	あと当日泊まる宿泊施設を探しています。地区は東区が希望です。	general,shopping,restaurant,hotel
+4162	13	SYSTEM	そういたしましたら、The358 SORAはいかがでしょうか？	general,shopping,restaurant,hotel
+4162	14	USER	そこが良さそうですね。そこの値段帯と駐車場の有無を教えてください。	general,shopping,restaurant,hotel
+4162	15	SYSTEM	かしこまりました。お値段はお安めとなっております。駐車場は無料でご利用いただけます。	general,shopping,restaurant,hotel
+4162	16	USER	分かりました。ありがとうございます。	general,shopping,restaurant,hotel
+4162	17	SYSTEM	他になにか、ご用件はございませんか？	general,shopping,restaurant,hotel
+4162	18	USER	はい、大丈夫です。	general,shopping,restaurant,hotel
+4162	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,restaurant,hotel

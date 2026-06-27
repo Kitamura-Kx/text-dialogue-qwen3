@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+155	0	USER	こんばんは。名古屋旅行を考えているんですが、泊るところについて、少し調べていただいてもいいですか？	general,hotel,shopping
+155	1	SYSTEM	かしこまりました。	general,hotel,shopping
+155	2	USER	できれば旅館っぽいところが良いなと思っています。地域は中村区で、ありそうでしょうか？	general,hotel,shopping
+155	3	SYSTEM	はい。条件に当てはまるところが二件ございますがほかに何か条件はございますか。	general,hotel,shopping
+155	4	USER	では、wifiが無料なところで。	general,hotel,shopping
+155	5	SYSTEM	ではかね秀旅館はいかがでしょうか。	general,hotel,shopping
+155	6	USER	そうですね。そこは駐車場が用意されていますか？	general,hotel,shopping
+155	7	SYSTEM	有料ですが駐車場もございます。	general,hotel,shopping
+155	8	USER	いいですね。詳しい住所を伺ってもいいですか？	general,hotel,shopping
+155	9	SYSTEM	住所は愛知県名古屋市中村区名駅南1丁目10-2です。	general,hotel,shopping
+155	10	USER	チェックアウトは何時まででしょうか？	general,hotel,shopping
+155	11	SYSTEM	10:00となっております。	general,hotel,shopping
+155	12	USER	そこで2名で予約を取りたいんですが、お願いできますか？	general,hotel,shopping
+155	13	SYSTEM	かしこまりました。宿泊の日付と宿泊日数を教えていただけますか。	general,hotel,shopping
+155	14	USER	はい。2月の8日から3泊でお願いします。	general,hotel,shopping
+155	15	SYSTEM	予約が完了いたしました。予約番号は58597でございます。	general,hotel,shopping
+155	16	USER	ありがとうございます。あともう一つ、買い物場所も探したくて。	general,hotel,shopping
+155	17	SYSTEM	はい。条件はございますか。	general,hotel,shopping
+155	18	USER	港区あたりのお店でお願いします。	general,hotel,shopping
+155	19	SYSTEM	Maker's Pierというショッピングモールはいかがですか。	general,hotel,shopping
+155	20	USER	良さそうですね。お休みの日とかあるんでしょうか？	general,hotel,shopping
+155	21	SYSTEM	定休日は不定休となっております。	general,hotel,shopping
+155	22	USER	分かりました。今日はありがとうございました。	general,hotel,shopping
+155	23	SYSTEM	ほかに用件はございませんか。	general,hotel,shopping
+155	24	USER	はい、もう大丈夫です。また何かあったらよろしくお願いします。	general,hotel,shopping

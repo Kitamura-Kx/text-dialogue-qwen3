@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1854	0	USER	大阪に旅行するのですが、Wi-Fi無料の宿泊施設はありますか？	general,hotel,weather
+1854	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,weather
+1854	2	USER	いいえ、Wi-Fi以外に特に条件はありません。	general,hotel,weather
+1854	3	SYSTEM	かしこまりました。では、ホテル阪急レスパイア大阪はいかがでしょうか？タイプはリゾートホテルになります。	general,hotel,weather
+1854	4	USER	リゾートホテル、いいですね。ではそのホテルの住所を教えて頂けますか？	general,hotel,weather
+1854	5	SYSTEM	はい。住所は大阪府大阪市北区大深町1-1です。	general,hotel,weather
+1854	6	USER	あと天候も教えて欲しいです。9/3 東淀川区のお天気と、最高気温を教えてください。	general,hotel,weather
+1854	7	SYSTEM	かしこまりました。9/3の東淀川区の天気予報は曇となっております。最低気温は18.9度、最高気温は26.5度になる予報です。	general,hotel,weather
+1854	8	USER	今調べたいことは以上です。ありがとうございました。	general,hotel,weather
+1854	9	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

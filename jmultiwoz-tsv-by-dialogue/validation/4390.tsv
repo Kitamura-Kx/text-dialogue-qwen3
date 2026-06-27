@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4390	0	USER	今度大阪へ行くんですが、Wi-Fiが無料のシティホテルを探してもらえますか？	general,hotel,weather
+4390	1	SYSTEM	かしこまりました。では、大阪キャッスルホテルはいかがでしょうか。	general,hotel,weather
+4390	2	USER	そこはレストランが併設されていますか？	general,hotel,weather
+4390	3	SYSTEM	はい。レストランも併設されております。	general,hotel,weather
+4390	4	USER	わかりました。ではそこの近辺の駅からの所要時間とエリアも教えてください。	general,hotel,weather
+4390	5	SYSTEM	天満橋駅から徒歩で1分、エリアは中央区でございます。	general,hotel,weather
+4390	6	USER	ありがとうございます。あと、6/15の都島区の最低気温も教えてください。	general,hotel,weather
+4390	7	SYSTEM	当日の最低気温は16.7度でございます。	general,hotel,weather
+4390	8	USER	ありがとうございました。以上で結構です。	general,hotel,weather
+4390	9	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

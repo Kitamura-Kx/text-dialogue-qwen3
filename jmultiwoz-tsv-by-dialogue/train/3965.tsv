@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3965	0	USER	那覇への旅行を計画していて、当日の宿泊施設を探しています。真和志地区でレストランが併設されているところが良いです。	general,hotel,shopping,weather
+3965	1	SYSTEM	かしこまりました。それではホテルロイヤルオリオンはいかがでしょうか？	general,hotel,shopping,weather
+3965	2	USER	ありがとうございます。そこの料金情報、値段帯は分かりますか？	general,hotel,shopping,weather
+3965	3	SYSTEM	値段帯は安めでございます。料金情報はございません。申し訳ありません。	general,hotel,shopping,weather
+3965	4	USER	ありがとうございます。では予約をお願いしたいのですが、11/30から２泊、4人で予約をお願い出来ますか？	general,hotel,shopping,weather
+3965	5	SYSTEM	お待たせ致しました。予約番号14106でお取りさせていただきました。	general,hotel,shopping,weather
+3965	6	USER	ありがとうございます。当日買い物が出来るところも探しています。駐車場無料のショッピングモールがいいです。	general,hotel,shopping,weather
+3965	7	SYSTEM	かしこまりました。それではサンエー那覇メインプレイスはいかがでしょうか？	general,hotel,shopping,weather
+3965	8	USER	ありがとうございます。サンエー那覇メインプレイスの定休日と電話番号は分かりますか？	general,hotel,shopping,weather
+3965	9	SYSTEM	はい、定休日は無しで、電話番号は0989513300でございます。	general,hotel,shopping,weather
+3965	10	USER	ありがとうございます。当日の天気も知りたいです。11/30の真和志地区の最低気温，最高気温を教えて貰えますか？	general,hotel,shopping,weather
+3965	11	SYSTEM	はい、当日の天気は曇、最低気温は20.6度、最高気温は23.3度の予報でございます。	general,hotel,shopping,weather
+3965	12	USER	ありがとうございました。	general,hotel,shopping,weather
+3965	13	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,shopping,weather

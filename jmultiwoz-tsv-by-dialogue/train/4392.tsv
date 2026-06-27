@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4392	0	USER	今度京都へ行くんですが、レストランが併設されているビジネスホテルで、予算高めのところはありますか？	general,hotel,taxi,weather
+4392	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,taxi,weather
+4392	2	USER	そうですか。じゃあ予算はこだわりません。	general,hotel,taxi,weather
+4392	3	SYSTEM	ではアパヴィラホテル〈京都駅前〉がございます。	general,hotel,taxi,weather
+4392	4	USER	ありがとうございます。そこはWi-Fiは使えますか？	general,hotel,taxi,weather
+4392	5	SYSTEM	はい。無料でお使いいただけます。	general,hotel,taxi,weather
+4392	6	USER	わかりました。あとジャンボタクシーが利用できるタクシー会社を探してもらえますか？	general,hotel,taxi,weather
+4392	7	SYSTEM	はい。エムケイ株式会社がございます。こちらキャッシュレスにも対応しております。	general,hotel,taxi,weather
+4392	8	USER	ありがとうございます。そこの電話番号も教えてください。	general,hotel,taxi,weather
+4392	9	SYSTEM	電話番号は0757784141でございます。	general,hotel,taxi,weather
+4392	10	USER	ありがとうございます。では予約をお願いできますか？5/1の10：30に、アパヴィラホテル〈京都駅前〉を出発して、THE GENERAL KYOTO 高辻富小路まで利用したいです。	general,hotel,taxi,weather
+4392	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は10509でございます。	general,hotel,taxi,weather
+4392	12	USER	ありがとうございます。あと、5/1の右京区の最高気温と最低気温もわかりますか？	general,hotel,taxi,weather
+4392	13	SYSTEM	最低気温が12.7度、最高気温が22.8度でございます。	general,hotel,taxi,weather
+4392	14	USER	ありがとうございました。以上で結構です。	general,hotel,taxi,weather
+4392	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi,weather

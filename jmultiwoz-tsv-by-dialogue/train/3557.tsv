@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3557	0	USER	東京で買い物ができるところを探してください。	general,shopping,hotel,restaurant
+3557	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,hotel,restaurant
+3557	2	USER	駐車場を無料で利用できるところにしてください。地区は板橋区です。	general,shopping,hotel,restaurant
+3557	3	SYSTEM	ではイオン板橋ショッピングセンターがございます。	general,shopping,hotel,restaurant
+3557	4	USER	営業時間，最寄り駅を教えてください。	general,shopping,hotel,restaurant
+3557	5	SYSTEM	営業時間は09:00～22:00で、最寄り駅が東武練馬駅でございます。	general,shopping,hotel,restaurant
+3557	6	USER	当日泊まる宿泊施設を探してください。レストランが併設されているところにしてください。宿のタイプは旅館です。	general,shopping,hotel,restaurant
+3557	7	SYSTEM	では行燈旅館はいかがでしょうか。	general,shopping,hotel,restaurant
+3557	8	USER	電話番号を教えてもらえますか。	general,shopping,hotel,restaurant
+3557	9	SYSTEM	電話番号は0338738611でございます。	general,shopping,hotel,restaurant
+3557	10	USER	肉汁水餃子 餃包 新宿店という飲食店で食事をする予定です。住所，駐車場の有無がわかりますか。	general,shopping,hotel,restaurant
+3557	11	SYSTEM	はい。住所は東京都新宿区新宿3丁目35-13裕永ビル3Fで、駐車場の有無は不明でございます。	general,shopping,hotel,restaurant
+3557	12	USER	解決しました。ありがとうございました。	general,shopping,hotel,restaurant
+3557	13	SYSTEM	ありがとうございました。	general,shopping,hotel,restaurant

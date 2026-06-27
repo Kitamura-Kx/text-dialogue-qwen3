@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1858	0	USER	京都へ旅行する予定ですが、梅小路京都西駅周辺に、駐車場無料の宿泊施設はありますか？	general,hotel,weather
+1858	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,weather
+1858	2	USER	では、駐車場はなくてもかまわないです。	general,hotel,weather
+1858	3	SYSTEM	かしこまりました。では、ザ ロイヤルパークホテル 京都梅小路はいかがでしょうか？	general,hotel,weather
+1858	4	USER	そのホテルに、レストランは併設されていますか？	general,hotel,weather
+1858	5	SYSTEM	はい。ございます。	general,hotel,weather
+1858	6	USER	では予約をお願いします。人数は３名、3/23から４泊したいです。	general,hotel,weather
+1858	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel,weather
+1858	8	USER	では、３泊でもかまいません。いかがでしょうか？	general,hotel,weather
+1858	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、11114です。	general,hotel,weather
+1858	10	USER	ありがとうございます。あと3/23 南区の最低気温はわかりますか？	general,hotel,weather
+1858	11	SYSTEM	かしこまりました。3/23の南区の最低気温は　9.9度になる予報です。	general,hotel,weather
+1858	12	USER	わかりました。今日のお願いは以上です。ありがとうございました。	general,hotel,weather
+1858	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

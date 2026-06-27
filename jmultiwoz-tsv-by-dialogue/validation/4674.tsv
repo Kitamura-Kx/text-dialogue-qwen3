@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4674	0	USER	京都でジャンルがイタリアン・フレンチの飲食店はありますか？	general,restaurant
+4674	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant
+4674	2	USER	そうですか。ではジャンルを郷土料理にしたらありますか？	general,restaurant
+4674	3	SYSTEM	では、あーぐうるがございます。	general,restaurant
+4674	4	USER	そのお店はWi-Fiはありますか？	general,restaurant
+4674	5	SYSTEM	Wi－Fiの有無は不明でございます。	general,restaurant
+4674	6	USER	わかりました。ありがとうございました。	general,restaurant
+4674	7	SYSTEM	本日はありがとうございました。	general,restaurant

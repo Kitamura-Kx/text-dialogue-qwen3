@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+58	0	USER	京都へ行こうと思うんですが、色々教えてもらってもいいですか？	general,shopping,attraction,taxi
+58	1	SYSTEM	京都ですね。承知致しました。	general,shopping,attraction,taxi
+58	2	USER	買い物でもしようかと思っていましてね、お店を探してもらいたくて。	general,shopping,attraction,taxi
+58	3	SYSTEM	はい、50件ほどございますが、エリアやジャンルなどのご希望はございますか？	general,shopping,attraction,taxi
+58	4	USER	ココカラファイン アバンティ店というお店があるか、調べてもらえます？	general,shopping,attraction,taxi
+58	5	SYSTEM	はい、南区にございます。	general,shopping,attraction,taxi
+58	6	USER	何時から何時までやってますか？	general,shopping,attraction,taxi
+58	7	SYSTEM	営業時間は、10:00～21:00となっております。	general,shopping,attraction,taxi
+58	8	USER	電話番号もいいですか？	general,shopping,attraction,taxi
+58	9	SYSTEM	はい、電話番号は、0756718966となります。	general,shopping,attraction,taxi
+58	10	USER	ありがとうございます。すみません、京都の、どのあたりにあるんでしたっけ？	general,shopping,attraction,taxi
+58	11	SYSTEM	こちらの住所は、京都市南区東九条西山王町31番地です。	general,shopping,attraction,taxi
+58	12	USER	エリアでいうと？	general,shopping,attraction,taxi
+58	13	SYSTEM	エリアは南区ですね。京都駅から徒歩で1分となります。	general,shopping,attraction,taxi
+58	14	USER	なるほど、ありがとうございます。あと観光もしたくて、蓮華寺ってところがあるらしいんですが。	general,shopping,attraction,taxi
+58	15	SYSTEM	はい、左京区にございます。	general,shopping,attraction,taxi
+58	16	USER	左京区エリアにあるんですね？	general,shopping,attraction,taxi
+58	17	SYSTEM	はい、さようでございます。	general,shopping,attraction,taxi
+58	18	USER	わかりました。それと、ジャンボタクシーを使いたいんで、会社を探してほしいんですが。	general,shopping,attraction,taxi
+58	19	SYSTEM	承知致しました。 株式会社エコロ２１はいかがでしょう？ ジャンボタクシーに対応しております。	general,shopping,attraction,taxi
+58	20	USER	ありがとうございます。そこにしようと思うんですが、支払いは現金のみでしょうか？	general,shopping,attraction,taxi
+58	21	SYSTEM	いえ、キャッシュレスに対応しております。	general,shopping,attraction,taxi
+58	22	USER	便利ですね。電話番号をうかがっても？	general,shopping,attraction,taxi
+58	23	SYSTEM	はい、電話番号は、0758032228となります。	general,shopping,attraction,taxi
+58	24	USER	そしたら、予約までしてもらえますか？12月10日午前11時50分発で、さっきのココカラファイン アバンティ店から蓮華寺で。	general,shopping,attraction,taxi
+58	25	SYSTEM	承知致しました。 ご予約完了致しました。 予約番号は、77751　となります。	general,shopping,attraction,taxi
+58	26	USER	ありがとうございます。これで聞きたかったことは全部聞けました。	general,shopping,attraction,taxi
+58	27	SYSTEM	承知致しました。ありがとうございました。	general,shopping,attraction,taxi

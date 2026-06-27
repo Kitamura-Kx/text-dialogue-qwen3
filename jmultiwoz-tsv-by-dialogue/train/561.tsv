@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+561	0	USER	東京へ旅行に行くので、当日泊まる宿泊施設を探してもらえますか？	general,hotel
+561	1	SYSTEM	承知しました。宿のタイプやエリアなどのご希望はございますか？	general,hotel
+561	2	USER	宿のタイプは簡易宿所（ベッドハウス・山小屋・カプセルホテル等）を希望します。また、便利なのでレストランが併設されているとうれしいです。	general,hotel
+561	3	SYSTEM	ありがとうございます。それでは、ファーストキャビン愛宕山はいかがでしょう？エリアは港区、値段帯は安めとなります。	general,hotel
+561	4	USER	ではそちらでお願いします。電話番号と近辺の駅からの所要時間も教えて頂けないでしょうか。	general,hotel
+561	5	SYSTEM	はい、電話番号は、0334331126、近辺の御成門駅から徒歩で5分となります。	general,hotel
+561	6	USER	ありがとうございます。そちらで予約をお願いできますか？人数は2人で日付は2/25です。4泊でお願いします。	general,hotel
+561	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、22709となります。	general,hotel
+561	8	USER	ありがとうございました。	general,hotel

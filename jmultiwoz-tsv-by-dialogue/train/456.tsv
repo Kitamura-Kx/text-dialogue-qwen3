@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+456	0	USER	東京へ旅行に行く予定なのですが、買い物できるところはありますか？	general,shopping,weather
+456	1	SYSTEM	はい、50件ほど候補がございます。なにかご希望の条件など、ございませんか？	general,shopping,weather
+456	2	USER	商店街で駐車場を無料で利用できるところがいいです。	general,shopping,weather
+456	3	SYSTEM	申し訳ございません。その条件では候補が見つかりませんでした。	general,shopping,weather
+456	4	USER	わかりました。それではジャンルはなんでも大丈夫です。	general,shopping,weather
+456	5	SYSTEM	ありがとうございます。そういたしますと、ポケモンセンターメガトウキョーはいかがでしょうか？ジャンルは、文房具・雑貨, おもちゃ, お土産となります。	general,shopping,weather
+456	6	USER	そこにします。エリアとしてはどこになりますか？	general,shopping,weather
+456	7	SYSTEM	豊島区エリアにございます。	general,shopping,weather
+456	8	USER	了解です。当日の天候を知りたいのですが、豊島区の4/4はどうですか？	general,shopping,weather
+456	9	SYSTEM	4/4の豊島区の天気予報は雨となっております。最低気温は11度、最低気温は22.9度になる予想です。	general,shopping,weather
+456	10	USER	わかりました。ありがとうございます。	general,shopping,weather
+456	11	SYSTEM	他になにかお調べすることなどございませんか？	general,shopping,weather
+456	12	USER	大丈夫です。ありがとうございました。	general,shopping,weather
+456	13	SYSTEM	ご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,shopping,weather

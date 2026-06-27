@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1905	0	USER	こんにちは。那覇へ旅行するので、観光名所を探しています。銭湯やスパで、Wi-Fiと駐車場無料の所はありますか？	general,attraction
+1905	1	SYSTEM	かしこまりました。では、ゆんたくあしび温泉 りっかりっか湯がございます。	general,attraction
+1905	2	USER	楽しそうなところですね。そこへ行きたいので、料金情報，大人入場料，最寄り駅を教えてもらえますか？	general,attraction
+1905	3	SYSTEM	タオル持参の昔ながらのお風呂コースが平日大人で1,050円、小学生550円、3～6歳が350円になります。休日ですと大人が1,300円　小学生で700円、3～6歳が450円 でございます。何も持たずにはいれるおまかせ手ぶらコースが平日大人で1,450円、小学生が850円、休日だと大人が1,600円で小学生が1,000円となります。コースにより異なるとのことでございます。	general,attraction
+1905	4	USER	ありがとうございます。色々あるんですね。すみませんが、最寄り駅を教えてもらえますか？	general,attraction
+1905	5	SYSTEM	失礼いたしました。大人の入場料が1600円で、最寄り駅は牧志駅でございます。	general,attraction
+1905	6	USER	大人の入場料も色々変わるのですよね？	general,attraction
+1905	7	SYSTEM	さようでございます。	general,attraction
+1905	8	USER	ありがとうございます。助かりました。	general,attraction
+1905	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

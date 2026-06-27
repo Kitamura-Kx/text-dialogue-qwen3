@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+911	0	USER	那覇への旅行を計画しているのですが。	general,attraction,hotel
+911	1	SYSTEM	はい、なにかご希望がございますか。	general,attraction,hotel
+911	2	USER	当当日行ける観光名所を探してほしいです。地区は小禄で,駐車場とWi-Fiが無料で利用できるところがいいです。	general,attraction,hotel
+911	3	SYSTEM	でしたら那覇空港はいかがですか。	general,attraction,hotel
+911	4	USER	いいですね。そちらの近辺の駅からの所要時間と最寄り駅，子供入場料について教えて欲しいです。	general,attraction,hotel
+911	5	SYSTEM	近辺の駅からの所要時間は那覇空港駅から徒歩で6、最寄り駅は那覇空港駅で、入場料は無料です。	general,attraction,hotel
+911	6	USER	ありがとうございます。あと、宿泊施設も探して欲しくて。本庁地区で最寄り駅が奥武山公園駅で予算は安めの施設はありませんか。	general,attraction,hotel
+911	7	SYSTEM	すみません、そちらの条件に合う施設はありません。	general,attraction,hotel
+911	8	USER	でしたら、地区は小禄でおねがいします。	general,attraction,hotel
+911	9	SYSTEM	でしたらHOTEL OROXはいかがでしょうか。	general,attraction,hotel
+911	10	USER	いいですね。タイプと駐車場の有無について教えて欲しいです。	general,attraction,hotel
+911	11	SYSTEM	タイプはその他で、駐車場の有無は有り(有料)になります。	general,attraction,hotel
+911	12	USER	ありがとうございました。	general,attraction,hotel

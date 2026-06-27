@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1152	0	USER	こんにちは！今度、東京に行こうかと思ってるので、いくつか案内をお願いします。	general,restaurant,attraction,weather
+1152	1	SYSTEM	かしこまりました。何かお知りになりたい情報はございますか。	general,restaurant,attraction,weather
+1152	2	USER	えっと、WiFiが無料で使える飲食店を探してまして。予算は高めのところが良いです。	general,restaurant,attraction,weather
+1152	3	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,restaurant,attraction,weather
+1152	4	USER	そうなんですね。じゃぁWiFiは考えなくて大丈夫です！	general,restaurant,attraction,weather
+1152	5	SYSTEM	ではプティマルシェはいかがでしょうか。	general,restaurant,attraction,weather
+1152	6	USER	ありがとうございます！そこの情報についてお聞きしたいんですけど、定休日と、営業時間と、駐車場があるかどうかってわかりますか？	general,restaurant,attraction,weather
+1152	7	SYSTEM	定休日は第一火, 第三火, 水, 祝日の前日で、営業時間は11:30～15:30, 17:00～20:00、駐車場はございません。	general,restaurant,attraction,weather
+1152	8	USER	そうなんですね！じゃぁ、そこを利用しようかと思うんですけど、４月14日の１４時３０分に、２人で予約ってお願いできますか？	general,restaurant,attraction,weather
+1152	9	SYSTEM	予約が完了いたしました。予約番号は27072でございます。	general,restaurant,attraction,weather
+1152	10	USER	ありがとうございます！あと、台東区にある、最寄り駅がとうきょうスカイツリー駅の観光名所も探してるんですけど、WiFiが無料で利用できるところって、どこかあります？	general,restaurant,attraction,weather
+1152	11	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,restaurant,attraction,weather
+1152	12	USER	そうなんですね。じゃぁ、地区は台東区に限らなくて大丈夫です！	general,restaurant,attraction,weather
+1152	13	SYSTEM	では東京スカイツリーはいかがでしょうか。	general,restaurant,attraction,weather
+1152	14	USER	良いですね！そこの、定休日と、営業時間、近辺の駅からの所要時間って、わかりますか？	general,restaurant,attraction,weather
+1152	15	SYSTEM	定休日はなしで、営業時間は10:00～21:00、近辺の駅からの所要時間はとうきょうスカイツリー駅から徒歩で1分、押上(スカイツリー前)駅から徒歩で7分でございます。	general,restaurant,attraction,weather
+1152	16	USER	ありがとうございます！じゃぁ、あと、４月14日の豊島区の天候についても案内お願いできますか？	general,restaurant,attraction,weather
+1152	17	SYSTEM	天気は雨時々晴で、最低気温は3.6度、最高気温は21.9度でございます。	general,restaurant,attraction,weather
+1152	18	USER	そうなんですね！わかりました。ありがとうございます！	general,restaurant,attraction,weather
+1152	19	SYSTEM	ほかにご用件はございますか。	general,restaurant,attraction,weather
+1152	20	USER	あとはもう大丈夫です。ありがとうございました！	general,restaurant,attraction,weather
+1152	21	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,weather

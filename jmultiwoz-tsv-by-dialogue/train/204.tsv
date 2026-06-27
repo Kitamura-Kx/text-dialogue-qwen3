@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+204	0	USER	仙台のシティホテルを教えてください。安めのところでいいです。無料で駐車場が使えるところを見つけてほしいんですけど。	general,hotel,weather
+204	1	SYSTEM	かしこまりました。その条件ですとホテル白萩がございます。	general,hotel,weather
+204	2	USER	チェックアウトは何時までになりますか？	general,hotel,weather
+204	3	SYSTEM	チェックアウト終了時刻は10:00でございます。	general,hotel,weather
+204	4	USER	ありがとうございます。ところで4月22日の青葉区の天候って分かりますか？	general,hotel,weather
+204	5	SYSTEM	はい。天気は雨のち晴、最低気温は5.7度、最高気温は14.9度となっております。	general,hotel,weather
+204	6	USER	けっこう寒いんですね。お世話様でした。	general,hotel,weather

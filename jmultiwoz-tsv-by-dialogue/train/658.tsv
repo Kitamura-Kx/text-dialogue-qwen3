@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+658	0	USER	すみません。横浜の観光名所を探してほしいのですが。	general,attraction,weather
+658	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction,weather
+658	2	USER	駐車場を無料で利用できるところで地区は南区がいいです。	general,attraction,weather
+658	3	SYSTEM	そういたしますと、1件ご案内可能です。弘明寺という場所ですが、いかがでしょうか？	general,attraction,weather
+658	4	USER	その観光地について、Wi-Fiの有無，近辺の駅からの所要時間を教えてください。	general,attraction,weather
+658	5	SYSTEM	WiFiの有無は不明となっております。最寄りの弘明寺駅からは徒歩2分でアクセスできます。	general,attraction,weather
+658	6	USER	1/5の天候を教えてください。地区は旭区です。	general,attraction,weather
+658	7	SYSTEM	かしこまりました。当日の天気は、曇り時々晴れの予報です。最低気温は7.4度、最高気温は8.7度になる予想です。	general,attraction,weather
+658	8	USER	よくわかりました。	general,attraction,weather
+658	9	SYSTEM	他にお調べすることはございますか？	general,attraction,weather
+658	10	USER	特にないです。ありがとうございました。	general,attraction,weather
+658	11	SYSTEM	では本日はご利用ありがとうございました。	general,attraction,weather

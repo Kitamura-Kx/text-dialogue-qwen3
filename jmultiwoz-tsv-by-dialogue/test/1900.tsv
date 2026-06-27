@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1900	0	USER	仙台へ旅行に行くのですが、無料駐車場がある観光名所を探してもらえますか？	general,attraction
+1900	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction
+1900	2	USER	そうですか。じゃあ駐車場はなくてもいいです。	general,attraction
+1900	3	SYSTEM	それでは、青葉城 本丸会館はいかがでしょうか？	general,attraction
+1900	4	USER	ありがとうございます。じゃあそこの料金と住所を教えてもらえますか。	general,attraction
+1900	5	SYSTEM	料金情報は、入場料として大人700円、中高生500円、小学生300円となっています。	general,attraction
+1900	6	USER	わかりました。あと住所も教えてください。	general,attraction
+1900	7	SYSTEM	住所は、宮城県仙台市青葉区川内1です。	general,attraction
+1900	8	USER	ありがとうございます。以上で結構です。	general,attraction
+1900	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

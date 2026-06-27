@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1015	0	USER	東京で駐車場とWi-Fiが無料の宿泊施設を探してます。予算が普通が良いです。	general,hotel,attraction,weather
+1015	1	SYSTEM	承知しました。1件、帝国ホテル東京がございます。何をご案内致しましょう？	general,hotel,attraction,weather
+1015	2	USER	そちらのホテルのエリアと電話番号を教えてください。	general,hotel,attraction,weather
+1015	3	SYSTEM	はい、エリアは千代田区、電話番号は0335041111となります。他にご案内が必要なことはございますか？	general,hotel,attraction,weather
+1015	4	USER	駐車場とWi-Fiが無料の観光名所も探しています。	general,hotel,attraction,weather
+1015	5	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,hotel,attraction,weather
+1015	6	USER	駐車場が有料でも大丈夫です。	general,hotel,attraction,weather
+1015	7	SYSTEM	ありがとうございます。では、東京スカイツリーはいかがでしょう？どのようなご案内が必要でしょうか？	general,hotel,attraction,weather
+1015	8	USER	最寄り駅と大人の入場料を教えてください。	general,hotel,attraction,weather
+1015	9	SYSTEM	はい、最寄り駅はとうきょうスカイツリー駅、駅からの所要時間は徒歩で1分となります。大人入場料は3400円となります。他にお困りなことはございますか？	general,hotel,attraction,weather
+1015	10	USER	ありがとうございます。あと天気も聞きたいです。7/17の渋谷区の天気を教えてください。	general,hotel,attraction,weather
+1015	11	SYSTEM	はい、天気は雨、最低気温18.2度、最高気温29.3度となります。他にご用件はございますか？	general,hotel,attraction,weather
+1015	12	USER	大丈夫です。ありがとうございました。	general,hotel,attraction,weather
+1015	13	SYSTEM	ありがとうございました。	general,hotel,attraction,weather

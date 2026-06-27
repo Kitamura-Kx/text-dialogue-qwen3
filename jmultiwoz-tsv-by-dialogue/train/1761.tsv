@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1761	0	USER	東京へ旅行に行くんですが、タクシー会社を探していただけますか？	general,taxi
+1761	1	SYSTEM	希望条件などは、ありますか？	general,taxi
+1761	2	USER	ジャンボタクシーを利用できるところで、キャッシュレス払いをしたいです。	general,taxi
+1761	3	SYSTEM	小金井交通は、いかがでしょうか？	general,taxi
+1761	4	USER	そこの電話番号は分かりますか？	general,taxi
+1761	5	SYSTEM	電話番号は、0423811482です。	general,taxi
+1761	6	USER	ありがとうございます。予約をお願いします！パーク ハイアット 東京を出発して、は二子玉川 蔦屋家電まで乗りたいです。	general,taxi
+1761	7	SYSTEM	ご希望の日時をお願いします。	general,taxi
+1761	8	USER	すみません目的地は、二子玉川 蔦屋家電でした。日時は、12/12の14時でお願いします。	general,taxi
+1761	9	SYSTEM	予約が完了しました。　予約番号は、13479です。	general,taxi
+1761	10	USER	ありがとうございます。	general,taxi
+1761	11	SYSTEM	他にご用件はありますか？	general,taxi
+1761	12	USER	これで大丈夫です。ありがとうございました。	general,taxi
+1761	13	SYSTEM	承知致しました。　ありがとうございました。	general,taxi

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4540	0	USER	仙台へ旅行しようと思っているのですがアウトレットモールで駐車場無料のところはありますか？	general,shopping,taxi,weather
+4540	1	SYSTEM	仙台には駐車場無料のアウトレットモールはなさそうです。	general,shopping,taxi,weather
+4540	2	USER	それでは食料品のお店でもいいです。	general,shopping,taxi,weather
+4540	3	SYSTEM	仙台で食料品、駐車場無料の店はいくつかありますが、仙台らしいところで、鐘崎 かまぼこの国 笹かま館、こちらをお勧めします。	general,shopping,taxi,weather
+4540	4	USER	面白そうです。そこの住所を教えて下さい！	general,shopping,taxi,weather
+4540	5	SYSTEM	宮城県仙台市若林区鶴代町6-65です。	general,shopping,taxi,weather
+4540	6	USER	ジャンボタクシーを利用したいのですが。	general,shopping,taxi,weather
+4540	7	SYSTEM	それならば、仙南タクシー（株）をおすすめします。	general,shopping,taxi,weather
+4540	8	USER	ありがとうございます。電話番号も教えて下さい。	general,shopping,taxi,weather
+4540	9	SYSTEM	0570021070です。	general,shopping,taxi,weather
+4540	10	USER	ありがとうございます。それではそこを予約して頂けますか？3/10の12:40でホテルニュー水戸屋アネックスから出発して鐘崎 かまぼこの国 笹かま館までです。	general,shopping,taxi,weather
+4540	11	SYSTEM	予約成功しました。予約番号は80715です。	general,shopping,taxi,weather
+4540	12	USER	ありがとうございます。ちなみに3/10の泉区の最高気温と天気はどうなりますか？	general,shopping,taxi,weather
+4540	13	SYSTEM	3/10 仙台 泉区 の天気は晴、最低気温6.1度、最高気温12.9度です。	general,shopping,taxi,weather
+4540	14	USER	大変助かりました！ありがとうございました。	general,shopping,taxi,weather

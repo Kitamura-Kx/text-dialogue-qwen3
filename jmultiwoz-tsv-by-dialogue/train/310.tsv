@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+310	0	USER	お願いします。	general,restaurant
+310	1	SYSTEM	おねがいします	general,restaurant
+310	2	USER	横浜への旅行を計画しています。当日、金香楼で食事をしたいのですが？	general,restaurant
+310	3	SYSTEM	ご予約いたしましょうか。	general,restaurant
+310	4	USER	金香楼の料金情報、値段帯を伺ってもいいですか？	general,restaurant
+310	5	SYSTEM	料金情報は横浜開港１６０周年記念特別コース『黒船コース』:4500円になります。値段帯は高めです。	general,restaurant
+310	6	USER	わかりました。予約はしなくて結構です。	general,restaurant
+310	7	SYSTEM	承知しました。	general,restaurant

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3678	0	USER	今度札幌に行くのですが、買い物ができるところを探しています。	general,shopping,weather
+3678	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,shopping,weather
+3678	2	USER	最寄り駅がロープウェイ入口停留所のところがいいのですが。	general,shopping,weather
+3678	3	SYSTEM	申し訳ございません。条件に合う買い物店舗は見つかりませんでした。	general,shopping,weather
+3678	4	USER	では、最寄り駅が新道東駅でも構いません。	general,shopping,weather
+3678	5	SYSTEM	かしこまりました。では、イオン札幌元町ショッピングセンターはいかがでしょうか？	general,shopping,weather
+3678	6	USER	ありがとうございます。そちらの住所と定休日を知りたいです。	general,shopping,weather
+3678	7	SYSTEM	はい。住所は北海道札幌市東区北31条東15丁目1-1で、定休日はありません。	general,shopping,weather
+3678	8	USER	ありがとうございます。あと、8/2の手稲区の天気が知りたいです。	general,shopping,weather
+3678	9	SYSTEM	かしこまりました。8/2の手稲区の天気予報は晴時々曇となっております。最低気温は21.9度、最高気温は28.6度になる予報です。	general,shopping,weather
+3678	10	USER	分かりました。以上です、ありがとうございました。	general,shopping,weather
+3678	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

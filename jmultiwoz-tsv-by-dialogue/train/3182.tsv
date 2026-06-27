@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3182	0	USER	那覇への旅行を計画していて、当日の観光名所を探しています。駐車場無料、Wi-Fi無料のところが希望です。	general,attraction,hotel
+3182	1	SYSTEM	かしこまりました。では、沖縄県立博物館・美術館はいかがでしょうか？	general,attraction,hotel
+3182	2	USER	ありがとうございます。そこの営業時間は分かりますか？	general,attraction,hotel
+3182	3	SYSTEM	はい。09:00～20:00になります。	general,attraction,hotel
+3182	4	USER	ありがとうございます。当日の宿泊施設も探しています。真和志地区のビジネスホテルが良いです。	general,attraction,hotel
+3182	5	SYSTEM	かしこまりました。では、沖縄サンプラザホテルはいかがでしょうか？	general,attraction,hotel
+3182	6	USER	ありがとうございます。そこの料金情報は分かりますか？	general,attraction,hotel
+3182	7	SYSTEM	値段帯が安めということくらいしか調べられませんでした。申し訳ございません。	general,attraction,hotel
+3182	8	USER	分かりました。ありがとうございました。	general,attraction,hotel
+3182	9	SYSTEM	ほかにお調べすることはありますか？	general,attraction,hotel
+3182	10	USER	いえ、他にはありません。ありがとうございました。	general,attraction,hotel
+3182	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel

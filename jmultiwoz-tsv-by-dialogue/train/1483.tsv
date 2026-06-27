@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1483	0	USER	那覇への旅行を計画中なのですが。駐車場とWiFiが無料の観光名所はありますか？エリアは真和志でお願いします。	general,attraction
+1483	1	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,attraction
+1483	2	USER	エリアが小禄ではどうでしょうか？	general,attraction
+1483	3	SYSTEM	ありがとうございます。那覇空港がございます。何かご案内致しましょうか？	general,attraction
+1483	4	USER	那覇空港の最寄り駅を教えてもらえますか？	general,attraction
+1483	5	SYSTEM	はい、最寄りの那覇空港駅から徒歩で6分となります。他にご案内できることはございますか？	general,attraction
+1483	6	USER	いえ大丈夫です、有難うございました。	general,attraction
+1483	7	SYSTEM	ありがとうございました。	general,attraction

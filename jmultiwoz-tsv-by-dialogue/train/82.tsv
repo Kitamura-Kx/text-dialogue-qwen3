@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+82	0	USER	こんばんは。	general,hotel
+82	1	SYSTEM	こんばんは。本日はどういったご用件でしょうか？	general,hotel
+82	2	USER	実は今、福岡へ旅行に行こうと思っていまして。 当日泊る宿泊施設を探しているんですが、どこか良い所はありますか？	general,hotel
+82	3	SYSTEM	福岡の宿泊施設でございますね。100件ほどあるのですが、なにかご希望の条件などございましたら、教えて頂けますでしょうか？	general,hotel
+82	4	USER	はい、予算だけなんですが、予算は高めのところを希望しています。	general,hotel
+82	5	SYSTEM	ありがとうございます。ご予算がお高めのところになりますと、3件ほどございます。グランド ハイアット 福岡、イヌヤド ‐愛犬と宿泊する小さなホテル‐、ソラリア西鉄ホテル福岡で気になる施設はございますか？	general,hotel
+82	6	USER	それでは、グランド ハイアット 福岡について教えていただきたいのですが、エリアと、最寄り駅はどちらになりますか？	general,hotel
+82	7	SYSTEM	かしこまりました。グランド ハイアット 福岡は、博多区エリアの施設になっております。最寄り駅は、博多駅です。	general,hotel
+82	8	USER	ありがとうございます！あと、Wi-Fiがあるかどうかについても、教えていただけますか？	general,hotel
+82	9	SYSTEM	はい、WiFiは無料でご提供しております。	general,hotel
+82	10	USER	ありがとうございます。あとは、大丈夫です。	general,hotel
+82	11	SYSTEM	お役に立てて幸いです。では、本日のご案内は以上とさせていただきます。ご利用ありがとうございました。	general,hotel

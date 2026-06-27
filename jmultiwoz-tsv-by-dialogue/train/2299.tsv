@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2299	0	USER	福岡へ旅行を計画しています。ジャンボタクシーを利用できるタクシー会社を調べてほしいです。	general,taxi
+2299	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,taxi
+2299	2	USER	それでは、ジャンボタクシーはなしで大丈夫です。	general,taxi
+2299	3	SYSTEM	ありがとうございます。そうしますと、五十川タクシー（有）はいかがでしょうか？	general,taxi
+2299	4	USER	そちらはキャッシュレス対応されていますか？	general,taxi
+2299	5	SYSTEM	はい、対応しております。	general,taxi
+2299	6	USER	それでは予約をお願いします。日時は10/15、15:00で出発地はEUROPEAN HOUSE REISENからセンチュリオンホテル CEN 福岡博多まででお願いします。	general,taxi
+2299	7	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょうか？	general,taxi
+2299	8	USER	それでは16:00でいかがですか？	general,taxi
+2299	9	SYSTEM	ありがとうございます。16:00にてご予約完了いたしました。予約番号は、38109です。	general,taxi
+2299	10	USER	ありがとうございます。以上です。	general,taxi
+2299	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

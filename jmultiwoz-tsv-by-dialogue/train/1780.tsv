@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1780	0	USER	こんにちは。京都へ旅行予定で、宿泊施設を探しています。東寺駅が最寄の、簡易宿所はどこかありますか？	general,hotel,restaurant,attraction
+1780	1	SYSTEM	申し訳ありません。その条件ではご紹介できません。いかが致しましょう？	general,hotel,restaurant,attraction
+1780	2	USER	そうですか、では東寺駅でなくてもよいので、探していただけますか？	general,hotel,restaurant,attraction
+1780	3	SYSTEM	エリアでいうと下京区にある、はる家 梅小路はいかがでしょう？	general,hotel,restaurant,attraction
+1780	4	USER	ありがとうございます。そちらは駐車場はありますか？	general,hotel,restaurant,attraction
+1780	5	SYSTEM	申し訳ありません。駐車場のご用意はございません。	general,hotel,restaurant,attraction
+1780	6	USER	レストランは併設されていますか？	general,hotel,restaurant,attraction
+1780	7	SYSTEM	申し訳ありません。併設のレストランもございません。	general,hotel,restaurant,attraction
+1780	8	USER	そうなんですね、大丈夫です。料金情報はどうなっていますか？	general,hotel,restaurant,attraction
+1780	9	SYSTEM	大変申し訳ありませんが、ご案内可能な料金情報もございません。	general,hotel,restaurant,attraction
+1780	10	USER	そうですか、大丈夫です。それと飲食店も探していただきたいのですが、中華料理でどこかいいところはありますか？	general,hotel,restaurant,attraction
+1780	11	SYSTEM	申し訳ありません、ご紹介可能な中華料理の飲食店はございません。いかが致しましょう？	general,hotel,restaurant,attraction
+1780	12	USER	そうなんですね。では中華料理じゃなくて大丈夫です。	general,hotel,restaurant,attraction
+1780	13	SYSTEM	他にご希望はございますか？	general,hotel,restaurant,attraction
+1780	14	USER	いえ、特に希望はありませんので、おすすめのところをお願いします。	general,hotel,restaurant,attraction
+1780	15	SYSTEM	エリアでいうと東山区にある、スコルピオーネ 祇園はいかがでしょう？ジャンルはイタリアン、フレンチ、となります。	general,hotel,restaurant,attraction
+1780	16	USER	よさそうですね。そちらの住所と、近辺の駅からの所要時間を教えてもらってもいいですか？	general,hotel,restaurant,attraction
+1780	17	SYSTEM	住所は京都府京都市東山区清本町381、最寄りの祇園四条駅から徒歩で6分となります。	general,hotel,restaurant,attraction
+1780	18	USER	ありがとうございます。それとすみません、観光名所も探しています。西京極駅が最寄で、駐車場無料のところはありますか？	general,hotel,restaurant,attraction
+1780	19	SYSTEM	申し訳ありません、その条件ではご紹介できません。いかが致しましょう？	general,hotel,restaurant,attraction
+1780	20	USER	そうですか。では西京極駅でなくてもいいので、お願いします。	general,hotel,restaurant,attraction
+1780	21	SYSTEM	エリアでいうと左京区にある、下鴨神社はいかがでしょう？ジャンルは、神社、寺院、教会、モニュメントなど、となります。	general,hotel,restaurant,attraction
+1780	22	USER	ありがとうございます。行ってみたいので、定休日を教えてもらえますか？	general,hotel,restaurant,attraction
+1780	23	SYSTEM	定休日はございません。	general,hotel,restaurant,attraction
+1780	24	USER	ありがとうございます。色々助かりました。	general,hotel,restaurant,attraction
+1780	25	SYSTEM	ありがとうございました。	general,hotel,restaurant,attraction

@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3574	0	USER	今度福岡へ行くんですが、中央区で無料駐車場がある買い物施設はありますか？	general,shopping,attraction,taxi
+3574	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,attraction,taxi
+3574	2	USER	そうですか。じゃあ地区にこだわらず探してください。	general,shopping,attraction,taxi
+3574	3	SYSTEM	ではトイザらス福岡香椎店はいかがですか。	general,shopping,attraction,taxi
+3574	4	USER	ありがとうございます。あと、西区の西新駅近くで無料駐車場がある観光名所はありますか？	general,shopping,attraction,taxi
+3574	5	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping,attraction,taxi
+3574	6	USER	そうですか。じゃあ姪浜駅付近でも探してもらえますか？	general,shopping,attraction,taxi
+3574	7	SYSTEM	ではマリノアシティ福岡がございます。	general,shopping,attraction,taxi
+3574	8	USER	ありがとうございます。そこはどういったジャンルのお店ですか？	general,shopping,attraction,taxi
+3574	9	SYSTEM	ジャンルはその他でございます。	general,shopping,attraction,taxi
+3574	10	USER	わかりました。あと大人入場料も教えてください。	general,shopping,attraction,taxi
+3574	11	SYSTEM	大人入場料は０円でございます。	general,shopping,attraction,taxi
+3574	12	USER	ありがとうございます。あと、キャッシュレス払いが利用できるタクシー会社を探してもらえますか？	general,shopping,attraction,taxi
+3574	13	SYSTEM	申し訳ございません。キャッシュレスに対応している会社がございません。いかがなさいますか。	general,shopping,attraction,taxi
+3574	14	USER	そうですか。じゃあキャッシュレスにはこだわらず探してください。	general,shopping,attraction,taxi
+3574	15	SYSTEM	では（有）春吉タクシーがございます。	general,shopping,attraction,taxi
+3574	16	USER	ありがとうございます。そこはジャンボタクシーの対応はありますか。	general,shopping,attraction,taxi
+3574	17	SYSTEM	はい。ジャンボタクシーには対応しております。	general,shopping,attraction,taxi
+3574	18	USER	ありがとうございます。ではタクシーの予約をお願いできますか？ 2/9の16：40にトイザらス福岡香椎店を出発してマリノアシティ福岡まで利用したいです。	general,shopping,attraction,taxi
+3574	19	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は11456でございます。	general,shopping,attraction,taxi
+3574	20	USER	ありがとうございました。以上で結構です。	general,shopping,attraction,taxi
+3574	21	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction,taxi

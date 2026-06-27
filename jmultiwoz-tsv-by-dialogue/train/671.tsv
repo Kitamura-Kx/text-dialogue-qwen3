@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+671	0	USER	大阪旅行をしたいのですが、利用できるタクシー会社を探しています。ジャンボタクシーを利用できるところが良いです。	general,taxi
+671	1	SYSTEM	では、大宝タクシー株式会社はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0647020011となります。	general,taxi
+671	2	USER	ありがとうございます。予約をしたいのですが、3/28の12：00から、出発地はなんばCITY、目的地はお好み たまちゃん ルクア大阪店でお願いできますか？	general,taxi
+671	3	SYSTEM	申し訳ありません、その条件では予約ができませんでした。いかが致しましょう？	general,taxi
+671	4	USER	では、13：00からではどうですか？	general,taxi
+671	5	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、35684となります。	general,taxi
+671	6	USER	ありがとうございました。	general,taxi
+671	7	SYSTEM	他にご用件はございますか？	general,taxi
+671	8	USER	ほかにはありません、ありがとうございました。	general,taxi

@@ -1,0 +1,43 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+55	0	USER	ちょっとお伺いしたいんですが。	general,restaurant,attraction,taxi
+55	1	SYSTEM	はい、どういったご用件でしょう？	general,restaurant,attraction,taxi
+55	2	USER	福岡で食事をしたくて。	general,restaurant,attraction,taxi
+55	3	SYSTEM	承知致しました。エリアやジャンルなど、なにかご希望はございますか？	general,restaurant,attraction,taxi
+55	4	USER	車を停めるのにお金がかからない店がいいです。	general,restaurant,attraction,taxi
+55	5	SYSTEM	無料駐車場のある飲食店は、17件ございます。 他にご希望はございますか？	general,restaurant,attraction,taxi
+55	6	USER	いや、ないです。	general,restaurant,attraction,taxi
+55	7	SYSTEM	では、レストラン サラフルはいかがでしょう？	general,restaurant,attraction,taxi
+55	8	USER	え？レストラン サラフルって店の名前？	general,restaurant,attraction,taxi
+55	9	SYSTEM	はい、さようでございます。	general,restaurant,attraction,taxi
+55	10	USER	あそうなんだ。どんなレストランなの？	general,restaurant,attraction,taxi
+55	11	SYSTEM	ジャンルとしては、洋食・西洋料理, 和食, 中華料理,となっており、福岡リーセントホテル 1階にございます。	general,restaurant,attraction,taxi
+55	12	USER	その店は、どの駅から行くと一番近いんでしょう？	general,restaurant,attraction,taxi
+55	13	SYSTEM	最寄駅は、箱崎宮前駅となっております。	general,restaurant,attraction,taxi
+55	14	USER	なるほどね。あとさ、能古島キャンプ村っていう観光地があるらしいんだけど。	general,restaurant,attraction,taxi
+55	15	SYSTEM	はい、西区にございます。	general,restaurant,attraction,taxi
+55	16	USER	そこの電話番号、教えてくれる？	general,restaurant,attraction,taxi
+55	17	SYSTEM	承知致しました。 電話番号は、0928810948となっております。	general,restaurant,attraction,taxi
+55	18	USER	住所と駅からどのぐらい時間がかかるかも知りたいな。	general,restaurant,attraction,taxi
+55	19	SYSTEM	住所は、福岡市西区能古島です。 最寄りの姪浜駅からの所要時間は、バスで15分となっております。	general,restaurant,attraction,taxi
+55	20	USER	あ、番地とかないんだ？	general,restaurant,attraction,taxi
+55	21	SYSTEM	申し訳ございません、こちらでお伝え可能な住所には、番地の記載がございません。	general,restaurant,attraction,taxi
+55	22	USER	分かった、分かった。あともう一個、聞きたいんだけど、いい？	general,restaurant,attraction,taxi
+55	23	SYSTEM	はい、どのようなご用件でしょう？	general,restaurant,attraction,taxi
+55	24	USER	ジャンボタクシーが使える会社はありそう？	general,restaurant,attraction,taxi
+55	25	SYSTEM	はい、何件かございます。	general,restaurant,attraction,taxi
+55	26	USER	その中で、ジャンボタクシーをお願いできるところが良いんだけど。	general,restaurant,attraction,taxi
+55	27	SYSTEM	では、福岡西鉄タクシー（株）はいかがでしょうか？	general,restaurant,attraction,taxi
+55	28	USER	うん、そこでいいんだけど、現金しか使えないかな？	general,restaurant,attraction,taxi
+55	29	SYSTEM	キャッシュレスにも対応しております。	general,restaurant,attraction,taxi
+55	30	USER	そうなんだ。えっと、なんていうタクシー会社だったっけ？	general,restaurant,attraction,taxi
+55	31	SYSTEM	福岡西鉄タクシー（株）でございます。	general,restaurant,attraction,taxi
+55	32	USER	そうそう、それね。電話番号も教えといてくれる？	general,restaurant,attraction,taxi
+55	33	SYSTEM	はい、電話番号は、0570010531になります。	general,restaurant,attraction,taxi
+55	34	USER	了解。でさ、予約までしてもらえるかな？1月5日の14時20分で。	general,restaurant,attraction,taxi
+55	35	SYSTEM	承知致しました。 出発地と目的地を教えていただけますか？	general,restaurant,attraction,taxi
+55	36	USER	さっき言った食事するところに来てもらって、能古島キャンプ村まで乗せてほしいんだけど。	general,restaurant,attraction,taxi
+55	37	SYSTEM	承知致しました。 ご予約完了致しました。 予約番号は、82134　となっております。	general,restaurant,attraction,taxi
+55	38	USER	ありがとう、今日は助かったよ。	general,restaurant,attraction,taxi
+55	39	SYSTEM	他にご用件はございますか？	general,restaurant,attraction,taxi
+55	40	USER	今のところ、特にないです。また何かあったら連絡します。	general,restaurant,attraction,taxi
+55	41	SYSTEM	承知致しました。ありがとうございました。	general,restaurant,attraction,taxi

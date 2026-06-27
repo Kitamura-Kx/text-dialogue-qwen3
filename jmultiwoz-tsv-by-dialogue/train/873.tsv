@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+873	0	USER	仙台へ旅行に行くのですがレストラン併設の旅館を探しています、駐車場無料でお願いします	general,hotel
+873	1	SYSTEM	かしこまりました。その条件に該当する施設は6件ございます。たとえば、伝承千年の宿 佐勘という旅館はいかがでしょうか？	general,hotel
+873	2	USER	そちらの値段帯を教えて下さい	general,hotel
+873	3	SYSTEM	値段帯は普通となっております。	general,hotel
+873	4	USER	わかりました、利用させてもらいます。	general,hotel
+873	5	SYSTEM	ありがとうございます。ご予約はなさいますか？	general,hotel
+873	6	USER	いえ大丈夫です	general,hotel
+873	7	SYSTEM	承知いたしました。ほかにお調べすることはございますか？	general,hotel
+873	8	USER	大丈夫です有難うございました	general,hotel
+873	9	SYSTEM	こちらこそ、ありがとうございます。またのご利用をお待ちしております。	general,hotel

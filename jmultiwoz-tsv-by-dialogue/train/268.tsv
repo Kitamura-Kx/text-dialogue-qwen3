@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+268	0	USER	横浜に行くんですけど、お土産の買い物ができるところのおすすめはありませんか？	general,shopping,weather
+268	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping,weather
+268	2	USER	そうなんですか？じゃあ、スポーツのお店だったらどうですか？	general,shopping,weather
+268	3	SYSTEM	それですとスポーツオーソリティ・MARK ISみなとみらい店がございます。	general,shopping,weather
+268	4	USER	そのお店の電話番号を教えてください。	general,shopping,weather
+268	5	SYSTEM	電話番号は0452272581でございます。	general,shopping,weather
+268	6	USER	ありがとうございます。ちなみに港南区の7月31日の天候ってどうなりそうですか？	general,shopping,weather
+268	7	SYSTEM	天気は晴のち雨、最低気温は23.2度、最高気温は24.3度となっております。	general,shopping,weather
+268	8	USER	一日おんなじあったかさですね。よくわかりました。お世話様でした。	general,shopping,weather

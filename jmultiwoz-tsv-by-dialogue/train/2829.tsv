@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2829	0	USER	大阪へ行くのですが、北区で飲食店を探しています。	general,restaurant,weather
+2829	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,restaurant,weather
+2829	2	USER	特にないですが、予算が普通のところがいいです。	general,restaurant,weather
+2829	3	SYSTEM	それでしたら、焼肉マル 北新地店という焼肉・ホルモンのお店はいかがでしょうか？	general,restaurant,weather
+2829	4	USER	いいですね。営業時間と電話番号を教えてください。	general,restaurant,weather
+2829	5	SYSTEM	営業時間は、17:00～翌朝5:00となっております。電話番号は、0663410257です。	general,restaurant,weather
+2829	6	USER	9/18の14:30で3人で予約をお願いしたいです。	general,restaurant,weather
+2829	7	SYSTEM	大変申し訳ございません。ご希望の条件では予約できませんでした。お時間など、ご調整いただくことは可能でしょうか？	general,restaurant,weather
+2829	8	USER	15:20だとどうですか？	general,restaurant,weather
+2829	9	SYSTEM	ありがとうございます。15:20にて、ご予約完了いたしました。予約番号は、3257です。	general,restaurant,weather
+2829	10	USER	ちなみに9/18、大正区の最高気温はどうなっていますか？	general,restaurant,weather
+2829	11	SYSTEM	当日の最高気温は、33.7度まで上がる見込みです。	general,restaurant,weather
+2829	12	USER	ありがとうございます。	general,restaurant,weather
+2829	13	SYSTEM	他にお調べすることはございませんか？	general,restaurant,weather
+2829	14	USER	特にないです。	general,restaurant,weather
+2829	15	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant,weather

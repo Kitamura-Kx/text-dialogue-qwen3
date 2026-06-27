@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4496	0	USER	福岡への旅行を計画していて、旅行当日の観光名所を探しています。駐車場無料、Wi-Fi無料のところでおすすめはありますか？	general,attraction
+4496	1	SYSTEM	申し訳ございません。観光名所で駐車場無料、Wi-Fi無料のところは見つかりません。	general,attraction
+4496	2	USER	そうですか。では、駐車場は有料でも良いです。	general,attraction
+4496	3	SYSTEM	海の中道海浜公園 動物の森は如何でしょう。ジャンルは動物園, 自然・公園となっております。	general,attraction
+4496	4	USER	ありがとうございます。そこにしようと思います。定休日とエリアが知りたいのですが、分かりますか？	general,attraction
+4496	5	SYSTEM	はい、定休日は年末年始, ２月第一月で、エリアは東区になります。	general,attraction
+4496	6	USER	ありがとうございました。	general,attraction
+4496	7	SYSTEM	ありがとうございます。	general,attraction

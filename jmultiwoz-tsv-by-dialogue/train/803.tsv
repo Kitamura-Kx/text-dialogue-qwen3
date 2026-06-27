@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+803	0	USER	札幌へ旅行予定なのですが、洋食・西洋料理の安めの飲食店で、駐車場を無料で利用できるところはありますか？	general,restaurant,weather,taxi
+803	1	SYSTEM	はい、2件ございます。たとえば、味処 こめます、という豊平区エリアのお店は如何でしょうか？	general,restaurant,weather,taxi
+803	2	USER	そこにします。当日の天候を知りたいのですが、7/20の東区の天候を教えてください。	general,restaurant,weather,taxi
+803	3	SYSTEM	かしこまりました。当日の天気は、雨のち晴れの予報となっております。最低気温は22度、最高気温は27.6度の予想です。	general,restaurant,weather,taxi
+803	4	USER	わかりました。タクシー利用も考えているのですが、ジャンボタクシーが利用できるところはありますか？	general,restaurant,weather,taxi
+803	5	SYSTEM	はい、12件ご案内可能です。たとえば、北都交通(株)でしたら、キャッシュレスのお支払いにも対応しておりますし、いかがでしょうか？	general,restaurant,weather,taxi
+803	6	USER	そこにします。電話番号を教えてください。	general,restaurant,weather,taxi
+803	7	SYSTEM	電話番号は、0112904181です。予約もなさいますか？	general,restaurant,weather,taxi
+803	8	USER	予約します。7/20の時間は13:00で、にほんいち水産直営 居酒屋あらた 本店から味処 こめますまででおねがいします。	general,restaurant,weather,taxi
+803	9	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。ご予約番号は、62544でございます。	general,restaurant,weather,taxi
+803	10	USER	了解です。ありがとうございます。	general,restaurant,weather,taxi
+803	11	SYSTEM	ほかにお調べすることはございますか？	general,restaurant,weather,taxi
+803	12	USER	いえ、大丈夫です。ありがとうございます。	general,restaurant,weather,taxi
+803	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,weather,taxi

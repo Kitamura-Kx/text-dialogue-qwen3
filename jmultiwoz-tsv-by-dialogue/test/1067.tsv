@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1067	0	USER	福岡へ旅行に行きたいので、お安めのビジネスホテルを探してもらえないでしょうか？	general,hotel,weather,taxi
+1067	1	SYSTEM	かしこまりました。他にご希望の条件がないようでしたら、スカイハートホテル博多というところはいかがでしょうか？	general,hotel,weather,taxi
+1067	2	USER	ありがとうございます。スカイハートホテル博多の最寄り駅はどこでしたか？	general,hotel,weather,taxi
+1067	3	SYSTEM	最寄り駅は、祇園駅です。徒歩3分の距離にございます。	general,hotel,weather,taxi
+1067	4	USER	分かりました。9/20なのですが、早良区の天気は良さそうですか？	general,hotel,weather,taxi
+1067	5	SYSTEM	申し訳ありません。当日の天気は、雨のち曇りの予報となっております。最低気温は21.2度、最高気温は27.7度でございます。	general,hotel,weather,taxi
+1067	6	USER	助かりました。当日はタクシーの利用もしたいのですが、ジャンボタクシーのある会社を案内してもらえますか？	general,hotel,weather,taxi
+1067	7	SYSTEM	かしこまりました。では、西日本自動車（株）はいかがでしょうか？	general,hotel,weather,taxi
+1067	8	USER	それでは西日本自動車（株）で9/20の配車予約を取りたいです。電話番号も分かりますか？	general,hotel,weather,taxi
+1067	9	SYSTEM	はい。電話番号は、0570075678です。ご予約ですが、ご利用予定の日の出発時刻、出発地、目的地もお願いできますでしょうか？	general,hotel,weather,taxi
+1067	10	USER	9/20の14:30にアメニティホテルin博多から乗車、行先はスカイハートホテル博多です。	general,hotel,weather,taxi
+1067	11	SYSTEM	かしこまりました。ご予約を承りました。予約番号は、53643です。	general,hotel,weather,taxi
+1067	12	USER	ありがとうございました、用件はこれで全てです。	general,hotel,weather,taxi
+1067	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,hotel,weather,taxi

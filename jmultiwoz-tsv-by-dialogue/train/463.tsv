@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+463	0	USER	仙台に行くので、タクシー会社を探してください。キャッシュレス対応のところがいいです。	general,taxi
+463	1	SYSTEM	かしこまりました。仙都タクシー（株）がございます。	general,taxi
+463	2	USER	ジャンボタクシーには対応していますか？	general,taxi
+463	3	SYSTEM	はい。ジャンボタクシーにも対応しております。	general,taxi
+463	4	USER	わかりました。電話番号を教えてください。	general,taxi
+463	5	SYSTEM	電話番号は0120023742でございます。	general,taxi
+463	6	USER	では、3/18の13:30に予約をお願いします。	general,taxi
+463	7	SYSTEM	では出発地と目的地を教えていただけますか。	general,taxi
+463	8	USER	出発地はラドン温泉・岩盤浴 旅館天龍閣で、目的地は蔦屋書店 仙台泉店でお願いします。	general,taxi
+463	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は22608でございます。	general,taxi
+463	10	USER	わかりました。ありがとうございます。	general,taxi

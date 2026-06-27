@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+562	0	USER	名古屋へ旅行に行くので、当日食事ができる飲食店を教えて頂けないでしょうか。	general,restaurant
+562	1	SYSTEM	承知しました。ジャンルなどのご希望はございますか？	general,restaurant
+562	2	USER	ジャンルの希望はありませんが、予算は普通くらいでお願いします。あと、駐車場を無料で利用できるところがいいです。	general,restaurant
+562	3	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,restaurant
+562	4	USER	それでは、予算の希望はなしで大丈夫です。どこかありそうでしょうか？	general,restaurant
+562	5	SYSTEM	ありがとうございます。それでは、うなぎの新甫はいかがでしょう？ジャンルは寿司、魚料理、和食になります。	general,restaurant
+562	6	USER	ではそちらでお願いします。最寄り駅、営業時間、近辺の駅からの所要時間をそれぞれ教えて頂けないでしょうか。	general,restaurant
+562	7	SYSTEM	はい、最寄りの今池駅から徒歩で10分、近辺の池下駅から徒歩で5分となります。営業時間は11時から14時30分と、16時30分から20時30分となります。	general,restaurant
+562	8	USER	ありがとうございました。	general,restaurant

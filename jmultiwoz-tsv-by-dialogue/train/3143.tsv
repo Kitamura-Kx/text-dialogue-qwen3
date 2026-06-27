@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3143	0	USER	横浜に行くのですが、駐車場無料な本屋さんありますか？	general,shopping
+3143	1	SYSTEM	はい、2件ご案内可能です。たとえば、ポポンデッタ横浜ビブレ店というお店が、ジャンルとしておもちゃ, 書籍, その他となっておりますが、いかがでしょうか？	general,shopping
+3143	2	USER	エリアはどの辺でしょうか？最寄り駅も教えて下さい。	general,shopping
+3143	3	SYSTEM	西区エリアにございます。最寄りは横浜駅で、徒歩で3分でアクセスできます。	general,shopping
+3143	4	USER	分かりました。営業時間は何時ですか？	general,shopping
+3143	5	SYSTEM	10:30～20:30です。	general,shopping
+3143	6	USER	ありがとうございました。では失礼します。	general,shopping
+3143	7	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,shopping

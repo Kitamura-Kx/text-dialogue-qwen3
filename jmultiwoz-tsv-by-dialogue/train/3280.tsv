@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3280	0	USER	那覇で、安めの予算で無料駐車場のある宿泊施設を探しています。	general,hotel,restaurant,attraction
+3280	1	SYSTEM	那覇で安め、無料駐車場有の宿泊施設はいくつかありますが、HOTEL MARUKI、こちらをオススメします。	general,hotel,restaurant,attraction
+3280	2	USER	そちらのホテルの最寄り駅はどこになりますか？	general,hotel,restaurant,attraction
+3280	3	SYSTEM	県庁前駅です。	general,hotel,restaurant,attraction
+3280	4	USER	あと、チェックインの開始時刻と電話番号も教えてもらえますか？	general,hotel,restaurant,attraction
+3280	5	SYSTEM	１５時チェックイン、電話番号は0988626135です。	general,hotel,restaurant,attraction
+3280	6	USER	ありがとうございます。真和志地区で食事ができる飲食店もどこかいいところありますか？	general,hotel,restaurant,attraction
+3280	7	SYSTEM	真和志地区の飲食店はいくつかありますが、沖縄らしい、沖縄炉端 ゆうなみ、こちらはいかがでしょうか？	general,hotel,restaurant,attraction
+3280	8	USER	そちらの最寄り駅はどこになりますか？	general,hotel,restaurant,attraction
+3280	9	SYSTEM	安里駅です。	general,hotel,restaurant,attraction
+3280	10	USER	ありがとうございます。同じ真和志地区で無料Wi-Fiと無料駐車場のある観光名所もどこか教えて下さい。	general,hotel,restaurant,attraction
+3280	11	SYSTEM	真和志地区でWiFiと駐車場が無料の観光名所といえば、ずばり、識名園、こちら一択です。	general,hotel,restaurant,attraction
+3280	12	USER	そちらのジャンルは何になりますか？	general,hotel,restaurant,attraction
+3280	13	SYSTEM	庭園, 歴史的建造物, 世界遺産です。	general,hotel,restaurant,attraction
+3280	14	USER	ありがとうございました。	general,hotel,restaurant,attraction
+3280	15	SYSTEM	よい旅を	general,hotel,restaurant,attraction

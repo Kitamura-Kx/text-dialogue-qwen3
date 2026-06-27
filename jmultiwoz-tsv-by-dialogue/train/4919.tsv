@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4919	0	USER	沖縄の那覇に行くのですが、宿泊施設の案内をお願いしたいです	general,hotel,restaurant
+4919	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,hotel,restaurant
+4919	2	USER	Wi-Fiが無料で、レストランがある場所がいいです	general,hotel,restaurant
+4919	3	SYSTEM	そうしますと、沖縄ハーバービューホテルという、本庁エリアにあるシティホテルはいかがでしょうか？	general,hotel,restaurant
+4919	4	USER	そこは駐車場は無料ですか？	general,hotel,restaurant
+4919	5	SYSTEM	申し訳ございません。こちらは有料となっております。無料駐車場のある場所をお探ししますか？	general,hotel,restaurant
+4919	6	USER	お願いします	general,hotel,restaurant
+4919	7	SYSTEM	かしこまりました。そうしましたら、ルートイングランティア那覇というビジネスホテルはいかがでしょうか？	general,hotel,restaurant
+4919	8	USER	では、そこにします。最寄り駅からどれくらいの時間かかりますか？	general,hotel,restaurant
+4919	9	SYSTEM	最寄りの旭橋駅から徒歩で12分ほどかかります。	general,hotel,restaurant
+4919	10	USER	あと、チェックインとチェックアウトの時間も教えてください	general,hotel,restaurant
+4919	11	SYSTEM	チェックインは１５時から、チェックアウトは朝１０時までとなっております。	general,hotel,restaurant
+4919	12	USER	では、そこで2人、1月14日から3泊で予約をお願いします	general,hotel,restaurant
+4919	13	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、67093です。	general,hotel,restaurant
+4919	14	USER	ありがとうございます。レストランの予約もしたいのですが、いいですか？	general,hotel,restaurant
+4919	15	SYSTEM	はい、かしこまりました。お食事ジャンルやエリアなど、何かご希望はございますか？	general,hotel,restaurant
+4919	16	USER	おもろまち駅近くで、Wi-Fiが無料の安めの場所がいいです	general,hotel,restaurant
+4919	17	SYSTEM	そうしますと、しゃぶ葉 那覇おもろまち店という和食のお店はいかがでしょうか？	general,hotel,restaurant
+4919	18	USER	いいですね。では、そこで1月14日16時20分から4人で予約してもらえますか？	general,hotel,restaurant
+4919	19	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、57413です。	general,hotel,restaurant
+4919	20	USER	以上です。どうも、ありがとうございました。	general,hotel,restaurant
+4919	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,restaurant

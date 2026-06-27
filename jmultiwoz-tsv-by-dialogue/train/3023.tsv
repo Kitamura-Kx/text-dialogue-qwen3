@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3023	0	USER	福岡へ行くんですが、無料駐車場がある宿泊施設を探しています。できれば予算は安めで、南福岡駅のあたりがいいです。	general,hotel,shopping
+3023	1	SYSTEM	かしこまりました。では、HOTEL AZ 福岡金の隈店はいかがでしょうか？	general,hotel,shopping
+3023	2	USER	ありがとうございます。そこは近辺の駅からの所要時間はどのくらいですか？	general,hotel,shopping
+3023	3	SYSTEM	はい。南福岡駅と雑餉隈駅からタクシーで10分です。また、福岡空港駅からタクシーで15分になります。	general,hotel,shopping
+3023	4	USER	ありがとうございます。ではそこの予約をお願いできますか？7/1から４泊で３名です。	general,hotel,shopping
+3023	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、7466です。	general,hotel,shopping
+3023	6	USER	ありがとうございます。あと、城南区で無料駐車場がある買い物施設も教えてください。	general,hotel,shopping
+3023	7	SYSTEM	申し訳ございません。条件に合う買い物店舗は見つかりませんでした。	general,hotel,shopping
+3023	8	USER	そうですか。じゃあ、地区にはこだわらないことにします。	general,hotel,shopping
+3023	9	SYSTEM	かしこまりました。では、ワッキー主基の里はいかがでしょうか？	general,hotel,shopping
+3023	10	USER	そこはどんなジャンルのお店ですか？	general,hotel,shopping
+3023	11	SYSTEM	はい。ジャンルは食料品です。	general,hotel,shopping
+3023	12	USER	そうなんですね。じゃあそこの営業時間と近辺の駅からの所要時間もおしえてもらえますか？	general,hotel,shopping
+3023	13	SYSTEM	はい。営業時間は08:00～16:00です。また、近辺の駅からの所要時間は西新駅からバスで36分となっております。	general,hotel,shopping
+3023	14	USER	ありがとうございました。以上で結構です。	general,hotel,shopping
+3023	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping

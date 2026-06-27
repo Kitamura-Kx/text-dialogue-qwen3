@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2788	0	USER	京都へ旅行へ行くのですが、居酒屋系の飲食店を探しています。	general,restaurant,weather
+2788	1	SYSTEM	承知しました。エリアでいうと右京区にある、カジュアル鉄板 大地はいかがでしょう？	general,restaurant,weather
+2788	2	USER	できれば値段が高めの飲食店がいいのですが	general,restaurant,weather
+2788	3	SYSTEM	申し訳ありません、値段帯が高めの居酒屋はございません。いかが致しましょう？	general,restaurant,weather
+2788	4	USER	居酒屋じゃないとどうなりますか？	general,restaurant,weather
+2788	5	SYSTEM	では、エリアでいうと下京区にある、すし岩はいかがでしょう？ジャンルは、寿司、魚料理となります。	general,restaurant,weather
+2788	6	USER	電話番号を教えてもらえませんか？	general,restaurant,weather
+2788	7	SYSTEM	はい、電話番号は0753719303となります。	general,restaurant,weather
+2788	8	USER	ありがとうございます。ちなみに7/17の山科区の最低気温はどのくらいですか？	general,restaurant,weather
+2788	9	SYSTEM	はい、天気は雨のち晴、最低気温18.4度、最高気温30度となります。他にご用件はございますか？	general,restaurant,weather
+2788	10	USER	特にないです。ありがとうございました。	general,restaurant,weather
+2788	11	SYSTEM	ありがとうございました。	general,restaurant,weather

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3668	0	USER	今度仙台に行くのですが、宿泊施設を探しています。	general,hotel
+3668	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel
+3668	2	USER	予算は安めがいいです。	general,hotel
+3668	3	SYSTEM	かしこまりました。では、ビジネス旅館 さとやはいかがでしょうか？	general,hotel
+3668	4	USER	そちらにレストランはありますか？	general,hotel
+3668	5	SYSTEM	申し訳ございません。レストランは無しとなっております。	general,hotel
+3668	6	USER	ありがとうございます。では、そちらの宿を、4/29で２名、３泊で予約をお願いできますか？	general,hotel
+3668	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel
+3668	8	USER	では、人数を１名にしてください。	general,hotel
+3668	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、94625です。	general,hotel
+3668	10	USER	ありがとうございます。以上です、お世話になりました。	general,hotel
+3668	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

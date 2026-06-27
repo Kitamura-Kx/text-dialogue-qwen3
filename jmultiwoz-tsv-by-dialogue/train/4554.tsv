@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4554	0	USER	東京へ旅行するのですが駐車場とWIFI無料の宿を探しています。	general,hotel
+4554	1	SYSTEM	2件みつかりました。The Okura Tokyoはいかがですか？	general,hotel
+4554	2	USER	ホテル内にレストランはありますよね。	general,hotel
+4554	3	SYSTEM	はい、レストランも併設されています。	general,hotel
+4554	4	USER	ありがとうございます。そこを予約して下さい。1/18から2泊で2名でお願いします。	general,hotel
+4554	5	SYSTEM	予約が完了しました。　予約番号は、71178になります。	general,hotel
+4554	6	USER	以上です。ありがとうございました。	general,hotel
+4554	7	SYSTEM	承知しました。ありがとうございました。	general,hotel

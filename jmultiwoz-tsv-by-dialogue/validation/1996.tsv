@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1996	0	USER	大阪への旅行を計画しているのですが、 当日利用できるタクシー会社を探してください．キャッシュレス払いとジャンボタクシーを利用できるところがいいです、	general,taxi
+1996	1	SYSTEM	相互タクシー株式会社はいかがでしょうか。	general,taxi
+1996	2	USER	そちらの電話番号を教えていただけますか。	general,taxi
+1996	3	SYSTEM	電話番号は0669315489になります。	general,taxi
+1996	4	USER	そちらで当日のタクシーを予約してください．日付は1/2で時間は10:00、出発地は沖縄ん家 てりとりーというところで目的地はアパヴィラホテル〈淀屋橋〉です。	general,taxi
+1996	5	SYSTEM	予約完了いたしました。予約番号は20144になります。	general,taxi
+1996	6	USER	ありがとうございます。	general,taxi

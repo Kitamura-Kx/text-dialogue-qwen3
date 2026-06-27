@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3662	0	USER	こんにちは。今度名古屋へ行くのですが、宿泊施設を探していただけますか？旅館で、レストランがあるといいのですが。	general,hotel,restaurant
+3662	1	SYSTEM	では、京屋旅館はいかがでしょうか？	general,hotel,restaurant
+3662	2	USER	いいですね。そちらは駐車場はありますか？	general,hotel,restaurant
+3662	3	SYSTEM	申し訳ありません、駐車場は無しになっています。　どうされますか？	general,hotel,restaurant
+3662	4	USER	ありがとうございます。なくても大丈夫です。その旅館はどちらのエリアにありますか？	general,hotel,restaurant
+3662	5	SYSTEM	エリアは、西区になります。	general,hotel,restaurant
+3662	6	USER	ありがとうございます。予約をお願いしたいです。5/3から4泊で、2名です。	general,hotel,restaurant
+3662	7	SYSTEM	予約出来ました。予約番号は、77559 です。	general,hotel,restaurant
+3662	8	USER	ありがとうございます。当日の飲食店も探したいのですが、千種区で普通の予算で行けそうなところはありますか？	general,hotel,restaurant
+3662	9	SYSTEM	とんちゃん横井は、いかがですか？	general,hotel,restaurant
+3662	10	USER	ありがとうございます。そこに行くことにしますので、予約をお願いします。5/3の12:10から、2名で取れそうですか？	general,hotel,restaurant
+3662	11	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,hotel,restaurant
+3662	12	USER	あ、そうなんですね。では1名だとどうでしょうか？	general,hotel,restaurant
+3662	13	SYSTEM	予約出来ました。予約番号は、39048になります。	general,hotel,restaurant
+3662	14	USER	ありがとうございます。お手数ですが、そのお店の住所を教えてもらえますか？	general,hotel,restaurant
+3662	15	SYSTEM	はい、住所は、愛知県名古屋市千種区今池5丁目10-5です。	general,hotel,restaurant
+3662	16	USER	ありがとうございました。お願いは以上です。	general,hotel,restaurant
+3662	17	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant

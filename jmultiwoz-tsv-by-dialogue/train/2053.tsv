@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2053	0	USER	札幌に行こうと思ってて、飲食店を探してます。南区で、駐車場を無料で使えるところがいいのですが。	general,restaurant,taxi
+2053	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,taxi
+2053	2	USER	わかりました。では場所はどこでもいいので、探してもらえますか？	general,restaurant,taxi
+2053	3	SYSTEM	かしこまりました。では、蕎麦切り 春のすけはいかがでしょうか？	general,restaurant,taxi
+2053	4	USER	いいですね。ありがとうございます。そのお店はWi-Fiありますか？	general,restaurant,taxi
+2053	5	SYSTEM	Wi-Fiの有無は不明となっております。ある店舗のほうがよかったですか？	general,restaurant,taxi
+2053	6	USER	いいえ、そのお店で大丈夫です。では、予約を、2人で4/20の11:40にお願いできますか？	general,restaurant,taxi
+2053	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,taxi
+2053	8	USER	では人数を1人に変更したら、予約できそうですか？	general,restaurant,taxi
+2053	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、19001です。	general,restaurant,taxi
+2053	10	USER	ありがとうございます。当日はタクシーを利用したいのですが、暁交通(株)っていうタクシー会社ってありますか？	general,restaurant,taxi
+2053	11	SYSTEM	はい。ありますよ。何かお調べしましょうか？	general,restaurant,taxi
+2053	12	USER	ジャンボタクシー対応、電話番号、キャッシュレス対応について教えてください。	general,restaurant,taxi
+2053	13	SYSTEM	ジャンボタクシーとキャッシュレスの両方に対応しています。電話番号は0117712632になります。	general,restaurant,taxi
+2053	14	USER	ありがとうございます。では、4/20の09:50に、出発地は先ほどの飲食店、目的地はセンチュリオンホテル&スパ札幌で、予約をお願いします。	general,restaurant,taxi
+2053	15	SYSTEM	申し訳ございません。先ほどの飲食店とは、蕎麦切り 春のすけでよろしかったですか？	general,restaurant,taxi
+2053	16	USER	はい。蕎麦切り 春のすけでお願いします。	general,restaurant,taxi
+2053	17	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,taxi
+2053	18	USER	では時間を10:50に変更でお願いします。	general,restaurant,taxi
+2053	19	SYSTEM	かしこまりました。ご予約承りました。予約番号は、63510です。	general,restaurant,taxi
+2053	20	USER	ありがとうございます。	general,restaurant,taxi
+2053	21	SYSTEM	他にご用件はありますか？	general,restaurant,taxi
+2053	22	USER	いえ、大丈夫です。ありがとうございました。	general,restaurant,taxi

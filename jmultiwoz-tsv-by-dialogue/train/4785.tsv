@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4785	0	USER	札幌の清田区の天候を調べてください。日付は5/14です。	general,weather,taxi
+4785	1	SYSTEM	かしこまりました。天気予報は曇となっております。最低気温は5.1度、最高気温は19.9度になる予報です。	general,weather,taxi
+4785	2	USER	分かりました。また、当日利用できるタクシー会社を調べてください。キャッシュレス払いでき、ジャンボタクシーを利用できるところでお願います。	general,weather,taxi
+4785	3	SYSTEM	かしこまりました。北都ベリアールサービス(株)はいかがですか？	general,weather,taxi
+4785	4	USER	はい。電話番号を教えてください。	general,weather,taxi
+4785	5	SYSTEM	はい。電話番号は0118202200です。	general,weather,taxi
+4785	6	USER	ありがとうございます。そこの予約をお願いします。日付は5/14で、時間は09:50です。出発地はエノテカドォーロ -札幌-というところで、目的地はイオン札幌元町ショッピングセンターというところです．	general,weather,taxi
+4785	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、30154です。	general,weather,taxi
+4785	8	USER	ありがとうございました。	general,weather,taxi
+4785	9	SYSTEM	こちらこそご利用ありがとうございました。	general,weather,taxi

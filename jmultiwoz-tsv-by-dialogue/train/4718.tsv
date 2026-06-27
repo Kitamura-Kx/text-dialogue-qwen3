@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4718	0	USER	名古屋へ旅行予定なのですが、レストランがあってWi-Fiが無料で使える宿泊施設を探してください。	general,hotel,weather
+4718	1	SYSTEM	ナゴヤグランドホテル ホテル メルパルク名古屋 三井ガーデンホテル名古屋プレミアはいかがですか？	general,hotel,weather
+4718	2	USER	ナゴヤグランドホテルにします。そちらのタイプと値段帯、あとエリアを教えてください。	general,hotel,weather
+4718	3	SYSTEM	シティホテルで、安めです。中村区にあります。	general,hotel,weather
+4718	4	USER	わかりました。あと、3/14の中区の天気も教えてください。	general,hotel,weather
+4718	5	SYSTEM	曇時々雨です。	general,hotel,weather
+4718	6	USER	ありがとうございます。もう大丈夫です。	general,hotel,weather
+4718	7	SYSTEM	ありがとうございました。	general,hotel,weather

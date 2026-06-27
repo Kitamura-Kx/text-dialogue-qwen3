@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+400	0	USER	仙台へ行こうと思っています。宮城野区にあって最寄り駅が榴ヶ岡駅の飲食店を探していただけますか？	general,restaurant
+400	1	SYSTEM	承知しました。サンパステル、イッてこい酒場ぱぐぱぐの2軒がございます。	general,restaurant
+400	2	USER	その中で予算が普通で利用できるところはありますでしょうか？	general,restaurant
+400	3	SYSTEM	そうしますと、イッてこい酒場ぱぐぱぐが適しているかと思います。住所は仙台市宮城野区宮城野1丁目1-34 川端ビル 101、電話番号は0222567829、最寄りの榴ヶ岡駅から徒歩で2分となります。	general,restaurant
+400	4	USER	わかりました。ありがとうございます。	general,restaurant
+400	5	SYSTEM	他にご用件はございますか？	general,restaurant
+400	6	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant

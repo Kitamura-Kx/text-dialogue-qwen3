@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3418	0	USER	こんにちは。今度福岡に行くのですが、どこか観光名所はありますか？	general,attraction,restaurant
+3418	1	SYSTEM	こんにちは。福岡の観光名所ですと、48件ほどございますが、何かこだわりなどはありますか？	general,attraction,restaurant
+3418	2	USER	教室・ワークショップ・体験ができるところがいいです。あと、最寄り駅が藤崎駅だと助かります。	general,attraction,restaurant
+3418	3	SYSTEM	申し訳ありません。その条件では、お探しすることが出来ませんでした。	general,attraction,restaurant
+3418	4	USER	では、最寄り駅は特にこだわりません。	general,attraction,restaurant
+3418	5	SYSTEM	かしこまりました。それでは、舞鶴公園はいかがでしょうか？	general,attraction,restaurant
+3418	6	USER	ありがとうございます。そちらのWi-Fiの有無と、電話番号、あと、エリアを教えていただけますか？	general,attraction,restaurant
+3418	7	SYSTEM	はい、Wi-Fiはご利用出来ません。電話番号は0927812153、エリアは中央区でございます。	general,attraction,restaurant
+3418	8	USER	ありがとうございます。あと、当日の飲食店を探しています。	general,attraction,restaurant
+3418	9	SYSTEM	ありがとうございます。福岡の飲食店ですと、108件ほどありますが、何かご希望はありますか？	general,attraction,restaurant
+3418	10	USER	そうですね、地区は東区です．駐車場を無料で利用できるところがいいです。あと、予算は高めで考えています。	general,attraction,restaurant
+3418	11	SYSTEM	お待たせ致しました。その条件でしたら、照鮨はいかがでしょうか？	general,attraction,restaurant
+3418	12	USER	そちらに行ってみようと思います。最寄り駅と料金情報を教えていただけますか	general,attraction,restaurant
+3418	13	SYSTEM	ありがとうございます。最寄り駅は雁ノ巣駅、料金情報は、寿司(竹)コースが2800円、寿司(松)コースが3800円でございます。	general,attraction,restaurant
+3418	14	USER	分かりました、以上です。お世話になりました。	general,attraction,restaurant
+3418	15	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,restaurant

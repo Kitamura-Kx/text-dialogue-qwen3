@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4112	0	USER	東京への旅行を計画しています。 観光名所として、展望台・タワーを探しています。	general,attraction,weather
+4112	1	SYSTEM	エリアでいうと新宿区にある、東京都庁はいかがでしょう？	general,attraction,weather
+4112	2	USER	大人入場料，営業時間，Wi-Fiの有無を教えてください。	general,attraction,weather
+4112	3	SYSTEM	営業時間は10時から17時30分で、大人入場料は必要なく、無料でご利用いただけます。申し訳ありません、Wi-Fiの有無は不明です。	general,attraction,weather
+4112	4	USER	あと、天気を調べてください。地区は葛飾区、日付は11/2です。	general,attraction,weather
+4112	5	SYSTEM	天気は曇、最低気温6.6度、最高気温21.1度となります。	general,attraction,weather
+4112	6	USER	解決しました。ありがとうございました。	general,attraction,weather

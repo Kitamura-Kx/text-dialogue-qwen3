@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3335	0	USER	大阪への旅行を計画中で、2/7の東淀川区の最高気温と天気を知りたいです。	general,weather,taxi
+3335	1	SYSTEM	2/7の東淀川区ですと、最高気温は15.7度。お天気は曇となっております。	general,weather,taxi
+3335	2	USER	ありがとうございます。当日キャッシュレス払いできるジャンボタクシーを探しているのですが、ありますか？	general,weather,taxi
+3335	3	SYSTEM	申し訳ございません、ご希望の条件では該当ございませんでした。いかがいたしましょうか？	general,weather,taxi
+3335	4	USER	分かりました。では、キャッシュレス払い対応でなくても結構です。	general,weather,taxi
+3335	5	SYSTEM	かしこまりました。そうしますと、ナショナルタクシー株式会社を含む６件ございます。いかがでしょうか？	general,weather,taxi
+3335	6	USER	ナショナルタクシー株式会社にしようと思います。2/7の午前11:00に、赤から あべのハルカスダイニング店からなんばオリエンタルホテルまで予約して欲しいのですが、可能でしょうか。	general,weather,taxi
+3335	7	SYSTEM	申し訳ございません、ご予約が取れませんでした。いかがいたしましょうか？	general,weather,taxi
+3335	8	USER	分かりました。では、時間を午前11:50に変更してください。	general,weather,taxi
+3335	9	SYSTEM	承知いたしました。それでは、2/7の午前11:50に、赤から あべのハルカスダイニング店からなんばオリエンタルホテルまでご予約承ります。ご予約番号は、51741でございます。	general,weather,taxi
+3335	10	USER	助かります。ありがとうございます。	general,weather,taxi
+3335	11	SYSTEM	ありがとうございました。	general,weather,taxi
+3335	12	USER	では、失礼します。	general,weather,taxi

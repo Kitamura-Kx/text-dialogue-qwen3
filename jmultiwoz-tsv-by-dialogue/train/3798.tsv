@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3798	0	USER	札幌への旅行を考えているのですが、当日のタクシー会社を探してもらえますか？	general,taxi
+3798	1	SYSTEM	かしこまりました。ジャンボタクシーなどのご利用予定はございませんか？	general,taxi
+3798	2	USER	はい、ジャンボタクシーでキャッシュレス払いができるタクシー会社が良いです。	general,taxi
+3798	3	SYSTEM	では、暁交通(株)はいかがでしょうか？	general,taxi
+3798	4	USER	お願いします。電話番号を教えてもらえますか？	general,taxi
+3798	5	SYSTEM	はい、電話番号は、0117712632でございます。	general,taxi
+3798	6	USER	7/22の午後1:30に、うなぎ 仲じまから地酒ノ酒屋 愉酒屋までお願いできますか？	general,taxi
+3798	7	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、4200です。	general,taxi
+3798	8	USER	ありがとうございます。	general,taxi
+3798	9	SYSTEM	他にお手伝いすることはございませんか？	general,taxi
+3798	10	USER	はい、大丈夫です。ありがとうございました。	general,taxi
+3798	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

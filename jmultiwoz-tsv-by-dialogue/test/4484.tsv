@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4484	0	USER	京都に旅行に行く計画をしていて、駐車場が無料で使える飲食店に行きたいと思っています。	general,restaurant,shopping,weather
+4484	1	SYSTEM	そうしますと、８件ほどご案内可能です。他にご希望の条件がなければ、下鴨茶寮 本店という和食のお店はいかがでしょうか？	general,restaurant,shopping,weather
+4484	2	USER	ありがとうございます。そのお店の住所とWi-Fiがあるかについて教えてもらってもいいですか。	general,restaurant,shopping,weather
+4484	3	SYSTEM	かしこまりました。住所は、京都府京都市左京区下鴨宮河町62でございます。WiFiのご提供につきましては、申し訳ありません、不明となっております。	general,restaurant,shopping,weather
+4484	4	USER	了解しました。ありがとうございます。そのお店に7/24の午前10時50分に4人の予約をお願いします。	general,restaurant,shopping,weather
+4484	5	SYSTEM	大変申し訳ございません。ご希望の条件では予約できませんでした。お時間など、ご調整いただくことは可能でしょうか？	general,restaurant,shopping,weather
+4484	6	USER	人数を3人に変更でお願いします。	general,restaurant,shopping,weather
+4484	7	SYSTEM	ありがとうございます。３名様にて、ご予約完了いたしました。予約番号は、68565です。	general,restaurant,shopping,weather
+4484	8	USER	ありがとうございます。あと、下京区の商店街で買い物がしたいと思っています。	general,restaurant,shopping,weather
+4484	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping,weather
+4484	10	USER	では、商店街でなくておもちゃに変更するとどうでしょうか。	general,restaurant,shopping,weather
+4484	11	SYSTEM	ありがとうございます。そうしますと３件ご案内可能です。たとえば、船はし屋というお店は、いかがでしょうか？	general,restaurant,shopping,weather
+4484	12	USER	ありがとうございます。そのお店の電話番号と最寄り駅を教えてください。	general,restaurant,shopping,weather
+4484	13	SYSTEM	かしこまりました。電話番号は、0753515742です。最寄り駅は河原町駅で、徒歩２分の場所にございます。	general,restaurant,shopping,weather
+4484	14	USER	ありがとうございます。あと、下京区の7/24の最低気温は何度になりますか。	general,restaurant,shopping,weather
+4484	15	SYSTEM	当日の最低気温は、25.9度になる見込みです。	general,restaurant,shopping,weather
+4484	16	USER	ありがとうございます。これで大丈夫です。	general,restaurant,shopping,weather
+4484	17	SYSTEM	承知いたしました。本日はご利用いただき、誠にありがとうございました。	general,restaurant,shopping,weather

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1001	0	USER	札幌への旅行を考えているのですが、観光名所を調べてもらえますか？	general,attraction,hotel,weather
+1001	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction,hotel,weather
+1001	2	USER	はい。ジャンルは歴史的な散策エリアで、最寄り駅が平和駅がいいです。あと無料の駐車場があるところにしてください。	general,attraction,hotel,weather
+1001	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,hotel,weather
+1001	4	USER	そうですか。であれば最寄り駅はどこでもいいです。	general,attraction,hotel,weather
+1001	5	SYSTEM	ありがとうございます。そうしますと、2件ご案内可能です。例えば、道立自然公園野幌森林公園というところはいかがでしょうか？	general,attraction,hotel,weather
+1001	6	USER	そこにします。営業時間と住所を教えてください。	general,attraction,hotel,weather
+1001	7	SYSTEM	営業時間は、0時から0時なので、24時間ですね。住所は、北海道札幌市厚別区厚別町小野幌でございます。	general,attraction,hotel,weather
+1001	8	USER	わかりました。値段が普通くらいの宿泊施設も調べてほしいです。駐車場が無料で利用できるところがいいです。	general,attraction,hotel,weather
+1001	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できる宿泊施設が見つかりませんでした。	general,attraction,hotel,weather
+1001	10	USER	であれば駐車場がなくてもいいです。	general,attraction,hotel,weather
+1001	11	SYSTEM	ありがとうございます。そうしますと、定山渓 鶴雅リゾートスパ 森の謌というリゾートホテルはいかがでしょうか？場所は南区エリアにございます。	general,attraction,hotel,weather
+1001	12	USER	そこにします。Wi-Fiがあるかどうかと、料金情報を教えてください。あと、近辺の駅からの所要時間も知りたいです。	general,attraction,hotel,weather
+1001	13	SYSTEM	WiFiは無料でご利用いただけます。またアクセスですが、札幌駅からはタクシーで27分かかります。最後に、料金につきましては、値段帯が普通ということ以外で、詳しい情報がなく、ご案内ができかねます。よろしければお電話番号もお伝えしますが、いかがいたしましょう？	general,attraction,hotel,weather
+1001	14	USER	いえ、これで十分です。ありがとうございます。あと、6/29の清田区の天気予報を教えてください。	general,attraction,hotel,weather
+1001	15	SYSTEM	かしこまりました。当日のお天気は、曇り時々雨の予報となっております。最低気温は12.6度、最高気温は19.9度の見込みです。	general,attraction,hotel,weather
+1001	16	USER	了解です。ありがとうございます。	general,attraction,hotel,weather
+1001	17	SYSTEM	他になにかお調べすることはございますか？	general,attraction,hotel,weather
+1001	18	USER	いえ、大丈夫です。	general,attraction,hotel,weather
+1001	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,hotel,weather

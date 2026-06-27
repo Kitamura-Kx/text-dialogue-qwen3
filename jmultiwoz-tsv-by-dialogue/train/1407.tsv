@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1407	0	USER	那覇旅行を考えていて、当日に買い物が出来るところを探しています。地区が本庁で、最寄り駅が牧志駅の商店街が良いです。	general,shopping,hotel,restaurant
+1407	1	SYSTEM	かしこまりました。そうしますと、2件ご案内可能です。たとえば、那覇国際通り商店街はいかがでしょうか？	general,shopping,hotel,restaurant
+1407	2	USER	那覇国際通り商店街にしようと思います。近辺の駅からの所要時間と、定休日があれば教えていただきたいのですが。	general,shopping,hotel,restaurant
+1407	3	SYSTEM	最寄りの牧志駅から徒歩で1分、他にも、県庁前駅から徒歩で2分、美栄橋駅から徒歩で5分でアクセス可能です。定休日は、店舗により異なります。申し訳ありません。	general,shopping,hotel,restaurant
+1407	4	USER	ありがとうございます。当日の宿泊先も探しています。本庁地区のビジネスホテルが良いのですが。	general,shopping,hotel,restaurant
+1407	5	SYSTEM	かしこまりました。30件ほど候補があるのですが、特に他にご希望条件がないようでしたら、アパホテル〈那覇〉はいかがでしょうか？	general,shopping,hotel,restaurant
+1407	6	USER	ありがとうございます。アパホテル〈那覇〉にしようと思います。住所と電話番号は分かりますか？	general,shopping,hotel,restaurant
+1407	7	SYSTEM	住所は、沖縄県那覇市松山1丁目4-16です。電話番号は、0988689111でございます。	general,shopping,hotel,restaurant
+1407	8	USER	ありがとうございます。飲食店も併せて探したいのですが、本庁地区で．駐車場が無料、カレーのお店が良いです。	general,shopping,hotel,restaurant
+1407	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,shopping,hotel,restaurant
+1407	10	USER	そうですか。では、駐車場はあっても無くてもいいです。	general,shopping,hotel,restaurant
+1407	11	SYSTEM	ありがとうございます。そうしますと、どん亭 牧志店というお店が1件、ご案内可能です。いかがでしょうか？	general,shopping,hotel,restaurant
+1407	12	USER	ありがとうございます。そこにしようと思います。	general,shopping,hotel,restaurant
+1407	13	SYSTEM	ご予約はなさいますか？	general,shopping,hotel,restaurant
+1407	14	USER	いえ、大丈夫です。ありがとうございました。	general,shopping,hotel,restaurant
+1407	15	SYSTEM	承知いたしました。他にお調べすることはございませんか？	general,shopping,hotel,restaurant
+1407	16	USER	とくにありません、ありがとうございました。	general,shopping,hotel,restaurant
+1407	17	SYSTEM	では、本日はご利用ありがとうございました。	general,shopping,hotel,restaurant

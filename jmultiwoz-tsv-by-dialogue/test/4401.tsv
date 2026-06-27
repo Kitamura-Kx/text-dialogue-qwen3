@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4401	0	USER	東京への旅行を計画中で、新宿区で書籍を買おうと思っています。無料駐車場付きのお店が良いのですが、ありますか？	general,shopping
+4401	1	SYSTEM	かしこまりました。では、STORY STORYはいかがでしょうか。	general,shopping
+4401	2	USER	そこにしようと思います。定休日と電話番号を教えてください。	general,shopping
+4401	3	SYSTEM	定休日はございません。電話番号は0369110321でございます。	general,shopping
+4401	4	USER	助かります。ありがとうございます。	general,shopping
+4401	5	SYSTEM	ほかにご用件はございませんか。	general,shopping
+4401	6	USER	いえ、大丈夫です。ありがとうございました。	general,shopping
+4401	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

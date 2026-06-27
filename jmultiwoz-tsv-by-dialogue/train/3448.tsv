@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3448	0	USER	横浜に旅行に行こうと思っているんですが、当日買い物が出来る場所をさがしています。	general,shopping,attraction
+3448	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,attraction
+3448	2	USER	商店街にお買い物に行きたいなと思っています。それから、駐車場が無料で利用できるところがいいです。	general,shopping,attraction
+3448	3	SYSTEM	では元町商店街はいかがでしょうか。	general,shopping,attraction
+3448	4	USER	そこにします。ありがとうございます。	general,shopping,attraction
+3448	5	SYSTEM	ほかにご用件はございますか。	general,shopping,attraction
+3448	6	USER	それから、西区にある観光名所を探しています。	general,shopping,attraction
+3448	7	SYSTEM	申し訳ございません。西区で案内できる観光名所がございませんでした。いかがなさいますか。	general,shopping,attraction
+3448	8	USER	そうなんですね。それなら西区以外の場所でも大丈夫です。	general,shopping,attraction
+3448	9	SYSTEM	では、中区になりますが日本郵船 氷川丸 (NYK HIKAWAMARU)はいかがでしょうか。	general,shopping,attraction
+3448	10	USER	なるほど、ありがとうございます。因みにそこは、どういったジャンルの観光地になるんでしょうか？	general,shopping,attraction
+3448	11	SYSTEM	絶景, 教室・ワークショップ・体験, その他となっております。	general,shopping,attraction
+3448	12	USER	なるほど、ありがとうございます。	general,shopping,attraction
+3448	13	SYSTEM	ほかにご用件はございますか。	general,shopping,attraction
+3448	14	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,attraction
+3448	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction

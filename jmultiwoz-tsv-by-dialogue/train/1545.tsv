@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1545	0	USER	東京に行くのでタクシー会社を探してください。キャッシュレスとジャンボタクシーに対応しているところがいいです。	general,taxi
+1545	1	SYSTEM	では、大国自動車交通はいかがですか？	general,taxi
+1545	2	USER	よさそうですね。電話番号を教えてもらえますか？	general,taxi
+1545	3	SYSTEM	電話番号は、0357552151です。	general,taxi
+1545	4	USER	ありがとう。では、そちらの予約をお願いします。日付は3/13、時間は14:00です。	general,taxi
+1545	5	SYSTEM	出発地と目的地をお知らせください。	general,taxi
+1545	6	USER	出発地は大丸東京店で、目的地はCITANというところです。	general,taxi
+1545	7	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,taxi
+1545	8	USER	時間を14:30に変更したらどうでしょうか？	general,taxi
+1545	9	SYSTEM	予約が完了しました。　予約番号は、22453です。	general,taxi
+1545	10	USER	よかった。ありがとうございました。	general,taxi

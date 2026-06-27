@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3602	0	USER	大阪でWi-Fiが無料の観光名所はありますか？	general,attraction,weather,taxi
+3602	1	SYSTEM	かしこまりました。では大阪府立中之島図書館はいかがでしょうか。	general,attraction,weather,taxi
+3602	2	USER	わかりました。ありがとうございます。8/5の東淀川区の天気も教えてください。	general,attraction,weather,taxi
+3602	3	SYSTEM	天気は雨時々晴でございます。	general,attraction,weather,taxi
+3602	4	USER	ありがとうございます。キャッシュレス払いができるタクシーも探しています。	general,attraction,weather,taxi
+3602	5	SYSTEM	申し訳ございません。キャッシュレス対応している会社がございません。いかがなさいますか。	general,attraction,weather,taxi
+3602	6	USER	では、キャッシュレス払いができなくても大丈夫です。	general,attraction,weather,taxi
+3602	7	SYSTEM	では堀江タクシー株式会社がございます。こちらジャンボタクシーには対応しております。	general,attraction,weather,taxi
+3602	8	USER	ありがとうございます。電話番号も教えてください。	general,attraction,weather,taxi
+3602	9	SYSTEM	電話番号は0665318829でございます。	general,attraction,weather,taxi
+3602	10	USER	ありがとうございます。このタクシーを8/5の14：30にウィークリー翔ホテルなんばからさきほどの図書館まで予約したいです。	general,attraction,weather,taxi
+3602	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は17959でございます。	general,attraction,weather,taxi
+3602	12	USER	ありがとうございました。	general,attraction,weather,taxi
+3602	13	SYSTEM	ほかにご用件はございませんか。	general,attraction,weather,taxi
+3602	14	USER	大丈夫です。ありがとうございました。	general,attraction,weather,taxi
+3602	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather,taxi

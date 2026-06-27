@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+643	0	USER	福岡へ旅行の際に利用できるタクシー会社を探していただけますか？	general,taxi
+643	1	SYSTEM	かしこまりました。福岡西鉄タクシー（株）というところは、いかがでしょうか？	general,taxi
+643	2	USER	キャッシュレス払いしたいのですが可能でしょうか。	general,taxi
+643	3	SYSTEM	はい、福岡西鉄タクシー（株）はキャッシュレスに対応しております。ほかにも約14件の候補がございますが、いかがいたしますか？	general,taxi
+643	4	USER	そちらで問題ありません。ジャンボタクシーは対応していますか？	general,taxi
+643	5	SYSTEM	はい、対応しております。	general,taxi
+643	6	USER	ありがとうございます。予約も可能でしょうか。2/15の09:50で、出発地は松阪牛専門焼肉 慶、目的地は9HOTEL HAKATAでお願いできればと思います。	general,taxi
+643	7	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、59327でございます。	general,taxi
+643	8	USER	ありがとうございました。	general,taxi

@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4805	0	USER	東京へ旅行に行くので、無料駐車場がある買い物施設を探してもらえますか？	general,shopping,weather
+4805	1	SYSTEM	東京には無料駐車場のある買い物施設はなさそうです。	general,shopping,weather
+4805	2	USER	そうですか。であれば駐車場はなくても結構です。	general,shopping,weather
+4805	3	SYSTEM	東京の買い物施設は３５件ヒットしましたが、東京らしいところで、すみだ江戸切子館をお勧めします。	general,shopping,weather
+4805	4	USER	いいですね。あと、8/13の新宿区の天気も教えてください。	general,shopping,weather
+4805	5	SYSTEM	8/13 東京 新宿区 の天気は晴のち曇、最低気温26度、最高気温33.6度です。	general,shopping,weather
+4805	6	USER	ありがとうございました。	general,shopping,weather

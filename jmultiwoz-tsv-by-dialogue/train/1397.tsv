@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1397	0	USER	東京旅行に行こうと思っているのですが、泊まるところを一緒に探してもらえないでしょうか。五反田駅付近に旅館なんてありますか？	general,hotel,weather
+1397	1	SYSTEM	旅館 山水荘は、いかがでしょうか？	general,hotel,weather
+1397	2	USER	こちらの旅館の電話番号はお分かりになられますか？	general,hotel,weather
+1397	3	SYSTEM	はい、電話番号は、0334417475です。	general,hotel,weather
+1397	4	USER	ありがとうございます。チェックアウトの時間と駐車場があるかどうかも調べていただけるとたすかります。	general,hotel,weather
+1397	5	SYSTEM	チェックアウト終了時間は、11時です。　駐車場は、不明となっています。	general,hotel,weather
+1397	6	USER	そうなのですね、わかりました。11/17の目黒区のお天気はどのような感じでしょうか？	general,hotel,weather
+1397	7	SYSTEM	天気は、曇時々晴です。	general,hotel,weather
+1397	8	USER	わかりました。とても助かりました、ありがとうございました。	general,hotel,weather

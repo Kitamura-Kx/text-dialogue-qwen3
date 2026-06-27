@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3738	0	USER	東京へ旅行しようと思っているのですがキャッシュレス対応のタクシーを利用したいです。	general,taxi
+3738	1	SYSTEM	承知しました。では、高鉄交通はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0120617212となります。	general,taxi
+3738	2	USER	ありがとうございます。それでは予約して下さい。9/21で時間はお昼の12:30、出発地はコスモプラネタリウム渋谷、Bird Grill Torinoまで行きます。	general,taxi
+3738	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、18832となります。	general,taxi
+3738	4	USER	大変助かりました！以上です。どうもありがとうございました。	general,taxi
+3738	5	SYSTEM	ありがとうございました。	general,taxi

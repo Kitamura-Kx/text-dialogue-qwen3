@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4425	0	USER	福岡へ旅行予定です。最寄り駅が博多駅で無料駐車場が使える買い物店舗はありますか？	general,shopping
+4425	1	SYSTEM	では、Calbee+博多阪急店はいかがでしょう？ジャンルは、食料品、お土産となります。	general,shopping
+4425	2	USER	そこにします。エリアと近辺の駅からの所要時間が知りたいです。	general,shopping
+4425	3	SYSTEM	はい、エリアは博多区、最寄りの博多駅から徒歩で1分となります。	general,shopping
+4425	4	USER	ありがとうございました。もう大丈夫です。	general,shopping
+4425	5	SYSTEM	ありがとうございました。	general,shopping

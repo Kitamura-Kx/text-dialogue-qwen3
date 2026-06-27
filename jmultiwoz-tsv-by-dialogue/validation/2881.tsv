@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2881	0	USER	那覇へ旅行に行こうと思っています。当日利用できるタクシー会社を探しています。キャッシュレス払いができるところを希望します。	general,taxi
+2881	1	SYSTEM	那覇にはキャッシュレス対応のタクシーがありません。	general,taxi
+2881	2	USER	でしたら、キャッシュレス払いに対応してなくても良いです。	general,taxi
+2881	3	SYSTEM	それでは、大栄交通をおすすめします。	general,taxi
+2881	4	USER	そこはジャンボタクシーに対応してますでしょうか？	general,taxi
+2881	5	SYSTEM	はい、対応しています。	general,taxi
+2881	6	USER	ではそこに予約をしたいので日付は10/21時間は13:30出発地は焼肉工房 團で目的地は大衆食堂 いかり屋で予約をお願いします。	general,taxi
+2881	7	SYSTEM	予約成功しました。予約番号は74684です。	general,taxi
+2881	8	USER	分かりました。ありがとうございます。	general,taxi
+2881	9	SYSTEM	よい旅を	general,taxi

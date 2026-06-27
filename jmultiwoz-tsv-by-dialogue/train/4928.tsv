@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4928	0	USER	横浜に行くので、そこのホテルを探してもらえますか？	general,hotel,attraction,weather
+4928	1	SYSTEM	かしこまりました。ご希望のエリアなどがございましたら、お願い致します。	general,hotel,attraction,weather
+4928	2	USER	エリアにこだわりはないですが、レストランがあって、Wi-Fiが無料の場所をお願いします。	general,hotel,attraction,weather
+4928	3	SYSTEM	かしこまりました。そうしますと、例えば中区エリアにある、ホテル パセラの森 横浜関内というお安めのリゾートホテルはいかがでしょうか？	general,hotel,attraction,weather
+4928	4	USER	では、そこにします。チェックインの時間と駐車場があるか、宿泊施設のタイプを教えてほしいです。	general,hotel,attraction,weather
+4928	5	SYSTEM	かしこまりました。チェックインは15時殻となっております。駐車場は無料のものがございます。こちらのタイプは、リゾートホテルとなります。	general,hotel,attraction,weather
+4928	6	USER	ありがとうございました。では、観光名所も探して欲しいのですが、いいですか？	general,hotel,attraction,weather
+4928	7	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,hotel,attraction,weather
+4928	8	USER	駐車場とWi-Fiが無料の場所をお願いします。	general,hotel,attraction,weather
+4928	9	SYSTEM	そうしますと、カップヌードルミュージアム 横浜はいかがでしょうか？	general,hotel,attraction,weather
+4928	10	USER	そこにします。営業時間と料金の情報、近くの駅からの所要時間を教えてください。	general,hotel,attraction,weather
+4928	11	SYSTEM	かしこまりました。営業時間は、10:00～18:00です。料金は、大学生以上の大人の入館料が500円、高校生以下は無料です。アクセスは、みなとみらい駅から徒歩で8分、馬車道駅から徒歩で8分、桜木町駅から徒歩で12分といった行き方がございます。	general,hotel,attraction,weather
+4928	12	USER	ありがとうございます。あと、現地の天気も知りたいです。	general,hotel,attraction,weather
+4928	13	SYSTEM	かしこまりました。お天気をお調べする日付と大体のエリアをお願いできますでしょうか？	general,hotel,attraction,weather
+4928	14	USER	11月18日の保土ケ谷区です。	general,hotel,attraction,weather
+4928	15	SYSTEM	かしこまりました。当日の天気は、曇時々晴の予報です。最低気温は8.9度、最高気温は17.9度の予想となっております。	general,hotel,attraction,weather
+4928	16	USER	以上です。助かりました。ありがとうございます。	general,hotel,attraction,weather
+4928	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction,weather

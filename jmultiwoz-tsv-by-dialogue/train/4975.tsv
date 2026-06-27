@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4975	0	USER	こんにちは。仙台旅行を計画していますが、太白区で駐車場が無料の宿泊施設はありますか？	general,hotel,attraction
+4975	1	SYSTEM	こんにちは。佐藤屋旅館はいかがでしょうか？	general,hotel,attraction
+4975	2	USER	佐藤屋旅館でお願いします。近辺の駅からの所要時間と、Wi-Fiがあるかどうかはわかりますか？	general,hotel,attraction
+4975	3	SYSTEM	所要時間は仙台駅からバスで50分です。Wi-Fiは有り(無料)です。	general,hotel,attraction
+4975	4	USER	ちょっと駅から遠いですね。では、予約もお願いできますか？人数は2人で、9月28日から4泊です。	general,hotel,attraction
+4975	5	SYSTEM	申し訳ありません。その条件では予約ができませんでした。	general,hotel,attraction
+4975	6	USER	そうですか、人数を1人に変更しても予約できませんか？	general,hotel,attraction
+4975	7	SYSTEM	予約が完了しました。予約番号は57981です。	general,hotel,attraction
+4975	8	USER	良かったです。それから、当日は観光名所にも行きたいと思っています。太白区で、駐車場が無料のスポーツ・フィットネス施設はありますか？	general,hotel,attraction
+4975	9	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,hotel,attraction
+4975	10	USER	そうですか、では地区は太白区ではなくても構いません。その他の条件はそのままでお願いします。	general,hotel,attraction
+4975	11	SYSTEM	承知しました。アイスリンク仙台はいかがでしょうか？	general,hotel,attraction
+4975	12	USER	そこにします。最寄り駅と料金情報はわかりますか？	general,hotel,attraction
+4975	13	SYSTEM	最寄り駅は泉中央駅です。料金情報は大人は1,200円、中・高生は700円、小学生以下は600円です。	general,hotel,attraction
+4975	14	USER	ご対応ありがとうございました。	general,hotel,attraction

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2939	0	USER	今度、福岡へ行くので、海ノ中道駅近くで無料のWi-Fiと駐車場がある飲食店を教えてください。	general,restaurant,taxi
+2939	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,taxi
+2939	2	USER	そうですか。では海ノ中道駅以外ではどうですか？	general,restaurant,taxi
+2939	3	SYSTEM	エリアでいうと博多区に、レカイエ オイスターバー JR博多シティ店がございます。ジャンルは、寿司、魚料理となります。	general,restaurant,taxi
+2939	4	USER	良さそうですね。そちらの営業時間を教えて下さい。	general,restaurant,taxi
+2939	5	SYSTEM	営業時間は11時から23時となります。	general,restaurant,taxi
+2939	6	USER	ありがとうございます。それでは、2月7日の午後2時30分に3名で予約をお願いします。	general,restaurant,taxi
+2939	7	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,restaurant,taxi
+2939	8	USER	それでは2名だと予約できますか？	general,restaurant,taxi
+2939	9	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、67750となります。	general,restaurant,taxi
+2939	10	USER	ありがとうございます。当日はタクシーを利用したいのですが、キャッシュレス払いができるタクシー会社を教えてください。	general,restaurant,taxi
+2939	11	SYSTEM	平和交通（株）はいかがでしょう？ジャンボタクシーには非対応となります。電話番号は、0924114422です。	general,restaurant,taxi
+2939	12	USER	ジャンボタクシーは利用できないんですね。そこで大丈夫ですので、2月7日の13時にレカイエ オイスターバー JR博多シティ店から、慶州ほるもん 駅前店まで予約をお願いします。	general,restaurant,taxi
+2939	13	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、2867となります。	general,restaurant,taxi
+2939	14	USER	ありがとうございました。助かりました。それでは失礼します。	general,restaurant,taxi

@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4565	0	USER	東京へ旅行するのですが台場駅が最寄りのショッピングモールで駐車場無料のところってありますか？	general,shopping
+4565	1	SYSTEM	それでしたら、アクアシティお台場はいかがですか？	general,shopping
+4565	2	USER	ありがとうございます。そこの住所と定休日を教えて頂けませんか？	general,shopping
+4565	3	SYSTEM	住所は、東京都港区台場1丁目7-1です。　定休日は、無しとなっています。	general,shopping
+4565	4	USER	助かりました！以上です。ありがとうございました。	general,shopping
+4565	5	SYSTEM	承知しました。ありがとうございました。	general,shopping

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3695	0	USER	京都へ旅行に行く予定です。当日買い物ができるところを探しています。ジャンルは自動車・自転車で地区は東山区が希望です。	general,shopping,weather
+3695	1	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,shopping,weather
+3695	2	USER	でしたら、ジャンルはなんでも良いです。	general,shopping,weather
+3695	3	SYSTEM	かしこまりました。では、森陶器館はいかがでしょうか？	general,shopping,weather
+3695	4	USER	そこが良さそうです。そこの営業時間と定休日をおしえてください。	general,shopping,weather
+3695	5	SYSTEM	はい。営業時間は09:00～18:00になります。定休日は無しです。	general,shopping,weather
+3695	6	USER	あと当日4/15の北区の天気と最低気温を教えてください。	general,shopping,weather
+3695	7	SYSTEM	はい。天気は晴時々曇、最低気温は5.6度となる見込みです。	general,shopping,weather
+3695	8	USER	分かりました。ありがとうございます。	general,shopping,weather
+3695	9	SYSTEM	他にご用件はございませんか？	general,shopping,weather
+3695	10	USER	はい、大丈夫です。	general,shopping,weather
+3695	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

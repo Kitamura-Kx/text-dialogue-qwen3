@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1138	0	USER	東京への旅行を計画中です。当日ジャンボタクシーを利用したいのですがキャッシュレス払いに対応可能なタクシー会社はありますか？	general,taxi
+1138	1	SYSTEM	はい、では、高鉄交通はいかがでしょう？電話番号は0120617212となります。	general,taxi
+1138	2	USER	それでは予約をお願いします、11/3の11:50に「音音」新宿センタービル店から「いきいき富山館」までお願いします	general,taxi
+1138	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、63697となります。他にご案内できることはございますか？	general,taxi
+1138	4	USER	以上で大丈夫です、有難うございました。	general,taxi
+1138	5	SYSTEM	ありがとうございました。	general,taxi

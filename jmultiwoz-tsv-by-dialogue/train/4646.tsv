@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4646	0	USER	札幌旅行の時に利用する飲食店を探してもらえますか？	general,restaurant
+4646	1	SYSTEM	はい。であれば、ふしみグリエがおすすめです。	general,restaurant
+4646	2	USER	そちらは駐車場とWi-Fiは無料で利用できますか？	general,restaurant
+4646	3	SYSTEM	その条件ですと、パーラーエノキはいかがですか？	general,restaurant
+4646	4	USER	いいですね、そちらのエリアとジャンルを教えてもらえますか？	general,restaurant
+4646	5	SYSTEM	はい。エリアは中央区で、ジャンルはカフェ・スイーツになります。	general,restaurant
+4646	6	USER	そこに行こうと思います。ありがとうございました。	general,restaurant
+4646	7	SYSTEM	はい。こちらこそご利用ありがとうございました。	general,restaurant

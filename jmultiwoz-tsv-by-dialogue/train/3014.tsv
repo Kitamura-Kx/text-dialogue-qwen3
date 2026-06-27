@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3014	0	USER	仙台への旅行を計画しています。 観光名所を探して欲しいです。	general,attraction,weather
+3014	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,attraction,weather
+3014	2	USER	ジャンルはキャンプ、地区は太白区、最寄り駅が五橋駅のところにしてください。	general,attraction,weather
+3014	3	SYSTEM	太白区で五橋駅、ジャンルキャンプの観光名所はなさそうです。	general,attraction,weather
+3014	4	USER	そうですか。では最寄駅は気にしないことにします。	general,attraction,weather
+3014	5	SYSTEM	太白区でジャンルキャンプな観光名所は、天守閣自然公園、こちらになります。	general,attraction,weather
+3014	6	USER	その施設の住所，近辺の駅からの所要時間を教えてください。	general,attraction,weather
+3014	7	SYSTEM	宮城県仙台市太白区秋保町湯元源兵衛原10、愛子駅からタクシーで20分、 仙台駅からならタクシーで40分です。	general,attraction,weather
+3014	8	USER	あと、太白区の7/22の天候を調べてほしいです。	general,attraction,weather
+3014	9	SYSTEM	7/22 仙台 太白区 の天気は雨、最低気温14.8度、最高気温22.3度です。	general,attraction,weather
+3014	10	USER	解決しました。ありがとうございました。	general,attraction,weather

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4011	0	USER	福岡へ旅行予定なのですが。中央区でWi-Fiと駐車場が無料利用できる観光名所はありますか？	general,attraction,taxi,weather
+4011	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction,taxi,weather
+4011	2	USER	そうですか。ではWi-Fiがないところでもかまいません。	general,attraction,taxi,weather
+4011	3	SYSTEM	かしこまりました。それでは西公園がございます。	general,attraction,taxi,weather
+4011	4	USER	なるほど。住所はわかります？	general,attraction,taxi,weather
+4011	5	SYSTEM	はい、住所は福岡県福岡市中央区西公園13でございます。	general,attraction,taxi,weather
+4011	6	USER	わかりました。タクシーの利用を考えていて、キャッシュレスとジャンボタクシーに対応しているような会社はありませんか？	general,attraction,taxi,weather
+4011	7	SYSTEM	お待たせ致しました。ラッキー自動車（株）でしたらどちらにも対応しております。	general,attraction,taxi,weather
+4011	8	USER	そうなんですね。電話番号はわかりますか？	general,attraction,taxi,weather
+4011	9	SYSTEM	はい、0925417755でございます。	general,attraction,taxi,weather
+4011	10	USER	わかりました。8/26の12:00にゆずの小町 天神大名店から西公園までの配車予約をお願いします。	general,attraction,taxi,weather
+4011	11	SYSTEM	お待たせ致しました。予約番号19400でお取りさせていただきました。	general,attraction,taxi,weather
+4011	12	USER	了解です。当日8/26の東区の最高気温と最低気温も聞いておきたいです。	general,attraction,taxi,weather
+4011	13	SYSTEM	お待たせ致しました。当日の天気は曇のち雨、最高気温は35度、最低気温は25.7度の予報でございます。	general,attraction,taxi,weather
+4011	14	USER	ありがとうございます。もう結構です。	general,attraction,taxi,weather
+4011	15	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,taxi,weather

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1299	0	USER	名古屋へ行こうと思っています。ジャンボタクシーを利用できるタクシー会社を探していただきたいです。	general,taxi
+1299	1	SYSTEM	帝産キャブ名古屋は、いかがでしょうか？	general,taxi
+1299	2	USER	そちらがキャッシュレス対応かどうか、電話番号を教えていただけますでしょうか。	general,taxi
+1299	3	SYSTEM	こちらは、キャッシュレス対応しています。　電話番号は、0529141115です。	general,taxi
+1299	4	USER	では、9月5日14時30分サラベス 名古屋店から氷上姉子神社まで予約をお願いします。	general,taxi
+1299	5	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,taxi
+1299	6	USER	では時間を15時に変更して予約をお願いします。	general,taxi
+1299	7	SYSTEM	予約出来ました。予約番号は、21962です。	general,taxi
+1299	8	USER	わかりました。ありがとうございます。	general,taxi
+1299	9	SYSTEM	他にご用件はございますか？	general,taxi
+1299	10	USER	いいえ、大丈夫です。ありがとうございました。	general,taxi

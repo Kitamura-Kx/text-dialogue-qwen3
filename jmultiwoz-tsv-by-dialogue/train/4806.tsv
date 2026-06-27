@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4806	0	USER	大阪へ旅行予定なので、東淀川区のショッピングモールを探してもらえますか？	general,shopping,taxi
+4806	1	SYSTEM	大阪東淀川区には、ショッピングモールはなさそうです。	general,shopping,taxi
+4806	2	USER	そうですか。じゃあ、東淀川区以外でも大丈夫です。	general,shopping,taxi
+4806	3	SYSTEM	大阪のショッピングモールは６件ヒットしましたが、天王寺MIOをお勧めします。	general,shopping,taxi
+4806	4	USER	なるほど。天王寺MIOの住所わかります？	general,shopping,taxi
+4806	5	SYSTEM	大阪府大阪市天王寺区悲田院町10-39です。	general,shopping,taxi
+4806	6	USER	わかりました。あと、ジャンボタクシーを利用したいので、キャッシュレス払いできるようなタクシー会社はありますか？	general,shopping,taxi
+4806	7	SYSTEM	大阪だとジャンボとキャッシュレス両方対応のタクシーはなさそうです。	general,shopping,taxi
+4806	8	USER	そうですか。キャッシュレス払いできなくてもいいのですが。	general,shopping,taxi
+4806	9	SYSTEM	ジャンボタクシーならば、一番株式会社をお勧めします。	general,shopping,taxi
+4806	10	USER	そこにします。電話番号を教えてください。	general,shopping,taxi
+4806	11	SYSTEM	0667077171です。	general,shopping,taxi
+4806	12	USER	わかりました。11/17の14:40にホテルザグランデ心斎橋なんばから天王寺MIOまで配車予約をお願いしたいです。	general,shopping,taxi
+4806	13	SYSTEM	予約成功しました。予約番号は44266です。	general,shopping,taxi
+4806	14	USER	ありがとうございました。	general,shopping,taxi

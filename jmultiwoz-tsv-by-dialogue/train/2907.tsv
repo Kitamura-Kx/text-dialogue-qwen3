@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2907	0	USER	すみません、名古屋で泊まる所を探しています。普通の予算なんですが、良い所ありますか？	general,hotel
+2907	1	SYSTEM	名古屋で予算普通の宿泊施設はいくつかありますが、レゴランド・ジャパン・ホテル、こちらをオススメします。	general,hotel
+2907	2	USER	ありがとうございます。すみませんが、無料駐車場がある所だと助かります。	general,hotel
+2907	3	SYSTEM	なるほど、無料駐車場有で普通ならば、SAMURAI HOUSE、こちらをオススメします。	general,hotel
+2907	4	USER	ありがとうございます。そちらの料金情報も教えて下さい。	general,hotel
+2907	5	SYSTEM	値段帯普通なのですが、詳細料金まではちょっとわからないですね。	general,hotel
+2907	6	USER	そうですか。でも助かりました。失礼します。	general,hotel

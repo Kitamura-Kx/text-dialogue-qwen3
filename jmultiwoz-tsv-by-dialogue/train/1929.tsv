@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1929	0	USER	那覇に行くのですが、県庁前駅周辺でレストランが併設されている宿泊施設はありますか？無料駐車場も欲しいです。	general,hotel
+1929	1	SYSTEM	そうしますと、HOTEL MARUKIというビジネスホテルを1件、ご案内可能です。	general,hotel
+1929	2	USER	そこのチェックイン開始時刻，住所，料金情報を教えてください。	general,hotel
+1929	3	SYSTEM	チェックインは15時開始です。住所は沖縄県那覇市久茂地3丁目20-5です。料金情報は、お安めの値段設定ということと、WiFiと駐車場が無料ということ以外は不明となっております。申し訳ありません。	general,hotel
+1929	4	USER	ありがとうございます。質問は以上です。	general,hotel
+1929	5	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

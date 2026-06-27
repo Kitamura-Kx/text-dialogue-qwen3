@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4929	0	USER	那覇に行くので、ショッピングができる場所を探したいのですが、お願いできますか？	general,shopping
+4929	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,shopping
+4929	2	USER	駐車場が無料で、スポーツ関係のお店をお願いします。	general,shopping
+4929	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,shopping
+4929	4	USER	駐車場については、こだわらない場合はどうでしょうか？	general,shopping
+4929	5	SYSTEM	そうしますと、LOCKERというお店が１件ご案内可能です。本庁エリアにあるお店ですが、いかがでしょうか？	general,shopping
+4929	6	USER	では、そこにします。電話番号と、近くの駅からどれくらい時間がかかるか教えてもらえますか？	general,shopping
+4929	7	SYSTEM	電話番号は、0988673800です。最寄りの牧志駅から徒歩で3分ほどの距離にございます。	general,shopping
+4929	8	USER	以上です。ありがとうございました。	general,shopping
+4929	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping

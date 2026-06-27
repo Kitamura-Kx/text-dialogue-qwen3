@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1725	0	USER	横浜へ旅行に行くんですが、飲食店を探してくれますか？	general,restaurant,attraction,shopping
+1725	1	SYSTEM	希望条件などは、ありますか？	general,restaurant,attraction,shopping
+1725	2	USER	中華料理を食べたいです！予算は高めでお願いします。	general,restaurant,attraction,shopping
+1725	3	SYSTEM	では、華正樓 新館はいかがでしょうか？	general,restaurant,attraction,shopping
+1725	4	USER	いいですね！定休日とWi-Fiの有無について教えてください。	general,restaurant,attraction,shopping
+1725	5	SYSTEM	定休日は、無しです。　申し訳ありません、Wi-Fiの有無につきましては、不明になっております。	general,restaurant,attraction,shopping
+1725	6	USER	かしこまりました。あと、料金情報は分かりますか？	general,restaurant,attraction,shopping
+1725	7	SYSTEM	申し訳ありません。料金情報も不明になっております。	general,restaurant,attraction,shopping
+1725	8	USER	そうなんですね。予約したいのでいいですかね？1/26の9:40に2人でお願いします。	general,restaurant,attraction,shopping
+1725	9	SYSTEM	予約出来ました。予約番号は、40423です。	general,restaurant,attraction,shopping
+1725	10	USER	ありがとうございます。あと、観光名所を探してほしいです！	general,restaurant,attraction,shopping
+1725	11	SYSTEM	希望条件などは、ございますか？	general,restaurant,attraction,shopping
+1725	12	USER	駐車場とWi-Fiが無料のところでお願いします！	general,restaurant,attraction,shopping
+1725	13	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,attraction,shopping
+1725	14	USER	では、有料駐車場でも大丈夫です！	general,restaurant,attraction,shopping
+1725	15	SYSTEM	横浜赤レンガ倉庫は、いかがでしょうか？	general,restaurant,attraction,shopping
+1725	16	USER	いいですね！料金情報は分かりますか？	general,restaurant,attraction,shopping
+1725	17	SYSTEM	料金情報は、無料となっております。	general,restaurant,attraction,shopping
+1725	18	USER	ありがとうございます。続けてですみませんが、都筑区で買い物ができるところを探してほしいです！	general,restaurant,attraction,shopping
+1725	19	SYSTEM	では、サウスウッドはいかがですか？	general,restaurant,attraction,shopping
+1725	20	USER	すみません、家電・電化製品を買いたいのと、駐車場が無料のところがいいです！ありますか？	general,restaurant,attraction,shopping
+1725	21	SYSTEM	では、IKEA港北はいかがでしょうか？	general,restaurant,attraction,shopping
+1725	22	USER	ありがとうございます。最寄り駅についても教えてほしいです。	general,restaurant,attraction,shopping
+1725	23	SYSTEM	最寄り駅は、大倉山駅になります。	general,restaurant,attraction,shopping
+1725	24	USER	大変助かりました！ありがとうございました。	general,restaurant,attraction,shopping
+1725	25	SYSTEM	他にご用件はありますか？	general,restaurant,attraction,shopping
+1725	26	USER	これで大丈夫です。	general,restaurant,attraction,shopping
+1725	27	SYSTEM	承知致しました。　ありがとうございました。	general,restaurant,attraction,shopping

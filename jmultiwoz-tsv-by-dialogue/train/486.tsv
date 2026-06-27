@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+486	0	USER	仙台へ旅行に行くのですが六丁の目駅付近で無料駐車場のあるコンビニはありますか？	general,shopping,taxi
+486	1	SYSTEM	はい。セブンイレブン仙台六丁の目駅前店がございます。	general,shopping,taxi
+486	2	USER	住所と電話番号を教えてください	general,shopping,taxi
+486	3	SYSTEM	住所は宮城県仙台市若林区六丁の目中町1-3でございます。電話番号は0223902620でございます。	general,shopping,taxi
+486	4	USER	当日にジャンボタクシーを利用したいのですが対応可能な会社はありますか？	general,shopping,taxi
+486	5	SYSTEM	はい。（株）フタバタクシーがございます。	general,shopping,taxi
+486	6	USER	それでは12/12 14:00に「セブンイレブン 仙台新港店」から「セブンイレブン仙台六丁の目駅前店」まで予約をお願いします	general,shopping,taxi
+486	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は8357でございます。	general,shopping,taxi
+486	8	USER	有難うございました	general,shopping,taxi
+486	9	SYSTEM	ほかにご用件はございませんか。	general,shopping,taxi
+486	10	USER	はい大丈夫です有難うございました	general,shopping,taxi
+486	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

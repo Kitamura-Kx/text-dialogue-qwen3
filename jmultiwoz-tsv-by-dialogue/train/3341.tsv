@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3341	0	USER	東京への旅行を考えているのですが、最寄りが押上駅でレストラン併設の宿泊施設はありますでしょうか。	general,hotel
+3341	1	SYSTEM	では、ONE@Tokyoはいかがでしょうか？	general,hotel
+3341	2	USER	ありがとうございます。そこに泊まりたいと思います。駅からの所要時間はどのくらいでしょうか。	general,hotel
+3341	3	SYSTEM	はい、所要時間は、押上駅から徒歩で4分となっています。	general,hotel
+3341	4	USER	ありがとうございます。料金情報とチェックアウト終了時刻もお教えいただけますか？	general,hotel
+3341	5	SYSTEM	チェックアウト終了時間は、11時となっています。　料金情報の記載はございません。	general,hotel
+3341	6	USER	分かりました。ありがとうございます。では6月26日に2人で2泊で予約をしたいのですが可能でしょうか。	general,hotel
+3341	7	SYSTEM	予約出来ました。予約番号は、82651になります。	general,hotel
+3341	8	USER	ありがとうございます。お聞きしたい事は以上になります。丁寧にサポートしていただきありがとうございました。	general,hotel
+3341	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

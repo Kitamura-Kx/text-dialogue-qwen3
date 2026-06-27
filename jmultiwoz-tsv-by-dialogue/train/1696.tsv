@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1696	0	USER	横浜へ旅行予定なのですが、値段が安めの中華料理屋さんはありませんか？最寄り駅が横浜駅のところが希望です。	general,restaurant
+1696	1	SYSTEM	かしこまりました。では京華樓 鶴屋町CRANE店はいかがでしょうか。	general,restaurant
+1696	2	USER	そこいいですね。定休日と駐車場があるかを教えてください。	general,restaurant
+1696	3	SYSTEM	定休日は無しで、駐車場の有無は不明でございます。	general,restaurant
+1696	4	USER	わかりました。もう大丈夫です。ありがとうございました。	general,restaurant
+1696	5	SYSTEM	承知しました。ありがとうございました。	general,restaurant

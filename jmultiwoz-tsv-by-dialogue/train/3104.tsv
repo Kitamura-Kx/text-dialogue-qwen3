@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3104	0	USER	京都で駐車場が無料で買い物ができるお店を探しています。	general,shopping,attraction,weather
+3104	1	SYSTEM	承知しました。エリアでいうと下京区にある、画箋堂はいかがでしょう？ジャンルは、文房具、雑貨となります。	general,shopping,attraction,weather
+3104	2	USER	そこにします！駅からはどのくらいの時間がかかりますか？	general,shopping,attraction,weather
+3104	3	SYSTEM	はい、最寄りの清水五条駅から徒歩で4分となります。	general,shopping,attraction,weather
+3104	4	USER	わかりました。電話番号も教えてください。	general,shopping,attraction,weather
+3104	5	SYSTEM	電話番号は、0753413288となります。	general,shopping,attraction,weather
+3104	6	USER	ありがとうございます。ジャンルが橋の観光名所ってありますか？	general,shopping,attraction,weather
+3104	7	SYSTEM	はい、エリアでいうと右京区に、嵯峨野トロッコ列車がございます。	general,shopping,attraction,weather
+3104	8	USER	そこに行きたいのですが定休日と営業時間を教えてください。	general,shopping,attraction,weather
+3104	9	SYSTEM	営業時間は10時から17時、定休日はございません。	general,shopping,attraction,weather
+3104	10	USER	ありがとうございます。最後に6/17の中京区の天気を教えてください。	general,shopping,attraction,weather
+3104	11	SYSTEM	はい、天気は曇、最低気温19度、最高気温32.4度となります。他にお忘れのご用件はございませんか？	general,shopping,attraction,weather
+3104	12	USER	大丈夫です。ありがとうございました。	general,shopping,attraction,weather
+3104	13	SYSTEM	ありがとうございました。	general,shopping,attraction,weather

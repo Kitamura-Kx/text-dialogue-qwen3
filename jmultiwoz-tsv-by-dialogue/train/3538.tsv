@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3538	0	USER	仙台に行くのですが、太白区で買い物ができるところを探しています。	general,shopping,attraction
+3538	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,shopping,attraction
+3538	2	USER	特にないです。	general,shopping,attraction
+3538	3	SYSTEM	ではIKEA 仙台はいかがですか。	general,shopping,attraction
+3538	4	USER	駐車場はありますか？	general,shopping,attraction
+3538	5	SYSTEM	はい。無料の駐車場がございます。	general,shopping,attraction
+3538	6	USER	営業時間と住所を教えてください。	general,shopping,attraction
+3538	7	SYSTEM	営業時間は10:00～19:00で、住所が宮城県仙台市太白区あすと長町2丁目1-1でございます。	general,shopping,attraction
+3538	8	USER	あとお城系の観光名所を探しています。	general,shopping,attraction
+3538	9	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping,attraction
+3538	10	USER	じゃお城でなくてもいいです。駐車場が無料のところが良いです。	general,shopping,attraction
+3538	11	SYSTEM	ではニッカウイスキー仙台工場宮城峡蒸溜所はいかがですか。	general,shopping,attraction
+3538	12	USER	いいですね。料金情報を教えてください。	general,shopping,attraction
+3538	13	SYSTEM	料金は無料でございます。	general,shopping,attraction
+3538	14	USER	それはいいですね。ありがとうございました。	general,shopping,attraction
+3538	15	SYSTEM	ほかにご用件はございませんか。	general,shopping,attraction
+3538	16	USER	特にないです。	general,shopping,attraction
+3538	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction

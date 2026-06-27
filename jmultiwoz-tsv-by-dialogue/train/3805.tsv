@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3805	0	USER	福岡で観光名所を探しています。ジャンルはエンタメ・アミューズメント系で、駐車場とWi-Fiが無料のところはないですか？	general,attraction,shopping
+3805	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction,shopping
+3805	2	USER	それでは、Wi-Fiはなくてもいいです。	general,attraction,shopping
+3805	3	SYSTEM	かしこまりました。それではKid's US.LAND アイランドアイ店はいかがでしょうか？	general,attraction,shopping
+3805	4	USER	そこにします。最寄り駅と電話番号を教えてください。	general,attraction,shopping
+3805	5	SYSTEM	最寄り駅は雁ノ巣駅、電話番号は07064207917でございます。	general,attraction,shopping
+3805	6	USER	ありがとうございます。当日買い物がしたいのですが、箱崎九大前駅付近で、駐車場無料のお店はありませんか？	general,attraction,shopping
+3805	7	SYSTEM	かしこまりました。それではきっずゆうえんち&アミューズメント ぐるぐる屋箱崎店はいかがでしょうか？	general,attraction,shopping
+3805	8	USER	いいですね、そこのエリアと住所を教えてください。	general,attraction,shopping
+3805	9	SYSTEM	エリアは東区、住所は福岡県福岡市東区箱崎4丁目7-55でございます。	general,attraction,shopping
+3805	10	USER	わかりました、ありがとうございます。	general,attraction,shopping
+3805	11	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,shopping

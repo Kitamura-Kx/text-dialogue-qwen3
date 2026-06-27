@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1591	0	USER	札幌への旅行を計画していまして、当日医薬品・化粧品が買えるところを探しています。西線９条旭山公園通停留所辺りにお店はありますでしょうか？	general,shopping,hotel,weather
+1591	1	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,shopping,hotel,weather
+1591	2	USER	分かりました、では他の駅でありますでしょうか？	general,shopping,hotel,weather
+1591	3	SYSTEM	はい、1件ご案内可能です。TSUTAYA 美しが丘というお店が、上野幌駅からタクシーで14分の場所にございますが、いかがでしょうか？	general,shopping,hotel,weather
+1591	4	USER	ありがとうございます、そちらはどのエリアになるでしょうか？	general,shopping,hotel,weather
+1591	5	SYSTEM	清田区エリアにございます。	general,shopping,hotel,weather
+1591	6	USER	ありがとうございます。あと、普通の予算で泊まれるところを探していまして、駐車場とかWi-Fiが無料で利用できるところはありますでしょうか？	general,shopping,hotel,weather
+1591	7	SYSTEM	はい、2件ご案内可能です。例えば、JRタワーホテル日航札幌というシティホテルが、中央区エリアにございますが、いかがでしょうか？	general,shopping,hotel,weather
+1591	8	USER	いいですね、ちなみに料金情報はどんな感じでしょうか？	general,shopping,hotel,weather
+1591	9	SYSTEM	料金情報につきましては、お値段帯が普通であることと、WiFiと駐車場が無料であること以外、不明となっており、ご案内できず申し訳ありません。	general,shopping,hotel,weather
+1591	10	USER	承知しました、料金は後で調べてみますのでとりあえず12/14から2名で3泊予約をお願いします。	general,shopping,hotel,weather
+1591	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、90527です。	general,shopping,hotel,weather
+1591	12	USER	ありがとうございます。最後に12/14当日の豊平区の天気を教えてください。	general,shopping,hotel,weather
+1591	13	SYSTEM	かしこまりました。当日の天気は、曇のち晴れの予報です。最低気温はマイナス4.9度、最高気温は2.8度の予想となっております。	general,shopping,hotel,weather
+1591	14	USER	ありがとうございました、確認は以上になります。	general,shopping,hotel,weather
+1591	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,hotel,weather

@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3815	0	USER	名古屋へ旅行を計画しているのですが。	general,restaurant,taxi
+3815	1	SYSTEM	名古屋ですね、どのようなお店や施設をお探しですか？	general,restaurant,taxi
+3815	2	USER	カレーが食べられるお店を探しています。無料Wi-Fiが使えるお店はありますか？	general,restaurant,taxi
+3815	3	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,taxi
+3815	4	USER	そうですか、ではカレーではなくてよいので他に無料Wi-Fiが使える飲食店はありますか？	general,restaurant,taxi
+3815	5	SYSTEM	では、ゆめや 金山店はいかがですか？	general,restaurant,taxi
+3815	6	USER	はい、そちらで予約はできますか？10/3に3名で、16:10でお願いします。	general,restaurant,taxi
+3815	7	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant,taxi
+3815	8	USER	そうですか、では2名ではできますか？	general,restaurant,taxi
+3815	9	SYSTEM	予約出来ました。予約番号は、12894です。	general,restaurant,taxi
+3815	10	USER	ありがとうございます。	general,restaurant,taxi
+3815	11	SYSTEM	他にご用件はありますか？	general,restaurant,taxi
+3815	12	USER	はい。タクシー会社も探してください。キャッシュレス決済ができるところはありますか？	general,restaurant,taxi
+3815	13	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,taxi
+3815	14	USER	そうでうすか。ではキャッシュレス決済は出来なくても大丈夫なので、他にはありますか？	general,restaurant,taxi
+3815	15	SYSTEM	はい、鯱第一交通はいかがですか？	general,restaurant,taxi
+3815	16	USER	そちらの電話番号はわかりますか？あと、ジャンボタクシーは対応可能ですか？	general,restaurant,taxi
+3815	17	SYSTEM	電話番号は、0529123456です。　こちらは、ジャンボタクシー対応しております。	general,restaurant,taxi
+3815	18	USER	ありがとうございます。ではそちらで予約お願いします。10/3に14:30で。ゆめや 金山店出発で、らくだ書店 本店までお願いします。	general,restaurant,taxi
+3815	19	SYSTEM	予約出来ました。予約番号は、28039になります。	general,restaurant,taxi
+3815	20	USER	ありがとうございます。	general,restaurant,taxi
+3815	21	SYSTEM	他にご用件はありますか？	general,restaurant,taxi
+3815	22	USER	特にありません。ありがとうございました。	general,restaurant,taxi
+3815	23	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4905	0	USER	大阪への旅行を計画しており、レストランが併設されていてWi-Fiが無料で利用できる宿泊施設を探してほしいです。	general,hotel
+4905	1	SYSTEM	お待たせ致しました。それではシェラトン都ホテル大阪はいかがでしょうか？	general,hotel
+4905	2	USER	値段帯を教えてください。	general,hotel
+4905	3	SYSTEM	値段帯は安めでございます。	general,hotel
+4905	4	USER	住所も教えてもらえますか？	general,hotel
+4905	5	SYSTEM	住所は大阪府大阪市天王寺区上本町6丁目1-55でございます。	general,hotel
+4905	6	USER	ありがとうございます。	general,hotel
+4905	7	SYSTEM	その他にご用件はございますか？	general,hotel
+4905	8	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel

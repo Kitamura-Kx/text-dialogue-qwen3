@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2257	0	USER	大阪へ旅行に行くんですが、飲食店を探して欲しいです。	general,restaurant,attraction
+2257	1	SYSTEM	はい、ご希望はありますか？	general,restaurant,attraction
+2257	2	USER	イタリアン・フレンチのお店だったらお任せします！	general,restaurant,attraction
+2257	3	SYSTEM	いくつかありますが、世界のワイン博物館 グランフロント大阪店はいかがでしょうか	general,restaurant,attraction
+2257	4	USER	良さそうな名前ですね。そこに行ってみます！あと、阿倍野区の観光名所についても聞いてもいいですか？	general,restaurant,attraction
+2257	5	SYSTEM	阿倍野区の観光名所といえば、ずばり、あべのハルカスでしょう。	general,restaurant,attraction
+2257	6	USER	そうなんですね。ただ、最寄り駅が花園町駅のところが良かったんですが、どうですか？	general,restaurant,attraction
+2257	7	SYSTEM	阿倍野区の観光名所で、最寄り駅が花園町駅なところはありません。	general,restaurant,attraction
+2257	8	USER	そうなんですね。では先ほどオススメしていただいた、あべのハルカスに行ってみようかと思います。営業時間は分かりますか？	general,restaurant,attraction
+2257	9	SYSTEM	店舗により営業時間は異なります。	general,restaurant,attraction
+2257	10	USER	阿倍野区の観光名所の、あべのハルカスの営業時間が店舗によるということでしょうか？	general,restaurant,attraction
+2257	11	SYSTEM	はい、中に色々あるようです。	general,restaurant,attraction
+2257	12	USER	そうなんですね。教えていただきありがとうございました！行ってみますね！	general,restaurant,attraction
+2257	13	SYSTEM	よい旅を。	general,restaurant,attraction

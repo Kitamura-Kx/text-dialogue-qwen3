@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2886	0	USER	福岡へ旅行に行くんですが、宿泊施設を探して欲しいです。	general,hotel,weather,taxi
+2886	1	SYSTEM	はい、ご希望の条件をおきかせください	general,hotel,weather,taxi
+2886	2	USER	シティホテルで、予算は高めの所がいいです。	general,hotel,weather,taxi
+2886	3	SYSTEM	福岡で、高めのシティホテルだとヒットしませんでした。	general,hotel,weather,taxi
+2886	4	USER	では普通の予算だとどうでしょう？	general,hotel,weather,taxi
+2886	5	SYSTEM	それならば、ANA クラウンプラザホテル福岡、こちらをおすすめします。	general,hotel,weather,taxi
+2886	6	USER	ありがとうございます。住所とチェックイン開始時刻を教えてください。	general,hotel,weather,taxi
+2886	7	SYSTEM	チェックインは１４時、住所は福岡県福岡市博多区博多駅前3丁目3-3です。	general,hotel,weather,taxi
+2886	8	USER	ありがとうございます。予約もいいですか？5/23から3泊で2人で行きます。	general,hotel,weather,taxi
+2886	9	SYSTEM	予約に成功しました。予約番号は93654になります。	general,hotel,weather,taxi
+2886	10	USER	助かります。東区の5/23の天気は分かりますか？	general,hotel,weather,taxi
+2886	11	SYSTEM	5/23 福岡 東区 の天気は曇のち晴、最低気温17.2度、最高気温26.4度です。	general,hotel,weather,taxi
+2886	12	USER	ありがとうございます。ジャンボタクシーを利用したいんですが、タクシー会社を探していただけますか？	general,hotel,weather,taxi
+2886	13	SYSTEM	はい、（株）第一交通をお勧めします。	general,hotel,weather,taxi
+2886	14	USER	ありがとうございます。電話番号とキャッシュレス対応か教えてくれますか？	general,hotel,weather,taxi
+2886	15	SYSTEM	0924816400、キャッシュレスにも対応しています。	general,hotel,weather,taxi
+2886	16	USER	では予約もお願いします。ANA クラウンプラザホテル福岡から、牛すじ葱丸まで行きたいです。	general,hotel,weather,taxi
+2886	17	SYSTEM	はい、日付と時刻をおねがいします	general,hotel,weather,taxi
+2886	18	USER	5/23の14:30でお願いします！	general,hotel,weather,taxi
+2886	19	SYSTEM	予約成功しました。予約番号は648です。	general,hotel,weather,taxi
+2886	20	USER	大変助かりました！ありがとうございました。	general,hotel,weather,taxi
+2886	21	SYSTEM	よい旅を	general,hotel,weather,taxi

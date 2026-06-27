@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+874	0	USER	京都へ寮に行くのですがその際に買い物のできる施設を探しています。御室仁和寺駅近くで駐車場無料を希望します	general,shopping,restaurant,taxi
+874	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,restaurant,taxi
+874	2	USER	最寄り駅をこだわらなければありますか？	general,shopping,restaurant,taxi
+874	3	SYSTEM	はい、11件ほどございます。たとえば、道の駅 ウッディー京北というところは、いかがでしょうか？円町駅が最寄り駅となっております。	general,shopping,restaurant,taxi
+874	4	USER	わかりました、食事するところも探しているのですが中京区でお願いします	general,shopping,restaurant,taxi
+874	5	SYSTEM	かしこまりました。お食事のジャンルなど、何かご希望はございませんか？	general,shopping,restaurant,taxi
+874	6	USER	特にありません	general,shopping,restaurant,taxi
+874	7	SYSTEM	では、あーぐうる、という郷土料理のお店はいかがでしょうか？	general,shopping,restaurant,taxi
+874	8	USER	良いですね、定休日はありますか？	general,shopping,restaurant,taxi
+874	9	SYSTEM	定休日は、不定休となっております。	general,shopping,restaurant,taxi
+874	10	USER	有難うございます、行きたいと思います。当日はジャンボタクシーも利用したいのですが、キャッシュレス対応のタクシー会社はありますか？	general,shopping,restaurant,taxi
+874	11	SYSTEM	はい、ございます。ジャンボタクシーとキャッシュレスのどちらにも対応している会社ですと、エムケイ株式会社はいかがでしょうか？	general,shopping,restaurant,taxi
+874	12	USER	エムケイ株式会社で予約をお願いします。5月6日13:50に「ウッディー京北」で、目的地は「あーぐうる」でお願いします	general,shopping,restaurant,taxi
+874	13	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、64691でございます。	general,shopping,restaurant,taxi
+874	14	USER	ありがとうございました。	general,shopping,restaurant,taxi
+874	15	SYSTEM	ほかにお調べすることはございますか？	general,shopping,restaurant,taxi
+874	16	USER	いえ大丈夫です	general,shopping,restaurant,taxi
+874	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,restaurant,taxi

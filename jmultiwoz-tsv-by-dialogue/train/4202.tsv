@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4202	0	USER	横浜で食事が出来るところを探しています。wifiが使える、安めの予算で収まるお店はありませんか？	general,restaurant
+4202	1	SYSTEM	かしこまりました。それでは、焼肉カーニバルはいかがでしょうか？	general,restaurant
+4202	2	USER	そちらのお店ではwifiと駐車場は無料で利用できますか？	general,restaurant
+4202	3	SYSTEM	Wi-Fiは無料ですが、駐車場はございません。	general,restaurant
+4202	4	USER	わかりました。そのお店の住所と定休日を教えてください。	general,restaurant
+4202	5	SYSTEM	住所は神奈川県横浜市中区南仲通4丁目40 南山ビル、定休日は不定休でございます。	general,restaurant
+4202	6	USER	最寄り駅はどこになりますか？	general,restaurant
+4202	7	SYSTEM	最寄り駅は馬車道駅でございます。	general,restaurant
+4202	8	USER	ありがとうございました。	general,restaurant

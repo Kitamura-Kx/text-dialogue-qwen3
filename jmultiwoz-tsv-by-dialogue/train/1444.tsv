@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1444	0	USER	横浜に行く予定をしているのですが、その時にたまプラーザ駅のあたりで買い物をしたいと思っています。	general,shopping,hotel,weather
+1444	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,hotel,weather
+1444	2	USER	そうなんですね。それではたまプラーザ駅周辺ではなくてもいいので、他のエリアでも探してくれますか？	general,shopping,hotel,weather
+1444	3	SYSTEM	では、モザイクモール港北はいかがでしょうか？	general,shopping,hotel,weather
+1444	4	USER	モザイクモール港北というのは、どのエリアに該当するのでしょうか？住所と駐車場があるかどうかも教えてください。	general,shopping,hotel,weather
+1444	5	SYSTEM	エリアは、都筑区で住所は、神奈川県横浜市都筑区中川中央1丁目31-1-2になります。　駐車場は、無料駐車場があります。	general,shopping,hotel,weather
+1444	6	USER	分かりました。あと、無料Wi-Fiつきの旅館も探しているんですが、良い所はありませんか？	general,shopping,hotel,weather
+1444	7	SYSTEM	旅館 松島は、いかがでしょうか？	general,shopping,hotel,weather
+1444	8	USER	ありがとうございます。旅館 松島はいくらほどで宿泊できるでしょうか？	general,shopping,hotel,weather
+1444	9	SYSTEM	値段帯は、安めという以外に料金の詳細につきましては記載はございません。	general,shopping,hotel,weather
+1444	10	USER	分かりました。9/13の鶴見区の天気も知りたいのですが、この日の最低気温は分かりますか？	general,shopping,hotel,weather
+1444	11	SYSTEM	その日の天気は、曇時々晴です。	general,shopping,hotel,weather
+1444	12	USER	ありがとうございます。すいません、最低気温もお願いします。	general,shopping,hotel,weather
+1444	13	SYSTEM	最低気温は、25.1度です。	general,shopping,hotel,weather
+1444	14	USER	ありがとうございます。	general,shopping,hotel,weather
+1444	15	SYSTEM	他にご用件はありますか？	general,shopping,hotel,weather
+1444	16	USER	これで全てです。	general,shopping,hotel,weather
+1444	17	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,hotel,weather

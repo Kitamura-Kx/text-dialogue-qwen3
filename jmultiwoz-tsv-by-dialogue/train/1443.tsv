@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1443	0	USER	仙台への旅行を計画している所なんですが、駐車場が無料で良さそうな宿泊先はないでしょうか？	general,hotel,shopping,taxi
+1443	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,hotel,shopping,taxi
+1443	2	USER	そうですか。それでは駐車場がなくてもいいので、探してもらえますか？	general,hotel,shopping,taxi
+1443	3	SYSTEM	では、ホテルグリーンマークはいかがですか？	general,hotel,shopping,taxi
+1443	4	USER	そこにします。ホテルグリーンマークの住所と、最寄駅からどの位かかるかも教えてください。	general,hotel,shopping,taxi
+1443	5	SYSTEM	住所は、宮城県仙台市青葉区中央4丁目8-10です。　最寄駅の仙台駅から徒歩で5分です。	general,hotel,shopping,taxi
+1443	6	USER	ありがとうございます。あと、青葉区の商店街で買い物をしたいと思っています。駐車場も無料だといいですね。	general,hotel,shopping,taxi
+1443	7	SYSTEM	では、錦ケ丘ヒルサイドモールはいかがですか？	general,hotel,shopping,taxi
+1443	8	USER	錦ケ丘ヒルサイドモールの住所も教えてもらえますか？	general,hotel,shopping,taxi
+1443	9	SYSTEM	住所は、宮城県仙台市青葉区錦ヶ丘1丁目3-1になります。	general,hotel,shopping,taxi
+1443	10	USER	当日はタクシーで移動をしたいと思っています。ジャンボタクシーも利用できる会社を案内してくれませんか。	general,hotel,shopping,taxi
+1443	11	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,hotel,shopping,taxi
+1443	12	USER	そうですか、それではジャンボタクシーがなくていいという条件なら、見つかりそうですか？	general,hotel,shopping,taxi
+1443	13	SYSTEM	はい、（株）泉交通はいかがですか？	general,hotel,shopping,taxi
+1443	14	USER	ちなみに、（株）泉交通はキャッシュレス決済も可能ですか？この会社で10/18に配車予約をお願いします。	general,hotel,shopping,taxi
+1443	15	SYSTEM	はい、キャッシュレス決済も可能になっております。　では、出発地と目的地をお知らせください。	general,hotel,shopping,taxi
+1443	16	USER	はい。16:00にホテルグリーンマークから乗車して、行先は錦ケ丘ヒルサイドモールまでです。	general,hotel,shopping,taxi
+1443	17	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,hotel,shopping,taxi
+1443	18	USER	そうですか、時間を16:00から16:30に変更したらどうでしょうか？	general,hotel,shopping,taxi
+1443	19	SYSTEM	予約が完了しました。　予約番号は、4298です。	general,hotel,shopping,taxi
+1443	20	USER	ありがとうございます、助かりました。	general,hotel,shopping,taxi
+1443	21	SYSTEM	他にご用件はありますか？	general,hotel,shopping,taxi
+1443	22	USER	いいえ、今日はありがとうございました。	general,hotel,shopping,taxi
+1443	23	SYSTEM	承知致しました。　ありがとうございました。	general,hotel,shopping,taxi

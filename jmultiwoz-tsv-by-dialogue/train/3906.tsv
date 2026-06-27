@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3906	0	USER	那覇への旅行を計画中で、無料の駐車場とWi-fi付きの宿泊施設を探しています。予算は安めがいいです。	general,hotel,taxi
+3906	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel,taxi
+3906	2	USER	分かりました。では、駐車場は無くても構いません。	general,hotel,taxi
+3906	3	SYSTEM	ありがとうございます。では、エリアでいうと本庁にある、JR九州ホテル ブラッサム那覇はいかがでしょう？タイプは、リゾートホテルとなります。	general,hotel,taxi
+3906	4	USER	そこにしようと思います。チェックイン開始時刻と最寄駅からの所要時間は分かりますか？	general,hotel,taxi
+3906	5	SYSTEM	はい、チェックイン開始時刻は15時、最寄りの美栄橋駅から徒歩で5分となります。	general,hotel,taxi
+3906	6	USER	ありがとうございます。3/23に2名で2泊予約して欲しいのですが可能でしょうか	general,hotel,taxi
+3906	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、67768となります。	general,hotel,taxi
+3906	8	USER	ありがとうございます。当日利用できるキャッシュレス対応のタクシーを探しているのですが、ありますか？	general,hotel,taxi
+3906	9	SYSTEM	はい、三和交通はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0120100084となります。	general,hotel,taxi
+3906	10	USER	そこにしようと思います。3/23の15:00にホテル山の内からJR九州ホテル ブラッサム那覇まで予約して欲しいのですが、可能でしょうか	general,hotel,taxi
+3906	11	SYSTEM	はい、予約が完了し、ご予約番号は、96353となります。	general,hotel,taxi
+3906	12	USER	助かります。ありがとうございました。	general,hotel,taxi
+3906	13	SYSTEM	ありがとうございました。	general,hotel,taxi

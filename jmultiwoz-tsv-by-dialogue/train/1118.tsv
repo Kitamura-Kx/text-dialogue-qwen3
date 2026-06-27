@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1118	0	USER	今度、福岡の西区で観光しようと思っています。無料駐車場がある、おすすめスポットはありますか？	general,attraction,taxi
+1118	1	SYSTEM	申し訳ありません。その条件ではご案内できないのですが、いかが致しましょう？	general,attraction,taxi
+1118	2	USER	そうですか。では、駐車場は諦めます。西区の観光名所の紹介だけでいいです。	general,attraction,taxi
+1118	3	SYSTEM	では、ヤシの木ブランコはいかがでしょう？ジャンルはビーチとなります。	general,attraction,taxi
+1118	4	USER	楽しそうですね。当日、タクシーを利用したいので、キャッシュレス払いのできるタクシー会社を教えてください。	general,attraction,taxi
+1118	5	SYSTEM	承知しました。福岡昭和タクシー（株）はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0120408860となります。	general,attraction,taxi
+1118	6	USER	詳しく、ありがとうございます。6月23日の14時40分に、どん蔵というところから、ヤシの木ブランコまで予約をお願いできますか？	general,attraction,taxi
+1118	7	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,attraction,taxi
+1118	8	USER	では、時間を15時10分に変更したら、予約できますか？	general,attraction,taxi
+1118	9	SYSTEM	はい、予約が可能になりまして、ご予約番号は、18653となります。	general,attraction,taxi
+1118	10	USER	ありがとうございます。助かりました。では失礼します。	general,attraction,taxi

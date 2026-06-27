@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1016	0	USER	京都の五条駅近くで飲食店を探してます。できれば駐車場が無料だと良いです。	general,restaurant
+1016	1	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,restaurant
+1016	2	USER	駐車場はなくても大丈夫です。	general,restaurant
+1016	3	SYSTEM	ありがとうございます。1件、バル agiyaoがございます。何をご案内致しましょう？	general,restaurant
+1016	4	USER	Wi-Fiがあるかと値段帯を教えてください。	general,restaurant
+1016	5	SYSTEM	はい、値段帯は高めとなります。申し訳ありませんが、Wi-Fiの有無については不明となっております。他にご案内できることはございますか？	general,restaurant
+1016	6	USER	わかりました。そのお店を7/10の14：00に予約したいです。4人でお願いします。	general,restaurant
+1016	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、20023となります。	general,restaurant
+1016	8	USER	ありがとうございました。	general,restaurant
+1016	9	SYSTEM	他にご用件はございますか？	general,restaurant
+1016	10	USER	大丈夫です。	general,restaurant
+1016	11	SYSTEM	ありがとうございました。	general,restaurant

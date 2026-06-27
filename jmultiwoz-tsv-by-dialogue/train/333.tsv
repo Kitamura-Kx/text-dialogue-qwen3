@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+333	0	USER	横浜に旅行に行こうと考えています。	general,hotel,taxi
+333	1	SYSTEM	かしこまりました。お知りになりたい情報がございますか。	general,hotel,taxi
+333	2	USER	レストランが併設されている旅館を探してもらえませんか？	general,hotel,taxi
+333	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,hotel,taxi
+333	4	USER	そうですか。では、レストランはなくても構わないので、旅館を探して頂きたいです。	general,hotel,taxi
+333	5	SYSTEM	では旅館 皆楽園はいかがでしょうか。	general,hotel,taxi
+333	6	USER	旅館 皆楽園さんは、どのエリアにありますか？	general,hotel,taxi
+333	7	SYSTEM	エリアは金沢区でございます。	general,hotel,taxi
+333	8	USER	わかりました。ちなみに、旅館 皆楽園さんはWi-Fiは用意されていますか？	general,hotel,taxi
+333	9	SYSTEM	はい。無料で利用していただけます。	general,hotel,taxi
+333	10	USER	教えて下さりありがとうございます。旅行の際にタクシーを使いたいんです。ジャンボタクシーが使えてキャッシュレス決済ができるところはありますか？	general,hotel,taxi
+333	11	SYSTEM	申し訳ございませんが、どちらとも対応している会社はございませんでした。	general,hotel,taxi
+333	12	USER	そうですか。ではキャッシュレス決済のみ対応していれば大丈夫です。	general,hotel,taxi
+333	13	SYSTEM	では神奈川都市交通株式会社 金沢営業所がございます。	general,hotel,taxi
+333	14	USER	神奈川都市交通株式会社 金沢営業所で予約を取って頂けますか？	general,hotel,taxi
+333	15	SYSTEM	かしこまりました。条件をお聞かせいただけますか。	general,hotel,taxi
+333	16	USER	利用日は9/20の09:40で、コンフォートホテル横浜関内を出発して旅館 皆楽園まで乗車したいと考えています。	general,hotel,taxi
+333	17	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,taxi
+333	18	USER	そうですか。では時刻を10:20に遅らせると予約可能ですか？	general,hotel,taxi
+333	19	SYSTEM	その時間ですと予約が可能でございました。予約番号は33404でございます。	general,hotel,taxi
+333	20	USER	お手配ありがとうございました。	general,hotel,taxi

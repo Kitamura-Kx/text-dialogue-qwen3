@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4328	0	USER	横浜でキャッシュレス対応しているタクシー会社はありますか？	general,taxi
+4328	1	SYSTEM	はい。京浜交通株式会社 弁天橋営業所がおすすめです。	general,taxi
+4328	2	USER	そちらでは、ジャンボタクシーを使うことは出来ますか？	general,taxi
+4328	3	SYSTEM	申し訳ございません。ジャンボタクシーは非対応となっております。	general,taxi
+4328	4	USER	他にキャッシュレス対応していてジャンボタクシーが使えるところってありますか？	general,taxi
+4328	5	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,taxi
+4328	6	USER	わかりました。京浜交通株式会社 弁天橋営業所の電話番号を教えてください。	general,taxi
+4328	7	SYSTEM	はい。電話番号は0442442288です。	general,taxi
+4328	8	USER	では、予約をお願いします。５月１９日の１３時３０分で、東横イン横浜桜木町発、ズーラシア着でお願いします。	general,taxi
+4328	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、71796です。	general,taxi
+4328	10	USER	ありがとうございました。失礼します。	general,taxi
+4328	11	SYSTEM	こちらこそ、ありがとうございました。	general,taxi

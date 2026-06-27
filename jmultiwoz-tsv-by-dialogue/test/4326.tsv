@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4326	0	USER	名古屋の名東区で食事が出来るところを探してください。予算は高めで結構です。	general,restaurant
+4326	1	SYSTEM	かしこまりました。では、スペイン料理 ダリはいかがでしょうか？	general,restaurant
+4326	2	USER	そちらのお店ではwifiは使えますか？	general,restaurant
+4326	3	SYSTEM	申し訳ございません。不明となっております。	general,restaurant
+4326	4	USER	電話番号はわかりますか？	general,restaurant
+4326	5	SYSTEM	はい。0527747518でございます。	general,restaurant
+4326	6	USER	そのお店の料金情報を教えてください。	general,restaurant
+4326	7	SYSTEM	はい、コースランチが2200円となっております。	general,restaurant
+4326	8	USER	わかりました。では予約をお願いします。８月２日の１３時３０分で、２人でお願いします。	general,restaurant
+4326	9	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant
+4326	10	USER	そうですか。では２人ではなく１人にします。	general,restaurant
+4326	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、98974になります。	general,restaurant
+4326	12	USER	ありがとうございました。ではこれで失礼します。	general,restaurant
+4326	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant

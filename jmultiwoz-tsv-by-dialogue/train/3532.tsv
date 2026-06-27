@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3532	0	USER	福岡へ行くのですが、観光名所を探しています。	general,attraction,taxi
+3532	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,taxi
+3532	2	USER	早良区でWi-Fiと駐車場が無料のところがいいです。	general,attraction,taxi
+3532	3	SYSTEM	では福岡市博物館はいかがでしょうか。	general,attraction,taxi
+3532	4	USER	いいですね。あとタクシーを探しています。ジャンボタクシーを利用できて、キャッシュレス払いできる会社が良いです。	general,attraction,taxi
+3532	5	SYSTEM	では日新交通（株）がございます。	general,attraction,taxi
+3532	6	USER	電話番号を教えてください。	general,attraction,taxi
+3532	7	SYSTEM	電話番号は0120152452でございます。	general,attraction,taxi
+3532	8	USER	5/27の10:40に串匠 博多駅筑紫口店から福岡市博物館まで予約をお願いしたいです。	general,attraction,taxi
+3532	9	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,attraction,taxi
+3532	10	USER	11:20だとどうですか？	general,attraction,taxi
+3532	11	SYSTEM	その時間ですと予約が可能でございました。予約番号は25867でございます。	general,attraction,taxi
+3532	12	USER	ありがとうございます。	general,attraction,taxi
+3532	13	SYSTEM	ほかにご用件はございませんか。	general,attraction,taxi
+3532	14	USER	特にありません。	general,attraction,taxi
+3532	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi

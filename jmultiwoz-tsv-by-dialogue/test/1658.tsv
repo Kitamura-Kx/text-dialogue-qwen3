@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1658	0	USER	福岡への旅行を計画しているのですが、お買い物ができるところを案内してもらえますか？	general,shopping
+1658	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping
+1658	2	USER	博多区で駐車場が無料の場所が良いです。	general,shopping
+1658	3	SYSTEM	申し訳ありません。その条件ではご紹介できないのですが、いかが致しましょう？	general,shopping
+1658	4	USER	それなら、駐車場は有料でも構いません。	general,shopping
+1658	5	SYSTEM	では、紀伊國屋書店 福岡本店はいかがでしょう？ジャンルは書籍となります。	general,shopping
+1658	6	USER	そちらの住所を教えていただけますか？	general,shopping
+1658	7	SYSTEM	はい、住所は福岡県福岡市博多区博多駅中央街2-1 博多バスターミナル 6階となります。	general,shopping
+1658	8	USER	ありがとうございました。	general,shopping
+1658	9	SYSTEM	他にご用件はございますか？	general,shopping
+1658	10	USER	いいえ、ありません。ありがとうごさいます。	general,shopping
+1658	11	SYSTEM	ありがとうございました。	general,shopping

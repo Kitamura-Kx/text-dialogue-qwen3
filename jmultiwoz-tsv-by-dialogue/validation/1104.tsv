@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1104	0	USER	名古屋への旅行を計画しているのですが。	general,shopping,hotel
+1104	1	SYSTEM	はい。お問合せありがとうございます。	general,shopping,hotel
+1104	2	USER	当日買い物ができるところを探してください．ジャンルは書籍で駐車場を無料で利用できるところがいいです。	general,shopping,hotel
+1104	3	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,hotel
+1104	4	USER	では駐車場はどちらでもいいです。	general,shopping,hotel
+1104	5	SYSTEM	こみかるはうす 藤が丘駅前店はいかがでしょう	general,shopping,hotel
+1104	6	USER	そちらの，近辺の駅からの所要時間をおしえてください。	general,shopping,hotel
+1104	7	SYSTEM	近辺の駅からの所要時間は藤が丘駅から徒歩で1分です。	general,shopping,hotel
+1104	8	USER	ありがとうございました。あと、当日泊まる宿泊施設を探してください．駐車場とWi-Fiが無料のところがいいです。	general,shopping,hotel
+1104	9	SYSTEM	ホテル キヨシ名古屋はいかがでしょう。	general,shopping,hotel
+1104	10	USER	そちらの最寄り駅とチェックイン開始時刻をおしえてください。	general,shopping,hotel
+1104	11	SYSTEM	最寄り駅は東別院駅でチェックイン開始時刻は15:00です。	general,shopping,hotel
+1104	12	USER	ありがとうございました。	general,shopping,hotel

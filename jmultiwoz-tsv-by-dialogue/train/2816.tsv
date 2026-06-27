@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2816	0	USER	京都への旅行を計画しており、観光名所を探してほしいです。最寄りが鞍馬口駅で、できれば無料の駐車場が利用できるところがいいです。	general,attraction
+2816	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction
+2816	2	USER	それでは最寄りは考慮しません。	general,attraction
+2816	3	SYSTEM	そうしますと、6件候補がございます。伏見稲荷大社などは、いかがでしょうか？	general,attraction
+2816	4	USER	そちらの観光地はどういうジャンルで子供の入場料などはありますか？	general,attraction
+2816	5	SYSTEM	ジャンルは、神社・寺院・教会・モニュメントなど, 歴史的な散策エリアとなっております。お子様も大人も入場料0円、拝観自由でございます。	general,attraction
+2816	6	USER	ありがとうございます。こちらで以上です。	general,attraction
+2816	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

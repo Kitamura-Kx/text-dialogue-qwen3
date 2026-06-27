@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1952	0	USER	名古屋旅行を計画しているのですが、ユニモールというところで買物を考えています。そのお店はどこにありますか？	general,shopping,hotel
+1952	1	SYSTEM	かしこまりました。ユニモールですと、エリアは中村区、最寄り駅は名古屋駅、具体的な住所は愛知県名古屋市中村区名駅4丁目5-26でございます。	general,shopping,hotel
+1952	2	USER	ありがとうございます。当日泊まるところも探していただきたいのですが、守山区でできるだけ安く泊まれるところありますでしょうか？	general,shopping,hotel
+1952	3	SYSTEM	申し訳ございません。守山区で宿泊施設をお探しすることが出来ませんでした。	general,shopping,hotel
+1952	4	USER	そうですか。では他のエリアでもいいので、安く泊まれるところありましたらお願いします。	general,shopping,hotel
+1952	5	SYSTEM	かしこまりました。それでは相鉄フレッサイン 名古屋駅桜通口はいかがでしょうか？安めのビジネスホテルでございます。	general,shopping,hotel
+1952	6	USER	ではそこに決めたいと思います。電話番号とチェックアウト終了時刻、あとWi-Fiがあるかどうか教えてください。	general,shopping,hotel
+1952	7	SYSTEM	ありがとうございます。電話番号は0525512031です。チェックアウト終了時刻は午前11時です。Wi-Fiは無料でご利用いただけます。	general,shopping,hotel
+1952	8	USER	ありがとうございました。	general,shopping,hotel

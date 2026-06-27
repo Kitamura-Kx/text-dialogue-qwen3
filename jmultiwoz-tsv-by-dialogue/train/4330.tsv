@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4330	0	USER	名古屋旅行を考えています。どこか泊まれるところを探してください。駐車場が無料で使えて、レストランのついているところが希望です。	general,hotel,weather
+4330	1	SYSTEM	かしこまりました。では、ザ タワーホテル ナゴヤはいかがでしょうか？	general,hotel,weather
+4330	2	USER	そちらは何エリアのホテルですか？	general,hotel,weather
+4330	3	SYSTEM	はい。エリアは中区となっております。	general,hotel,weather
+4330	4	USER	料金情報を教えてください。	general,hotel,weather
+4330	5	SYSTEM	はい。料金情報は値段帯が普通ということ以外不明となっております。	general,hotel,weather
+4330	6	USER	チェックイン開始時刻は何時ですか？	general,hotel,weather
+4330	7	SYSTEM	はい。15:00でございます。	general,hotel,weather
+4330	8	USER	わかりました。ところで、４月１２日の港区の天気情報はわかりますか？	general,hotel,weather
+4330	9	SYSTEM	はい。4/12の港区の天気予報は晴時々雨となっております。最低気温は10.4度、最高気温は23度になる予報です。	general,hotel,weather
+4330	10	USER	ありがとうございました。では、失礼します。	general,hotel,weather
+4330	11	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,hotel,weather

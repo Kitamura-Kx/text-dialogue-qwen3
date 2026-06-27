@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1346	0	USER	福岡へ行こうと思っています。レストランが併設されていて、Wi-Fiが無料で利用できる宿泊施設を探していただきたいです。	general,hotel
+1346	1	SYSTEM	A GOOD DAY FUKUOKA RIVERSIDEは、いかがでしょうか？	general,hotel
+1346	2	USER	すみません。先ほどの条件に加えてシティホテルで探していただきたいです。	general,hotel
+1346	3	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,hotel
+1346	4	USER	では宿のタイプは考慮せず探していただけますか？	general,hotel
+1346	5	SYSTEM	ソラリア西鉄ホテル福岡は、いかがですか？	general,hotel
+1346	6	USER	そちらの近辺の駅からの所要時間を教えていただけますでしょうか。	general,hotel
+1346	7	SYSTEM	近辺の駅からの所要時間は、天神駅から徒歩で5分、西鉄福岡（天神）駅から徒歩で1分、天神南駅から徒歩で4分です。	general,hotel
+1346	8	USER	わかりました。ありがとうございます。	general,hotel
+1346	9	SYSTEM	他にご用件はありますか？	general,hotel
+1346	10	USER	いいえ、大丈夫です。ありがとうございました。	general,hotel

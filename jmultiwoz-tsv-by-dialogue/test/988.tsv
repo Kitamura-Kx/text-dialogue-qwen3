@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+988	0	USER	京都への旅行予定なのですが、中京区で高めの飲食店はありますか？	general,restaurant,hotel,weather
+988	1	SYSTEM	そういたしますと、Fuji屋 京色という和食のお店はいかがでしょうか？最寄り駅は、烏丸御池駅でございます。	general,restaurant,hotel,weather
+988	2	USER	そこにします。料金情報を教えてください。	general,restaurant,hotel,weather
+988	3	SYSTEM	料金は、夜の部5500円、昼の部4400円となっております。	general,restaurant,hotel,weather
+988	4	USER	わかりました。宿泊施設も探しているのですが、Wi-Fiが無料で利用できるところを調べてください。	general,restaurant,hotel,weather
+988	5	SYSTEM	かしこまりました。99件ほどご案内できるのですが、他にエリアなど、ご希望はございませんか？	general,restaurant,hotel,weather
+988	6	USER	いえ、特に大丈夫です。	general,restaurant,hotel,weather
+988	7	SYSTEM	では、わじまや旅館京都市という旅館はいかがでしょうか？お値段帯はお安めとなっております。	general,restaurant,hotel,weather
+988	8	USER	そこにします。3人で1/23から2泊の予約をお願いできますか？	general,restaurant,hotel,weather
+988	9	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、67361です。	general,restaurant,hotel,weather
+988	10	USER	ありがとうございます。当日1/23の東山区の天気も教えてください。	general,restaurant,hotel,weather
+988	11	SYSTEM	はい、当日の天気は、晴れのち曇りの予報です。最高気温は14度になる見込みです。	general,restaurant,hotel,weather
+988	12	USER	わかりました。最低気温も知りたいです。	general,restaurant,hotel,weather
+988	13	SYSTEM	最低気温は、1.8度まで下がる予想となっております。	general,restaurant,hotel,weather
+988	14	USER	了解です。ありがとうございます。	general,restaurant,hotel,weather
+988	15	SYSTEM	他にお調べすることはございませんか？	general,restaurant,hotel,weather
+988	16	USER	はい、大丈夫です。	general,restaurant,hotel,weather
+988	17	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,restaurant,hotel,weather

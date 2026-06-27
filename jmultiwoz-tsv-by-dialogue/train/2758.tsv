@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2758	0	USER	福岡への旅行を希望しています。当日泊まれる宿泊施設を探して欲しく、旅館タイプを希望です。条件としてレストランが併設されており、無料のWi-Fiが利用できるところがいいです。	general,hotel
+2758	1	SYSTEM	承知しました。エリアでいうと博多区にある、住吉館はいかがでしょう？	general,hotel
+2758	2	USER	そちらの値段帯と住所を教えてください。	general,hotel
+2758	3	SYSTEM	はい、値段帯は安め、住所は福岡県福岡市博多区住吉2丁目5-19となります。	general,hotel
+2758	4	USER	ありがとうございます。こちらからは以上です。	general,hotel
+2758	5	SYSTEM	ありがとうございました。	general,hotel

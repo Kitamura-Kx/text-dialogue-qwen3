@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1325	0	USER	大阪への旅行を計画しています．	general,restaurant
+1325	1	SYSTEM	はい。お問合せありがとうございます。	general,restaurant
+1325	2	USER	当日食事ができる飲食店を探してください．予算は普通が希望で最寄り駅が心斎橋駅のところがいいです。	general,restaurant
+1325	3	SYSTEM	楽韓堂 心斎橋店はいかがですか。	general,restaurant
+1325	4	USER	いいですね。そちらの電話番号，近辺の駅からの所要時間，料金情報をおしえてください。	general,restaurant
+1325	5	SYSTEM	電話番号は0662124630で近辺の駅からの所要時間は心斎橋駅から徒歩で4分で、料金情報は不明です	general,restaurant
+1325	6	USER	ありがとうございます。そこで人数は3人、日付は3/4で時間は10:30で予約して欲しいです。	general,restaurant
+1325	7	SYSTEM	すみません、そちらの条件で予約できませんでした。	general,restaurant
+1325	8	USER	でしたら人数は2人出大丈夫です。	general,restaurant
+1325	9	SYSTEM	予約できました。予約番号は40818になります。	general,restaurant
+1325	10	USER	ありがとうございます。	general,restaurant

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3575	0	USER	今度東京へ行くんですが、白金台駅付近で無料駐車場がある観光名所を探してもらえますか？	general,attraction,taxi
+3575	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,taxi
+3575	2	USER	じゃあ最寄り駅にはこだわならいことにします。	general,attraction,taxi
+3575	3	SYSTEM	では根津神社はいかがでしょうか。	general,attraction,taxi
+3575	4	USER	そこはどのようなジャンルの観光名所ですか？	general,attraction,taxi
+3575	5	SYSTEM	ジャンルは神社・寺院・教会・モニュメントなどでございます。	general,attraction,taxi
+3575	6	USER	ありがとうございます。あと、ジャンボタクシーが利用できるタクシー会社を探してもらえますか？	general,attraction,taxi
+3575	7	SYSTEM	では昭栄自動車がございます。こちらキャッシュレスにも対応しております。	general,attraction,taxi
+3575	8	USER	わかりました。そこの電話番号も教えてもらえますか。	general,attraction,taxi
+3575	9	SYSTEM	電話番号は0357552151でございます。	general,attraction,taxi
+3575	10	USER	ありがとうございます。では予約をお願いできますか？ 7/22の14：30につるや旅館を出発して、根津神社まで利用したいです。	general,attraction,taxi
+3575	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は49957でございます。	general,attraction,taxi
+3575	12	USER	ありがとうございました。以上で結構です。	general,attraction,taxi
+3575	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,taxi

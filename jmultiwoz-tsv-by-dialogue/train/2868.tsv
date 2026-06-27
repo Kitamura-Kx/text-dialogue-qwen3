@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2868	0	USER	東京のタクシー会社を調べてください。キャッシュレス対応をしている会社はありますか？	general,taxi
+2868	1	SYSTEM	東京でキャッシュレス対応しているタクシー会社は２０件あります。	general,taxi
+2868	2	USER	おすすめを教えてください。	general,taxi
+2868	3	SYSTEM	それでは東京交通はいかがでしょうか？	general,taxi
+2868	4	USER	いいですね。電話番号も教えていただけますか？	general,taxi
+2868	5	SYSTEM	0423914455になります。	general,taxi
+2868	6	USER	では予約もお願いします。10/29の13時で、個室居酒屋 番屋 蒲田駅前店から行燈旅館までの利用です。	general,taxi
+2868	7	SYSTEM	10/29の13時、個室居酒屋 番屋 蒲田駅前店から行燈旅館まで、予約成功しました。予約番号は18460になります。	general,taxi
+2868	8	USER	ありがとうございました！	general,taxi

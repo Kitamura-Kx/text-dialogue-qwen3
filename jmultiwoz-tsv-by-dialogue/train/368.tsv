@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+368	0	USER	こんにちは。横浜で買い物ができるところを探しています。	general,shopping,attraction,weather
+368	1	SYSTEM	承知しました。他にご希望はございますか？	general,shopping,attraction,weather
+368	2	USER	サウスウッド、という名前のところはありますか？	general,shopping,attraction,weather
+368	3	SYSTEM	はい、ございます。何をご案内致しましょうか？	general,shopping,attraction,weather
+368	4	USER	そちらに駐車場があるかどうか知りたいです。	general,shopping,attraction,weather
+368	5	SYSTEM	はい、駐車場は無料でご利用いただけます。他にご用件はございますか？	general,shopping,attraction,weather
+368	6	USER	ありがとうございます。あと、当日観光したいのですが、Wi-Fiが無料のところはありますか？	general,shopping,attraction,weather
+368	7	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,shopping,attraction,weather
+368	8	USER	では、Wi-Fiはなくても構いません。	general,shopping,attraction,weather
+368	9	SYSTEM	ありがとうございます。他にご希望はございますか？	general,shopping,attraction,weather
+368	10	USER	他は特に大丈夫です。	general,shopping,attraction,weather
+368	11	SYSTEM	では、はまぎん こども宇宙科学館はいかがでしょう？何をご案内致しましょうか？	general,shopping,attraction,weather
+368	12	USER	いいですね、そこに行ってみます。ジャンルはどんな感じですか？	general,shopping,attraction,weather
+368	13	SYSTEM	ジャンルは科学館となります。他にご案内できることはございますか？	general,shopping,attraction,weather
+368	14	USER	電話番号と最寄り駅を教えていただきたいです！	general,shopping,attraction,weather
+368	15	SYSTEM	はい、電話番号は0458321166、最寄り駅は洋光台駅、駅からの所要時間は徒歩で3分となります。他にご用件はございますか？	general,shopping,attraction,weather
+368	16	USER	ありがとうございます。あと最後に、12/7の戸塚区の天候を知りたいです。	general,shopping,attraction,weather
+368	17	SYSTEM	はい、天気は曇、最低気温2.9度、最高気温10.2度となります。他のご用件はございませんか？	general,shopping,attraction,weather
+368	18	USER	分かりました。以上です、ありがとうございました。	general,shopping,attraction,weather
+368	19	SYSTEM	ありがとうございました。	general,shopping,attraction,weather

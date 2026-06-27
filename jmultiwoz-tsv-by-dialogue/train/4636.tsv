@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4636	0	USER	すみません、福岡旅行を計画しています。西区で、駐車場が無料の、予算は普通の飲食店はありませんか？	general,restaurant
+4636	1	SYSTEM	かしこまりました。では、旬や みなくちはいかがでしょうか。	general,restaurant
+4636	2	USER	良さそうですね。そのお店の住所と料金情報はどうなっていますか？	general,restaurant
+4636	3	SYSTEM	住所は福岡県福岡市西区姪の浜3丁目11-8で、料金情報としましては本日の刺身が790円、馬刺しの赤身、タテガミが1600円、明太子の藁焼が620円となっております。	general,restaurant
+4636	4	USER	よくわかりました。ありがとうございます。	general,restaurant

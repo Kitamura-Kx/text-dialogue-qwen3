@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3089	0	USER	大阪へ行きます。駐車場が無料なビジネスホテル教えて下さい。	general,hotel,restaurant
+3089	1	SYSTEM	大阪で駐車場無料のビジネスホテルは、アスティルホテル十三プレシャス、ここです。	general,hotel,restaurant
+3089	2	USER	どのへんになりますか？	general,hotel,restaurant
+3089	3	SYSTEM	淀川区です。	general,hotel,restaurant
+3089	4	USER	値段とチェックアウト時間教えて下さい。	general,hotel,restaurant
+3089	5	SYSTEM	値段帯は安めですが、料金情報詳細は不明です。チェックアウトは１１時です。	general,hotel,restaurant
+3089	6	USER	そうですか。当日、安くて鍋があるお店さがしています。	general,hotel,restaurant
+3089	7	SYSTEM	大阪で、安価なジャンル鍋の飲食店はありません。	general,hotel,restaurant
+3089	8	USER	では予算は気にしません。	general,hotel,restaurant
+3089	9	SYSTEM	大阪でジャンル鍋ですと、京もつ鍋ホルモン朱々 東三国店、こちらをお勧めします。	general,hotel,restaurant
+3089	10	USER	どのへんですか？	general,hotel,restaurant
+3089	11	SYSTEM	淀川区です。	general,hotel,restaurant
+3089	12	USER	では、8月19日の16時10分で、2人予約お願いします。	general,hotel,restaurant
+3089	13	SYSTEM	予約失敗してしまいました。	general,hotel,restaurant
+3089	14	USER	16時50分ならどうですか？	general,hotel,restaurant
+3089	15	SYSTEM	予約成功しました。予約番号は35158です。	general,hotel,restaurant
+3089	16	USER	ありがとうございます。では。	general,hotel,restaurant
+3089	17	SYSTEM	よい旅を	general,hotel,restaurant

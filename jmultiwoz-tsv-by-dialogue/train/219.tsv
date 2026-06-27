@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+219	0	USER	大阪へ旅行を計画中のため、宿泊先を探しています。	general,hotel,attraction,weather
+219	1	SYSTEM	大阪の宿泊施設は99件ご案内できますが、なにかご希望の条件はございますか？	general,hotel,attraction,weather
+219	2	USER	予算は安めで駐車場が無料で利用できる旅館はありますか？	general,hotel,attraction,weather
+219	3	SYSTEM	かしこまりました。ビジネスホテルで、アスティルホテル十三プレシャスが1件見つかりました。	general,hotel,attraction,weather
+219	4	USER	旅館では予算安めで駐車場が無料のところはありませんか？	general,hotel,attraction,weather
+219	5	SYSTEM	大変申し訳ありません。旅館となりますと、ご案内できる施設がございません。いかがいたしましょうか？	general,hotel,attraction,weather
+219	6	USER	ではアスティルホテル十三プレシャスにしようと思うので、料金を教えてください。	general,hotel,attraction,weather
+219	7	SYSTEM	料金情報につきまして、値段帯はお安めとなっておりますが、詳しくは不明です。なお、駐車場は無料でご利用いただけます。	general,hotel,attraction,weather
+219	8	USER	わかりました、ありがとうございます。あと駐車場が無料で利用できる観光名所も探してもらえますか？	general,hotel,attraction,weather
+219	9	SYSTEM	かしこまりました。3件候補があります。鶴見緑地湯元 水春、難波神社、大阪天満宮で気になるところはございますか？	general,hotel,attraction,weather
+219	10	USER	鶴見緑地湯元 水春が気になるのですが、Wi-Fiが使えるかわかりますか？	general,hotel,attraction,weather
+219	11	SYSTEM	はい。こちら、無料でWiFiをご利用いただけます。	general,hotel,attraction,weather
+219	12	USER	ありがとうございます。あと9/29の大正区の最高気温も教えてください。	general,hotel,attraction,weather
+219	13	SYSTEM	大阪、大正区の9/29の天気は曇り、最高気温は25.5度の予報です。	general,hotel,attraction,weather
+219	14	USER	ありがとうございます。	general,hotel,attraction,weather
+219	15	SYSTEM	他になにか、お探しの情報はございますか？	general,hotel,attraction,weather
+219	16	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel,attraction,weather
+219	17	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,hotel,attraction,weather

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+572	0	USER	こんばんは！今、横浜へ旅行を計画しているんですが、観光名所を探していまして。	general,attraction,restaurant,taxi
+572	1	SYSTEM	はい、何かご希望はございますか？	general,attraction,restaurant,taxi
+572	2	USER	最寄り駅が中山駅のところで、WiFiと駐車場が無料で使えるところって、ありますかね？	general,attraction,restaurant,taxi
+572	3	SYSTEM	申し訳ありません、その条件ではご紹介ができません。いかが致しましょう？	general,attraction,restaurant,taxi
+572	4	USER	そうでしたか。じゃぁ、最寄り駅は特に指定しなくて大丈夫なので、もう一度探してもらえますか？	general,attraction,restaurant,taxi
+572	5	SYSTEM	承知しました。三溪園、カップヌードルミュージアム 横浜の2件がございます。	general,attraction,restaurant,taxi
+572	6	USER	カップヌードルミュージアム 横浜が気になりますね。そこって、定休日はいつですか？	general,attraction,restaurant,taxi
+572	7	SYSTEM	はい、定休日はございません。	general,attraction,restaurant,taxi
+572	8	USER	そうなんですね！ありがとうございます。あと、当日食事をする所も探してるんですが、保土ケ谷区にある、うどんやそばのお店を探してもらえますか？	general,attraction,restaurant,taxi
+572	9	SYSTEM	はい、松葉寿しがございます。値段帯は普通、最寄りの西谷駅から徒歩で6分となります。	general,attraction,restaurant,taxi
+572	10	USER	お寿司屋さんでうどんやそばも取り扱ってるんですね。そこの住所ってわかりますか？	general,attraction,restaurant,taxi
+572	11	SYSTEM	はい、住所は神奈川県横浜市保土ケ谷区西谷町1丁目23-1252-6 松葉寿し総本店となります。	general,attraction,restaurant,taxi
+572	12	USER	わかりました！ありがとうございます。当日の予約もお願いしたいんですけど、7月21日の13時20分に4人で予約って、取れますか？	general,attraction,restaurant,taxi
+572	13	SYSTEM	はい、予約させていただきました。ご予約番号は、26249となります。	general,attraction,restaurant,taxi
+572	14	USER	助かります！じゃぁあと、タクシー会社も探していただこうかと思うんですが、キャッシュレス払いオッケーな所、どこか良い所ありますか？	general,attraction,restaurant,taxi
+572	15	SYSTEM	はい、では、日本サントスキャブ株式会社はいかがでしょう？ジャンボタクシーにも対応しております。電話番号は、0120193117となります。	general,attraction,restaurant,taxi
+572	16	USER	ありがとうございます。わかりました！じゃぁ、そちらも予約をお願いします。7月21日の11時50分で、カップヌードルミュージアム 横浜から、松葉寿しまでお願いします。	general,attraction,restaurant,taxi
+572	17	SYSTEM	承知しました。予約が完了し、ご予約番号は、84055となります。	general,attraction,restaurant,taxi
+572	18	USER	ありがとうございます！本当に助かりました！あとは大丈夫です。	general,attraction,restaurant,taxi
+572	19	SYSTEM	ありがとうございました。	general,attraction,restaurant,taxi

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4338	0	USER	那覇への旅行を計画しています、牧志駅が最寄り駅で駐車場とwifiが無料で利用できる観光名所を教えてください	general,attraction,taxi
+4338	1	SYSTEM	かしこまりました。では、ゆんたくあしび温泉 りっかりっか湯はいかがでしょうか？	general,attraction,taxi
+4338	2	USER	ありがとうございます、当日の移動をタクシーで行いたいのですがキャッシュレス払いとジャンボタクシーを利用できるタクシー会社はありませんか	general,attraction,taxi
+4338	3	SYSTEM	それでしたら、丸二タクシーがおすすめです。	general,attraction,taxi
+4338	4	USER	ありがとうございます、電話番号を教えていただくことはできますか	general,attraction,taxi
+4338	5	SYSTEM	はい。電話番号は0988552140です。	general,attraction,taxi
+4338	6	USER	3月6日の12時40分にあしび温泉 りっかりっか湯からドトールコーヒーショップ 沖縄県庁店まで予約していただくことは可能ですか	general,attraction,taxi
+4338	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、64782です。	general,attraction,taxi
+4338	8	USER		general,attraction,taxi

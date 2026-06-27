@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3911	0	USER	東京への旅行を計画中で、銀座 魚ばかというお店を利用する予定です。料金情報と値段帯、定休日を教えてください。	general,restaurant,weather
+3911	1	SYSTEM	はい、定休日は日曜日と祝日、値段帯は高めとなります。料金情報としては、豪華食材贅沢コースが7700円となります。	general,restaurant,weather
+3911	2	USER	ありがとうございます。9/30の14:40に4名で予約して欲しいのですが可能でしょうか。	general,restaurant,weather
+3911	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、86341となります。	general,restaurant,weather
+3911	4	USER	ありがとうございます。9/30の文京区の最低気温を教えてください。	general,restaurant,weather
+3911	5	SYSTEM	はい、最低気温は17.9度となります。	general,restaurant,weather
+3911	6	USER	助かります。ありがとうございました。	general,restaurant,weather
+3911	7	SYSTEM	ありがとうございました。	general,restaurant,weather

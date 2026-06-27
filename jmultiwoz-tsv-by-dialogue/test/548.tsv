@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+548	0	USER	仙台への旅行を計画しているのですが、当日訪れる観光名所を探してください。	general,attraction
+548	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,attraction
+548	2	USER	地区は宮城野区でWi-Fiが無料で利用できるところがよいです。	general,attraction
+548	3	SYSTEM	かしこまりました。そうしますと、2件ほどご案内可能です。たとえば、仙台アンパンマンこどもミュージアム&モールというところは、いかがでしょうか？	general,attraction
+548	4	USER	駐車場が無料で利用できるところがよいのですが。	general,attraction
+548	5	SYSTEM	そういたしますと、仙台うみの杜水族館というところ1件のみ、ご案内可能です。いかがでしょうか？	general,attraction
+548	6	USER	ありましたね。よかったです。では、定休日，最寄り駅を教えてください。	general,attraction
+548	7	SYSTEM	こちらの施設は、定休日はございません。最寄り駅は中野栄駅です。駅から徒歩15分、またはバスで10分となります。	general,attraction
+548	8	USER	ありがとうございました。	general,attraction

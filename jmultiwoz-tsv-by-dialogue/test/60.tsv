@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+60	0	USER	京都に行きたいんですが。	general,restaurant,attraction,shopping
+60	1	SYSTEM	京都ですね。 お手伝いできることはございますか？	general,restaurant,attraction,shopping
+60	2	USER	楽仙樓というお店で食事をしようと思っているんですが、そういうお店ってありますか？	general,restaurant,attraction,shopping
+60	3	SYSTEM	はい、下京区にございます。	general,restaurant,attraction,shopping
+60	4	USER	あとで電話したいので、番号を教えてもらえますか？	general,restaurant,attraction,shopping
+60	5	SYSTEM	電話番号は、0753514900となっております。	general,restaurant,attraction,shopping
+60	6	USER	予約も入れほしいんですが、2名でお願いできますか？行くのは5月9日の予定です。	general,restaurant,attraction,shopping
+60	7	SYSTEM	承知致しました。 お時間はお決まりでしょうか？	general,restaurant,attraction,shopping
+60	8	USER	昼過ぎの12時50分でお願いします。	general,restaurant,attraction,shopping
+60	9	SYSTEM	ありがとうございます。 ご予約完了致しました。 予約番号は、71021　となっております。	general,restaurant,attraction,shopping
+60	10	USER	それと観光もしたいんです。フリーWiFiがあるところで探したいんですけど。	general,restaurant,attraction,shopping
+60	11	SYSTEM	承知致しました。 フリーWiFiのある観光名所は、国立京都国際会館がございます。	general,restaurant,attraction,shopping
+60	12	USER	えーっとそれは、どんな施設なんですか？	general,restaurant,attraction,shopping
+60	13	SYSTEM	コンサートやショーが行われるところのようです。	general,restaurant,attraction,shopping
+60	14	USER	なるほど、そうなんですね。あとですね、買い物に行くところについても教えてもらいたいです。	general,restaurant,attraction,shopping
+60	15	SYSTEM	承知致しました。 エリアなどのご希望はございますか？	general,restaurant,attraction,shopping
+60	16	USER	京都タカシマヤというお店なんですが。	general,restaurant,attraction,shopping
+60	17	SYSTEM	はい、下京区にございますね。 電話番号は、0752218811、住所は京都市下京区四条通河原町西入真町52となっております。	general,restaurant,attraction,shopping
+60	18	USER	ありがとうございます。営業時間もいいですか？	general,restaurant,attraction,shopping
+60	19	SYSTEM	営業時間は、10時から20時となっております。	general,restaurant,attraction,shopping
+60	20	USER	わかりました。ありがとうございます。	general,restaurant,attraction,shopping
+60	21	SYSTEM	他にご用件はございますか？	general,restaurant,attraction,shopping
+60	22	USER	いえ、もう十分助けてもらいました。ありがとうございました。	general,restaurant,attraction,shopping
+60	23	SYSTEM	承知致しました。ありがとうございました。	general,restaurant,attraction,shopping

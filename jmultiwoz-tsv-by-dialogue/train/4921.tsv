@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4921	0	USER	札幌に行くので、ショッピングできる場所を探しています	general,shopping,weather
+4921	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,shopping,weather
+4921	2	USER	上野幌駅の近くで、南区にある駐車場が無料の場所をお願いします	general,shopping,weather
+4921	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,shopping,weather
+4921	4	USER	清田区ではどうですか？	general,shopping,weather
+4921	5	SYSTEM	そういたしますと、TSUTAYA 美しが丘というお店が１件ご案内可能です。いかがでしょうか？	general,shopping,weather
+4921	6	USER	いいですね。駅からどれくらいかかるかと、住所を教えてもらえますか？	general,shopping,weather
+4921	7	SYSTEM	かしこまりました。最寄り駅は上野幌駅ですが、駅からタクシーで14分ほどかかります。住所は、北海道札幌市清田区美しが丘3条4丁目1番10号でございます。	general,shopping,weather
+4921	8	USER	あと、定休日もお願いします	general,shopping,weather
+4921	9	SYSTEM	はい、定休日はこちらのお店はございません。	general,shopping,weather
+4921	10	USER	分かりました。天気予報も案内してもらえますか？	general,shopping,weather
+4921	11	SYSTEM	かしこまりました。天気をお調べするエリアとお日付をお願いできますか？	general,shopping,weather
+4921	12	USER	9月15日、豊平区の天気と気温をお願いします	general,shopping,weather
+4921	13	SYSTEM	かしこまりました。当日の天気は、雨時々曇の予報です。最低気温が13.6度、最高気温は22度の予想となっております。	general,shopping,weather
+4921	14	USER	ありがとうございました。以上です。	general,shopping,weather
+4921	15	SYSTEM	かしこまりました。本日はご利用ありがとうございました。	general,shopping,weather

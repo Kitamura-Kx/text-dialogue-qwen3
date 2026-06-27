@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4521	0	USER	大阪への旅行を計画しているんですけど、泊まれるところを探してもらえますか？	general,hotel,attraction,weather
+4521	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,attraction,weather
+4521	2	USER	そうですね、シティホテルでWi-Fiが無料で、予算は高めが良いのですが。	general,hotel,attraction,weather
+4521	3	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,hotel,attraction,weather
+4521	4	USER	それなら予算を安めに変更してもらえますか？	general,hotel,attraction,weather
+4521	5	SYSTEM	では大阪東急REIホテルはいかがでしょうか。	general,hotel,attraction,weather
+4521	6	USER	いいですね、そちらの電話番号と近辺の駅からの所要時間を教えて下さい。	general,hotel,attraction,weather
+4521	7	SYSTEM	電話番号は0663150109で、大阪駅から徒歩で10分、大阪梅田駅から徒歩で10分、梅田駅から徒歩で10分となっております。	general,hotel,attraction,weather
+4521	8	USER	美術館や博物館にも行きたいんですけど、Wi-Fiが無料で使えるところは中央区にありますか？	general,hotel,attraction,weather
+4521	9	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,attraction,weather
+4521	10	USER	それならWi-Fiは外して下さい。	general,hotel,attraction,weather
+4521	11	SYSTEM	かしこまりました。では道頓堀 コナモンミュージアムがございます。	general,hotel,attraction,weather
+4521	12	USER	そこの最寄り駅はわかりますか？	general,hotel,attraction,weather
+4521	13	SYSTEM	最寄り駅はなんば駅でございます。	general,hotel,attraction,weather
+4521	14	USER	1/8の此花区のお天気と最低気温も教えて下さい。	general,hotel,attraction,weather
+4521	15	SYSTEM	はい。当日の天気は曇で、最低気温は4.1度となっております。	general,hotel,attraction,weather
+4521	16	USER	ありがとうございます。	general,hotel,attraction,weather
+4521	17	SYSTEM	ほかにご用件はございませんか。	general,hotel,attraction,weather
+4521	18	USER	はい、大丈夫です。ありがとうございました。	general,hotel,attraction,weather
+4521	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction,weather

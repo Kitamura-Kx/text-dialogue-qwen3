@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+705	0	USER	那覇に行くのですが、本庁地区にレストラン併設の宿泊施設はありますか？	general,hotel,weather
+705	1	SYSTEM	はい、では、ホテルランタナ那覇国際通りはいかがでしょう？何かご案内致しましょうか？	general,hotel,weather
+705	2	USER	そのホテルに、Wi-Fiはありますか？	general,hotel,weather
+705	3	SYSTEM	はい、無料でご利用いただけます。	general,hotel,weather
+705	4	USER	ではそのホテルの予約をお願いします。7/12 から2泊、2名でお願いしたいです。	general,hotel,weather
+705	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、71199となります。他にご案内できることはございますか？	general,hotel,weather
+705	6	USER	あと、首里の7/12 最高気温がどれくらいになるのかを教えてください。	general,hotel,weather
+705	7	SYSTEM	承知しました。天気は晴、最低気温28.6度、最高気温28.8度となります。他にご用件はございますか？	general,hotel,weather
+705	8	USER	今日のお願いは以上です。ありがとうございました。	general,hotel,weather
+705	9	SYSTEM	ありがとうございました。	general,hotel,weather

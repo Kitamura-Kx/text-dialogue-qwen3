@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+891	0	USER	こんばんは！横浜へ旅行しに行こうと思ってるので、案内をお願いします。	general,shopping,taxi
+891	1	SYSTEM	希望条件などは、ありますか？	general,shopping,taxi
+891	2	USER	買い物できるところを探しているんですが、神奈川区にある、駐車場が無料で使えるところでお願いしたいです。	general,shopping,taxi
+891	3	SYSTEM	六角橋商店街	general,shopping,taxi
+891	4	USER	ありがとうございます！六角橋商店街ですね。そちらの最寄り駅って、どちらになりますか？	general,shopping,taxi
+891	5	SYSTEM	最寄り駅は、白楽駅になります。	general,shopping,taxi
+891	6	USER	ありがとうございます！では、タクシーも探してもらいたいのですが、ジャンボタクシーを利用できるところだと、どこかありますか？	general,shopping,taxi
+891	7	SYSTEM	株式会社グリーンキャブは、いかがですか？	general,shopping,taxi
+891	8	USER	では、そちらの予約をお願いします！５月28日の９時30分に、ホテル ミライから、六角橋商店街まででお願いします。	general,shopping,taxi
+891	9	SYSTEM	予約出来ました。予約番号は、51812です。	general,shopping,taxi
+891	10	USER	タクシーの手配、ありがとうございます！	general,shopping,taxi
+891	11	SYSTEM	他にご用件はございますか？	general,shopping,taxi
+891	12	USER	あとは、もう大丈夫です。この度はありがとうございました！	general,shopping,taxi
+891	13	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,taxi

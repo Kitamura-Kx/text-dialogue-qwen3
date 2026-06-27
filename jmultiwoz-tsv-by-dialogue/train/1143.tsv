@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1143	0	USER	仙台へ旅行を計画しておりますが、当日タクシーを利用したいです。ジャンボタクシーが使える所はありますか？	general,taxi
+1143	1	SYSTEM	はい。ございます。（有）光泉タクシーはいかがですか。	general,taxi
+1143	2	USER	そこはキャッシュレス対応してますか？	general,taxi
+1143	3	SYSTEM	はい。キャッシュレスにも対応しております。	general,taxi
+1143	4	USER	それでは予約をお願いします。日時は12/18、9:30出発で丸源ラーメン仙台卸町店からR&Bホテル仙台東口まで行きたいです。	general,taxi
+1143	5	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,taxi
+1143	6	USER	出発時間を10:10に変更であれば予約できそうですか？	general,taxi
+1143	7	SYSTEM	はい。その時間ですと予約が可能でございました。予約番号は89450でございます。	general,taxi
+1143	8	USER	ありがとうございます。	general,taxi
+1143	9	SYSTEM	ほかにご用件はございますか。	general,taxi
+1143	10	USER	特にありません。	general,taxi
+1143	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

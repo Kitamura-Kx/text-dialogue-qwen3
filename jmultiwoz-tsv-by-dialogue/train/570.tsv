@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+570	0	USER	こんにちは！今度、名古屋に旅行に行くので、買い物ができる所を探してもらえますか？	general,shopping,attraction,weather
+570	1	SYSTEM	承知しました。エリアなどのご希望はございますか？	general,shopping,attraction,weather
+570	2	USER	ファッション系のところで、駐車場が無料で使える所が良いです。	general,shopping,attraction,weather
+570	3	SYSTEM	ありがとうございます。東急ハンズ名古屋店、アイスランドマーケット、コメ兵 本館の3件ございます。	general,shopping,attraction,weather
+570	4	USER	じゃぁ、東急ハンズ名古屋店に行ってみようかな。そこの定休日とエリアについて、教えてもらえますか？	general,shopping,attraction,weather
+570	5	SYSTEM	はい、エリアは中村区、定休日は不定休となっております。	general,shopping,attraction,weather
+570	6	USER	そうなんですね！わかりました。あと、他にも観光名所を探してるんですけど、それも地区は中村区でWiFiが無料で使えるような所、どこかありますかね？	general,shopping,attraction,weather
+570	7	SYSTEM	はい、ミッドランドスクエア 屋外展望台 スカイプロムナードがございます。ジャンルは展望台、タワー、絶景、最寄りの名古屋駅から徒歩で7分となります。	general,shopping,attraction,weather
+570	8	USER	良さそうな所ですね！駐車場はありますか？	general,shopping,attraction,weather
+570	9	SYSTEM	はい、無料でご利用いただけます。	general,shopping,attraction,weather
+570	10	USER	良かったです。定休日についてもわかりますか？	general,shopping,attraction,weather
+570	11	SYSTEM	定休日はございません。	general,shopping,attraction,weather
+570	12	USER	そうなんですね！なるほど。じゃぁあと１点だけ、中川区の11月13日の天気についても教えてもらえると助かるのですが。	general,shopping,attraction,weather
+570	13	SYSTEM	はい、当日天気は晴、最低気温9.1度、最高気温16.5度となります。	general,shopping,attraction,weather
+570	14	USER	ありがとうございます！ご案内いただき、助かりました！	general,shopping,attraction,weather
+570	15	SYSTEM	ありがとうございました。	general,shopping,attraction,weather

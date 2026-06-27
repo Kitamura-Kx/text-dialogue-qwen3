@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2973	0	USER	今度仙台へ行くんですが、予算が普通くらいのWi-Fiが無料の飲食店はありますか？	general,restaurant,taxi
+2973	1	SYSTEM	はい、エリアでいうと青葉区にある、味の牛たん喜助 駅前中央本店はいかがでしょう？ジャンルは、郷土料理、和食となります。	general,restaurant,taxi
+2973	2	USER	ありがとうございます。ではそこの予約をお願いできますか？12/7の16：40で４名です。	general,restaurant,taxi
+2973	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、22759となります。	general,restaurant,taxi
+2973	4	USER	ありがとうございます。あと、キャッシュレス払いができてジャンボタクシーが利用できるタクシー会社を探してもらえますか？	general,restaurant,taxi
+2973	5	SYSTEM	はい、平和交通（株）はいかがでしょう？電話番号は、0570086000となります。	general,restaurant,taxi
+2973	6	USER	ありがとうございます。ではタクシー予約をお願いできますか？ 12/7の14：50に、ポムの樹 ララガーデン長町店を出発して、味の牛たん喜助 駅前中央本店まで利用したいです。	general,restaurant,taxi
+2973	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、28569となります。	general,restaurant,taxi
+2973	8	USER	ありがとうございました。以上で結構です。	general,restaurant,taxi
+2973	9	SYSTEM	ありがとうございました。	general,restaurant,taxi

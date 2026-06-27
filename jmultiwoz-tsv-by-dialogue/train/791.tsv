@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+791	0	USER	仙台への旅行を計画しています。 当日買い物ができるところを教えてください。	general,shopping,restaurant
+791	1	SYSTEM	仙台のお買物施設ですね。ジャンルやエリアなど、何かご希望はございますか？	general,shopping,restaurant
+791	2	USER	最寄り駅が六丁の目駅、駐車場を無料で利用できるところがいいです。ジャンルはスーパーマーケットでお願いします。	general,shopping,restaurant
+791	3	SYSTEM	申し訳ございません。その条件では候補が見つかりませんでした。いかが致しましょうか？	general,shopping,restaurant
+791	4	USER	そうですか。ではジャンルはなしでお願いします。	general,shopping,restaurant
+791	5	SYSTEM	かしこまりました。そうしますと、セブンイレブン仙台六丁の目駅前店と、ローソン 仙台荒井西店の2店舗がご案内可能です。いかがでしょうか？	general,shopping,restaurant
+791	6	USER	セブンイレブン仙台六丁の目駅前店で考えたいです。近辺の駅からの所要時間，住所，定休日を教えてください。	general,shopping,restaurant
+791	7	SYSTEM	かしこまりました。最寄りの六丁の目駅からは徒歩1分の距離にございます。住所は、宮城県仙台市若林区六丁の目中町1-3です。定休日はございません。	general,shopping,restaurant
+791	8	USER	当日食事ができる飲食店を探してください．	general,shopping,restaurant
+791	9	SYSTEM	かしこまりました。ご希望の条件などはございますか？	general,shopping,restaurant
+791	10	USER	ジャンルは和食、Wi-Fiが無料で利用できるところがいいです。	general,shopping,restaurant
+791	11	SYSTEM	そういたしますと、味の牛たん喜助 駅前中央本店というお店は如何でしょうか？仙台駅から徒歩1分のお店です。	general,shopping,restaurant
+791	12	USER	そのお店の値段帯はどうなっていますか。	general,shopping,restaurant
+791	13	SYSTEM	お値段帯は、普通となっております。	general,shopping,restaurant
+791	14	USER	それでは予約をお願いします。人数は2人、日付は7/4、時間は13:10です。	general,shopping,restaurant
+791	15	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。ご予約番号は、64569です。	general,shopping,restaurant
+791	16	USER	ありがとうございました。	general,shopping,restaurant

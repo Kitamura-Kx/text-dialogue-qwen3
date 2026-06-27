@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3643	0	USER	大阪へ旅行に行くので、買い物ができるお店を探してください。	general,shopping,hotel
+3643	1	SYSTEM	かしこまりました。その条件では48件該当致しますので、何かお好みなどはございますか？	general,shopping,hotel
+3643	2	USER	無料の駐車場があるところにしてください。	general,shopping,hotel
+3643	3	SYSTEM	かしこまりました。それではIKEA鶴浜ストアはいかがでしょうか？	general,shopping,hotel
+3643	4	USER	そちらの最寄り駅はどちらでしょうか？	general,shopping,hotel
+3643	5	SYSTEM	最寄りの駅はドーム前千代崎駅でございます。	general,shopping,hotel
+3643	6	USER	次に宿泊施設を探してください。リゾートホテルでお願いします。	general,shopping,hotel
+3643	7	SYSTEM	かしこまりました。それではザ シンギュラリホテル & スカイスパ アット ユニバーサル・スタジオ・ジャパンはいかがでしょうか？	general,shopping,hotel
+3643	8	USER	Wi-Fiが無料で利用でき、レストランが併設されているところがいいのですが、そちらのホテルは該当しますか？	general,shopping,hotel
+3643	9	SYSTEM	はい、Wi-Fiは無料でご利用いただけまして、レストランも併設されております。	general,shopping,hotel
+3643	10	USER	ではそちらの料金情報と最寄り駅を教えてください。	general,shopping,hotel
+3643	11	SYSTEM	申し訳ございません。値段帯は安めですが、料金情報は分かりません。最寄りの駅はユニバーサルシティ駅でございます。	general,shopping,hotel
+3643	12	USER	わかりました。ありがとうございました。以上です。	general,shopping,hotel
+3643	13	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,hotel

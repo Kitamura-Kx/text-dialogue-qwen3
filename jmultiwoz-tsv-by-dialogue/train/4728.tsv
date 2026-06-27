@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4728	0	USER	那覇へ旅行するのですが、小禄の宿泊施設はありますか？駐車場無料のとこでお願いします。	general,hotel,taxi,weather
+4728	1	SYSTEM	1件みつかりました。チャビラホテル那覇はいかがですか？	general,hotel,taxi,weather
+4728	2	USER	そこにします。最寄り駅はどこですか？	general,hotel,taxi,weather
+4728	3	SYSTEM	最寄り駅は、小禄駅になります。	general,hotel,taxi,weather
+4728	4	USER	ありがとうございます。タクシーの利用も考えていて、キャッシュレス払いができるようなところはありませんか？	general,hotel,taxi,weather
+4728	5	SYSTEM	では、丸二タクシーはいかがですか？	general,hotel,taxi,weather
+4728	6	USER	そこにします。電話番号と、ジャンボタクシーが対応しているかどうかを教えてください。	general,hotel,taxi,weather
+4728	7	SYSTEM	電話番号は、0988552140です。　こちらは、ジャンボタクシーも対応しております。	general,hotel,taxi,weather
+4728	8	USER	そうですか。では、2/20の10:40でチャビラホテル那覇からサブウェイ 首里りうぼう店までの道を予約お願いできますか？	general,hotel,taxi,weather
+4728	9	SYSTEM	予約出来ました。予約番号は、74233です。	general,hotel,taxi,weather
+4728	10	USER	ありがとうございます。当日2/20の真和志の天気予報をお伺いしていいですか？	general,hotel,taxi,weather
+4728	11	SYSTEM	その日の天気は、曇時々雨です。	general,hotel,taxi,weather
+4728	12	USER	なるほど。最低気温はわかります？	general,hotel,taxi,weather
+4728	13	SYSTEM	はい、最低気温は11.7度となっています。	general,hotel,taxi,weather
+4728	14	USER	ありがとうございます。もう大丈夫です。	general,hotel,taxi,weather
+4728	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi,weather

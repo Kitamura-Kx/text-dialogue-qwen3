@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2910	0	USER	もうすぐ仙台へ観光に行くんですが、無料駐車場がある名所を教えてください。	general,attraction,restaurant,weather
+2910	1	SYSTEM	無料駐車場のある観光名所は３２件ほどヒットします。	general,attraction,restaurant,weather
+2910	2	USER	おすすめはどこかありますか？	general,attraction,restaurant,weather
+2910	3	SYSTEM	ニッカウイスキー仙台工場宮城峡蒸溜所、こちらがオススメです。	general,attraction,restaurant,weather
+2910	4	USER	ありがとうございます。大人の入場料を教えてください。	general,attraction,restaurant,weather
+2910	5	SYSTEM	大人も子供も無料です。	general,attraction,restaurant,weather
+2910	6	USER	分かりました。同じ日に宮城野区で食事をする予定です。駐車場が無料のお店はありますかね？	general,attraction,restaurant,weather
+2910	7	SYSTEM	宮城野区で駐車場無料の飲食店はいくつかありますが、四季亭 竹勢、こちらおすすめです。	general,attraction,restaurant,weather
+2910	8	USER	ありがとうございます。定休日を教えて下さい。	general,attraction,restaurant,weather
+2910	9	SYSTEM	日曜日定休です	general,attraction,restaurant,weather
+2910	10	USER	分かりました。3月24日の午後2時50分に3名で予約できますか？	general,attraction,restaurant,weather
+2910	11	SYSTEM	予約成功しました。予約番号は43734です。	general,attraction,restaurant,weather
+2910	12	USER	ありがとうございます。最後に3月24日の青葉区の最低気温を教えて下さい。	general,attraction,restaurant,weather
+2910	13	SYSTEM	その日の最低気温は1.9度ですね。	general,attraction,restaurant,weather
+2910	14	USER	ありがとうございました。助かりました。それでは失礼します。	general,attraction,restaurant,weather

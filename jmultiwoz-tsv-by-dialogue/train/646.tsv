@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+646	0	USER	大阪への旅行で食事ができる飲食店を教えていただけますか？	general,restaurant,taxi,weather
+646	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございませんか？	general,restaurant,taxi,weather
+646	2	USER	イタリアン・フレンチで予算は普通くらいでお願いします。	general,restaurant,taxi,weather
+646	3	SYSTEM	では、ドンナゴロージというお店は如何でしょうか？大阪駅から徒歩1分の場所にあるお店です。	general,restaurant,taxi,weather
+646	4	USER	ありがとうございます。エリアとしてはどこになりますか？	general,restaurant,taxi,weather
+646	5	SYSTEM	北区エリアとなります。	general,restaurant,taxi,weather
+646	6	USER	情報ありがとうございます。当日利用できるタクシー会社も探していただけますか？	general,restaurant,taxi,weather
+646	7	SYSTEM	かしこまりました。一番株式会社など、8件ございますが、ほかにご希望条件などはございませんか？	general,restaurant,taxi,weather
+646	8	USER	キャッシュレス払い可能なところがいいです。	general,restaurant,taxi,weather
+646	9	SYSTEM	申し訳ございません。キャッシュレスに対応しておりますタクシー会社は、該当するところがございませんでした。いかがいたしますか？	general,restaurant,taxi,weather
+646	10	USER	でしたら、一番株式会社でお願いします。ジャンボタクシーは対応していますか？	general,restaurant,taxi,weather
+646	11	SYSTEM	はい、対応しております。ご予約はなさいますか？	general,restaurant,taxi,weather
+646	12	USER	お願いします。ちなみに、電話番号を先に聞いてもよろしいでしょうか。	general,restaurant,taxi,weather
+646	13	SYSTEM	電話番号は、0667077171です。ご予約する日付と出発時刻、出発地、目的地をお願いできますでしょうか？	general,restaurant,taxi,weather
+646	14	USER	8/21の13:50でお願いします。出発地は焼肉トラジ ルクア大阪店で、目的地はドンナゴロージです。	general,restaurant,taxi,weather
+646	15	SYSTEM	大変申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,restaurant,taxi,weather
+646	16	USER	時間を14:50にしたら予約できますでしょうか。	general,restaurant,taxi,weather
+646	17	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、13097です。	general,restaurant,taxi,weather
+646	18	USER	ありがとうございます。当日の天気も伺いたいのですが、8/21の阿倍野区はどうでしょうか？	general,restaurant,taxi,weather
+646	19	SYSTEM	8/21の阿倍野区の天気は、晴のち曇の予報です。	general,restaurant,taxi,weather
+646	20	USER	最低気温も教えていただけますか？	general,restaurant,taxi,weather
+646	21	SYSTEM	はい。最低気温は、22.2度の予想となっております。	general,restaurant,taxi,weather
+646	22	USER	ありがとうございました。	general,restaurant,taxi,weather

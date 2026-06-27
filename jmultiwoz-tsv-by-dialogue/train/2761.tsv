@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2761	0	USER	東京へ旅行に行きたく、宿泊施設を探しています。リゾートホテルでレストランが併設されており、無料のWi-Fiが利用できるところがいいです。	general,hotel
+2761	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel
+2761	2	USER	それでは宿タイプをビジネスホテルに変更でお願いします。	general,hotel
+2761	3	SYSTEM	ありがとうございます。エリアでいうと新宿区にある、東京ビジネスホテルはいかがでしょう？	general,hotel
+2761	4	USER	それでは予約をお願いします。人数は3名、日付は2/8で3泊希望です。	general,hotel
+2761	5	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,hotel
+2761	6	USER	それでは、宿泊日数を2泊に変更でいかがでしょうか。	general,hotel
+2761	7	SYSTEM	ありがとうございます、予約が可能になりまして、ご予約番号は、48804となります。	general,hotel
+2761	8	USER	ありがとうございます。以上です。	general,hotel
+2761	9	SYSTEM	ありがとうございました。	general,hotel

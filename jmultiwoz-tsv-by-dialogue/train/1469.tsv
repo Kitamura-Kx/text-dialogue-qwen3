@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1469	0	USER	京都に行こうと思っているんですが、キャッシュレス払いできるタクシー会社を探してもらえますか？	general,taxi
+1469	1	SYSTEM	かしこまりました。では、洛東タクシー株式会社はいかがでしょうか。こちらジャンボタクシーにも対応しております。	general,taxi
+1469	2	USER	ありがとうございます。そちらの電話番号を教えてもらえますか？	general,taxi
+1469	3	SYSTEM	電話番号は0755931112でございます。	general,taxi
+1469	4	USER	ありがとうございます。１月２４日の１３時５０分に、紡 八条室町から一軒町家 さと居 七条壬生 香雪(KOSETSU)まで予約お願いできますか？	general,taxi
+1469	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は64483でございます。	general,taxi
+1469	6	USER	ありがとうございます。	general,taxi
+1469	7	SYSTEM	ほかにご用件はございますか。	general,taxi
+1469	8	USER	大丈夫です。ありがとうございました。	general,taxi
+1469	9	SYSTEM	承知しました。ありがとうございました。	general,taxi

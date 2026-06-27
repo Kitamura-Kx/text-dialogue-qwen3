@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1820	0	USER	札幌への旅行を計画中なのですが、キャッシュレス対応が可能なタクシー会社を教えて下さい。	general,taxi
+1820	1	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,taxi
+1820	2	USER	それでは、キャッシュレス対応は気にしません。	general,taxi
+1820	3	SYSTEM	かしこまりました。では、新雪交通(株)はいかがでしょうか？	general,taxi
+1820	4	USER	新雪交通(株)はジャンボタクシーは対応できますか？電話番号も教えて下さい。	general,taxi
+1820	5	SYSTEM	ジャンボタクシーは対応可能です。電話番号は0118647811になります。	general,taxi
+1820	6	USER	それでは「新雪交通(株)」でタクシーの予約をお願いします。8/6の10:50に「白い恋人パーク」から「うなぎ 仲じま」までお願いします。	general,taxi
+1820	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,taxi
+1820	8	USER	11:20なら可能でしょうか？	general,taxi
+1820	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、73418です。	general,taxi
+1820	10	USER	他は大丈夫です、ありがとうございました。	general,taxi
+1820	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

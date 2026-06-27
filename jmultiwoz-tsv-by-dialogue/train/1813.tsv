@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1813	0	USER	お願いします。横浜への旅行を計画中なのですが、たまプラーザ駅周辺で駐車場とWiFiが無料の観光名所はありますか？あれば教えて下さい。	general,attraction
+1813	1	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction
+1813	2	USER	それでは、たまプラーザ駅以外で構いません。	general,attraction
+1813	3	SYSTEM	かしこまりました。では、三溪園はいかがでしょうか？	general,attraction
+1813	4	USER	「三溪園」の電話番号もお願いします	general,attraction
+1813	5	SYSTEM	はい。電話番号は0456210634です。	general,attraction
+1813	6	USER	ありがとうございました、あとは大丈夫です。	general,attraction
+1813	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2090	0	USER	横浜への旅行を検討しています。当日利用する飲食店を探しているのですが、よろしいでしょうか？	general,restaurant,shopping
+2090	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,restaurant,shopping
+2090	2	USER	そうですね。料金は安めで、駐車場が無料で利用できるとありがたいです。	general,restaurant,shopping
+2090	3	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,shopping
+2090	4	USER	そうですか、では、駐車場は大丈夫ですので、料金が安めのお店を探して頂けますか？	general,restaurant,shopping
+2090	5	SYSTEM	かしこまりました。では、世界のビール博物館 横浜店はいかがでしょうか？	general,restaurant,shopping
+2090	6	USER	助かります。どんなジャンルのお店でしょうか？	general,restaurant,shopping
+2090	7	SYSTEM	はい。居酒屋, 洋食・西洋料理になります。	general,restaurant,shopping
+2090	8	USER	ちなみに、そのお店は、どこのエリアになりますかね？	general,restaurant,shopping
+2090	9	SYSTEM	はい。西区でございます。	general,restaurant,shopping
+2090	10	USER	ありがとうございます。それと、当日、買い物出来る場所も探しているのですが、続けて大丈夫でしょうか？	general,restaurant,shopping
+2090	11	SYSTEM	はい。ご案内させていただきます。	general,restaurant,shopping
+2090	12	USER	助かります。最寄り駅がみなとみらい駅で、駐車場が無料で利用できるお店を探しています。	general,restaurant,shopping
+2090	13	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,restaurant,shopping
+2090	14	USER	そうですか、でしたら、駐車場は大丈夫ですので、最寄り駅がみなとみらい駅のお店を案内して頂けますか？	general,restaurant,shopping
+2090	15	SYSTEM	かしこまりました。では、Leaf Minato Miraiはいかがでしょうか？ジャンルはショッピングモールです。	general,restaurant,shopping
+2090	16	USER	ありがとうございます。そちらの住所もお伺いしてもよろしいでしょうか？	general,restaurant,shopping
+2090	17	SYSTEM	はい。住所は神奈川県横浜市西区みなとみらい4丁目6-5です。	general,restaurant,shopping
+2090	18	USER	ありがとうございます。これで当日は大丈夫そうです。ありがとうございました！	general,restaurant,shopping
+2090	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping

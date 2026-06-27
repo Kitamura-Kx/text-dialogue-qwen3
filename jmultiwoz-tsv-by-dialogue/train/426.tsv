@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+426	0	USER	大阪旅行で買い物できるスポットはありますか？	general,shopping
+426	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping
+426	2	USER	駐車場を無料で利用できるところでお願いいたします。また、阿倍野区で最寄り駅は阿倍野駅だとありがたいです。	general,shopping
+426	3	SYSTEM	ではあべのキューズモールはいかがでしょうか。	general,shopping
+426	4	USER	そこに伺いたいと思います。営業時間も教えて頂けないでしょうか。	general,shopping
+426	5	SYSTEM	営業時間は10:00～21:00でございます。	general,shopping
+426	6	USER	ありがとうございました。	general,shopping

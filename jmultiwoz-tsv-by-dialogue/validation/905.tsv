@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+905	0	USER	那覇に観光で向かうのですが駐車場無料の宿泊施設を教えて下さい、料金は普通でお願いします	general,hotel,attraction
+905	1	SYSTEM	かしこまりました。その条件ですと、1件ご案内可能です。さくらや国際通り、というところですが、いかがでしょうか？	general,hotel,attraction
+905	2	USER	そちらはレストランはありますか？	general,hotel,attraction
+905	3	SYSTEM	申し訳ございません。こちらには、レストランは併設しておりません。レストランのある場所をお探ししますか？	general,hotel,attraction
+905	4	USER	当日は観光も考えているのですが、真和志でWi-Fiと駐車場が無料の観光名所はありますか？	general,hotel,attraction
+905	5	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,attraction
+905	6	USER	真和志以外にはありますか？	general,hotel,attraction
+905	7	SYSTEM	はい、6件ございます。たとえば、ゆんたくあしび温泉 りっかりっか湯という場所は如何でしょうか？	general,hotel,attraction
+905	8	USER	ゆんたくあしび温泉 りっかりっか湯はどのような施設でしょうか？住所と最寄り駅も教えて下さい。	general,hotel,attraction
+905	9	SYSTEM	ジャンルは銭湯・スパ, 温泉となっております。住所は、沖縄県那覇市牧志2丁目16-36です。最寄りは牧志駅で、徒歩5分の距離にございます。美栄橋駅からも徒歩で5分でアクセスできます。	general,hotel,attraction
+905	10	USER	助かりました有難うございました	general,hotel,attraction
+905	11	SYSTEM	ほかにお調べすることはございますか？	general,hotel,attraction
+905	12	USER	大丈夫です	general,hotel,attraction
+905	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction

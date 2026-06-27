@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3140	0	USER	横浜の瀬谷区に行くのですが、駐車場が無料な買い物できる場所教えて下さい。	general,shopping,weather,taxi
+3140	1	SYSTEM	かしこまりました。そうしますと、Augusta Milk Farm 相澤良牧場という食料品のお店がございますが、いかがでしょうか？	general,shopping,weather,taxi
+3140	2	USER	住所教えて下さい。	general,shopping,weather,taxi
+3140	3	SYSTEM	はい。神奈川県横浜市瀬谷区阿久和南3丁目11-11でございます。	general,shopping,weather,taxi
+3140	4	USER	ありがとうございます。2/8の天気はどうですか？	general,shopping,weather,taxi
+3140	5	SYSTEM	横浜のどのあたりのエリアの天気をお調べしましょうか？	general,shopping,weather,taxi
+3140	6	USER	瀬谷区です。	general,shopping,weather,taxi
+3140	7	SYSTEM	ありがとうございます。当日の瀬谷区の天気は、晴時々曇の予報です。最低気温は3.6度、最高気温は11.6度の見込みとなっております。	general,shopping,weather,taxi
+3140	8	USER	分かりました、ありがとうございました。	general,shopping,weather,taxi
+3140	9	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,shopping,weather,taxi
+3140	10	USER	キャッシュレスが利用できるタクシー教えて下さい。	general,shopping,weather,taxi
+3140	11	SYSTEM	申し訳ございません。横浜でキャッシュレス対応のタクシー会社はご案内できるところがありませんでした。	general,shopping,weather,taxi
+3140	12	USER	では、キャッシュレスではなくても大丈夫です。	general,shopping,weather,taxi
+3140	13	SYSTEM	ありがとうございます。そうしますと、アイ株式会社はいかがでしょうか？	general,shopping,weather,taxi
+3140	14	USER	はい、2/8の15：00にJR東日本ホテルメッツ 横浜鶴見からugusta Milk Farm 相澤良牧場まで予約したいです。	general,shopping,weather,taxi
+3140	15	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、20673です。	general,shopping,weather,taxi
+3140	16	USER	ありがとうございます。それでは失礼します。	general,shopping,weather,taxi
+3140	17	SYSTEM	はい、ご利用ありがとうございました。失礼いたします。	general,shopping,weather,taxi

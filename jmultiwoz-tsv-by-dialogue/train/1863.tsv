@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1863	0	USER	大阪に行って買い物をしたいのですが、駐車場無料の書籍店はありますか？	general,shopping,weather
+1863	1	SYSTEM	かしこまりました。では、MARUZEN&ジュンク堂書店 梅田店はいかがでしょうか？	general,shopping,weather
+1863	2	USER	その書店の、電話番号と住所を教えて頂けますか？	general,shopping,weather
+1863	3	SYSTEM	はい。電話番号は0662927383です。住所は大阪府大阪市北区茶屋町7-20チャスカ茶屋町地下1階～7階になります。	general,shopping,weather
+1863	4	USER	ありがとうございます。あと、鶴見区のお天気と最低気温を教えて頂けますか？ 日にちは、6/24です。	general,shopping,weather
+1863	5	SYSTEM	かしこまりました。6/24の鶴見区の天気予報は曇となっております。最低気温は23度になる予報です。	general,shopping,weather
+1863	6	USER	今日知りたかったことは以上です。ありがとうございました。	general,shopping,weather
+1863	7	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

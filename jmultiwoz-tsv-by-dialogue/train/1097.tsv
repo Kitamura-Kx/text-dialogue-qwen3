@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1097	0	USER	那覇への旅行を考えているのですが、買い物できる所を探してます。	general,shopping
+1097	1	SYSTEM	那覇のご旅行ですね。お買い物のジャンルやエリアなど、何かご希望はございますか？	general,shopping
+1097	2	USER	場所は真和志で壷川駅の近くがいいです。ジャンヌは問いません。	general,shopping
+1097	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping
+1097	4	USER	では最寄り駅が壷川駅ではなくてもいいです。	general,shopping
+1097	5	SYSTEM	ありがとうございます。そうしますと、3件ご案内可能です。例えば、タウンプラザかねひで与儀公園市場というスーパーマーケットはいかがでしょうか？	general,shopping
+1097	6	USER	いいですね。そこの住所と定休日が知りたいです。	general,shopping
+1097	7	SYSTEM	住所は、沖縄県那覇市寄宮1-8-45です。定休日はございません。	general,shopping
+1097	8	USER	そうなんですね。助かりました。	general,shopping
+1097	9	SYSTEM	ほかにお知りになりたい情報など、ございますか？	general,shopping
+1097	10	USER	特にありません。ありがとうございました。	general,shopping
+1097	11	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,shopping

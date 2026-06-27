@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2048	0	USER	こんにちは。大阪に行こうと思ってるのですが、予算が普通のところで、中華料理を探しています。	general,restaurant
+2048	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant
+2048	2	USER	そうなんですね。それでは中華料理以外の飲食店だとどうでしょうか？	general,restaurant
+2048	3	SYSTEM	かしこまりました。では、焼肉マル 北新地店はいかがでしょうか？ジャンルは焼肉・ホルモンになります。	general,restaurant
+2048	4	USER	そこにしようと思います。料金情報をお聞きしたいです。	general,restaurant
+2048	5	SYSTEM	はい。料金情報に、例として、特別な日のお食事に和牛を味わう焼肉宴会プラン:5000円という情報がありました。	general,restaurant
+2048	6	USER	ありがとうございます。それでは、4名で12/22の09:50に予約をお願いします。	general,restaurant
+2048	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、51820です。	general,restaurant
+2048	8	USER	ありがとうございます。	general,restaurant
+2048	9	SYSTEM	他にご用件はありますか？	general,restaurant
+2048	10	USER	いいえ。案内していただきありがとうございました。	general,restaurant

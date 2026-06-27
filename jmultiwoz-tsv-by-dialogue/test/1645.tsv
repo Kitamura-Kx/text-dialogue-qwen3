@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1645	0	USER	こんにちは。大阪へ旅行予定で、西成区で買い物ができるところを探しています。コンビニで駐車場無料の所がいいのですけど。	general,shopping,weather,taxi
+1645	1	SYSTEM	かしこまりました。大阪シティエアターミナルがございます。	general,shopping,weather,taxi
+1645	2	USER	コンビニなのに長い名前なんですね。そちらの住所と営業時間も教えていただけますか？	general,shopping,weather,taxi
+1645	3	SYSTEM	申し訳ございません。西成区で検索するのを失念しておりました。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,weather,taxi
+1645	4	USER	そうなんですね。でしたら西成区じゃなくても大丈夫ですので、コンビニで駐車場無料の場所をお願いできますか？	general,shopping,weather,taxi
+1645	5	SYSTEM	ではやはり大阪シティエアターミナルがございます。こちらジャンルにコンビニが含まれております。	general,shopping,weather,taxi
+1645	6	USER	そうでしたか、ありがとうございます。それでは住所と営業時間をお願いできますか？	general,shopping,weather,taxi
+1645	7	SYSTEM	住所は大阪府大阪市浪速区湊町1丁目4-1でございます。営業時間は11:00～21:00となっております。	general,shopping,weather,taxi
+1645	8	USER	色々お尋ねしてすみませんが、3/1の鶴見区の天気で、最低気温を教えてもらえますか？	general,shopping,weather,taxi
+1645	9	SYSTEM	最低気温は11.3度でございます。	general,shopping,weather,taxi
+1645	10	USER	ありがとうございます。それから、タクシー会社で、株式会社フットという所がキャッシュレス対応か、それとジャンボタクシー対応かどうか確認していただけますか？	general,shopping,weather,taxi
+1645	11	SYSTEM	はい。どちらにも対応しております。	general,shopping,weather,taxi
+1645	12	USER	ありがとうございます。予約もお願いします。3/1の09:50で、先ほどの大阪シティエアターミナルから、7BRIDGE 天保山マーケットプレース店というところです	general,shopping,weather,taxi
+1645	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は72584でございます。	general,shopping,weather,taxi
+1645	14	USER	どうもありがとうございました。以上で全部お尋ねできました。	general,shopping,weather,taxi
+1645	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather,taxi

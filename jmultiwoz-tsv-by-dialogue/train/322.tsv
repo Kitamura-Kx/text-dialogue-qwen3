@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+322	0	USER	仙台に旅行に行こうと思っているのですが、太白区で駐車場代金が不要な観光スポットってありますか？	general,attraction,weather
+322	1	SYSTEM	はい、いくつかあるのですが、ジャンルなどのご希望はございますか？	general,attraction,weather
+322	2	USER	先ほどお伝えした以外に希望はありません。	general,attraction,weather
+322	3	SYSTEM	承知しました。それでは、西光寺 秋保大滝不動尊はいかがでしょう？ジャンルは、神社、寺院、教会、モニュメントなど、記念碑、像、となります。入場料は不要で、定休日もございません。	general,attraction,weather
+322	4	USER	ご紹介下さりありがとうございます。西光寺 秋保大滝不動尊さんの最寄りになる駅と、営業されている時間を教えてもらえないでしょうか？	general,attraction,weather
+322	5	SYSTEM	はい、最寄りの愛子駅からバスで40分です。営業時間は、0時から0時となっております。	general,attraction,weather
+322	6	USER	なるほど！ちなみに、子供は入場料がかかりますか？	general,attraction,weather
+322	7	SYSTEM	いいえ、無料でご利用いただけます。	general,attraction,weather
+322	8	USER	そうですか！ご丁寧にありがとうございます。あと、1/18の泉区の天気を教えてもらえませんか？	general,attraction,weather
+322	9	SYSTEM	承知しました。天気は曇のち雨、最低気温-3.7度、最高気温9.3度となります。	general,attraction,weather
+322	10	USER	わかりました。ご対応、ありがとうございました！	general,attraction,weather

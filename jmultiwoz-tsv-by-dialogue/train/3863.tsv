@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3863	0	USER	すみません、横浜の都筑区で無料駐車場があって買い物できる場所を探しているんですが。	general,shopping
+3863	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping
+3863	2	USER	そうですか。では、都筑区以外ならありますか？	general,shopping
+3863	3	SYSTEM	ではポポンデッタ横浜ビブレ店はいかがでしょうか。	general,shopping
+3863	4	USER	良さそうですね。そこはどんなジャンルの買い物ができますか？	general,shopping
+3863	5	SYSTEM	おもちゃ, 書籍, その他となっております。	general,shopping
+3863	6	USER	そうですか。住所も教えてください。	general,shopping
+3863	7	SYSTEM	住所は神奈川県横浜市西区高島2丁目19-12マルイシティ横浜5Fでございます。	general,shopping
+3863	8	USER	ありがとうございます。助かりました。それでは失礼します。	general,shopping

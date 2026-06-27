@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4669	0	USER	大阪駅近くでジャンルが焼肉・ホルモンのお店を探しています。安めの所が良いです。	general,restaurant,taxi
+4669	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,taxi
+4669	2	USER	では、予算は安めじゃなくても大丈夫です。	general,restaurant,taxi
+4669	3	SYSTEM	では焼肉トラジ ルクア大阪店がございますがいかがでしょうか。	general,restaurant,taxi
+4669	4	USER	住所はどこになりますか？	general,restaurant,taxi
+4669	5	SYSTEM	住所は大阪府大阪市北区梅田3丁目1-3 ルクア大阪 B2Fでございます。	general,restaurant,taxi
+4669	6	USER	わかりました。あと、キャッシュレス払いができるジャンボタクシーも探してほしいです。	general,restaurant,taxi
+4669	7	SYSTEM	申し訳ございません。どちらにも対応している会社がございませんでした。いかがなさいますか。	general,restaurant,taxi
+4669	8	USER	そうですか。ジャンボタクシーでなくても大丈夫です。	general,restaurant,taxi
+4669	9	SYSTEM	では商都交通株式会社がございます。	general,restaurant,taxi
+4669	10	USER	その会社の電話番号を教えてください。	general,restaurant,taxi
+4669	11	SYSTEM	電話番号は0662626868でございます。	general,restaurant,taxi
+4669	12	USER	ありがとうございます。10/17の10：40に焼肉トラジ ルクア大阪店からABホテル大阪堺筋本町まで予約してほしいです。	general,restaurant,taxi
+4669	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は16814でございます。	general,restaurant,taxi
+4669	14	USER	ありがとうございました。	general,restaurant,taxi
+4669	15	SYSTEM	ありがとうございました。	general,restaurant,taxi

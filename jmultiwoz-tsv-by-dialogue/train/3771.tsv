@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3771	0	USER	札幌への旅行を計画しているのですが、食事ができるお店を探してもらえますか？	general,restaurant,shopping,weather
+3771	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant,shopping,weather
+3771	2	USER	はい、駐車場が無料で、予算は高めが希望です。	general,restaurant,shopping,weather
+3771	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,shopping,weather
+3771	4	USER	じゃあ予算は安めでお願いします。	general,restaurant,shopping,weather
+3771	5	SYSTEM	では、エリアでいうと白石区にある、三代目 月見軒 本店はいかがでしょう？ジャンルは、ラーメン、つけ麺となります。	general,restaurant,shopping,weather
+3771	6	USER	そちらにします。最寄り駅と、料金情報を教えてもらえますか？	general,restaurant,shopping,weather
+3771	7	SYSTEM	はい、最寄りの平和駅から徒歩で8分となります。料金情報としては、味噌らーめん が750円、塩らーめん が700円、醤油らーめん が700円となります。	general,restaurant,shopping,weather
+3771	8	USER	厚別区で駐車場無料の、買い物ができるところも探してもらえますか？	general,restaurant,shopping,weather
+3771	9	SYSTEM	では、カテプリはいかがでしょう？ジャンルは、ショッピングモールとなります。	general,restaurant,shopping,weather
+3771	10	USER	ありがとうございます。そちらの最寄り駅と住所、近辺の駅からの所要時間を教えて下さい。	general,restaurant,shopping,weather
+3771	11	SYSTEM	はい、住所は北海道札幌市厚別区厚別中央2条5丁目7番、最寄りの新さっぽろ駅から徒歩で1分となります。	general,restaurant,shopping,weather
+3771	12	USER	ありがとうございます。8/28の豊平区の最高気温はわかりますか？	general,restaurant,shopping,weather
+3771	13	SYSTEM	はい、最高気温25.8度となります。	general,restaurant,shopping,weather
+3771	14	USER	最低気温も教えて下さい。	general,restaurant,shopping,weather
+3771	15	SYSTEM	最低気温16.2度となります。	general,restaurant,shopping,weather
+3771	16	USER	ありがとうございました。	general,restaurant,shopping,weather
+3771	17	SYSTEM	ありがとうございました。	general,restaurant,shopping,weather
+3771	18	USER		general,restaurant,shopping,weather

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4549	0	USER	仙台へ旅行する予定なのですが駐車場が無料で最寄りが長町駅の観光名所を探しています。	general,attraction,shopping
+4549	1	SYSTEM	仙台長町駅には、駐車場無料の観光名所はなさそうです。	general,attraction,shopping
+4549	2	USER	それでは最寄りはどちらでも大丈夫です！	general,attraction,shopping
+4549	3	SYSTEM	仙台で駐車場無料の観光名所なら、宮城縣護国神社をお勧めします。	general,attraction,shopping
+4549	4	USER	いいですね。そこの料金について教えて下さい。	general,attraction,shopping
+4549	5	SYSTEM	英霊顕彰館は大人300円、高校生以下無料です。	general,attraction,shopping
+4549	6	USER	ありがとうございます。最寄りが六丁の目駅の買い物ができる場所を教えて下さい。駐車場が無料で。	general,attraction,shopping
+4549	7	SYSTEM	六丁の目駅で駐車場無料の買い物施設は、ローソン 仙台荒井西店になります。	general,attraction,shopping
+4549	8	USER	なるほど。ありがとうございます。定休日ってちなみにありますか？あとエリアはどうなりますか？	general,attraction,shopping
+4549	9	SYSTEM	定休日はありません、エリアは若林区になります。	general,attraction,shopping
+4549	10	USER	大変助かりました！ありがとうございました。	general,attraction,shopping

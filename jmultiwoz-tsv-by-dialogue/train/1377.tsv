@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1377	0	USER	横浜への旅行を計画しており、Wi-Fiが無料で利用できる観光名所はありますか？	general,attraction,shopping,taxi
+1377	1	SYSTEM	横浜赤レンガ倉庫は、いかがでしょうか？	general,attraction,shopping,taxi
+1377	2	USER	ありがとうございます。次に買い物ができるところも探しており、商店街で無料の駐車場が利用できるところありませんか？	general,attraction,shopping,taxi
+1377	3	SYSTEM	弘明寺かんのん通り商店街は、いかがですか？	general,attraction,shopping,taxi
+1377	4	USER	そこで商店街で買い物できるお店があれば、店舗名、住所とエリアを教えていただきたいです。	general,attraction,shopping,taxi
+1377	5	SYSTEM	店舗名は、弘明寺かんのん通り商店街以外に記載はございません。　住所は、神奈川県横浜市南区弘明寺町134です。　エリアは、南区になります。	general,attraction,shopping,taxi
+1377	6	USER	ありがとうございます。最後に当日タクシーを利用したいのですがその周辺に京浜ハイヤー株式会社というタクシー会社はありましたか？	general,attraction,shopping,taxi
+1377	7	SYSTEM	京浜ハイヤー株式会社は、1件見つかりました。	general,attraction,shopping,taxi
+1377	8	USER	そこの電話番号を教えてください。	general,attraction,shopping,taxi
+1377	9	SYSTEM	電話番号は、0457411896です。	general,attraction,shopping,taxi
+1377	10	USER	それでは配車予約をしたいです。日時は6/7、12:30で出発地は横浜赤レンガ倉庫から弘明寺かんのん通り商店街まで行ってほしいです。	general,attraction,shopping,taxi
+1377	11	SYSTEM	予約出来ました。予約番号は、68513です。	general,attraction,shopping,taxi
+1377	12	USER	ありがとうございます。	general,attraction,shopping,taxi
+1377	13	SYSTEM	他にご用件はありますか？	general,attraction,shopping,taxi
+1377	14	USER	ありません。	general,attraction,shopping,taxi
+1377	15	SYSTEM	承知致しました。　ありがとうございました。	general,attraction,shopping,taxi

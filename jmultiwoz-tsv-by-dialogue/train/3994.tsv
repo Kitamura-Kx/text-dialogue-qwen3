@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3994	0	USER	東京へ旅行予定で、ジャンボタクシーを使いたいので、タクシー会社探してもらえます？	general,taxi,weather
+3994	1	SYSTEM	かしこまりました。それではトーショー交通はいかがでしょうか？	general,taxi,weather
+3994	2	USER	そこにしようかな。電話番号とキャッシュレスが対応してるか教えてください。	general,taxi,weather
+3994	3	SYSTEM	電話番号0423441111で、キャッシュレス決済にも対応しております。	general,taxi,weather
+3994	4	USER	わかりました。では、5/23の10:50で、熊本牧場直営 木本商店からBOOK AND BED TOKYO SHINJYUKUまでの配車をおねがいできますか？	general,taxi,weather
+3994	5	SYSTEM	お待たせ致しました。予約番号8280でお取りさせていただきました。	general,taxi,weather
+3994	6	USER	ありがとうございます。当日5/23の足立区の天気も聞いていいですか？	general,taxi,weather
+3994	7	SYSTEM	当日の足立区は曇時々雨予報でございます。	general,taxi,weather
+3994	8	USER	最高気温は何度くらいですかね。	general,taxi,weather
+3994	9	SYSTEM	はい、最高気温は22.6度の予報でございます。	general,taxi,weather
+3994	10	USER	ありがとうございます。以上で大丈夫です。	general,taxi,weather
+3994	11	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi,weather

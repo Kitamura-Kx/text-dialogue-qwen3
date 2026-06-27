@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4008	0	USER	横浜へ旅行予定なのですが、無料駐車場があるショッピングモールってありますか？	general,shopping,weather
+4008	1	SYSTEM	申し訳ありません。無料の駐車場があるショッピングモールをお探しすることが出来ませんでした。	general,shopping,weather
+4008	2	USER	そうですか。なら、有料の駐車場でもいいのですが。	general,shopping,weather
+4008	3	SYSTEM	かしこまりました。それでは横浜ワールドポーターズはいかがでしょうか？	general,shopping,weather
+4008	4	USER	そこにします。近辺の駅からの所要時間とエリア、あと営業時間ってわかります？	general,shopping,weather
+4008	5	SYSTEM	お待たせ致しました。近辺の駅からですと、みなとみらい駅から徒歩で5分、桜木町駅から徒歩で10分、関内駅から徒歩で15分、馬車道駅から徒歩で5分、エリアは中区、営業時間は10時30分から21時でございます。	general,shopping,weather
+4008	6	USER	ありがとうございます。9/4に行く予定なので、その日の磯子区の最高気温をおしえてください。	general,shopping,weather
+4008	7	SYSTEM	お待たせ致しました。当日の最高気温は32.3度の予報でございます。	general,shopping,weather
+4008	8	USER	わかりました。ありがとうございます。以上で大丈夫です。	general,shopping,weather
+4008	9	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,weather

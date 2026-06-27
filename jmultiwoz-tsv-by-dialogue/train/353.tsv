@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+353	0	USER	今度名古屋に行くのですが、買い物できるところはありますか？	general,shopping,weather
+353	1	SYSTEM	名古屋のお買い物できる場所ですね。50件ほどご案内できますが、何かご希望の条件はございますか？	general,shopping,weather
+353	2	USER	最寄り駅が尾頭橋駅で、駐車場が無料のところがいいです。	general,shopping,weather
+353	3	SYSTEM	そうしますと、1件候補がございます。ゲンキー富船店という、医薬品・化粧品, 食料品ジャンルのお店ですが、いかがでしょうか？	general,shopping,weather
+353	4	USER	そこに行ってみます。電話番号を教えていただけませんか？	general,shopping,weather
+353	5	SYSTEM	電話番号は、0523651470でございます。	general,shopping,weather
+353	6	USER	ありがとうございます。あと、10/27の中区のお天気は分かりますか？	general,shopping,weather
+353	7	SYSTEM	はい、当日のお天気は、曇り時々晴れの予報となっております。最低気温は14.3度、最高気温は18.4度の予想です。	general,shopping,weather
+353	8	USER	分かりました！以上です、ありがとうございました！	general,shopping,weather
+353	9	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,shopping,weather

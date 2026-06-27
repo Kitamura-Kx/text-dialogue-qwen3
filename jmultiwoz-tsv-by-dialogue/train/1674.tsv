@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1674	0	USER	京都へ旅行するつもりなのですが、Wi-Fiが無料で利用できる観光名所を調べてください。	general,attraction
+1674	1	SYSTEM	かしこまりました。では国立京都国際会館はいかがでしょうか。	general,attraction
+1674	2	USER	いいですね。駐車場があるかどうかと、電話番号を教えてください。	general,attraction
+1674	3	SYSTEM	有料の駐車場がございます。電話番号は0757051218でございます。	general,attraction
+1674	4	USER	わかりました。ありがとうございます。	general,attraction
+1674	5	SYSTEM	ほかにご用件はございますか。	general,attraction
+1674	6	USER	いえ、大丈夫です。	general,attraction
+1674	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

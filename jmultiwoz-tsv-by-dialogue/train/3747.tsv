@@ -1,0 +1,35 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3747	0	USER	那覇への旅行を計画しているのですが。	general,restaurant,shopping,taxi
+3747	1	SYSTEM	どのようなお店や施設をお探しですか？	general,restaurant,shopping,taxi
+3747	2	USER	当日食事できる飲食店を探しています。	general,restaurant,shopping,taxi
+3747	3	SYSTEM	では、樹里はいかがですか？	general,restaurant,shopping,taxi
+3747	4	USER	そちらのお店は、Wi-Fiと、駐車場は無料でしょうか？	general,restaurant,shopping,taxi
+3747	5	SYSTEM	申し訳ありません、Wi-Fi利用につきましては、不明となっています。　駐車場については、無しとなっています。どうされますか？	general,restaurant,shopping,taxi
+3747	6	USER	他に条件にあるお店はありますか？	general,restaurant,shopping,taxi
+3747	7	SYSTEM	Wi-Fi利用と駐車場ありでお探ししますか？	general,restaurant,shopping,taxi
+3747	8	USER	はい。そうです。	general,restaurant,shopping,taxi
+3747	9	SYSTEM	では、ステーキハウス88 国際通り店はいかがですか？	general,restaurant,shopping,taxi
+3747	10	USER	では、そちらのお店にしたいと思います。	general,restaurant,shopping,taxi
+3747	11	SYSTEM	他にご用件はありますか？	general,restaurant,shopping,taxi
+3747	12	USER	そちらのお店は予約が可能ですか？	general,restaurant,shopping,taxi
+3747	13	SYSTEM	はい、ご希望の日時と人数をお願いします。	general,restaurant,shopping,taxi
+3747	14	USER	日付は12/2で、時間は14:00でお願いします。人数は３名です。	general,restaurant,shopping,taxi
+3747	15	SYSTEM	予約出来ました。予約番号は、1944です。	general,restaurant,shopping,taxi
+3747	16	USER	ありがとうございます。当日、買い物をしたいのですが、医薬品・化粧品の取り扱いがあるお店ありますか？駐車場は無料が良いです。	general,restaurant,shopping,taxi
+3747	17	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,shopping,taxi
+3747	18	USER	では、医薬品・化粧品の扱いが無くても大丈夫です。駐車場が無料の買い物ができる場所はありますか？	general,restaurant,shopping,taxi
+3747	19	SYSTEM	タウンプラザかねひで与儀公園市場は、いかがでしょうか？	general,restaurant,shopping,taxi
+3747	20	USER	そちらにします。ありがとうございます。	general,restaurant,shopping,taxi
+3747	21	SYSTEM	他にご用件はありますか？	general,restaurant,shopping,taxi
+3747	22	USER	当日、丸二タクシーというタクシー会社を利用したいのですが、予約できますか？	general,restaurant,shopping,taxi
+3747	23	SYSTEM	はい、1件みつかりました。予約ですね。　では、日時と出発地と目的地をお願いします。	general,restaurant,shopping,taxi
+3747	24	USER	すいません。確認ですが、そちらの会社はキャッシュレス対応は可能でしょうか？	general,restaurant,shopping,taxi
+3747	25	SYSTEM	はい、キャッシュレス対応も可能になっています。	general,restaurant,shopping,taxi
+3747	26	USER	ありがとうございます。では予約をしたいです。当日12/2の時間は15:10です。出発地点は先程の飲食店から、目的地は先程の買い物店舗です。	general,restaurant,shopping,taxi
+3747	27	SYSTEM	予約出来ました。予約番号は、66230 です。	general,restaurant,shopping,taxi
+3747	28	USER	ありがとうございます。最後に一応タクシー会社の電話番号を教えていただきたいのですが、よろしいですか？	general,restaurant,shopping,taxi
+3747	29	SYSTEM	電話番号は、0988552140です。	general,restaurant,shopping,taxi
+3747	30	USER	ありがとうございます。	general,restaurant,shopping,taxi
+3747	31	SYSTEM	他にご用件はありますか？	general,restaurant,shopping,taxi
+3747	32	USER	ありません。ありがとうございます	general,restaurant,shopping,taxi
+3747	33	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,taxi

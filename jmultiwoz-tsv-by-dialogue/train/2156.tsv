@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2156	0	USER	こんにちは。横浜へ旅行しますので、駐車場無料で、買い物ができるところを探しています。どこかありますか？	general,shopping,attraction,taxi
+2156	1	SYSTEM	こんにちは。その条件ですと、ポケモンセンターヨコハマはいかがでしょうか？	general,shopping,attraction,taxi
+2156	2	USER	いいですね、定休日はいつですか？	general,shopping,attraction,taxi
+2156	3	SYSTEM	こちらの店舗は不定休でございます。	general,shopping,attraction,taxi
+2156	4	USER	それと、観光名所も探していまして、Wi-Fiと駐車場が無料のところをお願いできますか？	general,shopping,attraction,taxi
+2156	5	SYSTEM	かしこまりました。それでは、カップヌードルミュージアム 横浜はいかがでしょうか？	general,shopping,attraction,taxi
+2156	6	USER	楽しそうですね。大人入場料と定休日はどうなってますか？	general,shopping,attraction,taxi
+2156	7	SYSTEM	大人入場料は500円となっております。定休日はございません。	general,shopping,attraction,taxi
+2156	8	USER	ありがとうございます。当日タクシーを使いたいので、ジャンボタクシーが使えて、キャッシュレス払いができるタクシー会社を探してもらえますか？	general,shopping,attraction,taxi
+2156	9	SYSTEM	かしこまりました。それでは、株式会社グリーンキャブさんはいかがでしょうか？	general,shopping,attraction,taxi
+2156	10	USER	ありがとうございます。電話番号をお願いできます？	general,shopping,attraction,taxi
+2156	11	SYSTEM	はい、電話番号は0456638181でございます。	general,shopping,attraction,taxi
+2156	12	USER	ありがとうございます。予約もお願いします。8/24の14:30乗車で、先ほどのポケモンセンターヨコハマからカップヌードルミュージアム 横浜です。	general,shopping,attraction,taxi
+2156	13	SYSTEM	お待たせ致しました。予約番号45317でお取りさせていただきました。	general,shopping,attraction,taxi
+2156	14	USER	色々助かりました。どうもありがとうございました。	general,shopping,attraction,taxi
+2156	15	SYSTEM	ありがとうございます。その他に何かご用件はございますか？	general,shopping,attraction,taxi
+2156	16	USER	他はもう大丈夫です。どうもありがとうございました。	general,shopping,attraction,taxi
+2156	17	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,attraction,taxi

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4699	0	USER	仙台へ旅行に行くのですが、太白区で無料駐車場があって、おもちゃを買える店はありますか？	general,shopping,hotel
+4699	1	SYSTEM	仙台太白区には、無料駐車場のあるおもちゃ店はなさそうです。	general,shopping,hotel
+4699	2	USER	では駐車場はなくてもいいので探してください。	general,shopping,hotel
+4699	3	SYSTEM	仙台太白区でおもちゃといえば、アカチャンホンポ ララガーデン長町店、こちらになります。	general,shopping,hotel
+4699	4	USER	いいですね。あと、変なホテル仙台 国分町という宿泊施設を利用予定なのですが、そちらの近辺の駅からの所要時間はわかりますか？	general,shopping,hotel
+4699	5	SYSTEM	変なホテル仙台 国分町ですね。広瀬通駅から徒歩で1分、その他、仙台駅からなら徒歩で15分です。	general,shopping,hotel
+4699	6	USER	わかりました。予約もお願いしたいです。4人で12/3から3泊の予定なのですが。	general,shopping,hotel
+4699	7	SYSTEM	予約成功しました。予約番号は41878です。	general,shopping,hotel
+4699	8	USER	ありがとうございます。	general,shopping,hotel

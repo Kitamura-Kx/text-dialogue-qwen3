@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1539	0	USER	那覇への旅行を考えているのですが、桜を見れる観光名所はありますか？Wi-Fiが無料つかえて、無料駐車場があるところがいいです。	general,attraction,shopping,weather
+1539	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,shopping,weather
+1539	2	USER	わかりました。なら、Wi-Fiはなくてもいいです。	general,attraction,shopping,weather
+1539	3	SYSTEM	では末吉公園がございます。	general,attraction,shopping,weather
+1539	4	USER	いいですね。電話番号と大人入場料、あと最寄り駅を教えてください。	general,attraction,shopping,weather
+1539	5	SYSTEM	電話番号は0989513239でございます。入場料は無料で、最寄り駅は市立病院前駅でございます。	general,attraction,shopping,weather
+1539	6	USER	わかりました。買い物できる店も探しているのですが、宮古島の雪塩 国際通り店という店舗はありますか？	general,attraction,shopping,weather
+1539	7	SYSTEM	はい。ございます。お知りになりたい情報はございますか。	general,attraction,shopping,weather
+1539	8	USER	はい。エリアと営業時間、あと最寄り駅についての情報を知りたいです。	general,attraction,shopping,weather
+1539	9	SYSTEM	エリアは本庁で、営業時間は10:00～22:00でございます。最寄り駅は県庁前駅でございます。	general,attraction,shopping,weather
+1539	10	USER	わかりました。あと、11/10の首里の天候を教えてください。	general,attraction,shopping,weather
+1539	11	SYSTEM	天気は曇時々晴、最低気温が25.3度で最高気温が27.3度でございます。	general,attraction,shopping,weather
+1539	12	USER	わかりました。ありがとうございます。	general,attraction,shopping,weather
+1539	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,weather
+1539	14	USER	いえ、もう大丈夫です。	general,attraction,shopping,weather
+1539	15	SYSTEM	ありがとうございました。	general,attraction,shopping,weather

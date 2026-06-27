@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4408	0	USER	京都へ旅行に行くので西京区で買い物できるところを探してください。	general,shopping,hotel,restaurant
+4408	1	SYSTEM	かしこまりました。それでは京都オルゴール堂 嵐山店はいかがでしょうか？	general,shopping,hotel,restaurant
+4408	2	USER	いいですね。そちらの最寄り駅と住所、駐車場の有無を教えてもらえますか？	general,shopping,hotel,restaurant
+4408	3	SYSTEM	はい、最寄り駅は嵐山駅、住所は京都府京都市西京区嵐山中尾下町54-3でして、駐車場の有無は分かりません。	general,shopping,hotel,restaurant
+4408	4	USER	わかりました。あと、宿泊施設も探してほしいです。レストランがあって、Wi-Fiと駐車場が無料で使えるところがいいです。	general,shopping,hotel,restaurant
+4408	5	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping,hotel,restaurant
+4408	6	USER	そうですか。じゃあ、レストランはなくてもいいです。	general,shopping,hotel,restaurant
+4408	7	SYSTEM	かしこまりました。それでは京都 高瀬川別邸はいかがでしょうか？	general,shopping,hotel,restaurant
+4408	8	USER	そちらのチェックアウト終了時刻はわかります？	general,shopping,hotel,restaurant
+4408	9	SYSTEM	はい、チェックアウト終了時刻は10時でございます。	general,shopping,hotel,restaurant
+4408	10	USER	わかりました。あと、上京区で値段が普通くらいの飲食店ってありませんか？	general,shopping,hotel,restaurant
+4408	11	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping,hotel,restaurant
+4408	12	USER	そうですか。なら地区はどこでもいいです。	general,shopping,hotel,restaurant
+4408	13	SYSTEM	それではとんちんかんはいかがでしょうか？	general,shopping,hotel,restaurant
+4408	14	USER	そちらの店舗のジャンルはなんですか？	general,shopping,hotel,restaurant
+4408	15	SYSTEM	はい、ジャンルはお好み焼き・たこ焼きに該当致します。	general,shopping,hotel,restaurant
+4408	16	USER	ありがとうございます。もう大丈夫です。	general,shopping,hotel,restaurant
+4408	17	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,hotel,restaurant

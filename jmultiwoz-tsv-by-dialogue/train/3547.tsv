@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3547	0	USER	福岡の観光名所を探してほしいです。	general,attraction,restaurant,hotel
+3547	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,restaurant,hotel
+3547	2	USER	Wi-Fiが無料で利用できるところで、ジャンルはスポーツ・フィットネスが希望です。	general,attraction,restaurant,hotel
+3547	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,restaurant,hotel
+3547	4	USER	そうなんですね。ではジャンルは考慮しないようにします。	general,attraction,restaurant,hotel
+3547	5	SYSTEM	では福岡国際会議場はいかがでしょうか。	general,attraction,restaurant,hotel
+3547	6	USER	住所，子供入場料を教えてください。	general,attraction,restaurant,hotel
+3547	7	SYSTEM	住所は福岡県福岡市博多区石城町2-1で、子供入場料は０円となっております。	general,attraction,restaurant,hotel
+3547	8	USER	続いて当日食事ができる飲食店を探してほしいです。	general,attraction,restaurant,hotel
+3547	9	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,restaurant,hotel
+3547	10	USER	駐車場とWi-Fiが無料のところがいいです。	general,attraction,restaurant,hotel
+3547	11	SYSTEM	ではレカイエ オイスターバー JR博多シティ店はいかがでしょうか。	general,attraction,restaurant,hotel
+3547	12	USER	最寄り駅，定休日を教えてください。	general,attraction,restaurant,hotel
+3547	13	SYSTEM	最寄り駅は博多駅で、定休日は無しでございます。	general,attraction,restaurant,hotel
+3547	14	USER	あと当日泊まる宿泊施設を探してください。	general,attraction,restaurant,hotel
+3547	15	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,restaurant,hotel
+3547	16	USER	レストランが併設されているところで、Wi-Fiが無料、予算は安めが希望です。	general,attraction,restaurant,hotel
+3547	17	SYSTEM	ではHOTEL LA FORESTAがございますがいかがでしょうか。	general,attraction,restaurant,hotel
+3547	18	USER	エリアはどこになりますか？	general,attraction,restaurant,hotel
+3547	19	SYSTEM	エリアは博多区でございます。	general,attraction,restaurant,hotel
+3547	20	USER	わかりました。対応ありがとうございました。	general,attraction,restaurant,hotel
+3547	21	SYSTEM	ありがとうございました。	general,attraction,restaurant,hotel

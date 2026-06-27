@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3665	0	USER	こんにちは。今度札幌へ行くので、宿泊施設を探していただけますか？旅館が希望です。	general,hotel,taxi
+3665	1	SYSTEM	札幌の旅館ですね、ONSEN RYOKAN 由縁 札幌はいかがですか？	general,hotel,taxi
+3665	2	USER	ありがとうございます。そこにします。それと当日タクシーを使いたいので、キャッシュレス払いができるタクシー会社を教えてもらえますか？	general,hotel,taxi
+3665	3	SYSTEM	ダイコク交通(株)はいかがですか？	general,hotel,taxi
+3665	4	USER	ありがとうございます。そちらの電話番号もお願いします。	general,hotel,taxi
+3665	5	SYSTEM	電話番号は、0117416000です。	general,hotel,taxi
+3665	6	USER	お手数ですが、タクシーの予約もお願いします。2/6の10:40に、さっき見つけてもらったONSEN RYOKAN 由縁 札幌から、Rojiura Curry SAMURAI. さくら店という所へ行きたいです。	general,hotel,taxi
+3665	7	SYSTEM	予約出来ました。予約番号は、10616です。	general,hotel,taxi
+3665	8	USER	どうもありがとうございました。助かりました。	general,hotel,taxi
+3665	9	SYSTEM	他にご用件はありますか？	general,hotel,taxi
+3665	10	USER	これで大丈夫です。ありがとうございました。	general,hotel,taxi
+3665	11	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi

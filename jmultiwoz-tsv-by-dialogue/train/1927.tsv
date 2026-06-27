@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1927	0	USER	大阪の東住吉区に駐車場が無料の観光名所はありますか。	general,attraction
+1927	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction
+1927	2	USER	では駐車場を気にしなければありますか？	general,attraction
+1927	3	SYSTEM	ありがとうございます。そうしますと、長居植物園はいかがでしょうか。	general,attraction
+1927	4	USER	そこの営業時間を教えてください。	general,attraction
+1927	5	SYSTEM	9:30～17:00です。	general,attraction
+1927	6	USER	ありがとうございます。質問は以上です。	general,attraction
+1927	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

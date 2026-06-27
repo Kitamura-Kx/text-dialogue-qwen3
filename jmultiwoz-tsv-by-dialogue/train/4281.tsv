@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4281	0	USER	名古屋へ行くので、タクシー会社を探してもらえますか？	general,taxi
+4281	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,taxi
+4281	2	USER	キャッシュレス払いができるところがいいですね。	general,taxi
+4281	3	SYSTEM	かしこまりました。では名古屋エムケイがございます。こちらジャンボタクシーにも対応しております。電話番号は0529125908でございます。	general,taxi
+4281	4	USER	ではこちらのタクシーにします。5月19日の14時30分出発で、予約をお願いします。	general,taxi
+4281	5	SYSTEM	かしこまりました。予約の詳細をお聞かせいただけますか。	general,taxi
+4281	6	USER	出発地は名古屋スポーツセンターで、目的地はRAYARD Hisaya-odori Parkです。	general,taxi
+4281	7	SYSTEM	はい。予約が完了いたしました。予約番号は5477でございます。	general,taxi
+4281	8	USER	ありがとうございました。	general,taxi
+4281	9	SYSTEM	ほかにご用件はございませんか。	general,taxi
+4281	10	USER	いえ、大丈夫です。ありがとうございます。	general,taxi
+4281	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+406	0	USER	仙台へ行こうと思っています。若林区で宿泊施設を探していただけますか？	general,hotel,weather
+406	1	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,hotel,weather
+406	2	USER	地区は考慮せず探していただけますか？	general,hotel,weather
+406	3	SYSTEM	承知しました。宿のタイプや値段帯のご希望はございますか？	general,hotel,weather
+406	4	USER	特に希望はないです。	general,hotel,weather
+406	5	SYSTEM	それでは、ホテル京阪 仙台はいかがでしょう？タイプはビジネスホテル、値段帯は安めとなります。エリアは青葉区になります。	general,hotel,weather
+406	6	USER	そちらはWiFiはありますでしょうか？	general,hotel,weather
+406	7	SYSTEM	はい、Wi-Fiは無料でご利用いただけます。	general,hotel,weather
+406	8	USER	わかりました。ありがとうございます。	general,hotel,weather
+406	9	SYSTEM	他にご用件はございますか？	general,hotel,weather
+406	10	USER	8月18日の若林区の天候を調べていただきたいです。	general,hotel,weather
+406	11	SYSTEM	承知しました。天気は晴時々曇、最低気温23.5度、最高気温28度となります。	general,hotel,weather
+406	12	USER	わかりました。ありがとうございます。	general,hotel,weather
+406	13	SYSTEM	他にご用件はございますか？	general,hotel,weather
+406	14	USER	いいえ、大丈夫です。ありがとうございました。	general,hotel,weather

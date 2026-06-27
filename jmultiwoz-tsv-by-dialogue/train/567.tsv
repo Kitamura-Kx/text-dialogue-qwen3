@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+567	0	USER	札幌の旅行に行く予定がありますが、当日買い物ができる場所を探して頂けますか？	general,shopping,restaurant,taxi
+567	1	SYSTEM	承知しました。エリアなどのご希望はございますか？	general,shopping,restaurant,taxi
+567	2	USER	最寄り駅が澄川駅で、車で行くので駐車場無料のところが希望です。	general,shopping,restaurant,taxi
+567	3	SYSTEM	ありがとうございます。では、コーチャンフォーミュンヘン大橋店はいかがでしょう？ジャンルは書籍、文房具、雑貨、食料品、電話番号は0118174000、営業時間は9時から23時、定休日はございません。	general,shopping,restaurant,taxi
+567	4	USER	ありがとうございます。そちらに伺いたいと思います。あと、当日食事ができる飲食店を西区周辺で探して頂けますか？	general,shopping,restaurant,taxi
+567	5	SYSTEM	申し訳ありません。西区にはご紹介できる飲食店がございません。いかが致しましょう？	general,shopping,restaurant,taxi
+567	6	USER	それでは地区はどこでも大丈夫です。あと、駐車場を無料で利用できるお店でお願いします。予算は普通くらいを希望します。	general,shopping,restaurant,taxi
+567	7	SYSTEM	申し訳ありません、ありがとうございます。では、本陣串や 札幌東区役所店はいかがでしょう？ジャンルは居酒屋、和食、エリアは東区です。	general,shopping,restaurant,taxi
+567	8	USER	そちらでお願いします。料金情報と電話番号の情報もいただけますか？	general,shopping,restaurant,taxi
+567	9	SYSTEM	はい、電話番号は0117483883、料金情報としては、とろける塩レバーが490円、串盛り5本が690円、とりポンが290円となっております。	general,shopping,restaurant,taxi
+567	10	USER	ありがとうございます。2人で10/20の15:10に予約もしておきたいのですが、可能ですか？	general,shopping,restaurant,taxi
+567	11	SYSTEM	はい、予約が完了しまして、ご予約番号は、69225となります。	general,shopping,restaurant,taxi
+567	12	USER	ありがとうございます。あと、ジャンボタクシーを利用できるタクシー会社を探して頂けますか？	general,shopping,restaurant,taxi
+567	13	SYSTEM	承知しました。では、北都交通(株)はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0112904181となります。	general,shopping,restaurant,taxi
+567	14	USER	ではそちらで予約をお願いできますか？日時は10/20の13:50です。出発地はコーチャンフォーミュンヘン大橋店で、目的地は本陣串や 札幌東区役所店でお願いします。	general,shopping,restaurant,taxi
+567	15	SYSTEM	承知しました。予約が完了し、ご予約番号は、15554となります。	general,shopping,restaurant,taxi
+567	16	USER	ありがとうございました。	general,shopping,restaurant,taxi

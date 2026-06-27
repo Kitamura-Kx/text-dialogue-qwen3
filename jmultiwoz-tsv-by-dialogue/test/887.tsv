@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+887	0	USER	こんにちは！今度、京都旅行に行くので案内をお願いします！	general,shopping,hotel,taxi
+887	1	SYSTEM	希望条件などはございますか？	general,shopping,hotel,taxi
+887	2	USER	東山区に、医薬品や化粧品の買い物をしに行きたいんですけど、駐車場が無料で利用できるところで、調べてもらえますか？	general,shopping,hotel,taxi
+887	3	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,shopping,hotel,taxi
+887	4	USER	そうなんですね。じゃぁ、地区はどこでも大丈夫です！	general,shopping,hotel,taxi
+887	5	SYSTEM	ココカラファイン アバンティ店は、いかがでしょうか？	general,shopping,hotel,taxi
+887	6	USER	じゃぁ、そちらに行ってみようかな。あと、当日に泊まるところ、簡易宿所（ベッドハウス・山小屋・カプセルホテル等）のようなところに泊まりたいんですけど、探してもらえますか？	general,shopping,hotel,taxi
+887	7	SYSTEM	Stay SAKURA Kyoto(ステイサクラ)京都駅南Ⅰは、いかがでしょうか？	general,shopping,hotel,taxi
+887	8	USER	ありがとうございます！あ、そこの住所を教えてください。	general,shopping,hotel,taxi
+887	9	SYSTEM	はい、住所は京都府京都市南区東九条東岩本町４−３です。	general,shopping,hotel,taxi
+887	10	USER	ありがとうございます！じゃぁ、そこの宿に９月６日から２泊、３人で予約をしたいのですが、お願いできますか？	general,shopping,hotel,taxi
+887	11	SYSTEM	申し訳ありません。　その条件では予約出来ませんでした。	general,shopping,hotel,taxi
+887	12	USER	残念です。じゃぁ、人数２人なら大丈夫ですか？	general,shopping,hotel,taxi
+887	13	SYSTEM	予約出来ました。予約番号は、22932です。	general,shopping,hotel,taxi
+887	14	USER	ありがとうございます！あと、タクシーも探しているんですけど、ジャンボタクシーとキャッシュレス払いを利用できるところも、探してもらえますか？	general,shopping,hotel,taxi
+887	15	SYSTEM	興進タクシー株式会社は、いかがでしょうか？	general,shopping,hotel,taxi
+887	16	USER	そちらの電話番号って、わかりますか？	general,shopping,hotel,taxi
+887	17	SYSTEM	電話番号は、0756814481です。	general,shopping,hotel,taxi
+887	18	USER	ありがとうございます！じゃぁ、そこのタクシーの予約をお願いします。９月６日１４時４０分に、ココカラファイン アバンティ店から、Stay SAKURA Kyoto(ステイサクラ)京都駅南Ⅰまでで、お願いします！	general,shopping,hotel,taxi
+887	19	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,shopping,hotel,taxi
+887	20	USER	そうなんですね。じゃぁ、時間を15時20分に変更してください。	general,shopping,hotel,taxi
+887	21	SYSTEM	予約出来ました。予約番号は、7215です。	general,shopping,hotel,taxi
+887	22	USER	ありがとうございます！助かりました。	general,shopping,hotel,taxi
+887	23	SYSTEM	他にご用件はございますか？	general,shopping,hotel,taxi
+887	24	USER	あとは大丈夫です！また、機会があったらよろしくお願いします。ありがとうございました！	general,shopping,hotel,taxi
+887	25	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,hotel,taxi

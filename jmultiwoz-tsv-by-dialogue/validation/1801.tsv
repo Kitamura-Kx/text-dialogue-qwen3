@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1801	0	USER	札幌へ旅行する予定なので、泊まる所を探してもらえますか？	general,hotel,attraction,weather
+1801	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,attraction,weather
+1801	2	USER	予算は安めで考えています。駐車場も無料の所はありますか？	general,hotel,attraction,weather
+1801	3	SYSTEM	エリアでいうと南区にある、定山渓ビューホテルはいかがでしょう？タイプはリゾートホテルになります。	general,hotel,attraction,weather
+1801	4	USER	それでは、そのホテルにしますね。ちなみにWi-Fiがあるかどうかと、最寄り駅がどこかも教えてください。	general,hotel,attraction,weather
+1801	5	SYSTEM	Wi-Fiは無料でご利用いただけます。最寄りの札幌駅からはタクシーで50分となります。	general,hotel,attraction,weather
+1801	6	USER	ありがとうございます。あと手稲区の観光地も探しています。駐車場もWi-Fiも無料のスポットで探してください。	general,hotel,attraction,weather
+1801	7	SYSTEM	申し訳ありません。この条件ではご案内できません。いかが致しましょう？	general,hotel,attraction,weather
+1801	8	USER	そうですか、それではWi-Fiにこだわらなければ見つかりそうですか？	general,hotel,attraction,weather
+1801	9	SYSTEM	はい、1件、星置スケート場がございます。ジャンルは、スポーツ、フィットネス、教室、ワークショップ、体験、となります。	general,hotel,attraction,weather
+1801	10	USER	星置スケート場の料金については分かりますか？定休日がいつか、営業時間も知りたいです。	general,hotel,attraction,weather
+1801	11	SYSTEM	料金情報としては、当日券一般が580円、高校生280円、中学生以下無料となります。営業時間は13時から17時30分、定休日は第二月曜日と年末年始になります。	general,hotel,attraction,weather
+1801	12	USER	分かりました。12/10の予定なのですが、この日の豊平区の天気はどんな予報ですか？	general,hotel,attraction,weather
+1801	13	SYSTEM	天気は晴、最低気温-5.6度、最高気温3.8度となります。他にご用件はございますか？	general,hotel,attraction,weather
+1801	14	USER	ありがとうございます、これで全てです。	general,hotel,attraction,weather
+1801	15	SYSTEM	ありがとうございました。	general,hotel,attraction,weather

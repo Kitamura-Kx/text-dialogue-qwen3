@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+334	0	USER	こんにちは。名古屋旅行で泊まる所を探しています。	general,hotel
+334	1	SYSTEM	かしこまりました。お知りになりたい情報がございますか。	general,hotel
+334	2	USER	栄町駅周辺でレストランが併設されていて、駐車場が無料で利用できるところはありますか？	general,hotel
+334	3	SYSTEM	申し訳ございません。その条件ですと案内できるところがございませんでした。	general,hotel
+334	4	USER	では、場所はどこでもかまいません。	general,hotel
+334	5	SYSTEM	では旅館名龍はいかがでしょうか。	general,hotel
+334	6	USER	旅館名龍さんの電話番号をお伺いしてもいいですか？	general,hotel
+334	7	SYSTEM	電話番号は0523318686でございます。	general,hotel
+334	8	USER	わかりました。探してくださり、ありがとうございました。	general,hotel

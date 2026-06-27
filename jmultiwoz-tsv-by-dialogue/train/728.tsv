@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+728	0	USER	東京に行くんですが、無料駐車場があって、安く泊まれるところはありますか？	general,hotel,restaurant,weather
+728	1	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,hotel,restaurant,weather
+728	2	USER	では、予算は普通で構わないです。どこかありますか？	general,hotel,restaurant,weather
+728	3	SYSTEM	ありがとうございます。1件ご案内可能です。帝国ホテル東京というところですが、いかがでしょうか？	general,hotel,restaurant,weather
+728	4	USER	ありがとうございます。そのホテルにはレストランはありますでしょうか？	general,hotel,restaurant,weather
+728	5	SYSTEM	はい、ございます。	general,hotel,restaurant,weather
+728	6	USER	ありがとうございます。あと、台東区で食事ができるお店を探しています。普通予算で探してもらいたいんですが。	general,hotel,restaurant,weather
+728	7	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,hotel,restaurant,weather
+728	8	USER	台東区じゃなければありますか？	general,hotel,restaurant,weather
+728	9	SYSTEM	ありがとうございます。そういたしますと、38件ほどご案内可能です。たとえば、港区エリアにある、杜の都 太助 虎ノ門店というお店いかがでしょうか？	general,hotel,restaurant,weather
+728	10	USER	そこの営業時間を教えてもらえますか？	general,hotel,restaurant,weather
+728	11	SYSTEM	かしこまりました。営業時間は、11:00～16:00と17:00～22:00の2部に分かれております。	general,hotel,restaurant,weather
+728	12	USER	ありがとうございます。あと駐車場があるかどうかと、近くの駅からどのくらいかかるかも教えて下さい。	general,hotel,restaurant,weather
+728	13	SYSTEM	はい。最寄りの虎ノ門駅から徒歩で1分ほどの距離にございます。	general,hotel,restaurant,weather
+728	14	USER	駐車場はありますでしょうか？	general,hotel,restaurant,weather
+728	15	SYSTEM	申し訳ありません。お答えが漏れておりました。駐車場につきましては、こちらは不明となっております。	general,hotel,restaurant,weather
+728	16	USER	ありがとうございます。そのお店を１月１８日の13:50に4人で予約お願いできますか？	general,hotel,restaurant,weather
+728	17	SYSTEM	かしこまりました。ご予約ありがとうございます。予約番号30075にて、予約完了いたしました。	general,hotel,restaurant,weather
+728	18	USER	ありがとうございました。１月１８日の台東区の最低気温も知りたいのですが。	general,hotel,restaurant,weather
+728	19	SYSTEM	かしこまりました。当日の最低気温は、1.1度の予想となっております。	general,hotel,restaurant,weather
+728	20	USER	ありがとうございました。	general,hotel,restaurant,weather
+728	21	SYSTEM	ほかにお調べすることはございますか？	general,hotel,restaurant,weather
+728	22	USER	大丈夫です。ありがとうございました。	general,hotel,restaurant,weather
+728	23	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,hotel,restaurant,weather

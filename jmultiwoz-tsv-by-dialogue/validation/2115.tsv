@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2115	0	USER	こんにちは。今度大阪へいくんですけど、観光名所でWi-Fiと駐車場が無料の歴史的な散策場所ってありますか？	general,attraction,hotel
+2115	1	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction,hotel
+2115	2	USER	そうですか。ではWi-Fiがなくてもいいので、どこかオススメを教えてもらえますか？	general,attraction,hotel
+2115	3	SYSTEM	かしこまりました。では、大阪天満宮はいかがでしょうか？	general,attraction,hotel
+2115	4	USER	ありがとうございます。そちらの住所を教えていただけますか？	general,attraction,hotel
+2115	5	SYSTEM	はい。住所は大阪府大阪市北区天神橋2丁目1-8です。	general,attraction,hotel
+2115	6	USER	ありがとうございます。あと、宿泊施設も探していただけますか？Wi-Fiと駐車場が無料のところがあればいいのですけど。	general,attraction,hotel
+2115	7	SYSTEM	かしこまりました。では、ビジネス旅館 励明園はいかがでしょうか？	general,attraction,hotel
+2115	8	USER	そこにします。住所を教えていただけますか？	general,attraction,hotel
+2115	9	SYSTEM	はい。住所は大阪府大阪市港区築港4丁目2-10です。	general,attraction,hotel
+2115	10	USER	ではそちらで、予約お願いします。5/5から3泊で、2名です。	general,attraction,hotel
+2115	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、27099です。	general,attraction,hotel
+2115	12	USER	ありがとうございました。これで全部きけました。	general,attraction,hotel
+2115	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4795	0	USER	京都へ旅行するので、イタリアン・フレンチが食べれるような店を教えてください。	general,restaurant,weather
+4795	1	SYSTEM	京都には、イタリアンフレンチの飲食店はなさそうです。	general,restaurant,weather
+4795	2	USER	そうですか。ではジャンルは何でも大丈夫です。	general,restaurant,weather
+4795	3	SYSTEM	京都の飲食店は８３件ヒットしますが、京・黒桜をお勧めします。	general,restaurant,weather
+4795	4	USER	そこにします。そちらの最寄り駅を教えてください。	general,restaurant,weather
+4795	5	SYSTEM	京都河原町駅です。	general,restaurant,weather
+4795	6	USER	ありがとうございます。あと、6/9の山科区の天気を教えてください。	general,restaurant,weather
+4795	7	SYSTEM	6/9 京都 山科区 の天気は晴、最低気温 23.1度、最高気温33.1度です。	general,restaurant,weather
+4795	8	USER	わかりました。ありがとうございます。	general,restaurant,weather

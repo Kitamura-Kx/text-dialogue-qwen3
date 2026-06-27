@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4700	0	USER	名古屋へ旅行予定です。中区で駐車場が無料で使えて、レストランのある宿泊施設はないですか？	general,hotel,taxi
+4700	1	SYSTEM	名古屋中区で駐車場無料、レストラン併設の宿泊施設は７件ありますが、アイリス愛知をお勧めします。	general,hotel,taxi
+4700	2	USER	わかりました。あと、ジャンボタクシーを利用しようと考えているので、キャッシュレス払いができるタクシー会社を探してほしいです。	general,hotel,taxi
+4700	3	SYSTEM	両方対応しているところでは、東海交通をお勧めします。	general,hotel,taxi
+4700	4	USER	そこにします。電話番号を教えてください。あと予約もしたいです。	general,hotel,taxi
+4700	5	SYSTEM	0532571111です。ご希望の条件をおきかせください。	general,hotel,taxi
+4700	6	USER	はい。7/15の13:40で、プリンセスガーデンホテル<名古屋栄>からアイリス愛知まで送ってほしいです。	general,hotel,taxi
+4700	7	SYSTEM	予約成功しました。予約番号は30049です。	general,hotel,taxi
+4700	8	USER	ありがとうございます。	general,hotel,taxi

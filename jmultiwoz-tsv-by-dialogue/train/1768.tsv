@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1768	0	USER	大阪への旅行を検討しています。当日利用出来る宿泊施設を探しているのですが、お伺いしてもよろしいですか？	general,hotel,restaurant,taxi
+1768	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,restaurant,taxi
+1768	2	USER	はい。シティホテルを探しています。レストランが併設されているとありがたいのですが、ありますか？	general,hotel,restaurant,taxi
+1768	3	SYSTEM	申し訳ありません。ご紹介可能な宿泊施設がございません。いかが致しましょう？	general,hotel,restaurant,taxi
+1768	4	USER	そうですか。でしたら、シティホテルではなくて、簡易宿所（ベッドハウス・山小屋・カプセルホテル等）に変更するとどうでしょうか？	general,hotel,restaurant,taxi
+1768	5	SYSTEM	では、エリアでいうと中央区にある、9別邸 大阪谷町 MAISON DE 9はいかがでしょう？	general,hotel,restaurant,taxi
+1768	6	USER	ありがとうございます。検討してみます。それとは別に、当日利用出来る飲食店も探しているのですが、よろしいでしょうか？	general,hotel,restaurant,taxi
+1768	7	SYSTEM	はい、何かご希望はございますか？	general,hotel,restaurant,taxi
+1768	8	USER	はい。予算が普通の鍋料理のお店を探しています。中央区で探して欲しいのですが、ありますか？	general,hotel,restaurant,taxi
+1768	9	SYSTEM	はい、1件のみ、旬菜 彌重がございます。	general,hotel,restaurant,taxi
+1768	10	USER	ありがとうございます。そちらのお店の営業時間を教えて頂けますか？	general,hotel,restaurant,taxi
+1768	11	SYSTEM	営業時間は、7時から10時30分、11時から14時30分、17時から22時30分となります。	general,hotel,restaurant,taxi
+1768	12	USER	ありがとうございます。最後に、当日利用できるタクシー会社も探しているのですが、よろしいでしょうか？	general,hotel,restaurant,taxi
+1768	13	SYSTEM	はい、何かご希望はございますか？	general,hotel,restaurant,taxi
+1768	14	USER	はい。ジャンボタクシーを利用してみたいのですが、該当する所はありますか？	general,hotel,restaurant,taxi
+1768	15	SYSTEM	申し訳ありません。ジャンボタクシー対応のタクシー会社はございません。いかが致しましょう？	general,hotel,restaurant,taxi
+1768	16	USER	そうですか。でしたら、ジャンボタクシーは大丈夫ですので、何処かタクシー会社を案内して頂いてもよろしいでしょうか？	general,hotel,restaurant,taxi
+1768	17	SYSTEM	では、タックン大阪株式会社はいかがでしょう？キャッシュレスには対応しております。電話番号は、0669350778となります。	general,hotel,restaurant,taxi
+1768	18	USER	ありがとうございます。そこで予約したいと思います。このまま予約して頂いても大丈夫でしょうか？	general,hotel,restaurant,taxi
+1768	19	SYSTEM	承知しました。出発日時と出発地、目的地を教えていただけますか？	general,hotel,restaurant,taxi
+1768	20	USER	はい。日付は8月14日の14時。9別邸 大阪谷町 MAISON DE 9から旬菜 彌重まででお願いしたいです。	general,hotel,restaurant,taxi
+1768	21	SYSTEM	承知しました。予約が完了し、ご予約番号は、95237となります。他にご用件はございますか？	general,hotel,restaurant,taxi
+1768	22	USER	これで大丈夫です。ご案内、ありがとうございました。	general,hotel,restaurant,taxi
+1768	23	SYSTEM	ありがとうございました。	general,hotel,restaurant,taxi

@@ -1,0 +1,33 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+947	0	USER	名古屋へ行こうと思っていて、食事ができる飲食店を探しています。	general,restaurant,hotel,taxi
+947	1	SYSTEM	かしこまりました。ではご希望の条件はございますか。	general,restaurant,hotel,taxi
+947	2	USER	昭和区がいいです。	general,restaurant,hotel,taxi
+947	3	SYSTEM	王様のフレンチはいかがでしょうか。	general,restaurant,hotel,taxi
+947	4	USER	ありがとうございます。そちらはWi-Fiはありますでしょうか？	general,restaurant,hotel,taxi
+947	5	SYSTEM	Wi-Fiの有無は不明となっております。	general,restaurant,hotel,taxi
+947	6	USER	ありがとうございます。あと、料金の情報も教えてもらいたいのですが。	general,restaurant,hotel,taxi
+947	7	SYSTEM	料金情報は不明でございます。	general,restaurant,hotel,taxi
+947	8	USER	わかりました。当日泊まる宿泊施設も探してほしいです。	general,restaurant,hotel,taxi
+947	9	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,hotel,taxi
+947	10	USER	安めの予算で、Wi-Fiを無料で利用できるところがいいです。	general,restaurant,hotel,taxi
+947	11	SYSTEM	ではザ サイプレス メルキュールホテル名古屋はいかがでしょうか。	general,restaurant,hotel,taxi
+947	12	USER	チェックインの開始時刻は何時でしょうか？	general,restaurant,hotel,taxi
+947	13	SYSTEM	チェックイン開始時刻は15:00でございます。	general,restaurant,hotel,taxi
+947	14	USER	ありがとうございます。そちらの予約をお願いしたいです。	general,restaurant,hotel,taxi
+947	15	SYSTEM	かしこまりました。では、詳細をお聞かせいただけますか。	general,restaurant,hotel,taxi
+947	16	USER	１月１２日から３泊で、人数は３人でお願いします。	general,restaurant,hotel,taxi
+947	17	SYSTEM	はい。予約が完了いたしました。予約番号は62026でございます。	general,restaurant,hotel,taxi
+947	18	USER	ありがとうございます。あと、当日利用できるタクシーを探してもらいたいです。キャッシュレス払いできるところを希望しています。	general,restaurant,hotel,taxi
+947	19	SYSTEM	帝産キャブ名古屋はいかがでしょうか。	general,restaurant,hotel,taxi
+947	20	USER	そちらはジャンボタクシーは対応していますでしょうか？	general,restaurant,hotel,taxi
+947	21	SYSTEM	はい。ジャンボタクシーにも対応しております。	general,restaurant,hotel,taxi
+947	22	USER	では、そちらの電話番号を教えてもらえますか？	general,restaurant,hotel,taxi
+947	23	SYSTEM	電話番号は0529141115でございます。	general,restaurant,hotel,taxi
+947	24	USER	ありがとうございます。帝産キャブ名古屋さんの方で１月１２日の予約をお願いしたいです。	general,restaurant,hotel,taxi
+947	25	SYSTEM	かしこまりました。では予約の詳細をお聞かせいただけますか。	general,restaurant,hotel,taxi
+947	26	USER	王様のフレンチからザ サイプレス メルキュールホテル名古屋までお願いします。時間は13:50でお願いします。	general,restaurant,hotel,taxi
+947	27	SYSTEM	はい。予約が完了いたしました。予約番号は58906でございます。	general,restaurant,hotel,taxi
+947	28	USER	ありがとうございました。	general,restaurant,hotel,taxi
+947	29	SYSTEM	ほかにご用件はございますか。	general,restaurant,hotel,taxi
+947	30	USER	ないです。ありがとうございました。	general,restaurant,hotel,taxi
+947	31	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel,taxi

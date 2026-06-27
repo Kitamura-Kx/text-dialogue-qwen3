@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2248	0	USER	大阪へ旅行に行くので、買い物ができるところを探してください。	general,shopping,restaurant,weather
+2248	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,shopping,restaurant,weather
+2248	2	USER	ジャンルはおもちゃで、地区は東成区で調べてください。	general,shopping,restaurant,weather
+2248	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,restaurant,weather
+2248	4	USER	それでは地区の条件は外して構いません。	general,shopping,restaurant,weather
+2248	5	SYSTEM	ありがとうございます。そうしますと、おかいもの処椿庵というところはいかがでしょうか？	general,shopping,restaurant,weather
+2248	6	USER	そちらの住所、電話番号、定休日を教えてください。	general,shopping,restaurant,weather
+2248	7	SYSTEM	住所は、大阪府大阪市住之江区粉浜3丁目16-3です。電話番号は、0647015050で、お休みは不定休となっております。	general,shopping,restaurant,weather
+2248	8	USER	ありがとうございます。次に飲食店を探してください。	general,shopping,restaurant,weather
+2248	9	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,shopping,restaurant,weather
+2248	10	USER	Wi-Fiが無料で利用できるところで、地区は福島区が希望です。	general,shopping,restaurant,weather
+2248	11	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,shopping,restaurant,weather
+2248	12	USER	では地区の条件は外して構いません。	general,shopping,restaurant,weather
+2248	13	SYSTEM	かしこまりました。では、世界のワイン博物館 グランフロント大阪店はいかがでしょうか？エリアは北区にございます。	general,shopping,restaurant,weather
+2248	14	USER	そちらのお店の値段帯を教えてください。	general,shopping,restaurant,weather
+2248	15	SYSTEM	普通となっております。	general,shopping,restaurant,weather
+2248	16	USER	ありがとうございます。あと9/6の住吉区の天候を調べてください。	general,shopping,restaurant,weather
+2248	17	SYSTEM	かしこまりました。当日の天気は、曇時々雨の予報です。最低気温は21.1度、最高気温は34.1度の予想となっております。	general,shopping,restaurant,weather
+2248	18	USER	ありがとうございました。以上になります。	general,shopping,restaurant,weather
+2248	19	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,shopping,restaurant,weather

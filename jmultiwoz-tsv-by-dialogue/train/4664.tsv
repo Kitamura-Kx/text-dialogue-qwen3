@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4664	0	USER	福岡の宿泊施設で、レストランがある安めの施設を探していただけますか。	general,hotel,attraction,weather
+4664	1	SYSTEM	かしこまりました。34件ほど、ご案内可能です。たとえば博多区エリアにあるエスペリアホテル博多はいかがでしょうか？	general,hotel,attraction,weather
+4664	2	USER	電話番号を教えていただけますか	general,hotel,attraction,weather
+4664	3	SYSTEM	はい、電話番号は、0924127272でございます。	general,hotel,attraction,weather
+4664	4	USER	予約をお願いできますか。4月6日で、宿泊日数は4泊、３人でお願いいたします。	general,hotel,attraction,weather
+4664	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、16209です。	general,hotel,attraction,weather
+4664	6	USER	ありがとうございます。続いて、東区の観光名所を探しています。駐車場が無料のところを教えていただけますか。	general,hotel,attraction,weather
+4664	7	SYSTEM	かしこまりました。そうしますと、香椎宮はいかがでしょうか？	general,hotel,attraction,weather
+4664	8	USER	そちらで結構です。住所、最寄り駅と営業時間を教えてください。	general,hotel,attraction,weather
+4664	9	SYSTEM	住所は、福岡県福岡市東区香椎4丁目16-1です。最寄りは、香椎神宮駅でして、徒歩5分の距離にございます。営業時間は、9:00～17:00です。	general,hotel,attraction,weather
+4664	10	USER	ありがとうございます。４月６日の東区の天気も心配です。最低気温、最高気温を教えていただけますか。	general,hotel,attraction,weather
+4664	11	SYSTEM	はい、当日の天気は晴のち曇、最低気温は9.2度、最高気温は18.6度の予報となっております。	general,hotel,attraction,weather
+4664	12	USER	お伺いしたいことは以上です。ありがとうございました。	general,hotel,attraction,weather
+4664	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,attraction,weather

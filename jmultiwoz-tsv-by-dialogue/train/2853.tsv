@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2853	0	USER	札幌への旅行を計画しているので宿泊施設を探してほしいです。	general,hotel
+2853	1	SYSTEM	札幌ですね。　何かご希望条件などはありますか？	general,hotel
+2853	2	USER	中央区で駐車場が無料で使えてWi-Fiも無料で利用できる宿泊施設はありますか？	general,hotel
+2853	3	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,hotel
+2853	4	USER	では南区で探してもらえますか？	general,hotel
+2853	5	SYSTEM	4件みつかりました。定山渓万世閣ホテルミリオーネ、こちらはいかがですか？	general,hotel
+2853	6	USER	そちらでお願いしようと思います。住所と最寄り駅、レストランの有無を教えてください。	general,hotel
+2853	7	SYSTEM	はい、住所は北海道札幌市南区定山渓温泉東3丁目です。　最寄り駅は、札幌駅でレストランも併設されています。	general,hotel
+2853	8	USER	ではそこで、5/14から4泊、３名で予約をお願いできますか？	general,hotel
+2853	9	SYSTEM	予約出来ました。予約番号は、8093になります。	general,hotel
+2853	10	USER	ありがとうございます。	general,hotel
+2853	11	SYSTEM	他にご用件はございますか？	general,hotel
+2853	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel

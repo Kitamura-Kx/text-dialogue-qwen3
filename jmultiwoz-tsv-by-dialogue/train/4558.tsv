@@ -1,0 +1,5 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4558	0	USER	福岡のキャナルシティ博多に行きます。そこの料金情報と電話番号を教えて下さい。	general,attraction
+4558	1	SYSTEM	はい、キャナルシティ博多の料金情報は、無料、電話番号は、0922822525です。	general,attraction
+4558	2	USER	以上です。ありがとうございました！	general,attraction
+4558	3	SYSTEM	承知しました。ありがとうございました。	general,attraction

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+487	0	USER	京都へ旅行に行くのですが文房具・雑貨が購入できる駐車場無料の店舗はありますか？	general,shopping
+487	1	SYSTEM	かしこまりました。では、伊藤常嵐山店はいかがでしょうか。	general,shopping
+487	2	USER	最寄り駅からの所要時間と、定休日も教えてください	general,shopping
+487	3	SYSTEM	嵐山駅からは徒歩で1分で、定休日は無しでございます。	general,shopping
+487	4	USER	わかりました利用させてもらいます	general,shopping
+487	5	SYSTEM	ほかにご用件はございませんか。	general,shopping
+487	6	USER	はい大丈夫です有難うございました	general,shopping
+487	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

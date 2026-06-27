@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3814	0	USER	大阪へ旅行したいのですが。	general,taxi
+3814	1	SYSTEM	大阪旅行ですね。　どのようなお店や施設をお探しですか？	general,taxi
+3814	2	USER	タクシー会社を探しています。キャッシュレス払いができるタクシー会社はありますか？	general,taxi
+3814	3	SYSTEM	では、東京・日本交通株式会社はいかがですか？	general,taxi
+3814	4	USER	そちらの電話番号はわかりますか？あと、ジャンボタクシーの利用は可能ですか？	general,taxi
+3814	5	SYSTEM	電話番号は、0666493171です。　はい、ジャンボタクシーも対応しております。	general,taxi
+3814	6	USER	ありがとうございます。ではそちらで予約お願いします。7/21に午前10:50にアニエルドールを出発で、千鳥屋宗家 大阪本店までお願いします。	general,taxi
+3814	7	SYSTEM	予約出来ました。予約番号は、46540になります。	general,taxi
+3814	8	USER	ありがとうございました。	general,taxi
+3814	9	SYSTEM	他にご用件はありますか？	general,taxi
+3814	10	USER	ありません。ありがとうございました。	general,taxi
+3814	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

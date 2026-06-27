@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1538	0	USER	名古屋への旅行を考えているのですが、無料駐車場がある買い物店舗を探してください。	general,shopping,weather,taxi
+1538	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,weather,taxi
+1538	2	USER	そうですか。なら駐車場はなくてもいいです。	general,shopping,weather,taxi
+1538	3	SYSTEM	ではSUNSHINE SAKAEはいかがでしょうか。	general,shopping,weather,taxi
+1538	4	USER	いいですね。電話番号を知りたいです。	general,shopping,weather,taxi
+1538	5	SYSTEM	電話番号は0523102211でございます。	general,shopping,weather,taxi
+1538	6	USER	わかりました。中村区の12/7の天気を教えてもらっていいですか？	general,shopping,weather,taxi
+1538	7	SYSTEM	天気は晴、最低気温が-1.2度で最高気温が9.2度でございます。	general,shopping,weather,taxi
+1538	8	USER	ありがとうございます。当日タクシーを利用したいのですが、キャッシュレス払いできるところを調べてください。	general,shopping,weather,taxi
+1538	9	SYSTEM	東海交通がございます。こちらジャンボタクシーにも対応しております。	general,shopping,weather,taxi
+1538	10	USER	わかりました。なら、12/7の12:50でSUNSHINE SAKAEからロクシタン 松坂屋名古屋店までの利用の予約をお願いします。	general,shopping,weather,taxi
+1538	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は73024でございます。	general,shopping,weather,taxi
+1538	12	USER	ありがとうございます。	general,shopping,weather,taxi
+1538	13	SYSTEM	ほかにご用件はございますか。	general,shopping,weather,taxi
+1538	14	USER	いえ、もう大丈夫です。	general,shopping,weather,taxi
+1538	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather,taxi

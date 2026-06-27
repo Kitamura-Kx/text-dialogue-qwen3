@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+471	0	USER	那覇の首里地区でWi-Fiが無料利用できる観光名所はありますか？	general,attraction
+471	1	SYSTEM	はい。では首里城 園比屋武御嶽石門はいかがでしょうか。	general,attraction
+471	2	USER	いいですね。そちら、定休日はありますか？	general,attraction
+471	3	SYSTEM	定休日はございません。	general,attraction
+471	4	USER	わかりました。ありがとうございました。	general,attraction

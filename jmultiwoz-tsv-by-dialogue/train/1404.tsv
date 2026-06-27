@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1404	0	USER	札幌への旅行を計画しているのですが、旅行当日の飲食店を探しています。予算は普通、最寄り駅が円山公園駅で駐車場が無料のところがいいです。	general,restaurant,hotel,attraction
+1404	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,hotel,attraction
+1404	2	USER	では、最寄り駅は考慮しません。	general,restaurant,hotel,attraction
+1404	3	SYSTEM	ありがとうございます。そういたしますと、北海道スープカレー専門店 雪道というお店はいかがでしょうか？最寄り駅は、西線９条旭山公園通停留所となっております。	general,restaurant,hotel,attraction
+1404	4	USER	ありがとうございます。そこにしようと思います。定休日はありますか？	general,restaurant,hotel,attraction
+1404	5	SYSTEM	はい。月曜日が定休日でございます。	general,restaurant,hotel,attraction
+1404	6	USER	ありがとうございます。予約をしたいのですが、1/15の10：50から、４人でお願いできますか？	general,restaurant,hotel,attraction
+1404	7	SYSTEM	かしこまりました。ご予約が完了いたしました。予約番号は、48613です。	general,restaurant,hotel,attraction
+1404	8	USER	ありがとうございます。旅行当日の宿泊先も探しています。最寄り駅が札幌駅で、駐車場が無料のところはありますか？	general,restaurant,hotel,attraction
+1404	9	SYSTEM	はい、4件ほどご案内可能です。たとえば、定山渓ビューホテルというリゾートホテルはいかがでしょうか？	general,restaurant,hotel,attraction
+1404	10	USER	ありがとうございます。定山渓ビューホテルというリゾートホテルにしたいと思います。近辺の駅からの所要時間はわかりますか？	general,restaurant,hotel,attraction
+1404	11	SYSTEM	はい。札幌駅からタクシーで50分となっております。	general,restaurant,hotel,attraction
+1404	12	USER	ありがとうございます。予約をしたいのですが、1/15から２人で２泊、お願いできますか？	general,restaurant,hotel,attraction
+1404	13	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。予約番号は、11920です。	general,restaurant,hotel,attraction
+1404	14	USER	ありがとうございます。当日の観光名所も探しています。	general,restaurant,hotel,attraction
+1404	15	SYSTEM	札幌では48件ほど、観光名所をご案内できますが、ジャンルやエリアなど、何かご希望はございますか？	general,restaurant,hotel,attraction
+1404	16	USER	札幌市時計台というところなのですが、近辺の駅からの所要時間は分かりますか？	general,restaurant,hotel,attraction
+1404	17	SYSTEM	はい、札幌市時計台ですね。最寄りの大通駅からは徒歩で5分、札幌駅からですと徒歩で10分ほどでアクセスできます。	general,restaurant,hotel,attraction
+1404	18	USER	ありがとうございました。	general,restaurant,hotel,attraction
+1404	19	SYSTEM	ほかにお手伝いできることはございませんか？	general,restaurant,hotel,attraction
+1404	20	USER	いえ、ほかには大丈夫です。ありがとうございました。	general,restaurant,hotel,attraction
+1404	21	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,hotel,attraction

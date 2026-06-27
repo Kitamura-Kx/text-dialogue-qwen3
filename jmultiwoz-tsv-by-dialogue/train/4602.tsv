@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4602	0	USER	仙台への旅行を計画しています． 当日訪れる観光名所を探してください．Wi-Fiが無料で利用できるところにしてください．地区は青葉区です．ジャンルは都市の景観で	general,attraction
+4602	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction
+4602	2	USER	でしたらジャンルはアートギャラリーで。	general,attraction
+4602	3	SYSTEM	仙台市文学館はいかがでしょうか。	general,attraction
+4602	4	USER	そちらの大人入場料，営業時間を教えていただけますか。	general,attraction
+4602	5	SYSTEM	営業時間は09:00～17:00、大人入場料は460です。	general,attraction
+4602	6	USER		general,attraction

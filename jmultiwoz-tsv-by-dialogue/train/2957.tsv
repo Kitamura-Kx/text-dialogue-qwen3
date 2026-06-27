@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2957	0	USER	今度仙台へ行くんですが、レストランが併設されていて、Wi-Fiも無料の宿泊施設を探してもらえますか？予算は普通くらいのところがいいです。	general,hotel,weather
+2957	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel,weather
+2957	2	USER	そうですか。ではレストランはなくても大丈夫です。	general,hotel,weather
+2957	3	SYSTEM	ありがとうございます。エリアでいうと青葉区にある、湯の原ホテルはいかがでしょう？タイプは旅館となります。	general,hotel,weather
+2957	4	USER	ありがとうございます。そこは駐車場はありますか？	general,hotel,weather
+2957	5	SYSTEM	はい、無料でご利用いただけます。	general,hotel,weather
+2957	6	USER	わかりました。ではそこの予約をお願いできますか？3/4から3泊で３名です。	general,hotel,weather
+2957	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、45785となります。	general,hotel,weather
+2957	8	USER	ありがとうございます。あと、3/4の青葉区の最低気温も教えてください。	general,hotel,weather
+2957	9	SYSTEM	はい、最低気温2.6度となります。	general,hotel,weather
+2957	10	USER	ありがとうございました。以上で結構です。	general,hotel,weather
+2957	11	SYSTEM	ありがとうございました。	general,hotel,weather

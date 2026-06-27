@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4703	0	USER	横浜への旅行を計画しているのですが、観光名所を探してもらえますか？	general,attraction,shopping,taxi
+4703	1	SYSTEM	はい。希望の条件はありますか？	general,attraction,shopping,taxi
+4703	2	USER	そうですね、最寄り駅が馬車道駅でジャンルは散策エリアの、Wi-Fiが無料の場所なんてありますか？	general,attraction,shopping,taxi
+4703	3	SYSTEM	かしこまりました。では、横浜赤レンガ倉庫はいかがでしょうか？	general,attraction,shopping,taxi
+4703	4	USER	そちらの大人の入場料はいくらですか？	general,attraction,shopping,taxi
+4703	5	SYSTEM	無料となっております。	general,attraction,shopping,taxi
+4703	6	USER	ありがとうございます。最寄り駅が日本大通り駅で買い物ができるところも探してもらえますか？	general,attraction,shopping,taxi
+4703	7	SYSTEM	かしこまりました。では、セブンイレブン 横浜山下町本町通り店はいかがでしょうか？	general,attraction,shopping,taxi
+4703	8	USER	そちらの住所はわかりますか？	general,attraction,shopping,taxi
+4703	9	SYSTEM	はい。神奈川県横浜市中区山下町51-1です。	general,attraction,shopping,taxi
+4703	10	USER	そこに行くのにタクシーを利用したいのですが、キャッシュレス払いに対応していてジャンボタクシーが利用できるタクシー会社はありますか？	general,attraction,shopping,taxi
+4703	11	SYSTEM	かしこまりました。では、日本サントスキャブ株式会社はいかがでしょうか？	general,attraction,shopping,taxi
+4703	12	USER	電話番号を教えてもらえますか？	general,attraction,shopping,taxi
+4703	13	SYSTEM	はい。電話番号は0120193117です。	general,attraction,shopping,taxi
+4703	14	USER	じゃあそちらで予約をお願いします。10/15の14:00から横浜赤レンガ倉庫からセブンイレブン 横浜山下町本町通り店までお願いします。	general,attraction,shopping,taxi
+4703	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、14544です。	general,attraction,shopping,taxi
+4703	16	USER	ありがとうございました。	general,attraction,shopping,taxi
+4703	17	SYSTEM	ありがとうございました。	general,attraction,shopping,taxi

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3128	0	USER	仙台に旅行するので予算が普通の宿泊施設を教えてください	general,hotel,shopping
+3128	1	SYSTEM	かしこまりました。１２件ご案内可能です。たとえば、青葉区エリアにある、鷹泉閣 岩松旅館というところはいかがでしょうか？	general,hotel,shopping
+3128	2	USER	タイプと近辺駅からの所要時間を教えて貰えますか？	general,hotel,shopping
+3128	3	SYSTEM	かしこまりました。タイプは旅館となっております。最寄りの作並駅からはバスで5分ほどかかります。	general,hotel,shopping
+3128	4	USER	分かりましたあと文房具や雑貨が買い物できるところを探しています。青葉区で駐車場が無料で利用出来るお店はありますか？	general,hotel,shopping
+3128	5	SYSTEM	そうしますと、アニメイト仙台というところはいかがでしょうか？	general,hotel,shopping
+3128	6	USER	わかりました。電話番号を教えて貰えますか？	general,hotel,shopping
+3128	7	SYSTEM	かしこまりました。電話番号は、0222640437でございます。	general,hotel,shopping
+3128	8	USER	わかりました。	general,hotel,shopping
+3128	9	SYSTEM	他にお調べすることはございませんか？	general,hotel,shopping
+3128	10	USER	大丈夫です。ありがとうございました！	general,hotel,shopping
+3128	11	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,hotel,shopping

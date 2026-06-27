@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4393	0	USER	今度仙台へ行くんですが、青葉区の岩切駅周辺で無料駐車場がある買い物施設を探してもらえますか？	general,shopping
+4393	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping
+4393	2	USER	そうですか。じゃあ地区はどこでもかまいません。	general,shopping
+4393	3	SYSTEM	ではローソン仙台松森陣ヶ前店がございます。	general,shopping
+4393	4	USER	ありがとうございます。じゃあ、そこの近辺の駅からの所要時間と定休日も教えてください。	general,shopping
+4393	5	SYSTEM	岩切駅からタクシーで7分、定休日は無しでございます。	general,shopping
+4393	6	USER	ありがとうございます。以上で結構です。	general,shopping
+4393	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

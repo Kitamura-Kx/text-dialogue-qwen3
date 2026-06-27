@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3608	0	USER	仙台で駐車場が無料だけど高めの宿泊施設を探しています。	general,hotel,restaurant,taxi
+3608	1	SYSTEM	かしこまりました。では、作並温泉 ゆづくしSalon一の坊はいかがでしょうか。	general,hotel,restaurant,taxi
+3608	2	USER	そこにします！5/29に4人で4泊予約はできますか？	general,hotel,restaurant,taxi
+3608	3	SYSTEM	はい。予約が完了いたしました。予約番号は22251でございます。	general,hotel,restaurant,taxi
+3608	4	USER	ありがとうございます。あと駐車場が無料の飲食店も探してほしいです。安めの所が良いです。	general,hotel,restaurant,taxi
+3608	5	SYSTEM	では、風と手と土がございます。	general,hotel,restaurant,taxi
+3608	6	USER	そのお店を5/29の17：40に3人で予約したいです。	general,hotel,restaurant,taxi
+3608	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は70376でございます。	general,hotel,restaurant,taxi
+3608	8	USER	ありがとうございます。もう一つ聞きたいのですが、永楽交通（株）というタクシー会社はジャンボタクシーは対応してますか？	general,hotel,restaurant,taxi
+3608	9	SYSTEM	ジャンボタクシーには対応しておりません。	general,hotel,restaurant,taxi
+3608	10	USER	わかりました。この会社の電話番号も教えてください。	general,hotel,restaurant,taxi
+3608	11	SYSTEM	電話番号は0222484546でございます。	general,hotel,restaurant,taxi
+3608	12	USER	5/29の16：10に作並温泉 ゆづくしSalon一の坊から風と手と土までこのタクシー会社で予約したいです。	general,hotel,restaurant,taxi
+3608	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は88397でございます。	general,hotel,restaurant,taxi
+3608	14	USER	わかりました。ありがとうございました。	general,hotel,restaurant,taxi
+3608	15	SYSTEM	本日はありがとうございました。	general,hotel,restaurant,taxi

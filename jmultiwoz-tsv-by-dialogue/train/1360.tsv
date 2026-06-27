@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1360	0	USER	名古屋へ旅行の予定です、名古屋港駅近辺でおもちゃを購入したいのですが、駐車場が無料の店舗はありますか？	general,shopping,restaurant,taxi
+1360	1	SYSTEM	申し訳ございません。ご希望の条件では案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant,taxi
+1360	2	USER	そうですか、それでは最寄り駅はこだわりませんので、お願いします。	general,shopping,restaurant,taxi
+1360	3	SYSTEM	かしこまりました。ではベビーザらス 名西店はいかがでしょうか。	general,shopping,restaurant,taxi
+1360	4	USER	「ベビーザらス 名西店」定休日と電話番号を教えて下さい	general,shopping,restaurant,taxi
+1360	5	SYSTEM	定休日は無し、電話番号は0525236271でございます。	general,shopping,restaurant,taxi
+1360	6	USER	ありがとうございます、当日中区で食事をしたいのですが、駐車場が無料の飲食店を教えて下さい。	general,shopping,restaurant,taxi
+1360	7	SYSTEM	ではビストロ バッカスはいかがでしょうか。	general,shopping,restaurant,taxi
+1360	8	USER	WiFiの有無と、値段帯もお願いします。	general,shopping,restaurant,taxi
+1360	9	SYSTEM	WiFiの有無は不明で、値段帯は高めとなっております。	general,shopping,restaurant,taxi
+1360	10	USER	ジャンボタクシーの利用を考えているのですが、対応可能のタクシー会社はありますか？	general,shopping,restaurant,taxi
+1360	11	SYSTEM	はい、名鉄西部交通西部がございます。	general,shopping,restaurant,taxi
+1360	12	USER	名鉄西部交通西部はキャッシュレス対応可能か、それと電話番号もお願いします。	general,shopping,restaurant,taxi
+1360	13	SYSTEM	キャッシュレスは対応しております。電話番号は0568213295でございます。	general,shopping,restaurant,taxi
+1360	14	USER	それではタクシーの予約をお願いします。2/22の11:30に「ベビーザらス 名西店」から「ビストロ バッカス」までお願いします。	general,shopping,restaurant,taxi
+1360	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は41545でございます。	general,shopping,restaurant,taxi
+1360	16	USER	有難うございました、助かりました。	general,shopping,restaurant,taxi
+1360	17	SYSTEM	ほかにご用件はございますか。	general,shopping,restaurant,taxi
+1360	18	USER	いえ大丈夫です。	general,shopping,restaurant,taxi
+1360	19	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant,taxi

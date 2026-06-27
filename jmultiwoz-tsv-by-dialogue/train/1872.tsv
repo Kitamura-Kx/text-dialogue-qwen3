@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1872	0	USER	こんにちは！今度、福岡へ旅行に行きたいので、案内をお願いします。	general,shopping,weather
+1872	1	SYSTEM	かしこまりました。何かご用件はありますか？	general,shopping,weather
+1872	2	USER	博多区で、買い物ができるところを探してほしいです。あと、駐車場が無料で使えるところでお願いします！	general,shopping,weather
+1872	3	SYSTEM	かしこまりました。では、KITTE博多はいかがでしょうか？	general,shopping,weather
+1872	4	USER	ありがとうございます！では、そちらの住所と、電話番号を教えていただけますか？	general,shopping,weather
+1872	5	SYSTEM	はい。住所は福岡県福岡市博多区博多駅中央街9-1です。電話番号は0922921263になります。	general,shopping,weather
+1872	6	USER	ありがとうございます！あと、近辺の駅からの所要時間も教えていただけますか？	general,shopping,weather
+1872	7	SYSTEM	はい。博多駅から徒歩で1分でございます。	general,shopping,weather
+1872	8	USER	そうなんですね！ありがとうございます。あと、天候についても教えていただきたいのですが、6月２日の城南区の天候はわかりますか？	general,shopping,weather
+1872	9	SYSTEM	かしこまりました。6/2の城南区の天気予報は曇のち雨となっております。最低気温は24.9度、最高気温は31度になる予報です。	general,shopping,weather
+1872	10	USER	わかりました！お調べいただき、ありがとうございます。	general,shopping,weather
+1872	11	SYSTEM	他にご用件はありますか？	general,shopping,weather
+1872	12	USER	いえ、あとは大丈夫です。この度はありがとうございました！	general,shopping,weather
+1872	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

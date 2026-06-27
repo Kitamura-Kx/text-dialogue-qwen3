@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2225	0	USER	東京へ旅行に行くので、飲食店を探してください。	general,restaurant
+2225	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant
+2225	2	USER	Wi-Fiと駐車場を無料で利用できるところにしてください。最寄り駅が市ヶ谷駅のところだとありがたいです。	general,restaurant
+2225	3	SYSTEM	申し訳ありません。その条件ではご紹介できません。いかが致しましょう？	general,restaurant
+2225	4	USER	では最寄り駅の条件は外して構いません。	general,restaurant
+2225	5	SYSTEM	エリアでいうと港区に、バルバッコア 六本木ヒルズ店がございます。ジャンルは、洋食、西洋料理、居酒屋、となります。	general,restaurant
+2225	6	USER	そちらの近辺の駅からの所要時間と営業時間を教えてください。	general,restaurant
+2225	7	SYSTEM	営業時間は11時から16時と、17時30分から22時、最寄りの六本木駅から徒歩で1分、近辺の麻布十番駅から徒歩で5分、乃木坂駅から徒歩で10分となります。	general,restaurant
+2225	8	USER	ではそのお店を予約してください。人数は3人で、日付は9/28、時間は13:50です。	general,restaurant
+2225	9	SYSTEM	予約が完了し、ご予約番号は、28380となります。	general,restaurant
+2225	10	USER	ありがとうございました。以上です。	general,restaurant
+2225	11	SYSTEM	ありがとうございました。	general,restaurant

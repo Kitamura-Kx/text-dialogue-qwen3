@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4523	0	USER	横浜への旅行を計画していますが、その時に利用するタクシー会社を探して頂けますか？	general,taxi,weather
+4523	1	SYSTEM	かしこまりました。では京浜ハイヤー株式会社はいかがでしょうか。こちらキャッシュレスにもジャンボタクシーにも対応しております。	general,taxi,weather
+4523	2	USER	いいですね、そちらでお願いします。電話番号を教えて下さい。	general,taxi,weather
+4523	3	SYSTEM	電話番号は0457411896でございます。	general,taxi,weather
+4523	4	USER	2/20の13:00に予約をお願いできますか？	general,taxi,weather
+4523	5	SYSTEM	かしこまりました。ではご予約の詳細をお聞かせいただけますか。	general,taxi,weather
+4523	6	USER	はい、Cosme Kitchen ルミネ横浜から三井アウトレットパーク横浜ベイサイドまでお願いします。	general,taxi,weather
+4523	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は5780でございます。	general,taxi,weather
+4523	8	USER	あと、2/20の2/20の天気も教えてもらえますか？	general,taxi,weather
+4523	9	SYSTEM	かしこまりました。お知りになりたいエリアはどちらでございますか。	general,taxi,weather
+4523	10	USER	南区でお願いします。	general,taxi,weather
+4523	11	SYSTEM	当日の天気は曇のち晴でございます。	general,taxi,weather
+4523	12	USER	ありがとうございます。	general,taxi,weather
+4523	13	SYSTEM	ほかにご用件はございませんか。	general,taxi,weather
+4523	14	USER	他にはありません、ありがとうございました。	general,taxi,weather
+4523	15	SYSTEM	ありがとうございました。	general,taxi,weather

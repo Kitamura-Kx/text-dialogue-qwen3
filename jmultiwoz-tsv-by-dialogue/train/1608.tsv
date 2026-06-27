@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1608	0	USER	京都へ観光に行きます。温泉に行きたいので、探してもらえますか？	general,attraction
+1608	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction
+1608	2	USER	そうですか。では、温泉でなくていいので、京都の観光名所を探してもらえますか？	general,attraction
+1608	3	SYSTEM	それでは、古典の日記念 京都市平安京創生館はいかがですか？	general,attraction
+1608	4	USER	よさそうですね。そちらには駐車場はありますか？近辺の駅からの所要時間もわかれば教えてください。	general,attraction
+1608	5	SYSTEM	駐車場は、有料駐車場があります。　近辺の駅からの所要時間は、京都駅からバスで20分、円町駅から徒歩で10分、円町駅からバスで5分、二条駅からバスで8分、大宮駅からバスで10分となっています。	general,attraction
+1608	6	USER	わかりました。どうもありがとうございました。	general,attraction

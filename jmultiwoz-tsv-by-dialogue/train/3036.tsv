@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3036	0	USER	横浜旅行で訪れるための観光名所を探して頂けますか。	general,attraction,restaurant,taxi
+3036	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,attraction,restaurant,taxi
+3036	2	USER	Wi-Fiと駐車場が無料で利用できる場所でお願いします。	general,attraction,restaurant,taxi
+3036	3	SYSTEM	横浜でWiFiと駐車場が無料の観光スポットは２つありますが、カップヌードルミュージアム 横浜、こちらをお勧めします。	general,attraction,restaurant,taxi
+3036	4	USER	ではそちらに行きたいと思います。最寄り駅はどこになりますか。	general,attraction,restaurant,taxi
+3036	5	SYSTEM	みなとみらい駅です。	general,attraction,restaurant,taxi
+3036	6	USER	ありがとうございます。当日食事ができる飲食店も教えていただけますでしょうか。予算は普通で駐車場を無料で利用できる場所を希望します。	general,attraction,restaurant,taxi
+3036	7	SYSTEM	横浜で予算普通、駐車場が無料の飲食店はヒットしませんでした。	general,attraction,restaurant,taxi
+3036	8	USER	でしたら予算は特にこだわりません。	general,attraction,restaurant,taxi
+3036	9	SYSTEM	横浜で駐車場無料の飲食店は２つ、カフェ・ド・ラペ、こちらをオススメします	general,attraction,restaurant,taxi
+3036	10	USER	ではそちらにします。エリアと近辺の駅からの所要時間の情報をいただけますでしょうか。	general,attraction,restaurant,taxi
+3036	11	SYSTEM	エリアは中区、日本大通り駅から徒歩で3分、あと関内駅からなら徒歩で10分です。	general,attraction,restaurant,taxi
+3036	12	USER	ありがとうございます。4人で2/27の17:30から予約できますか？	general,attraction,restaurant,taxi
+3036	13	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,attraction,restaurant,taxi
+3036	14	USER	3人であれば可能ですか。	general,attraction,restaurant,taxi
+3036	15	SYSTEM	予約成功しました。予約番号は23272です。	general,attraction,restaurant,taxi
+3036	16	USER	ありがとうございます。タクシー会社も教えて頂けると助かります。キャッシュレス払いができて、ジャンボタクシーを利用できる会社はありますか？	general,attraction,restaurant,taxi
+3036	17	SYSTEM	横浜ではキャッシュレスとジャンボタクシー両方対応しているところはなさそうです。	general,attraction,restaurant,taxi
+3036	18	USER	でしたらキャッシュレスに対応していなくても大丈夫です。	general,attraction,restaurant,taxi
+3036	19	SYSTEM	ならば瀬谷交通有限会社をお勧めします。	general,attraction,restaurant,taxi
+3036	20	USER	そちらで予約できますか？2/27の16:00で、出発地はカップヌードルミュージアム 横浜、目的地はカフェ・ド・ラペでお願いしたいです。	general,attraction,restaurant,taxi
+3036	21	SYSTEM	予約成功しました。予約番号は89256です。	general,attraction,restaurant,taxi
+3036	22	USER	ありがとうございました。	general,attraction,restaurant,taxi

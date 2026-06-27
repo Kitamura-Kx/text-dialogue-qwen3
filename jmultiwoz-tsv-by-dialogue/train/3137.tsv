@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3137	0	USER	横浜へ行きます。駐車場無料な観光名所教えて下さい。フェリーに乗りたいです。	general,attraction,weather
+3137	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,weather
+3137	2	USER	そうですか、では、アートギャラリーありますか？	general,attraction,weather
+3137	3	SYSTEM	はい、放送ライブラリーというところが１件、ご案内可能です。いかがでしょうか？	general,attraction,weather
+3137	4	USER	Wi-Fiありますか？	general,attraction,weather
+3137	5	SYSTEM	申し訳ありません、こちらはWiFiのご提供が不明となっております。WiFiのある場所をお探ししましょうか？	general,attraction,weather
+3137	6	USER	いいえ、大丈夫です、ありがとうございます。11/14鶴見区の天気と最低気温教えて下さい。	general,attraction,weather
+3137	7	SYSTEM	かしこまりました。当日の天気は、晴時々曇の予報です。最低気温は14.8度の予想となっております。	general,attraction,weather
+3137	8	USER	ありがとうございます。では失礼します。	general,attraction,weather
+3137	9	SYSTEM	こちらこそ、ありがとうございました。	general,attraction,weather

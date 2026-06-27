@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4594	0	USER	名古屋への旅行を計画しています． 当日訪れる観光名所を探してください．地区は西区です．Wi-Fiが無料で利用できるところにしてください．駐車場を無料で利用できるところにしてください．	general,attraction
+4594	1	SYSTEM	トヨタ産業技術記念館はいかがでしょうか。	general,attraction
+4594	2	USER	そちらの電話番号，子供入場料，近辺の駅からの所要時間を教えていただけますか。	general,attraction
+4594	3	SYSTEM	電話番号は0525516115、子供入場料は200、近辺の駅からの所要時間は栄生駅から徒歩で3分です。	general,attraction
+4594	4	USER		general,attraction

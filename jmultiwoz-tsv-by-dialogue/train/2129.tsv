@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2129	0	USER	仙台へ行こうと思っています。ジャンボタクシーが利用できるタクシー会社を探していただきたいです。	general,taxi
+2129	1	SYSTEM	かしこまりました。それでは仙南タクシー（株）はいかがでしょうか？	general,taxi
+2129	2	USER	そちらがキャッシュレス対応かどうかと電話番号を教えていただけますでしょうか。	general,taxi
+2129	3	SYSTEM	はい、キャッシュレスには対応しております。電話番号は0570021070でございます。	general,taxi
+2129	4	USER	では、12月1日12時鷹泉閣 岩松旅館から瑞鳳殿まで予約をお願いします。	general,taxi
+2129	5	SYSTEM	申し訳ございません。その条件ではご予約出来ませんでした。	general,taxi
+2129	6	USER	では時間を12時40分に変更して予約をお願いします。	general,taxi
+2129	7	SYSTEM	ありがとうございます。予約番号74267でお取りさせていただきました。	general,taxi
+2129	8	USER	分かりました。ありがとうございます。	general,taxi
+2129	9	SYSTEM	その他に御用件はございますか？	general,taxi
+2129	10	USER	いいえ、大丈夫です。ありがとうございました。	general,taxi

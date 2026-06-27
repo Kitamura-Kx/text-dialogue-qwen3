@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3211	0	USER	京都旅行にいくので駐車場が無料で利用できるお店が欲しいです	general,shopping
+3211	1	SYSTEM	はい。どのようなお店が希望でしょうか？	general,shopping
+3211	2	USER	おもちゃを見たいと思っています	general,shopping
+3211	3	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,shopping
+3211	4	USER	じゃあ駐車場なくてもよいです	general,shopping
+3211	5	SYSTEM	かしこまりました。では、トイザらス・ベビーザらス 京都駅前店はどうですか。	general,shopping
+3211	6	USER	定休日と電話番号と営業時間を知りたいです	general,shopping
+3211	7	SYSTEM	はい。定休日は無しで、営業時間は10:00～21:00です。また、0756915657が電話番号になります。	general,shopping
+3211	8	USER	わかりました	general,shopping
+3211	9	SYSTEM	はい。ほかにご用件はありませんか？	general,shopping
+3211	10	USER	ないです。ありがとうございました	general,shopping
+3211	11	SYSTEM	承知しました。ありがとうございました。	general,shopping

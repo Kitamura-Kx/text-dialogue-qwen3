@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4610	0	USER	仙台への旅行を計画しています． 当日訪れる観光名所を探してください．地区は若林区です．	general,attraction,hotel
+4610	1	SYSTEM	南小泉交通公園はいかがでしょうか。	general,attraction,hotel
+4610	2	USER	そちらのWi-Fiの有無，住所を教えていただけますか。	general,attraction,hotel
+4610	3	SYSTEM	Wi-Fiの有無は無し、住所は宮城県仙台市若林区古城3丁目26-10です。	general,attraction,hotel
+4610	4	USER	ありがとうございます。あと、当日泊まる宿泊施設を探してください．宿のタイプはシティホテルです．Wi-Fiが無料で利用できるところにしてください．レストランが併設されているところにしてください．	general,attraction,hotel
+4610	5	SYSTEM	ホテルメトロポリタン仙台はいかがでしょうか。	general,attraction,hotel
+4610	6	USER	そちらの値段帯，料金情報，駐車場の有無を教えていただけますか。	general,attraction,hotel
+4610	7	SYSTEM	値段帯と料金情報は高め、駐車場の有無は有り(有料)です。	general,attraction,hotel
+4610	8	USER		general,attraction,hotel

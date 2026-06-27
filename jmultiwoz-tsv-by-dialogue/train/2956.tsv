@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2956	0	USER	今度京都へ行くんですが、伏見区でWi-Fiが無料の観光名所はありますか？	general,attraction,weather
+2956	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,weather
+2956	2	USER	そうですか。では、Wi-Fiにはこだわらず探してください。	general,attraction,weather
+2956	3	SYSTEM	ありがとうございます。十石舟はいかがでしょう？ジャンルは、アウトドアとなります。	general,attraction,weather
+2956	4	USER	ありがとうございます。ではそこの住所と定休日も教えてもらえますか？	general,attraction,weather
+2956	5	SYSTEM	はい、住所は京都府京都市伏見区南兵町247、定休日は月曜日となります。	general,attraction,weather
+2956	6	USER	ありがとうございます。あと、左京区の10/1の最高気温はわかりますか？	general,attraction,weather
+2956	7	SYSTEM	はい、天気は曇、最低気温15.5度、最高気温27.2度となります。	general,attraction,weather
+2956	8	USER	ありがとうございました。以上で結構です。	general,attraction,weather
+2956	9	SYSTEM	ありがとうございました。	general,attraction,weather

@@ -1,0 +1,39 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+57	0	USER	すいません、横浜に行こうとしていて、すこし聞いておきたいことがあって。	general,restaurant,weather,taxi
+57	1	SYSTEM	はい、どういったことでしょう？	general,restaurant,weather,taxi
+57	2	USER	食事ができるところって、結構ありますか？	general,restaurant,weather,taxi
+57	3	SYSTEM	そうですね、119件ございます。	general,restaurant,weather,taxi
+57	4	USER	車で行くとしたら、お金取られるところじゃないとこが良いんですけど。	general,restaurant,weather,taxi
+57	5	SYSTEM	無料駐車場のある飲食店は、5件ございます。	general,restaurant,weather,taxi
+57	6	USER	あー、良かった。その中の、どれか一つに決めようと思うんですが、どれが良いと思いますか？	general,restaurant,weather,taxi
+57	7	SYSTEM	値段帯が安めなのは、カフェ・ド・ラペ、高めなのは、うなぎ料理 しま村 青葉台店です。 普通なのは、Dining Bar KISAKU、松葉寿し、三和楼となっております。	general,restaurant,weather,taxi
+57	8	USER	あ、えっと、2つ目のお店にしようかな。もう一度、お店の名前を教えていただけます？	general,restaurant,weather,taxi
+57	9	SYSTEM	うなぎ料理 しま村 青葉台店でよろしいでしょうか？	general,restaurant,weather,taxi
+57	10	USER	あ、はい、そこにします。ただ、行った日に店が休みだと困るんですよね。	general,restaurant,weather,taxi
+57	11	SYSTEM	こちらの定休日は、火曜日と、第二、第三月曜日となっております。	general,restaurant,weather,taxi
+57	12	USER	じゃ、そこに当たらないように気を付けますね。えーと、値段は、どのぐらいっておっしゃいましたっけ？	general,restaurant,weather,taxi
+57	13	SYSTEM	値段帯で言うと高めです。参考までに、鰻釜(竹)は4180円、お重(竹)は3630円となっております。	general,restaurant,weather,taxi
+57	14	USER	丁寧にありがとうございます。そこで2名の予約を入れてもらえますか。12月13日の午前10時40分で。	general,restaurant,weather,taxi
+57	15	SYSTEM	申し訳ございません。その条件ですと予約ができませんでした。いかが致しましょう？	general,restaurant,weather,taxi
+57	16	USER	じゃあ、人数は1名でいいです。	general,restaurant,weather,taxi
+57	17	SYSTEM	ありがとうございます。ご予約完了致しました。 予約番号は、72693　となります。	general,restaurant,weather,taxi
+57	18	USER	あと、天候も聞いていいですか？12月13日の天候が知りたいです。	general,restaurant,weather,taxi
+57	19	SYSTEM	承知致しました。 うなぎ料理 しま村 青葉台店のある、青葉区の天候でよろしいでしょうか？	general,restaurant,weather,taxi
+57	20	USER	あ、ごめんなさい。戸塚区でお願いすることはできませんか？	general,restaurant,weather,taxi
+57	21	SYSTEM	承知致しました。 12月13日、戸塚区の天気は曇、最低気温は6.3度、最高気温は15.2度となっております。	general,restaurant,weather,taxi
+57	22	USER	ありがとうございます。助かります。	general,restaurant,weather,taxi
+57	23	SYSTEM	他にご用件はございますか？	general,restaurant,weather,taxi
+57	24	USER	はい、色々すみません。国際自動車株式会社っていう、タクシーのところはありますか？	general,restaurant,weather,taxi
+57	25	SYSTEM	はい、ございます。	general,restaurant,weather,taxi
+57	26	USER	そこの電話番号をうかがってもよろしいでしょうか？	general,restaurant,weather,taxi
+57	27	SYSTEM	はい、電話番号は、0120385931となっております。	general,restaurant,weather,taxi
+57	28	USER	それと、ジャンボタクシーは使えそうですか？	general,restaurant,weather,taxi
+57	29	SYSTEM	はい、対応しております。	general,restaurant,weather,taxi
+57	30	USER	でしたら、そこで予約を入れてください。日付は12月13日で。	general,restaurant,weather,taxi
+57	31	SYSTEM	承知致しました。 出発のお時間と、出発地、目的地をご指定いただけますか？	general,restaurant,weather,taxi
+57	32	USER	時間は午前の9時40分で、横浜美術館まで配車してください。行き先は、さきほどの食事処で。	general,restaurant,weather,taxi
+57	33	SYSTEM	ありがとうございます。ご予約完了致しました。 予約番号は、51463　となります。	general,restaurant,weather,taxi
+57	34	USER	丁寧にご対応いただいて、ありがとうございます。大変助かりました。	general,restaurant,weather,taxi
+57	35	SYSTEM	他にご用件はございますか？	general,restaurant,weather,taxi
+57	36	USER	もう大丈夫です。また何かあったら、お願いしますね。	general,restaurant,weather,taxi
+57	37	SYSTEM	承知致しました。 ありがとうございました。	general,restaurant,weather,taxi

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2161	0	USER	こんにちは。札幌へ旅行することになったので、宿泊施設を探しています。西区でビジネスホテルはありますか？	general,hotel
+2161	1	SYSTEM	お待たせ致しました。お探ししましたが、その条件では見つけることが出来ませんでした。	general,hotel
+2161	2	USER	あ、そうなんですね。では西区じゃなくて大丈夫ですので、お願いします。	general,hotel
+2161	3	SYSTEM	かしこまりました。それではアパホテル〈札幌〉はいかがでしょうか？	general,hotel
+2161	4	USER	そちらは近辺の駅からの所要時間はどれくらいですか？	general,hotel
+2161	5	SYSTEM	はい、こちらは大通駅から徒歩で1分でございます。	general,hotel
+2161	6	USER	ありがとうございます。料金情報と、チェックイン開始時刻も教えてもらえますか？	general,hotel
+2161	7	SYSTEM	価格帯は安めでございますが、詳細の料金情報は分かりません。申し訳ございません。チェックイン開始時刻は15時でございます。	general,hotel
+2161	8	USER	どうもありがとうございました。ではそこへ行ってみます。これで尋ねたいことは以上です。	general,hotel
+2161	9	SYSTEM	かしこまりました。ありがとうございました。またお待ちしております。	general,hotel

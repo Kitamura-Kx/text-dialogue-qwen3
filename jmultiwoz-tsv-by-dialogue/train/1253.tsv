@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1253	0	USER	札幌への旅行を検討しているのですが、当日利用できる飲食店を探しています。お伺いしてもよろしいですか？	general,restaurant
+1253	1	SYSTEM	はい、かしこまりました。エリアなど、なにかご希望はございますか？	general,restaurant
+1253	2	USER	はい。和食のお店で、Wi-Fiが無料で利用できる所だとありがたいです。	general,restaurant
+1253	3	SYSTEM	かしこまりました。では、和味酒彩 秋夏という中央区エリアのお店はいかがでしょうか？	general,restaurant
+1253	4	USER	いいですね！そこにします。こちらのお店は駐車場はありますか？	general,restaurant
+1253	5	SYSTEM	申し訳ございません。こちらには駐車場は併設しておりません。駐車場のあるところで、お探ししましょうか？	general,restaurant
+1253	6	USER	いえ、大丈夫です。知りたいことは以上になります。ご対応ありがとうございました。またご縁がありましたら、よろしくお願いしますね。	general,restaurant
+1253	7	SYSTEM	こちらこそ、ありがとうございました。またのご利用をお待ちしております。	general,restaurant

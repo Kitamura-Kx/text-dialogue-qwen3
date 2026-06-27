@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+716	0	USER	仙台へ旅行予定なのですが、Wi-Fiと駐車場を無料で利用できる観光名所を調べてください。	general,attraction
+716	1	SYSTEM	承知しました。仙台うみの杜水族館がございます。何かご案内致しましょうか？	general,attraction
+716	2	USER	そこにします。電話番号を教えてもらえますか？	general,attraction
+716	3	SYSTEM	はい、電話番号は0223552222となります。他にご案内できることはございますか？	general,attraction
+716	4	USER	わかりました。もう大丈夫です。ありがとうございます。	general,attraction
+716	5	SYSTEM	ありがとうございました。	general,attraction

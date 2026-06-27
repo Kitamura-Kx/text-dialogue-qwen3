@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4586	0	USER	横浜への旅行を計画しています． 当日食事ができる飲食店を探してください．地区は栄区です．ジャンルはホテルレストランです．	general,restaurant,hotel
+4586	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,restaurant,hotel
+4586	2	USER	でしたらジャンルはどこでも。、	general,restaurant,hotel
+4586	3	SYSTEM	タイ料理トムヤムくんはいかがでしょうか。	general,restaurant,hotel
+4586	4	USER	近辺の駅からの所要時間を教えていただけますか。	general,restaurant,hotel
+4586	5	SYSTEM	近辺の駅からの所要時間は本郷台駅から徒歩で1分です。	general,restaurant,hotel
+4586	6	USER	ありがとうございます。あと当日泊まる宿泊施設を探してください．最寄り駅が八景島駅のところにしてください．レストランが併設されているところにしてください．	general,restaurant,hotel
+4586	7	SYSTEM	ホテル シーパラダイス インはいかがでしょうか。	general,restaurant,hotel
+4586	8	USER	そちらのWi-Fiの有無，値段帯を教えていただけますか。	general,restaurant,hotel
+4586	9	SYSTEM	Wi-Fiの有無は有り(無料)、値段帯は安めです。	general,restaurant,hotel
+4586	10	USER		general,restaurant,hotel

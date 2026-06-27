@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+83	0	USER	こんにちは。案内をお頼みしてもよろしいでしょうか。	general,restaurant
+83	1	SYSTEM	こんにちは。本日はご利用ありがとうございます。どういった内容について、ご案内をいたしましょうか？	general,restaurant
+83	2	USER	只今、札幌旅行を計画しているのですが、当日に利用する飲食店を探していただきたいと思います。	general,restaurant
+83	3	SYSTEM	札幌の飲食店ですね。かしこまりました。100件以上、該当する施設がございますが、なにかご希望のジャンルや条件などはありますでしょうか？	general,restaurant
+83	4	USER	それでは、無料でWiFiと駐車場が使えるところでお願いします。	general,restaurant
+83	5	SYSTEM	はい。無料のWiFiと無料の駐車場をご提供できるのは、CAFE VOIZ、J.S. PANCAKE CAFE 札幌ステラプレイス店、パーラーエノキの3件となります。	general,restaurant
+83	6	USER	ありがとうございます！ それでは、パーラーエノキのご案内をお願いしたいのですが、最寄り駅はどちらになりますか？	general,restaurant
+83	7	SYSTEM	パーラーエノキの最寄り駅は、バスセンター前駅です。バスセンター前駅からは、歩いて3分でアクセスできます。	general,restaurant
+83	8	USER	そうなんですね！それでは、そちらを予約しようと思います。12月17日の10時30分に、3人で予約をお願いしてもよろしいでしょうか。	general,restaurant
+83	9	SYSTEM	ご予約ありがとうございます。パーラーエノキで、12月17日10時30分、3名様のご予約を完了いたしました。予約番号は、3149です。	general,restaurant
+83	10	USER	ありがとうございます！	general,restaurant
+83	11	SYSTEM	こちらこそ、ご予約ありがとうございます。ほかに、ご不明な点などございましたら、何なりとお申し付けくださいませ。	general,restaurant
+83	12	USER	今回はこちらでもう大丈夫です。こちらこそ、またよろしくお願いいたします。	general,restaurant
+83	13	SYSTEM	承知いたしました。それでは、またのご利用をお待ちしております。	general,restaurant

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+540	0	USER	福岡への旅行を計画しているのですが、訪れる観光名所を探してください。	general,attraction
+540	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction
+540	2	USER	最寄り駅が中洲川端駅、Wi-fiが無料で利用できる場所がよいです。	general,attraction
+540	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できる場所が見つかりませんでした。	general,attraction
+540	4	USER	それでは、Wi-fiはなくても結構です。駐車場が無料のところがよいのですが、ありますか。	general,attraction
+540	5	SYSTEM	はい、1件ご案内可能です。櫛田神社ですが、いかがでしょうか？	general,attraction
+540	6	USER	いいですね。エリアと定休日を教えてください。	general,attraction
+540	7	SYSTEM	エリアは博多区です。定休日はございません。	general,attraction
+540	8	USER	ありがとうございました。	general,attraction

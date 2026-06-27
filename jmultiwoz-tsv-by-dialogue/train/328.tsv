@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+328	0	USER	福岡旅行を計画しているのですが、お買い物ができる場所を探してもらえないでしょうか？	general,shopping
+328	1	SYSTEM	承知しました。エリアやジャンルのご希望はございますか？	general,shopping
+328	2	USER	天神南駅付近であれば、どんなお店でも構いません。	general,shopping
+328	3	SYSTEM	ありがとうございます。それでは、ムーミンカフェ キャナルシティ博多店はいかがでしょう？ジャンルは文房具、雑貨、食料品となります。	general,shopping
+328	4	USER	こちらのお店、気になります。何時から何時まで開いていますか？	general,shopping
+328	5	SYSTEM	はい、営業時間は10時から22時となります。定休日はございません。	general,shopping
+328	6	USER	わかりました。こちらのお店の電話番号を教えてもらっておいても構いませんか？	general,shopping
+328	7	SYSTEM	はい、電話番号は0922632626です。住所は福岡市博多区住吉1丁目2-22 キャナルシティオーパB1階となります。	general,shopping
+328	8	USER	はい。本日はご対応頂きありがとうございました！	general,shopping

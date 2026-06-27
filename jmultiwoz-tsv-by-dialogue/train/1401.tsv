@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1401	0	USER	横浜旅行をしたいんです。その時泊まるところを探しているんですが、駐車場代がかからなくって、Wi-Fiも無料利用できる、宿泊費が安めなところなんてあったりしますか？	general,hotel,taxi
+1401	1	SYSTEM	2件ありました、そのうちのホテル パセラの森 横浜関内は、いかがでしょうか？	general,hotel,taxi
+1401	2	USER	ありがとうございます。ホテル パセラの森 横浜関内の電話番号ってわかりますか？	general,hotel,taxi
+1401	3	SYSTEM	電話番号は、0120194458です。	general,hotel,taxi
+1401	4	USER	とても助かります！タクシー会社も探してもらえますか？キャッシュレス決済とジャンボタクシーの利用ができるところを希望します。	general,hotel,taxi
+1401	5	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,hotel,taxi
+1401	6	USER	なかったですか。ではキャッシュレス決済に関してはできなくてもいいです。	general,hotel,taxi
+1401	7	SYSTEM	北斗タクシー株式会社は、いかがでしょうか？	general,hotel,taxi
+1401	8	USER	北斗タクシー株式会社の電話番号も教えて欲しいです。	general,hotel,taxi
+1401	9	SYSTEM	電話番号は、0456238884です。	general,hotel,taxi
+1401	10	USER	ありがとうございます。こちらの会社でタクシーを手配してもらいたいです。	general,hotel,taxi
+1401	11	SYSTEM	それでは、予約希望の日時と出発地と目的地をお知らせください。	general,hotel,taxi
+1401	12	USER	9月17日の14時40分にホテル パセラの森 横浜関内を出て横浜・八景島シーパラダイスまで乗車しようと思っています。	general,hotel,taxi
+1401	13	SYSTEM	予約出来ました。予約番号は、12467です。	general,hotel,taxi
+1401	14	USER	ご予約して下さってありがとうございます。	general,hotel,taxi

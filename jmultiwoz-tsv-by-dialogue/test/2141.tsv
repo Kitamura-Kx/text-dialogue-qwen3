@@ -1,0 +1,30 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2141	0	USER	福岡旅行を検索しています。香椎駅近辺でWi-Fiが無料で利用できる飲食店を探してもらえませんか？	general,restaurant,hotel,shopping
+2141	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,hotel,shopping
+2141	2	USER	そうですか。では香椎駅の近くでという条件は除外してもらって、再度探してもらえませんか？	general,restaurant,hotel,shopping
+2141	3	SYSTEM	かしこまりました。では、月まる海 大橋店はいかがでしょうか？	general,restaurant,hotel,shopping
+2141	4	USER	お調べ下さりありがとうございます。こちらのお店はどのようなものが食べられるのでしょうか。	general,restaurant,hotel,shopping
+2141	5	SYSTEM	はい。ジャンルは、居酒屋, 和食, 寿司・魚料理となっております。	general,restaurant,hotel,shopping
+2141	6	USER	そうなのですね。あと、どのあたりにお店があるのかもお伺いしてもいいですか？	general,restaurant,hotel,shopping
+2141	7	SYSTEM	はい。エリアは南区になります。	general,restaurant,hotel,shopping
+2141	8	USER	わかりました。ではこちらのお店で予約をお願いできますか？9/21の14:40に2名でお願いしたいのですが。	general,restaurant,hotel,shopping
+2141	9	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,hotel,shopping
+2141	10	USER	そうですか、では利用人数を1名に変更するとどうでしょうか。	general,restaurant,hotel,shopping
+2141	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、34286です。	general,restaurant,hotel,shopping
+2141	12	USER	ご対応ありがとうございます。宿泊施設も一緒に探してもらいたいです。予算は高めの所でいいのですが、駐車場代は無料な所を希望します。	general,restaurant,hotel,shopping
+2141	13	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,restaurant,hotel,shopping
+2141	14	USER	そうですか、じゃあ予算を下げて、安めの所で再度探してもらえますか？	general,restaurant,hotel,shopping
+2141	15	SYSTEM	かしこまりました。では、LIBERATED HOTEL 春吉開地はいかがでしょうか？	general,restaurant,hotel,shopping
+2141	16	USER	こちら気になります。どんなタイプの宿泊施設なんですか？あとレストランって併設されていますか？	general,restaurant,hotel,shopping
+2141	17	SYSTEM	タイプはその他と記載されています。レストランはありません。	general,restaurant,hotel,shopping
+2141	18	USER	わかりました。こちらで予約をお願いできますか？9/21から3泊3名でお願いします。	general,restaurant,hotel,shopping
+2141	19	SYSTEM	かしこまりました。ご予約承りました。予約番号は、20362です。	general,restaurant,hotel,shopping
+2141	20	USER	予約取って頂きありがとうございます。旅行中、買い物をしたいんです。西区の六本松駅周辺で駐車場が無料利用できる所はありますか？	general,restaurant,hotel,shopping
+2141	21	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,restaurant,hotel,shopping
+2141	22	USER	そうなんですか。では西区であれば最寄り駅はどこでも大丈夫です。	general,restaurant,hotel,shopping
+2141	23	SYSTEM	かしこまりました。では、ホームセンター グッデイ 西福岡店はいかがでしょうか？	general,restaurant,hotel,shopping
+2141	24	USER	ホームセンター グッデイ 西福岡店、気になります。どんなものが売っているんですか？	general,restaurant,hotel,shopping
+2141	25	SYSTEM	はい。ジャンルとしてはその他に分類されています。	general,restaurant,hotel,shopping
+2141	26	USER	わかりました。ちなみにこちらのお店は最寄りの駅からアクセスするのにどれくらい時間がかかるんでしょうか？	general,restaurant,hotel,shopping
+2141	27	SYSTEM	はい。最寄り駅の橋本駅から徒歩で13分になります。	general,restaurant,hotel,shopping
+2141	28	USER	長時間お付き合いくださってありがとうございました。知りたいことは全て知ることができました、またお願いしますね。	general,restaurant,hotel,shopping

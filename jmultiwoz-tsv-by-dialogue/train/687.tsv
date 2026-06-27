@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+687	0	USER	札幌へ行こうと思っています。南区にあって駐車場が無料で利用できる買い物施設を探していただきたいです。	general,shopping,restaurant
+687	1	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,shopping,restaurant
+687	2	USER	地区は考慮せず同条件で探していただけますか？	general,shopping,restaurant
+687	3	SYSTEM	承知しました。では、エスタはいかがでしょう？ジャンルはショッピングモール、エリアは中央区、最寄りの札幌駅から徒歩で1分となります。	general,shopping,restaurant
+687	4	USER	そちらの定休日と電話番号を教えていただけますでしょうか。	general,shopping,restaurant
+687	5	SYSTEM	はい、電話番号は0112132111、定休日はございません。	general,shopping,restaurant
+687	6	USER	わかりました。ありがとうございます。	general,shopping,restaurant
+687	7	SYSTEM	他にご用件はございますか？	general,shopping,restaurant
+687	8	USER	東区にあって予算が普通な洋食か西洋料理が食べられる飲食店を探していただけますか？	general,shopping,restaurant
+687	9	SYSTEM	承知しました。1件、CAFE VOIZがございます。何をご案内致しましょう？	general,shopping,restaurant
+687	10	USER	そちらの定休日を教えていただけますでしょうか。	general,shopping,restaurant
+687	11	SYSTEM	はい、定休日は月曜日と火曜日になります。	general,shopping,restaurant
+687	12	USER	では、11月13日14時20分から2人で予約をお願いします。	general,shopping,restaurant
+687	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、30173となります。	general,shopping,restaurant
+687	14	USER	わかりました。ありがとうございます。	general,shopping,restaurant
+687	15	SYSTEM	他にご用件はございますか？	general,shopping,restaurant
+687	16	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping,restaurant

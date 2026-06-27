@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2259	0	USER	名古屋へ旅行に行くんですが、飲食店を探して欲しいです。	general,restaurant,weather
+2259	1	SYSTEM	はい、ご希望はありますか？	general,restaurant,weather
+2259	2	USER	昭和区でお願いします！	general,restaurant,weather
+2259	3	SYSTEM	昭和区の飲食店が残念ながらヒットしません。	general,restaurant,weather
+2259	4	USER	では、中村区だとどうでしょう？	general,restaurant,weather
+2259	5	SYSTEM	中村区なら２１件ヒットしますね。	general,restaurant,weather
+2259	6	USER	オススメをお願いします！	general,restaurant,weather
+2259	7	SYSTEM	それでは、名古屋らしく、蒲郡桔梗屋はいかがでしょうか？	general,restaurant,weather
+2259	8	USER	ありがとうございます。駐車場の有無は分かりますか？	general,restaurant,weather
+2259	9	SYSTEM	駐車場はありませんが、名古屋駅から徒歩圏です。	general,restaurant,weather
+2259	10	USER	そうなんですね。予約もいいですか？6/9の12:50に3人で行きたいです。	general,restaurant,weather
+2259	11	SYSTEM	その条件だと予約に失敗してしまいました。	general,restaurant,weather
+2259	12	USER	では13:30だとどうでしょう？	general,restaurant,weather
+2259	13	SYSTEM	予約成功しました。予約番号は69318です。	general,restaurant,weather
+2259	14	USER	助かります！6/9の西区の天気についても教えてください。	general,restaurant,weather
+2259	15	SYSTEM	6/9 名古屋 西区 の天気は曇、最低気温23.1度、最高気温31.2度です。	general,restaurant,weather
+2259	16	USER	わかりました！色々とありがとうございました。	general,restaurant,weather
+2259	17	SYSTEM	よい旅を。	general,restaurant,weather

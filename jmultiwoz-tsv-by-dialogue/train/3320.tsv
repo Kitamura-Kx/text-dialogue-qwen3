@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3320	0	USER	那覇旅行の時に、食事をするお店を探していただけますか？	general,restaurant,taxi
+3320	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,restaurant,taxi
+3320	2	USER	駐車場もWi-Fiも、無料で利用できるお店はないですか？	general,restaurant,taxi
+3320	3	SYSTEM	那覇で駐車場とWiFi無料の飲食店は６件あります。沖縄らいしものとして、ステーキハウス88 国際通り店をおすすめします。	general,restaurant,taxi
+3320	4	USER	そこにしたいと思います。あとは、ジャンボタクシーに対応しているタクシー会社の案内をお願いします。	general,restaurant,taxi
+3320	5	SYSTEM	はい、いくつか候補がありますが、三和交通をお勧めします。	general,restaurant,taxi
+3320	6	USER	三和交通はキャッシュレスでも支払えますか？電話番号も知りたいです。	general,restaurant,taxi
+3320	7	SYSTEM	キャッシュレスも対応しています。電話は0120100084です。	general,restaurant,taxi
+3320	8	USER	ありがとうございます。それでは7/5の10:00でタクシー予約も取ってください。出発地はホテル コレクティブで、行先はステーキハウス88 国際通り店です。	general,restaurant,taxi
+3320	9	SYSTEM	あいにく予約に失敗してしまいました。	general,restaurant,taxi
+3320	10	USER	分かりました。予約時間を10:40にずらしたらどうでしょうか？	general,restaurant,taxi
+3320	11	SYSTEM	予約に成功しました。予約番号は16099になります。	general,restaurant,taxi
+3320	12	USER	ありがとうございます、これで以上です。	general,restaurant,taxi
+3320	13	SYSTEM	よい旅を	general,restaurant,taxi

@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+420	0	USER	那覇への旅行を計画しているのですが、当日買い物ができるところを探してください。	general,shopping
+420	1	SYSTEM	承知しました。エリアなど、何かご希望はございますか？	general,shopping
+420	2	USER	地区は首里、最寄り駅が県庁前駅にしてください。	general,shopping
+420	3	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかがされますか？	general,shopping
+420	4	USER	そうですか。それでは、地区は特定しないでよいです。駐車場が無料のところをお願いします。	general,shopping
+420	5	SYSTEM	ありがとうございます。デパートリウボウがございます。エリアは本庁、最寄りの県庁前駅から徒歩で1分になります。ジャンルは百貨店や総合スーパーです。	general,shopping
+420	6	USER	丁寧にありがとうございます。では、そちらの電話番号を教えていただけますか。	general,shopping
+420	7	SYSTEM	はい、電話番号は、0988671171になります。	general,shopping
+420	8	USER	ありがとうございました。大変助かりました。	general,shopping

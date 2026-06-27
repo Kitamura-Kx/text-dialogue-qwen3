@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2954	0	USER	福岡への旅行を計画しています。 当日食事ができる飲食店を探してください。	general,restaurant
+2954	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant
+2954	2	USER	地区は東区、Wi-Fiが無料で利用できるところにしてください。	general,restaurant
+2954	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant
+2954	4	USER	ではWi-Fiはなくてもいいです。それだとどうですか？	general,restaurant
+2954	5	SYSTEM	では、照鮨はいかがでしょう？ジャンルは、寿司、魚料理となります。	general,restaurant
+2954	6	USER	そのお店の営業時間，近辺の駅からの所要時間を教えてください。	general,restaurant
+2954	7	SYSTEM	営業時間は11時から15時と、18時から22時、最寄りの雁ノ巣駅から徒歩で39分、バスで15分となります。	general,restaurant
+2954	8	USER	予約をお願いします。人数は3人、日付は11/30、時間は15:00希望です。	general,restaurant
+2954	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、2914となります。	general,restaurant
+2954	10	USER	解決しました。ありがとうございました。	general,restaurant

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3018	0	USER	名古屋へ行くんですが、10/24当日の中村区の天候を教えてください。	general,weather,taxi
+3018	1	SYSTEM	かしこまりました。10/24の中村区の天気予報は晴のち雨となっております。最低気温は11.6度、最高気温は21.9度になる予報です。	general,weather,taxi
+3018	2	USER	ありがとうございます。あと、キャッシュレス払い対応のがタクシー会社を探してもらえますか？	general,weather,taxi
+3018	3	SYSTEM	かしこまりました。では、名古屋近鉄タクシーはいかがでしょうか？	general,weather,taxi
+3018	4	USER	そこはジャンボタクシーが利用できますか？あと電話番号も教えてください。	general,weather,taxi
+3018	5	SYSTEM	申し訳ございません。ジャンボタクシーは非対応となっております。電話番号は0570048881です。	general,weather,taxi
+3018	6	USER	ありがとうございます。ではそこの予約をお願いできますか？10/24の9：30に氷上姉子神社を出発して、セルジョまで利用したいです。	general,weather,taxi
+3018	7	SYSTEM	かしこまりました。午前9時30分でよろしかったですか？	general,weather,taxi
+3018	8	USER	はい、午前です。	general,weather,taxi
+3018	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、83255です。	general,weather,taxi
+3018	10	USER	ありがとうございました。以上で結構です。	general,weather,taxi
+3018	11	SYSTEM	承知しました。ありがとうございました。	general,weather,taxi

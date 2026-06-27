@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2032	0	USER	横浜に行くんですが、当日タクシーを利用したいと思っています。キャッシュレス払いとジャンボタクシーが利用できるところがいいのですが。	general,taxi
+2032	1	SYSTEM	申し訳ありません。この条件ではご案内できません。いかが致しましょう？	general,taxi
+2032	2	USER	でしたら、キャッシュレス払いには対応していなくても大丈夫です。	general,taxi
+2032	3	SYSTEM	瀬谷交通有限会社はいかがでしょう？電話番号は0453601144となります。	general,taxi
+2032	4	USER	ありがとうございます。１月５日の１１時に、ホテル・アルファーワン横浜関内からLaline 横浜ジョイナス店まで、そこのタクシーの予約お願いします。	general,taxi
+2032	5	SYSTEM	予約が完了し、ご予約番号は、27294となります。他にご用件はございますか？	general,taxi
+2032	6	USER	大丈夫です。ありがとうございました。	general,taxi
+2032	7	SYSTEM	ありがとうございました。	general,taxi

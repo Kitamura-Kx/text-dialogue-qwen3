@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4239	0	USER	東京に行ったときに港区で買い物できるところを探しています。駐車場無料のところはありますか。	general,shopping,hotel
+4239	1	SYSTEM	はい、アクアシティお台場はいかがでしょう？ジャンルは、ショッピングモールとなります。	general,shopping,hotel
+4239	2	USER	駅からはどれくらいかかりますか？あと定休日はいつですか？	general,shopping,hotel
+4239	3	SYSTEM	最寄りの台場駅から徒歩で1分となります。定休日はございません。	general,shopping,hotel
+4239	4	USER	他に宿泊施設も探していますが、Wi-Fi無料で値段的に普通、レストラン併設のところはありますか？	general,shopping,hotel
+4239	5	SYSTEM	はい、エリアでいうと港区にある、コンラッド東京はいかがでしょう？タイプは、リゾートホテルとなります。	general,shopping,hotel
+4239	6	USER	そちらは駅からどれくらいですか。チェックアウト終了時刻も知りたいです。	general,shopping,hotel
+4239	7	SYSTEM	チェックアウト終了時刻は12時、最寄りの汐留駅から徒歩で1分となります。	general,shopping,hotel
+4239	8	USER	それでは予約をお願いします。4名で8/5から4泊です。	general,shopping,hotel
+4239	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、16678となります。	general,shopping,hotel
+4239	10	USER	ありがとうございました。	general,shopping,hotel

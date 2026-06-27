@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+906	0	USER	大阪へ旅行に行くのですが港区でお好み焼きやたこ焼きが食べられる飲食店を教えて下さい。	general,restaurant
+906	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,restaurant
+906	2	USER	それでは港区の飲食店を教えて下さい。ジャンルは問いません。	general,restaurant
+906	3	SYSTEM	ありがとうございます。では、スカイビュッフェ51というお店は如何でしょうか。ジャンルは、その他, 和食, 洋食・西洋料理となっております。	general,restaurant
+906	4	USER	行きたいと思いますスカイビュッフェ51には駐駐車場はありますかまた，電話番号も教えて下さい	general,restaurant
+906	5	SYSTEM	駐車場は、有料ですが、ございます。電話番号は、0665771101です。	general,restaurant
+906	6	USER	それではスカイビュッフェ51に予約をお願いします。12月2日13:50から4名です。	general,restaurant
+906	7	SYSTEM	大変申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,restaurant
+906	8	USER	3名なら可能でしょうか？	general,restaurant
+906	9	SYSTEM	ありがとうございます。予約できました。ご予約番号は、76248となります。	general,restaurant
+906	10	USER	以上です、有難うございました。	general,restaurant
+906	11	SYSTEM	こちらこそ、ありがとうございました。ほかにお調べすることがないようでしたら、これで失礼いたします。	general,restaurant
+906	12	USER	はい有難うございました	general,restaurant
+906	13	SYSTEM	本日はご利用ありがとうございました。	general,restaurant

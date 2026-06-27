@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1176	0	USER	横浜へ旅行に行くんですが、金香楼という飲食店はありますか？	general,restaurant,taxi
+1176	1	SYSTEM	はい、中区エリアに1件該当するところがございます。金香楼のどういった情報をご案内いたしましょうか？	general,restaurant,taxi
+1176	2	USER	じゃあ、近辺の駅からの所要時間を教えてください。	general,restaurant,taxi
+1176	3	SYSTEM	かしこまりました。最寄りの関内駅から徒歩で4分、元町・中華街駅から徒歩で5分、石川町駅から徒歩で4分といった行き方がございます。	general,restaurant,taxi
+1176	4	USER	ありがとうございます。ではそこの予約をお願いします。7/1の12：30で３人です。	general,restaurant,taxi
+1176	5	SYSTEM	ご予約ありがとうございます。予約完了いたしました。ご予約番号は、23142です。	general,restaurant,taxi
+1176	6	USER	ありがとうございます。あと、ジャンボタクシーを利用したいので、タクシー会社を探してください。	general,restaurant,taxi
+1176	7	SYSTEM	かしこまりました。では、日本サントスキャブ株式会社はいかがでしょうか？こちらでしたら、キャッシュレスでのお支払いも可能ですよ。	general,restaurant,taxi
+1176	8	USER	ありがとうございます。じゃあそこの電話番号を教えてください。	general,restaurant,taxi
+1176	9	SYSTEM	かしこまりました。電話番号は、0120193117でございます。	general,restaurant,taxi
+1176	10	USER	ありがとうございます。予約もお願いできますか。7/1の10：50金香楼出発で牡蠣と魚 海宝 みなとみらい店までです。	general,restaurant,taxi
+1176	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は、11239です。	general,restaurant,taxi
+1176	12	USER	ありがとうございました。以上で大丈夫です。	general,restaurant,taxi
+1176	13	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant,taxi

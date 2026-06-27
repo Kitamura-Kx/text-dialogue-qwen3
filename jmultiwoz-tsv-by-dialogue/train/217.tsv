@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+217	0	USER	那覇への旅行を検討中のため、飲食店を探しています。	general,restaurant,attraction,taxi
+217	1	SYSTEM	ご利用ありがとうございます。エリアなど、何かご希望の条件はございますか？	general,restaurant,attraction,taxi
+217	2	USER	地区は本庁で最寄り駅がおもろまち駅のエリアがいいと思っています。駐車場が無料で利用できるお店がいいのですが、どこかいいところはありますか？	general,restaurant,attraction,taxi
+217	3	SYSTEM	6件ほどご案内可能です。ほかにご希望条件がないようでしたら、牛角 おもろまち駅前店はいかがでしょうか？	general,restaurant,attraction,taxi
+217	4	USER	ジャンルは何になりますか？	general,restaurant,attraction,taxi
+217	5	SYSTEM	焼肉・ホルモンとなっております。	general,restaurant,attraction,taxi
+217	6	USER	いいですね、そこにしようと思います。	general,restaurant,attraction,taxi
+217	7	SYSTEM	かしこまりました。予約はいたしますか？	general,restaurant,attraction,taxi
+217	8	USER	いえ、予約は結構です。あと観光名所も探してもらいたいです。	general,restaurant,attraction,taxi
+217	9	SYSTEM	承知しました。那覇には50件ほど観光名所の候補がございます。ご希望の条件などはありますか？	general,restaurant,attraction,taxi
+217	10	USER	駐車場が無料で利用できて、Wi-Fiが無料で使えるところはありますか？	general,restaurant,attraction,taxi
+217	11	SYSTEM	はい、7件候補が見つかりました。沖縄県立博物館・美術館はいかがでしょうか？	general,restaurant,attraction,taxi
+217	12	USER	いいですね、そこにしようと思うので、電話番号を教えてください。	general,restaurant,attraction,taxi
+217	13	SYSTEM	電話番号は、0989418200です。	general,restaurant,attraction,taxi
+217	14	USER	定休日も教えてもらえますか？	general,restaurant,attraction,taxi
+217	15	SYSTEM	はい。定休日は、月曜日と年末年始となっております。	general,restaurant,attraction,taxi
+217	16	USER	ありがとうございます。それからジャンボタクシーが利用できるタクシー会社も探してもらえますか？	general,restaurant,attraction,taxi
+217	17	SYSTEM	かしこまりました。鏡原第一交通でしたら、ジャンボタクシーに対応しております。	general,restaurant,attraction,taxi
+217	18	USER	そこはキャッシュレスに対応していますか？	general,restaurant,attraction,taxi
+217	19	SYSTEM	はい、キャッシュレスにも対応しております。	general,restaurant,attraction,taxi
+217	20	USER	では4/27の16:20に牛角 おもろまち駅前店から沖縄県立博物館・美術館までタクシーの予約をお願いします。	general,restaurant,attraction,taxi
+217	21	SYSTEM	ありがとうございます。予約番号97828で、予約完了いたしました。	general,restaurant,attraction,taxi
+217	22	USER	ありがとうございます。	general,restaurant,attraction,taxi
+217	23	SYSTEM	ほかにお手伝いできることはありますか？	general,restaurant,attraction,taxi
+217	24	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant,attraction,taxi
+217	25	SYSTEM	承知しました。本日はありがとうございました。	general,restaurant,attraction,taxi

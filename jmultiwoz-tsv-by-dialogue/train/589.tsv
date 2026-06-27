@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+589	0	USER	こんにちは！名古屋に旅行に行きたいんですが、観光名所を調べてほしいです。	general,attraction,hotel
+589	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございませんか？	general,attraction,hotel
+589	2	USER	駐車場が無料で利用できる科学館はありますか？	general,attraction,hotel
+589	3	SYSTEM	はい、1件候補が見つかりました。トヨタ産業技術記念館というところは、ご興味おありでしょうか？	general,attraction,hotel
+589	4	USER	いいですね。定休日はありますか？	general,attraction,hotel
+589	5	SYSTEM	はい、月曜日, 年末年始が定休日となっております。	general,attraction,hotel
+589	6	USER	なるほどです！宿泊施設も探してもらえますか？	general,attraction,hotel
+589	7	SYSTEM	かしこまりました。エリアなど、なにかご希望の条件などはございますか？	general,attraction,hotel
+589	8	USER	Wi-Fiが無料で利用できるところで、レストランが併設されているところがいいです。	general,attraction,hotel
+589	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できる宿泊施設が見つかりませんでした。	general,attraction,hotel
+589	10	USER	では、レストランはなしで大丈夫です。	general,attraction,hotel
+589	11	SYSTEM	ありがとうございます。では、菊の屋 はなれというところはいかがでしょうか？最寄りの中村区役所駅から徒歩3分の場所にあります。	general,attraction,hotel
+589	12	USER	いいですね。ではそちらの予約をお願いします。5/16から2泊、2人で泊まります。	general,attraction,hotel
+589	13	SYSTEM	ご予約ありがとうございます。予約番号72266にて、ご予約をおとりしました。	general,attraction,hotel
+589	14	USER	大変助かりました。ありがとうございました。	general,attraction,hotel
+589	15	SYSTEM	他にお手伝いできることはございませんか？	general,attraction,hotel
+589	16	USER	はい！ありがとうございました。	general,attraction,hotel
+589	17	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,attraction,hotel

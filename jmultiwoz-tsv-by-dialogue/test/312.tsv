@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+312	0	USER	東京旅行に行った際に泊まる所を探してもらえませんか？	general,hotel,attraction,shopping
+312	1	SYSTEM	承知しました。エリアや値段帯などのご希望はございますか？	general,hotel,attraction,shopping
+312	2	USER	駐車場の代金がタダで、レストランが併設されているところでお願いします。	general,hotel,attraction,shopping
+312	3	SYSTEM	申し訳ありません。その条件ですとご紹介可能な宿泊施設がございません。いかが致しましょう？	general,hotel,attraction,shopping
+312	4	USER	そうですか。ではレストランはなくても大丈夫です。	general,hotel,attraction,shopping
+312	5	SYSTEM	ありがとうございます。それでは、つるや旅館がよろしいと思います。エリアは墨田区になりまして、住所は東京都墨田区吾妻橋2丁目18-2、電話番号は0336229819です。	general,hotel,attraction,shopping
+312	6	USER	こちらの旅館の価格帯や料金に関する情報について詳しく教えてもらえませんか？	general,hotel,attraction,shopping
+312	7	SYSTEM	はい、値段帯は安めです。Wi-Fi、レストランはございません。駐車場のご利用は無料です。	general,hotel,attraction,shopping
+312	8	USER	ありがとうございます。あと中央区の中目黒駅付近で観光できる所を教えてもらえませんか？	general,hotel,attraction,shopping
+312	9	SYSTEM	申し訳ありません。その条件ですとご紹介ができません。他にご希望はございますか？	general,hotel,attraction,shopping
+312	10	USER	最寄り駅はどこでも大丈夫なので、中央区内で探してもらえますか？	general,hotel,attraction,shopping
+312	11	SYSTEM	ありがとうございます。それでは、浜離宮恩賜庭園はいかがでしょう？	general,hotel,attraction,shopping
+312	12	USER	浜離宮恩賜庭園さんは子供の入場料はかかりますか？	general,hotel,attraction,shopping
+312	13	SYSTEM	言え、お子様は無料で入場いただけます。	general,hotel,attraction,shopping
+312	14	USER	わかりました。おもちゃを買いたいと考えているのですが、どこかお店を紹介して頂きたいです。	general,hotel,attraction,shopping
+312	15	SYSTEM	承知しました。それでは、東京キャラクターストリートはいかがでしょう？エリアは千代田区になります。住所は千代田区丸の内1丁目9-1 東京駅一番街 B1、電話番号は0332100077です。	general,hotel,attraction,shopping
+312	16	USER	こちらのお店の最寄り駅が知りたいです。	general,hotel,attraction,shopping
+312	17	SYSTEM	最寄り駅は東京駅、東京駅から徒歩で1分にございます。	general,hotel,attraction,shopping
+312	18	USER	わかりました！ご丁寧にありがとうございました。	general,hotel,attraction,shopping

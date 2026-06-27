@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1517	0	USER	福岡に旅行する際に当日泊まる宿泊施設を探すのを手伝ってもらえませんか？	general,hotel
+1517	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel
+1517	2	USER	シティホテルでレストランが併設されているところを希望します。またWi-Fiが無料で利用できる場所を選んでいただきたいです。	general,hotel
+1517	3	SYSTEM	ありがとうございます。では、エリアでいうと博多区にある、THE ROYAL PARK FUKUOKAはいかがでしょう？何かご案内致しましょうか？	general,hotel
+1517	4	USER	ではそちらでお願いします。料金情報と近辺の駅からの所要時間、あと最寄り駅がどこになるか教えていただけますでしょうか。	general,hotel
+1517	5	SYSTEM	はい、最寄りの博多駅からは徒歩で5分、料金情報としては、値段帯は安め、Wi-Fiは無料でご利用いただけて、駐車場のご利用は有料、ということしか情報がございません。他にご案内できることはございますか？	general,hotel
+1517	6	USER	大丈夫です。ありがとうございました。	general,hotel

@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2275	0	USER	那覇へ旅行に行くんですが、本庁あたりで無料駐車場がある買い物施設はありますか？	general,shopping
+2275	1	SYSTEM	本庁で無料駐車場のある買い物施設はいくつかありますが、せっかくの沖縄ですし、おきなわ屋 泡盛蔵 国際店をお勧めします。	general,shopping
+2275	2	USER	よさそうですね。そこは最寄り駅はどこですか？	general,shopping
+2275	3	SYSTEM	牧志駅になります。	general,shopping
+2275	4	USER	わかりました。参考にします。ありがとうございました。以上です。	general,shopping
+2275	5	SYSTEM	よい旅を	general,shopping

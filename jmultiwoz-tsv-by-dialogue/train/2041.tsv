@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2041	0	USER	名古屋で飲食店を探してください。地区は瑞穂区です。	general,restaurant
+2041	1	SYSTEM	かしこまりました。瑞穂区の飲食店ですとゆる~いイタリアン もふもふがございます。	general,restaurant
+2041	2	USER	お見せの大まかな値段帯も教えてください。	general,restaurant
+2041	3	SYSTEM	はい、値段帯は普通となっております。	general,restaurant
+2041	4	USER	3人で予約お願いできますか？3/18、15時の利用です。	general,restaurant
+2041	5	SYSTEM	お待たせいたしました。予約番号80878でご予約させていただきました。	general,restaurant
+2041	6	USER	ありがとうございます！	general,restaurant

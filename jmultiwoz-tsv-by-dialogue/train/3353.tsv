@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3353	0	USER	大阪への旅行を計画中で、レストラン付きの宿泊施設を探しています。	general,hotel,restaurant
+3353	1	SYSTEM	67件ございます。ホテルプラザオーサカ アパホテル〈御堂筋本町駅前〉 ワイズホテル新大阪などはいかがですか？	general,hotel,restaurant
+3353	2	USER	ありがとうございます。最寄りが大阪駅で、予算は高めの施設が良いです。	general,hotel,restaurant
+3353	3	SYSTEM	申し訳ございません。検索結果がございません。	general,hotel,restaurant
+3353	4	USER	分かりました。それでは、予算はいくらでも構いませんので、良さそうな施設をいくつか教えていただきたいです。	general,hotel,restaurant
+3353	5	SYSTEM	ホテル阪急レスパイア大阪 ホテル法華クラブ大阪 大阪東急REIホテルなどはいかがですか？	general,hotel,restaurant
+3353	6	USER	ホテル阪急レスパイア大阪にしようと思います。最寄駅からの所要時間は分かりますか？	general,hotel,restaurant
+3353	7	SYSTEM	大阪駅から徒歩で3分です。	general,hotel,restaurant
+3353	8	USER	ありがとうございます。9/10から2人で2泊予約したいのですが、可能でしょうか。	general,hotel,restaurant
+3353	9	SYSTEM	予約ができませんでした。申し訳ございません。	general,hotel,restaurant
+3353	10	USER	分かりました。それでは、1泊で構わないので予約をお願いします。	general,hotel,restaurant
+3353	11	SYSTEM	かしこまりました。予約完了しております。予約番号は24529	general,hotel,restaurant
+3353	12	USER	ありがとうございます。当日中央区で食事をしたいのですが、予算が普通の飲食店はありますか？	general,hotel,restaurant
+3353	13	SYSTEM	申し訳ございません。検索結果がございません。	general,hotel,restaurant
+3353	14	USER	分かりました。それでは、予算はいくらでも構いません。	general,hotel,restaurant
+3353	15	SYSTEM	25件見つかりました。牛歩、すしはな 三ツ寺店、レスプリ ドゥ クゥー ドゥ フランスなどはいかがですか？	general,hotel,restaurant
+3353	16	USER	すしはな 三ツ寺店にしようと思います。料金についての情報はありますか？	general,hotel,restaurant
+3353	17	SYSTEM	料金情報は不明です。	general,hotel,restaurant
+3353	18	USER	分かりました。それでは9/10の15:30から、3名で予約をお願いできますか？	general,hotel,restaurant
+3353	19	SYSTEM	かしこまりました。予約完了しております。予約番号は50430です。	general,hotel,restaurant
+3353	20	USER	非常に助かります。ありがとうございます。	general,hotel,restaurant
+3353	21	SYSTEM	とんでもないです。	general,hotel,restaurant
+3353	22	USER	ありがとうございました。それでは、失礼します。	general,hotel,restaurant

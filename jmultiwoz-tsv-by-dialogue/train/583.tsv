@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+583	0	USER	大阪へ旅行をしたいんですが、北区に観光名所はありますか？	general,attraction,hotel
+583	1	SYSTEM	はい、14件ほどございます。例えば、中之島公園というところはいかがでしょうか？	general,attraction,hotel
+583	2	USER	いいですね！子供の入場料は分かりますか？	general,attraction,hotel
+583	3	SYSTEM	お子様、大人、ともに入場料は無料です。	general,attraction,hotel
+583	4	USER	ありがとうございます。宿泊施設も探して欲しいんですが、レストランが併設されているところで、予算が高めのところはありますかね？	general,attraction,hotel
+583	5	SYSTEM	そうしますと、9別邸 大阪谷町 MAISON DE 9というところが1件ございました。中央区エリアの宿泊施設ですが、いかがでしょうか？	general,attraction,hotel
+583	6	USER	チェックインの開始時刻は何時ですか？	general,attraction,hotel
+583	7	SYSTEM	チェックインは15時からとなっております。	general,attraction,hotel
+583	8	USER	ではそちらで予約お願いします。12/4から4泊します！人数は2人です。	general,attraction,hotel
+583	9	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。ご予約番号は、11070です。	general,attraction,hotel
+583	10	USER	ありがとうございます。楽しんできます！	general,attraction,hotel
+583	11	SYSTEM	はい、良いご旅行を。他にお調べすることがなければ、これで失礼いたします。	general,attraction,hotel
+583	12	USER	はい！ありがとうございました。	general,attraction,hotel
+583	13	SYSTEM	本日はご利用ありがとうございました。	general,attraction,hotel

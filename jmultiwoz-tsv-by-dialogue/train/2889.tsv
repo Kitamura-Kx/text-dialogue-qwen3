@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2889	0	USER	仙台へ旅行に行くんですが、宿泊施設を探して欲しいです。	general,hotel,restaurant,taxi
+2889	1	SYSTEM	はい、ご希望の条件をおきかせください	general,hotel,restaurant,taxi
+2889	2	USER	駐車場無料のビジネスホテルで、レストラン併設されているところがいいです。	general,hotel,restaurant,taxi
+2889	3	SYSTEM	駐車場無料、レストランもある仙台のビジネスホテルはいくつあかりますが、ホテルルートイン仙台泉インター、こちらをオススメします。	general,hotel,restaurant,taxi
+2889	4	USER	ありがとうございます。近辺の駅からの所要時間と住所についても教えてください。	general,hotel,restaurant,taxi
+2889	5	SYSTEM	泉中央駅からタクシーで8分、住所は宮城県仙台市泉区大沢2丁目3-9です。	general,hotel,restaurant,taxi
+2889	6	USER	予約をお願いします！8/26から2泊で2人で行きます。	general,hotel,restaurant,taxi
+2889	7	SYSTEM	その条件で予約成功しました。予約番号は96053です	general,hotel,restaurant,taxi
+2889	8	USER	ありがとうございます。飲食店も探して欲しいんですが、予算が安めで駐車場無料のところはありますか？	general,hotel,restaurant,taxi
+2889	9	SYSTEM	仙台で予算安めの駐車場無料の飲食店は２２件ヒットします。追加の希望条件はありますか。	general,hotel,restaurant,taxi
+2889	10	USER	特にないので、オススメの所でお願いします！	general,hotel,restaurant,taxi
+2889	11	SYSTEM	それでは、蕎麦酒房 夢の途酎 焔、こちらをお勧めします。	general,hotel,restaurant,taxi
+2889	12	USER	ありがとうございます。近辺の駅からの所要時間と最寄り駅は分かりますか？	general,hotel,restaurant,taxi
+2889	13	SYSTEM	最寄り駅である中野栄駅から、徒歩で3分です。	general,hotel,restaurant,taxi
+2889	14	USER	ありがとうございます。タクシー会社も探して欲しいです。キャッシュレス払いができるところで、ジャンボタクシーを利用したいです。	general,hotel,restaurant,taxi
+2889	15	SYSTEM	はい、（株）帝産キャブ仙台、こちらをお勧めします。	general,hotel,restaurant,taxi
+2889	16	USER	電話番号もお願いします！	general,hotel,restaurant,taxi
+2889	17	SYSTEM	0120117101です。	general,hotel,restaurant,taxi
+2889	18	USER	では予約もお願いします。ホテルルートイン仙台泉インターから、蕎麦酒房 夢の途酎 焔まで行きたいです。	general,hotel,restaurant,taxi
+2889	19	SYSTEM	はい、日付と時刻をお願いします。	general,hotel,restaurant,taxi
+2889	20	USER	8/26の15:10でお願いします！	general,hotel,restaurant,taxi
+2889	21	SYSTEM	この条件で予約成功しました。予約番号は12744です。	general,hotel,restaurant,taxi
+2889	22	USER	色々とありがとうございました。	general,hotel,restaurant,taxi
+2889	23	SYSTEM	よい旅を	general,hotel,restaurant,taxi

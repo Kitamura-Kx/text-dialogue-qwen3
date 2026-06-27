@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+991	0	USER	那覇へ旅行予定なのですが、本庁にコンビニはありますか？	general,shopping,hotel,weather
+991	1	SYSTEM	申し訳ございません。本庁エリアでコンビニのお店は、ご案内できるところが見つかりませんでした。	general,shopping,hotel,weather
+991	2	USER	そうですか。であれば、地区はどこでもいいです。	general,shopping,hotel,weather
+991	3	SYSTEM	ありがとうございます。そうしますと、真和志エリアに1件ございました。ファミリーマート さいおんスクエア店という牧志駅から徒歩2分のお店ですが、いかがでしょうか？	general,shopping,hotel,weather
+991	4	USER	そこにします。駐車場はありますか？	general,shopping,hotel,weather
+991	5	SYSTEM	申し訳ございません。駐車場の有無は不明となっております。	general,shopping,hotel,weather
+991	6	USER	なるほど。宿泊施設も探しているのですが、安めで、無料駐車場があるところはないですか？	general,shopping,hotel,weather
+991	7	SYSTEM	はい、7件ほどご案内可能です。例えば、パシフィックホテル沖縄というシティホテルはいかがでしょうか？	general,shopping,hotel,weather
+991	8	USER	そこにします。チェックアウト終了時刻とエリアを教えてください。	general,shopping,hotel,weather
+991	9	SYSTEM	チェックアウトは10時で終了となります。エリアは、本庁でございます。	general,shopping,hotel,weather
+991	10	USER	わかりました。2人で5/6から3泊の予約をお願いします。	general,shopping,hotel,weather
+991	11	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。ご予約番号は、40450ですので、お手元にお控えくださいませ。	general,shopping,hotel,weather
+991	12	USER	ありがとうございます。当日5/6の小禄の天気もお願いします。	general,shopping,hotel,weather
+991	13	SYSTEM	かしこまりました。当日のお天気は、曇りのち雨の予報となっております。最低気温は25.7度、最高気温は29.7度の予想です。	general,shopping,hotel,weather
+991	14	USER	わかりました。ありがとうございます。	general,shopping,hotel,weather
+991	15	SYSTEM	ほかに何かお手伝いすることはございませんか？	general,shopping,hotel,weather
+991	16	USER	はい、大丈夫です。	general,shopping,hotel,weather
+991	17	SYSTEM	では、またのご利用をお待ちしております。	general,shopping,hotel,weather

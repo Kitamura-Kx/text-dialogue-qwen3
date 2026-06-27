@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3209	0	USER	札幌に旅行に行くので駐車場が無料のビジネスホテルを探してほしいです	general,hotel,shopping,attraction
+3209	1	SYSTEM	かしこまりました。では、ホテルルートイン札幌白石はいかがでしょうか？	general,hotel,shopping,attraction
+3209	2	USER	チェックインの開始時刻とWi-Fiの有無を教えてください	general,hotel,shopping,attraction
+3209	3	SYSTEM	はい。チェックイン開始時刻は15:00です。また、Wi-Fiは無料で使えます。	general,hotel,shopping,attraction
+3209	4	USER	3人で10/18に三泊で予約してもらえますか？	general,hotel,shopping,attraction
+3209	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、90296です。	general,hotel,shopping,attraction
+3209	6	USER	ありがとうございます。あと清田区で駐車場が無料で買い物ができる場所を探しています。	general,hotel,shopping,attraction
+3209	7	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,hotel,shopping,attraction
+3209	8	USER	駐車場の有無を考慮しなければどうですか？	general,hotel,shopping,attraction
+3209	9	SYSTEM	かしこまりました。では、地酒ノ酒屋 愉酒屋はいかがでしょうか？	general,hotel,shopping,attraction
+3209	10	USER	営業時間と定休日と最寄り駅を教えてください	general,hotel,shopping,attraction
+3209	11	SYSTEM	営業時間は10:00～19:00、定休日は水曜日です。また、最寄り駅は福住駅になります。	general,hotel,shopping,attraction
+3209	12	USER	ありがとうございます。あとWi-Fiと駐車場が無料の観光名所はありますか？	general,hotel,shopping,attraction
+3209	13	SYSTEM	かしこまりました。さっぽろ羊ヶ丘展望台なんていかがでしょうか？	general,hotel,shopping,attraction
+3209	14	USER	大人の入場料とエリアと住所を教えて貰えますか？	general,hotel,shopping,attraction
+3209	15	SYSTEM	はい。大人入場料は530円です。また、エリアは豊平区で、住所は北海道札幌市豊平区羊ケ丘1になります。	general,hotel,shopping,attraction
+3209	16	USER	了解です。ありがとうございました	general,hotel,shopping,attraction
+3209	17	SYSTEM	はい。ほかにお調べすることはありますか？	general,hotel,shopping,attraction
+3209	18	USER	ないです。ありがとうございました。	general,hotel,shopping,attraction
+3209	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,attraction

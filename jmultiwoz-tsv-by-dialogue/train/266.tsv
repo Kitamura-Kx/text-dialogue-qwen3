@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+266	0	USER	福岡に旅行するんですけど、駐車場もWi-Fiも無料で使える宿泊施設ってありますか？	general,hotel,attraction,taxi
+266	1	SYSTEM	はい。ございます。The358 SORAはいかがですか。	general,hotel,attraction,taxi
+266	2	USER	おしゃれな感じですね。東区で駐車場無料の観光名所ってありますか？	general,hotel,attraction,taxi
+266	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,hotel,attraction,taxi
+266	4	USER	じゃあ南区ではどうでしょうか？	general,hotel,attraction,taxi
+266	5	SYSTEM	南区ですと、福太郎本社(めんたい工場)がございます。	general,hotel,attraction,taxi
+266	6	USER	めんたいこ、いいですね！ジャンボタクシーとキャッスレス払いが使えるタクシー会社も教えてもらえませんか？	general,hotel,attraction,taxi
+266	7	SYSTEM	福岡交通（株）がございます。	general,hotel,attraction,taxi
+266	8	USER	予約もお願いしたいんですが。8月14日の12時20分にThe358 SORAを出て、福太郎本社(めんたい工場)まででお願いします。	general,hotel,attraction,taxi
+266	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は85574でございます。	general,hotel,attraction,taxi
+266	10	USER	いろいろお手数をかけました。ありがとうございました。	general,hotel,attraction,taxi

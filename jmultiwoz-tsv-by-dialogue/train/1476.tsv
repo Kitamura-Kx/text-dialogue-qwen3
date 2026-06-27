@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1476	0	USER	札幌へ旅行に行くので、当日泊まる宿泊施設を探してください。名前が定山渓ビューホテルというところはありますか？	general,hotel,attraction
+1476	1	SYSTEM	はい。ございます。お知りになりたい情報はございますか。	general,hotel,attraction
+1476	2	USER	駐車場の有無、電話番号、Wi-Fiの有無を教えてください	general,hotel,attraction
+1476	3	SYSTEM	駐車場、Wi-Fi共に無料でご利用いただけます。電話番号は0115983339でございます。	general,hotel,attraction
+1476	4	USER	では札幌の観光名所を探してください	general,hotel,attraction
+1476	5	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,attraction
+1476	6	USER	駐車場とWi-Fiが無料で利用できるところにしてください	general,hotel,attraction
+1476	7	SYSTEM	ではさっぽろ羊ヶ丘展望台はいかがですか。	general,hotel,attraction
+1476	8	USER	そちらはどういったジャンルの観光地ですか？	general,hotel,attraction
+1476	9	SYSTEM	ジャンルは自然・公園, 展望台・タワー, 牧場でございます。	general,hotel,attraction
+1476	10	USER	わかりました。ありがとうございます。以上です。	general,hotel,attraction
+1476	11	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction

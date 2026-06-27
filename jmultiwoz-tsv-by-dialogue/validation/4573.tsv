@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4573	0	USER	京都の西京区で買い物ができるお店を探しています。	general,shopping,hotel
+4573	1	SYSTEM	西京区の買い物スポットは３件ありますが、京都らしいところで、京都オルゴール堂 嵐山店をオススメします。	general,shopping,hotel
+4573	2	USER	検討してみます。あとWi-Fiと駐車場が無料でレストランもある宿泊施設を探してほしいです。	general,shopping,hotel
+4573	3	SYSTEM	京都でWiFiと駐車場が無料の宿泊施設はいくつかありますが、リーガロイヤルホテル京都、こちらをお勧めします。	general,shopping,hotel
+4573	4	USER	このホテルの料金情報はなにかありますか？	general,shopping,hotel
+4573	5	SYSTEM	値段帯は安めですが、料金情報詳細は不明ですね。	general,shopping,hotel
+4573	6	USER	わかりました。ありがとうございました。	general,shopping,hotel
+4573	7	SYSTEM	よい旅を	general,shopping,hotel

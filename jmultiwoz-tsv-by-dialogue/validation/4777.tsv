@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4777	0	USER	福岡にて、駐車場を無料で使えて、買い物できるところを探してください。	general,shopping,taxi
+4777	1	SYSTEM	かしこまりました。では、福岡PARCOはいかがでしょうか？	general,shopping,taxi
+4777	2	USER	はい。そこの電話番号、最寄り駅を調べてください。	general,shopping,taxi
+4777	3	SYSTEM	はい。電話番号は0922357000で、最寄駅は天神駅になります。	general,shopping,taxi
+4777	4	USER	ありがとうございます。また、当日利用できるタクシーを探してください。ジャンボタクシーを利用できるところでお願いします。	general,shopping,taxi
+4777	5	SYSTEM	それでしたら、ラッキー自動車（株）がおすすめです。	general,shopping,taxi
+4777	6	USER	わかりました。そこの電話番号、タクシー会社名、キャッシュレス対応を調べてください。	general,shopping,taxi
+4777	7	SYSTEM	はい。電話番号は0925417755です。会社名は先ほども申し上げた通りラッキー自動車（株）になります。また、キャッシュレスにも対応しております。	general,shopping,taxi
+4777	8	USER	そこの予約をお願いします。日付は1/27です。時間は09:40です。出発地は福岡PARCOで、目的地は串匠 博多駅筑紫口店でお願いします。	general,shopping,taxi
+4777	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、43346です。	general,shopping,taxi
+4777	10	USER	ありがとうございます。	general,shopping,taxi
+4777	11	SYSTEM	いえいえ。他にお調べすることはございませんか？	general,shopping,taxi
+4777	12	USER	大丈夫です。	general,shopping,taxi
+4777	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi
+4777	14	USER	ありがとうございました。	general,shopping,taxi

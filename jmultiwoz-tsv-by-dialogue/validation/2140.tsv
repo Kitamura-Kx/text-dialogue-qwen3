@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2140	0	USER	福岡旅行を計画しています。Wi-Fiが無料利用できる観光名所を探してもらえませんか？	general,attraction,hotel,taxi
+2140	1	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction,hotel,taxi
+2140	2	USER	そうですか。ではWi-Fiに関する条件は外してもらっても大丈夫です。	general,attraction,hotel,taxi
+2140	3	SYSTEM	かしこまりました。では、潮見公園はいかがでしょうか？	general,attraction,hotel,taxi
+2140	4	USER	潮見公園は子供の入場料はいくらかかるのでしょうか。	general,attraction,hotel,taxi
+2140	5	SYSTEM	はい。無料で入場可能です。	general,attraction,hotel,taxi
+2140	6	USER	わかりました。お調べ下さりありがとうございます。あと、旅行中に利用する宿泊施設についても調べてもらえますか？	general,attraction,hotel,taxi
+2140	7	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction,hotel,taxi
+2140	8	USER	博多区にあって、Wi-Fiと駐車場が無料で利用できる場所だと嬉しいです。	general,attraction,hotel,taxi
+2140	9	SYSTEM	かしこまりました。では、HOTEL AZ 福岡金の隈店はいかがでしょうか？	general,attraction,hotel,taxi
+2140	10	USER	ありがとうございます。こちらはレストランは併設されていますか？	general,attraction,hotel,taxi
+2140	11	SYSTEM	はい。レストランもございます。	general,attraction,hotel,taxi
+2140	12	USER	わかりました。ではHOTEL AZ 福岡金の隈店で予約をお願いできますか？7月18日から2泊、4名での利用を考えています。	general,attraction,hotel,taxi
+2140	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、14712です。	general,attraction,hotel,taxi
+2140	14	USER	お手配して下さりありがとうございました。とても助かりました。	general,attraction,hotel,taxi
+2140	15	SYSTEM	他にご用件はありますか？	general,attraction,hotel,taxi
+2140	16	USER	そうですね、旅行中にタクシーを使いたいと考えています。ジャンボタクシーとキャッシュレス決済が利用できる会社はありますか？	general,attraction,hotel,taxi
+2140	17	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,attraction,hotel,taxi
+2140	18	USER	そうなのですね。ではジャンボタクシーに関する条件は外してもらっても大丈夫です。	general,attraction,hotel,taxi
+2140	19	SYSTEM	かしこまりました。では、平和交通（株）はいかがでしょうか？	general,attraction,hotel,taxi
+2140	20	USER	平和交通（株）さんの電話番号もお伺いしてもいいですか？	general,attraction,hotel,taxi
+2140	21	SYSTEM	はい。電話番号は0924114422です。	general,attraction,hotel,taxi
+2140	22	USER	たすかります。平和交通（株）さんで手配してください。7月18日15:30に潮見公園からHOTEL AZ 福岡金の隈店までの乗車を考えています。	general,attraction,hotel,taxi
+2140	23	SYSTEM	かしこまりました。ご予約承りました。予約番号は、57055です。	general,attraction,hotel,taxi
+2140	24	USER	わかりました。たくさんお付き合いくださってありがとうございました。	general,attraction,hotel,taxi

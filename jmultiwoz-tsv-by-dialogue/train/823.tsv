@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+823	0	USER	名古屋へ旅行したいのですが。	general,restaurant,weather
+823	1	SYSTEM	名古屋ののご旅行ですね。本日はどのようなお手伝いをいたしましょうか？	general,restaurant,weather
+823	2	USER	洋食が食べられる飲食店でおすすめなところはありますか？	general,restaurant,weather
+823	3	SYSTEM	申し訳ございません。名古屋で洋食・西洋料理のジャンルのお店ですと、ご案内できるところが見つかりませんでした。	general,restaurant,weather
+823	4	USER	そうですか。では郷土料理でおすすめなお店はありますか？	general,restaurant,weather
+823	5	SYSTEM	はい、1件ございます。蒲郡桔梗屋という、中村区エリアにある安めのお店です。いかがでしょうか？	general,restaurant,weather
+823	6	USER	ありがとうございます。そちらの電話番号を教えてもらえますか？あと、駐車場はありますか？	general,restaurant,weather
+823	7	SYSTEM	電話番号は、0525865862です。駐車場ですが、申し訳ありません、こちらのお店にはございません。	general,restaurant,weather
+823	8	USER	そうですか。わかりました。	general,restaurant,weather
+823	9	SYSTEM	ほかにお知りになりたい情報はございますか？	general,restaurant,weather
+823	10	USER	はい。あと6/16の名東区の天気と最高気温を教えてください。	general,restaurant,weather
+823	11	SYSTEM	かしこまりました。当日の天気は曇り、最低気温は20.2度、最高気温は27.2度の予報となっております。	general,restaurant,weather
+823	12	USER	わかりました。ありがとうございます。	general,restaurant,weather
+823	13	SYSTEM	他にお調べすることはございますか？	general,restaurant,weather
+823	14	USER	特にありません。ありがとうございました。	general,restaurant,weather
+823	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,weather

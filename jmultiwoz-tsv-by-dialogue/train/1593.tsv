@@ -1,0 +1,5 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1593	0	USER	札幌への旅行を計画していまして、清田区で買い物ができるところはありますか？	general,shopping
+1593	1	SYSTEM	はい、6件ほどご案内可能です。例えば、欧風洋菓子 エル ドール 平岡店という食料品のお店はいかがでしょうか？	general,shopping
+1593	2	USER	ありがとうございます、そちらに伺ってみます。問い合わせとしては以上になります。	general,shopping
+1593	3	SYSTEM	承知いたしました。では本日はご利用ありがとうございました。	general,shopping

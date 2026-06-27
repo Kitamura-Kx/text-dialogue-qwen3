@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+206	0	USER	こんにちは。大阪に旅行に行きたいと考えているんです。	general,attraction
+206	1	SYSTEM	かしこまりました。何かお知りになりたい情報がございますか。	general,attraction
+206	2	USER	ユニバーサルシティ駅付近の観光スポットを探してもらえないでしょうか？	general,attraction
+206	3	SYSTEM	申し訳ございません。案内できるところがございませんでした。いかがなさいますか。	general,attraction
+206	4	USER	そうですか。では最寄り駅はどこでも大丈夫ですので、観光名所を案内してもらいたいです。	general,attraction
+206	5	SYSTEM	では天保山大観覧車はいかがでしょうか。	general,attraction
+206	6	USER	天保山大観覧車の住所を知りたいです。	general,attraction
+206	7	SYSTEM	住所は大阪府大阪市港区海岸通1丁目1-10でございます。	general,attraction
+206	8	USER	ありがとうございます。天保山大観覧車って、大人の入場料やその他にかかる料金はありますか？	general,attraction
+206	9	SYSTEM	大人入場料は800円でございます。その他料金情報としましては一般券が800円、一般団体券（20名以上）だと700円 、学生団体券（20名以上）で640円 、障害者券（付添1名まで）400円となっております。	general,attraction
+206	10	USER	なるほど、詳細ありがとうございました！	general,attraction

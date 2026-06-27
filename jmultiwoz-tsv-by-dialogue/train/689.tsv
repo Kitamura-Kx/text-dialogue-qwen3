@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+689	0	USER	福岡の博多区に、駐車場無料かつ安めの飲食店はありますか？	general,restaurant,weather
+689	1	SYSTEM	はい、円坐・長屋がございます。何かご案内致しましょうか？	general,restaurant,weather
+689	2	USER	そのお店の最寄り駅を教えてください。	general,restaurant,weather
+689	3	SYSTEM	はい、最寄りの博多駅から徒歩で1分となります。他にご案内できることはございますか？	general,restaurant,weather
+689	4	USER	あと6/7、南区の最低気温を知りたいです。	general,restaurant,weather
+689	5	SYSTEM	はい、最低気温は24.3度となります。他にご用件はございますか？	general,restaurant,weather
+689	6	USER	お天気もわかりますか？	general,restaurant,weather
+689	7	SYSTEM	はい、天気は曇となります。	general,restaurant,weather
+689	8	USER	今日知りたいことは以上です。ありがとうございました。	general,restaurant,weather
+689	9	SYSTEM	ありがとうございました。	general,restaurant,weather

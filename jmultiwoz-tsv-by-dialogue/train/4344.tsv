@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4344	0	USER	札幌への旅行を計画しています清田区の観光名所を教えてください	general,attraction,weather
+4344	1	SYSTEM	かしこまりました。では、平岡公園はいかがでしょうか？	general,attraction,weather
+4344	2	USER	定休日を教えていただけますか	general,attraction,weather
+4344	3	SYSTEM	はい。定休日は無しとなっております。	general,attraction,weather
+4344	4	USER	2月27日の白石区の最高気温を教えてください	general,attraction,weather
+4344	5	SYSTEM	はい。最高気温は1.7度です。	general,attraction,weather
+4344	6	USER		general,attraction,weather

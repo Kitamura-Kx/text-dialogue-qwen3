@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3384	0	USER	横浜の本牧山頂公園に行く予定なのですが、Wi-Fiがあるのか教えてください。	general,attraction
+3384	1	SYSTEM	かしこまりました。wi-fiをお調べしましたが不明となっております。	general,attraction
+3384	2	USER	そうですか。大人の入場料と電話番号も知りたいです。	general,attraction
+3384	3	SYSTEM	承知いたしました。大人の入場料は無料でございます。電話番号は、0456222766でございます。	general,attraction
+3384	4	USER	ありがとうございます。助かりました。	general,attraction
+3384	5	SYSTEM	ありがとうございました。	general,attraction

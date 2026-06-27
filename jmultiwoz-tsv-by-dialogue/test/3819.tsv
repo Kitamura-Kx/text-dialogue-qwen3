@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3819	0	USER	福岡へ旅行を計画しているのですが。	general,weather,taxi
+3819	1	SYSTEM	どのようなお店や施設をご希望ですか？	general,weather,taxi
+3819	2	USER	当日の天候を調べて頂けますか？4/7の西区の最低気温を教えてください。	general,weather,taxi
+3819	3	SYSTEM	当日の天気は、晴時々曇で最低気温は11.4度の予報となっています。	general,weather,taxi
+3819	4	USER	ありがとうございます。	general,weather,taxi
+3819	5	SYSTEM	他にご用件はありますか？	general,weather,taxi
+3819	6	USER	はい、当日利用できるタクシー会社も探してください。ジャンボタクシーが利用できてキャッシュレス払いができるところはありますか？	general,weather,taxi
+3819	7	SYSTEM	では、日新交通（株）はいかがですか？	general,weather,taxi
+3819	8	USER	そちらの電話番号はわかりますか？	general,weather,taxi
+3819	9	SYSTEM	電話番号は、0120152452です。	general,weather,taxi
+3819	10	USER	ありがとうございます。ではそちらで予約をお願いします。4/7の10:40に、ねぎ鍋専門店はるいちを出発で、月まる海 大橋店までお願いします。	general,weather,taxi
+3819	11	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,weather,taxi
+3819	12	USER	そうですか。では11:10では予約できますか？	general,weather,taxi
+3819	13	SYSTEM	予約出来ました。予約番号は、85277です。	general,weather,taxi
+3819	14	USER	ありがとうございます。	general,weather,taxi
+3819	15	SYSTEM	他にご用件はありますか？	general,weather,taxi
+3819	16	USER	特にありません。ありがとうございました。	general,weather,taxi
+3819	17	SYSTEM	承知しました。ありがとうございました。	general,weather,taxi

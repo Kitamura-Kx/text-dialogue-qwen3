@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4329	0	USER	名古屋の観光名所を教えてください。駐車場が無料で使えて、出来ればwifiも無料で使えるところを希望しています。	general,attraction
+4329	1	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction
+4329	2	USER	では、wifiのことは問いませんので、どこかおすすめを教えてください。	general,attraction
+4329	3	SYSTEM	それなら、松坂屋美術館はどうでしょう。	general,attraction
+4329	4	USER	そちら料金情報ってわかりますか？	general,attraction
+4329	5	SYSTEM	申し訳ございません。料金情報は企画により異なるみたいです。	general,attraction
+4329	6	USER	わかりました。ではこれで失礼します。	general,attraction
+4329	7	SYSTEM	はい。ご利用ありがとうございました。	general,attraction

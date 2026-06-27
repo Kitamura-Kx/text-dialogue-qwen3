@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+187	0	USER	那覇に旅行にでも行きたいなと考えているんです。	general,restaurant
+187	1	SYSTEM	那覇のご旅行ですね。本日は何をお手伝いいたしましょうか？	general,restaurant
+187	2	USER	旅行先でご飯を食べられるところを一緒に探してもらいたいです。	general,restaurant
+187	3	SYSTEM	かしこまりました。那覇では、お食事処を113店ほどご案内できます。ジャンルなど、ご希望はございますか？	general,restaurant
+187	4	USER	できればカフェやスイーツがあるお店で、駐車場が無料だと嬉しいです。	general,restaurant
+187	5	SYSTEM	そういたしますと、サウスアンドノースはいかがでしょうか？お値段の設定もお安めですよ。	general,restaurant
+187	6	USER	こちらにしてみようと思います。万が一に備えて、サウスアンドノースの電話番号を聞いておきたいです。	general,restaurant
+187	7	SYSTEM	電話番号は、0988613730です。	general,restaurant
+187	8	USER	わかりました。素敵なお店をご紹介くださってありがとうございました。	general,restaurant

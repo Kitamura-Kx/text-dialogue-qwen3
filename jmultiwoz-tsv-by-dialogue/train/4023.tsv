@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4023	0	USER	京都への旅行を計画中で、ビジネスホテルを探しています。	general,hotel
+4023	1	SYSTEM	かしこまりました。何か希望の要件はございますか？	general,hotel
+4023	2	USER	はい、無料Wi-fi付きで予算は安めが良いです。	general,hotel
+4023	3	SYSTEM	かしこまりました。では、アパヴィラホテル〈京都駅前〉はいかがでしょうか？	general,hotel
+4023	4	USER	そこにしようと思います。チェックイン開始時刻と料金情報を教えていただきたいです。	general,hotel
+4023	5	SYSTEM	はい。チェックイン開始時刻は15:00で、料金情報は値段帯が安めという情報のみになります。	general,hotel
+4023	6	USER	ありがとうございます。2/15に2名で3泊予約して欲しいのですが、可能でしょうか。	general,hotel
+4023	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、35479です。	general,hotel
+4023	8	USER	助かります。ありがとうございます。	general,hotel
+4023	9	SYSTEM	ほかにお調べすることはありますか？	general,hotel
+4023	10	USER	いえ、大丈夫です。ありがとうございました。	general,hotel
+4023	11	SYSTEM	承知しました。ありがとうございました。	general,hotel
+4023	12	USER	では、失礼します。	general,hotel

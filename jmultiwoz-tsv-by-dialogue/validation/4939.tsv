@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4939	0	USER	こんにちは、札幌に旅行する予定です。中央区で、展望台・タワーの観光名所を教えてくれますか？	general,attraction,taxi
+4939	1	SYSTEM	札幌もいわ山ロープウェイ さっぽろテレビ塔 JRタワー展望室 タワー・スリーエイト 札幌市役所 展望回廊 大倉山ジャンプ競技場の5か所がご紹介できます。	general,attraction,taxi
+4939	2	USER	札幌もいわ山ロープウェイの住所はわかりますか？	general,attraction,taxi
+4939	3	SYSTEM	北海道札幌市中央区伏見5丁目3-7です。	general,attraction,taxi
+4939	4	USER	それからタクシーについても聞いておきたいです。キャッシュレス払いできるところを教えてください。	general,attraction,taxi
+4939	5	SYSTEM	札幌でキャッシュレス対応のタクシー会社はございませんでした。申し訳ございません。	general,attraction,taxi
+4939	6	USER	そうですか、ではキャッシュレスは非対応でも良いので、タクシー会社を探してください。	general,attraction,taxi
+4939	7	SYSTEM	東邦交通(株) 札幌団地タクシー(株)などいかがですか？	general,attraction,taxi
+4939	8	USER	東邦交通(株)でお願いしいます。ジャンボタクシーには対応していますか？あと、電話番号も教えてください。	general,attraction,taxi
+4939	9	SYSTEM	かしこまりました。ジャンボタクシーは非対応です。電話番号は0116621040です。	general,attraction,taxi
+4939	10	USER	予約もお願いします。12月23日14時30分に、味処 こめますを出発して、札幌もいわ山ロープウェイまで行くルートです。	general,attraction,taxi
+4939	11	SYSTEM	かしこまりました。予約完了いたしました。予約番号は69996です。	general,attraction,taxi
+4939	12	USER	ありがとうございました！助かります。	general,attraction,taxi

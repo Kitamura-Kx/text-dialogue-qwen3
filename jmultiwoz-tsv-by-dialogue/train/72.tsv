@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+72	0	USER	仙台への旅行を計画しているのですが、ポケモンセンタートウホクで買い物できるお店を探しています	general,shopping
+72	1	SYSTEM	はい、ポケモンセンタートウホクでは、文房具や雑貨, おもちゃ, お土産を購入いただけるようです。	general,shopping
+72	2	USER	特にジャンルにこだわりはないのですが、おすすめのお店はありますか？	general,shopping
+72	3	SYSTEM	ポケモンセンタートウホクというのが店舗名となっており、仙台PARCO8階にございます。おすすめというのは、ポケモンセンタートウホク内に、他にも店舗が入っているということでしょうか？	general,shopping
+72	4	USER	すみません、ポケモンセンタートウホクの定休日とエリアを教えてください。エリアは仙台PARCO8階でしょうか？	general,shopping
+72	5	SYSTEM	はい、定休日はございません。エリアは青葉区となります。住所は宮城県仙台市青葉区中央1丁目2-3 仙台PARCO8階、となっております。	general,shopping
+72	6	USER	ありがとうございます。	general,shopping
+72	7	SYSTEM	他にご用件はございますか？	general,shopping
+72	8	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping
+72	9	SYSTEM	承知致しました。ありがとうございました。	general,shopping

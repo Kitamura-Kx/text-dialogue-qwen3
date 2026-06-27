@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4581	0	USER	東京への旅行を計画しています． 当日訪れる観光名所を探してください．地区は港区です．Wi-Fiと駐車場を無料で利用できるところにしてください．	general,attraction,taxi
+4581	1	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction,taxi
+4581	2	USER	でしたらWi-Fiはどちらでも。	general,attraction,taxi
+4581	3	SYSTEM	根津美術館はいかがでしょうか。	general,attraction,taxi
+4581	4	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してください．キャッシュレス払いとジャンボタクシーを利用できるところにしてください．	general,attraction,taxi
+4581	5	SYSTEM	キャピタルオートはいかがでしょうか。	general,attraction,taxi
+4581	6	USER	そちらの電話番号を教えていただけますか。あと、見つけたタクシー会社で当日のタクシーを予約してください．日付は7/16です．時間は14:30です．出発地はグランドニッコー東京 台場というところです．目的地は先ほど見つけた観光施設で	general,attraction,taxi
+4581	7	SYSTEM	電話番号は0357552151です。予約完了いたしました。予約番号は8033になります。	general,attraction,taxi
+4581	8	USER	ありがとうございます。	general,attraction,taxi

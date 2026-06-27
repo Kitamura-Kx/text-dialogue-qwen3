@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+430	0	USER	大阪へ行こうと思っています。鶴見区で最寄り駅が大阪港駅の観光名所を探していただきたいです。	general,attraction,taxi
+430	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,attraction,taxi
+430	2	USER	では最寄り駅は考慮せず鶴見区で探していただけますか？	general,attraction,taxi
+430	3	SYSTEM	では花博記念公園 鶴見緑地はいかがでしょうか。	general,attraction,taxi
+430	4	USER	そちらに駐車場はありますか？	general,attraction,taxi
+430	5	SYSTEM	有料となりますが、駐車場はございます。	general,attraction,taxi
+430	6	USER	わかりました。ありがとうございます。	general,attraction,taxi
+430	7	SYSTEM	ほかにご用件はございませんか。	general,attraction,taxi
+430	8	USER	ジャンボタクシーが利用できるタクシー会社を探していただきたいです。	general,attraction,taxi
+430	9	SYSTEM	申し訳ございません。大阪でジャンボタクシーに対応している会社が見つかりませんでした。	general,attraction,taxi
+430	10	USER	それではジャンボタクシーは考慮せずタクシー会社を探していただきたいです。	general,attraction,taxi
+430	11	SYSTEM	商都交通株式会社がございます。	general,attraction,taxi
+430	12	USER	電話番号を教えてください。	general,attraction,taxi
+430	13	SYSTEM	電話番号は0662626868でございます。	general,attraction,taxi
+430	14	USER	5月6日の13：50に花博記念公園 鶴見緑地からクロワッサンの店 大阪あべの橋店までの予約をお願いします。	general,attraction,taxi
+430	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は89489でございます。	general,attraction,taxi
+430	16	USER	わかりました。ありがとうございます。	general,attraction,taxi
+430	17	SYSTEM	ほかにご用件はございませんか。	general,attraction,taxi
+430	18	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,taxi

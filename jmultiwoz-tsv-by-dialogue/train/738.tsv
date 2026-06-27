@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+738	0	USER	横浜の鶴見区の鴨居駅近くで無料駐車場がある買い物できるところはありますか？	general,shopping,weather
+738	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,shopping,weather
+738	2	USER	鶴見区じゃなければ、鴨居駅近くで無料駐車場のあるところはありますか？	general,shopping,weather
+738	3	SYSTEM	はい、3件ご案内可能です。たとえば、ららぽーと横浜という都筑区のお店はいかがでしょうか？	general,shopping,weather
+738	4	USER	ありがとうございます。住所と電話番号を教えてもらえますか？	general,shopping,weather
+738	5	SYSTEM	かしこまりました。住所は、神奈川県横浜市都筑区池辺町4035-1です。電話番号は、0459311000でございます。	general,shopping,weather
+738	6	USER	ありがとうございます。営業時間も教えてください。	general,shopping,weather
+738	7	SYSTEM	営業時間は、10:00～20:00です。	general,shopping,weather
+738	8	USER	ありがとうございます。１２月６日の緑区の最低気温と天気も調べてもらえますか？	general,shopping,weather
+738	9	SYSTEM	かしこまりました。当日の最低気温は2度、お天気は曇り時々晴れの予報です。	general,shopping,weather
+738	10	USER	ありがとうございました。	general,shopping,weather
+738	11	SYSTEM	他にお調べすることはございませんか？	general,shopping,weather
+738	12	USER	大丈夫です。ありがとうございました。	general,shopping,weather
+738	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,weather

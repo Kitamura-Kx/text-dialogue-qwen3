@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+507	0	USER	横浜の観光名所を探してほしいのですが。	general,attraction,weather,taxi
+507	1	SYSTEM	承知しました。エリアなどのご希望はございますか？	general,attraction,weather,taxi
+507	2	USER	エリアは問いませんが、駐車場が無料で利用できるところがいいです。	general,attraction,weather,taxi
+507	3	SYSTEM	ありがとうございます。では、キリンビール 横浜工場はいかがでしょう？ジャンルは工場見学、エリアは鶴見区で、最寄りの生麦駅から徒歩で10分となります。	general,attraction,weather,taxi
+507	4	USER	よさそうですね！そちらの住所を教えてもらえますか？	general,attraction,weather,taxi
+507	5	SYSTEM	はい、住所は神奈川県横浜市鶴見区生麦1丁目17-1となります。	general,attraction,weather,taxi
+507	6	USER	わかりました。あと、当日9/4の中区の天気を教えてもらえますか？	general,attraction,weather,taxi
+507	7	SYSTEM	承知しました。天気は雨、最低気温25.3度、最高気温32.8度となります。	general,attraction,weather,taxi
+507	8	USER	当日タクシーを使いたいので、タクシー会社を探してもらえますか？ジャンボタクシーが使えるところがいいです。	general,attraction,weather,taxi
+507	9	SYSTEM	申し訳ありません、ジャンボタクシー対応のタクシー会社はございません。いかが致しましょう？	general,attraction,weather,taxi
+507	10	USER	そうですか。では、ジャンボタクシーはなくても構わないので、どこか探してもらえますか？	general,attraction,weather,taxi
+507	11	SYSTEM	申し訳ありません。では、富士見交通株式会社はいかがでしょう？キャッシュレスには対応しております。電話番号は0120411190となります。	general,attraction,weather,taxi
+507	12	USER	では、そこにします。9/4の10:00に予約をとってもらえますか？	general,attraction,weather,taxi
+507	13	SYSTEM	承知しました。お手数ですが、出発地と目的地を教えていただけますか？	general,attraction,weather,taxi
+507	14	USER	出発地は横浜人形の家で、目的地はキリンビール 横浜工場です。	general,attraction,weather,taxi
+507	15	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、96918となります。	general,attraction,weather,taxi
+507	16	USER	助かりました。ありがとうございました。	general,attraction,weather,taxi

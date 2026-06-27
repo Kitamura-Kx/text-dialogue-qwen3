@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1544	0	USER	横浜に行くので飲食店を探してください。西谷駅近くで、予算は普通くらいのところが希望です。	general,restaurant,shopping,taxi
+1544	1	SYSTEM	それでしたら、松葉寿しはいかがですか？	general,restaurant,shopping,taxi
+1544	2	USER	そちらはどういったジャンルのお店ですか？	general,restaurant,shopping,taxi
+1544	3	SYSTEM	こちらのお店のジャンルとしましては、寿司・魚料理, うどん・そばとなっています。	general,restaurant,shopping,taxi
+1544	4	USER	わかりました。では2/14の14:40に予約をお願いします。人数は3人です。	general,restaurant,shopping,taxi
+1544	5	SYSTEM	予約が完了しました。　予約番号は、63803です。	general,restaurant,shopping,taxi
+1544	6	USER	ありがとう。当日買い物をしたいのですが、中区で医薬品や化粧品が買えるところはありますか？	general,restaurant,shopping,taxi
+1544	7	SYSTEM	MEGAドン・キホーテ港山下総本店は、いかがですか？	general,restaurant,shopping,taxi
+1544	8	USER	駐車場は無料で使えますか？	general,restaurant,shopping,taxi
+1544	9	SYSTEM	はい、駐車場は無料駐車場があります。	general,restaurant,shopping,taxi
+1544	10	USER	では、そこに行こうと思います。ちなみに定休日はありますか？	general,restaurant,shopping,taxi
+1544	11	SYSTEM	定休日は、無しとなっています。	general,restaurant,shopping,taxi
+1544	12	USER	わかりました。当日タクシーを利用したいので、ジャンボタクシーが使えるタクシー会社を探してもらえますか？	general,restaurant,shopping,taxi
+1544	13	SYSTEM	スタジアム交通株式会社は、いかがでしょうか？	general,restaurant,shopping,taxi
+1544	14	USER	そちらはキャッシュレスには対応していますか？	general,restaurant,shopping,taxi
+1544	15	SYSTEM	はい、キャッシュレス対応しております。	general,restaurant,shopping,taxi
+1544	16	USER	では、2/14の16:00に、松葉寿しからMEGAドン・キホーテ港山下総本店までで予約をお願いします。	general,restaurant,shopping,taxi
+1544	17	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant,shopping,taxi
+1544	18	USER	そうですか。では時間を16:50に変更してもらえますか？	general,restaurant,shopping,taxi
+1544	19	SYSTEM	予約が完了しました。　予約番号は、57421です。	general,restaurant,shopping,taxi
+1544	20	USER	ありがとうございます！	general,restaurant,shopping,taxi

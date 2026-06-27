@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+580	0	USER	こんにちは！福岡へ旅行を計画しているんですが、ジャンボタクシーを利用できるタクシー会社を教えてください。	general,taxi
+580	1	SYSTEM	かしこまりました。では、日新交通（株）はいかがでしょうか？	general,taxi
+580	2	USER	キャッシュレス対応はしていますか？	general,taxi
+580	3	SYSTEM	はい、対応しております。	general,taxi
+580	4	USER	ありがとうございます。10/13の13:50に、キャナルシティ劇場を出発したいので、予約を取って貰えますか？目的地は西中洲 河童というところです。	general,taxi
+580	5	SYSTEM	かしこまりました。予約が完了いたしました。ご予約番号は、12317です。	general,taxi
+580	6	USER	ありがとうございます！	general,taxi
+580	7	SYSTEM	ほかに何かお調べすることはございませんか？	general,taxi
+580	8	USER	大丈夫です。ありがとうございました。	general,taxi
+580	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

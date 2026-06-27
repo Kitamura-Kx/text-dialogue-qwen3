@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3694	0	USER	福岡へ旅行に行こうと思っています。当日訪れる観光名所を探しています。駐車場が無料で地区は博多区が希望です。	general,attraction,hotel
+3694	1	SYSTEM	申し訳ございません。条件に合う観光名所は見つかりませんでした。	general,attraction,hotel
+3694	2	USER	でしたら、駐車場はなくても良いです。	general,attraction,hotel
+3694	3	SYSTEM	であれば、キャナルシティ博多はいかがでしょうか？	general,attraction,hotel
+3694	4	USER	そこが良さそうですね。そこの大人入場料とWi-Fiの有無と電話番号を教えてください。	general,attraction,hotel
+3694	5	SYSTEM	はい。大人入場料は0円です。Wi-Fiも無料のものがございます。	general,attraction,hotel
+3694	6	USER	電話番号も教えてください。	general,attraction,hotel
+3694	7	SYSTEM	申し訳ありません。電話番号は0922822525です。	general,attraction,hotel
+3694	8	USER	あと当日はナインアワーズ中洲川端駅という宿泊施設に泊まる予定です。そこの値段帯を教えてください。	general,attraction,hotel
+3694	9	SYSTEM	はい。値段帯は安めとなっております。	general,attraction,hotel
+3694	10	USER	分かりました。ありがとうございます。	general,attraction,hotel
+3694	11	SYSTEM	他にご用件はございませんか？	general,attraction,hotel
+3694	12	USER	はい。大丈夫です。	general,attraction,hotel
+3694	13	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel

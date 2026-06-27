@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4241	0	USER	仙台旅行を計画しています。太白区で駐車場無料の飲食店を探していただけますか。	general,restaurant
+4241	1	SYSTEM	承知しました。では、ジンギスカン山力はいかがでしょう？ジャンルは、焼肉、ホルモンとなります。	general,restaurant
+4241	2	USER	そちらはWi-Fiはありますか？	general,restaurant
+4241	3	SYSTEM	申し訳ありません、Wi-Fiはございません。Wi-Fiを条件に加えますか？	general,restaurant
+4241	4	USER	いいえ、大丈夫です。それでは予約をお願いできますか。4名で10/28の13:00です。	general,restaurant
+4241	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、63629となります。	general,restaurant
+4241	6	USER	ありがとうございました。	general,restaurant

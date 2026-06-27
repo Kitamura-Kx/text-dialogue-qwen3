@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1969	0	USER	東京へ行こいうと思っています。世田谷区にあって最寄り駅が中野坂上駅の買い物施設を探していただきたいです。	general,shopping
+1969	1	SYSTEM	その条件だとヒットしません	general,shopping
+1969	2	USER	では最寄り駅は考慮せず同条件で探していただけますか？	general,shopping
+1969	3	SYSTEM	３件ヒットしますが、二子玉川 蔦屋家電をオススメします。	general,shopping
+1969	4	USER	そちらの営業時間、近辺の駅からの所要時間、電話番号について教えていただけますでしょうか。	general,shopping
+1969	5	SYSTEM	営業時間は09:30～21:00、二子玉川駅から徒歩で4分、0354918550になります。	general,shopping
+1969	6	USER	わかりました。ありがとうございます。	general,shopping
+1969	7	SYSTEM	他にご希望はありますか？	general,shopping
+1969	8	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping

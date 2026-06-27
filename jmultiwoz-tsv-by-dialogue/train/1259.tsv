@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1259	0	USER	大阪で泊まれる場所を探してまして。天王寺区で無料wifiがあるところはありますか？	general,hotel
+1259	1	SYSTEM	はい、3件ほどご案内可能です。例えば、シェラトン都ホテル大阪は、如何でしょうか？	general,hotel
+1259	2	USER	そちらは宿泊施設のタイプでいうと、どれになりますか？あと、電話番号も教えてください。	general,hotel
+1259	3	SYSTEM	タイプは、シティホテルとなります。電話番号は、0667731111でございます。	general,hotel
+1259	4	USER	分かりました。では2/25で予約をお願いします。人数は4人で、2泊の予定です。	general,hotel
+1259	5	SYSTEM	大変申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,hotel
+1259	6	USER	そうですか、、、では1泊に変更して再度ご確認願えますか？	general,hotel
+1259	7	SYSTEM	ありがとうございます。1泊のご予約で承りました。予約番号は、46564でございます。	general,hotel
+1259	8	USER	ありがとうございます！大変助かりました。	general,hotel

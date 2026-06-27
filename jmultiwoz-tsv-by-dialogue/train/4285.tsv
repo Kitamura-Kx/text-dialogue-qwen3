@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4285	0	USER	大阪に旅行へ行くので、当日食事ができる飲食店を探しています。地区は港区で、最寄り駅が天満橋駅のところがいいのですが。	general,restaurant,taxi
+4285	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,taxi
+4285	2	USER	じゃあ、天満橋駅の近くでなくてもいいです。	general,restaurant,taxi
+4285	3	SYSTEM	ではスカイビュッフェ51はいかがでしょうか。	general,restaurant,taxi
+4285	4	USER	よさそうですね。最寄り駅からの所要時間を教えてもらえますか。	general,restaurant,taxi
+4285	5	SYSTEM	弁天町駅から徒歩で0分、大阪駅から徒歩で8分となっております。	general,restaurant,taxi
+4285	6	USER	ありがとうございます。当日タクシーを利用したいのですが、キャッシュレスに対応したタクシー会社はありませんか？	general,restaurant,taxi
+4285	7	SYSTEM	では榮交通株式会社がございます。こちらジャンボタクシーにも対応しております。電話番号は0669624641でございます。	general,restaurant,taxi
+4285	8	USER	では、10月14日にスカイビュッフェ51から、アンピールホテル大阪まで行きたいので、13時40分に予約してください。	general,restaurant,taxi
+4285	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は43494でございます。	general,restaurant,taxi
+4285	10	USER	予約ありがとうございました。	general,restaurant,taxi
+4285	11	SYSTEM	ほかにご用件はございませんか。	general,restaurant,taxi
+4285	12	USER	いえ、大丈夫です。ありがとうございました。	general,restaurant,taxi
+4285	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

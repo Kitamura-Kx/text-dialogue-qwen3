@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+813	0	USER	那覇への旅行を考えているのですが、首里で駐車場を無料で利用できる観光名所を教えてほしいです。	general,attraction
+813	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction
+813	2	USER	それであれば、有料の駐車場でもいいです。	general,attraction
+813	3	SYSTEM	ありがとうございます。そうしますと、5件ご案内可能です。たとえば、首里城といった場所にご興味ございませんか？	general,attraction
+813	4	USER	そこにします。子供入場料と住所、あと最寄り駅の情報を教えてください。	general,attraction
+813	5	SYSTEM	小中学生の子供入場料は160円です。6歳未満は無料となっております。住所は、沖縄県那覇市首里金城町1丁目2でございます。最寄りは首里駅で、徒歩15分ほどかかります。	general,attraction
+813	6	USER	わかりました。ありがとうございます。	general,attraction
+813	7	SYSTEM	ほかにご用件はございませんか？	general,attraction
+813	8	USER	いえ、もう大丈夫です。	general,attraction
+813	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

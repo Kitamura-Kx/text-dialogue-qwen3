@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4716	0	USER	東京へ旅行する予定なのですが、居酒屋で普通の値段位のところはありますか？Wi-Fiが無料で使えると嬉しいのですが。	general,restaurant,hotel
+4716	1	SYSTEM	申し訳ございません。その条件ではご紹介できかねます。	general,restaurant,hotel
+4716	2	USER	そうですか。では、Wi-Fiがなくても大丈夫です。	general,restaurant,hotel
+4716	3	SYSTEM	焼肉 炉漫亭 中野坂上店 かしわビストロバンバン 醍醐 お台場店などいかがですか？	general,restaurant,hotel
+4716	4	USER	焼肉 炉漫亭 中野坂上店にします。近辺の駅からの所要時間と営業時間、あと駐車場の有無を教えてください。	general,restaurant,hotel
+4716	5	SYSTEM	中野坂上駅から徒歩で9分、または新中野駅から徒歩で9分です。営業時間は11:30～14:00, 16:00～23:30で、駐車場情報はございません。	general,restaurant,hotel
+4716	6	USER	了解です。あと、普通の値段で泊まれる文京区のリゾートホテルはありませんか？	general,restaurant,hotel
+4716	7	SYSTEM	ホテル椿山荘東京はいかがですか？	general,restaurant,hotel
+4716	8	USER	いいですね。チェックアウト終了時刻と料金情報があれば知りたいです。あと、レストランがあるかどうかも気になります。	general,restaurant,hotel
+4716	9	SYSTEM	12:00がチェックアウトの時刻で、料金情報はありません。レストランは併設されております。	general,restaurant,hotel
+4716	10	USER	わかりました。では、4人で8/19から3泊予約とってもらえますか？	general,restaurant,hotel
+4716	11	SYSTEM	かしこまりました。予約番号は６６２９９です。	general,restaurant,hotel
+4716	12	USER	ありがとうございます。	general,restaurant,hotel
+4716	13	SYSTEM	とんでもないです。	general,restaurant,hotel

@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4130	0	USER	最寄り駅が笈坂駅のwifiと駐車場が無料で利用できる飲食店を教えてください	general,restaurant,attraction,weather
+4130	1	SYSTEM	恐れ入りますがご旅行先の都市名を教えていただけますか。	general,restaurant,attraction,weather
+4130	2	USER	失礼しました、仙台でお願いします	general,restaurant,attraction,weather
+4130	3	SYSTEM	では岳山珈琲はいかがですか。	general,restaurant,attraction,weather
+4130	4	USER	ありがとうございます、定休日と近辺の駅からの所要時間を教えてください	general,restaurant,attraction,weather
+4130	5	SYSTEM	定休日は第1火曜日, 第3火曜日, 水曜日でございます。笈坂駅から徒歩で2分、泉中央駅からタクシーで35分となっております。	general,restaurant,attraction,weather
+4130	6	USER	ありがとうございます、12月30日の10時30分に4人で予約お願いします	general,restaurant,attraction,weather
+4130	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,restaurant,attraction,weather
+4130	8	USER	11時10分では可能でしょうか	general,restaurant,attraction,weather
+4130	9	SYSTEM	その時間ですと予約が可能でございました。予約番号は62988でございます。	general,restaurant,attraction,weather
+4130	10	USER	ありがとうございます、当日訪れたいのですがwifiが無料で歴史的な散策エリアはありますか	general,restaurant,attraction,weather
+4130	11	SYSTEM	はい。仙台城跡がございます。	general,restaurant,attraction,weather
+4130	12	USER	駐車場はありますでしょうか、また料金はどのくらいでしょうあk	general,restaurant,attraction,weather
+4130	13	SYSTEM	駐車場は有料ですがございます。料金情報としましては、大人が700円、中高生が500円、小学生が300円でございます。	general,restaurant,attraction,weather
+4130	14	USER	ありがとうございます、12月30日の太白区の最高気温と最低気温を教えてください	general,restaurant,attraction,weather
+4130	15	SYSTEM	当日のは最低気温2.8度で、最高気温が11度でございます。	general,restaurant,attraction,weather
+4130	16	USER		general,restaurant,attraction,weather

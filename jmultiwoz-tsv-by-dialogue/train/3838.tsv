@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3838	0	USER	京都に行く予定なのですがお土産を買えるお店で、無料駐車場があるところでいいお店ありますか？	general,shopping
+3838	1	SYSTEM	それでは、鶴屋𠮷信 本店はいかがですか？	general,shopping
+3838	2	USER	そちらの最寄り駅と駅からの所要時間わかりますか？	general,shopping
+3838	3	SYSTEM	最寄り駅は、今出川駅で所要時間は、今出川駅から徒歩で10分となります。	general,shopping
+3838	4	USER	ありがとうございます。ではそちらに伺いたいと思います。	general,shopping
+3838	5	SYSTEM	他にご用件はありますか？	general,shopping
+3838	6	USER	だいじょうぶです。ありがとうございました。	general,shopping

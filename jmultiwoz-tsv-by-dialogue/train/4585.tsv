@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4585	0	USER	那覇への旅行を計画しています． 当日買い物ができるところを探してください．ジャンルは百貨店や総合スーパーです．駐車場を無料で利用できるところにしてください．	general,shopping,hotel,attraction
+4585	1	SYSTEM	デパートリウボウはいかがでしょうか。	general,shopping,hotel,attraction
+4585	2	USER	そちらの電話番号とエリアを教えていただけますか。	general,shopping,hotel,attraction
+4585	3	SYSTEM	電話番号は0988671171でエリアは本庁です。	general,shopping,hotel,attraction
+4585	4	USER	ありがとうございます。あと、当日泊まる宿泊施設を探してください．駐車場を無料で利用できるところにしてください．レストランが併設されているところにしてください．	general,shopping,hotel,attraction
+4585	5	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,hotel,attraction
+4585	6	USER	でしたら有料の駐車場にしてください。	general,shopping,hotel,attraction
+4585	7	SYSTEM	ザ・ナハテラスはいかがでしょうか。	general,shopping,hotel,attraction
+4585	8	USER	そちらのWi-Fiの有無，近辺の駅からの所要時間，電話番号を教えていただけますか。	general,shopping,hotel,attraction
+4585	9	SYSTEM	Wi-Fiの有無は有り(無料)、近辺の駅からの所要時間は牧志駅からタクシーで5分、電話番号は0988641111です。	general,shopping,hotel,attraction
+4585	10	USER	ありがとうございます。そちらで人数は3人．日付は3/29です．宿泊日数は4泊で予約お願いします。	general,shopping,hotel,attraction
+4585	11	SYSTEM	予約完了いたしました。予約番号は964になります。	general,shopping,hotel,attraction
+4585	12	USER	ありがとうございます。あと、当日訪れる観光名所を探してください．駐車場を無料で利用できるところにしてください．地区は本庁で	general,shopping,hotel,attraction
+4585	13	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,shopping,hotel,attraction
+4585	14	USER	でしたら地区はどこでも。	general,shopping,hotel,attraction
+4585	15	SYSTEM	パイナップルハウスはいかがでしょうか。	general,shopping,hotel,attraction
+4585	16	USER	そちらの近辺の駅からの所要時間，定休日，大人入場料を教えていただけますか。	general,shopping,hotel,attraction
+4585	17	SYSTEM	近辺の駅からの所要時間は那覇空港駅からタクシーで5分、定休日 無し、大人入場料は0です。	general,shopping,hotel,attraction
+4585	18	USER		general,shopping,hotel,attraction

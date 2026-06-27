@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4743	0	USER	大阪へ旅行するのですが、Wi-Fiが無料で使える観光名所を調べてください。	general,attraction,restaurant,weather
+4743	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,restaurant,weather
+4743	2	USER	そうですか。有料のWi-Fiがあるところでもいいです。	general,attraction,restaurant,weather
+4743	3	SYSTEM	ありがとうございます。では、エリアでいうと港区にある、空庭温泉 OSAKA BAY TOWERはいかがでしょう？ジャンルは、温泉、銭湯、スパとなります。	general,attraction,restaurant,weather
+4743	4	USER	そこにします。近辺の駅からの所要時間と電話番号を知りたいです。	general,attraction,restaurant,weather
+4743	5	SYSTEM	はい、電話番号は0665679016、最寄りの弁天町駅から徒歩で1分となります。	general,attraction,restaurant,weather
+4743	6	USER	了解です。あと、最寄りが梅田駅のWi-Fiが無料で使える飲食店も教えてください。	general,attraction,restaurant,weather
+4743	7	SYSTEM	では、エリアでいうと北区にある、酒場リベリー スシる。はいかがでしょう？ジャンルは、寿司、魚料理、居酒屋となります。	general,attraction,restaurant,weather
+4743	8	USER	よさそうですね。駐車場はありますか？また、エリアと定休日も聞きたいです。	general,attraction,restaurant,weather
+4743	9	SYSTEM	申し訳ありません、駐車場のご用意はございません。エリアは北区、定休日は不定休となります。	general,attraction,restaurant,weather
+4743	10	USER	了解です。では、3人で6/28の13:20から予約をお願いできますか？	general,attraction,restaurant,weather
+4743	11	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,attraction,restaurant,weather
+4743	12	USER	そうですか。では人数を2人にしてください。	general,attraction,restaurant,weather
+4743	13	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、52011となります。	general,attraction,restaurant,weather
+4743	14	USER	ありがとうございます。最後に、6/28の大正区の天気と最低気温を教えてください。	general,attraction,restaurant,weather
+4743	15	SYSTEM	はい、天気は雨時々曇、最低気温19.1度となります。	general,attraction,restaurant,weather
+4743	16	USER	わかりました。いろいろありがとうございました。	general,attraction,restaurant,weather
+4743	17	SYSTEM	ありがとうございました。	general,attraction,restaurant,weather

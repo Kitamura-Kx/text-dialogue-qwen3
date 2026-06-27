@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+69	0	USER	仙台に行くので、レストラン併設の宿泊場所を探しているんですけど。	general,hotel,taxi
+69	1	SYSTEM	お問い合わせありがとうございます。仙台でレストランを併設した宿泊施設は、全部で６０件ほどございます。他にご希望の条件はございますでしょうか？	general,hotel,taxi
+69	2	USER	Wifiを無料で使える所が良いです。良さそうなところを一つ紹介してもらえませんか？	general,hotel,taxi
+69	3	SYSTEM	かしこまりました。フリーWiFiをご利用いただける場所の１つ、伝承千年の宿 佐勘などはいかがでしょう？	general,hotel,taxi
+69	4	USER	風格が感じられるよさそうな宿ですね。最寄りの駅はどこになりますか？	general,hotel,taxi
+69	5	SYSTEM	最寄りの駅は、愛子駅です。ただ、愛子駅からはタクシーで１５分ほどかかります。	general,hotel,taxi
+69	6	USER	じゃあタクシーも調べてもらえますかね？キャシュレスが使えるところを紹介してください。	general,hotel,taxi
+69	7	SYSTEM	かしこまりました。仙台でキャッシュレス対応のタクシー会社は１５件ございます。ジャンボタクシーのご利用予定などはございますでしょうか？	general,hotel,taxi
+69	8	USER	普通のタクシーでいいです。どこか一つ会社を教えてください。	general,hotel,taxi
+69	9	SYSTEM	承知いたしました。それでしたら、（株）フタバタクシーはいかがでしょうか。	general,hotel,taxi
+69	10	USER	そこでいいので、3月20日にホテルニュー水戸屋 アネックスを13時30分に出て、伝承千年の宿 佐勘までのタクシーを予約してください。	general,hotel,taxi
+69	11	SYSTEM	かしこまりました。3月20日13時30分発、ホテルニュー水戸屋 アネックスから伝承千年の宿 佐勘まででご予約を承りました。予約番号をお伝えしてよろしいですか？	general,hotel,taxi
+69	12	USER	お願いします。	general,hotel,taxi
+69	13	SYSTEM	はい。予約番号は、10706となります。よろしくお願いします。	general,hotel,taxi
+69	14	USER	お手数をおかけしました。お世話様でした。	general,hotel,taxi
+69	15	SYSTEM	こちらこそ、ご予約ありがとうございました。他にお手伝いできることはございませんか？	general,hotel,taxi
+69	16	USER	今日のところはこれで十分です。ありがとうございました。	general,hotel,taxi

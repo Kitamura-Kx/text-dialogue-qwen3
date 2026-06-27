@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3352	0	USER	横浜への旅行を計画中で、文房具・雑貨の買い物ができる施設を探しています。	general,shopping,restaurant,taxi
+3352	1	SYSTEM	横浜の文房具店はヒットしませんでした。	general,shopping,restaurant,taxi
+3352	2	USER	分かりました。それでは、横浜にあるショッピングモールを教えてください。	general,shopping,restaurant,taxi
+3352	3	SYSTEM	横浜ワールドポーターズ モザイクモール港北 MARK IS みなとみらい　など14件ございます。	general,shopping,restaurant,taxi
+3352	4	USER	横浜ワールドポーターズにしようと思います。最寄駅からの所要時間と、住所を教えてください。	general,shopping,restaurant,taxi
+3352	5	SYSTEM	みなとみらい駅が最寄り駅で、徒歩で5分です。住所は神奈川県横浜市中区新港2丁目2-1です。	general,shopping,restaurant,taxi
+3352	6	USER	ありがとうございます。当日予算が普通で、カレーを食べられるお店があれば、教えてください。	general,shopping,restaurant,taxi
+3352	7	SYSTEM	横浜でカレー、予算ふつうはヒットしませんでした。	general,shopping,restaurant,taxi
+3352	8	USER	分かりました。では、ジャンルは何でも構いません。	general,shopping,restaurant,taxi
+3352	9	SYSTEM	58件ございますが、横浜すきずきや ゑびす鯛 横浜店　などはいかがでしょうか。	general,shopping,restaurant,taxi
+3352	10	USER	ゑびす鯛 横浜店にしようと思います。どうもありがとうございます。	general,shopping,restaurant,taxi
+3352	11	SYSTEM	とんでもないです。	general,shopping,restaurant,taxi
+3352	12	USER	当日ジャンボタクシーを利用したいのですが、可能でしょうか。	general,shopping,restaurant,taxi
+3352	13	SYSTEM	横浜ではジャンボタクシー対応のタクシー会社は見つかりませんでした。	general,shopping,restaurant,taxi
+3352	14	USER	分かりました。ではジャンボタクシーでなくても結構です。横浜ワールドポーターズからゑびす鯛 横浜店まで移動できるタクシー会社を探しています。	general,shopping,restaurant,taxi
+3352	15	SYSTEM	金港交通株式会社 港南台営業所はいかがですか？予約いたしましょうか？	general,shopping,restaurant,taxi
+3352	16	USER	はい、6/17の16:00で予約をお願いします。予約した会社の電話番号と、キャッシュレス対応の有無も教えていただきたいです。	general,shopping,restaurant,taxi
+3352	17	SYSTEM	キャッシュレス対応については不明です。予約完了しました。予約番号は35093です。	general,shopping,restaurant,taxi
+3352	18	USER	ありがとうございます。タクシー会社の電話番号はわかりますか？	general,shopping,restaurant,taxi
+3352	19	SYSTEM	0457526500です。	general,shopping,restaurant,taxi
+3352	20	USER	非常に助かります。ありがとうございます。	general,shopping,restaurant,taxi
+3352	21	SYSTEM	今後ともよろしくお願いいたします。	general,shopping,restaurant,taxi
+3352	22	USER	それでは、失礼します。	general,shopping,restaurant,taxi

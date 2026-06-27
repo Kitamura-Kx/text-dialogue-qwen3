@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+352	0	USER	今度札幌にいくのですが、どこか観光できるところを探しています。	general,attraction,weather
+352	1	SYSTEM	札幌の観光名所ですね。48件ほどご案内できますが、何かご希望の条件はございませんか？	general,attraction,weather
+352	2	USER	最寄り駅が北12条駅で、駐車場を無料のところはありますか？	general,attraction,weather
+352	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できる場所が見つかりませんでした。	general,attraction,weather
+352	4	USER	でしたら、最寄り駅はこだわりません。	general,attraction,weather
+352	5	SYSTEM	ありがとうございます。では、白い恋人パークというところはいかがでしょうか？	general,attraction,weather
+352	6	USER	そこに行ってみます。営業時間と料金情報を教えていただけますか？	general,attraction,weather
+352	7	SYSTEM	はい。営業時間は、10:00～17:00です。料金は、大人入場料800円、子供入場料400円となっております。	general,attraction,weather
+352	8	USER	ありがとうございます。あと、当日のお天気なのですが。4/11の東区の天候を調べていただけませんか？	general,attraction,weather
+352	9	SYSTEM	はい、かしこまりました。当日の天気は、晴れのち曇りの予報です。最高気温は8.1度、最低気温はマイナス1.5度まで下がる見込みです。	general,attraction,weather
+352	10	USER	ありがとうございます。以上になります、お世話になりました。	general,attraction,weather
+352	11	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,attraction,weather

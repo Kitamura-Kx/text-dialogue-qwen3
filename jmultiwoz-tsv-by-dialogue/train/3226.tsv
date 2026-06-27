@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3226	0	USER	仙台へ旅行に行く予定をしているので、天気を調べて頂けますか？	general,weather,taxi
+3226	1	SYSTEM	はい。日付と場所の指定はございますか？	general,weather,taxi
+3226	2	USER	7/21の青葉区なのですが、この日の天気と最高気温はどのくらいか分かりますか？	general,weather,taxi
+3226	3	SYSTEM	かしこまりました。天気は曇のち雨で、最高気温は20.3度になる見込みです。	general,weather,taxi
+3226	4	USER	ありがとうございます。この日に利用するタクシー会社を探しているのですが、キャッシュレス払いが可能な会社はありますか？	general,weather,taxi
+3226	5	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,weather,taxi
+3226	6	USER	残念です。それではキャッシュレスではなくてもいいので、探してください。	general,weather,taxi
+3226	7	SYSTEM	かしこまりました。では、稲荷タクシー（有）はいかがでしょうか？	general,weather,taxi
+3226	8	USER	はい。稲荷タクシー（有）は、ジャンボタクシーにも対応していますか。電話番号もお願いします。	general,weather,taxi
+3226	9	SYSTEM	はい、対応しております。電話番号は0222411121です。	general,weather,taxi
+3226	10	USER	それでは7/21に配車予約を取ってください。09:50にポムの樹 ララガーデン長町店から出発、目的地はスーパースポーツゼビオ 仙台泉中央店を予定しています。	general,weather,taxi
+3226	11	SYSTEM	午前09:50でよろしかったですか？	general,weather,taxi
+3226	12	USER	はい、午前です。	general,weather,taxi
+3226	13	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,weather,taxi
+3226	14	USER	そうですね、それでは時間を10:50にずらしたら予約は取れますか？	general,weather,taxi
+3226	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、41404です。	general,weather,taxi
+3226	16	USER	ありがとうございます。	general,weather,taxi
+3226	17	SYSTEM	ほかにお調べすることはありますか？	general,weather,taxi
+3226	18	USER	これで以上です、ありがとうございました。	general,weather,taxi
+3226	19	SYSTEM	承知しました。ありがとうございました。	general,weather,taxi

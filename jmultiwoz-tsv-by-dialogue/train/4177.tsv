@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4177	0	USER	名古屋のシティホテルを探しています。wifiが無料で、最寄りが丸の内駅のところはありますか？	general,hotel,attraction,taxi
+4177	1	SYSTEM	名古屋のホテルですね、1件みつかりました。　アイリス愛知はいかがですか？	general,hotel,attraction,taxi
+4177	2	USER	そこの予約をしたいです。11月6日から4泊分お願いします。人数は3人です。	general,hotel,attraction,taxi
+4177	3	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。　どうされますか？	general,hotel,attraction,taxi
+4177	4	USER	では、人数を2人に減らしてください。	general,hotel,attraction,taxi
+4177	5	SYSTEM	予約出来ました。予約番号は、79014です。	general,hotel,attraction,taxi
+4177	6	USER	ありがとうございます。当日観光するところも決めたいのですが、ワークショップや体験などができるところはありますか？	general,hotel,attraction,taxi
+4177	7	SYSTEM	それでしたら、名古屋市農業センターdelaふぁーむがおすすめですよ。	general,hotel,attraction,taxi
+4177	8	USER	そこは駐車場は無料ですか？	general,hotel,attraction,taxi
+4177	9	SYSTEM	はい、駐車場は無料駐車場が利用できます。	general,hotel,attraction,taxi
+4177	10	USER	そこにします。大人の入場料はいくらですか？	general,hotel,attraction,taxi
+4177	11	SYSTEM	大人の入場料は、無料となっています。	general,hotel,attraction,taxi
+4177	12	USER	分かりました。当日のタクシーもこのまま探したいです。キャッシュレス払いできる会社でお願いします。	general,hotel,attraction,taxi
+4177	13	SYSTEM	それでしたら、名鉄西部交通西部はいかがですか？	general,hotel,attraction,taxi
+4177	14	USER	ありがとうございます。11月6日の11時40分から予約をお願いします。アイリス愛知から名古屋市農業センターdelaふぁーむまででお願いします。	general,hotel,attraction,taxi
+4177	15	SYSTEM	申し訳ありません、その条件では、予約出来ませんでした。	general,hotel,attraction,taxi
+4177	16	USER	時間を12時40分からにするとどうですか？	general,hotel,attraction,taxi
+4177	17	SYSTEM	予約出来ました。予約番号は、62052となります。	general,hotel,attraction,taxi
+4177	18	USER	ありがとうございました。	general,hotel,attraction,taxi
+4177	19	SYSTEM	他にご用件はありますか？	general,hotel,attraction,taxi
+4177	20	USER	特に無いです。	general,hotel,attraction,taxi
+4177	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction,taxi

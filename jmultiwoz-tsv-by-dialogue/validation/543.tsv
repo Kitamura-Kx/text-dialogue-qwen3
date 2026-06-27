@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+543	0	USER	福岡への旅行を計画しているのですが、当日買い物ができる場所を探してください。	general,shopping
+543	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,shopping
+543	2	USER	最寄り駅が香椎駅で、駐車場を無料で利用できるところがよいのですが、ありますでしょうか。	general,shopping
+543	3	SYSTEM	はい、1件ございました。トイザらス福岡香椎店という、おもちゃのお店ですが、いかがでしょうか？	general,shopping
+543	4	USER	行ってみたいと思います。電話番号とエリアを教えてください。	general,shopping
+543	5	SYSTEM	ありがとうございます。電話番号は、0926736311です。エリアは、東区にございます。	general,shopping
+543	6	USER	ありがとうございました。	general,shopping

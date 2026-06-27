@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4679	0	USER	大阪で宿を探しているのですが駐車場が無料でジャンルが簡易宿所で安めがいいのですが	general,hotel,weather
+4679	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,hotel,weather
+4679	2	USER	では宿のタイプはなんでも大丈夫です	general,hotel,weather
+4679	3	SYSTEM	ありがとうございます。では、エリアでいうと港区にある、ビジネス旅館 励明園はいかがでしょう？タイプは、旅館となります。	general,hotel,weather
+4679	4	USER	では付近の駅からの所有時間と宿の料金を聞きたいのですが	general,hotel,weather
+4679	5	SYSTEM	はい、最寄りの大阪港駅から徒歩で3分となります。料金については、値段帯が安め、ということ以外、ご案内可能な料金情報はございません。	general,hotel,weather
+4679	6	USER	では当日11/4の住之江区の最高気温を知りたいのですが	general,hotel,weather
+4679	7	SYSTEM	はい、天気は曇のち晴、最低気温6.9度、最高気温23.4度となります。	general,hotel,weather
+4679	8	USER	かしこまりました以上で終わります	general,hotel,weather

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4733	0	USER	東京旅行を計画してて、郷土料理を食べれる普通の値段位の店を調べてくれますか？Wi-Fiが無料で使えるところがいいです。	general,restaurant
+4733	1	SYSTEM	1件みつかりました。沖縄パラダイス 新宿歌舞伎町店はいかがですか？	general,restaurant
+4733	2	USER	そこにします。料金情報と駐車場の有無を教えてください。あと、電話番号もお願いします。	general,restaurant
+4733	3	SYSTEM	料金情報は、イチャリバ(出会い)コース4300円、ゴーヤとチーズのとろり揚げ650円、ラフテー　900円です。　電話番号は、0332021639になります。	general,restaurant
+4733	4	USER	なるほど。駐車場はありますか？	general,restaurant
+4733	5	SYSTEM	申し訳ありません、駐車場は無しとなっています。	general,restaurant
+4733	6	USER	了解です。ではそちらで4人、1/14の13:40から予約お願いします。	general,restaurant
+4733	7	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,restaurant
+4733	8	USER	では、人数を3人に変更お願いします。	general,restaurant
+4733	9	SYSTEM	予約が完了しました。　予約番号は、31889です。	general,restaurant
+4733	10	USER	ありがとうございました。	general,restaurant
+4733	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant

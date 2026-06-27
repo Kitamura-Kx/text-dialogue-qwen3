@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1846	0	USER	京都で買い物をしたいんですが、PAPABUBBLE 大丸京都店というところは調べられますか？	general,shopping,attraction
+1846	1	SYSTEM	はいございますよ。ジャンルはお土産, 食料品となっております。	general,shopping,attraction
+1846	2	USER	良かった、定休日を知りたいんですけど。	general,shopping,attraction
+1846	3	SYSTEM	はい。定休日はありません。	general,shopping,attraction
+1846	4	USER	それは良かったです。えっと祇園四条駅の近くで神社家事員などの観光名所を見つけてもらえませんか？駐車場が無料の所を探してほしいんですけど。	general,shopping,attraction
+1846	5	SYSTEM	神社か寺院の観光名所でよろしかったでしょうか？それであれば、安井金比羅宮はいかがでしょうか。ジャンルは神社・寺院・教会・モニュメントなど、となっております。	general,shopping,attraction
+1846	6	USER	金毘羅さんですか、いいですね。料金情報を教えてください。特に子供の入場料があるなら知りたいです。あと電話番号も聞いておきたいです。	general,shopping,attraction
+1846	7	SYSTEM	はい。大人も子供も入場料は無料となっております。電話番号は0755615127でございます。	general,shopping,attraction
+1846	8	USER	変な文字間違いしちゃってすみませんでした。よく調べていただけて助かりました。ありがとうございました。	general,shopping,attraction

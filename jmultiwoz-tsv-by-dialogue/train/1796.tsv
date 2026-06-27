@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1796	0	USER	横浜に旅行を考えています。	general,restaurant,shopping,weather
+1796	1	SYSTEM	横浜のご旅行ですね。本日はどのようなお手伝いをいたしましょうか？	general,restaurant,shopping,weather
+1796	2	USER	飲食店を探しています。駐車場は無料がいいです。	general,restaurant,shopping,weather
+1796	3	SYSTEM	では、松葉寿しはいかがでしょうか？保土ケ谷区エリアにある、ジャンルが寿司・魚料理, うどん・そばのお店となります。	general,restaurant,shopping,weather
+1796	4	USER	Wi-Fiはありますか？電話番号も知りたいです。	general,restaurant,shopping,weather
+1796	5	SYSTEM	申し訳ありません。WiFiの有無は不明となっております。電話番号は、0453812077です。	general,restaurant,shopping,weather
+1796	6	USER	わかりました。そのお店に1月３日１２：５０、３人で予約をお願いします。	general,restaurant,shopping,weather
+1796	7	SYSTEM	ご予約ありがとうございます。予約番号46805にて、予約を完了いたしました。	general,restaurant,shopping,weather
+1796	8	USER	ありがとうございます。あと、当日買い物ができるところを探しています。Augusta Milk Farm 相澤良牧場というところです。	general,restaurant,shopping,weather
+1796	9	SYSTEM	はい、瀬谷区に1件、該当のお店がございます。食料品ジャンルのお店でよろしかったでしょうか？	general,restaurant,shopping,weather
+1796	10	USER	はい、大丈夫です。近辺の駅からはどれぐらいかかりますか？	general,restaurant,shopping,weather
+1796	11	SYSTEM	最寄りのいずみ野駅からバスで11分、三ツ境駅からはバスで19分ほどかかります。	general,restaurant,shopping,weather
+1796	12	USER	わかりました。電話番号と住所もお願いします。	general,restaurant,shopping,weather
+1796	13	SYSTEM	電話番号は、0454896211です。住所は、神奈川県横浜市瀬谷区阿久和南3丁目11-11でございます。	general,restaurant,shopping,weather
+1796	14	USER	ありがとうございます。	general,restaurant,shopping,weather
+1796	15	SYSTEM	他になにかお調べすることはございますか？	general,restaurant,shopping,weather
+1796	16	USER	当日の鶴見区の天気が知りたいです。	general,restaurant,shopping,weather
+1796	17	SYSTEM	恐れ入ります。お調べするお日にちを、もう一度伺ってもよろしいでしょうか？	general,restaurant,shopping,weather
+1796	18	USER	ごめんなさい。1月3日です。	general,restaurant,shopping,weather
+1796	19	SYSTEM	かしこまりました。当日の天気は、晴のち曇の予報となっております。最低気温は8.8度、最高気温は11.4度の予想です。	general,restaurant,shopping,weather
+1796	20	USER	わかりました！ありがとうございます。	general,restaurant,shopping,weather
+1796	21	SYSTEM	他になにかお調べすることはございますか？	general,restaurant,shopping,weather
+1796	22	USER	もう大丈夫です。	general,restaurant,shopping,weather
+1796	23	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,shopping,weather

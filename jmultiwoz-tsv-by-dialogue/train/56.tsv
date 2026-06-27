@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+56	0	USER	名古屋に行きたいんですが、おうかがいしたいことがありまして。	general,shopping
+56	1	SYSTEM	名古屋ですね、どういったことでしょう？	general,shopping
+56	2	USER	ショッピングしたいので、そのお店を探してもらえますか？	general,shopping
+56	3	SYSTEM	承知致しました。 エリアやジャンルのご希望はございますか？	general,shopping
+56	4	USER	西区の近くだと、お店は見つかりそうですか？	general,shopping
+56	5	SYSTEM	西区には4件ございます。 イオンタウン名西、ベビーザらス 名西店、名古屋モゾ ワンダーシティ、エコライフショップマジックマーマです。	general,shopping
+56	6	USER	名古屋モゾ ワンダーシティに行ってみたいです。駅からだと離れてるんでしょうか？	general,shopping
+56	7	SYSTEM	最寄り駅は小田井駅で、徒歩で10分となっておりますが、上小田井駅から徒歩で5分のようです。	general,shopping
+56	8	USER	分かりました。今日聞きたかったことは、それだけです。	general,shopping
+56	9	SYSTEM	他にご用件はございますか？	general,shopping
+56	10	USER	もう大丈夫です。今日はありがとうございました。	general,shopping
+56	11	SYSTEM	承知致しました。ありがとうございました。	general,shopping

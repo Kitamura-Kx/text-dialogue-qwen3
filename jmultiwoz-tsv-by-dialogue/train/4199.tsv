@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4199	0	USER	札幌への旅行を考えています。キャッシュレス対応しているタクシー会社を教えてください。	general,taxi
+4199	1	SYSTEM	かしこまりました。それではダイコク交通(株)はいかがでしょうか？	general,taxi
+4199	2	USER	そちらではジャンボタクシーをお願いすることは出来ますか？	general,taxi
+4199	3	SYSTEM	はい、ジャンボタクシーにも対応しております。	general,taxi
+4199	4	USER	では、予約をお願いします。９月１３日の１３時４０分、しゃぶしゃぶ温野菜 すすきの南4条店発、赤れんがテラス着でお願いします。	general,taxi
+4199	5	SYSTEM	お待たせ致しました。予約番号36985でお取りさせていただきました。	general,taxi
+4199	6	USER	ありがとうございました。	general,taxi

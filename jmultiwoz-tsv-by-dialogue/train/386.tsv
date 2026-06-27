@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+386	0	USER	すみません、札幌に旅行へ行く予定で豊平区の観光名所を探しています。	general,attraction,weather
+386	1	SYSTEM	かしこまりました。さっぽろ羊ヶ丘展望台というところがありますがいかがでしょうか。	general,attraction,weather
+386	2	USER	駐車場が無料で利用できてWi-Fiも無料で使えるところがいいのですが、そこは当てはまりますか？	general,attraction,weather
+386	3	SYSTEM	はい。どちらも無料でお使いいただけます。	general,attraction,weather
+386	4	USER	ではそこに行きたいと思うので、最寄り駅を教えてください。	general,attraction,weather
+386	5	SYSTEM	福住駅でございます。	general,attraction,weather
+386	6	USER	ありがとうございます。あと5/28の中央区の天気を調べてもらえますか？	general,attraction,weather
+386	7	SYSTEM	天気は晴、最低気温は7.5度、最高気温は17.1度でございます。	general,attraction,weather
+386	8	USER	ありがとうございます。	general,attraction,weather
+386	9	SYSTEM	ほかにご用件はございませんか。	general,attraction,weather
+386	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,weather
+386	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

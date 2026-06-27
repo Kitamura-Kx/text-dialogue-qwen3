@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3326	0	USER	那覇への旅行を計画中で、リゾートホテルを探しています。	general,hotel,weather
+3326	1	SYSTEM	かしこまりました。お調べしましたところ、沖縄逸の彩 温泉リゾートホテルを含む14件該当ございます。いかがいたしましょうか？	general,hotel,weather
+3326	2	USER	沖縄逸の彩 温泉リゾートホテルにしようと思います。9/7に2名で4泊予約して欲しいのですが、可能でしょうか。	general,hotel,weather
+3326	3	SYSTEM	申し訳ございません、頂いた条件ですと予約が取れませんでした。いかがいたしましょうか？	general,hotel,weather
+3326	4	USER	分かりました。では、人数を1名に変更してください。	general,hotel,weather
+3326	5	SYSTEM	かしこまりました。9月7日1名様、4泊でご予約が完了しました。予約番号は53805でございます。	general,hotel,weather
+3326	6	USER	ありがとうございます。9/7の本庁の天気を教えてください。	general,hotel,weather
+3326	7	SYSTEM	雨のち曇、でございます。	general,hotel,weather
+3326	8	USER	ありがとうございます。助かります。	general,hotel,weather
+3326	9	SYSTEM	他にご用命ございますか？	general,hotel,weather
+3326	10	USER	いえ、大丈夫です。ありがとうございました。	general,hotel,weather
+3326	11	SYSTEM	ありがとうございました。	general,hotel,weather
+3326	12	USER	では、失礼します。	general,hotel,weather

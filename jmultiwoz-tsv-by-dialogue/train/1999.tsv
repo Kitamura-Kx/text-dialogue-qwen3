@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1999	0	USER	東京への旅行を計画しているのですが。 当日泊まる宿泊施設を探してください．レストランが併設されているところで予算は安めが希望です．	general,hotel
+1999	1	SYSTEM	ロイヤルパークホテルはいかがでしょうか。	general,hotel
+1999	2	USER	そちらのチェックイン開始時刻，料金情報を教えていただけますか。	general,hotel
+1999	3	SYSTEM	チェックイン開始時刻は15:00で料金情報は不明です。	general,hotel
+1999	4	USER	ありがとうございます。	general,hotel

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+796	0	USER	こんにちは。大阪へ行こうと思ってるんですが。無料で駐車できるコンビニはありますか？	general,shopping,taxi
+796	1	SYSTEM	はい、1件ございます。大阪シティエアターミナルというところですが、いかがでしょうか？	general,shopping,taxi
+796	2	USER	いいですね。最寄り駅はどちらになりますか？	general,shopping,taxi
+796	3	SYSTEM	難波駅になります。	general,shopping,taxi
+796	4	USER	分かりました。続いてタクシー会社を予約したいんですが。ジャンボタクシーを利用できる会社を探して欲しいです。	general,shopping,taxi
+796	5	SYSTEM	かしこまりました。では、大宝タクシー株式会社は如何でしょうか？	general,shopping,taxi
+796	6	USER	そちらでお願いします。ちなみに、キャッシュレス対応はされてますか？あと、電話番号も教えてください。	general,shopping,taxi
+796	7	SYSTEM	対応しております。電話番号は、0647020011です。	general,shopping,taxi
+796	8	USER	完璧です！では8/16の10:40で予約をお願いします。出発は大阪シティエアターミナルから、目的地は生ラム肉専門店 らむ屋です。	general,shopping,taxi
+796	9	SYSTEM	かしこまりました。ご予約ありがとうございます。予約番号86786にて、承りました。	general,shopping,taxi
+796	10	USER	ありがとうございます！助かりました。	general,shopping,taxi

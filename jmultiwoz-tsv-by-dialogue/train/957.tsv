@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+957	0	USER	札幌で泊まれる場所を探しています。無料で駐車できて、宿泊料も普通ぐらいのホテルはありますか？	general,hotel
+957	1	SYSTEM	かしこまりました。ではJRタワーホテル日航札幌はいかがでしょうか。	general,hotel
+957	2	USER	ちなみに、そちらのホテルはWifi無料ですか？	general,hotel
+957	3	SYSTEM	はい。無料でお使いいただけます。	general,hotel
+957	4	USER	それはいいですね。ホテルの住所も教えてください。	general,hotel
+957	5	SYSTEM	住所は北海道札幌市中央区北5条西2丁目5番地でございます。	general,hotel
+957	6	USER	では10/27から3泊の予約をお願いします。宿泊人数は2名です。	general,hotel
+957	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は50576でございます。	general,hotel
+957	8	USER	ありがとうございました！助かります。	general,hotel

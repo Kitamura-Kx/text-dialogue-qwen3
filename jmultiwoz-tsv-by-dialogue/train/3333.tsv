@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3333	0	USER	仙台への旅行を計画中で、飲食店を探しています。	general,restaurant,weather
+3333	1	SYSTEM	かしこまりました。仙台の飲食店ですと100件以上の候補がございます。ご希望の条件などございますか？	general,restaurant,weather
+3333	2	USER	はい、無料Wi-fi付きで、予算は高めがいいです。	general,restaurant,weather
+3333	3	SYSTEM	承知いたしました。そうしますと、黒毛和牛一頭切り 伊達哉の１件が該当しました。いかがでしょうか？	general,restaurant,weather
+3333	4	USER	黒毛和牛一頭切り 伊達哉にしようと思います。営業時間を教えてください。	general,restaurant,weather
+3333	5	SYSTEM	かしこまりました。営業時間は、17:00～23:00となっております。	general,restaurant,weather
+3333	6	USER	ありがとうございます。6/13の太白区の天気と最低気温を教えてください。	general,restaurant,weather
+3333	7	SYSTEM	かしこまりました。お天気は雨時々晴です。最低気温は、21.8度でございます。	general,restaurant,weather
+3333	8	USER	助かります。ありがとうございます。	general,restaurant,weather
+3333	9	SYSTEM	ありがとうございました。	general,restaurant,weather
+3333	10	USER	では、失礼します。	general,restaurant,weather

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3248	0	USER	福岡への旅行を検討しています。当日買い物が出来る施設を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,shopping,weather
+3248	1	SYSTEM	はい、ご希望をおきかせください	general,shopping,weather
+3248	2	USER	はい、最寄り駅が博多駅で、駐車場を無料で利用出来れば最高なのですが、何処か該当する施設はありますか？	general,shopping,weather
+3248	3	SYSTEM	博多駅で駐車場無料の買い物施設はいくつかありますが、ポケモンセンターフクオカ、こちらをオススメします。	general,shopping,weather
+3248	4	USER	そこで検討してみようと思います。このお店の定休日ってわかりますか？	general,shopping,weather
+3248	5	SYSTEM	定休日はありません	general,shopping,weather
+3248	6	USER	ありがとうございます。最後に、当日の南区の天気も知りたいのですが、よろしいでしょうか？	general,shopping,weather
+3248	7	SYSTEM	はい、日付をお願いします。	general,shopping,weather
+3248	8	USER	はい、2月16日でお願いします。	general,shopping,weather
+3248	9	SYSTEM	2/16 福岡 南区 の天気は曇です。	general,shopping,weather
+3248	10	USER	助かります。当日の最高気温も教えて頂けますか？	general,shopping,weather
+3248	11	SYSTEM	15.5度です	general,shopping,weather
+3248	12	USER	助かりました。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,shopping,weather
+3248	13	SYSTEM	よい旅を	general,shopping,weather

@@ -1,0 +1,33 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2085	0	USER	札幌への旅行を計画しているのですが、当日の宿泊先を探しています。色々お伺いしてもよろしいでしょうか？	general,hotel,restaurant,shopping
+2085	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,restaurant,shopping
+2085	2	USER	最寄り駅がロープウェイ入口停留所で、レストランが併設されている所ってありますかね？	general,hotel,restaurant,shopping
+2085	3	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,restaurant,shopping
+2085	4	USER	そうですか。では、最寄り駅は考慮しないので、レストランが併設されている所ってありますかね？	general,hotel,restaurant,shopping
+2085	5	SYSTEM	かしこまりました。では、札幌グランドホテルはいかがでしょうか？	general,hotel,restaurant,shopping
+2085	6	USER	良さそうですね。そちらのチェックイン開始時刻ってわかりますか？	general,hotel,restaurant,shopping
+2085	7	SYSTEM	はい。チェックイン開始時刻は15:00です。	general,hotel,restaurant,shopping
+2085	8	USER	ありがとうございます。それと、当日食事もしたいので、飲食店についてもお伺いしたいのですがよろしいでしょうか？	general,hotel,restaurant,shopping
+2085	9	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,restaurant,shopping
+2085	10	USER	西区で探して欲しいです。駐車場が無料だとありがたいのですが。	general,hotel,restaurant,shopping
+2085	11	SYSTEM	かしこまりました。では、ピカンティ 札幌琴似店はいかがでしょうか？	general,hotel,restaurant,shopping
+2085	12	USER	そちらのお店はどんなジャンルの料理ですかね？	general,hotel,restaurant,shopping
+2085	13	SYSTEM	はい。ジャンルはカレー, 郷土料理になります。	general,hotel,restaurant,shopping
+2085	14	USER	ありがとうございます。出来れば、このままこちらのお店を予約したいのですが、よろしいでしょうか？	general,hotel,restaurant,shopping
+2085	15	SYSTEM	かしこまりました。詳細な情報をお伺いしていいですか？	general,hotel,restaurant,shopping
+2085	16	USER	はい。1月25日の13時30分で、人数は3人でお願いしたいです。	general,hotel,restaurant,shopping
+2085	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、56511です。	general,hotel,restaurant,shopping
+2085	18	USER	ありがとうございます！それと、当日買い物もしたいのですが、こちらについても聞いても大丈夫でしょうか？	general,hotel,restaurant,shopping
+2085	19	SYSTEM	はい。ご案内させていただきます。	general,hotel,restaurant,shopping
+2085	20	USER	南区で、最寄り駅が新さっぽろ駅とかだと嬉しいです。	general,hotel,restaurant,shopping
+2085	21	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,hotel,restaurant,shopping
+2085	22	USER	そうですか、では、最寄り駅はそのままで、無料の駐車場がある所とかってありますか？	general,hotel,restaurant,shopping
+2085	23	SYSTEM	エリアは南区に指定されなくてよろしかったですか？	general,hotel,restaurant,shopping
+2085	24	USER	はい。大丈夫です。	general,hotel,restaurant,shopping
+2085	25	SYSTEM	かしこまりました。では、カテプリはいかがでしょうか？ジャンルはショッピングモールになります。エリアは厚別区です。	general,hotel,restaurant,shopping
+2085	26	USER	そちらで大丈夫です。そちらの住所をお伺いしてもよろしいですか？	general,hotel,restaurant,shopping
+2085	27	SYSTEM	はい。住所は北海道札幌市厚別区厚別中央2条5丁目7番です。	general,hotel,restaurant,shopping
+2085	28	USER	ありがとうございます。こちらの場所の近辺の駅からの所要時間とかってわかりますかね？	general,hotel,restaurant,shopping
+2085	29	SYSTEM	はい。新さっぽろ駅から徒歩で1分、また、新札幌駅から徒歩で1分となっております。	general,hotel,restaurant,shopping
+2085	30	USER	ありがとうございます。これで当日は大丈夫そうです。長々とすみません。ありがとうございました！	general,hotel,restaurant,shopping
+2085	31	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,shopping

@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2026	0	USER	東京でタクシーを利用したいのですが、ジャンボタクシーが利用できる会社ありますか？	general,taxi
+2026	1	SYSTEM	葵交通株式会社はいかがでしょう？キャッシュレスにも対応しております。電話番号は0570550555となります。	general,taxi
+2026	2	USER	ありがとうございます。９月１０日の14:40に国立新美術館から芝公園まで、そちらのタクシーを予約お願いできますか？	general,taxi
+2026	3	SYSTEM	予約が完了し、ご予約番号は、6715となります。他にご案内できることはございますか？	general,taxi
+2026	4	USER	大丈夫です。ありがとうございました。	general,taxi
+2026	5	SYSTEM	ありがとうございました。	general,taxi

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3103	0	USER	東京でWi-Fiと駐車場が無料の観光名所を探しています。	general,attraction,taxi
+3103	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,taxi
+3103	2	USER	ではWi-Fiはなくても大丈夫です。	general,attraction,taxi
+3103	3	SYSTEM	ありがとうございます。では、エリアでいうと港区にある、根津美術館はいかがでしょう？ジャンルは、美術館、博物館となります。	general,attraction,taxi
+3103	4	USER	そこにします。電話番号も教えてほしいです。	general,attraction,taxi
+3103	5	SYSTEM	はい、電話番号は、0334002536となります。	general,attraction,taxi
+3103	6	USER	ありがとうございます。そこに行くまでのジャンボタクシーも探しています。	general,attraction,taxi
+3103	7	SYSTEM	では、高鉄交通はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0120617212となります。	general,attraction,taxi
+3103	8	USER	ありがとうございます。そのタクシーを12/4の14：30にグラスファクトリー 創吉から予約したいです。	general,attraction,taxi
+3103	9	SYSTEM	承知しました。目的地はいかがされますか？	general,attraction,taxi
+3103	10	USER	さきほどの根津美術館までお願いします。	general,attraction,taxi
+3103	11	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、62438となります。他にご用件はございますか？	general,attraction,taxi
+3103	12	USER	ありがとうございます。大丈夫です。	general,attraction,taxi
+3103	13	SYSTEM	ありがとうございました。	general,attraction,taxi

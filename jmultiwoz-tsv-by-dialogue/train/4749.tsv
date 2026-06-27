@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4749	0	USER	大阪へ旅行予定で、中央区で宿泊施設を探しています。レストランがあるとうれしいのですが、どこかいいところありませんか？	general,hotel
+4749	1	SYSTEM	承知しました。では、大阪エクセルホテル東急はいかがでしょう？タイプはシティホテルとなります。	general,hotel
+4749	2	USER	いいですね。4人で1/19から2泊の予約を取りたいです。	general,hotel
+4749	3	SYSTEM	承知しました。予約が完了し、ご予約番号は、20915 となります。	general,hotel
+4749	4	USER	ありがとうございます。	general,hotel
+4749	5	SYSTEM	ありがとうございました。	general,hotel

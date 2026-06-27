@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3670	0	USER	こんにちは。福岡での飲食店を探しています。	general,restaurant,hotel
+3670	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,restaurant,hotel
+3670	2	USER	博多区で、Wi-Fiが無料で利用できるところがいいです。予算は普通が希望です。	general,restaurant,hotel
+3670	3	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,hotel
+3670	4	USER	では、地区を南区にします。	general,restaurant,hotel
+3670	5	SYSTEM	かしこまりました。では、古民家居酒屋こまちはいかがでしょうか？	general,restaurant,hotel
+3670	6	USER	ありがとうございます。住所と営業時間、あと近くの駅からの所要時間は分かりますか？	general,restaurant,hotel
+3670	7	SYSTEM	はい。住所は福岡県福岡市南区大橋2丁目2-11 1Fです。営業時間は17:00～23:00となっております。また、最寄りの大橋駅から徒歩で3分です。	general,restaurant,hotel
+3670	8	USER	分かりました、ありがとうございます。あと、当日の宿泊施設を探しています。	general,restaurant,hotel
+3670	9	SYSTEM	かしこまりました。では、スマイルホテル博多はいかがでしょうか？	general,restaurant,hotel
+3670	10	USER	予算は高めで、レストランが併設されているところがいいのですが、そちらはあてはまりますか？	general,restaurant,hotel
+3670	11	SYSTEM	かしこまりました。では、グランド ハイアット 福岡はいかがでしょうか？	general,restaurant,hotel
+3670	12	USER	ありがとうございます。そちらのエリアとチェックイン開始時間を教えていただけますか？	general,restaurant,hotel
+3670	13	SYSTEM	はい。エリアは博多区で、チェックイン開始時間は15:00となっております。	general,restaurant,hotel
+3670	14	USER	ありがとうございます。以上です、お世話になりました。	general,restaurant,hotel
+3670	15	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel

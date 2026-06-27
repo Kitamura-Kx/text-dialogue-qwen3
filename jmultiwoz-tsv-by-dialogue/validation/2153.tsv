@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2153	0	USER	こんにちは。名古屋へ行くので、中村区の駐車場が無料の買い物ができるところを教えていただけますか？	general,shopping,hotel,weather
+2153	1	SYSTEM	お待たせ致しました。それではタカシマヤ ゲートタワーモールはいかがでしょうか？	general,shopping,hotel,weather
+2153	2	USER	いいですね、そこへ行きます。近辺の駅からの所要時間と最寄り駅をお願いします。	general,shopping,hotel,weather
+2153	3	SYSTEM	かしこまりました。最寄りの駅は名古屋駅でして、名古屋駅から徒歩で1分、名鉄名古屋駅から徒歩で1分、近鉄名古屋駅から徒歩で1分という感じです。	general,shopping,hotel,weather
+2153	4	USER	近いですね、ありがとうございます。宿泊施設も探してて、熱田区の安め設定で、Wi-Fiが無料のところをお願いできますか？	general,shopping,hotel,weather
+2153	5	SYSTEM	かしこまりました。それでは、コンフォートホテル名古屋金山はいかがでしょうか？	general,shopping,hotel,weather
+2153	6	USER	そちらの最寄り駅はどこですか？	general,shopping,hotel,weather
+2153	7	SYSTEM	金山駅でございます。	general,shopping,hotel,weather
+2153	8	USER	ありがとうございます。では予約もお願いしたいです。6/6から3泊で、4名です。	general,shopping,hotel,weather
+2153	9	SYSTEM	お待たせ致しました。予約番号82993でお取りさせていただきました。	general,shopping,hotel,weather
+2153	10	USER	ありがとうございます。それからすみませんが、中区の6/6の天気と最低気温を教えていただけますか？	general,shopping,hotel,weather
+2153	11	SYSTEM	かしこまりました。当日の天気は雨時々曇、最低気温は17.9度の予報です。	general,shopping,hotel,weather
+2153	12	USER	ありがとうございました。助かりました。これでお願いしたいことは全部です。	general,shopping,hotel,weather
+2153	13	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,hotel,weather

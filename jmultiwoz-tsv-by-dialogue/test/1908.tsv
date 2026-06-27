@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1908	0	USER	仙台へ旅行予定なので、若林区で買い物ができるところを探しています。駐車場無料だとうれしいです。	general,shopping,restaurant
+1908	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant
+1908	2	USER	そうですか。でしたら泉区ではいかがでしょうか？	general,shopping,restaurant
+1908	3	SYSTEM	かしこまりました。ではスポーツデポ 仙台泉店はいかがでしょうか。	general,shopping,restaurant
+1908	4	USER	ありがとうございます、行ってみますので、電話番号，営業時間，定休日を教えてもらえますか？	general,shopping,restaurant
+1908	5	SYSTEM	電話番号は0227763981で、営業時間は10:00～21:00、定休日は無しでございます。	general,shopping,restaurant
+1908	6	USER	ありがとうございます。飲食店も探しています。予算は高めでいいので、Wi-Fiが無料で、あおば通駅が最寄のお店を探していただけますか？	general,shopping,restaurant
+1908	7	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant
+1908	8	USER	そうですか。それでは最寄り駅はあおば通駅でなくてもいいので、Wi-Fiが無料の所をお願いします。	general,shopping,restaurant
+1908	9	SYSTEM	では黒毛和牛一頭切り 伊達哉はいかがでしょうか。	general,shopping,restaurant
+1908	10	USER	美味しそうですね。そこにしますので、近辺の駅からの所要時間，電話番号，営業時間を教えてください。	general,shopping,restaurant
+1908	11	SYSTEM	仙台駅から徒歩で3分、電話番号は0222995106、営業時間は17:00～23:00でございます。	general,shopping,restaurant
+1908	12	USER	ありがとうございます。予約もお願いしたいです。9/1で12:10から、4名でお願いします。	general,shopping,restaurant
+1908	13	SYSTEM	予約が完了いたしました。予約番号は688でございます。	general,shopping,restaurant
+1908	14	USER	助かりました。どうもありがとうございました。	general,shopping,restaurant
+1908	15	SYSTEM	ほかにご用件はございますか。	general,shopping,restaurant
+1908	16	USER	いえ、大丈夫です。どうもありがとうございました。	general,shopping,restaurant
+1908	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant

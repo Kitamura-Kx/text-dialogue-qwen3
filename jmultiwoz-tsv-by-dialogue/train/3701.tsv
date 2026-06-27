@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3701	0	USER	京都へ旅行に移行と思っています。当日買い物ができるところを探しています。地区は南区でジャンルはスポーツで駐車場は無料が希望です、	general,shopping,taxi,weather
+3701	1	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,shopping,taxi,weather
+3701	2	USER	でしたら、駐車場はなくても良いです。	general,shopping,taxi,weather
+3701	3	SYSTEM	なら、ABC−MART 京都アバンティ店はいかがですか？	general,shopping,taxi,weather
+3701	4	USER	そこが良さそうですね。あと当日利用できるタクシー会社を探しています。ジャンボタクシーが利用できるところが希望です。	general,shopping,taxi,weather
+3701	5	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,shopping,taxi,weather
+3701	6	USER	でしたら、ジャンボタクシーはなくても良いです。	general,shopping,taxi,weather
+3701	7	SYSTEM	では、比叡山観光タクシー株式会社はどうですか？	general,shopping,taxi,weather
+3701	8	USER	そこはキャッシュレス対応でしょうか？あとそこの電話番号を教えてください。	general,shopping,taxi,weather
+3701	9	SYSTEM	キャッシュレス対応は不明です。あと、電話番号は0757221701になります。	general,shopping,taxi,weather
+3701	10	USER	そこに予約をしたいので日付は12/12時間は10:00で出発地はABC−MART 京都アバンティ店で目的地はモンベル 京都店でお願いします。	general,shopping,taxi,weather
+3701	11	SYSTEM	午前10時でよろしかったですか？	general,shopping,taxi,weather
+3701	12	USER	はい。	general,shopping,taxi,weather
+3701	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、20538 です。	general,shopping,taxi,weather
+3701	14	USER	あと当日12/12の中京区の最高気温を教えてください。	general,shopping,taxi,weather
+3701	15	SYSTEM	はい。最高気温は8.4度になる見込みです。	general,shopping,taxi,weather
+3701	16	USER	分かりました。ありがとうございます。	general,shopping,taxi,weather
+3701	17	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,shopping,taxi,weather

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4441	0	USER	東京へ旅行予定なのですが、高めのレストランがある宿泊施設はありますか？	general,hotel,weather
+4441	1	SYSTEM	では、エリアでいうと千代田区にある、星のや東京はいかがでしょう？タイプは、旅館となります。	general,hotel,weather
+4441	2	USER	そこにします。チェックアウト終了時刻と電話番号を教えてください。	general,hotel,weather
+4441	3	SYSTEM	はい、電話番号は、0570073066、チェックアウト終了時刻は12時となります。	general,hotel,weather
+4441	4	USER	わかりました。あと、8/10の目黒区の天気を教えてください。	general,hotel,weather
+4441	5	SYSTEM	はい、天気は曇のち晴、最低気温26.2度、最高気温32.1度となります。	general,hotel,weather
+4441	6	USER	ありがとうございました。	general,hotel,weather
+4441	7	SYSTEM	ありがとうございました。	general,hotel,weather

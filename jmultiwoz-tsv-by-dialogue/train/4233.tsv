@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4233	0	USER	福岡に旅行するときに食事をするところを探していただきたいのですが、中央区で最寄り駅が赤坂駅、郷土料理のお店が希望です。	general,restaurant,shopping,attraction
+4233	1	SYSTEM	では、もつ鍋 田しゅう 福岡大名本店はいかがでしょう？	general,restaurant,shopping,attraction
+4233	2	USER	ありがとうございます。駅からどれくらいかかりますか？	general,restaurant,shopping,attraction
+4233	3	SYSTEM	はい、最寄りの赤坂駅から徒歩で2分となります。	general,restaurant,shopping,attraction
+4233	4	USER	近いですね。住所と営業時間も教えていただけますか。	general,restaurant,shopping,attraction
+4233	5	SYSTEM	承知しました。住所は、福岡県福岡市中央区大名1丁目3-6 フラップスビル 1F、営業時間は17時から25時となります。	general,restaurant,shopping,attraction
+4233	6	USER	ありがとうございます。10/14の15:00から予約をしたいのですが、4名で予約できますか？	general,restaurant,shopping,attraction
+4233	7	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,restaurant,shopping,attraction
+4233	8	USER	ありがとうございます。それでは3名で予約をお願いします。	general,restaurant,shopping,attraction
+4233	9	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、87634となります。	general,restaurant,shopping,attraction
+4233	10	USER	ありがとうございます。早良区のスーパーマーケットで買い物もしたいのですが、どこかありますか。	general,restaurant,shopping,attraction
+4233	11	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,shopping,attraction
+4233	12	USER	それでは、スーパーマーケットでなくても構わないので、買い物できるところを探してください。	general,restaurant,shopping,attraction
+4233	13	SYSTEM	承知しました。では、ワッキー主基の里はいかがでしょう？ジャンルは、食料品となります。	general,restaurant,shopping,attraction
+4233	14	USER	ありがとうございます。住所はどちらになりますか？	general,restaurant,shopping,attraction
+4233	15	SYSTEM	はい、住所は、福岡県福岡市早良区大字脇山592-1となります。	general,restaurant,shopping,attraction
+4233	16	USER	ありがとうございます。観光名所にも行きたいのですが、神社・寺院・教会・モニュメントなどで駐車場無料のところを探してください。	general,restaurant,shopping,attraction
+4233	17	SYSTEM	では、エリアでいうと東区にある、香椎宮はいかがでしょう？	general,restaurant,shopping,attraction
+4233	18	USER	いいですね。そちらは入場料はいくらですか。	general,restaurant,shopping,attraction
+4233	19	SYSTEM	大人入場料、子供入場料ともに必要なく、無料でご利用いただけます。	general,restaurant,shopping,attraction
+4233	20	USER	そうですか。ありがとうございました。	general,restaurant,shopping,attraction
+4233	21	SYSTEM	ありがとうございました。	general,restaurant,shopping,attraction
+4233	22	USER		general,restaurant,shopping,attraction

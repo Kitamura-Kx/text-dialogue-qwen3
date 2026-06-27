@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+27	0	USER	京都に行くんですけど、嵯峨嵐山駅の近くで買い物できる所ありませんか？	general,shopping,attraction
+27	1	SYSTEM	ご利用ありがとうございます。京都の嵯峨嵐山駅が最寄りのお店は、和んこ堂 京都嵐山店とレストラン嵐山の2件がございます。	general,shopping,attraction
+27	2	USER	そのお店の場所ってエリアで言うとどのエリアになりますか？	general,shopping,attraction
+27	3	SYSTEM	和んこ堂 京都嵐山店、レストラン嵐山のどちらも、右京区エリアにございます。	general,shopping,attraction
+27	4	USER	観光名所の場所も調べたいんですけど、ノンバーバルシアター　ギア-GEAR-っていう所分かりますか？	general,shopping,attraction
+27	5	SYSTEM	京都中京区の、ノンバーバルシアター『ギア-GEAR-』でよろしかったでしょうか？	general,shopping,attraction
+27	6	USER	そこですね、住所を教えてください。	general,shopping,attraction
+27	7	SYSTEM	はい。こちらの住所は、京都府京都市中京区三条通御幸町東入弁慶石町56番地1928ビル3階でございます。	general,shopping,attraction
+27	8	USER	すぐ分かって助かりました。お世話様でした。	general,shopping,attraction
+27	9	SYSTEM	とんでもございません。他にお手伝い出来ることはございますでしょうか？	general,shopping,attraction
+27	10	USER	今日は結構です。ありがとうございました。	general,shopping,attraction

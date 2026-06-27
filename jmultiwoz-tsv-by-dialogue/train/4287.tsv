@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4287	0	USER	札幌への旅行を計画しているので、買い物ができるところを探してください。	general,shopping
+4287	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping
+4287	2	USER	はい。百貨店や総合スーパーで、無料の駐車場があるところがいいです。	general,shopping
+4287	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping
+4287	4	USER	じゃあ、無料駐車場はなくていいです。	general,shopping
+4287	5	SYSTEM	では丸井今井札幌店がございます。	general,shopping
+4287	6	USER	そこに行きたいと思います。住所を教えてください。	general,shopping
+4287	7	SYSTEM	住所は北海道札幌市中央区南1条西2丁目でございます。	general,shopping
+4287	8	USER	わかりました。ありがとうございます。	general,shopping
+4287	9	SYSTEM	ほかにご用件はございませんか。	general,shopping
+4287	10	USER	いえ、大丈夫です。ありがとうございました。	general,shopping
+4287	11	SYSTEM	承知しました。ありがとうございました。	general,shopping

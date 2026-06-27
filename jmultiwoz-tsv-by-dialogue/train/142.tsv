@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+142	0	USER	大阪の観光名所でWi-Fiが無料で使えるところってありますか？	general,attraction,weather
+142	1	SYSTEM	はい、いくつかございます。ジャンルやエリアのご希望はございますか？	general,attraction,weather
+142	2	USER	特にないんですけど、おすすめのところってないですか？	general,attraction,weather
+142	3	SYSTEM	それでは、梅田スカイビル空中庭園展望台はいかがでしょう？ジャンルは展望台、タワー、絶景、となっております。エリアは北区です。	general,attraction,weather
+142	4	USER	いいですねえ、高いところ大好きです。そこは駐車場ってありますかね？あと、近い駅からの所要時間も知りたいんですけど。	general,attraction,weather
+142	5	SYSTEM	ありがとうございます。有料ですが、駐車場はございます。最寄りの大阪駅からは徒歩で7分となっております。	general,attraction,weather
+142	6	USER	歩きでも近そうですね。ところで4月23日の港区の気温はどのぐらいになりそうですか？	general,attraction,weather
+142	7	SYSTEM	はい、天気は曇のち晴、最低気温9.8度、最高気温21.1度となっております。	general,attraction,weather
+142	8	USER	思ったより寒そうですね。服装に気をつけます。いいところを教えてくださってありがとうございました。	general,attraction,weather

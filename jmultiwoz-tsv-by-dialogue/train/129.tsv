@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+129	0	USER	那覇に行こうと思っているんですが、当日ごはんを食べるところを探していましてね。	general,restaurant,weather
+129	1	SYSTEM	はい、ジャンルやエリアのご希望はございますか？	general,restaurant,weather
+129	2	USER	イタリアン・フレンチのお店をお願いできますと嬉しいです。	general,restaurant,weather
+129	3	SYSTEM	承知致しました。それでは、ワイン食堂トランク イタリアゴハン 小禄店はいかがでしょう？住所は那覇市赤嶺1丁目1-3、最寄りの小禄駅から徒歩で5分となっております。	general,restaurant,weather
+129	4	USER	良さそうなんで、そこにします。営業は何時から何時まででしょうか？	general,restaurant,weather
+129	5	SYSTEM	ありがとうございます。営業時間は17時から23時となります。お電話番号は0989270094です。ご予約はなさいますか？	general,restaurant,weather
+129	6	USER	はい、2名でお願いします。日付は6月8日、11時50分で。	general,restaurant,weather
+129	7	SYSTEM	申し訳ございません、その条件では予約できませんでした。いかが致しましょう？	general,restaurant,weather
+129	8	USER	では時間を12時半に、ずらしてみてもらえますか？	general,restaurant,weather
+129	9	SYSTEM	ありがとうございます。予約完了致しまして、ご予約番号は、74220　となります。	general,restaurant,weather
+129	10	USER	分かりました。あと、6月8日の小禄の周辺の天候を知りたいんですけども。	general,restaurant,weather
+129	11	SYSTEM	承知致しました。天気は曇のち晴、最低気温は30.9度、最高気温は33.8度となります。	general,restaurant,weather
+129	12	USER	暑くなりそうですね。今日は大変助かりました。知りたいことは以上です。	general,restaurant,weather
+129	13	SYSTEM	承知致しました。ありがとうございました。	general,restaurant,weather

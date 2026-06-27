@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3301	0	USER	福岡に行くのですが、旅館はありますか？	general,hotel,shopping,weather
+3301	1	SYSTEM	福岡で旅館だとヒットしませんでした。	general,hotel,shopping,weather
+3301	2	USER	では簡易宿所（ベッドハウス・山小屋・カプセルホテル等）だとありそうですか？	general,hotel,shopping,weather
+3301	3	SYSTEM	福岡の簡易宿所はいくつかありますが、HEARTSカプセルホテル&スパ博多、こちらをお勧めします。	general,hotel,shopping,weather
+3301	4	USER	ありがとうございます。料金情報ってわかりますか？	general,hotel,shopping,weather
+3301	5	SYSTEM	値段帯は安めですが、料金情報詳細は不明です。	general,hotel,shopping,weather
+3301	6	USER	ありがとうございます。ではその宿所で、人数は2人、日付は7/24、宿泊日数は3泊で、予約をお願いします。	general,hotel,shopping,weather
+3301	7	SYSTEM	その条件だと予約に失敗してしまいました。	general,hotel,shopping,weather
+3301	8	USER	では人数を1人に変更でお願いします。	general,hotel,shopping,weather
+3301	9	SYSTEM	１人なら予約できました。予約番号は46029です。	general,hotel,shopping,weather
+3301	10	USER	ありがとうございます。東区で、駐車場が無料で使える、買い物スポットはないですか？	general,hotel,shopping,weather
+3301	11	SYSTEM	東区で駐車場無料の買い物スポットはなさそうです。	general,hotel,shopping,weather
+3301	12	USER	では地区はこだわりません。	general,hotel,shopping,weather
+3301	13	SYSTEM	福岡で駐車場無料の買い物スポットはいくつかありますが、せっかく福岡なので、ラーメンスタジアム、こちらをお勧めします。	general,hotel,shopping,weather
+3301	14	USER	ラーメンいいですね。営業時間はわかりますか？	general,hotel,shopping,weather
+3301	15	SYSTEM	朝１１時から夜１１時までです。	general,hotel,shopping,weather
+3301	16	USER	ありがとうございます。あと、中央区の7/24の天候も調べてもらえませんか？	general,hotel,shopping,weather
+3301	17	SYSTEM	7/24 福岡 中央区 の天気は曇のち雨、最低気温24.4度、最高気温24.6度です。	general,hotel,shopping,weather
+3301	18	USER	ありがとうございました。	general,hotel,shopping,weather
+3301	19	SYSTEM	よい旅を	general,hotel,shopping,weather

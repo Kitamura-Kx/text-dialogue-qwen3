@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3676	0	USER	今度横浜に行くのですが、どこか観光できるところはありますか？	general,attraction,hotel,taxi
+3676	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction,hotel,taxi
+3676	2	USER	緑区で、駐車場が無料のところがいいです。	general,attraction,hotel,taxi
+3676	3	SYSTEM	かしこまりました。では、県立 四季の森公園はいかがでしょうか？	general,attraction,hotel,taxi
+3676	4	USER	そちらの電話番号を教えてください。	general,attraction,hotel,taxi
+3676	5	SYSTEM	はい。電話番号は0459317910です。	general,attraction,hotel,taxi
+3676	6	USER	ありがとうございます。あと、当日の宿泊施設も探しています。レストランが併設されていて、駐車場が無料のところはありますか？	general,attraction,hotel,taxi
+3676	7	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,attraction,hotel,taxi
+3676	8	USER	では、駐車場は有料でも構いません。	general,attraction,hotel,taxi
+3676	9	SYSTEM	かしこまりました。では、ホテルニューグランドはいかがでしょうか？	general,attraction,hotel,taxi
+3676	10	USER	そこにします。チェックイン開始時刻は何時ですか？	general,attraction,hotel,taxi
+3676	11	SYSTEM	はい。チェックイン開始時刻は14:00になります。	general,attraction,hotel,taxi
+3676	12	USER	ありがとうございます。では、7/25に３名で４泊、予約をお願いできますか？	general,attraction,hotel,taxi
+3676	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、74850です。	general,attraction,hotel,taxi
+3676	14	USER	ありがとうございます。あと、当日タクシーを使いたいのですが、ジャンボタクシーが利用できるところはありますか？	general,attraction,hotel,taxi
+3676	15	SYSTEM	かしこまりました。では、株式会社グリーンキャブはいかがでしょうか？	general,attraction,hotel,taxi
+3676	16	USER	ありがとうございます。そちらはキャッシュレス払いは対応していますか？	general,attraction,hotel,taxi
+3676	17	SYSTEM	はい。対応していますよ。	general,attraction,hotel,taxi
+3676	18	USER	では、7/25の12:10で、県立 四季の森公園から、ホテルニューグランドまで予約をお願いできますか？	general,attraction,hotel,taxi
+3676	19	SYSTEM	かしこまりました。ご予約承りました。予約番号は、42556です。	general,attraction,hotel,taxi
+3676	20	USER	ありがとうございます。以上です、お世話になりました。	general,attraction,hotel,taxi
+3676	21	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel,taxi

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+778	0	USER	福岡へ行こうと思っています。駐車場とWiFiが無料で利用できるスポーツまたはフィットネスの観光名所を探していただきたいです。	general,attraction,weather
+778	1	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,attraction,weather
+778	2	USER	ではジャンルは考慮せず同条件で探していただけますか？	general,attraction,weather
+778	3	SYSTEM	そういたしますと、3件ほどご案内可能です。例えば、マリノアシティ福岡というところは、いかがでしょうか？	general,attraction,weather
+778	4	USER	そちらの住所を教えていただけますでしょうか。	general,attraction,weather
+778	5	SYSTEM	かしこまりました。住所は、福岡県福岡市西区小戸2丁目12-30でございます。	general,attraction,weather
+778	6	USER	わかりました。ありがとうございます。	general,attraction,weather
+778	7	SYSTEM	ほかに、お手伝いできることはございませんか？	general,attraction,weather
+778	8	USER	6月3日南区の天候を調べていただきたいです。	general,attraction,weather
+778	9	SYSTEM	かしこまりました。当日の天気は、雨のち曇りの予報です。最低気温は20.1度、最高気温は25.5度になる予想です。	general,attraction,weather
+778	10	USER	わかりました。ありがとうございます。	general,attraction,weather
+778	11	SYSTEM	他にお調べすることはございますか？	general,attraction,weather
+778	12	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction,weather

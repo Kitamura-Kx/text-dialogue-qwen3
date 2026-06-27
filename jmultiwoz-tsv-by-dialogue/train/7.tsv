@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+7	0	USER	こんにちは。ちょっと聞きたいことがあるんですが。	general,attraction,weather
+7	1	SYSTEM	はい、どういったご用件でしょうか？	general,attraction,weather
+7	2	USER	大阪で観光したいところがありまして。	general,attraction,weather
+7	3	SYSTEM	大阪ですね。ご希望はお決まりでしょうか？	general,attraction,weather
+7	4	USER	スパワールド世界の大温泉というところがあると聞いたんですが。	general,attraction,weather
+7	5	SYSTEM	はい、ございます。スパワールド世界の大温泉について、どういった情報をお求めでしょうか？	general,attraction,weather
+7	6	USER	料金をね、詳しく教えていただけると助かるんですけど。	general,attraction,weather
+7	7	SYSTEM	承知致しました。料金は、中学生以上1500円、小学生以下1000円 、4:00～5:00の入退館及び在館は、上記金額に深夜割増料金1,300円及び入湯税150円が加算(入湯税は中学生以上のお客様のみ加算)、となっております。	general,attraction,weather
+7	8	USER	時間によって違うんですね。あとで分からなくなりそうなんで、問い合わせの電話番号とか教えてもらえるんですか？	general,attraction,weather
+7	9	SYSTEM	こちらの電話番号は、0666310001、となっております。	general,attraction,weather
+7	10	USER	ありがとう。あとね、当日の天気予報も調べておきたくて。	general,attraction,weather
+7	11	SYSTEM	承知致しました。ご利用の日にちを教えていただけますか？	general,attraction,weather
+7	12	USER	7月3日です。大阪の西区あたりの天気、分かりますか？	general,attraction,weather
+7	13	SYSTEM	はい、当日、大阪西区の天気は、曇り、最低気温18.5度、最高気温30.8度となっております。	general,attraction,weather
+7	14	USER	朝晩は涼しくなりそうなんだね。聞きたいことが聞けて良かったです。	general,attraction,weather
+7	15	SYSTEM	他にご用件はございますか？	general,attraction,weather
+7	16	USER	もう大丈夫です。今日はありがとうございました。	general,attraction,weather
+7	17	SYSTEM	承知致しました。ありがとうございました。	general,attraction,weather

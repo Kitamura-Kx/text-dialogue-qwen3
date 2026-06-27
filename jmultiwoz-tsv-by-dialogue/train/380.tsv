@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+380	0	USER	今度福岡に行くのですが、観光できるところを探しています。	general,attraction
+380	1	SYSTEM	承知しました。他にご希望はございますか？	general,attraction
+380	2	USER	Wi-Fiと駐車場が無料のところがいいです。	general,attraction
+380	3	SYSTEM	ありがとうございます。マリノアシティ福岡、福岡市博物館、住吉神社の3件ございます。何かご案内致しましょうか？	general,attraction
+380	4	USER	福岡市博物館の、子供の入場料を教えてください。	general,attraction
+380	5	SYSTEM	はい、高大生は150円ですが、中学生以下のお子様は無料でご利用いただけます。他にご案内できることはございますか？	general,attraction
+380	6	USER	分かりました。以上です、ありがとうございました。	general,attraction
+380	7	SYSTEM	ありがとうございました。	general,attraction

@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+291	0	USER	こんにちは、東京に行きたいと思っています。東京で食事できる場所を教えて下さい。	general,restaurant,shopping
+291	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,shopping
+291	2	USER	港区で駐車場の料金がかからないところでお願いします。	general,restaurant,shopping
+291	3	SYSTEM	ではバルバッコア 六本木ヒルズ店はいかがでしょうか。	general,restaurant,shopping
+291	4	USER	バルバッコア 六本木ヒルズ店さんは何駅の近くにありますか？	general,restaurant,shopping
+291	5	SYSTEM	最寄り駅は六本木駅でございます。	general,restaurant,shopping
+291	6	USER	六本木駅からアクセスするのにどれくらいかかるのでしょうか？	general,restaurant,shopping
+291	7	SYSTEM	六本木駅から徒歩で1分でございます。	general,restaurant,shopping
+291	8	USER	こちらのお店って、価格帯はどれくらいですか？	general,restaurant,shopping
+291	9	SYSTEM	値段帯は高めとなっております。	general,restaurant,shopping
+291	10	USER	わかりました。こちらのお店の予約を取ってもらえますか？	general,restaurant,shopping
+291	11	SYSTEM	かしこまりました。ご希望の条件をお聞かせください。	general,restaurant,shopping
+291	12	USER	7/31の12:30から3名で利用したいと考えています。	general,restaurant,shopping
+291	13	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,restaurant,shopping
+291	14	USER	でしたら時間を13:20にずらして予約をお願いします。	general,restaurant,shopping
+291	15	SYSTEM	その時間ですと予約が可能でございました。予約番号は30428でございます。	general,restaurant,shopping
+291	16	USER	ご予約して下さりありがとうございます！旅行中に杉並区でショッピングをしたいんです。文房具や雑貨を見れるお店を探してほしいです。	general,restaurant,shopping
+291	17	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,restaurant,shopping
+291	18	USER	そうですか。では文房具や雑貨があるお店であればエリアは問いません。	general,restaurant,shopping
+291	19	SYSTEM	ではSTORY STORYはいかがでしょうか。	general,restaurant,shopping
+291	20	USER	ありがとうございます。こちらのお店って定休日はどうなっていますか？	general,restaurant,shopping
+291	21	SYSTEM	定休日は無しでございます。	general,restaurant,shopping
+291	22	USER	わかりました！ありがとうございました。	general,restaurant,shopping

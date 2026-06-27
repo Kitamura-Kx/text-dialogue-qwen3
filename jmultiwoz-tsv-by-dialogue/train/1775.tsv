@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1775	0	USER	こんにちは。東京へ旅行予定で、大田区の飲食店を探しています。どこかおすすめはありますか？	general,restaurant
+1775	1	SYSTEM	1件、個室居酒屋 番屋 蒲田駅前店がございます。ジャンルは、居酒屋、和食、となります。	general,restaurant
+1775	2	USER	ありがとうございます。そちらの最寄り駅はどこでしょうか？	general,restaurant
+1775	3	SYSTEM	最寄りの蒲田駅から徒歩で1分となります。	general,restaurant
+1775	4	USER	ありがとうございます。以上です、助かりました。	general,restaurant
+1775	5	SYSTEM	ありがとうございました。	general,restaurant

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3755	0	USER	名古屋への旅行にいきたいのですが。	general,restaurant
+3755	1	SYSTEM	名古屋ですね、どのようなお店や施設をお探しですか？	general,restaurant
+3755	2	USER	駐車場が無料の、カフェ、スイーツのお店を探しています。	general,restaurant
+3755	3	SYSTEM	では、サラベス 名古屋店はいかがですか？	general,restaurant
+3755	4	USER	そちらにします。近辺の駅からの所要時間を教えて下さい。	general,restaurant
+3755	5	SYSTEM	所要時間は、名古屋駅から徒歩で1分です。	general,restaurant
+3755	6	USER	ありがとうございます。	general,restaurant
+3755	7	SYSTEM	他にご用件はございますか？	general,restaurant
+3755	8	USER	ありません。ありがとうございます。	general,restaurant
+3755	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant

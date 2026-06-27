@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2773	0	USER	京都に行くので宿泊施設を探しています。	general,hotel,weather
+2773	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel,weather
+2773	2	USER	地区は山科区でWi-Fiが無料、レストランが併設されているところがいいです。	general,hotel,weather
+2773	3	SYSTEM	では、京都山科 ホテル山楽はいかがでしょう？タイプはシティホテルとなります。	general,hotel,weather
+2773	4	USER	いいですね。そこの最寄り駅はどこになりますか？	general,hotel,weather
+2773	5	SYSTEM	最寄りの山科駅から徒歩で2分となります。	general,hotel,weather
+2773	6	USER	ちなみに駐車場はありますか？	general,hotel,weather
+2773	7	SYSTEM	申し訳ありません、駐車場のご用意はありません。	general,hotel,weather
+2773	8	USER	わかりました。8/17の上京区の天候が知りたいです。	general,hotel,weather
+2773	9	SYSTEM	はい、天気は曇、最低気温21.6度、最高気温35.3度となります。他にご用件はございますか？	general,hotel,weather
+2773	10	USER	特にありません。助かりました。	general,hotel,weather
+2773	11	SYSTEM	ありがとうございました。	general,hotel,weather

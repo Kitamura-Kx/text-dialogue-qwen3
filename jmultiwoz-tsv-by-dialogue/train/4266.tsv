@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4266	0	USER	名古屋への旅行を計画しているのですが、当日名東区で食事をするお店を探してください。最寄り駅は荒子川公園駅がよいです。	general,restaurant,attraction,taxi
+4266	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,restaurant,attraction,taxi
+4266	2	USER	それでは、最寄り駅は考慮しなくて結構です。	general,restaurant,attraction,taxi
+4266	3	SYSTEM	でしたら、スペイン料理 ダリがございます。	general,restaurant,attraction,taxi
+4266	4	USER	そちらは、Wi-Fiはありますでしょうか？	general,restaurant,attraction,taxi
+4266	5	SYSTEM	こちらWi-Fiの有無は不明でございます。	general,restaurant,attraction,taxi
+4266	6	USER	わかりました。大丈夫です。では、7月29日の9時40分から2名で予約をお願いします。	general,restaurant,attraction,taxi
+4266	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は81887でございます。	general,restaurant,attraction,taxi
+4266	8	USER	ありがとうございます。その後観光名所にも行きたいと思っています。建築物でWi-Fiが無料で使える場所はありますでしょうか。	general,restaurant,attraction,taxi
+4266	9	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,restaurant,attraction,taxi
+4266	10	USER	それでは、Wi-Fiの有無は気にしなくてよいです。	general,restaurant,attraction,taxi
+4266	11	SYSTEM	では旧豊田佐助邸はいかがでしょうか。	general,restaurant,attraction,taxi
+4266	12	USER	ぜひ行ってみたいと思います。当日はジャンボタクシーを利用したいのですが、キャッシュレス払いの対応ができるタクシー会社はありますか。	general,restaurant,attraction,taxi
+4266	13	SYSTEM	申し訳ございません。どちらにも対応している会社がございませんでした。いかがいたしましょうか。	general,restaurant,attraction,taxi
+4266	14	USER	その場合は、ジャンボタクシーでなくて結構です。	general,restaurant,attraction,taxi
+4266	15	SYSTEM	では名鉄名古屋タクシーがございます。電話番号は0570085255でございます。	general,restaurant,attraction,taxi
+4266	16	USER	では、7月29日の11時40分に　スペイン料理 ダリ　から　旧豊田佐助邸　までの予約をお願いします。	general,restaurant,attraction,taxi
+4266	17	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は18158でございます。	general,restaurant,attraction,taxi
+4266	18	USER	ありがとうございました。	general,restaurant,attraction,taxi

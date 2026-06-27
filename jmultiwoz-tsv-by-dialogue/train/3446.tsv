@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3446	0	USER	仙台へキャンプに行きたいのですが、駐車場が無料な観光名所教えて下さい。	general,attraction,restaurant,weather
+3446	1	SYSTEM	かしこまりました。それでは、天守閣自然公園はいかがでしょうか？	general,attraction,restaurant,weather
+3446	2	USER	最寄り駅と電話番号教えて下さい。	general,attraction,restaurant,weather
+3446	3	SYSTEM	最寄り駅は愛子駅、電話番号は0223982111でございます。	general,attraction,restaurant,weather
+3446	4	USER	当日、中野栄駅周辺で飲食店を探しています。できたら、Wi-Fiと駐車場が無料なところがいいです。	general,attraction,restaurant,weather
+3446	5	SYSTEM	かしこまりました。その条件ですと、RAMEN EXPRESS 博多一風堂 三井アウトレットパーク仙台港店がございます。	general,attraction,restaurant,weather
+3446	6	USER	ありがとうございます。営業時間と定休日教えて下さい	general,attraction,restaurant,weather
+3446	7	SYSTEM	営業時間は、10時30分から20時までで、定休日は無しでございます。	general,attraction,restaurant,weather
+3446	8	USER	分かりました。行ってみます。それでは失礼します。	general,attraction,restaurant,weather
+3446	9	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,restaurant,weather
+3446	10	USER	ごめんなさい、当日の天候いいですか？11/27の若林区の天気と最低気温です。	general,attraction,restaurant,weather
+3446	11	SYSTEM	かしこまりました。当日の天気は晴のち曇、最低気温は6度の予報でございます。	general,attraction,restaurant,weather
+3446	12	USER	ありがとうございます、助かります。失礼します。	general,attraction,restaurant,weather
+3446	13	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,restaurant,weather

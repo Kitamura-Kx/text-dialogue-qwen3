@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+715	0	USER	京都へ旅行予定なのですが、左京区の観光名所はありますか？Wi-Fiが無料で利用できるところがいいです。	general,attraction
+715	1	SYSTEM	承知しました。国立京都国際会館がございます。何かご案内致しましょうか？	general,attraction
+715	2	USER	そこにします。子供入場料と近辺の駅からの所要時間。あと、駐車場があるかどうかを知りたいです。	general,attraction
+715	3	SYSTEM	はい、最寄りの国際会館駅から徒歩で5分となります。駐車場は有料でご利用いただけます。申し訳ありませんが、子供入場料は不明です。他にご案内できることはございますか？	general,attraction
+715	4	USER	わかりました。もう大丈夫です。ありがとうございます。	general,attraction
+715	5	SYSTEM	ありがとうございました。	general,attraction

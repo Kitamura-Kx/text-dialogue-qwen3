@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+807	0	USER	名古屋への旅行を考えているのですが、キャッシュレス払いができて、ジャンボタクシーが利用できるタクシー会社はありますか？	general,taxi
+807	1	SYSTEM	はい、9件ほど、ご案内可能です。瑞穂タクシーというところは、いかがでしょうか？	general,taxi
+807	2	USER	そこにします。電話番号を教えてください。	general,taxi
+807	3	SYSTEM	電話番号は、0523311680です。予約もなさいますか？	general,taxi
+807	4	USER	はい。日付は10/22の時間は13:00で、ホステル わさび名古屋駅前から第2松竹梅ホステル(男性専用)まででお願いします。	general,taxi
+807	5	SYSTEM	かしこまりました。ご予約番号70570にて、予約を承りました。	general,taxi
+807	6	USER	了解です。ありがとうございます。	general,taxi
+807	7	SYSTEM	ほかにお手伝いできることはございませんか？	general,taxi
+807	8	USER	いえ、大丈夫です。	general,taxi
+807	9	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi

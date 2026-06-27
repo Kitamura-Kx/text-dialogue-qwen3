@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+66	0	USER	大阪に旅行するんですけど、科学に興味があるんで、北区でいい科学館ってないですかね？	general,attraction,restaurant
+66	1	SYSTEM	大阪北区の科学館ですね。キッズプラザ大阪というところがございますが、いかがでしょうか？	general,attraction,restaurant
+66	2	USER	いいですね。定休日とかありますか？	general,attraction,restaurant
+66	3	SYSTEM	キッズプラザ大阪は、第二月曜日と第三月曜日、また年末年始が定休日となっております。	general,attraction,restaurant
+66	4	USER	月曜日はやばいわけですね。営業時間も教えてください。あとWifiって使えますか？	general,attraction,restaurant
+66	5	SYSTEM	はい。まず営業時間ですが、9:30～16:30となります、WiFiについては申し訳ございませんが、こちらでは把握できておらずご案内できない状況です。	general,attraction,restaurant
+66	6	USER	了解です。お昼のことも考えてるんですけど、うどんやそばのお店でいいところを教えてください。	general,attraction,restaurant
+66	7	SYSTEM	かしこまりました。大阪のうどんやそばのお食事処ですね。3店舗ほどございますが、店名をお伝えしてもよろしいですか？	general,attraction,restaurant
+66	8	USER	良さそうなところを紹介してください。	general,attraction,restaurant
+66	9	SYSTEM	では、3店舗のうちの１つ、蕎麦酒房 ふくまるというお店がございますが、いかがでしょうか？	general,attraction,restaurant
+66	10	USER	いい感じですね。定休日と駐車場はどうなっていますか？	general,attraction,restaurant
+66	11	SYSTEM	月曜日が定休日でして、駐車場のほうは店舗側ではご用意できないようです。申し訳ございません。	general,attraction,restaurant
+66	12	USER	大丈夫です。そこにします。2月19日の14時10分で3人予約できますか？	general,attraction,restaurant
+66	13	SYSTEM	かしこまりました。ただいま確認しましたところ、その日時とご人数の場合、ご予約がお取りできません。申し訳ございません。	general,attraction,restaurant
+66	14	USER	しょうがないなあ、じゃあ人数を2人にしたらどうですか？	general,attraction,restaurant
+66	15	SYSTEM	ありがとうございます。2月19日14時10分、2名様でご予約が完了いたしました。予約番号は、95475です。	general,attraction,restaurant
+66	16	USER	良かったです。ありがとうございました。	general,attraction,restaurant
+66	17	SYSTEM	こちらこそお手数おかけして申し訳ございませんでした。ほかには何か、お手伝いできることはございますでしょうか？	general,attraction,restaurant
+66	18	USER	いえいえ、お手数をかけました。今日はこれで大丈夫です。	general,attraction,restaurant
+66	19	SYSTEM	承知いたしました。本日はお問い合わせいただき、ありがとうございました。またのご利用をお待ちしております。	general,attraction,restaurant

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3703	0	USER	こんにちは。仙台に行くのですが、宮城野区でスポーツ・フィットネス系の観光名所はありますか？	general,attraction,hotel
+3703	1	SYSTEM	お待たせ致しました。申し訳ありませんが宮城野区ですとお探しすることが出来ませんでした。	general,attraction,hotel
+3703	2	USER	では地区はこだわりません。	general,attraction,hotel
+3703	3	SYSTEM	かしこまりました。それではアイスリンク仙台がございます。	general,attraction,hotel
+3703	4	USER	ありがとうございます。そこの、子供入場料と最寄り駅はわかりますか？	general,attraction,hotel
+3703	5	SYSTEM	はい、子供の入場料は600円でございまして。最寄り駅は泉中央駅でございます。	general,attraction,hotel
+3703	6	USER	ありがとうございます。あと、Wi-Fiが無料で使えて、最寄り駅が笈坂駅な、宿泊施設はありますか？	general,attraction,hotel
+3703	7	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction,hotel
+3703	8	USER	では最寄り駅はこだわりません。	general,attraction,hotel
+3703	9	SYSTEM	かしこまりました。それではホテルグリーンセレクはいかがでしょうか？	general,attraction,hotel
+3703	10	USER	ありがとうございます。そこにします。そのホテルの住所はわかりますか？	general,attraction,hotel
+3703	11	SYSTEM	はい、宮城県仙台市青葉区本町2丁目9-14でございます。	general,attraction,hotel
+3703	12	USER	ありがとうございます。ではそのホテルで、人数は4人、日付は5/4、宿泊日数は2泊で、予約をお願いします。	general,attraction,hotel
+3703	13	SYSTEM	お待たせ致しました。予約番号38200でお取りさせていただきました。	general,attraction,hotel
+3703	14	USER	ありがとうございます。	general,attraction,hotel
+3703	15	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,hotel

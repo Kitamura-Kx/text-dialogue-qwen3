@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3950	0	USER	那覇の飲食店を教えてください。	general,restaurant,shopping,weather
+3950	1	SYSTEM	かしこまりました。113件ほどありますが、何かご希望などございますか？	general,restaurant,shopping,weather
+3950	2	USER	そうですね。予算は安めで、Wi-Fiと駐車場は無料で。	general,restaurant,shopping,weather
+3950	3	SYSTEM	かしこまりました。それではしゃぶ葉 那覇小禄店はいかがでしょうか？	general,restaurant,shopping,weather
+3950	4	USER	そこにします。最寄り駅と料金情報も教えてください。	general,restaurant,shopping,weather
+3950	5	SYSTEM	かしこまりました。最寄り駅は小禄駅でして、料金情報は宮崎県産 霧島黒豚＆牛みすじ＆国産牛食べ放題コースが3409円、ランチ牛2種＆三元豚食べ放題コースが1869円でございます。	general,restaurant,shopping,weather
+3950	6	USER	美味しそうですね。予約もお願いします。	general,restaurant,shopping,weather
+3950	7	SYSTEM	かしこまりました。日程等お伺いいたします。	general,restaurant,shopping,weather
+3950	8	USER	10/23の11時に４人で。	general,restaurant,shopping,weather
+3950	9	SYSTEM	お待たせ致しました。予約番号21013でお取りさせていただきました。	general,restaurant,shopping,weather
+3950	10	USER	ありがとうございます。それから、当日買い物ができるところも知りたくて。	general,restaurant,shopping,weather
+3950	11	SYSTEM	はい、那覇で買い物でしたら50件ほどありますが、何かこだわりなどございますか？	general,restaurant,shopping,weather
+3950	12	USER	地区は小禄で、駐車場は無料のところがいいのですが。	general,restaurant,shopping,weather
+3950	13	SYSTEM	かしこまりました。それではLEO & JOEがございます。	general,restaurant,shopping,weather
+3950	14	USER	そこに行ってみます。最後に10/23の本庁の最高気温だけ教えてください。	general,restaurant,shopping,weather
+3950	15	SYSTEM	お待たせ致しました。当日の本庁エリアの最高気温は29.8度の予報でございます。	general,restaurant,shopping,weather
+3950	16	USER	暑そうですね。ありがとうございます。	general,restaurant,shopping,weather
+3950	17	SYSTEM	那覇はまだ10月でも夏ですね。その他にご用件はございますか？	general,restaurant,shopping,weather
+3950	18	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant,shopping,weather
+3950	19	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,shopping,weather

@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2102	0	USER	名古屋の左京山駅付近でテーマパークを探しています。教えてください。	general,attraction,restaurant,taxi
+2102	1	SYSTEM	かしこまりました。では、ディノアドベンチャー名古屋はいかがでしょうか？	general,attraction,restaurant,taxi
+2102	2	USER	行ってみたいです。近くの駅からどれくらいかかりますか？	general,attraction,restaurant,taxi
+2102	3	SYSTEM	はい。近辺の駅からの所要時間は左京山駅から徒歩で15分、大高駅から徒歩で40分になります。また、南大高駅から徒歩で40分です。	general,attraction,restaurant,taxi
+2102	4	USER	駐車場はありますか？	general,attraction,restaurant,taxi
+2102	5	SYSTEM	はい。無料の駐車場がございます。	general,attraction,restaurant,taxi
+2102	6	USER	ありがとうございます。それから北区で無料駐車場があるお好み焼き・たこ焼きのお店も教えてください。	general,attraction,restaurant,taxi
+2102	7	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,attraction,restaurant,taxi
+2102	8	USER	そうですか。では、お好み焼き・たこ焼き以外ならありそうですか？	general,attraction,restaurant,taxi
+2102	9	SYSTEM	かしこまりました。では、御懐石 志ら玉はいかがでしょうか？ジャンルは和食, その他になります。	general,attraction,restaurant,taxi
+2102	10	USER	良さそうですね。行ってみます。当日、ジャンボタクシーを利用したいのですが、良いタクシー会社はありますか？	general,attraction,restaurant,taxi
+2102	11	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,attraction,restaurant,taxi
+2102	12	USER	では、ジャンボタクシーじゃなくて大丈夫です。	general,attraction,restaurant,taxi
+2102	13	SYSTEM	かしこまりました。では、名鉄名古屋タクシーはいかがでしょうか？キャッシュレスには対応しております。	general,attraction,restaurant,taxi
+2102	14	USER	そこの電話番号を教えてください。	general,attraction,restaurant,taxi
+2102	15	SYSTEM	はい。電話番号は0570085255です。	general,attraction,restaurant,taxi
+2102	16	USER	ありがとうございます。予約をお願いします。6月24日の11時20分にディノアドベンチャー名古屋から、御懐石 志ら玉までお願いします。	general,attraction,restaurant,taxi
+2102	17	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,attraction,restaurant,taxi
+2102	18	USER	そうですか。では、時間を12時ちょうどにすればどうですか？	general,attraction,restaurant,taxi
+2102	19	SYSTEM	かしこまりました。ご予約承りました。予約番号は、58249です。	general,attraction,restaurant,taxi
+2102	20	USER	ありがとうございます。助かりました。失礼します。	general,attraction,restaurant,taxi

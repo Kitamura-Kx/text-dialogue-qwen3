@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1237	0	USER	東京で買い物が出来る場所を探しているのですが、お伺いしてもよろしいでしょうか？	general,shopping,taxi,weather
+1237	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,shopping,taxi,weather
+1237	2	USER	そうですね。中央区であれば良いのですが、どうでしょうか？	general,shopping,taxi,weather
+1237	3	SYSTEM	では、日本橋高島屋S.C.はいかがでしょうか？日本橋駅の近くにある、百貨店や総合スーパーのジャンルのお店でございます。	general,shopping,taxi,weather
+1237	4	USER	良さそうですね。そこにしようと思います。そちらの電話番号をお伺いしてもよろしいですか？	general,shopping,taxi,weather
+1237	5	SYSTEM	はい、電話番号は、033211‐4111でございます。	general,shopping,taxi,weather
+1237	6	USER	ありがとうございます。ついでに当日利用するタクシー会社も探しているのですが、よろしいでしょうか？	general,shopping,taxi,weather
+1237	7	SYSTEM	はい。では、京王自動車 多摩北はいかがでしょうか？	general,shopping,taxi,weather
+1237	8	USER	出来れば、キャッシュレス払いが出来て、ジャンボタクシーも利用してみたいのですが、該当はしていますでしょうか？	general,shopping,taxi,weather
+1237	9	SYSTEM	はい、どちらにも該当しておりますよ。	general,shopping,taxi,weather
+1237	10	USER	ありがとうございます！そちらの電話番号もお伺いしてもよろしいですか？	general,shopping,taxi,weather
+1237	11	SYSTEM	かしこまりました。電話番号は、0336436881でございます。ご予約もなさいますか？	general,shopping,taxi,weather
+1237	12	USER	是非お願いしたいです。日付は7月19日の10時40分。すみだ水族館から日本橋高島屋S.C.まででお願いしたいのですが。	general,shopping,taxi,weather
+1237	13	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,shopping,taxi,weather
+1237	14	USER	そうですね。でしたら、時間を11時30分に変更した場合はどうでしょうか？	general,shopping,taxi,weather
+1237	15	SYSTEM	ありがとうございます。11時30分発にて、ご予約完了いたしました。予約番号は、20875でございます。	general,shopping,taxi,weather
+1237	16	USER	ありがとうございます。最後に当日の天候もお伺いしたいのですが、よろしいでしょうか？	general,shopping,taxi,weather
+1237	17	SYSTEM	はい、お調べします。では、お調べするエリアとお日にちをお願いできますか？	general,shopping,taxi,weather
+1237	18	USER	はい。エリアは中央区で、7月19日でお願いします。	general,shopping,taxi,weather
+1237	19	SYSTEM	かしこまりました。当日の天気は雨のち曇、最低気温19.6度、最高気温27.9度の予報が出ております。	general,shopping,taxi,weather
+1237	20	USER	ありがとうございます。これで当日は大丈夫そうです。どうもありがとうございました。	general,shopping,taxi,weather
+1237	21	SYSTEM	こちらこそ、本日はご利用ありがとうございました。またのご利用をお待ちしております。	general,shopping,taxi,weather

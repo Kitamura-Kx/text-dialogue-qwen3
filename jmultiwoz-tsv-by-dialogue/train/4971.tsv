@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4971	0	USER	京都へ旅行予定なのですが、最寄り駅が五条駅の、買い物できる店ありますか？	general,shopping,taxi
+4971	1	SYSTEM	申し訳ありません、その条件ではお探しすることが出来ませんでした。	general,shopping,taxi
+4971	2	USER	そうですか。最寄り駅はどこでもいいので、探してください。	general,shopping,taxi
+4971	3	SYSTEM	かしこまりました。それではココカラファイン アバンティ店はいかがでしょうか？	general,shopping,taxi
+4971	4	USER	いいですね。ちなみに電話番号ってわかりますか？	general,shopping,taxi
+4971	5	SYSTEM	はい、0756718966でございます。	general,shopping,taxi
+4971	6	USER	ありがとうございます。あと、ジャンボタクシーの利用を考えているのですが、キャッシュレス払いができるようなところはありませんか？	general,shopping,taxi
+4971	7	SYSTEM	お待たせ致しました。エムケイ株式会社がおすすめです。	general,shopping,taxi
+4971	8	USER	いいですね。電話番号は何でしょう。	general,shopping,taxi
+4971	9	SYSTEM	はい、0757784141でございます。	general,shopping,taxi
+4971	10	USER	わかりました。予約をお願いします。6/27の14:30に、ココカラファイン アバンティ店からリーガロイヤルホテル京都までです。	general,shopping,taxi
+4971	11	SYSTEM	お待たせ致しました。予約番号46709でお取りさせていただきました。	general,shopping,taxi
+4971	12	USER	ありがとうございます。もう大丈夫です。	general,shopping,taxi
+4971	13	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,taxi

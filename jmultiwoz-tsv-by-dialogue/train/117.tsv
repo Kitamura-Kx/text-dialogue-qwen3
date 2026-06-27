@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+117	0	USER	こんばんは。今度、大阪へ旅行しようと思ってるんですけど、案内をお願いしてもよろしいですか？	general,taxi,weather
+117	1	SYSTEM	かしこまりました。お知りになりたい情報がございますか。	general,taxi,weather
+117	2	USER	はい、タクシー会社を探しています。 ジャンボタクシーが利用できて、あと、キャッシュレス払いも使えるところでお願いしたいです。	general,taxi,weather
+117	3	SYSTEM	では東京・日本交通株式会社はいかがでしょうか。	general,taxi,weather
+117	4	USER	東京・日本交通株式会社ですね。 そちらの電話番号はわかりますか？	general,taxi,weather
+117	5	SYSTEM	電話番号は0666493171でございます。	general,taxi,weather
+117	6	USER	承知しました。 では、そこのタクシー会社で予約を取りたいんですが、2月7日の14時40分に、大阪キャッスルホテルから、ヴィアインあべの天王寺までで、手配をお願いできますか？	general,taxi,weather
+117	7	SYSTEM	申し訳ございません。その条件ですと予約ができませんでした。いかがいたしましょうか。	general,taxi,weather
+117	8	USER	そうなんですね。では、時間を15時10分に変更してもらえますか？	general,taxi,weather
+117	9	SYSTEM	その時間ですと予約可能でございました。予約番号は87493でございます。	general,taxi,weather
+117	10	USER	ありがとうございます。承知しました。 えっと、あと、当日の天候も気になっているんですが、2月7日の阿倍野区の天候を調べることはできますか？	general,taxi,weather
+117	11	SYSTEM	天気は曇、最低気温は4.4、最高気温は14.3でございます。	general,taxi,weather
+117	12	USER	わかりました。ありがとうございます。	general,taxi,weather
+117	13	SYSTEM	ほかにご用件はございませんか。	general,taxi,weather
+117	14	USER	はい、あとはもう大丈夫です。本日は、ありがとうございました。	general,taxi,weather
+117	15	SYSTEM	承知しました。ありがとうございました。	general,taxi,weather

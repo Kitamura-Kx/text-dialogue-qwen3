@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+290	0	USER	東京旅行を計画しているんですが、お買い物ができる場所を探しています。	general,shopping,taxi
+290	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,taxi
+290	2	USER	新宿区で駐車場代がかからない所はありますか？	general,shopping,taxi
+290	3	SYSTEM	ではルミネ新宿はいかがでしょうか。	general,shopping,taxi
+290	4	USER	こちらのお店は最寄り駅からアクセスするのに、どれくらい時間がかかりますか？	general,shopping,taxi
+290	5	SYSTEM	新宿駅から徒歩で1分でございます。	general,shopping,taxi
+290	6	USER	ご案内ありがとうございます。あと東京でタクシーを使いたいので、どこか会社を探してもらえませんか？	general,shopping,taxi
+290	7	SYSTEM	かしこまりました。条件はございますか。	general,shopping,taxi
+290	8	USER	キャッシュレス決済ができて、ジャンボタクシーが利用できる会社でお願いします。	general,shopping,taxi
+290	9	SYSTEM	小田急交通南多摩がございます。	general,shopping,taxi
+290	10	USER	小田急交通南多摩の電話番号を教えてもらえますか？	general,shopping,taxi
+290	11	SYSTEM	電話番号は0354847171でございます。	general,shopping,taxi
+290	12	USER	わかりました。こちらの会社で予約を取ってもらいたいです。	general,shopping,taxi
+290	13	SYSTEM	かしこまりました。日時と出発地、目的地を教えていただけますか。	general,shopping,taxi
+290	14	USER	11/27の時間は12:00に旅館 浅草三河屋を出発して、ルミネ新宿まで乗車したいと考えています。	general,shopping,taxi
+290	15	SYSTEM	はい。予約が完了いたしました。予約番号は92334でございます。	general,shopping,taxi
+290	16	USER	ご予約して下さりありがとうございました。	general,shopping,taxi

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3768	0	USER	大阪で、駐車場無料の書籍が買えるお店を探しています。	general,shopping
+3768	1	SYSTEM	1件みつかりました。MARUZEN&ジュンク堂書店 梅田店はいかがですか？	general,shopping
+3768	2	USER	定休日とエリア、最寄り駅はわかりますか？	general,shopping
+3768	3	SYSTEM	定休日は、1月1日のみです。　最寄り駅は、梅田駅になります。	general,shopping
+3768	4	USER	梅田駅は、何区になりますか？	general,shopping
+3768	5	SYSTEM	エリアは、北区になります。	general,shopping
+3768	6	USER	ありがとうございます。以上です	general,shopping
+3768	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

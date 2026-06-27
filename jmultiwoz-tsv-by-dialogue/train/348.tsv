@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+348	0	USER	東京での観光名所を探しています。	general,attraction,taxi
+348	1	SYSTEM	どういった観光名所をお探ししましょうか？	general,attraction,taxi
+348	2	USER	Wi-Fiと駐車場が無料で利用できるところはありますか？	general,attraction,taxi
+348	3	SYSTEM	大変申し訳ございません。東京では、Wi-Fiと駐車場が無料で利用できるところは、該当が見つかりませんでした。	general,attraction,taxi
+348	4	USER	では、Wi-Fiはなくても大丈夫です。	general,attraction,taxi
+348	5	SYSTEM	ありがとうございます。そうしますと、5件ほど、ご案内可能です。たとえば、根津神社はご興味ございませんか？	general,attraction,taxi
+348	6	USER	いいですね、ありがとうございます。営業時間はどんな感じですか？	general,attraction,taxi
+348	7	SYSTEM	営業時間は、5:00～18:00となっております。	general,attraction,taxi
+348	8	USER	ありがとうございます。あと、当日タクシーを利用したいのですが、キャッシュレス払いできるところはありますか？	general,attraction,taxi
+348	9	SYSTEM	はい、ございます。京王自動車 多摩北はいかがでしょうか？	general,attraction,taxi
+348	10	USER	そちらの電話番号を教えていただけませんか？	general,attraction,taxi
+348	11	SYSTEM	電話番号は、0336436881です。ご予約いたしますか？	general,attraction,taxi
+348	12	USER	はい、お願いします。3/26の11:40で大丸東京店から、根津神社までお願いできますか？	general,attraction,taxi
+348	13	SYSTEM	はい、予約完了いたしました。ご予約番号は、74812です。	general,attraction,taxi
+348	14	USER	ありがとうございました。以上です。お世話になりました。	general,attraction,taxi
+348	15	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,attraction,taxi

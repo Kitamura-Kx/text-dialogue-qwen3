@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+657	0	USER	お伺いします。仙台の観光名所を教えてください。	general,attraction
+657	1	SYSTEM	かしこまりました。50件ほど候補があるのですが、エリアなど、何かご希望はございませんか？	general,attraction
+657	2	USER	Wi-Fiが無料で利用できるところで、ジャンルは展望台・タワーが希望です。	general,attraction
+657	3	SYSTEM	申し訳ございません。そうしますと、ご案内できる候補が見つかりませんでした。	general,attraction
+657	4	USER	ではジャンルは考慮しなくてもよいです。	general,attraction
+657	5	SYSTEM	ありがとうございます。では、仙台市文学館はいかがでしょうか？ジャンルは、美術館・博物館, アートギャラリー, 教室・ワークショップ・体験、となっております。	general,attraction
+657	6	USER	そこの電話番号を教えてください。	general,attraction
+657	7	SYSTEM	電話番号は、0222713020でございます。	general,attraction
+657	8	USER	そこに決めたいと思います。ありがとうございました。	general,attraction

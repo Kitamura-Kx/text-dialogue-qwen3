@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2103	0	USER	今度、福岡の博多区辺りに行くので、コンビニを探しています。	general,shopping
+2103	1	SYSTEM	かしこまりました。では、JR九州 博多駅はいかがでしょうか？	general,shopping
+2103	2	USER	買い物ができるコンビニの電話番号を知りたいのですが、JR九州 博多駅というのは、コンビニの名前ですか？	general,shopping
+2103	3	SYSTEM	はい、店舗名がJR九州 博多駅となっております。電話番号は0924310202です。	general,shopping
+2103	4	USER	分かりました。ありがとうございます。助かりました。失礼します。	general,shopping

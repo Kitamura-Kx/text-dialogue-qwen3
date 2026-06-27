@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3150	0	USER	福岡に行くのですが、予算が普通な宿泊できる所を探しています。Wi-Fiが無料な所がいいです。	general,hotel
+3150	1	SYSTEM	かしこまりました。では、ANA クラウンプラザホテル福岡はいかがでしょうか？博多区にあるシティホテルとなります。	general,hotel
+3150	2	USER	ありがとうございます。駐車場はあるでしょうか？	general,hotel
+3150	3	SYSTEM	はい、駐車場は有料ですが、ご利用いただけます。	general,hotel
+3150	4	USER	そうですか、ありがとうございました。では失礼します。	general,hotel
+3150	5	SYSTEM	こちらこそ、ご利用ありがとうございました。また何かございましたが、お気軽にお問い合わせくださいませ。	general,hotel

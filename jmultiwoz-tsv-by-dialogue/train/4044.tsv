@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4044	0	USER	横浜への旅行を計画しています。 てんぐという飲食店で食事をしたいのですがありますか？	general,restaurant,taxi
+4044	1	SYSTEM	はい、てんぐという名前の飲食店、ございます。	general,restaurant,taxi
+4044	2	USER	では、エリア，住所，値段帯を教えてください。	general,restaurant,taxi
+4044	3	SYSTEM	はい、エリアは神奈川区、住所は神奈川県横浜市神奈川区松本町5丁目36-12、値段帯は高めでございます。	general,restaurant,taxi
+4044	4	USER	続いて、タクシー会社を探してください。キャッシュレス払いできるところにしてください。	general,restaurant,taxi
+4044	5	SYSTEM	お待たせ致しました。それでは日本サントスキャブ株式会社はいかがでしょうか？	general,restaurant,taxi
+4044	6	USER	その会社の電話番号が知りたいです。	general,restaurant,taxi
+4044	7	SYSTEM	はい、電話番号は0120193117でございます。	general,restaurant,taxi
+4044	8	USER	では予約をお願いします。日付は11/10、時間は11:00、出発地はてんぐ、目的地はホテルテトラ鶴見でお願いします。	general,restaurant,taxi
+4044	9	SYSTEM	申し訳ありません。その条件では予約が出来ませんでした。	general,restaurant,taxi
+4044	10	USER	なるほど。では、時間を12:00に変更したらどうでしょうか。	general,restaurant,taxi
+4044	11	SYSTEM	お待たせ致しました。予約番号45652でお取りさせていただきました。	general,restaurant,taxi
+4044	12	USER	解決しました。ありがとうございました。	general,restaurant,taxi

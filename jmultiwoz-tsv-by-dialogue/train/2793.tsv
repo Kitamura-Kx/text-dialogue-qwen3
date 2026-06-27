@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2793	0	USER	仙台への旅行を検討しています。青葉区で当日訪れる観光名所を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,attraction,shopping,weather
+2793	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,shopping,weather
+2793	2	USER	そうですね。駐車場が無料で利用できるグランピング施設を探しているんですけれども、該当する施設はありますかね？	general,attraction,shopping,weather
+2793	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,shopping,weather
+2793	4	USER	そうですか。でしたら、グランピングは出来なくても大丈夫ですので、それ以外の条件に該当する施設はありますか？	general,attraction,shopping,weather
+2793	5	SYSTEM	ありがとうございます。では、ニッカウイスキー仙台工場宮城峡蒸溜所はいかがでしょう？ジャンルは、工場見学となります。	general,attraction,shopping,weather
+2793	6	USER	そこで検討してみようと思います。ちなみに、この施設の大人の入場料ってわかりますかね？	general,attraction,shopping,weather
+2793	7	SYSTEM	大人入場料は必要なく、無料でご利用いただけます。	general,attraction,shopping,weather
+2793	8	USER	そうなんですね。後、定休日とかも教えて貰えませんか？	general,attraction,shopping,weather
+2793	9	SYSTEM	はい、定休日は年末年始となります。	general,attraction,shopping,weather
+2793	10	USER	助かります。それと、当日買い物が出来る場所も探しているのですが、引き続き、お伺いしてもよろしいでしょうか？	general,attraction,shopping,weather
+2793	11	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,shopping,weather
+2793	12	USER	そうですね。駐車場が無料で利用出来れば大丈夫なのですが、どうでしょうか？	general,attraction,shopping,weather
+2793	13	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,shopping,weather
+2793	14	USER	それは残念です。でしたら、特に条件はありませんので、何処かおすすめの場所はありますか？	general,attraction,shopping,weather
+2793	15	SYSTEM	申し訳ありません、では、エリアでいうと青葉区にある、きものリユース ながもち屋はいかがでしょう？ジャンルは、ファッション、文房具、雑貨となります。	general,attraction,shopping,weather
+2793	16	USER	そこで検討してみたいと思います。このお店の営業時間はわかりますか？	general,attraction,shopping,weather
+2793	17	SYSTEM	はい、営業時間は11時から19時となります。	general,attraction,shopping,weather
+2793	18	USER	ありがとうございます。定休日も教えて頂けますか？	general,attraction,shopping,weather
+2793	19	SYSTEM	定休日はございません。	general,attraction,shopping,weather
+2793	20	USER	ありがとうございます。最後に、若林区の旅行当日の天気も教えて頂きたいのですが、よろしいでしょうか？	general,attraction,shopping,weather
+2793	21	SYSTEM	はい、ご旅行はいつのご予定でしょうか？	general,attraction,shopping,weather
+2793	22	USER	はい。6月1日でお願いします。	general,attraction,shopping,weather
+2793	23	SYSTEM	ありがとうございます。天気は晴のち曇、最低気温22.6度、最高気温30.2度となります。	general,attraction,shopping,weather
+2793	24	USER	ありがとうございます。もう少し検討してみます。ご対応、ありがとうございました。	general,attraction,shopping,weather
+2793	25	SYSTEM	ありがとうございました。	general,attraction,shopping,weather

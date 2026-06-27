@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4502	0	USER	京都へ旅行予定なので、レストランがあって、Wi-Fiが無料で使える宿泊施設を探してください。	general,hotel,weather,taxi
+4502	1	SYSTEM	京都には、WiFi無料でレストラン併設の宿泊施設は46件ありますが、なごみ旅館 悠をお勧めします。	general,hotel,weather,taxi
+4502	2	USER	いいですね。チェックアウト終了時刻と料金情報を教えてください。	general,hotel,weather,taxi
+4502	3	SYSTEM	チェックアウト終了時刻は11:00、値段帯は安めですが料金情報詳細までは不明です。	general,hotel,weather,taxi
+4502	4	USER	そうですか。予約もお願いします。2人で9/7から3泊の予定です。	general,hotel,weather,taxi
+4502	5	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,hotel,weather,taxi
+4502	6	USER	それだったら人数を1人にしてください。	general,hotel,weather,taxi
+4502	7	SYSTEM	予約成功しました。予約番号は82142です。	general,hotel,weather,taxi
+4502	8	USER	ありがとうございます。あと、南区の9/7の天候も調べてください。	general,hotel,weather,taxi
+4502	9	SYSTEM	9/7 京都 南区 の天気は雨、最低気温19.1度、最高気温31.3度です。	general,hotel,weather,taxi
+4502	10	USER	ありがとうございます。あと、当日ジャンボタクシーの利用も考えているのですが、いいところありませんか？	general,hotel,weather,taxi
+4502	11	SYSTEM	はい、ジャンボタクシー対応の会社ならば、高速タクシー株式会社をお勧めします。	general,hotel,weather,taxi
+4502	12	USER	ならそこで9/7の12:00に予約をお願いします。出発はなごみ旅館 悠で、目的地はホテルグランヴィア京都です。	general,hotel,weather,taxi
+4502	13	SYSTEM	予約成功しました。予約番号は64953です。	general,hotel,weather,taxi
+4502	14	USER	ありがとうございました。	general,hotel,weather,taxi
+4502	15	SYSTEM	よい旅を。	general,hotel,weather,taxi

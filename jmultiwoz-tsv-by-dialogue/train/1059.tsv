@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1059	0	USER	今度、東京へ行くのでシティホテルで駐車場が無料の所を探しています。	general,hotel,restaurant
+1059	1	SYSTEM	かしこまりました。そうしますと、帝国ホテル東京と、The Okura Tokyoという2件がご案内可能ですが、ご興味のあるほうはございますか？	general,hotel,restaurant
+1059	2	USER	どちらでも大丈夫ですが、予約ができる所が良いです。帝国ホテル東京の方で料金情報を教えてください。Wi-Fiはありますかね？	general,hotel,restaurant
+1059	3	SYSTEM	かしこまりました。帝国ホテル東京にはWiFiが無料でご利用いただけます。また料金についてですが、お値段帯が普通ということと、WiFiと駐車場が無料ということ以外、詳しい情報が手元になくご案内できかねます。申し訳ありません。	general,hotel,restaurant
+1059	4	USER	いえいえ、大丈夫です。では1月20日に3人で3泊予約できますか？	general,hotel,restaurant
+1059	5	SYSTEM	はい、ご予約ありがとうございます。ご予約番号16202にて、予約完了いたしました。	general,hotel,restaurant
+1059	6	USER	ありがとうございます。それから渋谷区で食事をしたいのですが、高めの中華料理店を教えてください。	general,hotel,restaurant
+1059	7	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるお店が見つかりませんでした。	general,hotel,restaurant
+1059	8	USER	そうですか。ではイタリアン・フレンチだったら高めのお店ありますか？	general,hotel,restaurant
+1059	9	SYSTEM	ありがとうございます。そうしますと、4件のお店がご案内可能です。たとえば、BISTRO BINGOというお店がございますが、いかがでしょうか？	general,hotel,restaurant
+1059	10	USER	そこにします。営業時間を教えてください。	general,hotel,restaurant
+1059	11	SYSTEM	営業時間は、11:30～15:00と17:00～20:00の2部に分かれております。	general,hotel,restaurant
+1059	12	USER	分かりました。参考にします。ありがとうございます。失礼します。	general,hotel,restaurant

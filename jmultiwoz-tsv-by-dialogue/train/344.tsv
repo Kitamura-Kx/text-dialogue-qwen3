@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+344	0	USER	札幌の宿泊施設を探しています。	general,hotel
+344	1	SYSTEM	ご利用ありがとうございます。なにかご希望の条件はございませんか？	general,hotel
+344	2	USER	南区で、駐車場が無料のところがいいです。	general,hotel
+344	3	SYSTEM	そうしますと、4件候補がございます。たとえば、南区の定山渓ビューホテルはいかがでしょうか？	general,hotel
+344	4	USER	値段帯とWi-Fiがあるかどうかを教えてください。	general,hotel
+344	5	SYSTEM	値段帯はお安めとなっております。WiFiにつきましても、無料でご利用いただけます。	general,hotel
+344	6	USER	ありがとうございます。では予約をお願いします。１月９日で、３人で２泊お願いできますか？	general,hotel
+344	7	SYSTEM	はい、ご予約ありがとうございます。予約番号91769にて、承りました。	general,hotel
+344	8	USER	ありがとうございました！以上です。お世話になりました。	general,hotel
+344	9	SYSTEM	こちらこそ、ご利用ありがとうございました。また何かございましたらお気軽にどうぞ。	general,hotel

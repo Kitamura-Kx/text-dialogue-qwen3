@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2252	0	USER	仙台へ旅行に行くんですが、宿泊施設を探して欲しいです。	general,hotel
+2252	1	SYSTEM	はい、ご希望はありますか？	general,hotel
+2252	2	USER	予算は高めでお願いします！	general,hotel
+2252	3	SYSTEM	仙台には価格帯高めの宿泊施設はありません。	general,hotel
+2252	4	USER	そうなんですね。では予算は何でも大丈夫です！	general,hotel
+2252	5	SYSTEM	仙台の宿泊施設は９１件ほどヒットします。追加の希望条件はありますか？	general,hotel
+2252	6	USER	他はありません。お任せします！	general,hotel
+2252	7	SYSTEM	ならば、アパヴィラホテル<仙台駅五橋>をお勧めします。	general,hotel
+2252	8	USER	ありがとうございます。住所と駐車場の有無について教えてください。	general,hotel
+2252	9	SYSTEM	宮城県仙台市若林区五橋3丁目1-1、駐車場は有料のがあります。	general,hotel
+2252	10	USER	なるほどです！あと、近辺の駅からの所要時間は分かりますか？	general,hotel
+2252	11	SYSTEM	五橋駅から徒歩で2分、仙台駅からだと徒歩で8分ですね。	general,hotel
+2252	12	USER	ありがとうございます。助かりました！	general,hotel
+2252	13	SYSTEM	お役に立てて光栄です。	general,hotel

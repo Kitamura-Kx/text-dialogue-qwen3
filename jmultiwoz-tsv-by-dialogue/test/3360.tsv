@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3360	0	USER	仙台への旅行を計画中で、長町南駅にある観光名所を探しています。無料Wi-fi付きが良いです。	general,attraction,hotel,weather
+3360	1	SYSTEM	申し訳ございません。ございません。	general,attraction,hotel,weather
+3360	2	USER	分かりました。では、Wi-fi付きでなくても構いません。	general,attraction,hotel,weather
+3360	3	SYSTEM	日帰り温浴施設 やまびこの湯 ベガロポリス仙台南店がご紹介できます。	general,attraction,hotel,weather
+3360	4	USER	そこにしようと思います。料金情報を教えてください。	general,attraction,hotel,weather
+3360	5	SYSTEM	中学生以上が平日 700円、　土、日、祝 750円、3歳以上～小学生は平日 300円　土・日・祝 350円です。	general,attraction,hotel,weather
+3360	6	USER	ありがとうございます。若林区にあるビジネスホテルを探しています。予算は普通が良いのですが、ありますか？	general,attraction,hotel,weather
+3360	7	SYSTEM	ございません。	general,attraction,hotel,weather
+3360	8	USER	分かりました。では、予算は安めでも構いません。	general,attraction,hotel,weather
+3360	9	SYSTEM	ANAホリデイ・イン仙台 ホテルルートイン仙台東 ホテル シーラックパル仙台 R&Bホテル仙台東口がご紹介できます。	general,attraction,hotel,weather
+3360	10	USER	ホテルルートイン仙台東にしようと思います。チェックイン開始時刻とチェックアウト終了時刻、駐車場の有無を教えてください。	general,attraction,hotel,weather
+3360	11	SYSTEM	チェックイン開始時刻は15:00、 チェックアウト終了時刻は10:00です。	general,attraction,hotel,weather
+3360	12	USER	ありがとうございます。駐車場はありますか？	general,attraction,hotel,weather
+3360	13	SYSTEM	あります。	general,attraction,hotel,weather
+3360	14	USER	ありがとうございます。6/5に4名で3泊予約して欲しいのですが可能でしょうか	general,attraction,hotel,weather
+3360	15	SYSTEM	申し訳ございません。失敗しました。	general,attraction,hotel,weather
+3360	16	USER	分かりました。では、2泊に変更してください	general,attraction,hotel,weather
+3360	17	SYSTEM	かしこまりました。予約番号は94512です。	general,attraction,hotel,weather
+3360	18	USER	ありがとうございます。6/5の青葉区の最低気温と最高気温を教えてください。	general,attraction,hotel,weather
+3360	19	SYSTEM	最低気温 19.3度 最高気温 30.6度です。	general,attraction,hotel,weather
+3360	20	USER	助かりました。ありがとうございました。	general,attraction,hotel,weather
+3360	21	SYSTEM	ありがとうございました。	general,attraction,hotel,weather
+3360	22	USER		general,attraction,hotel,weather

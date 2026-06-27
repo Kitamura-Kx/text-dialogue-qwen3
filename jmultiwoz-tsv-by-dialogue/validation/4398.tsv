@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4398	0	USER	京都への旅行を計画中で、西京区にある観光名所を探しています。無料駐車場付きが良いです。	general,attraction,shopping
+4398	1	SYSTEM	かしこまりました。では桂坂野鳥遊園がございます。	general,attraction,shopping
+4398	2	USER	そこにしようと思います。大人入場料と子供入場料を教えてください。	general,attraction,shopping
+4398	3	SYSTEM	大人、子供共に入場料は０円でございます。	general,attraction,shopping
+4398	4	USER	ありがとうございます。当日北区で買い物ができる場所を探しています。無料駐車場付きがいいです。	general,attraction,shopping
+4398	5	SYSTEM	ではMalebranche 北山本店はいかがですか。	general,attraction,shopping
+4398	6	USER	そこにしようと思います。住所と営業時間、お店のジャンルを教えてください。	general,attraction,shopping
+4398	7	SYSTEM	はい。住所は京都府京都市北区北山通植物園北山門前で、営業時間は９:００から18：００でございます。お店のジャンルは食料品、お土産となっております。	general,attraction,shopping
+4398	8	USER	助かります。ありがとうございます。	general,attraction,shopping
+4398	9	SYSTEM	ほかにご用件はございませんか。	general,attraction,shopping
+4398	10	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,shopping
+4398	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping

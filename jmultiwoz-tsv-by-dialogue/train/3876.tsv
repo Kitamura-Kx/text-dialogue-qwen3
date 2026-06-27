@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3876	0	USER	京都へ行くのですが、ジャンボタクシーが利用できるタクシー会社を探してもらえますか？	general,taxi,weather
+3876	1	SYSTEM	かしこまりました。では、都タクシー株式会社はいかがでしょうか？	general,taxi,weather
+3876	2	USER	ありがとうございます。そこのキャッシュレス払いの有無と電話番号を教えてください。	general,taxi,weather
+3876	3	SYSTEM	はい、キャッシュレスにも対応しております。電話番号は0756616611でございます。	general,taxi,weather
+3876	4	USER	ありがとうございます。ではそこでタクシーの予約をお願いできますか？1/14の9：40に画箋堂を出発して、エムズホテル五条ODAWARAまで利用したいです。	general,taxi,weather
+3876	5	SYSTEM	お待たせ致しました。予約番号10850でお取りさせていただきました。	general,taxi,weather
+3876	6	USER	ありがとうございます。あと1/14の伏見区の最高気温と天気も教えてもらえますか？	general,taxi,weather
+3876	7	SYSTEM	お待たせ致しました。当日の天気は晴時々曇、最高気温は6.5度の予報でございます。	general,taxi,weather
+3876	8	USER	ありがとうございました。以上で結構です。	general,taxi,weather
+3876	9	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi,weather

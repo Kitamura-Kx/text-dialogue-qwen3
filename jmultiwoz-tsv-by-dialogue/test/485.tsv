@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+485	0	USER	旅行で京都へ行くのですが六地蔵駅周辺で世界遺産はありますか？	general,attraction
+485	1	SYSTEM	もうしわけございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,attraction
+485	2	USER	別の駅ではどうでしょうか？	general,attraction
+485	3	SYSTEM	では元離宮二条城はいかがでしょうか。	general,attraction
+485	4	USER	元離宮二条城の近くには駐車場はありますか？あれば住所と営業時間を教えてください	general,attraction
+485	5	SYSTEM	有料ですが駐車場もございます。住所は京都府京都市中京区二条通堀川西入二条城町541で、営業時間は08:45～16:00でございます。	general,attraction
+485	6	USER	有難うございました、利用したいと思います	general,attraction
+485	7	SYSTEM	ほかにご用件はございませんか。	general,attraction
+485	8	USER	はい、大丈夫です有難うございました	general,attraction
+485	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

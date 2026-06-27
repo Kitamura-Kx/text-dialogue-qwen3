@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4025	0	USER	仙台への旅行を計画中で、アウトレットモールを探しています。	general,shopping,attraction
+4025	1	SYSTEM	かしこまりました。では、仙台泉プレミアム・アウトレットはいかがでしょうか？	general,shopping,attraction
+4025	2	USER	ありがとうございます。泉区にあって無料駐車場付きが良いのですが、マッチしていますか？	general,shopping,attraction
+4025	3	SYSTEM	はい。条件を満たしております。	general,shopping,attraction
+4025	4	USER	ありがとうございます。では、最寄駅からの所要時間と営業時間を教えてください。	general,shopping,attraction
+4025	5	SYSTEM	はい。最寄り駅の泉中央駅からバスで23分です。また、営業時間は10:00～20:00となっております。	general,shopping,attraction
+4025	6	USER	ありがとうございます。当日観光名所も訪れる予定で無料Wi-fi付きのテーマパークを探しているのですが、ありますか？	general,shopping,attraction
+4025	7	SYSTEM	かしこまりました。では、仙台アンパンマンこどもミュージアム&モールはいかがでしょうか？	general,shopping,attraction
+4025	8	USER	そこにしようと思います。住所と電話番号、子供入場料を教えてください。	general,shopping,attraction
+4025	9	SYSTEM	はい。住所は宮城県仙台市宮城野区小田原山本丁101-14で、電話番号は0222988855になります。子供入場料ですが、2000円でございます。	general,shopping,attraction
+4025	10	USER	助かりました。ありがとうございます。	general,shopping,attraction
+4025	11	SYSTEM	こちらこそありがとうございました。	general,shopping,attraction
+4025	12	USER	では、失礼します。	general,shopping,attraction

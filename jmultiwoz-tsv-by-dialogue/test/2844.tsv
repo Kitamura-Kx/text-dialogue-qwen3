@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2844	0	USER	札幌に旅行に行こうと思っています。当日訪れる観光名所探しています。ジャンルは建築物で駐車場は無料でりようできるところが良いです。	general,attraction,shopping
+2844	1	SYSTEM	承知しました。では、札幌市役所 展望回廊はいかがでしょう？エリアでいうと中央区にございます。	general,attraction,shopping
+2844	2	USER	そこが良さそうですね。そこの電話番号を教えてください。	general,attraction,shopping
+2844	3	SYSTEM	はい、電話番号は、0112112111となります。	general,attraction,shopping
+2844	4	USER	あと当日買い物ができるところも探しています。ジャンルは旅行用品です。	general,attraction,shopping
+2844	5	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しましょう？	general,attraction,shopping
+2844	6	USER	ではジャンルを書籍に変更します。	general,attraction,shopping
+2844	7	SYSTEM	では、エリアでいうと中央区にある、ろばのこはいかがでしょう？	general,attraction,shopping
+2844	8	USER	そこが良さそうですね。そこは駐車場はありますでしょうか？あと住所も教えてください。	general,attraction,shopping
+2844	9	SYSTEM	申し訳ありません、駐車場の有無は不明です。住所は、北海道札幌市中央区大通西17丁目1-7 庭ビル 2Fとなります。	general,attraction,shopping
+2844	10	USER	そうですか。分かりました。	general,attraction,shopping
+2844	11	SYSTEM	他にご用件はございますか？	general,attraction,shopping
+2844	12	USER	大丈夫です。ありがとうございました。	general,attraction,shopping
+2844	13	SYSTEM	ありがとうございました。	general,attraction,shopping

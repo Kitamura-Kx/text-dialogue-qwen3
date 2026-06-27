@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2039	0	USER	こんにちは。京都で飲食店を探してるんですが。予算は高めを想定しています。	general,restaurant,attraction,taxi
+2039	1	SYSTEM	申し訳ありません。その条件では飲食店をお探しすることが出来ませんでした。	general,restaurant,attraction,taxi
+2039	2	USER	そうですか、、、では予算の条件を除いて、再検索お願いします。	general,restaurant,attraction,taxi
+2039	3	SYSTEM	かしこまりました。それではスペインバル Ternuraはいかがでしょうか？	general,restaurant,attraction,taxi
+2039	4	USER	そのお店のジャンルは何ですか？あと、定休日も知りたいです。	general,restaurant,attraction,taxi
+2039	5	SYSTEM	ジャンルはその他となっております。定休日は第三水曜日とのことです。	general,restaurant,attraction,taxi
+2039	6	USER	ありがとうございます。続いて、観光名所も教えてください。右京区で、嵯峨嵐山駅近くの観光名所はありますか？	general,restaurant,attraction,taxi
+2039	7	SYSTEM	はい、そちらの条件ですと嵯峨野トロッコ列車がございます。	general,restaurant,attraction,taxi
+2039	8	USER	住所も教えてください。	general,restaurant,attraction,taxi
+2039	9	SYSTEM	はい、住所は京都府京都市右京区嵯峨天龍寺車道町でございます。	general,restaurant,attraction,taxi
+2039	10	USER	最後に、タクシーの情報もお願いします。ジャンボタクシーが利用できる会社はありますか？	general,restaurant,attraction,taxi
+2039	11	SYSTEM	申し訳ありません。京都ですとジャンボタクシーがご利用いただけるタクシー会社をお探しすることが出来ませんでした。	general,restaurant,attraction,taxi
+2039	12	USER	なら、ジャンボタクシーの条件を除いてください。	general,restaurant,attraction,taxi
+2039	13	SYSTEM	かしこまりました。それではギオン自動車株式会社はいかがでしょうか？	general,restaurant,attraction,taxi
+2039	14	USER	ちなみにその会社はキャッシュレス対応をされてますか？あと、電話番号も知りたいです。	general,restaurant,attraction,taxi
+2039	15	SYSTEM	申し訳ありません。キャッシュレス対応は分かりかねます。電話番号は0757216868でございます。	general,restaurant,attraction,taxi
+2039	16	USER	分かりました。2/20の12:50で予約をお願いできますか？スペインバル Ternuraから嵯峨野トロッコ列車までお願いします。	general,restaurant,attraction,taxi
+2039	17	SYSTEM	お待たせいたしました。予約番号25406で抑えさせていただきました。	general,restaurant,attraction,taxi
+2039	18	USER	ありがとうございます！助かりました。	general,restaurant,attraction,taxi

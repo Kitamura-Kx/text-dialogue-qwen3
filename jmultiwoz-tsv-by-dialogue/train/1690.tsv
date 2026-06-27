@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1690	0	USER	名古屋へ旅行を計画していて、安めの宿泊施設を探してほしいです。レストランあるところにしてください。	general,hotel,shopping,attraction
+1690	1	SYSTEM	かしこまりました。ほかにご希望の条件はございませんか。	general,hotel,shopping,attraction
+1690	2	USER	いえ、特に希望ありません。	general,hotel,shopping,attraction
+1690	3	SYSTEM	ではザ ロイヤルパーク キャンバス 名古屋はいかがでしょうか。	general,hotel,shopping,attraction
+1690	4	USER	そこにします。チェックアウト終了時刻とチェックイン開始時刻はわかりますか？	general,hotel,shopping,attraction
+1690	5	SYSTEM	チェックアウト終了時刻は11:00、チェックイン開始時刻は15:00でございます。	general,hotel,shopping,attraction
+1690	6	USER	了解です。ついでにスポーツ系のものを買い物できるところ探してください。駐車場が無料のとこがいいです。	general,hotel,shopping,attraction
+1690	7	SYSTEM	かしこまりました。では公武堂MACSはいかがでしょうか。	general,hotel,shopping,attraction
+1690	8	USER	そこにします。営業時間を教えてください。	general,hotel,shopping,attraction
+1690	9	SYSTEM	営業時間は10:00～20:00でございます。	general,hotel,shopping,attraction
+1690	10	USER	わかりました。観光名所も探していて、千種区で無料Wi-Fiがあるところはありますか？	general,hotel,shopping,attraction
+1690	11	SYSTEM	かしこまりました。では名古屋市東山動植物園はいかがでしょうか。	general,hotel,shopping,attraction
+1690	12	USER	動植物園いいですね。営業時間わかりますか？	general,hotel,shopping,attraction
+1690	13	SYSTEM	営業時間は09:00～16:50でございます。	general,hotel,shopping,attraction
+1690	14	USER	了解ですもう大丈夫です。ありがとうございました。	general,hotel,shopping,attraction
+1690	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,attraction

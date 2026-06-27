@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3316	0	USER	那覇に旅行に行きますが、地区は本庁で駐車場無料の飲食店はありませんか？	general,restaurant,attraction,taxi
+3316	1	SYSTEM	本庁で駐車場無料の飲食店はいくつかありますが、沖縄らしいところで、ステーキハウス88 国際通り店、こちらはいかがでしょうか？	general,restaurant,attraction,taxi
+3316	2	USER	いいですね、住所を教えてください。	general,restaurant,attraction,taxi
+3316	3	SYSTEM	沖縄県那覇市牧志3丁目1-6です。	general,restaurant,attraction,taxi
+3316	4	USER	ありがとうございます。壺屋駅の近くでスポーツ・フィットネスの観光名所があれば教えてください。	general,restaurant,attraction,taxi
+3316	5	SYSTEM	壺屋駅？壷川駅でしょうか？	general,restaurant,attraction,taxi
+3316	6	USER	すみません、間違えました。壺川駅です。	general,restaurant,attraction,taxi
+3316	7	SYSTEM	壷川駅でスポーツフィットネス系観光名所といえば、奥武山公園です	general,restaurant,attraction,taxi
+3316	8	USER	そこはWi-Fiがありますか？	general,restaurant,attraction,taxi
+3316	9	SYSTEM	WiFiはありません	general,restaurant,attraction,taxi
+3316	10	USER	わかりました、ジャンボタクシーでキャッシュレス払いができるタクシー会社はありませんか？	general,restaurant,attraction,taxi
+3316	11	SYSTEM	はい、丸星交通をおすすめします	general,restaurant,attraction,taxi
+3316	12	USER	3月22日の12:50に、ステーキハウス88 国際通り店から奥武山公園までで、予約お願いします。	general,restaurant,attraction,taxi
+3316	13	SYSTEM	予約成功しました。予約番号は34829です。	general,restaurant,attraction,taxi
+3316	14	USER	ありがとうございました。	general,restaurant,attraction,taxi
+3316	15	SYSTEM	よい旅を	general,restaurant,attraction,taxi

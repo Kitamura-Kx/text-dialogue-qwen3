@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1515	0	USER	京都への旅行で当日訪れる観光名所を探して頂けますか？	general,attraction,hotel,taxi
+1515	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,hotel,taxi
+1515	2	USER	テーマパークで、駐車場を無料で利用できる場所がいいです。	general,attraction,hotel,taxi
+1515	3	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,attraction,hotel,taxi
+1515	4	USER	それであれば駐車場はなくても構いません。	general,attraction,hotel,taxi
+1515	5	SYSTEM	ありがとうございます。では、エリアでいうと下京区にある、VIVAスクエア京都はいかがでしょう？何かご案内致しましょうか？	general,attraction,hotel,taxi
+1515	6	USER	ではそちらに伺いたいと思います。子供入場料とWi-Fiの有無は分かりますか？	general,attraction,hotel,taxi
+1515	7	SYSTEM	申し訳ありません。子供入場料、Wi-Fiの有無、ともに不明となっております。他にご案内できることはございますか？	general,attraction,hotel,taxi
+1515	8	USER	ありがとうございます。ついでに、当日泊まる宿泊施設も教えて頂けると助かります。	general,attraction,hotel,taxi
+1515	9	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,hotel,taxi
+1515	10	USER	駐車場を無料で利用できるところがいいです。あと、予算は高めで旅館だとうれしいです。	general,attraction,hotel,taxi
+1515	11	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,attraction,hotel,taxi
+1515	12	USER	それでは、予算の希望はなしで大丈夫です。	general,attraction,hotel,taxi
+1515	13	SYSTEM	ありがとうございます。では、エリアでいうと伏見区にある、旅館 寿々喜荘はいかがでしょう？Wi-Fi、駐車場ともに無料でご利用いただけます。	general,attraction,hotel,taxi
+1515	14	USER	ではそちらでお願いします。4人で11/4から2泊を希望しているのですが、予約は空いていますか？	general,attraction,hotel,taxi
+1515	15	SYSTEM	申し訳ありません、その条件では予約ができませんでした。いかが致しましょう？	general,attraction,hotel,taxi
+1515	16	USER	人数を3人に変更したら予約可能でしょうか。	general,attraction,hotel,taxi
+1515	17	SYSTEM	はい、予約可能になりまして、ご予約番号は、56222となります。他にご案内できることはございますか？	general,attraction,hotel,taxi
+1515	18	USER	当日利用できるタクシー会社も教えていただけますでしょうか。ジャンボタクシー対応の会社でお願いします。	general,attraction,hotel,taxi
+1515	19	SYSTEM	承知しました。では、株式会社エコロ２１はいかがでしょう？キャッシュレスにも対応しております。電話番号は0758032228となります。予約はいかがされますか？	general,attraction,hotel,taxi
+1515	20	USER	予約もお願いします。11/4の12:20で、出発地はVIVAスクエア京都で、目的地は旅館 寿々喜荘までお願いします。	general,attraction,hotel,taxi
+1515	21	SYSTEM	承知しました。予約が完了し、ご予約番号は、19029となります。他にご用件はございますか？	general,attraction,hotel,taxi
+1515	22	USER	大丈夫です。ありがとうございました。	general,attraction,hotel,taxi

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+579	0	USER	こんにちは。大阪へ旅行に行きたいと思っています！	general,attraction,taxi,weather
+579	1	SYSTEM	大阪のご旅行でですね。本日はどういったお手伝いをいたしましょうか？	general,attraction,taxi,weather
+579	2	USER	観光名所を探してほしいです！四天王寺というところです！	general,attraction,taxi,weather
+579	3	SYSTEM	はい、1件該当するところが見つかりました。天王寺区エリアにある四天王寺でお間違い無いでしょうか？	general,attraction,taxi,weather
+579	4	USER	そうだと思います！住所と営業時間は分かりますか？	general,attraction,taxi,weather
+579	5	SYSTEM	はい。住所は、大阪府大阪市天王寺区四天王寺1丁目11-18です。営業時間は、0時から0時ですので24時間ですね。	general,attraction,taxi,weather
+579	6	USER	ありがとうございます。当日、ジャンボタクシー利用できるタクシー会社はありますか？	general,attraction,taxi,weather
+579	7	SYSTEM	はい、16件ほどございます。大宝タクシー株式会社でしたら、キャッシュレスのお支払いにも対応しておりますよ。	general,attraction,taxi,weather
+579	8	USER	いいですね！電話番号を教えてください。	general,attraction,taxi,weather
+579	9	SYSTEM	電話番号は、0647020011です。ご予約をおとりしましょうか？	general,attraction,taxi,weather
+579	10	USER	お願いします！3/6で12:30に四天王寺を出発して、9別邸 大阪谷町 MAISON DE 9というところを目的地にして欲しいです。	general,attraction,taxi,weather
+579	11	SYSTEM	申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,attraction,taxi,weather
+579	12	USER	13:30に出発時間を変更しても大丈夫です。	general,attraction,taxi,weather
+579	13	SYSTEM	ありがとうございます。13時半出発で、予約が完了いたしました。ご予約番号は、50917です。	general,attraction,taxi,weather
+579	14	USER	ありがとうございます。3/6の大正区の天気はどうですかね？	general,attraction,taxi,weather
+579	15	SYSTEM	はい。当日の天気は、晴れのち曇りの予報となっております。最低気温は5.4度、最高気温は16度になる予想です。	general,attraction,taxi,weather
+579	16	USER	色々教えていただきありがとうございました。旅行を楽しんできます！	general,attraction,taxi,weather
+579	17	SYSTEM	楽しいご旅行になるといいですね。他にお手伝いできることはございませんか？	general,attraction,taxi,weather
+579	18	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,taxi,weather
+579	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,taxi,weather

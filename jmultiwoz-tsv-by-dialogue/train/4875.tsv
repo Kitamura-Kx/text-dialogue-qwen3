@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4875	0	USER	京都まで旅行に行きたいと思っているのですが、最寄り駅が京都駅で、レストランが併設されている宿泊先はありませんか？	general,hotel,taxi
+4875	1	SYSTEM	天然温泉 蓮花の湯 御宿 野乃京都七条など、30件見つかりました。	general,hotel,taxi
+4875	2	USER	そこにしようと思います。3/5から3泊、2名で予約をお願いします。	general,hotel,taxi
+4875	3	SYSTEM	予約が完了しました。予約番号は58419です。	general,hotel,taxi
+4875	4	USER	ありがとうございます。ジャンボタクシーが使えて、キャッシュレス払いができるタクシー会社も探してもらえますか？	general,hotel,taxi
+4875	5	SYSTEM	帝産京都自動車株式会社など、10件見つかりました。	general,hotel,taxi
+4875	6	USER	帝産京都自動車株式会社の電話番号をおしえてもらえますか？	general,hotel,taxi
+4875	7	SYSTEM	電話番号は0756611881となります。	general,hotel,taxi
+4875	8	USER	3/5のお昼の12時40分に天然温泉 蓮花の湯 御宿 野乃京都七条から、先斗町駿河屋まで予約をお願いします。	general,hotel,taxi
+4875	9	SYSTEM	予約が完了しました。予約番号は52733です。	general,hotel,taxi
+4875	10	USER	ありがとうございます。	general,hotel,taxi
+4875	11	SYSTEM	他に何かご希望はありますか？	general,hotel,taxi
+4875	12	USER	もう大丈夫です、ありがとうございました。	general,hotel,taxi
+4875	13	SYSTEM	かしこまりました。ご利用ありがとうございました。	general,hotel,taxi

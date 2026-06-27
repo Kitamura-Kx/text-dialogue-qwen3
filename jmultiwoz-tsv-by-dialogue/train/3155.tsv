@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3155	0	USER	大阪への旅行を計画していて、当日の観光名所を探しています。Wi-Fi無料、駐車場無料のところが良いです。	general,attraction
+3155	1	SYSTEM	かしこまりました。そうしますと、鶴見緑地湯元 水春というところが、1件ご案内可能です。いかがでしょうか？	general,attraction
+3155	2	USER	ありがとうございました。	general,attraction
+3155	3	SYSTEM	他にお調べすることは何かございませんか？	general,attraction
+3155	4	USER	いえ、他にはありません。ありがとうございました。	general,attraction
+3155	5	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,attraction

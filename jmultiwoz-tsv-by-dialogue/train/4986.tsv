@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4986	0	USER	こんにちは、東京旅行を計画中です。最寄り駅が東京で気で、当日買い物できるお店はありますか？	general,shopping
+4986	1	SYSTEM	こんにちは。大丸東京店はいかがでしょうか？	general,shopping
+4986	2	USER	大丸東京店の定休日はありますか？	general,shopping
+4986	3	SYSTEM	定休日は1/1です。	general,shopping
+4986	4	USER	ありがとうございました。	general,shopping

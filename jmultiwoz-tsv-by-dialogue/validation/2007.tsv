@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2007	0	USER	那覇の県庁駅近くで、無料で駐車場が利用できる飲食店を探しています。	general,restaurant,shopping,taxi
+2007	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,shopping,taxi
+2007	2	USER	無料で駐車場が利用できれば、県庁駅近くでなくても構わないので、どこか探してもらえますか？	general,restaurant,shopping,taxi
+2007	3	SYSTEM	かしこまりました。では、やっぱりステーキ カクテルプラザ店はいかがでしょうか？	general,restaurant,shopping,taxi
+2007	4	USER	そのお店は近くの駅からどのくらいかかりますか？	general,restaurant,shopping,taxi
+2007	5	SYSTEM	はい。近辺の駅からの所要時間は、美栄橋駅から徒歩で14分。県庁前駅から徒歩で13分となっております。	general,restaurant,shopping,taxi
+2007	6	USER	ありがとうございます。奥武山公園駅地下Kで買い物ができるところも教えてもらえますか？	general,restaurant,shopping,taxi
+2007	7	SYSTEM	はい。最寄り駅が奥武山公園駅の、買い物店舗をご希望でよろしかったですか？	general,restaurant,shopping,taxi
+2007	8	USER	はい。あと駐車場が無料だと嬉しいのですが。	general,restaurant,shopping,taxi
+2007	9	SYSTEM	かしこまりました。では、LEO & JOEはいかがでしょうか？	general,restaurant,shopping,taxi
+2007	10	USER	ありがとうございます。当日タクシーを利用しようと思っているんですが、ジャンボタクシーが利用できる会社を探してもらえますか？	general,restaurant,shopping,taxi
+2007	11	SYSTEM	かしこまりました。では、沖縄交通はいかがでしょうか？キャッシュレスにも対応しております。	general,restaurant,shopping,taxi
+2007	12	USER	そちらの電話番号を教えてもらえますか？	general,restaurant,shopping,taxi
+2007	13	SYSTEM	はい。電話番号は0120170978です。	general,restaurant,shopping,taxi
+2007	14	USER	ありがとうございます。３月２９日の１４時半に、やっぱりステーキ カクテルプラザ店からLEO & JOEまで予約お願いできますか？	general,restaurant,shopping,taxi
+2007	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、45492です。	general,restaurant,shopping,taxi
+2007	16	USER	ありがとうございます。	general,restaurant,shopping,taxi
+2007	17	SYSTEM	他にご用件はありますか？	general,restaurant,shopping,taxi
+2007	18	USER	大丈夫です。ありがとうございました。	general,restaurant,shopping,taxi
+2007	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,taxi

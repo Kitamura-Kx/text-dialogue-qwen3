@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3716	0	USER	横浜へ旅行したいのですが。	general,hotel
+3716	1	SYSTEM	はい。何かお探しですか？	general,hotel
+3716	2	USER	当日泊まれる宿泊施設を探してください。無料のWi-Fiが使えて、駐車場が無料で、レストランが併設られているところはありますか？	general,hotel
+3716	3	SYSTEM	かしこまりました。では、旅館 松島はいかがでしょうか？	general,hotel
+3716	4	USER	そちらの宿のタイプと料金はどのような感じですか？	general,hotel
+3716	5	SYSTEM	はい。旅館になります。値段帯は安めです。	general,hotel
+3716	6	USER	そちらの宿は近い駅からの所要時間はどのくらいですか？	general,hotel
+3716	7	SYSTEM	最寄り駅の蒔田駅から徒歩で3分になります。	general,hotel
+3716	8	USER	わかりました。ありがとうございます。	general,hotel
+3716	9	SYSTEM	はい。他にご用件はありませんでしたか？	general,hotel
+3716	10	USER	特にありません。ありがとうございました。	general,hotel
+3716	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

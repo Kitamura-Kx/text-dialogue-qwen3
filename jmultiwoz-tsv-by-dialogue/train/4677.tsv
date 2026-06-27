@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4677	0	USER	京都への旅行で蓮華寺に行く予定なのですが営業時間と料金最寄り駅を聞きたいのですが	general,attraction,restaurant,taxi
+4677	1	SYSTEM	承知しました。営業時間は9時から17時、最寄りの御室仁和寺駅から徒歩で2分となります。料金情報としては、無料となります。	general,attraction,restaurant,taxi
+4677	2	USER	また当日の飲食店を探しているのですが上京区にいいお店はありますか予算は高めで大丈夫です	general,attraction,restaurant,taxi
+4677	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,restaurant,taxi
+4677	4	USER	では地区はどこでも大丈夫です	general,attraction,restaurant,taxi
+4677	5	SYSTEM	ありがとうございます。では、Ristorante t.v.bはいかがでしょう？ジャンルは、イタリアン、フレンチとなります。	general,attraction,restaurant,taxi
+4677	6	USER	ではそちらで４人で予約をしたいのですが大丈夫ですか	general,attraction,restaurant,taxi
+4677	7	SYSTEM	予約可能か確認しますので、日時を教えていただけますか？	general,attraction,restaurant,taxi
+4677	8	USER	かしこまりました。日時は2/14の16時半からでお願いします	general,attraction,restaurant,taxi
+4677	9	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、93647となります。	general,attraction,restaurant,taxi
+4677	10	USER	では当日ジャンボタクシーを利用したいのですが	general,attraction,restaurant,taxi
+4677	11	SYSTEM	承知しました。では、愛都交通株式会社はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0756460020となります。	general,attraction,restaurant,taxi
+4677	12	USER	では予約番号を教えて貰えますか	general,attraction,restaurant,taxi
+4677	13	SYSTEM	予約がご希望ですね？では、日付と出発時刻、出発地、目的地を教えていただけますか？	general,attraction,restaurant,taxi
+4677	14	USER	申し訳ございません。。では2/14の14時40分で蓮華寺からRistorante t.v.bでお願いします	general,attraction,restaurant,taxi
+4677	15	SYSTEM	承知しました。予約が完了し、ご予約番号は、84484となります。	general,attraction,restaurant,taxi
+4677	16	USER	かしこまりました以上で終わります	general,attraction,restaurant,taxi

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1556	0	USER	すみません、横浜へ旅行したいんですけれど。	general,restaurant,weather
+1556	1	SYSTEM	横浜へのご旅行ですね。今日はどんなお手伝いをいたしましょうか？	general,restaurant,weather
+1556	2	USER	食事ができるお店を探してほしいです。予算は高くて大丈夫です。	general,restaurant,weather
+1556	3	SYSTEM	かしこまりました。エリアや駐車場の有無など、何か他にご希望はございませんか？	general,restaurant,weather
+1556	4	USER	エリアは特にないです。できれば和食で、無料の駐車場があるところがよいです。	general,restaurant,weather
+1556	5	SYSTEM	かしこまりました。そうしますと、うなぎ料理 しま村 青葉台店というお店が1件ご案内可能です。いかがでしょうか？	general,restaurant,weather
+1556	6	USER	では、そこにします。最寄りの駅はどこになりますか？	general,restaurant,weather
+1556	7	SYSTEM	最寄り駅は、青葉台駅です。	general,restaurant,weather
+1556	8	USER	ありがとうございます。	general,restaurant,weather
+1556	9	SYSTEM	他にお調べすることはございますか？	general,restaurant,weather
+1556	10	USER	では、8/4の瀬谷区の最低気温と最高気温を教えてください。	general,restaurant,weather
+1556	11	SYSTEM	かしこまりました。当日の最低気温は26.6度、最高気温は36.2度の予想となっております。	general,restaurant,weather
+1556	12	USER	わかりました。ありがとうございました。	general,restaurant,weather
+1556	13	SYSTEM	他にお調べすることはございますか？	general,restaurant,weather
+1556	14	USER	特にないです。ありがとうございます。	general,restaurant,weather
+1556	15	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant,weather

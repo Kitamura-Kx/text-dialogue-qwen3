@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1855	0	USER	今度名古屋に行くので、港区で買い物をしたいと思っています。駐車場無料のお店はありますか？	general,shopping,weather
+1855	1	SYSTEM	かしこまりました。では、イオンモール名古屋茶屋はいかがでしょうか？ジャンルは百貨店や総合スーパーとなります。	general,shopping,weather
+1855	2	USER	ありがとうございます。電話番号と営業時間も教えて頂けますか？	general,shopping,weather
+1855	3	SYSTEM	はい。電話番号は0523096910でございます。営業時間は10:00～21:00です。	general,shopping,weather
+1855	4	USER	あと、お天気についても聞きたいです。11/25 緑区の天気と最低気温を教えてください。	general,shopping,weather
+1855	5	SYSTEM	かしこまりました。11/25の緑区の天気予報は晴のち曇となっております。最低気温は12.1度、最高気温は15.7度になる予報です。	general,shopping,weather
+1855	6	USER	今日知りたいことは以上です。ありがとうございました。	general,shopping,weather
+1855	7	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

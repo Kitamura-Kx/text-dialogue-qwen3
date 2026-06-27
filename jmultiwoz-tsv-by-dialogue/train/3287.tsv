@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3287	0	USER	名古屋で予算安めの飲食店を探しています。	general,restaurant,attraction,shopping
+3287	1	SYSTEM	名古屋で予算安めの飲食店はいくつかありますが、名古屋らしい、蒲郡桔梗屋、こちらをお勧めします。	general,restaurant,attraction,shopping
+3287	2	USER	そちらのお店の最寄り駅はどこになりますか？	general,restaurant,attraction,shopping
+3287	3	SYSTEM	名古屋駅です。	general,restaurant,attraction,shopping
+3287	4	USER	ありがとうございます。当日、松坂屋美術館に行こうと思っているのですが、電話番号を調べてもらえますか？	general,restaurant,attraction,shopping
+3287	5	SYSTEM	はい、0522511111になります。	general,restaurant,attraction,shopping
+3287	6	USER	ありがとうございます。買い物もしようと思っていて、千種区でファッションのジャンルが買えるお店ありますか？	general,restaurant,attraction,shopping
+3287	7	SYSTEM	千種区でファッションといえば、覚王山アパート、こちら一択ですね。	general,restaurant,attraction,shopping
+3287	8	USER	そのお店は近くの駅からどのくらいかかりますか？	general,restaurant,attraction,shopping
+3287	9	SYSTEM	覚王山駅から徒歩で5分です。	general,restaurant,attraction,shopping
+3287	10	USER	ありがとうございました。	general,restaurant,attraction,shopping
+3287	11	SYSTEM	よい旅を	general,restaurant,attraction,shopping

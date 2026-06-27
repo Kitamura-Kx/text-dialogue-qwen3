@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3190	0	USER	横浜への旅行を計画中で、キャッシュレス払いのできるジャンボタクシーを探しています。	general,taxi
+3190	1	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,taxi
+3190	2	USER	分かりました。では、キャッシュレス払いは不可でも構いません。	general,taxi
+3190	3	SYSTEM	かしこまりました。では、株式会社富士タクシーはいかがでしょうか？	general,taxi
+3190	4	USER	そこにしようと思います。電話番号はわかりますか？	general,taxi
+3190	5	SYSTEM	はい。電話番号は0457552211です。	general,taxi
+3190	6	USER	ありがとうございます。12/21の午前10:50に、三陸ワイン食堂 LE ALEから横浜テクノタワーホテルまで予約して欲しいのですが、可能でしょうか。	general,taxi
+3190	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、82564です。	general,taxi
+3190	8	USER	お手数をおかけしました。ありがとうございます。	general,taxi
+3190	9	SYSTEM	ほかにお調べすることはありますか？	general,taxi
+3190	10	USER	いえ、大丈夫です。ありがとうございました。	general,taxi
+3190	11	SYSTEM	承知しました。ありがとうございました。	general,taxi
+3190	12	USER	それでは、失礼します。	general,taxi

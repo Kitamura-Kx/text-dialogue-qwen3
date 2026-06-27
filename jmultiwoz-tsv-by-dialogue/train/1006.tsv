@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1006	0	USER	仙台へ旅行予定なのですが、飲食店を調べてください。	general,restaurant,attraction,taxi
+1006	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,restaurant,attraction,taxi
+1006	2	USER	駐車場を無料で利用できて、最寄り駅が卸町駅のところがいいです。	general,restaurant,attraction,taxi
+1006	3	SYSTEM	申し訳ございません。その条件では候補が見つかりませんでした。	general,restaurant,attraction,taxi
+1006	4	USER	そうですね。であれば駐車場はなくてもいいです。	general,restaurant,attraction,taxi
+1006	5	SYSTEM	ありがとうございます。そうしますと、2件ご案内可能です。お好み焼本舗 仙台卸町店と、喜多方ラーメン 大安食堂 仙台卸町店ですが、どちらかご興味ございませんか？	general,restaurant,attraction,taxi
+1006	6	USER	喜多方ラーメン 大安食堂 仙台卸町店でおねがいします。営業時間とジャンルを教えてください。	general,restaurant,attraction,taxi
+1006	7	SYSTEM	かしこまりました。喜多方ラーメン 大安食堂 仙台卸町店の営業時間は、11:00～22:00でございます。ジャンルは、ラーメン・つけ麺となっております。	general,restaurant,attraction,taxi
+1006	8	USER	ありがとうございます。3人で4/11の10:40の予約をお願いできますか？	general,restaurant,attraction,taxi
+1006	9	SYSTEM	かしこまりました。ご希望の条件で、ご予約をお取りしました。予約番号は、54464でございます。	general,restaurant,attraction,taxi
+1006	10	USER	わかりました。観光名所も調べてほしいのですが、太白区にあって、最寄り駅が愛宕橋駅のところはありますか？	general,restaurant,attraction,taxi
+1006	11	SYSTEM	申し訳ございません。その条件ですと、ご案内できる観光名所が見つかりませんでした。	general,restaurant,attraction,taxi
+1006	12	USER	そうですか。なら、最寄り駅は愛宕橋駅じゃなくても大丈夫です。	general,restaurant,attraction,taxi
+1006	13	SYSTEM	ありがとうございます。では、仙台市電保存館という、美術館・博物館ジャンルの観光名所はいかがでしょうか？こちらの最寄り駅は、富沢駅です。	general,restaurant,attraction,taxi
+1006	14	USER	そこにします。近辺の駅からの所要時間と、駐車場があるかどうかを教えてください。	general,restaurant,attraction,taxi
+1006	15	SYSTEM	富沢駅から徒歩で15分の場所にございます。また、駐車場は無料のものがございます。	general,restaurant,attraction,taxi
+1006	16	USER	わかりました。当日タクシーを使いたいのですが、キャッシュレス払いできるところはありますか？	general,restaurant,attraction,taxi
+1006	17	SYSTEM	はい、15件ほどご案内可能です。宮城タクシー（株）はいかがでしょうか？	general,restaurant,attraction,taxi
+1006	18	USER	そこにします。4/11の12:20で喜多方ラーメン 大安食堂 仙台卸町店から仙台市電保存館までのタクシーの予約をお願いします。	general,restaurant,attraction,taxi
+1006	19	SYSTEM	かしこまりました。ご予約ありがとうございます。予約番号41416にて、予約完了いたしました。	general,restaurant,attraction,taxi
+1006	20	USER	わかりました。ありがとうございます。	general,restaurant,attraction,taxi
+1006	21	SYSTEM	他にお調べすることはございますか？	general,restaurant,attraction,taxi
+1006	22	USER	いえ、もう大丈夫です。	general,restaurant,attraction,taxi
+1006	23	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,restaurant,attraction,taxi

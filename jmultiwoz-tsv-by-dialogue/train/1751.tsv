@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1751	0	USER	札幌へ旅行予定なのですが、最寄り駅が新札幌駅の飲食店を調べてください。	general,restaurant
+1751	1	SYSTEM	新札幌駅近くの飲食店はヒットしませんね。	general,restaurant
+1751	2	USER	わかりました。じゃあ、最寄り駅が資生館小学校前停留所でもいいです。	general,restaurant
+1751	3	SYSTEM	その条件だと２件ヒットしました、teatro di massaはいかがでしょうか？	general,restaurant
+1751	4	USER	そこにしようと思います。駐車場があるかどうかと、住所を知りたいです。	general,restaurant
+1751	5	SYSTEM	駐車場は不明となっています。住所は北海道札幌市中央区南3条西8丁目7番地 大洋ビル 2Fです。	general,restaurant
+1751	6	USER	わかりました。もう大丈夫です。本日はありがとうございました。	general,restaurant
+1751	7	SYSTEM	ありがとうございました。	general,restaurant

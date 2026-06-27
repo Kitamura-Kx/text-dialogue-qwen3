@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1943	0	USER	仙台への旅行を計画中なのですが、いくつかお願いします。まずは、太白区で高めの宿泊施設を教えて下さい。	general,hotel,taxi,weather
+1943	1	SYSTEM	申し訳ございません。その条件ですと、ご案内可能な宿泊施設がございません。	general,hotel,taxi,weather
+1943	2	USER	それでは予算は考慮しません	general,hotel,taxi,weather
+1943	3	SYSTEM	かしこまりました。それでは伝承千年の宿 佐勘はいかがでしょうか？	general,hotel,taxi,weather
+1943	4	USER	伝承千年の宿 佐勘の電話番号を教えて下さい	general,hotel,taxi,weather
+1943	5	SYSTEM	はい、0223982233でございます。	general,hotel,taxi,weather
+1943	6	USER	ありがとうございます、当日はタクシーも利用したいのですがキャッシュレス対応可能なタクシー会社はありますか？	general,hotel,taxi,weather
+1943	7	SYSTEM	はい、（株）青葉タクシーなどがキャッシュレス決済可能でございます。	general,hotel,taxi,weather
+1943	8	USER	それでは（株）青葉タクシーの電話番号もお願いします	general,hotel,taxi,weather
+1943	9	SYSTEM	はい。0222587879でございます。	general,hotel,taxi,weather
+1943	10	USER	「（株）青葉タクシー」でタクシーの予約をお願いします。5/16の14:30に「トータス」から「伝承千年の宿 佐勘」までお願いします。	general,hotel,taxi,weather
+1943	11	SYSTEM	お待たせ致しました。予約番号87534でご予約出来ました。	general,hotel,taxi,weather
+1943	12	USER	最後に当日5/16の若林区の天気と最低気温を教えて下さい	general,hotel,taxi,weather
+1943	13	SYSTEM	はい、当日の天気は晴時々雨、最低気温は15.4度の予報です。	general,hotel,taxi,weather
+1943	14	USER	わかりました、有難うございました。	general,hotel,taxi,weather
+1943	15	SYSTEM	他に御用件はございますか？	general,hotel,taxi,weather
+1943	16	USER	いえ大丈夫です	general,hotel,taxi,weather
+1943	17	SYSTEM	かしこまりました。ご利用ありがとうございました。	general,hotel,taxi,weather

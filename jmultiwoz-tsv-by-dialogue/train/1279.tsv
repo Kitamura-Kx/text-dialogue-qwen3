@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1279	0	USER	大阪に旅行に行くのでホテルを探しています。	general,hotel,weather
+1279	1	SYSTEM	では、エリアなど、何かご希望はございますか？	general,hotel,weather
+1279	2	USER	希望は、予算は普通くらい、駐車場とWi-Fi無料です。	general,hotel,weather
+1279	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,weather
+1279	4	USER	そうですか。そうしたら駐車場の条件はなくていいです。	general,hotel,weather
+1279	5	SYSTEM	では、大阪マリオット都ホテルはいかがでしょうか？	general,hotel,weather
+1279	6	USER	ありがとうございます。どの辺にあるホテルですか？	general,hotel,weather
+1279	7	SYSTEM	天王寺駅から徒歩で2分、大阪阿部野橋駅から徒歩で1分の場所にございます。エリアとしては、阿倍野区となります。	general,hotel,weather
+1279	8	USER	わかりました。予約してください。9/13に3人で3泊します。	general,hotel,weather
+1279	9	SYSTEM	ご予約ありがとうございます。予約が完了いたしました。予約番号は58315です。	general,hotel,weather
+1279	10	USER	当日、住之江区の天気はどうでしょうか？	general,hotel,weather
+1279	11	SYSTEM	恐れ入ります。天気をお調べするお日にちを、確認させていただけますでしょうか？	general,hotel,weather
+1279	12	USER	ごめんなさい、9/13です。	general,hotel,weather
+1279	13	SYSTEM	当日の天気は曇時々雨、最低気温は27.1度、最高気温は31.8度の予報です。	general,hotel,weather
+1279	14	USER	雨ですね。色々ありがとうございました。	general,hotel,weather

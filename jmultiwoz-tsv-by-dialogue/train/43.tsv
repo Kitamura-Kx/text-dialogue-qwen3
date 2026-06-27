@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+43	0	USER	すみません。仙台に旅行に行きたいんです。	general,hotel,shopping
+43	1	SYSTEM	かしこまりました。何かお知りになりたいことがございますか。	general,hotel,shopping
+43	2	USER	泊まる場所を探していて、レストランも付いている場所だと嬉しいです。	general,hotel,shopping
+43	3	SYSTEM	当てはまる宿泊施設が６０件ございますが、ほかに条件はございませんか。	general,hotel,shopping
+43	4	USER	特にこだわりはないです。どこか良いところってありますかね？	general,hotel,shopping
+43	5	SYSTEM	ではホテル京阪 仙台はいかがでしょうか。	general,hotel,shopping
+43	6	USER	そのホテルは、最寄り駅はどこになりますか？	general,hotel,shopping
+43	7	SYSTEM	あおば通駅が最寄りの駅でございます。	general,hotel,shopping
+43	8	USER	いいですね。そこで予約をお願いします。	general,hotel,shopping
+43	9	SYSTEM	かしこまりました。日時はいつでしょうか。	general,hotel,shopping
+43	10	USER	8月の30日から4泊で。人数は4人でお願いできますか？	general,hotel,shopping
+43	11	SYSTEM	はい。予約ができました。予約番号は39063でございます。	general,hotel,shopping
+43	12	USER	ありがとうございます。あともう1つ調べたいんですけど。	general,hotel,shopping
+43	13	SYSTEM	どのようなことでしょうか。	general,hotel,shopping
+43	14	USER	青葉城本丸会館という名前の買い物ができる場所があるらしいんですが。	general,hotel,shopping
+43	15	SYSTEM	はい。ございます。なにかお知りになりたい情報がございますか。	general,hotel,shopping
+43	16	USER	そこの一番近い駅って、どこになりますかね？	general,hotel,shopping
+43	17	SYSTEM	国際センター駅でございます。	general,hotel,shopping
+43	18	USER	ありがとうございます。今日のところは、こんな感じで大丈夫そうです。	general,hotel,shopping
+43	19	SYSTEM	かしこまりました。ありがとうございました。	general,hotel,shopping

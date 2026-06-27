@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+385	0	USER	名古屋に行くのですが、泊まれるところを探しています。	general,hotel,shopping
+385	1	SYSTEM	何かご希望はございますか？	general,hotel,shopping
+385	2	USER	レストランが併設されているところがいいのと、予算は普通が希望です。	general,hotel,shopping
+385	3	SYSTEM	承知しました。ザ タワーホテル ナゴヤ、レゴランド・ジャパン・ホテルの2件ございます。何かご案内致しましょうか？	general,hotel,shopping
+385	4	USER	レゴランド・ジャパン・ホテルの、料金情報と、タイプはどうなりますか？	general,hotel,shopping
+385	5	SYSTEM	タイプはその他になります。料金については、値段帯が普通、駐車場のご用意がない、ということくらいしか情報がございません。Wi-Fiの有無は不明です。他にご案内できることはございますか？	general,hotel,shopping
+385	6	USER	ありがとうございます。あと、当日買い物がしたいのですが、最寄り駅が名古屋駅の百貨店や総合スーパーはありますか？	general,hotel,shopping
+385	7	SYSTEM	はい、では、ジェイアール名古屋タカシマヤはいかがでしょう？どのようなご案内を致しましょう？	general,hotel,shopping
+385	8	USER	そちらの営業時間と定休日が知りたいです。	general,hotel,shopping
+385	9	SYSTEM	承知しました。営業時間は10時から20時、定休日は不定休となっております。他にご用件はございますか？	general,hotel,shopping
+385	10	USER	分かりました。以上です、ありがとうございました。	general,hotel,shopping
+385	11	SYSTEM	ありがとうございました。	general,hotel,shopping

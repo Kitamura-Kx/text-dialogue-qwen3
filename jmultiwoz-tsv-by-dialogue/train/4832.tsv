@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4832	0	USER	京都へ旅行に行くときにタクシーを使いたいのですが、キャッシュレス払いに対応しているところはありますか？	general,taxi
+4832	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,taxi
+4832	2	USER	それならキャッシュレス払いできないところでもいいです。	general,taxi
+4832	3	SYSTEM	それでしたら、比叡タクシー株式会社はいかがでしょうか？	general,taxi
+4832	4	USER	そこはジャンボタクシー対応していますか？あと電話番号も教えてください。	general,taxi
+4832	5	SYSTEM	はい、こちらはジャンボタクシーも対応しています。電話番号は　0755010050になります。	general,taxi
+4832	6	USER	じゃあ2/11の14:00に、森陶器館南店から紡 堀川吉文字まで予約をお願いします。	general,taxi
+4832	7	SYSTEM	予約出来ました。予約番号は、11793になります。	general,taxi
+4832	8	USER	ありがとうございました。もういいです。	general,taxi
+4832	9	SYSTEM	承知しました。ありがとうございました。	general,taxi

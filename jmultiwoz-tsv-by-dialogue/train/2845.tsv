@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2845	0	USER	京都へ旅行に行こうと思っています。当日訪れる観光名所を探しています。Wi-Fiが無料で使えるところが希望です。	general,attraction,restaurant,shopping
+2845	1	SYSTEM	承知しました。エリアでいうと左京区にある、国立京都国際会館はいかがでしょう？ジャンルは、コンサート、ショーとなります。	general,attraction,restaurant,shopping
+2845	2	USER	そこが良さそうですね。そこの大人入場料と子供入場料、料金情報を教えてください。	general,attraction,restaurant,shopping
+2845	3	SYSTEM	申し訳ありません、大人入場料、子供入場料ともに不明、となっております。料金情報については、企画により異なる、となります。	general,attraction,restaurant,shopping
+2845	4	USER	あと、当日食事ができる飲食店を探しています。無料でWi-Fiが利用できるところを教えてください。ジャンルはお好み焼き・たこ焼きです。	general,attraction,restaurant,shopping
+2845	5	SYSTEM	エリアでいうと中京区にある、いっかくじゅう 四条新町店はいかがでしょう？	general,attraction,restaurant,shopping
+2845	6	USER	そこが良さそうです。そこの値段帯と最寄り駅を教えてください。	general,attraction,restaurant,shopping
+2845	7	SYSTEM	はい、値段帯は安め、最寄りの烏丸駅から徒歩で5分となります。他にご案内できることはございますか？	general,attraction,restaurant,shopping
+2845	8	USER	そこに予約をしたいので予約をお願いします。人数は４人で日付は5/27時間は14:50でお願いします。	general,attraction,restaurant,shopping
+2845	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、27661となります。他にご用件はございますか？	general,attraction,restaurant,shopping
+2845	10	USER	あと当日買い物ができるところを探しています。ジャンルは百貨店や総合スーパーで駐車場が無料で利用できるところが良いです。	general,attraction,restaurant,shopping
+2845	11	SYSTEM	エリアでいうと下京区にある、大丸京都店はいかがでしょう？	general,attraction,restaurant,shopping
+2845	12	USER	そこが良さそうです。そこの営業時間を教えてください。	general,attraction,restaurant,shopping
+2845	13	SYSTEM	はい、営業時間は、10時から20時となります。他にご案内できることはございますか？	general,attraction,restaurant,shopping
+2845	14	USER	分かりました。ありがとうございます。	general,attraction,restaurant,shopping
+2845	15	SYSTEM	ありがとうございました。	general,attraction,restaurant,shopping

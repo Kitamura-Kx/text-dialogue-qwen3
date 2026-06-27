@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2304	0	USER	札幌へ旅行を計画しています。無料の駐車場、Wi-Fiが利用できる観光名所を探してほしいです。	general,attraction,restaurant,taxi
+2304	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,restaurant,taxi
+2304	2	USER	それではWi-Fiの有無は考慮しません。	general,attraction,restaurant,taxi
+2304	3	SYSTEM	ありがとうございます。そういたしますと、JRタワー展望室 タワー・スリーエイトというところはご興味ございませんか？ジャンルとしては、展望台・タワー, 絶景となります。	general,attraction,restaurant,taxi
+2304	4	USER	そこにしたいと思います。次に当日利用する飲食店を探してほしいです。場所は二十四軒駅周辺、予算は高め、できれば無料のWi-Fiが利用できるところがいいです。	general,attraction,restaurant,taxi
+2304	5	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,attraction,restaurant,taxi
+2304	6	USER	それでは、最寄りは考慮しません。	general,attraction,restaurant,taxi
+2304	7	SYSTEM	ありがとうございます。そうしますと、和味酒彩 秋夏はいかがでしょうか？ジャンルは和食, 居酒屋のお店で、円山公園駅が最寄り駅となります。	general,attraction,restaurant,taxi
+2304	8	USER	そちらは無料の駐車場はありますか？	general,attraction,restaurant,taxi
+2304	9	SYSTEM	申し訳ありません。こちらは、駐車場が併設しておりません。無料駐車場がある場所をお探しいたしましょうか？	general,attraction,restaurant,taxi
+2304	10	USER	いいえ、駐車場の有無が知れたので大丈夫です。最後に当日タクシーを利用したく、キャッシュレス払いができるタクシー会社を探してほしいです。	general,attraction,restaurant,taxi
+2304	11	SYSTEM	申し訳ございません。キャッシュレス払いができるタクシー会社は候補が見つかりませんでした。	general,attraction,restaurant,taxi
+2304	12	USER	それでは、キャッシュレス対応は考慮しません。	general,attraction,restaurant,taxi
+2304	13	SYSTEM	ありがとうございます。では、小鳩交通(株)は如何でしょうか？こちらでしたら、ジャンボタクシーが利用できますよ。	general,attraction,restaurant,taxi
+2304	14	USER	そちらの電話番号を教えてください。	general,attraction,restaurant,taxi
+2304	15	SYSTEM	電話番号は、0116648181でございます。	general,attraction,restaurant,taxi
+2304	16	USER	ありがとうございます。それでは予約をお願いします。日時は2/19、13:10で出発地はJRタワー展望室 タワー・スリーエイトから和味酒彩 秋夏まででお願いします。	general,attraction,restaurant,taxi
+2304	17	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、79360です。	general,attraction,restaurant,taxi
+2304	18	USER	ありがとうございます。こちらからは以上です。	general,attraction,restaurant,taxi
+2304	19	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,attraction,restaurant,taxi

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+626	0	USER	仙台への旅行を考えているのですが、買い物できるところを調べてください。	general,shopping,attraction
+626	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,attraction
+626	2	USER	アウトレットモールで、駐車場を無料で利用できるところがいいです。	general,shopping,attraction
+626	3	SYSTEM	ありがとうございます。では、三井アウトレットパーク 仙台港はいかがでしょう？何かご案内致しましょうか？	general,shopping,attraction
+626	4	USER	そこにします。近辺の駅からの所要時間と住所を知りたいです。	general,shopping,attraction
+626	5	SYSTEM	はい、住所は宮城県仙台市宮城野区中野3丁目7-2となります。最寄りの中野栄駅からは徒歩で8分、近辺の荒井駅からはバスで20分、仙台駅からはバスで40分となります。他にご案内できることはございますか？	general,shopping,attraction
+626	6	USER	わかりました。観光名所も探しているのですが、太白区で駐車場とWi-Fiを無料で利用できるところを教えてください。	general,shopping,attraction
+626	7	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,shopping,attraction
+626	8	USER	そうですか。なら太白区じゃなくても大丈夫です。	general,shopping,attraction
+626	9	SYSTEM	ありがとうございます。では、仙台市文学館はいかがでしょう？何かご案内致しましょうか？	general,shopping,attraction
+626	10	USER	そこにします。大人入場料と最寄り駅を教えてください。	general,shopping,attraction
+626	11	SYSTEM	はい、最寄りの八乙女駅からはバスで9分となります。大人入場料は460円です。他にご案内できることはございますか？	general,shopping,attraction
+626	12	USER	わかりました。もう大丈夫です。	general,shopping,attraction
+626	13	SYSTEM	ありがとうございました。	general,shopping,attraction

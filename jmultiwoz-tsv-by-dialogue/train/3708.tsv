@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3708	0	USER	こんにちは。今度那覇に行くのですが、駐車場が無料で使える、本庁の買い物スポットはないですか？	general,shopping
+3708	1	SYSTEM	かしこまりました。それではコジマ×ビックカメラ那覇店はいかがでしょうか？	general,shopping
+3708	2	USER	ありがとうございます。そこの最寄り駅と営業時間はわかりますか？	general,shopping
+3708	3	SYSTEM	はい、最寄り駅は古島駅でして、営業時間は10時から21時でございます。	general,shopping
+3708	4	USER	そこに行ってみようと思います。案内ありがとうございました。	general,shopping
+3708	5	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping

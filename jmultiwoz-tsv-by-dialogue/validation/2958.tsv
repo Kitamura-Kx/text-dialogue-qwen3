@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2958	0	USER	今度大阪へ行くんですが、生野区でWi-Fiが無料で無料駐車場がある観光名所はありますか？	general,attraction,restaurant,shopping
+2958	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,restaurant,shopping
+2958	2	USER	そうですか。では、地区にはこだわらず探してください。	general,attraction,restaurant,shopping
+2958	3	SYSTEM	承知しました。エリアでいうと鶴見区に、鶴見緑地湯元 水春がございます。ジャンルは、銭湯、スパ、温泉となります。	general,attraction,restaurant,shopping
+2958	4	USER	ありがとうございます。ではそこの大人入場料と近辺の駅からの所要時間と営業時間をおしえてもらえますか。	general,attraction,restaurant,shopping
+2958	5	SYSTEM	申し訳ありません、大人入場料は不明となっております。最寄りの鶴見緑地駅から徒歩で2分、営業時間は0時から2時と、6時から0時となっております。	general,attraction,restaurant,shopping
+2958	6	USER	ありがとうございます。あと、Wi-Fiが無料の居酒屋も探してもらえますか？	general,attraction,restaurant,shopping
+2958	7	SYSTEM	申し訳ありません、Wi-Fiが無料の居酒屋はございません。いかが致しましょう？	general,attraction,restaurant,shopping
+2958	8	USER	そうですか。じゃあ、他のジャンルの飲食店でも大丈夫です。	general,attraction,restaurant,shopping
+2958	9	SYSTEM	では、エリアでいうと中央区にある、すしざんまい 道頓堀店はいかがでしょう？ジャンルは、寿司、魚料理となります。	general,attraction,restaurant,shopping
+2958	10	USER	ありがとうございます。そこの最寄り駅はどこになりますか？	general,attraction,restaurant,shopping
+2958	11	SYSTEM	最寄りのなんば駅から徒歩で5分となります。	general,attraction,restaurant,shopping
+2958	12	USER	ありがとうございます。ではそこの予約をお願いできますか？3/25の16：10で３名です。	general,attraction,restaurant,shopping
+2958	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、60321となります。	general,attraction,restaurant,shopping
+2958	14	USER	ありがとうございます。あと、無料駐車場がある食料品が買えるお店も探してもらえますか？	general,attraction,restaurant,shopping
+2958	15	SYSTEM	はい、エリアでいうと浪速区にある、大阪シティエアターミナルはいかがでしょう？	general,attraction,restaurant,shopping
+2958	16	USER	ありがとうございました。以上で結構です。	general,attraction,restaurant,shopping
+2958	17	SYSTEM	ありがとうございました。	general,attraction,restaurant,shopping

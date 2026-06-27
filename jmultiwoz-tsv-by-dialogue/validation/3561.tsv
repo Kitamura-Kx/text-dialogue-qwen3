@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3561	0	USER	今度、京都へ行くのでタクシー会社を探しています。	general,taxi,weather
+3561	1	SYSTEM	かしこまりました。ではギオン自動車株式会社はいかがでしょうか。	general,taxi,weather
+3561	2	USER	ありがとうございます。ジャンボタクシーを利用できる会社が良いのですが、そちらはどうですか？	general,taxi,weather
+3561	3	SYSTEM	こちらジャンボタクシーには対応しておりません。ジャンボタクシーに対応している会社がございませんがいかがなさいますか。	general,taxi,weather
+3561	4	USER	そうですか、ではジャンボタクシーは大丈夫ですので、ギオン自動車株式会社の電話番号とキャッシュレス対応可能かどうかを教えてください。	general,taxi,weather
+3561	5	SYSTEM	電話番号は0757216868でございます。キャッシュレス対応も不明でございます。	general,taxi,weather
+3561	6	USER	分かりました。では、7月20日のAM10時に金剛能楽堂からメルキュール京都ステーションまで予約をお願いします。	general,taxi,weather
+3561	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は81152でございます。	general,taxi,weather
+3561	8	USER	ありがとうございます。もう１つ、天気が気になります。西京区の7月20日の天気と最低気温を教えてください。	general,taxi,weather
+3561	9	SYSTEM	天気は曇、最低気温は21度でございます。	general,taxi,weather
+3561	10	USER	ありがとうございます。助かりました。それでは失礼します。	general,taxi,weather
+3561	11	SYSTEM	承知しました。ありがとうございました。	general,taxi,weather

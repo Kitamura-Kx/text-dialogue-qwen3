@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3371	0	USER	札幌に行くので、キャッシュレス払いできるタクシー会社教えて下さい。	general,taxi
+3371	1	SYSTEM	申し訳ございません。頂いた条件ですと、該当がございませんでした。	general,taxi
+3371	2	USER	そうですか。ではキャッシャレスじゃなくて大丈夫です。	general,taxi
+3371	3	SYSTEM	かしこまりました。そうしますと、つばめ自動車(株)を含む８件該当がございます。いかがでしょうか？	general,taxi
+3371	4	USER	予約お願いします。1月29日の11時で、ロイトン札幌から札幌東急REIホテルまでです。	general,taxi
+3371	5	SYSTEM	申し訳ございません。頂きました条件でのご予約が用意できませんでした。いかがいたしましょうか？	general,taxi
+3371	6	USER	11時50分ならどうでしょうか？	general,taxi
+3371	7	SYSTEM	11時50分でご予約が完了しました。予約番号は、73718でございます。	general,taxi
+3371	8	USER	ありがとうございます。では。	general,taxi
+3371	9	SYSTEM	ありがとうございました。	general,taxi

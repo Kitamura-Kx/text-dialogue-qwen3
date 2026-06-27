@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4172	0	USER	東京に旅行に行くのですが、世田谷区の観光名所はありますか？最寄り駅は戸越駅でお願いします。	general,attraction,restaurant,taxi
+4172	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,attraction,restaurant,taxi
+4172	2	USER	では、最寄り駅はここでなくても大丈夫です。	general,attraction,restaurant,taxi
+4172	3	SYSTEM	では、等々力渓谷はいかがですか？	general,attraction,restaurant,taxi
+4172	4	USER	ありがとうございます。電話番号を教えてください。	general,attraction,restaurant,taxi
+4172	5	SYSTEM	電話番号は、0337044972です。	general,attraction,restaurant,taxi
+4172	6	USER	ありがとうございます。飲食店も探しているのですが、最寄り駅が溜池山王駅で、無料Wifiがある場所はありますか？	general,attraction,restaurant,taxi
+4172	7	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,restaurant,taxi
+4172	8	USER	では、Wifiはなくてもいいです。	general,attraction,restaurant,taxi
+4172	9	SYSTEM	Restaurant かえりやまは、いかがですか？	general,attraction,restaurant,taxi
+4172	10	USER	ありがとうございます。12月20日の15時20分から3人で予約をお願いします。	general,attraction,restaurant,taxi
+4172	11	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,attraction,restaurant,taxi
+4172	12	USER	2人だとどうですか？	general,attraction,restaurant,taxi
+4172	13	SYSTEM	予約が完了しました。　予約番号は、58491です。	general,attraction,restaurant,taxi
+4172	14	USER	ありがとうございます。タクシーも予約したいです。キャッシュレス払いができるところでお願いしたいです。	general,attraction,restaurant,taxi
+4172	15	SYSTEM	銀星交通はいかがですか？	general,attraction,restaurant,taxi
+4172	16	USER	電話番号を教えてください。	general,attraction,restaurant,taxi
+4172	17	SYSTEM	電話番号は、0425750458です。	general,attraction,restaurant,taxi
+4172	18	USER	ありがとうございます。では、12月20日の13時30分で、等々力渓谷からRestaurant かえりやままでで予約をお願いします。	general,attraction,restaurant,taxi
+4172	19	SYSTEM	予約出来ました。予約番号は、55108です。	general,attraction,restaurant,taxi
+4172	20	USER	ありがとうございます。後は大丈夫です。	general,attraction,restaurant,taxi
+4172	21	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,taxi

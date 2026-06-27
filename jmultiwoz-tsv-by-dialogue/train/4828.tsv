@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4828	0	USER	那覇へ旅行に行くので、食事ができるお店を探してください。	general,restaurant,hotel,taxi
+4828	1	SYSTEM	はい。ご希望の条件をおきかせください。	general,restaurant,hotel,taxi
+4828	2	USER	予算は普通が希望で、Wi-Fiと駐車場が無料のところがいいです。	general,restaurant,hotel,taxi
+4828	3	SYSTEM	那覇には、予算普通で駐車場とWiFi無料の飲食店は ２件ありますが、ステーキハウス88 国際通り店をお勧めします。	general,restaurant,hotel,taxi
+4828	4	USER	ではそのお店を8/23の11:30、人数4人で予約してください。	general,restaurant,hotel,taxi
+4828	5	SYSTEM	予約成功しました。予約番号は99314です。	general,restaurant,hotel,taxi
+4828	6	USER	ありがとうございます。次に泊まるところを探してください。	general,restaurant,hotel,taxi
+4828	7	SYSTEM	はい。何か希望はありますか。	general,restaurant,hotel,taxi
+4828	8	USER	最寄り駅が牧志駅のところで、無料Wi-Fiが使えるところがいいです。	general,restaurant,hotel,taxi
+4828	9	SYSTEM	那覇牧志駅には、無料WiFiの宿泊施設は１２件ありますが、アベストCUBE那覇国際通りをお勧めします。	general,restaurant,hotel,taxi
+4828	10	USER	そちらのエリアと、近辺の駅からの所要時間を教えてください。	general,restaurant,hotel,taxi
+4828	11	SYSTEM	エリアは、本庁、牧志駅から徒歩で1分です。	general,restaurant,hotel,taxi
+4828	12	USER	ありがとうございます。最後にジャンボタクシーが利用できるタクシー会社を探してください。	general,restaurant,hotel,taxi
+4828	13	SYSTEM	はい、丸星交通をお勧めします。	general,restaurant,hotel,taxi
+4828	14	USER	では丸星交通で予約をお願いします。8/23の12:50乗車、出発はステーキハウス88 国際通り店、到着はアベストCUBE那覇国際通りです。	general,restaurant,hotel,taxi
+4828	15	SYSTEM	予約成功しました。予約番号は77000です。	general,restaurant,hotel,taxi
+4828	16	USER	ありがとうございます。以上です。	general,restaurant,hotel,taxi

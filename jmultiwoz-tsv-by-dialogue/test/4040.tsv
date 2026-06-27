@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4040	0	USER	東京への旅行を計画しています。 当日食事ができる飲食店を探してほしいです。	general,restaurant
+4040	1	SYSTEM	かしこまりました。その条件ですと100件ほどありまして、何かお好みはございますか？	general,restaurant
+4040	2	USER	最寄り駅が新日本橋駅のところにしてください。予算は安め、ジャンルは和食希望です。	general,restaurant
+4040	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant
+4040	4	USER	そうですか。では予算は考えないようにします。	general,restaurant
+4040	5	SYSTEM	かしこまりました。では、うなぎ割烹 大江戸がございます。	general,restaurant
+4040	6	USER	なるほど。電話番号，料金情報，近辺の駅からの所要時間を教えてください。	general,restaurant
+4040	7	SYSTEM	お待たせ致しました。電話番号は0332413838、料金情報はうな重が4400円、うまき一人前が1944円、うざくが1760円でございます。近辺からは神田駅から徒歩で5分、新日本橋駅から徒歩で1分、三越前駅から徒歩で5分でございます。	general,restaurant
+4040	8	USER	そこの予約をお願いします。人数は2人、日付は10/1、時間は13:40です。	general,restaurant
+4040	9	SYSTEM	申し訳ありません。その条件では予約することが出来ませんでした。	general,restaurant
+4040	10	USER	人数を1名に変更したらどうでしょうか。	general,restaurant
+4040	11	SYSTEM	お待たせ致しました。予約番号7948でお取りさせていただきました。	general,restaurant
+4040	12	USER	解決しました。ありがとうございました。	general,restaurant

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+226	0	USER	名古屋へ旅行を計画しているため、観光名所を探しています。	general,attraction,weather
+226	1	SYSTEM	かしこまりました。ほかに条件はございますか。	general,attraction,weather
+226	2	USER	西区で駐車場が無料で利用できて、Wi-Fiも無料で利用できるところがいいのですが、どこかいいところはありますか？	general,attraction,weather
+226	3	SYSTEM	トヨタ産業技術記念館はいかがでしょうか。	general,attraction,weather
+226	4	USER	いいですね。料金情報を教えてもらえますか？	general,attraction,weather
+226	5	SYSTEM	大人が500円 、65歳以上は300円、中高生は300円、小学生は200円となっております。	general,attraction,weather
+226	6	USER	ありがとうございます。あと7/21の千種区の天気を調べてもらえますか？	general,attraction,weather
+226	7	SYSTEM	天気は曇時々雨となっております。	general,attraction,weather
+226	8	USER	ありがとうございます。	general,attraction,weather
+226	9	SYSTEM	ほかにご用件はございますか。	general,attraction,weather
+226	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,attraction,weather
+226	11	SYSTEM	承知しました。ありがとうございました。	general,attraction,weather

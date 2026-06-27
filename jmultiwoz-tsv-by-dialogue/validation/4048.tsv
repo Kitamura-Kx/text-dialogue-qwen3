@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4048	0	USER	横浜への旅行を計画しています。 当日利用できるタクシー会社を探してください。	general,taxi
+4048	1	SYSTEM	かしこまりました。横浜のタクシー会社が15件ほどございますが、何かご希望はありますか？	general,taxi
+4048	2	USER	キャッシュレス払いできて、ジャンボタクシーを利用できるところにしてください。	general,taxi
+4048	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,taxi
+4048	4	USER	そうですか。では、ジャンボタクシーはなくてもいいです。	general,taxi
+4048	5	SYSTEM	かしこまりました。それでは飛鳥交通横浜株式会社はいかがでしょうか？	general,taxi
+4048	6	USER	電話番号が知りたいです。	general,taxi
+4048	7	SYSTEM	はい、電話番号は0570075770でございます。	general,taxi
+4048	8	USER	それでは予約をお願いします。日付は11/21、時間は10:00、出発地は横浜市立金沢動物園、目的地は新横浜グレイスホテルというところです。	general,taxi
+4048	9	SYSTEM	申し訳ありません。その条件では予約が出来ませんでした。	general,taxi
+4048	10	USER	時間を11:00に変更したらどうでしょうか。	general,taxi
+4048	11	SYSTEM	お待たせ致しました。それでは予約番号10719でお取りさせていただきました。	general,taxi
+4048	12	USER	解決しました。ありがとうございました。	general,taxi

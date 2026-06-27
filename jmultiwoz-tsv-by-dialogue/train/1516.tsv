@@ -1,0 +1,26 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1516	0	USER	那覇旅行で当日訪れる観光名所のおすすめはありますか？	general,attraction,shopping,restaurant
+1516	1	SYSTEM	何かご希望はございますか？	general,attraction,shopping,restaurant
+1516	2	USER	本庁地区で、Wi-Fiが無料で利用できる場所だとうれしいです。	general,attraction,shopping,restaurant
+1516	3	SYSTEM	ありがとうございます。では、パレットくもじはいかがでしょう？何かご案内致しましょうか？	general,attraction,shopping,restaurant
+1516	4	USER	ではそちらに伺いたいと思います。住所も教えていただけますでしょうか。	general,attraction,shopping,restaurant
+1516	5	SYSTEM	はい、住所は沖縄県那覇市久茂地1丁目1番1号となります。他にご案内できることはございますか？	general,attraction,shopping,restaurant
+1516	6	USER	ありがとうございます。当日買い物ができるところもついでに教えてください。	general,attraction,shopping,restaurant
+1516	7	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,shopping,restaurant
+1516	8	USER	駐車場を無料で利用できるお店で、小禄地区の食料品でいいところはありますか？	general,attraction,shopping,restaurant
+1516	9	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しましょう？	general,attraction,shopping,restaurant
+1516	10	USER	それでは、ジャンルは何でも大丈夫です。	general,attraction,shopping,restaurant
+1516	11	SYSTEM	ありがとうございます。では、LEO & JOEはいかがでしょう？何かご案内致しましょうか？	general,attraction,shopping,restaurant
+1516	12	USER	そちらに行きたいと思います。最寄り駅と営業時間の情報もいただけますでしょうか。	general,attraction,shopping,restaurant
+1516	13	SYSTEM	はい、最寄りの奥武山公園駅から徒歩で2分となります。営業時間は10時から18時です。他にご案内が必要なことはございますか？	general,attraction,shopping,restaurant
+1516	14	USER	ありがとうございます。当日食事ができる飲食店についても教えていただけますでしょうか。	general,attraction,shopping,restaurant
+1516	15	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,shopping,restaurant
+1516	16	USER	洋食・西洋料理店を本庁周辺で探しています。また、Wi-Fiが無料で利用できるところがいいです。	general,attraction,shopping,restaurant
+1516	17	SYSTEM	申し訳ありません、その条件ではご案内ができません。いかが致しましょう？	general,attraction,shopping,restaurant
+1516	18	USER	それでは、場所はこだわらなくて構いません。	general,attraction,shopping,restaurant
+1516	19	SYSTEM	ありがとうございます。では、エリアでいうと真和志にある、LE GOURMANDはいかがでしょう？	general,attraction,shopping,restaurant
+1516	20	USER	そちらにします。駐車場はありますか？	general,attraction,shopping,restaurant
+1516	21	SYSTEM	はい、駐車場は無料でご利用いただけます。予約はいかがされますか？	general,attraction,shopping,restaurant
+1516	22	USER	お願いします。3人で1/25の14:30からは可能でしょうか。	general,attraction,shopping,restaurant
+1516	23	SYSTEM	はい、予約が完了し、ご予約番号は、42762となります。他にご用件はございますか？	general,attraction,shopping,restaurant
+1516	24	USER	他は大丈夫です。ありがとうございました。	general,attraction,shopping,restaurant

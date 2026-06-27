@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4194	0	USER	名古屋に行く予定なのですが、Wi-Fiと駐車場が無料な所で、カレーあるお店探してください。	general,restaurant,weather
+4194	1	SYSTEM	申し訳ありません。　その条件では見つかりませんでした。	general,restaurant,weather
+4194	2	USER	では、Wi-Fiは無くても大丈夫です。	general,restaurant,weather
+4194	3	SYSTEM	それでしたら、1件みつかりました。　ビストロコバ　は、いかがですか？	general,restaurant,weather
+4194	4	USER	エリアはどの辺ですか？あと、電話番号と料金情報もおしえてください。	general,restaurant,weather
+4194	5	SYSTEM	エリアは、西区になります。　電話番号は、0525513178で料金情報は、ビーフカツレツ　2500円、子牛のカツレツ　2700円となっています。	general,restaurant,weather
+4194	6	USER	ありがとうございます。1月4日の、千種区の最高気温はどのくらいですか？	general,restaurant,weather
+4194	7	SYSTEM	千種区のその日の最高気温は、8.6度です。	general,restaurant,weather
+4194	8	USER	分かりました。ありがとうございました。失礼します。	general,restaurant,weather
+4194	9	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather

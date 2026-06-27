@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4478	0	USER	東京に旅行に行く計画をしているんですが、ジャンボタクシーを利用できる会社はありますか。	general,taxi
+4478	1	SYSTEM	はい、ございます。たとえば、東京エムケイはいかがでしょうか？	general,taxi
+4478	2	USER	ありがとうございます。その会社の電話番号とキャッシュレス対応について教えてください。	general,taxi
+4478	3	SYSTEM	はい、電話番号は、0355475551です。キャッシュレスのお支払いにも対応しております。	general,taxi
+4478	4	USER	ありがとうございます。そこで予約したいと思います。9/3の午前11時50分に日本科学未来館からSTORY STORYでお願いします。	general,taxi
+4478	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、86883です。	general,taxi
+4478	6	USER	ありがとうございます。これで大丈夫です。	general,taxi
+4478	7	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,taxi

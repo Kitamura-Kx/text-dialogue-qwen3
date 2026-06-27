@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+254	0	USER	こんにちは！名古屋旅行に行った際にショッピングをしたいのですが。どこかオススメはありませんか？	general,shopping,restaurant,weather
+254	1	SYSTEM	ご利用ありがとうございます。名古屋のお買い物施設は50件ほど、ご案内可能です。ショッピングモールをご希望でしょうか？	general,shopping,restaurant,weather
+254	2	USER	駐車場が無料で利用できて、東枇杷島駅の近くにあればどんな場所でも大丈夫です。	general,shopping,restaurant,weather
+254	3	SYSTEM	では、ベビーザらス 名西店はいかがでしょうか？おもちゃのお店となっております。	general,shopping,restaurant,weather
+254	4	USER	ベビーザらス 名西店は何時から何時まで営業していますか？	general,shopping,restaurant,weather
+254	5	SYSTEM	10:00から21:00までの営業となっております。	general,shopping,restaurant,weather
+254	6	USER	わかりました！ありがとうございます。あと洋食や西洋料理を食べられるお店を探しています。	general,shopping,restaurant,weather
+254	7	SYSTEM	洋食や西洋料理を食べられるお店ですと、23件ほどご案内可能です。ほかご希望の条件はございますか？	general,shopping,restaurant,weather
+254	8	USER	駐車場が無料で利用できると嬉しいです。	general,shopping,restaurant,weather
+254	9	SYSTEM	では、ビストロコバはいかがでしょうか？	general,shopping,restaurant,weather
+254	10	USER	ビストロコバさんはどのエリアの何駅周辺にあるのでしょうか？	general,shopping,restaurant,weather
+254	11	SYSTEM	名古屋の西区エリアにございます。国際センター駅からは徒歩で4分、名古屋駅からは徒歩10分でアクセスできます。	general,shopping,restaurant,weather
+254	12	USER	教えて下さりありがとうございます。こちらのお店の予約を取って頂けますか？	general,shopping,restaurant,weather
+254	13	SYSTEM	かしこまりました。ご利用の人数や日付、時間はお決まりでしょうか？	general,shopping,restaurant,weather
+254	14	USER	3人で利用したいと考えています。日時は10/16の14:50でお願いします。	general,shopping,restaurant,weather
+254	15	SYSTEM	大変申し訳ございません。その条件ですと、よやくできませんでした。いかがいたしましょうか？	general,shopping,restaurant,weather
+254	16	USER	では時間を15:50に遅らせて予約お取り頂けますか？	general,shopping,restaurant,weather
+254	17	SYSTEM	かしこまりました。予約番号76778で、ご予約承りました。	general,shopping,restaurant,weather
+254	18	USER	はい！ご予約から何から何までご対応ありがとうございました！	general,shopping,restaurant,weather
+254	19	SYSTEM	ご利用ありがとうございました。	general,shopping,restaurant,weather
+254	20	USER	すみません、1点忘れておりました。10/16の港区の天気と最低気温を教えてもらえませんか？	general,shopping,restaurant,weather
+254	21	SYSTEM	かしこまりました。10月16日の名古屋、港区の天気は曇り時々晴れの予報です。最低気温は13度の予想となっております。	general,shopping,restaurant,weather
+254	22	USER	ありがとうございます！とても助かりました！	general,shopping,restaurant,weather

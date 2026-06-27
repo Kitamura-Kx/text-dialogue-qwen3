@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4991	0	USER	こんにちは、横浜に旅行を計画しています。予算が普通の宿泊施設を探してもらえますか？	general,hotel
+4991	1	SYSTEM	こんにちは。横浜みなとみらい 万葉倶楽部はいかがでしょうか？	general,hotel
+4991	2	USER	そこに泊まりたいです。電話番号を教えてくれますか？	general,hotel
+4991	3	SYSTEM	電話番号は0570074126です。	general,hotel
+4991	4	USER	ありがとうございます。	general,hotel

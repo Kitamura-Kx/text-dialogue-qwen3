@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4190	0	USER	名古屋へ行くので、駐車場が無料で買い物できる所探して下さい。丸の内駅周辺でお願いします。	general,shopping,weather
+4190	1	SYSTEM	それでしたら、1件みつかりました。　エコライフショップマジックマーマはいかがでしょうか？	general,shopping,weather
+4190	2	USER	どのエリアになりますか？住所教えて下さい。	general,shopping,weather
+4190	3	SYSTEM	はい、エリアは、西区で住所は、愛知県名古屋市西区幅下1丁目6-2になります。	general,shopping,weather
+4190	4	USER	ありがとうございます。電話番号もよろしいですか？	general,shopping,weather
+4190	5	SYSTEM	電話番号は、0525649777になります。	general,shopping,weather
+4190	6	USER	ありがとうございます。10月25日の守山区の天気と最低気温はどうですか？	general,shopping,weather
+4190	7	SYSTEM	その日の天気は、雨のち曇で最低気温は、12.7度になっています。	general,shopping,weather
+4190	8	USER	ありがとうございます。では、失礼します。	general,shopping,weather
+4190	9	SYSTEM	承知しました。ありがとうございました。	general,shopping,weather

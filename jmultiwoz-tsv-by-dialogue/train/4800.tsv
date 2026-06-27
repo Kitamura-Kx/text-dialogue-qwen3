@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4800	0	USER	名古屋へ旅行するので、普通の値段くらいのシティホテルを調べてください。レストランがあるところがいいです。	general,hotel
+4800	1	SYSTEM	名古屋で普通値段、シティーホテル、レストラン併設といえば、ザ タワーホテル ナゴヤになります。	general,hotel
+4800	2	USER	そうなのですね。そちらのチェックアウト終了時刻とチェックイン開始時刻。あと住所も教えてほしいです。	general,hotel
+4800	3	SYSTEM	チェックアウト終了は１２時、チェックイン開始は１５時、住所は愛知県名古屋市中区錦3丁目6-15先です。	general,hotel
+4800	4	USER	ありがとうございました。	general,hotel

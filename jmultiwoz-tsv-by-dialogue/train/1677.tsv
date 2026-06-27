@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1677	0	USER	福岡へ旅行したいのですが、西区で植物園の観光名所はありますか？	general,attraction,restaurant,hotel
+1677	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,attraction,restaurant,hotel
+1677	2	USER	わかりました。なら植物園じゃなくてもいいです。	general,attraction,restaurant,hotel
+1677	3	SYSTEM	ではヤシの木ブランコはいかがですか。	general,attraction,restaurant,hotel
+1677	4	USER	いいですね。Wi-Fiがあるかを教えてくれますか？	general,attraction,restaurant,hotel
+1677	5	SYSTEM	Wi-Fiの有無は不明でございます。	general,attraction,restaurant,hotel
+1677	6	USER	そうですか。飲食店も探しているのですが、カフェ・スイーツでWi-Fiが無料で使える場所はあります？	general,attraction,restaurant,hotel
+1677	7	SYSTEM	ではHAPPY HILLはいかがでしょうか。	general,attraction,restaurant,hotel
+1677	8	USER	そこにします。その店のエリアと料金情報を知りたいです。	general,attraction,restaurant,hotel
+1677	9	SYSTEM	エリアは中央区でございます。料金の情報はジャークチキンが1100円、ラタトゥイユが550円、90分飲み放題付きの貸切コースが4000円でございます。	general,attraction,restaurant,hotel
+1677	10	USER	わかりました。3人で3/30の10:40から予約をとれますでしょうか？	general,attraction,restaurant,hotel
+1677	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は38059でございます。	general,attraction,restaurant,hotel
+1677	12	USER	ありがとうございます。宿泊施設も探していまして、レストランがあって、駐車場が無料で使えるところはありますか？	general,attraction,restaurant,hotel
+1677	13	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,restaurant,hotel
+1677	14	USER	そうですか。有料の駐車場でもかまいません。	general,attraction,restaurant,hotel
+1677	15	SYSTEM	ではスカイハートホテル博多がございます。	general,attraction,restaurant,hotel
+1677	16	USER	そこにします。値段帯と電話番号を教えてください。	general,attraction,restaurant,hotel
+1677	17	SYSTEM	値段帯は安めでございます。電話番号は0922624400でございます。	general,attraction,restaurant,hotel
+1677	18	USER	わかりました。3人で3/30から4泊の予約とれますか？	general,attraction,restaurant,hotel
+1677	19	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,attraction,restaurant,hotel
+1677	20	USER	じゃあ3泊に変更します。	general,attraction,restaurant,hotel
+1677	21	SYSTEM	その条件ですと予約が可能でございました。予約番号は52901でございます。	general,attraction,restaurant,hotel
+1677	22	USER	ありがとうございました。もう大丈夫です。	general,attraction,restaurant,hotel
+1677	23	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,hotel

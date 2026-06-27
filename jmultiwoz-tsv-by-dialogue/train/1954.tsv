@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1954	0	USER	京都への旅行を考えています。当日買い物ができる場所を教えてください。	general,shopping,taxi
+1954	1	SYSTEM	かしこまりました。どういったものをお探しでしょうか？	general,shopping,taxi
+1954	2	USER	ジャンルは食料品で駐車場は無料が希望です。	general,shopping,taxi
+1954	3	SYSTEM	かしこまりました。それでは鶴屋𠮷信 本店はいかがでしょうか？	general,shopping,taxi
+1954	4	USER	そこが良さそうですね。	general,shopping,taxi
+1954	5	SYSTEM	ありがとうございます。	general,shopping,taxi
+1954	6	USER	当日はキャッシュレス対応のタクシーを利用したいのでタクシー会社を教えてください。	general,shopping,taxi
+1954	7	SYSTEM	かしこまりました。それではエムケイ株式会社さんはいかがでしょうか？	general,shopping,taxi
+1954	8	USER	そちらはジャンボタクシー対応でしょうか？あとタクシー会社の名前を教えて欲しいです。	general,shopping,taxi
+1954	9	SYSTEM	はい、ジャンボタクシーはご利用いただけます。タクシー会社の名前はエムケイ株式会社です。	general,shopping,taxi
+1954	10	USER	あとこちらのタクシーで予約を当日したいのですが、日付は5/12の10:00で出発地はKAGUYAで目的地は鶴屋𠮷信 本店で予約をお願いします。	general,shopping,taxi
+1954	11	SYSTEM	お待たせいたしました。予約番号20467でご予約致しました。	general,shopping,taxi
+1954	12	USER	ありがとうございます。	general,shopping,taxi
+1954	13	SYSTEM	その他に何かご用件はございますか？	general,shopping,taxi
+1954	14	USER	大丈夫です。ありがとうございました。	general,shopping,taxi
+1954	15	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,taxi

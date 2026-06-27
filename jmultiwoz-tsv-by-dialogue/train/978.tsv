@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+978	0	USER	すみません、ちょっとよろしいでしょうか？	general,hotel
+978	1	SYSTEM	はい。本日はどのようなお手伝いをいたしましょうか？	general,hotel
+978	2	USER	今札幌への旅行を計画していまして、泊まれるところを探しているところです。どこかオススメはありますか？	general,hotel
+978	3	SYSTEM	はい、例えばソラリア西鉄ホテル札幌というホテルなど100件ほどご案内可能です。エリアなど、何かご希望はございますか？	general,hotel
+978	4	USER	場所は南区で駐車場が無料でついているところが良いです。	general,hotel
+978	5	SYSTEM	では、定山渓ビューホテルはいかがでしょうか？	general,hotel
+978	6	USER	予算は安めが良いのですが、ご紹介のホテルはこの条件に見合っていますでしょうか？	general,hotel
+978	7	SYSTEM	はい、こちらのホテルの値段帯はお安めとなっております。他にもお探ししますか？	general,hotel
+978	8	USER	いえ、ありがとうございます。ではそちらを予約させてください。	general,hotel
+978	9	SYSTEM	かしこまりました。ではご宿泊予定の人数と日付、ご宿泊日数はお決まりでしょうか？	general,hotel
+978	10	USER	日付は3/14で2泊、人数は4名でお願いします。	general,hotel
+978	11	SYSTEM	ご予約完了いたしました。予約番号は、30437です。	general,hotel
+978	12	USER	承知しました。本日はご対応いただき、ありがとうございました。	general,hotel
+978	13	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,hotel

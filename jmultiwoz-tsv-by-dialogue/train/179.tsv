@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+179	0	USER	東京への旅行を計画中なのですが、東池袋駅の近くで無料の駐車場があるお店を探してください。	general,shopping,hotel,taxi
+179	1	SYSTEM	ご利用ありがとうございます。お店は、飲食店やお買い物施設、観光名所をお調べできますが、ご希望はございますか？	general,shopping,hotel,taxi
+179	2	USER	買い物施設でお願いします。	general,shopping,hotel,taxi
+179	3	SYSTEM	ありがとうございます。1件ございます。ポケモンセンターメガトウキョーは、いかがでしょうか？	general,shopping,hotel,taxi
+179	4	USER	そこに行こうと思います。電話番号を教えてください。	general,shopping,hotel,taxi
+179	5	SYSTEM	電話番号は、0359279290です。	general,shopping,hotel,taxi
+179	6	USER	あとレストランが併設されている宿泊施設も探しています。	general,shopping,hotel,taxi
+179	7	SYSTEM	62件ほどございますが、他にWiFiや駐車場の有無などで、ご希望の条件はありますか？	general,shopping,hotel,taxi
+179	8	USER	駐車場が無料で利用できて、Wi-Fiも無料で使えるところをお願いします。	general,shopping,hotel,taxi
+179	9	SYSTEM	かしこまりました。そういたしますと、帝国ホテル東京は如何でしょうか？	general,shopping,hotel,taxi
+179	10	USER	そこにしようと思います。最寄り駅はどこになりますか？	general,shopping,hotel,taxi
+179	11	SYSTEM	最寄り駅は、日比谷駅です。日比谷駅から徒歩で3分でアクセスできます。	general,shopping,hotel,taxi
+179	12	USER	帝国ホテル東京の料金情報も教えてください。	general,shopping,hotel,taxi
+179	13	SYSTEM	値段帯は普通となっております。また、WiFiは無料、駐車場も無料でご利用いただけます。	general,shopping,hotel,taxi
+179	14	USER	帝国ホテル東京に泊まろうと思うので、9/6から4泊で2名で予約をお願いします。	general,shopping,hotel,taxi
+179	15	SYSTEM	ありがとうございます。ご予約番号5240で、承りました。	general,shopping,hotel,taxi
+179	16	USER	ありがとうございます。あとビゲストというタクシー会社を利用したいと思うので、電話番号を教えてください。	general,shopping,hotel,taxi
+179	17	SYSTEM	かしこまりました。ビゲストの電話番号は、0334201385です。	general,shopping,hotel,taxi
+179	18	USER	ありがとうございます。9/6　15:50にポケモンセンターメガトウキョーから帝国ホテル東京までタクシーの予約もお願いできますか？	general,shopping,hotel,taxi
+179	19	SYSTEM	かしこまりました。ご予約番76929にて予約完了いたしました。	general,shopping,hotel,taxi
+179	20	USER	ありがとうございます。	general,shopping,hotel,taxi
+179	21	SYSTEM	他にご用件はございますでしょうか？	general,shopping,hotel,taxi
+179	22	USER	いえ、もう大丈夫です。ありがとうございました。	general,shopping,hotel,taxi
+179	23	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,shopping,hotel,taxi

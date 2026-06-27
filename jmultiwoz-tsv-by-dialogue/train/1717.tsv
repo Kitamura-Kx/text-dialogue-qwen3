@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1717	0	USER	横浜への旅行を考えています。当日訪れる観光名所で駐車場が無料で利用できて、ジャンルが展望台・タワーのところを教えてください。	general,attraction,shopping,taxi
+1717	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,attraction,shopping,taxi
+1717	2	USER	でしたら、ジャンルは諦めます。	general,attraction,shopping,taxi
+1717	3	SYSTEM	では三ツ池公園はいかがでしょうか。	general,attraction,shopping,taxi
+1717	4	USER	そこが良さそうですね。	general,attraction,shopping,taxi
+1717	5	SYSTEM	何かお知りになりたい情報はございますか。	general,attraction,shopping,taxi
+1717	6	USER	あと当日買い物ができるところも探しています。ジャンルはお土産で駐車場が無料のところが良いです。	general,attraction,shopping,taxi
+1717	7	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,attraction,shopping,taxi
+1717	8	USER	でしたら、ジャンルは諦めます。	general,attraction,shopping,taxi
+1717	9	SYSTEM	ではまいばすけっと 鴨居駅西店はいかがでしょうか。	general,attraction,shopping,taxi
+1717	10	USER	そこが良さそうですね。そこからの最寄り駅を教えてください。	general,attraction,shopping,taxi
+1717	11	SYSTEM	最寄り駅は鴨居駅でございます。	general,attraction,shopping,taxi
+1717	12	USER	あと当日利用できるタクシー会社を探してます。キャッシュレス対応のところを教えてください。	general,attraction,shopping,taxi
+1717	13	SYSTEM	かしこまりました。では京浜交通株式会社 弁天橋営業所はいかがでしょうか。	general,attraction,shopping,taxi
+1717	14	USER	そこはジャンボタクシー対応でしょうか？あと電話番号も教えてください。	general,attraction,shopping,taxi
+1717	15	SYSTEM	ジャンボタクシーは非対応でございます。電話番号は0442442288でございます。	general,attraction,shopping,taxi
+1717	16	USER	そこのタクシー会社に予約をしたいのですが、日付は2/7で時間は15:00で出発地は三ツ池公園で目的地はではまいばすけっと 鴨居駅西店で予約をお願いします。	general,attraction,shopping,taxi
+1717	17	SYSTEM	予約が完了いたしました。予約番号は53815でございます。	general,attraction,shopping,taxi
+1717	18	USER	分かりました。ありがとうございました。	general,attraction,shopping,taxi
+1717	19	SYSTEM	ほかにご用件はございますか。	general,attraction,shopping,taxi
+1717	20	USER	大丈夫です。ありがとうございました。	general,attraction,shopping,taxi
+1717	21	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,taxi

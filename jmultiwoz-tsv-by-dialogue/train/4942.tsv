@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4942	0	USER	こんにちは、福岡旅行を計画中です。香椎神宮駅が最寄りで、Wi-Fiと駐車場がどちらも無料の観光名所はありますか？	general,attraction,weather
+4942	1	SYSTEM	申し訳ございません。ございません。	general,attraction,weather
+4942	2	USER	そうですか、では最寄り駅は考慮しないでいいです。駐車場とWi-Fiは無料でお願いします。	general,attraction,weather
+4942	3	SYSTEM	住吉神社 福岡市博物館 マリノアシティ福岡をご紹介できます。	general,attraction,weather
+4942	4	USER	住吉神社でお願いします。エリアで言うとどのあたりですか？	general,attraction,weather
+4942	5	SYSTEM	博多区です。	general,attraction,weather
+4942	6	USER	そうですか。8月4日の西区の天気はわかりますか？最高気温も知りたいです。	general,attraction,weather
+4942	7	SYSTEM	晴れの予報です。最高気温は37.8度です。	general,attraction,weather
+4942	8	USER	暑そうですね！ありがとうございました。	general,attraction,weather

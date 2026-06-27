@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1095	0	USER	仙台への旅行のため良い宿泊先を探しています。	general,hotel
+1095	1	SYSTEM	希望条件などは、ございますか？	general,hotel
+1095	2	USER	はい、レストランがあるホテルが良いです。予算は高めで検討しています。	general,hotel
+1095	3	SYSTEM	ホテルメトロポリタン仙台は、いかがですか？	general,hotel
+1095	4	USER	ホテルメトロポリタン仙台で予約をお願いします。ちなみに、近くの駅からは何分くらいかかりますか？	general,hotel
+1095	5	SYSTEM	近辺の駅からの所要時間は、仙台駅から徒歩で1分です。　予約の希望日時と人数などお知らせください。	general,hotel
+1095	6	USER	はい、4人で泊まりたいです。9/4から3泊で予約は取れますか？	general,hotel
+1095	7	SYSTEM	予約出来ました。予約番号は、95817です。	general,hotel
+1095	8	USER	ありがとうございます。	general,hotel
+1095	9	SYSTEM	他にご用件はございますか？	general,hotel
+1095	10	USER	以上です、ありがとうございました。	general,hotel
+1095	11	SYSTEM	承知致しました。　ありがとうございました。	general,hotel

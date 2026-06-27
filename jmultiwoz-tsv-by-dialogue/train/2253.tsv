@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2253	0	USER	仙台へ旅行に行くんですが、宿泊施設を探して欲しいです。	general,hotel,attraction,weather
+2253	1	SYSTEM	はい、ご希望はありますか？	general,hotel,attraction,weather
+2253	2	USER	駐車場が無料で、レストランが併設されているところがいいです。	general,hotel,attraction,weather
+2253	3	SYSTEM	仙台で駐車場無料、レストラン併設の宿泊施設は２０件ほどあります。追加の希望条件はありますか？	general,hotel,attraction,weather
+2253	4	USER	他はありません。	general,hotel,attraction,weather
+2253	5	SYSTEM	それでは、秋保温泉 茶寮宗園をおすすめします。	general,hotel,attraction,weather
+2253	6	USER	ありがとうございます。チェックイン開始時刻は分かりますか？	general,hotel,attraction,weather
+2253	7	SYSTEM	夕方３時になります。	general,hotel,attraction,weather
+2253	8	USER	では予約もお願いしたいです。7/4から3泊で、2人で行きたいです。	general,hotel,attraction,weather
+2253	9	SYSTEM	その条件で予約しました。予約番号は21145です。	general,hotel,attraction,weather
+2253	10	USER	ありがとうございます。観光名所も探して欲しいです。Wi-Fiが無料のところってありますかね？	general,hotel,attraction,weather
+2253	11	SYSTEM	仙台でWiFi無料の観光名所は１１件ほどあります。追加の希望条件はありますか？	general,hotel,attraction,weather
+2253	12	USER	ないです。	general,hotel,attraction,weather
+2253	13	SYSTEM	ならば、仙台城跡、ここは必見ですよ。	general,hotel,attraction,weather
+2253	14	USER	行ってみますね！電話番号は分かりますか？	general,hotel,attraction,weather
+2253	15	SYSTEM	0222220218になります。	general,hotel,attraction,weather
+2253	16	USER	ありがとうございます。青葉区の7/4の天気は分かりますか？	general,hotel,attraction,weather
+2253	17	SYSTEM	7/4 仙台 青葉区 の天気は曇、最低気温15度、最高気温19.5度です。	general,hotel,attraction,weather
+2253	18	USER	ありがとうございます。楽しんできます！	general,hotel,attraction,weather
+2253	19	SYSTEM	よい旅を。	general,hotel,attraction,weather

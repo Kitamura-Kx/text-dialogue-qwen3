@@ -1,0 +1,31 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1287	0	USER	沖縄の那覇に旅行に行きたいのですが、ショッピングができるとこってありますか？	general,shopping,restaurant,hotel
+1287	1	SYSTEM	はい、何かご希望はございますか？	general,shopping,restaurant,hotel
+1287	2	USER	駐車場が無料の百貨店や総合スーパーが希望です。	general,shopping,restaurant,hotel
+1287	3	SYSTEM	ありがとうございます。エリアでいうと本庁に、デパートリウボウがございます。何かお知りになりたいことはございますか？	general,shopping,restaurant,hotel
+1287	4	USER	周辺の駅からの所要時間はどれくらいでしょう？	general,shopping,restaurant,hotel
+1287	5	SYSTEM	はい、最寄りの県庁前駅から徒歩で1分となります。	general,shopping,restaurant,hotel
+1287	6	USER	なるほど。ありがとうございます。あと職位ができるところを探しています。小禄付近でありますか？	general,shopping,restaurant,hotel
+1287	7	SYSTEM	はい、飲食店ですね。エリア以外にご希望はございますか？	general,shopping,restaurant,hotel
+1287	8	USER	特に決めてないのですがお勧めはありますか？	general,shopping,restaurant,hotel
+1287	9	SYSTEM	では、しゃぶ葉 那覇小禄店はいかがでしょう？ジャンルは和食となります。何かご案内致しましょうか？	general,shopping,restaurant,hotel
+1287	10	USER	料金が気になるのですが	general,shopping,restaurant,hotel
+1287	11	SYSTEM	はい、値段帯は安め、料金情報としては、宮崎県産 霧島黒豚＆牛みすじ＆国産牛食べ放題コースが3409円、ランチ牛2種＆三元豚食べ放題コースが1869円となります。他にご不明な点はございませんか？	general,shopping,restaurant,hotel
+1287	12	USER	いえ、そこがいいです。それではそこを予約して頂けませんでしょうか？人数は2人、12/9で時間は13:10ではどうでしょうか？	general,shopping,restaurant,hotel
+1287	13	SYSTEM	申し訳ありません、その条件では予約ができませんでした。いかがされますか？	general,shopping,restaurant,hotel
+1287	14	USER	そうなんですね。それでは１名だけではいかがでしょう？	general,shopping,restaurant,hotel
+1287	15	SYSTEM	人数の変更ありがとうございます。予約が可能になりまして、ご予約番号は、77850となります。他にご用件はございますか？	general,shopping,restaurant,hotel
+1287	16	USER	ありがとうございます。ついでにホテルも予約したいです。ホテル内にレストランがあるところでお願いします。	general,shopping,restaurant,hotel
+1287	17	SYSTEM	ホテルというのは、タイプでしょうか？宿泊施設、というとらえ方になりますでしょうか？タイプですと、リゾートホテル、ビジネスホテル、シティホテル、と種類があるのですが、いかがでしょう？	general,shopping,restaurant,hotel
+1287	18	USER	リゾートホテルで無料WI-FIが使えるところがいいです。	general,shopping,restaurant,hotel
+1287	19	SYSTEM	リゾートホテル、無料WI-FI、併設レストランあり、の条件ですと、ご案内ができません。いかが致しましょう？	general,shopping,restaurant,hotel
+1287	20	USER	それではレストランはなくても大丈夫です。どうですか？	general,shopping,restaurant,hotel
+1287	21	SYSTEM	ありがとうございます。エリアでいうと本庁に、沖縄逸の彩 温泉リゾートホテルがございます。	general,shopping,restaurant,hotel
+1287	22	USER	なるほど、お値段はどれくらいですか？	general,shopping,restaurant,hotel
+1287	23	SYSTEM	値段帯は安めとなります。	general,shopping,restaurant,hotel
+1287	24	USER	いいですね。それではそこを１２月９日２名４泊で予約して頂けませんか？	general,shopping,restaurant,hotel
+1287	25	SYSTEM	申し訳ありません、その条件では予約ができません。いかが致しましょう？	general,shopping,restaurant,hotel
+1287	26	USER	そうしたら、１名ではいかがですか？	general,shopping,restaurant,hotel
+1287	27	SYSTEM	ありがとうございます。予約が完了しまして、ご予約番号は、83027となります。	general,shopping,restaurant,hotel
+1287	28	USER	ありがとうございます！以上です。	general,shopping,restaurant,hotel
+1287	29	SYSTEM	ありがとうございました。	general,shopping,restaurant,hotel

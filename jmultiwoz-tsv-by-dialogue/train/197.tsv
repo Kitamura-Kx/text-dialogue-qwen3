@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+197	0	USER	名古屋に行くんですが、百貨店か総合スーパーで駐車場がただのところを知りたいんです。	general,shopping,taxi
+197	1	SYSTEM	かしこまりました。では、タカシマヤ ゲートタワーモールはいかがですか。	general,shopping,taxi
+197	2	USER	高島屋、いいですね。エリア的にはどこですか？それから営業時間はどうなってますか？	general,shopping,taxi
+197	3	SYSTEM	エリアは中村区でございます。営業時間は10:00～21:00となっております。	general,shopping,taxi
+197	4	USER	タクシー会社も教えてもらえますか？ジャンボタクシーが使えてキャッシュレス払いができる所がいいんですけど。	general,shopping,taxi
+197	5	SYSTEM	はい。東海交通がございます。	general,shopping,taxi
+197	6	USER	そこでいいです。電話番号は？	general,shopping,taxi
+197	7	SYSTEM	0532571111でございます。	general,shopping,taxi
+197	8	USER	8月14日の10時40分に名古屋市美術館を出て、タカシマヤ ゲートタワーモールまでの予約をお願いしたいんですけど。	general,shopping,taxi
+197	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は94845でございます。	general,shopping,taxi
+197	10	USER	お世話になりました。ありがとうございました。	general,shopping,taxi

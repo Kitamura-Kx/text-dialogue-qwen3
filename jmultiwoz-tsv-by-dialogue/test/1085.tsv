@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1085	0	USER	那覇への旅行を計画しているのですが。	general,shopping,restaurant
+1085	1	SYSTEM	はい。お問合せありがとうございます。	general,shopping,restaurant
+1085	2	USER	当日買い物ができるところを探してください．地区は本庁がいいです。	general,shopping,restaurant
+1085	3	SYSTEM	トイザらス・ベビーザらス 那覇新都心店はいかがでしょうか。	general,shopping,restaurant
+1085	4	USER	そちらの最寄駅をおしえてください	general,shopping,restaurant
+1085	5	SYSTEM	最寄り駅はおもろまち駅です。	general,shopping,restaurant
+1085	6	USER	ありがとうございました。あと、当日食事ができる飲食店を探してください．Wi-Fiが無料で利用で予算は安めが希望です	general,shopping,restaurant
+1085	7	SYSTEM	しゃぶ葉 那覇おもろまち店はいかがですか。	general,shopping,restaurant
+1085	8	USER	いいですね。そちらのエリアと駐車場のうむをおしえてください。	general,shopping,restaurant
+1085	9	SYSTEM	エリアは本庁で駐車場の有無は有り(無料)です。	general,shopping,restaurant
+1085	10	USER	そちらで予約してほしいです。人数は3人で日付は10/18、時間は13:50です．	general,shopping,restaurant
+1085	11	SYSTEM	予約しました。予約番号は54543です。	general,shopping,restaurant
+1085	12	USER	ありがとうございました。	general,shopping,restaurant

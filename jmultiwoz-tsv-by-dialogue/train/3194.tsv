@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3194	0	USER	横浜への旅行を計画中で、観光名所を探しています。無料の駐車場とWi-fi付きが良いです。	general,attraction,hotel
+3194	1	SYSTEM	かしこまりました。カップヌードルミュージアム 横浜はいかがですか？	general,attraction,hotel
+3194	2	USER	そこにしようと思います。大人入場料はわかりますか？	general,attraction,hotel
+3194	3	SYSTEM	はい。500円になります。	general,attraction,hotel
+3194	4	USER	ありがとうございます。当日利用できる簡易宿所を探しているのですが、ありますか？	general,attraction,hotel
+3194	5	SYSTEM	かしこまりました。では、ホテル ミライはいかがでしょうか？	general,attraction,hotel
+3194	6	USER	ありがとうございます。ただ、無料Wi-fi付きが良いのですがありますか？	general,attraction,hotel
+3194	7	SYSTEM	はい、ございますよ。	general,attraction,hotel
+3194	8	USER	失礼しました。レストラン付きが良いということを失念しておりました。ありますか？	general,attraction,hotel
+3194	9	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,attraction,hotel
+3194	10	USER	分かりました。では、簡易宿所でなくても構いません。	general,attraction,hotel
+3194	11	SYSTEM	であれば、ホテルメルパルク横浜はいかがですか？	general,attraction,hotel
+3194	12	USER	そこにしようと思います。宿のエリアとチェックアウト終了時刻、最寄駅からの所要時間は分かりますか？	general,attraction,hotel
+3194	13	SYSTEM	はい。エリアは中区で、チェックアウト終了時刻は午前10:00になります。また、最寄り駅の元町・中華街駅から徒歩で1分です。	general,attraction,hotel
+3194	14	USER	助かりました。ありがとうございます。お手数をおかけして申し訳ありません	general,attraction,hotel
+3194	15	SYSTEM	いえいえ。ご利用いただきありがとうございます。	general,attraction,hotel
+3194	16	USER	それでは、失礼します。	general,attraction,hotel

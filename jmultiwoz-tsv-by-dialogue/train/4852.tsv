@@ -1,0 +1,29 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4852	0	USER	仙台へ旅行しようと思っていますが、レストランが併設されている旅館はありますか？	general,hotel,attraction,shopping
+4852	1	SYSTEM	仙台でレストラン併設の旅館はいくつかありますが、奥州秋保温泉 蘭亭、こちらをお勧めします。	general,hotel,attraction,shopping
+4852	2	USER	そちらは駐車場は無料ですか	general,hotel,attraction,shopping
+4852	3	SYSTEM	はい、無料です。	general,hotel,attraction,shopping
+4852	4	USER	Wi-Fiは無料でしょうか？	general,hotel,attraction,shopping
+4852	5	SYSTEM	WiFiも無料です。	general,hotel,attraction,shopping
+4852	6	USER	料金情報を教えてください。	general,hotel,attraction,shopping
+4852	7	SYSTEM	値段帯は安めですが、詳細料金情報は不明です。	general,hotel,attraction,shopping
+4852	8	USER	チェックアウト時間も教えてください。	general,hotel,attraction,shopping
+4852	9	SYSTEM	１０時です。	general,hotel,attraction,shopping
+4852	10	USER	では、そちらの旅館の予約をお願いします。	general,hotel,attraction,shopping
+4852	11	SYSTEM	はい、人数日付宿泊数をどうぞ	general,hotel,attraction,shopping
+4852	12	USER	2名で、4月25日、3泊でお願いします。	general,hotel,attraction,shopping
+4852	13	SYSTEM	その条件だと予約に失敗してしまいました。	general,hotel,attraction,shopping
+4852	14	USER	1名ではいかがですか？	general,hotel,attraction,shopping
+4852	15	SYSTEM	予約成功しました。予約番号は50768です。	general,hotel,attraction,shopping
+4852	16	USER	ありがとうございます。当日訪れる観光名所を教えていただきたいです。駐車場が無料のところが良いです。	general,hotel,attraction,shopping
+4852	17	SYSTEM	仙台で駐車場無料の観光名所は３２件あります。追加の希望条件はありますか。	general,hotel,attraction,shopping
+4852	18	USER	できれば歴史的な散策エリアで、青葉地区に行きたいです。	general,hotel,attraction,shopping
+4852	19	SYSTEM	その条件なら、大崎八幡宮をおすすめします。	general,hotel,attraction,shopping
+4852	20	USER	そこの子供入場料と営業時間を教えてください。	general,hotel,attraction,shopping
+4852	21	SYSTEM	大人も子供も無料、２４ｈ営業です。	general,hotel,attraction,shopping
+4852	22	USER	わかりました。それと、当日買い物ができるところも調べてほしいです。最寄りが八乙女駅がいいです。	general,hotel,attraction,shopping
+4852	23	SYSTEM	その条件なら、スポーツデポ 仙台泉店をおすすめします。	general,hotel,attraction,shopping
+4852	24	USER	そこは駐車場は無料ですか？	general,hotel,attraction,shopping
+4852	25	SYSTEM	はい、無料です。	general,hotel,attraction,shopping
+4852	26	USER	どうもありがとうございました。	general,hotel,attraction,shopping
+4852	27	SYSTEM	よい旅を	general,hotel,attraction,shopping

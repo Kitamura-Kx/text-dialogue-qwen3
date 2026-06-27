@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2149	0	USER	こんにちは。福岡へ旅行予定なので、ラーメンやつけ麺で、高めの設定でもいいので、探していただけますか？	general,restaurant
+2149	1	SYSTEM	お調べしたところ、高めのラーメン屋さんが見つからなかったのですが、いかがいたしますか？	general,restaurant
+2149	2	USER	それでは普通の予算でお願いします。	general,restaurant
+2149	3	SYSTEM	かしこまりました。それでは博多屋台 中洲 十番はいかがでしょうか？	general,restaurant
+2149	4	USER	ありがとうございます。そちらの営業時間を教えてください。あと、Wi-Fiがあるかも知りたいです。	general,restaurant
+2149	5	SYSTEM	営業時間は17時半から深夜2時半です。Wi-Fiはご利用いただけません。	general,restaurant
+2149	6	USER	そうなんですね、ありがとうございます。ではそちらを予約お願いします。2/1の12:00で、4名です。	general,restaurant
+2149	7	SYSTEM	お待たせ致しました。予約番号42115でお取りさせていただきました。	general,restaurant
+2149	8	USER	ありがとうございました。今日は以上です。	general,restaurant
+2149	9	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

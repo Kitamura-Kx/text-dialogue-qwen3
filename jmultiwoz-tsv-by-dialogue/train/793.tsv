@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+793	0	USER	札幌への旅行を計画しています。 当日買い物ができるところを探してください。	general,shopping,attraction,weather
+793	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,shopping,attraction,weather
+793	2	USER	地区は厚別区、ジャンルは食料品でお願いします。	general,shopping,attraction,weather
+793	3	SYSTEM	そういたしますと、ドーナツベーグル専門店 ふわもち邸、というお店が1件ご案内可能です。ひばりが丘駅から徒歩で5分の場所ですが、いかがでしょうか？	general,shopping,attraction,weather
+793	4	USER	営業時間が知りたいです。	general,shopping,attraction,weather
+793	5	SYSTEM	営業時間は、8:00～15:00でございます。	general,shopping,attraction,weather
+793	6	USER	あと、東区で観光名所を探してください。	general,shopping,attraction,weather
+793	7	SYSTEM	かしこまりました。モエレ沼公園と、ラウンドワンスタジアム札幌北21条店の2件をご案内可能です。ご興味のあるほうは、ございますでしょうか？	general,shopping,attraction,weather
+793	8	USER	Wi-Fiが無料で利用できるところで、ジャンルはスポーツ・フィットネスを考えています。	general,shopping,attraction,weather
+793	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,attraction,weather
+793	10	USER	そうなんですね。では地区は考慮せず、Wi-Fiが無料で利用できて、ジャンルはスポーツ・フィットネスであればありますか？	general,shopping,attraction,weather
+793	11	SYSTEM	はい、2件ご案内可能です。札幌ドームと、シャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾート、という施設になりますが、いかがでしょうか？	general,shopping,attraction,weather
+793	12	USER	札幌ドームの最寄り駅はどこになりますか。	general,shopping,attraction,weather
+793	13	SYSTEM	最寄り駅は、福住駅です。福住駅からは徒歩10分の距離にございます。	general,shopping,attraction,weather
+793	14	USER	あと11/19の西区の最高気温，天気を教えてください。	general,shopping,attraction,weather
+793	15	SYSTEM	かしこまりました。当日の最高気温は11.7度で、天気は曇りの予報となっております。	general,shopping,attraction,weather
+793	16	USER	どうもありがとうございました。	general,shopping,attraction,weather

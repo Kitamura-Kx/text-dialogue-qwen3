@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+588	0	USER	こんにちは！横浜に行くので飲食店を探して欲しいです！	general,restaurant,weather
+588	1	SYSTEM	こんにちは。横浜のお食事処ですね。ジャンルやエリアなど、何かご希望はございませんか？	general,restaurant,weather
+588	2	USER	アジア・エスニック料理を食べたいです！	general,restaurant,weather
+588	3	SYSTEM	では、エムエム タイというお店は如何でしょうか？	general,restaurant,weather
+588	4	USER	いいですね。近辺の駅からの所要時間を教えてください。	general,restaurant,weather
+588	5	SYSTEM	みなとみらい駅から徒歩で2分でアクセスできます。	general,restaurant,weather
+588	6	USER	ありがとうございます。天候を調べてもらえますか？4/26の青葉区でお願いします。	general,restaurant,weather
+588	7	SYSTEM	かしこまりました。当日の天気予報は、雨時々晴れです。最低気温は9.3度、最高気温は13.4度の予想となっております。	general,restaurant,weather
+588	8	USER	詳しい情報をありがとうございます。	general,restaurant,weather
+588	9	SYSTEM	ほかにお調べすることはございますか？	general,restaurant,weather
+588	10	USER	大丈夫です。ありがとうございました。	general,restaurant,weather
+588	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,weather

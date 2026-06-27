@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+790	0	USER	すみません。那覇への旅行を計画しており、当日泊まる宿泊施設を探してほしいです。	general,hotel
+790	1	SYSTEM	かしこまりました。ご希望の条件などはございますか？	general,hotel
+790	2	USER	駐車場を無料で利用できるところにしてください．予算は安めが希望です．	general,hotel
+790	3	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。いかが致しましょうか？	general,hotel
+790	4	USER	では、予算を普通としたらありますか？	general,hotel
+790	5	SYSTEM	ありがとうございます。本庁エリアに、1件ございました。さくらや国際通り、という宿泊施設ですが、いかがでしょうか？	general,hotel
+790	6	USER	そこのレストランの有無，住所を教えてください。	general,hotel
+790	7	SYSTEM	申し訳ございません。こちらは、レストランは併設しておりません。住所は、沖縄県那覇市松尾1丁目3-16 2Fでございます。	general,hotel
+790	8	USER	わかりました。予約をお願いします。条件は、人数4人、日付は7/6、宿泊日数は4泊希望です。	general,hotel
+790	9	SYSTEM	ご予約ありがとうございます。予約番号34884にて、承りました。	general,hotel
+790	10	USER	とても助かりました。ありがとうございました。	general,hotel

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4311	0	USER	仙台に旅行に行くので作並駅にある観光名所を教えてください	general,attraction,shopping
+4311	1	SYSTEM	最寄りの駅が作並駅でしたら、ニッカウイスキー仙台工場宮城峡蒸溜所のみですが、ございます。	general,attraction,shopping
+4311	2	USER	駐車場はありますか？	general,attraction,shopping
+4311	3	SYSTEM	はい、無料の駐車場がございます。	general,attraction,shopping
+4311	4	USER	ありがとうございます。あと太白区で駐車場が無料で利用出来て、文房具や雑貨の買い物ができるお店を探しているのですが	general,attraction,shopping
+4311	5	SYSTEM	お待たせ致しました。その条件でしたら、IKEA 仙台が該当致します。	general,attraction,shopping
+4311	6	USER	電話番号と営業時間はわかりますか？	general,attraction,shopping
+4311	7	SYSTEM	はい、電話番号は0570013900でして、営業時間は10時から19時でございます。	general,attraction,shopping
+4311	8	USER	了解です。ありがとうございました	general,attraction,shopping
+4311	9	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,shopping

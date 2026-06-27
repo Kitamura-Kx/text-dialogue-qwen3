@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1883	0	USER	仙台に旅行するので観光名所を訪れたいと思っています。	general,attraction,weather
+1883	1	SYSTEM	ありがとうございます。どういったジャンルの名所がご希望でしょうか？	general,attraction,weather
+1883	2	USER	ジャンルは庭園で、太白区だとよいです。また、駐車場無料だとより嬉しいです。	general,attraction,weather
+1883	3	SYSTEM	その条件でしたら、天守閣自然公園はいかがでしょうか？	general,attraction,weather
+1883	4	USER	良いですね！では、定休日と大人の入場料について教えてください。	general,attraction,weather
+1883	5	SYSTEM	はい、定休日はございません。入場料は、大人1000円、子供500円でございます。	general,attraction,weather
+1883	6	USER	ありがとうございます。あと天候を知りたいのですが、10/23 泉区の最高気温は何度ですか？	general,attraction,weather
+1883	7	SYSTEM	はい、泉区の当日の最高気温は22.9度でございます。	general,attraction,weather
+1883	8	USER	今回知りたかったことは以上です。ありがとうございました。	general,attraction,weather
+1883	9	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,weather

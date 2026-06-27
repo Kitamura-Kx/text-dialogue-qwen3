@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1732	0	USER	札幌へ旅行に行くんですが、飲食店を探して欲しいです。	general,restaurant,attraction,weather
+1732	1	SYSTEM	希望条件などは、ありますか？	general,restaurant,attraction,weather
+1732	2	USER	和食のお店で、Wi-Fiが無料のところでお願いします！	general,restaurant,attraction,weather
+1732	3	SYSTEM	では、和味酒彩 秋夏はいかがですか？	general,restaurant,attraction,weather
+1732	4	USER	いいですね！営業時間とエリアを教えてください。	general,restaurant,attraction,weather
+1732	5	SYSTEM	営業時間は、午後12時から午後11時までです。　エリアは、中央区になります。	general,restaurant,attraction,weather
+1732	6	USER	ありがとうございます。あと、西区で観光名所も探して欲しいです。	general,restaurant,attraction,weather
+1732	7	SYSTEM	白い恋人パークは、いかがですか？	general,restaurant,attraction,weather
+1732	8	USER	すみません、自然・公園のジャンルに行きたいです。Wi-Fiが無料のところでお願いします！	general,restaurant,attraction,weather
+1732	9	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,attraction,weather
+1732	10	USER	では南区ではどうですか？	general,restaurant,attraction,weather
+1732	11	SYSTEM	アシリベツの滝は、いかがですか？	general,restaurant,attraction,weather
+1732	12	USER	いいですね！営業時間を教えてください。	general,restaurant,attraction,weather
+1732	13	SYSTEM	営業時間は、午前9時から午後5時までです。	general,restaurant,attraction,weather
+1732	14	USER	ありがとうございます。最寄り駅と駐車場の有無についても分かりますか？	general,restaurant,attraction,weather
+1732	15	SYSTEM	最寄り駅は、真駒内駅です。　駐車場は、有料駐車場になります。	general,restaurant,attraction,weather
+1732	16	USER	ありがとうございます。手稲区の2/3の天気も分かりますか？	general,restaurant,attraction,weather
+1732	17	SYSTEM	天気は、雪のち曇です。	general,restaurant,attraction,weather
+1732	18	USER	ありがとうございます。	general,restaurant,attraction,weather
+1732	19	SYSTEM	他にご用件はありますか？	general,restaurant,attraction,weather
+1732	20	USER	これで大丈夫です。助かりました！	general,restaurant,attraction,weather
+1732	21	SYSTEM	承知致しました。　ありがとうございました。	general,restaurant,attraction,weather

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1524	0	USER	仙台へ旅行に行くので飲食店を探してください。	general,restaurant
+1524	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant
+1524	2	USER	店名が地酒と土鍋飯 さんかというところなのですが、ご対応できますか？	general,restaurant
+1524	3	SYSTEM	はい、エリアは宮城野区、ジャンルは居酒屋、和食、となります。何かご案内致しましょうか？	general,restaurant
+1524	4	USER	住所と最寄り駅を教えてください	general,restaurant
+1524	5	SYSTEM	住所は宮城県仙台市宮城野区榴岡4丁目8-1 花園レジデンス1階、最寄りの宮城野通駅から徒歩で1分となります。	general,restaurant
+1524	6	USER	ありがとうございます。以上になります。	general,restaurant
+1524	7	SYSTEM	ありがとうございました。	general,restaurant

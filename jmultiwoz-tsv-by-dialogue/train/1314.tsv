@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1314	0	USER	東京への旅行で、タクシー会社を探しています。キャッシュレス払いでジャンボタクシーを利用したいのですが、どこかありますか？	general,taxi,weather
+1314	1	SYSTEM	はい、13件ほどご案内可能です。大国自動車交通というところは、いかがでしょうか？	general,taxi,weather
+1314	2	USER	そちらにいたします。電話番号をお願いします。	general,taxi,weather
+1314	3	SYSTEM	電話番号は、0357552151でございます。予約もなさいますか？	general,taxi,weather
+1314	4	USER	予約お願いします。6/20の12:40乗車で、すみだ江戸切子館からThe Okura Tokyoです。	general,taxi,weather
+1314	5	SYSTEM	ご予約ありがとうございます。予約番号78233にて、承りました。	general,taxi,weather
+1314	6	USER	同じ6/20の板橋区の天気も併せて教えていいただけますか？	general,taxi,weather
+1314	7	SYSTEM	はい。当日の天気は曇時々雨の予報です。	general,taxi,weather
+1314	8	USER	どうもありがとうございました。お尋ねしたことは以上です。	general,taxi,weather
+1314	9	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,taxi,weather

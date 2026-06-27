@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3793	0	USER	東京への旅行を計画しているのですが、飲食店を探してもらえますか？	general,restaurant,shopping,hotel
+3793	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,restaurant,shopping,hotel
+3793	2	USER	最寄り駅が北池袋駅で、Wi-Fiが無料の場所が良いです。予算は普通でお願いします。	general,restaurant,shopping,hotel
+3793	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping,hotel
+3793	4	USER	では、最寄り駅は北池袋駅でなくても大丈夫です。	general,restaurant,shopping,hotel
+3793	5	SYSTEM	ありがとうございます。では、VAMPIRE CAFEという、イタリアン・フレンチ, 居酒屋ジャンルのお店はいかがでしょうか？最寄りは銀座駅となります。	general,restaurant,shopping,hotel
+3793	6	USER	ありがとうございます。そちらのエリアと、駐車場の有無を教えてもらえますか？	general,restaurant,shopping,hotel
+3793	7	SYSTEM	エリアは中央区にございます。駐車場は、申し訳ありません、不明となっております。	general,restaurant,shopping,hotel
+3793	8	USER	9/29の午前11:40に、3名で予約をお願いできますか？	general,restaurant,shopping,hotel
+3793	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、2990です。	general,restaurant,shopping,hotel
+3793	10	USER	中央区で駐車場が無料の買い物ができる場所はありますか？	general,restaurant,shopping,hotel
+3793	11	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,restaurant,shopping,hotel
+3793	12	USER	では、駐車場の有無は問いません。	general,restaurant,shopping,hotel
+3793	13	SYSTEM	ありがとうございます。では、築地場外市場はいかがでしょうか？	general,restaurant,shopping,hotel
+3793	14	USER	そちらにします。営業時間とジャンルを教えてもらえますか？	general,restaurant,shopping,hotel
+3793	15	SYSTEM	営業時間は、6:00～14:00です。ジャンルは、商店街となっております。	general,restaurant,shopping,hotel
+3793	16	USER	当日の宿泊施設を探してもらえますか？Wi-Fiが無料で、駐車場も無料、予算は普通が良いのですが。	general,restaurant,shopping,hotel
+3793	17	SYSTEM	かしこまりました。では、帝国ホテル東京はいかがでしょうか？千代田区エリアにあるシティホテルでございます。	general,restaurant,shopping,hotel
+3793	18	USER	ありがとうございます。	general,restaurant,shopping,hotel
+3793	19	SYSTEM	他にお調べすることはございませんか？	general,restaurant,shopping,hotel
+3793	20	USER	はい、大丈夫です。ありがとうございました。	general,restaurant,shopping,hotel
+3793	21	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant,shopping,hotel

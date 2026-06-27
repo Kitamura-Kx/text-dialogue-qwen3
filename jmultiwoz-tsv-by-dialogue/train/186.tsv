@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+186	0	USER	どうも。今京都に行きたいと思っているんです。	general,shopping,weather
+186	1	SYSTEM	京都のどういった情報をお求めでしょうか？	general,shopping,weather
+186	2	USER	上京区でお買い物をしたいと考えているんです。	general,shopping,weather
+186	3	SYSTEM	4件ほど候補があります。ジャンルなどでご希望はございませんか？	general,shopping,weather
+186	4	USER	ジャンルは特に問いません。	general,shopping,weather
+186	5	SYSTEM	それでしたら、鶴屋𠮷信 本店はいかがでしょうか？お土産, 食料品を扱っているお店となります。	general,shopping,weather
+186	6	USER	こちらに伺ってみたいと思います。こちらは、定休日はどうなっていますか？	general,shopping,weather
+186	7	SYSTEM	水曜日と1月1日が、定休日となっております。	general,shopping,weather
+186	8	USER	わかりました。住所を教えてもらえますか？	general,shopping,weather
+186	9	SYSTEM	住所は、京都府京都市上京区今出川通堀川西入る、です。	general,shopping,weather
+186	10	USER	わかりました。4/2に京都の北区へ行こうと思っているのですが、天気はどうでしょうか？	general,shopping,weather
+186	11	SYSTEM	4月2日の北区のお天気は、雨の予報です。最低気温は4.8度、最高気温は18.4度です。	general,shopping,weather
+186	12	USER	なるほど。ご丁寧にありがとうございます、とっても助かりました。	general,shopping,weather

@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4022	0	USER	東京へ旅行予定です。シティホテルでWi-Fiが無料で使えるようなところはありますか？	general,hotel,shopping,taxi
+4022	1	SYSTEM	東京でWiFi無料のシティホテルはいくつかありますが、帝国ホテル東京、こちらをお勧めします。	general,hotel,shopping,taxi
+4022	2	USER	いいですね。駐車場はありますか？	general,hotel,shopping,taxi
+4022	3	SYSTEM	駐車場無料です。	general,hotel,shopping,taxi
+4022	4	USER	わかりました。あと、駐車場無料な買い物できるお店は探せますか？	general,hotel,shopping,taxi
+4022	5	SYSTEM	東京で駐車場無料の買い物スポットはいくつかありますが、ラフォーレ原宿、こちらをお勧めします。	general,hotel,shopping,taxi
+4022	6	USER	そうなんですね。じゃあ、近辺の駅からの所要時間と住所も教えてください。	general,hotel,shopping,taxi
+4022	7	SYSTEM	明治神宮前〈原宿〉駅から徒歩で1分、原宿駅からなら徒歩で5分、表参道駅からだと徒歩で7分です。住所は東京都渋谷区神宮前1丁目11-6になります。	general,hotel,shopping,taxi
+4022	8	USER	ありがとうございます。あと、ジャンボタクシーの利用を考えているのですが、キャッシュレス払いができるようなところはありませんか？	general,hotel,shopping,taxi
+4022	9	SYSTEM	キャッシュレスとジャンボタクシー両方対応している会社はいくつかありますが、銀星交通、こちらをお勧めします。	general,hotel,shopping,taxi
+4022	10	USER	そこにします。電話番号はわかります？	general,hotel,shopping,taxi
+4022	11	SYSTEM	0425750458になります。	general,hotel,shopping,taxi
+4022	12	USER	ではそちらで、3/31の12:20に帝国ホテル東京からラフォーレ原宿までの予約をお願いします。	general,hotel,shopping,taxi
+4022	13	SYSTEM	予約成功しました。予約番号は94632です。	general,hotel,shopping,taxi
+4022	14	USER	ありがとうございます。もう大丈夫です。	general,hotel,shopping,taxi
+4022	15	SYSTEM	よい旅を。	general,hotel,shopping,taxi

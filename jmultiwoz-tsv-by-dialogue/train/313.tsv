@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+313	0	USER	大阪に旅行しようと考えています。その時に泊まるところを探してもらいたいです。	general,hotel,taxi
+313	1	SYSTEM	承知しました。エリアや値段帯などのご希望はございますか？	general,hotel,taxi
+313	2	USER	安めな価格帯で、Wi-Fiが無料で使えるところだと嬉しいです。	general,hotel,taxi
+313	3	SYSTEM	申し訳ありません。その条件ではご紹介可能な宿泊施設がありません。いかが致しましょう？	general,hotel,taxi
+313	4	USER	そうですか。じゃあ、Wi-Fiに関する条件はなくても大丈夫です！	general,hotel,taxi
+313	5	SYSTEM	ありがとうございます。それでは、ジョイテルホテル新世界堺筋通はいかがでしょう？	general,hotel,taxi
+313	6	USER	こちらのホテルは利用する際にどのような料金がかかりますか？	general,hotel,taxi
+313	7	SYSTEM	Wi-Fi、駐車場とも有料となっております。	general,hotel,taxi
+313	8	USER	わかりました。こちらのホテルのチェックアウトの時刻も知りたいです。	general,hotel,taxi
+313	9	SYSTEM	はい、チェックアウト終了時刻は11時です。	general,hotel,taxi
+313	10	USER	ありがとうございます！旅行中にタクシーを利用したいのですが、キャッシュレス決済可能でジャンボタクシーが使える会社ってありますか？	general,hotel,taxi
+313	11	SYSTEM	はい、それでは、南タクシー株式会社はいかがでしょう？どちらも対応しております。電話番号は、0667121331です。	general,hotel,taxi
+313	12	USER	では南タクシー株式会社で手配をお願いします。4/10の13:30、ジョイテルホテル新世界堺筋通を出発してうどん居酒屋 江戸堀まで乗車します。	general,hotel,taxi
+313	13	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、62849となります。	general,hotel,taxi
+313	14	USER	本日はご対応下さりありがとうございました。	general,hotel,taxi

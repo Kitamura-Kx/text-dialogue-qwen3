@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3945	0	USER	那覇へ旅行に行く予定をしています。	general,taxi,weather
+3945	1	SYSTEM	かしこまりました。何かお調べ致しますか？	general,taxi,weather
+3945	2	USER	ジャンボタクシーのあるタクシー会社はありますか？	general,taxi,weather
+3945	3	SYSTEM	お待たせ致しました。それでは那覇第一交通はいかがでしょうか？	general,taxi,weather
+3945	4	USER	ありがとうございます。そこを利用します。キャッシュレスは使えますか？	general,taxi,weather
+3945	5	SYSTEM	ありがとうございます。はい、キャッシュレスにも対応しております。	general,taxi,weather
+3945	6	USER	3/7の15時におきなわ屋 泡盛蔵 国際店から玉陵まで、予約、お願いできますか？	general,taxi,weather
+3945	7	SYSTEM	申し訳ありません。その条件では予約出来ませんでした。	general,taxi,weather
+3945	8	USER	時間を15時40分に変更したら、どうですか？	general,taxi,weather
+3945	9	SYSTEM	お待たせ致しました。予約番号84907でお取りさせていただきました。	general,taxi,weather
+3945	10	USER	ありがとうございました。あともう一つ、3/7の小禄という地区の最高気温も教えてください。	general,taxi,weather
+3945	11	SYSTEM	お待たせ致しました。当日の最高気温は23.3度の予報でございます。	general,taxi,weather
+3945	12	USER	わかりました。ありがとうございます。	general,taxi,weather
+3945	13	SYSTEM	ありがとうございます。その他にご用件はございますか？	general,taxi,weather
+3945	14	USER	もう大丈夫です！	general,taxi,weather
+3945	15	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi,weather

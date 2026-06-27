@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4103	0	USER	横浜への旅行を計画しております。伊勢山皇大神宮という観光名所はございますでしょうか。	general,attraction,weather
+4103	1	SYSTEM	はい、該当名所はございます！	general,attraction,weather
+4103	2	USER	そちらの営業時間と住所を教えてください。	general,attraction,weather
+4103	3	SYSTEM	はい、営業時間は6時から20時でして、住所は神奈川県横浜市西区宮崎町64でございます。	general,attraction,weather
+4103	4	USER	ありがとうございます。最後に保土ケ谷区の1/11の天候を調べてください。最高気温も知りたいです。	general,attraction,weather
+4103	5	SYSTEM	お待たせ致しました。当日の天気は曇のち晴、最高気温は12.4度の予報でございます。	general,attraction,weather
+4103	6	USER	承知しました。問い合わせは以上です。	general,attraction,weather
+4103	7	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2990	0	USER	福岡旅行で利用する宿泊施設を探しています。条件をお伝えするので探してもらえますか？	general,hotel,weather
+2990	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,hotel,weather
+2990	2	USER	予算は休めで地区は中央区、Wi-Fiが無料で利用できるところが良いです。	general,hotel,weather
+2990	3	SYSTEM	中央区で予算安め、WiFi無料な宿泊施設はいくつかありますが、HOTEL COCON、こちらをオススメします。	general,hotel,weather
+2990	4	USER	最寄駅とチェックアウト終了時刻を教えてください！	general,hotel,weather
+2990	5	SYSTEM	最寄りは渡辺通駅、チェックアウト終了時刻は１０時です。	general,hotel,weather
+2990	6	USER	分かりました。あと9/18の西区の最高気温も教えて貰えますか？	general,hotel,weather
+2990	7	SYSTEM	9/18 福岡 西区 の天気は晴、最低気温23.2度、最高気温32.9度です。残暑が厳しいですね。	general,hotel,weather
+2990	8	USER	ほんとうですね！ありがとうございました！	general,hotel,weather
+2990	9	SYSTEM	よい旅を	general,hotel,weather

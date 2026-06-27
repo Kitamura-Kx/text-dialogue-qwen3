@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4195	0	USER	大阪へ行くのですが、3月29日の、此花区の最低気温教えて頂けますか？	general,weather,taxi
+4195	1	SYSTEM	大阪ですね、こちらの最低気温は、2.7度となっています。	general,weather,taxi
+4195	2	USER	ありがとうございます。3月29日にジャンボタクシーをキャッシュレスで利用したいのですが、教えていただけますか？	general,weather,taxi
+4195	3	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。　どうされますか？	general,weather,taxi
+4195	4	USER	そうでうすか。では普通のタクシーでいいです。	general,weather,taxi
+4195	5	SYSTEM	では、商都交通株式会社が良いと思いますがいかがですか？	general,weather,taxi
+4195	6	USER	そこにします。電話番号おしえてください。	general,weather,taxi
+4195	7	SYSTEM	電話番号は、0662626868になります。	general,weather,taxi
+4195	8	USER	では、予約をお願いします。3月29日の10時で、くらわんか餅の世界天満店から素材の力と和の心 乾坤一擲までお願いします。	general,weather,taxi
+4195	9	SYSTEM	予約出来ました。予約番号は、43385になります。	general,weather,taxi
+4195	10	USER	ありがとうございます。では、失礼いたします。	general,weather,taxi
+4195	11	SYSTEM	承知しました。ありがとうございました。	general,weather,taxi

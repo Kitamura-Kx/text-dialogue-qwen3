@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+930	0	USER	名古屋への旅行を計画しているのですが。	general,restaurant,weather
+930	1	SYSTEM	はい。何かご要望はございますか。	general,restaurant,weather
+930	2	USER	当日食事ができる飲食店を探してください．ジャンルはラーメン・つけ麺で予算は普通がいいです。駐車場を無料で利用できるところ希望です。	general,restaurant,weather
+930	3	SYSTEM	そちらの条件でお店が見つかりませんでした。	general,restaurant,weather
+930	4	USER	でしたらジャンルはなんでもいいです。	general,restaurant,weather
+930	5	SYSTEM	でしたらピッツェリアパージナ 星が丘テラス店はいかがでしょうか。	general,restaurant,weather
+930	6	USER	いいですね。そちらの営業時間，最寄り駅，エリアを教えてください。	general,restaurant,weather
+930	7	SYSTEM	エリアは千種区で営業時間は11:00～15:00, 17:00～22:30で最寄り駅は星ヶ丘駅になります。	general,restaurant,weather
+930	8	USER	ありがとうございます。そちらを数は4人、日付は8/2です．時間は11:40で予約して欲しいです。	general,restaurant,weather
+930	9	SYSTEM	予約しました。予約番号は40894になります。	general,restaurant,weather
+930	10	USER	ありがとうございます。あと、8/2の中川区の天候を推してください。	general,restaurant,weather
+930	11	SYSTEM	天気は晴のち雨です。	general,restaurant,weather
+930	12	USER	最高気温も教えて欲しいです。	general,restaurant,weather
+930	13	SYSTEM	最高気温は36.1度になります。	general,restaurant,weather
+930	14	USER	ありがとうございます。	general,restaurant,weather

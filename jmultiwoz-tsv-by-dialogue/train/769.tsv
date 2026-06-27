@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+769	0	USER	仙台へ行こうと思っています。WiFiと駐車場が無料の観光名所を探していただきたいです。	general,attraction
+769	1	SYSTEM	かしこまりました。2件ご案内できます。仙台うみの杜水族館と仙台市文学館で、気になる方はございますか？	general,attraction
+769	2	USER	仙台うみの杜水族館のジャンルを教えていただけますでしょうか。	general,attraction
+769	3	SYSTEM	かしこまりました。ジャンルは、水族館, 自然・公園, 教室・ワークショップ・体験, エンタメ・アミューズメント、となっております。	general,attraction
+769	4	USER	わかりました。ありがとうございます。	general,attraction
+769	5	SYSTEM	他になにか、お調べすることはございますか？	general,attraction
+769	6	USER	いいえ、大丈夫です。ありがとうございました。	general,attraction

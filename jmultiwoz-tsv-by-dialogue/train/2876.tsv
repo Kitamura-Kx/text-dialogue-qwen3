@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2876	0	USER	仙台に旅行に行こうと思っています。当日食事ができる飲食店を探しています。予算は安めで地区は若林区ジャンルは郷土料理が希望です。	general,restaurant,taxi
+2876	1	SYSTEM	全ての条件を満たす飲食店は見当たりません。	general,restaurant,taxi
+2876	2	USER	でしたら、予算は普通でも良いです。	general,restaurant,taxi
+2876	3	SYSTEM	それならば仙台らしく、伊達の牛たん本舗 東インター店、こちらをおすすめします。	general,restaurant,taxi
+2876	4	USER	そこが良さそうです。近辺の駅からの所要時間を教えてもらえますでしょうか。	general,restaurant,taxi
+2876	5	SYSTEM	荒井駅から徒歩で14分、その他、六丁の目駅からタクシーで4分です。	general,restaurant,taxi
+2876	6	USER	そのお店に予約したいので人数は2人で日付は6/16時間は14:40で予約をお願いします。	general,restaurant,taxi
+2876	7	SYSTEM	予約成功しました。予約番号は59782です。	general,restaurant,taxi
+2876	8	USER	あと当日利用できるタクシー会社を探しています。ジャンボタクシーが利用できるところでキャッシュレス払いができるところを探してください。	general,restaurant,taxi
+2876	9	SYSTEM	はい、仙台タクシーグループ、こちらをおすすめします。	general,restaurant,taxi
+2876	10	USER	そこに予約したいので日付は6/16時間は13:30出発地は仙台市天文台で目的地は伊達の牛たん本舗 東インター店で予約をお願いします。	general,restaurant,taxi
+2876	11	SYSTEM	予約成功しました。予約番号は87948です。	general,restaurant,taxi
+2876	12	USER	分かりました。ありがとうございます。	general,restaurant,taxi
+2876	13	SYSTEM	よい旅を	general,restaurant,taxi

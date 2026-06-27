@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3268	0	USER	札幌の中央区のあたりにある観光名所って、どこか良いところありますか？フリーWi-Fiのあるところが良いんですが。	general,attraction,taxi,weather
+3268	1	SYSTEM	札幌中央区のフリーWiFiのある観光名所といえば、札幌競馬場、こちら一択です。	general,attraction,taxi,weather
+3268	2	USER	いいですね。タクシーも使いたいんですが、ジャンボタクシーに乗れて、キャッシュレス払いOKのところはありますか？	general,attraction,taxi,weather
+3268	3	SYSTEM	札幌にはジャンボタクシーとキャッシュレス両方つかえるタクシーはなさそうです。	general,attraction,taxi,weather
+3268	4	USER	それなら、キャッシュレスは諦めます。	general,attraction,taxi,weather
+3268	5	SYSTEM	ジャンボタクシーOKな会社はいくつかありますが、ライラック交通(株)をお勧めします。	general,attraction,taxi,weather
+3268	6	USER	では、そこで予約をお願いできますか？3月25日、14時40分出発で予約をお願いします。場所は、ドーナツベーグル専門店 ふわもち邸から、札幌競馬場まででお願いします。	general,attraction,taxi,weather
+3268	7	SYSTEM	その条件だと予約失敗してしまいました。少し時間をずらしていただけませんか？	general,attraction,taxi,weather
+3268	8	USER	でしたら、15時20分でも大丈夫です。	general,attraction,taxi,weather
+3268	9	SYSTEM	15:20なら予約成功しました。予約番号は35585です。	general,attraction,taxi,weather
+3268	10	USER	助かりました。あと、当日の天候も教えてほしいです。	general,attraction,taxi,weather
+3268	11	SYSTEM	エリアと日付をお願いいたします。	general,attraction,taxi,weather
+3268	12	USER	豊平区のあたりで3月25日の天気と最低気温をお願いします。	general,attraction,taxi,weather
+3268	13	SYSTEM	3/25 札幌 豊平区 の天気は曇時々雨、最低気温3.7度、最高気温6度です。	general,attraction,taxi,weather
+3268	14	USER	ありがとうございます。今日聞きたかったのは、以上です。お世話になりました。	general,attraction,taxi,weather

@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+273	0	USER	大阪で居酒屋を探してほしいんですが。	general,restaurant,taxi
+273	1	SYSTEM	承知いたしました。検索致しましたところ、46件該当がございます。ご希望はなにかございますか？	general,restaurant,taxi
+273	2	USER	無料wifiが使えるといいですね。	general,restaurant,taxi
+273	3	SYSTEM	無料wifiサービスを併せて検索致しました。神戸牛焼肉 和ノ宮 なんば御堂筋店というお店がございます。その他9件該当ございます。	general,restaurant,taxi
+273	4	USER	なるほど。神戸牛焼肉 和ノ宮 なんば御堂筋店は、焼肉だけれど居酒屋さんでもあるんですね？	general,restaurant,taxi
+273	5	SYSTEM	お店のジャンルといたしまして、焼肉、ホルモン、 居酒屋、 イタリアン、フレンチとなっております。いかがでしょうか？	general,restaurant,taxi
+273	6	USER	良さそうですね。そこの営業時間を伺ってもいいですか？	general,restaurant,taxi
+273	7	SYSTEM	神戸牛焼肉 和ノ宮 なんば御堂筋店の営業時間は11時から22時でございます。	general,restaurant,taxi
+273	8	USER	あと電話番号もいいですか？	general,restaurant,taxi
+273	9	SYSTEM	はい。電話番号は0662138129でございます。	general,restaurant,taxi
+273	10	USER	ありがとうございます。ついでに、キャッシュレスで支払いができるタクシー会社も探してもらえたりしますか？	general,restaurant,taxi
+273	11	SYSTEM	承知致しました。大阪でキャッシュレス対応のタクシー会社は13件ございます。タックン大阪株式会社はいかがでしょうか？	general,restaurant,taxi
+273	12	USER	タックン大阪株式会社は、ジャンボタクシーに対応していますか？	general,restaurant,taxi
+273	13	SYSTEM	ジャンボタクシーは非対応となっております。同じ条件でジャンボタクシー対応の会社をお調べ致しますか？	general,restaurant,taxi
+273	14	USER	いえ、大丈夫です。あとそこの電話番号も教えてください。	general,restaurant,taxi
+273	15	SYSTEM	承知致しました。タックン大阪株式会社の電話番号は、0669350778でございます。他にお力になれることはございますか？	general,restaurant,taxi
+273	16	USER	じゃあ、予約もお願いしていいですか？12月4日、昼の12時30分にさっきの居酒屋から、アカチャンホンポ あべのイトーヨーカドー店まで乗せてほしいんですけど。	general,restaurant,taxi
+273	17	SYSTEM	12月4日お昼の12時30分、神戸牛焼肉 和ノ宮 なんば御堂筋店からアカチャンホンポ あべのイトーヨーカドー店ですね。ご予約可能でございます。予約番号をお伝えしてよろしいでしょうか？	general,restaurant,taxi
+273	18	USER	はい、よろしくお願いします。	general,restaurant,taxi
+273	19	SYSTEM	承知致しました。ご予約番号は、25744でございます。その他、ご用件ございますでしょうか？	general,restaurant,taxi
+273	20	USER	ありがとうございました。ほかは今のところ、大丈夫です。	general,restaurant,taxi

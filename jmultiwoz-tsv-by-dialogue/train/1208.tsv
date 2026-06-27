@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1208	0	USER	大阪への旅行を検討しているのですが、飲食店を探しております。色々とお伺いしたいのですが、よろしいでしょうか？	general,restaurant
+1208	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant
+1208	2	USER	店名が、まほろば囲炉裏 心斎橋というところなんですが、わかりますかね？	general,restaurant
+1208	3	SYSTEM	はい。ございます。何かお知りになりたい情報がございますか。	general,restaurant
+1208	4	USER	そちらの料金情報がお聞きできればなと思うのですが。	general,restaurant
+1208	5	SYSTEM	料金情報は不明でございます。	general,restaurant
+1208	6	USER	わかりました。当日確認しますね。このまま予約をしたいのですが、大丈夫でしょうか？	general,restaurant
+1208	7	SYSTEM	かしこまりました。では予約の詳細をお聞かせいただけますか。	general,restaurant
+1208	8	USER	はい。8月12日の09時50分、人数は4人でお願いします。	general,restaurant
+1208	9	SYSTEM	はい。予約が完了いたしました。予約番号は55433でございます。	general,restaurant
+1208	10	USER	これで大丈夫です！ありがとうございました！	general,restaurant
+1208	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant

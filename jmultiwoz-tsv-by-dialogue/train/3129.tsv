@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3129	0	USER	那覇へ旅行に行くので真和志エリアで駐車場が無料でできる飲食店を探してほしいです。予算は普通がいいです。	general,restaurant,hotel,taxi
+3129	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,hotel,taxi
+3129	2	USER	そしたら地区は考えなくていいです	general,restaurant,hotel,taxi
+3129	3	SYSTEM	そういたしますと、串角 小禄店という居酒屋はいかがでしょうか？エリアは小禄となります。	general,restaurant,hotel,taxi
+3129	4	USER	そしたら5/31の12:00に3人で予約してください	general,restaurant,hotel,taxi
+3129	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、23444です。	general,restaurant,hotel,taxi
+3129	6	USER	あと真和志地区でWi-Fiが無料で利用できる簡易宿所を探していますがありますか？	general,restaurant,hotel,taxi
+3129	7	SYSTEM	はい、1件ご案内できます。ラナイホステルというところはいかがでしょうか？	general,restaurant,hotel,taxi
+3129	8	USER	そしたら5/31から4泊、4名で予約をお願いします	general,restaurant,hotel,taxi
+3129	9	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、74832でございます。	general,restaurant,hotel,taxi
+3129	10	USER	ありがとうございます。あと三和交通というタクシー会社を利用する予定なんですが、電話番号とジャンボタクシーに対応しているかとキャッシュレス対応しているかを教えて貰えますか？	general,restaurant,hotel,taxi
+3129	11	SYSTEM	三和交通ですね。こちらの電話番号は、0120100084です。ジャンボタクシーとキャッシュレス払い、どちらにも対応してございます。	general,restaurant,hotel,taxi
+3129	12	USER	そしたら5/31の13:10に串角 小禄店からラナイホステルで予約をお願いします	general,restaurant,hotel,taxi
+3129	13	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、46907です。	general,restaurant,hotel,taxi
+3129	14	USER	了解です。ありがとうございました	general,restaurant,hotel,taxi
+3129	15	SYSTEM	こちらこそ、ありがとうございます。もし他にご質問がないようでしたら、これにて失礼いたします。本日はご利用ありがとうございました。	general,restaurant,hotel,taxi

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+692	0	USER	東京で、Wi-Fiが無料でできる高めの飲食店でおすすめはありますか？	general,restaurant
+692	1	SYSTEM	はい、エリアでいうと中央区にございます、うなぎ割烹 大江戸はいかがでしょう？何かご案内致しましょうか？	general,restaurant
+692	2	USER	そのお店は、駐車場は無料で使えますか？	general,restaurant
+692	3	SYSTEM	申し訳ありません。駐車場の有無については不明です。駐車場の有無を条件に含めますか？	general,restaurant
+692	4	USER	そうなんですね。では、Wi-Fiは無料でなくて良いので、駐車場無料のお店を探してもらえますか？	general,restaurant
+692	5	SYSTEM	承知しました。では、エリアでいうと中央区にございます、フォカッチェリア ラ ブリアンツァはいかがでしょう？	general,restaurant
+692	6	USER	今日調べたいことは以上です。ありがとうございました。	general,restaurant
+692	7	SYSTEM	ありがとうございました。	general,restaurant

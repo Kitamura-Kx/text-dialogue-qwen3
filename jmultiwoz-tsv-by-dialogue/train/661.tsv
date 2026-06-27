@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+661	0	USER	那覇への旅行を計画しています。当日買いものができるところで、平識宝石店というところがありますか？	general,shopping
+661	1	SYSTEM	はい、本庁エリアにございます。ファッションのお店となりますが、お間違い無いでしょうか？	general,shopping
+661	2	USER	そうですね。近辺の駅からの所要時間を知りたいのですが。	general,shopping
+661	3	SYSTEM	かしこまりました。最寄りの県庁前駅から徒歩で7分の距離にございます。	general,shopping
+661	4	USER	助かりました。ありがとうございました。	general,shopping

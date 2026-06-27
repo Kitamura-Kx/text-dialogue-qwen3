@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+39	0	USER	すみません。大阪への旅行を考えていて、調べてほしいことがありまして。	general,taxi
+39	1	SYSTEM	ご利用ありがとうございます。どういったことをお調べいたしましょうか？	general,taxi
+39	2	USER	タクシー会社を探してもらえますか？ジャンボタクシーが使えて、キャッシュレス払いOKのところでお願いします。	general,taxi
+39	3	SYSTEM	かしこまりました。大阪でジャンボタクシー対応可能、キャッシュレス払いOKのタクシー会社ですね。日本タクシー株式会社はいかがでしょうか？	general,taxi
+39	4	USER	その会社の電話番号も教えてもらえますか？	general,taxi
+39	5	SYSTEM	かしこまりました。日本タクシー株式会社の電話番号は、0669285151です。	general,taxi
+39	6	USER	ありがとうございます。今、予約もしてもらいたいんですが、12月8日13時で取れますか？	general,taxi
+39	7	SYSTEM	12月8日の13時発ですね。出発地と目的地はお決まりでしょうか？	general,taxi
+39	8	USER	ゲストハウス木雲から、ホテルリリーフ なんば大国町でお願いします。	general,taxi
+39	9	SYSTEM	はい、かしこまりました。12月8日13時発、ゲストハウス木雲からホテルリリーフ なんば大国町着、ご予約番号11960にて承りました。	general,taxi
+39	10	USER	ありがとうございます。	general,taxi
+39	11	SYSTEM	ほかに何か、お役に立てることはございますか？	general,taxi
+39	12	USER	あ、もう大丈夫です。ありがとうございました。	general,taxi
+39	13	SYSTEM	こちらこそ、ありがとうございました。またのご利用をお待ちしております。	general,taxi

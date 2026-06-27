@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3138	0	USER	名古屋へ行きます。東区で駐車場無料な観光名所教えて下さい。	general,attraction,shopping,restaurant
+3138	1	SYSTEM	かしこまりました。では、堀美術館はいかがでしょうか？ジャンルとしては、美術館・博物館となっております。	general,attraction,shopping,restaurant
+3138	2	USER	最寄り駅知りたいです。	general,attraction,shopping,restaurant
+3138	3	SYSTEM	はい。最寄りは高岳駅でございます。駅から徒歩１０分でアクセスできます。	general,attraction,shopping,restaurant
+3138	4	USER	ありがとうございます。買い物もしたいので、天白区で駐車場無料な所ありますか？	general,attraction,shopping,restaurant
+3138	5	SYSTEM	はい、１件ございます。サンエース 原駅前店というお店ですが、いかがでしょうか？	general,attraction,shopping,restaurant
+3138	6	USER	住所教えて下さい。	general,attraction,shopping,restaurant
+3138	7	SYSTEM	住所は、愛知県名古屋市天白区原1丁目401です。	general,attraction,shopping,restaurant
+3138	8	USER	ありがとうございます。当日、食事ができるお店探しています。最寄り駅が鶴舞駅がいいんですが。	general,attraction,shopping,restaurant
+3138	9	SYSTEM	そうしますと、魚屋の台所 下の一色 本店はいかがでしょうか？	general,attraction,shopping,restaurant
+3138	10	USER	駐車場はありますか？	general,attraction,shopping,restaurant
+3138	11	SYSTEM	申し訳ありません、こちらの駐車場は、不明となっております。	general,attraction,shopping,restaurant
+3138	12	USER	そうですか、そこのエリアとジャンル教えて下さい。	general,attraction,shopping,restaurant
+3138	13	SYSTEM	はい。エリアは中区にございます。ジャンルは、寿司・魚料理, 和食, 居酒屋です。	general,attraction,shopping,restaurant
+3138	14	USER	分かりました、ありがとうございます。それでは失礼します。	general,attraction,shopping,restaurant
+3138	15	SYSTEM	ご利用ありがとうございました。	general,attraction,shopping,restaurant

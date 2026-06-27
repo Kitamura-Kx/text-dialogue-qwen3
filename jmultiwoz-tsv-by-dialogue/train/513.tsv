@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+513	0	USER	札幌の白石区で飲食店を探してほしいです。	general,restaurant
+513	1	SYSTEM	承知しました。ジャンルなどのご希望はございますか？	general,restaurant
+513	2	USER	できれば駐車場が無料で使えるところがいいのですが。	general,restaurant
+513	3	SYSTEM	三代目 月見軒 本店、札幌焼肉 赤いとうがらし、立場割烹 料理屋Kの3件ございます。	general,restaurant
+513	4	USER	では、三代目 月見軒 本店に行きたいと思います。値段帯はわかりますか？	general,restaurant
+513	5	SYSTEM	はい、値段帯は安めとなります。	general,restaurant
+513	6	USER	いいですね。ではそちらを予約したいと思います。11/5の12:00から2人でお願いできますか？	general,restaurant
+513	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、88121となります。	general,restaurant
+513	8	USER	ありがとうございます。助かりました。	general,restaurant

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1703	0	USER	大阪へ旅行予定なのですが、住之江区で買い物できるところはありますか？	general,shopping,hotel,taxi
+1703	1	SYSTEM	かしこまりました。ではりくろーおじさんの店 住之江公園店はいかがでしょうか。	general,shopping,hotel,taxi
+1703	2	USER	よさそうですね。駐車場があるかと、近辺の駅からの所要時間を知りたいです。	general,shopping,hotel,taxi
+1703	3	SYSTEM	住之江公園駅から徒歩で1分で、ここは無料の駐車場がございます。	general,shopping,hotel,taxi
+1703	4	USER	わかりました。当日泊まれる旅館も探していて、レストランがあってWi-Fiが無料で使えるところはありますか？	general,shopping,hotel,taxi
+1703	5	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,shopping,hotel,taxi
+1703	6	USER	いえ、大丈夫です。	general,shopping,hotel,taxi
+1703	7	SYSTEM	ではビジネス旅館 励明園はいかがでしょうか。	general,shopping,hotel,taxi
+1703	8	USER	いいですね。3/27の3泊で3人の予約をお願いします。	general,shopping,hotel,taxi
+1703	9	SYSTEM	予約が完了いたしました。予約番号は23331でございます。	general,shopping,hotel,taxi
+1703	10	USER	ありがとうございます。ジャンボタクシーも利用予定なのですが、キャッシュレス対応しているところはありますか？	general,shopping,hotel,taxi
+1703	11	SYSTEM	かしこまりました。では大宝タクシー株式会社はいかがでしょうか。	general,shopping,hotel,taxi
+1703	12	USER	そこにします。電話番号を教えてください。予約もしたいです。	general,shopping,hotel,taxi
+1703	13	SYSTEM	電話番号は0647020011でございます。予約の詳細をお聞かせいただけますか。	general,shopping,hotel,taxi
+1703	14	USER	はい。3/27の13:20にりくろーおじさんの店 住之江公園店からビジネス旅館 励明園までお願いします。	general,shopping,hotel,taxi
+1703	15	SYSTEM	予約が完了いたしました。予約番号は3687でございます。	general,shopping,hotel,taxi
+1703	16	USER	ありがとうございます。もう大丈夫です。	general,shopping,hotel,taxi
+1703	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,taxi

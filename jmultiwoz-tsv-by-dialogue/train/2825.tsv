@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2825	0	USER	名古屋へ旅行へ行くのですが、天白区で飲食店を探しています。	general,restaurant,shopping
+2825	1	SYSTEM	それでしたら、オーガニック食堂 Engiはいかがでしょうか？	general,restaurant,shopping
+2825	2	USER	予算は高めがいいのですが、そちらはどうなりますか？	general,restaurant,shopping
+2825	3	SYSTEM	こちらは、予算は普通となっております。予算高めですと、ご案内できるお店がございませんでした。	general,restaurant,shopping
+2825	4	USER	では、そこでいいです。4/24、10:30に2人で予約したいです。	general,restaurant,shopping
+2825	5	SYSTEM	かしこまりました。オーガニック食堂 Engiで予約をお取りしました。予約番号は18386です。	general,restaurant,shopping
+2825	6	USER	そうですか。では、ベビーザらス 名西店に行くのでエリア，定休日を教えてもらえますか？	general,restaurant,shopping
+2825	7	SYSTEM	はい、ベビーザらス 名西店は、西区エリアにございます。こちらは、定休日はありません。	general,restaurant,shopping
+2825	8	USER	助かりました。ありがとうございました。	general,restaurant,shopping
+2825	9	SYSTEM	ほかには何かお調べすることはございませんか？	general,restaurant,shopping
+2825	10	USER	大丈夫です。	general,restaurant,shopping
+2825	11	SYSTEM	承知いたしました。では本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant,shopping

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1420	0	USER	こんにちは。京都で買い物スポットを探しています。右京区で、駐車場無料のショッピングモールはありますか？	general,shopping,attraction,weather
+1420	1	SYSTEM	道の駅 ウッディー京北があります。	general,shopping,attraction,weather
+1420	2	USER	そちらの営業時間と定休日も教えて頂けますか？	general,shopping,attraction,weather
+1420	3	SYSTEM	営業時間は09:00～18:00です。定休日は年末年始となっております。	general,shopping,attraction,weather
+1420	4	USER	ありがとうございます。続いて、観光名所の情報も欲しいんですが。伏見区で、駐車場無料のスポットはありますか？	general,shopping,attraction,weather
+1420	5	SYSTEM	はい、伏見稲荷大社がございます。	general,shopping,attraction,weather
+1420	6	USER	電話番号と定休日も教えてください。	general,shopping,attraction,weather
+1420	7	SYSTEM	電話番号は0756417331です。定休日は無しです。	general,shopping,attraction,weather
+1420	8	USER	分かりました。最後に、上京区の4/26の天気も教えてください。	general,shopping,attraction,weather
+1420	9	SYSTEM	上京区の4/26の天気は、雨時々曇となっております。	general,shopping,attraction,weather
+1420	10	USER	ありがとうございます。問い合わせは以上です。大変助かりました！	general,shopping,attraction,weather

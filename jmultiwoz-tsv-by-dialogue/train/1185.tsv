@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1185	0	USER	京都への旅行を考えているのですが、中央区で普通くらいの値段の飲食店を調べてください。	general,restaurant,hotel,weather
+1185	1	SYSTEM	申し訳ありません。京都に中央区はないようですが、エリアをお間違いではありませんか？	general,restaurant,hotel,weather
+1185	2	USER	あ、失礼しました。京都の中京区で値段が高めの飲食店を調べてほしいです。	general,restaurant,hotel,weather
+1185	3	SYSTEM	値段は普通から高めに変更してよろしいですか？	general,restaurant,hotel,weather
+1185	4	USER	はい。よろしくお願いします。	general,restaurant,hotel,weather
+1185	5	SYSTEM	ありがとうございます。では、NAKATSUKAはいかがでしょう？何かご案内致しましょうか？	general,restaurant,hotel,weather
+1185	6	USER	そこにします。料金情報を教えてください。	general,restaurant,hotel,weather
+1185	7	SYSTEM	はい、料金情報として、ランチコースが7700円、ディナーコースが14300円となります。他にご案内できることはございますか？	general,restaurant,hotel,weather
+1185	8	USER	わかりました。予約を3人の12/16で10:30からお願いしたいです。	general,restaurant,hotel,weather
+1185	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、90941となります。他にご用件はございますか？	general,restaurant,hotel,weather
+1185	10	USER	はい。普通の値段の宿泊施設も探しているのですが、Wi-Fiが無料で、駐車場が無料で利用できるところはありますか？	general,restaurant,hotel,weather
+1185	11	SYSTEM	はい、エリアでいうと下京区にございます、なごみ宿 都和はいかがでしょう？何かご案内致しましょうか？	general,restaurant,hotel,weather
+1185	12	USER	なるほど。料金情報とチェックアウト終了時刻を教えてほしいです。	general,restaurant,hotel,weather
+1185	13	SYSTEM	はい、チェックアウト終了時刻は10時となります。料金情報としては、値段帯は普通、Wi-Fiと駐車場は無料でご利用いただける、ということ以外情報がございません。他にご案内できることはございますか？	general,restaurant,hotel,weather
+1185	14	USER	わかりました。当日12/16の左京区の天気を知りたいです。	general,restaurant,hotel,weather
+1185	15	SYSTEM	はい、天気は晴時々曇、最低気温1.7度、最高気温8.9度となります。他にご用件はございますか？	general,restaurant,hotel,weather
+1185	16	USER	ありがとうございます。もう大丈夫です！	general,restaurant,hotel,weather
+1185	17	SYSTEM	ありがとうございました。	general,restaurant,hotel,weather

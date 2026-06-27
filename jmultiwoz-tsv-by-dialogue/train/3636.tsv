@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3636	0	USER	札幌への旅行を計画しているのですが、予算が高めの飲食店を探しています。	general,restaurant,shopping,weather
+3636	1	SYSTEM	札幌で予算高めの飲食店はいくつかありますが、まつ久ら、こちらをお勧めします。	general,restaurant,shopping,weather
+3636	2	USER	寿司か魚料理のお店でしょうか？	general,restaurant,shopping,weather
+3636	3	SYSTEM	和食ですね。	general,restaurant,shopping,weather
+3636	4	USER	和食ということはお寿司や魚料理も食べられますよね？	general,restaurant,shopping,weather
+3636	5	SYSTEM	ジャンルが寿司か魚料理の店がご希望でしたら、北海道らしく、活カニの花咲、こちらをおすすめします。	general,restaurant,shopping,weather
+3636	6	USER	駐車場はありますか？	general,restaurant,shopping,weather
+3636	7	SYSTEM	不明です。	general,restaurant,shopping,weather
+3636	8	USER	ではカニのお店で5月16日11時30分から予約をしていただけますか？	general,restaurant,shopping,weather
+3636	9	SYSTEM	人数をお願いします。	general,restaurant,shopping,weather
+3636	10	USER	3名です。	general,restaurant,shopping,weather
+3636	11	SYSTEM	予約に失敗しました。少し条件を変更していただけないでしょうか。	general,restaurant,shopping,weather
+3636	12	USER	時間を12時でお願いします。	general,restaurant,shopping,weather
+3636	13	SYSTEM	予約成功しました。予約番号は40632です。	general,restaurant,shopping,weather
+3636	14	USER	ありがとうございます。それから、最寄り駅が星置駅のおもちゃ屋さんはありますか？駐車場無料のところで探していただきたいです。	general,restaurant,shopping,weather
+3636	15	SYSTEM	星置駅に駐車場無料のおもちゃやさんはありません。	general,restaurant,shopping,weather
+3636	16	USER	駅はどこでもよいので、駐車場無料のおもちゃ屋さんを探してください。	general,restaurant,shopping,weather
+3636	17	SYSTEM	札幌で駐車場無料のおもちゃやさんはいくつかありますが、今はやりのポケモンにちなんで、ポケモンセンターサッポロ、こちらをオススメします。	general,restaurant,shopping,weather
+3636	18	USER	エリアはどちらでしょうか？	general,restaurant,shopping,weather
+3636	19	SYSTEM	中央区です。	general,restaurant,shopping,weather
+3636	20	USER	ありがとうございます。それから、5月16日の白石区の天候を教えていただけますか？	general,restaurant,shopping,weather
+3636	21	SYSTEM	5/16 札幌 白石区 の天気は晴、最低気温11.2度、最高気温19.2度です。	general,restaurant,shopping,weather
+3636	22	USER	どうもありがとうございました。	general,restaurant,shopping,weather

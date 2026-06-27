@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4922	0	USER	京都に行くので、現地でのタクシーの手配をお願いしたいです	general,taxi,weather
+4922	1	SYSTEM	かしこまりました。当日はジャンボタクシーのご利用予定など、ございませんか？	general,taxi,weather
+4922	2	USER	はい。ジャンボタクシーの利用できる会社があれば、名前と電話番号が知りたいです	general,taxi,weather
+4922	3	SYSTEM	かしこまりました。では、洛陽交運株式会社はいかがでしょうか？こちらの電話番号は、0756918101です。	general,taxi,weather
+4922	4	USER	では、そこにします。9月5日で、京都市呉竹文化センターから誠光社で予約をお願いします。	general,taxi,weather
+4922	5	SYSTEM	かしこまりました。ご利用予定の日の、出発予定時刻はお決まりでしょうか？	general,taxi,weather
+4922	6	USER	10時40分でお願いします	general,taxi,weather
+4922	7	SYSTEM	かしこまりました。申し訳ございません。念のためお伺いさせていただきますが、夜ではなく、午前の１０時４０分でよろしかったでしょうか？	general,taxi,weather
+4922	8	USER	そうですね	general,taxi,weather
+4922	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、79756です。	general,taxi,weather
+4922	10	USER	あと、9月5日の天気も教えてもらえますか？	general,taxi,weather
+4922	11	SYSTEM	かしこまりました。お調べするのは京都の、どのあたりの地域にいたしましょうか？	general,taxi,weather
+4922	12	USER	伏見区の最高気温を知りたいです	general,taxi,weather
+4922	13	SYSTEM	かしこまりました。当日の伏見区の最高気温は、33.8度まで上がる見込みです。	general,taxi,weather
+4922	14	USER	以上です。ありがとうございました	general,taxi,weather
+4922	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,taxi,weather

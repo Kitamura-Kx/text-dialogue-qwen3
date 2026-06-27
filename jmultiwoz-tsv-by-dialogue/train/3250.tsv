@@ -1,0 +1,39 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3250	0	USER	那覇への旅行を検討しています。当日宿泊出来る施設を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,hotel,restaurant,shopping
+3250	1	SYSTEM	はい、ご希望をどうぞ	general,hotel,restaurant,shopping
+3250	2	USER	はい、宿タイプは簡易宿泊で、レストランが併設されているとありがたいのですが、該当しそうな場所はありますかね？	general,hotel,restaurant,shopping
+3250	3	SYSTEM	那覇でレストランのある簡易宿泊といえば、CABIN & HOTEL ReTIME、こちらをオススメします。	general,hotel,restaurant,shopping
+3250	4	USER	そちらで検討してみようと思います。ここの最寄り駅を教えて頂けますか？	general,hotel,restaurant,shopping
+3250	5	SYSTEM	旭橋駅です	general,hotel,restaurant,shopping
+3250	6	USER	ありがとうございます。このままこのホテルを予約したいのですが、お願いしてもよろしいでしょうか？	general,hotel,restaurant,shopping
+3250	7	SYSTEM	人数と日付、宿泊日数をおきかせください	general,hotel,restaurant,shopping
+3250	8	USER	はい。人数は3人で日付は4月6日。宿泊日数は3泊でお願いします。	general,hotel,restaurant,shopping
+3250	9	SYSTEM	この条件だと予約に失敗してしまいました。	general,hotel,restaurant,shopping
+3250	10	USER	そうですか。では、宿泊日数を3泊から2泊に変更したらどうでしょうか？	general,hotel,restaurant,shopping
+3250	11	SYSTEM	CABIN & HOTEL ReTIME、３人で4/6から２泊、予約成功しました。予約番号は96712です。	general,hotel,restaurant,shopping
+3250	12	USER	ありがとうございます。それと、当日利用出来る和食の飲食店も探しているのですが、お伺いしてもよろしいでしょうか？	general,hotel,restaurant,shopping
+3250	13	SYSTEM	那覇の和食といえば２３件あります。追加の希望条件はありますか	general,hotel,restaurant,shopping
+3250	14	USER	はい。予算が安めで、駐車場を無料で利用できればと思うのですが、どうでしょうか？	general,hotel,restaurant,shopping
+3250	15	SYSTEM	予算安め、駐車場無料、和食といえば、しゃぶ葉 那覇おもろまち店、こちらをオススメします。	general,hotel,restaurant,shopping
+3250	16	USER	ありがとうございます。このお店で検討したいです。ちなみに、近辺の駅からの所要時間ってわかりますか？	general,hotel,restaurant,shopping
+3250	17	SYSTEM	おもろまち駅から徒歩で15分、その他、古島駅、牧志駅、美栄橋駅からそれぞれ徒歩２１分です。	general,hotel,restaurant,shopping
+3250	18	USER	ありがとうございます。それと、このお店の定休日も教えて下さい。	general,hotel,restaurant,shopping
+3250	19	SYSTEM	定休日はありません	general,hotel,restaurant,shopping
+3250	20	USER	そうですか、あ、それと、Wi-Fiは利用出来ますかね？	general,hotel,restaurant,shopping
+3250	21	SYSTEM	Wifiは無料のがあります	general,hotel,restaurant,shopping
+3250	22	USER	助かります。では、このお店を予約したいのですが、よろしいでしょうか？	general,hotel,restaurant,shopping
+3250	23	SYSTEM	はい、人数と日付、時刻をお願いします	general,hotel,restaurant,shopping
+3250	24	USER	はい。人数は2人で、日付は4月6日。時間は11:20でお願いします。	general,hotel,restaurant,shopping
+3250	25	SYSTEM	この条件で予約成功しました。予約番号は9237です。	general,hotel,restaurant,shopping
+3250	26	USER	ありがとうございます。最後に、当日買い物が出来る施設も探して欲しいのですが、よろしいでしょうか？	general,hotel,restaurant,shopping
+3250	27	SYSTEM	ご希望をどうぞ	general,hotel,restaurant,shopping
+3250	28	USER	ありがとうございます。駐車場が無料で利用出来て、最寄り駅が市立病院前駅の条件で探しているのですが。	general,hotel,restaurant,shopping
+3250	29	SYSTEM	市立病院前で駐車場無料の買い物施設はありません	general,hotel,restaurant,shopping
+3250	30	USER	そうですか。でしたら、最寄り駅は考慮しないで探して頂いてもよろしいでしょうか？	general,hotel,restaurant,shopping
+3250	31	SYSTEM	駐車場無料の買い物施設はいくつかありますが、沖縄らしく、おきなわ屋 泡盛蔵 国際店、こちらをおすすめします。	general,hotel,restaurant,shopping
+3250	32	USER	そこで検討してみようかと思います。このお店のあるエリアってわかりますか？	general,hotel,restaurant,shopping
+3250	33	SYSTEM	本庁です	general,hotel,restaurant,shopping
+3250	34	USER	ありがとうございます。定休日とかがあったら教えて貰えますか？	general,hotel,restaurant,shopping
+3250	35	SYSTEM	定休日はありません	general,hotel,restaurant,shopping
+3250	36	USER	ありがとうございます。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,hotel,restaurant,shopping
+3250	37	SYSTEM	よい旅を	general,hotel,restaurant,shopping

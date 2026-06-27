@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4652	0	USER	福岡旅行を予定しているんですけど、その時に利用する飲食店を探してもらえませんか？	general,restaurant,attraction,taxi
+4652	1	SYSTEM	かしこまりました。他に希望条件はありますか？	general,restaurant,attraction,taxi
+4652	2	USER	はい、東区で駐車場が無料で、お値段は普通のところでお願いできますか？	general,restaurant,attraction,taxi
+4652	3	SYSTEM	かしこまりました。では、焼肉 曺苑はいかがでしょうか？	general,restaurant,attraction,taxi
+4652	4	USER	いいですね、そこにします。4/9の14:00から3名で予約をお願いします。	general,restaurant,attraction,taxi
+4652	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、98976です。	general,restaurant,attraction,taxi
+4652	6	USER	あと、中央区でWi-Fiが無料の観光名所なんてありませんか？	general,restaurant,attraction,taxi
+4652	7	SYSTEM	はい。福岡 PayPayドームがおすすめですよ。	general,restaurant,attraction,taxi
+4652	8	USER	そこは大人の入場料はいくらですか？	general,restaurant,attraction,taxi
+4652	9	SYSTEM	申し訳ございません。大人入場料は不明となっております。	general,restaurant,attraction,taxi
+4652	10	USER	わかりました、営業時間も教えてもらえますか？	general,restaurant,attraction,taxi
+4652	11	SYSTEM	はい。営業時間は施設により異なるみたいです。	general,restaurant,attraction,taxi
+4652	12	USER	ありがとう、タクシー会社も探してもらえますか？キャッシュレス払いが可能で、ジャンボタクシーを利用できるところが良いです。	general,restaurant,attraction,taxi
+4652	13	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,restaurant,attraction,taxi
+4652	14	USER	それならジャンボタクシーはなくても大丈夫です。	general,restaurant,attraction,taxi
+4652	15	SYSTEM	それでしたら、第一タクシー（有）はいかがですか？電話番号は0120775931になります。	general,restaurant,attraction,taxi
+4652	16	USER	じゃあそこで4/9の15:10、焼肉 曺苑から福岡 PayPayドームまで予約をお願いできますか？	general,restaurant,attraction,taxi
+4652	17	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,attraction,taxi
+4652	18	USER	それなら16:10ではどうですか？	general,restaurant,attraction,taxi
+4652	19	SYSTEM	かしこまりました。ご予約承りました。予約番号は、84978です。	general,restaurant,attraction,taxi
+4652	20	USER	ありがとうございました。	general,restaurant,attraction,taxi
+4652	21	SYSTEM	ありがとうございました。	general,restaurant,attraction,taxi

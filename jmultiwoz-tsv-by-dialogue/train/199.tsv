@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+199	0	USER	名古屋でお好み焼きかたこ焼きの店を探してます。予算は普通程度で紹介してほしいんですけど。	general,restaurant
+199	1	SYSTEM	かしこまりました。じゃけん 名古屋2号店はいかがでしょうか。	general,restaurant
+199	2	USER	そこにします。住所を教えてください。あ、あと料金はどんな感じになってますか？	general,restaurant
+199	3	SYSTEM	住所は愛知県名古屋市西区那古野1丁目14-18 那古野ビル北館 110でございます。料金情報は肉玉そばまたはうどんが990円、焼きそばが770円となっております。	general,restaurant
+199	4	USER	お手頃でいいですね。駐車場はありますか？	general,restaurant
+199	5	SYSTEM	申し訳ございません。駐車場の有無は不明でございます。	general,restaurant
+199	6	USER	わかりました。それで大丈夫です。お世話になりました。	general,restaurant

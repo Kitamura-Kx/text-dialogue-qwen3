@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+127	0	USER	札幌に行く予定があるんですが、買い物できる場所を探すのを手伝ってもらえますか？	general,shopping,restaurant
+127	1	SYSTEM	承知致しました。エリアやジャンルなどのご希望はございますか？	general,shopping,restaurant
+127	2	USER	白石区のお店をお願いします。	general,shopping,restaurant
+127	3	SYSTEM	白石区ですと、どんぐり 本店がございます。ジャンルは食料品、住所は札幌市白石区南郷通8南1丁目7となります。営業時間は8時から20時となっております。	general,shopping,restaurant
+127	4	USER	ありがとう。あと食事する場所も探してほしいんですが。	general,shopping,restaurant
+127	5	SYSTEM	承知致しました。エリアやジャンルなどのご希望はございますか？	general,shopping,restaurant
+127	6	USER	無料WiFiがあって、できれば値段的に普通ぐらいのところで。	general,shopping,restaurant
+127	7	SYSTEM	それでは、一軒家ダイニング ~すしBAR~　はいかがでしょうか？ジャンルは寿司・魚料理, 居酒屋, イタリアン・フレンチ, 和食、となります。	general,shopping,restaurant
+127	8	USER	良さそうですね。それは札幌のどの辺にあるお店なんですか？	general,shopping,restaurant
+127	9	SYSTEM	中央区にございます。住所は札幌市中央区南4条西6丁目、最寄りのすすきの駅から徒歩で3分となります。	general,shopping,restaurant
+127	10	USER	エリア的には中央区ってことですよね？	general,shopping,restaurant
+127	11	SYSTEM	はい、さようでございます。	general,shopping,restaurant
+127	12	USER	電話番号も聞いておいていいですか？	general,shopping,restaurant
+127	13	SYSTEM	はい、お電話番号は、0112317878となります。	general,shopping,restaurant
+127	14	USER	そこで予約も取りたいんですが、12月23日、昼1時半から4人で席はとれますか？	general,shopping,restaurant
+127	15	SYSTEM	申し訳ございません、その条件では予約ができませんでした。いかが致しましょう？	general,shopping,restaurant
+127	16	USER	それなら、時間を昼2時10分からに変えてみてもらえますか？	general,shopping,restaurant
+127	17	SYSTEM	ありがとうございます。予約完了し、ご予約番号は、90457　となります。	general,shopping,restaurant
+127	18	USER	良かったです。では、今日はこの辺で。	general,shopping,restaurant

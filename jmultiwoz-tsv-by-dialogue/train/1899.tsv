@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1899	0	USER	大阪へ行くのですが、中央区で無料駐車場がある買い物ができるところを探してもらえますか？	general,shopping
+1899	1	SYSTEM	もりのみやキューズモールBASEは、いかがでしょうか？	general,shopping
+1899	2	USER	ありがとうございます。そこに行こうと思います。営業時間を教えてもらえますか？	general,shopping
+1899	3	SYSTEM	営業時間は、午前10時から午後9時までとなっています。	general,shopping
+1899	4	USER	わかりました。ありがとうございました。	general,shopping
+1899	5	SYSTEM	他にご用件はございますか？	general,shopping
+1899	6	USER	ありません。	general,shopping
+1899	7	SYSTEM	承知しました。ありがとうございました。	general,shopping

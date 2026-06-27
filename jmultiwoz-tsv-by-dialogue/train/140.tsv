@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+140	0	USER	京都で宿を探しているんですけど、下京区でWi-Fi無料のところってありますか？	general,hotel
+140	1	SYSTEM	はい、宿のタイプや値段帯のご希望はございますか？	general,hotel
+140	2	USER	特にないんですけど、料金の情報も知りたいですね。	general,hotel
+140	3	SYSTEM	承知致しました。それでは、京都センチュリーホテルはいかがでしょう？タイプはシティホテル、値段帯は安めとなっております。	general,hotel
+140	4	USER	そこでいいですけど、何か料金の情報はありますか？あと予約もお願いします。4月6日から2泊、3人でお願いします。	general,hotel
+140	5	SYSTEM	申し訳ございません、他にはWi-Fiが無料、駐車場は有料ということしかお答えできる情報がございません。また、その条件では予約ができないのですが、いかが致しましょう？	general,hotel
+140	6	USER	ありがとうございます。では1泊ではどうですか？	general,hotel
+140	7	SYSTEM	ありがとうございます。予約完了致しました。ご予約番号は、93388となります。	general,hotel
+140	8	USER	良かったです。お世話になりました。	general,hotel

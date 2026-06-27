@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4507	0	USER	大阪へ旅行予定なのですが、靱公園という観光名所について調べてもらえますか？	general,attraction
+4507	1	SYSTEM	はい、何をお知りになりたいですか。	general,attraction
+4507	2	USER	えーっと、住所と定休日と子供入場料を教えてほしいです。	general,attraction
+4507	3	SYSTEM	住所は大阪府大阪市西区靱本町2丁目1-4、定休日は無し、子供も大人も無料です。	general,attraction
+4507	4	USER	ありがとうございました。	general,attraction
+4507	5	SYSTEM	よい旅を。	general,attraction

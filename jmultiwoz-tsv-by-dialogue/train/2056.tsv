@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2056	0	USER	東京に行こうと思ってて、千代田区で駐車場が無料の、ショッピングモールってありますか？	general,shopping
+2056	1	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,shopping
+2056	2	USER	わかりました。では、駐車場は無くても大丈夫ですので、何かありませんか？	general,shopping
+2056	3	SYSTEM	かしこまりました。では、東京交通会館はいかがでしょうか？	general,shopping
+2056	4	USER	ありがとうございます。そこにします。東京交通会館の、近辺の駅からの所要時間、定休日、営業時間を教えてください。	general,shopping
+2056	5	SYSTEM	かしこまりました。近辺の駅からの所要時間としましては、有楽町駅から徒歩で1分、銀座一丁目駅から徒歩で1分となっております。また、銀座駅からだと徒歩で3分、日比谷駅からだと徒歩で8分かかるみたいです。定休日は1/1です。営業時間は07:00～23:30になります。	general,shopping
+2056	6	USER	ご丁寧にありがとうございます。	general,shopping
+2056	7	SYSTEM	他にご用件はありますか？	general,shopping
+2056	8	USER	いえ、大丈夫です。ありがとうございました。	general,shopping

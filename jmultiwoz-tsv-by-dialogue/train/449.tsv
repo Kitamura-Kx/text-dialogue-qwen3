@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+449	0	USER	仙台に旅行するのですが、当日買い物できる場所はありますか？	general,shopping
+449	1	SYSTEM	はい、ジャンルやエリアなどのご希望はございますか？	general,shopping
+449	2	USER	ジャンルはスポーツで、駐車場を無料で利用できるとうれしいです。	general,shopping
+449	3	SYSTEM	ありがとうございます。それでは、スーパースポーツゼビオ 仙台泉中央店はいかがでしょう？エリアは泉区になります。	general,shopping
+449	4	USER	そこにしたいと思います。近辺の駅からの所要時間は分かりますか？	general,shopping
+449	5	SYSTEM	はい、最寄りの泉中央駅から徒歩で7分となります。	general,shopping
+449	6	USER	ありがとうございました。	general,shopping

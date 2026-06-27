@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2169	0	USER	大阪旅行で当日訪れる観光名所を調べて頂けますか？	general,attraction
+2169	1	SYSTEM	かしこまりました。大阪の名所ですと50件ほどございますが。なにかこだわりはありますか？	general,attraction
+2169	2	USER	住之江区でWi-Fiが無料で利用できる場所はありますか？	general,attraction
+2169	3	SYSTEM	申し訳ございません、その条件ですと、お探しすることが出来ませんでした。	general,attraction
+2169	4	USER	でしたら、場所はどこでも構いません。	general,attraction
+2169	5	SYSTEM	かしこまりました。それではユニバーサル・シティウォーク大阪はいかがでしょうか？	general,attraction
+2169	6	USER	ではそちらでお願いします。ジャンルと営業時間を教えて頂けると助かります。	general,attraction
+2169	7	SYSTEM	ジャンルはその他でして、営業時間は店舗により異なるとのことです。	general,attraction
+2169	8	USER	ありがとうございました。	general,attraction

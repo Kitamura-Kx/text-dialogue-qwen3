@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1851	0	USER	仙台に行くんですけど、イタリアンかフレンチの飲食店はありませんか？	general,restaurant
+1851	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant
+1851	2	USER	それじゃあジャンルは何でもいいです。いい所を紹介してください。	general,restaurant
+1851	3	SYSTEM	かしこまりました。では、やきにく家 香煙はいかがでしょうか？ジャンルは焼肉・ホルモンになります。	general,restaurant
+1851	4	USER	それもありかな、そこにします。営業時間や定休日ってどうなってますか？	general,restaurant
+1851	5	SYSTEM	はい。営業時間は17:00～20:00です。定休日は不定休となっております。	general,restaurant
+1851	6	USER	えっと、その店予約できますか？8月29日に3人で、11時希望なんですけど。	general,restaurant
+1851	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、19860です。	general,restaurant
+1851	8	USER	無理言ってすみませんでした。予約できてよかったです。助かりました。	general,restaurant

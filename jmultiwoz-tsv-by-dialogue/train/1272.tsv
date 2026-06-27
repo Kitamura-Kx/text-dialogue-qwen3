@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1272	0	USER	札幌の飲食店を調べて欲しいんです。新道東駅近くで、無料Wifiがあるお店はありますか？	general,restaurant,weather
+1272	1	SYSTEM	はい、1件ご案内可能です。CAFE VOIZというお店で、ジャンルは、カフェ・スイーツ, 洋食・西洋料理となっていますが、いかがでしょうか？	general,restaurant,weather
+1272	2	USER	住所と大体の値段帯も教えて頂けますか？	general,restaurant,weather
+1272	3	SYSTEM	住所は、北海道札幌市東区北36条東22丁目5-8 丘珠ガラスです。値段帯は普通のお店となっております。	general,restaurant,weather
+1272	4	USER	では予約もお願いします。3/11の10:30から、4人で利用する予定です。	general,restaurant,weather
+1272	5	SYSTEM	ご予約ありがとうございます。予約完了いたしました。予約番号は、24447でございます。	general,restaurant,weather
+1272	6	USER	ありがとうございます。最後に、白石区の最低気温も教えてください。日付は3/11です。	general,restaurant,weather
+1272	7	SYSTEM	かしこまりました。当日の最低気温は、4.1度まで下がる見込みです。	general,restaurant,weather
+1272	8	USER	ありがとうございます。以上です！	general,restaurant,weather

@@ -1,0 +1,28 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+157	0	USER	ちょっとお伺いしますが。	general,restaurant,taxi
+157	1	SYSTEM	はい。どのようなご用件でしょうか。	general,restaurant,taxi
+157	2	USER	名古屋で食事する場所を探すのを手伝ってもらえますか？	general,restaurant,taxi
+157	3	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,taxi
+157	4	USER	居酒屋で、すこし奮発した場所が希望です。	general,restaurant,taxi
+157	5	SYSTEM	高めの値段帯ですと、７件ほどございますがほかに条件はございませんか。	general,restaurant,taxi
+157	6	USER	とくにそれ以上はないです。どこか選んでもらってもいいですかね？	general,restaurant,taxi
+157	7	SYSTEM	魚河岸酒場 FUKU浜金 KITTE名古屋店はいかがでしょうか。	general,restaurant,taxi
+157	8	USER	良さそうですね。営業時間と定休日を伺っても？	general,restaurant,taxi
+157	9	SYSTEM	営業時間は11:00～23:00で、定休日は無しでございます。	general,restaurant,taxi
+157	10	USER	なるほど。そこで予約したいです。お願いできますか？	general,restaurant,taxi
+157	11	SYSTEM	かしこまりました。では、日時と人数をお聞かせ願います。	general,restaurant,taxi
+157	12	USER	はい。日時は6月14日の12時40分、人数は3名でお願いします。	general,restaurant,taxi
+157	13	SYSTEM	予約が完了いたしました。予約番号は8102でございます。	general,restaurant,taxi
+157	14	USER	分かりました。あとすみません、ジャンボタクシーが使える会社も探してもらうことってできますか？	general,restaurant,taxi
+157	15	SYSTEM	伸和交通がございます。	general,restaurant,taxi
+157	16	USER	そこだけですか？キャッシュレス対応だと嬉しいんですが。	general,restaurant,taxi
+157	17	SYSTEM	他にもございますが、伸和交通もキャッシュレス対応しております。	general,restaurant,taxi
+157	18	USER	ではそこに決めようと思います。電話番号を控えておきたいのですが。	general,restaurant,taxi
+157	19	SYSTEM	電話番号は0522031212でございます。	general,restaurant,taxi
+157	20	USER	ありがとうございます。6月14日の10時40分に、魚河岸酒場 FUKU浜金 KITTE名古屋店から乗せてもらえるように、予約しておけますかね？	general,restaurant,taxi
+157	21	SYSTEM	かしこまりました。目的地はどちらでしょうか。	general,restaurant,taxi
+157	22	USER	ナゴヤエキ アクセスホテルという所までお願いします。	general,restaurant,taxi
+157	23	SYSTEM	予約完了いたしました。予約番号は20139でございます。	general,restaurant,taxi
+157	24	USER	助かりました、ありがとうございます。	general,restaurant,taxi
+157	25	SYSTEM	ほかに用件はございませんか。	general,restaurant,taxi
+157	26	USER	はい、もう大丈夫です。ありがとうございました。	general,restaurant,taxi

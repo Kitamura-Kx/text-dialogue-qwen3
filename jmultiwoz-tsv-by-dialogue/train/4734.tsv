@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4734	0	USER	福岡へ旅行予定です。中央区で駐車場を無料で利用できるような買い物店舗はないですか？	general,shopping,restaurant
+4734	1	SYSTEM	それでしたら、天神地下街はいかがですか？	general,shopping,restaurant
+4734	2	USER	よさそうですね。定休日と近辺の駅からの所要時間を調べてほしいです。	general,shopping,restaurant
+4734	3	SYSTEM	定休日は、1月1日のみです。　所要時間は、西鉄福岡(天神)駅から徒歩で1分です。	general,shopping,restaurant
+4734	4	USER	わかりました。飲食店も探していて、最寄り駅が桜坂駅でWi-Fiが無料で利用できるところってどこかありますか？	general,shopping,restaurant
+4734	5	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,shopping,restaurant
+4734	6	USER	そうですか。であれば、最寄駅はどこでも大丈夫です。	general,shopping,restaurant
+4734	7	SYSTEM	ではレカイエ オイスターバー JR博多シティ店はいかがですか？	general,shopping,restaurant
+4734	8	USER	いいですね。ジャンルをお伺いしたいです。	general,shopping,restaurant
+4734	9	SYSTEM	ジャンルとしては、寿司・魚料理です。	general,shopping,restaurant
+4734	10	USER	なるほど。わかりました。ありがとうございます。	general,shopping,restaurant
+4734	11	SYSTEM	他にご用件はありますか？	general,shopping,restaurant
+4734	12	USER	いえ、特にないです。ありがとうございます。	general,shopping,restaurant
+4734	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant

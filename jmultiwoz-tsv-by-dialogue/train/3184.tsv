@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3184	0	USER	名古屋への旅行を計画していて、当日の観光名所を探しています。中村区で駐車場無料のところが良いのですが。	general,attraction,hotel,taxi
+3184	1	SYSTEM	かしこまりました。では、ミッドランドスクエア 屋外展望台 スカイプロムナードはいかがでしょうか？	general,attraction,hotel,taxi
+3184	2	USER	ありがとうございます。そこにしようと思います。当日の宿泊施設も探しています。Wi-Fi無料のシティホテルで、レストランが併設されているところが希望です。	general,attraction,hotel,taxi
+3184	3	SYSTEM	かしこまりました。では、ホテル メルパルク名古屋はいかがでしょうか？	general,attraction,hotel,taxi
+3184	4	USER	ありがとうございます。そこのチェックイン開始時刻は分かりますか？	general,attraction,hotel,taxi
+3184	5	SYSTEM	はい。15:00です。	general,attraction,hotel,taxi
+3184	6	USER	ありがとうございます。そこの予約をお願いしたいのですが、8/8から4泊、2人で予約をお願い出来ますか？	general,attraction,hotel,taxi
+3184	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,attraction,hotel,taxi
+3184	8	USER	では、1人での予約にしたいと思います。	general,attraction,hotel,taxi
+3184	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、54652です。	general,attraction,hotel,taxi
+3184	10	USER	ありがとうございます。当日のタクシー会社も探しています。ジャンボタクシーが利用できて、キャッシュレス払い対応があるところがいいです。	general,attraction,hotel,taxi
+3184	11	SYSTEM	かしこまりました。でしたら、宝タクシー第三はいかがでしょうか？	general,attraction,hotel,taxi
+3184	12	USER	ありがとうございます。そこの電話番号は分かりますか？	general,attraction,hotel,taxi
+3184	13	SYSTEM	はい。0526826000が電話番号です。	general,attraction,hotel,taxi
+3184	14	USER	ありがとうございます。そこの予約をお願いしたいのですが、8/8午後12：10から、ミッドランドスクエア 屋外展望台 スカイプロムナードからでホテル メルパルク名古屋まで予約をお願い出来ますか？	general,attraction,hotel,taxi
+3184	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、42528です。	general,attraction,hotel,taxi
+3184	16	USER	ありがとうございました。	general,attraction,hotel,taxi
+3184	17	SYSTEM	こちらこそご利用ありがとうございました。	general,attraction,hotel,taxi

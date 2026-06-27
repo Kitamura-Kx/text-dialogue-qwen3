@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+584	0	USER	こんにちは！名古屋へ旅行に行くんですが、飲食店を探してもらっていいですか？	general,restaurant
+584	1	SYSTEM	名古屋のお食事処ですね。100件ほどご案内可能ですが、ジャンルやエリアなど、何かご希望はございませんか？	general,restaurant
+584	2	USER	寿司・魚料理が食べたいんですが、予算は安めでお願いします！	general,restaurant
+584	3	SYSTEM	かしこまりました。そういたしますと、2件ございます。例えば、いけす酒場 ぴち天 名駅中店という中村区のお店は如何でしょうか？	general,restaurant
+584	4	USER	料金はどんな感じでしょう？	general,restaurant
+584	5	SYSTEM	料金情報は、ちょっとをイロイロ！一貫盛り1750円,日替わり定食780円といった内容となっております。	general,restaurant
+584	6	USER	ありがとうございます。最寄り駅はどこになりますか？	general,restaurant
+584	7	SYSTEM	最寄りは名古屋駅です。名古屋駅から徒歩3分、国際センター駅からも徒歩で3分でアクセスできます。	general,restaurant
+584	8	USER	ありがとうございます！行ってみますね！	general,restaurant
+584	9	SYSTEM	他にお調べすることはございませんか？	general,restaurant
+584	10	USER	大丈夫です。ありがとうございました。	general,restaurant
+584	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3855	0	USER	仙台へ旅行に行きたく、当日タクシーを利用したいです。ジャンボタクシーがあるところを探してもらえますか？	general,taxi,weather
+3855	1	SYSTEM	では、仙台タクシーグループはいかがですか？	general,taxi,weather
+3855	2	USER	そちらのタクシー会社名が仙台タクシーグループでよろしいでしょうか。	general,taxi,weather
+3855	3	SYSTEM	はい、そうです。	general,taxi,weather
+3855	4	USER	ありがとうございます。それでは予約をお願いします。日時は4/9、10:00で出発地はホビーステーション 仙台駅前店からホテルパールシティ仙台まででお願いします。	general,taxi,weather
+3855	5	SYSTEM	予約出来ました。予約番号は、40298 になります。	general,taxi,weather
+3855	6	USER	承知しました。次に4/9の太白区の天候を知りたいです。最低気温と最高気温も教えてください。	general,taxi,weather
+3855	7	SYSTEM	天気は、晴で最高気温は11.7度、最高気温は、2.3度の予報となっています。	general,taxi,weather
+3855	8	USER	最低気温が2.3度でいいですかね。ありがとうございます。	general,taxi,weather
+3855	9	SYSTEM	他にご用件はありますか？	general,taxi,weather
+3855	10	USER	いいえ、大丈夫です。	general,taxi,weather
+3855	11	SYSTEM	承知しました。ありがとうございました。	general,taxi,weather

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1802	0	USER	11/7に仙台へ旅行に行くので、この日の泉区の天気について教えてください。	general,weather,taxi
+1802	1	SYSTEM	承知しました。天気は晴のち曇、最低気温11.2度、最高気温12.4度となります。	general,weather,taxi
+1802	2	USER	ありがとうございます。この日はタクシーの利用をしたいと思っています。キャッシュレスでの支払いができて、ジャンボタクシーが選べる会社ってありますか？	general,weather,taxi
+1802	3	SYSTEM	仙南タクシー（株）はいかがでしょう？電話番号は、0570021070となります。	general,weather,taxi
+1802	4	USER	はい、それでは予約もお願いします。11/7の09:50に豆千代から乗車して、AER展望テラスまで向かいたいんです。	general,weather,taxi
+1802	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、58456となります。他にご用件はございますか？	general,weather,taxi
+1802	6	USER	用件はこれで全てです、ありがとうございました。	general,weather,taxi
+1802	7	SYSTEM	ありがとうございました。	general,weather,taxi

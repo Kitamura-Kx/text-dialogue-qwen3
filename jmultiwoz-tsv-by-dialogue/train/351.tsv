@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+351	0	USER	仙台で買い物がしたいのですが、探していただけますか？	general,shopping,weather
+351	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございませんか？	general,shopping,weather
+351	2	USER	青葉区で、駐車場を無料で利用できるところがいいです。	general,shopping,weather
+351	3	SYSTEM	そうしますと、5件ほどご案内可能です。たとえば、絵本と木のおもちゃ 横田や、というお店はご興味ございますか？	general,shopping,weather
+351	4	USER	はい、ありがとうございます。そちらの定休日はいつですか？	general,shopping,weather
+351	5	SYSTEM	定休日は、水曜日となっております。	general,shopping,weather
+351	6	USER	ありがとうございます。あと、当日の天候を知りたいです。9/10の若林区なのですが。	general,shopping,weather
+351	7	SYSTEM	かしこまりました。9/10の若林区の天気は、曇りのち晴れの予報です。最低気温は21.9度、最高気温は22.1度の予想となっております。	general,shopping,weather
+351	8	USER	分かりました。以上です、ありがとうございました！	general,shopping,weather
+351	9	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,shopping,weather

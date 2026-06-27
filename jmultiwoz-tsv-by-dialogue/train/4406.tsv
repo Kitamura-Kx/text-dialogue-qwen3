@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4406	0	USER	東京へ旅行に行くので、最寄り駅が下北沢駅の買い物できるところを探してください。	general,shopping,attraction,hotel
+4406	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping,attraction,hotel
+4406	2	USER	そうですか。では、最寄り駅はどこでも大丈夫です。	general,shopping,attraction,hotel
+4406	3	SYSTEM	かしこまりました。それではラフォーレ原宿はいかがでしょうか？	general,shopping,attraction,hotel
+4406	4	USER	そこよさそうですね。電話番号とジャンルを教えてください。	general,shopping,attraction,hotel
+4406	5	SYSTEM	はい、電話番号は0334750411でございまして、ジャンルはファッションに該当致します。	general,shopping,attraction,hotel
+4406	6	USER	ありがとうございます。あと、港区の美術館や博物館で、駐車場を無料で利用できるところがないか探してもらえますか？	general,shopping,attraction,hotel
+4406	7	SYSTEM	かしこまりました。それではCaretta汐留はいかがでしょうか？	general,shopping,attraction,hotel
+4406	8	USER	そこにします。大人入場料と電話番号を教えてください。	general,shopping,attraction,hotel
+4406	9	SYSTEM	はい、大人の入場料は無料でして、電話番号は0362182100でございます。	general,shopping,attraction,hotel
+4406	10	USER	わかりました。あと、北区で最寄り駅が田端駅の、Wi-Fiが無料で利用できる宿泊施設を探してください。	general,shopping,attraction,hotel
+4406	11	SYSTEM	かしこまりました。それではTOKYO CITY VIEW HOTEL TABATA-STATIONがございます。	general,shopping,attraction,hotel
+4406	12	USER	そこにします。近辺の駅からの所要時間を知りたいです。	general,shopping,attraction,hotel
+4406	13	SYSTEM	はい、田端駅から徒歩で2分、または西日暮里駅から徒歩で7分でございます。	general,shopping,attraction,hotel
+4406	14	USER	ありがとうございました。	general,shopping,attraction,hotel
+4406	15	SYSTEM	その他にご用件はございますか？	general,shopping,attraction,hotel
+4406	16	USER	いえ、大丈夫です。	general,shopping,attraction,hotel
+4406	17	SYSTEM	かしこまりました。またお待ちしております。	general,shopping,attraction,hotel

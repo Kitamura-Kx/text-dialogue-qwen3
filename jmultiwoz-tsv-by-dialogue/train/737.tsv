@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+737	0	USER	札幌の東区で、無料Wi-Fiが利用できるカフェやスイーツのお店を調べてもらえますか？	general,restaurant,shopping,taxi
+737	1	SYSTEM	かしこまりました。では、CAFE VOIZというお店はいかがでしょうか？最寄り駅は、新道東駅となります。	general,restaurant,shopping,taxi
+737	2	USER	ありがとうございます。そのお店の値段帯はどのくらいですか？	general,restaurant,shopping,taxi
+737	3	SYSTEM	普通となっております。	general,restaurant,shopping,taxi
+737	4	USER	ありがとうございます。あと、無料駐車場のある百貨店や総合スーパーも探してほしいです。	general,restaurant,shopping,taxi
+737	5	SYSTEM	かしこまりました。エリアなど、特にご希望がないようでしたら、札幌駅近くにある大丸札幌店というお店はいかがでしょうか？	general,restaurant,shopping,taxi
+737	6	USER	近い駅からどのくらいかかりますか？	general,restaurant,shopping,taxi
+737	7	SYSTEM	札幌駅から徒歩1分です。	general,restaurant,shopping,taxi
+737	8	USER	ありがとうございます。当日タクシーを利用しようと思っていて、キャッシュレス払いができて、ジャンボタクシーが利用できるところはありますか？	general,restaurant,shopping,taxi
+737	9	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,shopping,taxi
+737	10	USER	では、ジャンボタクシーの利用はできなくてもいいので、キャッシュレス払い対応しているところだとありますか？	general,restaurant,shopping,taxi
+737	11	SYSTEM	ありがとうございます、6件ございます。昭和交通(株)はいかがでしょうか？	general,restaurant,shopping,taxi
+737	12	USER	そこの電話番号を教えてもらえますか？	general,restaurant,shopping,taxi
+737	13	SYSTEM	はい。電話番号は、0117811525でございます。ご予約もなさいますか？	general,restaurant,shopping,taxi
+737	14	USER	お願いします。６月１１日の１４時２０分に、CAFE VOIZから大丸札幌店までお願いします。	general,restaurant,shopping,taxi
+737	15	SYSTEM	かしこまりました。予約が完了いたしました。ご予約番号は、19150です。	general,restaurant,shopping,taxi
+737	16	USER	ありがとうございました。	general,restaurant,shopping,taxi
+737	17	SYSTEM	他にお調べすることはございますか？	general,restaurant,shopping,taxi
+737	18	USER	大丈夫です。ありがとうございました。	general,restaurant,shopping,taxi
+737	19	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,shopping,taxi

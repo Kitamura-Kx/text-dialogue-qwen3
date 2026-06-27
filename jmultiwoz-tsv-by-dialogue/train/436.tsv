@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+436	0	USER	横浜へ行こうと思っています。キャッシュレス払い対応のタクシー会社を探していただきたいです。	general,taxi
+436	1	SYSTEM	かしこまりました。国際自動車株式会社がございます。	general,taxi
+436	2	USER	そちらの電話番号とジャンボタクシー対応か教えていただけますでしょうか。	general,taxi
+436	3	SYSTEM	電話番号は0120385931でございます。ジャンボタクシーにも対応しております。	general,taxi
+436	4	USER	では、5月20日12時30分景徳鎮から横浜港シンボルタワーまで予約をお願いしますｌ。	general,taxi
+436	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は30056でございます。	general,taxi
+436	6	USER	わかりました。ありがとうございます。	general,taxi
+436	7	SYSTEM	ほかにご用件はございませんか。	general,taxi
+436	8	USER	いいえ、大丈夫です。ありがとうございました。	general,taxi

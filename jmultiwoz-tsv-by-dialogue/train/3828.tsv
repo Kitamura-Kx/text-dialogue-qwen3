@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3828	0	USER	大阪へ旅行を計画しているのですが、大正区で燃料を買えるところを探していただけますか・？	general,shopping,taxi
+3828	1	SYSTEM	申し訳ありません、その条件ではありませんでした。　どうされますか？	general,shopping,taxi
+3828	2	USER	わかりました。ではジャンルは特に気にしないので、大正区で買い物ができるところはありますか？	general,shopping,taxi
+3828	3	SYSTEM	それであれば、1件あります。　IKEA鶴浜ストア、こちらはどうですか？	general,shopping,taxi
+3828	4	USER	そちらの最寄り駅と駐車場の有無はわかりますか？	general,shopping,taxi
+3828	5	SYSTEM	はい、最寄り駅は、ドーム前千代崎駅です。　駐車場については、無料駐車場があります。	general,shopping,taxi
+3828	6	USER	ありがとうございます。	general,shopping,taxi
+3828	7	SYSTEM	他にご用件はありますか？	general,shopping,taxi
+3828	8	USER	当日利用できるタクシー会社を探してください。できればキャッシュレス払いができるところがよいです。	general,shopping,taxi
+3828	9	SYSTEM	はい、タクシー会社ですね。　では、日本タクシー株式会社はいかがですか？	general,shopping,taxi
+3828	10	USER	では、そちらで予約をお願いします。11/30の12:50に、IKEA鶴浜ストアを出発でホテルフクラシア大阪ベイまでお願いします。	general,shopping,taxi
+3828	11	SYSTEM	予約出来ました。予約番号は、19297になります。	general,shopping,taxi
+3828	12	USER	ありがとうございます。	general,shopping,taxi
+3828	13	SYSTEM	他にご用件はございますか？	general,shopping,taxi
+3828	14	USER	特にありません。ありがとうございました。	general,shopping,taxi
+3828	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

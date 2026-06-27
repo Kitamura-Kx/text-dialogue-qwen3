@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4541	0	USER	東京へ旅行しようと思っているのですが駐車場が無料の飲食店を探しています。	general,restaurant
+4541	1	SYSTEM	東京には、駐車場無料の飲食店は９件ありますが、バルバッコア 六本木ヒルズ店をお勧めします。	general,restaurant
+4541	2	USER	そこはどんなカテゴリーのお店になります？あと定休日と最寄り駅からの所要時間が気になります。	general,restaurant
+4541	3	SYSTEM	ジャンルは洋食・西洋料理, 居酒屋、定休日はなし、六本木駅から徒歩で1分のほか、麻布十番駅から徒歩で5分、乃木坂駅から徒歩で10分と大変便利なところにあります。	general,restaurant
+4541	4	USER	いいですね。そこを予約して頂けますか？4人で日付は8/13、時間は12:50でお願いします。	general,restaurant
+4541	5	SYSTEM	予約成功しました。予約番号は80596です。	general,restaurant
+4541	6	USER	大変助かりました！ありがとうございました。	general,restaurant

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1424	0	USER	大阪で、駐車場無料で買い物できる百貨店や総合スーパーはありますか？場所は、住之江区希望です。	general,shopping,restaurant
+1424	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant
+1424	2	USER	そうなんですね。では、地区は住之江区でなくてもよいです。	general,shopping,restaurant
+1424	3	SYSTEM	では大阪タカシマヤはいかがでしょうか。	general,shopping,restaurant
+1424	4	USER	いいとおもいます。電話番号と、定休日について教えてください。	general,shopping,restaurant
+1424	5	SYSTEM	電話番号は0666311101で、定休日はございません。	general,shopping,restaurant
+1424	6	USER	ありがとうございます。あと予算が普通程度の飲食店も探したいです。Wi-Fiが無料ならよりよいです。	general,shopping,restaurant
+1424	7	SYSTEM	では酒場リベリー スシる。がございます。	general,shopping,restaurant
+1424	8	USER	そちらのお店に、駐車場はありますか？	general,shopping,restaurant
+1424	9	SYSTEM	駐車場はございません。	general,shopping,restaurant
+1424	10	USER	ないのですね。わかりました。でもそちらで予約をお願いします。人数は４人。2/14 13:30で予約をしていただけますか？	general,shopping,restaurant
+1424	11	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は66052でございます。	general,shopping,restaurant
+1424	12	USER	承知しました。今回は以上です。ありがとうございました。	general,shopping,restaurant
+1424	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant

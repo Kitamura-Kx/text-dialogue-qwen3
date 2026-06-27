@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3510	0	USER	札幌への旅行を検討しています。当日利用できる飲食店を探して欲しいのですが、よろしいでしょうか？	general,restaurant,shopping
+3510	1	SYSTEM	ありがとうございます。札幌の飲食店ですと102件からご案内出来ますが、何かご希望はありますか？	general,restaurant,shopping
+3510	2	USER	そうですね。最寄り駅が西１８丁目駅で、Wi-Fiが無料で利用できるお店ってありますかね？	general,restaurant,shopping
+3510	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,restaurant,shopping
+3510	4	USER	そうですか。でしたら、最寄り駅を札幌駅に変更して頂けますか？	general,restaurant,shopping
+3510	5	SYSTEM	その条件でしたら、J.S. PANCAKE CAFE 札幌ステラプレイス店がございます。	general,restaurant,shopping
+3510	6	USER	ありがとうございます。このお店の近辺の駅からの所要時間ってわかりますか？	general,restaurant,shopping
+3510	7	SYSTEM	はい、札幌駅から徒歩で1分でございます。	general,restaurant,shopping
+3510	8	USER	ありがとうございます。それと、当日、地酒ノ酒屋 愉酒屋と言うお店で買い物をしたいのですが、このお店って今も営業していますか？	general,restaurant,shopping
+3510	9	SYSTEM	お待たせ致しました。はい、営業しております！	general,restaurant,shopping
+3510	10	USER	助かります。このお店の近辺の駅からの所要時間を教えて頂けますか？	general,restaurant,shopping
+3510	11	SYSTEM	はい、福住駅からバスで19分でございます。	general,restaurant,shopping
+3510	12	USER	ありがとうございます。これから色々検討してみようと思います。ご対応、ありがとうございました！	general,restaurant,shopping
+3510	13	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,shopping

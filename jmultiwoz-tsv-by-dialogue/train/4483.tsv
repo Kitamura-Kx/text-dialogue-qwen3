@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4483	0	USER	横浜に旅行を計画しているのですが、文房具や雑貨が買えるお店はありますか。駐車場は無料で利用できるところでお願いします。	general,shopping,restaurant
+4483	1	SYSTEM	そういたしますと、ポケモンセンターヨコハマはいかがでしょうか？西区にあるお店です。	general,shopping,restaurant
+4483	2	USER	ありがとうございます。駅からはどのくらいかかりますか。	general,shopping,restaurant
+4483	3	SYSTEM	横浜駅から徒歩で3分ほどでアクセスできます。	general,shopping,restaurant
+4483	4	USER	分かりました。ありがとうございます。あと、予算高めの中華料理のお店に行きたいです。	general,shopping,restaurant
+4483	5	SYSTEM	では、中区エリアにある、華正樓 新館というお店はいかがでしょうか？	general,shopping,restaurant
+4483	6	USER	そのお店の営業時間をお聞きしてもいいですか。	general,shopping,restaurant
+4483	7	SYSTEM	はい、営業時間は、11:30～22:00でございます。	general,shopping,restaurant
+4483	8	USER	ありがとうございます。このお店に5/9の午後2時30分に3人の予約をお願いします。	general,shopping,restaurant
+4483	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、22827です。	general,shopping,restaurant
+4483	10	USER	ありがとうございます。これで大丈夫です。	general,shopping,restaurant
+4483	11	SYSTEM	承知いたしました。本日はご利用いただき、ありがとうございました。	general,shopping,restaurant

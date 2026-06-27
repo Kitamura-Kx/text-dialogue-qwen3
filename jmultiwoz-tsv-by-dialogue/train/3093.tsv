@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3093	0	USER	那覇への旅行を計画しています．駐車場とWiFiが無料で使える観光名所はありますか．	general,attraction,hotel,taxi
+3093	1	SYSTEM	はい、５件ほどご案内可能です。例えば、真和志地区にある識名園というところにご興味ございませんか？	general,attraction,hotel,taxi
+3093	2	USER	そうですね．可能であれば牧志駅の最寄りが良いのですが	general,attraction,hotel,taxi
+3093	3	SYSTEM	そうしますと、申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,hotel,taxi
+3093	4	USER	わかりました．それでは先程の識名園に行こうと思います．電話番号と営業時間を教えてください	general,attraction,hotel,taxi
+3093	5	SYSTEM	ありがとうございます。電話番号は、0988555936です。営業時間は、朝9:00から夕方の18:00までとなっております。	general,attraction,hotel,taxi
+3093	6	USER	ありがとうございます．それと無料で駐車場とWiFiが利用できるホテルを探しています．レストランが併設されているところが良いです	general,attraction,hotel,taxi
+3093	7	SYSTEM	それでしたら、HOTEL MARUKIという本庁エリアのビジネスホテルはいかがでしょうか？	general,attraction,hotel,taxi
+3093	8	USER	良いですね．それでは電話番号とチェックイン開始時刻を教えてください	general,attraction,hotel,taxi
+3093	9	SYSTEM	電話番号は、0988626135です。チェックインは１５時開始となっております。	general,attraction,hotel,taxi
+3093	10	USER	そこを予約したいです．人数は4人で，10月8日より４泊お願いします．	general,attraction,hotel,taxi
+3093	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、96753です。	general,attraction,hotel,taxi
+3093	12	USER	それと，キャッシュレス払い対応のタクシーを探しています．	general,attraction,hotel,taxi
+3093	13	SYSTEM	大変申し訳ございません。那覇でキャッシュレス払い対応のタクシー会社は、該当するところがありませんでした。	general,attraction,hotel,taxi
+3093	14	USER	そうなんですね．それではキャッシュレス払いは諦めます．	general,attraction,hotel,taxi
+3093	15	SYSTEM	ありがとうございます。そうしますと、沖東交通グループはいかがでしょうか？こちらはジャンボタクシーがご利用いただけますよ。	general,attraction,hotel,taxi
+3093	16	USER	そこを利用します．電話番号を教えていただけますか．	general,attraction,hotel,taxi
+3093	17	SYSTEM	はい。電話番号は、0989465654です。	general,attraction,hotel,taxi
+3093	18	USER	予約もお願いします．10月8日，12:20に識名園からHOTEL MARUKIまでお願いします	general,attraction,hotel,taxi
+3093	19	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょう？	general,attraction,hotel,taxi
+3093	20	USER	では時間を13:20に変更でお願いします	general,attraction,hotel,taxi
+3093	21	SYSTEM	ありがとうございます。13:20発にて、ご予約完了いたしました。予約番号は、86890です。	general,attraction,hotel,taxi
+3093	22	USER	ありがとうございました．	general,attraction,hotel,taxi

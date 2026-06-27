@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3010	0	USER	札幌への旅行を計画しています。 当日泊まる宿泊施設を探して欲しいです。	general,hotel,weather
+3010	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,hotel,weather
+3010	2	USER	予算は普通、宿のタイプはシティホテル希望です。	general,hotel,weather
+3010	3	SYSTEM	札幌で予算普通のシティホテルならば、JRタワーホテル日航札幌、こちらになります。	general,hotel,weather
+3010	4	USER	エリアはどこになるでしょうか。	general,hotel,weather
+3010	5	SYSTEM	中央区です。	general,hotel,weather
+3010	6	USER	では予約をお願いします。人数は3人、日付は12/17、宿泊日数は4泊です。	general,hotel,weather
+3010	7	SYSTEM	予約に成功しました。予約番号は12776です。	general,hotel,weather
+3010	8	USER	あと北区の12/17の天候が知りたいです。最高気温，最低気温を教えてください。	general,hotel,weather
+3010	9	SYSTEM	12/17 札幌 北区 の天気は曇時々晴、最低気温-2.9度、最高気温-2.5度です。	general,hotel,weather
+3010	10	USER	解決しました。ありがとうございました。	general,hotel,weather

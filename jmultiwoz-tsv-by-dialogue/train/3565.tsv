@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3565	0	USER	横浜で無料駐車場がある食料品店を教えて下さい。	general,shopping
+3565	1	SYSTEM	かしこまりました。では、Augusta Milk Farm 相澤良牧場はいかがですか。	general,shopping
+3565	2	USER	ありがとうございます。そちらは定休日はいつになりますか？	general,shopping
+3565	3	SYSTEM	1月が月曜日, 2月、3月も月曜日が定休日となっております。	general,shopping
+3565	4	USER	最寄り駅はどこになりますか？	general,shopping
+3565	5	SYSTEM	最寄り駅はいずみ野駅でございます。	general,shopping
+3565	6	USER	ありがとうございます。助かりました。それでは失礼します。	general,shopping

@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2302	0	USER	那覇へ旅行に行きたいです。当日買い物ができる場所を探しており、百貨店や総合スーパーなどがあれば教えていただきたいです。エリアは本庁周辺で無料の駐車場が利用できるところがいいです。	general,shopping
+2302	1	SYSTEM	かしこまりました。では、デパートリウボウはいかがでしょうか？	general,shopping
+2302	2	USER	ありがとうございます。こちらの営業時間をお教えてください。	general,shopping
+2302	3	SYSTEM	営業時間は、10:00～20:00です。	general,shopping
+2302	4	USER	ありがとうございます。こちらからは以上です。	general,shopping
+2302	5	SYSTEM	承知しました。では、本日はご利用ありがとうございました。	general,shopping

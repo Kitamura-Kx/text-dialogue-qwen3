@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3171	0	USER	札幌への旅行を計画していて、当日の宿泊施設を探しています。駐車場が無料でレストランが併設されているところがいいのですが。	general,hotel,shopping,restaurant
+3171	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,shopping,restaurant
+3171	2	USER	では駐車場は無くても良いです。	general,hotel,shopping,restaurant
+3171	3	SYSTEM	かしこまりました。では、札幌グランドホテルはいかがでしょうか？	general,hotel,shopping,restaurant
+3171	4	USER	ありがとうございます。そこにしようと思います。また、当日の買い物が出来るところも探しています。駐車場が無料の食料品のお店はありますか？	general,hotel,shopping,restaurant
+3171	5	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,hotel,shopping,restaurant
+3171	6	USER	そうですか。では駐車場は無くても良いです。	general,hotel,shopping,restaurant
+3171	7	SYSTEM	かしこまりました。では、ビッセスイーツはいかがでしょうか？	general,hotel,shopping,restaurant
+3171	8	USER	ありがとうございます。ビッセスイーツにしようと思います。飲食店も探していまして、中央区のWi-Fi無料、予算は普通のお店が良いのですが。	general,hotel,shopping,restaurant
+3171	9	SYSTEM	かしこまりました。では、パーラーエノキはいかがでしょうか？	general,hotel,shopping,restaurant
+3171	10	USER	ありがとうございます。パーラーエノキの近辺の駅からの所要時間，料金は分かりますか？	general,hotel,shopping,restaurant
+3171	11	SYSTEM	はい。バスセンター前駅から徒歩で3分です。また、料金情報は、値段帯が普通という以外不明になっております。申し訳ございません。	general,hotel,shopping,restaurant
+3171	12	USER	ありがとうございます。予約をお願い出来ますか？8/8、午後13：20から4人でお願いしたいです。	general,hotel,shopping,restaurant
+3171	13	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel,shopping,restaurant
+3171	14	USER	では3人の予約ではどうですか？	general,hotel,shopping,restaurant
+3171	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、96384 です。	general,hotel,shopping,restaurant
+3171	16	USER	ありがとうございました。	general,hotel,shopping,restaurant
+3171	17	SYSTEM	ご用件はお済ですか？	general,hotel,shopping,restaurant
+3171	18	USER	はい、大丈夫です。ありがとうございました。	general,hotel,shopping,restaurant
+3171	19	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping,restaurant

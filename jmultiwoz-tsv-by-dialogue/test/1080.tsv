@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1080	0	USER	札幌への旅行を計画しているのですが。	general,restaurant,weather
+1080	1	SYSTEM	はい。お問合せありがとうございます。	general,restaurant,weather
+1080	2	USER	当日食事ができる飲食店を探してください．予算は高めでジャンルはイタリアン・フレンチ、駐車場を無料で利用できるところがいいです。	general,restaurant,weather
+1080	3	SYSTEM	ふしみグリエはいかがでしょうか。	general,restaurant,weather
+1080	4	USER	いいですね。そちらの営業時間とエリアを教えてください。	general,restaurant,weather
+1080	5	SYSTEM	営業時間は11:30～15:30, 17:00～22:00でエリアは中央区になっています。	general,restaurant,weather
+1080	6	USER	ありがとうございました。あと、3/7の東区の天気も教えて欲しいです。	general,restaurant,weather
+1080	7	SYSTEM	天気は晴のち曇です。	general,restaurant,weather
+1080	8	USER	ありがとうございました。	general,restaurant,weather

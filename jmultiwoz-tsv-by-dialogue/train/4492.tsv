@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4492	0	USER	横浜に旅行に行こうと思うのですが、中区にレストランが併設されている宿泊施設はありますか。	general,hotel,taxi
+4492	1	SYSTEM	はい、26件ご案内可能です。たとえば、ホテルニューグランドというお安めのシティホテルはいかがでしょうか？	general,hotel,taxi
+4492	2	USER	ありがとうございます。そのホテルにはWi-Fiはありますか。	general,hotel,taxi
+4492	3	SYSTEM	はい、ございます。無料でご利用いただけます。	general,hotel,taxi
+4492	4	USER	分かりました。では5/4に2人で3泊の予約をお願いします。	general,hotel,taxi
+4492	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、16431です。	general,hotel,taxi
+4492	6	USER	ありがとうございます。あと、キャッシュレス払いのできるタクシーを利用したいです。	general,hotel,taxi
+4492	7	SYSTEM	では、スタジアム交通株式会社はいかがでしょうか？	general,hotel,taxi
+4492	8	USER	ありがとうございます。その会社のジャンボタクシー対応と電話番号を教えてください。	general,hotel,taxi
+4492	9	SYSTEM	かしこまりました。こちらは、ジャンボタクシーのご利用が可能です。電話番号は、0120776081です。	general,hotel,taxi
+4492	10	USER	ありがとうございます。そこで予約をお願いします。5/4のお昼の12時にVITAL MEALS BY DADWAYからホテルニューグランドです。	general,hotel,taxi
+4492	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、29160です。	general,hotel,taxi
+4492	12	USER	ありがとうございます。これで大丈夫です。	general,hotel,taxi
+4492	13	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,hotel,taxi

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2083	0	USER	名古屋への旅行を検討しています。当日利用出来るタクシー会社を探しているのですが、お伺いしてもよろしいでしょうか？	general,taxi
+2083	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,taxi
+2083	2	USER	キャッシュレス払いが出来ればなと思うのですが、ありますかね？	general,taxi
+2083	3	SYSTEM	かしこまりました。では、東海交通はいかがでしょうか？ジャンボタクシーにも対応しております。	general,taxi
+2083	4	USER	ありがとうございます。そちらの電話番号も知りたいのですが、よろしいですか？	general,taxi
+2083	5	SYSTEM	はい。電話番号は0532571111です。	general,taxi
+2083	6	USER	ありがとうございます。このままこちらを予約したいのですが、よろしいでしょうか？	general,taxi
+2083	7	SYSTEM	かしこまりました。出発時刻と、出発地と目的地はお決まりでしょうか？	general,taxi
+2083	8	USER	はい。2月22日の9時30分で、クアドリフォリオから、Osteria L'amante Nagoya Global Gateでお願いしたいです。	general,taxi
+2083	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、75700です。	general,taxi
+2083	10	USER	ありがとうございます。これで当日は大丈夫そうです。ありがとうございました。	general,taxi
+2083	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3736	0	USER	仙台へ旅行しようと思っているのですが旧跡でWI-FIが無料で使えるところはありますか？駐車場も無料でお願いいたします。	general,attraction
+3736	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction
+3736	2	USER	それではWIFIは諦めます。どうでしょうか？	general,attraction
+3736	3	SYSTEM	では、エリアでいうと青葉区にある、大崎八幡宮はいかがでしょう？	general,attraction
+3736	4	USER	いいですね。そこの営業時間を教えて下さい。	general,attraction
+3736	5	SYSTEM	はい、営業時間は、0時から0時となります。	general,attraction
+3736	6	USER	大変助かりました！以上です。どうもありがとうございました。	general,attraction
+3736	7	SYSTEM	ありがとうございました。	general,attraction

@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3862	0	USER	こんにちは、東京でグランピングできる観光名所を教えてもらえますか？	general,attraction,weather
+3862	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,weather
+3862	2	USER	そうですか。では、歴史的建造物を楽しめる所はありますか？	general,attraction,weather
+3862	3	SYSTEM	それでしたら湯島天満宮(湯島天神)がございます。	general,attraction,weather
+3862	4	USER	ありがとうございます。そこはWi-Fiはありますか？営業時間も教えてください。	general,attraction,weather
+3862	5	SYSTEM	Wi-Fiの有無は不明でございます。営業時間は06:00～20:00となっております。	general,attraction,weather
+3862	6	USER	分かりました。近くの駅からどれくらいかかりますか？	general,attraction,weather
+3862	7	SYSTEM	湯島駅から徒歩で2分、上野広小路駅から徒歩で5分、本郷３丁目駅から徒歩で10分、御徒町駅から徒歩で8分、上野御徒町駅から徒歩で5分でございます。	general,attraction,weather
+3862	8	USER	詳しくありがとうございます。もう１つ、大田区の3月24日の天気と最高気温を教えて下さい。	general,attraction,weather
+3862	9	SYSTEM	天気は晴のち雨、最高気温が16.9度でございます。	general,attraction,weather
+3862	10	USER	傘が必要ですね。ありがとうございます。それでは失礼します。	general,attraction,weather

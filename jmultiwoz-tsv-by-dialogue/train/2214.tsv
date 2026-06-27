@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2214	0	USER	福岡へ旅行に行くのですが、観光できるところを探してください。	general,attraction,weather,taxi
+2214	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,weather,taxi
+2214	2	USER	地区は東区で、駐車場とWi-Fiが無料で利用できるところにしてください。	general,attraction,weather,taxi
+2214	3	SYSTEM	申し訳ありません。その条件ではご紹介できません。いかが致しましょう？	general,attraction,weather,taxi
+2214	4	USER	では地区を博多区にしたらいかがですか？	general,attraction,weather,taxi
+2214	5	SYSTEM	1件、住吉神社がございます。ジャンルは、神社、寺院、教会、モニュメントなど、となります。	general,attraction,weather,taxi
+2214	6	USER	次に2/6の早良区の天候を教えてください。	general,attraction,weather,taxi
+2214	7	SYSTEM	はい、天気は曇、最低気温6.6度、最高気温17.5度となります。	general,attraction,weather,taxi
+2214	8	USER	ありがとうございます。あとタクシー会社を探してください。	general,attraction,weather,taxi
+2214	9	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,weather,taxi
+2214	10	USER	ジャンボタクシーを利用できるところにしてください。	general,attraction,weather,taxi
+2214	11	SYSTEM	福岡昭和タクシー（株）はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0120408860となります。	general,attraction,weather,taxi
+2214	12	USER	ではそちらでタクシーを予約してください。日付は2/6、時間は11:00、出発地は博多の食と文化の博物館ハクハク、目的地は住吉神社です。	general,attraction,weather,taxi
+2214	13	SYSTEM	承知しました。予約が完了し、ご予約番号は、48993となります。他にご用件はございますか？	general,attraction,weather,taxi
+2214	14	USER	いえ、これで全てです。ありがとうございました。	general,attraction,weather,taxi
+2214	15	SYSTEM	ありがとうございました。	general,attraction,weather,taxi

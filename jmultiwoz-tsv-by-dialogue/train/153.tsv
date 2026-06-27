@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+153	0	USER	名古屋に旅行するんで観光名所を教えてほしいんですけど。東区で駐車場がただの所を教えてください。	general,attraction,shopping
+153	1	SYSTEM	承知致しました。この条件ですと、3件該当致します。ヤマザキマザック美術館、文化のみち二葉館、堀美術館となります。	general,attraction,shopping
+153	2	USER	文化のみち二葉館っていうのがなんか惹かれますね。ジャンル的にはなんですか？あと最寄りの駅も教えてほしんですけど。	general,attraction,shopping
+153	3	SYSTEM	はい、文化のみち二葉館ですね。ジャンルは美術館、博物館、となります。最寄り駅は高岳駅で、駅から徒歩で10分になっております。	general,attraction,shopping
+153	4	USER	楽しみですね。合わせてファッション関係の買い物ができるところを教えてもらえませんか？	general,attraction,shopping
+153	5	SYSTEM	承知致しました。エリアなどのご希望はございますか？	general,attraction,shopping
+153	6	USER	特にありません。適当なお店を教えてください。	general,attraction,shopping
+153	7	SYSTEM	はい、それでは、童具店・名古屋はいかがでしょう？エリアは中区となりまして、最寄りの伏見駅からは徒歩で2分です。営業時間は10時から17時、定休日は火曜日と水曜日となっております。	general,attraction,shopping
+153	8	USER	詳しく教えてもらえて助かりました。行ってみますね。お手数をおかけしました。ありがとうございました。	general,attraction,shopping

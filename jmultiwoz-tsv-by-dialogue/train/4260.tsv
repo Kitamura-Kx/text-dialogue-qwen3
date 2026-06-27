@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4260	0	USER	札幌への旅行を予定しているのですが、当日泊まるリゾートホテルを探してください。	general,hotel,taxi,weather
+4260	1	SYSTEM	かしこまりました。では定山渓万世閣ホテルミリオーネはいかがですか。	general,hotel,taxi,weather
+4260	2	USER	そちらはレストランが入っていて、Wi-Fiは無料でしょうか。	general,hotel,taxi,weather
+4260	3	SYSTEM	はい。レストランも併設されておりますし、Wi-Fiも無料でご利用いただけます。	general,hotel,taxi,weather
+4260	4	USER	ありがとうございます！　よかったです。では、そちらの予約をお願いします。9月4日から2泊、2名でお願いします。	general,hotel,taxi,weather
+4260	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は64213でございます。	general,hotel,taxi,weather
+4260	6	USER	ありがとうございます。当日はジャンボタクシーを利用したいのですがキャッシュレス払いができるタクシー会社はありますか。	general,hotel,taxi,weather
+4260	7	SYSTEM	はい。では北都ベリアールサービス(株)がございます。こちら電話番号が0118202200でございます。	general,hotel,taxi,weather
+4260	8	USER	では、こちらも予約をお願いします。9月4日の11時50分に　クインテッサホテル札幌すすきの　から　定山渓万世閣ホテルミリオーネ　までお願いします。	general,hotel,taxi,weather
+4260	9	SYSTEM	はい。予約が完了いたしました。予約番号は57445でございます。	general,hotel,taxi,weather
+4260	10	USER	ありがとうございます。9月4日の東区の天気も教えてください。	general,hotel,taxi,weather
+4260	11	SYSTEM	かしこまりました。当日の天気は晴、最低気温が19.4度で、最高気温が23.2度の予報でございます。	general,hotel,taxi,weather
+4260	12	USER	ありがとうございました。助かります。	general,hotel,taxi,weather

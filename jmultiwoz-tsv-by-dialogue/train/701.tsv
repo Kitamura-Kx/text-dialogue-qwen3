@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+701	0	USER	東京で和食の飲食店に行きたいのですが、千代田区に高めのお店はありますか？	general,restaurant,attraction,weather
+701	1	SYSTEM	はい、SUSHI SAKE いぶき 東京駅 TEKKO avenue店がございます。何かご案内致しましょうか？	general,restaurant,attraction,weather
+701	2	USER	いいですね。そのお店の定休日を教えて下さい。	general,restaurant,attraction,weather
+701	3	SYSTEM	はい、定休日は年末年始となっております。予約はいかがされますか？	general,restaurant,attraction,weather
+701	4	USER	はい、お願いします。４名で、1/22 15時に予約してほしいです。	general,restaurant,attraction,weather
+701	5	SYSTEM	申し訳ありません。その条件では予約できませんでした。いかが致しましょう？	general,restaurant,attraction,weather
+701	6	USER	では、人数を３名に変更してください。	general,restaurant,attraction,weather
+701	7	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、99810となります。他にご案内できることはございますか？	general,restaurant,attraction,weather
+701	8	USER	次に、観光名所も探して欲しいです。駐車場とWi-Fiが無料で利用できるところはありますか？	general,restaurant,attraction,weather
+701	9	SYSTEM	申し訳ありません。その条件ではご紹介できません。いかが致しましょう？	general,restaurant,attraction,weather
+701	10	USER	では、駐車場はなくてもかまいません。	general,restaurant,attraction,weather
+701	11	SYSTEM	ありがとうございます。では、エリアでいうと港区にございます、国立新美術館はいかがでしょう？	general,restaurant,attraction,weather
+701	12	USER	美術館いいですね！近辺の駅からの所要時間を教えてください。	general,restaurant,attraction,weather
+701	13	SYSTEM	はい、最寄りの乃木坂駅から徒歩で0分、近辺の六本木駅から徒歩で5分となっております。他にご案内できることはございますか？	general,restaurant,attraction,weather
+701	14	USER	あと天候を知りたいです。1/22 江東区の最高気温を教えてください。	general,restaurant,attraction,weather
+701	15	SYSTEM	はい、天気は晴、最低気温3.2度、最高気温8.6度となります。他にご用件はございますか？	general,restaurant,attraction,weather
+701	16	USER	調べたいことは以上です。ありがとうございました。	general,restaurant,attraction,weather
+701	17	SYSTEM	ありがとうございました。	general,restaurant,attraction,weather

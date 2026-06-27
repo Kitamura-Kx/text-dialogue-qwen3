@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+419	0	USER	福岡家の旅行を計画しているのですが、宿泊する施設を探しています。	general,hotel,restaurant,weather
+419	1	SYSTEM	承知しました。エリアや値段帯のご希望はございますか？	general,hotel,restaurant,weather
+419	2	USER	エリアは特に希望はありませんが、価格は高めが希望です。	general,hotel,restaurant,weather
+419	3	SYSTEM	ありがとうございます。それでは、グランド ハイアット 福岡はいかがでしょう？エリアは博多区になります。駐車場は有料となりますが、Wi-Fiは無料でご利用いただけます。	general,hotel,restaurant,weather
+419	4	USER	そちらは、シティホテルになりますでしょうか。	general,hotel,restaurant,weather
+419	5	SYSTEM	はい、さようでございます。	general,hotel,restaurant,weather
+419	6	USER	それでは、予約をお願いします。	general,hotel,restaurant,weather
+419	7	SYSTEM	承知しました。恐れ入りますが、宿泊日、宿泊人数、宿泊日数を教えていただけますか？	general,hotel,restaurant,weather
+419	8	USER	5月22日、3人、3泊でお願いします。	general,hotel,restaurant,weather
+419	9	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、44738となります。	general,hotel,restaurant,weather
+419	10	USER	ありがとうございます。ついでに当日食事をするお店を探していただけますか。	general,hotel,restaurant,weather
+419	11	SYSTEM	承知しました。エリアやジャンルなどのご希望はございますか？	general,hotel,restaurant,weather
+419	12	USER	エリアやジャンルの希望はないのですが、食事代は安めのお店がよいです。	general,hotel,restaurant,weather
+419	13	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,hotel,restaurant,weather
+419	14	USER	それでは、安めのお店でなくてもよいです。	general,hotel,restaurant,weather
+419	15	SYSTEM	申し訳ありません、それでは、照 博多口店はいかがでしょう？値段帯は普通、ジャンルは和食、寿司、魚料理、鍋、郷土料理となります。	general,hotel,restaurant,weather
+419	16	USER	ありがとうございます。そちらでお願いします。エリアはどちらになりますでしょうか。	general,hotel,restaurant,weather
+419	17	SYSTEM	エリアは博多区になります。	general,hotel,restaurant,weather
+419	18	USER	ありがとうございます。あと１つ、当日の天気を知りたいのですが、5月22日の南区の最高気温と天気を教えてください。	general,hotel,restaurant,weather
+419	19	SYSTEM	承知しました。天気は曇、最高気温28.1度、最低気温13.4度となります。	general,hotel,restaurant,weather
+419	20	USER	いろいろとありがとうございました。	general,hotel,restaurant,weather

@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4690	0	USER	札幌へ旅行するのですが、キャッシュレス払いができて、ジャンボタクシーが使えるタクシー会社を教えてください。	general,taxi
+4690	1	SYSTEM	両方対応しているタクシー会社はいくつかありますが、北都交通(株)をお勧めします。	general,taxi
+4690	2	USER	そこにします。9/22の13:50に予約してください。エスタからロイトン札幌までです。	general,taxi
+4690	3	SYSTEM	予約成功しました。予約番号は97836です。	general,taxi
+4690	4	USER	ありがとうございます。	general,taxi

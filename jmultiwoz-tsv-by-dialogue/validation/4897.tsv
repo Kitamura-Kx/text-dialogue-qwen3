@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4897	0	USER	札幌への旅行を計画しており、キャッシュレス払い対応のタクシー会社を探してほしいです。	general,taxi
+4897	1	SYSTEM	かしこまりました。それでは北都ベリアールサービス(株)がおすすめです。	general,taxi
+4897	2	USER	電話番号を教えてください。	general,taxi
+4897	3	SYSTEM	0118202200でございます。	general,taxi
+4897	4	USER	3/20 11:00にホテルモントレエーデルホフ札幌から北海道大学 大野池まで予約をお願いします。	general,taxi
+4897	5	SYSTEM	お待たせ致しました。予約番号48100でお取りさせていただきました。	general,taxi
+4897	6	USER	ありがとうございます。	general,taxi
+4897	7	SYSTEM	その他にご用件はございますか？	general,taxi
+4897	8	USER	いえ、もう大丈夫です。ありがとうございました。	general,taxi

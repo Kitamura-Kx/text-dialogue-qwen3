@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1622	0	USER	こんにちは。京都に行きたいのですが、観光名所をさがしてもらえますか？	general,attraction,weather
+1622	1	SYSTEM	ご利用ありがとうございます。ジャンルやエリアなど、何かご希望はございますか？	general,attraction,weather
+1622	2	USER	伏見稲荷駅が最寄り駅で、Wi-Fiが無料の場所をお願いします	general,attraction,weather
+1622	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,weather
+1622	4	USER	では、伏見稲荷駅以外ではありませんか？	general,attraction,weather
+1622	5	SYSTEM	ありがとうございます。そうしますと、国立京都国際会館というところが1件ご案内可能です。いかがでしょうか？	general,attraction,weather
+1622	6	USER	そこにします。定休日を教えてもらえますか？	general,attraction,weather
+1622	7	SYSTEM	年末年始がお休みとなっております。	general,attraction,weather
+1622	8	USER	わかりました。ありがとうございます。天気も調べて欲しいのですが、いいですか？	general,attraction,weather
+1622	9	SYSTEM	かしこまりました。お調べするエリアと日にちを伺ってもよろしいでしょうか？	general,attraction,weather
+1622	10	USER	7月1日、南区でお願いします	general,attraction,weather
+1622	11	SYSTEM	ありがとうございます。当日の天気は雨のち曇の予報です。最低気温は18.9度、最高気温は33.7度の予想となっております。	general,attraction,weather
+1622	12	USER	ありがとうございました。	general,attraction,weather
+1622	13	SYSTEM	他になにかお調べすることはございますか？	general,attraction,weather
+1622	14	USER	いえ、これで全部です。	general,attraction,weather
+1622	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,weather

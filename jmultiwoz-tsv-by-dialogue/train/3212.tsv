@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3212	0	USER	福岡に旅行に行きます。博多区でWi-Fiと駐車料金が無料の観光名所を教えてほしいです。	general,attraction,shopping,taxi
+3212	1	SYSTEM	かしこまりました。では、住吉神社はいかがでしょうか？	general,attraction,shopping,taxi
+3212	2	USER	子どもの入場料金はかかりますか？	general,attraction,shopping,taxi
+3212	3	SYSTEM	いえ、無料で入れます。	general,attraction,shopping,taxi
+3212	4	USER	いいですね。あと買い物したいのですが、西区で駐車料金無料のアウトレットモールはありますか？	general,attraction,shopping,taxi
+3212	5	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,attraction,shopping,taxi
+3212	6	USER	じゃあアウトレットモールでなくても良いです	general,attraction,shopping,taxi
+3212	7	SYSTEM	であれば、ホームセンター グッデイ 西福岡店などはいかがですか？	general,attraction,shopping,taxi
+3212	8	USER	定休日と住所を教えてください	general,attraction,shopping,taxi
+3212	9	SYSTEM	はい。定休日はありません。住所は福岡県福岡市西区福重2丁目31番4号です。	general,attraction,shopping,taxi
+3212	10	USER	ありがとうございます。ジャンボタクシーを利用できるタクシー会社も探してもらえますか？	general,attraction,shopping,taxi
+3212	11	SYSTEM	かしこまりました。福岡昭和タクシー（株）はいかがでしょうか。	general,attraction,shopping,taxi
+3212	12	USER	キャッシュレス対応していますか？	general,attraction,shopping,taxi
+3212	13	SYSTEM	はい、しております。	general,attraction,shopping,taxi
+3212	14	USER	では、7/9の11:30で住吉神社ホームセンターからグッデイ 西福岡店で予約してください	general,attraction,shopping,taxi
+3212	15	SYSTEM	申し訳ございません。午前11:30でよろしかったですか？	general,attraction,shopping,taxi
+3212	16	USER	はい	general,attraction,shopping,taxi
+3212	17	SYSTEM	かしこまりました。ご予約承りました。予約番号は、27997です。	general,attraction,shopping,taxi
+3212	18	USER	ありがとうございます。	general,attraction,shopping,taxi
+3212	19	SYSTEM	はい。ほかにご用件はございませんか。	general,attraction,shopping,taxi
+3212	20	USER	ないです。ありがとうございました	general,attraction,shopping,taxi
+3212	21	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping,taxi

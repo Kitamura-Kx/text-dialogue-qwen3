@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4604	0	USER	名古屋への旅行を計画しています． 当日訪れる観光名所を探してください．駐車場を無料で利用できるところにしてください．Wi-Fiが無料で利用できるところにしてください．	general,attraction,weather,taxi
+4604	1	SYSTEM	大高緑地はいかがでしょうか。	general,attraction,weather,taxi
+4604	2	USER	ありがとうございます。あと、11/15の西区の最低気温を教えていただけますか。	general,attraction,weather,taxi
+4604	3	SYSTEM	最低気温 10.7度になります。	general,attraction,weather,taxi
+4604	4	USER	ありがとうございます。あと、当日利用できるタクシー会社を探してください．ジャンボタクシーを利用できるところにしてください．	general,attraction,weather,taxi
+4604	5	SYSTEM	鯱第一交通はいかがでしょうか。	general,attraction,weather,taxi
+4604	6	USER	そちらのキャッシュレス対応，電話番号を教えていただけますか。	general,attraction,weather,taxi
+4604	7	SYSTEM	キャッシュレス対応は不明、電話番号、0529123456になります。	general,attraction,weather,taxi
+4604	8	USER	そちらで日付は11/15です．時間は12:30です．出発地は先ほど見つけた観光施設です．目的地はプリンセスガーデンホテル<名古屋栄>というところで予約いただけますか。	general,attraction,weather,taxi
+4604	9	SYSTEM	予約完了いたしました。予約番号は74216になります。	general,attraction,weather,taxi
+4604	10	USER		general,attraction,weather,taxi

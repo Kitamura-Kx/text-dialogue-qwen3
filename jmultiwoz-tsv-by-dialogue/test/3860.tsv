@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3860	0	USER	仙台へ旅行に行きたく、観光名所を探してほしいです。エリアは宮城野区で無料のWi-Fiが利用できるところでお願いします。	general,attraction,shopping
+3860	1	SYSTEM	では、仙台うみの杜水族館はいかがですか？	general,attraction,shopping
+3860	2	USER	そちらの電話番号と駐車場の有無を教えてください。	general,attraction,shopping
+3860	3	SYSTEM	電話番号は、0223552222です。　駐車場については、無料駐車場があります。	general,attraction,shopping
+3860	4	USER	ありがとうございます。次に太白区で買い物ができるところを探してください。できれば、無料の駐車場が利用できるところでお願いします。	general,attraction,shopping
+3860	5	SYSTEM	ララガーデン長町は、いかがでしょうか？	general,attraction,shopping
+3860	6	USER	そこの電話番号を教えてほしいです。	general,attraction,shopping
+3860	7	SYSTEM	電話番号は、0223997700です。	general,attraction,shopping
+3860	8	USER	承知しました。こちらからは以上です。	general,attraction,shopping
+3860	9	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping

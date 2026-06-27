@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3216	0	USER	横浜旅行に行くので駐車場が無料で利用できる宿泊施設を探してください	general,hotel,weather
+3216	1	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,weather
+3216	2	USER	じゃあ駐車場の有無は考えなくてよいです	general,hotel,weather
+3216	3	SYSTEM	かしこまりました。では、Hostel Zenはいかがでしょうか？	general,hotel,weather
+3216	4	USER	料金情報とエリアとチェックアウト終了時刻を教えてください	general,hotel,weather
+3216	5	SYSTEM	はい。料金情報としては値段帯が安めという情報しかありません。また、エリアは中区でチェックアウト終了時刻は10:00になります。	general,hotel,weather
+3216	6	USER	わかりました。7/8、二名で四泊で予約してもらえますか？	general,hotel,weather
+3216	7	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,hotel,weather
+3216	8	USER	では1名だったら予約できますか？	general,hotel,weather
+3216	9	SYSTEM	かしこまりました。ご予約承りました。予約番号は、71015です。	general,hotel,weather
+3216	10	USER	了解です。金沢区の7/8の最高気温も教えて貰えますか？	general,hotel,weather
+3216	11	SYSTEM	はい。最高気温は27.5度の予報です。	general,hotel,weather
+3216	12	USER	了解です、ありがとうございました	general,hotel,weather
+3216	13	SYSTEM	他にご用件はございますか？	general,hotel,weather
+3216	14	USER	ないです。ありがとうございました	general,hotel,weather
+3216	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

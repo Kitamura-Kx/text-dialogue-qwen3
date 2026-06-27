@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1579	0	USER	少しよろしいでしょうか？	general,restaurant,weather
+1579	1	SYSTEM	ご利用ありがとうございます。本日はどういったご用件でしょうか？	general,restaurant,weather
+1579	2	USER	札幌の東区でWi-Fiが無料で利用できる飲食店はありますか？	general,restaurant,weather
+1579	3	SYSTEM	はい、ございます。CAFE VOIZというところはいかがでしょうか？	general,restaurant,weather
+1579	4	USER	ご紹介ありがとうございます、ちなみに定休日と料金情報を教えていただいてもよろしいでしょうか？	general,restaurant,weather
+1579	5	SYSTEM	定休日は月曜日と火曜日です。料金情報は、 オーガニックコーヒー:410円、バニラアイスがとろける、ふわもち！フルーツフレンチトースト:840円、たっぷり! 釜あげシラスと大葉の和風パスタ:950円となっております。	general,restaurant,weather
+1579	6	USER	いいですね、では2/26の10:30から3名で予約をお願いしてもよろしいでしょうか？	general,restaurant,weather
+1579	7	SYSTEM	ご予約完了いたしました。予約番号は、14095です。	general,restaurant,weather
+1579	8	USER	ありがとうございます。あと、2/26当日の南区は天気いかがでしょうか？	general,restaurant,weather
+1579	9	SYSTEM	当日の天気は、雪時々晴、最低気温は-4.9度、最高気温は-2.8度の予報となっております。	general,restaurant,weather
+1579	10	USER	やはり寒いですね、防寒対策して伺います。本日はありがとうございました。	general,restaurant,weather
+1579	11	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant,weather

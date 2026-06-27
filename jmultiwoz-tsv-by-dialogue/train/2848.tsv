@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2848	0	USER	那覇へ旅行に行こうと思っています。当日泊まる宿泊施設を探しています。駐車場が無料で利用できて宿のタイプはシティホテル希望です。	general,hotel,restaurant
+2848	1	SYSTEM	エリアでいうと本庁にある、パシフィックホテル沖縄はいかがでしょう？	general,hotel,restaurant
+2848	2	USER	そこが良さそうですね。そこはWi-Fiがありますでしょうか。	general,hotel,restaurant
+2848	3	SYSTEM	はい、無料でご利用いただけます。	general,hotel,restaurant
+2848	4	USER	ではそこに予約したいので予約人数は４人で日付は3/16で４泊で予約お願いします。	general,hotel,restaurant
+2848	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、33957となります。	general,hotel,restaurant
+2848	6	USER	あと当日は焼肉むむという飲食店で食事を予定しています。ここの住所を教えてください。	general,hotel,restaurant
+2848	7	SYSTEM	はい、住所は、沖縄県那覇市久茂地2丁目6-23-2Fとなります。ご予約されますか？	general,hotel,restaurant
+2848	8	USER	はい、ここに人数４人で日付は3/16で１２:１０で予約してください。	general,hotel,restaurant
+2848	9	SYSTEM	承知しました。予約が完了し、ご予約番号は、1822となります。他にご用件はございますか？	general,hotel,restaurant
+2848	10	USER	分かりました。ありがとうございました。	general,hotel,restaurant
+2848	11	SYSTEM	ありがとうございました。	general,hotel,restaurant

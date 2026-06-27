@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4893	0	USER	東京への旅行を計画しており、北区で予算が普通でレストランが併設されている宿泊施設を探してもらえますか？	general,hotel,weather
+4893	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel,weather
+4893	2	USER	では予算が安めではどうですか？	general,hotel,weather
+4893	3	SYSTEM	お待たせ致しました。それではTOKYO CITY VIEW HOTEL TABATA-STATIONがございます。	general,hotel,weather
+4893	4	USER	そこにしようと思います。チェックイン開始時刻を教えてください。	general,hotel,weather
+4893	5	SYSTEM	チェックイン開始時刻は15時でございます。	general,hotel,weather
+4893	6	USER	ありがとうございます。あと3/29の世田谷区の天気と最高気温を調べてもらえますか？	general,hotel,weather
+4893	7	SYSTEM	お待たせ致しました。当日の世田谷区の天気は曇時々雨、最高気温は11.9度の予報でございます。	general,hotel,weather
+4893	8	USER	ありがとうございます。	general,hotel,weather
+4893	9	SYSTEM	その他にご用件はございますか？	general,hotel,weather
+4893	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel,weather

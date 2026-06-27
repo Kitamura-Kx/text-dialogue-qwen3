@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2805	0	USER	仙台への旅行を検討しています。当日買い物が出来る場所を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,shopping,weather
+2805	1	SYSTEM	承知しました。何かご希望はございますか？	general,shopping,weather
+2805	2	USER	はい。宮城野区で、駐車場を無料で利用出来る場所を探しているのですが、どうでしょうか？	general,shopping,weather
+2805	3	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,weather
+2805	4	USER	そうですか。でしたら、宮城野区ではなく、青葉区ではどうでしょうか？	general,shopping,weather
+2805	5	SYSTEM	ありがとうございます。錦ケ丘ヒルサイドモールはいかがでしょう？ジャンルは、ショッピングモールとなります。	general,shopping,weather
+2805	6	USER	助かります。そこで検討してみようと思います。このお店の住所ってわかりますか？	general,shopping,weather
+2805	7	SYSTEM	はい、住所は宮城県仙台市青葉区錦ヶ丘1丁目3-1となります。	general,shopping,weather
+2805	8	USER	ありがとうございます。最後に、当日の天候も調べて欲しいのですが、大丈夫でしょうか？	general,shopping,weather
+2805	9	SYSTEM	承知しました。ご希望のエリアと日付を教えていただけますか？	general,shopping,weather
+2805	10	USER	はい。12月17日の宮城野区でお願いします。	general,shopping,weather
+2805	11	SYSTEM	ありがとうございます。天気は雪のち曇、最低気温-1.6度、最高気温6.6度となります。	general,shopping,weather
+2805	12	USER	ありがとうございます。これで当日は大丈夫そうです。ご対応、ありがとうございました！	general,shopping,weather
+2805	13	SYSTEM	ありがとうございました。	general,shopping,weather

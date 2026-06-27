@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3009	0	USER	名古屋への旅行を計画しています。 当日買い物ができるところを探して欲しいです。	general,shopping,hotel,attraction
+3009	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,shopping,hotel,attraction
+3009	2	USER	最寄り駅が東枇杷島駅、ジャンルはショッピングモール、駐車場を無料で利用できるところにしてください。	general,shopping,hotel,attraction
+3009	3	SYSTEM	東枇杷島駅、ジャンルはショッピングモール、駐車場無料、全てをみたすところはなさそうです。	general,shopping,hotel,attraction
+3009	4	USER	そうなんですね。では、ジャンルは考慮しないものとします。	general,shopping,hotel,attraction
+3009	5	SYSTEM	東枇杷島駅で駐車場無料な買い物スポットならば、ベビーザらス 名西店、こちらになります。	general,shopping,hotel,attraction
+3009	6	USER	そのお店に関して、近辺の駅からの所要時間，住所を教えてほしいです。	general,shopping,hotel,attraction
+3009	7	SYSTEM	東枇杷島駅から徒歩で10分、浄心駅からなら徒歩で15分。住所は愛知県名古屋市西区名西2丁目33-8ヨシヅヤ名古屋名西店3階です。	general,shopping,hotel,attraction
+3009	8	USER	次に宿泊施設を探してください。駐車場を無料で利用できて、レストランが併設されているところ、地区は昭和区が希望です。	general,shopping,hotel,attraction
+3009	9	SYSTEM	昭和区で駐車場無料、レストラン併設の宿泊施設はなさそうです。	general,shopping,hotel,attraction
+3009	10	USER	なるほど。では地区は考えないことにします。	general,shopping,hotel,attraction
+3009	11	SYSTEM	名古屋でレストラン併設、駐車場無料の宿泊施設はいくつかありますが、ホテル いろは、こちらをお勧めします。	general,shopping,hotel,attraction
+3009	12	USER	その施設のタイプ，料金情報が知りたいです。	general,shopping,hotel,attraction
+3009	13	SYSTEM	タイプはビジネスホテル、値段帯は安めとなっていますが、料金情報詳細までは不明です。	general,shopping,hotel,attraction
+3009	14	USER	わかりました。では、予約してください。人数は4人で日付は6/3、宿泊日数は2泊です。	general,shopping,hotel,attraction
+3009	15	SYSTEM	予約成功しました。予約番号は38333です。	general,shopping,hotel,attraction
+3009	16	USER	あと、観光名所を探してください。駐車場を無料で利用できるところがいいです。地区は緑区希望です。	general,shopping,hotel,attraction
+3009	17	SYSTEM	緑区で駐車場無料の観光スポットはいくつかありますが、氷上姉子神社、こちらをオススメします。	general,shopping,hotel,attraction
+3009	18	USER	なるほど。そこの営業時間，料金情報，大人入場料が知りたいです。	general,shopping,hotel,attraction
+3009	19	SYSTEM	２４ｈ営業、大人入場料は０と書かれているのに、なぜか料金情報は不明となっています。不思議ですね。	general,shopping,hotel,attraction
+3009	20	USER	不思議ですが気にしないことにします！解決しました。ありがとうございました。	general,shopping,hotel,attraction

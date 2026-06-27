@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3045	0	USER	札幌へ旅行へ行くのですが、中央区で観光名所を探しています。	general,attraction
+3045	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,attraction
+3045	2	USER	駐車場が無料で散策エリアを希望しています。	general,attraction
+3045	3	SYSTEM	かしこまりました。では、北海道神宮はいかがでしょうか？	general,attraction
+3045	4	USER	いいですね。住所を教えてください。	general,attraction
+3045	5	SYSTEM	はい。住所は北海道札幌市中央区宮ケ丘474です。	general,attraction
+3045	6	USER	助かりました。	general,attraction
+3045	7	SYSTEM	いえいえ。他にご用件はございませんか？	general,attraction
+3045	8	USER	特にないです。ありがとうございました。	general,attraction
+3045	9	SYSTEM	承知しました。ありがとうございました。	general,attraction

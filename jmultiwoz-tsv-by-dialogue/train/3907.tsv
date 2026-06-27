@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3907	0	USER	那覇への旅行を計画中で、首里地区にある観光名所を探しています。無料Wi-fi付きがいいです。	general,attraction,shopping,weather
+3907	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,shopping,weather
+3907	2	USER	分かりました。では、Wi-fi付きでなくても結構です。	general,attraction,shopping,weather
+3907	3	SYSTEM	では、龍淵橋はいかがでしょう？ジャンルは、橋となります。	general,attraction,shopping,weather
+3907	4	USER	そこにしようと思います。定休日と子供入場料を教えてください。	general,attraction,shopping,weather
+3907	5	SYSTEM	はい、子供入場料は必要なく、無料でご利用いただけます。定休日はございません。	general,attraction,shopping,weather
+3907	6	USER	ありがとうございます。当日牧志駅にあるコンビニをさがしているのですが、ありますか？	general,attraction,shopping,weather
+3907	7	SYSTEM	はい、エリアでいうと本庁に、ローソン 那覇牧志公園前店がございます。	general,attraction,shopping,weather
+3907	8	USER	ありがとうございます。電話番号と駐車場の有無を教えてください。	general,attraction,shopping,weather
+3907	9	SYSTEM	はい、電話番号は、0988674355となります。申し訳ありません、駐車場の有無については不明です。	general,attraction,shopping,weather
+3907	10	USER	ありがとうございます。2/27の本庁の天気を教えてください。	general,attraction,shopping,weather
+3907	11	SYSTEM	はい、天気は晴、最低気温13.6度、最高気温20.5度となります。	general,attraction,shopping,weather
+3907	12	USER	助かります。ありがとうございます。	general,attraction,shopping,weather
+3907	13	SYSTEM	ありがとうございました。	general,attraction,shopping,weather

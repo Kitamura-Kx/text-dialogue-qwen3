@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1834	0	USER	札幌で買い物をしたいのですが、西18丁目駅が最寄で買い物ができる書籍店はありますか？	general,shopping
+1834	1	SYSTEM	申し訳ございません。その条件ですと、該当店舗がございません。	general,shopping
+1834	2	USER	そうなんですね。では、西18丁目駅近くじゃなくてよいので、駐車場無料のお店はありますか？	general,shopping
+1834	3	SYSTEM	はい、TSUTAYA 美しが丘などが駐車場無料でご利用いただけます。	general,shopping
+1834	4	USER	ありがとうございます。ではそちらのお店の、住所と電話番号、定休日を教えてください。	general,shopping
+1834	5	SYSTEM	かしこまりました。住所は北海道札幌市清田区美しが丘3条4丁目1番10号、電話番号は0118861111、定休日はございません。	general,shopping
+1834	6	USER	ありがとうございます。今日知りたいことは以上です。ありがとうございました。	general,shopping
+1834	7	SYSTEM	ご利用ありがとうございました。	general,shopping

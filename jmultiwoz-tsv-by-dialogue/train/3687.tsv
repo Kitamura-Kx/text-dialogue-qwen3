@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3687	0	USER	東京に旅行に行こうと思っています。当日買い物ができるところを教えてください。ジャンルはショッピングモールです。	general,shopping,taxi
+3687	1	SYSTEM	申し訳ございません。条件に合う店舗は見つかりませんでした。	general,shopping,taxi
+3687	2	USER	でしたら、ジャンルは何でもよいです。	general,shopping,taxi
+3687	3	SYSTEM	かしこまりました。では、京王百貨店新宿店はいかがでしょうか？	general,shopping,taxi
+3687	4	USER	そこが良さそうですね。そこの営業時間を教えてください。	general,shopping,taxi
+3687	5	SYSTEM	はい。営業時間は10:00～20:30です。	general,shopping,taxi
+3687	6	USER	あと当日利用できるタクシー会社を探しています。ジャンボタクシーが利用できるところが希望です。	general,shopping,taxi
+3687	7	SYSTEM	かしこまりました。では、高鉄交通はいかがでしょうか？	general,shopping,taxi
+3687	8	USER	そこの電話番号を教えてください。	general,shopping,taxi
+3687	9	SYSTEM	はい。電話番号は0120617212です。	general,shopping,taxi
+3687	10	USER	あとそこのタクシー会社に予約したいので日付は7/31で時間は11:00出発地は京王百貨店新宿店で目的地はグラスファクトリー 創吉でお願いします。	general,shopping,taxi
+3687	11	SYSTEM	かしこまりました。午前11時でよろしかったですか？	general,shopping,taxi
+3687	12	USER	はい午前１１時です。	general,shopping,taxi
+3687	13	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,shopping,taxi
+3687	14	USER	でしたら、11:40に変更します。	general,shopping,taxi
+3687	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、61461です。	general,shopping,taxi
+3687	16	USER	分かりました。ありがとうございます。	general,shopping,taxi
+3687	17	SYSTEM	はい。他にご用件はございませんか？	general,shopping,taxi
+3687	18	USER	はい、大丈夫です。	general,shopping,taxi
+3687	19	SYSTEM	承知いたしました。ありがとうございました。	general,shopping,taxi

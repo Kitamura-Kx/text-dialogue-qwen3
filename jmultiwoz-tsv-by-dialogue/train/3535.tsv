@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3535	0	USER	仙台に行くのですが、若林区で飲食店を探しています。	general,restaurant
+3535	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,restaurant
+3535	2	USER	Wi-Fiが無料のところがいいです。	general,restaurant
+3535	3	SYSTEM	では酒飯場 ででででんはいかがでしょうか。	general,restaurant
+3535	4	USER	ジャンルはどういった感じになるのですか？	general,restaurant
+3535	5	SYSTEM	ジャンルは居酒屋でございます。	general,restaurant
+3535	6	USER	定休日を教えてください。	general,restaurant
+3535	7	SYSTEM	定休日は無しでございます。	general,restaurant
+3535	8	USER	ありがとうございます。	general,restaurant
+3535	9	SYSTEM	ほかにご用件はございませんか。	general,restaurant
+3535	10	USER	ありません。	general,restaurant
+3535	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1881	0	USER	こんにちは！今、旅行で東京に行くことを考えていまして、宿泊施設を探していただけますか？	general,hotel,weather
+1881	1	SYSTEM	かしこまりました。何か他の希望の要件はございますか？	general,hotel,weather
+1881	2	USER	レストランが併設されてて、予算は安め、駐車場が無料で使える所、この３つの条件で探してもらえますか？	general,hotel,weather
+1881	3	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,hotel,weather
+1881	4	USER	そうなんですね。じゃぁ、駐車場については条件から外してください。	general,hotel,weather
+1881	5	SYSTEM	かしこまりました。では、ホテル江戸屋はいかがでしょうか？	general,hotel,weather
+1881	6	USER	ありがとうございます！そちらのホテルのチェックアウト終了時刻は何時ごろですか？	general,hotel,weather
+1881	7	SYSTEM	はい。チェックアウト終了時刻は12:00です。	general,hotel,weather
+1881	8	USER	そうなんですね！わかりました。えっと、あと、中野区の6月1日の天候についても調べていただけますか？	general,hotel,weather
+1881	9	SYSTEM	かしこまりました。6/1の中野区の天気予報は曇時々晴となっております。最低気温は23.3度、最高気温は23.7度になる予報です。	general,hotel,weather
+1881	10	USER	わかりました。ありがとうございます！	general,hotel,weather
+1881	11	SYSTEM	他にご用件はありますか？	general,hotel,weather
+1881	12	USER	あとは大丈夫です！この度は、ご案内ありがとうございました！	general,hotel,weather
+1881	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

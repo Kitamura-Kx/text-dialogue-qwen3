@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3924	0	USER	名古屋への旅行を計画中で、無料のWi-fiと駐車場のある宿泊施設を探しています。予算は普通がいいです。	general,hotel,shopping,weather
+3924	1	SYSTEM	かしこまりました。駐車場も無料がご希望でしょうか？その場合ですと、ご案内できるところがありませんでした。	general,hotel,shopping,weather
+3924	2	USER	はい、そうです。では、駐車場は無くても構いません。	general,hotel,shopping,weather
+3924	3	SYSTEM	ありがとうございます。そうしましたら、菊の屋 はなれ、という中村区エリアの宿泊施設はいかがでしょうか？	general,hotel,shopping,weather
+3924	4	USER	そこにしようと思います。料金情報と宿のタイプ、最寄り駅を教えてください。	general,hotel,shopping,weather
+3924	5	SYSTEM	料金ですが、お値段帯が普通であること以外、詳しい情報は不明です。申し訳ありません。宿のタイプは、その他となっております。最寄り駅は、中村区役所駅です。	general,hotel,shopping,weather
+3924	6	USER	ありがとうございます。9/20に4名で4泊予約して欲しいのですが可能でしょうか	general,hotel,shopping,weather
+3924	7	SYSTEM	はい、ありがとうございます。ご予約完了いたしました。予約番号は、93378です。	general,hotel,shopping,weather
+3924	8	USER	ありがとうございます。当日中川区で医薬品・化粧品を買いたいと考えています。無料駐車場付きのお店が良いのですが、ありますか？	general,hotel,shopping,weather
+3924	9	SYSTEM	はい、1件ご案内可能です。ゲンキー富船店というお店ですが、いかがでしょうか？	general,hotel,shopping,weather
+3924	10	USER	そこにしようと思います。住所と電話番号を教えてください。	general,hotel,shopping,weather
+3924	11	SYSTEM	住所は、愛知県名古屋市中川区富船町3丁目1-1です。電話番号は、0523651470でございます。	general,hotel,shopping,weather
+3924	12	USER	ありがとうございます。9/20の中村区の最低気温を教えてください。	general,hotel,shopping,weather
+3924	13	SYSTEM	かしこまりました。当日の最低気温は、19.4度の予想となっております。	general,hotel,shopping,weather
+3924	14	USER	助かります。ありがとうございます。	general,hotel,shopping,weather
+3924	15	SYSTEM	他になにかお知りになりたい情報などはございませんか？	general,hotel,shopping,weather
+3924	16	USER	いえ、大丈夫です。ありがとうございました。	general,hotel,shopping,weather
+3924	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,shopping,weather

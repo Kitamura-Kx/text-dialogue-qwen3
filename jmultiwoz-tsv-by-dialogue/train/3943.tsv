@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3943	0	USER	那覇の飲食店を教えていただけますか？予算高めの和食が希望です。	general,restaurant,taxi
+3943	1	SYSTEM	お待たせ致しました。それではおもろダイニング 山葵はいかがでしょうか？	general,restaurant,taxi
+3943	2	USER	いいですね、エリアはどちらになりますか？	general,restaurant,taxi
+3943	3	SYSTEM	エリアは本庁でございます。	general,restaurant,taxi
+3943	4	USER	よければ、電話番号も教えてください。	general,restaurant,taxi
+3943	5	SYSTEM	申し訳ありません。電話番号は分かりません。	general,restaurant,taxi
+3943	6	USER	そうなんですね。わかりました。	general,restaurant,taxi
+3943	7	SYSTEM	その他にご用件はございますか？	general,restaurant,taxi
+3943	8	USER	はい。タクシー会社も探しています。	general,restaurant,taxi
+3943	9	SYSTEM	はい、那覇のタクシーでしたら、沖東交通グループさんはいかがでしょうか？	general,restaurant,taxi
+3943	10	USER	そこはキャッシュレス払いはできますか？	general,restaurant,taxi
+3943	11	SYSTEM	申し訳ありません。キャッシュレスの有無については分かりません。	general,restaurant,taxi
+3943	12	USER	わかりました。ジャンボタクシーには対応していますか？	general,restaurant,taxi
+3943	13	SYSTEM	はい、対応しております。	general,restaurant,taxi
+3943	14	USER	では、そこの電話番号もお願いします。	general,restaurant,taxi
+3943	15	SYSTEM	はい、0989465654でございます。	general,restaurant,taxi
+3943	16	USER	予約もしたいのですが。	general,restaurant,taxi
+3943	17	SYSTEM	はい、日程等お伺いいたします。	general,restaurant,taxi
+3943	18	USER	6月９日の10:40に先程の飲食店から、ブラックハーレムというところまでお願いします。	general,restaurant,taxi
+3943	19	SYSTEM	先ほどの飲食店の名称をお願いいたします。	general,restaurant,taxi
+3943	20	USER	おもろダイニング 山葵です。	general,restaurant,taxi
+3943	21	SYSTEM	ありがとうございます。それでは予約番号77066でお取りさせていただきました。	general,restaurant,taxi
+3943	22	USER	ありがとうございます。お手数おかけしました。	general,restaurant,taxi
+3943	23	SYSTEM	その他にご用件はございますか？	general,restaurant,taxi
+3943	24	USER	ありません。ありがとうございました。	general,restaurant,taxi
+3943	25	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,taxi

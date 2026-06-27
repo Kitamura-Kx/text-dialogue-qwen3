@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2933	0	USER	仙台に行くのですが、宿泊施設を探しています。	general,hotel,restaurant,weather
+2933	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,hotel,restaurant,weather
+2933	2	USER	レストランが併設されていて、Wi-Fiが無料のところがいいです。	general,hotel,restaurant,weather
+2933	3	SYSTEM	仙台でWiFi無料、レストラン併設の宿泊施設は多数ありますが、ホテルメトロポリタン仙台をお勧めします。	general,hotel,restaurant,weather
+2933	4	USER	予算は普通がいいのですが、そちらはどうですか？	general,hotel,restaurant,weather
+2933	5	SYSTEM	メトロポリタンは高めになってしまいますね。仙台でWiFi無料、レストラン併設、値段帯普通の中だと、アパホテル<仙台勾当台公園>、こちらがオススメです。	general,hotel,restaurant,weather
+2933	6	USER	いいですね。どういうタイプのホテルですか？	general,hotel,restaurant,weather
+2933	7	SYSTEM	ビジネスホテルです。	general,hotel,restaurant,weather
+2933	8	USER	チェックアウト終了時刻と住所も知りたいです。	general,hotel,restaurant,weather
+2933	9	SYSTEM	チェックアウトは１１時終了、住所は宮城県仙台市青葉区二日町4-10になります。	general,hotel,restaurant,weather
+2933	10	USER	7/10から2泊、3人で予約をお願いしたいです。	general,hotel,restaurant,weather
+2933	11	SYSTEM	予約成功しました。予約番号は44382です。	general,hotel,restaurant,weather
+2933	12	USER	あと宮城野区で焼肉・ホルモンが食べれるところを探しています。	general,hotel,restaurant,weather
+2933	13	SYSTEM	宮城野区で焼肉ホルモンならば、仙台らしく、黒毛和牛一頭切り 伊達哉、こちらをオススメします。	general,hotel,restaurant,weather
+2933	14	USER	駐車場が無料なところがいいのですが、そちらはどうですか？	general,hotel,restaurant,weather
+2933	15	SYSTEM	こちらは駐車場はありません。宮城野区で焼肉ホルモンだともう一軒あるのですが、そちらは有料駐車場になってしまいます。	general,hotel,restaurant,weather
+2933	16	USER	じゃ宮城野区でなくてもいいです。	general,hotel,restaurant,weather
+2933	17	SYSTEM	仙台で焼肉ホルモン、駐車場無料だと、ときわ亭 上杉店をお勧めします。	general,hotel,restaurant,weather
+2933	18	USER	いいですね。値段帯はどうなっていますか？	general,hotel,restaurant,weather
+2933	19	SYSTEM	値段帯は安めです。	general,hotel,restaurant,weather
+2933	20	USER	営業時間と住所も伺いたいです。	general,hotel,restaurant,weather
+2933	21	SYSTEM	営業時間は夕方５時から夜１２時まで、住所は宮城県仙台市青葉区上杉3丁目3-9になります。	general,hotel,restaurant,weather
+2933	22	USER	ちなみに宮城野区ですが、7/10の天気はわかりますか？	general,hotel,restaurant,weather
+2933	23	SYSTEM	7/10 仙台 宮城野区 の天気は雨のち曇、最低気温19.7度、最高気温24.2度です。	general,hotel,restaurant,weather
+2933	24	USER	ありがとうございました。	general,hotel,restaurant,weather
+2933	25	SYSTEM	よい旅を。	general,hotel,restaurant,weather

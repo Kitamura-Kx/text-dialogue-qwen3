@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2295	0	USER	札幌へ旅行を計画しています。北区で無料のWi-Fiが使える観光名所はありますか？	general,attraction
+2295	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction
+2295	2	USER	そうですか、では豊平区でもう一度探してほしいです。	general,attraction
+2295	3	SYSTEM	かしこまりました。では、札幌ドームはいかがでしょうか？	general,attraction
+2295	4	USER	そちらの子供の入場料を教えてほしいです。	general,attraction
+2295	5	SYSTEM	700円となっております。	general,attraction
+2295	6	USER	ありがとうございます。ご依頼は以上です。	general,attraction
+2295	7	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,attraction

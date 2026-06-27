@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1910	0	USER	こんにちは。那覇へ行くので、宿泊施設を探しています。真和志地区で、レストランがあって、予算が休めの所はありますか？	general,hotel,shopping
+1910	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,shopping
+1910	2	USER	それではレストランがなくてもいいので、予算お安めの真和志地区でお願いします。	general,hotel,shopping
+1910	3	SYSTEM	ではアクロスおもろまち那覇はいかがでしょうか。	general,hotel,shopping
+1910	4	USER	ありがとうございます。そちらの宿泊施設のタイプと、住所を教えていただけますか？	general,hotel,shopping
+1910	5	SYSTEM	宿泊施設のタイプはその他、住所は沖縄県那覇市真嘉比2丁目5-27でございます。	general,hotel,shopping
+1910	6	USER	すみませんが、買い物ができるところも探しています。百貨店や総合スーパーで、駐車場が無料のところはありますか？	general,hotel,shopping
+1910	7	SYSTEM	かしこまりました。ではデパートリウボウはいかがでしょうか。	general,hotel,shopping
+1910	8	USER	ありがとうございます。そこはどのエリアになりますか？あと営業時間も知りたいです。	general,hotel,shopping
+1910	9	SYSTEM	エリアは本庁、営業時間は10:00～20:00でございます。	general,hotel,shopping
+1910	10	USER	どうもありがとうございました。助かりました。	general,hotel,shopping
+1910	11	SYSTEM	ほかにご用件はございますか。	general,hotel,shopping
+1910	12	USER	いえ、大丈夫です。どうもありがとうございました。	general,hotel,shopping
+1910	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,shopping

@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4434	0	USER	那覇へ旅行するので、真和志にあるシティホテルを探してもらえますか？レストランが併設されているところにしてください。	general,hotel
+4434	1	SYSTEM	承知しました。では、ホテルロイヤルオリオンはいかがでしょう？	general,hotel
+4434	2	USER	そこにします。住所と値段帯、あと駐車場があるか教えてください。	general,hotel
+4434	3	SYSTEM	はい、住所は、沖縄県那覇市安里1丁目2-21、値段帯は安め、駐車場は有料ですがご利用いただけます。	general,hotel
+4434	4	USER	わかりました。では、3人で3/4から2泊の予約をお願いしていいですか？	general,hotel
+4434	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、59633となります。	general,hotel
+4434	6	USER	ありがとうございました。	general,hotel
+4434	7	SYSTEM	ありがとうございました。	general,hotel

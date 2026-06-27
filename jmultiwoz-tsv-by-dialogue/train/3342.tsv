@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3342	0	USER	東京へ旅行したいと考えているのですが、江東区で当日見て回れる観光名所はありますでしょうか。	general,attraction,restaurant
+3342	1	SYSTEM	teamLab Planets TOKYOは、いかがでしょうか？	general,attraction,restaurant
+3342	2	USER	ありがとうございます。ではそこに行こうと思います。住所と近辺の駅からの所要時間をお聞きしてもよろしいでしょうか。	general,attraction,restaurant
+3342	3	SYSTEM	住所は、東京都江東区豊洲6丁目1-16です。　所要時間は、新豊洲駅から徒歩で1分となっています。	general,attraction,restaurant
+3342	4	USER	ありがとうございます。あと当日食事ができる場所を探しているのですが、最寄りが東京駅の居酒屋はあるでしょうか。	general,attraction,restaurant
+3342	5	SYSTEM	SUSHI SAKE いぶき 東京駅 TEKKO avenue店は、いかがですか？	general,attraction,restaurant
+3342	6	USER	ありがとうございます。そこに行こうと思います。そのお店の住所をお聞きしてもよろしいですか？	general,attraction,restaurant
+3342	7	SYSTEM	住所は、東京都千代田区丸の内1丁目8-2 鉄鋼ビル B1Fです。	general,attraction,restaurant
+3342	8	USER	ありがとうございます。ちなみにですがWiFiはありますか？	general,attraction,restaurant
+3342	9	SYSTEM	申し訳ありません、Wi-Fi利用につきましては、不明となっています。	general,attraction,restaurant
+3342	10	USER	分かりました、大丈夫です。では6月30日の11:00に3人で予約をしたいのですが可能でしょうか。	general,attraction,restaurant
+3342	11	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,attraction,restaurant
+3342	12	USER	では時間を11:40に変更した場合は可能でしょうか。	general,attraction,restaurant
+3342	13	SYSTEM	予約出来ました。予約番号は、26134です。	general,attraction,restaurant
+3342	14	USER	ありがとうございます。お聞きしたい事は以上になります。丁寧にサポートしていただきありがとうございました。	general,attraction,restaurant
+3342	15	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant

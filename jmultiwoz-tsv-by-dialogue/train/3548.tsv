@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3548	0	USER	札幌の飲食店を探してほしいです。	general,restaurant,shopping,attraction
+3548	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,shopping,attraction
+3548	2	USER	最寄り駅が南平岸駅、駐車場無料、Wi-Fi無料が希望です。	general,restaurant,shopping,attraction
+3548	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,shopping,attraction
+3548	4	USER	そうなんですか。では、最寄駅は条件から外してください。	general,restaurant,shopping,attraction
+3548	5	SYSTEM	ではパーラーエノキはいかがでしょうか。	general,restaurant,shopping,attraction
+3548	6	USER	そこにします。料金情報，値段帯を教えてください。	general,restaurant,shopping,attraction
+3548	7	SYSTEM	料金情報は不明でございます。値段帯は普通となっております。	general,restaurant,shopping,attraction
+3548	8	USER	続いて買い物ができるところを探してほしいです。ジャンルはお土産、駐車場を無料で利用できるところにしてください。	general,restaurant,shopping,attraction
+3548	9	SYSTEM	ではポケモンセンターサッポロはいかがですか。	general,restaurant,shopping,attraction
+3548	10	USER	住所，最寄り駅を教えてください。	general,restaurant,shopping,attraction
+3548	11	SYSTEM	住所は北海道札幌市中央区北5条西4丁目4-7 大丸札幌店 8Fで、最寄り駅は札幌駅でございます。	general,restaurant,shopping,attraction
+3548	12	USER	あと、最寄り駅が学園前駅、地区は南区で観光名所を探してください。	general,restaurant,shopping,attraction
+3548	13	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,shopping,attraction
+3548	14	USER	では、最寄り駅は考慮しないものとします。	general,restaurant,shopping,attraction
+3548	15	SYSTEM	では札幌市豊平川さけ科学館はいかがでしょうか。	general,restaurant,shopping,attraction
+3548	16	USER	Wi-Fiの有無はどうなっていますか。	general,restaurant,shopping,attraction
+3548	17	SYSTEM	Wi-Fiの有無は不明でございます。	general,restaurant,shopping,attraction
+3548	18	USER	解決しました。対応ありがとうございました。	general,restaurant,shopping,attraction
+3548	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,attraction

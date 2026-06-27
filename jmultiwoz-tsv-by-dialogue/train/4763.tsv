@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4763	0	USER	東京への旅行を計画していて、当日のタクシー会社を探しています。ジャンボタクシーが利用できるところ、キャッシュレス払い対応があるところが希望です。	general,taxi
+4763	1	SYSTEM	承知しました。小金井交通はいかがでしょうか？	general,taxi
+4763	2	USER	ありがとうございます。そのタクシー会社にしようと思います。電話番号は分かりますか？	general,taxi
+4763	3	SYSTEM	電話番号は0423811482です。	general,taxi
+4763	4	USER	ありがとうございます。そのタクシーを予約したいのですが、9/23の09：30から、出発地はコスモプラネタリウム渋谷、目的地はマンゴツリー東京で予約をお願い出来ますか？	general,taxi
+4763	5	SYSTEM	申し訳ありません。予約ができませんでした。	general,taxi
+4763	6	USER	そうですか。では、時間を10：30からに変更します。	general,taxi
+4763	7	SYSTEM	予約が完了しました。予約番号は33238です。	general,taxi
+4763	8	USER	ありがとうございました。	general,taxi
+4763	9	SYSTEM	他にご用件はありますか？	general,taxi
+4763	10	USER	いえ、他にはありません。ありがとうございました。	general,taxi
+4763	11	SYSTEM	ありがとうございました。又のご利用をお待ちしています。	general,taxi

@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1982	0	USER	名古屋でWi-Fiが無料で安めに食事ができる店を探しています。	general,restaurant,taxi
+1982	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,restaurant,taxi
+1982	2	USER	ではWi-Fiはなくても大丈夫です。	general,restaurant,taxi
+1982	3	SYSTEM	ありがとうございます。そうしますと、11件ほどご案内可能です。その中の1つ、ヨコイ 住吉本店というお店はいかがでしょうか？ジャンルは、イタリアン・フレンチ, 洋食・西洋料理, カレーでございます。	general,restaurant,taxi
+1982	4	USER	料金情報も教えて頂けますか？	general,restaurant,taxi
+1982	5	SYSTEM	はい。料金は、ミラカン970円,ミラネーズ870円といったものがございます。	general,restaurant,taxi
+1982	6	USER	なるほど。そのお店を予約したいです。	general,restaurant,taxi
+1982	7	SYSTEM	ありがとうございます。ご利用予定の日付と時刻、人数はお決まりでしょうか？	general,restaurant,taxi
+1982	8	USER	12/30の12：10に4人でお願いします。	general,restaurant,taxi
+1982	9	SYSTEM	かしこまりました。ご予約完了いたしました。予約番号は、89072でございます。	general,restaurant,taxi
+1982	10	USER	ありがとうございます。そのお店まで行くのにジャンボタクシーも探しています。	general,restaurant,taxi
+1982	11	SYSTEM	では、東海交通はいかがでしょうか？	general,restaurant,taxi
+1982	12	USER	キャッシュレス払いはできますか？	general,restaurant,taxi
+1982	13	SYSTEM	はい、キャッシュレスのお支払いをご利用いただけます。	general,restaurant,taxi
+1982	14	USER	ではそこにします。電話番号を教えてください。	general,restaurant,taxi
+1982	15	SYSTEM	ありがとうございます。電話番号は、0532571111でございます。	general,restaurant,taxi
+1982	16	USER	ありがとうございます。12/30の11：00にくれたけインプレミアム名駅南から予約したいです。	general,restaurant,taxi
+1982	17	SYSTEM	ありがとうございます。お手数ですが、目的地につきましても、確認させていただけますでしょうか？	general,restaurant,taxi
+1982	18	USER	さきほどのお店でお願いします。ヨコイ 住吉本店までです。	general,restaurant,taxi
+1982	19	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、34151です。	general,restaurant,taxi
+1982	20	USER	ありがとうございました。	general,restaurant,taxi
+1982	21	SYSTEM	ほかにお手伝いすることはございませんか？	general,restaurant,taxi
+1982	22	USER	大丈夫です。	general,restaurant,taxi
+1982	23	SYSTEM	承知いたしました。本日はご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせください。	general,restaurant,taxi

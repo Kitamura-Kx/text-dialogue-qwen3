@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2837	0	USER	こんにちは。東京旅行のときに、最寄り駅幡ヶ谷駅で駐車場が無料で使える、飲食店探してるんですけど、何かないですか？	general,restaurant,taxi
+2837	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,restaurant,taxi
+2837	2	USER	わかりました。じゃあ駐車場はなくてもいいので、探してもらえますか？	general,restaurant,taxi
+2837	3	SYSTEM	はい、エリアでいうと渋谷区に、熊本牧場直営 木本商店がございます。ジャンルは、居酒屋、郷土料理、となります。	general,restaurant,taxi
+2837	4	USER	ありがとうございます。そのお店の近辺の駅からの所要時間と値段帯ってわかりますか？	general,restaurant,taxi
+2837	5	SYSTEM	はい、値段帯は普通、最寄りの幡ヶ谷駅から徒歩で11分となります。	general,restaurant,taxi
+2837	6	USER	ありがとうございます。予約もお願いできますか？4人で2/25の11:20にお願いします。	general,restaurant,taxi
+2837	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、51641となります。他にご用件はございますか？	general,restaurant,taxi
+2837	8	USER	ありがとうございます。当日使用するタクシーも探してほしいです。キャッシュレス払いができるところでお願いします。	general,restaurant,taxi
+2837	9	SYSTEM	では、キャピタルオートはいかがでしょう？ジャンボタクシーにも対応しております。電話番号は0357552151となります。	general,restaurant,taxi
+2837	10	USER	ありがとうございます。ではそのタクシー会社で、2/25の10:00、出発地はホテルサニーで、目的地は熊本牧場直営 木本商店で予約をお願いします。	general,restaurant,taxi
+2837	11	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,restaurant,taxi
+2837	12	USER	時間を10：50に変更したら予約できますか？	general,restaurant,taxi
+2837	13	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、38793となります。他にご案内できることはございますか？	general,restaurant,taxi
+2837	14	USER	ありがとうございます。いえ、これで全てです。ありがとうございました。	general,restaurant,taxi
+2837	15	SYSTEM	ありがとうございました。	general,restaurant,taxi

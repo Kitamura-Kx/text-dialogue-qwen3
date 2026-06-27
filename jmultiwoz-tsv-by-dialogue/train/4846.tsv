@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4846	0	USER	福岡の東区でレストランがあって駐車場が無料の宿泊施設はありますか？	general,hotel,taxi
+4846	1	SYSTEM	それでしたら、The358 UMIはいかがですか？	general,hotel,taxi
+4846	2	USER	このホテルの電話番号を教えてください。	general,hotel,taxi
+4846	3	SYSTEM	電話番号は、0926651717です。	general,hotel,taxi
+4846	4	USER	ありがとうございます。4/25から4泊、4人で予約してほしいです。	general,hotel,taxi
+4846	5	SYSTEM	予約出来ました。予約番号は、87505になります。	general,hotel,taxi
+4846	6	USER	ありがとうございます。あと同じ日に利用するジャンボタクシーも探してほしいです。キャッシュレス払いができるところでお願いします。	general,hotel,taxi
+4846	7	SYSTEM	では、日新交通（株）はいかがですか？	general,hotel,taxi
+4846	8	USER	ここにします。4/25の9：40にThe358 UMIからBOOKRIVERまでのタクシーを予約したいです。	general,hotel,taxi
+4846	9	SYSTEM	予約出来ました。予約番号は、22112です。	general,hotel,taxi
+4846	10	USER	ありがとうございました。	general,hotel,taxi
+4846	11	SYSTEM	他にご用件はありますか？	general,hotel,taxi
+4846	12	USER	大丈夫です。	general,hotel,taxi
+4846	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,taxi

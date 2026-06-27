@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2960	0	USER	今度札幌へ行くんですが、駐車場が無料の買い物施設を探してもらえますか？	general,shopping,taxi
+2960	1	SYSTEM	承知しました。エリアでいうと中央区にある、エスタはいかがでしょう？ジャンルは、ショッピングモールとなります。	general,shopping,taxi
+2960	2	USER	ありがとうございます。じゃあそこの定休日と電話番号も教えてください。	general,shopping,taxi
+2960	3	SYSTEM	はい、電話番号は0112132111となります。定休日はございません。	general,shopping,taxi
+2960	4	USER	ありがとうございます。あと、昭和交通(株)というタクシーを利用するんですが、電話番号はわかりますか？	general,shopping,taxi
+2960	5	SYSTEM	はい、電話番号は0117811525となります。	general,shopping,taxi
+2960	6	USER	ありがとうございます。では予約をお願いできますか？2/28の9：40にエスタを出発して、北海しゃぶしゃぶ すすきの本店まで利用したいです。	general,shopping,taxi
+2960	7	SYSTEM	申し訳ありません、この条件では予約ができませんでした。いかが致しましょう？	general,shopping,taxi
+2960	8	USER	そうですか。じゃあ10：20に変更します。	general,shopping,taxi
+2960	9	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、636となります。	general,shopping,taxi
+2960	10	USER	ありがとうございました。以上で結構です。	general,shopping,taxi
+2960	11	SYSTEM	ありがとうございました。	general,shopping,taxi

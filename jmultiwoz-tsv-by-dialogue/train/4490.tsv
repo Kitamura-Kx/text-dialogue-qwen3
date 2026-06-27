@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4490	0	USER	横浜に旅行に行く計画をしているのですが、中区に予算高めで鍋が食べられるお店はありますか。	general,restaurant
+4490	1	SYSTEM	はい、1件ご案内可能です。関内駅から徒歩で4分の場所にある、割烹SOUというお店ですが、いかがでしょうか？	general,restaurant
+4490	2	USER	ありがとうございます。そこにしようと思います。駅からはどのくらいかかりますか。	general,restaurant
+4490	3	SYSTEM	はい、最寄りの関内駅から徒歩で4分ほどの場所にございます。	general,restaurant
+4490	4	USER	わかりました。では4/25の午後2時に4人で予約をお願いします。	general,restaurant
+4490	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、73954です。	general,restaurant
+4490	6	USER	ありがとうございます。これで大丈夫です。	general,restaurant
+4490	7	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,restaurant

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3870	0	USER	今度、京都に行く予定です。神社・寺院・教会・モニュメントなどの観光名所で無料Wi-Fiがある所を紹介してください。	general,attraction,shopping,weather
+3870	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,attraction,shopping,weather
+3870	2	USER	そうですか。では、無料Wi-Fiがある観光名所で良いので、教えて下さい。	general,attraction,shopping,weather
+3870	3	SYSTEM	国立京都国際会館はいかがでしょうか。	general,attraction,shopping,weather
+3870	4	USER	良さそうですね。そこは子どもの入場料はいくらですか？	general,attraction,shopping,weather
+3870	5	SYSTEM	子どもの入場料は不明となっております。	general,attraction,shopping,weather
+3870	6	USER	それでは、電話番号を教えて下さい。	general,attraction,shopping,weather
+3870	7	SYSTEM	電話番号は0757051218でございます。	general,attraction,shopping,weather
+3870	8	USER	ありがとうございます。それから、南区で買いものができる場所も教えていただけますか？	general,attraction,shopping,weather
+3870	9	SYSTEM	では、ABC−MART 京都アバンティ店はいかがでしょうか。	general,attraction,shopping,weather
+3870	10	USER	はい、そこに行ってみます。どんなジャンルのお店ですか？営業時間も教えて下さい。	general,attraction,shopping,weather
+3870	11	SYSTEM	ジャンルはファッション, スポーツでございます。営業時間 は10:00～21:00でございます。	general,attraction,shopping,weather
+3870	12	USER	ありがとうございます。最後に9月16日の西京区の最低気温を教えて下さい。	general,attraction,shopping,weather
+3870	13	SYSTEM	最低気温は19.3度でございます。	general,attraction,shopping,weather
+3870	14	USER	ありがとうございました。助かりました。それでは失礼します。	general,attraction,shopping,weather

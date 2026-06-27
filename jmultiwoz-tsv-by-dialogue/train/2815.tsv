@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2815	0	USER	札幌への旅行を計画しております。清田区で医薬品・化粧品が買えるところを探しているのですがどこかありますか？	general,shopping,taxi
+2815	1	SYSTEM	はい、TSUTAYA 美しが丘というお店が1件ご案内できます。いかがでしょうか？	general,shopping,taxi
+2815	2	USER	そちらの電話番号を教えてください。	general,shopping,taxi
+2815	3	SYSTEM	0118861111でございます。	general,shopping,taxi
+2815	4	USER	ありがとうございます。次に当日タクシーを利用したく、キャッシュレス払いが可能なところで探してほしいです。	general,shopping,taxi
+2815	5	SYSTEM	かしこまりました。12件の会社をご案内できます。たとえば、恊和交通(株)というところでしたら、ジャンボタクシーもご利用いただけますよ。	general,shopping,taxi
+2815	6	USER	そちらの電話番号を教えていただけますか？	general,shopping,taxi
+2815	7	SYSTEM	はい。0118751211でございます。	general,shopping,taxi
+2815	8	USER	ありがとうございます。それでは予約をお願いします。日時は1/9、11:00で出発地はTSUTAYA 美しが丘から砥山ふれあい果樹園まででお願いします。	general,shopping,taxi
+2815	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、46335でございます。	general,shopping,taxi
+2815	10	USER	承知しました。こちらからの問い合わせは以上です。	general,shopping,taxi
+2815	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,taxi

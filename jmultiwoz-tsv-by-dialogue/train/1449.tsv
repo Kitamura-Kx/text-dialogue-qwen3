@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1449	0	USER	大阪へ旅行に行くんですが、買い物ができるところを探して欲しいです！	general,shopping,taxi
+1449	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,taxi
+1449	2	USER	中央区で、家電・電化製品を買いたいです！駐車場は無料のところでお願いします！	general,shopping,taxi
+1449	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,taxi
+1449	4	USER	では、家電・電化製品を買えるところじゃなくても大丈夫です！	general,shopping,taxi
+1449	5	SYSTEM	ではもりのみやキューズモールBASEはいかがですか。	general,shopping,taxi
+1449	6	USER	いいですね！ありがとうございます。キャッシュレス払いができるタクシー会社も探していただけますか？	general,shopping,taxi
+1449	7	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,taxi
+1449	8	USER	では、キャッシュレス払いじゃなくても大丈夫です。	general,shopping,taxi
+1449	9	SYSTEM	では関西空港リムジン株式会社はいかがでしょうか。こちらジャンボタクシーには対応しております。	general,shopping,taxi
+1449	10	USER	ありがとうございます。電話番号は分かりますか？	general,shopping,taxi
+1449	11	SYSTEM	電話番号は0570072525でございます。	general,shopping,taxi
+1449	12	USER	では予約をお願いします！もりのみやキューズモールBASEを出発して、まほろば囲炉裏 心斎橋まで行きたいです！	general,shopping,taxi
+1449	13	SYSTEM	かしこまりました。では、ご予約の日時を教えていただけますか。	general,shopping,taxi
+1449	14	USER	7/13の10:00でお願いします。	general,shopping,taxi
+1449	15	SYSTEM	はい。予約が完了いたしました。予約番号は16964でございます。	general,shopping,taxi
+1449	16	USER	大変助かりました！ありがとうございました。	general,shopping,taxi
+1449	17	SYSTEM	ほかにご用件はございますか。	general,shopping,taxi
+1449	18	USER	これで大丈夫です。	general,shopping,taxi
+1449	19	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

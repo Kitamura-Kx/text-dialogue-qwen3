@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3006	0	USER	福岡への旅行を計画しています。 当日食事ができる飲食店を探してください。	general,restaurant,hotel,taxi
+3006	1	SYSTEM	ご希望の条件をおきかせください。	general,restaurant,hotel,taxi
+3006	2	USER	駐車場を無料で利用できるところにしてください。あと、Wi-Fiが無料で利用できるところにしてください。	general,restaurant,hotel,taxi
+3006	3	SYSTEM	福岡で駐車場とWiFiが無料の飲食店はなさそうです。	general,restaurant,hotel,taxi
+3006	4	USER	そうですか。ではWi-Fiはなしでお願いします。	general,restaurant,hotel,taxi
+3006	5	SYSTEM	福岡で駐車場無料の飲食店はいくつかありますが、旬や みなくちをオススメします。	general,restaurant,hotel,taxi
+3006	6	USER	そちらのジャンル，料金情報を教えてください。	general,restaurant,hotel,taxi
+3006	7	SYSTEM	ジャンルは和食, 寿司・魚料理, 居酒屋、本日の刺身790円、馬刺しは赤身やタテガミが入って1600円、明太子の藁焼620円、こんな感じです。	general,restaurant,hotel,taxi
+3006	8	USER	宿泊施設も探して欲しいです。条件はレストランが併設されていること、Wi-Fiを無料で利用できるところが希望です。	general,restaurant,hotel,taxi
+3006	9	SYSTEM	福岡でWiFi無料でレストラン併設の宿泊施設は４３件ありますが、ソラリア西鉄ホテル福岡をお勧めします。	general,restaurant,hotel,taxi
+3006	10	USER	次にキャッシュレス払いできるタクシー会社を探して欲しいです。	general,restaurant,hotel,taxi
+3006	11	SYSTEM	福岡でキャッシュレス対応のタクシー会社はなさそうです。	general,restaurant,hotel,taxi
+3006	12	USER	そうですか。では、キャッシュレス対応でなくともよいです。	general,restaurant,hotel,taxi
+3006	13	SYSTEM	それでは、（有）春吉タクシーをお勧めします。	general,restaurant,hotel,taxi
+3006	14	USER	そちらの電話番号が知りたいです。	general,restaurant,hotel,taxi
+3006	15	SYSTEM	0924778484です。	general,restaurant,hotel,taxi
+3006	16	USER	では予約してください。日付は7/14、時間は10:50、出発地は旬や みなくち、目的地はソラリア西鉄ホテル福岡でお願いします。	general,restaurant,hotel,taxi
+3006	17	SYSTEM	予約成功しました。予約番号は47423です。	general,restaurant,hotel,taxi
+3006	18	USER	解決しました。ありがとうございました。	general,restaurant,hotel,taxi

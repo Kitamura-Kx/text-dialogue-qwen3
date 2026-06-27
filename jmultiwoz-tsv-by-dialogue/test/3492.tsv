@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3492	0	USER	福岡に旅行に行くので観光名所を探してほしいです	general,attraction
+3492	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction
+3492	2	USER	早良区で駐車場とWi-Fiが無料で使えるところがいいです	general,attraction
+3492	3	SYSTEM	では福岡市博物館はいかがでしょうか。	general,attraction
+3492	4	USER	子どもの入場料金はいくらですか？	general,attraction
+3492	5	SYSTEM	子どもは入場料０円でございます。	general,attraction
+3492	6	USER	いいですね。住所と電話番号を教えてください。	general,attraction
+3492	7	SYSTEM	住所は福岡県福岡市早良区百道浜3丁目1-1で、電話番号が0928455011でございます。	general,attraction
+3492	8	USER	了解です	general,attraction
+3492	9	SYSTEM	ほかにご用件はございませんか。	general,attraction
+3492	10	USER	ないです。ありがとうございます。	general,attraction
+3492	11	SYSTEM	承知しました。ありがとうございました。	general,attraction

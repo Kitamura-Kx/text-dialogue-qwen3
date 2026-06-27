@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3698	0	USER	札幌へ旅行に行こうと思っています。当日泊まる宿泊施設を探しています。Wi-Fiが無料で駐車場も無料で地区は中央区が希望です。	general,hotel
+3698	1	SYSTEM	かしこまりました。では、JRタワーホテル日航札幌はいかがでしょうか？	general,hotel
+3698	2	USER	そこが良さそうですね。そこのチェックアウト終了時間を教えてください。	general,hotel
+3698	3	SYSTEM	はい。チェックアウト終了時刻は11:00です。	general,hotel
+3698	4	USER	そこに予約したいので人数は4人で日付は7/30宿泊日数は2泊でお願いします。	general,hotel
+3698	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、55523 です。	general,hotel
+3698	6	USER	分かりました。ありがとうございます。	general,hotel
+3698	7	SYSTEM	いえいえ。他にご用件はございませんか？	general,hotel
+3698	8	USER	はい、大丈夫です。	general,hotel
+3698	9	SYSTEM	承知しました。ありがとうございました。	general,hotel

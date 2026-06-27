@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1228	0	USER	名古屋へ行く予定をしています。	general,restaurant,attraction
+1228	1	SYSTEM	名古屋へのご旅行ですね。どういったお手伝いをいたしましょうか？	general,restaurant,attraction
+1228	2	USER	その時に西区で食事をとる予定なんです。駐車場が無料のお店ってありますか？	general,restaurant,attraction
+1228	3	SYSTEM	はい、12件ほどご案内可能です。例えば、ビストロコバというお店はいかがでしょうか？	general,restaurant,attraction
+1228	4	USER	ビストロコバに行くなら、最寄り駅はどこになりますか？	general,restaurant,attraction
+1228	5	SYSTEM	最寄り駅は、国際センター駅です。	general,restaurant,attraction
+1228	6	USER	分かりました。あと、観光で大須演芸場に行くことを検討しています。	general,restaurant,attraction
+1228	7	SYSTEM	大須演芸場ですね。中区エリアに1件ございますが、どういった情報をお伝えしましょうか？	general,restaurant,attraction
+1228	8	USER	はい、ここの定休日と電話番号を知りたいです。	general,restaurant,attraction
+1228	9	SYSTEM	定休日はございません。電話番号は、0577629203でございます。	general,restaurant,attraction
+1228	10	USER	分かりました、ありがとうございます。	general,restaurant,attraction
+1228	11	SYSTEM	他にお調べすることはございますか？	general,restaurant,attraction
+1228	12	USER	これで全てです。お世話になりました。	general,restaurant,attraction
+1228	13	SYSTEM	では、またのご利用をお待ちしております。	general,restaurant,attraction

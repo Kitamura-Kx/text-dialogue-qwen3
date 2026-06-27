@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+760	0	USER	大阪への旅行を考えているのですが、観光名所を探してください。	general,attraction,shopping
+760	1	SYSTEM	かしこまりました。51件ほどご案内可能なのですが、ジャンルやエリアなど、何かご希望はございますか？	general,attraction,shopping
+760	2	USER	駐車場を無料で利用できて、Wi-Fiを無料でつかえるところがいいです。	general,attraction,shopping
+760	3	SYSTEM	そうしますと、鶴見緑地湯元 水春というところが、1件ご案内できます。いかがでしょうか？	general,attraction,shopping
+760	4	USER	そこにします。定休日を教えてください。	general,attraction,shopping
+760	5	SYSTEM	こちらは、定休日はございません。	general,attraction,shopping
+760	6	USER	わかりました。当日買い物できるところも探しているのですが、此花区で駐車場を無料で利用できるところはありますか？	general,attraction,shopping
+760	7	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,shopping
+760	8	USER	わかりました。駐車場はなくても大丈夫です。	general,attraction,shopping
+760	9	SYSTEM	ありがとうございます。そうしますと、ほっかほっか亭酉島店という食料品のお店がございます。いかがでしょう？	general,attraction,shopping
+760	10	USER	そこにします。電話番号と定休日を教えてください。	general,attraction,shopping
+760	11	SYSTEM	電話番号は、0648046677です。定休日はございません。	general,attraction,shopping
+760	12	USER	わかりました。ありがとうございます。	general,attraction,shopping
+760	13	SYSTEM	ほかにお手伝いできることはございませんか？	general,attraction,shopping
+760	14	USER	はい、大丈夫です。	general,attraction,shopping
+760	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,shopping

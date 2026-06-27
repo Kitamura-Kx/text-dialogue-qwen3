@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3936	0	USER	横浜への旅行を計画中で、無料駐車場付きの宿泊施設を探しています。	general,hotel
+3936	1	SYSTEM	そうしますと、2件ほどご案内可能です。たとえば、中区エリアにあるリゾートホテルの、ホテル パセラの森 横浜関内というところはいかがでしょうか？	general,hotel
+3936	2	USER	そこにしようと思います。最寄り駅と値段帯を教えてください。	general,hotel
+3936	3	SYSTEM	最寄り駅は関内駅です。徒歩5分の距離にございます。お値段はお安めとなっております。	general,hotel
+3936	4	USER	助かります。ありがとうございます。	general,hotel
+3936	5	SYSTEM	他にお調べすることなど、ございませんか？	general,hotel
+3936	6	USER	いえ、大丈夫です。ありがとうございました。	general,hotel
+3936	7	SYSTEM	承知いたしました。お役に立てて何よりです。また何かございましたら、お気軽にお問い合わせください。	general,hotel

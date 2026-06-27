@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+761	0	USER	横浜への旅行を考えているのですが、観光名所を調べてください。	general,attraction
+761	1	SYSTEM	かしこまりました。ご希望の条件などはございますか？	general,attraction
+761	2	USER	都筑区でWi-Fiと駐車場が無料で利用できるところがいいです。	general,attraction
+761	3	SYSTEM	申し訳ございません。その条件ですと、ご案内できる場所が見つかりませんでした。	general,attraction
+761	4	USER	わかりました。都筑区じゃなくても大丈夫です。	general,attraction
+761	5	SYSTEM	ありがとうございます。そうしますと、2件ご案内可能です。例えば、中区エリアにある三溪園というところは、いかがでしょうか？	general,attraction
+761	6	USER	そこにします。大人入場料とジャンルを教えてもらえますか？	general,attraction
+761	7	SYSTEM	大人入場料は700円です。ジャンルは、美術館・博物館, 建築物, 歴史的な散策エリア、となっております。	general,attraction
+761	8	USER	わかりました。ありがとうございます。	general,attraction
+761	9	SYSTEM	他にお調べすることはございますか？	general,attraction
+761	10	USER	はい、もう大丈夫です。	general,attraction
+761	11	SYSTEM	承知いたしました。では、本日はご利用ありがとうございました。	general,attraction

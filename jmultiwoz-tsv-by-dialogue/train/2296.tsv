@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2296	0	USER	大阪へ旅行を計画しており、天王寺区で観光名所を探してほしいです。	general,attraction,restaurant
+2296	1	SYSTEM	かしこまりました。では、天王寺動物園はいかがでしょうか？	general,attraction,restaurant
+2296	2	USER	そこの大人、子供それぞれの入場料、駐車場有無を教えてください。	general,attraction,restaurant
+2296	3	SYSTEM	大人入場料は500円、子供入場料は200円でございます。	general,attraction,restaurant
+2296	4	USER	駐車場はありそうですか？	general,attraction,restaurant
+2296	5	SYSTEM	申し訳ありません。駐車場は、有料となりますが、ご利用いただけます。	general,attraction,restaurant
+2296	6	USER	ありがとうございます。最後に飲食店で生ラム肉専門店 らむ屋というお店はありますか？	general,attraction,restaurant
+2296	7	SYSTEM	はい、中央区エリアに1件ございます。どんな情報をお求めでしょうか？	general,attraction,restaurant
+2296	8	USER	そちらの値段帯、最寄駅と営業時間が知りたいです。	general,attraction,restaurant
+2296	9	SYSTEM	値段帯は高めとなっております。最寄り駅は日本橋駅です。営業時間は10:30～30:00でございます。	general,attraction,restaurant
+2296	10	USER	それでは予約をお願いします。人数は2名、日時は2/18で16:40でお願いします。	general,attraction,restaurant
+2296	11	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,attraction,restaurant
+2296	12	USER	では時間帯を17:30で変更をお願いします。	general,attraction,restaurant
+2296	13	SYSTEM	ありがとうございます。17:30にてご予約完了いたしました。予約番号は、18524です。	general,attraction,restaurant
+2296	14	USER	ありがとうございます。以上です。	general,attraction,restaurant
+2296	15	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,attraction,restaurant

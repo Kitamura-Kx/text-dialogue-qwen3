@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3898	0	USER	仙台へ行きたいのですが、当日買い物ができる駐車場が無料のお店を探していただけますか。	general,shopping,attraction,hotel
+3898	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,shopping,attraction,hotel
+3898	2	USER	特にないです。	general,shopping,attraction,hotel
+3898	3	SYSTEM	ではumimorishop ミュージアムショップはいかがですか。	general,shopping,attraction,hotel
+3898	4	USER	面白そうですね。では、そちらの住所、営業時間、ジャンルを教えてください。	general,shopping,attraction,hotel
+3898	5	SYSTEM	住所は宮城県仙台市宮城野区中野4丁目6番地で、営業時間は09:00～18:30となっております。ジャンルはお土産, 文房具・雑貨, その他でございます。	general,shopping,attraction,hotel
+3898	6	USER	ありがとうございます。観光名所にも行きたいのですが、Wi-Fiが無料で使え、無料の駐車場があるところはありますでしょうか。	general,shopping,attraction,hotel
+3898	7	SYSTEM	はい。それでしたら仙台市文学館はいかがでしょうか。	general,shopping,attraction,hotel
+3898	8	USER	行ってみたいです。エリアとジャンルを教えてください。	general,shopping,attraction,hotel
+3898	9	SYSTEM	エリアは青葉区で、ジャンルが美術館・博物館, アートギャラリー, 教室・ワークショップ・体験となっております。	general,shopping,attraction,hotel
+3898	10	USER	ありがとうございます。当日泊まる施設も探してほしいです。予算は高めでお願いします。	general,shopping,attraction,hotel
+3898	11	SYSTEM	かしこまりました。ほかにご希望の条件はございませんか。	general,shopping,attraction,hotel
+3898	12	USER	特にございません。	general,shopping,attraction,hotel
+3898	13	SYSTEM	ではGlamping Spa Sendai 杜 〜KOMOREBI〜がおすすめです。	general,shopping,attraction,hotel
+3898	14	USER	おすすめありがとうございます。では、そちらのエリアとタイプを教えてください。	general,shopping,attraction,hotel
+3898	15	SYSTEM	エリアは太白区で、タイプはその他となっております。	general,shopping,attraction,hotel
+3898	16	USER	ありがとうございました。楽しみです。	general,shopping,attraction,hotel

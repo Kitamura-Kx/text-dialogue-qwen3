@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3648	0	USER	福岡へ旅行に行くので、泊まるところを探してください。	general,hotel
+3648	1	SYSTEM	かしこまりました。その条件ですと、100件ほどありますが、何かこだわりなどはありますか？	general,hotel
+3648	2	USER	博多区にある、レストランが併設されているところがいいです。あと無料で駐車場を利用できるところにしてください。	general,hotel
+3648	3	SYSTEM	お待たせ致しました。その条件ですと、HOTEL AZ 福岡金の隈店がおすすめです。	general,hotel
+3648	4	USER	そちらの住所と最寄り駅を教えてください。	general,hotel
+3648	5	SYSTEM	はい、住所は福岡県福岡市博多区金の隈3丁目14-25でして、最寄り駅は南福岡駅でございます。	general,hotel
+3648	6	USER	あとチェックイン開始時刻は何時でしょうか？	general,hotel
+3648	7	SYSTEM	はい、チェックイン開始時刻は15時ちょうどでございます。	general,hotel
+3648	8	USER	ではそちらで予約してください。11/24から4泊で、人数は3人です。	general,hotel
+3648	9	SYSTEM	お待たせ致しました。予約番号14296でお取りさせていただきました。	general,hotel
+3648	10	USER	ありがとうございます。以上になります。	general,hotel
+3648	11	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

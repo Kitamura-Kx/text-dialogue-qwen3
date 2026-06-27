@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3992	0	USER	Wi-Fiと駐車場が無料の福岡の飲食店を探しているのですが。	general,restaurant,attraction,taxi
+3992	1	SYSTEM	かしこまりました。ではレカイエ オイスターバー JR博多シティ店がございます。	general,restaurant,attraction,taxi
+3992	2	USER	そこの住所も知りたいです。	general,restaurant,attraction,taxi
+3992	3	SYSTEM	住所は福岡県福岡市博多区博多駅中央街1-1 JR博多シティ 10Fでございます。	general,restaurant,attraction,taxi
+3992	4	USER	あとは、Wi-Fiと駐車場が無料の観光名所も教えてください。	general,restaurant,attraction,taxi
+3992	5	SYSTEM	ではマリノアシティ福岡はいかがですか。	general,restaurant,attraction,taxi
+3992	6	USER	大人の入場料はいくらですか？	general,restaurant,attraction,taxi
+3992	7	SYSTEM	大人入場料は無料でございます。	general,restaurant,attraction,taxi
+3992	8	USER	わかりました。	general,restaurant,attraction,taxi
+3992	9	SYSTEM	ほかにご用件はございませんか。	general,restaurant,attraction,taxi
+3992	10	USER	キャッシュレスのタクシー会社はありますか？	general,restaurant,attraction,taxi
+3992	11	SYSTEM	はい。福岡昭和タクシー（株）がございます。こちらジャンボタクシーにも対応しております。電話番号は0120408860でございます。	general,restaurant,attraction,taxi
+3992	12	USER	予約もお願いできますか。	general,restaurant,attraction,taxi
+3992	13	SYSTEM	かしこまりました。予約の詳細をお聞かせいただけますか。	general,restaurant,attraction,taxi
+3992	14	USER	4月18日の１３：００にさっきの飲食店から観光名所まで、お願いします。	general,restaurant,attraction,taxi
+3992	15	SYSTEM	はい。予約が完了いたしました。予約番号は89812でございます。	general,restaurant,attraction,taxi
+3992	16	USER	以上で大丈夫です。ありがとうございました。	general,restaurant,attraction,taxi
+3992	17	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,taxi

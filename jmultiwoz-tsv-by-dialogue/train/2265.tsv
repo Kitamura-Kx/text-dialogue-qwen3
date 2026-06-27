@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2265	0	USER	京都の旅行で当日訪れる観光名所のおすすめはありますか？	general,attraction,hotel,shopping
+2265	1	SYSTEM	はい、ご希望の条件をお聞かせください。	general,attraction,hotel,shopping
+2265	2	USER	最寄り駅が九条駅でWi-Fi無料のところがいいです。	general,attraction,hotel,shopping
+2265	3	SYSTEM	九条駅でWi-Fi無料のところは見当たりません。	general,attraction,hotel,shopping
+2265	4	USER	では、場所はどこでも大丈夫です。	general,attraction,hotel,shopping
+2265	5	SYSTEM	京都でWiFi無料の観光名所といえば、国立京都国際会館、こちら一択です。	general,attraction,hotel,shopping
+2265	6	USER	ではそちらでお願いします。定休日、ジャンル、あと子供入場料の情報をいただけますか？	general,attraction,hotel,shopping
+2265	7	SYSTEM	定休日は年末年始、ジャンルはコンサート・ショー、入場料は企画次第ですね。	general,attraction,hotel,shopping
+2265	8	USER	ありがとうございます。当日利用する宿泊施設も探していただけますか？予算は普通でWi-Fiが無料で利用できる場所でお願いします。あと、レストランが併設されていると便利でうれしいです。	general,attraction,hotel,shopping
+2265	9	SYSTEM	その条件ならば、なごみ宿 都和をオススメします。	general,attraction,hotel,shopping
+2265	10	USER	ではそちらにしたいと思います。料金情報と駐車場の有無、あと近辺の駅からの所要時間を教えていただけますか？	general,attraction,hotel,shopping
+2265	11	SYSTEM	料金情報については、値段帯普通以上の情報を持ち合わせていません。駐車場は無料、京都駅から徒歩で8分ですね。	general,attraction,hotel,shopping
+2265	12	USER	ありがとうございます。4人で12/22から2泊を希望しているのですが、予約は可能でしょうか？	general,attraction,hotel,shopping
+2265	13	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更いただけると幸いです。	general,attraction,hotel,shopping
+2265	14	USER	宿泊日数を1泊でお願いできますでしょうか。	general,attraction,hotel,shopping
+2265	15	SYSTEM	その条件なら予約できました。予約番号は59178です。	general,attraction,hotel,shopping
+2265	16	USER	ありがとうございます。当日買い物ができる場所は何かありますか？駐車場が無料で利用できる北区周辺を希望しています。	general,attraction,hotel,shopping
+2265	17	SYSTEM	北区で駐車場無料の買い物スポットならば、Malebranche 北山本店、こちらをオススメします。	general,attraction,hotel,shopping
+2265	18	USER	そちらに行きたいのですが、住所も教えていただけますか？	general,attraction,hotel,shopping
+2265	19	SYSTEM	京都府京都市北区北山通植物園北山門前になります。	general,attraction,hotel,shopping
+2265	20	USER	ありがとうございました。	general,attraction,hotel,shopping

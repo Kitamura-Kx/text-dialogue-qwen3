@@ -1,0 +1,4 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+202	0	USER	大阪の天王寺区でショッピングモールを教えてほしいんですけど。駐車場がただの所が良いんですが。	general,shopping
+202	1	SYSTEM	天王寺MIOはいかがでしょうか。	general,shopping
+202	2	USER	そこにします。ありがとうございました。	general,shopping

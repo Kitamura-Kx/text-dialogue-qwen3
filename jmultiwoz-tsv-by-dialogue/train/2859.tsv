@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2859	0	USER	横浜への旅行を計画中のため、駐車場が無料で利用できる居酒屋を探してもらえますか？	general,restaurant
+2859	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,restaurant
+2859	2	USER	では駐車場はなくてもいいので、どこかいい居酒屋はありますか？	general,restaurant
+2859	3	SYSTEM	京ほのか 鶴見西口店は、いかがですか？	general,restaurant
+2859	4	USER	そこにしようと思います。定休日はありますか？	general,restaurant
+2859	5	SYSTEM	定休日は、不定休となっています。	general,restaurant
+2859	6	USER	わかりました。近辺の駅からの所要時間も調べてもらえますか？	general,restaurant
+2859	7	SYSTEM	所要時間は、鶴見駅から徒歩で1分となっています。	general,restaurant
+2859	8	USER	ありがとうございます。	general,restaurant
+2859	9	SYSTEM	他にご用件はございますか？	general,restaurant
+2859	10	USER	いえ、もう大丈夫です。ありがとうございました。	general,restaurant

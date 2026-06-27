@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3853	0	USER	札幌へ旅行を計画しています。予算は普通でいいのでどこか飲食店を探していただけますか？	general,restaurant,weather
+3853	1	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,restaurant,weather
+3853	2	USER	では予算は考慮しません。	general,restaurant,weather
+3853	3	SYSTEM	では、立場割烹 料理屋Kはいかがですか？	general,restaurant,weather
+3853	4	USER	そちらの定休日を知りたいです。	general,restaurant,weather
+3853	5	SYSTEM	定休日は、水曜となっております。	general,restaurant,weather
+3853	6	USER	それでは予約をお願いします。人数は4名、日時は6/11、09:40でお願いします。	general,restaurant,weather
+3853	7	SYSTEM	予約出来ました。予約番号は、40141です。	general,restaurant,weather
+3853	8	USER	ありがとうございます。次に6/11の中央区の天候を調べてほしいです。	general,restaurant,weather
+3853	9	SYSTEM	その日の天気は、曇のち雨の予報です。	general,restaurant,weather
+3853	10	USER	ちなみに最低気温は何度ですか？	general,restaurant,weather
+3853	11	SYSTEM	最低気温は、16.9度です。	general,restaurant,weather
+3853	12	USER	ありがとうございます。こちらからは以上です。	general,restaurant,weather
+3853	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather

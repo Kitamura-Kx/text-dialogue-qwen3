@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2037	0	USER	横浜の中区で、レストランのある宿泊施設を探しています。	general,hotel
+2037	1	SYSTEM	申し訳ありません。この条件ではご紹介できません。いかが致しましょう？	general,hotel
+2037	2	USER	レストランをなしにするとありますか？	general,hotel
+2037	3	SYSTEM	はい、コンフォートホテル横浜関内はいかがでしょう？タイプはビジネスホテルとなります。	general,hotel
+2037	4	USER	ありがとうございます。そちらのチェックアウトの終了時刻とWi-Fiがあるかどうか教えてください。	general,hotel
+2037	5	SYSTEM	チェックアウト終了時刻は10時、Wi-Fiは無料でご利用いただけます。	general,hotel
+2037	6	USER	ありがとうございます。	general,hotel
+2037	7	SYSTEM	他にご用件はございますか？	general,hotel
+2037	8	USER	大丈夫です。ありがとうございました。	general,hotel
+2037	9	SYSTEM	ありがとうございました。	general,hotel

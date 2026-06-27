@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3439	0	USER	京都へ旅行にいくので、ジャンボタクシーが利用できるタクシー会社教えて下さい。	general,taxi
+3439	1	SYSTEM	かしこまりました。それぞれエムケイ株式会社はいかがでしょうか？	general,taxi
+3439	2	USER	キャッシュレス対応ですか？	general,taxi
+3439	3	SYSTEM	はい、キャッシュレスにも対応しております。	general,taxi
+3439	4	USER	それでは予約お願いします。4/14の14：30で、京都府立陶板名画の庭から海雲亭 洛西店までお願いします。	general,taxi
+3439	5	SYSTEM	お待たせいたしました。それでは予約番号39474でお取りさせていただきました。	general,taxi
+3439	6	USER	ありがとうございます	general,taxi
+3439	7	SYSTEM	その他に何かご用件がございますか？	general,taxi
+3439	8	USER	いえ、大丈夫です。	general,taxi
+3439	9	SYSTEM	かしこまりました。またお待ちしております。	general,taxi

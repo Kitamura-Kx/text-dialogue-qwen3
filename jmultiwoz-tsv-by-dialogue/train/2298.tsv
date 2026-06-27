@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2298	0	USER	東京へ旅行を計画しています。建築物系が見れる観光名所を探しており、且つ無料でWi-Fiが利用できる所ってありますか？	general,attraction,shopping,weather
+2298	1	SYSTEM	申し訳ございません。ご希望の条件では候補が見つかりませんでした。	general,attraction,shopping,weather
+2298	2	USER	であれば、ジャンルはなんでもいいです。	general,attraction,shopping,weather
+2298	3	SYSTEM	かしこまりました。では、東京スカイツリーはいかがでしょうか？	general,attraction,shopping,weather
+2298	4	USER	そこの営業時間、電話番号を教えてください。	general,attraction,shopping,weather
+2298	5	SYSTEM	営業時間は、10:00～21:00です。電話番号は、0570550634でございます。	general,attraction,shopping,weather
+2298	6	USER	ありがとうございます。次にエリアは中央区、東銀座駅周辺で買い物ができる所はありますか？また、駐車場を無料で利用できる所であれば嬉しいです。	general,attraction,shopping,weather
+2298	7	SYSTEM	はい、1件ございます。銀座三越ですが、いかがでしょうか？	general,attraction,shopping,weather
+2298	8	USER	そこの営業時間、最寄駅からの所要時間を知りたいです。	general,attraction,shopping,weather
+2298	9	SYSTEM	営業時間は、10:00～20:00です。最寄りの東銀座駅から徒歩で2分、ほかにも銀座駅から徒歩で5分、銀座一丁目駅から徒歩で5分、有楽町駅から徒歩で9分といった行き方がございます。	general,attraction,shopping,weather
+2298	10	USER	承知致しました。最後に10/22の北区の天候を調べてほしいです。	general,attraction,shopping,weather
+2298	11	SYSTEM	かしこまりました。当日の天気は、雨時々曇の予報です。最低気温は18.8度、最高気温は24.2度の予想となっております。	general,attraction,shopping,weather
+2298	12	USER	ありがとうございます。以上です。	general,attraction,shopping,weather
+2298	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,shopping,weather

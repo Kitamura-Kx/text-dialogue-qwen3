@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3740	0	USER	福岡へ旅行するのですが博多区で駐車場が無料で買い物ができる場所を探しています。	general,shopping,weather,taxi
+3740	1	SYSTEM	承知しました。では、ラーメンスタジアムはいかがでしょう？ジャンルは、その他となります。	general,shopping,weather,taxi
+3740	2	USER	いいですね。5月9日の南区の天気はどうなるかわかりますか？	general,shopping,weather,taxi
+3740	3	SYSTEM	はい、天気は曇時々晴、最低気温13.1度、最高気温20.3度となります。	general,shopping,weather,taxi
+3740	4	USER	ありがとうございます。ジャンボタクシーを利用したいです。キャッシュレス払いできるところで。	general,shopping,weather,taxi
+3740	5	SYSTEM	承知しました。では、日新交通（株）はいかがでしょう？電話番号は、0120152452となります。	general,shopping,weather,taxi
+3740	6	USER	ありがとうございます。予約して頂けますか？5/9で午前11:40です。出発地はラーメンスタジアムで目的地は新天町というところです。	general,shopping,weather,taxi
+3740	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、68395となります。	general,shopping,weather,taxi
+3740	8	USER	大変助かりました！以上です。どうもありがとうございました。	general,shopping,weather,taxi
+3740	9	SYSTEM	ありがとうございました。	general,shopping,weather,taxi

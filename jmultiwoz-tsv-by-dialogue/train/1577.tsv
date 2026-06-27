@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1577	0	USER	名古屋への旅行を考えているのですが、和食で高めの飲食店はありますか？	general,restaurant
+1577	1	SYSTEM	はい。ではうなぎ和食 しら河 名駅店はいかがでしょうか。	general,restaurant
+1577	2	USER	そこにします。Wi-Fiがあるかどうかと、近辺の駅からの所要時間を教えてください。	general,restaurant
+1577	3	SYSTEM	Wi-Fiの有無は不明でございます。名古屋駅から徒歩で5分となっております。	general,restaurant
+1577	4	USER	わかりました。予約をお願いします。3人で7/29の13:30です。	general,restaurant
+1577	5	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,restaurant
+1577	6	USER	なるほど。なら時間を14時にします。	general,restaurant
+1577	7	SYSTEM	その時間ですと予約が可能でございました。予約番号は64699でございます。	general,restaurant
+1577	8	USER	ありがとうございます。	general,restaurant
+1577	9	SYSTEM	ほかにご用件はございますか。	general,restaurant
+1577	10	USER	いえ、もう大丈夫です。	general,restaurant
+1577	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant

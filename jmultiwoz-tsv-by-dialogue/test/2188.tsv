@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2188	0	USER	今度、福岡の南福岡駅でおもちゃを買いたいのですが、良いお店はありますか？	general,shopping,restaurant
+2188	1	SYSTEM	申し訳ありません、その条件ではご紹介できないのですが、いかが致しましょう？	general,shopping,restaurant
+2188	2	USER	では、南福岡駅以外ではどうですか？	general,shopping,restaurant
+2188	3	SYSTEM	はい、エリアでいうと博多駅に、ポケモンセンターフクオカがございます。	general,shopping,restaurant
+2188	4	USER	いいですね。定休日を教えてもらえますか？	general,shopping,restaurant
+2188	5	SYSTEM	はい、定休日はございません。	general,shopping,restaurant
+2188	6	USER	分かりました。もう１つ、中央区で高めの予算で食事をしたいのですが、良いお店はありますか？	general,shopping,restaurant
+2188	7	SYSTEM	はい、では、ほっこり家はいかがでしょう？ジャンルはお好み焼き、たこ焼きとなります。	general,shopping,restaurant
+2188	8	USER	そこに行ってみます。駐車場はありますか？	general,shopping,restaurant
+2188	9	SYSTEM	申し訳ありません、駐車場の有無については不明です。	general,shopping,restaurant
+2188	10	USER	そうですか。では予約だけお願いします。11月24日の16時10分に2人で行きたいです。	general,shopping,restaurant
+2188	11	SYSTEM	承知しました。予約が完了し、ご予約番号は、67168となります。	general,shopping,restaurant
+2188	12	USER	ありがとうございます。助かりました。では失礼します。	general,shopping,restaurant

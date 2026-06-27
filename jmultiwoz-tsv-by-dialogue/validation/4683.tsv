@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4683	0	USER	大阪へ旅行に行くのですが、食料品が買えるような店はありますか？駐車場を無料で使いたいです。	general,shopping,taxi,weather
+4683	1	SYSTEM	大阪には、駐車場無料の食料品店はなさそうです。	general,shopping,taxi,weather
+4683	2	USER	そうですか。では駐車場がないとこでもいいです。	general,shopping,taxi,weather
+4683	3	SYSTEM	大阪には、食料品店は１５件ありますが、一口いなりむろや 大丸梅田店をお勧めします。	general,shopping,taxi,weather
+4683	4	USER	そちらの近辺の駅からの所要時間と最寄り駅はわかります？	general,shopping,taxi,weather
+4683	5	SYSTEM	最寄りは大阪駅。大阪駅から徒歩で1分の他、北新地駅から徒歩で6分、梅田駅から徒歩で2分、東梅田駅から徒歩で8分、西梅田駅から徒歩で4分、大変便利な立地です。	general,shopping,taxi,weather
+4683	6	USER	それはいいですね。あと、キャッシュレス払いできるタクシー会社を探してほしいです。	general,shopping,taxi,weather
+4683	7	SYSTEM	キャッシュレス対応のタクシー会社はいくつかありますが、近鉄タクシー株式会社をお勧めします。	general,shopping,taxi,weather
+4683	8	USER	そこにします。電話番号とジャンボタクシーに対応しているか教えてください。	general,shopping,taxi,weather
+4683	9	SYSTEM	ジャンボタクシーも対応しています。電話番号は、0570069001です。	general,shopping,taxi,weather
+4683	10	USER	わかりました。8/20の14:00に予約をお願いします。うどん居酒屋 江戸堀から一口いなりむろや 大丸梅田店までです。	general,shopping,taxi,weather
+4683	11	SYSTEM	予約成功しました。予約番号は36287です。	general,shopping,taxi,weather
+4683	12	USER	ありがとうございます。あと、当日8/20の阿倍野区の天気と最低気温も聞いておきたいです。	general,shopping,taxi,weather
+4683	13	SYSTEM	8/20 大阪 阿倍野区 の天気は晴、最低気温29.8度、最高気温36.3度です。熱中症にご注意ください。	general,shopping,taxi,weather
+4683	14	USER	ありがとうございました。もう大丈夫です。	general,shopping,taxi,weather

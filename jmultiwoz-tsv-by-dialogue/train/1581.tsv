@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1581	0	USER	タクシー会社を探しているのですがこちらでよろしいでしょうか？	general,taxi
+1581	1	SYSTEM	はい、どういったご希望条件がございますか？	general,taxi
+1581	2	USER	仙台での利用を考えてまして、キャッシュレス対応しているタクシー会社を探しています。	general,taxi
+1581	3	SYSTEM	大変申し訳ございません。その条件では、該当するところがありませんでした。	general,taxi
+1581	4	USER	そうですか、ではキャッシュレス対応してなくても大丈夫です。	general,taxi
+1581	5	SYSTEM	では、稲荷タクシー（有）はいかがでしょうか？	general,taxi
+1581	6	USER	見つかってよかったです、ジャンボタクシーの有無と電話番号を教えていただけますか？	general,taxi
+1581	7	SYSTEM	ジャンボタクシーは対応しております。電話番号は、0222411121です。	general,taxi
+1581	8	USER	ありがとうございます、では9/25の15:00にスマイルホテル仙台国分町というところからダイワロイネットホテル仙台一番町というところまで予約をお願いしてもよろしいでしょうか？	general,taxi
+1581	9	SYSTEM	かしこまりました。予約番号47125にて、ご予約完了いたしました。	general,taxi
+1581	10	USER	ありがとうございます、あとは大丈夫です。	general,taxi
+1581	11	SYSTEM	承知しました。	general,taxi

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+622	0	USER	札幌へ旅行予定なのですが、駐車場を無料で利用できる買い物できるところを調べてください。	general,shopping,hotel
+622	1	SYSTEM	承知しました。他にご希望はございますか？	general,shopping,hotel
+622	2	USER	いえ、特に希望はありません。	general,shopping,hotel
+622	3	SYSTEM	ありがとうございます。では、イオンモール札幌発寒はいかがでしょう？何かご案内致しましょうか？	general,shopping,hotel
+622	4	USER	そこにします。営業時間を教えてください。	general,shopping,hotel
+622	5	SYSTEM	はい、営業時間は、9時から22時となります。他にご案内できることはございますか？	general,shopping,hotel
+622	6	USER	わかりました。宿泊施設も探していて、旅館でWi-Fiと駐車場が無料で利用できるところを知りたいです。	general,shopping,hotel
+622	7	SYSTEM	承知しました。では、定山渓温泉 ぬくもりの宿 ふる川がよろしいかと思います。何かご案内致しましょうか？	general,shopping,hotel
+622	8	USER	そこにします。もう大丈夫です！	general,shopping,hotel
+622	9	SYSTEM	ありがとうございました。	general,shopping,hotel

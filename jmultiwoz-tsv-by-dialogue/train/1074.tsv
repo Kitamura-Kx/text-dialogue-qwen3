@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1074	0	USER	那覇への旅行を計画しているのですが。	general,taxi
+1074	1	SYSTEM	はい。なにかご要望はございますか。	general,taxi
+1074	2	USER	当日利用できるタクシー会社を探してください．キャッシュレス払いできるところがいいです。	general,taxi
+1074	3	SYSTEM	そちらの条件にあう会社はございませんでした。	general,taxi
+1074	4	USER	でしたらキャッシュレスはどちらでもいいです。	general,taxi
+1074	5	SYSTEM	大栄交通はいかがでしょうか。	general,taxi
+1074	6	USER	いいですね。ではそちらの電話番号とジャンボタクシー対応可能か教えてほしいです。	general,taxi
+1074	7	SYSTEM	電話番号は0989465005でジャンボタクシー対応しております。	general,taxi
+1074	8	USER	ありがとうございます。そちらで予約してほしいです。日付は11/5で時間は15:00。出発地はT-SHIRT-YA.COM 国際通り店というところで目的地はクマ カフェというところでお願いします。	general,taxi
+1074	9	SYSTEM	そちらで予約できませんでした。	general,taxi
+1074	10	USER	では時間を15:30に変更してもらえますか	general,taxi
+1074	11	SYSTEM	予約できました。予約番号は4196になります。	general,taxi
+1074	12	USER		general,taxi

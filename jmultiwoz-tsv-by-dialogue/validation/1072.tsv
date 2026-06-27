@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1072	0	USER	東京への旅行を計画しているのですが。	general,attraction,weather
+1072	1	SYSTEM	はい。なにかご要望はございますか。	general,attraction,weather
+1072	2	USER	当日訪れる観光名所を探してください。Wi-Fiが無料で利用できるで最寄り駅が金町駅、ジャンルは水族館でおねがいします。	general,attraction,weather
+1072	3	SYSTEM	そちらにあう条件の観光地はありませんでした。	general,attraction,weather
+1072	4	USER	でしたら最寄り駅はどこでもいいです。	general,attraction,weather
+1072	5	SYSTEM	サンシャイン水族館はいかがでしょうか。	general,attraction,weather
+1072	6	USER	いいですね。子供入場料，大人入場料を教えて欲しいです。	general,attraction,weather
+1072	7	SYSTEM	大人入場料は2400で子供入場料は1200になります。	general,attraction,weather
+1072	8	USER	ありがとうございます。あと、北区の10/21の天気も教えて欲しいです。	general,attraction,weather
+1072	9	SYSTEM	天気は曇のち雨です	general,attraction,weather
+1072	10	USER	最低気温も教えて欲しいです。	general,attraction,weather
+1072	11	SYSTEM	最低気温は9.9度になります。	general,attraction,weather
+1072	12	USER	ありがとうございました。	general,attraction,weather

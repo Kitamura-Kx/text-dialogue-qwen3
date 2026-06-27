@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3422	0	USER	今度札幌に行くのですが、タクシー会社を探しています。	general,taxi
+3422	1	SYSTEM	かしこまりました。何かご希望される条件はありますか？	general,taxi
+3422	2	USER	キャッシュレス払いできるところがいいです。	general,taxi
+3422	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,taxi
+3422	4	USER	では、キャッシュレス払いできなくてもいいです。	general,taxi
+3422	5	SYSTEM	かしこまりました。それでは、つばめ自動車(株)はいかがでしょうか？	general,taxi
+3422	6	USER	ありがとうございます。そちらの会社の、ジャンボタクシーが利用できるかと、電話番号を教えてください。	general,taxi
+3422	7	SYSTEM	はい、ジャンボタクシーはご利用いただけます。電話番号は0118112121でございます。	general,taxi
+3422	8	USER	ありがとうございます。予約をお願いしたいのですが、11/27の10:50で、北海道大学総合博物館から、定山渓ビューホテルまでお願いします。	general,taxi
+3422	9	SYSTEM	お待たせ致しました。予約番号16873でお取りさせていただきました。	general,taxi
+3422	10	USER	ありがとうございます。以上です、お世話になりました。	general,taxi
+3422	11	SYSTEM	ありがとうございました。またお待ちしております。	general,taxi

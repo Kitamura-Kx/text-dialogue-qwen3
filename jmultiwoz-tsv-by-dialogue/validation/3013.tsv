@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3013	0	USER	東京への旅行を計画しています。 買い物ができるところを探して欲しいです。	general,shopping,hotel,weather
+3013	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,shopping,hotel,weather
+3013	2	USER	駐車場を無料で利用できるところにしてください。地区は港区希望です。	general,shopping,hotel,weather
+3013	3	SYSTEM	港区で駐車場無料の買い物スポットといえば、アクアシティお台場、こちらになります。	general,shopping,hotel,weather
+3013	4	USER	そのお店のジャンル，近辺の駅からの所要時間を教えてください。	general,shopping,hotel,weather
+3013	5	SYSTEM	ジャンルはショッピングモール、台場駅から徒歩で1分、その他、東京テレポート駅から徒歩で6分です。	general,shopping,hotel,weather
+3013	6	USER	続いて、宿泊施設を探してください。駐車場を無料で利用できるところ、地区は墨田区、予算は高めが希望です。	general,shopping,hotel,weather
+3013	7	SYSTEM	墨田区で駐車場無料で予算高めな宿泊施設はなさそうです。	general,shopping,hotel,weather
+3013	8	USER	そうですか。では予算は高めではなく安めに変更したいです。	general,shopping,hotel,weather
+3013	9	SYSTEM	墨田区で駐車場無料、予算安めの宿泊施設ならb、つるや旅館、こちらになります。	general,shopping,hotel,weather
+3013	10	USER	そこの住所，近辺の駅からの所要時間，最寄り駅を教えてください。	general,shopping,hotel,weather
+3013	11	SYSTEM	東京都墨田区吾妻橋2丁目18-2、最寄りは本所吾妻橋駅、本所吾妻橋駅から徒歩で2分、浅草駅からなら徒歩で5分になります。	general,shopping,hotel,weather
+3013	12	USER	では予約してください。人数は2人、日付は9/30、宿泊日数は3泊希望です。	general,shopping,hotel,weather
+3013	13	SYSTEM	予約に成功しました。予約番号は41426です。	general,shopping,hotel,weather
+3013	14	USER	それでは9/30の渋谷区の天候を調べてください。天気，最高気温が知りたいです。	general,shopping,hotel,weather
+3013	15	SYSTEM	9/30 東京 渋谷区 の天気は曇のち雨、最低気温23.6度、最高気温24.8度です。	general,shopping,hotel,weather
+3013	16	USER	解決しました。ありがとうございました。	general,shopping,hotel,weather

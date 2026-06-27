@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1898	0	USER	札幌へ旅行に行く予定なのですが、無料駐車場があって買い物ができるところを探してもらえますか。中央区でバスセンター前駅の周辺でお願いします。	general,shopping,hotel
+1898	1	SYSTEM	では、玉翠園はいかがですか？	general,shopping,hotel
+1898	2	USER	ありがとうございます。じゃあそこの住所と電話番号と営業時間を教えてもらえますか。	general,shopping,hotel
+1898	3	SYSTEM	住所は、北海道札幌市中央区南1条東1丁目1です。　電話番号は、0112311500です。　営業時間は、午前8時～18時までです。	general,shopping,hotel
+1898	4	USER	ありがとうございます。あと、白石区にあるレストラン併設の宿泊施設も探してもらえますか。	general,shopping,hotel
+1898	5	SYSTEM	ホテルルートイン札幌白石は、いかがですか？	general,shopping,hotel
+1898	6	USER	そこのチェックアウト時間と値段帯を教えてください。	general,shopping,hotel
+1898	7	SYSTEM	チェックアウト終了時間は、10時です。　値段帯は、安めになります。	general,shopping,hotel
+1898	8	USER	わかりました。じゃあそこを予約してください。6/5から２名で４泊です。	general,shopping,hotel
+1898	9	SYSTEM	予約出来ました。予約番号は、27031 です。	general,shopping,hotel
+1898	10	USER	ありがとうございます。以上で大丈夫です。	general,shopping,hotel
+1898	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel

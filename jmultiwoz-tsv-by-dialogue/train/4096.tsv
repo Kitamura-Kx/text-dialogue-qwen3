@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4096	0	USER	仙台へ旅行に行きたく、泉区近辺で飲食店を探してほしいです。無料のWi-Fiが利用できるところでお願いします。	general,restaurant
+4096	1	SYSTEM	かしこまりました。それでしたら、たんや善治郎 タピオ店はいかがでしょうか？	general,restaurant
+4096	2	USER	そちらのジャンルと住所、また駐車場の有無を教えてください。	general,restaurant
+4096	3	SYSTEM	はい、ジャンルは郷土料理, 居酒屋でして、住所は宮城県仙台市泉区寺岡6丁目5-1 泉パークタウンタピオ2階でございます。駐車場は無料でご利用いただけます。	general,restaurant
+4096	4	USER	ありがとうございます。こちらからは以上です。	general,restaurant
+4096	5	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant

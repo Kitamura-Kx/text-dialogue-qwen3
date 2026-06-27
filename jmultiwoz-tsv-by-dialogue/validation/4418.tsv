@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4418	0	USER	那覇へ旅行に行くので、真和志で駐車場を無料で利用できる買い物店舗を探してください。文房具・雑貨を買えるところがいいです。	general,shopping,attraction
+4418	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,shopping,attraction
+4418	2	USER	そうですか。では、文房具・雑貨を買えなくてもいいです。	general,shopping,attraction
+4418	3	SYSTEM	かしこまりました。それではタウンプラザかねひで与儀公園市場がございます。	general,shopping,attraction
+4418	4	USER	そちらの店舗の定休日と電話番号を教えてください。	general,shopping,attraction
+4418	5	SYSTEM	こちらは定休日はございません。また、電話番号は0988323939でございます。	general,shopping,attraction
+4418	6	USER	わかりました。あと、首里で歴史的な散策エリアを楽しめる観光名所はありませんか？	general,shopping,attraction
+4418	7	SYSTEM	お待たせ致しました。首里でしたら、首里城がおすすめでございます。	general,shopping,attraction
+4418	8	USER	いいですね。最寄り駅と駐車場の有無と住所を教えてください。	general,shopping,attraction
+4418	9	SYSTEM	はい、最寄り駅は首里駅でして、駐車場は有料ですが、ご利用いただけます。また、住所は沖縄県那覇市首里金城町1丁目2でございます。	general,shopping,attraction
+4418	10	USER	ありがとうございました。もう大丈夫です。	general,shopping,attraction
+4418	11	SYSTEM	ありがとうございました。またお待ちしております。	general,shopping,attraction

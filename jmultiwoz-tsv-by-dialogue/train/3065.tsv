@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3065	0	USER	今度、福岡に行くのでキャッシュレス払いのできるタクシー会社を教えてください。	general,taxi
+3065	1	SYSTEM	かしこまりました。ラッキー自動車（株）はどうでしょうか。	general,taxi
+3065	2	USER	そこはジャンボタクシーに対応していますか？	general,taxi
+3065	3	SYSTEM	はい。しております。	general,taxi
+3065	4	USER	ありがとうございます。予約をお願いします。8月3日の午前9時30分に博多屋台 中洲 十番から、エルカーサ南福岡までです。	general,taxi
+3065	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、3469 です。	general,taxi
+3065	6	USER	ありがとうございました。助かりました。それでは失礼します。	general,taxi

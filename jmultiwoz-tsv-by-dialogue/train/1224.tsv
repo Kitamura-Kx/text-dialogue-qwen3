@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1224	0	USER	東京へ行く予定をしているので、良さそうな飲食店を案内して下さい。	general,restaurant
+1224	1	SYSTEM	かしこまりました。ご希望の条件は何かございませんか？	general,restaurant
+1224	2	USER	郷土料理が食べられるお店がいいのですが、無料Wi-Fiの利用もしたいんです。	general,restaurant
+1224	3	SYSTEM	では、沖縄パラダイス 新宿歌舞伎町店はいかがでしょうか？	general,restaurant
+1224	4	USER	ありがとうございます。沖縄パラダイス 新宿歌舞伎町店のお店のエリアはどのあたりですか？食事の値段帯も知りたいです。	general,restaurant
+1224	5	SYSTEM	エリアは新宿区となります。値段帯は、普通となっております。	general,restaurant
+1224	6	USER	それでは予約を取ってほしいです。11/15で時間は11:30、お店に行く人数は4人です。	general,restaurant
+1224	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、94306です。	general,restaurant
+1224	8	USER	ありがとうございます。	general,restaurant
+1224	9	SYSTEM	他にお調べすることはございますか？	general,restaurant
+1224	10	USER	これだけで結構です。ありがとうございました。	general,restaurant
+1224	11	SYSTEM	本日はご利用ありがとうございました。	general,restaurant

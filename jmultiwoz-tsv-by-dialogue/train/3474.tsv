@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3474	0	USER	京都に旅行に行く計画をしているのですが、おすすめの観光名所はありますか。	general,attraction,weather
+3474	1	SYSTEM	ありがとうございます。京都の名所ですと50件ほどございますが、何かご希望などありますでしょうか？	general,attraction,weather
+3474	2	USER	中京区で駐車場が無料で利用できる場所でお願いします。	general,attraction,weather
+3474	3	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,attraction,weather
+3474	4	USER	では中京区でない場所でも大丈夫です。	general,attraction,weather
+3474	5	SYSTEM	かしこまりました。それでは北野天満宮はいかがでしょうか？	general,attraction,weather
+3474	6	USER	ありがとうございます。あと10/26の伏見区の天気はどうでしょうか。	general,attraction,weather
+3474	7	SYSTEM	はい、当日の伏見区の天気は曇の予報です。	general,attraction,weather
+3474	8	USER	ありがとうございます。これで全て大丈夫です。	general,attraction,weather
+3474	9	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,weather

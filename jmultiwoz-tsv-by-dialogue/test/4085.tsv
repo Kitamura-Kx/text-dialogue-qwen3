@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4085	0	USER	東京への旅行を計画中で、飲食店を探しています。無料Wi-fi付きで、予算は普通が良いです	general,restaurant,taxi,weather
+4085	1	SYSTEM	東京で予算普通、WiFi無料の飲食店はなさそうです。	general,restaurant,taxi,weather
+4085	2	USER	分かりました。では、予算はいくらでも結構です	general,restaurant,taxi,weather
+4085	3	SYSTEM	東京でWiFi無料の飲食店はいくつかありますが、銀座 魚ばか、こちらをおすすめします。	general,restaurant,taxi,weather
+4085	4	USER	そこにしようと思います。エリアと料金情報を教えてください。	general,restaurant,taxi,weather
+4085	5	SYSTEM	エリアは中央区、豪華食材・贅沢コース、全7品あって、看板商品の活いかや金目鯛の煮付け、120分飲み放題込で7700円がウリのようです。	general,restaurant,taxi,weather
+4085	6	USER	ありがとうございます。3/1の13:40に3名で予約して欲しいのですが、可能でしょうか。	general,restaurant,taxi,weather
+4085	7	SYSTEM	その条件だと予約に失敗してしまいました。少し条件を変更していただけないでしょうか。	general,restaurant,taxi,weather
+4085	8	USER	分かりました。では、時間を14:20に変更してください。	general,restaurant,taxi,weather
+4085	9	SYSTEM	予約成功しました。予約番号は9513になります。	general,restaurant,taxi,weather
+4085	10	USER	ありがとうございます。当日利用できるジャンボタクシーを探しているのですが、ありますか？	general,restaurant,taxi,weather
+4085	11	SYSTEM	いくつかありますが、小金井交通、こちらをお勧めします。	general,restaurant,taxi,weather
+4085	12	USER	そこにしようと思います。キャッシュレス対応の可否と電話番号を教えてください。	general,restaurant,taxi,weather
+4085	13	SYSTEM	キャッシュレス可、電話は0423811482になります。	general,restaurant,taxi,weather
+4085	14	USER	ありがとうございます。3/1の11:50にラザーニャ・ラザーニャから銀座 魚ばかまで予約して欲しいのですが、可能でしょうか。	general,restaurant,taxi,weather
+4085	15	SYSTEM	予約成功しました。予約番号は65664です。	general,restaurant,taxi,weather
+4085	16	USER	ありがとうございます。3/1の北区の最低気温と最高気温を教えてください。	general,restaurant,taxi,weather
+4085	17	SYSTEM	3/1 東京 北区 の天気は雨時々雪、最低気温4.4度、最高気温18.3度です。	general,restaurant,taxi,weather
+4085	18	USER	助かりました。ありがとうございます。	general,restaurant,taxi,weather
+4085	19	SYSTEM	よい旅を	general,restaurant,taxi,weather
+4085	20	USER	では、失礼します。	general,restaurant,taxi,weather

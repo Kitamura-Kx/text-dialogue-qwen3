@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1705	0	USER	東京へ旅行したいのですが、Wi-Fiと駐車場が無料な飲食店を探してください。	general,restaurant,hotel,taxi
+1705	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,restaurant,hotel,taxi
+1705	2	USER	そうなんですね。有料の駐車場でもいいので、あるところはありますか？	general,restaurant,hotel,taxi
+1705	3	SYSTEM	では新荘園 ムスブ田町店はいかがでしょうか。	general,restaurant,hotel,taxi
+1705	4	USER	そこにします。電話番号を教えてください。あと予約もお願いしたいです。	general,restaurant,hotel,taxi
+1705	5	SYSTEM	電話番号は0364594858でございます。予約の詳細をお聞かせいただけますか。	general,restaurant,hotel,taxi
+1705	6	USER	はい。4人で1/26の11:50からお願いします。	general,restaurant,hotel,taxi
+1705	7	SYSTEM	予約が完了いたしました。予約番号は94258でございます。	general,restaurant,hotel,taxi
+1705	8	USER	ありがとうございます。宿泊施設も探しているのですが、Wi-Fiが無料で利用できるところありませんか？	general,restaurant,hotel,taxi
+1705	9	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,restaurant,hotel,taxi
+1705	10	USER	そうですか。なら、Wi-Fiはなくてもいいです。	general,restaurant,hotel,taxi
+1705	11	SYSTEM	ではAPARTMENT HOTEL SHINJUKUはいかがでしょうか。	general,restaurant,hotel,taxi
+1705	12	USER	そこにします。値段帯とチェックアウト終了時刻を知りたいです。	general,restaurant,hotel,taxi
+1705	13	SYSTEM	値段帯は安めで、チェックアウト終了時刻は10:00でございます。	general,restaurant,hotel,taxi
+1705	14	USER	そうですか。なら4人で1/26から4泊の予約をお願いします。	general,restaurant,hotel,taxi
+1705	15	SYSTEM	予約が完了いたしました。予約番号は50937でございます。	general,restaurant,hotel,taxi
+1705	16	USER	ありがとうございます。キャッシュレス払いできるタクシー会社も調べてください。	general,restaurant,hotel,taxi
+1705	17	SYSTEM	かしこまりました。ではキャピタルオートはいかがでしょうか。	general,restaurant,hotel,taxi
+1705	18	USER	そこにします。ジャンボタクシーがあるか教えてください。	general,restaurant,hotel,taxi
+1705	19	SYSTEM	ジャンボタクシーにも対応しております。	general,restaurant,hotel,taxi
+1705	20	USER	そうですか。1/26の13:10で、新荘園 ムスブ田町店からAPARTMENT HOTEL SHINJUKUまでの配車予約をお願いします。	general,restaurant,hotel,taxi
+1705	21	SYSTEM	予約が完了いたしました。予約番号は29560でございます。	general,restaurant,hotel,taxi
+1705	22	USER	ありがとうございます。もう大丈夫です。	general,restaurant,hotel,taxi
+1705	23	SYSTEM	承知しました。ありがとうございました。	general,restaurant,hotel,taxi

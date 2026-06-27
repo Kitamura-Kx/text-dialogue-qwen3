@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2012	0	USER	名古屋に行くんですが、無料で駐車場が利用できる、おもちゃが買えるお店ありますか？	general,shopping,restaurant
+2012	1	SYSTEM	かしこまりました。では、ベビーザらス 名西店はいかがでしょうか？	general,shopping,restaurant
+2012	2	USER	近くの駅からどのくらいかかりますか？	general,shopping,restaurant
+2012	3	SYSTEM	はい。近辺の駅からの所要時間は東枇杷島駅から徒歩で10分、浄心駅から徒歩で15分となっております。	general,shopping,restaurant
+2012	4	USER	ありがとうございます。飲食店も探していて、無料Wi-Fiのあるところがいいのですが。	general,shopping,restaurant
+2012	5	SYSTEM	かしこまりました。では、ゆめや 金山店はいかがでしょうか？	general,shopping,restaurant
+2012	6	USER	そちらは、近くの駅からどのくらいかかりますか？	general,shopping,restaurant
+2012	7	SYSTEM	はい。金山駅から徒歩で4分です。	general,shopping,restaurant
+2012	8	USER	ありがとうございます。	general,shopping,restaurant
+2012	9	SYSTEM	他にご用件はありますか？	general,shopping,restaurant
+2012	10	USER	大丈夫です。ありがとうございました。	general,shopping,restaurant
+2012	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant

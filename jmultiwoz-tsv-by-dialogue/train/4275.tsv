@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4275	0	USER	旅行で那覇に行くので、買い物をしたいと思っています。真和志で探してもらえませんか？	general,shopping,restaurant,weather
+4275	1	SYSTEM	承知しました。では、タウンプラザかねひで与儀公園市場はいかがでしょう？ジャンルは、スーパーマーケットとなります。	general,shopping,restaurant,weather
+4275	2	USER	そこにします。最寄り駅はどこですか？	general,shopping,restaurant,weather
+4275	3	SYSTEM	はい、最寄りの安里駅から徒歩で11分となります。	general,shopping,restaurant,weather
+4275	4	USER	ありがとうございます。あと、飲食店も探しています。小禄駅近くで、無料Wi-Fiが使えるところはありませんか？	general,shopping,restaurant,weather
+4275	5	SYSTEM	では、エリアでいうと小禄にある、しゃぶ葉 那覇小禄店はいかがでしょう？ジャンルは、和食となります。	general,shopping,restaurant,weather
+4275	6	USER	なるほど、駐車場が無料で使えるところにしたいのですが。	general,shopping,restaurant,weather
+4275	7	SYSTEM	はい、しゃぶ葉 那覇小禄店は、駐車場が無料でご利用いただけます。	general,shopping,restaurant,weather
+4275	8	USER	そうなんですね。では、このお店の営業時間を教えてください。	general,shopping,restaurant,weather
+4275	9	SYSTEM	はい、営業時間は11時から23時30分となります。	general,shopping,restaurant,weather
+4275	10	USER	ありがとうございます。あと、1月24日の小禄の天気も知りたいのですが、	general,shopping,restaurant,weather
+4275	11	SYSTEM	はい、天気は曇、最低気温16.7度、最高気温21.2度となります。	general,shopping,restaurant,weather
+4275	12	USER	わかりました。ありがとうございます。	general,shopping,restaurant,weather
+4275	13	SYSTEM	ありがとうございました。	general,shopping,restaurant,weather

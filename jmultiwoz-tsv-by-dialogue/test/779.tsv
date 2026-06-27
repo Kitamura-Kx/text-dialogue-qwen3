@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+779	0	USER	仙台へ行こうと思っています。駐車場とWiFiが無料で利用できて予算が普通な飲食店を探していただきたいです。	general,restaurant,weather
+779	1	SYSTEM	かしこまりました。お食事のジャンルなどでご希望はございませんか？	general,restaurant,weather
+779	2	USER	ジャンルは特に希望はありません。	general,restaurant,weather
+779	3	SYSTEM	では、力寿司というお店はいかがでしょうか？	general,restaurant,weather
+779	4	USER	そちらの料金、電話番号、エリアについて教えていただけますでしょうか。	general,restaurant,weather
+779	5	SYSTEM	料金は、（ランチ）本日のにぎり1100円などがございます。電話番号は、0222958461です。エリアは、宮城野区にございます。	general,restaurant,weather
+779	6	USER	わかりました。ありがとうございます。	general,restaurant,weather
+779	7	SYSTEM	他にお調べすることはございますか？	general,restaurant,weather
+779	8	USER	11月9日太白区の天候を調べていただきたいです。	general,restaurant,weather
+779	9	SYSTEM	かしこまりました。当日の天気は、晴れの予報です。最低気温は10.5度、最高気温は12度になる予想です。	general,restaurant,weather
+779	10	USER	わかりました。ありがとうございます。	general,restaurant,weather
+779	11	SYSTEM	ほかにご用件はございませんか？	general,restaurant,weather
+779	12	USER	いいえ、大丈夫です。ありがとうございました。	general,restaurant,weather

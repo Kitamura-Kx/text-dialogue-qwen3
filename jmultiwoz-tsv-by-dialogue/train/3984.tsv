@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3984	0	USER	東京の宿泊施設を探しています。予算は高めで、駐車場は無料でお願いします。	general,hotel,restaurant,weather
+3984	1	SYSTEM	かしこまりました。ではThe Okura Tokyoはいかがでしょうか。	general,hotel,restaurant,weather
+3984	2	USER	そこにします。チェックインは何時からですか？	general,hotel,restaurant,weather
+3984	3	SYSTEM	チェックイン開始時刻は15:00となっております。	general,hotel,restaurant,weather
+3984	4	USER	わかりました。	general,hotel,restaurant,weather
+3984	5	SYSTEM	ほかにご用件はございませんか。	general,hotel,restaurant,weather
+3984	6	USER	銀座駅最寄りの、Wi-Fiが無料の飲食店はありますか？予算は普通ぐらいで。	general,hotel,restaurant,weather
+3984	7	SYSTEM	ではVAMPIRE CAFEがございます。	general,hotel,restaurant,weather
+3984	8	USER	そこの料金情報はわかりますか？	general,hotel,restaurant,weather
+3984	9	SYSTEM	料金情報としましては、闇の十字架（アボガドとサーモンの生春巻き）が1100円、血に塗れし樹海（ハーブ野菜とモッツアレラトマトソースパゲッティ）が1100円、反逆者を裁く惨劇の火炙りの刑（イービルホットチキ）が2750円となっております。	general,hotel,restaurant,weather
+3984	10	USER	ご丁寧にありがとうございます！近辺の駅からの所要時間はどれぐらいでしょうか？	general,hotel,restaurant,weather
+3984	11	SYSTEM	銀座駅から徒歩で3分で、新橋駅から徒歩で7分となっております。	general,hotel,restaurant,weather
+3984	12	USER	予約もお願いできますか？	general,hotel,restaurant,weather
+3984	13	SYSTEM	はい。予約の詳細をお聞かせいただけますか。	general,hotel,restaurant,weather
+3984	14	USER	9/12の14:10から、３人で。	general,hotel,restaurant,weather
+3984	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は64756でございます。	general,hotel,restaurant,weather
+3984	16	USER	あとは、9/12の新宿区の最低気温も知りたいのですが。	general,hotel,restaurant,weather
+3984	17	SYSTEM	当日の最低気温は23.4度でございます。	general,hotel,restaurant,weather
+3984	18	USER	わかりました。	general,hotel,restaurant,weather
+3984	19	SYSTEM	ほかにご用件はございませんか。	general,hotel,restaurant,weather
+3984	20	USER	大丈夫です。ありがとうございました。	general,hotel,restaurant,weather
+3984	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,weather

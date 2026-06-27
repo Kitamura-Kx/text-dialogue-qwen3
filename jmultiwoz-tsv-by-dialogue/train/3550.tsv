@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3550	0	USER	横浜への旅行で利用できるタクシー会社を探して欲しいです。	general,taxi
+3550	1	SYSTEM	かしこまりました。では日本サントスキャブ株式会社がございます。	general,taxi
+3550	2	USER	ジャンボタクシーを利用できて、キャッシュレス払いできますか。	general,taxi
+3550	3	SYSTEM	はい。どちらにも対応しております。	general,taxi
+3550	4	USER	ではそこの予約をお願いします。日付は11/24、時間は14:00、出発地はファミリーマート 阪東橋東口店、目的地は福盛楼 横浜中華街・本店です。	general,taxi
+3550	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は9386でございます。	general,taxi
+3550	6	USER	解決しました。ありがとうございました。	general,taxi
+3550	7	SYSTEM	承知しました。ありがとうございました。	general,taxi

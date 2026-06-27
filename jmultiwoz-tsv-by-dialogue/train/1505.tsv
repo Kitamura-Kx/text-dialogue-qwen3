@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1505	0	USER	こんにちは。札幌へ旅行しようと思っているのですが、最寄り駅が北24条駅で、手稲区の宿泊施設ってありますか？	general,hotel,attraction,weather
+1505	1	SYSTEM	申し訳ありません、その条件ではご案内できないのですが、いかが致しましょう？	general,hotel,attraction,weather
+1505	2	USER	わかりました。それでは、手稲区じゃなくても大丈夫なので、何か宿泊施設はないでしょうか？	general,hotel,attraction,weather
+1505	3	SYSTEM	はい、エリアでいうと北区に、札幌サンプラザがあります。タイプはシティホテルとなります。	general,hotel,attraction,weather
+1505	4	USER	ありがとうございます。そこにしようかと思うのですが、札幌サンプラザにはレストランはありますか？	general,hotel,attraction,weather
+1505	5	SYSTEM	はい、併設のレストランがございます。	general,hotel,attraction,weather
+1505	6	USER	ありがとうございます。あと、料金情報と値段帯も教えてほしいです。	general,hotel,attraction,weather
+1505	7	SYSTEM	値段帯は安めとなります。申し訳ありませんが、こちらからご案内可能な料金情報はございません。	general,hotel,attraction,weather
+1505	8	USER	ありがとうございます。あと当日に、Wi-Fiと駐車場が無料で使える豊平区の観光名所ってありますか？	general,hotel,attraction,weather
+1505	9	SYSTEM	はい、クラーク博士像はいかがでしょう？ジャンルは記念碑、像、展望台、タワー、となります。	general,hotel,attraction,weather
+1505	10	USER	ありがとうございます。そこにします。9/1の厚別区の気候って調べていただけますか？	general,hotel,attraction,weather
+1505	11	SYSTEM	はい、天気は雨、最低気温12.5度、最高気温23度となります。	general,hotel,attraction,weather
+1505	12	USER	ありがとうございます。	general,hotel,attraction,weather
+1505	13	SYSTEM	他にご用件はございますか？	general,hotel,attraction,weather
+1505	14	USER	いえ、大丈夫です。案内ありがとうございました。	general,hotel,attraction,weather
+1505	15	SYSTEM	ありがとうございました。	general,hotel,attraction,weather

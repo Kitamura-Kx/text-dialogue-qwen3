@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4526	0	USER	仙台への旅行を計画しているのですが、その時に利用する飲食店を探してもらえますか？	general,restaurant,taxi,weather
+4526	1	SYSTEM	かしこまりました。１０９件ございますが、ご希望の条件はございますか。	general,restaurant,taxi,weather
+4526	2	USER	そうですね、お値段が安めで郷土料理が食べられたらと思っています。	general,restaurant,taxi,weather
+4526	3	SYSTEM	でしたら、おばんざい らくらはいかがでしょうか。	general,restaurant,taxi,weather
+4526	4	USER	そちらにします。住所と近辺の駅からの所要時間も教えてもらえますか？	general,restaurant,taxi,weather
+4526	5	SYSTEM	はい。住所は宮城県仙台市青葉区中央3丁目10-3で、あおば通駅から徒歩で5分となっております。	general,restaurant,taxi,weather
+4526	6	USER	わかりました。そちらのお店を9/21の午前11時40分に2名で予約して頂けますか？	general,restaurant,taxi,weather
+4526	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は82460でございます。	general,restaurant,taxi,weather
+4526	8	USER	キャッシュレス払い対応のタクシー会社も探して頂けますか？	general,restaurant,taxi,weather
+4526	9	SYSTEM	では（有）光泉タクシーがございます。こちらジャンボタクシーにも対応しております。電話番号は0223752525でございます。	general,restaurant,taxi,weather
+4526	10	USER	じゃあそちらのタクシー会社で、9/21の午前9時50分に予約をお願いします。	general,restaurant,taxi,weather
+4526	11	SYSTEM	かしこまりました。では予約の詳細をお聞かせいただけますか。	general,restaurant,taxi,weather
+4526	12	USER	おばんざい らくらから、大戸屋ごはん処 仙台MTビル店までお願いします。	general,restaurant,taxi,weather
+4526	13	SYSTEM	はい。予約が完了いたしました。予約番号は3575でございます。	general,restaurant,taxi,weather
+4526	14	USER	あと、9/21の宮城野区の最低気温を調べてほしいのですが。	general,restaurant,taxi,weather
+4526	15	SYSTEM	当日の最低気温は20.5の予想でございます。	general,restaurant,taxi,weather
+4526	16	USER	ありがとうございました。	general,restaurant,taxi,weather
+4526	17	SYSTEM	ほかにご用件はございませんか。	general,restaurant,taxi,weather
+4526	18	USER	はい、大丈夫です。ありがとうございました。	general,restaurant,taxi,weather
+4526	19	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi,weather

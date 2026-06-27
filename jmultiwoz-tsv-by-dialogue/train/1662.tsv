@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1662	0	USER	那覇への旅行を考えていて、観光名所を紹介してもらいたいのですが。	general,attraction
+1662	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,attraction
+1662	2	USER	本庁あたりで、Wi-Fiと駐車場が無料で利用できるところがいいです。	general,attraction
+1662	3	SYSTEM	かしこまりました。そうしますと、桜坂劇場はいかがでしょうか？	general,attraction
+1662	4	USER	そこはどんなジャンルの施設ですか？	general,attraction
+1662	5	SYSTEM	ジャンルは、コンサート・ショー, 映画館, 教室・ワークショップ・体験となっております。	general,attraction
+1662	6	USER	そうなんですね。では、そこに行ってみようと思います。大人の入場料と電話番号を教えてもらえますか？	general,attraction
+1662	7	SYSTEM	大人入場料は、1700円でございます。電話番号は、0988609555です。	general,attraction
+1662	8	USER	分かりました。ありがとうございます。	general,attraction
+1662	9	SYSTEM	他になにかお調べすることはございますか？	general,attraction
+1662	10	USER	いいえ、大丈夫です。	general,attraction
+1662	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction

@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4182	0	USER	福岡旅行で行く水族館を探したいのですが、Wi-Fiが無料のところはありますか	general,attraction,hotel,taxi
+4182	1	SYSTEM	それでしたら、マリンワールド 海の中道が良いと思います。	general,attraction,hotel,taxi
+4182	2	USER	そこにします。その日のホテルも予約したいのですが、早良区で予算普通くらいのところはありますか？ここもWi-Fiが無料だと嬉しいです	general,attraction,hotel,taxi
+4182	3	SYSTEM	では、ザ・レジデンシャルスイート・福岡　こちらはいかがですか？	general,attraction,hotel,taxi
+4182	4	USER	そこは宿泊施設のタイプとしては何になりますか？	general,attraction,hotel,taxi
+4182	5	SYSTEM	宿泊施設のタイプは、その他となっています。	general,attraction,hotel,taxi
+4182	6	USER	なるほど。駐車場はありますか？	general,attraction,hotel,taxi
+4182	7	SYSTEM	はい、有料駐車場があります。	general,attraction,hotel,taxi
+4182	8	USER	分かりました。12月22日から4泊でお願いします。4人です。	general,attraction,hotel,taxi
+4182	9	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。　どうされますか？	general,attraction,hotel,taxi
+4182	10	USER	3人に減らしたどうですか？	general,attraction,hotel,taxi
+4182	11	SYSTEM	3人での予約出来ました。予約番号は、27575です。	general,attraction,hotel,taxi
+4182	12	USER	ありがとうございます。	general,attraction,hotel,taxi
+4182	13	SYSTEM	他にご用件はありますか？	general,attraction,hotel,taxi
+4182	14	USER	タクシーの予約もお願いします。キャッシュレス払いが使えるところがいいです	general,attraction,hotel,taxi
+4182	15	SYSTEM	申し訳ありません。　その条件では、見つかりませんでした。	general,attraction,hotel,taxi
+4182	16	USER	じゃあキャッシュレス払いは使えなくてもいいです	general,attraction,hotel,taxi
+4182	17	SYSTEM	では、文化タクシー（株）はいかがでしょうか？	general,attraction,hotel,taxi
+4182	18	USER	そこはジャンボタクシーには対応していますか？	general,attraction,hotel,taxi
+4182	19	SYSTEM	申し訳ありません、ジャンボタクシーは非対応になっています。　どうされますか？	general,attraction,hotel,taxi
+4182	20	USER	大丈夫です。電話番号を教えてください。	general,attraction,hotel,taxi
+4182	21	SYSTEM	電話番号は、0928221234になります。	general,attraction,hotel,taxi
+4182	22	USER	では、予約をお願いします。12月22日の11時30分からで、マリンワールド 海の中道からザ・レジデンシャルスイート・福岡まででお願いします。	general,attraction,hotel,taxi
+4182	23	SYSTEM	予約が完了しました。　予約番号は、6533です。	general,attraction,hotel,taxi
+4182	24	USER	ありがとうございました。後は大丈夫です。	general,attraction,hotel,taxi
+4182	25	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel,taxi

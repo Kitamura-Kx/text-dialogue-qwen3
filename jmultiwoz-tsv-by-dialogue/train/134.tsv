@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+134	0	USER	京都に行くんですが、キャッシュレスが使えるタクシー会社はありますかね？	general,taxi
+134	1	SYSTEM	はい、キャッシュレス対応しております、都タクシー株式会社はいかがでしょう？	general,taxi
+134	2	USER	そこってジャンボタクシー使えますか？もしだめならジャンボが使えるところを教えてください。	general,taxi
+134	3	SYSTEM	ジャンボタクシーにも対応しております。電話番号は、0756616611になります。	general,taxi
+134	4	USER	良かったです。じゃあ4月26日、10次出発で、ホテル京阪 京都駅南からホテル京阪京都八条口まで予約したいんですけど。	general,taxi
+134	5	SYSTEM	承知致しました。予約完了致しまして、ご予約番号は、7272　となります。	general,taxi
+134	6	USER	手早くやっていただいて助かりました。お世話様でした。	general,taxi

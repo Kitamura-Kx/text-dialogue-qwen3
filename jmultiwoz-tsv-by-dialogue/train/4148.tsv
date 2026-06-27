@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4148	0	USER	すみません、京都に観光したいと思っています。ちょっと難しい条件かなと思うんですが、Wi-Fiが無料の牧場はありますか？	general,attraction,shopping
+4148	1	SYSTEM	申し訳ありません、ご案内可能な観光名所はございません。いかが致しましょう？	general,attraction,shopping
+4148	2	USER	さすがに牧場はありませんよね。では、ジャンルはこだわらないので、Wi-Fi無料の観光地をお願いします。	general,attraction,shopping
+4148	3	SYSTEM	ありがとうございます。エリアでいうと左京区に、国立京都国際会館がございます。ジャンルは、コンサート、ショーとなります。	general,attraction,shopping
+4148	4	USER	そちらにしたいと思います。電話番号と定休日も教えてくれますか？	general,attraction,shopping
+4148	5	SYSTEM	はい、電話番号は0757051218、定休日は年末年始となります。	general,attraction,shopping
+4148	6	USER	あと、当日ショッピングもしたいです。上京区で、駐車場が無料のお店を教えてください。	general,attraction,shopping
+4148	7	SYSTEM	はい、鶴屋𠮷信 本店はいかがでしょう？ジャンルは、お土産、食料品となります。	general,attraction,shopping
+4148	8	USER	そこにします。最寄り駅と、定休日と住所もわかりますか？	general,attraction,shopping
+4148	9	SYSTEM	住所は京都府京都市上京区今出川通堀川西入る、最寄りの今出川駅から徒歩で10分となります。定休日は、水曜日と、1月1日となります。	general,attraction,shopping
+4148	10	USER	わかりました。ありがとうございます！	general,attraction,shopping

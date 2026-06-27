@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2764	0	USER	仙台への旅行を計画しており、観光名所を探しています。条件として、ジャンルは歴史的建造物で最寄り駅が仙台駅でお願いできますか？	general,attraction,shopping,weather
+2764	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,attraction,shopping,weather
+2764	2	USER	それでは最寄駅は考慮しません。	general,attraction,shopping,weather
+2764	3	SYSTEM	ありがとうございます。では、エリアでいうと青葉区にある、大崎八幡宮 長床はいかがでしょう？	general,attraction,shopping,weather
+2764	4	USER	そちらの営業時間、子供の入場料、あと駐車場の有無を知りたいです。	general,attraction,shopping,weather
+2764	5	SYSTEM	はい、営業時間は0時から0時、駐車場は無料でご利用いただけます。子供入場料は必要なく、無料でご利用いただけます。	general,attraction,shopping,weather
+2764	6	USER	ありがとうございます。次に家電・電化製品が買えるところで無料の駐車場が利用できる所はありますか？	general,attraction,shopping,weather
+2764	7	SYSTEM	はい、エリアでいうと宮城野区にある、ヨドバシカメラマルチメディア仙台はいかがでしょう？	general,attraction,shopping,weather
+2764	8	USER	そちらの最寄駅と定休日を教えてください。	general,attraction,shopping,weather
+2764	9	SYSTEM	はい、最寄りの仙台駅から徒歩で1分となります。定休日はございません。	general,attraction,shopping,weather
+2764	10	USER	承知しました。最後に太白区の7/31の天候を調べてほしいです。	general,attraction,shopping,weather
+2764	11	SYSTEM	はい、天気は曇のち雨、最低気温17.1度、最高気温24.3度となります。	general,attraction,shopping,weather
+2764	12	USER	ありがとうございます。こちらからは以上です。	general,attraction,shopping,weather
+2764	13	SYSTEM	ありがとうございました。	general,attraction,shopping,weather

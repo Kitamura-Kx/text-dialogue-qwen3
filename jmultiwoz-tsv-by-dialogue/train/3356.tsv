@@ -1,0 +1,24 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3356	0	USER	大阪への旅行を計画中で、観光名所を探しています。	general,attraction,restaurant,weather
+3356	1	SYSTEM	51件ご紹介できます。	general,attraction,restaurant,weather
+3356	2	USER	ありがとうございます。無料駐車場付きで、工場見学のできる観光名所がいいです。	general,attraction,restaurant,weather
+3356	3	SYSTEM	申し訳ございません。ございません。	general,attraction,restaurant,weather
+3356	4	USER	分かりました。では、無料駐車場は無くても構いません。	general,attraction,restaurant,weather
+3356	5	SYSTEM	造幣局本局はいかがですか？	general,attraction,restaurant,weather
+3356	6	USER	そこにしようと思います。最寄りを教えてください。	general,attraction,restaurant,weather
+3356	7	SYSTEM	南森町駅です。	general,attraction,restaurant,weather
+3356	8	USER	ありがとうございます。当日無料Wi-fi付きで、安めのイタリアン・フレンチが食べられるお店を探しているのですが、ありますか？	general,attraction,restaurant,weather
+3356	9	SYSTEM	申し訳ございません。ございません。	general,attraction,restaurant,weather
+3356	10	USER	分かりました。では、予算は普通でも構いません。	general,attraction,restaurant,weather
+3356	11	SYSTEM	tres 世界のワイン博物館 グランフロント大阪店などはいかがですか？	general,attraction,restaurant,weather
+3356	12	USER	世界のワイン博物館 グランフロント大阪店にしようと思います。営業時間と定休日、電話番号を教えてください。	general,attraction,restaurant,weather
+3356	13	SYSTEM	営業時間は11:00～22:00、定休日はありません。電話番号は0663716978です。	general,attraction,restaurant,weather
+3356	14	USER	ありがとうございます。7/3の15:10に2名で予約して欲しいのですが、可能でしょうか。	general,attraction,restaurant,weather
+3356	15	SYSTEM	申し訳ございません。予約ができませんでした。	general,attraction,restaurant,weather
+3356	16	USER	分かりました。では、1名に変更してください。	general,attraction,restaurant,weather
+3356	17	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は58516です	general,attraction,restaurant,weather
+3356	18	USER	ありがとうございます。7/3の阿倍野区の天気と最低気温を教えてください。	general,attraction,restaurant,weather
+3356	19	SYSTEM	雨のち晴、最低気温は25.3度です。	general,attraction,restaurant,weather
+3356	20	USER	助かりました。ありがとうございます。	general,attraction,restaurant,weather
+3356	21	SYSTEM	よろしくお願いいたします。	general,attraction,restaurant,weather
+3356	22	USER	では、失礼します。	general,attraction,restaurant,weather

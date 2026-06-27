@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1716	0	USER	那覇への旅行を考えています。当日買い物ができるところを教えてください。	general,shopping,attraction
+1716	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,attraction
+1716	2	USER	地区は小禄で駐車場は無料で利用できるところが良いです。	general,shopping,attraction
+1716	3	SYSTEM	ではLEO & JOEはいかがでしょうか。	general,shopping,attraction
+1716	4	USER	底が良さそうですね。そこの営業時間と住所と定休日を教えてください。	general,shopping,attraction
+1716	5	SYSTEM	営業時間は10:00～18:00で、住所は沖縄県那覇市小禄４４３−１、定休日は無しでございます。	general,shopping,attraction
+1716	6	USER	あと当日訪れる観光名所を探しているのですが駐車場が無料のところを教えてください。	general,shopping,attraction
+1716	7	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,shopping,attraction
+1716	8	USER	でしたら、駐車場はなくても良いです。	general,shopping,attraction
+1716	9	SYSTEM	では那覇市歴史博物館はいかがでしょうか。	general,shopping,attraction
+1716	10	USER	そこが良さそうですね。そこの営業時間と定休日とジャンルを教えてください。	general,shopping,attraction
+1716	11	SYSTEM	営業時間は10:00～19:00、定休日は木, 年末年始で、ジャンルは美術館・博物館でございます。	general,shopping,attraction
+1716	12	USER	分かりました。ありがとうございます。	general,shopping,attraction
+1716	13	SYSTEM	ほかにご用件はございますか。	general,shopping,attraction
+1716	14	USER	大丈夫です。ありがとうございました。	general,shopping,attraction
+1716	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction

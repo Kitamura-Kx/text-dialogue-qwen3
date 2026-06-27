@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4530	0	USER	大阪へ旅行するのですが駐車場が無料の書店を探しています。	general,shopping
+4530	1	SYSTEM	大阪で駐車場無料の書籍といえば、MARUZEN&ジュンク堂書店 梅田店、こちらになります。	general,shopping
+4530	2	USER	そこにします。電話番号を教えて下さい。あとエリアや住所もわかりますか？	general,shopping
+4530	3	SYSTEM	電話番号は0662927383、エリアは北区、住所は大阪府大阪市北区茶屋町7-20チャスカ茶屋町地下1階～7階になります。	general,shopping
+4530	4	USER	すごく助かりました！ありがとうございました。	general,shopping
+4530	5	SYSTEM	よい旅を	general,shopping

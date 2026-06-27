@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2185	0	USER	横浜へ行く予定があります。当日泊まれるシティホテルを探していただけますか。最寄り駅が新子安駅のところがよいです。	general,hotel,restaurant
+2185	1	SYSTEM	申し訳ございません。その条件ですとご案内出来るホテルをお探しすることが出来ませんでした。	general,hotel,restaurant
+2185	2	USER	では、最寄り駅は考慮しなくて大丈夫です。	general,hotel,restaurant
+2185	3	SYSTEM	かしこまりました。それではホテルメルパルク横浜はいかがでしょうか？	general,hotel,restaurant
+2185	4	USER	そちらは、駐車場はありますか。チェックアウト終了時刻も教えてください。	general,hotel,restaurant
+2185	5	SYSTEM	はい、駐車場は有料ですが、ございます。チェックアウト終了時刻は午前10時でございます。	general,hotel,restaurant
+2185	6	USER	では、1月6日から3泊、4名で予約をお願いします。	general,hotel,restaurant
+2185	7	SYSTEM	かしこまりました。予約番号34119でお取りさせていただきました。	general,hotel,restaurant
+2185	8	USER	ありがとうございます。そうしましたら、当日食事をするお店も探してください。	general,hotel,restaurant
+2185	9	SYSTEM	かしこまりました。横浜の飲食店は119件ほどございますが、何かご希望ありますでしょうか？	general,hotel,restaurant
+2185	10	USER	港北区で予算安めでお願いします。	general,hotel,restaurant
+2185	11	SYSTEM	かしこまりました。それでは、焼鳥倶楽部はいかがでしょうか？	general,hotel,restaurant
+2185	12	USER	そちらのジャンル、営業時間、近辺の駅からの所要時間も教えてください。	general,hotel,restaurant
+2185	13	SYSTEM	はい、ジャンルは居酒屋, 洋食・西洋料理, 和食でございます。営業時間は午前11時から午後11時です。場所は新横浜駅から徒歩で3分でございます。	general,hotel,restaurant
+2185	14	USER	ありがとうございます。では、1月6日の15時10分、3名で予約をお願いしたいです。	general,hotel,restaurant
+2185	15	SYSTEM	ありがとうございます。予約番号71105でお取りさせていただきました。	general,hotel,restaurant
+2185	16	USER	ありがとうございました。お世話になりました。	general,hotel,restaurant

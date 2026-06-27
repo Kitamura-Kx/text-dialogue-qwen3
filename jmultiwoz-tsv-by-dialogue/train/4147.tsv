@@ -1,0 +1,4 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4147	0	USER	こんにちは。札幌の観光地に行きたいんですけど、駐車場とWi-Fiを無料で使えるところをお願いします。	general,attraction
+4147	1	SYSTEM	承知しました。エリアでいうと豊平区にある、クラーク博士像はいかがでしょう？ジャンルは、記念碑、像、展望台、タワーとなります。	general,attraction
+4147	2	USER	クラーク博士、定番ですよね！ありがとうございました。	general,attraction

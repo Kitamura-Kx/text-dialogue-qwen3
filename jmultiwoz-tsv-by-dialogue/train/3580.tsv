@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3580	0	USER	今度東京へ行くんですが、台東区で無料駐車場がある買い物施設を探してもらえますか？	general,shopping,hotel
+3580	1	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,hotel
+3580	2	USER	そうですか。じゃあその他の地区でも探してください。	general,shopping,hotel
+3580	3	SYSTEM	ではKITTE丸の内はいかがでしょうか。	general,shopping,hotel
+3580	4	USER	ありがとうございます。ではそこの最寄り駅と近辺の駅からの所要時間と電話番号も教えてもらえますか。	general,shopping,hotel
+3580	5	SYSTEM	最寄り駅が東京駅で、東京駅から徒歩で1分、有楽町駅から徒歩で6分、二重橋前〈丸の内〉駅から徒歩で2分、大手町駅から徒歩で4分となっております。電話番号は0332162811でございます。	general,shopping,hotel
+3580	6	USER	ありがとうございます。あと、レストランが併設されていて、駐車場無料の宿泊施設を探してもらえますか？	general,shopping,hotel
+3580	7	SYSTEM	では帝国ホテル東京はいかがでしょうか。	general,shopping,hotel
+3580	8	USER	そこの住所と値段帯も教えてもらえますか？	general,shopping,hotel
+3580	9	SYSTEM	住所は東京都千代田区内幸町1丁目1-1で、値段帯は普通でございます。	general,shopping,hotel
+3580	10	USER	ありがとうございました。以上で結構です。	general,shopping,hotel
+3580	11	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel

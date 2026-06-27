@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3682	0	USER	こんにちは。今度京都に行くのですが、どこか買い物ができるところはありますか？	general,shopping,hotel
+3682	1	SYSTEM	はい。49件見つかりました。何か他の希望の要件はございますか？	general,shopping,hotel
+3682	2	USER	南区で、駐車場を無料で利用できるところがいいです。	general,shopping,hotel
+3682	3	SYSTEM	申し訳ございません。条件に合う買い物店舗は見つかりませんでした。	general,shopping,hotel
+3682	4	USER	では、駐車場はなくても構いません。	general,shopping,hotel
+3682	5	SYSTEM	かしこまりました。では、ABC−MART 京都アバンティ店はいかがでしょうか？	general,shopping,hotel
+3682	6	USER	ありがとうございます。そちらの電話番号を教えてください。	general,shopping,hotel
+3682	7	SYSTEM	はい。電話番号は0756939560です。	general,shopping,hotel
+3682	8	USER	ありがとうございます。あと、当日の宿泊施設を探しています。予算は高めで、駐車場が無料のところはありますか？	general,shopping,hotel
+3682	9	SYSTEM	かしこまりました。では、京都 高瀬川別邸はいかがでしょうか？	general,shopping,hotel
+3682	10	USER	そこに行ってみます。そちらの、レストランの有無は分かりますか？	general,shopping,hotel
+3682	11	SYSTEM	はい。レストランは無しとなっております。	general,shopping,hotel
+3682	12	USER	承知しました。では、6/10に3名で４泊、予約をお願いできますでしょうか？	general,shopping,hotel
+3682	13	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,shopping,hotel
+3682	14	USER	では、人数を２名にしてください。	general,shopping,hotel
+3682	15	SYSTEM	かしこまりました。ご予約承りました。予約番号は、1562です。	general,shopping,hotel
+3682	16	USER	ありがとうございました！以上です。	general,shopping,hotel
+3682	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel

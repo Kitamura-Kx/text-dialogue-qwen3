@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3415	0	USER	東京の江東区でWi-Fiが無料の観光名所はありますか？	general,attraction,taxi,weather
+3415	1	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,attraction,taxi,weather
+3415	2	USER	江東区じゃない所だったらありますか？	general,attraction,taxi,weather
+3415	3	SYSTEM	東京スカイツリーは、いかがですか？	general,attraction,taxi,weather
+3415	4	USER	そこに行きたいです。定休日はありますか？	general,attraction,taxi,weather
+3415	5	SYSTEM	定休日は、無しとなっています。	general,attraction,taxi,weather
+3415	6	USER	わかりました。その日にジャンボタクシーを利用したいのですがありますか？	general,attraction,taxi,weather
+3415	7	SYSTEM	大国自動車交通は、いかがでしょうか？	general,attraction,taxi,weather
+3415	8	USER	そこにします！電話番号を教えてください。	general,attraction,taxi,weather
+3415	9	SYSTEM	電話番号は、0357552151です。	general,attraction,taxi,weather
+3415	10	USER	ありがとうございます。2269 AZAVUから東京スカイツリーまでのタクシーを8/10の12：30に予約したいです。	general,attraction,taxi,weather
+3415	11	SYSTEM	予約出来ました。予約番号は、69563です。	general,attraction,taxi,weather
+3415	12	USER	ありがとうございます。最後に8/10の港区の気温を教えてください。	general,attraction,taxi,weather
+3415	13	SYSTEM	その日の天気は晴となっています。	general,attraction,taxi,weather
+3415	14	USER	気温はどうですか？	general,attraction,taxi,weather
+3415	15	SYSTEM	最高気温は、35.1度で最低気温は27.2度となっています。	general,attraction,taxi,weather
+3415	16	USER	わかりました。ありがとうございました。	general,attraction,taxi,weather
+3415	17	SYSTEM	他にご用件はありますか？	general,attraction,taxi,weather
+3415	18	USER	大丈夫です。	general,attraction,taxi,weather
+3415	19	SYSTEM	承知致しました。ありがとうございました。	general,attraction,taxi,weather

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3091	0	USER	福岡への旅行を考えています．うどん，そばが食べられるお店を探したいです．	general,restaurant,hotel,weather
+3091	1	SYSTEM	かしこまりました。では、小麦ざんまいはいかがでしょうか？	general,restaurant,hotel,weather
+3091	2	USER	なるほど，そこは駐車場を無料で利用できますか．	general,restaurant,hotel,weather
+3091	3	SYSTEM	はい、無料でご利用いただけます。	general,restaurant,hotel,weather
+3091	4	USER	それではそこに行こうと思います．最寄駅を教えていただけますか．	general,restaurant,hotel,weather
+3091	5	SYSTEM	最寄りは次郎丸駅です。徒歩１分でアクセスできます。	general,restaurant,hotel,weather
+3091	6	USER	ありがとうございます．あと宿泊施設も探しています．レストランが併設されていてWiFiが無料で使えるところはありますか	general,restaurant,hotel,weather
+3091	7	SYSTEM	はい、ございます。たとえば、博多区エリアの&HOTEL HAKATAは、いかがでしょうか？	general,restaurant,hotel,weather
+3091	8	USER	ぴったりです．そちらのチェックアウト時刻と住所を教えてください	general,restaurant,hotel,weather
+3091	9	SYSTEM	かしこまりました。チェックアウトは１３時までです。住所は、福岡県福岡市博多区冷泉町9-6でございます。	general,restaurant,hotel,weather
+3091	10	USER	ではそこを予約したいです．人数は4人で10月1日から３泊お願いします	general,restaurant,hotel,weather
+3091	11	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、25974です。	general,restaurant,hotel,weather
+3091	12	USER	ありがとうございます．10月1日の西区の天気はどうでしょうか	general,restaurant,hotel,weather
+3091	13	SYSTEM	当日の天気は、晴のち雨の予報です。最低気温は14.2度、最高気温は25.3度の予想となっております。	general,restaurant,hotel,weather
+3091	14	USER	わかりました．ありがとうございました．	general,restaurant,hotel,weather
+3091	15	SYSTEM	ほかに何かお調べすることはございませんか？	general,restaurant,hotel,weather
+3091	16	USER	はい，大丈夫です．	general,restaurant,hotel,weather
+3091	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,hotel,weather

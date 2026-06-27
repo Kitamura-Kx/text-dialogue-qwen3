@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2021	0	USER	那覇で、無料Wi-Fiが利用できる安い飲食店を探しています。	general,restaurant,weather
+2021	1	SYSTEM	承知しました。エリアでいうと本庁にある、POCO CAFE OKINAWAはいかがでしょう？ジャンルはカフェ、スイーツ、となります。	general,restaurant,weather
+2021	2	USER	ありがとうございます。そのお店の住所と営業時間、駐車場があるかどうかも教えて下さい。	general,restaurant,weather
+2021	3	SYSTEM	住所は沖縄県那覇市牧志1丁目3-62-1階、営業時間は10時から22時となります。駐車場は有料ですがご利用いただけます。	general,restaurant,weather
+2021	4	USER	ありがとうございます。７月１１日の小禄地区の天気と最高気温も調べてもらえますか？	general,restaurant,weather
+2021	5	SYSTEM	はい、天気は曇のち晴、最高気温33.9度となります。他にご用件はございますか？	general,restaurant,weather
+2021	6	USER	大丈夫です。ありがとうございました。	general,restaurant,weather
+2021	7	SYSTEM	ありがとうございました。	general,restaurant,weather

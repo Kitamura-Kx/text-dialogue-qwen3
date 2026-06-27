@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1561	0	USER	横浜へ行きたいのですが。	general,attraction,taxi
+1561	1	SYSTEM	ご利用ありがとうございます。本日は横浜の、どういった情報をお探しでしょうか？	general,attraction,taxi
+1561	2	USER	保土ヶ谷区で無料駐車場がある観光名所はありますか？	general,attraction,taxi
+1561	3	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,attraction,taxi
+1561	4	USER	そうですか。では、地区は違ってよいので他のエリアではありますか？	general,attraction,taxi
+1561	5	SYSTEM	ありがとうございます。そうしますと、14件ほどご案内可能です。たとえば、中区エリアのカップヌードルミュージアム 横浜というところは、ご興味ございませんか？	general,attraction,taxi
+1561	6	USER	いいと思います。ジャンルはどういったジャンルですか？	general,attraction,taxi
+1561	7	SYSTEM	美術館・博物館, 工場見学となっております。	general,attraction,taxi
+1561	8	USER	ありがとうございます。そちらに行ってみようと思います。当日利用できる。タクシー会社を探していただけますか？キャッシュレス払いができて、ジャンボタクシーが利用できるところがいいです。	general,attraction,taxi
+1561	9	SYSTEM	かしこまりました。では、国際自動車株式会社はいかがでしょうか？	general,attraction,taxi
+1561	10	USER	そちらでお願いします。タクシー会社の電話番号を教えてください。	general,attraction,taxi
+1561	11	SYSTEM	はい。電話番号は、0120385931でございます。	general,attraction,taxi
+1561	12	USER	ありがとうございます。では4/13に11:30に海の公園を出発地にしてカップヌードルミュージアム 横浜まで予約をして頂けますか？	general,attraction,taxi
+1561	13	SYSTEM	かしこまりました。ご希望の条件でご予約をおとりしました。予約番号は、72095です。	general,attraction,taxi
+1561	14	USER	ありがとうございます。	general,attraction,taxi
+1561	15	SYSTEM	ほかにお手伝いできることはございませんか？	general,attraction,taxi
+1561	16	USER	特にありません。ありがとうございました。	general,attraction,taxi
+1561	17	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,attraction,taxi

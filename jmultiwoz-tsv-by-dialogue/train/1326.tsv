@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1326	0	USER	大阪への旅行を計画しているのですが。	general,attraction
+1326	1	SYSTEM	はい。お問合せありがとうございます。	general,attraction
+1326	2	USER	当日訪れる観光名所を探してほしいです。名前が京セラドーム大阪というところです．	general,attraction
+1326	3	SYSTEM	承知しました。こちらでお調べいたしました。	general,attraction
+1326	4	USER	ありがとうございます。そちらの最寄り駅，営業時間を教えていただけますか。	general,attraction
+1326	5	SYSTEM	最寄り駅はドーム前千代崎駅で、営業時間はイベントにより異なると記載されています。	general,attraction
+1326	6	USER	わかりました。ありがとうございます。	general,attraction

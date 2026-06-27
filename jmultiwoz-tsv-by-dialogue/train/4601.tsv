@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4601	0	USER	東京への旅行を計画しています． 当日訪れる観光名所を探してください．駐車場を無料で利用できるところにしてください．	general,attraction
+4601	1	SYSTEM	豪徳寺はいかがでしょうか。	general,attraction
+4601	2	USER	そちらの営業時間を教えていただけますか。	general,attraction
+4601	3	SYSTEM	営業時間 06:00～17:00になります。	general,attraction
+4601	4	USER		general,attraction

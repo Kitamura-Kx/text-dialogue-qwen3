@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1365	0	USER	福岡へ旅行に行くので、宿泊施設を探してください。	general,hotel,shopping,restaurant
+1365	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,hotel,shopping,restaurant
+1365	2	USER	地区は東区で、Wi-Fiが無料で利用できるところにしてください。	general,hotel,shopping,restaurant
+1365	3	SYSTEM	では、The358 SORAはいかがでしょうか？お値段がお安めのリゾートホテルとなっております。	general,hotel,shopping,restaurant
+1365	4	USER	そちらのチェックアウト終了時刻、レストランの有無、近辺の駅からの所要時間を教えてください。	general,hotel,shopping,restaurant
+1365	5	SYSTEM	チェックアウト終了は、11時までです。レストランは併設しております。最寄りの雁ノ巣駅からは、タクシーで9分ほどかかる場所にございます。	general,hotel,shopping,restaurant
+1365	6	USER	ありがとうございます。次に買い物ができるところを探してください。	general,hotel,shopping,restaurant
+1365	7	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,hotel,shopping,restaurant
+1365	8	USER	ジャンルはコンビニで、地区は東区、駐車場を無料で利用できるところにしてください。	general,hotel,shopping,restaurant
+1365	9	SYSTEM	そうしますと、セブンイレブン 福岡箱崎店の1件がご案内可能です。如何でしょうか？	general,hotel,shopping,restaurant
+1365	10	USER	そちらの近辺の駅からの所要時間と住所を教えてください。	general,hotel,shopping,restaurant
+1365	11	SYSTEM	かしこまりました。最寄りの箱崎九大前駅から徒歩で3分、または、箱崎宮前駅から徒歩で8分となります。	general,hotel,shopping,restaurant
+1365	12	USER	ありがとうございます。あと住所もお願いいたします。	general,hotel,shopping,restaurant
+1365	13	SYSTEM	大変失礼いたしました。住所は、福岡県福岡市東区箱崎3丁目37-13でございます。	general,hotel,shopping,restaurant
+1365	14	USER	ありがとうございます。あとは食事ができる飲食店を探してほしいです。	general,hotel,shopping,restaurant
+1365	15	SYSTEM	かしこまりました。お食事のジャンルやエリアなど、何かご希望はございますか？	general,hotel,shopping,restaurant
+1365	16	USER	ジャンルはホテルレストランで、予算は安め、地区は東区でお願いします。	general,hotel,shopping,restaurant
+1365	17	SYSTEM	そういたしますと、レストラン サラフルというところはいかがでしょうか？最寄りは箱崎宮前駅となっております。	general,hotel,shopping,restaurant
+1365	18	USER	そちらの電話番号を教えてください	general,hotel,shopping,restaurant
+1365	19	SYSTEM	電話番号は、0926417741でございます。	general,hotel,shopping,restaurant
+1365	20	USER	ではそのお店で予約お願いします。人数は2人、日付は8/10、時間は16:50です。	general,hotel,shopping,restaurant
+1365	21	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、39003です。	general,hotel,shopping,restaurant
+1365	22	USER	ありがとうございました。以上です。	general,hotel,shopping,restaurant
+1365	23	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,shopping,restaurant

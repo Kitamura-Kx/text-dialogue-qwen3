@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1170	0	USER	札幌へ行くんですが、南区に無料駐車場がある観光名所はありますか？	general,attraction,weather
+1170	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,attraction,weather
+1170	2	USER	そうなんですね。じゃあ駐車場はなくてもいいです。	general,attraction,weather
+1170	3	SYSTEM	ありがとうございます。そうしますと、4件ほどご案内可能です。たとえば、アシリベツの滝というところがございますが、いかがでしょうか？	general,attraction,weather
+1170	4	USER	ありがとうございます。そこの子どもの入場料と電話番号も教えてもらえますか？	general,attraction,weather
+1170	5	SYSTEM	お子様も大人も入場料は0円で、無料でございます。電話番号は、0115923333です。	general,attraction,weather
+1170	6	USER	ありがとうございます。じゃあ、12/24の厚別区の最高気温はわかりますか？	general,attraction,weather
+1170	7	SYSTEM	はい。当日の最高気温は、5.9度の予想です。尚、天気は晴れの予報となっております。	general,attraction,weather
+1170	8	USER	わかりました。以上です。ありがとうございました。	general,attraction,weather
+1170	9	SYSTEM	ほかに何かお調べすることはございませんか？	general,attraction,weather
+1170	10	USER	はい、大丈夫です。	general,attraction,weather
+1170	11	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,attraction,weather

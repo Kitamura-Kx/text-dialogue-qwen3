@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2267	0	USER	大阪旅行に行く際に買い物できる場所を調べて頂けますか？	general,shopping,restaurant
+2267	1	SYSTEM	はい、ご希望の条件をお聞かせください。	general,shopping,restaurant
+2267	2	USER	中央区で駐車場を無料で利用できる場所はありますか？	general,shopping,restaurant
+2267	3	SYSTEM	中央区で駐車場無料といえば、いくつかありますが、なんばCITYをお勧めします。	general,shopping,restaurant
+2267	4	USER	ではそちらに行きたいと思います。営業時間も教えていただけますか？	general,shopping,restaurant
+2267	5	SYSTEM	朝１１時から、夜９時までです。	general,shopping,restaurant
+2267	6	USER	ありがとうございます。当日食事ができる飲食店も教えて頂きたいのですが、天王寺区地区で、Wi-Fiが無料で利用できるお店はありそうですか？	general,shopping,restaurant
+2267	7	SYSTEM	天王寺区地区で、Wi-Fiが無料で利用できるお店はなさそうです。	general,shopping,restaurant
+2267	8	USER	では、場所はどこでも構いません。	general,shopping,restaurant
+2267	9	SYSTEM	大阪全体でWiFi無料の飲食店は１５件あります。追加の希望条件はありますか？	general,shopping,restaurant
+2267	10	USER	特にありません。	general,shopping,restaurant
+2267	11	SYSTEM	では、大阪らしく、牛すじホルモン 二刀流武蔵をお勧めします。	general,shopping,restaurant
+2267	12	USER	では、そちらに行きたいと思います。値段帯と電話番号、あと定休日の情報はありますか？	general,shopping,restaurant
+2267	13	SYSTEM	値段帯は大阪らしく安め、電話は0662516348、日曜日が定休ですね。	general,shopping,restaurant
+2267	14	USER	ありがとうございます。人数は2人で7/15の11:20から予約をしたいのですが可能でしょうか。	general,shopping,restaurant
+2267	15	SYSTEM	その条件だと予約に失敗してしまいました。	general,shopping,restaurant
+2267	16	USER	人数が1人だと予約できますか？	general,shopping,restaurant
+2267	17	SYSTEM	予約成功しました。予約番号は77570です。	general,shopping,restaurant
+2267	18	USER	ありがとうございました。	general,shopping,restaurant

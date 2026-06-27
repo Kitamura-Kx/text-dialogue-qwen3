@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3554	0	USER	横浜への旅行を計画しています。 当日食事ができる飲食店を探してください。	general,restaurant,weather,taxi
+3554	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,weather,taxi
+3554	2	USER	Wi-Fiが無料で利用できるところ、予算は高めが希望です．	general,restaurant,weather,taxi
+3554	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,restaurant,weather,taxi
+3554	4	USER	それではWi-Fiの有無は考慮しないものとします。	general,restaurant,weather,taxi
+3554	5	SYSTEM	では横浜 星のなる木はいかがでしょうか。	general,restaurant,weather,taxi
+3554	6	USER	当日の天候が知りたいです。日付は12/7、地区は金沢区です。	general,restaurant,weather,taxi
+3554	7	SYSTEM	天気は雨、最低気温が8.5度で最高気温が12度でございます。	general,restaurant,weather,taxi
+3554	8	USER	あと、キャッシュレス払いできるタクシー会社を探してほしいです。	general,restaurant,weather,taxi
+3554	9	SYSTEM	申し訳ございません。キャッシュレスに対応している会社がございません。いかがなさいますか。	general,restaurant,weather,taxi
+3554	10	USER	それではキャッシュレス払いの可否は考慮しないものとします。	general,restaurant,weather,taxi
+3554	11	SYSTEM	ではアイ株式会社がございます。	general,restaurant,weather,taxi
+3554	12	USER	ジャンボタクシー対応はどうでしょうか。	general,restaurant,weather,taxi
+3554	13	SYSTEM	ジャンボタクシーにも非対応でございます。	general,restaurant,weather,taxi
+3554	14	USER	それでは予約してください。日付は12/7、時間は14:50、出発地は横浜 星のなる木、目的地は女性専用ドミトリーHACO.(ハコ。)というところです。	general,restaurant,weather,taxi
+3554	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は37439でございます。	general,restaurant,weather,taxi
+3554	16	USER	解決しました。ありがとうございました。	general,restaurant,weather,taxi
+3554	17	SYSTEM	本日はありがとうございました。	general,restaurant,weather,taxi

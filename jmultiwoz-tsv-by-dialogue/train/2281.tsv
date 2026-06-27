@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2281	0	USER	那覇で、wifiと駐車場が無料で使える観光名所を教えて下さい。	general,attraction
+2281	1	SYSTEM	はい、エリアでいうと首里にある、国営沖縄記念公園はいかがでしょう？	general,attraction
+2281	2	USER	そちらの営業時間はわかりますか？	general,attraction
+2281	3	SYSTEM	はい、8時30分から18時となります。	general,attraction
+2281	4	USER	わかりました。ありがとうございました。	general,attraction

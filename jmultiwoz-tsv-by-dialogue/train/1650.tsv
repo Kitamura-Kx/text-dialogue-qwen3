@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1650	0	USER	仙台への旅行を計画しているのですが、観光名所を教えていただけますか？	general,attraction,shopping,taxi
+1650	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,shopping,taxi
+1650	2	USER	青葉区が希望です。	general,attraction,shopping,taxi
+1650	3	SYSTEM	では、大崎八幡宮 大石段はいかがでしょう？ジャンルは、神社、寺院、教会、モニュメントなど、散策エリア、となります。	general,attraction,shopping,taxi
+1650	4	USER	いいですね。そちらは駐車場は無料になりますか？無料の場所がいいのですが。	general,attraction,shopping,taxi
+1650	5	SYSTEM	はい、駐車場は無料でご利用いただけます。	general,attraction,shopping,taxi
+1650	6	USER	買い物もしたいのですが、駐車場が無料の場所はありますか？	general,attraction,shopping,taxi
+1650	7	SYSTEM	はい、他にご希望はございますか？	general,attraction,shopping,taxi
+1650	8	USER	はい、宮城野区で探してもらえますか？	general,attraction,shopping,taxi
+1650	9	SYSTEM	申し訳ありません。そのエリアではご紹介できません。いかが致しますか？	general,attraction,shopping,taxi
+1650	10	USER	では、太白区でお願いします。	general,attraction,shopping,taxi
+1650	11	SYSTEM	ありがとうございます。IKEA 仙台がございます。ジャンルは食料品、文房具、雑貨、ファッション、となります。	general,attraction,shopping,taxi
+1650	12	USER	営業時間と、近くの駅からの所要時間を教えて頂けますか？	general,attraction,shopping,taxi
+1650	13	SYSTEM	はい、営業時間は10時から19時、最寄りの長町駅から徒歩で3分となります。	general,attraction,shopping,taxi
+1650	14	USER	ありがとうございます。当日タクシーに乗りたいのですが、キャッシュレス払いのできるジャンボタクシーをお願いします。	general,attraction,shopping,taxi
+1650	15	SYSTEM	申し訳ありません。その条件ではご案内できないのですが、いかが致しましょう？	general,attraction,shopping,taxi
+1650	16	USER	では、ジャンボタクシーではないタクシー会社はありますか？	general,attraction,shopping,taxi
+1650	17	SYSTEM	はい、（株）青葉タクシーはいかがでしょう？電話番号は、0222587879となります。	general,attraction,shopping,taxi
+1650	18	USER	はい、そちらで3/14の16:30の予約は可能でしょうか？大崎八幡宮 大石段からIKEA 仙台までお願いしたいのですが。	general,attraction,shopping,taxi
+1650	19	SYSTEM	申し訳ありません、この条件では予約できませんでした。いかがされますか？	general,attraction,shopping,taxi
+1650	20	USER	時間を17：20に変更ではどうですか？	general,attraction,shopping,taxi
+1650	21	SYSTEM	ありがとうございます。予約が可能になりまして、ご予約番号は、68766となります。	general,attraction,shopping,taxi
+1650	22	USER	ありがとうございます。	general,attraction,shopping,taxi
+1650	23	SYSTEM	他にご用件はございますか？	general,attraction,shopping,taxi
+1650	24	USER	大丈夫です。ありがとうございました。	general,attraction,shopping,taxi
+1650	25	SYSTEM	ありがとうございました。	general,attraction,shopping,taxi

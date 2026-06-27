@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2974	0	USER	今度東京へ行くんですが、無料駐車場があってWi-Fiも無料の飲食店を探してもらえますか？	general,restaurant
+2974	1	SYSTEM	承知しました。エリアでいうと港区に、バルバッコア 六本木ヒルズ店がございます。ジャンルは、洋食、西洋料理、居酒屋となります。	general,restaurant
+2974	2	USER	ありがとうございます。そこの営業時間と料金情報と近辺の駅からの所要時間も教えてもらえますか？	general,restaurant
+2974	3	SYSTEM	営業時間は11時から16時と、17時30分から22時、最寄りの六本木駅から徒歩で1分となります。料金情報として、シュラスコが6600円、カイピリーニャが990円、ピッカーニャステーキランチが2700円 となります。	general,restaurant
+2974	4	USER	ありがとうございました。以上で結構です。	general,restaurant
+2974	5	SYSTEM	ありがとうございました。	general,restaurant

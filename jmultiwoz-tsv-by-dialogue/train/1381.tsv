@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1381	0	USER	名古屋へ旅行に行きたく、キャッシュレス払いができてジャンボタクシーがあるタクシー会社はありますか？	general,taxi
+1381	1	SYSTEM	瑞穂タクシーは、いかがですか？	general,taxi
+1381	2	USER	そちらの電話番号を教えてほしいです。	general,taxi
+1381	3	SYSTEM	電話番号は、0523311680です。	general,taxi
+1381	4	USER	ありがとうございます。それでは予約をお願いします。日時は1/19、13:00で出発地はグリーンリッチホテル名古屋錦 人工温泉・二股湯の華でジェイアール名古屋タカシマヤまででお願いします。	general,taxi
+1381	5	SYSTEM	予約が完了しました。　予約番号は、59191です。	general,taxi
+1381	6	USER	予約ありがとうございます。こちらからのご依頼は以上です。	general,taxi
+1381	7	SYSTEM	承知致しました。　ありがとうございました。	general,taxi

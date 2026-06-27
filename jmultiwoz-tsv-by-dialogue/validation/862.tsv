@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+862	0	USER	横浜へ旅行に行くのですが「オッティモ・シーフード・ガーデン 横浜店」という飲食店はありますか？	general,restaurant,taxi
+862	1	SYSTEM	はい、ジャンルはイタリアン、フレンチ、エリアは西区、最寄りの横浜駅から徒歩で1分となります。	general,restaurant,taxi
+862	2	USER	有難うございます、当日はジャンボタクシーを利用したいのですがキャッシュレス払いと合わせて対応できるタクシー会社はありますか？	general,restaurant,taxi
+862	3	SYSTEM	申し訳ありません。その条件ではご紹介ができません。いかが致しましょう？	general,restaurant,taxi
+862	4	USER	それではジャンボタクシーでは無くてもよいので、キャッシュレス払いに対応したタクシー会社でお願いします	general,restaurant,taxi
+862	5	SYSTEM	はい、それでは、横浜北交通株式会社はいかがでしょう？電話番号は0120915502になります。	general,restaurant,taxi
+862	6	USER	それでは1月18日11:00に「オッティモ・シーフード・ガーデン 横浜店」お願いします。行先は「ファミリーマート 阪東橋東口店」でお願いします	general,restaurant,taxi
+862	7	SYSTEM	申し訳ありません、その条件では予約ができません。いかが致しましょう？	general,restaurant,taxi
+862	8	USER	11:40ではどうでしょうか？	general,restaurant,taxi
+862	9	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、75850となります。	general,restaurant,taxi
+862	10	USER	他は大丈夫です有難うございました	general,restaurant,taxi

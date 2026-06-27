@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+708	0	USER	札幌の南区で、買い物をしたいです。駐車場無料のところはありますか？	general,shopping,taxi,weather
+708	1	SYSTEM	はい、ジェラート札幌果林樹がございます。何かご案内致しましょうか？	general,shopping,taxi,weather
+708	2	USER	ジェラートよいですね！ではタクシーを予約したいです。ジャンボタクシーが使えるところはありますか？	general,shopping,taxi,weather
+708	3	SYSTEM	はい、北都ベリアールサービス(株)はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0118202200となります。予約されますか？	general,shopping,taxi,weather
+708	4	USER	はい、12/29 12時半にベストウェスタン札幌大通公園まで来て欲しいです。目的地は、さきほどのジェラート札幌果林樹です。	general,shopping,taxi,weather
+708	5	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,shopping,taxi,weather
+708	6	USER	そうなのですね。では時間を13:10に変更したら、どうですか？	general,shopping,taxi,weather
+708	7	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、21913となります。他にご案内できることはございますか？	general,shopping,taxi,weather
+708	8	USER	中央区の天候も知りたいです。12/29の最高気温はどれくらいですか？	general,shopping,taxi,weather
+708	9	SYSTEM	はい、天気は晴時々雪、最低気温-5.3度、最高気温5.2度となります。他にご用件はございますか？	general,shopping,taxi,weather
+708	10	USER	寒そうですね。色々手伝っていただき助かりました。今日お願いしたいことは以上です。ありがとうございました。	general,shopping,taxi,weather
+708	11	SYSTEM	ありがとうございました。	general,shopping,taxi,weather

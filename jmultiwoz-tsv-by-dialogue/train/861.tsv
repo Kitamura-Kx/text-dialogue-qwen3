@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+861	0	USER	仙台で買い物できるところを探しています。	general,shopping,taxi
+861	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございませんか？	general,shopping,taxi
+861	2	USER	駐車場が無料で青葉区で医薬品・化粧品が良いです。	general,shopping,taxi
+861	3	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,taxi
+861	4	USER	では。医薬品・化粧品じゃなくても大丈夫です。	general,shopping,taxi
+861	5	SYSTEM	ありがとうございます。そうしますと、5件ご案内可能です。たとえば、お茶の井ヶ田 仙台中央本店というお土産, 食料品のお店はいかがでしょうか？	general,shopping,taxi
+861	6	USER	行ってみたいです。最寄り駅からどれくらいの時間がかかりますか？	general,shopping,taxi
+861	7	SYSTEM	最寄りのあおば通駅から徒歩で3分、広瀬通駅からも徒歩4分でアクセスできます。	general,shopping,taxi
+861	8	USER	そこにします。	general,shopping,taxi
+861	9	SYSTEM	ありがとうございます。他にお知りになりたい情報など、ございませんか？	general,shopping,taxi
+861	10	USER	キャッシュレス払いができるジャンボタクシーも探したいです。	general,shopping,taxi
+861	11	SYSTEM	かしこまりました。では、仙台タクシーグループはいかがでしょうか？電話番号は、0570061616です。	general,shopping,taxi
+861	12	USER	そこにします。予約もしたいです。	general,shopping,taxi
+861	13	SYSTEM	かしこまりました。ご利用予定の日付と出発時刻、出発地、目的地をお願いできますでしょうか？	general,shopping,taxi
+861	14	USER	11/20の14：40にさっきのお店からラドン温泉・岩盤浴 旅館天龍閣に行きたいです。	general,shopping,taxi
+861	15	SYSTEM	大変申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,shopping,taxi
+861	16	USER	15：10だとどうですか？	general,shopping,taxi
+861	17	SYSTEM	ありがとうございます。15時10分に、お茶の井ヶ田 仙台中央本店発、ラドン温泉・岩盤浴 旅館天龍閣着でご予約完了いたしました。予約番号は、76798です。	general,shopping,taxi
+861	18	USER	ありがとうございます。	general,shopping,taxi
+861	19	SYSTEM	他にお手伝いできることはございませんか？	general,shopping,taxi
+861	20	USER	大丈夫です。	general,shopping,taxi
+861	21	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,shopping,taxi

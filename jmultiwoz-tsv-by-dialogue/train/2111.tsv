@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2111	0	USER	こんにちは。仙台へ行きますので、飲食店を探しています。普通の予算で中華料理店を教えてもらえますか？	general,restaurant
+2111	1	SYSTEM	かしこまりました。では、仙台餃子酒場はいかがでしょうか？	general,restaurant
+2111	2	USER	ありがとうございます。そのお店があるエリアと、そこにWi-Fiがあるかどうかも知りたいです。	general,restaurant
+2111	3	SYSTEM	エリアは宮城野区です。Wi-Fiの有無は不明となっております。	general,restaurant
+2111	4	USER	分かりました。では予約をお願いします。9/22の12:30で、3名です。	general,restaurant
+2111	5	SYSTEM	かしこまりました。ご予約承りました。予約番号は、64916です。	general,restaurant
+2111	6	USER	ありがとうございました。今日はこれで大丈夫です。	general,restaurant
+2111	7	SYSTEM	承知しました。ありがとうございました。	general,restaurant

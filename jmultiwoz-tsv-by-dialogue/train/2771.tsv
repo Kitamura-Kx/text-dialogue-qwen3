@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2771	0	USER	那覇への旅行でホテルを探してます。	general,hotel
+2771	1	SYSTEM	承知しました。タイプがホテルということでしたら3種類ございますので、ご指定いただけますでしょうか？宿泊施設ということでしたら、他にご希望があれば教えていただけますでしょうか。	general,hotel
+2771	2	USER	ビジネスホテルがいいです。駐車場が無料のところはありますか？	general,hotel
+2771	3	SYSTEM	ありがとうございます。エリアでいうと小禄にある、チャビラホテル那覇はいかがでしょう？	general,hotel
+2771	4	USER	予算的に安い方がいいのですが、チャビラホテル那覇はどうですか？	general,hotel
+2771	5	SYSTEM	はい、値段帯は安めとなっております。	general,hotel
+2771	6	USER	いいですね。ではそこのチェックアウト終了時刻と電話番号を教えてもらえますか？	general,hotel
+2771	7	SYSTEM	はい、電話番号は0988401000、チェックアウト終了時刻は10時となります。	general,hotel
+2771	8	USER	そこにはレストランはありますか？	general,hotel
+2771	9	SYSTEM	申し訳ありません、レストランの有無については不明です。	general,hotel
+2771	10	USER	ありがとうございます。助かりました。	general,hotel
+2771	11	SYSTEM	他にご用件はございますか？	general,hotel
+2771	12	USER	特にありません。	general,hotel
+2771	13	SYSTEM	ありがとうございました。	general,hotel

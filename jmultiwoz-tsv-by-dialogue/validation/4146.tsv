@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4146	0	USER	こんにちは。京都旅行を計画しているんですが、駐車場が無料で使えて、太秦天神川駅で買い物できる店はありますか？	general,shopping,restaurant,weather
+4146	1	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,restaurant,weather
+4146	2	USER	丸太町駅ではどうですか？駐車場は無料でお願いします。	general,shopping,restaurant,weather
+4146	3	SYSTEM	では、エリアでいうと上京区にある、山田松香木店はいかがでしょう？ジャンルは、文房具、雑貨となります。	general,shopping,restaurant,weather
+4146	4	USER	そこにしたいです。駅から何分くらいですか？	general,shopping,restaurant,weather
+4146	5	SYSTEM	最寄りの丸太町駅から徒歩で7分となります。	general,shopping,restaurant,weather
+4146	6	USER	ありがとうございます。ついでに、お好み焼きとたこ焼きを食べられる、高めの店も知りたいです。	general,shopping,restaurant,weather
+4146	7	SYSTEM	申し訳ありません、この条件ではご案内ができません。いかが致しましょう？	general,shopping,restaurant,weather
+4146	8	USER	では、ホテルのレストランにしたいです。高めでお願いします。	general,shopping,restaurant,weather
+4146	9	SYSTEM	承知しました。エリアでいうと下京区にある、オールデイダイニング ラジョウはいかがでしょう？	general,shopping,restaurant,weather
+4146	10	USER	ありがとうございます。定休日はありますか？	general,shopping,restaurant,weather
+4146	11	SYSTEM	定休日は、月曜日と火曜日となります。	general,shopping,restaurant,weather
+4146	12	USER	ありがとうございます。楽しみです。ところで、12月10日の上京区の天気ってわかりますかね？	general,shopping,restaurant,weather
+4146	13	SYSTEM	はい、天気は雪のち曇、最低気温-1.2度、最高気温16.6度 となります。	general,shopping,restaurant,weather
+4146	14	USER	よくわかりました。ご対応ありがとうございます！	general,shopping,restaurant,weather

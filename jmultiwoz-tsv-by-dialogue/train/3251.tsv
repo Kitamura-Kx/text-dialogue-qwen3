@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3251	0	USER	京都への旅行を検討しています。当日の上京区の天候を知りたいのですが、よろしいでしょうか？	general,weather,taxi
+3251	1	SYSTEM	日付をお願いします	general,weather,taxi
+3251	2	USER	5月27日でお願いします。	general,weather,taxi
+3251	3	SYSTEM	5/27 京都 上京区 の天気は雨です。	general,weather,taxi
+3251	4	USER	ありがとうございます。最低気温も教えて頂けますか？	general,weather,taxi
+3251	5	SYSTEM	18.3度です。	general,weather,taxi
+3251	6	USER	ありがとうございます。最後に、当日利用出来るタクシー会社も探しているのですが、よろしいでしょうか？	general,weather,taxi
+3251	7	SYSTEM	ご希望はありますか	general,weather,taxi
+3251	8	USER	はい。キャッシュレス払いが出来る所を探しています。	general,weather,taxi
+3251	9	SYSTEM	いくつかありますが、興進タクシー株式会社をお勧めします。	general,weather,taxi
+3251	10	USER	そこで検討してみようと思います。この会社の電話番号を教えて頂けますか？	general,weather,taxi
+3251	11	SYSTEM	0756814481になります。	general,weather,taxi
+3251	12	USER	ありがとうございます。それと、この会社はジャンボタクシーには対応していますか？	general,weather,taxi
+3251	13	SYSTEM	はい、対応しています。	general,weather,taxi
+3251	14	USER	助かります。では、このままタクシーを予約したいのですが、よろしいでしょうか？	general,weather,taxi
+3251	15	SYSTEM	日付と出発時刻、出発地と目的地をお願いします。	general,weather,taxi
+3251	16	USER	はい。日付は5月27日の10:50。京都市東部文化会館からホテルエルシエント京都まででお願いします。	general,weather,taxi
+3251	17	SYSTEM	この条件で予約成功しました。予約番号は81170です。	general,weather,taxi
+3251	18	USER	ありがとうございます。これで当日は大丈夫そうです。ご対応、ありがとうございました。	general,weather,taxi
+3251	19	SYSTEM	よい旅を	general,weather,taxi

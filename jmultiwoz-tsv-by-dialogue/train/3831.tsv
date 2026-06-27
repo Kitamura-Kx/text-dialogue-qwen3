@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3831	0	USER	東京へ旅行を計画していて、最寄り駅が青梅駅でアミューズメント系の観光名所を探しているのですが、調べて頂けますか？	general,attraction,weather
+3831	1	SYSTEM	最寄り駅ですが、青梅駅にお間違いありませんか？	general,attraction,weather
+3831	2	USER	すみません！青海駅でした！	general,attraction,weather
+3831	3	SYSTEM	かしこまりました。　それでしたら、1件あります。VenusFortは、いかがですか？	general,attraction,weather
+3831	4	USER	ありがとうございます！そちらの住所はわかりますか？	general,attraction,weather
+3831	5	SYSTEM	はい、住所は東京都江東区青海1丁目3-15になります。	general,attraction,weather
+3831	6	USER	ありがとうございます。当日、1/18の天候も調べられますか？足立区の最低気温を調べてください。	general,attraction,weather
+3831	7	SYSTEM	その日の足立区の天気は、晴時々曇で最低気温は7.7度となっております。	general,attraction,weather
+3831	8	USER	わかりました。ありがとうございます。	general,attraction,weather
+3831	9	SYSTEM	他にご用件はありますか？	general,attraction,weather
+3831	10	USER	特にありません。ありがとうございました。	general,attraction,weather
+3831	11	SYSTEM	承知いたしました。ありがとうございました。	general,attraction,weather

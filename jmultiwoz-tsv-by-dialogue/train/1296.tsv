@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1296	0	USER	名古屋へ行こうと思っています。キャッシュレス払いとじゃぼタクシーが利用できるタクシー会社を探していただきたいです。	general,taxi
+1296	1	SYSTEM	宝タクシー第三は、いかがでしょうか？	general,taxi
+1296	2	USER	そちらの電話番号を教えていただけますでしょうか。	general,taxi
+1296	3	SYSTEM	電話番号は、0526826000です。	general,taxi
+1296	4	USER	では、10月26日10時50分魚舞から真宗大谷派名古屋別院(東別院)まで予約をお願いします。	general,taxi
+1296	5	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,taxi
+1296	6	USER	では時間を11時30分に変更して予約をお願いできますでしょうか？	general,taxi
+1296	7	SYSTEM	予約が完了しました。　予約番号は、99474です。	general,taxi
+1296	8	USER	わかりました。ありがとうございます。	general,taxi
+1296	9	SYSTEM	他にご用件はございますか？	general,taxi
+1296	10	USER	いいえ、大丈夫です。ありがとうございました。	general,taxi
+1296	11	SYSTEM	承知致しました。　ありがとうございました。	general,taxi

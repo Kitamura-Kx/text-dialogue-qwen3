@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+928	0	USER	福岡への旅行を計画しているのですが。	general,shopping
+928	1	SYSTEM	はい、なにかご要望ございますか。	general,shopping
+928	2	USER	当日買い物ができる駐車場が無料のコンビニを探して欲しいです。	general,shopping
+928	3	SYSTEM	セブンイレブン 福岡箱崎店はいかがでしょうか。	general,shopping
+928	4	USER	いいですね。そちらの営業時間，近辺の駅からの所要時間を教えてください。	general,shopping
+928	5	SYSTEM	営業時間は00:00～00:00で、近辺の駅からの所要時間は 箱崎九大前駅から徒歩で3分、 箱崎宮前駅から徒歩で8分になります。	general,shopping
+928	6	USER		general,shopping

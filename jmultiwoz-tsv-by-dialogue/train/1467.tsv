@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1467	0	USER	東京でレストランがある泊まれるところを探しています。	general,hotel
+1467	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,hotel
+1467	2	USER	無料駐車場と無料Wi-Fiが利用できるところがいいです。	general,hotel
+1467	3	SYSTEM	では帝国ホテル東京はいかがでしょうか。	general,hotel
+1467	4	USER	ありがとうございます。そのホテルの住所を教えてもらえますか？	general,hotel
+1467	5	SYSTEM	住所は東京都千代田区内幸町1丁目1-1でございます。	general,hotel
+1467	6	USER	あと、近くの駅からどのくらいかかるのかと、チェックアウトの終了時刻も教えてください。	general,hotel
+1467	7	SYSTEM	有楽町駅から徒歩で5分、新橋駅から徒歩で7分、東京駅からタクシーで5分、日比谷駅から徒歩で3分、そして内幸町駅から徒歩で3分でございます。チェックアウト終了時刻は12:00となっております。	general,hotel
+1467	8	USER	ありがとうございます。	general,hotel
+1467	9	SYSTEM	ほかにご希望の条件はございますか。	general,hotel
+1467	10	USER	大丈夫です。ありがとうございました。	general,hotel
+1467	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

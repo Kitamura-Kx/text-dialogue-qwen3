@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4567	0	USER	那覇へ旅行するのですがレストラン併設されていて駐車場が無料の旅館を探しています。	general,hotel,weather
+4567	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,hotel,weather
+4567	2	USER	それでは旅館じゃなくても大丈夫です。	general,hotel,weather
+4567	3	SYSTEM	では、ルートイングランティア那覇はいかがですか？	general,hotel,weather
+4567	4	USER	はい！料金情報をお聞きしたいのですが。	general,hotel,weather
+4567	5	SYSTEM	申し訳ありません、料金情報の記載はございません。	general,hotel,weather
+4567	6	USER	わかりました。とりあえず大丈夫です！予約して頂けますか？人数は3人で10/1から2泊です。	general,hotel,weather
+4567	7	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,hotel,weather
+4567	8	USER	それなら2人なら大丈夫ですか？	general,hotel,weather
+4567	9	SYSTEM	はい、予約が完了しました。　予約番号は、18695です。	general,hotel,weather
+4567	10	USER	ありがとうございます！10月1日の本庁地区の天気はどうですかね？	general,hotel,weather
+4567	11	SYSTEM	その日の天気は、晴の予報となっています。	general,hotel,weather
+4567	12	USER	良かったです。以上です。ありがとうございました。	general,hotel,weather
+4567	13	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

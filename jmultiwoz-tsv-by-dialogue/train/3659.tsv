@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3659	0	USER	名古屋へ旅行に行こうと思っています。当日訪れる観光名所を探しています。Wi-Fiが無料で地区は昭和区が希望です。	general,attraction,shopping,taxi
+3659	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,attraction,shopping,taxi
+3659	2	USER	でしたら、Wi-Fiはなくても良いです。	general,attraction,shopping,taxi
+3659	3	SYSTEM	かしこまりました。それでは昭和美術館(公益財団法人後藤報恩会)はいかがでしょうか？	general,attraction,shopping,taxi
+3659	4	USER	そこが良さそうです。そこの住所を教えてください。	general,attraction,shopping,taxi
+3659	5	SYSTEM	はい、住所は愛知県名古屋市昭和区汐見町4-1でございます。	general,attraction,shopping,taxi
+3659	6	USER	あと当日買い物ができるところを探しています。ジャンルは文房具・雑貨です。	general,attraction,shopping,taxi
+3659	7	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,attraction,shopping,taxi
+3659	8	USER	でしたら、ジャンルはなんでも良いです。	general,attraction,shopping,taxi
+3659	9	SYSTEM	かしこまりました。それではサッカーショップKAMO 名古屋店はいかがでしょうか？	general,attraction,shopping,taxi
+3659	10	USER	そこの住所と定休日を教えてください。	general,attraction,shopping,taxi
+3659	11	SYSTEM	住所は愛知県名古屋市中区栄3丁目15-4 サカイ栄ビル1Fでございます。定休日はありません。	general,attraction,shopping,taxi
+3659	12	USER	あと当日利用できるタクシー会社を探しています。ジャンボタクシーが利用できてキャッシュレスに対応しているところが希望です。	general,attraction,shopping,taxi
+3659	13	SYSTEM	かしこまりました。それでは瑞穂タクシーがおすすめです。	general,attraction,shopping,taxi
+3659	14	USER	そこの電話番号を教えてください。	general,attraction,shopping,taxi
+3659	15	SYSTEM	はい、0523311680でございます。	general,attraction,shopping,taxi
+3659	16	USER	そこのタクシー会社に当日予約したいので日付は1/17で時間は16:20で出発地は昭和美術館で目的地はサッカーショップKAMO 名古屋店でお願いします。	general,attraction,shopping,taxi
+3659	17	SYSTEM	お待たせ致しました。予約番号76310でお取りさせていただきました。	general,attraction,shopping,taxi
+3659	18	USER	分かりました。ありがとうございます。	general,attraction,shopping,taxi
+3659	19	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,shopping,taxi

@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+473	0	USER	那覇の本庁地区で泊まるところを探してほしいです。	general,hotel,taxi
+473	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,hotel,taxi
+473	2	USER	ビジネスホテルがいいです。あと、駐車場が無料で使えるところだと嬉しいです。	general,hotel,taxi
+473	3	SYSTEM	ではHOTEL MARUKIはいかがでしょうか。	general,hotel,taxi
+473	4	USER	いいですね。住所を教えてもらえますか？	general,hotel,taxi
+473	5	SYSTEM	住所は沖縄県那覇市久茂地3丁目20-5でございます。	general,hotel,taxi
+473	6	USER	わかりました。当日タクシーを利用したいのですが、大栄交通というタクシー会社はありますか？	general,hotel,taxi
+473	7	SYSTEM	はい。ございます。	general,hotel,taxi
+473	8	USER	電話番号を教えてもらえますか？	general,hotel,taxi
+473	9	SYSTEM	電話番号は0989465005でございます。	general,hotel,taxi
+473	10	USER	キャッシュレス決済とジャンボタクシーの対応の有無についても教えてください。	general,hotel,taxi
+473	11	SYSTEM	ジャンボタクシーには対応しておりますが、キャッシュレスに対応しているかは不明でございます。	general,hotel,taxi
+473	12	USER	わかりました。では、7/14の10:40に、HOTEL MARUKIから吉野家 ひめゆり通り店までで、予約をとってもらえますか？	general,hotel,taxi
+473	13	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は9015でございます。	general,hotel,taxi
+473	14	USER	ありがとうございます。助かりました。	general,hotel,taxi

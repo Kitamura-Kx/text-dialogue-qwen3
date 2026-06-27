@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4246	0	USER	東京に旅行に行こうと思っているのですが、宿泊施設を探しています。	general,hotel,shopping,weather
+4246	1	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,hotel,shopping,weather
+4246	2	USER	駐車場が無料で、レストランが併設されているところだとありがたいと考えています。	general,hotel,shopping,weather
+4246	3	SYSTEM	かしこまりました。そうしますと、The Okura Tokyoと、帝国ホテル東京の2箇所をご案内可能です。	general,hotel,shopping,weather
+4246	4	USER	ありがとうございます。ではThe Okura Tokyoさんを利用したいと思います。チェックイン開始の時刻をお教えいただけますか？	general,hotel,shopping,weather
+4246	5	SYSTEM	はい。The Okura Tokyoのチェックインは、15時からとなっております。	general,hotel,shopping,weather
+4246	6	USER	ありがとうございます。ちなみに、WiFiがあるかどうかは分かりますか？	general,hotel,shopping,weather
+4246	7	SYSTEM	はい、無料のものがご利用いただけます。	general,hotel,shopping,weather
+4246	8	USER	ありがとうございます。あと、当日買い物ができる場所を探しているのですが、豊島区で駐車場が無料のところはどこかありますか？	general,hotel,shopping,weather
+4246	9	SYSTEM	はい、1件ございます。ポケモンセンターメガトウキョーというところですが、ご興味ございますか？	general,hotel,shopping,weather
+4246	10	USER	とても楽しそうな場所ですね。そこに行きたいと思います。営業時間をお聞きしてもいいですか？	general,hotel,shopping,weather
+4246	11	SYSTEM	かしこまりました。営業時間は、10:00～20:00となっております。	general,hotel,shopping,weather
+4246	12	USER	ありがとうございます。最後に、当日の天候をお聞きしたいのですが、7月3日の江東区の最低気温はどうなっていますか？	general,hotel,shopping,weather
+4246	13	SYSTEM	はい、当日の最低気温は24.7度の予想となっております。なお、天気は、雨のち曇の予報が出ております。	general,hotel,shopping,weather
+4246	14	USER	ありがとうございます。お聞きしたい事は以上になります。丁寧に対応していただきありがとうございました。	general,hotel,shopping,weather
+4246	15	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,hotel,shopping,weather

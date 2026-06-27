@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4497	0	USER	大阪への旅行を計画していて、旅行当日の飲食店を探しています。北区の居酒屋が希望です。	general,restaurant,hotel,weather
+4497	1	SYSTEM	承知しました。１４件あります、何かご希望がございますか。	general,restaurant,hotel,weather
+4497	2	USER	いえ、他にはありません。おすすめはありますか？	general,restaurant,hotel,weather
+4497	3	SYSTEM	串かつ でんがな 大阪駅前第3ビル店など如何でしょうか。	general,restaurant,hotel,weather
+4497	4	USER	ありがとうございます。そこにしようと思います。最寄り駅は分かりますか？	general,restaurant,hotel,weather
+4497	5	SYSTEM	はい、最寄り駅は北新地駅となります。	general,restaurant,hotel,weather
+4497	6	USER	ありがとうございます。旅行当日の宿泊施設も探しています。西成区が希望です。	general,restaurant,hotel,weather
+4497	7	SYSTEM	はい、４件ございます。他にご希望がありますか。	general,restaurant,hotel,weather
+4497	8	USER	いえ、特にありません。おすすめはありますか？	general,restaurant,hotel,weather
+4497	9	SYSTEM	ホテル新今宮は如何でしょう。新今宮駅から徒歩で1分の所にあります。	general,restaurant,hotel,weather
+4497	10	USER	ありがとうございます。そこにしようと思います。最寄り駅は新今宮駅ですか？	general,restaurant,hotel,weather
+4497	11	SYSTEM	はい、その通りです。	general,restaurant,hotel,weather
+4497	12	USER	ありがとうございます。予約したいのですが、8/28から4泊、3人で予約をお願い出来ますか？	general,restaurant,hotel,weather
+4497	13	SYSTEM	8/28から4泊、3人でご予約できました。予約番号は15619となります。	general,restaurant,hotel,weather
+4497	14	USER	ありがとうございます。旅行当日の天候も知りたいです。8/28の東成区の最低気温を教えて貰えますか？	general,restaurant,hotel,weather
+4497	15	SYSTEM	はい、8/28東成区の最低気温は２３度でお天気は晴時々曇、最高気温39.9度となります。	general,restaurant,hotel,weather
+4497	16	USER	ありがとうございました。助かりました。	general,restaurant,hotel,weather
+4497	17	SYSTEM	ありがとうございます。	general,restaurant,hotel,weather

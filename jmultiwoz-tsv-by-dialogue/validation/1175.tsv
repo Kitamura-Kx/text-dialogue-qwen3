@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1175	0	USER	名古屋に行くんですが、予算は普通くらいで、伏見駅付近の飲食店を探してもらえますか？	general,restaurant
+1175	1	SYSTEM	かしこまりました。そうしますと、6件ほどご案内できるところがございます。例えば、広小路キッチンマツヤという、洋食・西洋料理のお店はいかがでしょうか？	general,restaurant
+1175	2	USER	ありがとうございます。じゃあ、そこを予約してもらえますか。1/23の10：30で４名です。	general,restaurant
+1175	3	SYSTEM	大変申し訳ございません。ご希望の条件では予約をとることができませんでした。いかがいたしましょうか？	general,restaurant
+1175	4	USER	そうですか。じゃあ、人数を３名に変更します。	general,restaurant
+1175	5	SYSTEM	ありがとうございます。3名様でご予約完了いたしました。予約番号は、41588です。	general,restaurant
+1175	6	USER	ありがとうございました。以上で結構です。	general,restaurant
+1175	7	SYSTEM	承知しました。本日はご利用ありがとうございました。	general,restaurant

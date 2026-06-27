@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1530	0	USER	京都旅行で当日訪れる観光名所を何か探して頂けますか？	general,attraction,taxi
+1530	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,taxi
+1530	2	USER	駐車場を無料で利用できる場所で伏見区だとうれしいです。	general,attraction,taxi
+1530	3	SYSTEM	では伏見稲荷大社はいかがでしょうか。	general,attraction,taxi
+1530	4	USER	そちらに伺いたいと思います。大人入場料とWi-Fiの有無も教えて頂けると助かります。	general,attraction,taxi
+1530	5	SYSTEM	大人の入場料は無料で、Wi-Fiの有無は不明でございます。	general,attraction,taxi
+1530	6	USER	ありがとうございます。当日利用できるタクシー会社も教えていただけますでしょうか。ジャンボタクシー対応のところを探しています。	general,attraction,taxi
+1530	7	SYSTEM	では株式会社キャビックがございます。キャッシュレスにも対応しております。	general,attraction,taxi
+1530	8	USER	そちらで予約をお願いできますか？8/1の15:00で、出発地はConnect Inn 九条河原町、目的地は伏見稲荷大社を希望します。	general,attraction,taxi
+1530	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は27792でございます。	general,attraction,taxi
+1530	10	USER	ありがとうございました。	general,attraction,taxi

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1745	0	USER	名古屋で宿泊施設を探しています。レストラン併設で、無料Wifiが利用できる簡易宿所はありますか？	general,hotel,taxi
+1745	1	SYSTEM	名古屋、レストラン併設、無料Wifi、簡易宿所、全てをみたす施設は残念ながらありません。	general,hotel,taxi
+1745	2	USER	では、レストラン併設の条件を除いてください。	general,hotel,taxi
+1745	3	SYSTEM	それならば豪華カプセルホテル安心お宿プレミア名古屋栄店がオススメです。	general,hotel,taxi
+1745	4	USER	チェックイン開始は何時からですか？	general,hotel,taxi
+1745	5	SYSTEM	15:00からになります	general,hotel,taxi
+1745	6	USER	分かりました。続いて、タクシーも探してください。ジャンボタクシーを利用したいんですが、キャッシュレス対応している会社はありますか？	general,hotel,taxi
+1745	7	SYSTEM	いくつかありますが、名鉄西部交通西部をお勧めします。	general,hotel,taxi
+1745	8	USER	電話番号も教えてください。	general,hotel,taxi
+1745	9	SYSTEM	0568213295になります。	general,hotel,taxi
+1745	10	USER	では予約もお願いします。7/2の12:40利用です。出発は王様のフレンチで、目的地は豪華カプセルホテル安心お宿プレミア名古屋栄店です。	general,hotel,taxi
+1745	11	SYSTEM	7/2の12:40、王様のフレンチから豪華カプセルホテル安心お宿プレミア名古屋栄店まで、予約成功しました。予約番号は63140です。	general,hotel,taxi
+1745	12	USER	ありがとうございます！問い合わせは以上です。	general,hotel,taxi

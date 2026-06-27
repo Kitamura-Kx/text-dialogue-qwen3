@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4102	0	USER	那覇への旅行を計画しております。当日泊まる宿泊施設を探してください。無料の駐車場が利用できて、かつレストランが併設されているところでお願いします。	general,hotel,taxi
+4102	1	SYSTEM	お待たせ致しました。それではパシフィックホテル沖縄はいかがでしょうか？	general,hotel,taxi
+4102	2	USER	ありがとうございます。最後に当日タクシーを利用したく、ジャンボタクシーが利用できるところでどこかありますか？	general,hotel,taxi
+4102	3	SYSTEM	お待たせ致しました。それでは、丸二タクシーはいかがでしょうか？	general,hotel,taxi
+4102	4	USER	そちらはキャッシュレス対応はされていますか？また電話番号も教えてください。	general,hotel,taxi
+4102	5	SYSTEM	はい、キャッシュレスにも対応しております。また、電話番号は0988552140でございます。	general,hotel,taxi
+4102	6	USER	ありがとうございます。それでは予約をお願いします。日時は7/5、13:30で出発地はパシフィックホテル沖縄からしゃぶ葉 那覇おもろまち店まででお願いします。	general,hotel,taxi
+4102	7	SYSTEM	申し訳ありません。その条件では予約をすることが出来ませんでした。	general,hotel,taxi
+4102	8	USER	それでは時間を14:30に変更でいかがでしょうか。	general,hotel,taxi
+4102	9	SYSTEM	お待たせ致しました。予約番号80351でお取りさせていただきました。	general,hotel,taxi
+4102	10	USER	ありがとうございます。こちらからは以上です。	general,hotel,taxi
+4102	11	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,taxi

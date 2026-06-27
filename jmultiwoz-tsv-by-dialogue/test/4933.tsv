@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4933	0	USER	こんにちは！横浜旅行を計画中です。食料品の買い物をできる店に行きたいんですが、駐車場が無料のところはありますか？	general,shopping,restaurant,weather
+4933	1	SYSTEM	コストコ金沢シーサイド倉庫 Augusta Milk Farm 相澤良牧場 MEGAドン・キホーテ港山下総本店 がご紹介できます。	general,shopping,restaurant,weather
+4933	2	USER	ありがとうございます。定休日と営業時間も知りたいです。	general,shopping,restaurant,weather
+4933	3	SYSTEM	コストコ金沢シーサイド倉庫の営業時間は10:00～20:00、定休日は1/1です	general,shopping,restaurant,weather
+4933	4	USER	コストコ金沢シーサイド倉庫に行きたいと思います。当日は食事もしたいんですが、飲食店を紹介してもらえますか？予算は普通で、駐車場無料でお願いします。	general,shopping,restaurant,weather
+4933	5	SYSTEM	申し訳ございません。条件にヒットしませんでした。	general,shopping,restaurant,weather
+4933	6	USER	では、駐車場の有無は考慮しなくていいので、予算が普通の飲食店をお願いします。	general,shopping,restaurant,weather
+4933	7	SYSTEM	56件見つかりました。リューバンカフェ 焼肉キングコングなどいかがですか？	general,shopping,restaurant,weather
+4933	8	USER	リューバンカフェにします。電話番号はわかりますか？	general,shopping,restaurant,weather
+4933	9	SYSTEM	0457887402です。	general,shopping,restaurant,weather
+4933	10	USER	予約もお願いします。3月20日昼の12時20分から、2人でお願いします。	general,shopping,restaurant,weather
+4933	11	SYSTEM	申し訳ございません。その条件では予約できませんでした。	general,shopping,restaurant,weather
+4933	12	USER	では、人数を1人に変えて、日時はそのままで予約できませんか？	general,shopping,restaurant,weather
+4933	13	SYSTEM	可能です。予約完了いたしました。予約番号は７６３６１です	general,shopping,restaurant,weather
+4933	14	USER	ありがとうございます。当日の天気はわかりますか？神奈川区で、3月20日です。	general,shopping,restaurant,weather
+4933	15	SYSTEM	はい。天気は曇りです。	general,shopping,restaurant,weather
+4933	16	USER	最高気温はどうですか？	general,shopping,restaurant,weather
+4933	17	SYSTEM	最高気温は１１．５度です。	general,shopping,restaurant,weather
+4933	18	USER	わかりました。ありがとうございます。	general,shopping,restaurant,weather

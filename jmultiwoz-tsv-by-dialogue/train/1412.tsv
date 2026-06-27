@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1412	0	USER	仙台への旅行を計画しています．	general,restaurant
+1412	1	SYSTEM	はいお問合せありがとうございます。	general,restaurant
+1412	2	USER	当日食事ができる飲食店を探してください．店名が牛たん炭焼 利久 東口分店というところです．	general,restaurant
+1412	3	SYSTEM	こちらでお調べいたしました。	general,restaurant
+1412	4	USER	そちら、駐車場はありますか。	general,restaurant
+1412	5	SYSTEM	駐車場の有無は無しになっています。	general,restaurant
+1412	6	USER	ありがとうございます。	general,restaurant

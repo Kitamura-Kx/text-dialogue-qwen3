@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3019	0	USER	札幌へ行くんですが、清田区で無料駐車場がある観光名所を探してもらえますか？	general,attraction
+3019	1	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,attraction
+3019	2	USER	そうですか。じゃあ、別の地区でも大丈夫です。	general,attraction
+3019	3	SYSTEM	かしこまりました。では、札幌市青少年科学館はいかがでしょうか？	general,attraction
+3019	4	USER	ありがとうございます。ではそこの料金情報とWi-Fiの有無と最寄り駅を教えてください。	general,attraction
+3019	5	SYSTEM	はい。料金情報ですが、中学生以下は無料、大人は展示室700円です。また、展示室とプラネタリウムで1000円になります。Wi-Fiの有無は不明となっております。最寄り駅は、新さっぽろ駅です。	general,attraction
+3019	6	USER	ありがとうございました。以上で結構です。	general,attraction
+3019	7	SYSTEM	承知しました。ありがとうございました。	general,attraction

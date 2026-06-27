@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1173	0	USER	東京へ旅行に行きたいんですが、千代田区の田端駅が最寄りになる買い物ができるとこを探してもらえますか。	general,shopping,hotel,attraction
+1173	1	SYSTEM	申し訳ございません。その場所では候補が見つかりませんでした。	general,shopping,hotel,attraction
+1173	2	USER	そうですか。じゃあ最寄り駅にはこだわないことにします。	general,shopping,hotel,attraction
+1173	3	SYSTEM	ありがとうございます。そうしますと、7件ほど、ご案内可能です。たとえば、東京駅から1分の距離にある、KITTE丸の内というショッピングモールは、いかがでしょうか？	general,shopping,hotel,attraction
+1173	4	USER	ありがとうございます。そこの影響時間と定休日も教えてください。	general,shopping,hotel,attraction
+1173	5	SYSTEM	かしこまりました。営業時間は、11:00～21:00です。定休日はございません。	general,shopping,hotel,attraction
+1173	6	USER	東京駅から１分っていうのは徒歩でですか？	general,shopping,hotel,attraction
+1173	7	SYSTEM	はい、アクセスは東京駅から徒歩で1分、ほかにも、有楽町駅から徒歩で6分、二重橋前〈丸の内〉駅から徒歩で2分、大手町駅から徒歩で4分といった行き方がございます。	general,shopping,hotel,attraction
+1173	8	USER	くわしくありがとうございます。あと、当日泊まれるところを探しているのですが、無料駐車場があって予算は普通のところってありますか？	general,shopping,hotel,attraction
+1173	9	SYSTEM	はい、1件ご案内可能です。帝国ホテル東京というシティホテルですが、いかがでしょうか？	general,shopping,hotel,attraction
+1173	10	USER	ありがとうございます。そこは最寄り駅はどこになりますか？	general,shopping,hotel,attraction
+1173	11	SYSTEM	日比谷駅となります。日比谷駅から徒歩で3分のほか、内幸町駅から徒歩で3分などの行き方もございます。	general,shopping,hotel,attraction
+1173	12	USER	わかりました。あと、無料駐車場があってWi-Fiも無料で利用できる観光名所はありますか？	general,shopping,hotel,attraction
+1173	13	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,hotel,attraction
+1173	14	USER	そうですか。じゃあWi-Fiはなくてもいいです。	general,shopping,hotel,attraction
+1173	15	SYSTEM	ありがとうございます。では、Caretta汐留はいかがでしょうか？ジャンルとしては、美術館・博物館, その他, コンサート・ショー, 展望台・タワーの観光名所でございます。	general,shopping,hotel,attraction
+1173	16	USER	よさそうなところですね。じゃあそこの子ども入場料も教えてください。	general,shopping,hotel,attraction
+1173	17	SYSTEM	お子様の入場料は0円です。大人も0円で入場料無料となっております。	general,shopping,hotel,attraction
+1173	18	USER	わかりました。以上で大丈夫です。ありがとうございました。	general,shopping,hotel,attraction
+1173	19	SYSTEM	こちらこそ、ありがとうございます。他にご質問がないようでしたら、これで失礼します。本日はご利用ありがとうございました。	general,shopping,hotel,attraction

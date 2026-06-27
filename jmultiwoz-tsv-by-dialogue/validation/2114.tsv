@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2114	0	USER	こんにちは。東京へ行きたいんですけど、ラーメンとかつけ麺の飲食店で安いところありますか？あとWi-Fiが無料だといいんですけど。	general,restaurant,attraction,hotel
+2114	1	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,attraction,hotel
+2114	2	USER	そうですか。ではラーメンとかじゃなくていいので、休めで、Wi-Fiが無料のところをお願いします。	general,restaurant,attraction,hotel
+2114	3	SYSTEM	かしこまりました。では、土風炉 大井町店はいかがでしょうか？ジャンルは居酒屋, 和食, 寿司・魚料理です。	general,restaurant,attraction,hotel
+2114	4	USER	そこにします。すみませんが、電話番号と営業時間を教えてもらえますか？	general,restaurant,attraction,hotel
+2114	5	SYSTEM	はい。電話番号は0357832262です。営業時間は11:30～23:00になります。	general,restaurant,attraction,hotel
+2114	6	USER	せっかくなので、観光もしたくて、駐車場無料の観光名所って台東区でどこかありますか？	general,restaurant,attraction,hotel
+2114	7	SYSTEM	申し訳ございません。条件に合う観光名所の施設は見つかりませんでした。	general,restaurant,attraction,hotel
+2114	8	USER	そうですか。では駐車場はなくてもいいですので、どこかオススメがあれば教えてください。	general,restaurant,attraction,hotel
+2114	9	SYSTEM	かしこまりました。では、浅草花やしきはいかがでしょうか？	general,restaurant,attraction,hotel
+2114	10	USER	行ったことがないので、そこにします。住所を教えてください。	general,restaurant,attraction,hotel
+2114	11	SYSTEM	はい。住所は東京都台東区浅草2丁目28-1です。	general,restaurant,attraction,hotel
+2114	12	USER	色々すみませんが、泊まるところも探しています。Wi-Fiと駐車場が無料のところありますか？	general,restaurant,attraction,hotel
+2114	13	SYSTEM	かしこまりました。では、帝国ホテル東京はいかがでしょうか？	general,restaurant,attraction,hotel
+2114	14	USER	いいですね、そちらのチェックイン開始は何時ですか？	general,restaurant,attraction,hotel
+2114	15	SYSTEM	はい。チェックイン開始時刻は14:00です。	general,restaurant,attraction,hotel
+2114	16	USER	ありがとうございます。そこにしますので、予約お願いします。10/10から3泊で、3名です。	general,restaurant,attraction,hotel
+2114	17	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,restaurant,attraction,hotel
+2114	18	USER	では人数を2名でお願いします。	general,restaurant,attraction,hotel
+2114	19	SYSTEM	かしこまりました。ご予約承りました。予約番号は、2237です。	general,restaurant,attraction,hotel
+2114	20	USER	どうもありがとうございました。助かりました。	general,restaurant,attraction,hotel
+2114	21	SYSTEM	他にご用件はありますか？	general,restaurant,attraction,hotel
+2114	22	USER	大丈夫です。ありがとうございました。	general,restaurant,attraction,hotel
+2114	23	SYSTEM	承知しました。ありがとうございました。	general,restaurant,attraction,hotel

@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+184	0	USER	こんにちは、福岡へ旅行に行きたいと考えています。	general,restaurant,hotel
+184	1	SYSTEM	こんにちは。福岡のどういった情報をお探しでしょうか？	general,restaurant,hotel
+184	2	USER	福岡旅行の際に利用できる飲食店を探しています。渡辺通駅周辺でラーメンやつけ麺が楽しめるお店はありますか？	general,restaurant,hotel
+184	3	SYSTEM	申し訳ございません。そのご希望条件ですと、ご案内できるお店がありませんでした。	general,restaurant,hotel
+184	4	USER	そうですか。では、渡辺通駅以外の所でも大丈夫なので、ラーメンやつけ麺が食べられるお店をお願いします。	general,restaurant,hotel
+184	5	SYSTEM	かしこまりました。では、博多屋台 中洲 十番はいかがでしょうか？	general,restaurant,hotel
+184	6	USER	こちらのお店は駐車場はありますか？	general,restaurant,hotel
+184	7	SYSTEM	申し訳ございません。駐車場は無しとなっております。	general,restaurant,hotel
+184	8	USER	わかりました。こちらの店に行ってみたいので、電話番号を教えてもらえますか？	general,restaurant,hotel
+184	9	SYSTEM	電話番号は、0924087327です。	general,restaurant,hotel
+184	10	USER	あと、博多で泊まれる場所を探しています。	general,restaurant,hotel
+184	11	SYSTEM	博多区の宿泊施設は６７件ほど候補がございますが、何かご希望の条件などはありますでしょうか？	general,restaurant,hotel
+184	12	USER	Wi-Fiと駐車場が無料で利用できるところだとありがたいです。	general,restaurant,hotel
+184	13	SYSTEM	かしこまりました。そういたしますと２件ございます。WITH THE STYLE FUKUOKAと、HOTEL AZ 福岡金の隈店がありますが、気になる方はございますか？	general,restaurant,hotel
+184	14	USER	WITH THE STYLE FUKUOKAが気になります。自身で予約を取ろうと思うので電話番号を教えてもらえないでしょうか。	general,restaurant,hotel
+184	15	SYSTEM	WITH THE STYLE FUKUOKAの電話番号は、0924333900です。	general,restaurant,hotel
+184	16	USER	わかりました。ご対応ありがとうございました。	general,restaurant,hotel

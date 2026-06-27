@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+366	0	USER	こんにちは。札幌に行くのですが、どこか観光できるところを探しています。	general,attraction,weather
+366	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,weather
+366	2	USER	西区で、Wi-Fiが無料で利用できるところがいいです。	general,attraction,weather
+366	3	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,attraction,weather
+366	4	USER	では、Wi-Fiはなくても構いません。	general,attraction,weather
+366	5	SYSTEM	ありがとうございます。1件、白い恋人パークがございます。何をご案内致しましょう？	general,attraction,weather
+366	6	USER	料金情報と、駐車場があるかないか教えていただけますか？	general,attraction,weather
+366	7	SYSTEM	はい、駐車場は無料でご利用いただけます。料金情報として、大人入場料800円、子供入場料400円となります。他にご案内できることはございますか？	general,attraction,weather
+366	8	USER	ありがとうございます。あと、当日9/13の清田区の天候を知りたいです。	general,attraction,weather
+366	9	SYSTEM	承知しました。天気は晴、最低気温12.3度、最高気温25.1度となります。他にご用件はございますか？	general,attraction,weather
+366	10	USER	分かりました。以上になります、ありがとうございました！	general,attraction,weather
+366	11	SYSTEM	ありがとうございました。	general,attraction,weather

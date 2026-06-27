@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3841	0	USER	名古屋旅行を考えています。ジャンボタクシー対応のタクシー会社をお教えいただけますか？	general,taxi
+3841	1	SYSTEM	申し訳ありません。　その条件では、見つけられませんでした。	general,taxi
+3841	2	USER	ではジャンボタクシー対応でなくてもいいので、タクシー会社をお教えください。	general,taxi
+3841	3	SYSTEM	中日本タクシーは、いかがですか？	general,taxi
+3841	4	USER	ありがとうございます。そちらはキャッシュレスに対応されてますか？	general,taxi
+3841	5	SYSTEM	はい、キャッシュレス対応しています。	general,taxi
+3841	6	USER	ありがとうございます。では中日本タクシーさまの予約お願いできますか？3/23の11:00にみんなの串バルでお願いします。cinqまでの移動で使用します。	general,taxi
+3841	7	SYSTEM	予約出来ました。予約番号は、2254です。	general,taxi
+3841	8	USER	ありがとうございます。	general,taxi
+3841	9	SYSTEM	他にご用件はありますか？	general,taxi
+3841	10	USER	いえ、ありがとうございました。	general,taxi

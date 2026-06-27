@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1201	0	USER	横浜への旅行を検討しており、当日利用できる飲食店を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,restaurant,shopping,hotel
+1201	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,shopping,hotel
+1201	2	USER	そうですね。予算は普通で、Wi-Fiが無料で利用できれば大丈夫なのですが。	general,restaurant,shopping,hotel
+1201	3	SYSTEM	ではNICK STOCK 横浜ポルタ店はいかがでしょうか。	general,restaurant,shopping,hotel
+1201	4	USER	良さそうですね。そのお店のエリアってわかりますか？	general,restaurant,shopping,hotel
+1201	5	SYSTEM	エリアは西区でございます。	general,restaurant,shopping,hotel
+1201	6	USER	わかりました。それと当日買い物が出来るコンビニも探しているのですが、何処かありますかね？	general,restaurant,shopping,hotel
+1201	7	SYSTEM	ファミリーマート 阪東橋東口店がございます。	general,restaurant,shopping,hotel
+1201	8	USER	助かります。そこの電話番号も教えて頂けますか？	general,restaurant,shopping,hotel
+1201	9	SYSTEM	電話番号は0452631755でございます。	general,restaurant,shopping,hotel
+1201	10	USER	ありがとうございます。最後に、当日泊まるホテルも探しているのですが、よろしいでしょうか？	general,restaurant,shopping,hotel
+1201	11	SYSTEM	はい。ご希望の条件はございますか。	general,restaurant,shopping,hotel
+1201	12	USER	宿のタイプはシティホテルで、Wi-Fiが無料で利用できる所があれば良いのですが。	general,restaurant,shopping,hotel
+1201	13	SYSTEM	では横浜テクノタワーホテルはいかがでしょうか。	general,restaurant,shopping,hotel
+1201	14	USER	そちらのホテルのチェックアウト終了時刻ってわかりますか？	general,restaurant,shopping,hotel
+1201	15	SYSTEM	チェックアウト終了時刻は10:00でございます。	general,restaurant,shopping,hotel
+1201	16	USER	でしたら大丈夫です。このまま予約をしたいのですが、よろしいでしょうか？	general,restaurant,shopping,hotel
+1201	17	SYSTEM	はい。では予約の詳細をお聞かせいただけますか。	general,restaurant,shopping,hotel
+1201	18	USER	3月30日で、宿泊日数は4泊。人数は4人でお願いします。	general,restaurant,shopping,hotel
+1201	19	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は4629でございます。	general,restaurant,shopping,hotel
+1201	20	USER	助かりました。これで大丈夫です。ありがとうございました。	general,restaurant,shopping,hotel
+1201	21	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping,hotel

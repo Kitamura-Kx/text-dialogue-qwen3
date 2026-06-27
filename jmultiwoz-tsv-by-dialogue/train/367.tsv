@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+367	0	USER	京都での飲食店を探しています。	general,restaurant,shopping
+367	1	SYSTEM	承知しました。他にご希望はございますか？	general,restaurant,shopping
+367	2	USER	最寄り駅が神宮丸太町駅で、予算は高めで考えています。駐車場が無料だと助かります。	general,restaurant,shopping
+367	3	SYSTEM	申し訳ありません。その条件ではご案内ができません。いかが致しましょう？	general,restaurant,shopping
+367	4	USER	では、最寄り駅はこだわりません。	general,restaurant,shopping
+367	5	SYSTEM	ありがとうございます。下鴨茶寮 本店、フランス料理 ボルドー、ルルソンキボア、オールデイダイニング ラジョウ、加賀屋 京都店の5件がございます。何をご案内致しましょう？	general,restaurant,shopping
+367	6	USER	加賀屋 京都店に行ってみようかと思いますが、ジャンルとエリアと教えていただけますか？	general,restaurant,shopping
+367	7	SYSTEM	はい、ジャンルは和食、エリアは下京区となります。他にご案内できることはございますか？	general,restaurant,shopping
+367	8	USER	ありがとうございます。あと、当日買い物したいのですが、西京区でどこかありますか？	general,restaurant,shopping
+367	9	SYSTEM	はい、洛西タカシマヤ、えほん館、京都オルゴール堂 嵐山店の3件ございます。何をご案内致しましょう？	general,restaurant,shopping
+367	10	USER	洛西タカシマヤは、近くの駅からどのくらいかかりますか？	general,restaurant,shopping
+367	11	SYSTEM	はい、最寄りの洛西口駅からバスで10分となります。他に必要なご案内はございますか？	general,restaurant,shopping
+367	12	USER	以上で大丈夫です。ありがとうございました！	general,restaurant,shopping
+367	13	SYSTEM	ありがとうございました。	general,restaurant,shopping

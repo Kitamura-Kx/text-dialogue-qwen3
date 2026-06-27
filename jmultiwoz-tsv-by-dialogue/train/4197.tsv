@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4197	0	USER	札幌への旅行を考えています。どこか飲食店を探していただけませんか？	general,restaurant,weather
+4197	1	SYSTEM	ありがとうございます。札幌の飲食店ですと102件からお探し出来ますが、何かご希望、条件などはございますか？	general,restaurant,weather
+4197	2	USER	西区で、普通目の予算のところでお願いします。	general,restaurant,weather
+4197	3	SYSTEM	かしこまりました。では、ピカンティ 札幌琴似店がございます。	general,restaurant,weather
+4197	4	USER	そちらの住所はわかりますか？	general,restaurant,weather
+4197	5	SYSTEM	はい、住所は北海道札幌市西区琴似2条1丁目1-5 JR琴似駅高架下でございます。	general,restaurant,weather
+4197	6	USER	では、１２月１４日の１３時５０分、４人で予約をお願いします。	general,restaurant,weather
+4197	7	SYSTEM	お待たせ致しました。予約番号49156でお取りさせていただきました。	general,restaurant,weather
+4197	8	USER	１２月１４日の西区の天気情報を教えてください。	general,restaurant,weather
+4197	9	SYSTEM	はい、当日の天気は晴のち雪、最低気温は0.6度、最高気温は2.3度でございます。	general,restaurant,weather
+4197	10	USER	ありがとうございました。	general,restaurant,weather

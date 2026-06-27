@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2894	0	USER	こんにちは。福岡旅行を計画しています。とまるところを一緒に探してもらえないでしょうか。	general,hotel,weather,taxi
+2894	1	SYSTEM	はい、ご希望の条件をおきかせください	general,hotel,weather,taxi
+2894	2	USER	Wi-Fiが無料で使える、休めな宿泊施設だと嬉しいです。	general,hotel,weather,taxi
+2894	3	SYSTEM	福岡でWiFi無料、安めの宿泊施設だと、８８件ほどヒットします。	general,hotel,weather,taxi
+2894	4	USER	そんなにあるんですね。他に条件はないので、おすすめのところでお願いできますか。	general,hotel,weather,taxi
+2894	5	SYSTEM	それでは、スマイルホテル博多をオススメします。	general,hotel,weather,taxi
+2894	6	USER	スマイルホテル博多にはレストランはありますか？	general,hotel,weather,taxi
+2894	7	SYSTEM	あります	general,hotel,weather,taxi
+2894	8	USER	そうなのですね。こちらはどのエリアにあるのでしょうか。	general,hotel,weather,taxi
+2894	9	SYSTEM	博多区になります。	general,hotel,weather,taxi
+2894	10	USER	わかりました。こちらでご予約をしてもらえないでしょうか。	general,hotel,weather,taxi
+2894	11	SYSTEM	はい、人数と日付、宿泊日数をお願いします	general,hotel,weather,taxi
+2894	12	USER	12/27から3泊で、4人で利用しようとおもっています。	general,hotel,weather,taxi
+2894	13	SYSTEM	予約成功しました。予約番号は88535です。	general,hotel,weather,taxi
+2894	14	USER	ありがとうございます。12/27の南区のお天気はどんな感じになっていますか？	general,hotel,weather,taxi
+2894	15	SYSTEM	12/27 福岡 南区 の天気は曇のち晴、最低気温8.3度、最高気温11.9度です。	general,hotel,weather,taxi
+2894	16	USER	助かります。あと、旅行の最中にタクシーを使いたいんです。ジャンボタクシーを利用できて、キャッシュレス決済ができるところはありますか？	general,hotel,weather,taxi
+2894	17	SYSTEM	はい、福岡西鉄タクシー（株）をおすすめします。	general,hotel,weather,taxi
+2894	18	USER	では、福岡西鉄タクシー（株）で予約をお願いします。12/27の14時30分に博多の奥座敷 椎原温泉 割烹旅館みはる荘から乗って、スマイルホテル博多までのせて下さい。	general,hotel,weather,taxi
+2894	19	SYSTEM	予約成功しました。予約番号は79363です。	general,hotel,weather,taxi
+2894	20	USER	わかりました！今日はありがとうございました。	general,hotel,weather,taxi

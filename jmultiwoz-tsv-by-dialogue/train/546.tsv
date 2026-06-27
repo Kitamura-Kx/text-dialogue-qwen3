@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+546	0	USER	福岡へ旅行を計画しているのですが、当日食事をするお店を探してください。	general,restaurant,hotel,taxi
+546	1	SYSTEM	かしこまりました。ジャンルやエリアなど、何かご希望はございますか？	general,restaurant,hotel,taxi
+546	2	USER	予算は普通、Wi-Fiが無料で利用できるところにしてください。	general,restaurant,hotel,taxi
+546	3	SYSTEM	かしこまりました。そうしますと、あめり軒というお店はいかがでしょうか？ジャンルは、居酒屋, 洋食・西洋料理, その他, 和食となっております。	general,restaurant,hotel,taxi
+546	4	USER	住所，定休日を教えていただけますか。	general,restaurant,hotel,taxi
+546	5	SYSTEM	住所は、福岡県福岡市中央区大宮2丁目1-25-1階です。定休日は、日曜日でございます。	general,restaurant,hotel,taxi
+546	6	USER	丁寧にありがとうございます。では、そちらに行きたいと思います。続けて当日泊まる施設を探してほしいです。	general,restaurant,hotel,taxi
+546	7	SYSTEM	かしこまりました。宿泊施設のタイプなど、ご希望はございませんか？	general,restaurant,hotel,taxi
+546	8	USER	最寄り駅が南福岡駅でレストランが併設されているところがよいです。	general,restaurant,hotel,taxi
+546	9	SYSTEM	そうしますと、HOTEL AZ 福岡金の隈店というビジネスホテルはいかがでしょうか？	general,restaurant,hotel,taxi
+546	10	USER	よいと思います。電話番号を教えていただけますか。	general,restaurant,hotel,taxi
+546	11	SYSTEM	かしこまりました。電話番号は、0925133301です。予約もなさいますか？	general,restaurant,hotel,taxi
+546	12	USER	いえ、まだ予約はしないでおきます。当日タクシーを利用したいのですが、ジャンボタクシーがある会社はありますか。	general,restaurant,hotel,taxi
+546	13	SYSTEM	はい、11件ございます。日新交通（株）というところでしたら、キャッシュレスのお支払いにも対応しておりますよ。	general,restaurant,hotel,taxi
+546	14	USER	ありがとうございます。では、そちらの電話番号を教えてください。	general,restaurant,hotel,taxi
+546	15	SYSTEM	電話番号は、0120152452でございます。	general,restaurant,hotel,taxi
+546	16	USER	予約をお願いしたいと思います。1月21日の11時にあめり軒からHOTEL AZ 福岡金の隈店までお願いします。	general,restaurant,hotel,taxi
+546	17	SYSTEM	かしこまりました。予約を完了いたしました。ご予約番号は、82213です。	general,restaurant,hotel,taxi
+546	18	USER	いろいろとお世話になりました。	general,restaurant,hotel,taxi

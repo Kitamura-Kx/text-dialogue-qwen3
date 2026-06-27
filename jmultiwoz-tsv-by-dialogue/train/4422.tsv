@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4422	0	USER	東京へ旅行に行くので、レストランがあって、Wi-Fiと駐車場が無料で使える宿泊施設を探してもらえますか？	general,hotel
+4422	1	SYSTEM	お待たせ致しました。それではThe Okura Tokyoがおすすめでございます。	general,hotel
+4422	2	USER	そちらの近辺の駅からの所要時間と料金情報を聞けますか？	general,hotel
+4422	3	SYSTEM	はい、近くの駅からですと、虎ノ門ヒルズ駅から徒歩で5分、虎ノ門駅から徒歩で10分、溜池山王駅から徒歩で10分でございます。申し訳ありませんが、料金情報については分かりません。	general,hotel
+4422	4	USER	わかりました。3人で3/1の3泊で、宿泊予約はとれますかね。	general,hotel
+4422	5	SYSTEM	お待たせ致しました。予約番号14701でお取りさせていただきました。	general,hotel
+4422	6	USER	ありがとうございました。もう大丈夫です。	general,hotel
+4422	7	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel

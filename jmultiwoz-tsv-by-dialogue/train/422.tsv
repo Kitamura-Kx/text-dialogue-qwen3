@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+422	0	USER	札幌に旅行に行くので、訪れる観光名所を探してもらえないでしょうか。	general,attraction
+422	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction
+422	2	USER	駐車場とWi-Fiが無料で利用できるところがいいです。	general,attraction
+422	3	SYSTEM	ではクラーク博士像はいかがでしょうか。	general,attraction
+422	4	USER	そちらでお願いします。営業時間はありますか？	general,attraction
+422	5	SYSTEM	営業時間は09:00～17:00でございます。	general,attraction
+422	6	USER	ありがとうございました。	general,attraction

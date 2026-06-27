@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1091	0	USER	京都へ泊まりで行く予定をしています。	general,hotel
+1091	1	SYSTEM	希望条件などは、ございますか？	general,hotel
+1091	2	USER	はい、Wi-Fiも駐車場も無料の所が良いんです。	general,hotel
+1091	3	SYSTEM	リーガロイヤルホテル京都は、いかがですか？	general,hotel
+1091	4	USER	ありがとうございます、リーガロイヤルホテル京都は何時にチェックアウトしないといけませんか？	general,hotel
+1091	5	SYSTEM	チェックアウト終了時間は、11時です。	general,hotel
+1091	6	USER	分かりました、ありがとうございます。	general,hotel
+1091	7	SYSTEM	他にご用件はございますか？	general,hotel
+1091	8	USER	以上です！お世話になりました。	general,hotel
+1091	9	SYSTEM	承知致しました。　ありがとうございました。	general,hotel

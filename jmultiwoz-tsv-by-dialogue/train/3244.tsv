@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3244	0	USER	大阪旅行の時に、行く観光スポットを探しています。	general,attraction,weather
+3244	1	SYSTEM	承知しました。何かご希望はございますか？	general,attraction,weather
+3244	2	USER	駐車場もWi-Fiも無料利用が可能な所はありますか？	general,attraction,weather
+3244	3	SYSTEM	では、エリアでいうと鶴見区にある、鶴見緑地湯元 水春はいかがでしょう？ジャンルは、銭湯、スパ、温泉となります。	general,attraction,weather
+3244	4	USER	良いですね。鶴見緑地湯元 水春の大人料金はおいくらでしょうか？	general,attraction,weather
+3244	5	SYSTEM	平日のご入浴が820円、土日と祝日のご入浴が920円 となります。	general,attraction,weather
+3244	6	USER	ありがとうございます。6/24なのですが、阿倍野区の天気は良さそうでしょうか？	general,attraction,weather
+3244	7	SYSTEM	はい、天気は晴時々曇、最低気温23.6度、最高気温29.9度となります。	general,attraction,weather
+3244	8	USER	ありがとうございます、助かりました。	general,attraction,weather
+3244	9	SYSTEM	ありがとうございました。	general,attraction,weather

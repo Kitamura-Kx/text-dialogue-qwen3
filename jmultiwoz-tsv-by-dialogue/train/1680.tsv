@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1680	0	USER	名古屋へ旅行を計画しています。買い物ができるところを探しており、ジェイアール名古屋タカシマヤという所はありますか？	general,shopping,taxi
+1680	1	SYSTEM	ございます。何かお知りになりたい情報はございますか。	general,shopping,taxi
+1680	2	USER	そこのエリアと最寄り駅からの所要時間を教えてください。	general,shopping,taxi
+1680	3	SYSTEM	エリアは中村区で、名古屋駅から徒歩で1分でございます。	general,shopping,taxi
+1680	4	USER	ありがとうございます。当日タクシーを利用したく、キャッシュレス払いができてジャンボタクシーがある所はありますか？	general,shopping,taxi
+1680	5	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,shopping,taxi
+1680	6	USER	では、キャッシュレス払いの件はなしでもう一度探してほしいです。	general,shopping,taxi
+1680	7	SYSTEM	では第五フジタクシーはいかがでしょうか。	general,shopping,taxi
+1680	8	USER	そこの電話番号を教えてください。	general,shopping,taxi
+1680	9	SYSTEM	電話番号は0525232211でございます。	general,shopping,taxi
+1680	10	USER	それでは予約をお願いします。日時は5/20、11:00で出発地はジェイアール名古屋タカシマヤでマーケットスクエアささしままででお願いします。	general,shopping,taxi
+1680	11	SYSTEM	予約が完了いたしました。予約番号は75889でございます。	general,shopping,taxi
+1680	12	USER	ありがとうございます。こちらからのご依頼は以上です。	general,shopping,taxi
+1680	13	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3291	0	USER	福岡の西戸崎駅近くにある、無料Wi-Fiが利用できる観光名所はありますか？	general,attraction,restaurant
+3291	1	SYSTEM	西戸崎駅で無料WiFiのある観光名所といえば、ずばり、志賀島ですね。	general,attraction,restaurant
+3291	2	USER	そちらは近くの駅からどのくらいかかりますか？	general,attraction,restaurant
+3291	3	SYSTEM	西戸崎駅からバスで26分です。	general,attraction,restaurant
+3291	4	USER	あと、住所とジャンルも教えて下さい。	general,attraction,restaurant
+3291	5	SYSTEM	ジャンルはビーチ, リゾート・保養地、住所はずばり、福岡県福岡市東区志賀島となります。	general,attraction,restaurant
+3291	6	USER	ありがとうございます。あと、城南区で、無料駐車場のある飲食店も探してもらえますか？	general,attraction,restaurant
+3291	7	SYSTEM	城南で無料駐車場有の飲食店といえば、まいどおおきに食堂城南堤食堂、こちら一択になります。	general,attraction,restaurant
+3291	8	USER	そちらの住所とWi-Fiがあるかどうか教えてください。	general,attraction,restaurant
+3291	9	SYSTEM	住所は福岡県福岡市城南区堤1丁目9-5、WiFiは不明ですね。	general,attraction,restaurant
+3291	10	USER	ありがとうございます。そちらのお店の予約を、９月２２日のお昼１２時２０分に４人でお願いします。	general,attraction,restaurant
+3291	11	SYSTEM	予約成功しました。予約番号は19643になります。	general,attraction,restaurant
+3291	12	USER	ありがとうございました。	general,attraction,restaurant
+3291	13	SYSTEM	よい旅を	general,attraction,restaurant

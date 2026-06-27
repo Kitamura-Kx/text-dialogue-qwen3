@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+912	0	USER	大阪への旅行を計画しているのですが。	general,shopping
+912	1	SYSTEM	はい、何かご希望はありますか。	general,shopping
+912	2	USER	当日買い物ができるところを探してほしいです。名前が国際楽器社というところです。	general,shopping
+912	3	SYSTEM	こちらで調べることができました。	general,shopping
+912	4	USER	そちらの近辺の駅からの所要時間と駐車場の有無，住所について教えて欲しいです。	general,shopping
+912	5	SYSTEM	近辺の駅からの所要時間は心斎橋駅から徒歩で4分で、駐車場の有無は不明で、住所は大阪府大阪市中央区心斎橋筋1丁目5-28になります。	general,shopping
+912	6	USER	ありがとうございました。	general,shopping

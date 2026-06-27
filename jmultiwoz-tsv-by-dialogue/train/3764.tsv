@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3764	0	USER	札幌へ旅行するのですが駐車場が無料で食料品の買い物ができるところを探しています。地区は清田区で。	general,shopping,taxi
+3764	1	SYSTEM	承知しました。では、農家の茶屋自然満喫倶楽部はいかがでしょう？	general,shopping,taxi
+3764	2	USER	ありがとうございます。最寄り駅と近辺の駅からの所要時間を教えて下さい。	general,shopping,taxi
+3764	3	SYSTEM	はい、最寄りの福住駅からバスで31分となります。	general,shopping,taxi
+3764	4	USER	ありがとうございます。ジャンボタクシーを利用できる会社はありますか？	general,shopping,taxi
+3764	5	SYSTEM	では、暁交通(株)はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0117712632となります。	general,shopping,taxi
+3764	6	USER	そこがいいです。予約して頂けますか？6/7の午前10:30で農家の茶屋自然満喫倶楽部からSUUというところまでです。	general,shopping,taxi
+3764	7	SYSTEM	承知しました。予約が完了し、ご予約番号は、80063となります。	general,shopping,taxi
+3764	8	USER	大変助かりました！以上です。どうもありがとうございました。	general,shopping,taxi
+3764	9	SYSTEM	ありがとうございました。	general,shopping,taxi

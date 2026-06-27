@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3073	0	USER	福岡にいくのですが、西区で駐車場が無料で使える、買い物できるお店はないですか？	general,shopping,restaurant,taxi
+3073	1	SYSTEM	かしこまりました。では、アカチャンホンポ 福岡マリナタウン店はいかがでしょうか？	general,shopping,restaurant,taxi
+3073	2	USER	いいですね、そこにします。当日利用する、予算が安めの飲食店も探してもらえませんか？	general,shopping,restaurant,taxi
+3073	3	SYSTEM	かしこまりました。よかたい 総本店はいかがでしょうか？	general,shopping,restaurant,taxi
+3073	4	USER	いいですね。近辺の駅からの所要時間はわかりますか？	general,shopping,restaurant,taxi
+3073	5	SYSTEM	はい。博多駅から徒歩で2分でございます。	general,shopping,restaurant,taxi
+3073	6	USER	ありがとうございます。あと、キャッシュレス払いができるタクシー会社も探してください。	general,shopping,restaurant,taxi
+3073	7	SYSTEM	申し訳ございません。条件に合うタクシー会社は見つかりませんでした。	general,shopping,restaurant,taxi
+3073	8	USER	ではキャッシュレス払いができなくても大丈夫です。	general,shopping,restaurant,taxi
+3073	9	SYSTEM	であれば、（有）春吉タクシーはどうでしょうか。	general,shopping,restaurant,taxi
+3073	10	USER	そこにします。8/28の14:10、出発地はアカチャンホンポ 福岡マリナタウン店、目的地はよかたい 総本店で、予約をお願いします。	general,shopping,restaurant,taxi
+3073	11	SYSTEM	かしこまりました。ご予約承りました。予約番号は、98748です。	general,shopping,restaurant,taxi
+3073	12	USER	ありがとうございます。	general,shopping,restaurant,taxi
+3073	13	SYSTEM	いえいえ。こちらこそご利用ありがとうございました。	general,shopping,restaurant,taxi

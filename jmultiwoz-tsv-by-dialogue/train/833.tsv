@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+833	0	USER	名古屋で利用できるタクシー会社を調べてください。	general,taxi
+833	1	SYSTEM	かしこまりました。何かご希望の条件はございますか。	general,taxi
+833	2	USER	ジャンボータクシーがあって、キャッシュレス決済ができるところがいいです。	general,taxi
+833	3	SYSTEM	つばめタクシーグループがございます。	general,taxi
+833	4	USER	そちらでお願いします。電話番号も教えていただけますか？	general,taxi
+833	5	SYSTEM	電話番号は0522031212でございます。	general,taxi
+833	6	USER	では10/21の10:40、山中羊羹舗出発の東京第一ホテル錦着で予約をお願いします。	general,taxi
+833	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は85219でございます。	general,taxi
+833	8	USER	予約は以上です。ありがとうございました！	general,taxi

@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4676	0	USER	仙台で文房具・雑貨屋さんを探してるのですが	general,shopping,attraction
+4676	1	SYSTEM	他にご希望はございますか？	general,shopping,attraction
+4676	2	USER	泉区で駐車場が無料で利用できるところがいいのですが	general,shopping,attraction
+4676	3	SYSTEM	では、丸善 仙台アエル店はいかがでしょう？	general,shopping,attraction
+4676	4	USER	ではそちらの最寄り駅はどこですか	general,shopping,attraction
+4676	5	SYSTEM	はい、最寄りの仙台駅から徒歩で2分となります。	general,shopping,attraction
+4676	6	USER	かしこまりました。話が変わるのですが当日青葉区で観光名所を探しているのですが良いところはありますか	general,shopping,attraction
+4676	7	SYSTEM	他にご希望はございますか？	general,shopping,attraction
+4676	8	USER	駐車場が無料のところがいいです	general,shopping,attraction
+4676	9	SYSTEM	では、瑞鳳殿 涅槃門はいかがでしょう？ジャンルは、歴史的建造物、旧跡となります。	general,shopping,attraction
+4676	10	USER	ではそちらの住所と最寄り駅が聞きたいのですが	general,shopping,attraction
+4676	11	SYSTEM	はい、住所は宮城県仙台市青葉区霊屋下23-2、最寄りの仙台駅からタクシーで10分となります。	general,shopping,attraction
+4676	12	USER	かしこまりました以上で終わります	general,shopping,attraction

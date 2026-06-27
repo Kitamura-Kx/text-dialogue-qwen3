@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1856	0	USER	名古屋の守山区で、スポーツ関係の商品を購入できるお店はありますか？	general,shopping,hotel,restaurant
+1856	1	SYSTEM	申し訳ございません。条件に合うお買い物の店舗は見つかりませんでした。	general,shopping,hotel,restaurant
+1856	2	USER	そうしましたら、地区は守山区でなくてもかまいません。	general,shopping,hotel,restaurant
+1856	3	SYSTEM	かしこまりました。では、公武堂MACSはいかがでしょうか？	general,shopping,hotel,restaurant
+1856	4	USER	ありがとうございます。最寄り駅はわかりますか？	general,shopping,hotel,restaurant
+1856	5	SYSTEM	はい。最寄駅は矢場町駅です。	general,shopping,hotel,restaurant
+1856	6	USER	ありがとうございます。次に宿泊施設の予約をしたいです。高めのシティホテルはありますか？	general,shopping,hotel,restaurant
+1856	7	SYSTEM	申し訳ございません。条件に合う宿泊施設は見つかりませんでした。	general,shopping,hotel,restaurant
+1856	8	USER	では、高めでなくても良いのでシティホテルを探してもらえますか？	general,shopping,hotel,restaurant
+1856	9	SYSTEM	かしこまりました。では、三井ガーデンホテル名古屋プレミアはいかがでしょうか？値段帯は安めになります。	general,shopping,hotel,restaurant
+1856	10	USER	では、そのホテルを予約してください。6/29から4泊で、人数は４人です。	general,shopping,hotel,restaurant
+1856	11	SYSTEM	申し訳ございません。その条件では予約できませんでした。どうされますか。	general,shopping,hotel,restaurant
+1856	12	USER	そうしたら、３泊ではどうでしょうか？	general,shopping,hotel,restaurant
+1856	13	SYSTEM	かしこまりました。ご予約承りました。予約番号は、87222です。	general,shopping,hotel,restaurant
+1856	14	USER	あとひとつ、飲食店も探して欲しいです。駐車場無料のところはありますか？	general,shopping,hotel,restaurant
+1856	15	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,shopping,hotel,restaurant
+1856	16	USER	では、駐車場はなくてもかまわないです。	general,shopping,hotel,restaurant
+1856	17	SYSTEM	かしこまりました。では、ソウルキッチンはいかがでしょうか？ジャンルはアジア・エスニック料理, 居酒屋、となります。	general,shopping,hotel,restaurant
+1856	18	USER	ありがとうございます。住所と電話番号も教えてもらえますか？	general,shopping,hotel,restaurant
+1856	19	SYSTEM	はい。住所は愛知県名古屋市東区東桜1丁目2-29です。電話番号は0522657455になります。	general,shopping,hotel,restaurant
+1856	20	USER	今日お願いしたいことは以上です。ありがとうございました。	general,shopping,hotel,restaurant
+1856	21	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,restaurant

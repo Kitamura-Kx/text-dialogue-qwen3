@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1489	0	USER	札幌の買い物スポットを教えてください。南区の買い物スポットで、最寄り駅は札幌駅がいいです。	general,shopping,weather
+1489	1	SYSTEM	承知しました。定山渓物産館はいかがでしょう？	general,shopping,weather
+1489	2	USER	電話番号と定休日も教えて頂けますか？	general,shopping,weather
+1489	3	SYSTEM	はい、電話番号は0115982178、定休日はございません。	general,shopping,weather
+1489	4	USER	分かりました。続いて、現地の天気も知りたいんですが。12/10、清田区の天気を教えてください。	general,shopping,weather
+1489	5	SYSTEM	はい、天気は晴、最低気温-0.6度、最高気温2.2度となります。	general,shopping,weather
+1489	6	USER	ありがとうございます！助かりました。	general,shopping,weather

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4224	0	USER	大阪へ旅行に行くのですが、キャッシュレス払いができるタクシー会社はありませんか？	general,taxi
+4224	1	SYSTEM	はい、13件ほどございます。例えば、榮交通株式会社というところがございますが、いかがでしょうか？	general,taxi
+4224	2	USER	榮交通株式会社は、ジャンボタクシーに対応していますか？	general,taxi
+4224	3	SYSTEM	はい、対応しておりますよ。	general,taxi
+4224	4	USER	わかりました。3月17日の11:00に予約します。NU茶屋町から、BEEHIVE HOSTEL OSAKAまで行くのでお願いします。	general,taxi
+4224	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、28450です。	general,taxi
+4224	6	USER	ありがとうございます。	general,taxi
+4224	7	SYSTEM	他にお調べすることはございませんか？	general,taxi
+4224	8	USER	いえ、大丈夫です。ありがとうございました。	general,taxi
+4224	9	SYSTEM	承知いたしました。こちらこそ、本日はご利用ありがとうございました。	general,taxi

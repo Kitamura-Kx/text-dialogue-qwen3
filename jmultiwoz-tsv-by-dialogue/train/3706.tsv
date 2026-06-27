@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3706	0	USER	こんにちは。福岡に行くのですが、Wi-Fiが無料で使える、中央区の観光名所はありますか？	general,attraction,hotel,weather
+3706	1	SYSTEM	かしこまりました。それでは福岡 PayPayドームはいかがでしょうか？	general,attraction,hotel,weather
+3706	2	USER	そこに行ってみようかな。そこのジャンルと料金情報はわかりますか？	general,attraction,hotel,weather
+3706	3	SYSTEM	ジャンルはアリーナ・スタジアム, スポーツ・フィットネスでして、料金情報は試合により異なるとのことです。	general,attraction,hotel,weather
+3706	4	USER	ありがとうございます。駐車場が無料で使えて、レストランが併設されている、宿泊施設はありますか？	general,attraction,hotel,weather
+3706	5	SYSTEM	お待たせ致しました。それではアゴーラ福岡山の上ホテル&スパはいかがでしょうか？	general,attraction,hotel,weather
+3706	6	USER	いいですね。そこにします。そのホテルの、電話番号と最寄り駅を教えてください。	general,attraction,hotel,weather
+3706	7	SYSTEM	はい、電話番号は0927712131でして、最寄り駅は天神駅でございます。	general,attraction,hotel,weather
+3706	8	USER	ありがとうございます。あと、6/26の西区の天候も調べてもらえませんか？	general,attraction,hotel,weather
+3706	9	SYSTEM	お待たせ致しました。当日の天気は曇予報でございます。	general,attraction,hotel,weather
+3706	10	USER	ありがとうございます。	general,attraction,hotel,weather
+3706	11	SYSTEM	ありがとうございました。またお待ちしております。	general,attraction,hotel,weather

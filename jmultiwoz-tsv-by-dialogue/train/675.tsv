@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+675	0	USER	東京へ旅行するのですが、宿泊施設を探してください。	general,hotel,attraction,weather
+675	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,hotel,attraction,weather
+675	2	USER	中央区で、Wi-Fiが無料で使えて、レストランが併設されているところがいいです。	general,hotel,attraction,weather
+675	3	SYSTEM	ではロイヤルパークホテルはいかがでしょうか。	general,hotel,attraction,weather
+675	4	USER	そこにします。値段帯を教えてください。	general,hotel,attraction,weather
+675	5	SYSTEM	値段帯は安めでございます。	general,hotel,attraction,weather
+675	6	USER	わかりました。Wi-Fiが無料で使える観光名所も探しているのですが、ありますか？	general,hotel,attraction,weather
+675	7	SYSTEM	国立新美術館はWi-Fiが無料で利用いただけます。	general,hotel,attraction,weather
+675	8	USER	いいですね。定休日と料金を教えてください。	general,hotel,attraction,weather
+675	9	SYSTEM	定休日は火曜日と年末年始でございます。料金情報は展覧会により異なるということでございました。	general,hotel,attraction,weather
+675	10	USER	わかりました。当日の天気を知りたいのですが、12月20日の江東区の天候はどうですか？	general,hotel,attraction,weather
+675	11	SYSTEM	天気は晴のち曇、最低気温が2度で最高気温が10.2度でございます。	general,hotel,attraction,weather
+675	12	USER	ありがとうございます。	general,hotel,attraction,weather
+675	13	SYSTEM	ほかにご用件はございませんか。	general,hotel,attraction,weather
+675	14	USER	大丈夫です。	general,hotel,attraction,weather
+675	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,attraction,weather

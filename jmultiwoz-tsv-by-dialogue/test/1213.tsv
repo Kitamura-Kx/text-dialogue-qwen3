@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1213	0	USER	東京への旅行を計画しているのですが。	general,attraction,shopping,restaurant
+1213	1	SYSTEM	はい。お問合せありがとうございます。	general,attraction,shopping,restaurant
+1213	2	USER	当日訪れる観光名所を探してください．地区は港区で駐車場を無料で利用できるところがいいです。	general,attraction,shopping,restaurant
+1213	3	SYSTEM	根津美術館はどうでしょう。	general,attraction,shopping,restaurant
+1213	4	USER	いいですね。そちらのジャンルはなんでしょうか。	general,attraction,shopping,restaurant
+1213	5	SYSTEM	ジャンルは美術館・博物館です。	general,attraction,shopping,restaurant
+1213	6	USER	ありがとうございました。あと当日買い物ができるところを探してください．地区は中央区で。	general,attraction,shopping,restaurant
+1213	7	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction,shopping,restaurant
+1213	8	USER	でしたら渋谷区に変更してください。	general,attraction,shopping,restaurant
+1213	9	SYSTEM	KIDDY LAND原宿店などはいかがでしょう。	general,attraction,shopping,restaurant
+1213	10	USER	いいですね。そちらの電話番号をおしえてください。	general,attraction,shopping,restaurant
+1213	11	SYSTEM	電話番号は0334093431です。	general,attraction,shopping,restaurant
+1213	12	USER	ありがとうございました。あと当日食事ができる飲食店を探してください．Wi-Fiが無料で利用できるでジャンルはお好み焼き・たこ焼きがいいです。	general,attraction,shopping,restaurant
+1213	13	SYSTEM	すみません、そちらの条件に合うお店がございません。	general,attraction,shopping,restaurant
+1213	14	USER	でしたらWi-Fiはどちらでもいいです。	general,attraction,shopping,restaurant
+1213	15	SYSTEM	月島もんじゃ こぼれや 本店はいかがでしょう。	general,attraction,shopping,restaurant
+1213	16	USER	いいですね。そちらの電話番号を教えてください。	general,attraction,shopping,restaurant
+1213	17	SYSTEM	電話番号は0335209976になっています。	general,attraction,shopping,restaurant
+1213	18	USER	ありがとうございます。ではそちらで人数は3人で日付は11/11、時間は15:20で予約してほしいです。	general,attraction,shopping,restaurant
+1213	19	SYSTEM	予約しました。予約番号は79894になります。	general,attraction,shopping,restaurant
+1213	20	USER	ありがとうございました。	general,attraction,shopping,restaurant

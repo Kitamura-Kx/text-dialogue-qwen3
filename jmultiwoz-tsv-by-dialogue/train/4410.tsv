@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4410	0	USER	京都へ旅行に行くので4/24の西京区の最高気温と最低気温を教えてもらえますか？	general,weather,taxi
+4410	1	SYSTEM	お待たせ致しました。当日の西京区の最高気温は18.2度、最低気温は4.2度の予報でございます。	general,weather,taxi
+4410	2	USER	ありがとうございます。あと、タクシーの利用も考えていて、キャッシュレス払いができるようなところはありませんか？	general,weather,taxi
+4410	3	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,weather,taxi
+4410	4	USER	そうですか。じゃあ、キャッシュレス払いできないところでもいいです。	general,weather,taxi
+4410	5	SYSTEM	かしこまりました。それでは加茂タクシー株式会社はいかがでしょうか？	general,weather,taxi
+4410	6	USER	そこにします。4/24の12:30にあーぐうるからトーイハウス童までの予約をお願いします。	general,weather,taxi
+4410	7	SYSTEM	申し訳ございません。その条件ではご予約することが出来ませんでした。	general,weather,taxi
+4410	8	USER	そうですか。では、時間を13:30に変更します。	general,weather,taxi
+4410	9	SYSTEM	お待たせ致しました。予約番号42855でお取りさせていただきました。	general,weather,taxi
+4410	10	USER	ありがとうございます。もう大丈夫です。	general,weather,taxi
+4410	11	SYSTEM	ありがとうございました。またお待ちしております。	general,weather,taxi

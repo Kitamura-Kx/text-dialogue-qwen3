@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+575	0	USER	こんにちは。今度、京都旅行に行こうかと思っているんですが、飲食店の案内をお願いできますか？	general,restaurant,taxi
+575	1	SYSTEM	承知しました。何かご希望はございますか？	general,restaurant,taxi
+575	2	USER	希望としては、和食で、予算は高めでお願いしたいです。	general,restaurant,taxi
+575	3	SYSTEM	ありがとうございます。では、沖よしはいかがでしょう？エリアは東山区、最寄りの東福寺駅から徒歩で11分となります。	general,restaurant,taxi
+575	4	USER	そうなんですね。そちらのお店の定休日についても、お聞きしてよろしいですか？	general,restaurant,taxi
+575	5	SYSTEM	はい、定休日は水曜日となります。	general,restaurant,taxi
+575	6	USER	ありがとうございます。あと、タクシー会社も探していただきたいのですが、キャッシュレス払いに対応しているところでお願いしたいです。	general,restaurant,taxi
+575	7	SYSTEM	申し訳ありません。キャッシュレスに対応しているタクシー会社はございません。いかが致しましょう？	general,restaurant,taxi
+575	8	USER	そうなんですね。では、キャッシュレスについては考えなくて大丈夫です。	general,restaurant,taxi
+575	9	SYSTEM	申し訳ありません。では、彌榮自動車株式会社はいかがでしょう？ジャンボタクシーには対応しております。電話番号は、0758421212となります。	general,restaurant,taxi
+575	10	USER	お探しいただき、ありがとうございます。では、そちらで予約をお願いします。12月24日の9時40分に、コンフォートホテル京都東寺から、先ほどの沖よしまでで、手配をお願いします。	general,restaurant,taxi
+575	11	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,restaurant,taxi
+575	12	USER	そうでしたか。では、時間を変更してください。10時30分でお願いします。	general,restaurant,taxi
+575	13	SYSTEM	ありがとうございます。予約が完了し、ご予約番号は、78925となります。	general,restaurant,taxi
+575	14	USER	予約のお手配、ありがとうございました。あとは大丈夫です。この度は色々とありがとうございました。	general,restaurant,taxi
+575	15	SYSTEM	ありがとうございました。	general,restaurant,taxi

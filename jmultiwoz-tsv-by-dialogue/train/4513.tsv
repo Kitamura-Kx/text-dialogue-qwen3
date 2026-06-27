@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4513	0	USER	仙台に旅行に行くときに泊まる宿泊施設を探して頂けますか？	general,hotel,weather
+4513	1	SYSTEM	かしこまりました。９２件ヒットしましたが、ご希望の条件はございますか。	general,hotel,weather
+4513	2	USER	Wi-Fiが無料で利用できて、予算は高めが良いのですが、ありますか？	general,hotel,weather
+4513	3	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。いかがなさいますか。	general,hotel,weather
+4513	4	USER	それなら予算はいくらでも大丈夫です。	general,hotel,weather
+4513	5	SYSTEM	ではホテルルートイン仙台長町インターはいかがですか。	general,hotel,weather
+4513	6	USER	そちらのチェックアウト終了時刻はわかりますか？	general,hotel,weather
+4513	7	SYSTEM	はい。チェックアウト終了時刻は10:00でございます。	general,hotel,weather
+4513	8	USER	ホテルルートイン仙台長町インターで、3/11から4名で2泊の予約をお願いできますか？	general,hotel,weather
+4513	9	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は44489でございます。	general,hotel,weather
+4513	10	USER	ありがとうございます。3/11の若林区の天気も教えて下さい。	general,hotel,weather
+4513	11	SYSTEM	当日の天気は晴時々雨の予報でございます。	general,hotel,weather
+4513	12	USER	ありがとうございました。	general,hotel,weather
+4513	13	SYSTEM	ほかにご用件はございませんか。	general,hotel,weather
+4513	14	USER	他は大丈夫です。	general,hotel,weather
+4513	15	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

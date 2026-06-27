@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4170	0	USER	札幌で泊まれるところを探しているのですが。駐車場が無料のところがいいです。	general,hotel
+4170	1	SYSTEM	では、定山渓温泉 ぬくもりの宿 ふる川はいかがですか？	general,hotel
+4170	2	USER	予算は普通くらいなんですが、高いですか？	general,hotel
+4170	3	SYSTEM	こちらの予算は、安めとなっています。　どうされますか？	general,hotel
+4170	4	USER	普通くらいでもう一度探して頂きたいです。	general,hotel
+4170	5	SYSTEM	では、JRタワーホテル日航札幌はいかがですか？	general,hotel
+4170	6	USER	料金はどのくらいですか？	general,hotel
+4170	7	SYSTEM	申し訳ありません、詳しい料金情報の記載はございません。	general,hotel
+4170	8	USER	分かりました。	general,hotel
+4170	9	SYSTEM	他にご用件はありますか？	general,hotel
+4170	10	USER	大丈夫です。ありがとうございます。	general,hotel
+4170	11	SYSTEM	承知しました。ありがとうございました。	general,hotel

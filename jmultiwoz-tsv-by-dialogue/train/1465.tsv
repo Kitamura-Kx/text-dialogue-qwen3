@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1465	0	USER	東京へ旅行に行くんですが、買い物ができるお店を探してほしいです！	general,shopping,attraction
+1465	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,attraction
+1465	2	USER	医薬品・化粧品を買いたいのと、最寄り駅が銀座一丁目駅だと嬉しいです！	general,shopping,attraction
+1465	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。	general,shopping,attraction
+1465	4	USER	では最寄り駅はどこでも大丈夫です！	general,shopping,attraction
+1465	5	SYSTEM	ではAēsop 東京店はいかがでしょうか。最寄り駅は中目黒駅でございます。	general,shopping,attraction
+1465	6	USER	エリアはどこになりますか？	general,shopping,attraction
+1465	7	SYSTEM	エリアは目黒区でございます。	general,shopping,attraction
+1465	8	USER	定休日と電話番号も教えてください。	general,shopping,attraction
+1465	9	SYSTEM	定休日はございません。電話番号は0364550757でございます。	general,shopping,attraction
+1465	10	USER	ありがとうございます。観光名所も探してほしいです！駐車場が無料で、最寄り駅が浅草駅がいいです！	general,shopping,attraction
+1465	11	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,attraction
+1465	12	USER	では最寄り駅はどこでも大丈夫です！	general,shopping,attraction
+1465	13	SYSTEM	では豪徳寺はいかがでしょうか。	general,shopping,attraction
+1465	14	USER	いいですね。近辺の駅からの所要時間は分かりますか？	general,shopping,attraction
+1465	15	SYSTEM	宮の坂駅から徒歩で5分、豪徳寺駅から徒歩で15分でございます。	general,shopping,attraction
+1465	16	USER	ありがとうございます。大変助かりました！	general,shopping,attraction
+1465	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,attraction

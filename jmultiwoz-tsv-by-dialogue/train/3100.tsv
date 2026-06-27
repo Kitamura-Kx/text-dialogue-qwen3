@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3100	0	USER	札幌への旅行を考えています．WIFiが無料で利用できる南区の宿泊施設を教えてください．	general,hotel,taxi,weather
+3100	1	SYSTEM	かしこまりました。では、定山渓第一寶亭留 翠山亭はいかがでしょうか？	general,hotel,taxi,weather
+3100	2	USER	ありがとうございます．そちらの住所を教えてください．	general,hotel,taxi,weather
+3100	3	SYSTEM	北海道札幌市南区定山渓温泉西３丁目１０５でございます。	general,hotel,taxi,weather
+3100	4	USER	ありがとうございます．それと，キャッシュレス払い対応でジャンボタクシーが使えるタクシー会社はありますか．	general,hotel,taxi,weather
+3100	5	SYSTEM	はい、ございます。恊和交通(株)はいかがでしょうか？	general,hotel,taxi,weather
+3100	6	USER	そちらの電話番号を教えてください．	general,hotel,taxi,weather
+3100	7	SYSTEM	電話番号は、0118751211です。	general,hotel,taxi,weather
+3100	8	USER	ありがとうございます．そこで予約したいと思います．定山渓第一寶亭留 翠山亭からKakitsubata Bakeryまでお願いします．日時は10/29，12:30です．	general,hotel,taxi,weather
+3100	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、30061です。	general,hotel,taxi,weather
+3100	10	USER	ありがとうございます．ちなみに10/29の豊平区の最高気温は何度ですか．	general,hotel,taxi,weather
+3100	11	SYSTEM	はい、当日の最高気温は、17.9度の予想となっております。	general,hotel,taxi,weather
+3100	12	USER	承知しました．ありがとうございます．	general,hotel,taxi,weather
+3100	13	SYSTEM	他にお調べすることはございませんか？	general,hotel,taxi,weather
+3100	14	USER	はい，大丈夫です．	general,hotel,taxi,weather
+3100	15	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,taxi,weather

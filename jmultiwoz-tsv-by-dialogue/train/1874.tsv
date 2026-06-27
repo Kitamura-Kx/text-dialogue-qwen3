@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1874	0	USER	こんにちは！今度、横浜へ行くので、案内をお願いします。	general,restaurant,weather
+1874	1	SYSTEM	はい。ご案内させていただきます。	general,restaurant,weather
+1874	2	USER	えっと、旅行で訪れる飲食店を探していまして、最寄り駅は川崎駅、予算は安め、駐車場が無料で利用できるところで調べていただけますか？	general,restaurant,weather
+1874	3	SYSTEM	申し訳ございません。条件に合う飲食店の施設は見つかりませんでした。	general,restaurant,weather
+1874	4	USER	そうなんですね。じゃぁ、最寄り駅はどこでも大丈夫です。	general,restaurant,weather
+1874	5	SYSTEM	かしこまりました。では、カフェ・ド・ラペはいかがでしょうか？	general,restaurant,weather
+1874	6	USER	おしゃれな名前のお店ですね！じゃぁ、そちらの予約をお願いします！１０月２２日の１２時に、４人でお願いします。	general,restaurant,weather
+1874	7	SYSTEM	かしこまりました。ご予約承りました。予約番号は、41741です。	general,restaurant,weather
+1874	8	USER	手配、ありがとうございます！あと、１０月２２日の港北区の天候ってわかりますか？	general,restaurant,weather
+1874	9	SYSTEM	かしこまりました。10/22の港北区の天気予報は雨時々晴となっております。最低気温は17.5度、最高気温は19度になる予報です。	general,restaurant,weather
+1874	10	USER	そうなんですね！ありがとうございます。	general,restaurant,weather
+1874	11	SYSTEM	他にご用件はありますか？	general,restaurant,weather
+1874	12	USER	いえ、あとはもう大丈夫です。ご案内いただいて助かりました！ありがとうございました。	general,restaurant,weather
+1874	13	SYSTEM	承知しました。ありがとうございました。	general,restaurant,weather

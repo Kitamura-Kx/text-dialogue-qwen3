@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1818	0	USER	横浜への旅行を計画中なのですが、駐車場が無料で工場見学のできる観光名所はありますか？	general,attraction,shopping
+1818	1	SYSTEM	かしこまりました。では、カップヌードルミュージアム 横浜はいかがでしょうか？	general,attraction,shopping
+1818	2	USER	「カップヌードルミュージアム 横浜」の最寄り駅を教えて下さい。	general,attraction,shopping
+1818	3	SYSTEM	はい。カップヌードルミュージアム 横浜の最寄り駅はみなとみらい駅です。	general,attraction,shopping
+1818	4	USER	買い物もしたいのですが、駐車場が無料の百貨店や総合スーパーはありますか？	general,attraction,shopping
+1818	5	SYSTEM	かしこまりました。では、新横浜プリンスペペはいかがでしょうか？	general,attraction,shopping
+1818	6	USER	「新横浜プリンスペペ」の営業時間をお願いします。	general,attraction,shopping
+1818	7	SYSTEM	はい。営業時間は10:00～21:00になります。	general,attraction,shopping
+1818	8	USER	ありがとうございました、あとは大丈夫です。	general,attraction,shopping
+1818	9	SYSTEM	承知しました。ありがとうございました。	general,attraction,shopping

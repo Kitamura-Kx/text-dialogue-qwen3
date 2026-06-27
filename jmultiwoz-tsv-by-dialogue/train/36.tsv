@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+36	0	USER	すいません、福岡に旅行に行きたいんですけど。	general,taxi
+36	1	SYSTEM	ご利用ありがとうございます。福岡へのご旅行の予定ですね。どんなお手伝いをいたしましょうか？	general,taxi
+36	2	USER	タクシーを使いたいので、会社を探してもらえますか？	general,taxi
+36	3	SYSTEM	はい。福岡のタクシー会社は20件ほどございます。何か条件などのご指定はございますか？	general,taxi
+36	4	USER	ジャンボタクシーをお願いしたくて、あとキャッシュレスで支払いできると助かります。	general,taxi
+36	5	SYSTEM	かしこまりました。ジャンボタクシーとキャッシュレスどちらにも対応しているタクシー会社は、14件ほどございます。福岡昭和タクシー（株）は、いかがですか？	general,taxi
+36	6	USER	じゃ、そこで。電話番号はわかりますか？	general,taxi
+36	7	SYSTEM	はい、こちらの電話番号は、0120408860です。	general,taxi
+36	8	USER	どうもありがとう。予約してもらうことってできますか？	general,taxi
+36	9	SYSTEM	はい、可能です。ご利用予定の日にちはお決まりですか？	general,taxi
+36	10	USER	うん、7月30日でお願い。時間は13時で。	general,taxi
+36	11	SYSTEM	かしこまりました。7月30日13時のご出発ですね。出発地と目的地は、おわかりになりますか？	general,taxi
+36	12	USER	出発地は黒豚あじと 福岡赤坂店というところで、CANDEO HOTELS 福岡天神まで行きたいです。	general,taxi
+36	13	SYSTEM	ありがとうございます。ご予約番号42108で、承りました。	general,taxi
+36	14	USER	あ、どうも。	general,taxi
+36	15	SYSTEM	ほかにご不明な点などはございますでしょうか？	general,taxi
+36	16	USER	あ、もういいです。ありがとうございました。	general,taxi
+36	17	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,taxi

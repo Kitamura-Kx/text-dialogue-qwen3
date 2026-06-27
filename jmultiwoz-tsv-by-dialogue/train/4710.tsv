@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4710	0	USER	仙台、宮城野区の観光名所を探しています。ジャンルは教室・ワークショップ・体験です。駐車場が無料のところがよいのですが。	general,attraction,weather
+4710	1	SYSTEM	かしこまりました。そうしますと、仙台うみの杜水族館はいかがでしょうか？	general,attraction,weather
+4710	2	USER	ありがとうございます。そちらで結構です。定休日を教えていただけますか。	general,attraction,weather
+4710	3	SYSTEM	こちら、定休日はございません。	general,attraction,weather
+4710	4	USER	当日、１２月９日の宮城野区の最高気温を教えていただけますか。	general,attraction,weather
+4710	5	SYSTEM	かしこまりました。当日の最高気温は、3.8度の予報となっております。	general,attraction,weather
+4710	6	USER	ありがとうございました。お聞きしたいことはこれで終わりです。ありがとうございました。	general,attraction,weather
+4710	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,attraction,weather

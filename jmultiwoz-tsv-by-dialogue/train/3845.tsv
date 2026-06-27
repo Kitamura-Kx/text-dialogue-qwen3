@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3845	0	USER	京都へ出かけるのですが、苦情駅近辺で駐車場が無料で使える観光名所ってありますか？	general,attraction,restaurant,shopping
+3845	1	SYSTEM	京都の九条駅ですよね、九条駅に駐車場無料の観光スポットはありません。	general,attraction,restaurant,shopping
+3845	2	USER	わかりました。では、九条駅近辺でなくて構いませんので、駐車場を無料で使えるところを教えてください。	general,attraction,restaurant,shopping
+3845	3	SYSTEM	いくつかありますが、伏見稲荷大社、こちら大変おすすめです。	general,attraction,restaurant,shopping
+3845	4	USER	そこは、子供の入場料ってかかりますか？	general,attraction,restaurant,shopping
+3845	5	SYSTEM	大人も子供も無料です。	general,attraction,restaurant,shopping
+3845	6	USER	そこの住所ってわかりますか？あと、定休日はありますか？	general,attraction,restaurant,shopping
+3845	7	SYSTEM	京都府京都市伏見区深草藪之内町68、定休日はありません。	general,attraction,restaurant,shopping
+3845	8	USER	わかりました。それと、当日食事が出来るところも探してほしいです。中京区で探してほしいのですが？	general,attraction,restaurant,shopping
+3845	9	SYSTEM	中京区の飲食店は３６件あります。他に希望の条件はありますか。	general,attraction,restaurant,shopping
+3845	10	USER	wifiが無料で使える、安めの予算で収まるお店がいいです。	general,attraction,restaurant,shopping
+3845	11	SYSTEM	はい、それならば、いっかくじゅう 四条新町店、こちらオススメです。	general,attraction,restaurant,shopping
+3845	12	USER	そのお店のジャンルは何になりますか？	general,attraction,restaurant,shopping
+3845	13	SYSTEM	お好み焼き・たこ焼きです	general,attraction,restaurant,shopping
+3845	14	USER	わかりました。ところで、南区で家電などが買えるお店ってありませんか？	general,attraction,restaurant,shopping
+3845	15	SYSTEM	南区にはジャンル家電・電化製品の買い物スポットはありません。	general,attraction,restaurant,shopping
+3845	16	USER	そうですか。ではジャンルは問いませんので、駐車場を無料で使えるおすすめの買い物スポットを教えてください。	general,attraction,restaurant,shopping
+3845	17	SYSTEM	南区で駐車場無料の買い物スポットは、ココカラファイン アバンティ店、こちら一択です。	general,attraction,restaurant,shopping
+3845	18	USER	そちらのお店に定休日ってありますか？	general,attraction,restaurant,shopping
+3845	19	SYSTEM	定休日はありません。	general,attraction,restaurant,shopping
+3845	20	USER	ありがとうございました。	general,attraction,restaurant,shopping

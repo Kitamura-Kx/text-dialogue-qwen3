@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1388	0	USER	東京への旅行を計画中です、無料駐車場のあるコンビニはありますか？	general,shopping,taxi
+1388	1	SYSTEM	申し訳ございません。その条件では案内できるところがございませんでした。	general,shopping,taxi
+1388	2	USER	コンビニではなく家電・電化製品のお店で駐車場が無料ならありますか？	general,shopping,taxi
+1388	3	SYSTEM	はい、では二子玉川 蔦屋家電はいかがでしょうか。	general,shopping,taxi
+1388	4	USER	「二子玉川 蔦屋家電」のエリアはどちらになりますか？	general,shopping,taxi
+1388	5	SYSTEM	エリアは世田谷区でございます。	general,shopping,taxi
+1388	6	USER	わかりました、キャッシュレス対応可能なタクシー会社を探しているのですが、あれば教えて下さい。	general,shopping,taxi
+1388	7	SYSTEM	では昭栄自動車はいかがでしょうか。	general,shopping,taxi
+1388	8	USER	昭栄自動車はジャンボタクシー対応可能でしょうか？	general,shopping,taxi
+1388	9	SYSTEM	ジャンボタクシーも対応しております。	general,shopping,taxi
+1388	10	USER	それではタクシーの予約をお願いします。12/25の11:30に「二子玉川 蔦屋家電」から「tcc GINZAの洋食」までお願いします。	general,shopping,taxi
+1388	11	SYSTEM	予約が完了いたしました。予約番号は30476でございます。	general,shopping,taxi
+1388	12	USER	有難うございました、助かりました。	general,shopping,taxi
+1388	13	SYSTEM	ほかにご用件はございますか。	general,shopping,taxi
+1388	14	USER	はい有難うございました。	general,shopping,taxi
+1388	15	SYSTEM	承知しました。ありがとうございました。	general,shopping,taxi

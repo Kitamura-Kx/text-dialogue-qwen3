@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+183	0	USER	こんばんは。京都へ旅行へ行きたいと考えています。	general,attraction
+183	1	SYSTEM	ご利用ありがとうございます。京都のどういった情報をお探しでしょうか？	general,attraction
+183	2	USER	観光名所を探しています。スポーツやフィットネスに関係する場所がいいです。	general,attraction
+183	3	SYSTEM	３件ほどご案内できます。島津アリーナ京都、京都市京北運動公園、京都市障害者教養文化・体育会館で気になるところはありますか？	general,attraction
+183	4	USER	京都市京北運動公園が気になります。こちらは駐車場はありますか？	general,attraction
+183	5	SYSTEM	申し訳ございません。京都市京北運動公園の駐車場については、不明となっております。	general,attraction
+183	6	USER	そうなのですね。では、京都市京北運動公園の最寄りの駅からはどれくらい時間を要しますか？	general,attraction
+183	7	SYSTEM	最寄りの西京極駅からは、徒歩で10分ほどかかります。	general,attraction
+183	8	USER	わかりました。ありがとうございました。	general,attraction

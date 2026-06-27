@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2256	0	USER	東京へ旅行に行くんですが、飲食店を探してください！	general,restaurant,attraction,weather
+2256	1	SYSTEM	はい、ご希望はありますか？	general,restaurant,attraction,weather
+2256	2	USER	豊島区で、予算が普通の所だったらどこでも大丈夫です！	general,restaurant,attraction,weather
+2256	3	SYSTEM	豊島区で予算普通ならば、やきとんひなた池袋東口店、ここ一択になります。	general,restaurant,attraction,weather
+2256	4	USER	いいですね！電話番号と営業時間は分かりますか？	general,restaurant,attraction,weather
+2256	5	SYSTEM	電話番号は0359858910、営業時間は昼２時から、翌日のAM１時までです。	general,restaurant,attraction,weather
+2256	6	USER	ありがとうございます。ちなみにWi-Fiはありますかね？	general,restaurant,attraction,weather
+2256	7	SYSTEM	WiFiは不明ですね。	general,restaurant,attraction,weather
+2256	8	USER	なるほどです！中央区で観光名所も探してほしいんですが、いいですか？	general,restaurant,attraction,weather
+2256	9	SYSTEM	中央区の観光名所といえば、なんといっても浜離宮恩賜庭園、ここがオススメです。	general,restaurant,attraction,weather
+2256	10	USER	そうなんですね。最寄り駅が本郷３丁目駅のところはないですかね？	general,restaurant,attraction,weather
+2256	11	SYSTEM	最寄り駅が本郷３丁目ですと、中央区の観光名所はなさそうですね。	general,restaurant,attraction,weather
+2256	12	USER	そうなんですね。では、最寄り駅の希望を無しにしたら、先ほどの浜離宮恩賜庭園が良さそうですかね？	general,restaurant,attraction,weather
+2256	13	SYSTEM	浜離宮以外ですと、日本橋三井ホールもおすすめです。	general,restaurant,attraction,weather
+2256	14	USER	どっちがオススメですか？	general,restaurant,attraction,weather
+2256	15	SYSTEM	自然が好きなら浜離宮恩賜庭園、アート好きな方は日本橋三井ホールがおすすめです。	general,restaurant,attraction,weather
+2256	16	USER	決めていただけませんか？すみません！	general,restaurant,attraction,weather
+2256	17	SYSTEM	私なら浜離宮恩賜庭園を選びます。	general,restaurant,attraction,weather
+2256	18	USER	ではそちらに行きたいと思います！大人入場料を教えてください。	general,restaurant,attraction,weather
+2256	19	SYSTEM	大人は３００円ですね。	general,restaurant,attraction,weather
+2256	20	USER	わかりました！あと渋谷区の1/5の天気を教えてください。	general,restaurant,attraction,weather
+2256	21	SYSTEM	1/5 東京 渋谷区 の天気は曇時々晴、最低気温7.7度、最高気温12.9度です。	general,restaurant,attraction,weather
+2256	22	USER	ご丁寧にありがとうございました！楽しんできますね。	general,restaurant,attraction,weather
+2256	23	SYSTEM	よい旅を。	general,restaurant,attraction,weather

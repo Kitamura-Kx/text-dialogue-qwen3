@@ -1,0 +1,18 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2268	0	USER	大阪に旅行に行くので、当日泊まる宿泊施設を探していただけますか？	general,hotel,restaurant,weather
+2268	1	SYSTEM	はい、ご希望の条件をお聞かせください。	general,hotel,restaurant,weather
+2268	2	USER	港区で駐車場無料のところはありますか？	general,hotel,restaurant,weather
+2268	3	SYSTEM	港区で駐車場無料のところはなさそうです。	general,hotel,restaurant,weather
+2268	4	USER	では、駐車場はなくても構いません。	general,hotel,restaurant,weather
+2268	5	SYSTEM	港区の宿泊施設ならば、バンデホテル天保山をオススメします。	general,hotel,restaurant,weather
+2268	6	USER	ではそちらでお願いします。住所と料金情報、あと最寄り駅の情報はありますか？	general,hotel,restaurant,weather
+2268	7	SYSTEM	大阪府大阪市港区築港1丁目6-5、大阪港駅から徒歩で4分、料金情報は安めの価格帯以上の詳細は持ち合わせていません。	general,hotel,restaurant,weather
+2268	8	USER	ありがとうございます。ついでに、当日食事ができる飲食店も調べて頂けますか？Wi-Fiが無料で利用できる場所を希望します。	general,hotel,restaurant,weather
+2268	9	SYSTEM	大阪でWiFi無料の飲食店は１５件ヒットします。追加の希望条件はありますか？	general,hotel,restaurant,weather
+2268	10	USER	特にほかに希望はありません。	general,hotel,restaurant,weather
+2268	11	SYSTEM	ならばせっかくの関西旅行なので、神戸牛焼肉 和ノ宮 なんば御堂筋店をおすすめします。	general,hotel,restaurant,weather
+2268	12	USER	ではそちらに行きたいと思います。住所も教えていただけますでしょうか。	general,hotel,restaurant,weather
+2268	13	SYSTEM	大阪府大阪市中央区難波1丁目7-8です。	general,hotel,restaurant,weather
+2268	14	USER	当日の天気を知りたいので、1/29の淀川区の天気予報を教えていただけますか？	general,hotel,restaurant,weather
+2268	15	SYSTEM	1/29 大阪 淀川区 の天気は晴のち曇、最低気温は9.8度、最高気温は15度です。	general,hotel,restaurant,weather
+2268	16	USER	ありがとうございました。	general,hotel,restaurant,weather

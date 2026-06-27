@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+955	0	USER	福岡へ行くんですが、ジャンボタクシーを利用できるタクシー会社を探しています。	general,taxi
+955	1	SYSTEM	かしこまりました。福岡交通（株）がございます。	general,taxi
+955	2	USER	ありがとうございます。そちらはキャッシュレスには対応していますでしょうか？	general,taxi
+955	3	SYSTEM	はい。キャッシュレスにも対応しております。	general,taxi
+955	4	USER	あと、電話番号も教えてもらえますか？	general,taxi
+955	5	SYSTEM	電話番号は0570081234でございます。	general,taxi
+955	6	USER	ありがとうございます。そちらで予約をお願いします。７月17日で、福新楼から仲西眼鏡店 天神店までで、時間は11:30でお願いします。	general,taxi
+955	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は16163でございます。	general,taxi
+955	8	USER	ありがとうございました。	general,taxi
+955	9	SYSTEM	ほかにご用件はございますか。	general,taxi
+955	10	USER	大丈夫です。ありがとうございました。	general,taxi
+955	11	SYSTEM	承知しました。ありがとうございました。	general,taxi

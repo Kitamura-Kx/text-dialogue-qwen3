@@ -1,0 +1,17 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3807	0	USER	那覇へ行く予定ですが、本庁で泊まる旅館を探しています。Wi-Fiが無料で使えるところがいいのですが。	general,hotel,restaurant
+3807	1	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel,restaurant
+3807	2	USER	では、旅館ではなく簡易宿所で条件に合うところはありませんか？	general,hotel,restaurant
+3807	3	SYSTEM	かしこまりました。それではゲストハウス海風はいかがでしょうか？	general,hotel,restaurant
+3807	4	USER	そこの料金情報を教えてください。	general,hotel,restaurant
+3807	5	SYSTEM	価格帯は安めですが、料金情報はございません。申し訳ありません。	general,hotel,restaurant
+3807	6	USER	いえ、大丈夫です。そこを2月7日から4泊、2人で予約します。	general,hotel,restaurant
+3807	7	SYSTEM	お待たせ致しました。予約番号3019でお取りさせていただきました。	general,hotel,restaurant
+3807	8	USER	ありがとうございます。当日食事ができる郷土料理のお店を探していますが、Wi-Fiが無料で使えるところはないでしょうか？	general,hotel,restaurant
+3807	9	SYSTEM	申し訳ありません。その条件ではお探しすることが出来ませんでした。	general,hotel,restaurant
+3807	10	USER	じゃあ、飲食店は郷土料理のお店でなくてもいいです。	general,hotel,restaurant
+3807	11	SYSTEM	かしこまりました。それではしゃぶしゃぶ 焼肉 杏はいかがでしょうか？	general,hotel,restaurant
+3807	12	USER	いいですね、そこのお店は定休日はいつですか？	general,hotel,restaurant
+3807	13	SYSTEM	定休日は無しでございます。	general,hotel,restaurant
+3807	14	USER	わかりました。ありがとうございました。	general,hotel,restaurant
+3807	15	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,restaurant

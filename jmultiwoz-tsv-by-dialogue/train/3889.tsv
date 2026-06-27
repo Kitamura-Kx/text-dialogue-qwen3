@@ -1,0 +1,30 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3889	0	USER	大坂への旅行を計画しています。自動車や自転車が買えるお店で駐車場が無料で利用できる所はありますか？	general,shopping,restaurant,attraction
+3889	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,shopping,restaurant,attraction
+3889	2	USER	でしたら、書籍店ではありませんか？	general,shopping,restaurant,attraction
+3889	3	SYSTEM	ありがとうございます。そうしますと、MARUZEN&ジュンク堂書店 梅田店というところがご案内できます。	general,shopping,restaurant,attraction
+3889	4	USER	そこのお店のエリアはどこですか？	general,shopping,restaurant,attraction
+3889	5	SYSTEM	北区エリアにございます。	general,shopping,restaurant,attraction
+3889	6	USER	定休日と電話番号が知りたいです。	general,shopping,restaurant,attraction
+3889	7	SYSTEM	かしこまりました。定休日は、1/1となっております。電話番号は、0662927383です。	general,shopping,restaurant,attraction
+3889	8	USER	分かりました。	general,shopping,restaurant,attraction
+3889	9	SYSTEM	他にお調べすることはございませんか？	general,shopping,restaurant,attraction
+3889	10	USER	wifiが無料で利用できる飲食店を探しています。予算は休みがいいです。	general,shopping,restaurant,attraction
+3889	11	SYSTEM	申し訳ございません。予算お安めでWiFi無料のお店ですと、該当するところがありませんでした。	general,shopping,restaurant,attraction
+3889	12	USER	でしたら、予算は考慮しなくてもいいです。	general,shopping,restaurant,attraction
+3889	13	SYSTEM	ありがとうございます。そうしますと、11件ご案内できます。たとえば、オペレッタ52 福島店という、居酒屋, 中華料理のお店はいかがでしょうか？	general,shopping,restaurant,attraction
+3889	14	USER	そこのお店のエリアはどこですか？	general,shopping,restaurant,attraction
+3889	15	SYSTEM	福島区エリアにございます。	general,shopping,restaurant,attraction
+3889	16	USER	分かりました。	general,shopping,restaurant,attraction
+3889	17	SYSTEM	他にお知りになりたい情報など、ございませんか？	general,shopping,restaurant,attraction
+3889	18	USER	駐車場が無料で利用できる観光名所を探しています。	general,shopping,restaurant,attraction
+3889	19	SYSTEM	かしこまりました。そうしますと、3件ご案内可能です。たとえば、鶴見緑地湯元 水春というところにご興味はございませんか？	general,shopping,restaurant,attraction
+3889	20	USER	そこはwifiは無料で利用できますか？	general,shopping,restaurant,attraction
+3889	21	SYSTEM	はい、無料でご利用いただけます。	general,shopping,restaurant,attraction
+3889	22	USER	そこの電話番号と大人の入場料が知りたいです。	general,shopping,restaurant,attraction
+3889	23	SYSTEM	かしこまりました。電話番号は、0642571126です。大人入場料は、申し訳ありませんが、不明となっております。	general,shopping,restaurant,attraction
+3889	24	USER	分かりました。ありがとうございました。	general,shopping,restaurant,attraction
+3889	25	SYSTEM	他にお手伝いすることはございませんか？	general,shopping,restaurant,attraction
+3889	26	USER	いえ、これで大丈夫です。	general,shopping,restaurant,attraction
+3889	27	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,shopping,restaurant,attraction
+3889	28	USER		general,shopping,restaurant,attraction

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1446	0	USER	京都へ旅行をしたいと思っています。	general,hotel
+1446	1	SYSTEM	希望条件などは、ございますか？	general,hotel
+1446	2	USER	そうですね、五条駅のあたりでレストランも付いている所が良いです。	general,hotel
+1446	3	SYSTEM	宿泊施設や観光名所など、ご希望はありますか？	general,hotel
+1446	4	USER	すいません、泊まる所を探しています。	general,hotel
+1446	5	SYSTEM	それでしたら、ベッセルホテルカンパーナ京都五条はいかがでしょうか？	general,hotel
+1446	6	USER	ありがとうございます。そのホテルの住所はどちらでしょうか。予約もお願いしたいです。	general,hotel
+1446	7	SYSTEM	住所は、京都府京都市下京区東洞院通五条下る下万寿寺町４９８番地になります。　では、予約希望の日時と人数をお願いします。	general,hotel
+1446	8	USER	はい。4/24から4泊で、人数は2人です。	general,hotel
+1446	9	SYSTEM	予約が完了しました。　予約番号は、49712です。	general,hotel
+1446	10	USER	ありがとうございます。お世話になりました。	general,hotel
+1446	11	SYSTEM	他にご用件はありますか？	general,hotel
+1446	12	USER	いいえ。これで以上です。	general,hotel
+1446	13	SYSTEM	承知致しました。　ありがとうございました。	general,hotel

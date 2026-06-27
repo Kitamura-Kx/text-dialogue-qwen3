@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2801	0	USER	横浜への旅行を検討しています。当日宿泊できる施設を探しているのですが、色々お伺いしてもよろしいでしょうか？	general,hotel
+2801	1	SYSTEM	承知しました。何かご希望はございますか？	general,hotel
+2801	2	USER	はい、都筑区で、Wi-Fiが無料で利用できる施設を探しています。	general,hotel
+2801	3	SYSTEM	では、ホテルアトラスはいかがでしょう？タイプはビジネスホテルとなります。	general,hotel
+2801	4	USER	では、そこで検討してみようと思います。この施設の近辺の駅からの所用時間を教えて貰えませんか？	general,hotel
+2801	5	SYSTEM	はい、最寄りのセンター南駅から徒歩で5分となります。	general,hotel
+2801	6	USER	ありがとうございます。もう少し検討してみようと思います。ご対応、ありがとうございました。	general,hotel
+2801	7	SYSTEM	ありがとうございました。	general,hotel

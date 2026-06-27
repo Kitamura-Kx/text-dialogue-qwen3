@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3266	0	USER	那覇の真和志あたりに旅行に行きたいんですが、当日、その辺でコンビニに寄ることはできますかね？	general,shopping,attraction,taxi
+3266	1	SYSTEM	真和志にコンビニはなさそうです	general,shopping,attraction,taxi
+3266	2	USER	そうですか。では、コンビニにはこだわりませんので、買い物できる所を1つ、教えてください。	general,shopping,attraction,taxi
+3266	3	SYSTEM	真和志で買い物ならば、タウンプラザかねひで与儀公園市場をオススメします。	general,shopping,attraction,taxi
+3266	4	USER	そこの営業時間は何時から何時まででしょうか？	general,shopping,attraction,taxi
+3266	5	SYSTEM	朝９時から夜中の１２時までです。	general,shopping,attraction,taxi
+3266	6	USER	よさそうですね。あと、首里のあたりにある観光名所も探してほしいです。	general,shopping,attraction,taxi
+3266	7	SYSTEM	首里の観光名所といえばいくつかありますが、なんといっても首里城でしょう	general,shopping,attraction,taxi
+3266	8	USER	そうなんですか？できれば、駐車場とWi-Fi、両方無料で使えるところで探してほしいのですが。	general,shopping,attraction,taxi
+3266	9	SYSTEM	ならば、首里殿内 首里金城町石畳道がオススメです。	general,shopping,attraction,taxi
+3266	10	USER	では、そこにしようかな。ジャンボタクシーを使える会社も探してもらっていいですか？	general,shopping,attraction,taxi
+3266	11	SYSTEM	それならば、三和交通がオススメです。	general,shopping,attraction,taxi
+3266	12	USER	そこの電話番号と、キャッシュレス払いできるか、教えて下さい。	general,shopping,attraction,taxi
+3266	13	SYSTEM	0120100084、キャッシュレスも対応しています。	general,shopping,attraction,taxi
+3266	14	USER	では、そこで予約したいです。6月9日、タウンプラザかねひで与儀公園市場を朝10時50分に出発して、首里殿内 首里金城町石畳道まででお願いします。	general,shopping,attraction,taxi
+3266	15	SYSTEM	その条件だと予約に失敗してしまいました。	general,shopping,attraction,taxi
+3266	16	USER	そうですか。では、11時20分に変更したら、予約できそうですか？	general,shopping,attraction,taxi
+3266	17	SYSTEM	11:20なら予約できました。予約番号は91247です。	general,shopping,attraction,taxi
+3266	18	USER	ありがとうございます。今日は以上です。	general,shopping,attraction,taxi

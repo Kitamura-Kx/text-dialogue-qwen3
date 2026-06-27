@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+394	0	USER	京都に行くので、当日利用できるタクシー会社を探して頂けないでしょうか。	general,taxi
+394	1	SYSTEM	かしこまりました。京都相互タクシー株式会社がございます。	general,taxi
+394	2	USER	キャッシュレス払いは可能ですか？	general,taxi
+394	3	SYSTEM	はい。キャッシュレス対応しております。	general,taxi
+394	4	USER	ありがとうございます。ではそちらで予約をお願いしたいのですが、8/6の10:00で、出発地はいも松 木屋町店、目的地は京都市京北運動公園で予約可能でしょうか？	general,taxi
+394	5	SYSTEM	かしこまりました。その条件で予約完了いたしました。予約番号は57751でございます。	general,taxi
+394	6	USER	ありがとうございました。	general,taxi

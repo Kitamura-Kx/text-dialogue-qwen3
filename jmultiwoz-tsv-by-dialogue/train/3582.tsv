@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3582	0	USER	こんにちは。東京へ旅行を予定していて、タクシー会社を探しています。ジャンボタクシーが利用できて、キャッシュレス払いが可能なところがいいです。	general,taxi
+3582	1	SYSTEM	かしこまりました。では大和交通保谷がございます。	general,taxi
+3582	2	USER	ありがとうございます。そこの電話番号もわかりますか？	general,taxi
+3582	3	SYSTEM	電話番号は0335635151でございます。	general,taxi
+3582	4	USER	ありがとうございます。予約もお願いします。5/26の10:50、出発地はTHE GATE HOTEL TOKYO by HULICで、目的地は旅館浅草指月でお願いします。	general,taxi
+3582	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は9545でございます。	general,taxi
+3582	6	USER	ありがとうございます。	general,taxi
+3582	7	SYSTEM	ほかにご用件はございませんか。	general,taxi
+3582	8	USER	いえ、これで大丈夫です。案内ありがとうございました。	general,taxi
+3582	9	SYSTEM	承知しました。ありがとうございました。	general,taxi

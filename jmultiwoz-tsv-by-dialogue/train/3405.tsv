@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3405	0	USER	札幌へ旅行に行くので、観光名所を探してください。北区で、無料Wi-Fiが使えるところはないですか？	general,attraction,taxi,weather
+3405	1	SYSTEM	承知しました。頂いた条件ですと、シャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートと北海道大学総合博物館の２件該当がございます。	general,attraction,taxi,weather
+3405	2	USER	シャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートにします。子供入場料はいくらでしょうか？	general,attraction,taxi,weather
+3405	3	SYSTEM	承知いたしました。申し訳ございません。入場料についての情報が不明となっております。料金情報にも、施設や時期により異なるとの表記がございます	general,attraction,taxi,weather
+3405	4	USER	そうなんですね、わかりました。では、ジャンボタクシーが利用できて、キャッシュレスに対応しているタクシー会社を探してください。	general,attraction,taxi,weather
+3405	5	SYSTEM	両方に対応した、札幌のタクシー会社は暁交通(株)を含め６件ございます。いかがでしょうか？	general,attraction,taxi,weather
+3405	6	USER	では、暁交通(株)の電話番号を教えてもらえますか？	general,attraction,taxi,weather
+3405	7	SYSTEM	はい。電話番号は、0117712632でございます。	general,attraction,taxi,weather
+3405	8	USER	3月23日の13:50に予約してください。吾照里 札幌エスタ店からシャトレーゼ ガトーキングダムサッポロ ホテル&スパリゾートまで、お願いします。	general,attraction,taxi,weather
+3405	9	SYSTEM	申し訳ございません。そちらの条件でのご予約が出来ませんでした。いかがいたしましょうか？	general,attraction,taxi,weather
+3405	10	USER	では、14:50に時間を変更します。	general,attraction,taxi,weather
+3405	11	SYSTEM	ありがとうございます。14:50に出発でご予約が完了しました。予約番号は、26471でございます。	general,attraction,taxi,weather
+3405	12	USER	ありがとうございます。あと、3月23日の清田区の天気を教えてください。	general,attraction,taxi,weather
+3405	13	SYSTEM	3月23日清田区の天気は晴時々雨でございます。	general,attraction,taxi,weather
+3405	14	USER	最低気温も教えてもらえますか？	general,attraction,taxi,weather
+3405	15	SYSTEM	はい、最低気温は4度となっております。	general,attraction,taxi,weather
+3405	16	USER	わかりました。ありがとうございます。	general,attraction,taxi,weather
+3405	17	SYSTEM	他にご用命ございますか？	general,attraction,taxi,weather
+3405	18	USER	いえ、大丈夫です。ありがとうございました。	general,attraction,taxi,weather
+3405	19	SYSTEM	ありがとうございました。	general,attraction,taxi,weather

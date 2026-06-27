@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4487	0	USER	仙台に旅行の計画をしていて、予算が高めのシティホテルに泊まりたいと思っています。	general,hotel,taxi
+4487	1	SYSTEM	申し訳ございません。その条件ですと、ご案内できるところがありませんでした。	general,hotel,taxi
+4487	2	USER	ではリゾートホテルではどうですか。	general,hotel,taxi
+4487	3	SYSTEM	ありがとうございます。そういたしますと、4件ご案内可能です。例えば、太白区エリアにある、仙台 秋保温泉 ホテルきよ水というところはいかがでしょうか？	general,hotel,taxi
+4487	4	USER	ありがとうございます。あと、タクシーを利用したいのですが、ジャンボタクシーを利用できる会社はありますか。	general,hotel,taxi
+4487	5	SYSTEM	はい、ございます。（有）振興タクシーはいかがでしょうか？こちらでしたら、キャッシュレスでもお支払いいただけますよ。	general,hotel,taxi
+4487	6	USER	ありがとうございます。電話番号を教えていただけますか。	general,hotel,taxi
+4487	7	SYSTEM	はい、電話番号は、0222841411でございます。	general,hotel,taxi
+4487	8	USER	では、そこで予約をお願いします。3/26のお昼の12時に太白区エリアにある、仙台 秋保温泉 ホテルきよ水からホテルクラウンヒルズ仙台青葉通りです。	general,hotel,taxi
+4487	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、20525でございます。	general,hotel,taxi
+4487	10	USER	ありがとうございます。これで大丈夫です。	general,hotel,taxi
+4487	11	SYSTEM	承知いたしました。本日はご利用いただき、ありがとうございました。	general,hotel,taxi

@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+311	0	USER	名古屋に旅行した際に訪れる観光名所を探してください。	general,attraction,weather,taxi
+311	1	SYSTEM	承知しました。エリアやジャンルのご希望はございますか？	general,attraction,weather,taxi
+311	2	USER	Wi-Fiが無料で使えて、駐車場がかからない場所だとどこでも大丈夫です。	general,attraction,weather,taxi
+311	3	SYSTEM	申し訳ありません。その条件ですとご紹介可能な施設がございません。いかが致しましょう？	general,attraction,weather,taxi
+311	4	USER	そうですか。では駐車場代は無料じゃなくても大丈夫です。	general,attraction,weather,taxi
+311	5	SYSTEM	ありがとうございます。それでは、名古屋市東山動植物園はいかがでしょう？エリアでいうと千種区にあり、住所は名古屋市千種区東山元町3丁目70、電話番号は0527822111、最寄りの東山公園駅から徒歩で3分となります。	general,attraction,weather,taxi
+311	6	USER	こちらは子供の入場料はいくらですか？	general,attraction,weather,taxi
+311	7	SYSTEM	はい、大人の入場料は500円ですが、お子様は無料で入場いただけます。	general,attraction,weather,taxi
+311	8	USER	わかりました。名東区の11/11の天候を教えてもらえませんか？	general,attraction,weather,taxi
+311	9	SYSTEM	承知しました。天気は晴、最低気温 8.2度、最高気温15.1度となります。	general,attraction,weather,taxi
+311	10	USER	ありがとうございます。名古屋旅行の際にタクシーを利用したいのですが、ジャンボタクシーが使える会社を探してもらえませんか？	general,attraction,weather,taxi
+311	11	SYSTEM	申し訳ありません。ジャンボタクシー対応のタクシー会社はございません。いかが致しましょう？	general,attraction,weather,taxi
+311	12	USER	そうですか。では、ジャンボタクシーは使えなくても構わないのでタクシー会社を探してもらいたいです。	general,attraction,weather,taxi
+311	13	SYSTEM	承知しました。それでは、名古屋近鉄タクシーはいかがでしょう？電話番号は0570048881、キャッシュレスには対応しております。	general,attraction,weather,taxi
+311	14	USER	ありがとうございます。こちらで予約をお願いします。	general,attraction,weather,taxi
+311	15	SYSTEM	ありがとうございます。恐れ入りますが、出発日時と出発地、目的地を教えていただけますか？	general,attraction,weather,taxi
+311	16	USER	11/11の13:50、荒木集成館から名古屋市東山動植物園まで乗車したいと考えています。	general,attraction,weather,taxi
+311	17	SYSTEM	申し訳ありません。その条件では予約ができませんでした。いかが致しましょう？	general,attraction,weather,taxi
+311	18	USER	では、時間を14:40に遅らせるとどうですか？	general,attraction,weather,taxi
+311	19	SYSTEM	ありがとうございます。予約が完了致しました。ご予約番号は、18294となります。	general,attraction,weather,taxi
+311	20	USER	ご対応ありがとうございました。	general,attraction,weather,taxi

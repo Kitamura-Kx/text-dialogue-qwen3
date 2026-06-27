@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1926	0	USER	大阪旅行を考えていますが、住之江区に良い宿泊施設はありますか。	general,hotel,shopping
+1926	1	SYSTEM	はい、2件ほどご案内可能です。例えば、ホテルフクラシア大阪ベイというビジネスホテルは、お安めですよ。	general,hotel,shopping
+1926	2	USER	ありがとうございます。そこのWi-Fiの有無，駐車場の有無，チェックイン開始時刻を教えてください。	general,hotel,shopping
+1926	3	SYSTEM	WiFiは無料でご利用いただけます。駐車場はございますが、こちらは有料となっております。チェックインは15時開始です。	general,hotel,shopping
+1926	4	USER	ありがとうございます。次に、此花区で書籍の買い物できるところはありますか。無料駐車場が欲しいです。	general,hotel,shopping
+1926	5	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,shopping
+1926	6	USER	ではジャンルを気にしなければありますか。	general,hotel,shopping
+1926	7	SYSTEM	はい、1件ご案内可能です。GoodBBQ舞洲 オーチャードグラスというお店が、食料品ジャンルとなりますが、いかがでしょうか？	general,hotel,shopping
+1926	8	USER	そこの住所，最寄り駅は分かりますか。	general,hotel,shopping
+1926	9	SYSTEM	住所は、大阪府大阪市此花区北港緑地2丁目1-107です。最寄り駅は、桜島駅でございます。	general,hotel,shopping
+1926	10	USER	ありがとうございます。質問は以上です。	general,hotel,shopping
+1926	11	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel,shopping

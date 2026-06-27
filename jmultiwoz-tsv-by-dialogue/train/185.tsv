@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+185	0	USER	こんばんは。横浜に旅行に行こうと思っているのですが、宿泊施設を探してもらえないでしょうか。	general,hotel
+185	1	SYSTEM	ご利用ありがとうございます。横浜には約８０件の宿泊施設の候補がございます。エリアなどでご希望はございますか？	general,hotel
+185	2	USER	エリアは特に希望はないのですが、Wi-Fiが無料で利用できて、安く泊まれるところでお願いします。	general,hotel
+185	3	SYSTEM	かしこまりました。では、元町・中華街駅から徒歩５分の、ローズホテル横浜はいかがでしょうか？	general,hotel
+185	4	USER	こちらのホテルはチェックアウトは何時までに行わなければなりませんか？	general,hotel
+185	5	SYSTEM	チェックアウトの終了時刻は、11時までとなっております。	general,hotel
+185	6	USER	わかりました。こちらでお願いします。今日はありがとうございました。	general,hotel

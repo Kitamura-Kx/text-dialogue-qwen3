@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4978	0	USER	すみません、横浜に旅行したいんですが。郷土料理の飲食店はありますか？Wi-Fiは無料のところでお願いします。	general,restaurant,attraction,shopping
+4978	1	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,restaurant,attraction,shopping
+4978	2	USER	そうなんですか。ならば、ジャンルを焼肉・ホルモンに変えて調べてもらえますか？	general,restaurant,attraction,shopping
+4978	3	SYSTEM	承知しました。焼肉カーニバルはいかがでしょうか？	general,restaurant,attraction,shopping
+4978	4	USER	そのお店に行きます。近辺の駅からの所要時間も知りたいです。	general,restaurant,attraction,shopping
+4978	5	SYSTEM	お店までは馬車道駅から徒歩で1分 日本大通り駅から徒歩で5分です。	general,restaurant,attraction,shopping
+4978	6	USER	駅から近くていいですね。それと、横浜といえば港ですよね。港・波止場の観光名所で、Wi-Fiが無料で利用できるところを教えてもらえますか？	general,restaurant,attraction,shopping
+4978	7	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,restaurant,attraction,shopping
+4978	8	USER	そうですか、残念ですが、ジャンルはなんでもいいです。Wi-Fi無料はそのままでお願いします。	general,restaurant,attraction,shopping
+4978	9	SYSTEM	承知しました。横浜赤レンガ倉庫はいかがでしょうか？	general,restaurant,attraction,shopping
+4978	10	USER	最寄り駅はどこですか？	general,restaurant,attraction,shopping
+4978	11	SYSTEM	最寄り駅は馬車道駅です。	general,restaurant,attraction,shopping
+4978	12	USER	あと、最寄り駅が根岸駅で、駐車場が無料の、買い物ができる店も教えてほしいんです。	general,restaurant,attraction,shopping
+4978	13	SYSTEM	申し訳ありません。その条件ではありませんでした。	general,restaurant,attraction,shopping
+4978	14	USER	最寄り駅は考慮しなくてもいいので、同じ条件で探してくれますか？	general,restaurant,attraction,shopping
+4978	15	SYSTEM	承知しました。ららぽーと横浜はいかがでしょうか？	general,restaurant,attraction,shopping
+4978	16	USER	そこでお願いします。営業時間と定休日はわかりますか？	general,restaurant,attraction,shopping
+4978	17	SYSTEM	営業時間は10:00～20:00です。定休日は不定休です。	general,restaurant,attraction,shopping
+4978	18	USER	ありがとうございました。旅行が楽しみです！	general,restaurant,attraction,shopping

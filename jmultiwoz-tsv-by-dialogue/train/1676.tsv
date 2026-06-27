@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1676	0	USER	那覇に旅行予定なのですが、小禄の宿泊施設を教えてください。無料駐車場があるところがいいです。	general,hotel,restaurant,weather
+1676	1	SYSTEM	かしこまりました。ではチャビラホテル那覇がございます。	general,hotel,restaurant,weather
+1676	2	USER	いいですね。値段帯と料金情報、あとレストランはあるかを教えてください。	general,hotel,restaurant,weather
+1676	3	SYSTEM	値段帯は安めでございますが、詳しい料金情報はわかりかねます。レストランの有無も不明でございます。	general,hotel,restaurant,weather
+1676	4	USER	わかりました。4人で3/26から4泊の予約をお願いします。	general,hotel,restaurant,weather
+1676	5	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,restaurant,weather
+1676	6	USER	わかりました。人数を3人にしたらどうですか？	general,hotel,restaurant,weather
+1676	7	SYSTEM	その人数ですと予約が可能でございました。予約番号は80990でございます。	general,hotel,restaurant,weather
+1676	8	USER	わかりました。値段帯が普通の飲食店も探しているのですが、駐車場を無料で利用できるような店はありませんか？	general,hotel,restaurant,weather
+1676	9	SYSTEM	ではLE GOURMANDはいかがでしょうか。	general,hotel,restaurant,weather
+1676	10	USER	よさそうですね。エリアと住所、あと最寄り駅を教えてほしいです。	general,hotel,restaurant,weather
+1676	11	SYSTEM	エリアは真和志、住所が沖縄県那覇市長田2丁目23-4でございます。最寄り駅は牧志駅でございます。	general,hotel,restaurant,weather
+1676	12	USER	わかりました。2人で3/26の13:10から予約をお願いします。	general,hotel,restaurant,weather
+1676	13	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,restaurant,weather
+1676	14	USER	そうですか。なら人数を1人に変更してください。	general,hotel,restaurant,weather
+1676	15	SYSTEM	その人数ですと予約が可能でございました。予約番号は40014でございます。	general,hotel,restaurant,weather
+1676	16	USER	ありがとうございます。当日3/26の本庁の天気予報も教えてもらえますか？	general,hotel,restaurant,weather
+1676	17	SYSTEM	天気は晴のち曇、最低気温が20.3度で最高気温が24.2度でございます。	general,hotel,restaurant,weather
+1676	18	USER	わかりました。ありがとうございました。	general,hotel,restaurant,weather
+1676	19	SYSTEM	ほかにご用件はございますか。	general,hotel,restaurant,weather
+1676	20	USER	いえ、もう大丈夫です。	general,hotel,restaurant,weather
+1676	21	SYSTEM	承知しました。ありがとうございました。	general,hotel,restaurant,weather

@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1392	0	USER	名古屋への旅行を計画中です。星ヶ丘駅ちかくで飲食店はありますか？予算は普通でお願いします。	general,restaurant,taxi
+1392	1	SYSTEM	かしこまりました。ピッツェリアパージナ 星が丘テラス店がございますがいかがでしょうか。	general,restaurant,taxi
+1392	2	USER	当日はジャンボタクシーも利用したいのですが、対応可能なタクシー会社はありますか？	general,restaurant,taxi
+1392	3	SYSTEM	名鉄西部交通西部がございます。	general,restaurant,taxi
+1392	4	USER	名鉄西部交通西部はキャッシュレス対応可能ですか？電話番号も教えて下さい。	general,restaurant,taxi
+1392	5	SYSTEM	キャッシュレスにも対応しております。電話番号は0568213295でございます。	general,restaurant,taxi
+1392	6	USER	それではタクシーの予約をお願いします。5/17の14:30に「ピッツェリアパージナ 星が丘テラス店」から「第2松竹梅ホステル(男性専用)」までお願いします	general,restaurant,taxi
+1392	7	SYSTEM	申し訳ございません。その条件では予約ができませんでした。	general,restaurant,taxi
+1392	8	USER	それでは時間を15:20でお願いします	general,restaurant,taxi
+1392	9	SYSTEM	その時間ですと予約が可能でございました。予約番号は34517でございます。	general,restaurant,taxi
+1392	10	USER	有難うございました。	general,restaurant,taxi
+1392	11	SYSTEM	承知しました。ありがとうございました。	general,restaurant,taxi

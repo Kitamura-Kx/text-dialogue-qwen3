@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4481	0	USER	福岡に旅行に行こうと思っているので、早良区で宿泊施設を探しています。予算は普通でお願いします。	general,hotel,weather
+4481	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,weather
+4481	2	USER	では、予算は普通ということにこだわらなくても大丈夫です。	general,hotel,weather
+4481	3	SYSTEM	ありがとうございます。では、シーサイドホテルツインズももちという、お安めのビジネスホテルはいかがでしょうか？	general,hotel,weather
+4481	4	USER	ありがとうございます。そのホテルに7/25に3人で2泊宿泊したいので予約をお願いします。	general,hotel,weather
+4481	5	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょう？	general,hotel,weather
+4481	6	USER	では、宿泊日数を1泊にするとどうでしょうか。	general,hotel,weather
+4481	7	SYSTEM	ありがとうございます。１泊のご宿泊にて、ご予約完了いたしました。予約番号は、9419です。	general,hotel,weather
+4481	8	USER	ありがとうございます。あと、中央区の7/25の最低気温は何度になりますか。	general,hotel,weather
+4481	9	SYSTEM	はい、最低気温は22.6度の予想となっております。	general,hotel,weather
+4481	10	USER	ありがとうございます。これで大丈夫です。	general,hotel,weather
+4481	11	SYSTEM	承知いたしました。本日はご利用いただき、ありがとうございました。	general,hotel,weather

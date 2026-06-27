@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+852	0	USER	東京のリゾートホテルを探したいのですが、駐車無料のところはありますか？	general,hotel
+852	1	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel
+852	2	USER	では、駐車場が有料でもかまいません。	general,hotel
+852	3	SYSTEM	ありがとうございます。そうしますと9件ほどご案内可能です。たとえば、ホテル椿山荘東京は、いかがでしょうか？	general,hotel
+852	4	USER	ではそちらのホテルのチェックアウト時間と、近辺の駅からの所要時間を教えてください。	general,hotel
+852	5	SYSTEM	チェックアウトは12時終了となっております。最寄りの江戸川橋駅からは、徒歩で10分です。	general,hotel
+852	6	USER	次に予約をお願いします。３名で、3/6から３泊です。	general,hotel
+852	7	SYSTEM	ご予約ありがとうございます。予約を承りました。予約番号は、44452です。	general,hotel
+852	8	USER	今回お願いしたいことは以上です。ありがとうございました。	general,hotel
+852	9	SYSTEM	承知いたしました。では、またのご利用をお待ちしております。	general,hotel

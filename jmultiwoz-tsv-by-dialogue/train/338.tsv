@@ -1,0 +1,25 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+338	0	USER	こんにちは。今度、福岡へ旅行するのですが、当日買い物ができるコンビニを探しています。	general,shopping,weather,taxi
+338	1	SYSTEM	かしこまりました。福岡のコンビニは、4件ご案内可能ですが、他にエリアなど、条件などはございますでしょうあ？	general,shopping,weather,taxi
+338	2	USER	最寄り駅が箱崎九大前駅のところがいいです。	general,shopping,weather,taxi
+338	3	SYSTEM	かしこまりました。セブンイレブン 福岡箱崎店が1件ございます。いかがでしょうか？	general,shopping,weather,taxi
+338	4	USER	そちらは駐車場は無料で使えますか？	general,shopping,weather,taxi
+338	5	SYSTEM	はい、無料駐車場をご利用いただけます。	general,shopping,weather,taxi
+338	6	USER	ありがとうございます。あと、当日のお天気が知りたいのですが。	general,shopping,weather,taxi
+338	7	SYSTEM	かしこまりました。何日のお天気を調べましょうか？福岡のどの辺のエリアかもご指示いただけますと幸いです。	general,shopping,weather,taxi
+338	8	USER	１２月３１日の中央区です。	general,shopping,weather,taxi
+338	9	SYSTEM	かしこまりました。当日の天気は雨の予報です。最低気温は0.2度、最高気温は9.4度の予想となっております。	general,shopping,weather,taxi
+338	10	USER	ありがとうございます。もう一点、当日タクシーを利用したいのですが、キャッシュレス払いができるところはありますか？	general,shopping,weather,taxi
+338	11	SYSTEM	はい、7件ほどご案内可能です。五十川タクシー（有）はいかがでしょうか？	general,shopping,weather,taxi
+338	12	USER	ジャンボタクシーは利用可能でしょうか？	general,shopping,weather,taxi
+338	13	SYSTEM	申し訳ありません。こちらはジャンボタクシーに対応しておりません。対応している会社でお調べしましょうか？	general,shopping,weather,taxi
+338	14	USER	はい、お願いいたします。キャッシュレス払いはできなくても構いません。	general,shopping,weather,taxi
+338	15	SYSTEM	ありがとうございます。そうしますと、西日本自動車（株）はいかがでしょうか？キャッシュレスは、申し訳ありませんが、不明となっております。	general,shopping,weather,taxi
+338	16	USER	承知しました。そちらの会社でお願いします。電話番号を教えていただけませんか？	general,shopping,weather,taxi
+338	17	SYSTEM	はい。電話番号は、0570075678です。ご予約もいたしますか？	general,shopping,weather,taxi
+338	18	USER	はい、お願いします。１２月３１日で、先ほどのコンビニから１２時４０分に出発したいのですが。	general,shopping,weather,taxi
+338	19	SYSTEM	かしこまりました。目的地はお決まりでしょうか？	general,shopping,weather,taxi
+338	20	USER	はい。天神LOFTに行こうと思ってます。	general,shopping,weather,taxi
+338	21	SYSTEM	承知いたしました。セブンイレブン 福岡箱崎店発、天神LOFTまでで、ご予約承りました。予約番号は、93721です。	general,shopping,weather,taxi
+338	22	USER	ありがとうございました。以上です。お世話になりました。	general,shopping,weather,taxi
+338	23	SYSTEM	ご利用ありがとうございました。また何かございましたら、お気軽にお問い合わせくださいませ。	general,shopping,weather,taxi

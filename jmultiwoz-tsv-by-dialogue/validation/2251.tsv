@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2251	0	USER	札幌へ旅行に行くんですが、宿泊施設を探して欲しいです。	general,hotel
+2251	1	SYSTEM	はい、ご希望の条件をどうぞお聞かせください。	general,hotel
+2251	2	USER	駐車場とWi-Fiが無料のところでお願いします！あと、予算は普通でお願いします！	general,hotel
+2251	3	SYSTEM	その条件ならばJRタワーホテル日航札幌をお勧めします。	general,hotel
+2251	4	USER	ありがとうございます。チェックアウト終了時刻は分かりますか？	general,hotel
+2251	5	SYSTEM	１１時になります。	general,hotel
+2251	6	USER	ありがとうございます。助かりました！	general,hotel
+2251	7	SYSTEM	他にご希望はありますか？	general,hotel
+2251	8	USER	これで大丈夫です。ありがとうございました。	general,hotel
+2251	9	SYSTEM	よい旅を。	general,hotel

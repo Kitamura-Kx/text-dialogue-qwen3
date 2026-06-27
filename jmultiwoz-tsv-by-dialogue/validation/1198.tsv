@@ -1,0 +1,4 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1198	0	USER	那覇で、wifiと駐車場が無料で使える飲食店を教えて下さい。	general,restaurant
+1198	1	SYSTEM	エリアでいうと真和志にある、LE GOURMANDはいかがでしょう？	general,restaurant
+1198	2	USER	わかりました。ありがとうございます。	general,restaurant

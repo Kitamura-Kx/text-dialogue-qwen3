@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4465	0	USER	札幌への旅行を計画しています。 当日買い物ができるところを探してください。駐車場を無料で利用できるところで、地区は中央区です。よろしくお願いします。	general,shopping,taxi
+4465	1	SYSTEM	かしこまりました。そうしますと、14件ほどご案内可能です。たとえば、マルヤマクラスというショッピングモールはいかがでしょうか？	general,shopping,taxi
+4465	2	USER	ありがとうございます。当日利用できるタクシー会社を探してください。ジャンボタクシーを利用できるところでお願いします。	general,shopping,taxi
+4465	3	SYSTEM	かしこまりました。では、暁交通(株)はいかがでしょうか？	general,shopping,taxi
+4465	4	USER	ありがとうございます。そちらのタクシー会社で当日のタクシーを予約してください。日付は11/1で、時間は13:40です。出発地は先ほど見つけた買い物店舗で、目的地は円山別邸というところでお願いします。	general,shopping,taxi
+4465	5	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、42769です。	general,shopping,taxi
+4465	6	USER	かしこまりました。本日はありがとうございます。	general,shopping,taxi
+4465	7	SYSTEM	こちらこそ、ご利用ありがとうございました。	general,shopping,taxi

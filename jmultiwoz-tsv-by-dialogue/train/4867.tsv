@@ -1,0 +1,7 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4867	0	USER	札幌に旅行に行く予定なのですが、Wi-Fiと駐車場を無料で利用できる宿泊施設を利用したいです。レストランが併設されているところでお願いします。	general,hotel
+4867	1	SYSTEM	承知しました。では、エリアでいうと中央区にある、JRタワーホテル日航札幌はいかがでしょう？タイプは、シティホテルとなります。	general,hotel
+4867	2	USER	ありがとうございます。このホテルの値段帯は何になりますか。	general,hotel
+4867	3	SYSTEM	はい、値段帯は普通となります。	general,hotel
+4867	4	USER	ありがとうございます。これで大丈夫です。	general,hotel
+4867	5	SYSTEM	ありがとうございました。	general,hotel

@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1634	0	USER	仙台で買い物をしたいのですが、案内お願いできますか？	general,shopping,restaurant
+1634	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,restaurant
+1634	2	USER	はい、太白区で探して欲しいです。駐車場も無料の所が良いです。	general,shopping,restaurant
+1634	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,restaurant
+1634	4	USER	そうなんですね、それでは駐車場はなくても構いませんので、もう一度探してもらえますか。	general,shopping,restaurant
+1634	5	SYSTEM	ではアカチャンホンポ ララガーデン長町店がございます。	general,shopping,restaurant
+1634	6	USER	アカチャンホンポ ララガーデン長町店というのは何のジャンルのお店ですか？定休日と住所も知りたいです。	general,shopping,restaurant
+1634	7	SYSTEM	ジャンルはおもちゃ, ファッション, 文房具・雑貨でございます。定休日はございません。住所は宮城県仙台市太白区長町7丁目20-5 ララガーデン長町3F3010でございます。	general,shopping,restaurant
+1634	8	USER	ありがとうございます。この日はアジア料理やエスニック料理などのお店で食事もとりたいと思っています。	general,shopping,restaurant
+1634	9	SYSTEM	ではネパール料理店 仙台カトマンドゥがございます。いかがですか。	general,shopping,restaurant
+1634	10	USER	良いですね、予算としては普通程度と考えているのですがネパール料理店 仙台カトマンドゥはどうでしょうか。	general,shopping,restaurant
+1634	11	SYSTEM	その予算でしたら、Zaytoonはいかがでしょうか。	general,shopping,restaurant
+1634	12	USER	ありがとうございます。Zaytoonの最寄り駅はどちらになりますか？定休日がいつなのかと、Wi-Fiがあるかも教えてください。	general,shopping,restaurant
+1634	13	SYSTEM	最寄り駅は五橋駅で、定休日は日曜日でございます。Wi-Fiはございません。	general,shopping,restaurant
+1634	14	USER	それではZaytoonで2/13に予約を取ってもらえますか？時間は13:00で4人で行く予定です。	general,shopping,restaurant
+1634	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は6910でございます。	general,shopping,restaurant
+1634	16	USER	ありがとうございます。	general,shopping,restaurant
+1634	17	SYSTEM	ほかにご用件はございますか。	general,shopping,restaurant
+1634	18	USER	これだけです、ありがとうございました。	general,shopping,restaurant
+1634	19	SYSTEM	承知しました。ありがとうございました。	general,shopping,restaurant

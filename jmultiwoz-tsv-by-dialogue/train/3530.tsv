@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3530	0	USER	福岡への旅行を考えていて観光名所を探しています。	general,attraction,hotel,weather
+3530	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,attraction,hotel,weather
+3530	2	USER	西区で、Wi-Fiが無料で駐車場も無料だといいです。	general,attraction,hotel,weather
+3530	3	SYSTEM	ではマリノアシティ福岡はいかがでしょうか。	general,attraction,hotel,weather
+3530	4	USER	どんなジャンルのところになりますか？	general,attraction,hotel,weather
+3530	5	SYSTEM	ジャンルはその他となっております。	general,attraction,hotel,weather
+3530	6	USER	料金情報と定休日について教えてください。	general,attraction,hotel,weather
+3530	7	SYSTEM	料金情報は無料となっております。定休日は無しでございます。	general,attraction,hotel,weather
+3530	8	USER	あと西区で宿泊施設を探しています。	general,attraction,hotel,weather
+3530	9	SYSTEM	西区ですと、GARDEN TERRACE FUKUOKA HOTEL&RESORTSがございます。	general,attraction,hotel,weather
+3530	10	USER	予算は普通ぐらいがいいのですが、そちらはどうですか？	general,attraction,hotel,weather
+3530	11	SYSTEM	値段帯は普通でございます。	general,attraction,hotel,weather
+3530	12	USER	良かった。チェックアウト終了時刻はどうなりますか？	general,attraction,hotel,weather
+3530	13	SYSTEM	チェックアウト終了時刻は12:00でございます。	general,attraction,hotel,weather
+3530	14	USER	9/20から3泊、2人で予約をお願いしたいです。	general,attraction,hotel,weather
+3530	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は6988でございます。	general,attraction,hotel,weather
+3530	16	USER	ちなみに9/20、東区の天気はどうですか？最高気温も知りたいです。	general,attraction,hotel,weather
+3530	17	SYSTEM	天気は晴、最高気温は27.7度でございます。	general,attraction,hotel,weather
+3530	18	USER	助かります。ありがとうございました。	general,attraction,hotel,weather
+3530	19	SYSTEM	承知しました。ありがとうございました。	general,attraction,hotel,weather

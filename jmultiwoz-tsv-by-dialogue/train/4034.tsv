@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4034	0	USER	大阪に旅行に行く予定です。北区で飲食店を探しています。Wi-Fi無料のところはありますか？	general,restaurant
+4034	1	SYSTEM	はい、では、酒場リベリー スシる。はいかがでしょう？ジャンルは、寿司、魚料理、居酒屋となります。	general,restaurant
+4034	2	USER	ありがとうございます。そちらのお店の最寄り駅はどちらですか？	general,restaurant
+4034	3	SYSTEM	梅田駅となります。	general,restaurant
+4034	4	USER	ありがとうございます。お店の予約をお願いします。11/17の14:30に2名です。	general,restaurant
+4034	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、99961となります。	general,restaurant
+4034	6	USER	ありがとうございました。	general,restaurant

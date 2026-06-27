@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3514	0	USER	福岡への旅行を考えています。当日、Wi-Fiが無料で駐車場も無料のレストランはありますか？	general,restaurant,hotel,attraction
+3514	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,restaurant,hotel,attraction
+3514	2	USER	では、Wi-Fiが無料のレストランを探していただけますか？	general,restaurant,hotel,attraction
+3514	3	SYSTEM	レストランはジャンルはホテルレストランをお探しでしょうか？それともジャンルは問わず飲食店なら何でもということでしょうか？	general,restaurant,hotel,attraction
+3514	4	USER	飲食店ならなんでもいいです。おすすめはありますか？	general,restaurant,hotel,attraction
+3514	5	SYSTEM	かしこまりました。それではHAPPY HILLはいかがでしょうか？	general,restaurant,hotel,attraction
+3514	6	USER	営業時間を教えてください。	general,restaurant,hotel,attraction
+3514	7	SYSTEM	はい、10時から22時でございます。	general,restaurant,hotel,attraction
+3514	8	USER	わかりました。あと宿泊施設も調べてもらいたいのですが、予算は普通のWi-Fiが無料のところをお願いします。	general,restaurant,hotel,attraction
+3514	9	SYSTEM	かしこまりました。それではANA クラウンプラザホテル福岡はいかがでしょうか？	general,restaurant,hotel,attraction
+3514	10	USER	近辺の駅からの所要時間を教えてください。	general,restaurant,hotel,attraction
+3514	11	SYSTEM	はい、博多駅から徒歩で5分でございます。	general,restaurant,hotel,attraction
+3514	12	USER	わかりました。それから、最寄り駅が香椎神宮駅の観光名所はありますか？	general,restaurant,hotel,attraction
+3514	13	SYSTEM	お待たせ致しました。その条件でしたら香椎宮がございます。	general,restaurant,hotel,attraction
+3514	14	USER	ジャンルは？	general,restaurant,hotel,attraction
+3514	15	SYSTEM	神社・寺院・教会・モニュメントなどでございます。	general,restaurant,hotel,attraction
+3514	16	USER	なるほど。子供入場料はいくらですか？	general,restaurant,hotel,attraction
+3514	17	SYSTEM	子供の入場料は0円でございます。	general,restaurant,hotel,attraction
+3514	18	USER	わかりました。色々とありがとうございました。	general,restaurant,hotel,attraction
+3514	19	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,hotel,attraction

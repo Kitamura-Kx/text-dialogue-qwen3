@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+893	0	USER	名古屋への旅行を考えているのですが、当日買い物できるところを探してもらえますか？	general,shopping,restaurant,taxi
+893	1	SYSTEM	SUNSHINE SAKAEは、いかがでしょうか？	general,shopping,restaurant,taxi
+893	2	USER	なるほど。天白区で駐車場を無料で利用できるところを希望なのですが。	general,shopping,restaurant,taxi
+893	3	SYSTEM	それでしたら、サンエース 原駅前店がよいと思います。	general,shopping,restaurant,taxi
+893	4	USER	そこにします。飲食店も探していて、中華料理で値段が安めのお店はありますか？	general,shopping,restaurant,taxi
+893	5	SYSTEM	申し訳ありません。　その条件では、ないようです。	general,shopping,restaurant,taxi
+893	6	USER	そうですか。では中華料理ではなく鍋でもいいです。	general,shopping,restaurant,taxi
+893	7	SYSTEM	ふらり寿司 名駅本店は、いかがでしょうか？	general,shopping,restaurant,taxi
+893	8	USER	そこにします。エリアと料金情報を教えてください。	general,shopping,restaurant,taxi
+893	9	SYSTEM	エリアは、中村区です。料金情報は、寿司＆しゃぶしゃぶ食べ放題コース:5000円となっています。	general,shopping,restaurant,taxi
+893	10	USER	わかりました。当日タクシーを利用予定なのですが、ジャンボタクシーがあってキャッシュレス払いできるところを調べてください。	general,shopping,restaurant,taxi
+893	11	SYSTEM	宝タクシー第三は、いかがでしょうか？	general,shopping,restaurant,taxi
+893	12	USER	そこにします。電話番号を教えてくれますか？	general,shopping,restaurant,taxi
+893	13	SYSTEM	電話番号は、0526826000です。	general,shopping,restaurant,taxi
+893	14	USER	わかりました。8月17日の11時20分で、サンエース 原駅前店からふらり寿司 名駅本店までの予約はできますか？	general,shopping,restaurant,taxi
+893	15	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,shopping,restaurant,taxi
+893	16	USER	了解です。では時間を12時20分に変更します。	general,shopping,restaurant,taxi
+893	17	SYSTEM	予約出来ました。予約番号は、98731です。	general,shopping,restaurant,taxi
+893	18	USER	ありがとうございます。	general,shopping,restaurant,taxi
+893	19	SYSTEM	他にご用件はございますか？	general,shopping,restaurant,taxi
+893	20	USER	いえ、大丈夫です。	general,shopping,restaurant,taxi
+893	21	SYSTEM	承知致しました。　ありがとうございました。	general,shopping,restaurant,taxi

@@ -1,0 +1,11 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3136	0	USER	那覇に行こうと思います。本庁で買い物したいのですが。	general,shopping,weather
+3136	1	SYSTEM	かしこまりました。４６件候補がございますが、ほかにご希望の条件はございませんか？	general,shopping,weather
+3136	2	USER	駐車場が無料で、家電、電化製品が欲しいです。	general,shopping,weather
+3136	3	SYSTEM	そうしますと、YAMADA web.com 那覇本店はいかがでしょうか？おもろまち駅から徒歩で10分ほどのお店でございます。	general,shopping,weather
+3136	4	USER	ありがとうございます。営業時間教えて下さい。	general,shopping,weather
+3136	5	SYSTEM	はい。営業時間は、10:00～20:00となっております。	general,shopping,weather
+3136	6	USER	ありがとうございます。2/1の真和志の最高気温と最低気温教えて下さい。	general,shopping,weather
+3136	7	SYSTEM	はい。当日の最高気温は24.6度、最低気温は17度の予報です。	general,shopping,weather
+3136	8	USER	ありがとうございました。では、失礼します。	general,shopping,weather
+3136	9	SYSTEM	こちらこそ、ありがとうございました。	general,shopping,weather

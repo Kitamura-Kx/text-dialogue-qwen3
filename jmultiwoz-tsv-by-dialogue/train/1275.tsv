@@ -1,0 +1,6 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1275	0	USER	那覇で観光名所を探してください。首里地区のアートギャラリーはありますか？	general,attraction
+1275	1	SYSTEM	はい、1件ご案内可能です。首里琉染というところで、最寄り駅は首里駅でございます。	general,attraction
+1275	2	USER	定休日はいつですか？	general,attraction
+1275	3	SYSTEM	こちらは定休日はございません。	general,attraction
+1275	4	USER	分かりました。問い合わせは以上です。ありがとうございます！	general,attraction

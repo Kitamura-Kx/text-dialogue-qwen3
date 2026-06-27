@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3954	0	USER	京都へ旅行に行くのですが、鞍馬口駅近くの飲食店を探してください。	general,restaurant,shopping,weather
+3954	1	SYSTEM	かしこまりました。そうしますと、閑臥庵というお店が１件、ご案内可能です。いかがでしょうか？	general,restaurant,shopping,weather
+3954	2	USER	そのお店のジャンルと営業時間を教えてください。	general,restaurant,shopping,weather
+3954	3	SYSTEM	はい、ジャンルは和食のお店でございます。営業時間は、12:00～15:00と、17:00～21:00の２部に分かれております。	general,restaurant,shopping,weather
+3954	4	USER	ありがとうございます。あと買い物ができるところで、駐車場無料のところってありますか？	general,restaurant,shopping,weather
+3954	5	SYSTEM	はい、１１件ほどご案内可能です。他になにか、ご希望の条件はございませんか？	general,restaurant,shopping,weather
+3954	6	USER	旅行用品を買いたいと思っているのですが。	general,restaurant,shopping,weather
+3954	7	SYSTEM	申し訳ございません。その条件では、該当するところがありませんでした。	general,restaurant,shopping,weather
+3954	8	USER	では、旅行用品のお店でなくてもいいです。	general,restaurant,shopping,weather
+3954	9	SYSTEM	かしこまりました。では、伊藤常嵐山店はいかがでしょうか？こちらは、ジャンルがお土産, 文房具・雑貨のお店となります。	general,restaurant,shopping,weather
+3954	10	USER	そこのお店へ行くにはどこの駅が近いですか？所要時間も教えてください。	general,restaurant,shopping,weather
+3954	11	SYSTEM	最寄りは、嵐山駅でして、徒歩１分でアクセスできますよ。	general,restaurant,shopping,weather
+3954	12	USER	わかりました。最後に6/15の上京区の天気を教えてください。	general,restaurant,shopping,weather
+3954	13	SYSTEM	はい。当日の天気は、晴れの予報です。最低気温は16.1度、最高気温は31.1度の予想となっております。	general,restaurant,shopping,weather
+3954	14	USER	ありがとうございました。	general,restaurant,shopping,weather
+3954	15	SYSTEM	ほかに何かお調べすることはございませんか？	general,restaurant,shopping,weather
+3954	16	USER	いえ、大丈夫です。ありがとうございました。	general,restaurant,shopping,weather
+3954	17	SYSTEM	こちらこそ、本日はご利用ありがとうございました。	general,restaurant,shopping,weather

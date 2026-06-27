@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3934	0	USER	大阪への旅行を計画中で、レストラン付きの宿泊施設を探しています。予算は普通がいいです。	general,hotel
+3934	1	SYSTEM	そういたしますと、大阪マリオット都ホテルという、阿倍野区エリアにあるリゾートホテルはいかがでしょうか？	general,hotel
+3934	2	USER	そこにしようと思います。チェックイン開始時刻を教えてください。	general,hotel
+3934	3	SYSTEM	かしこまりました。チェックインは、15時からとなっております。	general,hotel
+3934	4	USER	助かります。ありがとうございます。	general,hotel
+3934	5	SYSTEM	他にお調べすることなどございませんか？	general,hotel
+3934	6	USER	いえ、大丈夫です。ありがとうございました。	general,hotel
+3934	7	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

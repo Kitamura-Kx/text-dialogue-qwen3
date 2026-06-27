@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1065	0	USER	札幌への旅行のために、泊まる場所を探しています。Wi-Fiも駐車場も無料の所ってありますか？	general,hotel,taxi,weather
+1065	1	SYSTEM	はい、6件ほどご案内可能です。エリアなど、ほかにご希望の条件はございませんか？	general,hotel,taxi,weather
+1065	2	USER	特にはありません。	general,hotel,taxi,weather
+1065	3	SYSTEM	では、ホテルルートイン札幌白石はいかがでしょうか？白石区エリアにあるお安めのビジネスホテルでございます。	general,hotel,taxi,weather
+1065	4	USER	ホテルルートイン札幌白石のチェックアウト時間は何時でしょうか？電話番号も知りたいです。	general,hotel,taxi,weather
+1065	5	SYSTEM	チェックアウトは10時までとなっております。電話番号は、0118732727でございます。	general,hotel,taxi,weather
+1065	6	USER	それでは8/1から4泊で、4人の予約をお願いします。	general,hotel,taxi,weather
+1065	7	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は、98451です。	general,hotel,taxi,weather
+1065	8	USER	その日はダイコク交通(株)のタクシーを利用したいのですが、電話番号は分かりますか？	general,hotel,taxi,weather
+1065	9	SYSTEM	はい。ダイコク交通(株)の電話番号は、0117416000でございます。	general,hotel,taxi,weather
+1065	10	USER	分かりました。ホテルルートイン札幌白石から乗車して、定山渓 鶴雅リゾートスパ 森の謌まで行く予定でタクシーの予約もお願いできますか？	general,hotel,taxi,weather
+1065	11	SYSTEM	かしこまりました。ご利用予定の日付と出発時刻もお決まりでしょうか？	general,hotel,taxi,weather
+1065	12	USER	はい。8/1で、出発時刻は13:00です。	general,hotel,taxi,weather
+1065	13	SYSTEM	かしこまりました。ご予約番号39744にて、承りました。	general,hotel,taxi,weather
+1065	14	USER	ありがとうございました。ちなみに手稲区の8/1の天気も分かりますか？	general,hotel,taxi,weather
+1065	15	SYSTEM	はい。当日の天気は、雨のち曇りの予報です。	general,hotel,taxi,weather
+1065	16	USER	ありがとうございます、これで以上です。	general,hotel,taxi,weather
+1065	17	SYSTEM	承知しました。もし他にご質問がないようでしたら、これで失礼いたします。本日はご利用ありがとうございました。	general,hotel,taxi,weather

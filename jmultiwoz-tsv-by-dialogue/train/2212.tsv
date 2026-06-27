@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2212	0	USER	大阪へ旅行に行くので、タクシー会社を探してください。	general,taxi
+2212	1	SYSTEM	承知しました。何かご希望はございますか？	general,taxi
+2212	2	USER	ジャンボタクシーを利用できるところにしてください。	general,taxi
+2212	3	SYSTEM	榮交通株式会社はいかがでしょう？キャッシュレスにも対応しております。電話番号は、0669624641となります。	general,taxi
+2212	4	USER	ではそちらでタクシーを予約してください。日付は1/8、時間は11:50、出発地は阪急百貨店うめだ本店、目的地はアンピールホテル大阪です。	general,taxi
+2212	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、97165となります。	general,taxi
+2212	6	USER	ありがとうございました。以上です。	general,taxi
+2212	7	SYSTEM	ありがとうございました。	general,taxi

@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+216	0	USER	すみません、札幌へ旅行の際の宿泊先を探しています。	general,hotel
+216	1	SYSTEM	ご利用ありがとうございます。札幌には80件の宿泊施設が見つかりましたが、他には何かご希望の条件はございますか？	general,hotel
+216	2	USER	無料でWi-Fiが利用できるシティホテルを探してもらえますか？	general,hotel
+216	3	SYSTEM	大変申し訳ございません。そのご希望条件ですと候補を見つけられませんでした。	general,hotel
+216	4	USER	では無料のWi-Fiが使えるリゾートホテルを探してもらえますか？	general,hotel
+216	5	SYSTEM	かしこまりました。3件ほどご案内できます。定山渓 鶴雅リゾートスパ 森の謌は、いかがでしょうか？	general,hotel
+216	6	USER	そこにしようと思います。近辺の駅からの所要時間を教えてください。	general,hotel
+216	7	SYSTEM	札幌駅からタクシーで27分ほどです。	general,hotel
+216	8	USER	あとホテルのチェックアウト終了時刻も教えてもらえますか？	general,hotel
+216	9	SYSTEM	はい。チェックアウト終了時刻は10時です。	general,hotel
+216	10	USER	ありがとうございます。	general,hotel
+216	11	SYSTEM	ほかにお手伝いできることはありますか？	general,hotel
+216	12	USER	いえ、もう大丈夫です。ありがとうございました。	general,hotel
+216	13	SYSTEM	ご利用ありがとうございました。またのご利用をお待ちしております。	general,hotel

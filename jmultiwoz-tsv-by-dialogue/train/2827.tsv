@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2827	0	USER	横浜へ行くのですが、宿泊施設を探しています。	general,hotel
+2827	1	SYSTEM	かしこまりました。エリアなど、何かご希望はございますか？	general,hotel
+2827	2	USER	エリアは特に希望はないです。ただレストランが併設されているところがいいです。	general,hotel
+2827	3	SYSTEM	では、横浜ベイホテル東急はいかがでしょうか？西区エリアにある、お安めのシティホテルでございます。	general,hotel
+2827	4	USER	いいですね。チェックアウト終了時刻と電話番号を教えてください。	general,hotel
+2827	5	SYSTEM	チェックアウトは11時までとなっております。電話番号は、0456822222です。	general,hotel
+2827	6	USER	では2/9から4泊で2人で予約お願いしたいです。	general,hotel
+2827	7	SYSTEM	大変申し訳ございません。その条件では予約できませんでした。いかがいたしましょうか？	general,hotel
+2827	8	USER	3泊だとどうですか？	general,hotel
+2827	9	SYSTEM	ありがとうございます。3泊にて、ご予約完了いたしました。予約番号は、32498です。	general,hotel
+2827	10	USER	ありがとうございます。	general,hotel
+2827	11	SYSTEM	他にお調べすることはございませんか？	general,hotel
+2827	12	USER	特にないです。	general,hotel
+2827	13	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,hotel

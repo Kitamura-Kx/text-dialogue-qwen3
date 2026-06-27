@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4559	0	USER	大阪へ旅行するのですが東成区の安宿を探しています。	general,hotel,weather
+4559	1	SYSTEM	大阪の宿泊施設ですね。　では、今里旅館はいかがですか？	general,hotel,weather
+4559	2	USER	そこの施設はどんなタイプになりますか？料金はどれくらいですか？	general,hotel,weather
+4559	3	SYSTEM	タイプは旅館です。　料金情報は、価格帯の安め以外に記載はありません。	general,hotel,weather
+4559	4	USER	それではそこを予約して下さい。4人で4/18で4泊です。	general,hotel,weather
+4559	5	SYSTEM	申し訳ありません。　その条件では、予約出来ませんでした。	general,hotel,weather
+4559	6	USER	それでは3人ならどうですか？	general,hotel,weather
+4559	7	SYSTEM	予約出来ました。予約番号は、56411です。	general,hotel,weather
+4559	8	USER	ありがとうございます！！ちなみに4月18日の此花区の最低気温と最高気温を教えて下さい。	general,hotel,weather
+4559	9	SYSTEM	最低気温は、6.4度で最高気温は、22.2度の予報となっています。	general,hotel,weather
+4559	10	USER	助かりました！以上です。ありがとうございました。	general,hotel,weather
+4559	11	SYSTEM	承知しました。ありがとうございました。	general,hotel,weather

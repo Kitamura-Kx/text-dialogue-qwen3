@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1084	0	USER	名古屋への旅行を計画しているのですが。	general,taxi
+1084	1	SYSTEM	はい。お問合せありがとうございます。	general,taxi
+1084	2	USER	当日利用できるタクシー会社を探してください．ジャンボタクシーとキャッシュレス払いできるところがいいです。	general,taxi
+1084	3	SYSTEM	伸和交通はいかがでしょうか。	general,taxi
+1084	4	USER	いいですね。そちらで予約お願いします。日付は7/22で時間は13:50。出発地はベッセルイン栄駅前というところで目的地はホテルウィングインターナショナルセレクト名古屋栄です。	general,taxi
+1084	5	SYSTEM	予約できました。予約番号は64247です。	general,taxi
+1084	6	USER	ありがとうございました。	general,taxi

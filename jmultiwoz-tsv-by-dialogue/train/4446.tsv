@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4446	0	USER	名古屋に旅行に行こうと思っています。当日は瑞穂区で予算が安めのビジネスホテルに泊まりたいです。	general,hotel,shopping,weather
+4446	1	SYSTEM	申し訳ございません。その条件ではお探しすることが出来ませんでした。	general,hotel,shopping,weather
+4446	2	USER	ではビジネスホテルにこだわらなくても大丈夫です。	general,hotel,shopping,weather
+4446	3	SYSTEM	かしこまりました。それでは魚鍵旅館がございます。	general,hotel,shopping,weather
+4446	4	USER	ありがとうございます。その旅館にレストランはありますか。	general,hotel,shopping,weather
+4446	5	SYSTEM	レストランはございません。	general,hotel,shopping,weather
+4446	6	USER	ありがとうございます。3/15に2人で4泊の予約をお願いします。	general,hotel,shopping,weather
+4446	7	SYSTEM	お待たせ致しました。予約番号36459でお取りさせていただきました。	general,hotel,shopping,weather
+4446	8	USER	ありがとうございます。覚王山アパートに買い物をしに行く予定なのですが、駐車場はあるでしょうか。	general,hotel,shopping,weather
+4446	9	SYSTEM	覚王山アパートには駐車場はございません。	general,hotel,shopping,weather
+4446	10	USER	分かりました。ありがとうございます。あと3/15の瑞穂区の天気と最低気温を教えてください。	general,hotel,shopping,weather
+4446	11	SYSTEM	はい、当日の瑞穂区の天気は雨時々曇、最低気温は1.9度の予報でございます。	general,hotel,shopping,weather
+4446	12	USER	ありがとうございます。これで大丈夫です。	general,hotel,shopping,weather
+4446	13	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel,shopping,weather

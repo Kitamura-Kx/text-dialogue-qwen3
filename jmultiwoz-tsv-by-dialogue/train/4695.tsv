@@ -1,0 +1,16 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4695	0	USER	名古屋へ旅行に行くのですが、安めでカフェやスイーツが食べれる店はないですかね。	general,restaurant,hotel,weather
+4695	1	SYSTEM	名古屋の安めでカフェやスイーツならば、ソロピッツァ ナポレターナ ダ ジェンナーロ 矢場店、こちらになります。	general,restaurant,hotel,weather
+4695	2	USER	いいですね。最寄り駅はわかります？	general,restaurant,hotel,weather
+4695	3	SYSTEM	矢場町駅です。	general,restaurant,hotel,weather
+4695	4	USER	わかりました。2人で12/28の14:40から予約をお願いします。	general,restaurant,hotel,weather
+4695	5	SYSTEM	予約成功しました。予約番号は73975です。	general,restaurant,hotel,weather
+4695	6	USER	ありがとうございます。当日泊まる簡易宿所も探しているのですが、Wi-Fiや駐車場が無料で利用できるようなところはありますか。	general,restaurant,hotel,weather
+4695	7	SYSTEM	名古屋には、WiFiと駐車場無料の簡易宿所はなさそうです。	general,restaurant,hotel,weather
+4695	8	USER	そうですか。ではWi-Fiはなくても問題ないです。	general,restaurant,hotel,weather
+4695	9	SYSTEM	WiFiを妥協すれば、Show和の宿つちや、こちらがヒットしました。	general,restaurant,hotel,weather
+4695	10	USER	そちらの値段帯と住所を教えてください。あと、レストランはありますかね。	general,restaurant,hotel,weather
+4695	11	SYSTEM	値段帯は普通、住所は愛知県名古屋市中村区道下町1丁目16-2、レストランは併設していません。	general,restaurant,hotel,weather
+4695	12	USER	わかりました。あと、12/28の緑区の最高気温も知りたいです。	general,restaurant,hotel,weather
+4695	13	SYSTEM	12/28 名古屋 緑区 の天気は曇時々晴、最低気温5.7度、最高気温11.1度です。	general,restaurant,hotel,weather
+4695	14	USER	ありがとうございました。	general,restaurant,hotel,weather

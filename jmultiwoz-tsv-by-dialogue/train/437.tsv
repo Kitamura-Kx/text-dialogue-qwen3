@@ -1,0 +1,12 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+437	0	USER	仙台へ行こうと思っています。青葉区にあって駐車場が無料で利用できてファッション系のお店を探していただきたいです。	general,shopping
+437	1	SYSTEM	申し訳ございません。その条件に当てはまるところがございませんでした。いかがなさいますか。	general,shopping
+437	2	USER	ではジャンルを問わず探していただけますか？	general,shopping
+437	3	SYSTEM	ではジャンルはショッピングモールになりますが、錦ケ丘ヒルサイドモールはいかがですか。	general,shopping
+437	4	USER	そちらの住所、最寄り駅、定休日を教えていただけますでしょうか。	general,shopping
+437	5	SYSTEM	住所は宮城県仙台市青葉区錦ヶ丘1丁目3-1で、定休日は無しでございます。	general,shopping
+437	6	USER	最寄り駅はどちらですか？	general,shopping
+437	7	SYSTEM	最寄り駅は仙台駅でございます。	general,shopping
+437	8	USER	わかりました。ありがとうございます。	general,shopping
+437	9	SYSTEM	ほかにご用件はございませんか。	general,shopping
+437	10	USER	いいえ、大丈夫です。ありがとうございました。	general,shopping

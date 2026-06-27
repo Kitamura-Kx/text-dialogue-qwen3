@@ -1,0 +1,22 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3869	0	USER	今度、福岡に行きます。中央区でレストランがある宿泊施設を教えて下さい。	general,hotel,restaurant,shopping
+3869	1	SYSTEM	かしこまりました。では、ソラリア西鉄ホテル福岡はいかがでしょうか。	general,hotel,restaurant,shopping
+3869	2	USER	そちらは無料Wi-Fiはありますか？	general,hotel,restaurant,shopping
+3869	3	SYSTEM	はい。無料のWi-Fiがご利用いただけます。	general,hotel,restaurant,shopping
+3869	4	USER	ありがとうございます。それでは、8月26日から4泊、2名で予約をお願いします。	general,hotel,restaurant,shopping
+3869	5	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は38742でございます。	general,hotel,restaurant,shopping
+3869	6	USER	ありがとうございます。その日に東区で和食のお店をで食事をしたいと考えています。無料Wi-Fiがあるお店を教えて下さい。	general,hotel,restaurant,shopping
+3869	7	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,hotel,restaurant,shopping
+3869	8	USER	そうですか。では、無料Wi-Fiは諦めます。	general,hotel,restaurant,shopping
+3869	9	SYSTEM	ではレストラン サラフルがございます。	general,hotel,restaurant,shopping
+3869	10	USER	ありがとうございます。営業時間と最寄り駅を教えて下さい。	general,hotel,restaurant,shopping
+3869	11	SYSTEM	営業時間は07:00～21:00でございます。最寄り駅は箱崎宮前駅でございます。	general,hotel,restaurant,shopping
+3869	12	USER	ありがとうございます。8月26日の午後1時30分に2名で予約できますか？	general,hotel,restaurant,shopping
+3869	13	SYSTEM	申し訳ございません。その条件では予約ができませんでした。いかがなさいますか。	general,hotel,restaurant,shopping
+3869	14	USER	それでは、午後2時だとどうですか？	general,hotel,restaurant,shopping
+3869	15	SYSTEM	その時間ですと予約が可能でございました。予約番号は89700でございます。	general,hotel,restaurant,shopping
+3869	16	USER	ありがとうございます。もう１つ、無料駐車場がある文房具や雑貨を取り扱っているお店を教えて下さい。	general,hotel,restaurant,shopping
+3869	17	SYSTEM	ポケモンセンターフクオカがございますがいかがでしょうか。	general,hotel,restaurant,shopping
+3869	18	USER	行ってみたいです。最寄り駅とエリアを教えて下さい。	general,hotel,restaurant,shopping
+3869	19	SYSTEM	最寄り駅は博多駅でエリアは博多区でございます。	general,hotel,restaurant,shopping
+3869	20	USER	ありがとうございました。助かりました。それでは失礼します。	general,hotel,restaurant,shopping

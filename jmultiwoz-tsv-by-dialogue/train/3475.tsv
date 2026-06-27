@@ -1,0 +1,15 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3475	0	USER	札幌に旅行に行こうと考えているのですが、北区に駐車場を無料で使える飲食店はありますか。	general,restaurant,shopping,weather
+3475	1	SYSTEM	かしこまりました。その条件ですと、しゃぶしゃぶ温野菜 北24条店はいかがでしょうか？	general,restaurant,shopping,weather
+3475	2	USER	そのお店のジャンルは何になりますか。	general,restaurant,shopping,weather
+3475	3	SYSTEM	ジャンルは鍋, 和食でございます。	general,restaurant,shopping,weather
+3475	4	USER	ありがとうございます。そこにします。12/27の13:30に人数2人で予約をお願いします。	general,restaurant,shopping,weather
+3475	5	SYSTEM	お待たせいたしました。それでは予約番号90970でお取りさせていただきました。	general,restaurant,shopping,weather
+3475	6	USER	ありがとうございます。あと買い物ができる場所も探しているのですが、白石区に食料品が買えて駐車場無料の場所はありますか。	general,restaurant,shopping,weather
+3475	7	SYSTEM	お待たせいたしました。どんぐり 本店がございます。	general,restaurant,shopping,weather
+3475	8	USER	ありがとうございます。そのお店の営業時間を教えてください。	general,restaurant,shopping,weather
+3475	9	SYSTEM	はい、営業時間は8時から20時でございます。	general,restaurant,shopping,weather
+3475	10	USER	ありがとうございます。12/27の白石区の最低、最高気温はどのくらいでしょうか。	general,restaurant,shopping,weather
+3475	11	SYSTEM	はい、当日の白石区は最低気温が-8.3度、最高気温は0.6度でございます。	general,restaurant,shopping,weather
+3475	12	USER	ありがとうございます。全て解決しました。	general,restaurant,shopping,weather
+3475	13	SYSTEM	ありがとうございました。またお待ちしております。	general,restaurant,shopping,weather

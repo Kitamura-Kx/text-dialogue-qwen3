@@ -1,0 +1,27 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+975	0	USER	札幌への旅行を検討していまして、当日の飲食店を探しているのですが、何処かありますでしょうか？	general,restaurant,shopping
+975	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,restaurant,shopping
+975	2	USER	そうですね。ラーメン・つけ麺のある、安めのお店を探しています。	general,restaurant,shopping
+975	3	SYSTEM	では三代目 月見軒 本店はいかがでしょうか。	general,restaurant,shopping
+975	4	USER	ちなみに、そのお店には無料の駐車場はありますか？	general,restaurant,shopping
+975	5	SYSTEM	はい。ございます。	general,restaurant,shopping
+975	6	USER	助かります。そのお店の住所ってわかりますか？	general,restaurant,shopping
+975	7	SYSTEM	住所は北海道札幌市白石区北郷3条12丁目7-34でございます。	general,restaurant,shopping
+975	8	USER	助かります。営業時間は何時から何時までですか？	general,restaurant,shopping
+975	9	SYSTEM	営業時間は11:00～21:00でございます。	general,restaurant,shopping
+975	10	USER	それと、Wi-Fiは利用できますかね？	general,restaurant,shopping
+975	11	SYSTEM	Wi-Fiの有無は不明でございます。	general,restaurant,shopping
+975	12	USER	ありがとうございます。このまま予約に移りたいのですが、よろしいでしょうか？	general,restaurant,shopping
+975	13	SYSTEM	では予約の詳細をお聞かせいただけますか。	general,restaurant,shopping
+975	14	USER	はい、日付は8月24日の09時40分で、人数は2人です。	general,restaurant,shopping
+975	15	SYSTEM	はい。予約が完了いたしました。予約番号は91894でございます。	general,restaurant,shopping
+975	16	USER	ありがとうございます。それと、当日無料駐車場のあるお店で買い物もしたいのですが、何処かありますかね？	general,restaurant,shopping
+975	17	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,restaurant,shopping
+975	18	USER	無料の駐車場以外は特に無いですね。	general,restaurant,shopping
+975	19	SYSTEM	ではアリオ札幌はいかがですか。	general,restaurant,shopping
+975	20	USER	そちらを検討してみます。ちなみに、その場所の、近辺の駅からの所要時間とかってわかりますかね？	general,restaurant,shopping
+975	21	SYSTEM	東区役所前駅から徒歩で15分、苗穂駅から徒歩で3分でございます。	general,restaurant,shopping
+975	22	USER	助かりました。ありがとうございました。	general,restaurant,shopping
+975	23	SYSTEM	ほかにご用件はございますか。	general,restaurant,shopping
+975	24	USER	大丈夫です。ありがとうございました。	general,restaurant,shopping
+975	25	SYSTEM	承知しました。ありがとうございました。	general,restaurant,shopping

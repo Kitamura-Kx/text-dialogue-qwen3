@@ -1,0 +1,5 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3909	0	USER	大阪への旅行を計画中で、北区にある観光名所を探しています。無料駐車場付きが良いです。	general,attraction
+3909	1	SYSTEM	承知しました。では、大阪天満宮はいかがでしょう？ジャンルは、歴史的な散策エリア、神社、寺院、教会、モニュメントなどとなります。	general,attraction
+3909	2	USER	そこにしようと思います。どうもありがとうございました。	general,attraction
+3909	3	SYSTEM	ありがとうございました。	general,attraction

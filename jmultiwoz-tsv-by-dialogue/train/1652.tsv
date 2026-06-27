@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1652	0	USER	京都に行きたいのですが、当日キャッシュレス払い可能なタクシーを使いたいと思っています。	general,taxi
+1652	1	SYSTEM	申し訳ありません、キャッシュレス対応のタクシー会社はございません。いかが致しましょう？	general,taxi
+1652	2	USER	じゃあ、キャッシュレス払いでなくても大丈夫です。	general,taxi
+1652	3	SYSTEM	では、京都観光バス株式会社はいかがでしょう？ジャンボタクシーには対応しております。電話番号は、0756920010となります。	general,taxi
+1652	4	USER	ありがとうございます。12/19の10:00に京都クリスタルホテルⅢから希味までお願いできますか？	general,taxi
+1652	5	SYSTEM	承知しました。予約が完了し、ご予約番号は、46193となります。他にご案内できることはございますか？	general,taxi
+1652	6	USER	大丈夫です。ありがとうございました。	general,taxi
+1652	7	SYSTEM	ありがとうございました。	general,taxi

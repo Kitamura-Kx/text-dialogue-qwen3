@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3085	0	USER	東京へ行くのですが、アウトドアな観光名所ありますか？	general,attraction,restaurant,weather
+3085	1	SYSTEM	東京でアウトドアジャンルの観光名所はなさそうです。	general,attraction,restaurant,weather
+3085	2	USER	では、アウトドアじゃなくてもいいです。	general,attraction,restaurant,weather
+3085	3	SYSTEM	東京の観光名所は５０件あります。追加の希望条件はありますか。	general,attraction,restaurant,weather
+3085	4	USER	お勧めでお願いします。	general,attraction,restaurant,weather
+3085	5	SYSTEM	それなら、世田谷の豪徳寺をおすすめします。	general,attraction,restaurant,weather
+3085	6	USER	駐車場ありますか？	general,attraction,restaurant,weather
+3085	7	SYSTEM	無料駐車場があります。	general,attraction,restaurant,weather
+3085	8	USER	営業時間教えて下さい。	general,attraction,restaurant,weather
+3085	9	SYSTEM	朝６時から夕方５時までです。	general,attraction,restaurant,weather
+3085	10	USER	分かりました。食事で焼肉屋に行きたいのですが、駐車場無料で、お店的には高めのところありますか？	general,attraction,restaurant,weather
+3085	11	SYSTEM	東京で駐車場無料、高めの焼肉ホルモンの店はなさそうです。	general,attraction,restaurant,weather
+3085	12	USER	では、予算は気にしません。	general,attraction,restaurant,weather
+3085	13	SYSTEM	駐車場無料の焼肉ならば、醍醐 お台場店、こちらになります。	general,attraction,restaurant,weather
+3085	14	USER	近くの駅と電話番号教えて下さい。	general,attraction,restaurant,weather
+3085	15	SYSTEM	最寄りはお台場海浜公園駅、電話番号は05031164263です。	general,attraction,restaurant,weather
+3085	16	USER	ありがとうございます。3/21の港区の最低気温と最高気温知りたいです。	general,attraction,restaurant,weather
+3085	17	SYSTEM	3/21 東京 港区 の天気は曇、最低気温10.1度、最高気温13.6度です。	general,attraction,restaurant,weather
+3085	18	USER	お世話様でした、では。	general,attraction,restaurant,weather
+3085	19	SYSTEM	よい旅を	general,attraction,restaurant,weather

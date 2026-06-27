@@ -1,0 +1,20 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+67	0	USER	京都に旅行に行くんですけど、憧れの嵐山駅周辺でいい名所を教えてください。	general,attraction,hotel,restaurant
+67	1	SYSTEM	京都の嵐山駅の近くですと、嵯峨野トロッコ列車をはじめ、4件ほどの観光地がございます。また、最寄り駅ですが、嵯峨嵐山駅とお間違えございませんでしょうか？	general,attraction,hotel,restaurant
+67	2	USER	嵐山駅で間違いないです。トロッコ列車聞いたことありますね。ジャンル的には何になるんですかね？	general,attraction,hotel,restaurant
+67	3	SYSTEM	はい、ジャンルといたしましては、絶景や橋、その他となっております。	general,attraction,hotel,restaurant
+67	4	USER	絶景、大好きです。駐車場はありますか？	general,attraction,hotel,restaurant
+67	5	SYSTEM	はい。こちらの駐車場は、有料でご利用いただけます。	general,attraction,hotel,restaurant
+67	6	USER	楽しみです。宿泊場所もお願いしたいんですけど、リゾートホテルで駐車場が無料のところはありませんか？	general,attraction,hotel,restaurant
+67	7	SYSTEM	京都のリゾートホテルをお探ししましたが、無料駐車場を完備している宿泊施設では、ご案内できるところがありませんでした。	general,attraction,hotel,restaurant
+67	8	USER	じゃあビジネスホテルでもいいです。どうですか？	general,attraction,hotel,restaurant
+67	9	SYSTEM	かしこまりました。ビジネスホテルですと、2件ございます。アパヴィラホテル〈京都駅前〉とダイワロイネットホテル京都テラス八条東口のうち、気になるものはございますでしょうか？	general,attraction,hotel,restaurant
+67	10	USER	アパヴィラホテルの方だと、Wifiはありますかね？　料金について分かることも教えてほしいんですけど。	general,attraction,hotel,restaurant
+67	11	SYSTEM	はい。アパヴィラホテル〈京都駅前〉は無料でWiFiをご利用いただけます。また、料金設定は、安めのビジネスホテルとなっております。	general,attraction,hotel,restaurant
+67	12	USER	うん、いいと思います。食事できる場所で、閑臥庵というところを人づてに聞いたんですけど、分かりますか？	general,attraction,hotel,restaurant
+67	13	SYSTEM	はい。京都の閑臥庵ですね。1件該当するお店が見つかりました。	general,attraction,hotel,restaurant
+67	14	USER	そこって駐車場ありますか？　電車で行くとしたら近い駅からの所要時間も知りたいんですけど。	general,attraction,hotel,restaurant
+67	15	SYSTEM	駐車場の有無につきましては、申し訳ございませんがご案内できる情報が手元にございません。電車でアクセスされる場合は、鞍馬口駅から徒歩で3分ほどの距離になります。	general,attraction,hotel,restaurant
+67	16	USER	わかりました。いろいろ調べてもらってありがとうございました。	general,attraction,hotel,restaurant
+67	17	SYSTEM	とんでもございません。ほかにお手伝いできることはありませんか？	general,attraction,hotel,restaurant
+67	18	USER	これで大丈夫です。お世話になりました。	general,attraction,hotel,restaurant

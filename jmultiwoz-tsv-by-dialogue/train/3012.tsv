@@ -1,0 +1,14 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3012	0	USER	大阪への旅行を計画しています。 当日訪れる観光名所を探してください。	general,attraction,shopping,weather
+3012	1	SYSTEM	はい、ご希望の条件をおきかせください。	general,attraction,shopping,weather
+3012	2	USER	地区は中央区、Wi-Fiが無料で利用できるところにしてください。	general,attraction,shopping,weather
+3012	3	SYSTEM	大阪中央区でWiFi無料の観光名所といえば、なんといっても、大阪城天守閣、こちらでしょう。	general,attraction,shopping,weather
+3012	4	USER	いいですね。定休日，営業時間，電話番号を教えてほしいです。	general,attraction,shopping,weather
+3012	5	SYSTEM	定休日は年末年始、営業時間は朝９時から夕方５時、電話番号は0669413044です。	general,attraction,shopping,weather
+3012	6	USER	当日買い物ができるところを探してください。ジャンルは書籍、駐車場を無料で利用できるところにしてください。	general,attraction,shopping,weather
+3012	7	SYSTEM	その条件ならば、MARUZEN&ジュンク堂書店 梅田店、こちらになります。	general,attraction,shopping,weather
+3012	8	USER	追加で最寄り駅，エリアを教えてください。	general,attraction,shopping,weather
+3012	9	SYSTEM	最寄りは梅田駅、エリアは北区になります。	general,attraction,shopping,weather
+3012	10	USER	あと、港区の1/14の最低気温，最高気温が知りたいです。	general,attraction,shopping,weather
+3012	11	SYSTEM	1/14 大阪 港区 の天気は曇のち晴、最低気温8.5度、最高気温15.2度です。	general,attraction,shopping,weather
+3012	12	USER	解決しました。ありがとうございました。	general,attraction,shopping,weather

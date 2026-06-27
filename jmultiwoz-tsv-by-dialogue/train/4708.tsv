@@ -1,0 +1,9 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4708	0	USER	名古屋の宿泊施設を探しています。予算は安めで、旅館でお願いいたします。	general,hotel,weather
+4708	1	SYSTEM	かしこまりました。そうしますと6件候補があるのですが、たとえば、瑞穂区エリアにある魚鍵旅館はいかがでしょうか？	general,hotel,weather
+4708	2	USER	そちらで結構です。近くの駅からの所要時間とWIFIの有無を教えていただけますか。	general,hotel,weather
+4708	3	SYSTEM	はい。最寄りの金山駅からタクシーで10分の距離にございます。WiFiは無料のものがご利用いただけます。	general,hotel,weather
+4708	4	USER	当日９月１３日の天白区の天気と最高気温を教えていただけますか。	general,hotel,weather
+4708	5	SYSTEM	かしこまりました。当日の天気は晴時々雨の予報です。最高気温は27.9度の予想となっております。	general,hotel,weather
+4708	6	USER	おききしたいことは以上です。ありがとうございました。	general,hotel,weather
+4708	7	SYSTEM	承知いたしました。本日はありがとうございました。またのご利用をお待ちしております。	general,hotel,weather

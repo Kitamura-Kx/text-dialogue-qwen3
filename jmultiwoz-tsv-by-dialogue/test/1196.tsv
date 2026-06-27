@@ -1,0 +1,8 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1196	0	USER	仙台で利用できるタクシー会社を探しています。キャッシュレス対応しているところがいいのですが？	general,taxi
+1196	1	SYSTEM	では、（有）振興タクシーはいかがでしょう？ジャンボタクシーにも対応しております。電話番号は0222841411となります。	general,taxi
+1196	2	USER	では、予約をお願いします。１２月３１日の１１時、喫茶と食事 みどり発、ときわ亭 国分町店着でおねがいします。	general,taxi
+1196	3	SYSTEM	申し訳ありません、その条件では予約ができません。いかが致しましょう？	general,taxi
+1196	4	USER	では、時間を５０分遅らせてみたらどうですか？	general,taxi
+1196	5	SYSTEM	はい、11時50分出発で予約が完了し、ご予約番号は、92651となります。	general,taxi
+1196	6	USER	ありがとうございました。では失礼します。	general,taxi

@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+4930	0	USER	那覇に旅行するので、現地のレストランを探してもらえますか？	general,restaurant,attraction
+4930	1	SYSTEM	かしこまりました。ご希望の条件はなにかございますか？	general,restaurant,attraction
+4930	2	USER	最寄り駅が小禄駅、駐車場が無料の和食のお店をお願いします。	general,restaurant,attraction
+4930	3	SYSTEM	かしこまりました。そうしますと、２件ご案内できます。たとえば蕎麦ダイニング 赤坂というお店はいかがでしょうか？	general,restaurant,attraction
+4930	4	USER	そこにします。Wi-Fiがあるかと、近くの駅からの所要時間を教えてください。	general,restaurant,attraction
+4930	5	SYSTEM	申し訳ございません。こちらはWiFiのご提供は不明となっております。最寄りの小禄駅からは、徒歩で3分でアクセスできます。	general,restaurant,attraction
+4930	6	USER	わかりました。あと、エリアはどこになりますか？	general,restaurant,attraction
+4930	7	SYSTEM	はい、小禄エリアにあるお店です。	general,restaurant,attraction
+4930	8	USER	では、そこで5月26日、14時40分から4人で予約して欲しいです。	general,restaurant,attraction
+4930	9	SYSTEM	ありがとうございます。ご予約完了いたしました。予約番号は、59275です。	general,restaurant,attraction
+4930	10	USER	ありがとうございます。それと、観光名所も教えてもらえますか？	general,restaurant,attraction
+4930	11	SYSTEM	かしこまりました。ご希望の条件は何かございますか？	general,restaurant,attraction
+4930	12	USER	駐車場が無料のところが良いです。	general,restaurant,attraction
+4930	13	SYSTEM	では、不屈館という美術館・博物館の観光名所はいかがでしょうか？	general,restaurant,attraction
+4930	14	USER	そこにします。大人の入場料金を教えてください。	general,restaurant,attraction
+4930	15	SYSTEM	大人入場料は、500円です。	general,restaurant,attraction
+4930	16	USER	以上です。ありがとうございました。	general,restaurant,attraction
+4930	17	SYSTEM	承知いたしました。本日はご利用ありがとうございました。	general,restaurant,attraction

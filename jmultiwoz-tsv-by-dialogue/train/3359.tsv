@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3359	0	USER	札幌への旅行を計画中で、キャッシュレス払いできるジャンボタクシーを探しています。	general,taxi
+3359	1	SYSTEM	申し訳ございません。検索結果がございません。	general,taxi
+3359	2	USER	分かりました。では、キャッシュレス対応でなくても構いません。	general,taxi
+3359	3	SYSTEM	朝日交通(株) ライラック交通(株)など、6件ご紹介できます	general,taxi
+3359	4	USER	ライラック交通(株)にしようと思います。10/24の09:50に平岡公園から札幌もいわ山ロープウェイまで予約して欲しいのですが、可能でしょうか。	general,taxi
+3359	5	SYSTEM	かしこまりました。ご予約完了しております。予約番号は１４４３２です。	general,taxi
+3359	6	USER	ありがとうございます。助かります。	general,taxi
+3359	7	SYSTEM	ありがとうございます。	general,taxi
+3359	8	USER	では、失礼します。	general,taxi

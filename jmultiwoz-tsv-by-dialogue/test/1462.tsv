@@ -1,0 +1,19 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+1462	0	USER	大阪へ旅行に行くんですが、買い物ができるところを探してください。	general,shopping,hotel,weather
+1462	1	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,hotel,weather
+1462	2	USER	浪速区で駐車場が無料のところがいいです！あとは最寄り駅が鶴橋駅のところが希望です！	general,shopping,hotel,weather
+1462	3	SYSTEM	申し訳ございません。その条件で案内できるところがございませんでした。いかがなさいますか。	general,shopping,hotel,weather
+1462	4	USER	では最寄り駅の希望は無くしてください。	general,shopping,hotel,weather
+1462	5	SYSTEM	では大阪木津卸売市場はいかがでしょうか。	general,shopping,hotel,weather
+1462	6	USER	いいですね！近辺の駅からの所要時間は分かりますか？	general,shopping,hotel,weather
+1462	7	SYSTEM	大国町駅から徒歩で3分、難波駅から徒歩で15分、今宮戎駅から徒歩で5分でございます。	general,shopping,hotel,weather
+1462	8	USER	ありがとうございます。宿泊施設も探してほしいです！	general,shopping,hotel,weather
+1462	9	SYSTEM	かしこまりました。ご希望の条件はございますか。	general,shopping,hotel,weather
+1462	10	USER	旅館で駐車場無料のところがいいです！	general,shopping,hotel,weather
+1462	11	SYSTEM	ではビジネス旅館 励明園はいかがでしょうか。	general,shopping,hotel,weather
+1462	12	USER	値段帯と近辺の駅からの所要時間は分かりますか？	general,shopping,hotel,weather
+1462	13	SYSTEM	値段帯は安めでございます。大阪港駅から徒歩で3分となっております。	general,shopping,hotel,weather
+1462	14	USER	ありがとうございます。11/13の生野区の気温についても教えてください。	general,shopping,hotel,weather
+1462	15	SYSTEM	最低気温が9.2度、最高気温が22.3度でございます。	general,shopping,hotel,weather
+1462	16	USER	ありがとうございます。大変助かりました！	general,shopping,hotel,weather
+1462	17	SYSTEM	承知しました。ありがとうございました。	general,shopping,hotel,weather

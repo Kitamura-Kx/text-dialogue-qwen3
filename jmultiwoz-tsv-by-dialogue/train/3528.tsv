@@ -1,0 +1,21 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3528	0	USER	東京へ行くのですが、港区で観光名所を探しています。	general,attraction,restaurant,taxi
+3528	1	SYSTEM	かしこまりました。ほかにご希望の条件はございますか。	general,attraction,restaurant,taxi
+3528	2	USER	特にありません。	general,attraction,restaurant,taxi
+3528	3	SYSTEM	では根津美術館はいかがでしょうか。	general,attraction,restaurant,taxi
+3528	4	USER	いいですね。近辺の駅からの所要時間を教えてください。	general,attraction,restaurant,taxi
+3528	5	SYSTEM	はい。表参道駅から徒歩で8分でございます。	general,attraction,restaurant,taxi
+3528	6	USER	あと飲食店を探しています。Wi-Fiが無料のところがいいです。	general,attraction,restaurant,taxi
+3528	7	SYSTEM	ではバルバッコア 六本木ヒルズ店はいかがですか。	general,attraction,restaurant,taxi
+3528	8	USER	いいですね。料金情報を教えてもらえませんか？	general,attraction,restaurant,taxi
+3528	9	SYSTEM	シュラスコが6600円、カイピリーニャが990円、ピッカーニャ（イチボ）ステーキランチが2700円となっております。	general,attraction,restaurant,taxi
+3528	10	USER	ありがとうございます。実はキャッシュレス払いできるタクシーも探しているんです。	general,attraction,restaurant,taxi
+3528	11	SYSTEM	京王自動車 多摩北がございます。	general,attraction,restaurant,taxi
+3528	12	USER	電話番号を教えてください。	general,attraction,restaurant,taxi
+3528	13	SYSTEM	電話番号は0336436881でございます。	general,attraction,restaurant,taxi
+3528	14	USER	では11/29、15:50に根津美術館からバルバッコア 六本木ヒルズ店まで予約お願いします。	general,attraction,restaurant,taxi
+3528	15	SYSTEM	かしこまりました。予約が完了いたしました。予約番号は15871でございます。	general,attraction,restaurant,taxi
+3528	16	USER	ありがとうございます。	general,attraction,restaurant,taxi
+3528	17	SYSTEM	ほかにご用件はございませんか。	general,attraction,restaurant,taxi
+3528	18	USER	特にございません。	general,attraction,restaurant,taxi
+3528	19	SYSTEM	承知しました。ありがとうございました。	general,attraction,restaurant,taxi

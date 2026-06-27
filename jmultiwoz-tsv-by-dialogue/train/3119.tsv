@@ -1,0 +1,23 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3119	0	USER	名古屋に旅行に行くので、予算が高めでWi-Fiが無料の宿泊施設を探してもらえますか？	general,hotel,restaurant,shopping
+3119	1	SYSTEM	かしこまりました。2件ほど候補がございます。たとえば、中区エリアにあるスタンザベルデ名古屋、というところはいかがでしょうか？	general,hotel,restaurant,shopping
+3119	2	USER	チェックイン開始時刻と最寄り駅をおしえてもらえますか？	general,hotel,restaurant,shopping
+3119	3	SYSTEM	かしこまりました。チェックインは15時からとなっております。最寄りは、矢場町駅で徒歩で1分でアクセス可能です。	general,hotel,restaurant,shopping
+3119	4	USER	わかりました。4/21に3名で3泊予約してもらえますか？	general,hotel,restaurant,shopping
+3119	5	SYSTEM	大変申し訳ございません。ご希望の条件では予約を入れることができませんでした。いかがいたしましょう？	general,hotel,restaurant,shopping
+3119	6	USER	じゃあ二人だったらどうでしょうか？	general,hotel,restaurant,shopping
+3119	7	SYSTEM	ありがとうございます。2名様にて、ご予約完了いたしました。予約番号は、17883でございます。	general,hotel,restaurant,shopping
+3119	8	USER	あと瑞穂区で最寄り駅が車道駅でお安めの飲食店を探しています。ありますかね？	general,hotel,restaurant,shopping
+3119	9	SYSTEM	大変申し訳ございません。その条件ですと、ご案内できるところが見つかりませんでした。	general,hotel,restaurant,shopping
+3119	10	USER	そしたら地区は考慮しなくて大丈夫です	general,hotel,restaurant,shopping
+3119	11	SYSTEM	ありがとうございます。そういたしますと、アリアナレストランはいかがでしょうか？ジャンルとしては、カレー, アジア・エスニック料理のお店となります。	general,hotel,restaurant,shopping
+3119	12	USER	近辺の駅からの所要時間はどれくらいですか？	general,hotel,restaurant,shopping
+3119	13	SYSTEM	車道駅から徒歩で5分ほどかかります。	general,hotel,restaurant,shopping
+3119	14	USER	わかりました！あと守山区で買い物できる場所はありますか？	general,hotel,restaurant,shopping
+3119	15	SYSTEM	はい、1件ご案内可能です。草叢BOOKS 新守山店という書籍ジャンルのお店ですが、いかがでしょうか？	general,hotel,restaurant,shopping
+3119	16	USER	近辺の駅からの所要時間と電話番号を教えてください！	general,hotel,restaurant,shopping
+3119	17	SYSTEM	駅からの所要時間は、新守山駅から徒歩で5分です。電話番号は、052791 5152です。	general,hotel,restaurant,shopping
+3119	18	USER	わかりました。どうもありがとうございました	general,hotel,restaurant,shopping
+3119	19	SYSTEM	他にお調べすることはございませんか？	general,hotel,restaurant,shopping
+3119	20	USER	大丈夫です。ありがとうございました	general,hotel,restaurant,shopping
+3119	21	SYSTEM	承知いたしました。こちらこそ、本日はご利用ありがとうございました。	general,hotel,restaurant,shopping

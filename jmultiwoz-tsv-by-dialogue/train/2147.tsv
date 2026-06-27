@@ -1,0 +1,10 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+2147	0	USER	仙台で文房具や雑貨の買い物ができるところを教えてもらえませんか？	general,shopping,restaurant
+2147	1	SYSTEM	仙台で文具や雑貨の買い物ができるところは１８件あります。他に追加の希望はありますか？	general,shopping,restaurant
+2147	2	USER	特にないので、見つくろって一つ教えてください。合わせて住所やエリア、営業時間も聞いておきたいのですが？	general,shopping,restaurant
+2147	3	SYSTEM	ポケモンセンタートウホクをおすすめします。青葉区エリアで宮城県仙台市青葉区中央1丁目2-3 仙台PARCO8階になります。営業時間は朝１０時から夜８時までですね。	general,shopping,restaurant
+2147	4	USER	ついでに飲食店も教えてください。予算は普通で、Wi-Fiと駐車場が無料の所がいいんですが。	general,shopping,restaurant
+2147	5	SYSTEM	仙台で予算普通、WiFi駐車場無料の飲食店は１０件ヒットします。	general,shopping,restaurant
+2147	6	USER	どこかおすすめの店をお願いします。合わせて近くの駅からの所要時間を教えてください。	general,shopping,restaurant
+2147	7	SYSTEM	仙台なので、たんや善治郎 タピオ店をお勧めします。泉中央駅からタクシーで12分程度ですね。	general,shopping,restaurant
+2147	8	USER	牛タンかあ、楽しみです。ありがとうございました。	general,shopping,restaurant

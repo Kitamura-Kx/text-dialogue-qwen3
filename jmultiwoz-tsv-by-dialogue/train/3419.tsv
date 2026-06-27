@@ -1,0 +1,13 @@
+dialogue_id	turn_id	speaker	utterance	goal_domains
+3419	0	USER	横浜での宿泊施設を探しています。	general,hotel
+3419	1	SYSTEM	ありがとうございます。横浜の宿泊施設ですと、81件ほどございますが、何かご希望はありますか？	general,hotel
+3419	2	USER	最寄り駅がみなとみらい駅で、Wi-Fiが無料で利用できるところがいいです。予算は普通が希望です。	general,hotel
+3419	3	SYSTEM	お待たせ致しました。それでは、横浜みなとみらい 万葉倶楽部はいかがでしょうか？	general,hotel
+3419	4	USER	ありがとうございます。そちらの駐車場の有無と、エリアを教えてください。	general,hotel
+3419	5	SYSTEM	はい、駐車場は有料ですが、あります。そして、エリアは中区でございます。	general,hotel
+3419	6	USER	ありがとうございます。では、そちらの予約をお願いできますか？6/9で３名、３泊でお願いしたいです。	general,hotel
+3419	7	SYSTEM	申し訳ありません。その条件ではご予約することが出来ませんでした。	general,hotel
+3419	8	USER	では、２泊にしてください。	general,hotel
+3419	9	SYSTEM	お待たせ致しました。それでは、予約番号72795でお取りさせていただきました。	general,hotel
+3419	10	USER	ありがとうございます。以上です、お世話になりました。	general,hotel
+3419	11	SYSTEM	ありがとうございました。またお待ちしております。	general,hotel
