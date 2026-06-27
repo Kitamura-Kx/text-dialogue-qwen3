@@ -21,11 +21,52 @@ There are two supported dataset workflows:
 The expected workspace path on the current machine is:
 
 ```text
-/mnt/kiso-qnap5/kitamura/projects/text-dialogue-qwen3
+/home/aci18685rk/llm-jp-moshi-v1.1/text-dialogue-qwen3
 ```
 
 Run project commands from this directory unless a command explicitly says
 otherwise.
+
+## Text-dialogue topic output plan
+
+The topic-domain text-dialogue outputs for the current experiment live under:
+
+```text
+/home/aci18685rk/llm-jp-moshi-v1.1/text-dialogue-qwen3/outputs
+```
+
+Use `Txx_...` prefixes so directory listings stay in topic order. The current
+train allocation is:
+
+| Topic | Domain | train dialogues | train hours | Output directory |
+| --- | --- | ---: | ---: | --- |
+| T01 | 趣味・余暇・食事 | 3900 | 65 h | `outputs/T01_hobby_leisure_food/` |
+| T02 | 暮らし・物価・節約・家事 | 3900 | 65 h | `outputs/T02_living_prices_saving_housework/` |
+| T03 | 健康・美容 | 1200 | 20 h | `outputs/T03_health_beauty/` |
+| T04 | 冠婚葬祭・マナー・家族行事 | 1200 | 20 h | `outputs/T04_ceremonies_manners_family_events/` |
+| T05 | 恋愛・結婚・人間関係 | 2400 | 40 h | `outputs/T05_love_marriage_relationships/` |
+| T06 | 学校・学生時代・教育 | 2400 | 40 h | `outputs/T06_school_student_days_education/` |
+| T07 | インターネット・サブスク・ネットショッピング | 1200 | 20 h | `outputs/T07_internet_subscriptions_online_shopping/` |
+| T08 | 家電・スマートウォッチ・生活アプリ | 1800 | 30 h | `outputs/T08_appliances_smartwatch_life_apps/` |
+| T09 | テクノロジー・AI・VR・デジタル依存 | 1800 | 30 h | `outputs/T09_technology_ai_vr_digital_dependence/` |
+| T10 | 教科・勉強・大学・学び | 2400 | 40 h | `outputs/T10_subjects_study_university_learning/` |
+| T11 | お金・投資・ふるさと納税・老後資金 | 2400 | 40 h | `outputs/T11_money_investment_hometown_tax_retirement/` |
+| T12 | ニュース・政治・災害・社会情勢 | 1800 | 30 h | `outputs/T12_news_politics_disasters_society/` |
+| T13 | 職業・仕事・キャリア・子どもの頃の夢 | 1800 | 30 h | `outputs/T13_jobs_work_career_childhood_dreams/` |
+| T14 | アウトドア・スポーツ・運動 | 3000 | 50 h | `outputs/T14_outdoor_sports_exercise/` |
+| T15 | 旅行・温泉・お出かけ | 3000 | 50 h | `outputs/T15_travel/` |
+
+Totals: 34,200 train dialogues and 570 train hours.
+
+The `train dialogues` and `train hours` values are minimum targets. For each
+topic domain, treat the listed value as the lower bound that must be satisfied;
+generating more than the listed amount is desired when feasible.
+
+Treat the existing random travel workflow as the T15 implementation baseline.
+For other topics, keep the same JSON dialogue format and validation rules, but
+change both the prompt topic domain and the output directory to the matching
+T-numbered directory above. Do not write new topic-domain production outputs
+directly into the top-level `outputs/` directory.
 
 ## Current machine assumptions
 
@@ -108,7 +149,7 @@ environment under `/tmp` and keep only the model cache in the project.
 Create or refresh the local CUDA 12.8 environment:
 
 ```bash
-cd /mnt/kiso-qnap5/kitamura/projects/text-dialogue-qwen3
+cd /home/aci18685rk/llm-jp-moshi-v1.1/text-dialogue-qwen3
 bash scripts/setup_local.sh
 ```
 
@@ -137,7 +178,7 @@ Expected major values are PyTorch `2.8.0+cu128`, CUDA `12.8`, and
 The production launcher exports:
 
 ```text
-HF_HOME=/mnt/kiso-qnap5/kitamura/projects/text-dialogue-qwen3/.hf-cache
+HF_HOME=/home/aci18685rk/llm-jp-moshi-v1.1/text-dialogue-qwen3/.hf-cache
 ```
 
 The batch generator calls `from_pretrained(..., local_files_only=True)`. Once
@@ -189,7 +230,7 @@ tmux attach -d -t qwen5000
 Inside tmux, run:
 
 ```bash
-cd /mnt/kiso-qnap5/kitamura/projects/text-dialogue-qwen3
+cd /home/aci18685rk/llm-jp-moshi-v1.1/text-dialogue-qwen3
 bash scripts/generate_random_travel_json_5000.sh
 ```
 
@@ -276,7 +317,7 @@ The first turn must be exactly:
 Run the rewrite workflow:
 
 ```bash
-cd /mnt/kiso-qnap5/kitamura/projects/text-dialogue-qwen3
+cd /home/aci18685rk/llm-jp-moshi-v1.1/text-dialogue-qwen3
 bash scripts/rewrite_jmultiwoz_tsv_to_json.sh
 ```
 

@@ -1,13 +1,50 @@
 # text-dialogue-qwen3
 Qwen3-30B-A3B-Instruct-2507を用いて、音声合成に用いる二話者の日本語のテキスト対話を生成するディレクトリです。  
-デフォルトの話題ドメインは旅行・温泉・観光になっています。プロンプトで調整してください。
+現在の配置は `/home/aci18685rk/llm-jp-moshi-v1.1/text-dialogue-qwen3` です。
+
+## テキスト対話の出力先
+
+話題ドメイン別のテキスト対話出力先は、次のディレクトリ配下です。
+
+```text
+/home/aci18685rk/llm-jp-moshi-v1.1/text-dialogue-qwen3/outputs
+```
+
+T番号順に並ぶように、各話題ドメインの出力ディレクトリ名は `Txx_...` 形式にします。
+
+| Topic | 話題ドメイン | train 話数 | train 時間 | 出力ディレクトリ |
+| --- | --- | ---: | ---: | --- |
+| T01 | 趣味・余暇・食事 | 3900 | 65 h | `outputs/T01_hobby_leisure_food/` |
+| T02 | 暮らし・物価・節約・家事 | 3900 | 65 h | `outputs/T02_living_prices_saving_housework/` |
+| T03 | 健康・美容 | 1200 | 20 h | `outputs/T03_health_beauty/` |
+| T04 | 冠婚葬祭・マナー・家族行事 | 1200 | 20 h | `outputs/T04_ceremonies_manners_family_events/` |
+| T05 | 恋愛・結婚・人間関係 | 2400 | 40 h | `outputs/T05_love_marriage_relationships/` |
+| T06 | 学校・学生時代・教育 | 2400 | 40 h | `outputs/T06_school_student_days_education/` |
+| T07 | インターネット・サブスク・ネットショッピング | 1200 | 20 h | `outputs/T07_internet_subscriptions_online_shopping/` |
+| T08 | 家電・スマートウォッチ・生活アプリ | 1800 | 30 h | `outputs/T08_appliances_smartwatch_life_apps/` |
+| T09 | テクノロジー・AI・VR・デジタル依存 | 1800 | 30 h | `outputs/T09_technology_ai_vr_digital_dependence/` |
+| T10 | 教科・勉強・大学・学び | 2400 | 40 h | `outputs/T10_subjects_study_university_learning/` |
+| T11 | お金・投資・ふるさと納税・老後資金 | 2400 | 40 h | `outputs/T11_money_investment_hometown_tax_retirement/` |
+| T12 | ニュース・政治・災害・社会情勢 | 1800 | 30 h | `outputs/T12_news_politics_disasters_society/` |
+| T13 | 職業・仕事・キャリア・子どもの頃の夢 | 1800 | 30 h | `outputs/T13_jobs_work_career_childhood_dreams/` |
+| T14 | アウトドア・スポーツ・運動 | 3000 | 50 h | `outputs/T14_outdoor_sports_exercise/` |
+| T15 | 旅行・温泉・お出かけ | 3000 | 50 h | `outputs/T15_travel/` |
+
+合計設定:
+
+- train 話数: 34,200
+- train 時間: 570 h
+
+ここに記載した `train 話数` と `train 時間` は最低限の目標値です。各話題ドメインでは、この数を下限として必ず満たすことを目指し、可能であれば上回る量を生成します。
+
+既存の旅行用スクリプトやプロンプトは T15 の初期実装として扱います。他の話題ドメインを生成する場合は、対応する出力ディレクトリを指定し、プロンプトの話題ドメインも表に合わせて調整してください。
 
 公式モデルカードでは、このモデルは `qwen3_moe` アーキテクチャなので `transformers>=4.51.0` が必要です。ローカルで OpenAI 互換 API として配信する場合は `vllm>=0.8.5` または `sglang>=0.4.6.post1` が案内されています。30.5B total / 3.3B activated の MoE モデルなので、NVIDIA RTX PRO 6000 Blackwell 96GB のような大きめの単一 GPU では vLLM サーバ経由がおすすめです。
 
 ## セットアップ
 
 ```bash
-cd /mnt/kiso-qnap5/kitamura/projects/text-dialogue-qwen3
+cd /home/aci18685rk/llm-jp-moshi-v1.1/text-dialogue-qwen3
 UV_CACHE_DIR=/tmp/text-dialogue-qwen3-uv-cache UV_LINK_MODE=copy uv sync
 ```
 
@@ -28,7 +65,7 @@ bash scripts/setup_vllm.sh
 GPU が使える環境で起動します。`scripts/serve_vllm.sh` は RTX PRO 6000 Blackwell 96GB を想定して、既定で `MAX_MODEL_LEN=65536`, `GPU_MEMORY_UTILIZATION=0.92`, `MAX_NUM_SEQS=4`, `DTYPE=bfloat16` にしています。複数ファイルの生成時はvLLMの連続バッチ処理で最大4リクエストを並行処理します。
 
 ```bash
-cd /mnt/kiso-qnap5/kitamura/projects/text-dialogue-qwen3
+cd /home/aci18685rk/llm-jp-moshi-v1.1/text-dialogue-qwen3
 bash scripts/serve_vllm.sh
 ```
 
@@ -156,4 +193,3 @@ BATCH_SIZE=2 bash scripts/generate_random_travel_json_5000.sh
 このリポジトリはモデル重みを含みません。初回実行時に Hugging Face からモデルがダウンロードされます。必要に応じて `HF_TOKEN` を設定してください。
 
 NAS 上で `.venv/.lock` の permission warning が出る場合があるため、上の例では `UV_CACHE_DIR` と `UV_LINK_MODE=copy` を指定しています。warning が出ても `python -m ...` の実行が成功していれば問題ありません。
-
